@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623214243id_/http%3A//www.milanoo.com/help/index-id-72-childcat-40.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230140304id_/http%3A//www.milanoo.com/help/index-id-72-childcat-40.html) for the most accurate reproduction.*
 
 # Contact Us Contact Us Via Live Online Supporting Tools Contact Us By Regular Mail Contact Us By Telephone or Fax Contact Us By E-mail - Milanoo.com
 
