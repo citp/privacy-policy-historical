@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629105319id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230210928id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies | BrandAlley
 
@@ -102,7 +102,7 @@ You may choose to restrict the collection or use of your personal information in
 
  We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: **BrandAlley,  ** **136-142 Bramley Road, London W10 6SR**.
+You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: **BrandAlley,  2nd Floor, 120 Moorgate, London, EC2M 6UR**.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -114,7 +114,7 @@ You may also exercise your right to opt out of the use of your information being
 
 ### Credit checks
 
-If you apply for credit then? to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors. 
+If you apply for credit to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors. 
 
 ### Updating or deleting your personal information
 
