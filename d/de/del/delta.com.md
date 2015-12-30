@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the delta.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626100615id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delta.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044712id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
 
-# Cookies, Privacy & Security | Delta Air Lines
+# Cookies, Privacy & Security : Delta Air Lines
 
 Delta uses cookies, tags, and other similar technologies. These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number and facilitate effective site administration. We use the information we collect to enhance your visit to delta.com and to provide you with information tailored to your needs.
 
