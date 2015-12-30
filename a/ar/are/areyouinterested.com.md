@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areyouinterested.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085011id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouinterested.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231932id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
 
 # SNAP Interactive Inc. | Privacy Policy
 
@@ -49,7 +49,7 @@ Our goal is to collect and use only that information that we believe is required
 
 **_Affiliate Advertising Tracking Tools_**. We may use third-party ad networks that use tracking technology to collect information about you when you access our Services to send you targeted AYI advertisements. They automatically receive your IP address or mobile device identifier when this happens. They may also use tracking technologies to measure the effectiveness of AYI advertisements, to personalize advertising content, and to serve you AYI advertisements that are relevant to your regional location. We may also use information collected using third party cookies and beacons on our Services and in our emails to deliver advertising about our Services displayed to you on third party services. We and our third party vendors may also use the information collected to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Services. To learn about our advertising analytics providers’ currently available privacy policies and opt out options, please click here. Keep in mind that certain features of our Services are available only through the use of tracking technologies.
 
-**_Interest-based Advertising_**. This Privacy Policy does not apply to, and we cannot control the activities of any ad servers or ad networks such as Google that we may allow to place interest-based advertising on our Services. However, you may opt-out of some third party vendors’ use of such cookies by visiting [about.ads.info](http://www.youradchoices.com/) which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads on our Services you may continue to receive advertising and promotional messages after you opt-out, but it will not be customized or personalized to you based on your use of our Services. If you would like more information about the use of tracking technologies and about your option not to accept cookies used to track your activities you can go to [www.networkadvertising.org](http://www.networkadvertising.org/).
+**_Interest-based Advertising_**. This Privacy Policy does not apply to, and we cannot control the activities of any ad servers or ad networks such as Google that we may allow to place interest-based advertising on our Services. However, you may opt-out of some third party vendors’ use of such cookies by visiting [about.ads.info](http://www.youradchoices.com/) which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads on our Services you may continue to receive advertising and promotional messages after you opt-out, but it will not be customized or personalized to you based on your use of our Services. If you would like more information about the use of tracking technologies and about your option not to accept cookies used to track your activities you can visit the Network Advertising Initiative (“NAI”) website at [www.networkadvertising.org](http://www.networkadvertising.org/). The NAI is a cooperative of online advertising companies who are committed to responsible, practices and consumer protection.
 
   
 **III. HOW WE USE AND SHARE YOUR INFORMATION**
@@ -112,9 +112,9 @@ For data collection practices via cookies placed by third party advertisers on a
 You may also send us such requests to the following address:  
 Snap Interactive, Inc.  
 c/o Customer Service  
-244 5th Street  
-Suite D269  
-New, York, NY 10001
+320 W. 37th Street  
+13th floor  
+New, York, NY 10018
 
 **VI. IMPORTANT DISCLOSURES**
 
@@ -141,9 +141,9 @@ If you have any questions about this Privacy Policy, or the practices of Snap, p
 
 Snap Interactive, Inc.  
 c/o Customer Service  
-244 5th Street  
-Suite D269  
-New, York, NY 10001
+320 W. 37th Street  
+13th floor  
+New, York, NY 10018
 
 **Copyright © 2015 Snap Interactive, Inc. All rights reserved.** ** **  
 
