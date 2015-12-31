@@ -1,80 +1,57 @@
-> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316175031id_/http%3A//yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231112724id_/http%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy - , - Your Life Moments
+# Privacy Statement | Postmedia Integrated Advertising
 
-Welcome to [www.yourlifemoments.ca](http://www.yourlifemoments.ca/) (the "Site"). 
+**[Version Française](http://www.postmediaadvertising.com/enonce-relatif-a-la-protection-des-renseignements-personnels/)**
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Sun Media LP (collectively, "Services") ("Authorized Customers").
+Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. (“ **Postmedia** ”, “ **we** ” or “ **us** ”) is committed to protecting your privacy and safeguarding your personal information. The Postmedia Privacy Policy (available [**here**](http://www.postmedia.com/wp-content/uploads/2014/09/Postmedia-Privacy-Policy-Final.pdf)) and this Privacy Statement (collectively, the “ **Privacy Policy** ”) describe how we may collect, use and disclose personal information. The Privacy Policy applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes.
 
-"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+By submitting your personal information, subscribing to our services or products or using our websites, you signify your agreement to the terms and conditions of the Privacy Policy. Please check back periodically as the Privacy Policy may be amended from time-to-time and applies to all Postmedia divisions in Canada.
 
-What Personally Identifiable Information is collected? 
+**What is personal information?  
+**‘Personal information’ means information about an identifiable individual. Examples of personal information that we may collect, use and disclose include your contact information (name, address, phone number or email address), your billing information (credit card number or banking information), and other information that you may provide to us. Personal information does not include publicly available information or your business contact information.
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
+**What personal information do we collect? To whom do we disclose personal information?  
+**In most cases, we will collect personal information directly from you when you purchase or interact with us about a product or service that we offer or provide (for example, when you subscribe to a newspaper or when you email us or contact us through our website). Occasionally, we may collect personal information from a third party based on your consent or as otherwise permitted by law.
 
-What organizations are collecting the information? 
+We identify the purposes for which we may collect, use and disclose your personal information at the time that we collect such information. Such purposes include providing and delivering products or services to you, responding to your inquiries, and internal business purposes such as administering or improving our website. We obtain your consent for such purposes at or before the time that we collect, use or disclose your personal information, except where permitted or required by law.
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
+Postmedia’s divisions and affiliates may share personal information with each other in order to fulfill the purposes that you have consented to. We may also share your personal information with third party service providers as necessary for them to provide services on our behalf. Some service providers may be located outside of Canada where personal information may be subject to the laws of those jurisdictions.
 
-How does the Site use Personally Identifiable Information? 
+We may disclose personal information to a potential purchaser in connection with the sale of some or all of the business of Postmedia, or as otherwise permitted or required by law.
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+**How do we retain and safeguard your personal information?  
+**We retain personal information for as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law. We have implemented physical, organizational, contractual and technological security measures to protect your personal information from loss or theft, and unauthorized access, disclosure, copying, use or modification.
 
-With whom may the information may be shared? 
+**How do we monitor our websites?  
+**Our websites may place and access cookies when you visit our websites. A cookie is a small data file that websites commonly write to your computer. A cookie file contains information that can identify you each time you visit the website. Our websites use cookies as a way to measure website activity and traffic patterns. We may use third-party vendors and advertising networks to serve advertisements on our websites. Such third parties may place and access cookies on your browser, including for the purpose of delivering tailored advertisements to you. The placement of third party cookies on your browser is subject to the terms, conditions and policies of such third-party vendors and advertising networks. . You may choose to set your computer to reject cookies if you desire. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites.
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+Postmedia is a member of the Interactive Advertising Bureau of Canada (IAB Canada) and follows industry privacy standards for online advertising. The majority of advertisements displayed on our websites are served through one or more reputable third party advertisement-serving companies, including Google. You can control advertising cookies from Google by using its Ad Preferences Manager, available here: <https://support.google.com/ads/answer/2662922?hl=en>. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer by other companies you can visit <http://youradchoices.ca/>.
 
-How is Personally Identifiable Information stored? 
+From time to time, we collect certain usage information from our servers that relates to the use of our websites. We use this information to improve our website, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our website for advertising purposes and to help us plan for technical improvements.
 
-Personally Identifiable Information collected by Sun Media LP is securely stored and is not accessible to third parties or employees of Sun Media LP except for use as indicated above. 
+**How can you access your personal information?  
+**We will make available to you any personal information that we have collected, used or disclosed, upon your written request, to the extent permitted by law. We will attempt to respond to your written request within thirty (30) days. We will advise you in writing if we cannot meet your request within this time limit.
 
-What choices are available to Visitors regarding collection, use and distribution of the information? 
+**Contact Us  
+**Our Chief Privacy Officer is accountable for our compliance with the Privacy Policy and applicable privacy law. All comments, questions, concerns or complaints regarding your personal information should be forwarded to our Chief Privacy Officer as follows:
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
+_By Email:_
 
-Are Cookies Used on the Site? 
+  * Corporate: [CorporatePrivacyOfficer@postmedia.com](mailto:CorporatePrivacyOfficer@postmedia.com)
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 20 minutes, we will automatically log the Authorized Customer off. 
 
-How does Sun Media LP use login information? 
 
-Sun Media LP uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+-OR-
 
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site? 
+_In Writing:_
 
-Sun Media LP has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. 
+Chief Privacy Officer  
+Postmedia Network Inc.  
+Postmedia Place  
+365 Bloor Street East, 12th Floor  
+Toronto, Ontario Canada M4W 3L4
 
-Disclosure of Personally Identifiable Information to comply with law. 
+Updated: September 8, 2014
 
-We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
-
-How does the Site keep Personally Identifiable Information secure? 
-
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
-
-How can Visitors correct any inaccuracies in Personally Identifiable Information? 
-
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com) Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
-
-What happens if the Privacy Policy Changes? 
-
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
-
-Links 
-
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-Contacting the Privacy Manager 
-
-E: [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
-
-Any rights not expressly granted herein are reserved. 
-
-© 2015 Sun Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
-
- 
-
-* * *
-
-  
-
+Back To Top
