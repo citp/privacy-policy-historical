@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629004821id_/http%3A//www.asco.org/about-asco/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231151316id_/http%3A//www.asco.org/about-asco/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASCO.org
 
