@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407115204id_/http%3A//mainadv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231072247id_/http%3A//mainadv.com/privacy.php) for the most accurate reproduction.*
 
 # mainADV
 
@@ -30,11 +30,11 @@ The use of cookies by our affiliates, service providers or tracking utility comp
 We do not have access or control over these cookies. Third parties use session ID cookies to make it easier for you to navigate through our site. 
 
 **\- Disclosure of Information to Third Parties**  
-We do not collect PII via our services; therefore, we do not sell, rent, or share PII collected on our customer's websites to non-affiliated third parties.
+We do not collect PII via our services; therefore, we do not sell, rent, or share PII collected on our customer's websites to affiliated or non-affiliated third parties.
 
-We may disclose Non-PII collected through our services and information derived from it, to our customers. This Non-PII may be used by our customers to deliver tailored ads to users on participating websites. This information cannot be used to contact or identify any person individually. Furthermore, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations. 
+We may disclose Non-PII collected through our services and information derived from it, to our customers. This Non-PII may be used by our customers to deliver tailored ads to users on participating websites. We shall not use this information to contact or identify any person individually. Furthermore, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations, but we shall not be responsible for any breach of any such warranty by customers. 
 
-We may disclose a user's information to third parties when we reasonably believe that we are obligated by law to do so, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to fraud as well as situations involving potential threats to the physical safety of any person. 
+We may disclose a user's information to the competent authorities when we reasonably believe that we are obligated by law to do so, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to fraud as well as situations involving potential threats to the physical safety of any person. Furthermore, we may disclose a user’s information in order to establish, exercise, or defend our legal rights for the purposes of fraud prevention and reducing credit risk. 
 
 **\- User Choice**  
 We use technology (which includes cookies) in the delivery of our services. 
@@ -43,15 +43,15 @@ We believe that the use of these tools enable us and our advertiser clients to p
 
 You may at all times adjust your computer's web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit nor take full advantage of all the website offerings and interest-based advertising. You can remove cookies by following directions provided in your Internet browser's "help" file. 
 
-You may also simply opt out to receive interest-based advertising by [**clicking here**](https://web.archive.org/web/20150407115204id_/http%3A//mainadv.com/privacy.php?del=1#opt-out). 
+You may also simply opt out to receive interest-based advertising by [**clicking here**](https://web.archive.org/web/20151231072247id_/http%3A//mainadv.com/privacy.php?del=1). 
 
 Our opt-out cookies are programmed to expire ten years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept third party cookies. Opting out does not necessarily delete or replace all cookies from our domain. 
 
 **\- Data Retention**  
-We maintain Non-PII on users for a period of thirteen months. This data includes web sites visited, content viewed, ad interaction, IP addresses, browser type and language settings. We may maintain Non-PII in an aggregated form for all of our Services for a period longer than thirteen months. 
+We maintain Non-PII on users for a period of thirteen months. This data includes web sites visited, content viewed, ad interaction, IP addresses, browser type and language settings. We may maintain Non-PII in an aggregated form for all of our Services for a period longer than thirteen months. In the event that any PII is recieved for any purpose or purposes, such PII shall not be kept for longer than is necessary for that purpose or those purposes. 
 
 **\- Information Security**  
-We follow generally accepted industry standards to protect against the unauthorized access, retention and disclosure of data. This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information. Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party. 
+We endeavour to follow generally accepted industry standards to protect against the unauthorized access, retention and disclosure of data. Any data that is stored on our servers is treated as confidential information. Please keep in mind, however, that despite reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party. 
 
 **\- Change to this Privacy Policy**  
 Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time without the consent of users by providing advance notice on our Web site before implementing such modifications. Accordingly, since we want to help you clearly understand our Privacy Policy and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred. 
@@ -64,13 +64,10 @@ This information will never be shared with third parties without your consent.
 **\- Linking to Other Sites**  
 A link from our corporate website to another website does not imply our endorsement of that site. We do not control the sites to which we are linked and we assume no responsibility for their content or privacy policies. 
 
-Therefore, you should carefully review the privacy policies that apply to any sites you access from our site. 
+It is strongly advised you should carefully review the privacy policies that apply to any sites you access from our site. 
 
 **\- Spam and E-mail lists**  
 We do not intentionally send unsolicited e-mail messages that could be construed as spam. 
 
-**\- Transfer of Data upon Change of Control**  
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the "Contact us" page) that is in our possession or under our control to such acquiring party. 
-
 **\- Questions or Comments about this Privacy Policy**  
-If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to **info@mainADV.com** or by mail: **mainADV SRL, piazza Alessandrini, n°25, 65127 Pescara, Italy Attn: Legal Department**. 
+If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to **info@mainADV.com** or by mail: **mainADV SRL, Piazza Alessandrini, n°25, 65127 Pescara, Italy Attn: Legal Department**. 
