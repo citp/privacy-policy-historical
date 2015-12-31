@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531010525id_/http%3A//www.rockport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231183549id_/http%3A//www.rockport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Rockport® Shoes | Privacy Policy
 
@@ -92,7 +92,7 @@ If you want to opt-out of having your personal information shared with our affil
 
 Attn: Global E-Commerce  
 The Rockport Company  
-1895 J.W Foster Blvd.  
+100 Royall Street  
 Canton, MA 02021
 
 You also will have the opportunity to opt-out of receiving future e-mail communications by clicking on an "unsubscribe" hyperlink contained in promotional, commercial e-mails we send to you.
@@ -121,5 +121,5 @@ If you have any questions, comments or complaints about the site or any of our s
 
 Rockport Attn: E-Commerce  
 The Rockport Company  
-1895 J.W Foster Blvd.  
+100 Royall Street  
 Canton, MA 02021
