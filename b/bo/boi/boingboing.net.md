@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226102806id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010240id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
-# Boing Boing Privacy Policy - Boing Boing
+# Boing Boing Privacy Policy / Boing Boing
 
 _
 
-Effective: June 27, 2013
+Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015)
 
 _
 
 Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutants,” “We,” “Us”) which lives at boingboing.net (“Boing Boing,” “Website,” “Site”). This Privacy Policy applies to any information that is collected while you are on the Site and our hosted discussion forum at bbs.boingboing.net. Our goal with this policy is to be transparent about the information we collect, how we use it, and how it is shared.
 
-This Privacy Policy is part of our Terms of Service, and by using the Site you agree to both. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Service.
+This Privacy Policy is part of [our Terms of Service](http://boingboing.net/tos), and by using the Site you agree to both. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Service.
 
 **WHAT INFORMATION DO WE COLLECT?**
 
@@ -108,7 +108,7 @@ Our content is syndicated and distributed through Feedburner, owned by Google. W
 
 5\. Affiliate Programs
 
-Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased.
+Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Advertising**
 
@@ -120,9 +120,9 @@ We use Google Ads products like remarketing, similar audiences and interest cate
 
 We partner with Sharethrough to provide online video advertising. Sharethrough uses a cookie and tracking pixel to collect non-personally identifiable information about what ads you click, which they use to target the ads to your interests. [Their privacy policy](http://www.sharethrough.com/privacy-policy/) has a link to opt out of this program. 
 
-3\. Federated Media
+3\. Urban Daddy
 
-We partner with [Federated Media](http://www.federatedmedia.net/) to provide third-party advertising. Federated Media, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Federated Media (like your email address) however the log data they collect does include IP addresses, though these are not tied to any user account. You can opt-out of their behavioral advertising program on [their Privacy Policy. ](http://www.federatedmedia.net/privacy-policy/)
+We partner with [Urban Daddy](http://www.urbandaddy.com/) to provide third-party advertising. Urban Daddy, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). 
 
 4\. Mediafed
 
@@ -136,7 +136,7 @@ We have vendors who we partner with directly to provide advertisements on our Si
 
 Just so we are clear about how we use advertising on the site, below are some of the most common kinds of sponsorships on Boing Boing:
 
-1\. Sponsored sections, themes, or categories: A marketer sometimes sponsors a category, section, or series of posts within a particular theme. At the top of those posts, the sponsor of that section is identified. Of course, the sponsor won't have any editorial input, guidance, or approval, of the content of our posts.
+1\. Sponsored posts, sections, themes, or categories: A marketer sometimes sponsors a category, section, post, or series of posts within a particular theme. At the top of those posts, the sponsor of that section is identified.
 
 2\. Widgets: A marketer sponsors a technology, widget or interface feature on the site that we think enhances the BB experience for you.
 
@@ -144,10 +144,10 @@ Just so we are clear about how we use advertising on the site, below are some of
 
 4\. Sponsor “shout-outs”: These are posts that thank our sponsors and may include a message from the advertiser.
 
-5\. Sponsored videos: A marketer sponsors a series of videos on a particular theme or over a given time period. That sponsorship may include interstitial or embedded ads within the video and/or branding of the video player. Sponsors have no control over the editorial content. If a sponsor asks Boing Boing Video to produce a "standalone video ad" and provides input or direction on the content, we'll be sure to disclose that.
+5\. Sponsored videos: A marketer sponsors a series of videos on a particular theme or over a given time period. That sponsorship may include interstitial or embedded ads within the video and/or branding of the video player. 
 
 6\. Contests: A marketer may sponsor a contest on the site. We hope you win!
 
-7\. Advertorial: Advertisements that are presented in an editorial format will be prominently marked as ads.
+7\. Advertorial: Any advertisements that are presented in an editorial format will be prominently marked as sponsored.
 
 8\. Traditional banner ads: We have strict guidelines on the banner advertisements that we accept. Expanding banners are only delivered to each browser once daily. Animated ads can't be longer than 30 seconds. Audio must be user-initiated. And of course, no pop-ups or pop-unders. Unfortunately, ads that break those rules sometimes do slip through our automated system. So if you see a banner ad that violates this policy, please let us know by emailing  [ads@boingboing.net](mailto:ads@boingboing.net) and we'll investigate.
