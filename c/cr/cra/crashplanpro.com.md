@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crashplanpro.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211133id_/http%3A//www.code42.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crashplanpro.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231072512id_/http%3A//www.code42.com/privacy) for the most accurate reproduction.*
 
-# Code 42 Software, Inc. - Privacy Policy
+# None
 
 **Last Revised: June 19, 2015**
 
-This privacy statement applies to: [http://www.crashplan.com](https://web.archive.org/web/20150628211133id_/http://www.code42.com/privacy/www.crashplan.com), [http://www.shareplan.com](https://web.archive.org/web/20150628211133id_/http://www.code42.com/privacy/www.shareplan.com), and [www.code42.com](https://web.archive.org/) owned and operated by Code 42 Software, Inc. ("Code42", "We", "Us", or "Our"). This privacy statement describes how Code42 collects and uses the personal data you provide on our websites. It also describes the choices available to you regarding our use of your personal data and how you can access and update this data.
+This privacy statement applies to: [http://www.crashplan.com](https://web.archive.org/web/20151231072512id_/http%3A//www.code42.com/www.crashplan.com), [http://www.shareplan.com](https://web.archive.org/web/20151231072512id_/http%3A//www.code42.com/www.shareplan.com), and [www.code42.com](https://web.archive.org/) owned and operated by Code 42 Software, Inc. ("Code42", "We", "Us", or "Our"). This privacy statement describes how Code42 collects and uses the personal data you provide on our websites. It also describes the choices available to you regarding our use of your personal data and how you can access and update this data.
 
 ## 2\. We self-certify adherence to
 
@@ -34,7 +34,7 @@ Code42 may use these types of personal data for business purposes, including to 
 
 Our clients may update, access, delete inaccuracies, or correct their personal data by making the change within their account once logged into the site or by contacting us at [privacy@code42.com](mailto:privacy@code42.com) to do so. We will respond to your request to access within 30 days. Also, to the extent that any of these individuals receive marketing communications from Code42, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at [privacy@code42.com](mailto:privacy@code42.com).
 
-We will retain your information for as long as your account is active and as needed to provide you services. We will retain and use your information as reasonably necessary to conduct our business, comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active and as needed to provide you services. We will retain and use your information as reasonably necessary to conduct our business, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 If you are not a client but have submitted your personal data through the contact us link and wish to have your information updated or wish to have us delete inaccuracies please contact us at [privacy@code42.com](mailto:privacy@code42.com).
 
@@ -95,7 +95,7 @@ or at <http://www.youronlinechoices.eu/> if you are located in the European Unio
 
 These websites and third-party ad networks are not controlled by Code42. Please note this does not opt you out of being served advertising; you will continue to receive generic ads that are not based on your specific interests.
 
-#### Analytics / Log Files 
+#### Analytics / Log Files
 
 As is true most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/ exit pages, operating system, date/ time stamp, and clickstream data. We may use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We may link this automatically collected data to other information we collect about you.
 
@@ -121,7 +121,7 @@ Information collected by our voluntary third-party surveys is used to market, va
 
 ## 16\. Single Sign-On
 
-You can log in to our [http://helpdesk.code42.com/](https://web.archive.org/web/20150628211133id_/http://www.code42.com/privacy/helpdesk.code42.com) site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our [http://helpdesk.code42.com/](https://web.archive.org/web/20151231072512id_/http%3A//www.code42.com/helpdesk.code42.com) site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ## 17\. Support
 
@@ -129,11 +129,11 @@ If you wish to upload a photo of yourself in the support section of the site, pl
 
 ## 18\. Notifications via Twitter
 
-If you wish to receive backup notifications via Twitter, you will be asked to sign in using your twitter credentials. When you click on "Authorize", you will be prompted to provide your Twitter PIN to allow CrashPlan to connect to Twitter. By proceeding, you are allowing the Code42 sites to access your information and you are agreeing to the Twitter Terms of Use in your use of Code42 sites. 
+If you wish to receive backup notifications via Twitter, you will be asked to sign in using your twitter credentials. When you click on "Authorize", you will be prompted to provide your Twitter PIN to allow CrashPlan to connect to Twitter. By proceeding, you are allowing the Code42 sites to access your information and you are agreeing to the Twitter Terms of Use in your use of Code42 sites.
 
 ## 19\. Links to Other Sites
 
-If you click on a link to a third party site, you will leave the Code42 site that you are visiting and be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal data by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Code42. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party Web site that is linked to a Code42 site, you should read that site's privacy statement before providing any personal data. 
+If you click on a link to a third party site, you will leave the Code42 site that you are visiting and be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal data by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Code42. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party Web site that is linked to a Code42 site, you should read that site's privacy statement before providing any personal data.
 
 ## 20\. Social Media Features
 
@@ -150,7 +150,7 @@ Minneapolis, MN 55414
 
 ## 22\. TRUSTe
 
-Code42 has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers the Web sites [www.code42.com](https://web.archive.org/), [http://www.crashplan.com](https://web.archive.org/web/20150628211133id_/http://www.code42.com/privacy/www.crashplan.com) and [http://www.shareplan.com](https://web.archive.org/web/20150628211133id_/http://www.code42.com/privacy/www.shareplan.com). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@code42.com](mailto:privacy@code42.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+Code42 has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers the Web sites [www.code42.com](https://web.archive.org/), [http://www.crashplan.com](https://web.archive.org/web/20151231072512id_/http%3A//www.code42.com/www.crashplan.com) and [http://www.shareplan.com](https://web.archive.org/web/20151231072512id_/http%3A//www.code42.com/www.shareplan.com). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@code42.com](mailto:privacy@code42.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## 23\. Dispute Resolution
 
