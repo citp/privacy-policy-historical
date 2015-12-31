@@ -1,110 +1,88 @@
-> *The following text is extracted and transformed from the customs.gov.au privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506202618id_/http%3A//www.customs.gov.au/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customs.gov.au privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231014744id_/http%3A//www.border.gov.au/about/access-accountability/plans-policies-charters/policies/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy policy
 
-The Australian Customs and Border Protection Service (ACBPS) collects and retains personal information in relation to persons and goods entering or exiting Australia. This information is collected under the _Customs Act 1901_ and other Acts administered by ACBPS. 
+This privacy policy explains how the Department manages the personal information it collects and the information flows associated with that personal information. The Department of Immigration and Border Protection includes the Australian Border Force.
 
-ACBPS uses the information to protect the safety, security and commercial interests of Australians through border protection designed to support legitimate trade and travel and ensure collection of border revenue and trade statistics. 
+This privacy policy is an overview, and does not provide details about all of our personal information management practices, procedures and systems. Part D of this policy provides other sources of information about our personal information management practices, procedures and systems.
 
-Information is collected from a wide variety of sources including other government agencies, non-government agencies and individuals. Information collected includes:
+## Our role
 
-  * [Passenger Name Record (PNR) data](https://web.archive.org/web/20150506202618id_/http%3A//www.customs.gov.au/privacy/collect-psngr-name-rec.asp); 
+Our key objectives are to:
 
-  * [Integrated Cargo System (ICS) data](https://web.archive.org/web/20150506202618id_/http%3A//www.customs.gov.au/privacy/integrated-cargo-system-data.asp); 
-
-  * Tourist Refund Scheme (TRS) data; 
-
-  * SmartGate data; 
-
-  * Passenger Analysis Clearance Evaluation (PACE) data;
-
-  * Intelligence data;
-
-  * Investigations records;
-
-  * Detained Goods data;
-
-  * Tariff Concession and classification records;
-
-  * Valuation records;
-
-  * Aircraft and vessel information etc; 
-
-  * Infringement Notice Scheme records; and
-
-  * Aviation and Maritime Security Identification card records. 
+  * contribute to Australia’s future through managed migration
+  * protect refugees and contribute to humanitarian policy internationally
+  * contribute to Australia’s security through border management and traveller facilitation
+  * make fair and reasonable decisions for people entering or leaving Australia, ensuring compliance with Australia’s immigration laws and integrity in decision-making
+  * administer citizenship legislation and promote Australian citizenship.
 
 
 
-##  Privacy Collection Notice
+## Our obligations under the Privacy Act
 
-The _Privacy Act 1988_ requires the Australian Customs and Border Protection Service to notify an individual of certain matters when collecting personal information about them. This webpage, in addition to other notices on our forms and online facilities, is your notification of those matters. 
+This privacy policy sets out how we comply with our obligations under the _Privacy Act 1988_ (the Privacy Act). The Privacy Act sets out 13 Australian Privacy Principles (APPs) which regulate the collection, use, disclosure and storage of personal information and how individuals can access and correct personal information held about them. We are legally bound by the APPs.
 
-### Purpose of collection
+The Privacy Act defines personal information as
 
-ACBPS collects your personal information for the purpose of the reporting, detection and control of the movement of goods across the Australian border and in administering certain Australian laws including customs, taxation, health, quarantine, commerce, criminal, intellectual property and community protection laws. 
+_information or an opinion about an identified individual, or an individual who is reasonably identifiable:_
 
-ACBPS also collects your personal information for the reporting and collection of government taxation and non-taxation revenue including customs duty, indirect tax, passenger movement charges, depot charges and other charges including quarantine and import processing charges. 
-
-ACBPS collects your personal information via forms, online facilities, telephone or face-to-face. 
-
-ACBPS uses the information to protect the safety, security and commercial interests of Australians through border protection designed to support legitimate trade and travel and ensure collection of border revenue and trade statistics. 
-
-### Disclosure of your personal information
-
-ACBPS may disclose your personal information to Commonwealth, State and Territory agencies including, but not limited to, regulatory, taxation, finance, statistics, quarantine, agriculture, trade, foreign affairs, intelligence, law enforcement and infrastructure agencies.  ACBPS may also disclose your personal information to assist with the development of relevant Australian Government policies.
-
-ACBPS may disclose your personal information to foreign entities including overseas manufacturers, exporters, bodies authorised to issue certificates of origin and foreign government agencies.  ACBPS may also disclose your personal information to foreign agencies and international organisations to give effect to Australia’s international agreements. 
-
-In addition to the purposes set out above, ACBPS may disclose your information to any of the above entities for an enforcement-related activity or to lessen or prevent a serious threat to life, health or safety. 
-
-### Basis for collection
-
-In some cases, you are required under the _Customs Act 1901_ , or related legislation to provide your personal information to enable ACBPS to fulfil its enforcement and administrative functions. ACBPS collects your personal information for a wide range of border-related activities including: 
-
-  * The detection and movement of goods and persons across the Australian border.
-  * The collection of taxation and non-taxation revenue
-  * The collection of border-related statistics
-  * The administration or enforcement of an Australian law and
-  * The administration of an ancillary or regulatory function or activity of ACBPS.
+  * _whether the information or opinion is true or not; and_
+  * _whether the information or opinion is recorded in a material form or not._
 
 
 
-ACBPS administers legislation and parts of legislation on behalf of several Commonwealth agencies. In certain cases, the collection of your personal information may be required or authorised by this allied legislation. 
+## Authority to collect, use and disclose information
 
-If you do not provide your personal information, ACBPS may be unable to provide you a service that requires your personal information to complete the interaction. In some instances ACBPS has the power to request your personal information. If you do not provide your personal information in these circumstances, you may be committing an offence under the _Customs Act 1901_ or a related law. 
+We are authorised under our portfolio legislation and the Privacy Act to collect, use and disclose a range of personal information.
 
-### Further information
+In understanding our authority to collect, use and disclose personal information under the Privacy Act, it is important to be aware that we are an enforcement body for the purposes of the Privacy Act.
 
-Your personal information will be collected, used, stored and disclosed in accordance with the Australian Privacy Principles in Schedule 1 of the Privacy Act 1988. Further information regarding how ACBPS handles personal information, including access and correction to your personal information can be found in ACBP's privacy policy below or by contacting ACBPS's Privacy Contact Officer on 1300 363 263 or by emailing privacy@customs.gov.au. 
+As an enforcement body, we can collect, use and disclose personal information (including sensitive information) where it is reasonably necessary for, or directly related to, one or more enforcement related activities conducted by or on behalf of us.
 
-ACBPS also collects personal information relating to its officers and other perspective employees and Contractors to the Service (personnel records).
+### Enforcement
 
-A comprehensive list of the classes of personal information that is collected and held by ACBPS is available in ACBPS’s _[Privacy Policy](https://web.archive.org/webdata/resources/files/ACBPSPrivacyPolicy_000.docx)._
+Enforcement related activities include:
 
-ACBPS is committed to protecting the privacy and security of all personal information collected. When dealing with personal information ACBPS: 
-
-  * collects the information in a fair and lawful manner; 
-
-  * checks the accuracy of the information before it is used; 
-
-  * keeps it stored securely to safeguard against unauthorised access; 
-
-  * ensures it is used only for the purpose for which it was collected (unless it is otherwise authorised by law) and; 
-
-  * ensures the information is not disclosed other than in the course of performing ACBPS duties or where disclosure is authorised or required by section 16 of the _Customs Administration Act 1985_ (Customs Administration Act) or another law. 
-
+  * detecting, preventing, investigating and prosecuting breaches of visa, immigration and citizenship law
+  * identifying and locating unlawful non-citizens and resolving their immigration status, including the removal of unlawful non-citizens from Australia
+  * preventing and reducing illegal migration, people smuggling and trafficking in persons
+  * identifying and assessing claims by non-citizens for protection in Australia, including managing the detention or release into the community of protection claimants
+  * assessing and enforcing compliance with visa and citizenship requirements
+  * identifying and assessing prior to arrival those entitled to lawfully enter Australia
+  * managing the entry and departure of people crossing the Australian border
+  * resolving the identity, health, national security and criminal history status of people applying to enter Australia
+  * collecting information to assess the identity, character and criminal history of applicants for Australian citizenship
+  * cooperation with other agencies, including information-sharing, for law enforcement and border security purposes, and the protection of public revenue.
 
 
 
-ACBPS ensures all personal information obtained is collected, used, stored and disclosed in accordance with the Australian Privacy Principles set out in the _Privacy Act 1988_ (Privacy Act) and the Guidelines for Federal Government issued by the Office of the Australian Information Commissioner (available at <http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines>_/)._  
+### Sensitive information
 
-ACBPS may disclose information it obtains to agencies authorised by law to receive it including other Australian, State and Territory Government agencies as well as overseas agencies, including law enforcement agencies and other Customs administrations.  All information disclosed by ACBPS is done in accordance with section 16 of the Customs Administration Act and the Privacy Act.
+Sensitive information is a type of personal information and means:
 
-## ACBPS Privacy Policy
+  * information or an opinion about an individual’s
+    * racial or ethnic origin
+    * political opinions
+    * membership of a political association
+    * religious beliefs or affiliations
+    * philosophical beliefs
+    * membership of a professional or trade association
+    * membership of a trade union
+    * sexual orientation or practices
+    * criminal record
+  * health information about an individual
+  * genetic information about an individual that is not otherwise health information
+  * biometric information that is to be used for the purpose of automated biometric verification or biometric identification
+  * biometric templates.
 
-Further information regarding ACBPS’s handling of personal information and how the Service meets its obligations under the Australian Privacy Principles within the Privacy Act is set out in ACBPS’s _[Privacy Policy](https://web.archive.org/webdata/resources/files/ACBPSPrivacyPolicy.docx)_. 
 
-Should you wish to obtain a copy of ACBPS’s Privacy Policy in an alternative format, please contact ACBPS’s Privacy Contact Officer at [privacy@customs.gov.au](mailto:privacy@customs.gov.au).  
 
- 
+## Outline of this policy
+
+[Part A - _Collection, use and disclosure of information_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-a) explains our general information handling practices and covers how and for what purpose we collect, use and disclose personal information, including disclosures outside Australia. This part also outlines the kind of personal information that we collect.
+
+[Part B - _How we hold information_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-b) explains how and for what purpose we hold the personal information that we collect.
+
+[Part C - _Access, correction and complaints_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-c) explains how an individual can access and seek to correct their personal information. It also explains how an individual can complain about a breach of the Privacy Act, including the APPs, and how we will deal with such a complaint. 
+
+[Part D - _Additional information_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-d) contains links to additional information about our personal information management practices, procedures and systems.
