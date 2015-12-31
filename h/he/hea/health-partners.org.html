@@ -1,456 +1,599 @@
-<!--The following is the downloaded HTML source of the health-partners.org privacy policy that was archived on 2014-07-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140717235432id_/http%3A//www.health-partners.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the health-partners.org privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231133217id_/http%3A//www.mercy.com/corporate/privacy-statement.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<title>
-Privacy Statement
-</title>
-<!-- begin keywords -->
-<meta http-equiv="Keywords" name="Keywords" content="">
-<!-- end keywords -->
-<!-- begin desc -->
-<meta http-equiv="Description" name="Description" content="">
-<!-- end desc -->
-<link href="css/main.css" rel="stylesheet" type="text/css">
-
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript">
-    var blnHide = false;
-    var intWord0 = 0;
-var intWord1 = 0;
-var intWord2 = 0;
-var intWord3 = 0;
-
-    var intTotalWordCnt = 0;
-	var sPrevWord = "";
-    /* http://www.kryogenix.org/code/browser/searchhi/ */
-    /* Modified 20021006 to fix query string parsing and add case insensitivity */
-    /* Modified 20070316 to stop highlighting inside nosearchhi nodes */
-    function highlightWord(node,word) {
-	    // Iterate into this nodes childNodes
-	    if (node.hasChildNodes) {
-		    var hi_cn;
-		    for (hi_cn=0;hi_cn<node.childNodes.length;hi_cn++) {
-			    highlightWord(node.childNodes[hi_cn],word);
-		    }
-	    }
-
-	    // And do this node itself
-	    if (node.nodeType == 3) { // text node
-		    tempNodeVal = node.nodeValue.toLowerCase();
-		    tempWordVal = word.toLowerCase();
-		    //alert(tempWordVal);
-    		
-		    if (tempNodeVal.indexOf(tempWordVal) != -1) {
-			    pn = node.parentNode;
-			    // check if we're inside a "nosearchhi" zone
-			    checkn = pn;
-			    while (checkn.nodeType != 9 && checkn.nodeName.toLowerCase() != 'body') { 
-			    // 9 = top of doc
-			        //alert(checkn.nodeName);
-				    //if (checkn.className.match(/\bnosearchhi\b/)) { return; }
-				    if (checkn.nodeName == "A") { return; }
-				    if (checkn.nodeName == "B") { return; }
-				    if (checkn.nodeName == "OPTION") { return; }
-				    if (checkn.nodeName == "FONT" && pn.className == "titlePLUS") { return; }
-					
-				    //<span style="font-family: Arial, Verdana, Helvetica, Comic Sans MS, serif; color:#FFFFFF; font-size:18;text-decoration:none;font-weight:bold;">WHAT IS CANCER AND HOW IS IT DIAGNOSED?</span>
-    				
-				    if (checkn.nodeName == "SPAN") { return; }
-    				if (checkn.nodeName == "script") { return; }
-					if (checkn.nodeName == "SCRIPT") { return; }
-				    checkn = checkn.parentNode;
-			    }
-    			
-    			
-    		    
-    			
-		        if (pn.className != "searchHighLight") {
-                    if(tempWordVal == 'quality'){
-intWord0++;
-}
-if(tempWordVal == 'diversity'){
-intWord1++;
-}
-if(tempWordVal == 'community benefit'){
-intWord2++;
-}
-if(tempWordVal == 'outstanding employer'){
-intWord3++;
-}
-
-		            // word has not already been highlighted!
-		            nv = node.nodeValue;
-		            ni = tempNodeVal.indexOf(tempWordVal);
-		            // Create a load of replacement nodes
-		            before = document.createTextNode(nv.substr(0,ni));
-		            docWordVal = nv.substr(ni,word.length);
-		            after = document.createTextNode(nv.substr(ni+word.length));
-		            hiwordtext = document.createTextNode(docWordVal);
-    		        
-    				
-		            //for each item in array
-    				
-		            if(tempWordVal == 'quality' && intWord0 < 2 && intTotalWordCnt < 5){
-intTotalWordCnt++;
-hiword = document.createElement("A");
-hiword.setAttribute("href","#");
-hiword.addEventListener('mouseover', function() {ajaxFunction('quality','21')},false);
-hiword.addEventListener('mouseout', initHide,false);
-hiword.className = "searchHighLight";
-hiword.appendChild(hiwordtext);
-pn.insertBefore(before,node);
-pn.insertBefore(hiword,node);
-pn.insertBefore(after,node);
-pn.removeChild(node);
-}
-if(tempWordVal == 'diversity' && intWord1 < 2 && intTotalWordCnt < 5){
-intTotalWordCnt++;
-hiword = document.createElement("A");
-hiword.setAttribute("href","#");
-hiword.addEventListener('mouseover', function() {ajaxFunction('diversity','22')},false);
-hiword.addEventListener('mouseout', initHide,false);
-hiword.className = "searchHighLight";
-hiword.appendChild(hiwordtext);
-pn.insertBefore(before,node);
-pn.insertBefore(hiword,node);
-pn.insertBefore(after,node);
-pn.removeChild(node);
-}
-if(tempWordVal == 'community benefit' && intWord2 < 2 && intTotalWordCnt < 5){
-intTotalWordCnt++;
-hiword = document.createElement("A");
-hiword.setAttribute("href","#");
-hiword.addEventListener('mouseover', function() {ajaxFunction('community benefit','23')},false);
-hiword.addEventListener('mouseout', initHide,false);
-hiword.className = "searchHighLight";
-hiword.appendChild(hiwordtext);
-pn.insertBefore(before,node);
-pn.insertBefore(hiword,node);
-pn.insertBefore(after,node);
-pn.removeChild(node);
-}
-if(tempWordVal == 'outstanding employer' && intWord3 < 2 && intTotalWordCnt < 5){
-intTotalWordCnt++;
-hiword = document.createElement("A");
-hiword.setAttribute("href","#");
-hiword.addEventListener('mouseover', function() {ajaxFunction('outstanding employer','24')},false);
-hiword.addEventListener('mouseout', initHide,false);
-hiword.className = "searchHighLight";
-hiword.appendChild(hiwordtext);
-pn.insertBefore(before,node);
-pn.insertBefore(hiword,node);
-pn.insertBefore(after,node);
-pn.removeChild(node);
-}
-
-			    }
-		    }
-	    }
-    }
-
-    function googleSearchHighlight() {
-
-
-
-
-    <!-- Original:  CodeLifter.com (support@codelifter.com) -->
-    <!-- Web Site:  http://www.codelifter.com -->
-
-    <!-- This script and many more are available free online at -->
-    <!-- The JavaScript Source!! http://javascript.internet.com -->
-
-    <!-- Begin
-    var IE = document.all?true:false;
-    //if (!IE) document.captureEvents(Event.MOUSEMOVE)
-	if (!IE) document.addEventListener("mousemove",getMouseXY,false)
-    document.onmousemove = getMouseXY;
-    var tempX = 0;
-    var tempY = 0;
-    function getMouseXY(e) {
-    if (IE) { // grab the x-y pos.s if browser is IE
-    tempX = event.clientX + document.body.scrollLeft;
-    tempY = event.clientY + document.body.scrollTop;
-    }
-    else {  // grab the x-y pos.s if browser is NS
-    tempX = e.pageX;
-    tempY = e.pageY;
-    }  
-    if (tempX < 0){tempX = 0;}
-    if (tempY < 0){tempY = 0;}  
-    document.frmPopSearch.MouseX.value = tempX;
-    document.frmPopSearch.MouseY.value = tempY;
-    return true;
-    }
-    //  End -->
-
-        if (!document.createElement) return;
-	    ref = document.URL;
-		var words = new Array();
-			words[0] = 'quality';
-words[1] = 'diversity';
-words[2] = 'community benefit';
-words[3] = 'outstanding employer';
-
-            for (w=0;w<words.length;w++) {
-                highlightWord(document.getElementsByTagName("body")[0],words[w]);
-            }
-    }
-
-
-    function openBox(){ 
-        if(document.getElementById('movmenu').style.visibility == 'hidden'){
-            document.getElementById('movmenu').style.top = Number(document.frmPopSearch.MouseY.value) - 10;
-            document.getElementById('movmenu').style.left = Number(document.frmPopSearch.MouseX.value) - 10;
-            document.getElementById('movmenu').style.visibility = 'visible';
-        }else{
-            self.setTimeout('closePopDiv()', 600);
-        }
-    }
-
-    function closePopDiv(){
-	    if(blnHide == true){             
-		    document.getElementById('movmenu').style.visibility = 'hidden';
-		    blnHide = false;             
-	    }             
-	    return false;             
-    }             
-                 
-    function stopHide(){             
-	    blnHide = false;             
-    }             
-                 
-    function initHide(){             
-	    blnHide = true;             
-    }             
-
-      
-    function ajaxFunction(tmpKeyword,tmpID)
-    {  
-        document.frmPopSearch.keyword.value = tmpKeyword;
-          var xmlHttp;
-          var tmpOut;
-            tmpOut = tmpKeyword;
-          
-          try
-            {    // Firefox, Opera 8.0+, Safari
-	        xmlHttp=new XMLHttpRequest();    
-	        }
-          catch (e)
-            {    // Internet Explorer
-	        try
-              {
-	          xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
-	          }
-            catch (e)
-              {
-	          try
-                {
-		        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");        
-		        }
-              catch (e)
-                {
-		        alert("Your browser does not support AJAX!");
-		        return false;        
-		        }      
-		        }    
-		        }
-            xmlHttp.onreadystatechange=function()
-              {
-              
-              
-              
-              if(xmlHttp.readyState==4)
-                {
-		        var tmpVar = xmlHttp.responseText;
-		        var tmpArray = tmpVar.split("<td>");
-		        if(tmpOut.length >= 1){
-		            if(tmpVar != ''){
-            	        document.getElementById('ajax').innerHTML = tmpVar;
-		                openBox();
-		            }else{
-		                //deleteLayer('LYR1');
-		            }
-		        }else{
-		            //deleteLayer('LYR1');
-		        }
-                }
-              }
-        	  
-        	  
-	          if(tmpOut.length >= 1){
-    		        xmlHttp.open("GET","inc/keyword_search.asp?id=7/17/2014 7:54:36 PM&txtID="+tmpID+"&txtinput="+tmpOut+"&ran="+Math.random(),true);
-    		        xmlHttp.send(null);
-	        }
-	    }
-
-
-    window.onload = googleSearchHighlight;
-    </script>
-
-
-
-    </head><body><div id="movmenu" style="position:absolute;visibility:hidden;left:20px; top:20px; z-index:2">
-        <form name="frmPopSearch" action="new_search_site_results.asp" method="post">
-        <input type="hidden" name="MouseX" value="0">
-        <input type="hidden" name="MouseY" value="0">
-        <table border="0" bgcolor="#004562" cellpadding="0" cellspacing="0" style="border:solid;border-color:#00658F;border-width:1px;" onmouseover="stopHide();" onmouseout="initHide();openBox();">
-            <tbody><tr>
-                <td colspan="2" height="100%" bgcolor="#ffffff">
-                   <div id="ajax">
-                   </div>
-                </td>
-            </tr>
-            <tr>
-                <td height="30" align="right">
-                    &nbsp;<span style="color:#fff; font-weight:bold;font-size:10pt;">Search:</span>&nbsp;<input style="border:solid 1px #000;background-color:#FFFFCD;color:#03455D;" type="text" name="keyword" size="25">&nbsp;
-                </td>
-                <td valign="middle">
-                    <input type="image" src="img/btn_go.gif">&nbsp;
-                </td>
-            </tr>
-        </tbody></table>
-        </form>
-    </div>
-
-    <style type="text/css">
-        a.searchHighLight:link {text-decoration:underline; color:#696969;}
-        a.searchHighLight:visited {text-decoration:underline;color:#696969;}
-        a.searchHighLight:hover {text-decoration:underline;color:#696969;}
-    </style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="ui-mobile"><head><base href="https://web.archive.org/web/20151231133217id_/http%3A//www.mercy.com/corporate/privacy-statement.aspx"><title>Privacy Statement | Mercy Health Corporate</title>
     
-<script type="text/javascript" src="js/milonic_src.js"></script><style>.milonic{width:1px;visibility:hidden;position:absolute}</style>	
-<script type="text/javascript">
-    if(ns4)_d.write("<scr"+"ipt type=text/javascript src=js/mmenuns4.js><\/scr"+"ipt>");		
-else _d.write("<scr"+"ipt type=text/javascript src=js/mmenudom.js><\/scr"+"ipt>"); 
-</script><script type="text/javascript" src="js/mmenudom.js"></script><script>function $9(ap){return _f}</script>
-<script language="javascript">
-	function sendSearch(){
-		var sSearchTerm = document.all.mainkeyword.value;
-		if(sSearchTerm.length > 0){
-			window.location.href = "New_search_site_results.asp?keyword="+sSearchTerm;
-		}else{
-			alert('Please enter a keyword or phrase before submitting.');
+	<meta http-equiv="description" name="description" content="View the privacy statement of the Mercy Health Corporate website.">
+	<meta http-equiv="keywords" name="keywords" content="Privacy, Statement">
+	<meta property="og:image" content="http://www.mercy.com/images/mh-logo-facebook-thumb.jpg">
+
+<link href="css/themes/default/jquery.mobile-1.3.0.css" rel="stylesheet" type="text/css">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T5HWP7"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="../js/jquery-1.8.2.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.mobile-1.3.0.min.js" type="text/javascript"></script>
+
+	    <link rel="Stylesheet" href="css/main.css">
+	<!--[if !IE 7]>
+		<style type="text/css">
+			#mainContentWrapper {display:table;height:100%; margin-top:20px;}
+		</style>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></head>
+<body>
+    <form name="aspnetForm" method="post" action="/corporate/privacy-statement.aspx" id="aspnetForm" class="ui-mobile-viewport ui-overlay-c">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2ZGTYG9DKnFXpeLT4kJz8PGPfRkOg8g==">
+
+	    <div id="mobile-mainContent" data-role="page" data-url="mobile-mainContent" tabindex="0" class="ui-page ui-body-c ui-page-panel ui-page-active" style="min-height: 768px;">
+			<div id="mobile-sideMenu" class="mobileOrTablet ui-panel ui-panel-position-left ui-panel-display-push ui-panel-closed ui-body-c ui-panel-animate" data-role="panel" data-position="left" data-display="push">
+			<div class="ui-panel-inner"><div class="mobile-sideMenuItem" style="height:45px;">
+				<div style="width:260px;">
+					<div class="ui-input-search ui-shadow-inset ui-btn-corner-all ui-btn-shadow ui-icon-searchfield ui-body-c ui-mini"><input type="text" data-type="search" name="search-mini" id="txtMobileSearch" value="" placeholder="Search" data-mini="true" class="ui-input-text ui-body-c"><a href="#" class="ui-input-clear ui-btn ui-btn-up-c ui-shadow ui-btn-corner-all ui-mini ui-btn-icon-notext ui-input-clear-hidden" title="clear text" data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" data-icon="delete" data-iconpos="notext" data-theme="c" data-mini="true"><span class="ui-btn-inner"><span class="ui-btn-text">clear text</span><span class="ui-icon ui-icon-delete ui-icon-shadow">&nbsp;</span></span></a></div>
+				</div>
+			</div><div class="mobile-sideMenuItem" onclick="toggleMobileSubMenu('about','sideExpand1');">
+				Our System of Care <img id="sideExpand1" class="mobile-sideMenuItem-plusMinus" src="img/mobile/plus_320.png">
+			</div><div id="about" class="mobile-sideMenuSubItem">
+					<a href="message-from-ceo.aspx" title="A Message from Our CEO" class="ui-link">A Message from Our CEO</a><br>
+				<!--	<a href="about-our-sy-of-care.aspx" title="About Our System of Care">About Our System of Care</a><br /> -->
+					<a href="advocacy-government-realtions.aspx" title="Advocacy &amp; Government Relations" class="ui-link">Advocacy &amp; Government Relations</a><br>
+					<a href="publications-archive.aspx" title="Annual Report" class="ui-link">Annual Report</a><br>
+					<a href="carepath.aspx" title="CarePATH" class="ui-link">CarePATH</a><br>
+					<a href="community-benefit.aspx" title="Community Benefit" class="ui-link">Community Benefit</a><br>
+					<a href="corporate-responsibility.aspx" title="Corporate Responsibility" class="ui-link">Corporate Responsibility</a><br>
+					<a href="diversity-inclusion.aspx" title="Diversity &amp; Inclusion" class="ui-link">Diversity &amp; Inclusion</a><br>
+					<a href="financial-assistance-programs.aspx" title="Financial Assistance Programs" class="ui-link">Financial Assistance Programs</a><br>
+					<a href="vendors.aspx" title="For Vendors" class="ui-link">For Vendors</a><br>
+					<a href="healthspan-partners.aspx" title="HealthSpan Partners" class="ui-link">HealthSpan Partners</a><br>
+					<a href="heritage.aspx" title="Heritage" class="ui-link">Heritage</a><br>
+
+
+	<a href="high-quality-care-quality-scores.aspx" title="High Quality Care" class="ui-link">High Quality Care</a><br>
+	<a href="hospital-pricing.aspx" title="Hospital Pricing" class="ui-link">Hospital Pricing</a><br>
+	<a href="leadership-and-governance.aspx" title="Leadership &amp; Governance" class="ui-link">Leadership &amp; Governance</a><br>
+
+					<a href="pdfs/Mercy-Health-at-a-Glance.pdf" target="_blank" title="Mercy Health at a Glance" class="ui-link">Mercy Health at a Glance</a><br>
+					<a href="mercy-health-foundation.aspx" title="Mercy Health Foundation &amp; Regional Foundations" class="ui-link"><div class="menuFix">Mercy Health Foundation &amp; Regional Foundations</div></a>
+					<a href="notice-of-privacy-practices.aspx" title="Notice of Privacy Practices" class="ui-link">Notice of Privacy Practices</a><br>
+					<a href="supplier-diversity.aspx" title="Supplier Diversity" class="ui-link">Supplier Diversity</a>
+			</div><div class="mobile-sideMenuItem" onclick="toggleMobileSubMenu('physician','sideExpand2');">
+				Physician Recruitment <img id="sideExpand2" class="mobile-sideMenuItem-plusMinus" src="img/mobile/plus_320.png">
+			</div><div id="physician" class="mobile-sideMenuSubItem">
+                <a href="physician-employment-opportunities.aspx" title="Career Opportunities for Physicians" class="ui-link">Physician Employment Opportunities</a><br>
+				<a href="physician-opportunities-contact.aspx" title="Contact Physician Recruiting" class="ui-link">Contact Physician Recruiting</a><br>
+				<a href="electronic-medical-record.aspx" title="Electronic Health Record" class="ui-link">Electronic Health Record</a><br>
+				<a href="high-quality-care-quality-scores.aspx" title="High Quality Care" class="ui-link">High Quality Care</a><br>
+				<a href="medical-home-model.aspx" title="Medical Homes Model of Care" class="ui-link">Medical Homes Model of Care</a><br>
+				<a href="physician-opportunities-leadership-academy.aspx" title="Physician Leadership Academy" class="ui-link">Physician Leadership Academy</a><br>
+				<a href="where-we-live-work.aspx" title="Where We Live &amp; Work" class="ui-link">Where We Live &amp; Work</a>
+			</div><div class="mobile-sideMenuItem" onclick="toggleMobileSubMenu('career','sideExpand3');">
+				Careers <img id="sideExpand3" class="mobile-sideMenuItem-plusMinus" src="img/mobile/plus_320.png">
+			</div><div id="career" class="mobile-sideMenuSubItem">
+				<a href="careers-job-opportunities.aspx" title="Careers &amp; Job Openings" class="ui-link">Careers &amp; Job Openings</a><br>
+				<a href="careers-compensation-benefits.aspx" title="Compensation &amp; Benefits" class="ui-link">Compensation &amp; Benefits</a><br>
+				<a href="diversity-inclusion.aspx" title="Diversity &amp; Inclusion" class="ui-link">Diversity &amp; Inclusion</a><br>
+				<a href="careers-fellowship-program.aspx" title="Fellowship Program" class="ui-link">Fellowship Program</a><br>
+                <a href="physician-employment-opportunities.aspx" title="Physician Employment Opportunities" class="ui-link">Physician Employment Opportunities</a><br>
+				<a href="careers-volunteering.aspx" title="Volunteering" class="ui-link">Volunteering</a><br>
+				<a href="where-we-live-work.aspx" title="Where We Live &amp; Work" class="ui-link">Where We Live &amp; Work</a>
+			</div><div class="mobile-sideMenuItem" onclick="toggleMobileSubMenu('investor','sideExpand4');">
+				Financial Information <img id="sideExpand4" class="mobile-sideMenuItem-plusMinus" src="img/mobile/plus_320.png">
+			</div><div id="investor" class="mobile-sideMenuSubItem">
+				<a href="for-investors.aspx" title="For Investors" class="ui-link">For Investors</a><br>
+				<a href="socially-responsible-investing.aspx" title="Socially Responsible Investing" class="ui-link">Socially Responsible Investing</a><br>
+				<a href="https://chpsecure.health-partners.org/corp/financeregistration.nsf/Registration?OpenForm" target="_blank" title="Quarterly Notification Registration" class="ui-link">Quarterly Notification Registration</a>
+			</div><div class="mobile-sideMenuItem" onclick="toggleMobileSubMenu('news','sideExpand5');">
+				News &amp; Media <img id="sideExpand5" class="mobile-sideMenuItem-plusMinus" src="img/mobile/plus_320.png">
+			</div><div id="news" class="mobile-sideMenuSubItem">
+				<a href="corporate-media-relations.aspx" title="Media Relations" class="ui-link">Media Relations</a><br>
+				<a href="news.aspx" title="News Releases" class="ui-link">News Releases</a><br>
+				<a href="news-release-archive.aspx" title="News Release Archive" class="ui-link">News Release Archive</a><br>
+				<a href="publications-archive.aspx" title="Publications Archive" class="ui-link">Publications Archive</a><br>
+				<a href="social-media.aspx" title="Social Media" class="ui-link">Social Media</a>
+			</div><a href="contact_us_form.aspx" class="ui-link">
+				<div class="mobile-sideMenuItem">
+					Contact Us
+				</div>
+			</a><a href="healthspan-partners.aspx" title="HealthSpan Partners" class="ui-link">
+				<div class="mobile-sideMenuItem">
+					HealthSpan
+				</div>
+			</a><a href="pdfs/Mercy-Health-at-a-Glance.pdf" target="_blank" class="ui-link">
+				<div class="mobile-sideMenuItem">
+					Mercy Health at a Glance
+				</div>
+			</a><a href="http://mercymychart.com" class="ui-link">
+				<div class="mobile-sideMenuItem">
+					MyChart
+				</div>
+			</a><div class="mobile-sideMenuItem" onclick="toggleMobileSubMenu('regions','sideExpand6');">
+				Regional Health Systems <img id="sideExpand6" class="mobile-sideMenuItem-plusMinus" src="img/mobile/plus_320.png">
+			</div><div id="regions" class="mobile-sideMenuSubItem">
+			<a href="http://www.e-mercy.com" class="ui-link">
+				
+					Cincinnati, OH
+				
+			</a><br>
+			
+			<a href="http://www.marcumandwallace.org/" class="ui-link">
+				
+					Irvine, KY
+				
+			</a><br>
+			
+			<a href="http://www.ehealthconnection.com/regions/mercy_st_ritas/" class="ui-link">
+				
+					Lima, OH
+				
+			</a><br>
+			
+			<a href="http://www.mercyonline.org/" class="ui-link">
+				
+					Lorain, OH
+				
+			</a><br>
+			
+			<a href="http://www.elourdes.com/" class="ui-link">
+				
+					Paducah, KY
+				
+			</a><br>
+			
+			<a href="http://community-mercy.org/" class="ui-link">
+				
+					Springfield, OH
+				
+			</a><br>
+			
+			<a href="http://www.mercyweb.org/" class="ui-link">
+				
+					Toledo, OH
+				
+			</a><br>
+			
+			<a href="http://www.hmpartners.org/" class="ui-link">
+				
+					Youngstown, OH
+				
+			</a>
+			</div></div>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</div>
+	        
+    
+<script type="text/javascript" src="js/menu.js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'8dc3e365-8a9f-4073-bf17-9454bee6a7b6'});</script>
+<script>
+	function clearSearch(){
+		var searchText = document.getElementById("keyword");
+		searchText.value='';
+	}
+	
+	function checkSearch(){
+		var searchText = document.getElementById("keyword");
+		if(searchText.value == ''){
+			searchText.value = 'Search'
 		}
 	}
 	
-	function searchDeselect(){
-		if(document.all.mainkeyword.value != "search"){	
-			document.all.mainkeyword.value = "";
-			document.all.mainkeyword.focus();
+	function submitSearch(){
+		var searchText = "";
+		searchText = $("#keyword").val().replace('char', 'chaar'); ;
+		if(searchText.length > 0){
+			if(searchText.toLowerCase() != 'search'){
+				window.location = "search_results.aspx?keyword="+searchText;
+			}else{
+				searchText = $("#txtMobileSearch").val();
+				if(searchText.length > 0){
+					if(searchText.toLowerCase() != 'search'){
+						window.location = "search_results.aspx?keyword="+searchText;
+					}
+				}
+			}
+		}else{
+			searchText = $("#txtMobileSearch").val();
+			if(searchText.length > 0){
+				if(searchText.toLowerCase() != 'search'){
+					window.location = "search_results.aspx?keyword="+searchText;
+				}
+			}
 		}
 	}
 </script>
+<script type="text/javascript" src="js/mobile.js"></script>
+<div id="headerWrapper">
+    <div id="mainHeaderTop">
+		<div id="mainLinks">	
+			<a href="http://www.e-mercy.com" class="ui-link">Cincinnati, OH</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://www.marcumandwallace.org/" class="ui-link">Irvine, KY</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://www.ehealthconnection.com/regions/mercy_st_ritas/" class="ui-link">Lima, OH</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://www.mercyonline.org/" class="ui-link">Lorain, OH</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://www.elourdes.com/" class="ui-link">Paducah, KY</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://community-mercy.org/" class="ui-link">Springfield, OH</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://www.mercyweb.org/" class="ui-link">Toledo, OH</a>
+			<span class="whiteSeparator">|</span>
+			<a href="http://www.hmpartners.org/" class="ui-link">Youngstown, OH</a>
 
-	<div id="wrapper">
-        <div id="header">
-			<a href="default.asp"><img src="img/logo2.gif" border="0" alt="logo" style="float:left;margin-top:6px;margin-left:15px;"></a>
-			<div style="float:right;padding-right:30px;margin-top:35px;">
-				<div style="float:right;margin-left:5px;">
-					<input type="image" id="btnGO" src="img/btn_go.gif" onclick="Javascript:sendSearch();">
-				</div>
-				<div style="float:right;">
-					<input type="text" name="mainkeyword" size="30" style="border:solid 1px #000;background-color:#FFFFCD;color:#03455D;" value="SEARCH" onfocus="Javascript:searchDeselect();">
-				</div>
-				<div>
-					<a href="http://mercymychart.com" target="_blank"><img src="img/mychartHeaderLogo.png" alt="MyChart" style="float:right;margin-top:10px;margin-left:12px;clear:right;border:0px;"></a>
-					<a href="pdfs/chp_at_a_glance.pdf" target="_blank"><img src="img/atAGlance.gif" alt="at glance" style="float:right;border:0px;margin-top:8px;clear:left;"></a>
-				</div>					
+		</div>
+		<div id="secondaryLinks">
+			Share This Page:<span class="st_twitter"></span><span class="st_facebook"></span><span class="st_sharethis"></span>
+		</div>
+	</div>
+	<div id="mainHeaderMiddle">
+		<div id="mobile-menu" class="mobileOrTablet"></div>
+		<a href="default.aspx" class="ui-link">
+			<div id="logo">
+				<img src="img/mercy-corporate-logo-desktop.png" id="mainLogo" alt="Mercy Health, Cincinnati, OH" border="0px">
 			</div>
+		</a>
+		<div id="searchWrapper">
+			<table cellspacing="0px" cellpadding="0px">
+				<tbody><tr>
+					<td id="searchWrapperDesktop">
+						<div class="ui-input-text ui-shadow-inset ui-corner-all ui-btn-shadow ui-body-c"><input class="searchTextBox ui-input-text ui-body-c" type="text" value="Search" size="30" id="keyword" name="keyword" onclick="clearSearch()" onblur="checkSearch()"></div>
+					</td>
+					<td width="25">
+						<img src="img/search_glass_button.jpg" onclick="submitSearch()"></td>
+				</tr>
+			</tbody></table>
 		</div>
-        <div id="menu">
-            
-			<script type="text/javascript" src="js/main_menu.asp"></script><div class="mmenu" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return _f" id="menu0" style="padding: 0px; background: rgb(215, 230, 230); border: 0px solid rgb(255, 0, 0); width: 990px; z-index: 999; visibility: visible;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl0"><tbody><tr><td id="el0" onmouseover="h$(0)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl0"><tbody><tr id="td0"><td id="_imgO0"><img onload="_p2(0)" border="0" style="display:block" id="img0" src="img/home_off.gif"></td></tr></tbody></table></td><td id="sep0" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el1" onmouseover="h$(1)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl1"><tbody><tr id="td1"><td id="_imgO1"><img onload="_p2(0)" border="0" style="display:block" id="img1" src="img/About_Us_off.gif"></td></tr></tbody></table></td><td id="sep1" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el2" onmouseover="h$(2)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl2"><tbody><tr id="td2"><td id="_imgO2"><img onload="_p2(0)" border="0" style="display:block" id="img2" src="img/High_Quality_Care_off.gif"></td></tr></tbody></table></td><td id="sep2" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el3" onmouseover="h$(3)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl3"><tbody><tr id="td3"><td id="_imgO3"><img onload="_p2(0)" border="0" style="display:block" id="img3" src="img/For_Physicians_off.gif"></td></tr></tbody></table></td><td id="sep3" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el4" onmouseover="h$(4)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl4"><tbody><tr id="td4"><td id="_imgO4"><img onload="_p2(0)" border="0" style="display:block" id="img4" src="img/Join_Our_Team_off.gif"></td></tr></tbody></table></td><td id="sep4" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el5" onmouseover="h$(5)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl5"><tbody><tr id="td5"><td id="_imgO5"><img onload="_p2(0)" border="0" style="display:block" id="img5" src="img/For_Investors_off.gif"></td></tr></tbody></table></td><td id="sep5" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el6" onmouseover="h$(6)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl6"><tbody><tr id="td6"><td id="_imgO6"><img onload="_p2(0)" border="0" style="display:block" id="img6" src="img/Newsroom_off.gif"></td></tr></tbody></table></td><td id="sep6" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el7" onmouseover="h$(7)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl7"><tbody><tr id="td7"><td id="_imgO7"><img onload="_p2(0)" border="0" style="display:block" id="img7" src="img/Contact_Us_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onmouseout="hidetip()" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot);return $L(this._itemRef)" style="line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return _f" id="menu1" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return _f" id="menu2" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return _f" id="menu3" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return _f" id="menu4" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return _f" id="menu5" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
-			
-        </div>
-        <div id="mainContainer">
-			<img id="printHeader" src="img/logo_print.gif">
-			
-						<div id="other">
-						
-						<div id="content">
-					
-<!--begin content-->
-<p><span class="titlePLUS">Privacy Statement</span></p>
-<p>This privacy statement describes the information gathering and dissemination practices for the Catholic Health Partners (CHP) corporate website (www.health-partners.org). Please read this statement carefully. It may change from time to time without notice, so please check back regularly.</p>
-<p><b>Information We Collect</b><br>
-The Catholic Health Partners corporate website does not collect or disclose information that identifies or that can be used to identify you personally; nor do we make use of cookies. However, we do collect nonpersonal information for aggregate study so that we may assess the effectiveness of particular sections, pages and features of our website. Included among these types of nonpersonal information are the number of visits to specific pages and the length of those visits, as well as visitor IP addresses and browser information.</p>
-<p>In order to use the Catholic Health Partners corporate website's Contact Us e-mail form to request additional information, you will need to provide us with your name and e-mail address.&nbsp;Your name and e-mail address will not be provided to any third parties. We also do track the number of requests we have received for particular kinds of information via the Contact Us feature, which guides us in determining additional information we may want to make directly available on our website in the future.</p>
-<p>In order to use the update notification registry feature provided in the Financial &amp; Investor Information section of Catholic Health Partners' corporate website, you will need to provide us with your e-mail address and additional contact information. The information you give us will not be provided to any third parties and will be used solely so that we may notify you by e-mail when quarterly updates are made to information in this section of our website.</p>
-<p>The Catholic Health Partners corporate website also allows you to submit an online resume in response to job openings at specific Catholic Health Partners organizations that are posted on this website. By using this feature to submit your resume, you are automatically consenting to the reproduction, distribution, sharing and transmittal of your resume to the extent necessary to facilitate the normal hiring practices of the Catholic Health Partners organization to which you have applied. We may share this information with any search firms we retain to help us fill positions.</p>
-<p>The Catholic Health Partners corporate website also provides links to pages on our regional websites that offer patients the opportunity to pay online for services received at specific facilities within our regions. Payment information submitted via these online bill payment features does not come directly to the Catholic Health Partners corporate website. If you use our regions' online bill payment features, please read their privacy/security statements carefully.</p>
-<p><b>Links to Other Websites</b><br>
-The Catholic Health Partners corporate website contains links to other websites, and we are not responsible for the privacy practices or the content of these other websites. The Catholic Health Partners corporate website also links to the websites of Catholic Health Partners' regions, and these regional websites post their own privacy policies, which differ from our own. If you visit our regions' websites, please read their privacy policies carefully.</p>
-<p><b>Contacting This Website</b><br>
-If you have any questions about this privacy statement, the practices of the Catholic Health Partners corporate website or your dealings with the Catholic Health Partners corporate website, you can contact us by <a href="contact_us.asp">completing this form</a>.</p>
-<p>&nbsp;</p>
-<!--end content-->
+	</div>
+	<div id="mainHeaderBottom">
+		<table cellpadding="0px" cellspacing="0px" align="center" style="z-index:100;" width="100%">
+			<tbody><tr>
+				<td class="mainMenuOffFiller">
+				
+				</td>
+				<td id="menuContainer1" class="mainMenuOff">
+					<a style="cursor:pointer;" onclick="openMenu(1)" id="ddMenu1Link" class="ui-link">OUR SYSTEM OF CARE</a>
+					<div class="dropDownMenu" id="ddMenu1">
+						<table cellpadding="0px" cellspacing="0px" style="margin-top:-10;">
+							<tbody><tr>
+								<td>
+									<div onclick="closeMenuFinal()" class="mainMenuClose_on" onmouseout="this.className='mainMenuClose_on';" onmouseover="this.className='mainMenuClose_off';"></div>
+									<br>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div class="menuSection menuSectionLeft">
+	<a href="message-from-ceo.aspx" title="A Message from Our CEO" class="ui-link">A Message from Our CEO</a><br>
+	<a href="advocacy-government-realtions.aspx" title="Advocacy &amp; Government Relations" class="ui-link">Advocacy &amp; Government Relations</a><br>
+	<a href="publications-archive.aspx" title="Annual Report" class="ui-link">Annual Report</a><br>
+	<a href="carepath.aspx" title="CarePATH" class="ui-link">CarePATH</a><br>
+	<a href="community-benefit.aspx" title="Community Benefit" class="ui-link">Community Benefit</a><br>
+	<a href="corporate-responsibility.aspx" title="Corporate Responsibility" class="ui-link">Corporate Responsibility</a><br>
+	<a href="diversity-inclusion.aspx" title="Diversity &amp; Inclusion" class="ui-link">Diversity &amp; Inclusion</a><br>
+	<a href="financial-assistance-programs.aspx" title="Financial Assistance Programs" class="ui-link">Financial Assistance Programs</a><br>
+	<a href="vendors.aspx" title="For Vendors" class="ui-link">For Vendors</a></div>
+<div class="menuDivider" style="height: 240px;">
+</div>
+<div class="menuSection menuSectionRight">
+	<a href="healthspan-partners.aspx" title="HealthSpan Partners" class="ui-link">HealthSpan Partners</a><br>
+	<a href="heritage.aspx" title="Heritage" class="ui-link">Heritage</a><br>
+	<a href="high-quality-care-quality-scores.aspx" title="High Quality Care" class="ui-link">High Quality Care</a><br>
+	<a href="hospital-pricing.aspx" title="Hospital Pricing" class="ui-link">Hospital Pricing</a><br>
+	<a href="leadership-and-governance.aspx" title="Leadership &amp; Governance" class="ui-link">Leadership &amp; Governance</a><br>
+	<a href="pdfs/Mercy-Health-at-a-glance.pdf" target="_blank" title="Mercy Health at a Glance" class="ui-link">Mercy Health at a Glance</a><br>
+	<a href="mercy-health-foundation.aspx" title="Mercy Health Foundations" class="ui-link">Mercy Health Foundations</a><br>
+	<a href="notice-of-privacy-practices.aspx" title="Notice of Privacy Practices" class="ui-link">Notice of Privacy Practices</a><br>
+	<a href="supplier-diversity.aspx" title="Supplier Diversity" class="ui-link">Supplier Diversity</a></div>
 
+
+								</td>
+							</tr>
+						</tbody></table>
 					</div>
+				</td>
+				<td class="mainMenuOff"><span id="separator1" class="greySeparator">|</span></td>
+				<td id="menuContainer2" class="mainMenuOff">
+					<a style="cursor:pointer;" onclick="openMenu(2)" id="ddMenu2Link" class="ui-link">PHYSICIAN RECRUITMENT</a>
+					<div class="dropDownMenu" id="ddMenu2">
+						<table cellpadding="0px" cellspacing="0px" style="margin-top:-10;">
+							<tbody><tr>
+								<td>
+						<div onclick="closeMenuFinal()" class="mainMenuClose_on" onmouseout="this.className='mainMenuClose_on';" onmouseover="this.className='mainMenuClose_off';"></div>
+						<br>
+						</td>
+							</tr>
+							<tr>
+								<td>
+						<div class="menuSection menuSectionLeft">
+	<a href="physician-employment-opportunities.aspx" title="Career Opportunities for Physicians" class="ui-link">Physician Employment Opportunities</a><br>
+	<a href="physician-opportunities-contact.aspx" title="Contact Physician Recruiting" class="ui-link">Contact Physician Recruiting</a><br>
+	<a href="electronic-medical-record.aspx" title="Electronic Health Record" class="ui-link">Electronic Health Record</a><br>
+	<a href="high-quality-care-quality-scores.aspx" title="High Quality Care" class="ui-link">High Quality Care</a><br>
+	<a href="medical-home-model.aspx" title="Medical Homes Model of Care" class="ui-link">Medical Homes Model of Care</a><br>
+	<a href="physician-opportunities-leadership-academy.aspx" title="Physician Leadership Academy" class="ui-link">Physician Leadership Academy</a><br>
+	<a href="where-we-live-work.aspx" title="Physician Leadership Academy" class="ui-link">Where We Live &amp; Work</a></div>
+
+
+						</td>
+							</tr>
+						</tbody></table>
 					</div>
-		            <div id="sideBar">
-						
-						<span class="sideBarTitle"></span>
-						<div style="background-color:#FEF8E3;border-top:solid 2px #FBE695;padding:10px;margin-top:5px;">
-						
-							<br><br>
-						</div>
-						
-						
-						
-						
-						
-						
-						<br><br>
-						<span class="sideBarTitle">Featured Links</span>
-						<div style="background-color:#FEF8E3;border-top:solid 2px #FBE695;padding:10px;margin-top:5px;">
-							<table class="sectionLinksTable">
-								<tbody><tr>
-									<td>
-										<a href="foundations.asp">Regional Foundations</a>
-									</td>
-								</tr>
-								<tr>
-									<td>
-										<a href="our_regions.asp">Regional Health Systems</a>
-									</td>
-								</tr>
-								<tr>
-									<td>
-										<a href="volunteering.asp">Volunteer Services</a>
-									</td>
-								</tr>
-							</tbody></table>
-							<br><br>
-						</div>
-						
-		            </div>
+				</td>
+				<td class="mainMenuOff"><span id="separator2" class="greySeparator">|</span></td>
+				<td id="menuContainer3" class="mainMenuOff">
+					<a style="cursor:pointer;" onclick="openMenu(3)" id="ddMenu3Link" class="ui-link">CAREERS</a>
+					<div class="dropDownMenu" id="ddMenu3">
+						<table cellpadding="0px" cellspacing="0px" style="margin-top:-10;">
+							<tbody><tr>
+								<td>
+						<div onclick="closeMenuFinal()" class="mainMenuClose_on" onmouseout="this.className='mainMenuClose_on';" onmouseover="this.className='mainMenuClose_off';"></div>
+						<br>
+						</td>
+							</tr>
+							<tr>
+								<td>
+						<div class="menuSection menuSectionLeft">
+	<a href="http://mercy.ttcportals.com/" title="Careers &amp; Job Openings" class="ui-link">Careers &amp; Job Openings</a><br>
+	<a href="careers-compensation-benefits.aspx" title="Compensation &amp; Benefits" class="ui-link">Compensation &amp; Benefits</a><br>
+	<a href="diversity-inclusion.aspx" title="Diversity &amp; Inclusion" class="ui-link">Diversity &amp; Inclusion</a><br>
+	<a href="careers-fellowship-program.aspx" title="Fellowship Program" class="ui-link">Fellowship Program</a><br>
+	<a href="physician-employment-opportunities.aspx" title="Physician Employment Opportunities" class="ui-link">Physician Employment Opportunities</a><br>
+	<a href="http://mercy.ttcportals.com/" target="_blank" title="Search &amp; Apply for Jobs" class="ui-link">Search &amp; Apply for Jobs</a><br>
+	<a href="careers-volunteering.aspx" title="Volunteering" class="ui-link">Volunteering</a><br>
+	<a href="where-we-live-work.aspx" title="Where We Live &amp; Work" class="ui-link">Where We Live &amp; Work</a></div>
+
+
+						</td>
+							</tr>
+						</tbody></table>
+					</div>
+				</td>
+				<td class="mainMenuOff"><span id="separator3" class="greySeparator">|</span></td>
+				<td id="menuContainer4" class="mainMenuOff">
+					<a style="cursor:pointer;" onclick="openMenu(4)" id="ddMenu4Link" class="ui-link">FINANCIAL INFORMATION</a>
+					<div class="dropDownMenu" id="ddMenu4">
+						<table cellpadding="0px" cellspacing="0px" style="margin-top:-10;">
+							<tbody><tr>
+								<td>
+						<div onclick="closeMenuFinal()" class="mainMenuClose_on" onmouseout="this.className='mainMenuClose_on';" onmouseover="this.className='mainMenuClose_off';"></div>
+						<br>
+						</td>
+							</tr>
+							<tr>
+								<td>
+						<div class="menuSection menuSectionLeft">
+	<a href="for-investors.aspx" title="For Investors" class="ui-link">For Investors</a><br>
+	<a href="socially-responsible-investing.aspx" title="Socially Responsible Investing" class="ui-link">Socially Responsible Investing</a><br>
+	<a href="https://chpsecure.health-partners.org/corp/financeregistration.nsf/Registration?OpenForm" target="_blank" title="Quarterly Notification Registration" class="ui-link">Quarterly Notification Registration</a>
+</div>
+
+
+						</td>
+							</tr>
+						</tbody></table>
+					</div>
+				</td>
+				<td class="mainMenuOff"><span id="separator4" class="greySeparator">|</span></td>
+				<td id="menuContainer5" class="mainMenuOff">
+					<a style="cursor:pointer;" onclick="openMenu(5)" id="ddMenu5Link" class="ui-link">NEWS &amp; MEDIA</a>
+				</td>
+				<td class="mainMenuOff"><span id="separator5" class="greySeparator">|</span>
+					<div id="ddMenu5Wrapper">
+						<div class="dropDownMenu" id="ddMenu5">
+						<table cellpadding="0px" cellspacing="0px" style="margin-top:-10;">
+							<tbody><tr>
+								<td>
+						<div onclick="closeMenuFinal()" class="mainMenuClose_on" onmouseout="this.className='mainMenuClose_on';" onmouseover="this.className='mainMenuClose_off';"></div>
+						<br>
+						</td>
+							</tr>
+							<tr>
+								<td>
+						<div class="menuSection menuSectionLeft">
+	<a href="corporate-media-relations.aspx" title="Media Relations" class="ui-link">Media Relations</a><br>
+	<a href="news.aspx" title="News Releases" class="ui-link">News Releases</a><br>
+	<a href="news-release-archive.aspx" title="News Release Archive" class="ui-link">News Release Archive</a><br>
+	<a href="publications-archive.aspx" title="Publications Archive" class="ui-link">Publications Archive</a><br>
+	<a href="social-media.aspx" title="Social Media" class="ui-link">Social Media</a></div>
+
+
+						</td>
+							</tr>
+						</tbody></table>
+					</div>
+					<div class="shim"></div>
+					</div>
+				</td>
+				<td id="menuContainer6" class="mainMenuOff">
+					<a style="cursor:pointer;" href="contact_us_form.aspx" id="ddMenu6Link" class="ui-link">CONTACT US</a>
+				</td>
+				<td class="mainMenuOffFiller">
+
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+</div>
+<script>
+	$("form").submit(function(e) {
+		e.preventDefault();
+	});
+
+	$('#searchWrapper input').bind('keypress', function(e) {
+        if(e.keyCode==13){
+			submitSearch();
+        }
+	});
+	
+	$('#txtMobileSearch').live('keypress', function(e) {
+		if(e.keyCode==13){
+			submitSearch();
+	    }
+	});
+</script>
+
+    <div id="mainContentWrapper">
+        <div id="breadCrumbs">
+		    <a href="default.aspx" class="ui-link">Home</a> &gt; Privacy Statement
+		</div>
+        <div id="divPageTitle">
+            
+<link rel="Stylesheet" href="css/secondary.css">
+<h1>Privacy Statement</h1>
+
+			<table class="mobileOrTableVisible" cellpadding="0px" cellspacing="0px" style="width:100%;">
+				<tbody><tr>
+					<td id="mobileLeftMenu" valign="middle">
+						<a href="privacy-statement.aspx" class="ui-link">Privacy Statement</a>
+					</td>
+					<td id="mobileRightMenu">
+					</td>
+				</tr>
+			</tbody></table>
+        </div>
+		
+		<table cellpadding="0" cellspacing="0" style="margin-bottom:10px;">
+			<tbody><tr>
+				<td id="mainColumnLeft" valign="top">
+					<h1 class="mobileOrTablet"></h1>
 					
-	        </div>
-	        <div id="footer">
-	            <p>
-	            © 2014 Catholic Health Partners. All rights reserved.<br>
-	            <a href="disclaimer.asp">Disclaimer</a> // 
-	            <a href="privacy.asp">Privacy Statement</a> // 
-	            <a href="terms_of_use.asp">Terms of Use</a><br>
-	            Last Modified 11/15/2010 <br>
-	            </p>
-	        </div>
-		</div>
-		<div id="bottomShadow">
-		</div>
+	<!--begin content-->
+	<p>
+	This privacy statement describes the information gathering and dissemination practices for the Mercy Health corporate website (www.Mercy.com). Please read this statement carefully. It may change from time to time without notice, so please check back regularly.</p>
+<h2>
+	Information We Collect</h2>
+<p>
+	The Mercy Health corporate website does not collect or disclose information that identifies or that can be used to identify you personally; nor do we make use of cookies. However, we do collect nonpersonal information for aggregate study so that we may assess the effectiveness of particular sections, pages and features of our website. Included among these types of nonpersonal information are the number of visits to specific pages and the length of those visits, as well as visitor IP addresses and browser information.</p>
+<p>
+	In order to use the Mercy Health corporate website's Contact Us e-mail form to request additional information, you will need to provide us with your name and e-mail address. Your name and e-mail address will not be provided to any third parties. We also do track the number of requests we have received for particular kinds of information via the Contact Us feature, which guides us in determining additional information we may want to make directly available on our website in the future.</p>
+<p>
+	In order to use the update notification registry feature provided in the Financial &amp; Investor Information section of Mercy Health's corporate website, you will need to provide us with your e-mail address and additional contact information. The information you give us will not be provided to any third parties and will be used solely so that we may notify you by e-mail when quarterly updates are made to information in this section of our website.</p>
+<p>
+	The Mercy Health corporate website also allows you to submit an online resume in response to job openings at specific Mercy Health organizations that are posted on this website. By using this feature to submit your resume, you are automatically consenting to the reproduction, distribution, sharing and transmittal of your resume to the extent necessary to facilitate the normal hiring practices of the Mercy Health organization to which you have applied. We may share this information with any search firms we retain to help us fill positions.</p>
+<p>
+	The Mercy Health corporate website also provides links to pages on our regional websites that offer patients the opportunity to pay online for services received at specific facilities within our regions. Payment information submitted via these online bill payment features does not come directly to the Mercy Health corporate website. If you use our regions' online bill payment features, please read their privacy/security statements carefully.</p>
+<h2>
+	Links to Other Websites</h2>
+<p>
+	The Mercy Health corporate website contains links to other websites, and we are not responsible for the privacy practices or the content of these other websites. The Mercy Health corporate website also links to the websites of Mercy Health's regions, and these regional websites post their own privacy policies, which differ from our own. If you visit our regions' websites, please read their privacy policies carefully.</p>
+<h2>
+	Contacting This Website</h2>
+<p>
+	If you have any questions about this privacy statement, the practices of the Mercy Health corporate website or your dealings with the Mercy Health corporate website, you can contact us by <a href="contact_us_form.aspx" class="ui-link">completing this form</a>.</p>
+
+	<!--end content-->
+
+				</td>
+				<td id="mainColumnRight" valign="top">
+					<div class="vertMenuLevel1"><a href="disclaimer.aspx" class="ui-link">Disclaimers</a><div class="shim"></div></div><div class="vertMenuLevel1"><a href="privacy-statement.aspx" class="ui-link">Privacy Statement</a><div class="shim"></div></div><script src="js/verticalMenu.js"></script><script>openVertMenuInit('vertMenu_58');</script><h1>News</h1><div id="rightNews"><h2 id="rightNewsFacility">At Mercy Health</h2><div id="rightNewsContent">Please check again later for more news.</div><a class="dynamic_button ui-link" href="news.aspx"><span>VIEW MORE NEWS</span></a></div><br><script type="text/javascript" src="js/news.js"></script><script>getFacilityNews("all",3);</script><div class="divider"></div><div id="rightTwitterTitle"><h2>Mercy Health on Twitter</h2></div><div id="rightCalendar"><a class="twitter-timeline ui-link" data-chrome="nofooter transparent" data-tweet-limit="3" width="100%" data-dnt="true" href="https://twitter.com/CHPUpdate" data-widget-id="469499207850545152">Tweets by @LivingMercyHealth</a><script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script><script src="js/customize-twitter-1.1.min.js" type="text/javascript"></script><script>var options = {"url": "css/twitter.css"};CustomizeTwitterWidget(options);</script></div><br>
+            		
+
+				</td>
+			</tr>
+		</tbody></table>
+    </div>
     
 
+<div id="footerWrapper">
+	<div id="footerTop">
+		A Catholic healthcare ministry serving Ohio and Kentucky
+	</div>
+    <div class="footerSections">
+		<h1>Mercy Health</h1>
+		<hr>
+				
+			<a href="message-from-ceo.aspx" title="A Message from Our CEO" class="ui-link">A Message from Our CEO</a><br>
+	<!--		<a href="about-our-sy-of-care.aspx" title="About Our System of Care">About Our System of Care</a><br />  -->
+			<a href="careers-job-opportunities.aspx" title="Careers &amp; Job Openings" class="ui-link">Careers &amp; Job Openings</a><br>
+			<a href="corporate-media-relations.aspx" title="Corporate Media Relations" class="ui-link">Corporate Media Relations</a><br>
+            <a href="corporate-responsibility.aspx" title="Corporate Responsibility" class="ui-link">Corporate Responsibility</a><br>            
+			<a href="for-investors.aspx" title="For Investors" class="ui-link">For Investors</a><br>
+			<a href="vendors.aspx" title="For Vendors" class="ui-link">For Vendors</a><br>
+			<a href="healthspan-partners.aspx" title="HealthSpan Partners" class="ui-link">HealthSpan Partners</a><br>
+			<a href="leadership-and-governance.aspx" title="Leadership &amp; Governance" class="ui-link">Leadership &amp; Governance</a><br>
+			<a href="pdfs/Mercy-Health-at-a-Glance.pdf" target="_blank" title="Mercy Health at a Glance" class="ui-link">Mercy Health at a Glance</a><br>
+			<a href="http://mercymychart.com/" target="_blank" title="MyChart" class="ui-link">MyChart</a><br>
+			<a href="physician-employment-opportunities.aspx" title="Physician Career Opportunities" class="ui-link">Physician Employment Opportunities</a>		
+	</div>
+	<div class="footerSections">
+		<h1>Site Information</h1>
+		<hr>
+		
+			<a href="disclaimer.aspx" title="Disclaimer" class="ui-link">Disclaimer</a><br>
+			<a href="privacy-statement.aspx" title="Privacy Statement" class="ui-link">Privacy Statement</a><br>
+			<a href="notice-of-privacy-practices.aspx" title="Notice of Privacy Practices" class="ui-link">Notice of Privacy Practices</a><br>
+			<a href="contact_us_form.aspx" title="Send Us Feedback" class="ui-link">Send Us Feedback</a><br>
+            
+            
+		
+	</div>
+	<div class="footerSections stayConnected">
+		<h1>Stay Connected</h1>
+		<hr>
+			<a href="news.aspx" title="Mercy Health News" class="ui-link">Mercy Health News</a>
+			<a href="contact_us_form.aspx" title="Contact Us" class="ui-link">Contact Us</a>
+			<a href="https://www.facebook.com/LivingMercyHealth" title="Mercy Health's Facebook Page" target="_blank" class="ui-link"><img src="img/footer_icon_facebook.png" alt="Facebook">Facebook</a>
+		<!--	<a href="https://plus.google.com/+Health-partnersOrg/posts" title="Mercy Health's Google Plus Page" target="_blank"><img src="img/footer_icon_google_plus.png" alt="Google Plus" />G+</a> -->
+            <a href="https://plus.google.com/+Health-partnersOrg" rel="publisher" title="Mercy Health's Google Plus Page" target="_blank" class="ui-link"><img src="img/footer_icon_google_plus.png" alt="Google Plus">G+</a>
+			<a href="https://www.linkedin.com/company/mercyhealth-formerlycatholichealthpartners" title="Mercy Health's LinkedIn Page" target="_blank" class="ui-link"><img src="img/footer_icon_linkedin.png" alt="LinkedIn">LinkedIn</a>
+			<a href="http://www.pinterest.com/LivingMercyHlth/" title="Mercy Health's Pinterest Page" target="_blank" class="ui-link"><img src="img/footer_icon_pinterest.png" alt="Pinterest">Pinterest</a>
+			<a href="https://twitter.com/LivingMercyHlth" title="Mercy Health's Twitter Feed" target="_blank" class="ui-link"><img src="img/footer_icon_twitter.png" alt="Twitter">Twitter</a>
+			<a href="https://www.youtube.com/user/LivingMercyHealth" title="Mercy Health's YouTube Channel" target="_blank" class="ui-link"><img src="img/footer_icon_youtube.png" alt="YouTube">YouTube</a>
+	</div>
+	<div class="shim"></div>
+    <div id="footerBottom">
+		<div class="mobile" id="mobile-footer" style="text-align:center;">
+			<div style="margin:5px auto 10px auto;">
+				<div style="margin:0px auto;">
+					<a href="https://www.facebook.com/LivingMercyHealth" target="_blank" class="ui-link"><img src="img/mobile/icon_facebook_42.png" style="margin-right:1em;"></a>
+					<a href="https://twitter.com/LivingMercyHlth" target="_blank" class="ui-link"><img src="img/mobile/icon_twitter_42.png" style="margin-right:1em;"></a>
+					<a href="https://www.youtube.com/user/LivingMercyHealth" target="_blank" class="ui-link"><img src="img/mobile/icon_youtube_42.png" style="margin-right:1em;"></a>
+					<a href="http://www.pinterest.com/LivingMercyHlth/" target="_blank" class="ui-link"><img src="img/mobile/icon_pinterest_42.png" style="margin-right:1em;"></a>
+			<!--		<a href="https://plus.google.com/+Health-partnersOrg/posts" title="Mercy Health's Google Plus Page" target="_blank"><img src="img/mobile/icon_google_plus_42.png" style="margin-top:1em;margin-right:1em;" /></a> -->
+                    <a href="https://plus.google.com/+Health-partnersOrg" rel="publisher" title="Mercy Health's Google Plus Page" target="_blank" class="ui-link"><img src="img/mobile/icon_google_plus_42.png" style="margin-top:1em;margin-right:1em;"></a>
+					<a href="https://www.linkedin.com/company/mercyhealth-formerlycatholichealthpartners" title="Mercy Health's LinkedIn Page" target="_blank" class="ui-link"><img src="img/mobile/icon_linkedin_42.png" style="margin-top:1em;margin-right:1em;"></a>
+					<div class="shim"></div>
+				</div>
+				<div class="shim"></div>
+			</div>
+			<a href="about-our-sy-of-care.aspx" class="ui-link">About</a>
+			<span class="mobile-footer-divider">|</span>
+			<a href="careers-job-opportunities.aspx" class="ui-link">Careers</a>
+			<span class="mobile-footer-divider">|</span>
+			<a href="contact_us_form.aspx" class="ui-link">Contact</a>
+			<br>
+			<a href="disclaimer.aspx" class="ui-link">Disclaimer</a>
+			<span class="mobile-footer-divider">|</span>
+			<a href="privacy-statement.aspx" class="ui-link">Privacy Statement</a>
+			<br>
+			<a href="notice-of-privacy-practices.aspx" class="ui-link">Notice of Privacy Practices</a>
+            
+		</div>
+        <div id="footerBottomLeft">
+            ©2015 Mercy Health. All Rights Reserved
+        </div>
+        <div id="footerBottomRight">
+			Date Last Modified: <span id="ctl00_ctl00_cphMainContent_ucFooter_lbDatemodified">7/22/2014 9:37:51 AM</span>
+        </div>
+		<div class="shim"></div>
+    </div>
+</div>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-41003293-1', 'health-partners.org');
-  ga('send', 'pageview');
-
-</script>
+	    <div class="ui-panel-dismiss" data-panelid="mobile-sideMenu"></div></div>
+    <div class="ui-loader ui-corner-all ui-body-a ui-loader-default"><span class="ui-icon ui-icon-loading"></span><h1>loading</h1></div></form>
 
 <!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
@@ -631,7 +774,7 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
 }
 //-->
-</script>
+</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs2i2uwr10000gkyksyb0cm0_9l1o/wtid.js"></script>
 <script type="text/javascript"><!--
 function dcsVar(){
 	var dCurrent=new Date();
@@ -814,4 +957,16 @@ dcsTag();
 <IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs2i2uwr10000gkyksyb0cm0_9l1o/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->	
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T5HWP7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5HWP7');</script>
+<!-- End Google Tag Manager -->
+
+
 </body></html>
