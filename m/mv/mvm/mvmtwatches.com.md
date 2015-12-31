@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mvmtwatches.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513025339id_/http%3A//www.mvmtwatches.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvmtwatches.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231204638id_/http%3A//www.mvmtwatches.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MVMT Watches
 
@@ -65,6 +65,8 @@ cart, unique token, persistent for 2 weeks, Stores information about the content
 _secure_session_id, unique token, sessional  
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
 PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
+
+We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted OurTime.com advertising during your visits to other websites. To opt-out of OurTime.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.mvmtwatches.com/optout.html)
 
 SECTION 8 - AGE OF CONSENT
 
