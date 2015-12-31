@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giganews.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623173538id_/https%3A//www.giganews.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giganews.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231233136id_/http%3A//www.giganews.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent boxsizing mediaqueries lastchild pointerevents cssresize placeholder formvalidation"><head>
   <title>Privacy Policy - Giganews</title>
@@ -7,9 +7,9 @@
   <meta name="description" content="Giganews' policies to protect the privacy of our Usenet members, including policies concerning civil and criminal investigation, the use of personal information, and Usenet usage information.">
   <meta name="keywords" content="newsgroups, usenet, news servers, newsgroup, service, giganews, privacy, investigations, policy, legal, nntp">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="Robots" content="index,follow">
+  <meta name="robots" content="index,follow">
   <meta name="com.silverpop.brandeddomains" content="www.pages02.net,giganews.com,goldenfrog.mkt6294.com">
-  <meta name="com.silverpop.cothost" content="engage2.silverpop.com"> 
+  <meta name="com.silverpop.cothost" content="engage2.silverpop.com">
   <link href="https://plus.google.com/110275737366058294882" rel="publisher">
   <link rel="alternate" hreflang="pt" href="http://br.giganews.com/legal/privacy.html">
   <link rel="alternate" hreflang="zh" href="http://cn.giganews.com/legal/privacy.html">
@@ -26,7 +26,7 @@
   <!--[if IE]>
   <link rel="stylesheet" href="/styles/ie/gn.css" title="Giganews" type="text/css" />
   <![endif]-->
-  <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/modernizr.custom.min.js"></script>
+  <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/modernizr.custom.min.js"></script>
   <script type="text/javascript" src="https://use.typekit.com/lav7mbm.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
@@ -50,7 +50,7 @@
     vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); }); }
   // ]]> --></script>
 
-  <script src="//cdn.optimizely.com/js/3077250909.js"></script>
+  <script type="text/javascript" src="//cdn.optimizely.com/js/3077250909.js"></script>
 
 <script type="text/javascript" src="/js/extga-min.js"></script>
 <script type="text/javascript">// <![CDATA[
@@ -84,6 +84,10 @@
   var pageviewUrlIsUpdated = false;
   var pageviewUrl = document.URL.replace(/^http[s]?:\/\/[^\/?#]+/, "");
 
+  // Optimizely Universal Analytics Integration Code
+  window.optimizely = window.optimizely || [];
+  window.optimizely.push("activateUniversalAnalytics");
+
   if (pageviewUrlIsUpdated) {
     ga('send', 'pageview', pageviewUrl);
   } else {
@@ -106,13 +110,13 @@
 <script type="text/javascript">
   $(document).ready(function() {
     var $gnLogin = $('#gnLogin');
-    
+
     $gnLogin.find('A').first().click( function() {
     $(this).siblings('.dropdown-menu').toggle();
       checkLoginActive();
       return false;
     })
-        
+
     $(document).click(function(event) {
       if ( $(event.target).closest('.dropdown-menu').get(0) == null ) {
         $gnLogin.find('.dropdown-menu').hide();
@@ -123,8 +127,10 @@
     function checkLoginActive() {
       if ( $gnLogin.find('.dropdown-menu').is(':visible') ) {
         $gnLogin.addClass('active');
+        $gnLogin.find('.gnCta-6').addClass('active');
       } else {
         $gnLogin.removeClass('active');
+        $gnLogin.find('.gnCta-6').removeClass('active');
       }
     }
   });
@@ -136,7 +142,7 @@
   $(document).ready(function() {
     var gnSearchBox = $('#gnSearch').find('INPUT'),
         gnSearchDefault = $(gnSearchBox).val();
-  
+
     $(gnSearchBox).focusin(function() {
       if ($(gnSearchBox).val() == gnSearchDefault) {
         $(this).val('');
@@ -173,104 +179,72 @@
 <!--END OF MARK PARENT PAGE NAV ITEM AS ACTIVE FOR SUBPAGES-->
 
 <!-- HEADER -->
-<div id="gnHeader" class="gnBodyWrapper">
-  <div class="gnBodyContent">
-    <a id="gnLogo" title="Giganews" href="/">Usenet Newsgroups by Giganews</a>
-
-    <!-- LOGGED OUT -->
-    <ul id="gnNav-cta" class="gnNav gnLoggedOut">
-      <li id="gnLogin" class="more">
-        <a href="https://www.giganews.com/auth?destination=%2Flegal%2Fprivacy.html" title="Login" rel="nofollow">Log In</a>
-        <form class="dropdown-menu" id="auth" action="https://www.giganews.com/auth/" method="post">
-          <fieldset>
-            <label>
-              Username
-              <input type="text" class="text" name="credential_0" size="12">
-            </label>
-            <label>
-              Password
-              <input type="password" class="password" name="credential_1" size="12">
-            </label>
-            <input type="hidden" name="destination" value="/controlpanel/">
-            <button type="submit" name="go">Login</button>
-            <a class="button" href="/password.html">Forgot Password?</a>
-          </fieldset>
-        </form>
-      </li>
-      <li id="freeTrial">
-        <a href="/signup/" title="Start Free Trial">Start Free Trial</a>
-      </li>
-    </ul>
-    <!-- END OF LOGGED OUT -->
+<div id="gnHeader" class="">
+  <div class="container clearfix">
+    <a id="gnLogo" title="Giganews" href="/"><img src="/images/giganews_logo.png" alt="Usenet Newsgroups by Giganews"></a>
 
       <ul id="gnNav" class="gnNav">
-      <li class="whyGN more first"><a class="" href="/why.html">Why Giganews?</a>
+      <li class="nav-item nav-item-features more first"><a class="" href="/why.html">Features</a>
         <ul>
-          <li><a href="/why.html">World's Best Usenet</a></li>
+          <li><a href="/why.html">Why Giganews?</a></li>
+          <li><a href="/vyprvpn/">VyprVPN</a></li>
+          <li><a href="/mimo/">Mimo</a></li>
           <li><a href="/giganews-review/">Customer Reviews</a></li>
           <li><a href="/accelerator.html">Giganews Accelerator</a></li>
-          <li><a href="/mobile/control-panel-app/">Giganews Mobile App</a></li>
         </ul>
       </li>
-      <li class="vyprvpn more"><a class="" href="/vyprvpn/">VyprVPN</a>
-        <ul>
-          <li><a href="/vyprvpn/">Overview</a></li>
-          <li><a href="/vyprvpn/why-vpn.html">Why Do I Need a VPN?</a></li>
-          <li><a href="/vyprvpn/compare-vpn-protocols.html">Compare Protocols</a></li>
-          <li><a href="/vyprvpn/desktop/">Desktop</a></li>
-          <li><a href="/vyprvpn/mobile/">Mobile</a></li>
-          <li><a href="/vyprvpn/vpn-server-locations.html">Server Locations</a></li>
-        </ul>
-      </li>
-      <li class="dumptruck more"><a class="" href="/dumptruck/">Dump Truck</a>
-        <ul>
-          <li><a href="/dumptruck/">Overview</a></li>
-          <li><a href="/dumptruck/files-on-the-go.html">Your Files - Anywhere</a></li>
-          <li><a href="/dumptruck/secure-sharing.html">Secure Sharing</a></li>
-          <li><a href="/dumptruck/mobile-apps.html">Mobile Apps</a></li>
-          <li><a href="/dumptruck/web-app.html">Web App</a></li>
-          <li><a href="/dumptruck/security-privacy.html">Privacy &amp; Security</a></li>
-          <li><a href="/dumptruck/performance.html">Performance</a></li>
-          <li><a href="http://dumptruck.giganews.com">Web App Login</a></li>
-          <li><a href="https://www.goldenfrog.com/dumptruck/download">Download</a></li>
-        </ul>
-      </li>
-      <li class="mimo more"><a class="" href="/mimo/">Mimo</a>
-        <ul>
-          <li><a href="/mimo/">Overview</a></li>
-          <li><a href="http://www.mimousenet.com/download">Download</a></li>
-        </ul>
-      </li>
-      <li class="support more last"><a class="" href="/support/">Support</a>
+      <li class="nav-item nav-item-support more"><a class="" href="/support/">Support</a>
         <ul>
           <li><a href="/support/">Overview</a></li>
           <li><a href="/welcome-kit.html">Welcome Kit</a></li>
           <li><a href="/support/usenet/">Usenet Support</a></li>
           <li><a href="/support/vyprvpn/">VyprVPN Support</a></li>
-          <li><a href="/support/dumptruck/">Dump Truck Support</a></li>
           <li><a href="/support/mimo/">Mimo Support</a></li>
           <li><a href="/contact.html">Contact Support</a></li>
         </ul>
       </li>
-      <li class="blog"><a href="/blog/">Blog</a></li>
+      <li class="nav-item nav-item-blog"><a href="/blog/">Blog</a></li>
+
+
+    <!-- LOGGED OUT -->
+    <li id="gnLogin" class="nav-item nav-item-signin more">
+      <a href="https://www.giganews.com/auth?destination=%2Flegal%2Fprivacy.html" title="Sign in" rel="nofollow" class="gnCta-6 bordered">Sign in</a>
+      <ul class="dropdown-menu">
+        <li>
+          <form id="auth" action="https://www.giganews.com/auth/" method="post">
+            <fieldset>
+              <label>
+                Username
+                <input type="text" class="text" name="credential_0" size="12">
+              </label>
+              <label>
+                Password
+                <input type="password" class="password" name="credential_1" size="12">
+              </label>
+              <input type="hidden" name="destination" value="/controlpanel/">
+              <button type="submit" name="go">Login</button>
+              <a class="button" href="/password.html">Forgot Password?</a>
+            </fieldset>
+          </form>
+        </li>
+      </ul>
+    </li>
+    <li class="nav-item nav-item-signup last" id="freeTrial">
+      <a href="/signup/" title="Sign up" class="gnCta-6 red">Sign up</a>
+    </li>
+    <!-- END OF LOGGED OUT -->
     </ul>
 
+    <!--
     <div id="gnSearch">
       <form id="search" action="/search.html" method="get">
         <fieldset>
-          <input type="text" size="10" name="search_phrase" value="Search">
+          <input type="text" size="10" name="search_phrase" value="Search" />
           <button type="submit" name="go">Search</button>
         </fieldset>
       </form>
     </div>
-
-        <ul class="socialIcons">
-      <li class="facebook"><a class="outbound" href="http://www.facebook.com/giganews">Giganews Facebook</a></li>
-      <li class="twitter"><a class="outbound" href="http://www.twitter.com/giganews">Giganews Twitter</a></li>
-      <li class="youtube"><a class="outbound" href="http://www.youtube.com/giganews">Giganews YouTube</a></li>
-      <li class="linkedin"><a class="outbound" href="http://www.linkedin.com/company/giganews">Giganews LinkedIn</a></li>
-      <li class="gplus"><a class="outbound" href="https://plus.google.com/110275737366058294882/" rel="publisher">Giganews Google Plus</a></li>
-    </ul>
+    -->
 
 <!--
     <div id="gnRetention">
@@ -282,7 +256,6 @@
     </div>
 -->
 
-    <a class="nowHiringBug" href="/careers"></a>
   </div>
 </div>
 
@@ -360,7 +333,6 @@
                 <option value="">Please choose a product or service</option>
                 <option value="usenet">Usenet</option>
                 <option value="vyprvpn">VyprVPN</option>
-                <option value="dumptruck">Dump Truck</option>
                 <option value="mimo">Mimo</option>
               </select>
               <em class="error">This is a required field</em>
@@ -487,7 +459,6 @@ Giganews holds personal information about you in the strictest confidence and do
           <span class="feature first">Unlimited Usenet + SSL</span>
           <span class="feature">50 Connections</span>
           <span class="feature">VyprVPN Pro</span>
-          <span class="feature">30 GB Dump Truck Online Storage</span>
           <span class="feature">Mimo Usenet Browser + Search</span>
         </span>
         <span class="price-block">
@@ -506,7 +477,6 @@ Giganews holds personal information about you in the strictest confidence and do
           <span class="feature first">Unlimited Usenet + SSL</span>
           <span class="feature">20 Connections</span>
           <span class="feature">VyprVPN Basic</span>
-          <span class="feature">5 GB Dump Truck Online Storage</span>
           <span class="feature">Mimo Usenet Browser + Search</span>
         </span>
         <span class="price-block">
@@ -522,7 +492,6 @@ Giganews holds personal information about you in the strictest confidence and do
           <span class="name">SILVER</span>
           <span class="feature first">50GB Usenet + SSL</span>
           <span class="feature">20 Connections</span>
-          <span class="feature">5 GB Dump Truck Online Storage</span>
           <span class="feature">Mimo Usenet Browser + Search</span>
         </span>
         <span class="price-block">
@@ -543,8 +512,8 @@ Giganews holds personal information about you in the strictest confidence and do
   <h3>What People are Saying</h3>
   <blockquote class="testimonial">
     <p>
-    I love the price, the simplicity and the damn cool Mimo. And the VPN! Oh my gosh, the VPN is the deal breaker!
-    <cite>Zhiva - Bærum, Norway</cite>
+    You are the only usenet provider I know of to throw parties for their users. I aso dont have to pay extra for a VPN service which rocks. You guys are shiny ;-)
+    <cite>Ian - Augusta, Georgia</cite>
     </p>
   </blockquote>
   <span id="triangle"></span>
@@ -582,71 +551,99 @@ Giganews holds personal information about you in the strictest confidence and do
 <!--UdmComment-->
 </div>
 
-  <div id="bottomCta">
+  <div id="bottomCta" class="bg-purple">
     <span>Get the best Usenet service in the world!</span>
     <a class="gnCta-6 red" href="/signup">Start Free Trial</a>
   </div>
 <div id="gnFooter" class="gnBodyWrapper">
-  <div class="gnBodyContent">
-    <div class="columns">
-      <div class="first">
-        <h3>Giganews</h3>
-        <ul>
-          <li><a href="/corporate.html">About Us</a></li>
-          <li><a rel="nofollow" href="/legal/tos_personal.html">Terms of Service</a></li>
-          <li><a rel="nofollow" href="/legal">Legal</a></li>
-          <li><a rel="nofollow" href="/legal/privacy.html">Privacy Policy</a></li>
-          <li><a rel="nofollow" href="/legal/dmca.html">DMCA</a></li>
-          <li><a rel="nofollow" href="/feedback.html">Site Feedback</a></li>
-          <li><a href="/sitemap.html">Site Map</a></li>
-          <li><a rel="nofollow" href="/affiliates">Affiliates</a></li>
-          <li><a href="/outsourcing.html">Outsourcing</a></li>
-          <li><a href="/careers">Careers</a></li>
+  <div class="container container-1180">
+    <div class="gn-grid-container">
+      <div class="gn-grid-col gn-grid-col-8 footer-nav">
+        <ul class="gn-grid-container">
+        <li class="gn-grid-col gn-grid-col-3 col-giganews">
+          <h3>Giganews</h3>
+          <ul>
+            <li><a href="/why.html">Features</a></li>
+            <li><a href="/signup">Plans</a></li>
+            <li><a href="/giganews-review/">Testimonials</a></li>
+            <li><a href="/refer">Refer a Friend</a></li>
+            <li><a href="/legal/tos_personal.html">Terms of Service</a></li>
+            <li><a rel="nofollow" href="/affiliates">Affiliates</a></li>
+            <li><a href="/outsourcing.html">Outsourcing</a></li>
+            <li><a href="/peering.html">Peering</a></li>
+          </ul>
+        </li>
+        <li class="gn-grid-col gn-grid-col-3 col-about">
+          <h3>About Us</h3>
+          <ul>
+            <li><a href="/corporate.html">About Giganews</a></li>
+            <li><a href="/blog/index.html">Blog</a></li>
+            <li><a href="/news.html">News</a></li>
+            <li><a href="/legal">Legal</a></li>
+            <li><a href="/legal/privacy.html">Privacy Policy</a></li>
+            <li><a href="/legal/dmca.html">DMCA</a></li>
+            <li><a href="/careers">Careers</a></li>
+          </ul>
+        </li>
+        <li class="gn-grid-col gn-grid-col-3 col-support">
+          <h3>Support</h3>
+          <ul>
+            <li><a href="/support">Support Overview</a></li>
+            <li><a href="/usenet-university">Giganews University</a></li>
+            <li><a href="/contact.html">Contact Us</a></li>
+          </ul>
+        </li>
+        <li class="gn-grid-col gn-grid-col-3 col-languages">
+          <h3>Languages</h3>
+          <ul>
+            <li><a href="http://www.giganews.com/legal/privacy.html" onclick="langCookie('');">English</a></li>
+            <li><a href="http://fr.giganews.com/legal/privacy.html" onclick="langCookie('fr');">Français</a></li>
+            <li><a href="http://br.giganews.com/legal/privacy.html" onclick="langCookie('br');">Português</a></li>
+            <li><a href="http://cn.giganews.com/legal/privacy.html" onclick="langCookie('cn');">简体中文</a></li>
+            <li><a href="http://de.giganews.com/legal/privacy.html" onclick="langCookie('de');">Deutsch</a></li>
+            <li><a href="http://es.giganews.com/legal/privacy.html" onclick="langCookie('es');">Español</a></li>
+            <li><a href="http://jp.giganews.com/legal/privacy.html" onclick="langCookie('jp');">日本語</a></li>
+            <li><a href="http://kr.giganews.com/legal/privacy.html" onclick="langCookie('kr');">한국어</a></li>
+            <li><a href="http://nl.giganews.com/legal/privacy.html" onclick="langCookie('nl');">Nederlands</a></li>
+            <li><a href="http://tw.giganews.com/legal/privacy.html" onclick="langCookie('tw');">繁體中文</a></li>
+          </ul>
+        </li>
         </ul>
       </div>
-      <div>
-        <h3>Resources</h3> <ul> <li><a href="/performance.html">Speed &amp; Traceroute</a></li> <li><a href="/vyprvpn">VyprVPN</a></li> <li><a href="/dumptruck">Dump Truck</a></li> <li><a href="/mimo">Mimo</a></li> <li><a href="/accelerator.html">Giganews Accelerator</a></li> <li><a href="/blog/index.html">Blog</a></li> <li><a href="/peering.html">Peering</a></li> <li><a href="/refer">Refer a Friend</a></li> <li><a href="/news.html">News</a></li> </ul>
-      </div>
-      <div>
-        <h3>Support</h3>
-        <ul>
-          <li><a href="/support">Support Overview</a></li>
-          <li><a href="/welcome-kit.html">Welcome Kit</a></li>
-          <li><a href="/support/usenet/">Usenet Support</a></li>
-          <li><a href="/support/vyprvpn/">VyprVPN Support</a></li>
-          <li><a href="/support/dumptruck/">Dump Truck Support</a></li>
-          <li><a href="/support/mimo/">Mimo Support</a></li>
-          <li><a href="/usenet-university">Usenet University</a></li>
-          <li><a href="/contact.html">Contact Support</a></li>
-        </ul>
-      </div>
-      <div class="last">
-        <h3>Languages</h3>
-        <ul>
-          <li><a href="http://www.giganews.com/legal/privacy.html" onclick="langCookie('');">English</a></li>
-          <li><a href="http://fr.giganews.com/legal/privacy.html" onclick="langCookie('fr');">Français</a></li>
-          <li><a href="http://br.giganews.com/legal/privacy.html" onclick="langCookie('br');">Português</a></li>
-          <li><a href="http://cn.giganews.com/legal/privacy.html" onclick="langCookie('cn');">简体中文</a></li>
-          <li><a href="http://de.giganews.com/legal/privacy.html" onclick="langCookie('de');">Deutsch</a></li>
-          <li><a href="http://es.giganews.com/legal/privacy.html" onclick="langCookie('es');">Español</a></li>
-          <li><a href="http://jp.giganews.com/legal/privacy.html" onclick="langCookie('jp');">日本語</a></li>
-          <li><a href="http://kr.giganews.com/legal/privacy.html" onclick="langCookie('kr');">한국어</a></li>
-          <li><a href="http://nl.giganews.com/legal/privacy.html" onclick="langCookie('nl');">Nederlands</a></li>
-          <li><a href="http://tw.giganews.com/legal/privacy.html" onclick="langCookie('tw');">繁體中文</a></li>
-        </ul>
+      <div class="gn-grid-col gn-grid-col-4 footer-social">
+        <ul class="socialIcons">
+  <li class="facebook">
+    <a class="outbound" href="http://www.facebook.com/giganews">
+      <img src="/images/icon_social_facebook.png" alt="Giganews Facebook">
+    </a>
+  </li>
+  <li class="twitter">
+    <a class="outbound" href="http://www.twitter.com/giganews">
+      <img src="/images/icon_social_twitter.png" alt="Giganews Twitter">
+    </a>
+  </li>
+  <li class="youtube">
+    <a class="outbound" href="http://www.youtube.com/giganews">
+      <img src="/images/icon_social_youtube.png" alt="Giganews YouTube">
+    </a>
+  </li>
+  <!-- <li class="linkedin">
+    <a class="outbound" href="http://www.linkedin.com/company/giganews">
+      <img src="" alt="Giganews LinkedIn" />
+    </a>
+  </li> -->
+  <li class="gplus">
+    <a class="outbound" href="https://plus.google.com/110275737366058294882/" rel="publisher">
+      <img src="/images/icon_social_google.png" alt="Giganews Google Plus">
+    </a>
+  </li>
+</ul>
+
       </div>
     </div>
     <p class="gnCopyright">
       Giganews® and the Giganews logo are registered trademarks of Giganews, Inc. ©2015 Giganews, Inc.
     </p>
-
-        <ul class="socialIcons">
-      <li class="facebook"><a class="outbound" href="http://www.facebook.com/giganews">Giganews Facebook</a></li>
-      <li class="twitter"><a class="outbound" href="http://www.twitter.com/giganews">Giganews Twitter</a></li>
-      <li class="youtube"><a class="outbound" href="http://www.youtube.com/giganews">Giganews YouTube</a></li>
-      <li class="linkedin"><a class="outbound" href="http://www.linkedin.com/company/giganews">Giganews LinkedIn</a></li>
-      <li class="gplus"><a class="outbound" href="https://plus.google.com/110275737366058294882/" rel="publisher">Giganews Google Plus</a></li>
-    </ul>
   </div>
 </div>
 <!-- END OF FOOTER -->
@@ -689,7 +686,9 @@ var google_remarketing_only = true;
 </noscript>
 
 
-<script>(function() {
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
 var _fbq = window._fbq || (window._fbq = []);
 if (!_fbq.loaded) {
 var fbds = document.createElement('script');
@@ -703,6 +702,7 @@ _fbq.push(['addPixelId', '361574640699473']);
 })();
 window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
+/* ]]> */
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=361574640699473&amp;ev=PixelInitialized" /></noscript>
 
@@ -714,9 +714,14 @@ twttr.conversion.trackPid('l5r8p', { tw_sale_amount: 0, tw_order_quantity: 0 });
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l5r8p&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5r8p&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" /></noscript>
 
+
+<!-- Bing Ads UET tag tracking code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5039302"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5039302&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
 </div>
 
-<script type="text/javascript" src="/js/libs/retina.js"></script>
+<script type="text/javascript" src="/js/libs/retina.min.js"></script>
+
 
 
 
