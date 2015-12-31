@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the junosearch.net privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908171316id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junosearch.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231103423id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # NetZero - Value-priced Internet Service Provider - ISP - Free, low-cost and HiSpeed Internet Access. - Privacy and Security
 
-Last Updated: March 19, 2012 
+Last Updated: November 12, 2014 
 
 Introduction: What This Privacy Policy Covers
 
@@ -18,7 +18,7 @@ NetZero, Inc. and NetZero Wireless, Inc. (" **NetZero** ", " **we** " or " **our
 
 
 
-This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. If you choose to obtain products or services from such third parties, the data collected by the third party is governed by that third party's privacy policy. We encourage you to review the privacy policies of any other website from whom you request products or services. 
+This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. In addition, you may choose to use services and products offered by third parties through our Services or devices such as third party applications. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from NetZero, including location information (when applicable). You may also choose to give personal information directly to third parties when using such services. In each case, personal information you give a third party will be subject to its terms, conditions, and policies-not this policy. You should review a third party's privacy policy and terms of service before providing your information or using the service. We encourage you to review the privacy policies of any other website or application from which you request products or services. 
 
 I. Collection of Your Information
 
@@ -35,13 +35,15 @@ We collect information about you when you register for the Services, such as:
   * your occupation; and 
   * other household and demographic information.
 
-If you join one of our paid Services, we will also collect: 
-  * billing and payment information, such as your credit card number and billing address.
+If you join one of our paid Services, we may also collect: 
+  * billing and payment information, such as your credit card number and billing address; and
+  * your social security number or other government identification number.
 
 In addition to information collected from you during registration, we collect information you provide through: 
   * online surveys;
   * contest and sweepstakes entries;
   * technical and customer service calls; 
+  * your voluntary submission of information;
   * email correspondence with us; and
   * acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 
@@ -57,16 +59,19 @@ We collect information from your access device and browser, including:
   * software on your computer, mobile device or other similar device;
   * processor type;
   * operating system;
-  * IP address; and
-  * navigational data such as the URLs you visit and any searches you may perform.
+  * IP address;
+  * navigational data such as the URLs you visit and any searches you may perform; and
+  * mobile device location information.
 
-As you browse and interact with our Sites, we collect information related to your use of the Sites and Services, including: 
+As you browse and interact with our Sites or use our Services, we collect information related to your use of the Sites and Services, including: 
   * how often you visit the Sites;
   * how often you use the Services;
-  * how you navigate and conduct searches on our Sites; and
-  * your interaction with advertisements and other links that are contained within our Sites.
+  * how you navigate and conduct searches on our Sites;
+  * your interaction with advertisements and other links that are contained within our Sites;
+  * call and data usage and history, including information such as the numbers you call and when you call them, as well as the particular services you use, and other information found on your bill (" **Customer Proprietary Network Information** " or " **CPNI** "); and
+  * applications purchased, downloaded or used. 
 
-Although we reserve the right to monitor Site activity, we will not intentionally disclose any private email messages or online communication between you and a third party, except in the following circumstances: 
+Although we reserve the right to monitor Site or Service activity, we will not intentionally disclose any private email messages or online communication between you and a third party, except in the following circumstances: 
   * when we believe, in our sole discretion, you are acting in violation of our Terms of Service, our Acceptable Use Guidelines or any applicable law, rule or regulation; or
   * to protect the integrity of our Services or the Internet community as a whole.
 
@@ -99,15 +104,18 @@ We use the information we collect in a variety of ways, including:
   * to better tailor and target advertisements and content to you while you are on and off our Sites;
   * to communicate with you; 
   * to offer you products and services including offers from our Affiliates or Advertisers;
-  * to conduct research; and 
-  * to develop research reporting for us, our Affiliates and third party market research partners.
+  * to conduct research;
+  * to develop research reporting for us, our Affiliates and third party market research partners;
+  * to verify your identity, and help prevent fraud and identity theft; and
+  * in the case of mobile device location data, to provide our mobile voice and data services, emergency services, and our and third-party location-based applications and services such as navigation, weather, mapping and other applications or tools. 
 
 **B. How we share your information:**
 
-We may share your information, including in some cases information that specifically identifies you such as your name, your email address, your physical address or telephone number (" **personally identifiable information** " or " **PII** "), with Affiliates and trusted third party partners in the following ways: 
+We may share your information, including in some cases information that specifically identifies you such as your name, your email address, your physical address or telephone number (" **personally identifiable information** " or " **PII** "), with Affiliates and trusted third party partners in ways including the following: 
 
   * to help operate the Sites and Services;
   * to facilitate fulfillment of a transaction or request;
+  * to assist with identity verification, and prevention of fraud and identity theft; 
   * to serve you advertisements and to improve the effectiveness of targeted advertising (see Section III of this Policy for more information); or
   * to provide research reporting for us, our Affiliates and third party partners.
 
@@ -157,11 +165,11 @@ NetZero believes it is important for parents and guardians to participate in and
 
 VI. Changes to the Privacy Policy
 
-By using the Sites or Services, you signify your acceptance to this Policy. If you do not agree to this Policy, please do not use any of the Sites or Services. We reserve the right to make changes in this Policy at any time. Please check the Policy each time you use our Sites or Services to ensure you are aware of any changes in our privacy practices. Your continued use of our Sites or Services will signify your acceptance of the changes to this Policy. Notification of any changes to this Policy will be posted on the NetZero home page and/or member start page. 
+By using the Sites or Services, you signify your acceptance to this Policy. If you do not agree to this Policy, please do not use any of the Sites or Services. We reserve the right to make changes in this Policy at any time. Please check the Policy each time you use our Sites or Services to ensure you are aware of any changes in our privacy practices. Your continued use of our Sites or Services will signify your acceptance of the changes to this Policy. Notification of any material changes to this Policy will be posted on the NetZero home page and/or member start page. 
 
 If you have any questions about this Policy please contact us at:   
 NetZero Legal Department  
-21301 Burbank Boulevard  
+21255 Burbank Boulevard, Suite 400   
 Woodland Hills, CA 91367 
 
 or 
