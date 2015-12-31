@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonymox.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085319id_/http%3A//www.anonymox.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymox.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231190738id_/http%3A//anonymox.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | anonymox.net
 
