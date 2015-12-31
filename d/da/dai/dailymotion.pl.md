@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231172930id_/http%3A//www.dailymotion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231173348id_/http%3A//www.dailymotion.com/legal/privacy) for the most accurate reproduction.*
 
-# Dailymotion - Legal terms
+# Dailymotion - Legal
 
 This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/legal).
 
-We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/register) on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
+We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/signin?urlback=%2Flegal%2Fprivacy) on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
 
 Data indicated on the Website as mandatory is required in order to use the Website’s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits. Because Dailymotion is a French company, the Data is collected and maintained in France.  For your information, this processing has been reported to the relevant local authority (Commission Nationale de l’Informatique et des Libertés).
 
