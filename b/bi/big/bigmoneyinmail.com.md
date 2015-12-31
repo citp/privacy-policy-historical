@@ -1,91 +1,80 @@
-> *The following text is extracted and transformed from the bigmoneyinmail.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515070540id_/http%3A//www.bigmoneynmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmoneyinmail.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Big Money In Mail
+# HugeDomains.com - Privacy Policy
 
-**PRIVACY POLICY**
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-BigMoneyinMail.com (“ **BM** I **M.com** ”) is committed to respecting the privacy rights of users of BMIM.com’s website (the “ **Website** ”). BMIM.com created this Privacy Policy to give you (“ **You** ” or “ **Your** ”) confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+**What information do we collect?**
 
-This Privacy Policy is only applicable to the Website and not to any websites of third parties (“ **Third-Party Websites** ”), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. For additional information, see the section concerning Updates and Changes to Privacy Policy, below.
+**What do we use your information for?**
 
-**1.                   CHILDREN’S PRIVACY**
+Any of the information we collect from you may be used in one of the following ways: 
 
-BMIM.com does not solicit or knowingly collect personally identifiable information from children under the age of 18. If BMIM.com obtains actual knowledge that it has collected personally identifiable information from a child under the age of 18, BMIM.com will immediately delete such information from its database. Because BMIM.com does not collect personally identifiable information from children under the age of 18, BMIM.com has no such information to use or disclose to third parties. BMIM.com has designed this Privacy Policy in order to comply with the Children’s Online Privacy Protection Act (COPPA). 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**2.                   INFORMATION COLLECTION PRACTICES **
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**(a)                Traffic Data.  **Like most website operators, BMIM.com automatically gathers information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively “ **Traffic Data** ”). Traffic Data is anonymous information that does not personally identify You. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**(b)                Cookies.  **A “ **Cookie** ” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. BMIM.com uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same advertisements or informational messages repeatedly, and to store Your password so You do not have to re-enter it each time You visit the Website. For additional information on BMIM.com’ uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.
+• To process transactions
 
-IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**(c)                 **  **Personal Information.   **In order for You to use certain of the Website services, You will be asked to provide BMIM.com certain information that personally identifies You (“ **Personal Information** ”). Personal Information includes, without limitation: (1) “ **Contact Data** ” (such as Your name, phone number, mailing address and e-mail address); (2) “ **Financial Data** ” (Alert Pay and PayPal account information); and (3) **Demographic Data** ” (such as Your gender and zip code). **** In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. BMIM.com may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to BMIM.com. 
+• To send periodic emails
 
-You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**3.                   INFORMATION USE AND DISCLOSURE PRACTICES**
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**(a)                Traffic Data and Information Gathered Using Cookies **
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-BMIM.com analyzes Traffic Data and information gathered using Cookies to help BMIM.com better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, BMIM.com is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements.  From time to time, BMIM.com may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website.  BMIM.com does not attempt to link information gathered using Cookies to Personal Information.
+**How do we protect your information?**
 
-**(b)                Personal Information**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**                                                                              (i)            Generally.  ** BMIM.com uses Your Contact Data to send You information about BMIM.com and BMIM.com’s products and services, and to contact You when necessary in connection with the Services. BMIM.com uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time BMIM.com may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**                                                                            (ii)            Disclosure Practices**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Except under the following circumstances, BMIM.com will keep Your Personal Information private, and will not share it with third parties.
+**Do we use cookies?**
 
-  * **Disclosure in Connection with Services.  **BMIM.com discloses Personal Information to those who help it provide services, including those who perform technical, administrative and data processing tasks such as hosting, billing, fulfillment, and data storage and security. 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
+**Do we disclose any information to outside parties?**
 
-·         **By Law or to Protect Rights.**   BMIM.com discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when BMIM.com believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of BMIM.com, third parties or the public at large. 
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-  * **Business Transfers; Bankruptcy.**   BMIM.com reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of BMIM.com’ assets.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it.  Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by BMIM.com’ successor organization. 
+**Online Privacy Policy Only**
 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
+**Terms and Conditions**
 
-  * **Unpaid Accounts.** If You fail to pay any balance owed to BMIM.com, BMIM.com may, as permitted by law, report Your Personal Information, including without limitation Your unpaid balance, to consumer credit reporting services, collection agencies and others. 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
+**Your Consent**
 
+By using our site, you consent to our web site privacy policy. 
 
+**Changes to our Privacy Policy**
 
-**4.                   CONSENT TO RECEIVE EMAIL FROM IPM.COM**
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-By providing your email address, You consent to receive periodic email communications from BMIM.com concerning BMIM.com’s products and services, including without limitation, order confirmations, newsletters, new product information, announcements, special deals, and inquiries regarding the quality of our service and other matters. You may opt-out of receiving email communications at any time by (a) following the unsubscribe instructions contained in each email; or (c) sending an email to bigmoneyinmail@gmail.com.
+This policy was last modified on 1/10/2012 
 
-**5.                   SECURITY OF PERSONAL INFORMATION**
+**Contacting Us**
 
-BMIM.com has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.  
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-**6.                   LOST OR STOLEN INFORMATION  **
-
-You must promptly notify us if Your credit, bank, PayPal, Alert Pay or other financial institution information is lost, stolen or used without permission. In such and event, we will remove that credit card number, bank account information, PayPal account information, Alert Pay account information or other financial institution information Your account and updated our records accordingly.  
-
-**7.                   USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL   INFORMATION**
-
-BMIM.com wants Your Personal Information to be complete and accurate. By using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy.  To confirm the completeness and accuracy of, or make changes to, Your Personal Information, please email BMIM.com at bigmoneyinmail@gmail.com 
-
-**8.                   THIRD-PARTY WEBSITES**
-
-BMIM.com neither owns nor controls Third-Party Websites. Accordingly, Third-Party Websites are under no obligation to comply with this Privacy Policy except with respect to Personal Information provided directly to them by BMIM.com. Before visiting or providing Personal Information to a Third-Party Website, You should inform Yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in Your discretion, protect Your privacy. 
-
-**9.                   PROMOTIONAL ACTIVITIES**
-
-From time to time, BMIM.com may conduct contests, giveaways and other promotions (collectively, “ **Promotional Activities** ”). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, BMIM.com may also ask You to participate in surveys designed to help BMIM.com improve the Websites or Services. Any Personal Information provided to BMIM.com in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
-
-**10.               UPDATES AND CHANGES TO PRIVACY POLICY**
-
-Although most changes are likely to be minor, BMIM.com reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless BMIM.com obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
-
-bigmoneynmail.com is apart of bigmoneyinmail.com and owned and operated by Wealth Building Group, LLC.
-
-Effective Date: 01/01/2010  Copyright Wealth Building Group, LLC
+HugeDomains.com
