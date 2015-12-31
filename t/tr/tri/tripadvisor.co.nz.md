@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.co.nz privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629192157id_/http%3A//www.tripadvisor.co.nz/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.co.nz privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091204id_/http%3A//www.tripadvisor.co.nz/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
@@ -213,8 +213,8 @@ TripAdvisor may change or modify this Privacy Policy in the future. We will note
 If you have questions about, or if you wish to make a complaint about our collection, use or disclosure of your personal information under, this Privacy Policy, please contact us at: 
 
 TripAdvisor LLC  
-141 Needham Street  
-Newton, MA 02464, USA  
+400 1st Avenue  
+Needham, MA 02494, USA  
 Attn: Privacy Officer/Legal Department  
 Email: [privacy@tripadvisor.com](mailto:privacy@tripadvisor.com)  
 
