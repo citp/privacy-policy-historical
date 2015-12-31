@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618155416id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052011id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forever New
 
@@ -31,10 +31,15 @@ Forever New collects personal information in the normal course of providing serv
   * Using of social media pages and log-in (which may be hosted by third parties);
   * Recording customer accident details; and
   * Processing cash refunds.
+  * Signing up to receive Forever New email marketing communication
 
 
 
 Forever New may also collect personal information for recruitment and employment purposes, for trade references or other contractual arrangements. 
+
+**Why do we collect your personal information?**
+
+We collect personal information as detailed above, which we may later use to customise our services, to provide relevant consumer information and to provide marketing and re-marketing communications across Forever New. ****
 
 **Use of your personal information**
 
@@ -44,7 +49,7 @@ Any information collected is safely and securely stored and only used for the pu
 
 Forever New does not sell or trade any personal information collected.  However, we may share some of the personal information we collect with our related corporations and service providers, contractors who help us provide services, or trading partners. We often need to share your information with companies who perform parts of our service delivery.  This may include:
 
-  * Service providers e.g. IT services, mailing services, data analysis;
+  * Service providers e.g. IT services, mailing services, remarketing platforms, data analysis;
   * Companies assisting Forever New with marketing and competitions;
   * Regulatory authorities;
   * Professional advisors; and
@@ -55,6 +60,10 @@ Forever New does not sell or trade any personal information collected.  However
 Where we share your information, Forever New will ensure that these third parties protect your privacy in accordance with the Australian Privacy Principles.
 
 Forever New may also publish some of your personal information on our website or social media pages where you have entered a competition or promotion run by Forever New.
+
+**Email marketing communications**
+
+If you have registered to receive email marketing communications from Forever New Clothing Pty Limited we reserve the right to contact you in regards to Forever New. You can opt-out of receiving email marketing communications at any time. To unsubscribe, simply sign into your account and untick the ‘Manage Your Subscriptions’ box or click to unsubscribe from the bottom of any of our email marketing communications. 
 
 **Linking to Third-Party Websites**
 
