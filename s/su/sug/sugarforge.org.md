@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110436id_/https%3A//www.sugarcrm.com/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231094413id_/https%3A//www.sugarcrm.com/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
 
 # SugarCRM Inc. Privacy Policy | SugarCRM.com
 
@@ -6,7 +6,7 @@ Last Updated: April 10, 2015
 
 SugarCRM Inc. and the subsidiaries we own or control worldwide (collectively, "SugarCRM") respect your privacy. This privacy policy (the "Policy") explains how SugarCRM collects and uses data collected from you, including personal information, through (i) our publicly available websites (the "Sites"), and (ii) the SugarCRM mobile and other add-on applications (e.g., SugarCRM for iPhone, SugarCRM for Android, etc.) ("Apps") and other related services on which we post a direct link to this Policy (together with Apps, the "Services"). This Policy does not cover any other data collection or processing, including without limitation, the data we host for our registered customers. If you purchase or download our solutions, the data that you (and your customers) submit as you use our solutions will be governed by the applicable SugarCRM agreement, and as required by law.
 
-SugarCRM adheres to the U.S.-European Union Safe Harbor Framework privacy principles and is registered with the Safe Harbor Program regarding the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area to the United States. The scope of our Safe Harbor Certification is defined by our [EEA/CH Safe Harbor Notice](https://web.archive.org/web/20150629110436id_/https%3A//www.sugarcrm.com/node/12091). Our EEA/CH Safe Harbor Notice does not apply to data that we collect through our Sites.
+SugarCRM adheres to the U.S.-European Union Safe Harbor Framework privacy principles and is registered with the Safe Harbor Program regarding the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area to the United States. The scope of our Safe Harbor Certification is defined by our [EEA/CH Safe Harbor Notice](https://web.archive.org/web/20151231094413id_/https%3A//www.sugarcrm.com/node/12091). Our EEA/CH Safe Harbor Notice does not apply to data that we collect through our Sites.
 
 **How We Collect Information**
 
@@ -122,9 +122,9 @@ Transmissions over the Internet are never 100% secure or error-free. SugarCRM em
 
 SugarCRM recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. SugarCRM does not target this Site to children under 13. SugarCRM does not knowingly collect personal information from children under the age of 13.
 
-**Effective Date and Amendments**
+**Changes to Privacy Policy**
 
-This statement is effective as of March 20, 2013. We reserve the right to change, modify, add or remove portions of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Your continued access to the Sites and Services will indicate your acceptance of our updated Policy. We recommend that users revisit this statement on occasion to learn of any changes.
+We reserve the right to change, modify, add or remove portions of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Your continued access to the Sites and Services will indicate your acceptance of our updated Policy. We recommend that users revisit this statement on occasion to learn of any changes.
 
 **Contact Us**
 
