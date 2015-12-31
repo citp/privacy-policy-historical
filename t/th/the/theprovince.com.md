@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theprovince.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231200550id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprovince.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231112238id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Postmedia Network Inc.
+# Privacy Statement | Postmedia Integrated Advertising
 
-[Version Française](http://wp.me/P13blf-9J)
+**[Version Française](http://www.postmediaadvertising.com/enonce-relatif-a-la-protection-des-renseignements-personnels/)**
 
 Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. (“ **Postmedia** ”, “ **we** ” or “ **us** ”) is committed to protecting your privacy and safeguarding your personal information. The Postmedia Privacy Policy (available [**here**](http://www.postmedia.com/wp-content/uploads/2014/09/Postmedia-Privacy-Policy-Final.pdf)) and this Privacy Statement (collectively, the “ **Privacy Policy** ”) describe how we may collect, use and disclose personal information. The Privacy Policy applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes.
 
@@ -51,3 +51,7 @@ Postmedia Network Inc.
 Postmedia Place  
 365 Bloor Street East, 12th Floor  
 Toronto, Ontario Canada M4W 3L4
+
+Updated: September 8, 2014
+
+Back To Top
