@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mayo.edu privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229130122id_/http%3A//www.mayoclinic.com/health/privacy-policy/AM00005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayo.edu privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083931id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy About This Site - About This Site - Mayo Clinic
+# Privacy policy - About This Site - Mayo Clinic
 
 ### Web privacy policy
 
-We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. In addition to this privacy policy, users of the Mayo Clinic site should consult the Mayo Clinic site terms of use as well as any product specific terms and conditions that apply. Policies specifically related to patient information (protected health information, or PHI) submitted through Mayo Clinic's patient portal can be reviewed here. [http://www.mayoclinic.org/global/patient-privacy.html](https://web.archive.org/about-mayo-clinic/notice-of-privacy-practices)
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. In addition to this privacy policy, users of the Mayo Clinic site should consult the Mayo Clinic site terms of use as well as any product specific terms and conditions that apply. Policies specifically related to patient information (protected health information, or PHI) submitted through Mayo Clinic's patient portal can be reviewed here. [http://www.mayoclinic.org/global/patient-privacy.html](http://www.mayoclinic.org/about-mayo-clinic/notice-of-privacy-practices)
 
 This policy applies to MayoClinic.org, MayoClinic.edu and other Web locations under Mayo Clinic's control.
 
 ### What information we collect
 
-We respect the right to privacy of all visitors to the Mayo Clinic site. We do not collect information that would personally identify you unless you choose to provide it. For example, if you choose to join the community at Mayo Clinic Online Community, the privacy policy and terms of use of that site apply. The personal information that you submit, such as on the appointment request form, is shared only with those people in the Mayo organization who need this information to respond to your question or request. Information submitted through Mayo Clinic's online forms may be collected to ensure technical functionality. It will also be utilized to address any inappropriate use of our website. We do not save personal information to use for other purposes, nor do we provide it to any other organizations.
+We respect the right to privacy of all visitors to the Mayo Clinic site. We do not collect information that would personally identify you unless you choose to provide it. For example, if you choose to join the community at Mayo Clinic Online Community, the privacy policy and terms of use of that site apply. The personal information that you submit, such as on the appointment request form, is shared only with those people in the Mayo organization who need this information to respond to your question or request and those internal areas that will utilize the information to improve Mayo Clinic operations. Information submitted through Mayo Clinic's online forms may be collected to ensure technical functionality. It will also be utilized to address any inappropriate use of our website. We do not save personal information to use for other purposes, nor do we provide it to any other organizations.
 
 ### Email communications, newsletter and related services
 
@@ -106,7 +106,7 @@ To do any of these, contact Mayo Clinic by one of the methods listed below.
 
 ### If you reached this site via an ad from Mayo Clinic
 
-If you come to a Mayo Clinic website via a Mayo Clinic advertisement, the ad may have been served to you based on your interests or selected for you based on your browsing activities. If you want to opt out of being served Mayo Clinic advertisements based on your browsing activity, you may opt out of cookies for multiple ad servers by visiting <http://info.evidon.com/more_info/1936> and <http://www.goodwaygroup.com/privacy>.
+If you come to a Mayo Clinic website via a Mayo Clinic advertisement, the ad may have been served to you based on your interests or selected for you based on your browsing activities. If you want to opt out of being served Mayo Clinic advertisements based on your browsing activity, you may opt out of cookies for multiple ad servers by visiting <http://info.evidon.com/more_info/1936>.
 
 ### Protecting children's privacy
 
@@ -131,6 +131,6 @@ Rochester, MN 55905
 
 If you've contacted the website about a privacy-related concern and you do not believe your problem has been addressed, you may file a complaint with the Mayo Clinic chief security officer by calling the Mayo Clinic general number at 507-284-2511 and asking for the chief security officer.
 
-This policy was last updated October 2014.
+This policy was last updated in November 2015.
 
 .
