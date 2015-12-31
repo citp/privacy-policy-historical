@@ -1,18 +1,25 @@
-> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615094325id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
 
 # HerRoom Privacy Policy
 
   * FREE SHIPPING
-  * Domestic orders over $70 qualify for FREE standard U.S. shipping! [See details »](https://web.archive.org/web/20150615094325id_/http%3A//www.herroom.com/shipping.aspx)   
+  * Domestic orders over $70 qualify for FREE standard U.S. shipping! [See details »](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/shipping.aspx)   
  
 
+
+
+[](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/wacoal.shtml)
+
+[](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/LoyaltyProgram.aspx)
+
+  
 
 
 |   | 
 
 \- Last updated: October 28, 2013 – 
 
-> Andra Group L.P. – the owner of HerRoom.com, HisRoom.com, and TheUndies.com -has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20150615094325id_/http%3A//www.herroom.com/contact.aspx). 
+> Andra Group L.P. – the owner of HerRoom.com, HisRoom.com, and TheUndies.com -has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/contact.aspx). 
 > 
 > **When I visit an Andra Group L.P. website, what information is gathered about me and why?**
 > 
@@ -38,13 +45,13 @@
 > 
 > **How do I manage how much information I share or if I share any at all?**
 > 
-> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to Andra Group L.P.. Just [contact us](https://web.archive.org/web/20150615094325id_/http%3A//www.herroom.com/contact.aspx) using any of the ways listed at the top of this page. 
+> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to Andra Group L.P.. Just [contact us](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/contact.aspx) using any of the ways listed at the top of this page. 
 > 
 > **What is Andra Group L.P. doing to protect my privacy?**
 > 
 > This site has security measures in place to protect from the loss, misuse, and alteration of information under our control. Our servers use encrypted methods for those pages which contain personally identifiable data, including your credit card and address. We routinely and zealously monitor and upgrade our security systems to ensure that we use the best security technology available. 
 > 
-> We at Andra Group L.P. are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20150615094325id_/http%3A//www.herroom.com/contact.aspx). 
+> We at Andra Group L.P. are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20151231231745id_/http%3A//www.herroom.com/contact.aspx). 
 
   
 
