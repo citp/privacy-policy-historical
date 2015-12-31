@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205240id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231195045id_/http%3A//www.hindustantimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Hindustantimes.com > Latest news India,World,Business,Cricket,Sports,Bollywood,Education
+# Hindustan Times - Latest News, India, Cricket, Sports, Bollywood
 
 The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the hindustantimes.com website.
 
