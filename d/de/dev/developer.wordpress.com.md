@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developer.wordpress.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629231949id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developer.wordpress.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231174423id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Automattic
 
@@ -15,7 +15,7 @@ Below is our privacy policy which incorporates these goals: (Note, we’ve decid
 
 If you have questions about deleting or correcting your personal data please contact our [support team](http://en.support.wordpress.com/).
 
-Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://automattic.com/), [wordpress.com](http://wordpress.com/), [gravatar.com](http://gravatar.com/), [intensedebate.com](http://intensedebate.com/), and [akismet.com](http://akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](https://automattic.com/), [wordpress.com](http://wordpress.com/), [gravatar.com](http://gravatar.com/), [intensedebate.com](http://intensedebate.com/), and [akismet.com](http://akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
