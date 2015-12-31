@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsflag.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503162540id_/http%3A//jobsflag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsflag.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231192935id_/http%3A//jobsflag.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
