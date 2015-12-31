@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623174251id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231064520id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
-# Houzz - Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design
+# PRIVACY POLICY
 
 Welcome to Houzz! Houzz is an information and social network dedicated to homebuilding, renovation, and design. Houzz connects you to home-related products and businesses, professional service providers, and others who can give you feedback and ideas about your design goals. 
 
-This privacy policy is to help you understand what information Houzz collects, how Houzz uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website and applications (collectively the “Site” or “Houzz”). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our [Terms of Use](http://www.houzz.com/termsOfUse) are incorporated by reference into this privacy policy. The terms “we,” or “our,” refer to Houzz Inc., a Delaware corporation, headquartered in Palo Alto, California in the United States. 
+This privacy policy is to help you understand what information Houzz collects, how Houzz uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website and applications (collectively the “Site” or “Houzz”). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our [Terms of Use](http://www.houzz.com/termsOfUse/v=20150815) are incorporated by reference into this privacy policy. The terms “we,” or “our,” refer to Houzz Inc., a Delaware corporation, headquartered in Palo Alto, California in the United States. 
 
 We collect information that you provide us directly or automatically when you use our Site.
 
@@ -23,7 +23,7 @@ Of further note about the information we collect:
 
 We, and third parties we interact with, including our third party service providers, use cookies, web beacons, local shared objects (sometimes called "flash cookies"), and similar technology in connection with your use of the Site and third party websites (collectively referred to in this policy as **"Cookies"** ). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our Site. 
 
-We may use Cookies to transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. When we use Cookies, we do so in order to further Site features and processes, provide authentication and security for your transactions on the Site, store your preferences, facilitate relevant advertising, and help us learn more about how users engage with the Site. Our Cookies may be persistent or stored only during an individual session. 
+We may use Cookies to collect or transmit information about you and your use of the Site or third-party sites, such as: your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, your interests on our Site and other sites, and the date and time of your use. When we use Cookies, we do so in order to further Site features and processes, provide authentication and security for your transactions on the Site, store your preferences, facilitate relevant advertising, and help us learn more about how users engage with the Site, and understand your activities after you leave our Site. Our Cookies may be persistent or stored only during an individual session. 
 
 You may opt-out of tracking by third parties for certain advertising purposes, as discussed below in the section entitled “Third Party Ad Networks,” which can help you control targeted advertising by third-parties that track your activities across sites. 
 
@@ -31,7 +31,7 @@ Please note we do not change system behavior within the Site in response to brow
 
 It may be possible to disable Cookies through your device or browser settings. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings. However, doing so may affect your ability to use the Site. If you are not comfortable with the above uses of Cookies, please do not use this Site. 
 
-For more information about our use of Cookies on the Site, please see our [Cookie Policy](http://www.houzz.com/cookiePolicy). 
+For more information about our use of Cookies on the Site, please see our [Cookie Policy](http://www.houzz.com/cookiePolicy/v=20150815). 
 
 We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third-parties to use for their own marketing purposes. We may share some information about you with third parties in connection with your use of the Site. Our information sharing with third-parties fall into these categories and purposes: 
 
@@ -51,13 +51,21 @@ The Site is intended for general audiences and is not directed to children under
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure – so we cannot guarantee its absolute security. 
 
+### Data in the United States
+
 Any information you provide through the Site may be transferred to, stored in, or processed in the United States. 
 
+### Safe Harbor Adherence
+
 We adhere to the Safe Harbor Privacy Principles developed by the U.S. Department of Commerce and the European Union (EU), and have Safe Harbor self-assessment procedures in place. The Safe Harbor program is intended to provide equivalent protections for personal data as exist in the EU. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor/>. 
+
+### Questions and Dispute Resolution
 
 If you have any questions about our Safe Harbor participation, please contact us at [privacy@houzz.com](mailto:privacy@houzz.com). If you believe that we have not satisfactorily addressed your data privacy concerns related to the U.S.-EU Safe Harbor Privacy Principles, and without prejudice to any other remedy you may enjoy, you may obtain dispute resolution services through the International Centre for Dispute Resolution, a division of the American Arbitration Association. To use these services, you can file a claim at <https://apps.adr.org/webfile/>. 
 
 If you are a European or Australian citizen and would like to have access to personal information we collect, you contact us with your request at [privacy@houzz.com](mailto:privacy@houzz.com). A processing fee may apply as permitted by applicable law. 
+
+### Choices
 
 You have certain choices about how to control your data, including publicly displayed profile information, communications settings, network linking, and opting out of tracking by third- parties for certain advertising purposes. These choices are described throughout this privacy policy in the relevant sections. 
 
@@ -67,4 +75,4 @@ We may revise this privacy policy from time to time. The most current version of
 
 If you have questions or comments about Houzz privacy policy, please feel free to contact us at [privacy@houzz.com](mailto:privacy@houzz.com). 
 
-Last Updated June 12, 2014
+Last Updated August 15, 2015
