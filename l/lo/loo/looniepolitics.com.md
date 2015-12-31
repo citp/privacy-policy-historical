@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looniepolitics.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621235341id_/http%3A//looniepolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looniepolitics.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231075023id_/http%3A//looniepolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loonie Politics
 
