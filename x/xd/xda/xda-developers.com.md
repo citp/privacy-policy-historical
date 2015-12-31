@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624094505id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231133100id_/http%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
 
-# XDA-Developers Privacy Policy - XDA Forums
-
-admin · Feb 10, 2010 at 02:18 am
+# XDA-Developers Privacy Policy
 
 **What information do we collect?**
 
@@ -95,4 +93,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 JB Online Media, LLC  
 http://www.xda-developers.com  
-webmaster@xda-developers.com
+webmaster@xda-developers.com 
