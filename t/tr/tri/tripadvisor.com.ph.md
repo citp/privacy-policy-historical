@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com.ph privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629215948id_/http%3A//www.tripadvisor.com.ph/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.ph privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091201id_/http%3A//www.tripadvisor.com.ph/pages/privacy.html) for the most accurate reproduction.*
 
 # TRIPADVISOR PRIVACY POLICY - TripAdvisor
 
@@ -155,6 +155,6 @@ TripAdvisor may update this Privacy Policy in the future. Members are deemed to 
 
 If you have questions about this Privacy Policy, please contact us at: 
 
-TripAdvisor is based in the US and you can contact directly for any query regarding the processing of your information by TripAdvisor LLC. TripAdvisor’s mailing address is 141 Needham Street, Newton, MA, USA. 
+TripAdvisor is based in the US and you can contact directly for any query regarding the processing of your information by TripAdvisor LLC. TripAdvisor’s mailing address is 400 1st Avenue, Needham, MA, USA. 
 
 This Privacy Policy is effective as of July 1, 2011 
