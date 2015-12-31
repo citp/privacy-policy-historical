@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626135927id_/http%3A//www.nzherald.co.nz/news/article.cfm%3Fc_id%3D500827%26objectid%3D10425860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231120842id_/http%3A//www.nzherald.co.nz/news/article.cfm%3Fc_id%3D500827%26objectid%3D10425860) for the most accurate reproduction.*
 
 # Privacy Policy - Site Information & Help - NZ Herald News
 
@@ -137,3 +137,9 @@ For information about New Zealand's Privacy Act 1993 and how it protects the per
 _Updated: May 2015_
 
 \- [NZ Herald](http://www.nzherald.co.nz/)
+
+## Get the news delivered straight to your inbox
+
+Receive the day’s news, sport and entertainment in our daily email newsletter
+
+[SIGN UP NOW](https://web.archive.org/account/profile/?tab=newsletters)
