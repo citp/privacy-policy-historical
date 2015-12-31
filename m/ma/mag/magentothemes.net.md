@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magentothemes.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702111642id_/http%3A//www.zooextension.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magentothemes.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231040048id_/http%3A//www.zooextension.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ZooExtension
 
 ### 1\. Introduction
 
-9MagentoThemes is the ultimate name to compute with commitment and protection of our valued customers privacy. Your privacy is essentially important to us and we consider it as one of the most vital elements of our business and it´s success. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this web site. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
+ZooExtension is the ultimate name to compute with commitment and protection of our valued customers privacy. Your privacy is essentially important to us and we consider it as one of the most vital elements of our business and it´s success. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this web site. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
 
 By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other web sites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
@@ -41,7 +41,7 @@ We will process any Personal Data you provide to us for the following purposes:
 
 a) to provide you with information you have requested;  
 b) to contact you if required in connection with your query or to respond to any communications you might send to us;  
-c) to send you the 9MagentoThemes Newsletter or Event Alerts.
+c) to send you the ZooExtension Newsletter or Event Alerts.
 
 ### 4\. Disclosure of Information to Third Parties
 
@@ -55,7 +55,7 @@ This Web site contains links to other sites. Please be aware that We are not res
 
 ### 6\. How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact us **support(at)9MagentoThemes.com**
+If you have further questions please don’t hesitate to [contact us](https://web.archive.org/contact-us)!
 
 ### 7\. Changes to the Website Privacy Policy
 
