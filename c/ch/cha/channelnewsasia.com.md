@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelnewsasia.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222120235id_/http%3A//www.channelnewsasia.com/news/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelnewsasia.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231090014id_/http%3A//www.channelnewsasia.com/news/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Channel NewsAsia
 
@@ -44,7 +44,7 @@ For the above purposes by third parties (who may be based outside Singapore) who
 
 -
 
-For MediaCorp and/or MediaCorp group companies to collect, use, disclose and/or process your personal data for the purposes as described above, and to transfer your personal data out of Singapore to MediaCorp’s and/or MediaCorp group companies’ third party service providers or agents for the purposes as described above.
+For Mediacorp and/or Mediacorp group companies to collect, use, disclose and/or process your personal data for the purposes as described above, and to transfer your personal data out of Singapore to Mediacorp’s and/or Mediacorp group companies’ third party service providers or agents for the purposes as described above.
 
  ** _Can you opt out?_**
 
@@ -52,7 +52,7 @@ Whenever we send you any information, we will include instructions on how to uns
 
 **_Can you change and update your personal particulars?_**
 
-If you have a user account with MediaCorp, you may update your personal particulars at any time by accessing your account on our website or by sending an e-mail to [NewsEditor](mailto:newseditor@channelnewsasia.com), calling us at +65 6333 3888 or writing to Channel NewsAsia, MediaCorp Pte Ltd, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
+If you have a user account with Mediacorp, you may update your personal particulars at any time by accessing your account on our website or by sending an e-mail to [NewsEditor](mailto:newseditor@channelnewsasia.com), calling us at +65 6333 3888 or writing to Channel NewsAsia, Mediacorp Pte Ltd, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
 
 **_Changes to this privacy policy_**
 
@@ -64,7 +64,7 @@ We may use "cookies", where a small data file is sent to your browser to store a
 
 **_How your data is protected_**
 
-Channel NewsAsia will take commercially reasonable steps to ensure that personal data are protected from unauthorised access. Access to your account is password-protected. Thus, no other party, including employees of Channel NewsAsia, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorised party can have access. You must not, at any time, divulge your password to any third party. All information gathered by Channel NewsAsia is stored in systems that may only be accessed by authorised staff of MediaCorp Pte. Ltd. using assigned user IDs and passwords. In certain areas MediaCorp Pte. Ltd. uses industry-standard SSL encryption to protect data transmissions.
+Channel NewsAsia will take commercially reasonable steps to ensure that personal data are protected from unauthorised access. Access to your account is password-protected. Thus, no other party, including employees of Channel NewsAsia, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorised party can have access. You must not, at any time, divulge your password to any third party. All information gathered by Channel NewsAsia is stored in systems that may only be accessed by authorised staff of Mediacorp Pte. Ltd. using assigned user IDs and passwords. In certain areas Mediacorp Pte. Ltd. uses industry-standard SSL encryption to protect data transmissions.
 
 **_Release_**
 
