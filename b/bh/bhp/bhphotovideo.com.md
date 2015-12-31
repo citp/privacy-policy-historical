@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609114038id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231234627id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
 # Privacy and Security | B&H Photo Video
 
@@ -44,17 +44,17 @@ Our site contains links to manufacturers, and other related sites for your benef
 
 Relationships/Sharing Information:
 
-B&H maintains special relationships with a number of secure business partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, government compliance, and shipping purposes. 
+B&H maintains special relationships with a number of secure business partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, US Government policy compliance and shipping purposes.
 
-B&H may share account or other information when we are required by law (e.g., in response to subpoenas, court orders, etc.) or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection. 
+B&H may share account or other information when we are required by law (e.g., in response to subpoenas, court orders, etc.) or to protect our interests or property. This may include sharing information, at B&H's discretion, with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to export compliance, fraud, credit or debt collection.
 
-You agree that B&H may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. 
+You agree that B&H may use personal information provided by you in order to conduct appropriate anti-fraud and export compliance checks. Personal information that you provide may be disclosed to a credit reference, fraud prevention agency or US Government agency, which may keep a record of that information.
 
-B&H also shares information with outside companies that perform services for B&H. For example, when a customer signs up for our e-mail newsletters, B&H will provide the customers e-mail address to third party e-mail distribution companies that transmit e-mails on behalf of B&H. Your e-mail address will not be used by these companies for any purpose other than for the transmission of e-mails for B&H. 
+B&H also shares information with outside companies that perform services for B&H. For example, when a customer signs up for our e-mail newsletters, B&H will provide the customers e-mail address to third party e-mail distribution companies that transmit e-mails on behalf of B&H. Your e-mail address will not be used by these companies for any purpose other than for the transmission of e-mails for B&H.
 
-We may retain outside companies to assist us in managing our customer information database or to update and correct customer information for future marketing purposes. B&H takes steps to ensure the confidentiality of your information and to make sure it is not used for other purposes. 
+We may retain outside companies to assist us in managing our customer information database or to update and correct customer information for future marketing purposes. B&H takes steps to ensure the confidentiality of your information and to make sure it is not used for other purposes.
 
-B&H has carefully selected a few companies to assist us in better understanding how our customers use our site. We will place cookies on your computer to collect information. The information that is collected through these cookies tells us things, such as which search engine referred you, how you navigated around our site, which pages you browsed, what you purchased and what traffic is driven by banner ads and e-mails. The companies analyze the information they collect from our site and return it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings. 
+B&H has carefully selected a few companies to assist us in better understanding how our customers use our site. We will place cookies on your computer to collect information. The information that is collected through these cookies tells us things, such as which search engine referred you, how you navigated around our site, which pages you browsed, what you purchased and what traffic is driven by banner ads and e-mails. The companies analyze the information they collect from our site and return it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings.
 
 For more information about the companies with whom B&H shares customer information, please [contact us](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=websupport).
 
@@ -107,7 +107,7 @@ Our transaction security, combined with our privacy guarantee, should satisfy yo
 
 
 
-If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this web site, you can [contact our Web Support Team](http://www.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&A=getpage&Q=contactForm.jsp&destination=websupport).
+If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this web site, you can [contact our Web Support Team](http://www.bhphotovideo.com/bnh/controller/home?O=PrivacySecurity.jsp&A=getpage&Q=contactForm.jsp&destination=websupport).
 
 Changes to B&H Privacy Policy:
 
