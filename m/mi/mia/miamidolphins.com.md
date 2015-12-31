@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164518id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231014329id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Miami Dolphins | Privacy Policy
 
@@ -7,7 +7,7 @@
   
 
 
-###### Effective Date: August 15, 2014
+###### Effective Date: August 24, 2015
 
 The Miami Dolphins, LTD. organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy including but not limited to MiamiDolphins.com; TheFinsiders.com; and DolphinsCheerleaders.com; our applications on Facebook or other social media sites; and our mobile applications (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
@@ -57,11 +57,11 @@ We also may collect certain information automatically when you visit the Service
   * Information collected through cookies, web beacons, local shared objects, and other technologies;
   * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were received, opened, or forwarded;
   * Geolocation Information; and
-  * Standard Server Log Information. ****
+  * Standard Server Log Information.
 
 
 
-We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information.  Cookies are small bits of code that are stored by your computer’s web browser and that may automatically identify your browser to the Services whenever your computer is used to visit the Services.  Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on [**Adobe’s Setting Manager page**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).   By using the Services, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies and similar technologies, you may not be able to use certain online products, services or features on the Services. 
+We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information. Cookies are small bits of code that are stored by your computer’s web browser and that may automatically identify your browser to the Services whenever your computer is used to visit the Services. Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects can be controlled through the instructions on [**Adobe’s Setting Manager page**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).   By using the Services, you consent to our use of cookies and similar technologies. You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser. However, if you choose to reject cookies and similar technologies, you may not be able to use certain online products, services or features on the Services.
 
 ##### Use of Information
 
@@ -84,13 +84,13 @@ We are committed to maintaining your trust, and we want you to understand when a
   * **Service Providers:** We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us).
 
 
-  * **Subsidiaries and Affiliates:** We may share your information with the subsidiaries and affiliates of the Miami Dolphins, LTD. including but not limited to South Florida Stadium LLC and Dolphins Cycling Challenge, LLC.  In addition, we may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
+  * **Subsidiaries and Affiliates:** We may share your information with the subsidiaries and affiliates of the Miami Dolphins, LTD. including but not limited to South Florida Stadium LLC and Dolphins Cycling Challenge, Inc..  In addition, we may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
 
 
-  * **Select Business Partners:** We may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
+  * **Select Business Partners:**   your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
 
 
-  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
+  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services and Traffic Management Services such as Google Analytics. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
 
 
   * **Business Transfer:** If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
@@ -115,7 +115,7 @@ In addition, we may allow third parties to place and read their own cookies, web
 
 We have worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Google+, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services.
 
-You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this
+You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
 
 ##### Links To Other Web Sites
 
@@ -133,29 +133,29 @@ The Services do not knowingly collect, use, or disclose personal information fro
 
 We may amend this Privacy Policy at any time. Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Services prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.
 
-##### Access and Choice
+##### Access/Choice/Retention
 
-You may choose to receive promotional emails, newsletters, and similar communications from us. You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. Please note that opt-out requests may take some time to be effective. Your opt-out request will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
-If your information changes;,if you would like to change your preferences for receiving commercial emails from us; if you no longer would like us to share your information with our marketing partners; or if you no longer desire to use the Services, you may request that we update or remove certain information or settings by signing into your account and making the required changes, by emailing our Customer Support at customerservice@dolphins.com, or by contacting us by telephone or postal mail at the contact information listed below. We will try to respond to your request within 30 days.
+If your information changes;if you would like to change your preferences for receiving commercial emails from us; if you no longer would like us to share your information with our marketing partners; or if you no longer desire to use the Services, you may request that we update or remove certain information or settings by signing into your account and making the required changes, by emailing our Customer Support at customerservice@dolphins.com, or by contacting us by telephone or postal mail at the contact information listed below.  We will try to respond to your request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents to opt-out of the disclosure of their personal information our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to customerservice@dolphins.com or write us at 347 Don Shula Drive, Miami Gardens, FL 33056, Attn: Marketing Department..
+California Civil Code Section 1798.83 permits California residents to opt-out of the disclosure of their personal information our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [**customerservice@dolphins.com**](mailto:customerservice@dolphins.com) or write us at 347 Don Shula Drive, Miami Gardens, FL 33056, Attn: Marketing Department.
 
 In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
 
-Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
 ##### International Users
 
-Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy. ****
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
 
 ##### Contact Us
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at customerservice@dolphins.com or by regular mail at:
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at customerservice@dolphins.com or by regular mail at
 
 Miami Dolphins  
 347 Don Shula Drive   
