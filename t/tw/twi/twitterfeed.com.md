@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitterfeed.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622051614id_/http%3A//twitterfeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterfeed.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231034209id_/http%3A//twitterfeed.com/privacy) for the most accurate reproduction.*
 
 # twitterfeed.com : feed your blog to twitter
 
