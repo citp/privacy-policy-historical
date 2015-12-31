@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toodledo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210504id_/http%3A//www.toodledo.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toodledo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083520id_/http%3A//www.toodledo.com/info/privacy.php) for the most accurate reproduction.*
 
 # Toodledo : Privacy Policy
 
 ## Information Collection and Use
 
-This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves such as their email address. This information will never be shared or sold. Users may remove themselves and their information from the web site's database by [contacting us](https://web.archive.org/web/20150623210504id_/http%3A//www.toodledo.com/info/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm).
+This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves, such as their email address and other information. This information will never be shared or sold beyond what is described below. Users may remove themselves and their information from the website's database by [contacting us](https://web.archive.org/web/20151231083520id_/http%3A//www.toodledo.com/info/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm).
 
 ## Cookies
 
@@ -21,6 +21,8 @@ We use IP addresses and browser type to analyze trends and administer the site. 
 ## Analytics
 
 Toodledo uses [Google Analytics](https://www.google.com/analytics) to monitor the website and make improvements. Google collections information such as your IP number and browser. Google also infers information such as gender and age and aggregates this information in a way that enables us to improve our service. You may opt-out of Google's tracking [here](https://www.google.com/settings/ads) and [here](https://tools.google.com/dlpage/gaoptout/). Toodledo does not facilitate the merging of personally identifiable information with non-personally identifiable information collected by Google.
+
+If you agree to become a beta tester, we may use additional 3rd party analytics software to collection additional information that we may need to improve our service.
 
 ## Sharing
 
@@ -40,7 +42,7 @@ From time-to-time our site requests information from users via surveys. Particip
 
 Security 
 
-This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20150623210504id_/http%3A//www.toodledo.com/info/contact.php). 
+This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. While we use best practices to protect your data, we cannot guarantee that your data is completely secure. We recommend that you do not store confidential information on our servers and that you make regular backups of your data using our backup tools. If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20151231083520id_/http%3A//www.toodledo.com/info/contact.php). 
 
 ## Notification of Changes
 
