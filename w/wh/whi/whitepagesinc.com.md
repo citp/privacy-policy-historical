@@ -1,133 +1,77 @@
-> *The following text is extracted and transformed from the whitepagesinc.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106133623id_/http%3A//whitepagesinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepagesinc.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083707id_/http%3A//www.whitepages.com/data-policy) for the most accurate reproduction.*
 
-# WhitePages Inc. - Privacy Policy
+# Data Policy | Whitepages
 
-| [](http://www.etrust.org/cert/783904.html)  
----|---  
-  
-* * *
+[Give Feedback](http://www.whitepagescustomers.com/)
 
-It is our goal to make it fantastically simple for everyone to connect with confidence through our network of WhitePages websites. The key word here is "confidence." We want you to understand how your information is collected and used. 
+ **Last updated on April 9, 2013.**
 
-**Information Published on WhitePages Websites**
+This policy is designed to provide you with information regarding data collection and use in connection with our products and services. If you have questions about your profile, please click [here](http://www.whitepagescustomers.com/).
 
-It's important for you to know that we acquire much of the information published on our websites from third-party data suppliers and other sources. Our Privacy Policy does not apply to that information. It applies only to the information that you provide directly to us. We detail the specifics below.
+## A. INFORMATION WE COLLECT FROM YOU
 
-**Remove Published Information** ****
+### 1\. Why do we collect information?
 
-If you want to remove information - such as your name, address and phone number - from being shown on WhitePages websites, [click here](http://www.whitepages.com/help/privacy_central#6). For specific information about how you can control the information we may publish about you, [click here](http://www.whitepages.com/help/privacy_central "Privacy Central").
+We collect information in order to provide useful products and services to you and others. We also use this data to improve the quality of those products and services.
 
-##   
-WhitePages Privacy Policy
+### 2\. What kinds of information do you collect?
 
-**This policy is effective as of September 11, 2009.**
+We collect information that (i) you provide to us or authorize us to collect as a result of using our products ( _e.g._ social media accounts, call and text logs, etc.) and (ii) information about your use of our products and services (e.g., browser type, search categories, location).
 
-Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and [terms of service](https://web.archive.org/terms_of_use). We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted. ********
+### 3\. How do you use the information you collect?
 
-**The Information We Collect & How We Use It **
+We use information to (i) provide useful products and services, such as Whitepages.com, Whitepages PRO, LOOKUP, caller ID applications, and customer support, to our users; (ii) verify public information and information obtained from other sources; and (iii) help us analyze usage and effectiveness of our products and services.
 
-There are three categories of information that we collect from you:
+### 4\. With whom do you share the information you collect and why?
 
-  * Member Contributed Information
-  * Personal Information
-  * General Information
+Besides the consumer users of our products and services, we provide access to information to our business users ( _e.g._ , customer support centers, corporate fraud departments) so that they may identify and verify their customers. We provide access to information to third party partners of ours in order to provide our products and services to you. Further, we also provide access to non-personally-identifiable information to our third party advertisers so that they can deliver relevant online and mobile advertising to you (more information about third party advertising is provided below).
 
+### 5\. How do I stop the collection of my information?
 
+In order to stop further collection of information by us, you will need to stop using our products and services.
 
-In addition to the specific uses noted below, we may use, store and review information we collect from you for a variety of internal business purposes, such as to provide, monitor and maintain the Services, provide you with a better user experience and develop new services. We also may use this information to deliver advertisements that match your interests (though not unsolicited third-party email).
+### 6\. How do I stop third-party advertising?
 
-**1.    Member Contributed Information** ****
+See Section B.5 and B.6 below for advertising opt-out information.
 
-This is any information that you voluntarily send, post, upload, or display to others through the Services. For example, a name, phone number or address that you choose to add to your listing is Member Contributed. Information that you send or post to others via text message, SMS, or email is also Member Contributed.
+## B. INFORMATION COLLECTED BY THIRD PARTIES
 
-**How we use it:**
+### 1\. What information is collected by third parties?
 
-Our use of Member Contributed Information is straightforward - we publish it, send it to the intended recipient or use it in accordance with any terms and conditions you agree upon when you submit the information. **** Although we allow you to set privacy options that limit access to certain information, you should assume that Member Contributed Information may be accessible by anyone.
+Third parties may collect information during your visits to our websites and use of our mobile products and services. Such information includes searches you perform ( _e.g._ , category of business, location) and general information about you ( _e.g._ , browser type, mobile device type, unique user ID, mobile carrier, IP address, date and time of your visits, locality, pages viewed). Certain products and services may collect specific information such as your name, phone number, IP address, etc., but unless you provide specific details about yourself, information collected by such third parties will generally be limited to non-personally-identifiable information.
 
-**2.** **Personal Information**
+### 2\. How is information collected by third parties?
 
-This is information that you provide when using the Services which is not provided for publication, transmission or display through the site AND identifies you by full name, full postal address, phone number or email address, or includes information necessary to process payment for the Services. Examples of Personal Information include your username and password and payment information such as a credit card number, expiration date, and billing address.
+Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information ( _e.g._ , pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS informationmay include city, state and other information when you use our products or services on a GPS-enabled mobile device.
 
-To be very clear, Personal Information does not include any contact information you choose to publish on WhitePages websites. That's Member Generated Information.
+### 3\. Why do these third parties collect information?
 
-**How we use it:**
+Third parties may collect information in order to (i) deliver relevant online and mobile advertising to you both on and off our sites; (ii) help us provide or analyze usage and effectiveness of our products and services; and (iii) for their own business purposes ( _e.g._ , such as to report aggregate, non-personally identifiable information about the use of their services and technologies).
 
-  * We may use Personal Information for the purposes for which it was provided, such as to process transactions and to send text messages or emails to other members.
-  * We may use your email address to send email about your account or marketing messages to any email address you provide us. 
-  * You can always choose not to receive any marketing email. We offer an "unsubscribe" in the marketing emails we send. If you choose not to receive marketing email, you may still receive WhitePages email and other communication (e.g. SMS, text messages, etc.) from us based on Services you may have signed up for. 
+### 4\. How will they use the information they collect? Will they share it?
 
+Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of [AdMarvel](http://www.admarvel.com/AdMarvel_Privacy_Policy_2012.pdf) or [Google](http://www.google.com/intl/en/policies/privacy/). Accordingly, please review those policies for specific information.
 
+### 5\. How do I stop the collection and use of my information by third parties?
 
-**3.    General Information**
+To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, [click here](https://www.optoutmobile.com/optOut). To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). At this time, there is no industry solution to opt-out of receiving relevant mobile advertising.
 
-This information includes things like your browser type, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, searches you conducted, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.
+To opt out of tracking on Whitepagesí mobile app marketing programs, go to our third party providerís website by [clicking here](https://www.optoutmobile.com/optOut).
 
-We use cookies, web beacons and GPS information (for mobile devices) to collect General Information.
+### 6\. What about interest-based advertising?
 
-**A cookie** is a small file that we send to your computer to identify your web browser.  Most browsers allow you to disable cookies (not allow our servers to send cookies to your browser). However, some of the Services may not function properly if you disable cookies.
+We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, [click here](http://www.aboutads.info/choices/).
 
-**A web beacon** is a small graphic file used to identify if a page has been viewed.
+## C. MISCELLANEOUS
 
-**GPS Information** includes city, state and other information when you use our services on a GPS-enabled mobile device.
+### 1\. What about children's privacy?
 
-**How we use it:**
+Our services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13. If you know of anyone under the age of 13 whose information is published through our services, or have other concerns about children's privacy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at [support@Whitepages.com](mailto:support@whitepages.com)
 
-We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device.
+### 2\. How can I tell if this statement gets updated?
 
-**How Third Parties Collect & Use Your Information **
+Please see the date at the top of this statement for information about when it was last updated.
 
-WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes.
+### 3\. How do I contact you?
 
-**Opt-Out Option:**
-
-To stop information collection and targeted advertising from Audience Science and other third-party companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
-
-**Advertising Forms & Surveys**
-
-Some third-party advertisements include surveys or forms, which prompt you to enter search criteria or other General Information, such as your age or gender. An advertiser may receive the information you enter into a form or survey contained in an advertisement. Similarly, advertisements typically link to third-party websites.
-
-It's important to remember that we do not have control over the privacy policies of advertisers or other third-party websites. So before you enter any information into a form or survey contained in an advertisement, or click through to a third-party website linked from an advertisement, we encourage you to read the privacy policy of the advertiser or third-party website.
-
-Websites that contain a "Powered by WhitePages" logo may not be controlled by WhitePages, therefore please review the privacy policies on such web pages as our privacy policy might not apply.
-
-**Analysis of Your Data**
-
-We may use third parties to help measure the effectiveness of our advertising and to analyze usage of the Services. Third parties help us analyze General Information we obtain from you (we generally place restrictions on those third parties' use of such information). Third parties may also use the General Information for their business purposes, such as to report aggregate, non-personally identifiable information about the use of their services and technologies in connection with the Services.
-
-**Opt-Out Option:**
-
-To stop certain companies from analyzing your data, [click here](http://www.omniture.com/privacy/policy#optout).
-
-**When We Share Information With Third Parties**
-
-We do not sell your Personal Information or Member Contributed Information to third parties. We may share the information subject to this policy, but only in the following circumstances.
-
-**1\. To help us provide the Services to you.** We may share information with third parties to complete transactions you've requested or to perform services on our behalf. Third parties who perform services on our behalf are obligated to use the information for the purpose it was provided.
-
-**2\. To comply with the law.** We may disclose information we collect (including Personal Information) when we believe it is appropriate to comply with the law, such as in response to a subpoena or court order.
-
-**3\. For safety reasons or to protect our interests**. __ We may disclose information we collect (including Personal Information) in order to prevent damage to our property (tangible and intangible), for safety reasons or in the course of collecting amounts owed to us. __
-
-**4\. Business transfers**. We will not sell Personal Information unless it is in the context of a merger, acquisition, business reorganization, debt financing or sale of company assets, or in the event of an insolvency, bankruptcy or receivership. In these transactions, the information which we collect may be transferred to third parties as one of our business assets.
-
-**5\. You authorize it.** We may disclose information if you authorize it. Sometimes, your authorization may be implicit. For example, if you use our "Send Listing to Email" or SMS message service, information you provide, which may include your name, email address and phone number, as well as any message content, may be sent to the recipient.
-
-**The Security of Your Personal Information**
-
-We use reasonable security measures to protect your Personal Information from unauthorized use and disclosure while in our control. We use Secure Socket Layer (SSL) encryption to protect certain Personal Information. However, no security measures are perfect, and we cannot guarantee that any information will be secure from unauthorized access or use.
-
-**Children & WhitePages**
-
-Our Services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 18 through our Services. If you know of anyone under the age of 18 whose information is published through our Services, or have other concerns about children's privacy, please write to us at [childrensprivacy@whitepages.com](mailto:childrensprivacy@whitepages.com).
-
-**Contact Us**
-
-If you have any questions about this policy,   
-**email us at:  
-**[privacy@whitepages.com](mailto:privacy@whitepages.com)
-
- **or write to:**  
-WhitePages Privacy Manager  
-1301 Fifth Ave  
-Suite 1600  
-Seattle, WA 98101
+If you have any questions about this policy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at [support@Whitepages.com](mailto:support@whitepages.com).
