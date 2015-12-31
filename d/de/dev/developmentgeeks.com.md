@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the developmentgeeks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230231522id_/https%3A//drupal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developmentgeeks.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231085437id_/https%3A//drupal.org/privacy) for the most accurate reproduction.*
 
 # Drupal.org Privacy Policy | Drupal.org
 
-_Last updated: 05 November 2014_
+_Last updated: 03 December 2015_
 
 We value your privacy and strive to protect your personal information. Please read this Policy to understand what types of information we collect from you, for what purposes and what choices you have regarding our collection of your information.  
 This policy covers Drupal.org website and all *.drupal.org subsites (collectively, the "Website"). By accessing, using or posting information to this Website, you agree to this Privacy Policy and the [Terms of Service](https://web.archive.org/terms).
@@ -41,7 +41,7 @@ We may collect additional information from and about you when you visit certain 
 
 
 
-### DrupalCon sites
+### Events.drupal.org
 
   * When you purchase a registration, membership or other products on DrupalCon site, we will collect additional information about you, such as your name, address, etc. We treat this information as nonpublic, "Personally Identifiable Information" or "PII".
   * All credit card transactions happen via payment services such as Authorize.net or PayPal. We do not store any credit card information you provide during purchase. We recommend that you review the privacy and security policies of these payment services to determine how they handle information they may collect from or about you.
@@ -53,9 +53,23 @@ We may collect additional information from and about you when you visit certain 
 
 [Drupal Store](http://drupalstore.org/) is provided by Shopify.com and operates according to their Terms of Service and Privacy Policy.
 
+### Updates.drupal.org
+
+Your Drupal site may send anonymous usage stats including your websites's ip address and information about your currently installed modules and their versions to [updates.drupal.org](https://updates.drupal.org/) when checking for available updates. Statistics may be aggregated so that the updates system could identify changes in the use of modules over the lifetime of each anonymized site. Those statistics do not contain personally identifiable information and are used for providing usage data on Drupal.org project pages, as well as anonymized reports shared via blog posts and other channels.
+
 ## User Contributions
 
 Your public profile that you create on this Website will be visible to all users of this Website. Your User Contributions are posted on this Website and transmitted to others at your own risk. Please see our [Terms of Service](https://web.archive.org/terms) for more information concerning User Contributions.
+
+## Service providers and partners
+
+We use a number of service providers to help us operate the site and provide high quality user experience to our visitors. Some of those providers can access Non-PII about you via automatic data collection technologies.
+
+  * We use [Mollom](https://www.mollom.com/) for spam detection and prevention. When you register an account on Drupal.org, you accept the [Mollom privacy policy](https://www.mollom.com/web-service-privacy-policy).
+  * We use Mailchimp to send Newsletter emails to users who subscribe to receive them. You can review [Mailchimp privacy policy](http://mailchimp.com/legal/privacy/) for information on how they manage user data.
+  * We use [Distil](http://www.distilnetworks.com/) to analyse browser activity during registration to prevent malicious users from registering accounts. You can view [Distil’s privacy policy](http://www.distilnetworks.com/privacy/) for information on how they manage request data. Distil's profiling is only enabled on registration form (at register.drupal.org) and no user data is provided to Distil through other areas of Drupal.org.
+
+
 
 ## Automatic Information Collection Technologies 
 
@@ -72,7 +86,7 @@ The automatic collection technologies we or our service providers use for this a
 
 ## Third Party Advertising Partners and Interest-Based Ads
 
-We use third party ad networks to display advertisements on this Websites. These third parties also may use cookies, web beacons and other automatic collection technologies to collect information about you when you visit this Websites for purposes of determining your preferences in order to deliver interest-based advertising and other targeted content to you.
+We use third party ad networks to display advertisements on this Websites and to advertise to certain Drupal.org visitors while they are on other websites. These third parties also may use cookies, web beacons and other automatic collection technologies to collect information about you when you visit this Websites for purposes of determining your preferences in order to deliver interest-based advertising and other targeted content to you.
 
 We do not provide any PII to these third party advertising partners, but they may combine the non-PII collected on the Website with PII they collect directly from you or receive from other sources. We do not have access to or control over the automatic collection technologies that these third party advertisers or any third party websites may use, and the information practices of these third party advertisers and third party websites are subject to these parties' respective privacy policies, not this Privacy Policy. 
 
@@ -126,6 +140,8 @@ We strive to provide you with choices regarding our use of your personal informa
 
   * **Promotional and Informational e-mails**. We do not send any promotional or informational emails without your opt-in first. If you do not wish to receive promotional e-mails from us, follow the unsubscribe process at the bottom of the promotional e-mail. Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on this Website). 
   * **Automatic Information Collection Technologies and Advertising**. The "help" function of your browser should contain instructions on how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether. If you disable or refuse cookies, please note that some parts of this Website may be inaccessible or not function properly.
+  * **Google Analytics**. You can opt out from Google Analytics tracking via your browser privacy settings or by using [browser addon](https://support.google.com/analytics/answer/181881).
+  * **Audience Extension**. You can opt out from Audience Extension retargeting by Perfect Audience either via your browser privacy settings or by using the [following link](http://www.perfectaudience.com/privacy/). Note that authenticated users are excluded from this tracking automatically.
 
 
 
@@ -152,8 +168,6 @@ If you are visiting this Website from outside the United States, please be aware
 ## Changes to this Privacy Policy
 
 We may update or amend this Privacy Policy at any time. This Privacy Policy will reflect the date it was last updated or amended. If we make any material amendments, we will notify you by sending an email to the address, associated with your user account, at least 72 hours prior to the updated Privacy Policy being published on the Website. All amendments will take effect immediately upon our posting of the updated Privacy Policy on this Website. Your continued use of this Website (publishing content) will indicate your acceptance of the changes to the Privacy Policy.
-
-## Contacting Us
 
 If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
