@@ -1,0 +1,804 @@
+<!--The following is the downloaded HTML source of the everydayviralfeed.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231012138id_/http%3A//everydayviralfeed.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class=""><head>
+<script type="text/javascript" async="" src="//stats.g.doubleclick.net/dc.js"></script><script>window._t={start:(new Date).getTime()};</script>
+
+<base href="//everydayviralfeed.com">
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="google" value="notranslate">
+<meta http-equiv="x-dns-prefetch-control" content="off">
+
+<meta http-equiv="Content-Language" content="en">
+
+<title>
+ everydayviralfeed
+</title>
+<link type="text/css" rel="stylesheet" href="//c.likes-media.com/s/9e7b4af4b077841bf5bee80b7180c29b/balloon__custom_theme.css">
+
+
+<link href="//fonts.googleapis.com/css?family=Bangers|Montserrat:400,700|Fjalla+One|Fjalla+One|Fjalla+One|Passion+One|Fjalla+One|Fjalla+One" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4983970-4']);
+var _gaq_var_index = 1;
+</script>
+
+<script id="bounce_tracking" type="text/javascript">
+    function supports_localstorage() {
+        try {
+            return 'localStorage' in window && window['localStorage'] !== null;
+        } catch (e) {
+            return false;
+        }
+    }
+
+    function setup_bounce_tracking(ad_doc) {
+        ad_doc = ad_doc || document;
+        if (!ad_doc.querySelectorAll){
+            setTimeout(function(){setup_bounce_tracking(ad_doc)}, 20);
+        }
+        var bounce_ad_slots = ad_doc.querySelectorAll('a[slot_id]');
+        if (bounce_ad_slots.length) {
+            for (var i = 0; i < bounce_ad_slots.length; i++) {
+                bounce_ad_slots[i].addEventListener("click", function(e) {
+                    if (supports_localstorage()) {
+                        localStorage.setItem('back_info_time', "" + Math.round((new Date()).getTime() / 1000));
+                        localStorage.setItem('back_info_pid', "" + this.getAttribute('prid'));
+                        localStorage.setItem('back_info_slot', "" + this.getAttribute('slot_id'));
+                        if (window.likes_tracking) {
+                            localStorage.setItem('back_info_cid', "" + window.likes_tracking.pv_params.click_id);
+                            localStorage.setItem('back_info_p', "" + window.likes_tracking.pv_params.page_type);
+                        }
+                    }
+                });
+            }
+        }
+    }
+
+</script>
+
+<script type="text/javascript">
+var likes_tracking_create = function() {
+    var obj = {};
+
+
+    obj.pvid = null;
+    obj.load_dt = new Date();
+    obj.load_ts = obj.load_dt.getTime();
+    obj.event_log = [];
+    obj.imp_event_index = -1;
+    obj.sent_index = 0;
+    obj.network_ads_by_position = new Array();
+    obj.pending_timeouts = [];
+    obj.tracking_in_progress = false;
+    obj.tracking_hbs = [];
+    obj.imp_events_timeout = 100;
+    obj.bad_ad_detect_ms = 4000;
+    obj.bad_ad_detect_throttle = 100;
+    obj.detect_bad_ads = (Math.random()*100 <= obj.bad_ad_detect_throttle);
+    obj.report_pubm_throttle = 0;
+    obj.report_pubm_ads = function() {return (Math.random()*100 <= obj.report_pubm_throttle);}
+    obj.report_appnexus_throttle = 0;
+    obj.report_appnexus_ads = function() {return (Math.random()*100 <= obj.report_appnexus_throttle);}
+    obj.record_event_log_throttle = 0;
+    obj.should_record_event_log = function() {return (Math.random()*100 <= obj.record_event_log_throttle);}
+
+
+
+    obj.is_final_network_ad = function(event) {
+        var final = false;
+        return final;
+    };
+
+    obj.get_potential_bad_ads = function(pagehide_event) {
+        var potentials = [];
+        var i, event;
+        for (i = 0; i < obj.event_log.length; i++) {
+            event = obj.event_log[i];
+            if (event.type == "begin_pubmatic_render" && pagehide_event.latency_ms - event.latency_ms < obj.bad_ad_detect_ms) {
+                potentials.push(event);
+            }
+        }
+        return potentials;
+    };
+
+    obj.report_bad_ads = function() {
+        if (!obj.detect_bad_ads) {
+            return;
+        }
+        var i, j, event, ad;
+        var report = [];
+        var reported_events = [];
+        for (i = 0; i < window.likes_tracking.event_log.length; i++) {
+            event = window.likes_tracking.event_log[i];
+            if (event.type == 'pagehide' && event.potential_bad_ads.length > 0 && !event.reported) {
+                for (j = 0; j < event.potential_bad_ads.length; j++) {
+                    ad = event.potential_bad_ads[j];
+                    report.push({'url': ad.ad.PubMatic_Bid.landing_page,
+                                'tag': ad.ad.PubMatic_Bid.creative_tag,
+                                'cpm': ad.ad.PubMatic_Bid.ecpm,
+                                'pos': ad.position,
+                                'loc': '',
+                                'suspect': 1});
+                }
+                reported_events.push(event);
+            }
+        }
+        if (report.length > 0) {
+            $.ajax({
+                url: '//' + window.location.host + '/api/record_pubmatic_ads',
+                type: 'POST',
+                   dataType: 'json',
+                   data: {'report': JSON.stringify(report)},
+                   context: {'reported_events': reported_events},
+                   success: function() {
+                       var events = this.reported_events;
+                       for (var j = 0; j < events.length; j++) {
+                           events[j].reported = 1;
+                       }
+                   },
+            });
+        }
+    };
+
+    obj.track_event = function(event) {
+        event.latency_ms = (new Date).getTime() - obj.load_ts;
+        obj.event_log.push(event);
+        if (obj.is_final_network_ad(event)) {
+            var orig_imp_event_index = obj.imp_event_index;
+            obj.imp_event_index = obj.event_log.length - 1;
+            if (orig_imp_event_index <= obj.sent_index && window.$) {
+                obj.pending_timeouts.push(window.setTimeout(obj.send_events, obj.imp_events_timeout));
+            }
+        }
+    };
+
+    obj.track_house_ad = function(ad_slot) {
+        var h_event = {'network': 'mylikes',
+                       'slot_name': ad_slot.slot_name,
+                       'promo_id': ad_slot.promo_id,
+                       'promo_hash': ad_slot.promo_hash,
+
+                       'type': 'ad_slot_rendered'};
+        if (ad_slot.csrc) {
+            h_event.csrc = ad_slot.csrc;
+        }
+        obj.track_event(h_event);
+    };
+
+    obj.get_new_track_id = function() {
+        var random = Math.floor(Math.random()*90000) + 10000;
+        return +((obj.pv_params.click_id + '') + (random + ''))
+    };
+
+    obj.update_ads_data = function(send_params, event_log) {
+        var house_ads = '';
+        var network_ads = '';
+        var redis_ads = '';
+        obj.network_ads_by_position = new Array();
+        var i = 0;
+        js_bundle = window.pass_to_js || window.PageData;
+        for (; i < event_log.length; i++) {
+            if (event_log[i]['network'] == 'mylikes' && event_log[i]['type'] == 'ad_slot_rendered') {
+                delimiter = '';
+                var event = event_log[i];
+                if (event.rotate_list && event.rotate_list.length){
+                    event = event.rotate_list[event.active_promo];
+                }
+                var process_redis_imp = false;
+                var process_house_ad = true;
+                if (event['tracking_infos']) {
+                    tracking_infos = event['tracking_infos'];
+                    house_ads += ',{';
+                    if (tracking_infos[0] && tracking_infos[0]['base_slot_name']){
+                        if (js_bundle && js_bundle.ad_page_slots.indexOf(tracking_infos[0]['base_slot_name']) == -1) {
+                            process_redis_imp = obj.track_redis_imps;
+                            process_house_ad = !obj.skip_house_ad;
+                        }
+                        if (process_house_ad) {
+                            house_ads += '"base_slot_name":"' + tracking_infos[0]['base_slot_name'] + '"';
+                        }
+                        delimiter = ',';
+                    }
+                    if (process_house_ad) {
+                        house_ads += delimiter + '"pairs":' + '[';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    var pair_iterator = (event.refresh_count) ? event.promo_list : event.tracking_infos;
+                    for (var j = 0; j < pair_iterator.length; j++) {
+                        if (process_house_ad) {
+                            if (j != 0) {
+                                house_ads += ',';
+                            }
+                            house_ads += '[';
+                        }
+                        if (pair_iterator[j]['promo_id']){
+                            if (process_house_ad) {
+                                house_ads += '"' + pair_iterator[j]['promo_id'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ',' + pair_iterator[j]['promo_id'];
+                            }
+                        }
+                        if (pair_iterator[j]['promo_hash']){
+                            if (process_house_ad) {
+                                house_ads += ',"' + pair_iterator[j]['promo_hash'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ':' + pair_iterator[j]['promo_hash'];
+                            }
+                        }
+                        if (process_house_ad) {
+                            house_ads += ']';
+                        }
+                    }
+                    if (process_house_ad) {
+                        house_ads += ']';
+                    }
+                    house_ads += '}';
+                } else {
+                    if (js_bundle && js_bundle.ad_page_slots.indexOf(event['slot_name']) == -1) {
+                        process_redis_imp = obj.track_redis_imps;
+                        process_house_ad = !obj.skip_house_ad;
+                    }
+                    if (process_house_ad) {
+                        house_ads += ',{';
+                        }
+                    if (event['position'] && process_house_ad){
+                        house_ads += '"position":"' + event['position'] + '"';
+                        delimiter = ',';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    if (event['promo_id']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_id":"' + event['promo_id'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ',' + event['promo_id'];
+                        }
+                    }
+                    if (event['slot_name'] && process_house_ad){
+                        house_ads += delimiter + '"slot_name":"' + event['slot_name'] + '"';
+                        if (event['slot_name'].indexOf('ad_page_') == 0) {
+                            if (event.csrc) {
+                                house_ads += ',"csrc":"' + event.csrc + '"';
+                            }
+                        }
+                        delimiter = ',';
+                    }
+                    if (event['promo_hash']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_hash":"' + event['promo_hash'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ':' + event['promo_hash'];
+                        }
+                    }
+                    if (event['slot_id'] && process_house_ad){
+                        house_ads += delimiter + '"slot_id":"' + event['slot_id'] + '"';
+                    }
+                    if (process_house_ad) {
+                        house_ads += '}';
+                    }
+                }
+            } else if (obj.track_network_ads) {
+                if (!event_log[i]['type']
+                    || (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response' && event_log[i]['type'] != 'appnexus_api_response')
+                    || !event_log[i]['network']
+                    || !event_log[i]['position']) {
+                    continue;
+                }
+                var position = event_log[i]['position'];
+                var network = event_log[i]['network'];
+                js_bundle = window.pass_to_js || window.PageData;
+                if (network in js_bundle.net_names && js_bundle.experiment_config.shorten_net_names) {
+                    network = js_bundle.net_names[network];
+                }
+                var cpm = event_log[i]['cpm'];
+                var state = '';
+                if (position in obj.network_ads_by_position) {
+                    state = obj.network_ads_by_position[position];
+                }
+                state += ',{';
+                state += '"' + network + '":';
+                if (cpm != null){
+                    cpm = Math.round(cpm*1000)/1000;
+                    state += '[';
+                    state += event_log[i]['latency_ms'];
+                    state += ',' + cpm;
+                    state += ']';
+                } else {
+                    state += event_log[i]['latency_ms'];
+                }
+                state += '}';
+                obj.network_ads_by_position[position] = state;
+            }
+        }
+
+        for (var position in obj.network_ads_by_position) {
+            if (obj.network_ads_by_position.hasOwnProperty(position)) {
+                state = obj.network_ads_by_position[position];
+                network_ads += ',"' + position + '":[' + state.substr(1) + ']';
+            }
+        }
+
+        obj.sent_index += i;
+        if (house_ads.length > 0){
+            house_ads = house_ads.substr(1);
+        }
+        if (network_ads.length > 0){
+            network_ads = network_ads.substr(1);
+        }
+        send_params['house_ads'] = '[' + house_ads + ']';
+        send_params['network_ads'] ='[{' + network_ads + '}]';
+        if (redis_ads.length > 0) {
+            send_params['redis_ads'] = redis_ads.substr(2);
+        }
+    };
+
+    obj.record_event_log = function() {
+        if (!window.top.likes_tracking.event_log){
+            return;
+        }
+        var event_log = escape(JSON.stringify(window.top.likes_tracking.event_log));
+        var data = {
+            'event_log':event_log,
+            'page_url': window.top.location.href,
+        };
+        if (window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length){
+            data['errors'] = escape(JSON.stringify(window.top.likes_ad_server.rtb_errors));
+            window.top.likes_ad_server.rtb_errors = [];
+        }
+        $.ajax({
+            url: '/api/record_event_log',
+               type: 'POST',
+               data: data,
+        });
+    }
+
+    obj.send_events = function(cancel_pending) {
+        if (obj.tracking_in_progress || obj.pvid < 0) {
+            return;
+        }
+
+        if (cancel_pending) {
+            obj.cancel_pending();
+        }
+
+        var send_params = {};
+        for (var k in obj.pv_params) {
+            if (obj.pv_params.hasOwnProperty(k) && obj.pv_params[k]) {
+               send_params[k] = obj.pv_params[k];
+            }
+        }
+
+        try {
+            if ((obj.should_record_event_log() && obj.pvid) || (window.top.likes_ad_server && window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length)){
+                obj.record_event_log();
+            }
+        } catch (e) {}
+
+        /*
+        // We only need to send data if we have pending events in the event log
+        // or if we have not yet recorded a pageview (pvid == null)
+        */
+        if (obj.sent_index < obj.event_log.length) {
+            obj.update_ads_data(send_params, obj.event_log.slice(obj.sent_index));
+        } else {
+            if (obj.pvid) {
+                return;
+            }
+        }
+
+        if (!obj.pvid || obj.pvid < 0) {
+            send_params['track_id'] = obj.current_track_id;
+        } else {
+            send_params['pvid'] = obj.pvid;
+        }
+        var method = obj.pvid ? 'update_pv' : 'track_pv';
+        if (method == 'update_pv') {
+            if (!obj.track_network_ads && obj.track_house_ads ) {
+                if (send_params.house_ads == "[]" && !send_params.redis_ads) {
+                    return;
+                } else {
+                    send_params.network_ads = "[{}]";
+                }
+            } else if (obj.track_network_ads && !obj.track_house_ads) {
+                if (send_params.network_ads == "[{}]") {
+                    return;
+                } else {
+                    send_params.house_ads = "[]";
+                }
+            } else if (!obj.track_network_ads && !obj.track_house_ads) {
+                return;
+            }
+        }
+        $.ajax({
+            url: '//' + window.location.host + '/api/' + method,
+            type: 'POST',
+            dataType: 'json',
+            beforeSend: function() {
+               obj.tracking_in_progress = true;
+            },
+            data: send_params,
+            success: function(result) {
+               if (result && !obj.pvid && result.pvid) {
+                    obj.pvid = result.pvid;
+                    obj.ncvid = result.ncvid;
+               }
+            },
+            complete: function() {
+                obj.tracking_in_progress = false;
+                if (!obj.pvid) obj.pvid = -1;
+                if (obj.sent_index < obj.imp_event_index) {
+                    obj.send_events();
+                }
+            }
+        });
+    };
+
+    obj.cancel_pending = function() {
+        if (obj.pending_timeouts) {
+            while ((t = obj.pending_timeouts.pop()) != null) {
+                window.clearTimeout(t);
+            }
+        }
+    };
+
+
+
+
+
+
+    obj.start_tracking = function(track_id, page_type, page_num, gallery_id) {
+        if (window.top.likes_ad_passbacks){
+            window.top.likes_ad_passbacks.clear_valid_passbacks();
+        }
+    };
+
+    if (window.top.likes_tracking) {
+        window.top.likes_tracking.cancel_pending();
+    }
+
+    window.likes_tracking = obj;
+    window.top.likes_tracking = window.likes_tracking;
+};
+
+likes_tracking_create();
+
+window.onbeforeunload = function() {
+    if (window.top.likes_tracking) {
+        window.top.likes_tracking.send_events(true);
+    }
+    return;
+};
+
+</script>
+<script type="text/javascript">
+window.addEventListener("pagehide", function(e) {
+    if (window.likes_tracking) {
+        var event = {'type': 'pagehide'};
+        window.likes_tracking.track_event(event);
+        event.potential_bad_ads = window.likes_tracking.get_potential_bad_ads(event);
+    }
+}, false);
+window.addEventListener("pageshow", function(e) {
+    if (window.likes_tracking) {
+        window.likes_tracking.report_bad_ads();
+    }
+}, false);
+</script>
+
+<script type="text/javascript">
+try {
+(function() {
+    var obj = {};
+    obj.p_list = [];
+    obj.completed = {};
+    obj.loops = {};
+    obj.load_ts = (new Date).getTime();
+    obj.valid_passbacks = {};
+
+    obj.clear_valid_passbacks = function(){
+        obj.valid_passbacks = {};
+    }
+
+    obj.create_iframe = function (width, height, defer_size_ms) {
+        var ifrm = document.createElement('iframe');
+        ifrm.setAttribute('margin', '0 auto');
+        ifrm.setAttribute('padding', '0');
+        ifrm.setAttribute('frameBorder', '0');
+        if (!defer_size_ms) {
+            ifrm.setAttribute('width', width + '');
+            ifrm.setAttribute('height', height + '');
+        } else {
+            ifrm.setAttribute('width', '0');
+            ifrm.setAttribute('height', '0');
+        }
+        ifrm.setAttribute('scrolling','no');
+        try {
+            if (width == 1 && height == 1) {
+                ifrm.style.float = "left";
+            }
+            ifrm.style.margin = "0px auto";
+            ifrm.style.padding = "0px";
+            ifrm.style.border = '0px none';
+            if (!defer_size_ms) {
+                ifrm.style.width = width + "px";
+                ifrm.style.height = height + "px";
+            }
+            ifrm.style.overflow = 'hidden';
+        } catch (e) {
+        }
+        return ifrm;
+    };
+    obj.hide_all_in_div = function(ad_div_id) {
+        var ad_div = document.getElementById(ad_div_id);
+        if (ad_div) {
+            for (var i = 0; i < ad_div.childNodes.length; i++) {
+                if (ad_div.childNodes[i].style) {
+                    ad_div.childNodes[i].style.display = 'none';
+                }
+            }
+            if (document.getElementById("bottom_mobile_ad") && document.getElementById("bottom_mobile_ad").classList)
+                document.getElementById("bottom_mobile_ad").parentNode.classList.remove("dummy_ad_wrapper");
+        }
+        return ad_div;
+    };
+    obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms, network, position) {
+        if (network && position){
+            obj.valid_passbacks[network + "." + position] = 1;
+        }
+        var ad_div = window.likes_ad_passbacks.hide_all_in_div(ad_div_id);
+        if (ad_div) {
+            var dummy_ad;
+            if (ad_src.indexOf("dummy_mob_bottomtall") > -1) {
+                width = 0;
+                height = 0;
+                dummy_ad = 1;
+            }
+            var ifrm = window.likes_ad_passbacks.create_iframe(width, height, defer_size_ms);
+            ad_div.appendChild(ifrm);
+            if (!defer_size_ms) {
+                ad_div.width = width;
+                ad_div.height = height;
+            } else {
+                ifrm.onload = function() {
+                    window._defered_size_timeout = setTimeout(function() {
+                        ifrm.width = width;
+                        ifrm.height = height;
+                    }, defer_size_ms);
+                };
+            }
+            if (dummy_ad && ad_div_id == "bottom_mobile_ad") {
+                ad_div.parentNode.classList.add("dummy_ad_wrapper");
+            }
+            if (ad_src) {
+                ifrm.src = ad_src;
+            } else {
+                ifrm.src = 'javascript:document.write(unescape("' + escape(ad_script) + '"));document.close();';
+            }
+
+            return true;
+        }
+        return false;
+    };
+
+    obj.render_passback = function(network, position, div_id) {
+        if (window.top.likes_tracking) {
+            window.top.likes_tracking.track_event({'type': 'attempted_passback', 'network': network, 'position': position});
+        }
+        if (network == "criteo" && position == "top"){
+            window.likes_ad_passbacks.criteo_top_reload = true;
+        }
+
+        if (((network == "openx_lowval") || (network == "fedmedia_passback")) && position == "right") {
+            clearTimeout(window._defered_size_timeout);
+            obj.hide_all_in_div("ad_slot_right");
+            //document.getElementById("ad_slot_right").innerHTML = '';
+            var spacing_div = document.createElement('div');
+            spacing_div.setAttribute('style', 'height:6px');
+            document.getElementById("ad_slot_right").appendChild(spacing_div);
+        }
+        var key = network + '_' + position;
+        if (key in window.likes_ad_passbacks.completed) {
+            likes_ad_passbacks.loops[key] = 1;
+            return false;
+        }
+        for (var i = 0; i < window.likes_ad_passbacks.p_list.length; i++) {
+            var p = window.likes_ad_passbacks.p_list[i];
+            if ((p.network == network) && (p.position == position)) {
+                if (p.to_network == "mylikes") {
+                    window.likes_ad_server.render_any_ad_when_available(position);
+                    return true;
+                }
+                if (window.likes_ad_passbacks.render_ad(div_id || p.div_id, p.width, p.height, p.passback_slot_script, p.passback_iframe_src, p.defer_size_ms,p.to_network, p.position)) {
+                    window.likes_ad_passbacks.completed[key] = 1;
+                    return true;
+                }
+            }
+        }
+        if (window.likes_ad_server && (network == "openx_lowval" || network == "criteo") && position == "right") {
+            if (!window.likes_ad_server.render_better_ad("right", 0, "ad_slot_right") && !window.likes_ad_server.networks.amazon.ready) {
+                window.likes_ad_server.add_rtb_ready_listener("right", function(){
+                    window.likes_ad_server.clear_rtb_ready_listener("right");
+                    window.likes_ad_server.render_better_ad("right", 0, "ad_slot_right");
+                });
+            }
+        } else {
+            window.likes_ad_server.render_any_ad_when_available(position);
+        }
+    };
+
+    window.likes_ad_passbacks = obj;
+    window.top.likes_ad_passbacks = obj;
+})();
+} catch (e) {
+    window.likes_ad_passbacks = {
+        'render_passback': function(a, b) {}
+    };
+}
+</script>
+
+
+
+
+
+
+</head>
+<!--[if lte IE 9 ]> <body class="ie8  "> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie   "> <!--<![endif]-->
+
+
+
+<div class="custom_profile_wrapper grid balloon ">
+    <div id="social_site_header">
+<div id="social_site_header_inner">
+<a href="http://everydayviralfeed.com" id="stylized_title">everydayviralfeed</a>
+
+<a class="tab " href="http://everydayviralfeed.com/tagged/architecture">architecture</a>
+<a class="tab " href="http://everydayviralfeed.com/tagged/funny">funny</a>
+<a class="tab " href="http://everydayviralfeed.com/tagged/photography">photography</a>
+<a class="tab " href="http://everydayviralfeed.com/tagged/buildings">buildings</a>
+<a class="tab " href="http://everydayviralfeed.com/tagged/comedy">comedy</a>
+<a class="tab " href="http://everydayviralfeed.com/tagged/art">art</a>
+
+<div class="clear"></div>
+</div>
+</div>
+
+
+<div id="static_page_wrapper">
+
+<div id="terms_wrapper" class="static_main_col">
+<div class="static_section">
+<h1>Privacy Policy</h1>
+<p class="maincontent">Effective Date: 27 August 2013</p>
+<p class="maincontent">We take your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.</p>
+<p class="maincontent">This privacy policy applies to everydayviralfeed.com (“everydayviralfeed”). This privacy policy describes how we collects and uses the personal information you provide on this website: <a href="http://everydayviralfeed.com">everydayviralfeed.com</a>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
+<p class="maincontent">If you have questions or complaints regarding our privacy policy or practices, please <a href="/contact">contact us</a>. </p>
+<h4>INFORMATION AND COLLECTION OF USE</h4>
+<p class="maincontent">We collect personal information when you register with everydayviralfeed, and when you subscribe and share everydayviralfeed channels. everydayviralfeed may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. everydayviralfeed uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on everydayviralfeed.</p>
+<h4>INFORMATION SHARING</h4>
+<p class="maincontent">We do not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or when we respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. If we becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
+<h4>COOKIES</h4>
+<p class="maincontent">We use “cookies” on everydayviralfeed to track how users use our website. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We link some information we store in cookines to personal information you submit in order to deliver a better experience on the service.</p>
+<p class="maincontent">We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate our site. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.</p>
+<p class="maincontent">If you reject cookies, you may still use our website, but your ability to use some areas of our site, such as contests or surveys, will be limited. </p>
+<p class="maincontent">As is true of most websites, we gather certain information automatically and store it in log files. These are non-personal information which includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users’ movements around the website and to gather demographic information about our user base as a whole. We do link this automatically-collected data to personal information. </p>
+<h4>BEHAVIORAL TARGETING / RE-TARGETING</h4>
+<p class="maincontent">We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+<h4>CONTENT OF ITEMS</h4>
+<p class="maincontent">The contents of any item that you post directly to the site, including any text, images and audio, are stored and maintained on our servers in order to publish these items and provide the Service. Your submitted content will be associated with your account.</p>
+<h4>CONFIDENTIALITY AND SECURITY</h4>
+<p class="maincontent">The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
+<h4>THIRD PARTY SITES</h4>
+<p class="maincontent">This Policy only applies to the everydayviralfeed website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personal information, and we shall not be liable for wrongful use or disclosure of your personal information by any third party.</p>
+<ul>
+<li>(i) everydayviralfeed may sometimes use third-party advertising companies to serve ads to users;</li>
+<li>(ii) Third-party advertising companies may use non-personally identifiable information about user visits in order to provide advertisements for goods and services that may be of interest to the user.</li>
+<li>(iii) You can find more information about these practices and the your choices concerning these practices at <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a></li>
+</ul>
+<h4>DATA INTEGRITY</h4>
+<p class="maincontent">We processes personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or <a href="/contact">contact us</a>.</p>
+<p class="maincontent">We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p class="maincontent">We send out promotional or marketing email to you. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can <a href="/contact">contact us</a>.</p>
+<h4>BLOG / FORUM</h4>
+<p class="maincontent">Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, <a href="/contact">contact us</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<h4>SOCIAL MEDIA WIDGETS</h4>
+<p class="maincontent">Our website includes Social Media Features, such as the Facebook and Twitter button and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<h4>SINGLE SIGN-ON</h4>
+<p class="maincontent">You can log in to our website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+<h4>CHANGES TO THIS PRIVACY POLICY</h4>
+<p class="maincontent">We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your everydayviralfeed account or by placing a prominent notice on our site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<a href="/contact">Email us</a><br>
+<p></p>
+</div>
+<div class="clear"></div>
+<div id="static_footer" class="static_section">
+<div class="footer_col floatleft">
+<a href="/terms">Terms &amp; Conditions</a>
+<a href="/privacy">Privacy Policy</a>
+</div>
+<div class="footer_col floatright textright">
+<p>Copyright © 2015 everydayviralfeed.com,
+All rights reserved.</p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div> <!-- close the page opened in header -->
+
+<script>window._t.footer=(new Date).getTime();</script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+<script type="text/javascript"><!--
+var pass_to_js = {"feed": {"palette": "balloon", "custom_profile": true, "format": "grid"}, "domain_url": "everydayviralfeed.com", "js_url": "//c.likes-media.com/s/16fc8656d4f7521597ddd43e62cb598e/balloon__custom_theme.js", "MOBILE": false, "net_names": {"c_pubmatic": "c_pb", "appnexus_api_premium": "apnap", "c_cpxi": "c_ci", "c_dummy": "c_d", "c_appnexus": "c_apn", "c_valueclick": "c_vc", "c_pm1": "c_p1", "c_pm2": "c_p2", "c_pm3": "c_p3", "dfp": "dp", "aolm": "am", "rubicon": "r", "c_mylikes": "c_ml", "openx": "ox", "ox_resp": "or", "c_amazon": "c_az", "adcom": "ac", "amazon": "az", "amz": "amz", "c_openx": "c_ox", "c_appnexus_api_premium": "c_apnap", "c_rubicon": "c_r", "appnexus": "apn", "pubm_api_1": "pb1", "pubm_api_2": "pb2", "pubm_api_3": "pb3", "pubm_api_4": "pb4", "valueclick": "vc", "pulsepoint": "pp", "google": "g", "c_openx_lowval": "c_oxlv", "appnexus_api": "apna", "c_criteo": "c_c", "c_aolm": "c_am", "c_appnexus_api_highval": "c_apnah", "c_appnexus_api": "c_apna", "c_pubm_api_4": "c_pb4", "criteo": "c", "pubmatic_highval": "pbmh", "pm1": "p1", "pm2": "p2", "pm3": "p3", "c_amz": "c_amz", "ox_api": "oa", "c_pubmatic_highval": "c_pbmh", "c_pulsepoint": "c_pp", "dummy": "d", "c_adcom": "c_ac", "openx_lowval": "oxlv", "mylikes": "ml", "c_dfp": "c_dp", "appnexus_api_highval": "apnah", "c_pubm_api_1": "c_pb1", "c_pubm_api_2": "c_pb2", "c_pubm_api_3": "c_pb3", "cpxi": "ci", "c_google": "c_g", "pubmatic": "pb"}, "page_path": "everydayviralfeed", "css_url": "//c.likes-media.com/s/9e7b4af4b077841bf5bee80b7180c29b/balloon__custom_theme.css", "internal_only": false, "subdomain": "everydayviralfeed", "product_name": "Likes.com"};
+//-->
+</script>
+<script src="//c.likes-media.com/s/16fc8656d4f7521597ddd43e62cb598e/balloon__custom_theme.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+_gaq.push(['_setDomainName', 'likes.com']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = '//stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+
+
+
+<script>
+window.global_ich_data = window.global_ich_data || {};
+global_ich_data.base_domain = "everydayviralfeed.com";
+global_ich_data.external_host = "likes.com";
+global_ich_data.product_name = "Likes.com";
+
+global_ich_data.SHARE_APPID = "189071204508886";
+
+;
+window.enable_user_subdomains = 0;
+if (window.Mustache) {
+Mustache.FILTERS.profile = function(user_name, path) {
+user_name = user_name || '';
+
+return '/' + user_name + (path || '');
+
+};
+if (window.Jasinja) Jasinja.filters.profile = Mustache.FILTERS.profile;
+}
+</script>
+
+
+<script>window._t.end=(new Date).getTime();</script>
+
+
+
+
+
+
+
+</div></body></html>
