@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givesmart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042435id_/http%3A//www.givesmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givesmart.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231034005id_/http%3A//www.givesmart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GiveSmart
 
@@ -57,7 +57,7 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 We may use the Personal Information we collect for the following purposes:
 
   1. for our everyday business purposes, such as establishing and managing your customer account, providing services you request, processing and collecting payments and providing customer support;
-  2. to collect bids and donations from you in connection with an event and in accordance with the Terms of Use <>;
+  2. to collect bids and donations from you in connection with an event and in accordance with the [Terms of Use](http://www.givesmart.com/terms/);
   3. to offer our services and/or the products or services of others to you;
   4. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services and Websites;
   5. to perform data analyses, including market and consumer search, trend analysis, demographic analysis and financial analysis; and
@@ -131,8 +131,8 @@ You also may write to us at:
 
 GiveSmart US, Inc.
 
-Peachtree Center South Tower
+2839 Paces Ferry Road SE
 
-225 Peachtree Street NE, Suite 565
+Suite 1250
 
-Atlanta, GA 30303
+Atlanta, GA 30339
