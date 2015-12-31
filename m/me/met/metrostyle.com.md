@@ -1,147 +1,143 @@
-> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619064715id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231161444id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
 
 # MetroStyle
 
-Privacy Policy
+_To make the screen larger on any page, please press Ctrl and + on your keyboard_
 
-Last updated on: 01/07/2015
+  
+_Effective Date: October 1st, 2015_
 
-Please Read this Policy and our [Terms of Use](https://web.archive.org/terms.asp) Carefully Before Using This Site (California Residents-Click [HERE](https://web.archive.org/privacyAndSecurity.asp#californiaPrivacyRights) for your California Privacy Rights)
+This Privacy Policy describes the information that Distinctive Apparel, Inc. and its subsidiaries and affiliates (“we,” “our” or “us”) collects through the www.metrostyle.com website (the “Site”) and how we use it, how we protect it and the choices you can make about your information. Throughout this Privacy Policy “information” includes personal information about you.
 
-Chadwicks® and metrostyle® "we", "us", and "our"), offers customer-friendly policies designed to provide a secure and safe shopping experience. We are committed to protecting your privacy. The purpose of this Privacy Policy is to assist you in understanding the type of personal information we may collect from you, how such information may be used and the choices that are available to you concerning the use of your information and your ability to correct or modify the information you have provided us. This policy is only applicable to customers in the United States.
+By accessing the Site, you expressly consent to the collection, use, disclosure and storage of your information and other information received by us as a result of such use in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, you should immediately stop using or visiting the Site.
 
-Your California Privacy Rights
+* * *
 
-The following only applies to California residents.   
-Chadwicks® and metrostyle® may from time to time share your personal information with third parties for their direct marketing purposes. Under California's "Shine the Light" law, California residents who provide personal information when purchasing our products may request information about the customer information we shared with other businesses for their own direct marketing uses. Each consumer may request our direct marketing information once per year, and our response will cover the immediately preceding calendar year. This information would include the categories of shared customer information and the names and addresses of those businesses with which we shared customer information.
+##  Consent
 
-To obtain this information, you may email us by visiting any of our websites and clicking on the Contact Us link at the bottom of the page. Please include "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
+If you are located outside of the United States, please note that the Site is hosted in the United States. Therefore, your information, including any personal information provided pursuant to the Site may be processed and stored in the United States. As a result, United States federal and state governments, courts or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of the Site or your submission of any information to us will constitute your consent to the transfer of your information outside of your home country, which may result in different data protection rules than in your country. Please contact us at [1-877-327-1328](tel:18773271328) or [service@cs.metrostyle.com](mailto:service@cs.metrostyle.com) if you have any questions about how your information may be processed or stored in the United States.
 
-Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on sharing for purposes of direct marketing will be included in our response.
+* * *
 
-Opting Out
+##  Information We Collect
 
-If you do not want us to share your personal information with third parties for their direct marketing purposes, you may Contact Us and request that your information not be shared.
+We collect the following types of information in the manner described below.
 
-For more information on how your personal information is collected and used, please read our full PRIVACY POLICY.
+  1. You may voluntarily provide us with information, including: 
+    * Your name, birth date, address, email address, phone number, credit card or other payment-related information and information about products you have purchased to use the Site;
+    * Information when you contact or interact with us (for example, regarding support or employment opportunities); and
+    * Any other information you voluntarily provide us with including your comments and other content in connection with using the Site.
+  2. Any information we may receive through a third-party social networking service may be used as described in this Privacy Policy.
+  3. We may automatically collect other information about you, including: 
+    * Web browser type;
+    * Your Internet Protocol (IP) address;
+    * Domain name of your Internet service provider;
+    * Your geographic location;
+    * The Site pages that you visit and the time of your visits; and
+    * Aggregated information that cannot be used to specifically identify you when you use or visit the Site.
+  4. We may collect information about you from publicly available sources.
+  5. We may combine any of the information we collect from or about you and use it in the manner described in this Privacy Policy.
 
-Privacy Statement
 
-Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and offers of value to you. We are able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. We have procedures in place to ensure that your personal information is handled in a safe, secure and responsible manner.
 
-Effective Date and Policy Changes
+* * *
 
-What Information does Chadwicks and metrostyle Collect?
+##  How We Use Your Information
 
-  * We collect information you provide to us about yourself to serve your needs, including, but not limited to, your name, birth date, address, e-mail address, phone number, credit card or other payment-related information, and information about products you have purchased. We also collect information you voluntarily submit when participating in one of our various services, promotions, programs or surveys. From your transactions and other interactions with us, we obtain information concerning the specific products or services you purchase or use. Whether you choose to provide us with this information is completely voluntary. If, however, you do not choose to provide such information, you may not be able to purchase products from us or access certain services and/or portions of our web sites.
-  * We also may receive information about you from other companies, including, but not limited to information about your creditworthiness for deferment plans, private label credit card offers and products you may be interested in purchasing.
+We use the information that we collect for the following purposes, including:
 
+  * The purposes for which you provided it;
+  * For fulfillment of requests;
+  * To identify you as a user of the Site;
+  * To send you information about your relationship with us;
+  * To contact you with information, including promotional information, that we believe will be of interest to you;
+  * To process and respond to your inquiries (for example, regarding support, employment opportunities or other requests);
+  * To create anonymous data, which we may use for any purpose;
+  * To compile aggregate data for internal and external business purposes;
+  * To generate and review reports and data about our user base and service usage patterns;
+  * To analyze the accuracy, effectiveness, usability or popularity of the Site;
+  * To improve the content and features of the Site;
+  * To prevent fraudulent transactions, monitor against theft and otherwise protect our users and our business;
+  * To administer and troubleshoot the Site; and
+  * As otherwise stated in this Privacy Policy.
 
 
-How does Chadwicks and metrostyle Use The Information Collected?
 
-We use the information collected as follows:
+* * *
 
-  * To process and complete your purchase transactions and provide the services you request;
-  * To contact you about the status of your orders;
-  * To send you catalogs and other offerings from us and our marketing partners,
-  * To identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you;
-  * To notify you of product recalls or provide other information concerning products you have purchased; and
-  * To improve our merchandise selections, customer service, and overall customer shopping experience.
-  * To process any participation in promotions
+##  How Your Information is Disclosed
 
+Information may be disclosed to third parties in accordance with our Privacy Policy. Please note that a user may choose not to share certain information as described in “Your Choices Regarding Your Information” below.
 
+  1. Third Parties. We may use third parties to perform functions in connection with the Site. We may share information about you that they need to perform their functions and in accordance with our agreements with them.
+  2. Business Changes. If we become involved in a merger, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution, or other transaction or if the ownership of all or substantially all of our
+business otherwise changes, we may share or transfer your information to a third party or parties in connection therewith. 
+  3. Subsidiaries and Affiliates. We may also share your information with any subsidiary or affiliate of ours for purposes consistent with this Privacy Policy. Any subsidiary or affiliate of ours will be required to maintain that information in accordance
+with this Privacy Policy. 
+  4. Investigations and Law. Regardless of the choices you make regarding your information (as described below) and to the extent permitted by applicable law, we may disclose information about you to third parties to: 
+    * Comply with law, in response to subpoenas, warrants, or court orders, or in connection with any legal process or cooperate with government or law enforcement officials or private parties;
+    * Protect our rights, reputation, safety and property, or that of our users or others;
+    * Protect against legal liability;
+    * Establish or exercise our rights to defend against legal claims; or
+    * To investigate, prevent or take action regarding suspected illegal activities, suspected fraud, the rights, reputation, safety or property of us, users or others, violation of our policies or agreements or as otherwise required by law.
+  5. Aggregated Anonymous Information. We may share aggregated anonymous information relating to visitors to and users of the Site with affiliated or unaffiliated third parties.
+  6. Cookies; Do Not Track. Please see Cookies; Do Not Track below.
+  7. Third-Party Advertising. We may share website usage information about visitors who have received a targeted promotional campaign with reputable third-party advertising companies. For this purpose, we and our third-party advertising company may note some of the pages you visit on our website through the use of “pixel tags” (also called “clear gifs”).
 
-What Information does Chadwicks and metrostyle Share with Others?
 
-  * Chadwicks and metrostyle may share any information you provide to us with each other and our affiliates.
-  * Licensees and Marketing Partners: We may share your contact and purchasing information with certain outside companies and marketing partners so they can let you know about products or services that might be of interest to you.
-  * Legal Disclosures: In the event that we are required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, we will make such disclosure (in compliance with applicable laws). We also reserve the right to share information with legal authorities and other companies for purposes of fraud protection.
-  * Change of Business Ownership: In the event that all or part of the ownership were to change, customer information pertinent to that business' operations may be transferred to, or licensed for use by, the new owner.
-  * Credit Card Accounts: We may share your information with the bank that issues Chadwicks and metrostyle credit card accounts.
 
+* * *
 
+##  Cookies; Do Not Track
 
-How Can I Opt Out of Having My Information Shared with Others?
+  1. Cookies. We, along with third parties, use cookies. 
+    * Cookies are small bits of information that are transferred to and stored in separate files within your computer’s browser.
+    * Persistent cookies remain on the visitor’s computer after the browser has been closed.
+    * Session cookies exist only during a visitor’s online session and disappear from the visitor’s computer when they close the browser software.
+    * You can instruct your browser to stop accepting cookies. But if you do not accept cookies, you may not be able to use all portions or all functionality of the Site.
+    * Third parties may collect personally identifiable information about an individual user's online activities over time and across different websites when a user uses the Site.
+  2. Do Not Track. At this time, we do not respond to “Do Not Track” signals sent from Web browsers.
 
-If you do not want us to share your personal information with third parties for promotional purposes, please Contact Us and request that your information not be shared:  
 
 
-Do Chadwicks and metrostyle Use Third-Party Advertising?
+* * *
 
-We may share website usage information about visitors who have received a targeted promotional campaign with reputable third-party advertising companies. For this purpose, we and our third-party advertising company may note some of the pages you visit on our website through the use of "pixel tags" (also called "clear gifs").
+##  Security
 
-How To Access And Correct Information Collected?
+While we take reasonable administrative, physical and organizational measures to protect the information you submit via the Site against loss, theft and unauthorized use, disclosure, or modification, we cannot guarantee its absolute security. No Internet or email transmission is ever fully secure or error free. Email sent to or from the Site may not be secure. You should use caution whenever submitting information online and take special care in deciding what information you send to us via email.
 
-You can update or correct your name, address, telephone number or e-mail address at any time by visiting any of our websites and clicking on the My Account link at the top of any of our websites and logging in with your e-mail address and password. You may email us by visiting any of our websites and clicking on the Contact Us link at the bottom of the page. You can also call or write, us to access or correct any of this information.
+* * *
 
-Chadwicks  
-500 Bic Drive, Building 4  
-Milford, CT 06461
+##  Links to Other Websites
 
-Metrostyle  
-500 Bic Drive, Building 4  
-Milford, CT 06461
+This Privacy Policy applies only to the Site. The Site may contain links to other websites to which this Privacy Policy does not apply. The links from the Site do not imply that we endorse or have reviewed these websites. The policies and procedures we describe here do not apply to these websites. We neither can control nor are responsible for the privacy practices or content of these websites. We suggest contacting these websites directly for information on their privacy policies.
 
-Any request to update your personal information may take up to 30 days for email requests and up to 60 days for mail and phone requests. 
+* * *
 
-How Can I Opt Out of Receiving Further Communications?
+##  Your Choices Regarding Your Information
 
-How to Be Removed from a Paper Catalog Mailing List  
-You can contact us by mail, phone or email at the relevant address or phone number listed above for the specific brand from whom you wish to stop receiving paper catalogs. Please make sure to provide us with your exact name and address or the mailing label from your catalog so that we can identify you correctly. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately 3 months for mailing change requests to be fully implemented. Any mailings that you may receive during this period do not reflect your subscription status, and we ask that you please disregard them.
+You have choices regarding the use of information on the Site.
 
-How to Unsubscribe from an E-Mail Marketing List  
-To be removed from any one of the Emailing lists below, please click on the relevant link to be taken to the proper unsubscribe page:  
+  * Changing Your Information. You may make changes to your information, including keeping your information accurate or deleting your information, by contacting us at [1-877-327-1328](tel:18773271328) or [service@cs.metrostyle.com](mailto:service@cs.metrostyle.com).
+  * Cookies; Do Not Track. Please see Cookies; Do Not Track above.
+  * Social Networking. You should make sure you are comfortable with the information that a third-party social networking service may make available to us by carefully reviewing the service’s privacy policy and terms and conditions and by modifying your privacy settings directly on that service.
 
 
-  * Chadwicks.com Email List [Unsubscribe Page](http://www.chadwicks.com/ContactUs)
-  * metrostyle.com Email List [Unsubscribe Page](https://web.archive.org/ContactUs)
 
+* * *
 
+##  Children
 
-You will be removed from receiving future e-mail solicitations, from the specific brand from which you unsubscribed, apart from those that have already been processed before this request was received. When making the request please provide the exact email address you which to exclude from our promotions. Please know that it may take up to 7 days to remove you from our e-mailing solicitation lists. If you choose to be removed from our e-mailing solicitation lists you will still continue to receive order and confirmation emails as well as emails relating to your other transactions.
+We do not knowingly collect personal information from individuals under age 13. If you are under the age of 13, please do not submit any personal information through the Site. If you have reason to believe that we may have accidentally received personal information from an individual under age 13, please contact us immediately at [1-877-327-1328](tel:18773271328) or [service@cs.metrostyle.com](mailto:service@cs.metrostyle.com).
 
-Are Chadwicks and metrostyle Credit Cards Available?
+* * *
 
-Yes. You can apply for a Chadwicks or metrostyle credit card account or Visa Card accounts issued by World Financial Network National Bank to receive special offers and participate in exclusive brand benefits. When you apply for one of these credit cards online, you provide your financial and personal information needed to process your application
+##  Changes to Privacy Policy
 
-To obtain a privacy policy, opt-out information, or contact information, you may contact the issuer of your card, the World Financial Network National Bank.
+We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this Privacy Policy periodically, and especially before you provide any information. This Privacy Policy was made effective on the date indicated above.
 
-Chadwicks®  
-metrostyle®
+* * *
 
-Do Chadwicks and metrostyle Send Unsolicited Promotional Emails?
+##  How to Contact Us
 
-If you have supplied us your e-mail address, we may use your e-mail address to communicate with you updates to the status of your order. We may also send you e-mails regarding special sales, exclusive offers, and other valuable promotions.  does not share or sell email addresses or any other personal information.
-
-To remove your name from any e-mail offer list at any time, __[click here](http://www.metrostyle.com/ContactUs)__ _._ __ You may also use the unsubscribe link in any of our marketing e-mails you receive, or contact our Customer Service Center. Your choice to opt-in or opt-out of promotional e-mails will not affect the order status and registration service. We may offer from time to time referral programs that permit you to submit information about other persons (each, a "Referred Person"), including, without limitation, email addresses, names, street addresses and other contact information so that they may receive information and/or promotional offers. We will use and store any such information that we collect from you about a Referred Person only to the extent necessary to carry out your request, and we will not use any such information for any other purpose unless the Referred Person consents to the use for such other purpose. We do not rent, sell or exchange your e-mail address with third parties to send you unsolicited e-mail offers.
-
-How is the Information Collected Safeguarded?
-
-We protect against unauthorized disclosures by limiting access only to those of our employees who need the information to do their jobs. Chadwicks and metrostyle employees are trained about their responsibility to protect our customers' privacy. We limit the information we provide to outside companies to only the information we believe is appropriate to enable them to carry out their responsibilities under our contracts or to offer you products and services we think might be of interest to you. We contractually require that the information provided be used only for the specifically authorized purpose and that its confidentiality be maintained.
-
-Is My Online Transaction Secure?
-
-Yes. It is very secure. The use of the latest cutting edge technology ensures that your shopping experience will be safe and secure. We encrypt your personal information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security software. We constantly update our security procedures and enhance our site to meet the very latest encryption standards. We retain a third party security firm to audit our procedures to ensure compliance with these standards. All of your sensitive information is scrambled before, during and after your order is placed on our site.
-
-You may notice an unbroken key or a closed lock at the bottom of the page when you enter our "check-out" page. This means that your browser has opened a secure connection with our site! You can also check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."
-
-PLEASE NOTE THAT NORMAL E-MAIL (SUCH AS USING "CONTACT US" OR YOUR HOME E-MAIL) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE. 
-
-Do Chadwicks and metrostyle Use Cookies?
-
-We use cookies to enhance the browsing and shopping experience on our websites. Cookies are small files or records that we place on your computers' hard drive to collect information about your activities on the sites. There are absolutely no personally identifiable pieces of information stored anywhere in these files, and they are used solely by Chadwicks and metrostyle to enhance your shopping experience and to allow us to serve you better in the future. These cookies transmit information back to the computers at Chadwicks and metrostyle; these computers are, generally speaking, the only computers which are authorized to read such information. The information captured makes it possible for us (i) to speed navigation, keep track of items in your shopping cart, and provide you with custom tailored content; (ii) to remember information you gave to us so you don't have to reenter it each time you visit the sites; (iii) to monitor the effectiveness of some of our marketing e-mail campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served.
-
-Most people do not even know that cookies are being placed on their computers when they visit the Chadwicks.com and metrostyle.com sites or most other websites because web browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie acceptance altogether. However, if you refuse cookies, you will be unable to order from the Chadwicks.com and metrostyle.com sites using the Shopping Cart. You will still be able to browse our selection, but the order process requires that your Web Browser be set to allow cookies. Moreover, by not allowing cookies, your overall Internet browsing experience could be adversely affected.
-
-Do Chadwicks and metrostyle Aggregate Information?
-
-Yes. Chadwicks and metrostyle collect non-personal information about how users navigate through our websites. This statistical information is gathered in order to improve the sites. This information may be shared with Chadwicks and metrostyle affiliates or other outside companies. This aggregated statistical and navigational information does not include individual names, personal data or account information, so it does not identify you or any other customer.
-
-What is the Policy With Respect To Data Collection From Children?
-
-We take care to protect the privacy and safety of children. Our web sites are not directed or targeted to children under the age of 13 and we do not knowingly collect any personal information from children under the age of 13 on our websites. We do not permit anyone under the age of 13 to register with us. If you are under the age of 13, you are welcome to browse our websites. However, you are not permitted to use any features of our site that require the collection of any personally identifiable information. If we learn that we have obtained personal information from a child under the age of 13, we will use reasonable efforts to immediately delete that data from our records.
-
-Links to Other Web Sites
-
-Chadwicks.com and metrostyle.com occasionally provide links to other non-affiliated we sites to enhance your shopping experience. These other web sites operate independently from Chadwicks.com and metrostyle.com and will have their own privacy and security policies. We strongly encourage you to review these policies at any web site you visit. Chadwicks.com and metrostyle.com do not take responsibility for such non-affiliated web sites.
+Please feel free to contact us at [1-877-327-1328](tel:18773271328) or [service@cs.metrostyle.com](mailto:service@cs.metrostyle.com) if you have any questions about this Privacy Policy.
