@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615173425id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231151636id_/http%3A//healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # 
-
-[U.S. Department of Health and Human Services](http://www.hhs.gov/)
-
-[ ](http://healthypeople.gov/2020/badges/People_Square/People_Square.aspx?WT.mc_id=PEOPLESQUARE "We Support a Healthier Future - Healthy People 2020")
 
 healthfinder.gov is a government website offering reliable information and tools to help you and those you care about stay healthy. When you visit our website, we do not collect any personal information about you unless you choose to provide that information to us. 
 
@@ -43,4 +39,4 @@ For site security purposes and to ensure that this service remains available to 
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
 
-You may also wish to review our [disclaimers](https://web.archive.org/web/20150615173425id_/http%3A//www.healthfinder.gov/aboutus/Disclaimer.aspx).
+You may also wish to review our [disclaimers](https://web.archive.org/web/20151231151636id_/http%3A//healthfinder.gov/aboutus/Disclaimer.aspx).
