@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nbcuniversal.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629190147id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcuniversal.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231192935id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
 
 # Home & Summary | NBCUniversal
 
 ## Home & Summary
 
-Last updated: 14 January 2015
+Last updated: 21 December 2015
 
 In this privacy policy:
 
@@ -15,7 +15,7 @@ In this privacy policy:
 
 
 
-Most recent change – January 2015
+Highlights of most recent changes – December 2015
 
 ### Privacy at NBCUniversal
 
@@ -29,7 +29,7 @@ NBCUniversal may collect the following information:(1) information you provide a
 
 **How do we share information?**
 
-You understand and agree that NBCUniversal shares information we collect as follows:
+You understand and agree that NBCUniversal may share information we collect as follows:
 
   * Within NBCUniversal and with third party suppliers, in order to provide you with the online services;
   * With other third parties (e.g., law enforcement agencies) where required by law or where required as a part of a corporate transaction (e.g., if a company is sold);
@@ -52,11 +52,11 @@ Except where otherwise indicated, we do not knowingly collect or store any perso
 
 **Your rights and choices**
 
-NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt-out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
+NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
 
 **Tracking/Cookies and Ads**
 
-We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt-out of this “targeted advertising”. The effect of opting out is controlled by third parties, but they may still collect your usage information for analytic, research or internal operations purposes.
+We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt out of this “targeted advertising”. The effect of opting out is controlled by third parties; they may still collect your usage information for analytic, research or internal operations purposes.
 
 Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out).
 
