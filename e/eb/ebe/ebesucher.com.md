@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202025id_/http%3A//www.ebesucher.com/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231235622id_/http%3A//www.ebesucher.com/datenschutz.html) for the most accurate reproduction.*
 
 # eBesucher: Earn money with our visitor- and mail exchange
 
