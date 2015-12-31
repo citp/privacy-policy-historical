@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yiwugo.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616235219id_/http%3A//en.yiwugou.com/web/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yiwugo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231050237id_/http%3A//en.yiwugou.com/web/privacypolicy.html) for the most accurate reproduction.*
 
-# Purchaser Service, Yiwu Purchasing Services, Commodity Online Purchase-yiwugo.com
+# Purchaser Service, Yiwu Purchasing Services, Commodity Online Purchase-yiwubuy.com
 
-The Yiwu China Commodity City on the web has adopted the privacy practices with respect to personal information in operating the Yiwugo.com Website as described in this statement ("Privacy Policy"). Our products and services are offered and are made available subject to the terms and conditions set out in this statement. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
+The Yiwu China Commodity City on the web has adopted the privacy practices with respect to personal information in operating the Yiwubuy.com Website as described in this statement ("Privacy Policy"). Our products and services are offered and are made available subject to the terms and conditions set out in this statement. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
 
 **The Information We Collect**   
 **Registration Information**  
