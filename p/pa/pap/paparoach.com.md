@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the paparoach.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144912id_/http%3A//www.paparoach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paparoach.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231150653id_/https%3A//wonderfulunion.com/privacy) for the most accurate reproduction.*
 
-# Papa Roach
+# Wonderful Union
 
 This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
 **Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
 
-This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
+This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Wonderful Union™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
 
-By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
+By accessing and/or using this web site, you are (1) becoming a member of the Wonderful Union™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
 We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
 
-## About ground(ctrl)™
+## About Wonderful Union™
 
-Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
+Wonderful Union™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
 
 To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
@@ -51,9 +51,9 @@ Links to your third-party sites
 An avatar image
     So that you may optionally provide a visual representation of yourself next to items you publish on the site
 
-We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
+We will not collect any more any information that is necessary for you to participate in the Wonderful Union™ social networking community.
 
-Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by Wonderful Union™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
 ## Children's Online Privacy Protection Act Of 1998
 
@@ -71,7 +71,7 @@ Phone (916) 443-9202
 
 Fax (916) 443-9204
 
-Additional operators maintaining information collected through this website include: Papa Roach .
+Additional operators maintaining information collected through this website include: Wonderful Union .
 
 The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
 
@@ -97,7 +97,7 @@ This web site is about sharing information with others of your choosing, and a l
 
   1. Enforce the network’s Terms and Conditions of Use Agreement;
   2. Protect the network’s rights;
-  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
+  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Wonderful Union™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
   4. Protect the safety of it’s members; or
   5. Enhance each member’s promotional and informational-sharing experience.
 
@@ -107,7 +107,7 @@ The network may provide services jointly with other companies and we may share c
 
 Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
+Wonderful Union™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Wonderful Union™, or the sale of a substantial portion of its assets to that successor in interest.
 
 ## Third-Party Advertising
 
@@ -143,7 +143,7 @@ We adhere to the Safe Harbor Principles that were established by the U.S. Depart
 
 ## Your California Privacy Rights
 
-Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@groundctrl.com](mailto:privacy@groundctrl.com) or contact us at the address below.
+Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@wonderfulunion.com](mailto:privacy@wonderfulunion.com) or contact us at the address below.
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
