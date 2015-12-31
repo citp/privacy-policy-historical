@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074205id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231031342id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Qualtrics
 
@@ -10,7 +10,7 @@ We provide the most advanced [online survey software](http://www.qualtrics.com/r
 
 Qualtrics uses secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.
 
-Questions regarding this policy may be sent to [support@qualtrics.com](mailto:support@qualtrics.com).
+Questions regarding this policy may be sent to [Qualtrics Support](https://web.archive.org/contact-support/).
 
 Qualtrics complies with the U.S. and E.U. Safe Harbor Framework and the U.S.and Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.
 
