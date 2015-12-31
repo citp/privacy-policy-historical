@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqfind.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502190127id_/http%3A//www.uniqfind.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqfind.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231223124id_/http%3A//www.uniqfind.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNIQFIND
 
