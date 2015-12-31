@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2015-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150103050705id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231164800id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
 
-# Privacy Policy - EN | Ardene Official Online Store
+# Privacy Policy - EN
 
 By visiting www.ardene.com (the “Site”), using the services of Arden Holdings Inc. and/or its affiliates (collectively, “Ardene”, “us” or “we”), purchasing products on the Site, posting on our message boards or chat rooms and making other submissions to the Site, or providing us with Personal Information (as described below), you acknowledge that you accept the principles and practices outlined in this privacy policy (the “Privacy Policy”), and you consent to the collection, storage, use and disclosure of your Personal Information in accordance with this Privacy Policy. By contacting us at the coordinates provided in the **[Contact Us](http://www.ardene.com/en/customer-service/contact-us)** section below, you may change or withdraw your consent at any time, on reasonable notice, subject to legal or contractual restrictions. We will inform you of the implications of doing so.
 
