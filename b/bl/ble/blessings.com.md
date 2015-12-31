@@ -1,36 +1,44 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423165341id_/http%3A//www.blessings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231193243id_/http%3A//www.blessings.com/about/privacy) for the most accurate reproduction.*
 
-# Blessings Christian Marketplace: Privacy Guidelines
+# Blessings.com
 
-At Blessings your privacy is important to us. We will do everything possible to protect the information you give us in the store or online. Our pledge to you is that we will protect and use this information with the utmost care. 
+## Latest Revisions: July 30, 2014
 
-We will not give out phone numbers or emails to other organizations or individuals. On rare occasions we may send you information from reputable Christian organizations.
+Thank you for visiting Blessings.com (the "Site"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at the Site and in connection with the various services and software products we provide on or through the Site (collectively the "Services"). This Privacy Policy is hereby incorporated in our Terms of Use and by using the Site and Services, you accept the terms of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use any of the Site or Services.
 
-How we Collect Information 
+## WHAT WE TRACK
 
-In-Store:
+Every computer connected to the Internet is given a domain name and a set of numbers known as the "Internet Protocol" IP address. Like most web servers, when a visitor requests a page from the Site, our servers automatically recognize and log his/her domain name and IP address, along with the access times, referring web sites, platform, and browser type. The information collected is not personally identifiable and is used only to provide statistics about usage of the Site in the aggregate to improve the quality of the Site and Services, to better understand how people interact with us, to deliver advertising and measure its effectiveness, to provide advertisements about goods and services that may be of interest to you, or to cooperate with law enforcement. We may use third party contractors to collect and aggregate such information.
 
-Each Blessings store asks every customer for their phone number. We use this number to track our customer purchases. The information collected is used to determine which customers will receive the various promotional pieces we send. 
+Additionally, please note that none of the Services include "spyware," meaning the Services do not run any background processes that report information about your software or hardware configuration or your web browsing or purchasing habits.
 
-Contests:
+## HOW WE TRACK IT 
 
-When you enter a Blessings contest, on-line or in the store, the personal information collected is used by Blessings to communicate relevant product offers. All Blessings contest carry the option to 'NOT' receive promotional offers. Choosing to NOT receive e-mail or direct mail offers does not change the likelihood of winning. 
+The Site and Services use either cookies and/or registry settings on your computer to store user information. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. Additionally, some ad networks may use web beacons in conjunction with cookies to compile aggregate statistics about usage on the Site. A web beacon is a transparent image, typically in GIF format that can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of page view, and a description of the page where the web beacon is placed.
 
-How we Communicate With You 
+You may disable cookies on your web browser, thereby also rendering some web beacons unusable. You can use the Site and Services even if cookies are disabled, but this may impact our ability to adapt any of the Site or Services according to your preferences.
 
-Email:
+## PERSONALLY IDENTIFIABLE INFORMATION 
 
-You may receive periodic email notifications from us about new products, services or upcoming events. If you prefer not to receive such emails, please unsubscribe by visiting our [Email Sign-Up](https://web.archive.org/extra-savings/email-sign-up.html) page and updating your profile. The profile update page will provide you with the option to unsubscribe from any or all of our email lists. 
+Personally identifiable information is information you provide to us that is uniquely associated with you, including your first and last name, a home or physical address, email address, and telephone number. Information identifying an entity other than an individual (e.g., a school or library) does not constitute personally identifiable information and is treated the same as anonymous information discussed in this privacy policy. Although you are not required to provide any personally identifiable information to use most parts of the Site or Services, registration and full utilization of some of our Services do require that you provide certain personally identifiable information. For example, personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, your email address if you are registering for Blessings.com or requesting Blessings's highlights or newsletters or if you submit a help request to us via email or respond to employment opportunities posted on the Site. Other personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, your email address if you request Blessings's highlights or newsletters or if you submit a help request to us via email or respond to employment opportunities posted on the Site. The amount of such personally identifiable information that you choose to disclose to us is completely up to you, although access to or use of some Services may be affected if such information is not provided. We have put in place procedures reasonably designed to safeguard and secure the information we collect online.
 
-Direct Mail:
+In accordance with the United States' Children's Online Privacy Protection Act of 1998, as amended, we do not knowingly collect personally identifiable information from anyone under the age of 13.
 
-When you supply us with your address either online or in the store we will send you periodic mailings as mentioned above. These mailings often contain a special offer, discount coupon, or information about an upcoming community event. 
+## INFORMATION SHARING & DISCLOSURE
 
-Phone:  
+In addition to using the anonymous identifying information that we track for internal purposes in the manner described here, this information may also, on an aggregate basis, be shared with and used by third parties with which we have contracted (e.g., our third-party content providers and licensees of Blessings's services). Furthermore, in addition to Blessings providing its own advertising, Blessings uses third-party advertising companies and networks to serve ads when you visit the Site. These companies and networks include, among others, third party ad servers, ad agencies, ad technology vendors, and research firms. These companies and networks may use information (not including your name, address, email address, or telephone number) about your visits to the Site in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to the Site, our ad networks may place or recognize a unique "cookie" on your browser or use a "web beacon." An example of such ad network is Google, Inc.
 
+Certain third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. This is also known as online behavioral advertising. An example of such ad network serving advertisements on our site is AOL/Ad.com, a member of the Network Advertising Initiative. Other examples are Microsoft Advertising, whereby data collection by or on behalf of Microsoft is taking place in connection our services agreement with 24/7 Media US, Inc. as well as by or on behalf of 24/7 Media itself. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here:<http://networkadvertising.org/consumer/opt_out.asp>.
 
-When you supply us with your phone number, online or in the store, we may use this number to contact you regarding an order you have placed or inform you of upcoming events.
+Please note that ad networks' use of cookies or web beacons, and that of any other third-party that has a link available on any Site, is subject to their own privacy policies and not this privacy policy.
 
-How we Process Your Credit Card Transactions 
+Personally Identifiable Information:  
+We do not rent or sell your personally identifying information to any third parties, unless we have your consent. We may disclose your personally identifying information, however, in any of the following limited circumstances (i) if we have your consent; (ii) to our external service providers when necessary in order to facilitate, provides services to, and evaluate the Site and Services; and (iii) if we conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Blessings, its users or the public. Additionally, we may transfer personally identifiable information in the event of a transfer of ownership of Blessings or any of the Site and/or Services, such as acquisition by or merger with another company.
 
-All credit card transactions are processed using SSL with 128 bit encryption by the PayPaq™ server. Credit card information is stored on the PayPaq™ in a secure environment.
+## LINKS & CO-BRANDED SITES 
+
+This policy only addresses the Site and Services. Other websites, such as those to which we link or with which we co-brand, may have their own policies. These other sites to which we link or with which we co-brand might independently collect data, solicit personal information, or send their own cookies to you. We are not responsible for any use of information when you use such third party sites. Additionally, in many cases, co-branded services that are jointly provided by us and selected companies will contain the Site branding, but might not be hosted by us. In such cases, you should follow the privacy link on such site to determine which company's privacy policy protects the information you enter on such site. Even if the page is governed by a separate privacy policy, we might be entitled to receive information about what you do when using that service. We encourage you to read the privacy policies of these other companies and to contact these companies directly if you have any questions about their use of this information.
+
+## CHANGES TO THIS PRIVACY STATEMENT
+
+Blessings may amend this policy from time to time by posting the new text on the Site. Unless otherwise provided, the revised terms will take effect when they are posted. Once any changes that we make to this Privacy Policy become effective, your continued use of the Site or Services after such time will signify your acceptance of the new terms.
