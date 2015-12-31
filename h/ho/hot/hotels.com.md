@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513034614id_/http%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231071824id_/http%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
 # Hotels.com - Hotel rooms with reviews. Discounts and Deals on 85,000 hotels worldwide
 
