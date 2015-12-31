@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the creativegenius.hubpages.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033638id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativegenius.hubpages.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231131224id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
 
 # HubPages Privacy Policy
 
 This Privacy Policy was last updated on November 18, 2011, and is effective November 25, 2011. See the bottom of this page for recent changes to this Privacy Policy.
 
-The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at HubPages.com (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
+The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [HubPages.com](http://hubpages.com/) (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the [HubPages Service](http://hubpages.com/), you expressly consent to the practices and activities described in this document. 
 
 ## 1\. Information We Collect
 
 We collect the following information:
 
-a. User Provided Information. You may provide certain personally identifiable information to HubPages directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
+a. User Provided Information. You may provide certain personally identifiable information to [HubPages](http://hubpages.com/) directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
 
 When You use our Service, we may collect and store information about Your use, including the following:
 
