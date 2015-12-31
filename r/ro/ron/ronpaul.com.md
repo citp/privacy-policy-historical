@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518194959id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231121535id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  * 
+
 
 ### Privacy Policy for RonPaul.com
 
@@ -23,16 +26,6 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support @ ronpaul.com.
-
-  
-
-
-style="display:inline-block;width:728px;height:90px"  
-data-ad-client="ca-pub-3666212842414688"  
-data-ad-slot="9478233584">  
-
-
-Likes(0)Dislikes(0)
 
   * 
 
