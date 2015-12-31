@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogs.it privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505040634id_/http%3A//www.blogs.it/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs.it privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231103952id_/http%3A//www.blogs.it/company/privacy.php) for the most accurate reproduction.*
 
 # blogs.it - Privacy Policy
 
