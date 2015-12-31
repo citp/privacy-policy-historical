@@ -1,20 +1,25 @@
-<!--The following is the downloaded HTML source of the hillaryclinton.com privacy policy that was archived on 2015-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150421190539id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hillaryclinton.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231122323id_/https%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js lang-en  auth-unknown" manifest="https://a.hrc.onl/app.manifest"><head>
+<!DOCTYPE html><html lang="en" class="no-js lang-en  auth-unknown" manifest="//a.hrc.onl/app.manifest"><head>
         <meta charset="utf-8">
+        <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script>
+          var startTime = new Date().getTime();
+        </script>
         <meta name="ROBOTS" content="NOODP">
         <meta name="google-site-verification" content="Kc6DaPL_oFekjW2NlvsUXLwlbQXXtXlAZoIYqNgrhYk">
         
-            <meta name="viewport" content="initial-scale=1">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <title>Privacy policy | Hillary for America</title>
+        <title>Privacy policy | Legal | Hillary for America</title>
 <meta name="description" content="">
 
-        <link href="https://a.hrc.onl/css/screen.css" rel="stylesheet">
-        <link rel="shortcut icon" href="https://a.hrc.onl/img/favicon.ico">
-        <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//cdn.optimizely.com/js/2764430463.js"></script>
-        <script src="https://a.hrc.onl/js/modernizr.min.js"></script>
+        <meta name="com.silverpop.cothost" content="pod3.ibmmarketingcloud.com">
+        <meta name="com.silverpop.brandeddomains" content="www.hfa.io,local.hfa.io,www.hillaryclinton.com" id="sp-meta">
+        <link href="//a.hrc.onl/css/screen.css" rel="stylesheet">
+        <link rel="shortcut icon" href="//a.hrc.onl/img/favicon.ico">
+        <script src="//cdn.optimizely.com/js/2764430463.js"></script>
+        <script src="//a.hrc.onl/js/modernizr.min.js"></script>
         <script>
             (function(Modernizr, html){
                 'use strict';
@@ -23,19 +28,21 @@
                 if(!Modernizr.placeholder) {
                     var
                     script = document.createElement('script');
-                    script.src = 'https://a.hrc.onl/js/placeholders.min.js';
+                    script.src = '//a.hrc.onl/js/placeholders.min.js';
                     html.appendChild(script);
                     html.className = html.className.replace('no-placeholder', 'placeholder placeholder-polyfilled');
                 }
             })(window.Modernizr, document.getElementsByTagName('html')[0]);
         </script>
+        <script>window.pageContext = 'default privacy-policy basicpage'</script>
         <meta property="fb:app_id" content="1032794403401651">
+        <meta name="p:domain_verify" content="c284937a0e1b1adecd9d4876df9617e7">
         
     <meta property="og:title" content="Privacy policy">
 
     <meta property="og:type" content="article">
 
-    <meta property="og:url" content="https://www.hillaryclinton.com/privacy/">
+    <meta property="og:url" content="https://www.hillaryclinton.com/legal/privacy-policy/">
 
 
         
@@ -43,7 +50,7 @@
 
     <meta property="twitter:card" content="summary">
 
-    <meta property="twitter:url" content="https://www.hillaryclinton.com/privacy/">
+    <meta property="twitter:url" content="https://www.hillaryclinton.com/legal/privacy-policy/">
 
     <meta property="twitter:site" content="@hillaryclinton">
 
@@ -51,12 +58,54 @@
         
         
         
-<script src="https://a.hrc.onl/js/analytics.min.js"></script>
-<script src="https://a.hrc.onl/js/tracking.min.js" data-signal-site-id="VLtW24o"></script>
+<script src="//a.hrc.onl/js/analytics.min.js"></script>
 <script>
-    (function() {
-        'use strict';
-        analytics.init({
+  (function(){
+    var methods = ['trackSubmit', 'trackClick', 'trackLink', 'trackForm', 'pageview', 'identify', 'reset', 'group', 'track', 'ready', 'alias', 'page', 'once', 'off', 'on', 'init'];
+    var mockAnalytics = {};
+    if (!window.analytics) {
+      methods.forEach(function(method) {
+        mockAnalytics[method] = function(){};
+      });
+    }
+    window.analytics = window.analytics || mockAnalytics;
+  })();
+</script>
+<script src="//a.hrc.onl/js/tracking.min.js"></script>
+
+<script>window.committee = 'hfa';</script>
+
+<script>
+  (function() {
+    'use strict';
+
+    // Storing the wagtail body css_classes string as pageContext variable
+    // so we can determine the page type we're on.
+    function getPageContext() {
+      var pageType = window.pageContext || '';
+
+      if (pageType.indexOf('signuppage') > -1) {
+        return 'Sign up';
+      }
+
+      if (pageType.indexOf('pressrelease') > -1) {
+        return 'Press releases';
+      }
+
+      if (pageType.indexOf('blogpost') > -1) {
+        return 'Feed';
+      }
+
+      if (pageType.indexOf('issues') > -1) {
+        return 'Issues';
+      }
+
+      if (pageType.indexOf('homepage') > -1) {
+        return 'Homepage';
+      }
+    }
+
+    window.analytics.init({
         'Google Analytics': {
             trackingId: 'UA-1161728-1',
             enhancedEcommerce: true,
@@ -66,174 +115,334 @@
             doubleClick: false,
             sendUserId: false
         },
-        'Optimizely': {}
+        'Optimizely': {},
+        'Google Tag Manager': {
+            containerId: 'GTM-M76QG3'
+        }
     });
-        analytics.page();
-    })();
+    window.ga('set', 'contentGroup1', committee);
+    // sets the page type, parsed from the body class string
+    // that contains the references to the page model type.
+    if (getPageContext()) {
+      window.ga('set', 'contentGroup2', getPageContext());
+    }
+    window.analytics.page();
+  })();
 </script>
+
         <!-- iPad retina icon -->
-        <link href="https://a.hrc.onl/img/mark-h@152x152.png" sizes="152x152" rel="apple-touch-icon-precomposed">
+        <link href="//a.hrc.onl/img/mark-h@152x152.png" sizes="152x152" rel="apple-touch-icon-precomposed">
         <!-- iPad non-retina icon -->
-        <link href="https://a.hrc.onl/img/mark-h@76x76.png" sizes="76x76" rel="apple-touch-icon-precomposed">
+        <link href="//a.hrc.onl/img/mark-h@76x76.png" sizes="76x76" rel="apple-touch-icon-precomposed">
         <!-- iPhone 6 Plus icon -->
-        <link href="https://a.hrc.onl/img/mark-h@180x180.png" sizes="120x120" rel="apple-touch-icon-precomposed">
+        <link href="//a.hrc.onl/img/mark-h@180x180.png" sizes="120x120" rel="apple-touch-icon-precomposed">
     </head>
-    <body class="default basicpage privacy" id="">
+    <body class="default privacy-policy basicpage" id="">
+
         
-            
-        
-        <header class="site-top-bar " role="banner">
-            <div class="container">
-                
-                    
+            <nav class="off-canvas-nav">
+    <ul class="off-canvas-items">
     
-                <nav class="site-nav">
-                    <ul class="nav-list"><!--
-                     --><li class="nav-item nav-item-brand">
-                            <a href="/" title="Hillary for America" class="site-brand site-brand-widescreen">Hillary for America</a>
-                        </li><!--
-                     --><li class="nav-item nav-item-bio">
-                            <a href="/bio/" title="Bio" class="nav-link">Bio</a>
-                        </li><!--
-                     --><li class="nav-item nav-item-states nav-item-dropdown">
-                            <a href="/states/" title="States" class="nav-link">States <i class="fa fa-caret-down"></i></a>
-                            <ul class="nav-list nav-sublist">
-                                <li class="nav-item">
-                                    <a href="/iowa/" title="Iowa" class="nav-link">Iowa</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/new-hampshire/" title="New Hampshire" class="nav-link">New Hampshire</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/new-york/" title="New York" class="nav-link">New York</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/nevada/" title="Nevada" class="nav-link">Nevada</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/south-carolina/" title="South Carolina" class="nav-link">South Carolina</a>
-                                </li>
-                            </ul>
-                        </li><!--
-                     --><li class="nav-item nav-item-volunteer">
-                            <a href="/volunteer/" title="Volunteer" class="nav-link">Volunteer</a>
-                        </li><!--
-                    
-                    --><li class="nav-item nav-item-lang">
+        
+<li class="nav-item close-nav-item">
+    <a href="#" class="nav-link nav-close"><span>×</span> Close</a>
+</li>
+
+<li class="nav-item">
+    <a href="/about/bio/" class="nav-link">Bio</a>
+</li>
+
+<li class="nav-item has-children">
+    <span class="expand-submenu">States <i class="icon icon-caret-down"></i></span>
+    <ul class="sub-menu">
+        <li class="nav-item">
+            <a href="/iowa/" title="Iowa" class="nav-link">Iowa</a>
+        </li>
+        <li class="nav-item">
+            <a href="/new-hampshire/" title="New Hampshire" class="nav-link">New Hampshire</a>
+        </li>
+        <li class="nav-item">
+            <a href="/new-york/" title="New York" class="nav-link">New York</a>
+        </li>
+        <li class="nav-item">
+            <a href="/nevada/" title="Nevada" class="nav-link">Nevada</a>
+        </li>
+        <li class="nav-item">
+            <a href="/south-carolina/" title="South Carolina" class="nav-link">South Carolina</a>
+        </li>
+    </ul>
+</li>
+
+<li class="nav-item">
+    <a href="/issues/" class="nav-link">Issues</a>
+</li>
+
+<li class="nav-item">
+    <a href="/feed/" class="nav-link">Feed</a>
+</li>
+
+<li class="nav-item">
+    <a href="/events/" class="nav-link">Events</a>
+</li>
+
+<li class="nav-item">
+    <a href="/volunteer/" class="nav-link">Volunteer</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://shop.hillaryclinton.com/" class="nav-link">Shop</a>
+</li>
+
+<li class="nav-item nav-item-social">
+    
+    <nav class="social-nav">
+    <ul class="social-nav-items"><!--
+    
+     --><li class="social-nav-item">
+            <a href="https://www.facebook.com/hillaryclinton" title="Follow on Facebook" class="btn btn-facebook-icon-only" target="_blank"><i class="icon icon-facebook"></i><span class="btn-text">Follow on Facebook</span></a>
+        </li><!--
+    
+    
+     --><li class="social-nav-item">
+            <a href="https://twitter.com/intent/follow?screen_name=hillaryclinton" title="Follow on Twitter" class="btn btn-twitter-icon-only"><i class="icon icon-twitter"></i><span class="btn-text">Follow on Twitter</span></a>
+        </li><!--
+    
+    
+     --><li class="social-nav-item">
+            <a href="https://youtube.com/hillaryclinton" title="Subscribe on Youtube" class="btn btn-youtube-icon-only" target="_blank"><i class="icon icon-youtube"></i><span class="btn-text">Subscribe on Youtube</span></a>
+        </li><!--
+    
+    
+     --><li class="social-nav-item">
+            <a href="https://instagram.com/hillaryclinton" title="Follow on Instagram" class="btn btn-instagram-icon-only" target="_blank"><i class="icon icon-instagram"></i><span class="btn-text">Follow on Instagram</span></a>
+        </li>
+        <li class="social-nav-item">
+            <a href="https://pinterest.com/hillaryclinton" title="Follow on Pinterest" class="btn btn-pinterest-icon-only" target="_blank"><i class="icon icon-pinterest"></i><span class="btn-text">Follow on Pinterest</span></a>
+        </li>
+        <!--
+    
+ --></ul>
+</nav>
+
+
+</li>
+
+
+<li class="nav-item user-nav has-children utility-item"></li>
+
+
+<li class="nav-item nav-item-lang utility-item">
     
         <a href="/es/" title="En Español" class="nav-link">En Español</a>
     
 </li>
-<!--
-                 --></ul>
-                </nav>
 
-                
-                
 
-                
-                <nav class="user-nav">
-                    <ul class="nav-list"></ul>
-                </nav>
-                
-            </div><!-- /.container -->
-        </header>
-        
 
-        
+<li class="nav-item utility-item">
+    <a href="https://www.hillaryclinton.com/donate/" class="nav-link">Donate</a>
+</li>
 
-            <div class="container">
-            
-                <nav class="site-nav-mobile">
-                    <ul class="nav-list"><!--
-                     --><li class="nav-item nav-item-menu">
-                            <a href="#menu" title="Menu" class="btn btn-menu"><span class="menu-bars"></span> Menu</a>
-                        </li><!--
-                     --><li class="nav-item nav-item-brand">
-                            <a href="/" title="Hillary for America" class="site-brand">Hillary for America</a>
-                        </li><!--
-                     --><li class="nav-item nav-item-donate">
-                            <a href="/donate/" title="Donate" class="btn nav-btn">Donate</a>
-                        </li><!--
-                 --></ul>
-                </nav>
 
-            
     
-                <nav class="site-nav ss-only">
-                    <ul class="nav-list"><!--
-                     --><li class="nav-item nav-item-brand">
-                            <a href="/" title="Hillary for America" class="site-brand site-brand-widescreen">Hillary for America</a>
-                        </li><!--
-                     --><li class="nav-item nav-item-bio">
-                            <a href="/bio/" title="Bio" class="nav-link">Bio</a>
-                        </li><!--
-                     --><li class="nav-item nav-item-states nav-item-dropdown">
-                            <a href="/states/" title="States" class="nav-link">States <i class="fa fa-caret-down"></i></a>
-                            <ul class="nav-list nav-sublist">
-                                <li class="nav-item">
-                                    <a href="/iowa/" title="Iowa" class="nav-link">Iowa</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/new-hampshire/" title="New Hampshire" class="nav-link">New Hampshire</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/new-york/" title="New York" class="nav-link">New York</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/nevada/" title="Nevada" class="nav-link">Nevada</a>
-                                </li><!--
-                             --><li class="nav-item">
-                                    <a href="/south-carolina/" title="South Carolina" class="nav-link">South Carolina</a>
-                                </li>
-                            </ul>
-                        </li><!--
-                     --><li class="nav-item nav-item-volunteer">
-                            <a href="/volunteer/" title="Volunteer" class="nav-link">Volunteer</a>
-                        </li><!--
-                    
-                    --><li class="nav-item nav-item-lang">
+    </ul> <!--/.off-canvas-items-->
+</nav> <!--/.off-canvas-nav-->
+
+        
+
+        <div class="container-restricted-width js_main-container">
+
+            
+                
+<nav class="site-nav-mobile">
+    <ul class="nav-list">
+        <li class="nav-item nav-item-menu">
+            <a href="#menu" title="Menu" class="btn btn-menu"><span class="menu-bars"></span> Menu</a>
+        </li>
+        <li class="nav-item nav-item-brand">
+            <a href="/" title="Hillary for America" class="site-brand">Hillary for America</a>
+        </li>
+
+    
+
+        <li class="nav-item nav-item-donate">
+            <a href="/donate/" title="Donate" class="btn nav-btn">Donate!</a>
+        </li>
+
+    
+
+    </ul>
+</nav>
+
+            
+
+            
+                <header class="site-top-bar" role="banner">
+                    <div class="container-restricted-width">
+                        <nav class="utility-nav">
+    <ul class="utility-nav-items">
+
+    
+        
+
+
+    <li class="nav-item utility-item-dropdown">
+        <a href="#" class="utility-link">Follow Us <i class="icon icon-caret-down"></i></a>
+            <ul class="utility-sublist social">
+                <li class="utility-item">
+                    <a href="https://www.facebook.com/hillaryclinton" title="Follow on Facebook" class="social-link-facebook" target="_blank"><i class="icon icon-facebook"></i> Follow on Facebook</a>
+                </li>
+                <li class="utility-item">
+                    <a href="https://twitter.com/intent/follow?screen_name=hillaryclinton" title="Follow on Twitter" class="social-link-twitter"><i class="icon icon-twitter"></i> Follow on Twitter</a>
+                </li>
+                <li class="utility-item">
+                    <a href="https://youtube.com/hillaryclinton" title="Subscribe on YouTube" class="social-link-youtube" target="_blank"><i class="icon icon-youtube"></i> Subscribe on YouTube</a>
+                </li>
+                <li class="utility-item">
+                  <a href="https://instagram.com/hillaryclinton" title="Follow on Instagram" class="social-link-instagram" target="_blank"><i class="icon icon-instagram"></i> Follow on Instagram</a>
+                </li>
+                <li class="utility-item">
+                  <a href="https://pinterest.com/hillaryclinton" title="Follow on Pinterest" class="social-link-pinterest" target="_blank"><i class="icon icon-pinterest"></i> Follow on Pinterest</a>
+                </li>
+            </ul>
+    </li>
+
+    <li class="nav-item nav-item-lang utility-item">
     
         <a href="/es/" title="En Español" class="nav-link">En Español</a>
     
 </li>
-<!--
-                 --></ul>
-                </nav>
 
 
-            </div>
-        
 
-        
 
-        
-<main class="main full-bleed" role="main">
+
+    <li class="user-nav nav-item nav-item-account utility-item-dropdown"></li>
+
+
+<!-- to maintain parity with old header, make sure this isn't a "simple" header -->
+
+    <li class="nav-item nav-item-donate">
+         <a href="/donate/" title="Donate" class="btn nav-btn">Donate!</a>
+    </li>
+
+
+
+
     
-	<div class="container">
+    </ul>
+</nav>
+                        
+
+
+
+    
+        
+
+<nav class="site-nav">
+    <ul class="nav-list">
+
+        <li class="nav-item nav-item-brand">
+            <a href="/" title="Hillary for America" class="site-brand site-brand-widescreen">Hillary for America</a>
+        </li>
+
+    
+
+        <li class="nav-item nav-item-about">
+            <a href="/about/bio/" title="Bio" class="nav-link">Bio</a>
+        </li>
+
+        <li class="nav-item nav-item-states nav-item-dropdown">
+            <a href="/states/" title="States" class="nav-link">States <i class="icon icon-caret-down"></i></a>
+            <ul class="nav-list nav-sublist">
+                <li class="nav-item">
+                    <a href="/iowa/" title="Iowa" class="nav-link">Iowa</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/new-hampshire/" title="New Hampshire" class="nav-link">New Hampshire</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/new-york/" title="New York" class="nav-link">New York</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/nevada/" title="Nevada" class="nav-link">Nevada</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/south-carolina/" title="South Carolina" class="nav-link">South Carolina</a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item nav-item-fights">
+            <a href="/issues/" title="Issues" class="nav-link">Issues</a>
+        </li>
+    
+        <li class="nav-item">
+            <a href="/feed/" title="Feed" class="nav-link">Feed</a>
+        </li>
+
+        <li class="nav-item">
+            <a href="/events/" title="Events" class="nav-link">Events</a>
+        </li>
+
+        <li class="nav-item">
+            <a href="/volunteer/" title="Volunteer" class="nav-link">Volunteer</a>
+        </li>
+
+        
+
+        <li class="nav-item nav-item-shop">
+            <a href="https://shop.hillaryclinton.com" title="Shop" class="nav-link">Shop</a>
+        </li>
+
+    
+
+    </ul>
+</nav>
+
+    
+
+
+
+                    </div>
+                </header> <!--/.site-top-bar-->
+            
+
+            
+            
+
+            
+<main class="main full-bleed basic-page" data-enable-signup-lightbox="False" role="main">
+    
+    <div class="container">
         
         <header class="page-header">
-            <h1 class="p-name"><a href="" title="Privacy policy" class="u-url">Privacy policy</a></h1>
+            <h1 class="p-name">
+                
+                <a href="" title="Privacy policy" class="u-url">Privacy policy</a>
+                
+            </h1>
         </header>
         
         
         <article class="h-entry">
             <div class="p-content">
-                <div class="ugc"><p>HILLARY FOR AMERICA<br>PRIVACY POLICY<br></p><p><br></p><p><b>Last Updated: April 12, 2015</b></p><p>This Privacy Policy explains how information about you is collected, used and disclosed by Hillary for America ("HFA"). &nbsp;This Privacy Policy applies to information we collect when you use our websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the "Sites").</p><p>We may change this Privacy Policy from time to time. &nbsp;If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). &nbsp;We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.</p><h4>Collection of Information</h4><p><b>Information You Provide to Us</b><br></p><p>We collect information you provide directly to us. &nbsp;For example, we collect information when you fill out a form, send us an email, sign up to receive email or text message updates, request information, sign a petition, sign up as a volunteer, create an account, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, , or otherwise communicate with us. &nbsp;The types of information we collect may include your name, email address, social media handles, user names, postal address, phone number, mobile number, credit card information, location, and other contact or identifying information you choose to provide.</p><p>In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors. &nbsp;For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per election cycle.&nbsp;</p><p><b>Information We Collect Automatically When You Use the Sites</b><br></p><p>When you access or use our Sites, we automatically collect information about you, including:<br></p><p></p><ul><li><b>Log Information:</b><b>&nbsp;</b>We log information about your use of the Sites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Sites.<br></li><li><b>Device Information:</b> We may collect information about the computer or mobile device you use to access our Sites, including the hardware model, operating system and version, device identifiers and mobile network information.<br></li><li><b>Information Collected by Cookies and Other Tracking Technologies:</b>&nbsp;We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. &nbsp;Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits. &nbsp;We may also collect information using web beacons (also known as "tracking pixels"). &nbsp;Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. &nbsp;For more information about cookies, and how to disable them, please see "Your Choices" below.<br></li></ul><p><b>Information We Collect From Other Sources</b><br></p><p></p><p>We may also obtain information from other sources and combine that with information we collect through our Sites. &nbsp;For example if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site. We may also use such information for list matching purposes.</p><h4>Use of Information</h4><p>We may use information about you for various purposes, including to:<br></p><p></p><ul><li>Provide, maintain and improve our Sites and send you confirmations, receipts, technical notices, updates, security alerts and support and administrative messages;<br></li><li>Provide and deliver the information or products you request, process donations and transactions and send you related information, including confirmations and invoices, <br></li><li>Respond to your emails, submissions, comments, questions and requests, provide customer service, request feedback, and otherwise contact you about your use of the Sites;<br></li><li>Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;<br></li><li>Help connect you with other supporters, and to solicit volunteers, donations and support for HFA and for candidates, issues and organizations that we support;<br></li><li>Contact you if other information is necessary under Federal election laws;<br></li><li>Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you;<br></li><li>Monitor and analyze trends, usage and activities in connection with our Sites; <br></li><li>Personalize and improve the Sites and provide advertisements, content or features that match user profiles or interests or that are based on the information you provide or the actions you take;<br></li><li>Notify and contact contest or sweepstakes entrants; and<br></li><li>Carry out any other purpose for which the information was collected.</li></ul><p>HFA is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Sites or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.<br></p><p></p><h4>Sharing of Information<br></h4><p>We may share information about you as follows or as otherwise described in this Privacy Policy:<br></p><p></p><ul><li>With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf;<br></li><li>With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups; &nbsp;<br></li><li>To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in an election cycle (for additional information, visit the FEC website at http://www.fec.gov);<br></li><li>When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;<br></li><li>If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of HFA, its employees, volunteers, constituents or others;<br></li><li>In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of HFA; and<br></li><li>With your consent or at your direction, including if we notify you through our Sites that the information you provide will be shared in a particular manner and you provide such information.</li></ul><p>We may also share aggregated or anonymized information that does not directly identify you.<br></p><p></p><h4>Online Petitions<br></h4><p>If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available. &nbsp;In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.<br></p><h4>Social Sharing Features <br></h4><p>The Sites may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Sites with other media, and vice versa. &nbsp;The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. &nbsp;For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.<br></p><h4>Advertising and Analytics Services Provided by Others<br></h4><p>We may allow third parties to use cookies or other technologies or otherwise collect information about you in order to provide analytics services and to serve ads on the Sites or on other sites based on your visits to the Sites and other sites across the Internet and across various mobile applications. &nbsp;These entities may collect or receive information about your use of the Sites and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information. &nbsp;This information may be used by HFA and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity. &nbsp;</p><p>For example, we may use Remarketing with Google Analytics or other remarketing tools to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet. &nbsp;Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Sites. &nbsp;For information on how you can opt out of Google's use of cookies for interest-based ads please visit Google's <a href="https://www.google.com/settings/ads">Ads Settings</a>. Other advertising vendors we may use include, without limitation, Yahoo!, MSN, Facebook, Twitter.</p><p>For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>.<br></p><h4>Security<br></h4><p>HFA takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.<br></p><h4>Your Choices</h4><p><b>Cookies</b><br></p><p>Most web browsers are set to accept cookies by default. &nbsp;If you prefer, you can usually choose to set your browser to remove or reject browser cookies. &nbsp;Removing or rejecting browser cookies does not necessarily affect third party flash cookies that may be used in connection with our Sites. &nbsp;To delete or disable flash cookies please visit <a href="http://www.adobe.com/products/flashplayer/security">www.adobe.com/products/flashplayer/security</a> for more information. &nbsp;Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.</p><p><b>Promotional Communications</b><br></p><p>You may opt out of receiving text messages, updates and newsletters by following the instructions in those emails or text messages. &nbsp;If you opt out, we may still send you other types of emails, such as those about your use of the Sites or any donations or transactions.</p><h4>Contact Us</h4><p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:website@hillaryclinton.com">website@hillaryclinton.com</a><br></p></div>
+                <div class="ugc"><p>HILLARY FOR AMERICA<br>PRIVACY POLICY<br></p><p><br></p><p><b>Last Updated: April 12, 2015</b></p><p>This Privacy Policy explains how information about you is collected, used and disclosed by Hillary for America ("HFA"). &nbsp;This Privacy Policy applies to information we collect when you use our websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the "Sites").</p><p>We may change this Privacy Policy from time to time. &nbsp;If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). &nbsp;We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.</p><h4>Collection of Information</h4><p><b>Information You Provide to Us</b><br></p><p>We collect information you provide directly to us. &nbsp;For example, we collect information when you fill out a form, send us an email, sign up to receive email or text message updates, request information, sign a petition, sign up as a volunteer, create an account, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, , or otherwise communicate with us. &nbsp;The types of information we collect may include your name, email address, social media handles, user names, postal address, phone number, mobile number, credit card information, location, and other contact or identifying information you choose to provide.</p><p>In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors. &nbsp;For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per election cycle.&nbsp;</p><p><b>Information We Collect Automatically When You Use the Sites</b><br></p><p>When you access or use our Sites, we automatically collect information about you, including:<br></p><p></p><ul><li><b>Log Information:</b><b>&nbsp;</b>We log information about your use of the Sites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Sites.<br></li><li><b>Device Information:</b> We may collect information about the computer or mobile device you use to access our Sites, including the hardware model, operating system and version, device identifiers and mobile network information.<br></li><li><b>Information Collected by Cookies and Other Tracking Technologies:</b>&nbsp;We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. &nbsp;Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits. &nbsp;We may also collect information using web beacons (also known as "tracking pixels"). &nbsp;Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. &nbsp;For more information about cookies, and how to disable them, please see "Your Choices" below.<br></li></ul><p><b>Information We Collect From Other Sources</b><br></p><p></p><p>We may also obtain information from other sources and combine that with information we collect through our Sites. &nbsp;For example if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site. We may also use such information for list matching purposes.</p><h4>Use of Information</h4><p>We may use information about you for various purposes, including to:<br></p><p></p><ul><li>Provide, maintain and improve our Sites and send you confirmations, receipts, technical notices, updates, security alerts and support and administrative messages;<br></li><li>Provide and deliver the information or products you request, process donations and transactions and send you related information, including confirmations and invoices, <br></li><li>Respond to your emails, submissions, comments, questions and requests, provide customer service, request feedback, and otherwise contact you about your use of the Sites;<br></li><li>Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;<br></li><li>Help connect you with other supporters, and to solicit volunteers, donations and support for HFA and for candidates, issues and organizations that we support;<br></li><li>Contact you if other information is necessary under Federal election laws;<br></li><li>Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you;<br></li><li>Monitor and analyze trends, usage and activities in connection with our Sites; <br></li><li>Personalize and improve the Sites and provide advertisements, content or features that match user profiles or interests or that are based on the information you provide or the actions you take;<br></li><li>Notify and contact contest or sweepstakes entrants; and<br></li><li>Carry out any other purpose for which the information was collected.</li></ul><p>HFA is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Sites or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.<br></p><p></p><h4>Sharing of Information<br></h4><p>We may share information about you as follows or as otherwise described in this Privacy Policy:<br></p><p></p><ul><li>With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf;<br></li><li>With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups; &nbsp;<br></li><li>To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in an election cycle (for additional information, visit the FEC website at http://www.fec.gov);<br></li><li>When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;<br></li><li>If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of HFA, its employees, volunteers, constituents or others;<br></li><li>In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of HFA; and<br></li><li>With your consent or at your direction, including if we notify you through our Sites that the information you provide will be shared in a particular manner and you provide such information.</li></ul><p>We may also share aggregated or anonymized information that does not directly identify you.<br></p><p></p><h4>Online Petitions<br></h4><p>If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available. &nbsp;In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.<br></p><h4>Social Sharing Features <br></h4><p>The Sites may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Sites with other media, and vice versa. &nbsp;The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. &nbsp;For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.<br></p><h4>Advertising and Analytics Services Provided by Others<br></h4><p>We may allow third parties to use cookies or other technologies or otherwise collect information about you in order to provide analytics services and to serve ads on the Sites or on other sites based on your visits to the Sites and other sites across the Internet and across various mobile applications. &nbsp;These entities may collect or receive information about your use of the Sites and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information. &nbsp;This information may be used by HFA and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity. &nbsp;</p><p>For example, we may use Remarketing with Google Analytics or other remarketing tools to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet. &nbsp;Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Sites. &nbsp;For information on how you can opt out of Google's use of cookies for interest-based ads please visit Google's <a href="https://www.google.com/settings/ads">Ads Settings</a>. Other advertising vendors we may use include, without limitation, Yahoo!, MSN, Facebook, Twitter.</p><p>For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>.<br></p><h4>Security<br></h4><p>HFA takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.<br></p><h4>Your Choices</h4><p><b>Cookies</b><br></p><p>Most web browsers are set to accept cookies by default. &nbsp;If you prefer, you can usually choose to set your browser to remove or reject browser cookies. &nbsp;Removing or rejecting browser cookies does not necessarily affect third party flash cookies that may be used in connection with our Sites. &nbsp;To delete or disable flash cookies please visit <a href="http://www.adobe.com/products/flashplayer/security">www.adobe.com/products/flashplayer/security</a> for more information. &nbsp;Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.</p><p><b>Promotional Communications</b><br></p><p>You may opt out of receiving text messages, updates and newsletters by following the instructions in those emails or text messages. &nbsp;If you opt out, we may still send you other types of emails, such as those about your use of the Sites or any donations or transactions.</p><h4>Contact Us</h4><p>If you have any questions about this Privacy Policy, please contact us using <a href="https://forms.hillaryclinton.com/contact">this form</a>.</p></div>
                 
                 <div class="social-share">
-                    <a class="btn btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.hillaryclinton.com/privacy/"><i class="icon icon-facebook"></i> Share on Facebook</a>
-                    <a class="btn btn-twitter" href="https://twitter.com/home?status=http://www.hillaryclinton.com/privacy/"><i class="icon icon-twitter"></i> Share on Twitter</a>
+                    <a class="btn btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//www.hillaryclinton.com/legal/privacy-policy/"><i class="icon icon-facebook"></i> Share on Facebook</a>
+
+                    <a href="https://twitter.com/intent/tweet?text=Privacy%20policy&amp;hashtags=&amp;related=hillaryclinton&amp;url=http%3A//www.hillaryclinton.com/legal/privacy-policy/" class="btn btn-twitter" title="Share on Twitter"><i class="icon icon-twitter"></i> Share on Twitter</a>
                 </div>
                 
             </div>
         </article>
         
-	</div>
+    </div>
 </main>
 
 
-        
+            
             
 <footer class="site-footer">
     <div class="container">
@@ -260,6 +469,15 @@
             <a href="https://youtube.com/hillaryclinton" title="Subscribe on Youtube" class="btn btn-youtube-clear" target="_blank"><i class="icon icon-youtube"></i><span class="btn-text">Subscribe on Youtube</span></a>
         </li><!--
     
+    
+     --><li class="social-nav-item">
+            <a href="https://instagram.com/hillaryclinton" title="Follow on Instagram" class="btn btn-instagram-clear" target="_blank"><i class="icon icon-instagram"></i><span class="btn-text">Follow on Instagram</span></a>
+        </li>
+        <li class="social-nav-item">
+            <a href="https://pinterest.com/hillaryclinton" title="Follow on Pinterest" class="btn btn-pinterest-clear" target="_blank"><i class="icon icon-pinterest"></i><span class="btn-text">Follow on Pinterest</span></a>
+        </li>
+        <!--
+    
  --></ul>
 </nav>
 
@@ -267,83 +485,86 @@
     
 
     
-        <small class="disclaimer disclaimer-paid-for">Paid for by Hillary for America</small>
+        
+  <small class="disclaimer disclaimer-paid-for">Paid for by Hillary for America</small>
+
 
     
     
-                <nav class="footer-links">
+        
+                    <nav class="footer-links">
             <ul class="nav-list">
                 <li class="nav-item nav-item-license"><span class="nav-text">©2015 Hillary for America</span></li>
                 <li class="nav-item nav-item-terms"><a href="/terms/" title="Terms of Service" class="nav-link">Terms of Service</a></li>
                 <li class="nav-item nav-item-privacy"><a href="/privacy/" title="Privacy Policy" class="nav-link">Privacy Policy</a></li>
-                <li class="nav-item nav-item-contact"><a href="/contact/" title="Contact" class="nav-link">Contact</a></li>
-                <li class="nav-item nav-item-careers"><a href="http://careers.hillaryclinton.com" title="Jobs" class="nav-link">Jobs</a></li>
+                <li class="nav-item nav-item-contact"><a href="//forms.hillaryclinton.com/contact" title="Contact" class="nav-link">Contact</a></li>
+                
+                <li class="nav-item nav-item-careers"><a href="/jobs-and-internships/" title="Jobs and Internships" class="nav-link">Jobs and Internships</a></li>
+		
             </ul>
         </nav>
 
+        
     
     </div><!-- /.container -->
 </footer>
 
-        
+            
 
+            
+        </div>
 
         
         <script type="text/mustache" id="template-logged-in-user">
             
             
-                <li class="nav-item nav-item-donate">
-                    <a href="/donate/" title="Donate" class="btn btn-donate">Donate <i class="icon icon-arrow"></i></a>
-                </li>
             
-            
-            <li class="nav-item nav-item-account-dropdown nav-item-dropdown">
-                <a href="/account/" title="Account" class="btn btn-white btn-user-dropdown">
+                <span class="expand-submenu" title="Account">
                     <span class="btn-text">
-                    {{#fullName}}
-                    {{ fullName }}
-                    {{/fullName}}
-                    {{^fullName}}
-                    {{ email }}
-                    {{/fullName}}
+                    {{#givenName}}
+                    {{ givenName }}
+                    {{/givenName}}
+                    {{^givenName}}
+                    Account
+                    {{/givenName}}
                     </span>
-                    <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="nav-list nav-sublist">
-                    <li class="nav-item nav-item-profile">
-                        <a href="/account/" title="Profile" class="nav-link">
+                    <i class="icon icon-caret-down"></i>
+                </span>
+                <ul class="nav-list sub-menu utility-sublist">
+                    <li class="utility-item nav-item-profile">
+                        <a href="/account/" title="Profile" class="utility-link">
                             Profile
                         </a>
                     </li>
-                    <li class="nav-item nav-item-donate-history">
-                        <a href="/account/donations/" title="Donations" class="nav-link">
+                    <li class="utility-item nav-item-donate-history">
+                        <a href="/account/donations/" title="Donations" class="utility-link">
                             Donations
                         </a>
                     </li>
-                    <li class="nav-item nav-item-logout">
-                        <a href="/logout/" title="Log out" class="logout-link nav-link">
+
+                    <li class="utility-item">
+                        <a href="/events/my-events/hosting/" title="Events" class="utility-link">
+                            Events
+                        </a>
+                    </li>
+
+                    <li class="utility-item nav-item-logout">
+                        <a href="/logout/" title="Log out" class="logout-link utility-link">
                             Log Out
                         </a>
                     </li>
                 </ul>
-            </li>
+            
             
             
         </script>
         <script type="text/mustache" id="template-logged-out-user">
             
             
-                <li class="nav-item nav-item-donate">
-                    <a href="/donate/" title="Donate" class="btn btn-donate">Donate <i class="icon icon-arrow"></i></a>
-                </li>
             
-            
-            
-            <li class="nav-item nav-item-login">
-                <a href="/login/" class="login-link btn btn-white" title="Log in">
+                <a href="/login/" class="login-link nav-link nav-item-login utility-link" title="Log in">
                     Log In
                 </a>
-            </li>
             
             
             
@@ -362,7 +583,10 @@
                 <input type="email" name="email" id="id_login_email" required autofocus>
             </li>
             <li class="field">
-                <label for="id_login_password">Password</label>
+                <label for="id_login_password">
+                    Password
+                    <a href="/password-reset-request" class="field-label-link" tabindex="-1">Request a reset</a>
+                </label>
                 <input type="password" name="password" id="id_login_password" required data-confirm-password-field="#id_login_password2">
             </li>
             <li class="field field-confirm-password">
@@ -377,7 +601,55 @@
 
             
         </script>
+        
+<script type="text/mustache" id="template-lightbox-header">
+    <a href="#close" class="modal-close left"><i class="icon icon-times"></i></a>
+    <a href="#close" class="modal-close" title="Dismiss">continue to hillaryclinton.com</span> <img src="https://a.hrc.onl/img/mark-h.svg" alt="Continue to HillaryClinton.com"></a>
+    <h1 class="lightbox-heading">Join the Official Clinton Campaign</h1>
+</script>
 
+<script type="text/mustache" id="template-lightbox-content">
+    <div class="lightbox-signup-container">
+
+        <form class="signup-form form" data-success-event="close:lightbox" data-autoresponder="cms.bucket.welcome">
+            <ol class="fields">
+                <li class="field field-email field-with-placeholder">
+                    <label for="id_signup_email">Email address</label>
+                    <input name="email" id="id_lightbox_signup_email" required type="email" placeholder="Email address">
+                </li>
+                <li class="field field-zip field-with-placeholder">
+                    <label for="id_signup_zip">ZIP code</label>
+                    <input name="zip" data-validate-type="zip" id="id_lightbox_signup_zip" required type="text" pattern="[0-9]+" placeholder="ZIP code">
+                </li>
+                <li class="buttons">
+                    <button class="btn btn-red submit-button" type="submit">Count Me In</button>
+                </li>
+            </ol>
+            <input type="hidden" name="formGroup" value="Lightbox">
+            <input type="hidden" name="formSlug" value="/">
+        </form>
+
+        <p class="lightbox-donate-promo">
+            <a href="/donate/">Or just go ahead and <span>donate!</span></a>
+        </p> <!--/.lightbox-donate-promo-->
+
+        <p class="lightbox-signup-confirmation">
+            Thanks for joining the campaign!
+        </p> <!--/.lightbox-donate-promo-->
+
+    </div> <!--/.lightbox-signup-container-->
+</script>
+
+        <script type="text/javascript">
+          (function() {
+              'use strict';
+              window.cms = window.cms || {};
+              window.cms.settings = {
+                  EVENT_TEMPLATE_ID: "2",
+                  FACEBOOK_APP_ID: "1032794403401651"
+              };
+          })();
+        </script>
         
             
 <!--[if lt IE 9]><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><![endif]-->
@@ -385,15 +657,15 @@
 <script>
     (function(jQuery) {
         'use strict';
-        jQuery || document.write('<script src="https://a.hrc.onl/js/jquery.min.js"><\/script>');
+        jQuery || document.write('<script src="//a.hrc.onl/js/jquery.min.js"><\/script>');
     })(window.jQuery);
-</script><script src="https://a.hrc.onl/js/jquery.min.js"></script>
+</script><script src="//a.hrc.onl/js/jquery.min.js"></script>
 
 
-<script src="https://a.hrc.onl/js/vendors.min.js"></script>
+<script src="//a.hrc.onl/js/vendors.min.js"></script>
 
 
-<script src="https://a.hrc.onl/js/cms.min.js" data-api-base="" data-facebook-app-id="1032794403401651" data-oauth-client-id="25def512a6857b7acd5c922796e923d25b631be064d1f4c217c0e438152dca6d" data-google-auth-client-id="" data-google-auth-api-key=""></script>
+<script src="//a.hrc.onl/js/cms.min.js" data-api-base="" data-facebook-app-id="1032794403401651" data-oauth-client-id="25def512a6857b7acd5c922796e923d25b631be064d1f4c217c0e438152dca6d" data-google-auth-client-id="" data-google-auth-api-key=""></script>
 
 <div id="fb-root"></div>
 <script>
@@ -406,11 +678,10 @@
         
         
         
+        <!--cache test-->
         
-        <noscript>
-            <iframe src="//s.thebrighttag.com/iframe?c=VLtW24o" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </noscript>
-        
+
     
+
 
 </body></html>
