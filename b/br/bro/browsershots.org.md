@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsershots.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210347id_/http%3A//browsershots.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsershots.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083257id_/http%3A//browsershots.org/privacy) for the most accurate reproduction.*
 
 # How to contribute - Browsershots
 
