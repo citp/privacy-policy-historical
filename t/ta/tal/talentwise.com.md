@@ -1,110 +1,151 @@
-> *The following text is extracted and transformed from the talentwise.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401072755id_/http%3A//www.talentwise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentwise.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231224839id_/http%3A//corp.talentwise.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy - TalentWise
+# Legal | TalentWise
 
-**Effective March 2012 | Last updated March 15, 2012**
+**Effective March 2015 | Last updated March 17, 2015**
 
-[](http://privacy.truste.com/privacy-seal/Talentwise/validation?rid=963a4326-cd5b-4dd6-849e-03f82cd39d12)
-
-TalentWise, Inc. respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.talentwise.com (the "website") and any applications, pages, or groups that are operated by us (the "Applications") on a social networking site such as Facebook, including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information.
-
-Please note that this privacy policy, as it relates to our collection of information via our Applications, applies only to our Applications and not to your activities on the social networking site generally. Each social networking site's collection and use of your personal information when you use the social networking site is governed by that social networking site's privacy policy, which we ask that you also read and accept.
-
-[](https://privacy.truste.com/privacy-seal/Intelius,-Inc/validation?rid=179feb9a-ab45-4b63-8e4a-14d3f9802f2e "TRUSTe online privacy certification")
-
-TalentWise has been awarded TRUSTe's Privacy Seal, signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions or concerns regarding this Policy, you should first contact our Chief Privacy Officer at [privacy@talentwise.com](mailto:privacy@talentwise.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=http%3A%2F%2Fwww.talentwise.com). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through our Applications on social networking sites.
-
-TalentWise complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TalentWise has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TalentWise's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
-
-## Information Collection on Our Website
-
-In general, you can visit our website without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. Personal information is collected only with your consent and may include: name, address, e-mail address, telephone number, social security number, date of birth, education and employment information, user id and password, information supplied in connection with applying for an account, any responses you choose to provide to survey questions, or any inquires you may make through our website. We do not share, sell, rent or trade personal information with third parties for their promotional purposes. The purpose of this Policy is to inform you of how we will use your information, before you provide it. If you tell us that you do not want us to use this information in this manner or to make further contact with you beyond fulfilling your requests, we will respect your wishes.
-
-In connection with an authorized employment or tenant screening of an applicant, we collect personal information about the applicant. We use this information only for the purpose of performing the authorized screening, and conduct such screening in accordance with the Fair Credit Reporting Act. We do not use this information for any other purpose.
-
-## Information Collection Via Social Networking Sites
-
-If you use our Application on a social networking site, you allow us to access certain information from your profile from that social networking site. Please note that we use the term "Application" in the privacy policy to refer to groups, pages, and promotions we operate on social networking sites, including without limitation the TalentWise Facebook Page and associated Page Tabs, in addition to applications that are actually called "apps" and "applications". The information you allow us to access through an Application is affected by the privacy settings you establish at the social networking site. For example, we may access and store some or all of the following information, as allowed by you, the social networking site and your preferences:
-
-  * Your "basic information" you have shared with everyone on the social networking site
-  * Your profile picture or its URL
-  * Your user ID number, which is linked to publicly available information such as name and profile photo
-  * The login e-mail you provided to that social networking site when you registered
-  * Your "friends" information
-  * Other information indicated as part of the "Request for Permission" prompt from the social networking site
+  * TalentWise Privacy Statement
+  * TalentWise Website 
+    * Personal Information Collected from Website Visitors
+    * How We Use and Share Website Visitor Personal Information
+    * Cookies and Other Web Technologies
+  * Talen tWise Screening, Hiring, Onboarding and Other Services
+    * Candidate Personal Information Collected
+    * How We Use and Share Candidate Personal Information
+    * E.U./Swiss Candidate Personal Information 
+  * Security
+  * Data Retention
+  * Links to Non-TalentWise Websites
+  * Testimonials
+  * Referrals
+  * Social Media Features
+  * Additional Disclosures
+  * Your Choices
+  * Privacy Policy Contact Information
+  * Changes to this Statement
 
 
 
-Your agreement to allow us to collect such information takes place when you "accept" or "allow" or "grant permission" (or similar terms) to one of our Applications on a social networking site.
+[](https://privacy.truste.com/privacy-seal/validation?rid=3938cf45-d63c-4d26-bcef-a194401050ae "TRUSTe Privacy Certification")
 
-When you use our Application on a social networking site, you may also provide personal information to us through the Application. For example, when you use our Application to enter a promotion, respond to a survey, or subscribe to one of our newsletters or lists, we may ask that you provide certain information, which may include your e-mail address or other personal information. When you provide information through the Application, you are providing this information to us, not to the social networking site.
+## TalentWise Privacy Statement
 
-## How We Use and Share Personal Information
+This Privacy Statement describes how TalentWise, Inc. ("TalentWise" or "we") collects, uses, shares and protects personal information on the web pages associated with the domain and any online applications, pages, communications or groups that are operated by TalentWise, including [http://corp.talentwise.com](http://corp.talentwise.com/) (collectively, the "TalentWise Website").
 
-The following paragraphs describe in more detail how we may use the personal information you provide to us and with whom we may share it.
+TalentWise has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [http://corp.talentwise.com](http://corp.talentwise.com/) and does not cover information that may be collected through our services.
 
-**Providing the Website and Application.** We may use information collected through this website or an Application to operate, maintain, and provide the features and functionality of this website and the Application, and to administer any promotions you enter using this website or the Application in accordance with the official rules or other guidelines, information, restrictions, terms, or disclosures we publish related to the promotion.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-**Fulfilling your Transaction Request.** If you request something from this website, for example, a product or service, a callback, or specific marketing materials, we will use the personal information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as financial institutions for credit card processing, email service providers, outsourced customer service providers, survey providers, or postal service providers. These third parties are prohibited from using your personal information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence.
+## TalentWise Website
 
-**Personal Information Disclosure: United States or Overseas.** Personal information submitted to TalentWise for a background screening investigation may at times be transferred outside of the United States and shared with 3rd parties in order to perform the background investigation. All personal information will be transmitted and stored in a secure manner in accordance with the terms of this Privacy Policy.
+### Persona l Information Collected from Website Visitors
 
-**Improving Products and Services.** From time to time, we may use personal information to test and improve the quality of the products and services that we offer. We do not share information with third parties when your personal information is used for this purpose.
+In general, you ("Website Visitor") can visit the TalentWise Website without providing any personal information about yourself. However, you may choose to give us personal information in a variety of situations, including when you submit an inquiry or create an account. Personal information that you choose to provide may include: name, address, e-mail address, telephone number, user id and password, company information, information supplied in connection with applying for an account, any responses you choose to provide to survey questions, or any inquires you may make through the TalentWise Website ("Website Visitor Personal Information").
 
-**Communications from Us.** When you request something from this website, we will send you transactional emails related to your service request. When you use the website or any Application, we may provide you with the opportunity to opt in to receive promotional and newsletter emails from us. If you later choose to opt out of receiving these emails, you can unsubscribe by clicking on the link included in the email or logging into your account and changing your preferences.
+You may also provide personal information to us through web pages that we operate through third-party sites, such as social networking sites. For example, when you enter a promotion, respond to a survey, or subscribe to one of our newsletters or lists on our Facebook page, we may ask that you provide your e-mail address or other personal information. Please note that this Privacy Statement, as it relates to our collection of personal information via third party social networking sites, applies only to our direct collection of your personal information from you and not to your activities on the social networking site generally. Each social networking site's collection and use of your personal information when you use a particular social networking site is governed by that social networking site's Privacy Statement, which we ask that you also carefully review.
 
-**Marketing Use.** The information you provide to us on this website and through an Application will also be used, with your permission, by us and selected third parties for marketing purposes. Before we use it, we will offer you the opportunity to choose whether or not to have your information used for this purpose. Otherwise, we do not share, sell, rent, or trade your personal information with third parties for their promotional purposes. In addition, like many websites, we gather certain information automatically (including cookies and log files). This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data. We use this information, which does not identify individual users, to analyze trends, to administer this website, to track users' movements around this website and to gather demographic information about our user base as a whole.
+Like many websites, we and our third party partners also gather certain information automatically (including cookies and log files) when you visit the TalentWise Website. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data. We use this information, which does not identify individual users, to better market our products and services, to analyze trends, to track the effectiveness of our marketing efforts, to administer the TalentWise Website, to track users' movements around the TalentWise Website and to gather demographic information about our user base as a whole. For more information regarding our use of cookies, see below.
 
-**Third Party Monitoring.** In addition, service providers and other third parties such as advertisers may also use information gathering technologies on this website (including cookies and beacons) in connection with their services to collect anonymous information. Shared and/or collected information, as described above, is controlled by the relevant affiliated company or third party and is not controlled by us; specifically, (i) such information is governed by the privacy policy and terms of use of the relevant other party and (ii) we will in no way be responsible or liable to you for any data breach by such other party that compromises or otherwise affects your information.
+### How We Use and Share Website Visitor Personal Information
 
-## Data Retention
+We may use Website Visitor Personal Information for the following purposes:
 
-We will retain the information you provide to us for as long as your account is active or as needed to provide you services and we will use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+ **Fulfilling Your Requests.** If you request something from the TalentWise Website, for example, a product or service, a callback, or specific marketing materials, we will use the Website Visitor Personal Information you provide to fulfill your request. We may also use Website Visitor Personal Information to administer any promotions you enter with the official rules or other guidelines, information, restrictions, terms, or disclosures we publish related to the promotion.
 
-## TalentWise Human Resources
+ **Marketing.** We may use Website Visitor Personal Information for marketing and promotional purposes. Sometimes this information will be shared with a TalentWise partner as part of a joint marketing effort, event, or promotion. In those cases you may also receive promotional materials for their products or services as part of our collaborative marketing effort. Otherwise, TalentWise does not share or trade Website Visitor Personal Information with third parties for their promotional purposes. Further, TalentWise does not sell or rent Website Visitor Personal Information to third parties for any purpose. If you would prefer not to receive marketing communications from TalentWise or its partners, please contact us at [Email Preferences Center](http://mkto-m0018.com/Xik0VQF01000PN6lY009LI0) or by any of the methods listed below.
 
-In connection with a job application or inquiry, whether advertised on this website or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We use this information throughout TalentWise and our affiliates for the purpose of employment consideration or otherwise responding to your inquiry. Unless you request that we don't, we may keep the information for future consideration.
+ **TalentWise Hiring.** In connection with a job application or inquiry to work at TalentWise, you may provide us with information about yourself, such as a resume or curriculum vitae. We use this information throughout TalentWise and our affiliates for the purpose of employment consideration or otherwise responding to your inquiry. Unless you request that we don't, we may consider you for future opportunities or positions.
+
+We may share Website Visitor Personal Information as follows and as described below:
+
+ **Service Providers.** We may share Website Visitor Personal Information with service providers to help us bring you the products and services we offer, such as financial institutions for credit card processing, email service providers, outsourced customer service providers, survey providers, or postal service providers. Some of these service providers may be located in the United States and in other jurisdictions that may not offer the same level of protection to your personal information as that provided by your home country. However, we require these third parties to use Website Visitor Personal Information only as instructed by us and for no other purpose. All Website Visitor Personal Information will be transmitted and stored in a secure manner in accordance with the terms of this Privacy Statement. To learn more about our policies and practices with respect to service providers, please contact us at [privacy@talentwise.com](mailto:privacy@talentwise.com) or by any of the methods listed below.
 
 ## Cookies and Other Web Technologies
 
-We collect non-identifiable information from visits to our websites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on TalentWise websites, but we do so in ways that keep our visitors' identities anonymous. TalentWise uses this data to analyze trends and statistics and to help us provide better customer service.
+Technologies such as cookies, beacons, tags and scripts are used by TalentWise and our marketing partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a website can send to your browser, which is then be stored on your computer as an anonymous tag that identifies your computer but not you. Some TalentWise pages use cookies, sent by TalentWise or its third party vendors, or other technologies to better serve you when you return to the website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some websites may not work properly. Our TalentWise cookies are linked to personal information; however our third party vendor cookies only collect data in the aggregate.
+We use cookies for our TalentWise Website, to remember users' settings, or for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-## Disclosures Required By Law
+We also use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies visit: [http://www.macromedia.com/support/documentation/en/flas hplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on us or our website.
+ **Third Party Tracking.** Service providers and other third parties such as advertisers may use information gathering technologies on the TalentWise Website (including cookies and beacons) to collect anonymous information in connection with their services. This information is controlled by the relevant affiliated company or third party and is not controlled by us; specifically, (i) such information is governed by the Privacy Statement and terms of use of the relevant other party and (ii) we are not responsible for the privacy practices of such third parties. You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the [NAI website](http://www.networkadvertising.org/choices/?partnerId=1//#completed) (http://www.networkadvertising.org/choices/?partnerId=1//#completed) and [DAA website](http://www.aboutads.info/choices/) (http://www.aboutads.info/choices/). E.U. users can also visit [Your Online Choices](http://youronlinechoices.eu/) (http://youronlinechoices.eu/). Opting out does not mean you will no longer receive online advertising. It does mean that the company or companies from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. To opt out of Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.
 
-## Public Forums
+TalentWise does not currently commit to responding to browsers' Do Not Track ("DNT") signals with respect to the TalentWise Website, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. However, you do have the ability to opt-out of some of the tracking features on the TalentWise Website by using the links set out above.
 
-Our website offers a publicly accessible blog. You should be aware that any information you provide in this area may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us through one of the methods listed below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+## Ta lentWise Screening, Hiring, Onboarding and Other Services
 
-## Links to Non-TalentWise websites
+### Candidate Personal Information Collected
 
-This website contains links to other third party websites. We are not responsible for the privacy practices or the content of those other websites.
+We collect personal information from and about individuals ("Candidates") for the purpose of performing screening, hiring, onboarding, and other services (the "Services") for TalentWise's clients ("Service Requester") in accordance with applicable law, including the U.S. Fair Credit Reporting Act.
 
-## Access to Your Account
+Personal information necessary to perform the Services is collected from the Service Requester, their Applicant Tracking System ("ATS"), or from the Candidate directly. We also will collect personal information about Candidates through the process of fulfilling the requested service. The data collected may vary depending on the type of service that is requested and limits imposed by applicable law. Such information may include name, date of birth, contact information, IP address, Social Security Number, government identification number or other personally identifying number, wage, tax, withholding, benefit or payroll information, address, education, employment history, credit and financial information, driving records, drug testing information, entitlement or authorization to work, criminal information and litigation history, sanctions, media or public records information to the extent permitted by applicable law, and name and signature from third party verifiers for electronic signature verification ("Candidate Personal Information").
 
-If you would like to update your personal information in your account such as your name, address or email address, you can do so by logging into your account and updating your personal information.
+### How We Use and Share Candidate Personal Information
 
-If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@talentwise.com.](mailto:privacy@talentwise.com)
+We use Candidate Personal Information solely for the purpose of performing the requested service on behalf of the Service Requester, in accordance with applicable law. We do not use Candidate Personal Information for any other purpose.
 
-For European Union Data deletion requests please contact us at [privacy@talentwise.com](mailto:privacy@talentwise.com). We will respond to all such deletion requests within 30 days.
+We may share Candidate Personal Information with the following and as described below:
 
-## Information Security
+ **Service Requesters.** We will share Candidate Personal Information provided to us, and obtained through fulfillment of the requested service, with the Service Requester. In some cases, we may share Candidate Personal Information through integration with the Service Requester's software platform or ATS.
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+ **Service Providers.** We may share Candidate Personal Information with service providers to help us perform the Services, such as to complete a particular search in the context of a screening investigation.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or method of electronic storage is 100 percent secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+ **International Transfers of Candidate Personal Information.** In performing international searches, Candidate Personal Information will be shared as required with third party service providers outside the Candidate's home country. Some of these service providers may be located in the United States and in other jurisdictions that may not offer the same level of protection to personal information as that provided by the Candidate's home country. However, we require these third parties to use Candidate Personal Information only as instructed by us and for no other purpose. All Candidate Personal Information will be transmitted and stored in a secure manner consistent with the terms of this Privacy Statement. To learn more information about our policies and practices with respect to service providers outside of your country of residence, please e-mail us at [privacy@talentwise.com](mailto:privacy@talentwise.com).
 
-## Enforcement and Contact Information
+### E.U./Swiss Candidate Personal Information
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Compliance Manager, Ele Macapia, at [emacapia@talentwise.com](mailto:emacapia@talentwise.com), by calling our Compliance team at 425.974.8770 or by writing us at Privacy c/o TalentWise, Inc. 19910 North Creek Parkway, Suite 200, Bothell, WA 98011. It is our policy to contact the complaining user regarding his or her concerns. 
+TalentWise recognizes that the European Union and Switzerland have implemented "omnibus" data protection regimes established pursuant to the European Data Protection Directive (95/46/EC) and the Swiss Federal Act on Data Protection, respectively. Among other things, these laws require "adequate protection" for the transfer of certain individually identifiable data about individuals in European Union member countries and Switzerland to TalentWise in the United States. TalentWise complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Candidate Personal Information from European Union member countries and Switzerland. TalentWise has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. With respect to Candidate Personal Information collected from European Union member countries and Switzerland, the Service Requester acts as a data controller/owner and TalentWise acts a data processor of such information. To learn more about the Safe Harbor program and to view TalentWise's certification, please visit http://www.export.gov/safeharbor/. Individuals with questions about European or Swiss Candidate Personal Information may first contact the Service Requester, as this may be the most efficient means of addressing such questions. For general questions about TalentWise's processing of European and Swiss Candidate Personal Information, you may e-mail us at [privacy@talentwise.com](mailto:privacy@talentwise.com) or contact us by any of the methods listed below. Any individual who cannot resolve an issue directly with the Service Requester or with TalentWise may contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) using the contact information provided above.
 
-## Changes to this Policy
+## Security
 
-If we decide to change this Policy, we will post the changes to this Policy, the home page link, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+TalentWise maintains reasonable and appropriate technical and administrative measures designed to avoid alteration, accidental or illegal destruction, loss, unauthorized processing or access of Website Visitor and Candidate Personal Information. TalentWise leverages industry leading commercial solutions for data encryption and tokenization. Our solutions are PCI DSS Level 1 & EI3PA certified and are hosted in a Tier 1, Type 2 SOC II SSAE16 compliant data centers. We encrypt all communications containing sensitive information (such as credit card numbers and social security numbers) while in transit using secure socket layer technology (SSL) over TLS and AES-256 bit encryption for sensitive data at rest. Access to Website Visitor and Candidate Personal Information is tightly controlled by network and application-layer restrictions. The infrastructure that houses this information is audited as part of our PCI and EI3PA compliant data environment.
 
-We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the changes taking effect.
+## Data Retention
+
+We will retain Website Visitor, Service Requester, and Candidate Personal Information for as long as needed to provide the requested services and as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and protect our legal rights.
+
+## Links to Non-TalentWise Websites
+
+The TalentWise Website contains links to other third party websites. We are not responsible for the privacy practices or the content of those other websites. Please review the policies posted on those websites carefully.
+
+## Testimonials
+
+We display personal testimonials of satisfied customers on our site or in marketing materials in addition to other endorsements. With the consent of you and your company we may post your testimonial along with some or all of the following: your name, title, company, or company logo. If you wish to update or delete your testimonial, you can contact us at [marketing@talentwise.com](mailto:marketing@talentwise.com) or by any of the methods listed below.
+
+## Referrals
+
+If you choose to use our referral service to tell a friend about our site and services, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TalentWise stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Participants in our Customer Advocacy Program at [https://talentwise.influitive.com](https://talentwise.influitive.com/) may refer a friend as described above or by using your LinkedIn profile information. The information you provide may include some or all of the following: referral's name, job title, company, email, or phone number.
+
+Your friend may contact us at [marketing@talentwise.com](mailto:marketing@talentwise.com) or by any of the methods listed below to request that we remove this information from our database.
+
+## Social Media Features
+
+Our Web site also includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+## Additional Disclosures
+
+We reserve the right to disclose Website Visitor and Candidate Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, legal obligation court order or legal process served on us or the TalentWise Website. We may also disclose Website Visitor Personal Information as necessary in the context of a corporate transaction (i.e. reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, brands, affiliates, subsidiaries or other assets), subject to the promises made in this Privacy Statement and applicable law. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+## Your Choices
+
+ **Website Visitors and Referrals.** If you are a Website Visitor or Referral and wish to opt out of receiving marketing notifications, you can unsubscribe by clicking on the link included in the email we send you, logging into your account and changing your preferences, visiting the [Email Preferences Center](http://mkt.talentwise.com/Unsubscribe_Form.html), contact us at [marketing@talentwise.com](mailto:marketing@talentwise.com), or call 877.982.9888.
+
+ **Testimonial Providers.** If you are a Testimonial Provider and wish to update or delete your testimonial please contact us at [marketing@talentwise.com](mailto:marketing@talentwise.com) or calling 877.982.9888.
+
+ **Customer Advocacy Program.** If you joined the Customer Advocacy Program and wish to cease participation and remove your personal profile and any associated information you have provided, contact us at [marketing@talentwise.com](mailto:marketing@talentwise.com) or 877.982.9888.
+
+ **Service Requesters.** If you are a Service Requester and would like to update your personal information in your account such as your name, email or address, you can do so by logging into your account. If you wish to cancel your account or request that we no longer use your personal information for marketing purposes, contact us at [clientservices@talentwise.c om](mailto:clientservices@talentwise.com) or 877.982.9888.
+
+ **Candidates.** If you are a Candidate and would like to update your personal information please contact us at [clientservices@talentwise.c om](mailto:clientservices@talentwise.com) or 877.982.9888.
+
+We will respond to all requests to access information within 30 days.
+
+## Privacy Policy Contact Information
+
+Please feel free to direct any questions or concerns regarding this Statement to us by sending an email to Privacy and Compliance attention Ele Macapia, at [privacy@talentwise.com](mailto:privacy@talentwise.com), calling 425.974.8770, or by writing us at Privacy c/o TalentWise, Inc., 19910 N. Creek Parkway, Suite 200, Bothell, WA 98011, U.S.A.. We will respond to your request promptly.
+
+## Changes to this Statement
+
+We may update this Statement from time to time, so please review it frequently. We will post changes to this Statement on this page and other places we deem appropriate so that you can access the updated Statement. Should we make material changes to this policy (i.e. change the purpose for collecting personal information), we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site and obtain your consent as may be required by applicable law, prior to the changes taking effect.
