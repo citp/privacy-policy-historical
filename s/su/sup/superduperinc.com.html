@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superduperinc.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607141013id_/http%3A//www.superduperinc.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superduperinc.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231014921id_/http%3A//www.superduperinc.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="content-language" content="en"><title>
 	Super Duper Inc. Privacy Policy
@@ -36,7 +36,7 @@
 <link rel="alternate" type="application/rss+xml" title="Super Duper Clearance Items - 50% Off!" href="/rss/Clearance.aspx">
 
 
-    <script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script src="../../js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="../../js/jquery-1.10.2.min.js" type="text/javascript"></script>
     <script src="../../js/jquery.cookie.js" type="text/javascript"></script>
 
         
@@ -78,9 +78,9 @@
             //            Android  AND < 1024 --- MOBILE
             // ELSE -- NOT MOBILE
 
-            if (/Android|webOS/i.test(navigator.userAgent) && window.outerWidth < 1024) {
+            if (/Android|webOS/i.test(navigator.userAgent)) {
                 screenCheck = "mobile";
-            } else if (/iPhone|iPod|BlackBerry/i.test(navigator.platform)) {
+            } else if (/iPhone|BlackBerry/i.test(navigator.platform)) {
                 screenCheck = "mobile";
             } else {
                 var screenCheck = "desktop";
@@ -143,7 +143,7 @@
                         window.location = rootUrl + webserviceRoot + "/productlist_sdm.aspx?" + qrystring;
                     } else if (a == 0) {
                     } else {
-                       // window.location = rootUrl + webserviceRoot + "/home_sdm.aspx";
+                        window.location = rootUrl + webserviceRoot + "/home_sdm.aspx";
                     }
                 }
             }
@@ -168,7 +168,43 @@
 
 
         </script>
+    <!-- Google Analytics -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-5131213-2', 'auto');  // Replace with your property ID.
+    ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+            <script type="text/javascript">
+
+                /**
+                * Function that tracks a click on an outbound link in Google Analytics.
+                * This function takes a valid URL string as an argument, and uses that URL string
+                * as the event label.
+                */
+                var trackOutboundLink = function (url) {
+                    // change outbound (third parameter) to any value you wants shown as category in GA
+                  //  _gaq.push(['_trackEvent', 'speechPathCEU', 'click', url]);
+                  //  window.open(url, '_blank'); // <- This is what makes it open in a new window.
+                    //document.location = url;
+                    ga('send', 'event', 'speechPathCEU', 'click', url, {
+                        'hitCallback':
+                          function () {
+                              //document.location = url;
+                              window.open(url, '_blank');
+                          }
+                    }); 
+                }
+        </script>
         <script type="text/javascript" src="http://www.google-analytics.com/ga.js">
+
         
         <!--load jquery-->
  <link type="text/css" href="/css/ui-darkness/jquery-ui-1.8.6.custom.css" rel="stylesheet" />
@@ -238,7 +274,7 @@
 
     <div id="welcomeBox"></div>
     
-    <div id="welcomeDate">Sunday, June 7, 2015</div>
+    <div id="welcomeDate">Wednesday, December 30, 2015</div>
         
     <div id="welcomeMess">
         <a href="https://www.superduperinc.com/myAccount/login.aspx?lid=9C989CC6" id="LoginLink" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Login']);"><img src="/images/widerLayout/buttons/signIn.png" alt="Sign In" width="60" height="19"></a>
@@ -482,11 +518,12 @@
         </li>
         <li><a href="/products/cleanSweep.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'SAVE']);">SAVE</a>
             <ul>                
-                <li><a href="/products/carddecks_special.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'SAVE: Clearance']);">Clearance</a></li>
                 
                 
-                <li><a href="/products/view.aspx?pid=APC222" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Sharon's Deal of the Week']);">Sharon Webber's Deal</a></li>
                 
+                
+                <li><a href="/products/sharonspick.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Sharons Deal of the Week']);">Sharon Webber's Deal</a></li>
+                <li><a href="/products/clearance.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Summer Clearance']);">Clearance</a></li>
                 
                 
             </ul>
@@ -535,6 +572,7 @@
                 <li><a href="/myAccount/orders.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'My Account: Prior Orders']);">Prior Orders</a></li>
                 <li><a href="/myAccount/cart.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'My Account: Shopping Cart']);">Shopping Cart</a></li>
                 <li><a href="/myAccount/wishView.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'My Account: Wish List']);">Wish List</a></li>
+
             </ul>
         </li>
         <li id="facebook">
@@ -614,8 +652,10 @@
     
     
     
-    
-                        
+                            
+   
+    <div style="padding:3px 0 0 0; background-color:#7fd2fd;"><a href="/products/clearance.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', '75% Off Clearance']);" "=""><img src="/images/widerLayout/leftNav/Clearance75.png" alt="75% Off Clearance"></a></div>
+
     <table cellspacing="0" cellpadding="0" class="leftnav_content" border="0">
     <thead>
         <tr>
@@ -634,9 +674,7 @@
         <tr>
             <td class="navLinkCell"><a href="/Products/BestSellers.aspx?topic=all" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Best Sellers']);">Best Sellers</a></td>
         </tr>  
-        <tr>
-            <td><a href="/products/carddecks_special.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Clearance']);"><span class="navRed">Clearance</span></a></td>
-        </tr>      
+              
         
         <tr>
             <td><a href="/products/digitalEditions.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Digital Books']);"><span class="navRed">Digital Books - SAVE</span></a></td>
@@ -663,7 +701,7 @@
         
         <tr>
             
-            <td class="navLinkCell"><a href="/products/view.aspx?pid=APC222" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Sharon's Deals']);"><span class="navRed">Sharon's Deals</span></a></td>
+            <td class="navLinkCell"><a href="/products/sharonspick.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Sharons Deals']);"><span class="navRed">Sharon's Deals</span></a></td>
             
         </tr>
         <tr>
@@ -707,10 +745,10 @@
                     </td>
                     <td valign="top">
                         <div id="mainContent" class="mainContent">
-                            <form method="post" action="privacy.aspx" id="MainContentForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYEAgEPZBYCAgQPFgIeB2NvbnRlbnQFWFJldmlldyBTdXBlciBEdXBlcidzIFByaXZhY3kgUG9saWN5LiBXZSBhcmUgZGVlcGx5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHlvdXIgcHJpdmFjeSFkAgMPZBYGAgEPZBYIAgEPFgQeBGhyZWYFP2h0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4P2xpZD05Qzk4OUNDNh4HVmlzaWJsZWdkAgIPDxYCHgRUZXh0ZWRkAgQPFgIfAmdkAgUPZBYOAgEPFgIfAmhkAgIPFgIfAmhkAgMPFgIfAmhkAgQPFgIeC18hSXRlbUNvdW50AicWTmYPZBYCZg8VBAIxNQNBQUMDQUFDA0FBQ2QCAQ9kFgJmDxUEAjEyB0FwcmF4aWEHQXByYXhpYQdBcHJheGlhZAICD2QWAmYPFQQCMTMMQXJ0aWN1bGF0aW9uDEFydGljdWxhdGlvbgxBcnRpY3VsYXRpb25kAgMPZBYCZg8VBAIxNBVBdWRpdG9yeSUyMFByb2Nlc3NpbmcVQXVkaXRvcnklMjBQcm9jZXNzaW5nE0F1ZGl0b3J5IFByb2Nlc3NpbmdkAgQPZBYCZg8VBAIxNgZBdXRpc20GQXV0aXNtBkF1dGlzbWQCBQ9kFgJmDxUEAjE3EEJhc2ljJTIwQ29uY2VwdHMQQmFzaWMlMjBDb25jZXB0cw5CYXNpYyBDb25jZXB0c2QCBg9kFgJmDxUEAjE5D0JpbGluZ3VhbCUyMEVTTA9CaWxpbmd1YWwlMjBFU0wNQmlsaW5ndWFsL0VTTGQCBw9kFgJmDxUEBDI5NzQTQ3JpdGljYWwlMjBUaGlua2luZxNDcml0aWNhbCUyMFRoaW5raW5nEUNyaXRpY2FsIFRoaW5raW5nZAIID2QWAmYPFQQCMjITRGVzY3JpYmluZyUyMFNraWxscxNEZXNjcmliaW5nJTIwU2tpbGxzEURlc2NyaWJpbmcgU2tpbGxzZAIJD2QWAmYPFQQCMjMORWFybHklMjBTa2lsbHMORWFybHklMjBTa2lsbHMMRWFybHkgU2tpbGxzZAIKD2QWAmYPFQQCNzIURmluZSUyMEdyb3NzJTIwTW90b3IURmluZSUyMEdyb3NzJTIwTW90b3IQRmluZS9Hcm9zcyBNb3RvcmQCCw9kFgJmDxUEAjI0B0ZsdWVuY3kHRmx1ZW5jeQdGbHVlbmN5ZAIMD2QWAmYPFQQCMjULRnVuJTIwRGVja3MLRnVuJTIwRGVja3MJRnVuIERlY2tzZAIND2QWAmYPFQQCMjYFR2FtZXMFR2FtZXMFR2FtZXNkAg4PZBYCZg8VBAIyNxZHcmFtbWFyJTIwYW5kJTIwU3ludGF4FkdyYW1tYXIlMjBhbmQlMjBTeW50YXgSR3JhbW1hciBhbmQgU3ludGF4ZAIPD2QWAmYPFQQCMjgfSGVhcmluZyUyMGFuZCUyMFNpZ24lMjBMYW5ndWFnZR9IZWFyaW5nJTIwYW5kJTIwU2lnbiUyMExhbmd1YWdlGUhlYXJpbmcgYW5kIFNpZ24gTGFuZ3VhZ2VkAhAPZBYCZg8VBAIyOQhMYW5ndWFnZQhMYW5ndWFnZQhMYW5ndWFnZWQCEQ9kFgJmDxUEBDM4MTUNTGluZ3Vpc3lzdGVtcw1MaW5ndWlzeXN0ZW1zDUxpbmd1aXN5c3RlbXNkAhIPZBYCZg8VBAIzMh9NYXRoJTIwJTIwTW9uZXklMjAlMjBhbmQlMjBNb3JlH01hdGglMjAlMjBNb25leSUyMCUyMGFuZCUyME1vcmUVTWF0aCwgTW9uZXksIGFuZCBNb3JlZAITD2QWAmYPFQQEMzI2OA1Nb2JpbGUlMjBBUFBzDU1vYmlsZSUyMEFQUHMLTW9iaWxlIEFQUHNkAhQPZBYCZg8VBAIzMwxNb3RpdmF0aW9uYWwMTW90aXZhdGlvbmFsDE1vdGl2YXRpb25hbGQCFQ9kFgJmDxUEAjY1Fk9jY3VwYXRpb25hbCUyMFRoZXJhcHkWT2NjdXBhdGlvbmFsJTIwVGhlcmFweRRPY2N1cGF0aW9uYWwgVGhlcmFweWQCFg9kFgJmDxUEAjM1DE9yYWwlMjBNb3RvcgxPcmFsJTIwTW90b3IKT3JhbC1Nb3RvcmQCFw9kFgJmDxUEAjM2GFBob25pY3MlMjBhbmQlMjBTcGVsbGluZxhQaG9uaWNzJTIwYW5kJTIwU3BlbGxpbmcUUGhvbmljcyBhbmQgU3BlbGxpbmdkAhgPZBYCZg8VBAIzNxhQaG9ub2xvZ2ljYWwlMjBBd2FyZW5lc3MYUGhvbm9sb2dpY2FsJTIwQXdhcmVuZXNzFlBob25vbG9naWNhbCBBd2FyZW5lc3NkAhkPZBYCZg8VBAIzOAlQaG9ub2xvZ3kJUGhvbm9sb2d5CVBob25vbG9neWQCGg9kFgJmDxUEAjQwFFF1ZXN0aW9uaW5nJTIwU2tpbGxzFFF1ZXN0aW9uaW5nJTIwU2tpbGxzElF1ZXN0aW9uaW5nIFNraWxsc2QCGw9kFgJmDxUEAjQxB1JlYWRpbmcHUmVhZGluZwdSZWFkaW5nZAIcD2QWAmYPFQQCNzkcUmVzcG9uc2UlMjB0byUyMEludGVydmVudGlvbhxSZXNwb25zZSUyMHRvJTIwSW50ZXJ2ZW50aW9uGFJlc3BvbnNlIHRvIEludGVydmVudGlvbmQCHQ9kFgJmDxUEAjY2FVNlbnNvcnklMjBJbnRlZ3JhdGlvbhVTZW5zb3J5JTIwSW50ZWdyYXRpb24TU2Vuc29yeSBJbnRlZ3JhdGlvbmQCHg9kFgJmDxUEAjQ1ClNlcXVlbmNpbmcKU2VxdWVuY2luZwpTZXF1ZW5jaW5nZAIfD2QWAmYPFQQCNDcPU0xQJTIwUmVzb3VyY2VzD1NMUCUyMFJlc291cmNlcw1TTFAgUmVzb3VyY2VzZAIgD2QWAmYPFQQCNDgPU29jaWFsJTIwU2tpbGxzD1NvY2lhbCUyMFNraWxscw1Tb2NpYWwgU2tpbGxzZAIhD2QWAmYPFQQCNTYIU29mdHdhcmUIU29mdHdhcmUIU29mdHdhcmVkAiIPZBYCZg8VBAIyNBdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRVTdHV0dGVyaW5nL0R5c2ZsdWVuY3lkAiMPZBYCZg8VBAI1MBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBZTdXBwbGllcyBhbmQgRXF1aXBtZW50ZAIkD2QWAmYPFQQCNTEFVGVzdHMFVGVzdHMFVGVzdHNkAiUPZBYCZg8VBAI1MgpWb2NhYnVsYXJ5ClZvY2FidWxhcnkKVm9jYWJ1bGFyeWQCJg9kFgJmDxUEAjUzBVZvaWNlBVZvaWNlBVZvaWNlZAIGDxYCHwJoZAIHDxYCHwJoZAIKD2QWAgIBDxYCHwJoZAIDD2QWBAIDDxYCHwJoZAIFDxYCHwJoZAIHD2QWBgIDDxYCHwMFESQ3NSBNaW5pbXVtIE9yZGVyZAIEDxYCHwEFMmh0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4ZAIFDxYCHwJoZGTnWY6strIdgL4I6h6surUsBJcElyzgEs8RwuQES78MBg==">
+                            <form method="post" action="./privacy.aspx" id="MainContentForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYEAgEPZBYCAgQPFgIeB2NvbnRlbnQFWFJldmlldyBTdXBlciBEdXBlcidzIFByaXZhY3kgUG9saWN5LiBXZSBhcmUgZGVlcGx5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHlvdXIgcHJpdmFjeSFkAgMPZBYGAgEPZBYIAgEPFgQeBGhyZWYFP2h0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4P2xpZD05Qzk4OUNDNh4HVmlzaWJsZWdkAgIPDxYCHgRUZXh0ZWRkAgQPFgIfAmdkAgUPZBYOAgEPFgIfAmhkAgIPFgIfAmhkAgMPFgIfAmhkAgQPFgIeC18hSXRlbUNvdW50AicWTmYPZBYCZg8VBAIxNQNBQUMDQUFDA0FBQ2QCAQ9kFgJmDxUEAjEyB0FwcmF4aWEHQXByYXhpYQdBcHJheGlhZAICD2QWAmYPFQQCMTMMQXJ0aWN1bGF0aW9uDEFydGljdWxhdGlvbgxBcnRpY3VsYXRpb25kAgMPZBYCZg8VBAIxNBVBdWRpdG9yeSUyMFByb2Nlc3NpbmcVQXVkaXRvcnklMjBQcm9jZXNzaW5nE0F1ZGl0b3J5IFByb2Nlc3NpbmdkAgQPZBYCZg8VBAIxNgZBdXRpc20GQXV0aXNtBkF1dGlzbWQCBQ9kFgJmDxUEAjE3EEJhc2ljJTIwQ29uY2VwdHMQQmFzaWMlMjBDb25jZXB0cw5CYXNpYyBDb25jZXB0c2QCBg9kFgJmDxUEAjE5D0JpbGluZ3VhbCUyMEVTTA9CaWxpbmd1YWwlMjBFU0wNQmlsaW5ndWFsL0VTTGQCBw9kFgJmDxUEBDI5NzQTQ3JpdGljYWwlMjBUaGlua2luZxNDcml0aWNhbCUyMFRoaW5raW5nEUNyaXRpY2FsIFRoaW5raW5nZAIID2QWAmYPFQQCMjITRGVzY3JpYmluZyUyMFNraWxscxNEZXNjcmliaW5nJTIwU2tpbGxzEURlc2NyaWJpbmcgU2tpbGxzZAIJD2QWAmYPFQQCMjMORWFybHklMjBTa2lsbHMORWFybHklMjBTa2lsbHMMRWFybHkgU2tpbGxzZAIKD2QWAmYPFQQCNzIURmluZSUyMEdyb3NzJTIwTW90b3IURmluZSUyMEdyb3NzJTIwTW90b3IQRmluZS9Hcm9zcyBNb3RvcmQCCw9kFgJmDxUEAjI0B0ZsdWVuY3kHRmx1ZW5jeQdGbHVlbmN5ZAIMD2QWAmYPFQQCMjULRnVuJTIwRGVja3MLRnVuJTIwRGVja3MJRnVuIERlY2tzZAIND2QWAmYPFQQCMjYFR2FtZXMFR2FtZXMFR2FtZXNkAg4PZBYCZg8VBAIyNxZHcmFtbWFyJTIwYW5kJTIwU3ludGF4FkdyYW1tYXIlMjBhbmQlMjBTeW50YXgSR3JhbW1hciBhbmQgU3ludGF4ZAIPD2QWAmYPFQQCMjgfSGVhcmluZyUyMGFuZCUyMFNpZ24lMjBMYW5ndWFnZR9IZWFyaW5nJTIwYW5kJTIwU2lnbiUyMExhbmd1YWdlGUhlYXJpbmcgYW5kIFNpZ24gTGFuZ3VhZ2VkAhAPZBYCZg8VBAIyOQhMYW5ndWFnZQhMYW5ndWFnZQhMYW5ndWFnZWQCEQ9kFgJmDxUEBDM4MTUNTGluZ3Vpc3lzdGVtcw1MaW5ndWlzeXN0ZW1zDUxpbmd1aXN5c3RlbXNkAhIPZBYCZg8VBAIzMh9NYXRoJTIwJTIwTW9uZXklMjAlMjBhbmQlMjBNb3JlH01hdGglMjAlMjBNb25leSUyMCUyMGFuZCUyME1vcmUVTWF0aCwgTW9uZXksIGFuZCBNb3JlZAITD2QWAmYPFQQEMzI2OA1Nb2JpbGUlMjBBUFBzDU1vYmlsZSUyMEFQUHMLTW9iaWxlIEFQUHNkAhQPZBYCZg8VBAIzMwxNb3RpdmF0aW9uYWwMTW90aXZhdGlvbmFsDE1vdGl2YXRpb25hbGQCFQ9kFgJmDxUEAjY1Fk9jY3VwYXRpb25hbCUyMFRoZXJhcHkWT2NjdXBhdGlvbmFsJTIwVGhlcmFweRRPY2N1cGF0aW9uYWwgVGhlcmFweWQCFg9kFgJmDxUEAjM1DE9yYWwlMjBNb3RvcgxPcmFsJTIwTW90b3IKT3JhbC1Nb3RvcmQCFw9kFgJmDxUEAjM2GFBob25pY3MlMjBhbmQlMjBTcGVsbGluZxhQaG9uaWNzJTIwYW5kJTIwU3BlbGxpbmcUUGhvbmljcyBhbmQgU3BlbGxpbmdkAhgPZBYCZg8VBAIzNxhQaG9ub2xvZ2ljYWwlMjBBd2FyZW5lc3MYUGhvbm9sb2dpY2FsJTIwQXdhcmVuZXNzFlBob25vbG9naWNhbCBBd2FyZW5lc3NkAhkPZBYCZg8VBAIzOAlQaG9ub2xvZ3kJUGhvbm9sb2d5CVBob25vbG9neWQCGg9kFgJmDxUEAjQwFFF1ZXN0aW9uaW5nJTIwU2tpbGxzFFF1ZXN0aW9uaW5nJTIwU2tpbGxzElF1ZXN0aW9uaW5nIFNraWxsc2QCGw9kFgJmDxUEAjQxB1JlYWRpbmcHUmVhZGluZwdSZWFkaW5nZAIcD2QWAmYPFQQCNzkcUmVzcG9uc2UlMjB0byUyMEludGVydmVudGlvbhxSZXNwb25zZSUyMHRvJTIwSW50ZXJ2ZW50aW9uGFJlc3BvbnNlIHRvIEludGVydmVudGlvbmQCHQ9kFgJmDxUEAjY2FVNlbnNvcnklMjBJbnRlZ3JhdGlvbhVTZW5zb3J5JTIwSW50ZWdyYXRpb24TU2Vuc29yeSBJbnRlZ3JhdGlvbmQCHg9kFgJmDxUEAjQ1ClNlcXVlbmNpbmcKU2VxdWVuY2luZwpTZXF1ZW5jaW5nZAIfD2QWAmYPFQQCNDcPU0xQJTIwUmVzb3VyY2VzD1NMUCUyMFJlc291cmNlcw1TTFAgUmVzb3VyY2VzZAIgD2QWAmYPFQQCNDgPU29jaWFsJTIwU2tpbGxzD1NvY2lhbCUyMFNraWxscw1Tb2NpYWwgU2tpbGxzZAIhD2QWAmYPFQQCNTYIU29mdHdhcmUIU29mdHdhcmUIU29mdHdhcmVkAiIPZBYCZg8VBAIyNBdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRVTdHV0dGVyaW5nL0R5c2ZsdWVuY3lkAiMPZBYCZg8VBAI1MBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBZTdXBwbGllcyBhbmQgRXF1aXBtZW50ZAIkD2QWAmYPFQQCNTEFVGVzdHMFVGVzdHMFVGVzdHNkAiUPZBYCZg8VBAI1MgpWb2NhYnVsYXJ5ClZvY2FidWxhcnkKVm9jYWJ1bGFyeWQCJg9kFgJmDxUEAjUzBVZvaWNlBVZvaWNlBVZvaWNlZAIGDxYCHwJoZAIHDxYCHwJoZAIKD2QWAgIBDxYCHwJoZAIDD2QWBAIDDxYCHwJoZAIFDxYCHwJoZAIHD2QWBAIDDxYCHwEFMmh0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4ZAIEDxYCHwJoZGRfI1lE1ljZVt7rJzR+u5yO7vYlpks3zSnNxabJN2dDjg==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLImIO/AQKz6ryWAzphj3o6fEo5fAILu9Bf3ZHae+SG3jzqFtHwl977lSlt">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLt/vbyAgKz6ryWAz0Yu6SV2DVwbSXMjym8nuoQHisuUgE78+Xq3ZT5RPdN">
                                 
     <div class="minContentPadding" style="text-align:center;"><img src="/images/pageHeading/privacyPolicy.jpg" alt="Privacy Policy" width="632" height="118"></div>
     <div class="contentnon" style="margin-top: 15px;">We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to Super Duper Inc.. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse, and alteration of data used by our system. Any information given to us will never be rented or sold to third parties. We understand the importance of personal information security and are committed to personal privacy on the Internet.</div>
@@ -731,8 +769,8 @@
 <div style="clear: both;"></div>
 <div id="footer">
     <div style="margin-bottom: -5px; padding-top: 1px;">
-        <div style="float: left; width: 165px; text-align: center;">
-            <div style="width: 165px;">
+        <div style="float:left;width:165px;text-align:center;">
+            <div style="width:165px;">
                 <center>
                     
 <!-- START SCANALERT CODE -->
@@ -741,15 +779,11 @@
 
                 </center>
             </div>
-            <div style="width: 165px;">
-                <img src="/images/widerLayout/footer/creditCards2.png" alt="Credit Cards" width="150" height="107"></div>
-            <!--<div style="padding-bottom: 10px;text-align:center;">
-                    <a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/logo/PayPal_mark_60x38.gif" border="0" alt="Acceptance Mark" /></a></div>-->
+            <div style="width:165px;"><img src="/images/widerLayout/footer/creditCards2.png" alt="Credit Cards" width="150" height="107"></div>            
         </div>
-        <div style="padding: 0 300px;">
+        <div style="float:right;text-align:center;padding:25px 100px;">
             <div id="footerspeedy">
-                <div id="footergirl">
-                    <img src="/images/widerLayout/home/ssgirlrunning.gif" alt="Running Girl" width="60" height="54"></div>
+                <div id="footergirl"><img src="/images/widerLayout/home/ssgirlrunning.gif" alt="Running Girl" width="60" height="54"></div>
                 <div id="footersignup">
                     <table border="0" cellpadding="0" cellspacing="0">
                         <tbody><tr id="Tr1">
@@ -766,22 +800,14 @@
                             </td>
 </tr>
 
-
                     </tbody></table>
                 </div>
-                <div id="footerunsubscribe">
-                    <a href="https://www.superduperinc.com/Email/RemoveEmail.aspx">Unsubscribe here.</a></div>
-                <div id="footerdisclaimer">
-                    We never sell/share your email address</div>
+                <div id="footerunsubscribe"><a href="https://www.superduperinc.com/Email/RemoveEmail.aspx">Unsubscribe here.</a></div>
+                <div id="footerdisclaimer">We never sell/share your email address</div>
             </div>
         </div>
-        <div style="display:none;">
-            <img src="/images/widerLayout/footer/freeShippingFooter.gif" alt="Free Shipping" width="243" height="77">
-            <!--<span class="footerLargeBlue"><br />Standard Delivery</span><span class="footerLargeRed"><br />
-                        $75 Minimum Order</span>-->
-        </div>
-        <div style="clear: both;">
-        </div>
+        <div style="clear: both;"></div>
+
         <div style="margin-bottom: -10px;">
             <hr size="2" color="#FF0000">
             <table width="100%">
@@ -863,9 +889,7 @@
                             <tr>
                                 <td><span class="footer_body"><a href="/products/systemrequirements.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'System Requirements']);">System Requirements</a></span></td>
                             </tr>
-                            <tr>
-                                <td><span class="footer_body"><a href="/TP/default.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'Univ Desk Copy']);">Univ Desk Copy</a></span></td>
-                            </tr>
+                            
                             <tr>
                                 <td><span class="footer_body"><a href="/Products/whatsNew.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'What\'s New']);">What's New</a></span></td>
                             </tr>
@@ -937,10 +961,10 @@
                                 <td class="footer_body"><a href="/about/privacy.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'Privacy Policy']);">Privacy Policy</a></td>
                             </tr>
                             <tr>
-                                <td class="footer_body"><a href="/Employment/default.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'SD Jobs']);">SD Jobs</a></td>
+                                <td class="footer_body"><a href="/Employment/default.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'SD Jobs']);">Super Duper Jobs</a></td>
                             </tr>
                             <tr>
-                                <td class="footer_body"><a href="/landing/student.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'SD Jobs']);">Students</a></td>
+                                <td class="footer_body"><a href="/landing/student.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'Students']);">Students</a></td>
                             </tr>
                             <tr>
                                 <td class="footer_body"><a href="/Email/superSpeedy.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'Super Speedy']);">Super Speedy</a></td>
