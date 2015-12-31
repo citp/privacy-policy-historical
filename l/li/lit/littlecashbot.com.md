@@ -1,81 +1,80 @@
-> *The following text is extracted and transformed from the littlecashbot.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501233538id_/http%3A//littlecashbot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlecashbot.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-**HOW WE PROTECT YOUR PRIVACY**
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+**What information do we collect?**
 
-**MINORS**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
+**What do we use your information for?**
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website littlematically records this basic information about you.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
+• To process transactions
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**WHAT WE DO WITH YOUR INFORMATION**
+• To send periodic emails
 
-We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
+**How do we protect your information?**
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**USER NAMES AND PASSWORDS**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+**Do we use cookies?**
 
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+**Do we disclose any information to outside parties?**
 
-**AUTORESPONDERS**
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each littleresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]littleCashBot.com, or sending us mail to the address listed below. 
+**Online Privacy Policy Only**
 
-**POLICY CHANGES**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+**Terms and Conditions**
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support[at]littleCashBot.com and providing us with information relating to your concern.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-You may also mail your concerns to us at the following address:
+**Your Consent**
 
-lcb  
-326 E. 72nd Street  
-New York, NY 10021  
-United States 
+By using our site, you consent to our web site privacy policy. 
 
-**CALIFORNIA PRIVACY RIGHTS**
+**Changes to our Privacy Policy**
 
-If you are a California resident and our customer, Cal. Civ. Code � 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]littleCashBot.com or write us at the following address:
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-lcb  
-326 E. 72nd Street  
-New York, CA 10021  
-United States Of America
+This policy was last modified on 1/10/2012 
 
-This privacy policy was last updated on 8-10-11
+**Contacting Us**
 
-Copyright � 2011 lcb, and licensed for use by the owner of this website at littleCashBot.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
