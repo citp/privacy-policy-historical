@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the dealwifi.com privacy policy that was archived on 2015-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516002207id_/http%3A//dealwifi.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealwifi.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231234037id_/http%3A//dealwifi.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
     <meta charset="UTF-8">
     <title>Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-			<link rel="icon" href="http://img.rafomedia.com/dealwifi/images/favicon.ico" type="image/x-icon">
-		<link rel="shortcut icon" href="http://img.rafomedia.com/dealwifi/images/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="css/main.css?version=3">
+    <link rel="icon" href="http://img.rafomedia.com/dealwifi/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://img.rafomedia.com/dealwifi/images/favicon.ico" type="image/x-icon">
     <style type="text/css">
         @charset "utf-8";
         /* CSS Document */
@@ -102,8 +102,7 @@
         <h1>Privacy Policy</h1>
         <article id="Contact Us">
             <section>
-                <p>THIS PRIVACY STATEMENT EXPLAINS THE INFORMATION, COLLECTION AND USE POLICIES OF RAFO TECHNOLOGY INC. AND ANY OF ITS AFFILIATED COMPANIES ("<span style="font-weight: 700">RAFO TECHNOLOGY</span>", “<span style="font-weight: 700">WE</span>” or “<span style="font-weight: 700">US</span>”) WITH RESPECT TO THE WEBSITES, SERVICES, PRODUCTS, TECHNOLOGY, SOFTWARE AND/OR SOFTWARE COMPONENTS (COLLECTIVELY, THE "<span style="font-weight: 700">SOFTWARE &amp;&nbsp;SERVICES</span>") OF RAFO TECHNOLOGY THAT YOU INSTALL, USE, ACCESS OR INTERACT WITH ("<span style="font-weight: 700">USE</span>"), BUT EXCLUDES SOFTWARE AND/OR SERVICES THAT HAVE SEPARATE PRIVACY POLICIES THAT DO NOT INCORPORATE THIS PRIVACY POLICY. BY INSTALLING, USING, ACCESSING AND INTERACTING WITH THE SOFTWARE &amp; SERVICES, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. RAFO TECHNOLOGY IS COMMITTED TO PRESERVING THE PRIVACY OF ITS USERS. THIS PRIVACY STATEMENT EXPLAINS WHAT INFORMATION WE MAY COLLECT AND HOW WE MAY USE IT.<br>
-                    IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SOFTWARE &amp; SERVICES.&nbsp;</p>
+                <p>THIS PRIVACY STATEMENT EXPLAINS THE INFORMATION, COLLECTION AND USE POLICIES OF RAFO TECHNOLOGY INC. AND ANY OF ITS AFFILIATED COMPANIES ("RAFO TECHNOLOGY", “WE” or “US”) WITH RESPECT TO THE WEBSITES, SERVICES, PRODUCTS, TECHNOLOGY, SOFTWARE AND/OR SOFTWARE COMPONENTS (COLLECTIVELY, THE "SOFTWARE &amp;&nbsp;SERVICES") OF RAFO TECHNOLOGY THAT YOU INSTALL, USE, ACCESS OR INTERACT WITH ("USE"), BUT EXCLUDES SOFTWARE AND/OR SERVICES THAT HAVE SEPARATE PRIVACY POLICIES THAT DO NOT INCORPORATE THIS PRIVACY POLICY. BY INSTALLING, USING, ACCESSING AND INTERACTING WITH THE SOFTWARE &amp; SERVICES, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. RAFO TECHNOLOGY IS COMMITTED TO PRESERVING THE PRIVACY OF ITS USERS. THIS PRIVACY STATEMENT EXPLAINS WHAT INFORMATION WE MAY COLLECT AND HOW WE MAY USE IT.</p>
                 <p>By selecting "Set Deal WiFI as your homepage" checkbox on Deal WiFI installer primary notice, "Search App by Deal WiFI” extension will be installed to your Chrome.</p>
                 <h3>Information Collection and Use</h3>
                 <p>Our primary goals in collecting information are to provide and improve our service, the Application and features and content relating thereto (together, the Service) and to enable users to enjoy the Service. Information we collect may include:</p>
@@ -131,9 +130,48 @@
 </div>
 
 <!--footer-->
-		<div class="footer">
-			Copyright 2012-2015 RAFO TECHNOLOGY INC. All Rights Reserved<br>
-			<a href="./about.html">About</a>  |  <a href="./privacy.html">Privacy Policy</a>   |  <a href="./terms.html">Eula</a>   |  <a href="./uninstall.html">Uninstall Instructions</a> 
+<div class="footer">
+	<div class="text">
+		Copyright 2012-2015 RAFO TECHNOLOGY INC. All Rights Reserved<br>
+		<a href="./about.php">About</a>  |  <a href="./privacy.php">Privacy Policy</a>   |  <a href="./terms.php">Eula</a>   |  <a href="./uninstall_iffail.php">Uninstall Instruction</a>
+	</div>
+	<div class="flag">
+		<div class="language">
+			<a href="javascript:;" class="language_activ"><i class="lan-en"></i></a>
+			<div class="dropmenu_lan">
+				<ul class="language_selector_ul">
+					<li><a href="?l=en" lang="en"><i class="lan-en"></i>English</a></li>
+					<li><a href="?l=de" lang="de"><i class="lan-de"></i>Deutsch</a></li>
+					<li><a href="?l=es" lang="es"><i class="lan-es"></i>Español</a></li>
+					<li><a href="?l=fr" lang="fr"><i class="lan-fr"></i>Français</a></li>
+					<li><a href="?l=it" lang="it"><i class="lan-it"></i>Italiano</a></li>
+				</ul>
+			</div>
 		</div>
+	</div>
+</div>
 
+<script type="text/javascript" src="http://img.rafomedia.com/dealwifi/js/jquery.min.js"></script>
+<script>
+	(function($) {
+		/* 语言切换 */
+		var 
+			re = null,
+			$language = $('.language'),
+			$dropmenu_lan = $language.find('.dropmenu_lan'),
+			$selector = $('.language_selector_ul a');
+
+		$language.hover(function() {
+			if (re) {
+				clearTimeout(re);
+				re = null;
+			}
+		    $dropmenu_lan.show();
+		}, function() {
+			re = setTimeout(function() {
+				$dropmenu_lan.hide();
+			}, 200);
+		});
+	}(jQuery));
+</script>
 </body></html>
