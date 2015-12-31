@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201330id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231231622id_/http%3A//citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
