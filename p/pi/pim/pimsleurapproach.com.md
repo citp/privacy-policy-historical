@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pimsleurapproach.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145745id_/http%3A//www.pimsleurapproach.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimsleurapproach.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052532id_/https%3A//www.pimsleurapproach.com/legal/privacy-policy-new) for the most accurate reproduction.*
 
 # Privacy Policy | Pimsleur Approach™
 
-This Privacy Policy is Effective as of April 5, 2012.
+This Privacy Policy is Effective as of August 11, 2015.
 
 ## Privacy Practices for Our Website
 
@@ -41,8 +41,6 @@ For more information about cookies and web beacons please visit <http://www.alla
 ## Third Party Websites
 
 This Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from those of Internet Order LLC. While we endeavor to associate only with reputable entities, Internet Order LLC cannot be responsible for the privacy practices of third party websites. We encourage you to check the privacy policies (which may include separate "un-subscribe" procedures) of all websites that you visit.
-
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to create a better experience for our customers. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 ## Minors
 
