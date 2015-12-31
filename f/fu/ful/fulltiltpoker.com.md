@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622064806id_/http%3A//www.fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231021933id_/http%3A//www.fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
