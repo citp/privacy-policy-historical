@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052949id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231011305id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Goibibo
 
