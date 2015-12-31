@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531025905id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231102604id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy by MageWorld
+# Privacy Policy
 
 ### Privacy Statement
 
@@ -13,6 +13,12 @@ We will only collect personally identifiable information (such as name, title, c
 ### Use of Information
 
 Before we collect any personally identifiable information, we will provide you with an explanation of any possible uses of your data. The information you supply will be used by us to send you any requested information of the products and services, fulfill your orders and respond to your inquiries. We may also use the information to inform you about new features, products or services if you explicitly instructed us to do so.
+
+### How we protect and store personal information
+
+We commit to protect personal information. We store your information on our secured server. We use SSL for the checkout process which help you keep your billing information safe. No credit card information is saved on our system. We don’t share your personal information with any other third parties.
+
+You can always trust when doing business with MageWorld, we always try our best to procted our customers.
 
 ### Other Important Information
 
