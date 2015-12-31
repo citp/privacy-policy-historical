@@ -1,175 +1,310 @@
-<!--The following is the downloaded HTML source of the boingboing.net privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226102806id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boingboing.net privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231010240id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <title>Boing Boing Privacy Policy - Boing Boing</title>
-    <meta charset="utf-8">
-    <meta property="twitter:account_id" content="5971922">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
-        <!--[if lt IE 9]>   <link rel="stylesheet" href="http://boingboing.net/wp-content/themes/2012/style_IE.css?v=3" type="text/css" charset="utf-8" /><![endif]-->
+<!DOCTYPE html><html lang="en-US"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Boing Boing Privacy Policy / Boing Boing</title>
 
-    <meta property="fb:admins" content="1219680052">
-    <meta property="og:site_name" content="Boing Boing">
-    <link rel="apple-touch-icon" href="http://boingboing.net/wp-content/themes/2012/sundries/apple-touch-icon.png">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://edge.quantserve.com/quant.js"></script><script type="text/javascript" async="" src="https://pixel.quantserve.com/seg/p-9dsZX-5zhUuTg.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
-    <!-- bb common javascript -->
-    <script type="text/javascript" src="http://boingboing.net/wp-content/themes/2012/boingboing-head.js?v=1"></script>
+<meta name="viewport" content="initial-scale=1">
+<meta property="twitter:account_id" content="5971922">
+<meta property="fb:admins" content="1219680052">
+<meta property="og:site_name" content="Boing Boing">
 
-    <!-- Begin DoubleClick For Publishers code -->
+<link rel="apple-touch-icon" href="http://media.boingboing.net/wp-content/themes/bng/i/apple-touch-icon.png">     
+
+<script async="" src="//cdn.teads.tv/media/format.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Raleway:600,800,400','Libre+Baskerville:400,700,400italic']
+    }
+  });
+</script>
+
+<script src="//assets.vidora.com/js/boingboing.59286bf730e44172.js"></script>
+
+<link rel="stylesheet" href="http://media.boingboing.net/wp-content/themes/bng/style.css?=v1" type="text/css" media="all">
+
+ 
+	<meta property="og:image" content="http://media.boingboing.net/wp-content/themes/bng/i/placeholder.png">
+	<meta property="og:type" content="blog">
+		
+<script src="https://boingboing.net/js/pubfood.min.js"></script>
 <script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
+var DFPGPTPassback = (function() {
+  var slots = {};
+  return {
+    slots: slots,
+    init: function() {
+      var proxied = googletag.defineSlot;
+      googletag.defineSlot = function() {
+        var slot = proxied.apply(this, arguments);
+        slots[slot.getSlotElementId()] = slot;
+        return slot;
+      };
+    },
+    passback: function(iframeName, passback) {
+      var container = document.getElementById(iframeName + '__container__');
+        var iframeParent = container.parentNode;
+        var slotId = iframeParent.id;
+        if( ! slots.hasOwnProperty(slotId) ) {
+          slots[slotId] = {};
+        }
+        var slot = slots[slotId];
+        if( ! slot.hasOwnProperty('passbacks') ) {
+          slot.passbacks = [];
+        }
+        slot.passbacks.push(passback);
+        slot.setTargeting('passback', slot.passbacks);
+        googletag.pubads().refresh([slot]);
+    }
+  };
 })();
-</script>
+function checkWidth() {
+    var w = window, d = document, e = d.documentElement, x = Math.max(e.scrollWidth, e.offsetWidth, e.clientWidth);
+    return x;
+}
+var responsiveAdSize = function() {
+    if( (document.documentElement.clientWidth || document.body.clientWidth) < 600) {return 'small';}
+    if( (document.documentElement.clientWidth || document.body.clientWidth) < 970) {return 'medium';}
+    return 'large';
+}();
+var pf = new pubfood();
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+var gptAdSlots = [];
+var ybotq = ybotq || [];
+var responsiveAdSizes = {
+    'leaderboard':    {'small':  [[320, 100], [320, 50], [300, 50]],   'medium': [[728, 90]],                                      'large':  [[728, 90], [970, 90], [970, 250]]},
+    'leaderboard2':   {'small':  [[300, 50]],                          'medium': [[728, 90]],                                      'large':  [[728, 90], [970, 90], [970, 250]]},
+    'largeRectangle': {'small':  [[300, 250]],                         'medium': [[300, 250], [300, 600]],                         'large':  [[300, 250], [300, 600]]},
+    'smallRectangle': {'small':  [[300, 250], [125, 125], [125, 275]], 'medium': [[300, 250], [300, 600], [125, 125], [125, 275]], 'large':  [[300, 250], [300, 600], [125, 125], [125, 275]]}
+};
+var pfSlots = {
+    // need PHP logic here to only output the right ad units for each page type
+    // so "Homepage_" prefixed units should only appear on the homepage etc
+    
+    
+            
+     '/6203160/Blog_Leaderboard':                      {name: '/6203160/Blog_Leaderboard',                      elementId: 'div-gpt-ad-blog_leaderboard',                      sizes: responsiveAdSizes['leaderboard'],    bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_300x600_1':                {name: '/6203160/Blog_300x250_300x600_1',                elementId: 'div-gpt-ad-blog_300x250_300x600_1',                sizes: responsiveAdSizes['largeRectangle'], bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_300x600_2':                {name: '/6203160/Blog_300x250_300x600_2',                elementId: 'div-gpt-ad-blog_300x250_300x600_2',                sizes: responsiveAdSizes['largeRectangle'], bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_125x125_125x275':          {name: '/6203160/Blog_300x250_125x125_125x275',          elementId: 'div-gpt-ad-blog_300x250_125x125_125x275',          sizes: responsiveAdSizes['smallRectangle'], bidProviders: ['yieldbot']}
 
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/6203160/400x300_home_footer', [[400, 267], [300, 250]], 'div-gpt-ad-1348031780431-0').setCollapseEmptyDiv(true).addService(googletag.pubads());
- googletag.defineSlot('/6203160/300x250_temp_top_sidebar', [300, 250], 'div-gpt-ad-1388426870729-0').setCollapseEmptyDiv(true).addService(googletag.pubads());
-googletag.defineSlot('/6203160/Native_Unit', [650, 300], 'div-gpt-ad-1393198366505-0').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-googletag.defineSlot('/6203160/300x300_ad_squares', [[300, 300], [300, 445]], 'div-gpt-ad-1380176923751-0').addService(googletag.pubads());
-googletag.defineSlot('/6203160/t-shirt_spot', [[300, 250], [300, 300]], 'div-gpt-ad-1370650996554-0').addService(googletag.pubads());
-googletag.defineSlot('/6203160/320x50', [[320, 50], [300, 50]], 'div-gpt-ad-1356214036289-0').addService(googletag.pubads());
-// googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
-
-    <!-- End DoubleClick For Publishers Code -->
-
-            <link rel="stylesheet" href="http://boingboing.net/wp-content/themes/2012/style.css?v=38" type="text/css" charset="utf-8">
 
     
-	<meta property="og:image" content="http://boingboing.net/wp-content/themes/2012/sundries/logo-thumbnail-default.png">
-	<meta property="og:type" content="blog">
+};
+pf.observe('AUCTION_POST_RUN', function() {
+    // need PHP logic here to only output the right ad units for each page type
+    // so "Homepage_" prefixed units should only appear on the homepage etc
+    
+    
+               '/6203160/Blog_Leaderboard':                      {name: '/6203160/Blog_Leaderboard',                      elementId: 'div-gpt-ad-blog_leaderboard',                      sizes: responsiveAdSizes['leaderboard'],    bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_300x600_1':                {name: '/6203160/Blog_300x250_300x600_1',                elementId: 'div-gpt-ad-blog_300x250_300x600_1',                sizes: responsiveAdSizes['largeRectangle'], bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_300x600_2':                {name: '/6203160/Blog_300x250_300x600_2',                elementId: 'div-gpt-ad-blog_300x250_300x600_2',                sizes: responsiveAdSizes['largeRectangle'], bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_125x125_125x275':          {name: '/6203160/Blog_300x250_125x125_125x275',          elementId: 'div-gpt-ad-blog_300x250_125x125_125x275',          sizes: responsiveAdSizes['smallRectangle'], bidProviders: ['yieldbot']}
 
-<link rel="alternate" type="application/rss+xml" title="Boing Boing » Boing Boing Privacy&nbsp;Policy Comments Feed" href="http://boingboing.net/privacy/feed">
-<link rel="stylesheet" id="discourse_comments-css" href="http://boingboing.net/wp-content/plugins/wp-discourse/css/style.css?ver=4.0" type="text/css" media="all">
-<link rel="stylesheet" id="kindle-style-css" href="http://boingboing.net/wp-content/plugins/sendtokindle/media/kindle.css?ver=4.0" type="text/css" media="all">
-<script type="text/javascript" src="http://cdn.embedly.com/widgets/platform.js?ver=4.0"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function k(){window.$SendToKindle&&window.$SendToKindle.Widget?$SendToKindle.Widget.init({"title":".entry-title","published":".entry-date","content":".post","exclude":".sharedaddy"}):setTimeout(k,500);})();
-/* ]]> */
+         
+
+    
+});
+for(key in pfSlots) {
+    pfSlot = pfSlots[key];
+    pf.addSlot({name: pfSlot.name, elementId: pfSlot.elementId, sizes: pfSlot.sizes[responsiveAdSize], bidProviders: pfSlot.bidProviders});
+}
+// Yieldbot-specific setup
+var ybotSlotParams = {};
+if( responsiveAdSize == 'small' ) {
+    ybotSlotParams = {
+        "/6203160/Homepage_Leaderboard":             "MLB",
+        "/6203160/Homepage_300x250_300x600_1":       "mobrec",
+        "/6203160/Blog_Leaderboard":                 "MLB",
+        "/6203160/Blog_300x250_300x600_1":           "mobrec",
+        "/6203160/Feature_Leaderboard":              "MLB",
+        "/6203160/Feature_300x250_300x600":          "mobrec",
+        "/6203160/Offworld_Leaderboard":             "MLB",
+        "/6203160/Offworld_300x250_300x600_1":       "mobrec",
+        "/6203160/Forum_Leaderboard":                "MLB"
+    };
+} else {
+    ybotSlotParams = {
+        "/6203160/Homepage_Leaderboard":             "leaderboard",
+        "/6203160/Homepage_300x250_300x600_1":       "SB",
+        "/6203160/Homepage_300x250_300x600_2":       "SB2",
+        "/6203160/Homepage_300x250_125x125_125x275": "rec",
+        "/6203160/Blog_Leaderboard":                 "leaderboard",
+        "/6203160/Blog_300x250_300x600_1":           "SB",
+        "/6203160/Blog_300x250_300x600_2":           "SB2",
+        "/6203160/Blog_300x250_125x125_125x275":     "rec",
+        "/6203160/Feature_Leaderboard":              "leaderboard",
+        "/6203160/Feature_300x250_300x600":          "SB",
+        "/6203160/Feature_300x250_125x125_125x275":  "rec",
+        "/6203160/Offworld_Leaderboard":             "leaderboard",
+        "/6203160/Offworld_300x250_300x600_1":       "SB",
+        "/6203160/Offworld_300x250_300x600_2":       "SB2",
+        "/6203160/Offworld_300x250_125x125_125x275": "rec",
+        "/6203160/Forum_Leaderboard":                "leaderboard"
+    };
+}
+pf.addBidProvider({
+    name: 'yieldbot',
+    libUri: 'http://cdn.yldbt.com/js/yieldbot.intent.js',
+    init: function(slots, pushBid, done) {
+ 
+        var slotMap = {};
+        ybotq.push(function() {
+             var psn = responsiveAdSize == 'small' ? '5051' : '7882';
+             yieldbot.pub(psn);
+             for(var k = 0; k < slots.length; k++) {
+                 var slot = slots[k];
+                 if(slot.name in ybotSlotParams) {
+                     var ybslot = ybotSlotParams[slot.name];
+                     yieldbot.defineSlot(ybslot, {
+                       sizes: slot.sizes
+                     });
+                     slotMap[ybslot] = slot.name;
+                 }
+             }
+             yieldbot.enableAsync();
+             yieldbot.go();
+        });
+        ybotq.push(function() {
+            var pageCriteria = yieldbot.getPageCriteria();
+            var pageSlots = pageCriteria !== '' ? pageCriteria.split(',') : [];
+            for(var i = 0; i < pageSlots.length; i++) {
+                var slotInfo = pageSlots[i].split(':');
+                var slot = slotInfo[0];
+                var size = slotInfo[1];
+                var bid = 0;
+                if(slotInfo.length && slotInfo[2]) {
+                    bid = parseFloat(slotInfo[2], 10);
+                }
+                var sizes = size.split('x');
+                sizes[0] = parseInt(sizes[0], 10);
+                sizes[1] = parseInt(sizes[1], 10);
+                var bidObject = {
+                    slot: slotMap[slot] || 'undefined_slot',
+                    value: bid,
+                    sizes: sizes,
+                    targeting: {
+                        ybot_size: size,
+                        ybot_cpm: bid,
+                        ybot_ad: 'y',
+                        ybot_slot: slot
+                    }
+                };
+                pushBid(bidObject);
+            }
+            done();
+        });
+    },
+    refresh: function(slots, pushBid, done) {
+        // do nothing
+    }
+});
+pf.setAuctionProvider({
+    name: 'google',
+    libUri: 'http://www.googletagservices.com/tag/js/gpt.js',
+    init: function(targets, done) {
+
+        googletag.cmd.push(function() {
+            var i;
+            for(i=0; i<targets.length; i++) {
+                var slot = targets[i];
+                var gptSlot = googletag.defineSlot(slot.name, slot.sizes, slot.elementId).addService(googletag.pubads());
+                gptAdSlots[slot.elementId] = gptSlot;
+                for(var p in slot.targeting) {
+                    gptSlot.setTargeting(p, slot.targeting[p]);
+                }
+            }
+        });
+        googletag.cmd.push(function() {
+            googletag.enableServices();
+        });
+        done();
+    },
+    refresh: function (targets,done){
+        // do nothing
+    }
+});
+pf.timeout(3000)
+pf.observe(function(ev) {
+
+});
+var timeReference = +(new Date());
+var onStart = function(hasErrors, details) {
+    if(hasErrors) {
+
+    }
+};
+pf.start(timeReference, onStart);
 </script>
-<script type="text/javascript" src="http://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Boing Boing » Feed" href="http://boingboing.net/feed">
+<link rel="alternate" type="application/rss+xml" title="Boing Boing » Comments Feed" href="http://boingboing.net/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="Boing Boing » Boing Boing Privacy Policy Comments Feed" href="http://boingboing.net/privacy/feed">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/boingboing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://boingboing.net/wp-includes/js/wp-emoji-release.min.js?ver=4.2.4" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="jetpack_css-css" href="http://media.boingboing.net/wp-content/plugins/jetpack/css/jetpack.css?ver=3.6" type="text/css" media="all">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://boingboing.net/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://boingboing.net/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://media.boingboing.net/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.4">
 <link rel="canonical" href="http://boingboing.net/privacy">
 <link rel="shortlink" href="http://boingboing.net/?p=238808">
-<script type="text/javascript" src="http://boingboing.net/wp-content/plugins/oembed-manager/oembed-html-style-scripts.js?v=1"> </script><link rel="stylesheet" type="text/css" href="http://boingboing.net/wp-content/plugins/oembed-manager/oembed-html-style.css?v=1">    <script async="" type="text/javascript" src="http://boingboing.disqus.com/count.js"></script></head>
 
-<body class="page page-id-238808 page-template-default" itemscope="" itemtype="http://schema.org/Blog">
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<style type="text/css">img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Boing Boing Privacy Policy">
+<meta property="og:url" content="http://boingboing.net/privacy">
+<meta property="og:description" content="Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015) Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutants,” “We,” “Us”) which lives at boingboing.net (“Boing ...">
+<meta property="article:published_time" content="2013-06-27T16:16:11+00:00">
+<meta property="article:modified_time" content="2015-02-17T22:53:49+00:00">
+<meta property="og:site_name" content="Boing Boing">
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@boingboing">
+</head>
+<body class="page page-id-238808 page-template-default">
+    <!-- Header -->
+   
+         
+                   
 
-<div id="adskin"></div>
-
-<script type="text/javascript">
-    (function () {
-        var host_proto = (("https:" == document.location.protocol) ? "https://" : "http://");
-        // Quantcast
-        _qoptions = { tags: 'Entertainment', qacct: 'p-9dsZX-5zhUuTg' };
-        var __qc_req = document.createElement('script'); __qc_req.type = 'text/javascript'; __qc_req.async = true; __qc_req.src = host_proto +'pixel.quantserve.com/seg/' + _qoptions.qacct + '.js';
-        var __qcs = document.getElementsByTagName('script')[0]; __qcs.parentNode.insertBefore(__qc_req, __qcs);
-        var __qc_req2 = document.createElement('script'); __qc_req2.type = 'text/javascript'; __qc_req2.async = true; __qc_req2.src = host_proto +'edge.quantserve.com/quant.js';
-        var __qcs2 = document.getElementsByTagName('script')[0]; __qcs2.parentNode.insertBefore(__qc_req2, __qcs2);
-    })();
-</script>
-
-<!-- Federated Media Leaderboard ad at the top -->
-<div id="ad_leaderboard">
-    <script type="text/javascript">
-        if (typeof isMobile == 'function' && !isMobile() && getBrowserWidth() > 727) {
-        var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){"use strict";var scripts,tag,src,settings,https,div,i,docwrite_div,create_div;settings={site_id:"13",site_name:"fmpub.boingboing",zone_id:"356",zone_class:"ATF",out_of_page:false,zone_sizes:[[728,90],[1,1],[970,90],[970,250],[950,90],[600,66],[300,50],[940,60]],network_id:4601,protocol:("https:"===document.location.protocol)?"https:":"http:",static_server:"static",static_domain:"static.fmpub.net/",context:window.self};settings.div_id='div-fm-gpt-zone-'+settings.zone_id;var context=window.self;var brokeout=false;var levels=0;while(window.top!=context&&levels<10){try{var window_name=context.frameElement.getAttribute("Name");var iframe=context.parent.document.getElementById(window_name);iframe=null;if(!iframe){var iframes=parent.document.getElementsByTagName("iframe");for(var i=0,len=iframes.length;i<len;i++){if(iframes[i].contentWindow===window.self){iframe=iframes[i];}}}
-            context=context.parent;brokeout=true;}catch(e){break;}
-            levels++;}
-        context.___fm_zone_tag=context.___fm_zone_tag||{};context.___fm_zone_tag.queue=context.___fm_zone_tag.queue||[];for(i=0;document.getElementById(settings.div_id)&&i<10;i=i+1){settings.div_id=settings.div_id+"x";}
-        var div='<div id="'+settings.div_id+'"></div>';document.write(div);if(typeof context.___fm_zone_tag.loaded!=="boolean"){context.___fm_zone_tag.loaded=false;tag=context.document.createElement('script');tag.type='text/javascript';tag.src=settings.protocol+"//"+settings.static_domain+'lib/dfp-lib.js';tag.async=true;scripts=context.document.getElementsByTagName("script");scripts[0].parentNode.insertBefore(tag,scripts[0]);}
-        context.___fm_zone_tag.queue.push(settings);}());
-        };
-    </script>
-</div>
-
-<div id="navbar" class="navbar">
-	<div class="navbar-inner">
-		<a id="logo" href="http://boingboing.net" onclick="clickTrack(this.href, 'Navbar', 'Logo');"></a>
-
-		<!-- Google search box.  -->
-		<div id="cse-search-box">
-		<form action="http://www.google.com/cse">
-			<input name="cx" value="partner-pub-2170174688585464:d58nno-rqp8" type="hidden">
-			<input name="ie" value="ISO-8859-1" type="hidden">
-			<input name="q" id="searchInputField" size="18" class="" value="" type="text">
-			<input value="" name="siteurl" type="hidden">
-		</form>
-		</div>
-		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-		<script type="text/javascript">
-		function navdrop() {
-			 if (document.getElementById('drop').className=='categories') { document.getElementById('drop').className='categories show'; }
-			 else {document.getElementById('drop').className='categories'}
-			}
-		</script>
-
-		<div id="menu-icon" onclick="navdrop()"></div>
-		<span id="drop" class="categories">
-			<a href="http://boingboing.net/page/1/" onclick="clickTrack(this.href, 'Navbar', 'Blog');">Blog</a>
-			<a href="http://boingboing.net/category/feature/" onclick="clickTrack(this.href, 'Navbar', 'Features');">Features</a>
-			<a href="http://boingboing.net/category/video/" onclick="clickTrack(this.href, 'Navbar', 'Video');">Video</a>
-			<a class="mobile-hide" href="http://bbs.boingboing.net/" onclick="clickTrack(this.href, 'Navbar', 'Forums');">BBS</a>
-			<a href="http://twitter.com/boingboing" target="_blank" class="twitter" onclick="clickTrack(this.href, 'Navbar', 'Twitter');"><img src="http://boingboing.net/wp-content/themes/2012/sundries/social/twitter_ffffff_20.png" style="margin: 0 2px -4px;"> Twitter</a>
-			<a href="http://facebook.com/boingboing" target="_blank" class="facebook" onclick="clickTrack(this.href, 'Navbar', 'Facebook');"><img src="http://boingboing.net/wp-content/themes/2012/sundries/social/facebook_ffffff_20.png" style="margin: 0 2px -4px;"> Facebook</a>
-			<a href="http://boingboing.tumblr.com" target="_blank" class="tumblr" onclick="clickTrack(this.href, 'Navbar', 'Tumblr');"><img src="http://boingboing.net/wp-content/themes/2012/sundries/social/tumblr_ffffff_20.png" style="margin: 0 2px -4px;"> Tumblr</a>
-		</span>	
-	</div>
-</div>
-
-
-<h2 id="JKAnchor"><img src="http://boingboing.net/wp-content/themes/2012/sundries/boingboing.jpg"></h2> <!-- top anchor for j/k navigation -->
-
-
-<div id="mobile_includes">
-    <!-- 320x50-Mobile-Leaderboard -->
-    <div id="div-gpt-ad-1356214036289-0">
-    <script type="text/javascript">
-        if(isMobile() && $('#mobile_includes').is(':visible')){
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1356214036289-0')});
-        }
-    </script>
-    </div>
-    <!-- end 320x50-Mobile-Leaderboard -->
-</div>
-
-<div id="container">
-
-	
-	
-
-
-		
-<div id="mainbar">
 
 
 		
 	
 	<div id="post-238808" class="post">
 	
-	<h1>Boing Boing Privacy&nbsp;Policy</h1>
-	
-		<em><p>Effective: June 27, 2013</p>
+		<em><p>Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015)</p>
 </em>
 <p>Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutants,” “We,” “Us”) which lives at boingboing.net (“Boing Boing,” “Website,” “Site”). This Privacy Policy applies to any information that is collected while you are on the Site and our hosted discussion forum at bbs.boingboing.net. Our goal with this policy is to be transparent about the information we collect, how we use it, and how it is shared.</p>
 
-<p>This Privacy Policy is part of our Terms of Service, and by using the Site you agree to both. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Service.</p>
+<p>This Privacy Policy is part of <a href="http://boingboing.net/tos">our Terms of Service</a>, and by using the Site you agree to both. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Service.</p>
 
 <p><b>WHAT INFORMATION DO WE COLLECT?</b></p>
 
@@ -247,7 +382,7 @@ googletag.enableServices();
 <p>Not technically an analytics cookie,
 but you should know that we present links in a format that
 enables us to track when links are followed. Specifically,
-when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased.</p>
+when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.</p>
 
 <p><b>Advertising</b></p>
 <p>1. Google Ad Products</p>
@@ -258,10 +393,8 @@ when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking
 
 
 
-</p><p>3. Federated Media</p>
-<p>We partner with <a href="http://www.federatedmedia.net/">Federated Media</a> to provide third-party advertising. Federated Media, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Federated Media (like your email address) however the log data they collect does include IP addresses, though these are not tied to any user account. You can opt-out of their behavioral advertising program on <a href="http://www.federatedmedia.net/privacy-policy/">their Privacy Policy. </a>
-
-
+</p><p>3. Urban Daddy</p>
+<p>We partner with <a href="http://www.urbandaddy.com/">Urban Daddy</a> to provide third-party advertising. Urban Daddy, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address).
 
 </p><p>4. Mediafed</p>
 <p>Our RSS feed is monetized by <a href="http://feedsportal.com/">feedsportal.com</a>, owned by Mediafed, which uses a cookie for analytics collection. They do not use their cookie to collect or track any personally identifiable information about you. Their privacy policy is here and it has <a href="http://res3.feedsportal.com/docs/privacypolicy.html">instructions for opting out of their cookie.</a>
@@ -272,172 +405,141 @@ when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking
 <p><b>More Advertising Disclosures</b></p>
 <p>Just so we are clear about how we use advertising on the site, below are some of the most common kinds of sponsorships on Boing Boing:</p>
 
-<p>1. Sponsored sections, themes, or categories: A marketer sometimes sponsors a category, section, or series of posts within a particular theme. At the top of those posts, the sponsor of that section is identified. Of course, the sponsor won't have any editorial input, guidance, or approval, of the content of our posts.</p>
+<p>1. Sponsored posts, sections, themes, or categories: A marketer sometimes sponsors a category, section, post, or series of posts within a particular theme. At the top of those posts, the sponsor of that section is identified.</p>
 <p>2. Widgets: A marketer sponsors a technology, widget or interface feature on the site that we think enhances the BB experience for you.</p>
 <p>3. Advertisers' Web sites: As part of a campaign, one or more of us might do some writing on a marketer's Web site. Banner ads or posts may promote our contributions and link to the advertiser's site. If a sponsorship is involved in such a post, we'll say so.</p>
 <p>4. Sponsor “shout-outs”: These are posts that thank our sponsors and may include a message from the advertiser.</p>
-<p>5. Sponsored videos: A marketer sponsors a series of videos on a particular theme or over a given time period. That sponsorship may include interstitial or embedded ads within the video and/or branding of the video player. Sponsors have no control over the editorial content. If a sponsor asks Boing Boing Video to produce a "standalone video ad" and provides input or direction on the content, we'll be sure to disclose that.</p>
+<p>5. Sponsored videos: A marketer sponsors a series of videos on a particular theme or over a given time period. That sponsorship may include interstitial or embedded ads within the video and/or branding of the video player. </p>
 <p>6. Contests: A marketer may sponsor a contest on the site. We hope you win!</p>
-<p>7. Advertorial: Advertisements that are presented in an editorial format will be prominently marked as ads.</p>
+<p>7. Advertorial: Any advertisements that are presented in an editorial format will be prominently marked as sponsored.</p>
 <p>8. Traditional banner ads: We have strict guidelines on the banner advertisements that we accept. Expanding banners are only delivered to each browser once daily. Animated ads can't be longer than 30 seconds. Audio must be user-initiated. And of course, no pop-ups or pop-unders. Unfortunately, ads that break those rules sometimes do slip through our automated system. So if you see a banner ad that violates this policy, please let us know by emailing &nbsp;<a href="mailto:ads@boingboing.net">ads@boingboing.net</a> and we'll investigate.</p>	</div>
 	
 		
 	
-<div id="share_post_small">
-		
-		<span class="emailDiv">
-			<a href="mailto:type%20email%20address%20here?subject=Shared%20from%20Boing Boing&amp;body=Boing Boing Privacy Policy - http://boingboing.net/privacy" title="Email to a friend/colleague" target="_blank">
-			<img src="http://boingboing.net/wp-content/themes/2012/sundries/share.png" style="margin-left:-60px;">
-			</a>
-		</span>
-				
-		<span class="fbDiv">
-			<a href="http://www.facebook.com/sharer.php?u=http://boingboing.net/privacy" target="_blank">
-			<img src="http://boingboing.net/wp-content/themes/2012/sundries/share.png" style="margin-left:-42px;">
-			</a>
-		</span>
-				
-		<span class="twitterDiv">
-			<a href="http://twitter.com/home?status=Boing+Boing+Privacy%26nbsp%3BPolicy: http://boingboing.net/privacy" target="_blank" title="Click to Tweet this page">
-			<img src="http://boingboing.net/wp-content/themes/2012/sundries/share.png" style="margin-left:-27px;">
-			</a>
-		</span>	
-	
-</div>	
-</div>
+
 	
 <div style="clear:both;"></div>
 
-</div>
 
 
+<p>
 
-<style>
-
-div#footer {background-color:black;color:silver;width:100%;padding:2em;font-size:14px;box-sizing:border-box;min-height:350px;clear:both;}
-div#footer h6 {font-size:18px;margin:0}
-div#footer a {text-decoration:none;color:white;font-weight:bold;}
-div#footer h6 a {color:red;text-transform:uppercase;}
-
-@media screen and (max-width: 300px) {
-
-div#footer-left {position:relative;width:35%;display:inline-block;}
-div#footer-middle {position:relative;width:30%;display:inline-block;}
-div#footer-right {position:relative;width:20%;display:inline-block;float:right;}
-
-}
-
-@media screen and (min-width: 600px) {
-
-div#footer-left {position:relative;width:35%;display:inline-block;float:left;}
-div#footer-middle {position:relative;width:30%;display:inline-block;}
-div#footer-right {position:relative;width:20%;display:inline-block;float:right;text-align:right;}
-
-}
-
-</style>
-
-
-<div id="footer">
-    
-    
+</p><div id="footer">
+     
     <div id="footer-left">
     	
-    	<h6>	<a href="http://boingboing.net">BOING BOING</a></h6>
-   		<p>		<a href="http://boingboing.net/suggest.html">Submit a tip</a>
-        <br>	<a href="http://boingboing.net/about">About Us</a>
-        <br>	<a href="http://boingboing.net/contact">Contact Us</a>
-        <br>	<a href="mailto:ads@boingboing.net">Advertise here</a>
+        <p>Read the rules you agree to by using this website in our <a href="http://boingboing.net/tos">Terms of Service</a>.
         
-        </p><h6>	<a href="#">FOLLOW</a></h6>
-        <p>		<a href="http://facebook.com/boingboing">Facebook</a>
-        <br>	<a href="http://twitter.com/boingboing">Twitter</a>
-        <br>	<a href="http://tumblr.com/boingboing">Tumblr</a>
-        <br>	<a href="/rss">RSS</a>
-        
+     </p><p>Boing Boing uses cookies and analytics trackers, and is supported by advertising, merchandise sales and affiliate links. Read about what we do with the data we gather in our <a href="http://boingboing.net/privacy">Privacy Policy</a>.
+       	</p><p>		
+       
+       Who will be eaten first? Our forum rules are detailed in the <a href="http://bbs.boingboing.net/faq">Community Guidelines</a>.
+       
+       	</p><p>Boing Boing is published under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">a Creative Commons license</a> except where otherwise noted.
+       	
     </p></div>
         
     <div id="footer-middle">
-     	
-     	<h6>	<a href="http://boingboing.net/tos">Terms of Service</a></h6>
-        <p>		The rules you agree to by using this website. 
-        
-        </p><h6>	<a href="http://boingboing.net/privacy">Privacy Policy</a></h6>
-       	<p>		Boing Boing uses cookies and analytics trackers, and is supported by advertising, merchandise sales and affiliate links.
-       
-       	</p><h6>	<a href="http://bbs.boingboing.net/faq">Community Guidelines</a></h6>
-       	<p>		Who will be eaten first?
-       	
-    </p></div>
+
+    </div>
       
      <div id="footer-right">
-     
-     	<h6>	<a href="http://boingboing.net/about">EDITORS</a></h6>
-     	<p>		Mark Frauenfelder
-     	<br>	Cory Doctorow
-     	<br>	David Pescovitz
-     	<br>	Xeni Jardin
-     	<br>	Rob Beschizza
+          	
+      	<p>		<a href="http://twitter.com/frauenfelder">Mark Frauenfelder
+     	<br>	</a><a href="http://twitter.com/doctrorow">Cory Doctorow
+     	<br>	</a><a href="http://twitter.com/pesco">David Pescovitz
+     	<br>	</a><a href="http://twitter.com/xeni">Xeni Jardin
+     	<br>	</a><a href="http://twitter.com/beschizza">Rob Beschizza
+
+     	</a></p><p class="staff"><a href="http://twitter.com/jlw">Jason Weisberger</a><br><span class="job">Publisher</span>
+     	</p><p class="staff"><a href="http://twitter.com/orenwolf">Ken Snider</a><br><span class="job">Sysadmin</span>
      	
-     	</p><h6>	<a href="http://boingboing.net/about">PUBLISHER</a></h6>
-     	<p>		Jason Weisberger
-     	
-     	
-     	</p><p><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png"></a>
-     	
-     </p></div>
-     
-      
+   		</p><p>		<a href="http://boingboing.net/about">About Us</a>
+        <br>	<a href="http://boingboing.net/contact">Contact Us</a>
+        <br>	<a href="http://boingboing.net/advertise">Advertise</a>
+        <br>	<a href="http://bbs.boingboing.net">Forums</a>
+		<br>	<a href="http://store.boingboing.net">Shop</a>	
+		<br>	<a href="mailto:support+id154252@vipstack.zendesk.com">Shop Support</a>
        
-    </div>
+  
+     </p></div>
 
+</div>
 
-
-
-
-
-
-<div id="extras">
-<link rel="stylesheet" id="embedly_font_end-css" href="http://boingboing.net/wp-content/plugins/embedly/css/embedly-frontend.css?ver=4.0" type="text/css" media="all">
-
-<div id="debugger"></div>
-
-<!-- Sitewide javascript -->
-<script type="text/javascript" src="http://boingboing.net/wp-content/themes/2012/boingboing.js?v=8"></script>
-<!-- JK Nav by Yu-Jie Lin -->
-<script src="http://boingboing.net/wp-content/themes/2012/jquery.jknav.min.js?v=1"></script>
-
-<!-- Google Plus -->
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/comment-reply.min.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201553"></script>
+    <script>
+    jQuery(document).ready(function() {
+      jQuery('.lazyYT').each(function() {
+        var id = jQuery(this).data('youtube-id'),
+            url = 'https://www.youtube.com/watch?v=' + id;
+        jQuery(this).replaceWith('<a href="' + url + '">' + url + '</a>');
+      });
+      jQuery('a.mention').each(function() {
+                var discourse_url = 'https://bbs.boingboing.net';
+        jQuery(this).attr('href', discourse_url + jQuery(this).attr('href'));
+      });
+    });
+    </script>
+  <script type="text/javascript" src="http://stats.wp.com/e-201553.js" async="" defer=""></script>
 <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.6',blog:'87954168',post:'238808',tz:'-8',srv:'boingboing.net'} ]);
+	_stq.push([ 'clickTrackerInit', '87954168', '238808' ]);
 </script>
 
-
-<!-- Disqus javascript -->
-<script type="text/javascript">
-    var disqus_shortname = 'boingboing'; // required: replace example with your forum shortname
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script>
 
 <!-- Analytics-->
-<!-- FM Tracking Pixel -->
-<script type="text/javascript" src="http://static-cf.fmpub.net/site/boingboing"></script>
-<!-- FM Tracking Pixel -->
 
-<!-- Mint internal analytics include -->
-<!-- <script src="http://mint.boingboing.net/?js" type="text/javascript"></script> -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-QX6JKE-6M4Jf7"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-QX6JKE-6M4Jf7.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
 
 <!-- Google Analytics include -->
+<script>
+function clickTrack(url, action, label){
+    if(url && action && label){
+        clickedURL = url;
+        if(typeof(event) != "undefined") event.returnValue = false;
+        ga('send', 'event', {
+            'eventCategory' : 'UI Click',
+            'eventAction'   : action,
+            'eventLabel'    : label,
+            'hitCallback'   : function () {
+                document.location = clickedURL;
+            }
+        }); 
+        return false;
+    }
+    return true;
+}
+</script>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -452,32 +554,129 @@ div#footer-right {position:relative;width:20%;display:inline-block;float:right;t
 </script>
 <!-- end Google Analytics include -->
 
-<!-- Blockmetrics include -->
-<script type="text/javascript">
-   (function() {
-       function async_load(){
-           var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-           var s = document.createElement('script');
-           s.src = protocol + 'blockmetrics.com/static/adblock_detection/js/d.min.js';
-           var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-       }
-       bm_website_code = 'D3D06F828B4511E2';
-       jQuery(document).ready(async_load);
-   })();
+
+
+
+<!-- Begin comScore Tag -->
+
+<script>
+
+  var _comscore = _comscore || [];
+
+  _comscore.push({ c1: "2", c2: "17689855" });
+
+  (function() {
+
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+
+    el.parentNode.insertBefore(s, el);
+
+  })();
+
 </script>
-<!-- end Blockmetrics include -->
-<!-- Experiments -->
 
-<!-- Ads -->
-<div id="ads">
+<noscript>
 
-	<!-- FM AD SKIN Zone -->
-  <script type="text/javascript" src="http://static-cf.fmpub.net/zone/3992"></script>
-	<!-- FM AD SKIN Zone -->
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17689855&cv=2.0&cj=1" />
 
-</div>
+</noscript>
 
-</div>
+<!-- End comScore Tag -->
+
+
+
+<script>
+// move ads to main column on single-column widths
+
+function layoutfix() {
+var width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+
+if(width<600) {
+	var move = document.getElementById("gpt-ad-top");
+	document.getElementById("mobileAd0").appendChild(move); 
+	var move = document.getElementById("gpt-ad-right_side_1");
+	document.getElementById("mobileAd1").appendChild(move); 
+	var move = document.getElementById("gpt-ad-right_side_2");
+	document.getElementById("mobileAd2").appendChild(move); 
+	}
+}
+layoutfix();
+	
+
+	
+		function showmenu() {
+	
+		var currentHeight = document.getElementById("menuitems").style.height;
+		if (currentHeight == "250px") {
+		document.getElementById("menuitems").style.height = "0px";
+		}
+		else {
+		document.getElementById("menuitems").style.height = "250px";
+		}
+	}
+
+
+</script>
+
+<script>
+var MeasureAdblock = (function() {
+  var init = function() {
+    document.write('<div id="adsense" style="visibility:hidden;">adsense ad</div>');
+    var detect = function() {
+      setTimeout(function() {
+        var detected = 'No';
+        var elt = document.getElementById('adsense');
+        if( ! elt || elt.innerHTML.length === 0 || elt.clientHeight === 0 ) {
+          detected = 'Yes';
+        }
+        elt.style.display = 'none';
+        if(typeof ga === "function") {
+          ga('send', 'event', 'AdBlock', detected);
+        }
+        else if(typeof _gaq != "undefined") {
+          _gaq.push(['_trackEvent', 'AdBlock', detected]);
+        }
+      }, 2000);
+    };
+    if(window.addEventListener) {
+        window.addEventListener('load', detect, false);
+    } else {
+        window.attachEvent('onload', detect);
+    }
+  };
+  return {
+    init: init
+  };
+})();
+
+// init() can optionally be split into a separate <script> tag
+MeasureAdblock.init();
+</script><div id="adsense" style="visibility:hidden;">adsense ad</div>
+
+
+
+<!-- inRead -->
+<script type="text/javascript">
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 44169
+       ,lang        : "en"
+       ,slot        : '.single-post #text > p, #container #story > p, #next-post-thumbnails .nextstory > p'
+       ,format      : "inread"
+       ,components  : { skip: {delay : 0}}
+       ,css         : "margin : 0 auto;max-width: 640px!important;"
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/media/format.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+</script>
 
 
 
