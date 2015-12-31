@@ -1,105 +1,80 @@
-> *The following text is extracted and transformed from the genieknowsinc.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515115034id_/http%3A//www.genieknows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genieknowsinc.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | GenieKnows :: PPC | CPC | Internet Advertising Service
+# HugeDomains.com - Privacy Policy
 
-Your privacy is important to us. To better protect your privacy, we’ve developed this Privacy Policy. This Privacy Policy covers the collection and use of personal information, such as your name, address, email, credit card information, and billing information (“Personal Information”), that may be collected by GenieKnows Inc. or any of it’s other owned and operated websites, anytime you interact with us, such as when you search for information on any of our websites, purchase our advertising services, join our publisher network, or call our customer service associates (collectively, GenieKnows’ “Services”). This Privacy Policy describes our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your Personal Information. It also describes the choices available to you regarding GenieKnows’s use of your Personal Information and the steps you can take to access this information and to request that we correct or delete it.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Your continued participation on the GenieKnows Services indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. This Privacy Policy will remain in full force and effect (with such changes as we may make to this Privacy Policy) as long as you are a user of the GenieKnows Services, even if your use of or participation in any particular Service expires, ceases, or is suspended or deactivated for any reason.
+**What information do we collect?**
 
-**GenieKnows Inc. Privacy Officer**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-If you have questions or concerns about this Privacy Policy, or would like to update or delete your Personal Information, please contact us. If you email us, please be sure to write “PRIVACY INQUIRY” in the subject line of your email; otherwise, our spam filters will filter your email. GenieKnows will respond to legitimate inquiries within 30 days.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**_GenieKnows Inc.  
-ATTN: Privacy Officer  
-11 Morris Drive, Suite 205  
-Dartmouth, Nova Scotia, Canada B3B 1M2  
-Phone: 902.431.4847  
-Email: privacy[at]genieknows.com_**
+**What do we use your information for?**
 
-**Why We Collect Personal Information**
+Any of the information we collect from you may be used in one of the following ways: 
 
-We collect Personal Information to help us deliver a superior level of service. It enables us to give you convenient access to our search services, advertising services and publisher services, and helps us keep you updated on special offers, news, and the latest information on GenieKnows products and services that you might like to hear about.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**Information We Collect & How We Use It**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-There are a number of situations in which your Personal Information may help us give you better service.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Information Automatically Collected by our Website**
+• To process transactions
 
-Like many websites, we collect and analyze certain user behavior on our website and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, referring/exit pages, the date & time, and search queries. We also collect information regarding user activities on our website. We use this information to analyze website traffic, improve the performance of our search Services, improve our geo-targeted advertising services, administer the website and prevent fraud. This helps us to determine how best to provide useful information to users and to understand which parts of our website and Services are of most interest to them.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Cookies and Web Beacons**
+• To send periodic emails
 
-We track user behavior and use of our Services through the use of cookies and web beacons. A “cookie” is a small text file that a website can place on your computer’s hard drive in order, for example, to collect information about your activities on the website or to make it easier to use certain website functions. The cookie transmits this information back to the website’s computer. Many users do not know that “cookies” are being placed on their computers when they visit a website. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a website attempts to place a “cookie” on your computer.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We use cookies to improve the quality of our Service by storing user preferences and tracking user trends, such as how people search and which advertisements they click on. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We use cookies on our website to provide our Service, including without limitation, in the following ways:
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-When you initially REGISTER AS A CUSTOMER OR DISTRIBUTION PARTNER OF GenieKnows , we use a cookie to remember your user preferences. If you have checked the “Remember me” checkbox and you have identified yourself, the cookie allows you to skip having to identify yourself again. Please do not check the “Remember me” box if you are using a shared computer.
+**How do we protect your information?**
 
-We use cookies to track when a search user clicks on a sponsored listing, and in some cases we use cookies and web beacons to determine whether the click resulted in an actual purchase of products or services from the advertiser’s site. This information is used to determine the effectiveness of our advertising Services.  
-We also use cookies to analyze how visitors, in the aggregate, use our website, in order to make our website as useful as possible for them. We do not use cookies to collect or store personally identifiable information.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our Services may not function properly if your cookies are disabled.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-We also use web beacons (a small transparent image, iframe, script, object or other transparent tag embedded in a web page) on some of our web pages and advertising Services. Whenever the user opens the page with a browser, the web beacon or tag is requested from the server storing it, allowing the server to take notice of the download. As a result, our servers (or our website analytics company’s servers) are informed of when the web page has been viewed.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Third Party Advertisers, Your Opt-out Rights**
+**Do we use cookies?**
 
-We use third-party companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to our website and other sites in order to provide advertisements on our website, other sites and other forms of media about goods and services that may be of interest to you.  If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please [click here](http://www.networkadvertising.org/managing/opt_out.asp# "NAI").
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-**Customer Information**
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-If you register to become an advertising customer or distribution partner of GenieKnows, we will use the personally identifying information you provide (your company name, billing information and contact information) to contact you about your account when necessary. We use this information only for billing purposes, to fill your orders, and to deliver the services you have requested. If we have trouble processing an order, we will use this information to contact you.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-In some of our email messages, web pages and search results we use a “click-through URL” linked to content on the GenieKnows website. When a recipient clicks one of these URLs, they pass through a web server before arriving at the destination webpage. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
+**Do we disclose any information to outside parties?**
 
-**Contact Us**
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-If you provide Personal Information to us by sending us email, letters or faxes or by calling us, we will use that information to respond to your question or request for information. We may ask for your Personal Information when you’re discussing a service issue on the phone with a customer services associate, registering to become a customer, participating in an online survey, or purchasing our products and services. At such times, we may collect Personal Information relevant to the situation, such as your name, email address, phone number, and contact preferences; your credit card information; and information relating to a support or service issue.
+**Online Privacy Policy Only**
 
-**Surveys**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-We may provide you the opportunity to participate in contests or surveys. If you participate, we may request certain Personal Information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and demographic information (such as zip code). We use the survey data to improve our Services, and may publicize the results as a public service. The publicized results will not include any personally identifiable information without your consent.
+**Terms and Conditions**
 
-We may use a third party service provider to conduct these contests or surveys. While this third party will have access to your Personal Information, it will be subject to confidentiality and only as necessary to conduct the services we have requested from them. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-**When We Share Your Personal Information**
+**Your Consent**
 
-We do not sell or barter your contact or Personal Information to anyone.
+By using our site, you consent to our web site privacy policy. 
 
-There are times when GenieKnows makes certain Personal Information about you available to companies that GenieKnows has a strategic relationship with or that perform work for GenieKnows to provide services to you on our behalf. These companies may help us perform various business functions, including without limitation, improving the targeting of our advertisements across our network, fulfilling customer orders, processing payments, managing and enhancing customer data, providing customer service, assessing your interest in our Services, or conducting surveys. These companies are also obligated to protect your Personal Information in accordance with applicable law. Without such information being made available, it would be difficult for you to use our Services, receive customer service, provide us feedback to improve our Services, or access certain of our Services; and it would be difficult for us to continue improving our search and advertising Services.
+**Changes to our Privacy Policy**
 
-We will also share your Personal Information if we have a good faith belief that we are required to do so by law, that doing so is necessary to cooperate with law enforcement agencies, comply with warrants or subpoenas served on GenieKnows, enforce the Terms & Conditions, detect fraud, or otherwise protect the rights of GenieKnows, its employees and users of the Services.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-**How We Protect & Secure Your Personal Information**
+This policy was last modified on 1/10/2012 
 
-We take administrative, electronic, technical, and physical precautions to safeguard and secure your Personal Information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
+**Contacting Us**
 
-The GenieKnows Site uses Secure Sockets Layer (SSL) encryption on all webpages where Personal Information is required, including but not limited to, our publisher and advertiser account pages. We also follow industry standards to provide security for your sensitive information once we receive it.
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-You can help protect your Personal Information by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, don’t disclose your account information or password to anyone else, and make sure you use a secure web browser.
-
-Please be aware, however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. You should always use caution when submitting Personal Information online.
-
-**Access To Your Personal Information**
-
-We will provide you reasonable access and the ability to correct the Personal Information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by checking your online account. If your personally identifiable information changes, or if you no longer desire our Service, you may correct, update, delete or deactivate it by making the change on your online account or by contacting us.
-
-You can also request a copy of your Personal Information and your account history by contacting us. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**Links To Other Websites**
-
-Our website includes links to thousands of other websites whose privacy practices may differ from those of GenieKnows. For example, our “People Search” and “Local Search” Services contain links to online services and provides contact information for individuals and businesses. GenieKnows does not control the websites of third parties that are linked from our Services, and is not responsible for information included in those services. If you submit Personal Information to any of those websites, your information is subject to their privacy statements. GenieKnows’s privacy statement applies only to its own Services, and does not apply to any other website. We encourage you to carefully read the privacy statement of any website you visit. GenieKnows is not responsible for the privacy practices or the content of other websites.
-
-**Changes To This Privacy Policy**
-
-If we change this Privacy Policy in ways that affect the personally identifying information we have collected through our website, we will post the updated Privacy Policy on this webpage to advise you of choices you may have as a result of those changes. Any changes made to this Privacy Policy will go into effect immediately, so please check back periodically to remain informed as to changes in the Privacy Policy.
-
-**Privacy Statement Compliance**
-
-If you feel that we have not complied with this privacy statement, please contact us using the information supplied above.
-
-**UPDATED: April 3, 2012**
+HugeDomains.com
