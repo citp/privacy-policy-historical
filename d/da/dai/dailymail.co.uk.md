@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymail.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231172829id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymail.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231152617id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | Daily Mail Online
 
@@ -236,6 +236,9 @@ United Kingdom
 
   
 We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.  
+
+
+  
 
 
 Sorry we are not currently accepting comments on this article.
