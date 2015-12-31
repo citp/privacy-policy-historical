@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowwiki.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626113428id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowwiki.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231205842id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wikis from Wikia - Join the best wiki communities
+# Privacy Policy - Wikia
 
 Date of Last Revision: March, 2012 
 
