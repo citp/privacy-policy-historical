@@ -1,51 +1,80 @@
-> *The following text is extracted and transformed from the bestinv.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510174132id_/http%3A//hyipblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestinv.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | HYIP Blogger: Walkthroughs, Reviews, Monitoring, Investing
+# HugeDomains.com - Privacy Policy
 
-Your privacy is of the greatest importance to HYIPBlogger.com. We will not rent, sell, lease, or give away any of your personal information. The following outlines our privacy policy. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here. 
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+**What information do we collect?**
 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Cookie/Tracking Technology**
+**What do we use your information for?**
 
-HYIPBlogger.com may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Distribution of Information**
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We do not share your personally identifiable information to any third party for marketing purposes. However, we may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-  1. required by law; or, 
-  2. trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, 
-  3. investigating fraud which has already taken place. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
+• To process transactions
 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Commitment to Data Security**
+• To send periodic emails
 
-Your personally identifiable information is kept secure. Only the administrator of this site has access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**RSS and Email Subscriptions**
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-This website records information about how people access our RSS feeds, but does not collect any personally identifying information from or about our RSS subscribers. This website’s feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this website’s feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**Comments**
+**How do we protect your information?**
 
-Comments submitted to this website are the responsibility of the commenter. We reserve the right to remove or edit comments at our discretion. Site URLs (if provided) are published along with comments. E-mail addresses are required with the submission of comments but are not disclosed, unless the commenter deliberately does so him/herself by entering the e-mail address in the main comment box in addition to the box clearly labeled for the e-mail address. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**External Links**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-The web site contains links to other websites not owned by the owner of this website. We will not, and cannot, control how your personal information is used on these other websites. Consult the privacy policies of the linked websites to see how they use your information 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Privacy Contact Information**
+**Do we use cookies?**
 
-If you have any questions, concerns, or comments about our privacy policy you may [contact me](http://hyipblogger.com/contact-me/). 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
