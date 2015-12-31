@@ -1,123 +1,380 @@
-> *The following text is extracted and transformed from the wishpicker.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045121id_/http%3A//wishpicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishpicker.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231165056id_/http%3A//www.snapdeal.com/page/terms) for the most accurate reproduction.*
 
-# Privacy Policy | Wishpicker.com India
+# Terms & Condition Page -Snapdeal.com - Features Daily Best Deals in Your City
 
-#### Outline
+**Last updated on 16-September-2015**
 
-As a company, we always place customers before dollars. We understand that the information that you share with us is extremely personal, and we go the extra mile to maintain its privacy. Given how intimate gifting as an experience is, we ensure that the secrecy of your gift is maintained, and no details pertaining to it are posted on our portal, either directly, or via Facebook, without your consent. 
+THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF AN ELECTRONIC CONTRACT FORMED UNDER THE INFORMATION TECHNOLOGY ACT, 2000 AND THE RULES MADE THEREUNDER AND THE AMENDED PROVISIONS PERTAINING TO ELECTRONIC DOCUMENTS / RECORDS IN VARIOUS STATUTES AS AMENDED BY THE INFORMATION TECHNOLOGY ACT, 2000. THIS PRIVACY POLICY DOES NOT REQUIRE ANY PHYSICAL, ELECTRONIC OR DIGITAL SIGNATURE.
 
-#### Information gathered via Facebook 
+THIS PRIVACY POLICY IS A LEGALLY BINDING DOCUMENT BETWEEN YOU AND SNAPDEAL (BOTH TERMS DEFINED BELOW). THE TERMS OF THIS PRIVACY POLICY WILL BE EFFECTIVE UPON YOUR ACCEPTANCE OF THE SAME (DIRECTLY OR INDIRECTLY IN ELECTRONIC FORM, BY CLICKING ON THE ‘I ACCEPT’ TAB OR BY USE OR THE WEBSITE OR BY OTHER MEANS) AND WILL GOVERN THE RELATIONSHIP BETWEEN YOU AND SNAPDEAL FOR YOUR USE OF THE WEBSITE (DEFINED BELOW).
 
-We do not store your Facebook password, and any other such confidential information. We collect information about the likes, and interests of your Facebook friends to ensure that only relevant gifts are recommended for them. The sole purpose of obtaining this information is to enable you to gift them in accordance with their likes. None of this information is ever shared with, or sold to any third parties for marketing purposes, without your consent. Also, when you click on buy, we do NOT post on your Facebook wall, without your consent – we understand that gifts are meant to be secrets, and we make all efforts to ensure that they remain this way. 
+THIS DOCUMENT IS PUBLISHED AND SHALL BE CONSTRUED IN ACCORDANCE WITH THE PROVISIONS OF THE INFORMATION TECHNOLOGY (REASONABLE SECURITY PRACTICES AND PROCEDURES AND SENSITIVE PERSONAL DATA OF INFORMATION) RULES, 2011 UNDER INFORMATION TECHNOLOGY ACT, 2000; THAT REQUIRE PUBLISHING OF THE PRIVACY POLICY FOR COLLECTION, USE, STORAGE AND TRANSFER OF SENSITIVE PERSONAL DATA OR INFORMATION. 
 
-####  The Wishpicker privacy guarantee 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THE WEBSITE, YOU INDICATE THAT YOU UNDERSTAND, AGREE AND CONSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU HEREBY PROVIDE YOUR UNCONDITIONAL CONSENT OR AGREEMENTS TO SNAPDEAL AS PROVIDED UNDER SECTION 43A AND SECTION 72A OF INFORMATION TECHNOLOGY ACT, 2000. 
 
-We strive to protect your information to the best of our abilities, to ensure that you have a smooth experience searching for gift ideas for your loved ones. None of the information shared by you, either directly, or via your Facebook account, shall be shared with any third parties for marketing purposes, without your consent, or unless mentioned in the Privacy Policy below. 
+By providing us your Information or by making use of the facilities provided by the Website, You hereby consent to the collection, storage, processing and transfer of any or all of Your Personal Information and Non-Personal Information by Snapdeal as specified under this Privacy Policy. You further agree that such collection, use, storage and transfer of Your Information shall not cause any loss or wrongful gain to you or any other person. 
 
-For further details, please read our privacy policy mentioned below:
+Jasper Infotech Private Limited and its subsidiaries and affiliates and Associate Companies (individually and/ or collectively, "Snapdeal") is/are concerned about the privacy of the data and information of users (including sellers and buyers/customers whether registered or non- registered) accessing, offering, selling or purchasing products or services on Snapdeal’s websites, mobile sites or mobile applications ("Website") on the Website and otherwise doing business with Snapdeal. “Associate Companies” here shall have the same meaning as ascribed in Companies Act, 2013. 
 
-####  Privacy Policy 
+The terms “We” / “Us” / “Our” individually and collectively refer to each entity being part of the definition of Snapdeal and the terms "You" / "Your" / "Yourself” refer to the users.   
+This Privacy Policy is a contract between You and the respective Snapdeal entity whose Website You use or access or You otherwise deal with. This Privacy Policy shall be read together with the respective Terms Of Use or other terms and condition of the respective Snapdeal entity and its respective Website or nature of business of the Website. 
 
-Wizmunk Gifting Services Pvt Ltd., which operates the wishpicker.com website, respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of www.wishpicker.com or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
+**Snapdeal has provided this Privacy Policy to familiarise You with.**
 
-######  Information we collect about you 
+  * The type of data or information that You share with or provide to Snapdeal and that Snapdeal collects from You;
+  * The purpose for collection of such data or information from You; Snapdeal’s information security practices and policies; and
+  * Snapdeal’s policy on sharing or transferring Your data or information with third parties.
 
-In General. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in India and other countries around the world. 
 
-Information you provide We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name and e-mail address. We also may request information about your interests and activities, your gender and age, your pin code and other demographic information. 
 
-Information from other sources. We may also periodically obtain both personal and non-personal information about you from third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information. 
+This Privacy Policy may be amended / updated from time to time. Upon amending / updating the Privacy Policy, we will accordingly amend the date above. We suggest that you regularly check this Privacy Policy to apprise yourself of any updates. Your continued use of Website or provision of data or information thereafter will imply Your unconditional acceptance of such updates to this Privacy Policy.
 
-Information about others. We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) information that may interest them through our system, we may store your personal information, and the personal information of each such recipient. Wishpicker.com will not share the personal information you provide to us of your friends and family members with anyone, unless required by law, court order or to technically operate our website or service. 
+1.
 
-Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our site. 
+Information collected and storage of such Information:
 
-Information collected automatically. We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
+The “Information” (which shall also include data) provided by You to Snapdeal or collected from You by Snapdeal may consist of “Personal Information” and “Non-Personal Information”. 
 
-Cookies. When you visit our website, we may assign your computer one or more cookies to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. 
+1.1
 
-###### How we use the information we collect
+**Personal Information**  
+Personal Information is Information collected that can be used to uniquely identify or contact You. Personal Information for the purposes of this Privacy Policy shall include, but not be limited to: 
 
-In general. We may use information that we collect about you to:
+iii
 
-• Deliver the products and services that you have requested;
+Your telephone number,
 
-• Manage your account and provide you with customer support;
+iv
 
-• Perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+Your e-mail address or other contact information,
 
-• Communicate with you about products or services that may be of interest to you either from us or other third parties;
+vii
 
-• Develop and display content tailored to your interests on our site and other sites;
+Information regarding your transactions on the Website, (including sales or purchase history),
 
-• Verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+viii
 
-• Enforce our terms and conditions;
+Your financial information such as bank account information or credit card or debit card or other payment instrument details,
 
-• Manage our business and
+ix
 
-• Perform functions as otherwise described to you at the time of collection.
+Your financial information such as bank account information or credit card or debit card or other payment instrument details,
 
-######  With whom we share your information
+x
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services. 
+Internet Protocol address,
 
-Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We also may disclose your information: 
+xi
 
-o In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+Any other items of ‘sensitive personal data or information’ as such term is defined under the Information Technology (Reasonable Security Practices And Procedures And Sensitive Personal Data Of Information) Rules, 2011 enacted under the Information Technology Act, 2000;
 
-o When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+xii
 
-o In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+Identification code of your communication device which You use to access the Website or otherwise deal with any Snapdeal entity,
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside India. 
+xii
 
-###### Third-party websites 
+Any other Information that You provide during Your registration process, if any, on the Website.
 
-There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting. 
+**Such Personal Information may be collected in various ways including during the course of You:**
 
-######  Advertisements on wishpicker.com 
+i
 
-We use third-party advertising companies to serve ads when you visit our Website. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For further information on how Google uses your data, please visit the following link: [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/). Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to our site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative gateway opt-out site](http://www.networkadvertising.org/choices/). 
+registering as a user on the Website,
 
-######  How you can access your information
+ii
 
-If you have an online account with us, you have the ability to review and update your personal information online by contacting us. More information about how to contact us is provided below. You also may choose to remove your account at any time by contacting us at the number below. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you delete your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take action we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
+registering as a seller on the Website,
 
-###### Your choices about collection and use of your information
+iii
 
-• You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; post a comment to a blog; or initiate other transactions on our website.
+availing certain services offered on the Website. Such instances include but are not limited to making an offer for sale, online purchase, participating in any online survey or contest, communicating with Snapdeal"s customer service by phone, email or otherwise or posting user reviews on the items available on the Website, or
 
-• If you register on our website, you will be given the choice as to whether you want to receive email messages about special offers. You may modify your choice at any time on the My Account page, available through a link on the home page of our website. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
+iv
 
-###### How we protect your personal information
+otherwise doing business on the Website or otherwise dealing with any Snapdeal entity.
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email.
+We may receive Personal information about you from third parties, such as social media services, commercially available sources and business partners. If you access Website through a social media service or connect a service on Website to a social media service, the information we collect may include your user name associated with that social media service, any information or content the social media service has the right to share with us, such as your profile picture, email address or friends list, and any information you have made public in connection with that social media service. When you access the Website or otherwise deal with any Snapdeal entity through social media services or when you connect any Website to social media services, you are authorizing Snapdeal to collect, store, and use and retain such information and content in accordance with this Privacy Policy.
 
-###### Blogs
+1.2
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others. Such postings are governed by our Terms of Service. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+**Non-Personal Information**  
 
-###### Children's privacy
 
-Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. 
+Snapdeal may also collect information other than Personal Information from You through the Website when You visit and / or use the Website. Such information may be stored in server logs. This Non-Personal Information would not assist Snapdeal to identify You personally.
 
-###### Visiting our websites from outside India
+**This Non-Personal Information may include:**
 
-This Privacy Policy is intended to cover collection of information on our website from residents of India. If you are visiting our website from outside India, please be aware that your information may be transferred to, stored, and processed in India where our servers are located and our central database is operated. The data protection and other laws of India and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+i
 
-###### Changes to this Privacy Policy
+Your geographic location,
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
+ii
 
-###### How to contact us
+details of Your telecom service provider or internet service provider,
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: Privacy Officer Wishpicker.com B-62, Sec-60, Noida 201301, Uttar Pradesh, India © 2013 Wizmunk Gifting Services Pvt Ltd 
+iii
 
-###### Cookies:
+the type of browser (Internet Explorer, Firefox, Opera, Google Chrome etc.),
 
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or account ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. 
+iv
 
-###### Web Beacons:
+the operating system of Your system, device and the Website You last visited before visiting the Website,
 
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
+v
+
+The duration of Your stay on the Website is also stored in the session along with the date and time of Your access,
+
+Non-Personal Information is collected through various ways such through the use of cookies. Snapdeal may store temporary or permanent ‘cookies’ on Your computer. You can erase or choose to block these cookies from Your computer. You can configure Your computer"s browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website.
+
+Ads: Snapdeal may use third-party service providers to serve ads on Snapdeal’s behalf across the internet and sometimes on the Website. They may collect Non- Personal Information about Your visits to the Website, and Your interaction with our products and services on the Website.
+
+Please do note that Personal Information and Non Personal Information may be treated differently as per this Privacy Policy.
+
+**You hereby represent to Snapdeal that**
+
+  
+
+
+i
+
+the Information you provide to Snapdeal from time to time is and shall be authentic, correct, current and updated and You have all the rights, permissions and consents as may be required to provide such Information to Snapdeal.
+
+ii
+
+Your providing the Information to Snapdeal and Snapdeal’s consequent storage, collection, usage, transfer, access or processing of the same shall not be in violation of any third party agreement, laws, charter documents, judgments, orders and decrees.
+
+Snapdeal and each of Snapdeal entities officers, directors, contractors or agents shall not be responsible for the authenticity of the Information that You or any other user provide to Snapdeal. You shall indemnify and hold harmless Snapdeal and each of Snapdeal entities officers, directors, contracts or agents and any third party relying on the Information provided by You in the event You are in breach of this Privacy Policy including this provision and the immediately preceding provision above.
+
+Your Information will primarily be stored in electronic form however certain data can also be stored in physical form. We may store, collect, process and use your data in countries other than Republic of India but under compliance with applicable laws. We may enter into agreements with third parties (in or outside of India) to store or process your information or data. These third parties may have their own security standards to safeguard your information or data and we will on commercial reasonable basis require from such third parties to adopt reasonable security standards to safeguard your information / data.
+
+2.
+
+Purpose for collecting, using, storing and processing Your Information
+
+Snapdeal collects, uses, stores and processes Your Information for any purpose as may be permissible under applicable laws (including where the applicable law provides for such collection, usage, storage or processes in accordance with the consent of the user) connected with a function or activity of each of Snapdeal entities and shall include the following:
+
+  
+
+
+2.1
+
+to facilitate Your use of the Website or other services of Snapdeal entities;
+
+2.2
+
+to respond to Your inquiries or fulfil Your requests for information about the various products and services offered on the Website;
+
+2.3
+
+to provide You with information about products and services available on the Website and to send You information, materials, and offers from Snapdeal;
+
+2.4
+
+to send You important information regarding the Website, changes in terms and conditions, user agreements, and policies and/or other administrative information;
+
+2.5
+
+to send You surveys and marketing communications that Snapdeal believes may be of interest to You;
+
+2.6
+
+to personalize Your experience on the Website by presenting advertisements, products and offers tailored to Your preferences;
+
+2.7
+
+to help You address Your problems incurred on the Website including addressing any technical problems;
+
+2.8
+
+if You purchase any product or avail of any service from the Website, to complete and fulfil Your purchase, for example, to have Your payments processed, communicate with You regarding Your purchase and provide You with related customer service;
+
+2.9
+
+for proper administering of the Website;
+
+2.10
+
+to conduct internal reviews and data analysis for the Website (e.g., to determine the number of visitors to specific pages within the Website);
+
+2.11
+
+to improve the services, content and advertising on the Website;
+
+2.12
+
+to provide value added services such as Single Sign On. Single Sign On shall mean a session/user authentication process that permits a user to enter his/her name or mobile number or e-mail address or any combination thereof and password in order to access multiple websites and applications;
+
+2.13
+
+to facilitate various programmes and initiatives launched by Snapdeal or third party service providers and business associates
+
+2.14
+
+to analyze how our services are used, to measure the effectiveness of advertisements, to facilitating payments
+
+2.15
+
+to conducting academic research and surveys
+
+2.16
+
+to protect the integrity of the Website;
+
+2.17
+
+to respond to legal, judicial, quasi judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law;
+
+2.18
+
+to conduct analytical studies on various aspects including user behaviour, user preferences etc.;
+
+2.19
+
+to permit third parties who may need to contact users who have bought products from the Website to facilitate installation, service and any other product related support;
+
+2.20
+
+to implement information security practices;
+
+2.21
+
+to determine any security breaches, computer contaminant or computer virus;
+
+2.22
+
+to investigate, prevent, or take action regarding illegal activities and suspected fraud,
+
+2.23
+
+to undertake forensics of the concerned computer resource as a part of investigation or internal audit;
+
+2.24
+
+to trace computer resources or any person who may have contravened, or is suspected of having or being likely to contravene, any provision of law including the Information Technology Act, 2000 that is likely to have an adverse impact on the services provided on any Website or by Snapdeal;
+
+2.25
+
+to enable a potential buyer or investor to evaluate the business of Snapdeal(as further described in paragraph 8 of the Privacy Policy).
+
+[Individually and collectively referred to as (“ **Purposes** ”)]
+
+You hereby agree and acknowledge that the Information so collected is for lawful purpose connected with a function or activity of each of the Snapdeal entities or any person on their respective behalf, and the collection of Information is necessary for the Purposes.
+
+3.
+
+Sharing and disclosure of Your Information
+
+  
+
+
+3.1
+
+The Services are not available to You hereby unconditionally agree and permit that Snapdeal may transfer, share, disclose or part with all or any of Your Information, within and outside of the Republic of India to various Snapdeal entities and to third party service providers / partners / banks and financial institutions for one or more of the Purposes or as may be required by applicable law. In such case we will contractually oblige the receiving parties of the Information to ensure the same level of data protection that is adhered to by Snapdeal under applicable law.
+
+3.2
+
+You acknowledge and agree that, to the extent permissible under applicable laws, it is adequate that when Snapdeal transfers Your Information to any other entity within or outside Your country of residence, Snapdeal will place contractual obligations on the transferee which will oblige the transferee to adhere to the provisions of this Privacy Policy.
+
+3.3
+
+Snapdeal may share statistical data and other details (other than Your Personal Information) without your express or implied consent to facilitates various programmes or initiatives launched by Snapdeal, its affiliates, agents, third party service providers, partners or banks & financial institutions, from time to time. We may transfer/disclose/share Information (other than Your Personal Information) to those parties who support our business, such as providing technical infrastructure services, analyzing how our services are used, measuring the effectiveness of advertisements, providing customer / buyer services, facilitating payments, or conducting academic research and surveys. These affiliates and third party service providers shall adhere to confidentiality obligations consistent with this Privacy Policy.Notwithstanding the above, We use other third parties such as a credit/debit card processing company, payment gateway, pre-paid cards etc. to enable You to make payments for buying products or availing services on Snapdeal. When You sign up for these services, You may have the ability to save Your card details for future reference and faster future payments. In such case, We may share Your relevant Personal Information as necessary for the third parties to provide such services, including your name, residence and email address. The processing of payments or authorization is solely in accordance with these third parties policies, terms and conditions and we are not in any manner responsible or liable to You or any third party for any delay or failure at their end in processing the payments.
+
+3.4
+
+Snapdeal may also share Personal Information if Snapdeal believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of various terms and conditions or our policies.
+
+3.5
+
+We reserve the right to disclose your information when required to do so by law or regulation, or under any legal obligation or order under law or in response to a request from a law enforcement or governmental agency or judicial, quasi-judicial or any other statutory or constitutional authority or to establish or exercise our legal rights or defend against legal claims.
+
+3.6
+
+You further agree that such disclosure, sharing and transfer of Your Personal Information and Non-Personal Information shall not cause any wrongful loss to You or to any third party, or any wrongful gain to us or to any third party.
+
+4.
+
+Links to third party websites
+
+4.1
+
+Links to third-party advertisements, third-party websites or any third party electronic communication service may be provided on the Website which are operated by third parties and are not controlled by, or affiliated to, or associated with, Snapdeal unless expressly specified on the Website.
+
+  
+
+
+4.2
+
+Snapdeal is not responsible for any form of transmission, whatsoever, received by You from any third party website. Accordingly, Snapdeal does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such third party websites, nor does Snapdeal control or guarantee the accuracy, integrity, or quality of the information, data, text, software, music, sound, photographs, graphics, videos, messages or other materials available on such third party websites. The inclusion or exclusion does not imply any endorsement by Snapdeal of the third party websites, the website"s provider, or the information on the website. The information provided by You to such third party websites shall be governed in accordance with the privacy policies of such third party websites and it is recommended that You review the privacy policy of such third party websites prior to using such websites.
+
+5.1
+
+The security of your Personal Information is important to us. Snapdeal strives to ensure the security of Your Personal Information and to protect Your Personal Information against unauthorized access or unauthorized alteration, disclosure or destruction. For this purpose, Snapdeal adopts internal reviews of the data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where Snapdeal stores Your Personal Information. Each of the Snapdeal entity shall adopt reasonable security practices and procedures as mandated under applicable laws for the protection of Your Information. Provided that Your right to claim damages shall be limited to the right to claim only statutory damages under Information Technology Act, 2000 and You hereby waive and release all Snapdeal entities from any claim of damages under contract or under tort.
+
+  
+
+
+5.2
+
+If you choose a payment gateway to complete any transaction on Website then Your credit card data may be stored in compliance with industry standards/ recommended data security standard for security of financial information such as the Payment Card Industry Data Security Standard (PCI-DSS)..
+
+5.3
+
+Snapdeal may share your Information with third parties under a confidentiality agreement which inter alia provides for that such third parties not disclosing the Information further unless such disclosure is for the Purpose. However, Snapdeal is not responsible for any breach of security or for any actions of any third parties that receive Your Personal Information. Snapdeal is not liable for any loss or injury caused to You as a result of You providing Your Personal Information to third party (including any third party websites, even if links to such third party websites are provided on the Website).
+
+5.4
+
+Notwithstanding anything contained in this Policy or elsewhere, Snapdeal shall not be held responsible for any loss, damage or misuse of Your Personal Information, if such loss, damage or misuse is attributable to a Force Majeure Event (as defined below).
+
+5.5
+
+A " **Force Majeure Event** " shall mean any event that is beyond the reasonable control of Snapdeal and shall include, without limitation, sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorised access to computer, computer system or computer network,, computer crashes, breach of security and encryption (provided beyond reasonable control of Snapdeal), power or electricity failure or unavailability of adequate power or electricity.
+
+5.6
+
+While We will endeavor to take all reasonable and appropriate steps to keep secure any Personal Information which We hold about You and prevent unauthorized access, You acknowledge that the internet or computer networks are not fully secure and that We cannot provide any absolute assurance regarding the security of Your Personal Information.
+
+5.7
+
+You agree that all Personal Information shall be retained till such time required for the Purpose or required under applicable law, whichever is later. Non-Personal Information will be retained indefinitely..
+
+  
+
+
+  
+
+
+6.
+
+User discretion and opt out
+
+6.1
+
+You agree and acknowledge that You are providing your Information out of your free will. You have an option not to provide or permit Snapdeal to collect Your Personal Information or later on withdraw Your consent with respect to such Personal Information so provided herein by sending an email to the grievance officer or such other electronic address of the respective Snapdeal entity as may be notified to You. In such case, You should neither visit any Website nor use any services provided by Snapdeal entities nor shall contact any of Snapdeal entities. Further, Snapdeal may not deliver products to You, upon Your order, or Snapdeal may deny you access from using certain services offered on the Website.
+
+6.2
+
+You can add or update Your Personal Information on regular basis. Kindly note that Snapdeal would retain Your previous Personal Information in its records.
+
+7.1
+
+If you find any discrepancies or have any grievances in relation to the collection, storage, use, disclosure and transfer of Your Personal Information under this Privacy Policy or any terms of Snapdeal’s Terms of Use, Term of Sale and other terms and conditions or polices of any Snapdeal entity, please contact the following: 
+
+7.2
+
+**For Jasper Infotecch Private Limited:**  
+Mr. Rakesh Yadav, the designated grievance officer under Information Technology Act, 2000   
+E-mail: grievanceofficer@snapdeal.com.
+
+7.3
+
+**For Accelyst Solution Private Limited:** Mr. Velmurugan Arumugam, the designated grievance officer under Information Technology Act, 2000  
+E-mail: grievanceofficer@freecharge.com
+
+7.4
+
+**For Klickpay Payment Services Private Limited:**  
+Mr. Vibhu Arya, the designated grievance officer under Information Technology Act, 2000   
+E-mail: grievances@klickpay.in 
+
+The details of the grievance officer may be changed by us from time to time by updating this Privacy Policy.
