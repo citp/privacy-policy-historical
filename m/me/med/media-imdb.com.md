@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-imdb.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507173427id_/http%3A//www.media-imdb.com/privacy%3Fref_%3Dft_pvc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-imdb.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052147id_/http%3A//www.media-imdb.com/privacy%3Fref_%3Dft_pvc) for the most accurate reproduction.*
 
 # Privacy - IMDb
 
