@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipsplit.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407164640id_/http%3A//www.chipsplit.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipsplit.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231223812id_/http%3A//www.chipsplit.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to ChipSplit
 
