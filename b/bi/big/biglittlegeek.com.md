@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biglittlegeek.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612065031id_/http%3A//www.biglittlegeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biglittlegeek.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231100416id_/http%3A//www.biglittlegeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BigLittleGeek
 
@@ -66,6 +66,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 BigLittleGeek  
 <http://www.biglittlegeek.com/>
 
-**Email:** bigbiggeekmail@gmail.com
+**Email:**  [Contact Us](http://www.biglittlegeek.com/contact/)
 
 This document was last updated on **March 31, 2015**!
