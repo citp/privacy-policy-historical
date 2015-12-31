@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142802id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231173209id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Disclosure Policy - Terms of Use | Be Brain Fit
 
@@ -77,7 +77,7 @@ If this privacy policy is modified, the revised policy will be posted on this we
 ## Disclosure Policy Regarding Vendor Sales **  
 **
 
-BeBrainFit.com (“website,” “we,” “us”) is a website engaged in providing information  about maintaining and improving cognitive and mental health.
+BeBrainFit.com (“website,” “we,” “us”) is a website engaged in providing information about maintaining and improving cognitive and mental health.
 
 In providing this information, we also routinely provide convenient access to products that we think may be helpful to you. We do this through links to vendor websites where you can purchase these products.
 
