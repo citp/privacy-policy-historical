@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622054505id_/http%3A//www.joomlart.com/joomlart/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231012210id_/http%3A//www.joomlart.com/joomlart/privacy) for the most accurate reproduction.*
 
-# Privacy | JoomlArt
+# Privacy | Joomla Templates and Extensions Provider
+
+### Short version:
+
+We take your privacy seriously and only basic information is required by us for processing the signup process. We do not ask or store your credit card information. We do not share member’s details with anyone, nor we run ads or other commercial activities apart from our said business from our domains. 
+
+Yes, we do send out periodic emails to members to update them on releases, new versions and policy changes. 
+
+Role addresses emails (admin, info, webmaster etc..) are automatically filtered by mailchimp and so we recommend to use active email account to receive such important announcements.
+
+### Long version:
 
 JoomlArt ("Joomla Art") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.JoomlArt.com on the World Wide Web (the "Site"), as well as for JoomlArt services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomArt Privacy Policy.
 
@@ -13,7 +23,7 @@ JoomlArt ("Joomla Art") is committed to protecting your privacy. This Privacy Po
 
 
 
-### General Information
+#### General Information
 
 JoomlArt may periodically update this Privacy Policy. If so, JoomlArt will post the updated Privacy Policy on this Site. JoomlArt encourages you to review this Privacy Policy from time to time for any changes.
 
@@ -21,7 +31,7 @@ By using this Site or any products or services provided through the Site, you ex
 
 Please note that the JoomlArt Users Forum (coming soon) is covered by its own privacy policy, which is available for review at any time.
 
-### Information Collection and Use
+#### Information Collection and Use
 
 You may decide whether to proceed with any activity that requests personally identifiable information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. We do not collect information from individuals under the age of 13. If you are under the age of 13, we ask that you do not submit any personal information through the Site. If we have specific knowledge that an individual under the age of 13 has submitted personally identifiable information to the Site, we will delete such information permanently and without notice.
 
@@ -35,11 +45,11 @@ Except as described below, JoomlArt will only disclose your personally identifia
 
 **Partner Application** : If you request participation in the partner program online, we will ask you for information necessary to complete the transaction such as company name, email address, and company profile.
 
-### If You Opt to Receive Communications, How We Will Contact You
+#### If You Opt to Receive Communications, How We Will Contact You
 
 **Email** : With your permission, JoomlArt will send you communications, including informative emails/newsletters about product upgrades, product updates, new products, and services. These communications provide you with special offers that may be of interest to you. JoomlArt uses a third-party program of outbound email technology to send email from our servers and does not collect information about you but does collect requests to unsubscribe.
 
-### Site Functionality
+#### Site Functionality
 
 **Cookies** : A "cookie" is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while on our Site. You may still use our Site if you reject the cookie. The only drawback to this is that you will be limited in some areas of our Site. For example, you will not be able to use certain features of our forum or other parts of the Site that offer customized settings.
 
@@ -49,7 +59,7 @@ Except as described below, JoomlArt will only disclose your personally identifia
 
 **Newsletter** : If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.
 
-### Security of Your Information
+#### Security of Your Information
 
 All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All JoomlArt employees, and all external service providers who may process and/or store customer data, are briefed about the company's privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom JoomlArt contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
 
@@ -57,7 +67,7 @@ If you have any questions about the security at our Site, you can send an email 
 
 Please note that this email address will reject messages with attachments of any kind.
 
-### Correcting/Updating Personal Information
+#### Correcting/Updating Personal Information
 
 You are free to update your information at any time directly through our Site. At your request, JoomlArt will change your information; we may request evidence of your identity before doing so. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to JoomlArt communications on your behalf. Should you wish to update the email address at which you receive communications from us, please see the next section ("Updating/Unsubscribing Your Email Address") below.
 
