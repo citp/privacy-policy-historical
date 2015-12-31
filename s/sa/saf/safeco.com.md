@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103848id_/http%3A//www.safeco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231205356id_/http%3A//www.safeco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Safeco Insurance
 
