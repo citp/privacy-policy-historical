@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ted.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629092822id_/http%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ted.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231172414id_/http%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our policies + terms | Our Organization | About | TED
 
