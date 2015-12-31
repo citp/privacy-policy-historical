@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623212912id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231090108id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Foot Locker
 
@@ -9,7 +9,7 @@ Privacy Policy
 
 
 
-Last Updated June, 2014
+Last Updated November, 2015
 
 Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at customercare@footlocker.com
 
@@ -35,7 +35,7 @@ If you register with or order from us, we may use cookies to monitor and maintai
 
   4. _Tracking Options._ You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of our offerings. 
 
-Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To opt-out of Foot Locker’s use of cookies to deliver more relevant advertising and to learn about your choices about not having this information used by certain service providers, please [click here](http://dtmc.footlocker.com/adinfo/choice/prod/?type=fpc&cid=2223&cname=Foot%20Locker&cmagic=04048a&clogo=foot_locker.png&loc=us&lang=en). On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising. 
+Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To opt-out of Foot Locker’s use of cookies to deliver more relevant advertising and to learn about your choices about not having this information used by certain service providers, please [click here](http://dtmc.footlocker.com/adinfo/choice/prod/?type=fpc&cid=2223&cname=Foot%20Locker&cmagic=04048a&clogo=foot_locker.png&loc=us&lang=en). For certain service providers, such as social media platforms, and on your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising. 
 
   5. _Information Collected From Other Sources._ We may obtain information about you from other sources, including social networks that you use to connect with us. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity.
   6. _Combination of Information._ We may also combine the information we receive from and about you, including the information you provide to us on the Site or through the Loyalty Program, information we receive from third parties, information we automatically collect (as explained above), and information provided or collected offline when you shop in our Stores.
@@ -59,7 +59,7 @@ We may use the information we collect from and about you for the following purpo
 ******Information Disclosure**  
 We may disclose the information we collect from and about you as follows:
 
-  1. Among the Foot Locker family of companies including Foot Locker, Lady Foot Locker, Kids Foot Locker, Footaction, Final-Score, Champs Sports, Eastbay, CCS and SIX:02.
+  1. Among the Foot Locker family of companies including Foot Locker, Lady Foot Locker, Kids Foot Locker, Footaction, Final-Score, Champs Sports, Eastbay, and SIX:02 for their own marketing purposes.
   2. To our service providers, if the disclosure will enable them to perform a business, professional, or technical support function for us.
   3. To carefully-selected third party partners, so that they may inform you of offers, promotions and services.
   4. For payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and distributing marketing and promotional material
@@ -86,7 +86,7 @@ At all times, you have the option of "opting out" of receiving future e-mail mar
 If you previously registered for a text messaging campaign and now want to opt out, text "STOP" to the short code / number for the program that you've signed up for.
 
 ******Children's Privacy**  
- **We do not sell products for purchase by children.** We sell children's products for purchase by adults. We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen. **You must be 13 years of age or older to submit personal information to us, including to register or place an order on the Website or participate in one of our online promotions.** Please see our [Terms of Use](http://www.footlocker.com/customerserv/help:terms/) for additional information regarding the use of this Website.
+ **We do not sell products for purchase by children.** We sell children's products for purchase by adults. We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen. **You must be 13 years of age or older to submit personal information to us, including to register or place an order on the Website or participate in one of our online promotions.  **Please see our [Terms of Use](http://www.footlocker.com/customerserv/help:terms/) for additional information regarding the use of this Website.
 
 ******Security Of Information**  
 Foot Locker has implemented certain physical, administrative, and technical security measures to protect against the loss, misuse or alteration of the information you provide. We encrypt your personal information, including your credit card number, when transmitting over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure Socket Layer), to safeguard your Internet transactions.
