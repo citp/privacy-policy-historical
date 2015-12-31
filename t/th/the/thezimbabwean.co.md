@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the thezimbabwean.co privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623102412id_/http%3A//www.thezimbabwean.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezimbabwean.co privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231095954id_/http%3A//www.thezimbabwean.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Zimbabwean
 
 At **thezimbabwean.co** we collect different types of information about our users for the following reasons:
 
-  * To help us to monitor and improve the services we offer  
-
-  * To provide personalised services unique to individual users.  
-
+  * To help us to monitor and improve the services we offer 
+  * To provide personalised services unique to individual users. 
   * To use anonymous details about our users to sell appropriate advertising space on the site. 
 
 
 
-Regarding the last point: We may show an advertiser how many users access the site; we will not share an individual's details with an advertiser. Where we collect registration information from an individual, we will never share that individual's information with a third party, including an advertiser, without that user's explicit permission.
+Regarding the last point: We may show an advertiser how many users access the site; we will not share an individual’s details with an advertiser. Where we collect registration information from an individual, we will never share that individual’s information with a third party, including an advertiser, without that user’s explicit permission.
 
 ## Our principles
 
@@ -38,7 +36,7 @@ Should we elect to change our privacy policy we will post the changes here. Wher
 
 ## Updating your personal information
 
-We offer a 'Settings' page, where you can update your personal information at any time. You can get to this page from most pages on the site - simply click on the Settings' link at the top of the screen when you are signed in.
+We offer a ‘Settings’ page, where you can update your personal information at any time. You can get to this page from most pages on the site – simply click on the Settings’ link at the top of the screen when you are signed in.
 
 ## What information do we collect?
 
@@ -64,7 +62,7 @@ Any data processors with access to your data in providing services on our behalf
 
 ## Advertising and affiliate links
 
-The editorial content of **thezimbabwean.co** is not influenced by advertisers or affiliates, nor is it produced for the purpose of promoting goods or services, except where clearly branded as a 'sponsored feature'. We do use affiliate link services on **thezimbabwean.co** from which we may earn revenue.
+The editorial content of **thezimbabwean.co** is not influenced by advertisers or affiliates, nor is it produced for the purpose of promoting goods or services, except where clearly branded as a ‘sponsored feature’. We do use affiliate link services on **thezimbabwean.co** from which we may earn revenue.
 
 ## Legal information under the Data Protection Act 1998
 
