@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewranger.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116231011id_/http%3A//www.viewranger.com/en-us/other/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewranger.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231155758id_/http%3A//www.viewranger.com/en-us/other/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - ViewRanger
 
