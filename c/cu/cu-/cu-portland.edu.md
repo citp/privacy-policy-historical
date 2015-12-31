@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cu-portland.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010234id_/http%3A//www.cu-portland.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cu-portland.edu privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231033410id_/http%3A//www.cu-portland.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Concordia University
 
