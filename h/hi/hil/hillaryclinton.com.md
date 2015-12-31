@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421190539id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231122323id_/https%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Hillary for America
+# Privacy policy | Legal | Hillary for America
 
 HILLARY FOR AMERICA  
 PRIVACY POLICY  
@@ -140,5 +140,4 @@ You may opt out of receiving text messages, updates and newsletters by following
 
 #### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: [website@hillaryclinton.com](mailto:website@hillaryclinton.com)  
-
+If you have any questions about this Privacy Policy, please contact us using [this form](https://forms.hillaryclinton.com/contact).
