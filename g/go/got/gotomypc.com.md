@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623160442id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231132244id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup) for the most accurate reproduction.*
 
 # Citrix Online Privacy Policy Overview - Citrix
 
