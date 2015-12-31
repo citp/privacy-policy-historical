@@ -1,37 +1,36 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626212849id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231193917id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
 
-# Privacy policy - Service - The Independent
+# Privacy Policy | Service | The Independent
 
 Before using the Website – [www.independent.co.uk](http://www.independent.co.uk/) \- it is your responsibility to read the privacy policy.
 
-##### Read more  
-[User Commitment](http://www.independent.co.uk/service/user-commitment-9487055.html)   
-[User Policies](http://www.independent.co.uk/service/user-policies-759573.html)   
-[Cookie policy](http://www.independent.co.uk/service/cookie-policy-7785164.html)   
-[Community Guidelines](http://www.independent.co.uk/service/community-guidelines-9487166.html)   
-[Code of conduct and complaints](http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html)   
-[Competition terms and conditions](http://www.independent.co.uk/service/competition-terms-and-conditions-759575.html)   
-[Advertising terms and conditions](http://www.independent.co.uk/service/advertising-terms-and-conditions-1673234.html)   
-[External contributors: Terms & conditions for freelancers, bloggers and contributors of user-generated content](http://www.independent.co.uk/service/external-contributors-terms--conditions-for-freelancers-bloggers-and-contributors-of-usergenerated-content-7905982.html)   
-[Work experience terms and conditions](http://www.independent.co.uk/service/work-experience-terms-and-conditions-2224620.html)   
-[Corrections and Clarifications](http://www.independent.co.uk/service/corrections-and-clarifications-9487382.html)   
-[Contact Us](http://www.independent.co.uk/service/contact-us-759589.html)
-
 **Please note that Independent Digital News and Media Limited – referred to as independent.co.uk in this policy - may revise this privacy policy at any time by posting an update on its Website.  Please ensure that you check this Website from time to time to review the current privacy policy against any preferences you may have indicated.  This privacy policy was last updated on the date shown above.**
 
- **What is this privacy policy for?**
+**What is this privacy policy for?**
 
 Independent.co.uk is determined to protect your privacy.  It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.  This policy outlines how we may use the personal and behavioural information we hold about you and how you can access, change or delete your personal information.
 
 Knowing something about our users is necessary to ensure that our service is continually improved.  We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you.  That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website.
 
- **Should I read any other information and terms?**
+### Related links
 
-Whenever you use the Website, information may be collected through the use of cookies so you should also read our [Cookie policy](http://www.independent.co.uk/service/cookie-policy-7785164.html) for more information about this.
+[User Policies](http://www.independent.co.uk/service/user-policies-a6184151.html)  
+[Cookie Policy](http://www.independent.co.uk/service/cookie-policy-a6184186.html)  
+[Code of Conduct](http://www.independent.co.uk/service/code-of-conduct-a6184241.html)  
+[Complaint Form](http://www.independent.co.uk/service/complaint-form-a6184246.html)  
+[Contact Us](http://www.independent.co.uk/service/contact-us-6251886.html)  
+[External Contributors Policy](http://www.independent.co.uk/service/external-contributors-policy-7905982.html)  
+[Community Guidelines](http://www.independent.co.uk/service/community-guidelines-9487166.html)  
+[Competition Ts & Cs](http://www.independent.co.uk/service/competition-ts-cs-5895529.html)  
+[User Commitment](http://www.independent.co.uk/service/user-commitment-9487055.html)
 
-You should also read the [Terms of Use](http://www.independent.co.uk/service/user-policies-759573.html) before using the Website.  By accessing and using it you are agreeing to be legally bound by the terms of use and this privacy policy.
+**Should I read any other information and terms?**
 
- **What information will you collect about me?**
+Whenever you use the Website, information may be collected through the use of cookies so you should also read our Cookie Policy for more information about this.
+
+You should also read the Terms of Use before using the Website.  By accessing and using it you are agreeing to be legally bound by the terms of use and this privacy policy.
+
+**What information will you collect about me?**
 
 We may ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users.
 
@@ -43,7 +42,7 @@ If you have any financial dealings, for instance if you make purchases with our 
 
 Please do not submit your personal information to us if you do not want us to collect it.
 
-We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.  We do this using web beacons or cookies through a number of carefully selected, trusted third parties. If you would like to know more about independent.co.uk’s use of cookies and how to manage them, do read our [Cookie policy](http://www.independent.co.uk/service/cookie-policy-7785164.html) .
+We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.  We do this using web beacons or cookies through a number of carefully selected, trusted third parties. If you would like to know more about independent.co.uk’s use of cookies and how to manage them, do read our Cookie Policy.
 
 Sometimes we obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or via a range of sources with your permission (such as surveys or where you have agreed, via opt-in, for your information to be shared with third parties).
 
@@ -51,7 +50,7 @@ We may check our registered viewer database against the information they hold on
 
 We also collect information from social media activity such as when you ‘like’ the Website, share content or follow us on Twitter.  When you sign in to the Website using social media you grant permission to the social network to share your user details. Depending on the network this will include basic account information such as name, email address, date of birth and any other details you choose to share according to your particular social media account settings.
 
- **How will this information be used?**
+**How will this information be used?**
 
 We use the aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and what they want. We may use it to assist us in arranging more personalised advertising, commercial opportunities and competitions which help us keep the Website free for you to enjoy. 
 
@@ -81,27 +80,27 @@ The information about you as an identifiable individual, including contact detai
 
 * Sending a product to your home address
 
- **Will I receive spam?**
+**Will I receive spam?**
 
 We will not send you any unsolicited marketing. We will only send you emails or other marketing messages where you have signed up to receive these. Marketing emails you have signed up to will also tell you how you can unsubscribe should you decide that you no longer wish to receive them.
 
 Please note that registered users may receive important information about Independent.co.uk (such as changes to the Independent.co.uk service or other administration matters). As a registered user, this is not spam.
 
- **How can I access and update my personal information?**
+**How can I access and update my personal information?**
 
 You can update some of your personal information by signing in to your account page or through your social network provider.
 
- **How long do you keep my personal information for?**
+**How long do you keep my personal information for?**
 
-We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected. 
+We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected.
 
 Please note that if your account appears to have not been used for 2 years, we may try and contact you to check whether it is still in use and/or we may delete it.
 
- **What security measures do you use?**
+**What security measures do you use?**
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
- **Who will you share my personal information with?**
+**Who will you share my personal information with?**
 
 By using the Website, you agree that we may disclose your personal information to any company within the Independent.co.uk group of companies, which includes the companies which publish The Independent, Independent on Sunday, i and the London Evening Standard newspapers and Websites, and broadcasts London Live and its Website.
 
@@ -117,30 +116,35 @@ We may also have to release information (which could include the contents of ema
 
 We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
- **Will my data be sent overseas?**
+**Will my data be sent overseas?**
 
 As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country.
 
 You should be aware that by using the Website and those of our partners or any Website we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
 
- **What do I do if I am not happy for you to share information about me with others?**
+**What do I do if I am not happy for you to share information about me with others?**
 
 You may not wish us to share personal details about you with third parties outside Independent.co.uk, or to use your information in the other ways we have described in this privacy policy.
 
 You can email _[customerservices@independent.co.uk](mailto:customerservices@independent.co.uk)_ at any time to let us know of any objections you may have as to how we use or disclose your data in the ways set out in this privacy policy.
 
- **Message boards, blogs and other public forums**
+**Message boards, blogs and other public forums**
 
-The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s [terms of use](http://www.independent.co.uk/service/user-policies-759573.html) and [Community Guidelines](http://www.independent.co.uk/service/community-guidelines-9487166.html) .
+The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s Terms of Use and Community Guidelines.
 
- **Email a friend and share this article facilities**
+**Email a friend and share this article facilities**
 
 When you use these facilities and provide us with personal data (for example, name and email address) of a third party, please ensure that you have their consent before giving us their details.
 
- **Other Websites**
+**Other Websites**
 
 The Website may, from time to time, contain links to and from the Websites of advertisers and other third parties. If you follow a link to any of these Websites, please note that these Websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these Websites.
 
- **Further information**
+**Further information**
 
 If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please email us at _[customerservices@independent.co.uk](mailto:customerservices@independent.co.uk)_.
+
+  * More about: 
+  * [user policies](https://web.archive.org/topic/user-policies)
+
+
