@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.gc.ca privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630143335id_/http%3A//news.gc.ca/web/prvc-en.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.gc.ca privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231140416id_/http%3A//news.gc.ca/web/prvc-en.do) for the most accurate reproduction.*
 
 # Privacy - Canada News Centre
 
@@ -30,7 +30,9 @@ Personal information from emails or completed feedback forms is collected pursua
 
 ## Third-Party Social Media
 
-The Government of Canada’s use of social media serves as an extension of its presence on the Web. Social media account(s) are public and are not hosted on Government of Canada servers. Users who choose to interact with the Government of Canada via social media should read the terms of service and privacy policies of these third-party service providers and those of any applications used to access them. 
+The Government of Canada’s use of social media serves as an extension of its presence on the Web. Social media account(s) are public and are not hosted on Government of Canada servers. Users who choose to interact with the Government of Canada via social media should read the terms of service and privacy policies of these third-party service providers and those of any applications used to access them. Government of Canada's uses Twitter.
+
+Personal information that you provide to the Government of Canada via social media account(s) is collected under the authority of the Financial Administration. This information is collected to capture conversations (e.g. questions and answers, comments, "likes", retweets) between you and the Government of Canada. It may be used to respond to inquiries, or for statistical, evaluation and reporting purposes. Comments posted that violate Canadian law will be deleted and disclosed to law enforcement authorities. Comments that violate our Terms and Conditions could also be deleted. The personal information is included in Personal Information Bank Outreach Activities (PSU 938)].
 
 ## Improving your Experience on Government of Canada Websites 
 
@@ -88,4 +90,4 @@ Any questions, comments, concerns or complaints you may have regarding the admin
 If you are not satisfied with ESDC’s response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
 
 Date modified:
-     2015-06-30 
+     2015-12-31 
