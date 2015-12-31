@@ -1,794 +1,774 @@
-<!--The following is the downloaded HTML source of the last.fm privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626014516id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the last.fm privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231170612id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="js lastfm" data-ad-zone="legal:legal:privacy"><head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge; chrome=1">
-    <link rel="profile" href="http://purl.org/uF/2008/03/">
-        <!--–[if IE]--><!--[endif]–-->
+<!DOCTYPE html><html lang="en" class="js"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYPV15QGwYFXFlXDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"5588594","transactionName":"Y1BRbUUFWkMEWxYMV1oadUxZB0BZClZNCV5ZG0RcVUpDRxIWFAxdQ0YdSkMFQFkGAhIXUUJUUEA=","agent":"js-agent.newrelic.com/nr-768.min.js","errorBeacon":"bam.nr-data.net","queueTime":0,"licenseKey":"0ed0ce50b0","beacon":"bam.nr-data.net","applicationTime":32}</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>Privacy Policy – Last.fm</title>    
+        <title>Privacy Policy — Last.fm</title>
+        <meta name="description" content="The world’s largest online music catalogue, powered by your scrobbles. Free listening, videos, photos, stats, charts, biographies and concerts.">
+
+        
+    
+        <link rel="alternate" hreflang="en" href="http://www.last.fm/legal/privacy">
+    
+        <link rel="alternate" hreflang="de" href="http://www.last.fm/de/legal/privacy">
+    
+        <link rel="alternate" hreflang="es" href="http://www.last.fm/es/legal/privacy">
+    
+        <link rel="alternate" hreflang="fr" href="http://www.last.fm/fr/legal/privacy">
+    
+        <link rel="alternate" hreflang="it" href="http://www.last.fm/it/legal/privacy">
+    
+        <link rel="alternate" hreflang="ja" href="http://www.last.fm/ja/legal/privacy">
+    
+        <link rel="alternate" hreflang="pl" href="http://www.last.fm/pl/legal/privacy">
+    
+        <link rel="alternate" hreflang="pt" href="http://www.last.fm/pt/legal/privacy">
+    
+        <link rel="alternate" hreflang="ru" href="http://www.last.fm/ru/legal/privacy">
+    
+        <link rel="alternate" hreflang="sv" href="http://www.last.fm/sv/legal/privacy">
+    
+        <link rel="alternate" hreflang="tr" href="http://www.last.fm/tr/legal/privacy">
+    
+        <link rel="alternate" hreflang="zh" href="http://www.last.fm/zh/legal/privacy">
+    
+
         <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
 
-    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm">
-            <meta name="description" content="The world’s largest online music catalogue, powered by your scrobbles. Free listening, videos, photos, stats, charts, biographies and concerts.">
+        
 
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-            <meta name="robots" content="NOODP">
+            ga('create', 'UA-1966571-17', 'auto', 'notTealium');
+            ga('notTealium.send', 'pageview', '/legal/privacy');
+        </script>
+
+        <link rel="icon" href="//static-web.last.fm/static/images/favicon.702b239b6194.ico">
+
+        <link rel="stylesheet" href="/static/CACHE/css/75be28ec5263.css" type="text/css" data-stylesheet-name="app">
 
         
-                <meta property="og:site_name" content="Last.fm">
-<meta property="fb:app_id" content="192959324047861">
-
-    <meta property="og:image" content="http://cdn.last.fm/flatness/logo_opengraph.jpg">    
-                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico">
-        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png">
-    
-        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png">
-    <meta name="msapplication-TileColor" content="#d51007">
-    
-        <meta name="apple-itunes-app" content="app-id=585235199">
-
-    
-    
-    
-            
-            <link rel="alternate" hreflang="de" href="http://www.lastfm.de/legal/privacy">
-                <link rel="alternate" hreflang="es" href="http://www.lastfm.es/legal/privacy">
-                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/legal/privacy">
-                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/legal/privacy">
-                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/legal/privacy">
-                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/legal/privacy">
-                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/legal/privacy">
-                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/legal/privacy">
-                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/legal/privacy">
-                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/legal/privacy">
-                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/legal/privacy">
-        
-    
-        <style>html {zoom: 1;}</style>    <script>
-
-        if(top !== self && top.location.domain !== self.location.domain) {
-            (function(d, s) {
-                if(s && s.insertRule) {
-                    s.insertRule('body { display: none !important }', 0);
-                } else if(s && s.addRule) {
-                    s.addRule('body', 'display: none !important');
-                }
-                top.location.replace(d.location.href);
-            })(document, document.styleSheets[0]);
-        }
-</script>
-
-                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css">
-                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/legal/overview.css">
-                        
-        
-<!--[if lt IE 9]>
-    <script>
-
-        window.html5 = {
-            shivCSS: false
-        }
-</script>
-    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
-<![endif]-->
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>$.noConflict();</script>
-<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
-<script>
-    if(typeof Prototype === 'undefined') {
-        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
-    }
-</script><script src="http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
-<script>
-    if(typeof Scriptaculous === 'undefined') {
-        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
-    }
-</script><script src="http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js"></script>
-<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
-
-<script>SM2_DEFER = true;</script>
-<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
-
-<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
-
-<script>
-    LFM.Adserver.showAds = true;
-    LFM.set("Session", {"cookieHost":".last.fm","host":"www.last.fm","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"ca","language":"en","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
-    LFM.set("resTypes", {
-        EVENT: 29,
-        ARTIST: 6,
-        ALBUM: 8,
-        TRACK: 9,
-        GROUP: 20,
-        TAG: 32,
-        USER: 4,
-        LABEL: 10
-    });
-    LFM.set("resTypeLookup", {
-        29: "Event",
-        6: "Artist",
-        8: "Album",
-        9: "Track",
-        20: "Group",
-        32: "Tag",
-        4: "User",
-        10: "Label"
-    });
-
-    LFM.set("String", {okText: "OK",cancelText: "Cancel",clickToEditText: "Click to edit",savingText: "Saving…",loadingText: "Loading…",deletingText: "Deleting…",thereWasAnError: "There was an error.",dialogLoadError: "There was an error loading this dialog.",fileTooBig: "Sorry, the file is too big.",noFile: "Please choose a file.",uploadCancelled: "Upload Cancelled.",deleteMessageTitle: "Delete Message",deleteMessagePrompt: "Are you sure you want to delete this message?",deleteFriendPrompt: "Are you sure you want to delete this friend?",deleteImage: "Are you sure you want to delete this image?",deleteButtonText: "Delete",done: "Done",backText: "Back",yesText: "Yes",noText: "No",saveText: "Save",saveTitle: "Add to profile",sendText: "Send",sendTitle: "Share with friends",addTitle: "Add to library",tagTitle: "Add tags",playlistTitle: "Add to playlist",befriendTitle: "Add a friend",labsfeedbackTitle: "Give us your feedback",joinTitle: "Join this group",loved: "Loved",RemoveFromLibraryTitle: "Remove from library",uploadImageTitle: "Upload Image",uploadVideoTitle: "Upload Video",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Flag for review",setLocationTitle: "Set your Location",newWindowTooltip: "This link will open in a new window",unloadWarningMessage: "This will stop playback",trackLoved: "You loved this track",playbackStopped: "Playback stopped",loadingTrackInfo: "Loading track information",errorLoadingTrackInfo: "Error loading track information",emailLineup: "Email this",uploadMessages: {mayTakeLonger: "Sorry, this may take slightly longer than usual. Hold on a couple of seconds.",uploading: "Uploading…",endUploading: "Done",progressDisplay: "PERCENTUPLOADED% complete (TRANSFERRATE kb/s) – TIMEREMAINING seconds remaining",progressComplete: "100% complete",failedRetrying: "Failed retrying upload, bailed.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mar",'4': "Apr",'5': "May",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Oct",'11': "Nov",'12': "Dec"},resTypePlural: {29: "Events",6: "Artists",8: "Albums",9: "Tracks",20: "Groups",32: "Tags",4: "Users","friends":   "Friends",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Play\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
-        LFM.AdPlacements = ["beacon","interstitial","skin"];
-</script>
-
-
-<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
-
-    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
-    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
-    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
-    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
-    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
-
-<script>
-
-LFM.Page.Tracker = new LFM.Analytics.Tracker('Legal/Privacy/', window.location.host);
-
-document.observe('dom:loaded', function() {
-
-    LFM.Page.Tracker.bindOutboundLinkListener();
-    LFM.Page.Tracker.bindEventListener();
-
-});
-
-</script>
-
-
-    
-    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
-
-    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.last.fm",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",transformedUrl:"legal/privacy/"}</script></head>
-
-
-
-<!--[if lt IE 7 ]> <body class="a-privacy lfmRed  lang-en theme-flatness ie ie6"> <![endif]-->
-<!--[if IE 7 ]>    <body class="a-privacy lfmRed  lang-en theme-flatness ie ie7"> <![endif]-->
-<!--[if IE 8 ]>    <body class="a-privacy lfmRed  lang-en theme-flatness ie ie8"> <![endif]-->
-<!--[if IE 9 ]>    <body class="a-privacy lfmRed  lang-en theme-flatness ie ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <body class="a-privacy lfmRed  lang-en theme-flatness"> <!--<![endif]-->
-
-        <script>var WRInitTime = +new Date();</script>
-
-    
-            <div id="page" class="            ">
-            <div id="legal" class="fixed">
-
-                                
-
-<div id="LastAd_beacon" class="LastAd ad-beacon inactive" data-require="ads/staticadslot" data-ad-static="" data-ad-placement="beacon" data-ad-collapsible="">
-    <span>     
-            <script>
-
-
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-
-(function() {
-    var useSSL = 'https:' == document.location.protocol;
-    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-})();
-
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-<script>
-    
-    var googleSlots = { };
-    var googleDisplayed = false;
-    
-
-    googletag.cmd.push(function() {
-        var unitName = "/8264/aw-lastfm/legal/legal/privacy",
-            isVR = false,
-            isDynamic = false,
-            isAnonHome = false;
-    
-
-    function hasPlacement(placement) {
-        return LFM.AdPlacements.indexOf(placement) >= 0;
-    };
-
-    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
-    // The leaderboard slot height is fixed at 90px when using dynamic ads,
-    // showing a taller leaderboard would cause the page to jump, so we don't request them
-    if ( ! isDynamic) {
-        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
-    }
-
-    if (hasPlacement('leaderboard')) {
-        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
-        .addService(googletag.pubads())
-        .setTargeting("pos", "top");
-    }
-
-    var mpuSizes = [[300,250],[138,108]] ;
-    if (! isAnonHome) {
-        mpuSizes.push([300,600]);
-    }
-
-    var lowerMpuSizes = [[300,250]];
-
-    if (hasPlacement('mpu')) {
-        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
-        .addService(googletag.pubads())
-        .setTargeting("pos", "top");
-    }
-
-    if (hasPlacement('lowermpu')) {
-        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
-        .addService(googletag.pubads())
-        .setTargeting("pos", "bottom");
-    }
-
-    if (hasPlacement('skin')) {
-        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
-        .addService(googletag.pubads())
-        .setTargeting("pos", "top");
-    }
-
-    if (hasPlacement('interstitial')) {
-        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
-        .addService(googletag.pubads());
-    }
-
-    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
-    if (hasPlacement('lowerleaderboard')) {
-        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
-        .addService(googletag.pubads())
-        .setTargeting("pos", "bottom");
-    }
-
-    if (hasPlacement('sky')) {
-        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
-        .addService(googletag.pubads())
-        .setTargeting("pos", "top");
-    }
-
-    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
-    // i.e. no flickering
-    googletag.pubads().collapseEmptyDivs(true);
-
-    if ( ! isVR) {
-        googletag.pubads().enableSingleRequest();    
-
-        if ( ! isDynamic) {
-            googletag.pubads().enableSyncRendering();    
-        }
-    }
-
-    if (screen.width >= 1280) {
-        googletag.pubads().setTargeting("inskin", "yes");
-    }
-
-    
-
-            googletag.pubads().setTargeting("geo", "CA");
-            googletag.pubads().setTargeting("lang", "en");
-    
-    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
-    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
-
-    googletag.enableServices();
-    
-
-  });
-
-</script>        
-    </span>
-</div>
-    <div id="LastAd_interstitial" class="LastAd ad-interstitial inactive" data-require="ads/staticadslot" data-ad-static="" data-ad-placement="interstitial" data-ad-collapsible="">
-    <span>     
-            <div id="intromercial">
-    <script>
-        googletag.cmd.push(function() {
-            googletag.display("intromercial"); 
-        });
-    </script>
-</div>        
-    </span>
-</div>
-    <div id="LastAd_skin" class="LastAd ad-skin inactive" data-require="ads/staticadslot" data-ad-static="" data-ad-placement="skin" data-ad-collapsible="">
-    <span>     
-            <div id="skin">
-    <script>
-        googletag.cmd.push(function() {
-            googletag.display("skin"); 
-        });
-    </script>
-</div>        
-    </span>
-</div>
-
-<div class="masthead-wrapper">
 
         
     
-            
+    <script data-main="//static-web.last.fm/static/js-build/init.a0a8f0872d00" src="//static-web.last.fm/static/js-build/lib/require/require.df447417ad50.js"></script>
+
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body class="
+            two-column-layout
+            namespace--legal_privacy
+
+
+
+
+
+
+        " data-require="ads/page-ads,ads/netseer-ads,player/playlink-handler,dev/grid-overlay,dev/debug-log,dev/js-log,components/link-block,components/ajax-form,core/media-size-events" data-player-supported="true" data-country-code="US">
+        <div data-require="components/open-modal,components/show-alert,shim/remove-focus"></div>
+        
+
     
+        <div class="top-bar">
+            <div class="semi-fluid-container js-loading-indicator-container">
                 
-    <header class="masthead" role="banner">
-        <h1>
-            <a href="/" class="ir lastfm-logo">
-                Last.fm
-            </a>
-        </h1>
+                    
+    <section data-require="player/controls" data-player-status-ad-playing="Ad playing" data-player-status-inactive="&nbsp;" data-player-status-loading-spotify="Connecting Spotify…" data-player-status-communication-error-spotify="Could not connect to Spotify. Try reloading the page." data-player-status-spotify-signup="Could not find Spotify. Starting installation…" data-player-error-cannot-play-item="Sorry, that item can't be played right now" class="
+            player-bar
+            inactive
+        " aria-label="audio player" aria-disabled="true" role="region">
 
-        <form class="
-                site-search
-                search-autocomplete
-                search-autocomplete--main
-            " method="get" action="/search" role="search" data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete">
-            <fieldset>
-                <legend class="rm">Site Search</legend>
-                <input type="text" name="q" autocorrect="off" autocomplete="off" placeholder="Music search" size="26" class="js-search search-box">
-                <div class="js-search-progress search-progress ir">Loading</div>
-                <input type="hidden" name="from" value="ac">
-                <button type="submit" class="search-submit icon iconleft iconleft--search" title="Search"></button>
-            </fieldset>
-        </form>
-
-        <nav role="navigation">
-            <ul class="primary-nav remove-bottom-margin">
-                <li class="primary-nav-item">
-                    <a href="/music" class="primary-nav-link">Music</a>
-                </li>
-                <li id="listenNav" class="primary-nav-item">
-                    <a href="/listen" class="primary-nav-link">Listen</a>
-                </li>
-                <li class="primary-nav-item">
-                    <a href="/events" class="primary-nav-link">Events</a>
-                </li>
-                <li class="primary-nav-item">
-                    <a href="/charts" class="primary-nav-link">Charts</a>
-                </li>
-                                    <li class="primary-nav-item originals">
-                        <a href="http://originals.last.fm" class="primary-nav-link">Originals</a>
-                    </li>
-                                            </ul>
-
-            <div class="masthead-right" role="navigation">
-                                    <a href="/join" class="join" data-analytics-action="SignUpClick" data-analytics-label="Header">Join</a>
-                    <a href="/login" id="login-link" class="btn btn--small btn--header btn--rounded login">Login</a>
-                            </div>
-        </nav>
-    </header>
-    
-    <link rel="stylesheet" type="text/css" href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css">
-<div class="persistent-bar">
-    <div class="spotify-mediabar-wrapper">
-        <div id="spotify-mediabar" class="spotify-mediabar" data-require="spotify/spotifymediabar"></div>
-    </div>
-    <a href="#" class="spotify-mediabar-feedback" data-require="labfeedbackbutton" data-lab-name="spotifyplayback">
-        <span class="beta-badge">Beta</span> Feedback
-    </a>
-</div>
-<div id="spotify-signup-complete-modal" data-require="spotify/signupcompletemodal">
-    <div class="sparse-modal js-modal"></div>
-</div>
-    </div><div id="content" class="clearit">
-    <div class="leftCol">
-        <div class="leftColWrapper styledText">
-            <h1>Your privacy matters</h1>
-
-<p style="color: #888"><strong>Updated on: Tuesday 15 January 2013</strong></p>
-
-<ul>
-    <li>We have a pretty simple privacy policy. We are reasonably sure this won’t annoy anyone.</li>
-    
-    <li>The entry of personal data on this site is completely optional and will require you to setup an account with a password and an email address. Please choose a password that is not easy for someone else to guess, such as birthday, national identification number and phone number.</li>
         
-    <li>If you want to, you can also submit additional personal information (including on your profile and on message boards). Please remember that any information you submit becomes public information that can be viewed by others.</li>
-    
-    <li>Certain third parties may have access to your data (which may include personal information, but not your email contact information) via our API and webservices or arrangements with our business partners. These people may use this information for their own purposes, which may be either commercial or non-commercial in nature and may include targeted advertising or direct marketing. These third parties may be based in the U.K. or elsewhere in the world.</li>
 
-    <li>We may use the email address provided by you to contact you from time to time about the Last.fm service. We won’t pass your email address on to anyone to contact you directly about their own products or services, not even Lars Ulrich at gunpoint (unless you have provided your prior consent to do so). Our policy is to provide a clear and easy way for you to opt out of receiving specific types of emails.</li>
-    
-    <li>Your pseudonymous listening habit data will be available to other Last.fm users for non-commercial use and to third parties via our API for their own commercial and/or non-commercial purposes. This statistical information is used to help third parties understand the likes and dislikes of music fans on Last.fm.</li>
-    
-    <li>We may display links to third party sites which allow you to provide personal information to them directly. We advise you to check their terms of use and privacy policies of these sites to find out how they are treating your personal information.</li>
-    
-    <li>We use cookies (which can only be read by us) to collect data that we can use to improve the efficiency and quality of our service to you. If you want, you can turn these cookies off, but it may mean that the Last.fm service doesn’t function quite as well. Third party advertisement companies may also collect information (which is generally not personally identifiable) from you via cookies about the websites that you visit and your other activities on the Last.fm service. We encourage you to read these businesses’ privacy policies if you are concerned about how they will handle your information and your choices concerning their use of your information. Please read paragraph 12 of this policy for more information about the cookies used on the Last.fm website. Unless you have disabled the use of cookies on your browser, by using the Last.fm services, you agree to the use of all the cookies listed in paragraph 12.</li>
-    
-    <li>Children under the age of 13 are not eligible to use our service and must not attempt to register with us and/or submit any personal information to us. Young people between 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand.</li>
-</ul>
-
-
-<h2 class="heading"><span class="h2Wrapper">Last.fm Privacy Policy</span></h2>
-<p>Last.fm Limited (“Last.fm” or “we” “our” or “us”) owns or controls, and provides access to the Last.fm website, currently located at www.last.fm (the “Website”).</p>
-
-<p>At Last.fm, we are fully committed to respecting your privacy and to protecting any information you provide to us. We treat both privacy and security as a priority and make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the “Policy”) is designed to respect and protect the privacy of all visitors to the Website and is intended to inform you about the way that we treat your personal data.</p>
-
-<p>The Policy explains how Last.fm collects and uses information. We hope that our candour will remove any concerns you may have and will make visiting the Website a rewarding experience.</p>
-
-<p><strong>If you would like to obtain information about how we may have shared your information with third parties for their direct marketing purposes, you may send such requests to us via postal mail at: Data Access Request, Last.fm Limited, 5-11 Lavington Street, London, SE1 0NZ or contact us via email at: <a href="mailto:legal@last.fm">legal@last.fm</a>.</strong></p>
-
-<p>Although we endeavour to keep you up-to-date on all changes made to the Website, this Policy may be amended from time to time without notice to you. It is your responsibility to read the Policy carefully and review any changes that may have been made.</p>
-
-<h1>1. Personal Information</h1>
-
-<p>In order to use certain features of the Website, you will need to register. When registering you will be asked to provide an email address and create a username and password.  You may also choose to create a more detailed profile of yourself on the Website by submitting additional personal information. <strong>Please note that even if you do not provide any additional personal information to the Website (e.g., by adding it to your user profile), if you choose a username that includes or reveals your name or any other personal information, such information may be available to other users of the Website and to the general public.</strong> For purposes of this Policy, the terms “personal information” and “personally identifiable information” shall mean all information provided during your initial registration on the Website and during your creation of a user profile, including, for example, your real name, e-mail address, postal address and other location information, your age, your gender and certain other demographic information or information that may enable online or offline contact with you.</p>
-
-<p>If you choose to purchase music or other goods or services by clicking on a third party link provided on the Website (for example, a link to Amazon.com), such third party may collect your personal details (such as your credit card number, address, etc.) for the purpose of completing a transaction. We may be provided with confirmation of your transactions with such third parties and, in some instances, such confirmation may include your personal information. Aside from such confirmations, the only information that we will collect with respect to such third party links is: (a) the number of generic Last.fm users who utilised such links; and (b) the number of purchases made by these generic users.</p>
-
-<p>Where you upload photographs or other content as part of your user profile, you should be aware that Last.fm is entitled to use those photographs and content in accordance with our Terms of Use. Last.fm discourages users from uploading photographs of friends or other people without their permission.</p>
-
-<h1>2. Record Collection</h1>
-
-<p>From the moment you register and begin listening to music on Last.fm, our Profile Navigation software will begin to create and maintain your record collection. This is accomplished by monitoring your activity on the website (i.e. which songs you listen to, which songs you skip, and the degree of difference or similarity you request when you choose to skip a particular song). In addition, your record collection will be affected by other actions you take, such as sending a song recommendation to another user or manually selecting certain songs, albums or artists to be included in your record collection. All of the information that is generated by your activity on the website is fed back into Profile Navigation in order to fine tune your profile so that Last.fm can play more of what you like and less of what you don’t like. Last.fm also maintains a central database of information collected by the Profile Navigation software (which may include your personal information).  Last.fm makes some of this information available to third parties to undertake development of new products and services via the API.</p>
-
-<p>Last.fm does not process any personally identifiable information related to your record collection and/or profile in any manner other than as described in this Policy. However, please note that, in addition to the third party access that is identified in this Policy, your record collection (including your skipping history) may be viewed by all other users of Last.fm (who may include other organisations or representatives of other organisations who have registered as Last.fm users) and that they may easily associate this information with your Last.fm username.  Please see the Statistical Information section below to learn more on this subject and to learn how we log and use information related to your record collection and/or profile in the aggregate.</p>
-
-<h1>3. Location-based Information</h1>
-
-<p>We keep track of the domains from which people visit Last.fm, but we cannot see a user’s zip code, post code, city or country unless the user chooses to explicitly provide this information to us. If you do choose to include information about your city or country of residence when setting up your user profile, please be aware that such information may be available for viewing by other users of the Website and to the general public.</p>
-
-<h1>4. Browser Information</h1>
-
-<p>We collect data regarding the users of Last.fm, including: (i) The Internet Protocol (IP) address of the user’s computer. This may or may not be associated with a particular Internet Service Provider (ISP); (ii) The referring URL, if any; (iii) The browser software identification (i.e. the brand and version of your browser software).</p>
-
-<h1>5. Statistical Information</h1>
-
-<p>We log certain information concerning the listening, skipping and music-sharing activities of users and other activities whilst they use the Website, and we may match such information with personally identifiable information concerning such users.  For example, it is possible for us to know which records you listen to, which you skip, which you recommend to other users and which you add to your record collection.  However, information related to your listening, skipping and music-sharing activities may be viewed by all other users (who may include other organisations or representatives of other organisations who have registered as Last.fm users) in conjunction with your Last.fm username and by third parties who have access to this information via Last.fm’s API and webservices, as further explained in this Policy.</p>
-
-<p>Please note that we do log and use statistical information in the aggregate. For example, we know the number of users who skip a particular song. From this information we are able to compile statistics in the form of percentages of all users (i.e. 29% of our users skipped song XYZ). We can of course compare the skipping statistics of one song to those of another song. We are also able to perform more sophisticated statistical operations based on the information collected. For example, we can determine the raw number (and associated percentages) of users who listen to one particular song that also listen to other particular songs. From this information, we are able to determine which songs are “neighbours” in terms of overall listener taste and we can see which genres of music tend to be neighbours. As a service, we may supply certain aggregate statistical information to record labels and artists that allow us to stream their music on Last.fm in order to help them understand the likes and dislikes of music listeners.</p>
-
-<h1>6. Use of Personal Information</h1>
-
-<p><strong>We will use the email address provided by you when you register to contact you from time to time. This may be for security reasons (so that we can check that you are who you say you are), to ask your opinion about the Website, or it may be to keep you updated on the services currently available on the Website and any changes to those services and those that we intend to launch in the future.  We may also use such personal information to send you notices, on behalf of others and ourselves, regarding products and services that we think may be of interest to you.</strong></p>
-
-<p><strong>Last.fm may also use your personal information and non-personal information to help Last.fm and its commercial partners deliver targeted advertisements, promotions and other similar initiatives to you.</strong></p>
-
-<p><strong>Your username, together with other information concerning your use of the Last.fm Website, as well as any personal information included in your user profile, will be made available via Last.fm’s open application interface (the “API”), which forms part of our ‘AudioScrobbler’ technology. See section 11 below for further details.</strong></p>
-
-<p><strong>We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services, unless you have provided your express prior consent when signing up on the Website. You may withdraw your consent by notifying us at <a href="mailto:legal@last.fm">legal@last.fm</a>.</strong></p>
-
-<h1>7. Message Boards / Chat / Communications With Other Users</h1>
-
-<p>We currently offer message board functionality and in the future we may offer other interactive features, such as instant messaging and chat. Please note that all personal information you display or communicate using such functionality becomes public information and we are not responsible for any information you choose to make public. We may, but have no obligation to, monitor such traffic via electronic software or otherwise in order to check for obscenity, defamation or abusive language, which we reserve the right to remove at any time. In addition, if you choose to personally communicate or meet with any other Last.fm user by exchanging postal/email addresses, telephone numbers or otherwise via the interactive functionality of Last.fm, you do so at your own risk. Last.fm cannot be held responsible for any consequences which flow from your decision to communicate or interact with other Last.fm users in places or under circumstances which we do not control. We advise you to use extreme caution whenever you post information, socialise or interact with people whom you have met via the internet.</p>
-
-<p>From time to time, you may be able to send to a friend, and a friend or contact may be able to send to you, information about our Website or services (e.g., to provide you with access to a song or message), by clicking on an “E-mail-a-Friend” or similar button on the Website or other third-party websites.  In some of these cases (unless you simply forward an e-mail from Last.fm on your own), you, or your friend, may be able to provide your friend’s, or your, name and e-mail address to us.  Such information will be treated in accordance with this Privacy Policy and applicable law. If Last.fm receives your email address in this way and you are not an existing registered user of the Website, Last.fm will delete your email address immediately after providing you with the song or message. Last.fm does not collect or store personal information received from third parties.</p>
-
-<h1>8. Software Updates</h1>
-
-<p>In order to ensure that Last.fm is functioning at its best, from time to time we may ask you to upgrade to a newer version of our software. In addition, we may find it necessary to send you automatic fixes or support files. If we make a modification that materially affects your privacy, we will endeavour to notify you of such modification and we will update this Privacy Policy accordingly.</p>
-
-<h1>9. Links</h1>
-
-<p>We may display links to third party sites. However, we cannot control and cannot be held responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their terms of use and privacy policies to find out how they are treating your personal information.</p>
-
-<h1>10. Data Protection</h1>
-
-<p>Last.fm complies with the Data Protection Act 1998 (the “Act”), including UK amending legislation and E.U. Directives. Pursuant to the Act, you have the right to be informed of, and to have access to, all of the personally identifiable information we hold about you, and you may do so by visiting your user profile when logged-in to your account on the Website, or by e-mailing us at: <a href="mailto:legal@last.fm">legal@last.fm</a>.</p>
-
-<p>We may store information provided by you on our servers both in the U.S. and in the U.K. See Section 18 below for additional information.</p>
-
-
-<h1>11. Last.fm Software and transfers of your information</h1>
-
-<p>If you choose to download the Last.fm software, it will monitor all the music you listen to on your computer (even if you are not online). It will then send this information to Last.fm via Audioscrobbler. This information will then be integrated into Last.fm to enhance the depth of your record collection and the accuracy of your profile. The Last.fm software cannot and will not collect and transfer any other information from your computer other than as described above. However, please be advised that Last.fm cannot be liable for any damage which may occur to your computer as a result of downloading the Last.fm software, nor shall it be liable for any invasion of privacy related to the same.</p>
-
-<p>We may use third-party partners to help operate our Website, and we may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Website or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).</p>
-
-<p>Last.fm operates an ‘open API’ and webservices program, which enables developers and other third parties to freely use statistics and data collected by Last.fm to create programs and other interesting services which help develop the Last.fm community. More details concerning the API and the information that is made available from it can be found at: <a href="http://www.last.fm/api">http://www.last.fm/api</a>.</p>
-
-<p>Certain third party individuals or organisations may have access to your personal information (excluding your email contact information) via Last.fm’s API and webservices or as a result of agreements between Last.fm and its preferred partners. (However, you should be aware that if you provide your e-mail contact information and/or username directly to any such third parties, they may use your information for their own purposes.)  Such partners may use such information for their own purposes, which may be either commercial or non-commercial in nature and which may include targeted advertising or direct marketing. These third parties may be based in the United Kingdom or elsewhere (including outside of the EEA).</p>
-
-<p>Certain third-party advertisements on the Website may enable you to submit your username and/or other personal information within the advertisement in order to receive information or services provided by third parties. Such advertisements are provided by third parties, and thus, the collection and use of information submitted via the advertisements is by such third parties and is subject to their privacy policies.</p>
-
-<p>Last.fm cannot guarantee that all third parties will abide by such restrictions. Of course, you can report any suspected misuse of your personal information to us by emailing us at <a href="mailto:legal@last.fm">legal@last.fm</a> and we will endeavour to investigate your claim.  Where we deem it appropriate, we will take appropriate action against such third party, which may include terminating their access to personal information.</p>
-
-
-<h1>12. Does Last.fm use cookies?</h1>
-
-<p>Last.fm collects information about you using cookies. We use this information to help us improve the efficiency and quality of our service. For example, to remember your preferences (such as your language settings and volume control), keep track of your music play history and help personalise your Last.fm experience.</p><p>
-
-</p><p>We also use analytics cookies which provide anonymised data about your use of the Website for statistical purposes. This helps us to monitor and improve the Website. We provide much more information about how we use cookies in our <a href="cookies">Cookie Policy</a>.</p>
-
-<h1>13. Third-Party Ad Servers</h1>
-
-<p>We may use third-party advertising companies to target and serve ads when you visit our Website. These third party advertisers may drop cookies onto your device when serving these adverts. These advertising companies will use the information generated by these cookies (which may, for example, monitor your browsing activity) to serve advertising to you which is more likely to be related to your interests (i.e. based on the sorts of sites you visit). Please note that we do not disclose personally identifiable information about you, which you have privately provided to Last.fm, to our advertiser partners without your consent. You can find much more information about how third party advertiser cookies are used on the Website in our <a href="cookies">Cookie Policy</a>. </p>
-
-
-<h1>14. Security</h1>
-
-<p>Last.fm endeavours to protect the security of your information as much as we endeavour to protect our own information and network. We employ firewalls and store all of our files and information on terminals which require password access.</p>
-
-<p>You should never disclose your account password to unauthorised people. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Website through unforeseen and/or illegal activity. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.</p>
-
-<p>In the event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you.  If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. <strong>You consent to our use of e-mail as a means of such notification.  If you prefer for us to use another method to notify you in this situation, please e-mail us at <a href="mailto:legal@last.fm">legal@last.fm</a> with the alternative contact information you wish to be used.</strong></p>
-
-
-<h1>15. Last.fm Policy for Young People</h1>
-
-<p>Children under the age of 13 are not eligible to use the Website and must not attempt to register with Last.fm and/or submit any personal information to us. We don’t knowingly collect personal information from any person who is under the age of 13 or allow them to register. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that this has occurred, please contact us at <a href="mailto:legal@last.fm">legal@last.fm</a>, and we will delete all relevant information.</p>
-
-<p>We recommend that children between the ages of 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand.</p>
-
-
-<h1>16. Legally-Compelled Disclosures</h1>
-
-<p>We believe in privacy and therefore will take all reasonable measures to ensure that your personally identifiable information remains private. However, in the event that we are required to disclose personally identifiable information by a court, the police or other law enforcement bodies for their investigations, regulation or other governmental authority we will make such a disclosure without being in violation of this Policy.</p>
-
-
-<h1>17. Business Transitions</h1>
-
-<p>If Last.fm is acquired by another company or sells all or a portion of its assets to another company, or in the event of a merger, it is likely that user information will be a part of the assets transferred. If as a result of such a business transition information is to be collected, used or disclosed in a manner or for a purpose different from that stated above, Last.fm will endeavour to notify all users of such changes beforehand.</p>
-
-
-<h1>18. Consent</h1>
-
-<p><strong>By disclosing any information to Last.fm through the Website and by using the Last.fm Website as a registered user, you are consenting to the collection, storage and use of your personal information by Last.fm as set out in this Policy and the Terms and Conditions, and you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.  If you do not consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, then you should not use the Website as a registered user, which means that many features will be unavailable to you.</strong></p>
-
-<p><strong>When you give your personally identifiable information to Last.fm, it may be used by Last.fm and its direct and indirect consolidated subsidiaries for the purposes of, for example, providing you services and sending you correspondence, and additionally may be transferred to entities other than Last.fm’s affiliates, which entities may be located in countries outside the EEA, including the United States. Each of these countries has different privacy laws that afford varying levels of protection for your personally identifiable information, and such laws may not be as comprehensive as those that exist in the European Economic Area (“EEA”). By registering with Last.fm, you consent to Last.fm’s and its direct and indirect consolidated subsidiaries’ transmission to, and processing of your information in, any jurisdiction, in accordance with its Privacy Policy.</strong></p>
-
-
-<h1>19. Changes to the Privacy Policy</h1>
-
-<p>If Last.fm makes any changes to this Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. If you are concerned about how your information is collected, used or disclosed, you should periodically check back at this page. If you have any specific concerns not addressed in the Policy, please contact us using the feedback page on the website.</p>
-
-<p>If you decide that you do not want your personal information to be used in the way described in this Policy, you can send us a notice that you wish to withdraw your consent as set out above by emailing <a href="mailto:legal@last.fm">legal@last.fm</a>. Because the Last.fm community relies on users sharing information, withdrawing your consent will mean that you are not able to receive the full benefits of Last.fm’s service as a user.  <strong>Additionally, if you do not provide your consent, or if you withdraw your consent, you should not use the Website as a registered user, which means that many features will be unavailable to you.</strong></p>
-
-
-<h1>20. Effective Date</h1>
-
-<p>This Privacy Policy is effective as of Tuesday 15 January 2013.</p>
+        <div class="player-bar-controls">
+
+            <ul aria-label="controls" class="media-controls">
+                <li>
+                    <button disabled="true" class="
+                            js-previous
+                            player-bar-btn
+                            player-bar-btn--previous
+                        ">
+                        Previous
+                    </button>
+                </li>
+                <li>
+                    <button disabled="true" class="
+                            js-play-pause
+                            player-bar-btn
+                            player-bar-btn--play
+                        " data-string-pause="Pause">
+                        Play
+                    </button>
+                </li>
+                <li>
+                    <button disabled="true" class="
+                            js-next
+                            player-bar-btn
+                            player-bar-btn--next
+                        ">
+                        Next
+                    </button>
+                </li>
+                
+            </ul>
+
+            <div class="source-info">
+                <a class="
+                        js-source
+                        player-bar-source
+                        player-bar-source--spotify
+                    " href="#" target="_blank">Playing via Spotify</a>
+
+                <a class="
+                        js-source
+                        player-bar-source
+                        player-bar-source--youtube
+                    " href="#" target="_blank">Playing via YouTube</a>
+
+                
+                    <a href="https://secure.last.fm/login?next=/settings/website" class="player-bar-btn player-bar-btn--settings">
+                       Playback settings
+                    </a>
+                
+            </div>
+
+            <a class="
+                    player-bar-skiplink
+                    player-bar-skiplink--youtube
+                " href="#youtube-video">Skip to <br> YouTube video</a>
 
         </div>
-    </div>
-</div>
+
+        <div class="player-bar-now-playing">
+
+            
+
+            <p class="player-bar-track js-player-status" aria-label="now playing" aria-live="polite" aria-atomic="true">
+                Loading player…
+            </p>
+
+            <p class="player-bar-error js-player-error">
+                <span class="player-bar-error-message js-player-error-message"></span>
+            </p>
+
+            
+
+            <div class="player-bar-progress" aria-label="progress" role="timer">
+                <div class="
+                        js-progress-slug
+                        player-bar-progress-slug
+                    "></div>
+                <span class="
+                        js-progress-elapsed
+                        player-bar-progress-elapsed
+                    " aria-label="elapsed"></span>
+                <span class="
+                        js-progress-remaining
+                        player-bar-progress-remaining
+                    " aria-label="remaining"></span>
+            </div>
+        </div>
+        <div data-require="player/scrobble-client"></div>
+    </section>
 
                 
             </div>
         </div>
+    
 
-                    <footer role="banner" class="site-footer">
-    <nav class="site-footer-nav">
-        <div class="r add-bottom-margin">
-            <a href="/uploadmusic" class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels">
-                <h2>Artists and Labels</h2>
-                <p>Connect with fans by uploading your music to Music Manager</p>
+    <div id="content" class="main-content" role="main">
+        
+    
+    <div id="tlmdata" hidden="" class="hidden" data-environment="prod" data-site-section="legal" data-page-type="legal_privacy" data-page-name="legal/privacy" data-user-state="not authenticated" data-user-type="anon" data-device-type="desktop" data-ip-geo="US">
+     </div>
+
+        
+
+    
+        <div class="top-bar-overlay">
+            <div class="semi-fluid-container js-loading-indicator-container">
+                
+    
+       <ul class="site-auth">
+            
+    
+        <li class="auth-hide-show auth-menu-item">
+            <a class="auth-link" href="https://secure.last.fm/join" data-analytics-action="SignUpClick">
+                Join
             </a>
-            <a href="/download" class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App">
-                <h2>Download Our Apps</h2>
-                <p>Get the Last.fm apps for desktop and mobile and start scrobbling</p>
+        </li>
+    
+
+            
+    
+        <li class="auth-hide-show auth-menu-item">
+            <a class="auth-link auth-login-link" href="https://secure.last.fm/login">
+                Login
             </a>
+        </li>
+    
+
+        </ul>
+    
+
+            </div>
         </div>
-        <hr class="separator">
-        <ul class="r add-bottom-margin">
-            <li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
-                <h2>Company</h2>
-                <a href="#show-company" class="conditional-footer-toggle js-toggle">
-                    <h2 class="iconright iconright--dropdown">Company</h2>
-                </a>
-                <ul class="toggle-target">
-                    <li><a href="/about" data-analytics-action="FooterClick" data-analytics-label="About us">About us</a></li>
-                    <li><a href="/about/contact" data-analytics-action="FooterClick" data-analytics-label="Contact us">Contact us</a></li>
-                    <li><a href="/about/jobs" data-analytics-action="FooterClick" data-analytics-label="Jobs">Jobs</a></li>
-                    <li><a href="http://blog.last.fm" data-analytics-action="FooterClick" data-analytics-label="Blog">Blog</a></li>
-                    <li><a href="/advertise" data-analytics-action="FooterClick" data-analytics-label="Advertise">Advertise</a></li>
-                </ul>
-                <hr class="separator" role="presentation">
-            </li>
-            <li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
-                <h2>Join in</h2>
-                <a href="#show-join" class="conditional-footer-toggle js-toggle">
-                    <h2 class="iconright iconright--dropdown">Join in</h2>
-                </a>
-                <ul class="toggle-target">
-                                        <li><a href="/join" data-analytics-action="FooterClick" data-analytics-label="Sign up">Sign up</a></li>
-                    <li><a href="/community/users" data-analytics-action="FooterClick" data-analytics-label="Find people">Find people</a></li>
-                                        <li><a href="/community/groups" data-analytics-action="FooterClick" data-analytics-label="Find groups">Find groups</a></li>
-                    <li><a href="/community" data-analytics-action="FooterClick" data-analytics-label="Community">Community</a></li>
-                    <li><a href="/forum" data-analytics-action="FooterClick" data-analytics-label="Forums">Forums</a></li>
-                </ul>
-                <hr class="separator" role="presentation">
-            </li>
-            <li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
-                <h2>Goodies</h2>
-                <a href="#show-goodies" class="conditional-footer-toggle js-toggle">
-                    <h2 class="iconright iconright--dropdown">Goodies</h2>
-                </a>
-                <ul class="toggle-target">
-                    <li><a href="/hardware" data-analytics-action="FooterClick" data-analytics-label="More apps">More apps &amp; devices</a></li>
-                    <li><a href="/api" data-analytics-action="FooterClick" data-analytics-label="Last.fm API">Developer API</a></li>
-                    <li><a href="http://build.last.fm" data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more">Tools &amp; plugins</a></li>
-                    <li><a href="http://playground.last.fm" data-analytics-action="FooterClick" data-analytics-label="Playground">Playground</a></li>
-                    <li><a href="/music/+free-music-downloads" data-analytics-action="FooterClick" data-analytics-label="Free music downloads">Free music downloads</a></li>
-                </ul>
-                <hr class="separator" role="presentation">
-            </li>
-            <li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
-                <h2>Help</h2>
-                <a href="#show-help" class="conditional-footer-toggle js-toggle">
-                    <h2 class="iconright iconright--dropdown">Help</h2>
-                </a>
-                <ul class="toggle-target">
-                    <li><a href="/help" data-analytics-action="FooterClick" data-analytics-label="Help &amp; support">Help &amp; support</a></li>
-                    <li><a href="http://status.last.fm/" data-analytics-action="FooterClick" data-analytics-label="System status">System status</a></li>
-                                    </ul>
-            </li>
-        </ul>
-    </nav>
-    <hr class="separator">
-                <nav role="navigation" class="language-selector clearit toggle-container" id="change-language" data-require="toggle">
-        <h2 class="rm">Languages:</h2>
-        <ul class="inline-items inline-items--dotted">
-            <li class="current-language">
-                <strong class="current-language-text iconleft iconleft--globe">
-                    English
-                    <span class="rm">(current language)</span>
-                </strong>
-                <a href="#show-languages" class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle">
-                    <strong>English</strong><span class="rm">(current language) — Change language</span>
-                </a>
-            </li>
-            <li class="language-options toggle-target">
-                <ul class="language-options-group">
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.de/legal/privacy?setlang=de" rel="alternate" hreflang="de" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > de">Deutsch</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.es/legal/privacy?setlang=es" rel="alternate" hreflang="es" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > es">Español</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.fr/legal/privacy?setlang=fr" rel="alternate" hreflang="fr" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > fr">Français</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.it/legal/privacy?setlang=it" rel="alternate" hreflang="it" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > it">Italiano</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.jp/legal/privacy?setlang=jp" rel="alternate" hreflang="ja" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > jp">日本語</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.pl/legal/privacy?setlang=pl" rel="alternate" hreflang="pl" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > pl">Polski</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.com.br/legal/privacy?setlang=pt" rel="alternate" hreflang="pt" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > pt">Português</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.ru/legal/privacy?setlang=ru" rel="alternate" hreflang="ru" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > ru">Руccкий</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.se/legal/privacy?setlang=sv" rel="alternate" hreflang="sv" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > sv">Svenska</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://www.lastfm.com.tr/legal/privacy?setlang=tr" rel="alternate" hreflang="tr" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > tr">Türkçe</a>
-                        </li>
-                                                                                    <li class="language-option">
-                            <a href="http://cn.last.fm/legal/privacy?setlang=zh" rel="alternate" hreflang="zh" data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="en:ca|www.last.fm > zh">简体中文</a>
-                        </li>
-                                                        </ul>
-            </li>
-        </ul>
-        <hr class="separator">
-    </nav>
 
-     
-<div class="site-footer-legalese">
-    <blockquote class="site-footer-strapline">“Get the Last.fm Habit.”</blockquote>
-    <ul class="inline-items inline-items--dotted">
-        <li>
-            <a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd. All&nbsp;rights&nbsp;reserved        </li>
-        <li>
-            <a href="/legal/terms" data-analytics-action="FooterClick" data-analytics-label="Terms of Use">Terms of Use</a>,
-            <a href="/legal/privacy" data-analytics-action="FooterClick" data-analytics-label="Privacy Policy">Privacy Policy</a> and
-            <a href="/legal" data-analytics-action="FooterClick" data-analytics-label="Legal">Legal Policies</a> —
-            <span class="date">Updated 26 Nov 2013</span>
-        </li>
-        <li>
-            <a href="http://www.gamespot.com">Gamespot</a>
-        </li>
-    </ul>
-        </div></footer>            
-    <div id="multiButtonMenu" style="display: none;">
-    <div>
-        <ul class="lfmDropDownBody">
-            <li class="mAddToLibrary"><a href="#">Add to my Library</a></li>
-            <li class="mAddToFriends"><a href="#">Add to Friends</a></li>
-            
-            <!-- <li class="save"><a href="#">Bookmark</a></li> -->
-            <li class="mSend"><a href="#">Share</a></li>
-            
-            <li class="mLove"><a href="#">Love this track</a></li>
-            <li class="mUnlove"><a href="#">Unlove track</a></li>
-            <li class="mBan"><a href="#">Ban track</a></li>
-            <li class="mUnban"><a href="#">Unban track</a></li>
+        
 
-            <li class="mAddTags"><a href="#">Add tags</a></li>
-            <li class="mAddToPlaylist"><a href="#">Add to playlist</a></li>
-            
-            <li class="mRemoveFromLibrary"><a href="#">Remove from your Library</a></li>
-            
-            <li class="mBuy"><a href="#">Buy Track</a></li>
-                        <li class="mMessage"><a href="#">Send a message</a></li>
-                        <li class="mEditDetails"><a href="#">Edit Details</a></li>
-            <li class="mMessageAll"><a href="#">Message All Users</a></li>
-            <li class="mEditPermissions"><a href="#">Edit Permissions</a></li>
-            <li class="mAbdicate"><a href="#">Abdicate</a></li>
-            <li class="mLeave"><a href="#">Leave Group</a></li>
-            
-            <li class="mLoading"><a href="#">&nbsp;</a></li>
-        </ul>
-    </div>
-</div>
+        
 
-
-
-<div style="display: none">
-    <script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
-    <script>
-        if (typeof DW === "object") {
-            DW.pageParams = {
-                siteid: '190',
-                ptid: '-1'
-            };
-            DW.tagNielsen = false;
-            DW.clear();
-        }
-    </script>
-    <noscript>
-        <img src="//dw.cbsimg.net/clear/c.gif?ts=1435283115&amp;sid=190;" />
-    </noscript>
-</div>
-<div id="LastAd_tracking" class="LastAd ad-tracking inactive" data-require="ads/staticadslot" data-ad-static="" data-ad-placement="tracking" data-ad-collapsible="">
-    <span>     
-                    
-    </span>
-</div>
-
-
-<script data-require="omniture">
-    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
-    var omdata = {
-        context: {
-                                    siteSection: "legal",
-            pageType: "legal_privacy",
-            pageViewGuid: LFM.viewGuid
-        }
-    };
-</script>
-
-<!-- Adobe Marketing Cloud Tag Loader Code-->
-<script type="text/javascript">//<![CDATA[
-var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
-document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
-//]]></script><script type="text/javascript" src="//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js"></script>
-<!-- End Adobe Marketing Cloud Tag Loader Code -->
-<script>
-LFM.Button.MultiButton.setup();
-LFM.Display.setMinHeight();
-</script>
-
-<div id="fb-root"></div>
+        
     
-    
+
     
 
         
-    <script>
-    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
-    document.write(unescape("%3Cscript%20src='" +
-(document.location.protocol == 'https:' ?
-  'https://clicktalecdn.sslcs.cdngc.net/' :
-  'http://cdn.clicktale.net/') +
-"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
 
-    </script><script src="https://clicktalecdn.sslcs.cdngc.net/www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js"></script>
+<nav class="masthead" role="navigation" data-require="components/masthead" aria-label="Primary navigation">
+    <div class="container">
+
+        <div class="masthead-fixed">
+            <h1 class="masthead-logo">
+                <a href="/">Last.fm Logo</a>
+            </h1>
+
+            <button class="
+                    masthead-hamburger-toggle
+                    
+                " data-toggle="collapse" data-target=".masthead-nav-links">
+                Toggle navigation
+            </button>
+
+            
     
 
+
+            <div class="collapse masthead-nav-links js-nav-links">
+                <ul>
+                    
+                    
+                    <li><a href="/dashboard">Live</a></li>
+                    <li><a href="/music">Music</a></li>
+                    <li><a href="/events">Events</a></li>
+                    <li><a href="/features">Features</a></li>
+                    <li class="auth-hide-show">
+                        <a href="/inbox" class="notification-count-menu-item">
+                            Inbox
+                            
     
+        
+
+                        </a>
+                    </li>                    
+                    
+                        
+    
+        <li class="auth-hide-show auth-menu-item">
+            <a class="auth-link auth-login-link" href="https://secure.last.fm/login">
+                Login
+            </a>
+        </li>
+    
+
+                        
+    
+        <li class="auth-hide-show auth-menu-item">
+            <a class="auth-link" href="https://secure.last.fm/join" data-analytics-action="SignUpClick">
+                Join
+            </a>
+        </li>
+    
+
+                    
+                </ul>
+            </div>
+
+            <a class="masthead-search-link" href="/search">Search</a>
+        </div>
+
+        
+    
+        
+    
+    <form class="search-form" action="/search" method="get">
+        <label for="site-search" class="sr-only">Search</label>
+        <input id="site-search" class="search-field" type="text" name="q" placeholder="Search" value="">
+        <button class="search-submit" type="submit">Search</button>
+    </form>
+
+    </div>
+</nav>
+
+
+        
+            
+    
+    
+    
+
+    <header class="
+        header
+        
+        
+        
+        
+    ">
+        
+            <div class="header-background"></div>
+        
+
+        <div class="container">
+            <div class="header-inner-wrap">
+                
+                <div class="header-info">
+                    
+                </div>
+            </div>
+        </div>
+    </header>
+
+        
+
+        
+        <div id="mantle_skin" class="adaptive-skin-container">
+            <div class="adaptive-skin-wrapper">
+                <div id="adSkinLeft" class="adaptive-skin-left"></div>
+                <div id="adSkinRight" class="adaptive-skin-right"></div>
+            </div>
+            
+
+            
+            
+                <div class="content-top">
+                    <div class="content-top-inner-wrap">
+                        
+
+                        <div class="container content-top-lower">
+                            
+                                
+
+
+                            
+
+                            
+
+                            
+                                
+                                    <h1 class="content-top-header">
+                                        
+    Privacy Policy
+
+                                    </h1>
+                                
+                            
+
+                            
+                                
+    
+    
+
+                            
+
+                            
+                        </div>
+                    </div>
+                </div>
+            
+
+            
+                <div class="container page-content">
+                    
+    <div class="row">
+        <div class="col-main">
+            <p>
+                <strong>Updated on:</strong> Tuesday 15 January 2013
+            </p>
+            <ul class="bulleted-list">
+                <li>We have a pretty simple privacy policy. We are reasonably sure this won’t annoy anyone.</li>
+                
+                <li>The entry of personal data on this site is completely optional and will require you to setup an account with a password and an email address. Please choose a password that is not easy for someone else to guess, such as birthday, national identification number and phone number.</li>
+                    
+                <li>If you want to, you can also submit additional personal information (including on your profile and on message boards). Please remember that any information you submit becomes public information that can be viewed by others.</li>
+                
+                <li>Certain third parties may have access to your data (which may include personal information, but not your email contact information) via our API and webservices or arrangements with our business partners. These people may use this information for their own purposes, which may be either commercial or non-commercial in nature and may include targeted advertising or direct marketing. These third parties may be based in the U.K. or elsewhere in the world.</li>
+
+                <li>We may use the email address provided by you to contact you from time to time about the Last.fm service. We won’t pass your email address on to anyone to contact you directly about their own products or services, not even Lars Ulrich at gunpoint (unless you have provided your prior consent to do so). Our policy is to provide a clear and easy way for you to opt out of receiving specific types of emails.</li>
+                
+                <li>Your pseudonymous listening habit data will be available to other Last.fm users for non-commercial use and to third parties via our API for their own commercial and/or non-commercial purposes. This statistical information is used to help third parties understand the likes and dislikes of music fans on Last.fm.</li>
+                
+                <li>We may display links to third party sites which allow you to provide personal information to them directly. We advise you to check their terms of use and privacy policies of these sites to find out how they are treating your personal information.</li>
+                
+                <li>We use cookies (which can only be read by us) to collect data that we can use to improve the efficiency and quality of our service to you. If you want, you can turn these cookies off, but it may mean that the Last.fm service doesn’t function quite as well. Third party advertisement companies may also collect information (which is generally not personally identifiable) from you via cookies about the websites that you visit and your other activities on the Last.fm service. We encourage you to read these businesses’ privacy policies if you are concerned about how they will handle your information and your choices concerning their use of your information. Please read paragraph 12 of this policy for more information about the cookies used on the Last.fm website. Unless you have disabled the use of cookies on your browser, by using the Last.fm services, you agree to the use of all the cookies listed in paragraph 12.</li>
+                
+                <li>Children under the age of 13 are not eligible to use our service and must not attempt to register with us and/or submit any personal information to us. Young people between 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand.</li>
+            </ul>
+            <h2>Last.fm Privacy Policy</h2>
+            <p>Last.fm Limited (“Last.fm” or “we” “our” or “us”) owns or controls, and provides access to the Last.fm website, currently located at www.last.fm (the “Website”).</p>
+
+            <p>At Last.fm, we are fully committed to respecting your privacy and to protecting any information you provide to us. We treat both privacy and security as a priority and make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the “Policy”) is designed to respect and protect the privacy of all visitors to the Website and is intended to inform you about the way that we treat your personal data.</p>
+
+            <p>The Policy explains how Last.fm collects and uses information. We hope that our candour will remove any concerns you may have and will make visiting the Website a rewarding experience.</p>
+
+            <p><strong>If you would like to obtain information about how we may have shared your information with third parties for their direct marketing purposes, you may send such requests to us via postal mail at: Data Access Request, Last.fm Limited, 5-11 Lavington Street, London, SE1 0NZ or contact us via email at: <a href="mailto:legal@last.fm">legal@last.fm</a>.</strong></p>
+
+            <p>Although we endeavour to keep you up-to-date on all changes made to the Website, this Policy may be amended from time to time without notice to you. It is your responsibility to read the Policy carefully and review any changes that may have been made.</p>
+
+            <h3>1. Personal Information</h3>
+
+            <p>In order to use certain features of the Website, you will need to register. When registering you will be asked to provide an email address and create a username and password.  You may also choose to create a more detailed profile of yourself on the Website by submitting additional personal information. <strong>Please note that even if you do not provide any additional personal information to the Website (e.g., by adding it to your user profile), if you choose a username that includes or reveals your name or any other personal information, such information may be available to other users of the Website and to the general public.</strong> For purposes of this Policy, the terms “personal information” and “personally identifiable information” shall mean all information provided during your initial registration on the Website and during your creation of a user profile, including, for example, your real name, e-mail address, postal address and other location information, your age, your gender and certain other demographic information or information that may enable online or offline contact with you.</p>
+
+            <p>If you choose to purchase music or other goods or services by clicking on a third party link provided on the Website (for example, a link to Amazon.com), such third party may collect your personal details (such as your credit card number, address, etc.) for the purpose of completing a transaction. We may be provided with confirmation of your transactions with such third parties and, in some instances, such confirmation may include your personal information. Aside from such confirmations, the only information that we will collect with respect to such third party links is: (a) the number of generic Last.fm users who utilised such links; and (b) the number of purchases made by these generic users.</p>
+
+            <p>Where you upload photographs or other content as part of your user profile, you should be aware that Last.fm is entitled to use those photographs and content in accordance with our Terms of Use. Last.fm discourages users from uploading photographs of friends or other people without their permission.</p>
+
+            <h3>2. Record Collection</h3>
+
+            <p>From the moment you register and begin listening to music on Last.fm, our Profile Navigation software will begin to create and maintain your record collection. This is accomplished by monitoring your activity on the website (i.e. which songs you listen to, which songs you skip, and the degree of difference or similarity you request when you choose to skip a particular song). In addition, your record collection will be affected by other actions you take, such as sending a song recommendation to another user or manually selecting certain songs, albums or artists to be included in your record collection. All of the information that is generated by your activity on the website is fed back into Profile Navigation in order to fine tune your profile so that Last.fm can play more of what you like and less of what you don’t like. Last.fm also maintains a central database of information collected by the Profile Navigation software (which may include your personal information).  Last.fm makes some of this information available to third parties to undertake development of new products and services via the API.</p>
+
+            <p>Last.fm does not process any personally identifiable information related to your record collection and/or profile in any manner other than as described in this Policy. However, please note that, in addition to the third party access that is identified in this Policy, your record collection (including your skipping history) may be viewed by all other users of Last.fm (who may include other organisations or representatives of other organisations who have registered as Last.fm users) and that they may easily associate this information with your Last.fm username.  Please see the Statistical Information section below to learn more on this subject and to learn how we log and use information related to your record collection and/or profile in the aggregate.</p>
+
+            <h3>3. Location-based Information</h3>
+
+            <p>We keep track of the domains from which people visit Last.fm, but we cannot see a user’s zip code, post code, city or country unless the user chooses to explicitly provide this information to us. If you do choose to include information about your city or country of residence when setting up your user profile, please be aware that such information may be available for viewing by other users of the Website and to the general public.</p>
+
+            <h3>4. Browser Information</h3>
+
+            <p>We collect data regarding the users of Last.fm, including: (i) The Internet Protocol (IP) address of the user’s computer. This may or may not be associated with a particular Internet Service Provider (ISP); (ii) The referring URL, if any; (iii) The browser software identification (i.e. the brand and version of your browser software).</p>
+
+            <h3>5. Statistical Information</h3>
+
+            <p>We log certain information concerning the listening, skipping and music-sharing activities of users and other activities whilst they use the Website, and we may match such information with personally identifiable information concerning such users.  For example, it is possible for us to know which records you listen to, which you skip, which you recommend to other users and which you add to your record collection.  However, information related to your listening, skipping and music-sharing activities may be viewed by all other users (who may include other organisations or representatives of other organisations who have registered as Last.fm users) in conjunction with your Last.fm username and by third parties who have access to this information via Last.fm’s API and webservices, as further explained in this Policy.</p>
+
+            <p>Please note that we do log and use statistical information in the aggregate. For example, we know the number of users who skip a particular song. From this information we are able to compile statistics in the form of percentages of all users (i.e. 29% of our users skipped song XYZ). We can of course compare the skipping statistics of one song to those of another song. We are also able to perform more sophisticated statistical operations based on the information collected. For example, we can determine the raw number (and associated percentages) of users who listen to one particular song that also listen to other particular songs. From this information, we are able to determine which songs are “neighbours” in terms of overall listener taste and we can see which genres of music tend to be neighbours. As a service, we may supply certain aggregate statistical information to record labels and artists that allow us to stream their music on Last.fm in order to help them understand the likes and dislikes of music listeners.</p>
+
+            <h3>6. Use of Personal Information</h3>
+
+            <p><strong>We will use the email address provided by you when you register to contact you from time to time. This may be for security reasons (so that we can check that you are who you say you are), to ask your opinion about the Website, or it may be to keep you updated on the services currently available on the Website and any changes to those services and those that we intend to launch in the future.  We may also use such personal information to send you notices, on behalf of others and ourselves, regarding products and services that we think may be of interest to you.</strong></p>
+
+            <p><strong>Last.fm may also use your personal information and non-personal information to help Last.fm and its commercial partners deliver targeted advertisements, promotions and other similar initiatives to you.</strong></p>
+
+            <p><strong>Your username, together with other information concerning your use of the Last.fm Website, as well as any personal information included in your user profile, will be made available via Last.fm’s open application interface (the “API”), which forms part of our ‘AudioScrobbler’ technology. See section 11 below for further details.</strong></p>
+
+            <p><strong>We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services, unless you have provided your express prior consent when signing up on the Website. You may withdraw your consent by notifying us at <a href="mailto:legal@last.fm">legal@last.fm</a>.</strong></p>
+
+            <h3>7. Message Boards / Chat / Communications With Other Users</h3>
+
+            <p>We currently offer message board functionality and in the future we may offer other interactive features, such as instant messaging and chat. Please note that all personal information you display or communicate using such functionality becomes public information and we are not responsible for any information you choose to make public. We may, but have no obligation to, monitor such traffic via electronic software or otherwise in order to check for obscenity, defamation or abusive language, which we reserve the right to remove at any time. In addition, if you choose to personally communicate or meet with any other Last.fm user by exchanging postal/email addresses, telephone numbers or otherwise via the interactive functionality of Last.fm, you do so at your own risk. Last.fm cannot be held responsible for any consequences which flow from your decision to communicate or interact with other Last.fm users in places or under circumstances which we do not control. We advise you to use extreme caution whenever you post information, socialise or interact with people whom you have met via the internet.</p>
+
+            <p>From time to time, you may be able to send to a friend, and a friend or contact may be able to send to you, information about our Website or services (e.g., to provide you with access to a song or message), by clicking on an “E-mail-a-Friend” or similar button on the Website or other third-party websites.  In some of these cases (unless you simply forward an e-mail from Last.fm on your own), you, or your friend, may be able to provide your friend’s, or your, name and e-mail address to us.  Such information will be treated in accordance with this Privacy Policy and applicable law. If Last.fm receives your email address in this way and you are not an existing registered user of the Website, Last.fm will delete your email address immediately after providing you with the song or message. Last.fm does not collect or store personal information received from third parties.</p>
+
+            <h3>8. Software Updates</h3>
+
+            <p>In order to ensure that Last.fm is functioning at its best, from time to time we may ask you to upgrade to a newer version of our software. In addition, we may find it necessary to send you automatic fixes or support files. If we make a modification that materially affects your privacy, we will endeavour to notify you of such modification and we will update this Privacy Policy accordingly.</p>
+
+            <h3>9. Links</h3>
+
+            <p>We may display links to third party sites. However, we cannot control and cannot be held responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their terms of use and privacy policies to find out how they are treating your personal information.</p>
+
+            <h3>10. Data Protection</h3>
+
+            <p>Last.fm complies with the Data Protection Act 1998 (the “Act”), including UK amending legislation and E.U. Directives. Pursuant to the Act, you have the right to be informed of, and to have access to, all of the personally identifiable information we hold about you, and you may do so by visiting your user profile when logged-in to your account on the Website, or by e-mailing us at: <a href="mailto:legal@last.fm">legal@last.fm</a>.</p>
+
+            <p>We may store information provided by you on our servers both in the U.S. and in the U.K. See Section 18 below for additional information.</p>
+
+
+            <h3>11. Last.fm Software and transfers of your information</h3>
+
+            <p>If you choose to download the Last.fm software, it will monitor all the music you listen to on your computer (even if you are not online). It will then send this information to Last.fm via Audioscrobbler. This information will then be integrated into Last.fm to enhance the depth of your record collection and the accuracy of your profile. The Last.fm software cannot and will not collect and transfer any other information from your computer other than as described above. However, please be advised that Last.fm cannot be liable for any damage which may occur to your computer as a result of downloading the Last.fm software, nor shall it be liable for any invasion of privacy related to the same.</p>
+
+            <p>We may use third-party partners to help operate our Website, and we may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Website or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).</p>
+
+            <p>Last.fm operates an ‘open API’ and webservices program, which enables developers and other third parties to freely use statistics and data collected by Last.fm to create programs and other interesting services which help develop the Last.fm community. More details concerning the API and the information that is made available from it can be found at: <a href="http://www.last.fm/api">http://www.last.fm/api</a>.</p>
+
+            <p>Certain third party individuals or organisations may have access to your personal information (excluding your email contact information) via Last.fm’s API and webservices or as a result of agreements between Last.fm and its preferred partners. (However, you should be aware that if you provide your e-mail contact information and/or username directly to any such third parties, they may use your information for their own purposes.)  Such partners may use such information for their own purposes, which may be either commercial or non-commercial in nature and which may include targeted advertising or direct marketing. These third parties may be based in the United Kingdom or elsewhere (including outside of the EEA).</p>
+
+            <p>Certain third-party advertisements on the Website may enable you to submit your username and/or other personal information within the advertisement in order to receive information or services provided by third parties. Such advertisements are provided by third parties, and thus, the collection and use of information submitted via the advertisements is by such third parties and is subject to their privacy policies.</p>
+
+            <p>Last.fm cannot guarantee that all third parties will abide by such restrictions. Of course, you can report any suspected misuse of your personal information to us by emailing us at <a href="mailto:legal@last.fm">legal@last.fm</a> and we will endeavour to investigate your claim.  Where we deem it appropriate, we will take appropriate action against such third party, which may include terminating their access to personal information.</p>
+
+
+            <h3>12. Does Last.fm use cookies?</h3>
+
+            <p>Last.fm collects information about you using cookies. We use this information to help us improve the efficiency and quality of our service. For example, to remember your preferences (such as your language settings and volume control), keep track of your music play history and help personalise your Last.fm experience.</p><p>
+
+            </p><p>We also use analytics cookies which provide anonymised data about your use of the Website for statistical purposes. This helps us to monitor and improve the Website. We provide much more information about how we use cookies in our <a href="cookies">Cookie Policy</a>.</p>
+
+            <h3>13. Third-Party Ad Servers</h3>
+
+            <p>We may use third-party advertising companies to target and serve ads when you visit our Website. These third party advertisers may drop cookies onto your device when serving these adverts. These advertising companies will use the information generated by these cookies (which may, for example, monitor your browsing activity) to serve advertising to you which is more likely to be related to your interests (i.e. based on the sorts of sites you visit). Please note that we do not disclose personally identifiable information about you, which you have privately provided to Last.fm, to our advertiser partners without your consent. You can find much more information about how third party advertiser cookies are used on the Website in our <a href="cookies">Cookie Policy</a>. </p>
+
+
+            <h3>14. Security</h3>
+
+            <p>Last.fm endeavours to protect the security of your information as much as we endeavour to protect our own information and network. We employ firewalls and store all of our files and information on terminals which require password access.</p>
+
+            <p>You should never disclose your account password to unauthorised people. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Website through unforeseen and/or illegal activity. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.</p>
+
+            <p>In the event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you.  If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. <strong>You consent to our use of e-mail as a means of such notification.  If you prefer for us to use another method to notify you in this situation, please e-mail us at <a href="mailto:legal@last.fm">legal@last.fm</a> with the alternative contact information you wish to be used.</strong></p>
+
+
+            <h3>15. Last.fm Policy for Young People</h3>
+
+            <p>Children under the age of 13 are not eligible to use the Website and must not attempt to register with Last.fm and/or submit any personal information to us. We don’t knowingly collect personal information from any person who is under the age of 13 or allow them to register. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that this has occurred, please contact us at <a href="mailto:legal@last.fm">legal@last.fm</a>, and we will delete all relevant information.</p>
+
+            <p>We recommend that children between the ages of 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand.</p>
+
+
+            <h3>16. Legally-Compelled Disclosures</h3>
+
+            <p>We believe in privacy and therefore will take all reasonable measures to ensure that your personally identifiable information remains private. However, in the event that we are required to disclose personally identifiable information by a court, the police or other law enforcement bodies for their investigations, regulation or other governmental authority we will make such a disclosure without being in violation of this Policy.</p>
+
+
+            <h3>17. Business Transitions</h3>
+
+            <p>If Last.fm is acquired by another company or sells all or a portion of its assets to another company, or in the event of a merger, it is likely that user information will be a part of the assets transferred. If as a result of such a business transition information is to be collected, used or disclosed in a manner or for a purpose different from that stated above, Last.fm will endeavour to notify all users of such changes beforehand.</p>
+
+
+            <h3>18. Consent</h3>
+
+            <p><strong>By disclosing any information to Last.fm through the Website and by using the Last.fm Website as a registered user, you are consenting to the collection, storage and use of your personal information by Last.fm as set out in this Policy and the Terms and Conditions, and you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.  If you do not consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, then you should not use the Website as a registered user, which means that many features will be unavailable to you.</strong></p>
+
+            <p><strong>When you give your personally identifiable information to Last.fm, it may be used by Last.fm and its direct and indirect consolidated subsidiaries for the purposes of, for example, providing you services and sending you correspondence, and additionally may be transferred to entities other than Last.fm’s affiliates, which entities may be located in countries outside the EEA, including the United States. Each of these countries has different privacy laws that afford varying levels of protection for your personally identifiable information, and such laws may not be as comprehensive as those that exist in the European Economic Area (“EEA”). By registering with Last.fm, you consent to Last.fm’s and its direct and indirect consolidated subsidiaries’ transmission to, and processing of your information in, any jurisdiction, in accordance with its Privacy Policy.</strong></p>
+
+
+            <h3>19. Changes to the Privacy Policy</h3>
+
+            <p>If Last.fm makes any changes to this Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. If you are concerned about how your information is collected, used or disclosed, you should periodically check back at this page. If you have any specific concerns not addressed in the Policy, please contact us using the feedback page on the website.</p>
+
+            <p>If you decide that you do not want your personal information to be used in the way described in this Policy, you can send us a notice that you wish to withdraw your consent as set out above by emailing <a href="mailto:legal@last.fm">legal@last.fm</a>. Because the Last.fm community relies on users sharing information, withdrawing your consent will mean that you are not able to receive the full benefits of Last.fm’s service as a user.  <strong>Additionally, if you do not provide your consent, or if you withdraw your consent, you should not use the Website as a registered user, which means that many features will be unavailable to you.</strong></p>
+
+
+            <h3>20. Effective Date</h3>
+
+            <p>This Privacy Policy is effective as of Tuesday 15 January 2013.</p>
+
+
+       </div>
+    </div>
+
+                </div>
+            
+
+            
+        </div>
+    
+
+    <div id="qa-page-load"></div>
+
+    
+    <footer class="footer-wrapper">
+        <div class="container">
+            <div class="footer row">
+                <div class="col-xs-12">
+                    <ul class="site-links">
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/about/contact">Contact</a></li>
+                        <li><a href="http://www.last.fm/api">Developer API</a></li>
+                        
+                            <li><a href="https://getsatisfaction.com/lastfm" target="_BLANK">Community Support</a></li>
+                        
+                        
+                            <li><a href="http://cbsi.force.com/CBSi/lastfm" target="_BLANK">Help</a></li>
+                        
+                        
+                        <li><a href="/help/guidelines">Community Guidelines</a></li>
+                        <li><a href="/music/+free-music-downloads">Free Music Downloads</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-10">
+                    <ul class="language-selector" id="language-selector">
+                        
+                            <li>
+                                
+                                    <strong class="active">English</strong><span class="sr-only">current language</span>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="de">
+                                        <button class="mimic-link" name="de" type="submit">Deutsch</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="es">
+                                        <button class="mimic-link" name="es" type="submit">Español</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="fr">
+                                        <button class="mimic-link" name="fr" type="submit">Français</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="it">
+                                        <button class="mimic-link" name="it" type="submit">Italiano</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="ja">
+                                        <button class="mimic-link" name="ja" type="submit">日本語</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="pl">
+                                        <button class="mimic-link" name="pl" type="submit">Polski</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="pt">
+                                        <button class="mimic-link" name="pt" type="submit">Português</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="ru">
+                                        <button class="mimic-link" name="ru" type="submit">Русский</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="sv">
+                                        <button class="mimic-link" name="sv" type="submit">Svenska</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="tr">
+                                        <button class="mimic-link" name="tr" type="submit">Türkçe</button>
+                                    </form>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <form action="/i18n/setlang/" method="post">
+                                        <input type="hidden" name="csrfmiddlewaretoken" value="b5RGgQk2IzyW6nZys5IzWUq2YZgwixEK">
+                                        <input type="hidden" name="language" value="zh">
+                                        <button class="mimic-link" name="zh" type="submit">简体中文</button>
+                                    </form>
+                                
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="logo col-xs-2">
+                    <img src="//static-web.last.fm/static/images/footer_logo.ddcfd65712a6.png">
+                </div>
+                <div class="copyright col-xs-12">
+                    <ul class="list-inline legal">
+                        <li><a href="http://www.cbsinteractive.com/">CBS Interactive</a> © 2015 Last.fm Ltd. All rights reserved</li>
+                        <li><a href="/legal/terms">Terms of Use</a></li>
+                        <li><a href="/legal/privacy">Privacy Policy</a></li>
+                        <li><a href="/legal">Legal Policies</a></li>
+                        <li><a href="http://www.gamespot.com">Gamespot</a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="
+        feedback-message
+        
+    ">
+    <div class="feedback-message-inner">
+        <p>
+            <span class="hidden-xs">
+                You’re viewing a beta version of the new Last.fm website.
+            </span>
+            <a href="http://cbsi.force.com/CBSi/template_lfmfbk?p_userid=" target="_blank">Leave feedback</a>
+        </p>
+        
+            <a class="feedback-message-dismiss" href="/feedback/dismiss">Hide</a>
+        
+    </div>
+</div>
+    </footer>
+
+
+    <section class="debug-log">
+    <h2>API Calls</h2>
+    
+</section>
+
+
+        
+    </div>
+
+    
+        <div data-require="player/providers/spotify/spotify-provider" data-spotify-modal="/player/modal/spotify"></div>
+
+        <div data-require="player/providers/youtube/youtube-provider" class="
+                video-player
+                video-player--hidden
+            " aria-hidden="true" id="youtube-video">
+            <div class="container">
+                <div class="video-player-embed js-player"></div>
+            </div>
+        </div>
+    
+
+
         
     
 </body></html>
