@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the mocavo.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627082035id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mocavo.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231152543id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+		
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta charset="utf-8">
+		<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WVN3HP"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580377500000/491548.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcEVlRRGwIAVVZaAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 		<title>Privacy Policy</title>
 					<meta name="viewport" content="width=980">
 				<meta name="description" content="">
@@ -29,8 +30,8 @@
 		
 		
 		
-		<link type="text/css" rel="stylesheet" href="http://www.mocavo.com/css/custom-bootstrap.css?20150627003723=20150627003723" media="screen">
-		<link type="text/css" rel="stylesheet" href="http://www.mocavo.com/css/common.css?20150627003723=20150627003723" media="screen">
+		<link type="text/css" rel="stylesheet" href="http://www.mocavo.com/css/custom-bootstrap.css?20151214210054=20151214210054" media="screen">
+		<link type="text/css" rel="stylesheet" href="http://www.mocavo.com/css/common.css?20151214210054=20151214210054" media="screen">
 				
 		
 		
@@ -41,12 +42,12 @@
 		<link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
 
 		
-		<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580377500000/491548.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>window.Server = window.Server || {};Server.site_url = 'http://www.mocavo.com';</script><script>window.Server = window.Server || {};Server.site_url_non_ssl = 'http://www.mocavo.com';</script><script>window.Server = window.Server || {};Server.assets_url = 'http://cdn2.mocavo-cdn.com';</script><script>window.Server = window.Server || {};Server.facebook_app_id = '233109343369887';</script><script>window.Server = window.Server || {};Server.facebook_api_key = 'c966152bb831a8e0611d448c6bc67a48';</script>
+		<script>window.Server = window.Server || {};Server.site_url = 'http://www.mocavo.com';</script><script>window.Server = window.Server || {};Server.site_url_non_ssl = 'http://www.mocavo.com';</script><script>window.Server = window.Server || {};Server.assets_url = 'http://cdn2.mocavo-cdn.com';</script><script>window.Server = window.Server || {};Server.order_countdown_end = 1451576432;Server.current_time = 1451575543;Server.showCountdown = true;</script><script>window.Server = window.Server || {};Server.trial_period = 7;</script>
 		
 							
-				<script type="text/javascript" src="http://www.mocavo.com/js/libs/modernizr.custom.96254.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://use.typekit.com/apx2xqm.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/typekit_loader.js?20150627003723=20150627003723" charset="UTF-8"></script>
+				<script type="text/javascript" src="http://www.mocavo.com/js/libs/modernizr.custom.96254.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://use.typekit.com/apx2xqm.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/typekit_loader.js?20151214210054=20151214210054" charset="UTF-8"></script>
 
 		
 		
@@ -73,7 +74,7 @@
 		<!-- TRY Mocavo Gold -->
 
 					<li class="try-plus hidden-phone">
-				<a href="/gold" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Primary Navigation', 'Try Mocavo Gold']);">Try Mocavo Gold</a>
+				<a href="/gold" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Primary Navigation', 'Get Mocavo Gold']);">Get Mocavo Gold</a>
 			</li>
 		
 		
@@ -87,8 +88,35 @@
 		<!-- SIGN IN -->
 
 					<li class="signin">
-				<a href="/signin" class="btn" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Top Bar', 'Sign In']);">Sign In</a>
+				<a href="/signin" id="signin-link" class="btn" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Top Bar', 'Sign In']);">Sign In</a>
 			</li>
+			<div id="floating-signin" class="dropdown-menu">
+	<h1 class="head center">Sign In to Your Account</h1>
+    <div class="post-center">
+        <div class="row">
+			<div class="span8 offset8 in-front" id="signin-box-container">
+                <a class="close">×</a>
+                <form class="validate-nonajax signin-box" method="post" action="https://www.mocavo.com/auth/login" onsubmit="_gaq.push(['_trackEvent', 'UI Events', 'floating_signin', 'Sign In']);">
+	<div class="control-group">
+		<label for="signin-email">E-Mail Address</label>
+		<input tabindex="100" name="email" value="" autofocus="autofocus" type="text" id="signin-email">
+	</div>
+	<div class="control-group">
+		<label for="password">Password <a tabindex="103" class="forgot" href="/retrievepassword">Forgot?</a></label>
+		<input tabindex="101" type="password" name="password" id="password">
+	</div>
+	<div class="control-group clearfix">
+		<button tabindex="102" type="submit" class="btn btn-primary btn-large pull-left">Sign In</button>
+	</div>
+		</form>
+
+<div class="row not-member">
+	<p class="center">Not a member? <a href="/signup">Sign up now</a></p>
+</div>
+			</div>
+        </div>
+    </div>
+</div>
 		
 	</ul>
 </div>
@@ -147,7 +175,7 @@
 							</ul>
 						</li>
 											</ul>
-							</div>
+											</div>
 
 		</div>
 
@@ -159,7 +187,14 @@
 	</div>
 
 	
-	
+	<div class="alert alert-bar alert-success alert-special">
+		<div class="container">
+			Sign up for Mocavo Gold in the next <strong class="countdown"></strong> and get your first month for $4!
+			<a class="btn-countdown btn btn-special" href="/order?term=monthly&amp;tier=gold&amp;discount=true&amp;coupon_code=4amonth&amp;utm_source=mocavo.com&amp;utm_medium=website&amp;utm_content=default&amp;utm_campaign=countdown_upsell" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Countdown Bar', 'Order now']);">Order Now</a>
+		</div>
+	</div>
+
+
 	
 		<div class="wrapper">
 
@@ -473,6 +508,83 @@ Database</label><input class="hidden" id="database_category" name="category">
 
 
 
+	<div class="modal hide" id="search-paywall"></div>
+
+<script type="text/template" id="search-paywall-template">
+    <div class="modal-header">
+        <button class="close" data-dismiss="modal" type="button">×</button>
+    </div>
+
+    <div class="modal-body">
+        <% if (show_upsell) { %>
+            <h2>Enjoy your <%= total_searches %> free premium searches!</h2>
+        <% } else { %>
+            <h2>Have <%= total_searches %> premium searches on us.</h2>
+        <% } %>
+        <hr class="short-line">
+        <p class="body-text">Save time and expand the reach of your research by searching our entire collection at once with Mocavo Gold.</p>
+        <% if (show_upsell) { %>
+            <p><a href="/order?tier=gold&discount=true&coupon_code=five_off&utm_source=mocavo.com&utm_medium=website&utm_content=search_paywall_modal&utm_campaign=search_paywall" target="_blank" class="btn btn-primary">Get Mocavo Gold</a></p>
+        <% } else { %>
+            <p><a id="startSearching" href="javascript:void(0);" onclick="$('#search-paywall .close').trigger('click');" class="btn btn-primary">Start Searching!</a></p>
+        <% } %>
+    </div>
+</script>
+	<div class="modal hide" id="nps-survey">
+	<form id="nps-survey-form">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h2>Help us make Mocavo better!</h2>
+		</div>
+		<div class="modal-body">
+			<fieldset>
+				<div class="control-group" id="cg-recommend-level">
+					<label for="recommend-level">On a scale of 1-10, how likely are you to recommend Mocavo<br>to a friend or family member?</label>
+
+					<div id="recommend-level-form">
+						<span>Less Likely</span>
+						<input type="radio" class="hidden" name="recommend-level" value="0" checked="checked"><!-- provide initial value for validation -->
+													<input type="radio" name="recommend-level" value="1" id="recommend-level-1">
+							<label class="radio-label-inline" for="recommend-level-1">1</label>
+													<input type="radio" name="recommend-level" value="2" id="recommend-level-2">
+							<label class="radio-label-inline" for="recommend-level-2">2</label>
+													<input type="radio" name="recommend-level" value="3" id="recommend-level-3">
+							<label class="radio-label-inline" for="recommend-level-3">3</label>
+													<input type="radio" name="recommend-level" value="4" id="recommend-level-4">
+							<label class="radio-label-inline" for="recommend-level-4">4</label>
+													<input type="radio" name="recommend-level" value="5" id="recommend-level-5">
+							<label class="radio-label-inline" for="recommend-level-5">5</label>
+													<input type="radio" name="recommend-level" value="6" id="recommend-level-6">
+							<label class="radio-label-inline" for="recommend-level-6">6</label>
+													<input type="radio" name="recommend-level" value="7" id="recommend-level-7">
+							<label class="radio-label-inline" for="recommend-level-7">7</label>
+													<input type="radio" name="recommend-level" value="8" id="recommend-level-8">
+							<label class="radio-label-inline" for="recommend-level-8">8</label>
+													<input type="radio" name="recommend-level" value="9" id="recommend-level-9">
+							<label class="radio-label-inline" for="recommend-level-9">9</label>
+													<input type="radio" name="recommend-level" value="10" id="recommend-level-10">
+							<label class="radio-label-inline" for="recommend-level-10">10</label>
+												<span>More Likely</span>
+						<br class="clearfix">
+					</div>
+
+				</div>
+				<div class="control-group" id="cg-recommend-reason">
+					<label for="recommend-reason">Why or why not?</label>
+					<textarea id="recommend-reason" name="recommend-reason" class="input-block-level" rows="4"></textarea>
+				</div>
+
+				<p class="error-text hidden"></p>
+			</fieldset>
+			<p class="success-text hidden lead">Thank you! We appreciate your time.</p>
+		</div> <!-- .modal-body -->
+		<div class="modal-footer">
+			<button type="button" class="btn btn-inverse" id="nps-survey-optout">No Thanks</button>
+			<button type="submit" class="btn btn-primary">Submit Survey</button>
+			<button type="button" class="btn hidden btn-inverse" data-dismiss="modal">Close</button>
+		</div> <!-- .modal-footer -->
+	</form>
+</div> <!-- .modal -->
 	<footer class="footer">
 		<div class="container">
 			<div class="row navlinks">
@@ -523,33 +635,34 @@ Database</label><input class="hidden" id="database_category" name="category">
 		</div>
 	</footer>
 
-																				
+																					
 	
 	
 	
 	
 	
 		<!-- 1 -->
-	<script type="text/javascript" src="http://www.mocavo.com/js/libs/jquery-1.8.0.min.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-alert.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-modal.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-dropdown.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-scrollspy.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-tab.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-tooltip.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-popover.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-button.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-collapse.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-transition.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-affix.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/underscore-min.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/backbone-min.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/mocavo.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/jquery.autogrow.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/libs/history.adapter.jquery.js?20150627003723=20150627003723" charset="UTF-8"></script>
-<script type="text/javascript" src="http://www.mocavo.com/js/common.js?20150627003723=20150627003723" charset="UTF-8"></script>
+	<script type="text/javascript" src="http://www.mocavo.com/js/libs/jquery-1.8.0.min.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-alert.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-modal.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-dropdown.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-scrollspy.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-tab.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-tooltip.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-popover.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-button.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-collapse.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-transition.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/bootstrap-affix.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/underscore-min.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/backbone-min.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/mocavo.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/jquery.autogrow.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/libs/history.adapter.jquery.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/common.js?20151214210054=20151214210054" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.mocavo.com/js/nps-survey.js?20151214210054=20151214210054" charset="UTF-8"></script>
 	<!-- 2 -->
-	<script type="text/javascript" src="http://www.mocavo.com/js/libs/jquery.cookie.js?20150627003723=20150627003723" charset="UTF-8"></script>
+	<script type="text/javascript" src="http://www.mocavo.com/js/libs/jquery.cookie.js?20151214210054=20151214210054" charset="UTF-8"></script>
 	<!-- 3 -->
 		<!-- 4 -->
 
@@ -557,11 +670,11 @@ Database</label><input class="hidden" id="database_category" name="category">
 
 	<!-- Google Analytics -->
 	<script type="text/javascript">
-
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-26173562-1']);
-	  _gaq.push(['_setDomainName', 'mocavo.com']);
-	  if (Server.user_tier == "0") {
+		var dataLayer = [window.Server];
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26173562-1']);
+		_gaq.push(['_setDomainName', 'mocavo.com']);
+		if (Server.user_tier == "0") {
 			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Basic', 1]);
 		} else if (Server.user_tier == "2") {
 			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Silver', 1]);
@@ -570,7 +683,7 @@ Database</label><input class="hidden" id="database_category" name="category">
 		} else {
 			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Logged Out', 1]);
 		}
-	  _gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageview']);
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
@@ -638,13 +751,24 @@ Database</label><input class="hidden" id="database_category" name="category">
 	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995576086/?value=0&amp;label=Je68CKr1tAQQlpLd2gM&amp;guid=ON&amp;script=0">
 	</div>
 
-	<img src="//connexity.net/c/cse?a=R&amp;A=121&amp;D=3107&amp;V=9&amp;b=1435393236">
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WVN3HP"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WVN3HP');</script>
+	<!-- End Google Tag Manager -->
+
+	<img src="//connexity.net/c/cse?a=R&amp;A=121&amp;D=3107&amp;V=9&amp;b=1451575543">
 
 </div>
 
+	<input id="hostNameDiv" type="hidden" value="web12">
 	<!-- web12 -->
 
-  
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9be1219c0c","applicationID":"1017843","transactionName":"bmMAVGAWVllDBwAWWV9aSnVBF0NYXUlJ","queueTime":0,"applicationTime":59,"atts":"SxYQFA4fShsSB0FYS01J","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
 
 
 </body></html>
