@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627193801id_/http%3A//agoda.com/info/agoda-privacy.html%3Fasq%3DjGXBHFvRg5Z51Emf%252fbXG4w%253d%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231053646id_/http%3A//www.agoda.com/info/agoda-privacy.html%3Fasq%3DjGXBHFvRg5Z51Emf%252fbXG4w%253d%253d) for the most accurate reproduction.*
 
 # Agoda Privacy Policy
 
@@ -6,7 +6,7 @@ Agoda Privacy Policy
 
 Introduction
 
-Last Updated on 7 April 2015
+Last Updated on 14 August 2015
 
 Agoda.com is owned and operated by Agoda Company Pte. Ltd. ("Agoda" or "we"), a company registered in Singapore. The following Privacy Policy describes how we as a data controller collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Agoda through the website located at [www.agoda.com](https://www.agoda.com/) ("Site"). References to the Site are deemed to include derivatives thereof, including but not necessarily limited to mobile websites and applications. By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy.
 
@@ -22,13 +22,15 @@ To prevent unauthorized access, we maintain reasonable physical, electronic and 
 
 How We Use the Information We Collect– Credit Card on File
 
-We use Personal Data and other information collected through the Site (a) to register you with the Site and create your user account, (b) to provide you with the requested services (mainly to process and confirm your reservation with the accommodation) after verifying your credentials, (c) to provide you with information about our services on the Site or on other websites and to communicate with you to the extent necessary to provide such requested services, (d) to build features that will make the services available on the Site easier to use and (e) for an improved user experience and general optimization purposes or (f) to contact you in case there is any issue with your booking. This includes faster purchase requests, better customer support and timely notice of new services and special offers. From time to time, Agoda may contact you to request feedback on your experience in using the Site, to assist us in improving the Site, to send newsletters or to offer special savings or promotions to you as a Site user, where you have indicated your consent to receiving such communications. If you would prefer not to receive notices of special savings or promotions or related marketing messages, you may simply opt out (“unsubscribe”) from receiving those by replying to Agoda using the hyperlink provided in these notices at any time. The confirmation emails and text messages sent after your booking and the guest review emails sent after your departure respectively are not marketing messages as these are part of your accommodation reservation process. These allow you to check in at and rate the property after your stay if you wish to do so. You will continue to receive them, even if you have opted out of our marketing messages. The guest review is completely optional, but will help other customers make an informed decision. When logging in, you will have the ability to save credit card details to your personal account for faster future bookings and payments. Your card details are always secure using strong encryption and you can always log in to your personal account to delete, edit or add certain credit card details. For security reasons, the number cannot be edited (but the card details can be deleted). When viewing card details, only the last 4 digits of the number will be visible.
+We use Personal Data and other information collected through the Site (a) to register you with the Site and create your user account, (b) to provide you with the requested services (mainly to process and confirm your reservation with the accommodation) after verifying your credentials, (c) to provide you with information about our services on the Site or on other websites and to communicate with you to the extent necessary to provide such requested services, (d) to build features that will make the services available on the Site easier to use and (e) for an improved user experience and general optimization purposes or (f) to contact you in case there is any issue with your booking. This includes faster purchase requests, better customer support and timely notice of new services and special offers. From time to time, Agoda may contact you to request feedback on your experience in using the Site, to assist us in improving the Site, to send newsletters or to offer special savings or promotions to you as a Site user, where you have indicated your consent to receiving such communications. If you would prefer not to receive notices of special savings or promotions or related marketing messages, you may simply opt out (“unsubscribe”) from receiving those by replying to Agoda using the hyperlink provided in these notices at any time. The confirmation emails and text messages sent after your booking and the guest review emails sent after your departure respectively are not marketing messages as these are part of your accommodation reservation process. These allow you to check in at and rate the property after your stay if you wish to do so. You will continue to receive them, even if you have opted out of our marketing messages. The guest review is completely optional, but will help other customers make an informed decision. When logging in, you will have the ability to save credit card details to your personal account for faster future bookings and payments. Your card details are always secure using strong encryption and you can always log in to your personal account to delete, edit or add certain credit card details. For security reasons, the number cannot be edited (but the card details can be deleted). When viewing card details, only the last 4 digits of the number will be visible. Please note that we will store the last 4 digits of your credit card securely upon any booking made (this is required to manage any refund requests for that booking).
 
 Sharing Your Personal Data
 
-Agoda may share your Personal Data with suppliers such as accommodation properties and other third parties we appoint to perform services on our behalf, such as web hosting, data analysis, marketing (also on websites of such third parties), customer care, credit card and payment services and related services. All such third parties will be under an obligation to maintain the security and confidentiality of the Personal Data, and to process the Personal Data only in accordance with our instructions.
+Agoda may share your Personal Data with suppliers such as accommodation properties and other third parties we appoint to perform services on our behalf, such as third party loyalty programs, web hosting, data analysis, marketing (also on websites of such third parties), customer care, credit card and payment services and related services. All such third parties will be under an obligation to maintain the security and confidentiality of the Personal Data, and to process the Personal Data only in accordance with our instructions.
 
-In some cases, Agoda may require that you transact directly with a third party to obtain services, or when you use the Site to reserve an accommodation room or obtain another product or service, we may provide your Personal Data to that accommodation property or other involved third party.
+In some cases, Agoda may require that you transact directly with a third party to obtain services, or when you use the Site to reserve an accommodation room or obtain another product or service (such as points under a third-party loyalty program), we may provide your Personal Data to that accommodation property or other involved third party.
+
+Agoda may propose other services (typically “add-ons”) to help plan your trip, to offer certain benefits (e.g. get points for third party loyalty or mileage programs) or for another purpose that may interest you. These services are offered by third party providers. As stated above, relevant data about this service may be shared with such third party providers to ensure optimal service.
 
 Save for disclosures mentioned in this Privacy Policy or as required or permitted by law in any relevant jurisdiction as mentioned below and the disclosure of your Personal Data and information required for completing your booking with the relevant hotel of your choice and the sharing of certain Personal Data with selected partners where relevant (your details will be used for reporting and analysis purposes only), we will not disclose your Personal Data to third parties without your consent. However, we reserve the right to disclose your Personal Data to our affiliated (group) companies (in and outside your home country), including our affiliated (group) companies' employees and our trusted agents and representatives who have access to this information with our permission and who need to know or have access to this information to perform the service requested by you (including customer services) and internal (audit/compliance) investigations.
 
@@ -50,13 +52,9 @@ If you would like more information about the information collection practices of
 
 [//www.networkadvertising.org/consumer/opt_out.asp](https://www.networkadvertising.org/consumer/opt_out.asp);
 
-[//www.vizury.com/website/optout.html](https://www.vizury.com/website/optout.html)
-
 and with regard to our mobile apps, you can use the following opt-out options:
 
 [//www.google.com/ads/preferences/html/intl/en/mobile-about.html](https://www.google.com/ads/preferences/html/intl/en/mobile-about.html);
-
-<https://ad-x.co.uk/dont_track.php>;
 
 [//www.appsflyer.com/opt-out](https://www.appsflyer.com/opt-out).
 
@@ -64,7 +62,7 @@ To opt out of analytics programs, you can use the following tools:
 
 <https://tools.google.com/dlpage/gaoptout?hl=en>;
 
-[//www.microsoft.com/privacystatement/en-us/bing/default.aspx#](https://www.microsoft.com/privacystatement/en-us/bing/default.aspx#);
+[//www.microsoft.com/en-us/privacystatement/default.aspx](https://www.microsoft.com/en-us/privacystatement/default.aspx);
 
 <https://help.yahoo.com/kb/SLN4525.html>;
 
