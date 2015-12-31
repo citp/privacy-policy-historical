@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookschristian.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624001359id_/http%3A//www.christianbook.com/page/info/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookschristian.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231105438id_/http%3A//www.christianbook.com/page/info/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Christianbook.com
 
@@ -62,7 +62,7 @@ Third party vendors, including Google, may show ads for Christianbook.com on web
 
 ###### Conditions of use
 
-Your use of this website and the purchase of products and services through this website are subject to the terms and conditions of this Privacy Policy and the Terms of Use Agreement which is **[available here](http://www.christianbook.com/Christian/Books/cms_content?page=1471987)**.
+Your use of this website and the purchase of products and services through this website are subject to the terms and conditions of this Privacy Policy and the Terms of Use Agreement which is **[available here](https://web.archive.org/page/info/terms-and-conditions)**.
 
 ###### Changes to Privacy Policy
 
