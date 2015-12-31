@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossip.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622055908id_/http%3A//bossip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossip.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231012319id_/http%3A//bossip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bossip
 
@@ -6,7 +6,7 @@ Revised as of May 27, 2015
 
 **1\. INTRODUCTION**
 
-**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, afkinsider.com, afktravel.com and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
+**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, afkinsider.com, afktravel.com, madamenoire.tv, and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
 
 This Policy explains:
 
