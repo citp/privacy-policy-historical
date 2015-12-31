@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pchsaveandwin.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626121642id_/http%3A//privacy.pch.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchsaveandwin.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231132538id_/http%3A//www.pch.com/privacypolicy) for the most accurate reproduction.*
 
 # PCH Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Publishers-Clearing-House/validation?rid=aab593cf-de19-453b-8c08-dec4d4024af3 "TRUSTe online privacy certification")
 
-**Last Updated Dec 22, 2014**
+**Last Updated October 23, 2015**
 
 This notice provides highlights of the full [Publishers Clearing House Online Privacy Statement ](https://web.archive.org/privacy-policy). Unless otherwise specified, this notice and the full privacy statement apply to those Publishers Clearing House Web sites and services that display or link to this notice.more...
 
@@ -63,7 +63,7 @@ learn more »
 
 ## Other Information »
 
-The pch.com site is not directed to visitors residing outside of the United States. The pch.com site is not targeted nor directed to children under the age of thirteen. Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework.
+The pch.com site is not directed to visitors residing outside of the United States. The pch.com site is not targeted nor directed to children under the age of thirteen.
 
 To contact us, please visit the [ Info Center](http://info.pch.com/consumer-information) of the site or write directly to Christopher L. Irving, Consumer & Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050.
 
@@ -173,7 +173,7 @@ Except as otherwise described in this statement, personal information you provid
 
 ### Targeted or Behavioral Advertising
 
-Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual’s web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which pch.com advertisement should be displayed to a particular individual on websites other than pch.com. For example, if you have shown a preference for cooking while visiting pch.com, you may be served an advertisement from pch.com for cooking related products when you visit a site other than pch.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from pch.com or through third party website publishers. If you would like to opt out from being shown targeted advertising by our 3rd party providers, including Google, please click [here:](http://preferences-mgr.truste.com/?pid=pch01) Please note that this will opt you out of targeted ads from pch.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House; however, these ads may not be as relevant to you.
+Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual’s web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which pch.com advertisement should be displayed to a particular individual on websites other than pch.com. For example, if you have shown a preference for cooking while visiting pch.com, you may be served an advertisement from pch.com for cooking related products when you visit a site other than pch.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from pch.com or through third party website publishers. We may use your personal data to serve you relevant ads based upon your interests through our own and select third party ad partners. In such cases, PCH will provide your personal data such as encrypted email address and mobile advertising identifier to such third party service providers so that we may serve you with ads that may be of interest to you. If you would like to opt out from being shown targeted advertising by our 3rd party providers, including Google, please click [here:](http://preferences-mgr.truste.com/?pid=pch01) Please note that this will opt you out of targeted ads from pch.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House; however, these ads may not be as relevant to you.
 
 ### Can I opt-out of pch.com's data collection and/or distribution?
 
@@ -189,7 +189,7 @@ Users can access the personal information they have provided to pch.com for the 
 
 ### Does pch.com collect information from users outside of the United States?
 
-The pch.com site is not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries. However, as indicated in the Official Rules on the site, some sweepstakes promoted on the pch.com Site are open to residents of the U.K. and Canada. Residents from these countries can participate in these sweepstakes by sending a write-in entry to the address provided in the Official Rules. We regret that as a result of system limitations at this time non-U.S. residents may not order products through pch.com. If pch.com becomes aware that a user who does not reside in the United States has registered with the pch.com site, pch.com will use reasonable efforts to remove such information from its files.
+The pch.com site is not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries. However, as indicated in the Official Rules on the site, some sweepstakes promoted on the pch.com site are open to residents of Canada. Residents of Canada can participate in these sweepstakes by sending a write-in entry to the address provided in the Official Rules. We regret that as a result of system limitations at this time non-U.S. residents may not order products through pch.com. If pch.com becomes aware that a user who does not reside in the United States has registered with the pch.com site, pch.com will use reasonable efforts to remove such information from its files.
 
 ### Does pch.com collect personal information from children?
 
@@ -204,10 +204,6 @@ The following information for California residents covers on-line (internet) and
 Publishers Clearing House collects certain personal information from our direct mail customers and entrants primarily to process sweepstakes entries and fulfill orders for the products and services we offer. For example, we need your full name and address to enter you in the sweepstakes, notify you if you've won a prize or to send you any magazine subscription or product you may purchase. We may also use the personal data we collect for systems administration and troubleshooting purposes, and to report aggregate information to our marketing partners and other third parties. From time to time we may share or exchange marketing information about the consumers who respond to our offers with other companies so they may contact you about products and services that may interest you.
 
 If you do not want your name passed on to other companies for the purpose of receiving marketing offers, just tell us by contacting us at [privacychoices@pchmail.com](mailto:privacychoices@pchmail.com). This e-mail address is being protected from spambots. You need JavaScript enabled to view it. or by writing to Christopher L. Irving, , Consumer & Privacy Affairs, Publishers Clearing House, 382 Channel Drive and we will be pleased to respect your wishes. Please make sure to provide your full name, address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing.
-
-### U.S. – EU Safe Harbor Framework Compliance
-
-Publishers Clearing House complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Publishers Clearing House has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Publishers Clearing House’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Further Questions?
 
