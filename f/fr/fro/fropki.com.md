@@ -1,60 +1,172 @@
-> *The following text is extracted and transformed from the fropki.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034555id_/http%3A//www.fropky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropki.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231041411id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Privacy Policy - Fropky.com
+# Data Policy
 
-**Our commitment to privacy**
+We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://web.archive.org/about/basics). 
 
-Fropky.com ("Fropky", "we" or "our") has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of Fropky. Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site. 
+As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://web.archive.org/help/1561485474074139)
 
-**Our privacy policy in short**
+###  What kinds of information do we collect? 
 
-  * We will only use personal information you provide us according to the terms outlined in this document. 
+Depending on which Services you use, we collect different kinds of information from or about you. 
 
-  * In order to utilize the features and services offered through this Site, you must provide a limited amount of information. 
+Things you do and information you provide.
 
-  * We will never provide personally identifiable information about you to third parties without your consent or unless we are required to do so by law.
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
 
+Things others do and information they provide.
 
+We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
 
+Your networks and connections.
 
-**What information do we collect?**
+We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
 
-During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information ("Personal Data") from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.fropky.com/terms.php) posted on the Site.In addition, we collect certain information, which cannot be used to personally identify any user, and which may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Site.You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the website. .Any user providing personal data is certifying that he/she is over the age of 13. As such, we do not collect or maintain personal data from individuals we actually know are under 13 years of age, and no part of our Site is designed to attract people under 13. Protecting the privacy of children is very important to us. Thus, if we ever obtain knowledge that that a user is under 13, we will take steps to remove that user's personal data from our databases and to prevent the user from utilizing the Site. 
+Information about payments.
 
-**How do we use and disclose collected information?**
+If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
 
-Fropky, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don't have to re-enter them each time you visit our site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site. We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet service provider (ISP), chances are that your IP address varies each session? Thus making it effectively impossible for us to use your IP address (by itself) to determine who you are. In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. We also disclose aggregated user statistics in order to describe our services and reach to prospective partners, advertisers, and other third parties. However, aggregate data is not traceable to you specifically. We may use contractors to help us with our operations. Some or all of these contractors may access our databases of user information. These contractors will enter into an agreement with us that places restrictive provisions on their use and disclosure of all information they obtain through the relationship. 
+Device information.
 
-**Information from Other Sites**
+We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-We use Google Adsense and DoubleClick to display Ads on our website. Google may display Interest-based advertisements on your computer which will allow advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, Google Adsense will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, Google Adsense will add them to the "sports enthusiast" interest category. Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/settings/ads?hl=en). We also track users information using Google Analytics. Users can optout by [clicking here](https://tools.google.com/dlpage/gaoptout). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/choices/) of several third party ad servers and networks cookies simultaneously. The Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Fropky uses third party sites for hosting images. These sites may gather data from the referrer logs that identify where and how frequently user images being hosted on the respective sites are being displayed on Fropky in order to provide more relevant advertising and monitor user bandwidth usage.Fropky contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. Fropky is not responsible for the privacy practices or the content of such other sites. 
-
-**Security Precautions**
-
-Fropky makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. Fropky encourages our users to be smart about choosing when, and to whom to release information online.Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you'd expect -- we use and disclose this information in a commercially reasonable business manner. 
-
-**Our commitment to data security**
-
-This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, Fropky assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. 
-
-**Mailing list subscriptions**
-
-Fropky provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
-
-**Acceptance of Privacy Policy**
-
-By using Fropky, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time. 
-
-**How to Contact Us**
-
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us in any of the methods given below:
-
-  * [Click here](https://web.archive.org/web/20150608034555id_/http%3A//www.fropky.com/contact.php) to fill in the Contact Us form or 
-
-  * 'Fropky.com',   
-360, Swamipara, Budhana Gate,   
-Meerut - 250002   
-(U.P.), INDIA.
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
 
 
+Information from websites and apps that use our Services.
+
+We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
+
+Information from third-party partners.
+
+We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
+
+Facebook companies.
+
+We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://web.archive.org/help/111814505650678) about these companies and their privacy policies. 
+
+###  How do we use this information? 
+
+We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
+
+Provide, improve and develop Services.
+
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
+
+We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
+
+When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
+
+We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
+
+Communicate with you.
+
+We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
+
+Show and measure ads and services.
+
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/about/ads/#568137493302217) how information about you is used to personalize the ads you see. 
+
+Promote safety and security.
+
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
+
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/help/cookies/update) to learn more. 
+
+###  How is this information shared? 
+
+Sharing On Our Services
+
+People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
+
+People you share and communicate with.
+
+When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
+
+[Public information](https://web.archive.org/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://web.archive.org/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
+
+In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
+
+People that see content others share about you.
+
+Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://web.archive.org/notes/facebook-safety/details-on-social-reporting/196124227075034). 
+
+Apps, websites and third-party integrations on or using our Services.
+
+When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://web.archive.org/help/203805466323736), which includes your [username or user ID](https://web.archive.org/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
+
+[Learn more](https://web.archive.org/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
+
+Sharing within Facebook companies.
+
+We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://web.archive.org/help/111814505650678) about our companies. 
+
+New owner.
+
+If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
+
+Sharing With Third-Party Partners and Customers
+
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
+
+Here are the types of third parties we can share information with about you: 
+
+Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
+
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
+
+Please review your [advertising preferences](https://web.archive.org/about/ads) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
+
+Vendors, service providers and other partners.
+
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
+
+###  How can I manage or delete information about me? 
+
+You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://web.archive.org/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://web.archive.org/help/302796099745838). 
+
+We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
+
+You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://web.archive.org/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
+
+###  How do we respond to legal requests or prevent harm? 
+
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
+
+###  How our global services operate 
+
+Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=BAQHa_8AQ&s=1). 
+
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=0AQGjZaVb&s=1). 
+
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
+
+###  How will we notify you of changes to this policy? 
+
+We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
+
+###  How to contact Facebook with questions 
+
+To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+
+If you live in the US or Canada… 
+
+Please contact Facebook, Inc. [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook, Inc.  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+If you live anywhere else… 
+
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook Ireland Ltd.  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2 Ireland 
+
+Date of Last Revision: January 30, 2015 
