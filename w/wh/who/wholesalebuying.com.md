@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalebuying.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511172828id_/http%3A//www.wholesalebuying.com/doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalebuying.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231181414id_/http%3A//www.wholesalebuying.com/doc/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -113,4 +113,4 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 Choice and Opt-Out   
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [service@wholesalebuying.com](mailto:service@wholesalebuying.com)
 
-If you wish to talk to a Wholesalebuying.com customer representative please call +86-755-89619517 or +86-755-89619973 or write to: Customer Service Department, Wholesalebuying.com, Yaoan industry Zone, XianTian Road, Xinsheng, Longgang District, Shenzhen, 518116, China. You can also email us at service@wholesalebuying.com
+If you wish to talk to a Wholesalebuying.com customer representative please call +86-755-89619517 or +86-755-89619973. You can also email us at service@wholesalebuying.com
