@@ -1,37 +1,80 @@
-> *The following text is extracted and transformed from the daleak.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208004433id_/http%3A//daleak.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daleak.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy DaLeak.com - Quality Hip Hop Music. Updated 24/7 Since 2007
+# HugeDomains.com - Privacy Policy
 
-**Terms of Use**
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Everything posted on DaLeak.com is for promotional use only. We work directly with artists, managers, publicists, and labels. Any files downloaded should only be kept temporarily. We do not store any unauthorized files on our server. Please support the artists here and our culture like we do.
+**What information do we collect?**
 
-**Privacy Policy**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@daleak.com.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-At DaLeak.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by DaLeak.com and how it is used.
+**What do we use your information for?**
 
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp.
+Any of the information we collect from you may be used in one of the following ways: 
 
-_Log Files_
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Like many other Web sites, DaLeak.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-_Cookies and Web Beacons_
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-DaLeak.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize site content based on visitors browser type or other information that the visitor sends via their browser.
+• To process transactions
 
-_DoubleClick DART Cookie_
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Google, as a third party vendor, uses cookies to serve ads on DaLeak.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to DaLeak.com and other sites on the Internet. Users may _opt-out_ of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
+• To send periodic emails
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense, AOL Advertising, Adbrite, Burst Media, Federated Media and Amazon.com
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on DaLeak.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-DaLeak.com has no access to or control over these cookies that are used by third-party advertisers.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. DaLeak.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**How do we protect your information?**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
