@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the balmerlawrie.com privacy policy that was archived on 2015-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150514164059id_/http%3A//www.balmerlawrie.com/pages/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the balmerlawrie.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231133349id_/http%3A//balmerlawrie.com/pages/viewpages/35) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<!-- Basic Page Needs
@@ -34,6 +34,8 @@
 <script type="text/javascript" src="/js/jquery.innerfade.js"></script>
 <script type="text/javascript" src="/js/responsiveTabs.js"></script>
 <script type="text/javascript" src="/js/bjqs-1.3.js"></script>
+<script type="text/javascript" src="/js/jquery.session.js"></script>
+<script type="text/javascript" src="/js/text_change.js"></script>
     <script type="text/javascript">
     $(function () {
         $(document).ready(function($){
@@ -74,15 +76,52 @@
 		}
     });
     </script>
+	
+
 </head>
 <body style="background:#ffffff;">
+
+ 
+
+<div class="blmain_container"> 
 	<!-- Primary Page Layout
 	================================================== -->
 	<!-- Delete everything in this .container and get started on your own site! -->
     <div class="container">
 		<div class="sixteen columns">
+       		 <div class="theme_panel">
+            	<ul>
+                	<li class="left">
+                    	<p>Contrast</p>
+                        <a href="javascript:void(0);" id="no_theme" class="default theme_link">A</a>
+                        <a href="javascript:void(0);" id="theme1" class="yellow theme_link">A</a>
+                        <a href="javascript:void(0);" id="theme2" class="black theme_link">A</a>
+                        <a href="javascript:void(0);" id="theme3" class="blue theme_link">A</a>
+                    </li>
+                    <li class="right">
+                    	<span><button type="button" id="zoom-out" class="smaller_txt" style="display:none">Smaller Text</button></span>
+                        <span><button type="button" id="zoom-in" class="bigger_txt">Bigger Text</button></span>
+                    	<span><button type="button" id="zoom-normal" class="normal_txt">Normal Text</button></span>
+                    </li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
         	<div class="four columns logo">
-            <a href="/"><img src="/img/balmer-lawrie.png" alt="Logo"></a>            </div>
+                                      <a href="/"><img src="/img/balmer-lawrie.png" alt="Logo"></a>                    
+                                          </div>
+				
+        	<!--<div class="three columns logo omega">
+			<ul class="container-toplink add-float-right" style=" margin-bottom:0px;">
+						<li><button type="button" id="zoom-in">Bigger Text ++</button></li>
+<li><button type="button" id="zoom-out" style="display:none;">Smaller Text --</button></li>
+<li><button type="button" id="zoom-normal">Normal Text</button></li>
+						<li><a class="theme_link" id="no_theme" href="#">Default Theme </a></li>		
+						<li><a class="theme_link" id="theme1" href="#">Theme 1 </a></li>		
+						<li><a class="theme_link" id="theme2" href="#">Theme 2 </a></li>		
+						<li><a class="theme_link" id="theme3" href="#">Theme 3 </a></li>	
+			</ul>
+            </div>-->				
+				
             <div class="eight columns" style="float:right;">
             	<div class="one columns alpha omega">
                     <ul class="social-icons">
@@ -149,24 +188,30 @@
                     </style>
                     <div class="clear"></div>
                 </div>
+
                	<div class="clear"></div>
 					<ul class="container-toplink" style="float:right;">
 <!--    <li><select id="lang">
             <option id="english" value="english" >English</option>
-            <option id="hindi" value="hindi" >Hindi</option>
+            <option id="hindi" value="hindi" >हिन्दी</option>
         </select>
     </li>-->
-      <!--   <li><a id="english" href="#">English</a></li>
-    <li style="color:#5fc001; font-size:13px;">|</li>
-    <li><a id="hindi" href="#">Hindi</a></li>
-    <li style="color:#5fc001; font-size:13px;">|</li>-->
-	    
     
-    <li><a href="/">Home</a></li>
+    <li><a id="english" href="#">English</a></li>
     <li style="color:#5fc001; font-size:13px;">|</li>
-    <li><a href="/pages/sitemap">Sitemap</a></li>
+    <li><a id="hindi" href="#">हिन्दी</a></li>
     <li style="color:#5fc001; font-size:13px;">|</li>
-    <li><a href="/pages/contact">Contact</a></li>
+    
+    
+                    	<li>
+                                                        <a href="/">Home</a>
+                        </li>
+                        <li style="color:#5fc001; font-size:13px;">|</li>
+                        <li>                            <a href="/pages/sitemap">Sitemap</a>
+                        </li>
+                        <li style="color:#5fc001; font-size:13px;">|</li>
+                        <li>                            <a href="/pages/contact">Contact</a>
+                        </li>
 </ul>            </div>
 		</div>
         <div class="clear"></div>
@@ -265,23 +310,24 @@
         <!-- End Product And Services -->  
         
         <!-- Begin Tenders --> 
-        <li>        <a href="javascript:void(0)" class="megamenu_drop" onclick="window.location='/pages/tender'">Tenders </a>
+        <li>        <a href="javascript:void(0)" class="megamenu_drop" onclick="window.location='/pages/tendersearchcatsbu/sbu'">Tenders </a>
         
              <div class="dropdown_8columns dropdown_container">
                       <div class="col_2 responsive_halfs">
                         <ul class="list_unstyled">
-                            <li><a href="/pages/tender">Live Tenders</a></li> 
-                            <li><a href="/pages/tender/today" id="today">Today's Tenders </a></li>
-                            <li><a href="/pages/tender/corrigendum" id="corrigendum">Tenders With Corrigendum</a></li>
-                            <li><a href="/pages/searchtenders" id="searchtenders">Search Tenders</a></li>
+                            <li><a href="/pages/tender">Live Tenders</a></li>
+                            <li><a id="today" href="/pages/tender/today">Today's Tenders</a></li>
+                            <li><a id="corrigendum" href="/pages/tender/corrigendum">Tenders With Corrigendum</a></li>
+                            <li><a id="searchtenders" href="/pages/searchtenders">Search Tenders</a></li>
                         </ul> 
                     </div>
                       <div class="col_2 responsive_halfs">
                         <ul class="list_unstyled">
-                            <li><a href="/pages/tendersearchcat/sbu">Tender By SBU</a></li>
-                            <li><a href="/pages/tendersearchcat/location">Tender By Location</a></li>
-                            <li><a href="/adminls/home" id="tenderupload" target="_blank">Tender Upload for BL Employees</a></li>
-                            <li><a href="/pages/contentdetailstender/38">Supplier Registration</a></li>  
+                            <li><a id="sbu" href="/pages/tendersearchcat/sbu">Tender By SBU</a></li>
+                            <li><a id="location" href="/pages/tendersearchcat/location">Tender By Location</a></li>
+                            <li><a id="tenderupload" target="_blank" href="/adminls/home">Tender Upload for BL Employees</a></li>
+                            <li><a href="/pages/contentdetailstender/38">Supplier Registration</a></li>
+							<li><a href="http://balmerlawrie.com/pages/contentdetailstender/48">E-Procurement</a></li>							
                         </ul> 
                     </div>                 
 
@@ -294,7 +340,7 @@
         <!-- End Tenders -->
         
             <!-- Begin Careers -->  
-            <li>                <a href="javascript:void(0)" class="megamenu_drop" onclick="window.location='/pages/careermanagement'">Careers </a>
+            <li>                <a href="javascript:void(0)" class="megamenu_drop" onclick="window.location='/pages/viewpages/13'">Careers </a>
                 <div class="dropdown_8columns dropdown_container"><!-- Begin Item Container -->
                
                    <div class="col_2 responsive_halfs">
@@ -358,31 +404,29 @@
                                                     <a href="/pages/viewpages/20">Health, Safety &amp; Environment</a>                        
                         </li>
                                                 <li>
-                                                    <a href="/pages/viewpages/21">HSE Policy &amp; Manual</a>                        
+                                                    <a href="/pages/viewpages/21">HSE Policy</a>                        
                         </li>
                                                 <li>
                                                     <a href="/pages/viewpages/22">Global Compact</a>                        
                         </li>
-                        <!--                        <li><a href="http://www.unglobalcompact.org/" target="_blank">UN Global Compact Link</a></li>-->
+                                                <li><a href="/pages/dynamic_map">Swachh Vidyalaya</a></li>
+<!--                        <li><a href="http://www.unglobalcompact.org/" target="_blank">UN Global Compact Link</a></li>-->
                     </ul> 
                 </div>
                 
                                                 <div class="col_2 responsive_halfs">
                     <h1>Governance</h1>
                     <ul class="list_unstyled">
-                        <li><a href="/files/PublicGrievance.pdf" target="_blank">Public Grievance</a></li>
-                                                <li>
+                                                    <li>
                                                         <a href="/pages/viewpages/27">RTI</a>                        </li>
-                                                <li>
-                                                        <a href="/pages/viewpages/28">Fraud Prevention Policy</a>                        </li>
-                                                <li>
-                                                        <a href="/pages/viewpages/29">Whistle Blower Policy</a>                        </li>
                                                 <li>
                                                         <a href="/pages/viewpages/30">Vigilance</a>                        </li>
                                                 <li>
-                                                        <a href="/pages/viewpages/31">Code Of Conduct</a>                        </li>
-                                        
-                <li><a href="/files/PublicInterestDisclosure.pdf" target="_blank">Public Interest Disclosure</a></li>
+                                                        <a href="/pages/viewpages/44">Codes &amp; Policies</a>                        </li>
+                                                <li>
+                                                        <a href="/pages/viewpages/49">Internal Complaints Committee</a>                        </li>
+                                                            <li><a target="_blank" href="/files/publicgrievance.pdf">Public Grievance</a></li>
+                                    <li><a target="_blank" href="/files/PublicInterestDisclosure.pdf">Public Interest Disclosure</a></li>
                         
                     </ul>   
                 </div>
@@ -400,8 +444,10 @@
                 <div class="col_2 responsive_halfs">
                     <ul class="list_unstyled">
                         <li><a href="/pages/financialresultsinvestor">Financial Results</a></li>
-                        <li><a href="/pages/investors">Investor Relation</a></li>
+<!--                        <li><a href="/pages/investors">Investor Relation</a></li>-->
                                                                 <li>
+                                                                         <a href="/pages/viewpages/33">Investor Relations</a>                                    </li>
+                                                                        <li>
                                                                          <a href="/pages/viewpages/32">Chairman's Address</a>                                    </li>
                                                         </ul> 
                 </div>
@@ -427,7 +473,7 @@
               <span id="status_msg" style="margin-left:18px; display:none"></span>
               <div class="clear"></div>
 				
-              <form action="/pages/privacypolicy" class="remove-bottom" onsubmit="return validate_enquiry()" id="HelpPrivacypolicyForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>              <div class="col_2 responsive_halfs">
+              <form action="/pages/viewpages/35" class="remove-bottom" onsubmit="return validate_enquiry()" id="HelpViewpagesForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>              <div class="col_2 responsive_halfs">
                 <div class="list_unstyled">
                   <div id="contact">
                     <label class="contact-label">Name</label>
@@ -452,7 +498,7 @@
                     <label class="contact-label">Query</label>
                     <textarea name="data[Help][description]" class="contact-input" style="resize:none; height:86px" cols="30" rows="6" id="HelpDescription" required="required"></textarea>                  </div>
                   <div id="contact">
-                    <label class="contact-label"><span id="first_no" class="contact-label">3</span> <span class="contact-label">+</span> <span id="second_no" class="contact-label">4</span> <span class="contact-label">=</span> </label>
+                    <label class="contact-label"><span id="first_no" class="contact-label">7</span> <span class="contact-label">+</span> <span id="second_no" class="contact-label">4</span> <span class="contact-label">=</span> </label>
                     <input name="data[Help][helpcaptchaval]" class="contact-input" type="text" id="HelpHelpcaptchaval">                  </div>
                   <div id="contact">
                     <button class="btn btn-primary" type="submit">Submit</button>                  </div>
@@ -608,58 +654,151 @@ function hide_status()
 
 			<div class="sixteen columns">
     <div class="top-bread-cruumb">
-		<ul>
-			<li><a href="/">Home</a></li>
-			<li><span>&gt;</span></li>
-			<li><a href="/pages/privacypolicy" class="active">Privacy Policy</a></li>
-		</ul>
+    
+        
+        
+        
+        
+    <ul>
+        <li><a href="/pages/introduction">Privacy Policy</a></li>
+        <li><span>&gt;</span></li>
+        <li><a href="/pages/introduction" class="active">Privacy Policy</a></li>
+    </ul>        
+        
     </div>
     <div class="three columns alpha sidebar-less-top">
-        <ul class="sidelink">
-            <li><a href="/pages/disclaimer" id="disclaimer">Disclaimer</a></li>
-                <li><a href="/pages/privacypolicy" id="privacypolicy">Privacy Policy</a></li>
-                <li><a href="/pages/hyperlinkingpolicy" id="hyperlinkingpolicy">Hyperlinking Policy</a></li>
-        </ul>    </div>
-    <div class="thirteen columns alpha omega">
-           <h4>Privacy Policy</h4>
-          <div class="blue-line"></div>
-          <br>
-         <p>
+            </div>
+    <div class="ten columns alpha">
+                <br>
+        <div class="clear"></div>
+        <h4>
+                    Privacy Policy              
+            
+        </h4>
+        <div class="blue-line"></div>
+        <div class="lead">
+          <h3>
+              
+        Privacy Policy              
+              
+          </h3>
+                 
+        <p>
 	As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.</p>
 <br>
-<span class="stye1"><strong>Site Visit data:</strong></span>
-<div class="clear">
-	?</div>
-<br>
+<span class="stye1"><strong>Site Visit data:</strong></span><br>
 <p>
 	This website records your visit and logs the following information for statistical purposes your server's address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc.); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site.<br>
 	<br>
 	We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider's logs.</p>
 <br>
-<span class="stye1"><strong>Cookies:</strong></span>
-<div class="clear">
-	?</div>
-<br>
+<span class="stye1"><strong>Cookies:</strong></span><br>
 <p>
 	A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies.</p>
 <br>
-<span class="stye1"><strong>Email management:</strong></span>
-<div class="clear">
-	?</div>
-<br>
+<span class="stye1"><strong>Email management:</strong></span><br>
 <p>
 	Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.</p>
 <br>
-<span class="stye1"><strong>Collection of Personal Information:</strong></span>
-<div class="clear">
-	?</div>
-<br>
+<span class="stye1"><strong>Collection of Personal Information:</strong></span><br>
 <p>
 	If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the Web Information Manager through the contact us page.<br>
 	<br>
-	<strong>Note:</strong> The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>         <br>
-          </div>
+	<strong>Note:</strong> The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>                
+        
+        </div> 
+    </div>
+    <div class="three columns omega alpha">
+    <div class="grey-container">
+        <div class="grey-hd">Quick Links</div>
+        <div class="grey-arrow"></div>
+            <ul class="grey-container-link">
+              <li><a href="http://balmerlawrietravel.com/" target="_blank">balmerlawrietravel.com</a></li>
+              <li><a href="http://balmerol.com/" target="_blank">balmerol.com</a></li>
+              <li><a href="http://www.vacationsexotica.com/" target="_blank">Vacations Exotica</a></li>
+			  <li><a href="http://ls.balmerlawrie.com/" target="_blank">ls.balmerlawrie.com</a></li>
+            </ul>
+    </div>
+    <br>
+    <div class="grey-container">
+        <div class="grey-hd">News &amp; Events</div>
+        <div class="grey-arrow"></div>
+            <div class="grey-container-link" id="news_fader">
+              <ul class="bjqs">
+              	                <li style="padding-left:0px">
+                  <p style="padding-left:0px">
+                                            <strong>BL AT ALL CHINA LEATHER EXHIBITION</strong>
+                  </p>
+                  <img src="http://balmerlawrie.com/files/1444117130acle_2015bsmall.jpg" alt="BL AT ALL CHINA LEATHER EXHIBITION" style="margin-left:2px; margin-top:5px; width:168px">                  <br>
+                  <p class="half-bottom padding" style="padding-left:0px">
+                  SBU: Leather Chemicals participated as an exhibitor in the All China Leather Exhibition (ACLE) held at Shanghai from August 31st - September 2, 2015. ...
+                  </p>
+                  <div class="more padding">
+                                            <a href="/pages/eventdetails/23">More</a>
+                  </div>
+                </li>
+                                <li style="padding-left:0px">
+                  <p style="padding-left:0px">
+                                            <strong>Launch of TechTonic Packs for Balmerol</strong>
+                  </p>
+                                    <br>
+                  <p class="half-bottom padding" style="padding-left:0px">
+                  The new TechTonic packaging for Balmerol range of lubricants was launched by Mr. Viren Sinha, Chairman &amp; Managing Director, Balmer Lawrie in Kolkata. ...
+                  </p>
+                  <div class="more padding">
+                                            <a href="/pages/eventdetails/22">More</a>
+                  </div>
+                </li>
+                                <li style="padding-left:0px">
+                  <p style="padding-left:0px">
+                                            <strong>149th Foundation Day Celebrations</strong>
+                  </p>
+                  <img src="http://balmerlawrie.com/files/1423735575balmer_lawrie_celebrates_149th_foundation_day_on_feb_1,_2015_in_kolkata.jpg" alt="149th Foundation Day Celebrations" style="margin-left:2px; margin-top:5px; width:168px">                  <br>
+                  <p class="half-bottom padding" style="padding-left:0px">
+                  Balmer Lawrie celebrated its 149th Foundation Day in all units and establishments across the country on 1st February. Employees along with their famil...
+                  </p>
+                  <div class="more padding">
+                                            <a href="/pages/eventdetails/21">More</a>
+                  </div>
+                </li>
+                                <li style="padding-left:0px">
+                  <p style="padding-left:0px">
+                                            <strong>Walkathon by Balmer Lawrie employees</strong>
+                  </p>
+                  <img src="http://balmerlawrie.com/files/1419410435the_walkathon_being_flagged_off_by_company’s_ex-directors_mr._m.s_khanna_and_mr._virendra_verma.jpg" alt="Walkathon by Balmer Lawrie employees" style="margin-left:2px; margin-top:5px; width:168px">                  <br>
+                  <p class="half-bottom padding" style="padding-left:0px">
+                  A walkathon was organised by Balmer Lawrie as a part of Swachh Bharat Abhiyan. The Walkathon was ceremoniously flagged off jointly by Companys Ex Dire...
+                  </p>
+                  <div class="more padding">
+                                            <a href="/pages/eventdetails/19">More</a>
+                  </div>
+                </li>
+                                <li style="padding-left:0px">
+                  <p style="padding-left:0px">
+                                            <strong>Travel and Vacations in Travel East 2014</strong>
+                  </p>
+                  <img src="http://balmerlawrie.com/files/1419409433img_20141129_162738939.jpg" alt="Travel and Vacations in Travel East 2014" style="margin-left:2px; margin-top:5px; width:168px">                  <br>
+                  <p class="half-bottom padding" style="padding-left:0px">
+                  SBU: Travel and Vacations participated in Travel East 2014 at Salt lake Central Park from 28th to 30th November 2014. Travel East the largest travel e...
+                  </p>
+                  <div class="more padding">
+                                            <a href="/pages/eventdetails/17">More</a>
+                  </div>
+                </li>
+                              </ul>
+            </div>
+    </div>
 </div>
+<script class="secret-source">
+jQuery(document).ready(function($) {
+  $('#news_fader').bjqs({
+	height		: 360,
+	width       : 184,
+	responsive  : true
+  });
+
+});
+</script></div>
                         		</div>
         <div class="footer">
     	<div class="clear"></div>
@@ -676,7 +815,8 @@ function hide_status()
                 <a href="/pages/viewpages/6">Leadership</a>            </li><li>
                 <a href="/pages/viewpages/7">Research &amp; Development</a>            </li>  
 		  <li><a href="/pages/financialresult">Financial Results</a></li><a href="/pages/financialresult">
-                  </a><li><a href="/pages/financialresult"></a><a href="/pages/contact">Units &amp; Offices</a></li>
+          </a><li><a href="/pages/financialresult"></a><a href="/pages/contact">Units &amp; Offices</a></li>
+		  
       </ul>
   </div>
     
@@ -690,7 +830,7 @@ function hide_status()
                               <li><a href="/pages/viewprod/1">Industrial Packaging</a></li> 
                               <li><a href="/pages/viewprod/3">Greases &amp; Lubricants</a></li> 
                               <li><a href="/pages/viewprod/4">Leather Chemicals</a></li> 
-          	  <li><a href="http://www.vacationsexotica.com/" target="_blank">Vacations Exotica</a></li>
+          <!--	  <li><a href="http://www.vacationsexotica.com/" target="_blank">Vacations Exotica</a></li>-->
           
                        
           <li><a href="/pages/viewprod/2">Travel &amp; Vacations</a></li>
@@ -719,13 +859,13 @@ function hide_status()
                	               	<li>
                                         <a href="/pages/viewpages/20">Health, Safety &amp; Environment</a>                </li>
                	               	<li>
-                                        <a href="/pages/viewpages/21">HSE Policy &amp; Manual</a>                </li>
+                                        <a href="/pages/viewpages/21">HSE Policy</a>                </li>
                	               	<li>
                                         <a href="/pages/viewpages/22">Global Compact</a>                </li>
                	               	<li>                <a href="/pages/viewpages/27">RTI</a>                </li>
-               	               	<li>                <a href="/pages/viewpages/28">Fraud Prevention Policy</a>                </li>
-               	               	<li>                <a href="/pages/viewpages/29">Whistle Blower Policy</a>                </li>
                	               	<li>                <a href="/pages/viewpages/30">Vigilance</a>                </li>
+               	               	<li>                <a href="/pages/viewpages/44">Codes &amp; Policies</a>                </li>
+               	               	<li>                <a href="/pages/viewpages/49">Internal Complaints Committee</a>                </li>
                				<li><a href="/files/PublicGrievance.pdf" target="_blank">Public Grievance</a></li>
         </ul>
     </div>
@@ -738,8 +878,10 @@ function hide_status()
             </li>
 	    <li>                <a href="/pages/sitemap"><h5>Sitemap</h5></a>
             </li>
-	    <li>                <a href="/pages/contact"><h5>Contact</h5></a>
+	        <li>                <a href="/pages/contact"><h5>Contact</h5></a>
             </li>
+			<li>                <a href="http://balmerlawrie.com/pages/viewpages/47"><h5>Accessibility Statement</h5></a>
+            </li>			
             
             <div class="clear" style="height:20px;"></div>
                             <li><a href="/pages/viewpages/34"><h5>Disclaimer</h5></a>                
@@ -759,21 +901,61 @@ function hide_status()
     </div>
 <!-- End Document
 ================================================== -->
+</div>
 <script>
 $(document).ready(function() {
 	RESPONSIVEUI.responsiveTabs();
 	
-		$("#privacypolicy").addClass("active");
+		$("#viewpages").addClass("active");
 	})
 </script>
 	    <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
 
-ga('create', 'UA-41576398-2', 'balmerlawrie.com');
-ga('send', 'pageview');
+  ga('create', 'UA-71683022-1', 'auto');
+  ga('send', 'pageview');
+
+
+	$( window ).load(function() {
+	    // alert('hii');
+	  // set session by ajax
+				var textsize = $(this).attr('id');
+				var current_font_size = $("html").css('font-size');
+                //alert(current_font_size);
+				//var url=window.location.href;
+				
+                //alert(lang); 
+                //window.location.href = '/miscs/change_textsize/'+textsize;
+				jQuery.ajax({
+				type:'POST',
+				async: true,
+				cache: false,
+				url: "/miscs/set_default_text",
+				success: function(response) {
+					 //alert(response);
+					   //location.reload(true);
+						
+					/*
+					if(response == "1")
+					{
+
+					}
+					if(response == "0")
+					{
+
+					}*/
+				},
+				data: { current_font_size: current_font_size}	  
+	  
+	  
+	});	
+	  });
+
+
+
 
 
       // For Language dropdown in Inner Pages
@@ -788,7 +970,26 @@ ga('send', 'pageview');
 //        );
 
 
-
+	if (parseInt($("html").css('font-size')) > 12)
+	{
+		//alert("fff");
+		$("#smalltext").css("display", "block");
+	}
+	
+	if (parseInt($("html").css('font-size')) > 20)
+	{
+		//alert("fff");
+		$("#biggertext").css("display", "none");
+	}
+	
+	if (parseInt($("html").css('font-size')) <= 12)
+	{
+		//alert("fff");
+		$("#smalltext").css("display", "none");
+	}
+	
+	
+	
   $("body").on("click","#english",function(e){
   		//alert("english");
                 var lang = 'english';
@@ -806,6 +1007,136 @@ ga('send', 'pageview');
 
 		});
 
+  $("body").on("click",".css_link",function(e){
+ 		//alert("hindi");
+                
+				var textsize = $(this).attr('id');
+				var current_font_size = $("html").css('font-size');
+                //alert(current_font_size);
+				var url=window.location.href;
+				
+                //alert(lang); 
+                //window.location.href = '/miscs/change_textsize/'+textsize;
+				jQuery.ajax({
+				type:'POST',
+				async: true,
+				cache: false,
+				url: "/miscs/increase_text",
+				success: function(response) {
+					 //alert(response);
+					   location.reload(true);
+						
+					/*
+					if(response == "1")
+					{
+
+					}
+					if(response == "0")
+					{
+
+					}*/
+				},
+				data: { current_font_size: current_font_size}
+			});				
+		}); 
+		
+ 
+
+  $("body").on("click",".css_link_normal",function(e){
+ 		//alert("hindi");
+                
+				var textsize = $(this).attr('id');
+				//var current_font_size = $("html").css('font-size');
+               // alert(current_font_size);
+				var url=window.location.href;
+				
+                //alert(lang); 
+                //window.location.href = '/miscs/change_textsize/'+textsize;
+				jQuery.ajax({
+				type:'POST',
+				async: true,
+				cache: false,
+				url: "/miscs/normal_text",
+				success: function(response) {
+					 //alert(response);
+					 location.reload(true);
+						
+					/*
+					if(response == "1")
+					{
+
+					}
+					if(response == "0")
+					{
+
+					}*/
+				}
+			});				
+		}); 
+		
+		
+  $("body").on("click",".css_link_small",function(e){
+ 		//alert("hindi");
+                
+				var textsize = $(this).attr('id');
+				var current_font_size = $("html").css('font-size');
+                //alert(current_font_size);
+				var url=window.location.href;
+				
+                //alert(lang); 
+                //window.location.href = '/miscs/change_textsize/'+textsize;
+				jQuery.ajax({
+				type:'POST',
+				async: true,
+				cache: false,
+				url: "/miscs/decrese_text",
+				success: function(response) {
+					 //alert(response);
+					   location.reload(true);
+						
+					/*
+					if(response == "1")
+					{
+
+					}
+					if(response == "0")
+					{
+
+					}*/
+				},
+				data: { current_font_size: current_font_size}
+			});	
+			
+		}); 	
+
+
+  $("body").on("click",".theme_link",function(e){
+ 		//alert("hindi");
+                var selected_theme = $(this).attr('id'); 
+				jQuery.ajax({
+				type:'POST',
+				async: true,
+				cache: false,
+				url: "/miscs/select_theme",
+				success: function(response) {
+					 //alert(response);
+					   location.reload(true);
+						
+					/*
+					if(response == "1")
+					{
+
+					}
+					if(response == "0")
+					{
+
+					}*/
+				},
+				data: { selected_theme: selected_theme}
+			});	
+			
+		}); 
+		
 
 
     });
