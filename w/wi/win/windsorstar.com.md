@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the windsorstar.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624010817id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windsorstar.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231112724id_/http%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Postmedia Integrated Advertising
-
-## Privacy Statement
 
 **[Version Française](http://www.postmediaadvertising.com/enonce-relatif-a-la-protection-des-renseignements-personnels/)**
 
