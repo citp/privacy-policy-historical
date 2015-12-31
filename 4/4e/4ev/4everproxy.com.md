@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4everproxy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001232id_/http%3A//4everproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4everproxy.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231064826id_/http%3A//www.4everproxy.com/privacy.php) for the most accurate reproduction.*
 
 # 4everproxy Network: Unblock Youtube Web Proxy | SSL Secure
 
