@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deb.gs privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195108id_/https%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deb.gs privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231153849id_/https%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
