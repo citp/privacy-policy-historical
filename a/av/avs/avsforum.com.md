@@ -1,89 +1,84 @@
-> *The following text is extracted and transformed from the avsforum.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324175042id_/http%3A//www.avscience.com/privacy_info.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avsforum.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124131id_/http%3A//www.avsforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Info
+# Privacy Policy - AVSForum.com
 
-**Terms of Use  
-**  
-Please read this notice before using our site. By using the site, you agree to abide by these Terms of Use; please do not use our site if you do not agree with the Terms of Use outlined below. AV Science Corporation reserves the right to modify the Terms of Use at its sole discretion, and by using this site, you agree to be bound by the modifications or updates to the Terms of Use.
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-If you are aged 12 and under,  click here for rules applicable to you. 
+## What this Privacy Statement Covers
 
- **Privacy Notice  
-**  
-AV Science/AVS Forum values your privacy. To keep you informed, we have created this privacy statement that discloses our purposes and methods for online collection and use of information. This statement applies to all information collected through the AV Science/AVS Forum websites and information gathered from any web pages that we host. **Site Operator and Contact for Privacy Inquiries:  
-**  
-AV Science Corporation  
-PO BOX 34  
-Victor, NY 14564  
-585-454-1460  
-585-423-8216 [fax]  
-Privacy Contact: AV Science/AVS Forum Privacy Administrator  
-[privacy@avscience.com](mailto:privacy@avscience.com)  **Types of Information Collected  
-**  
-Generally, personal information is not collected from visitors to the AV Science/AVS Forum websites. However, in order to access certain special services, personal information is requested; those cases are described in more detail below. **Bulletin Board Registration  
-**  
-AVS Forum requires a valid e-mail address for users who want to participate in the AVS Forum support forums. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link.
 
-Also in the forum registration, you have the option of providing some additional information such as occupation, interests, and homepage URL. This information is made available to other bulletin board users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed.
 
-**_IF YOU ARE 12 YEARS OF AGE OR YOUNGER_** and would like to participate in the AVS Forum Home Theater forums, you will need to print the [ Parental Consent form](http://www.avsforum.com/ubbcgi/ubbmisc.cgi?action=showcoppaform) and have your parent or legal guardian fax it to AV Science at 585-423-8216 prior to posting on the AVS Forum Home Theater forums.
 
- **Cookies  
-**  
-Certain activities on the AVS Forum website involve the use of "cookies" to facilitate your experience. This includes retention of your username and password for the AVS Forum and showing a default Topic View when you visit the forums. You have the option to turn these cookies off at any time by updating your user profile preferences. If your browser doesn’t support cookies, or if you have cookies turned off, these preferences will not be set. **Purchasing and/or Credit Card Information  
-**  
-AV Science/AVS Forum strives to maintain strict security for your private information. Our online ordering pages are SSL 128 bit encryted, providing a secure means of ordering our products. We do not maintain any credit card information at AV Science/AVS Forum, which means that you have to provide it each time you make a purchase, but also means that your information is controlled by you alone. **Disclosure of Personal Information  
-**  
-AV Science Corporation/AVS Forum, Inc. does not disclose your personally identifying information to any third parties for any purpose without your prior consent unless required by law to do so. All reasonable care is taken by staff handling personal information to ensure its security both offline and online. It is our policy to destroy server access and personal information provided during the technical support process upon completion of the technical support incident.
+## Collection and Use of Personal Information
 
-It’s also important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number) in a posting on the bulletin board, that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the offering of any personally identifying information within the message board itself.
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
- **Privacy for Children Aged 12 and Under  
-**  
-Although the AV Science & AVS Forum websites are targeted at a general adult audience, we welcome the participation of younger users with their parents’ consent. We strongly recommend that users 12 and under refrain from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children.
 
-Please view a copy of the [ parental permission form](http://www.avsforum.com/ubbcgi/ubbmisc.cgi?action=showcoppaform). Prior to a child’s registration on the bulletin board, this form must be signed by the child’s parent or legal guardian and faxed to AV Science/AVS Forum at 716-423-8216 or mailed to: 
 
-**AV Science Privacy Administrator,    
-AV Science Corporation  
-PO BOX 34  
-Victor, NY 14564**
+## Collection and Use of Non-Personal Information
 
-AV Science Corporation is prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary to participate in such activity.
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Parents can review and request deletion of their child’s personal information, and can refuse to permit further collection or use of their child’s information. In order to request such a review, to revoke previously offered parental consent, or to express any concerns regarding a child’s privacy on our website, please send a signed written request to:
 
-**AV Science Corporation  
-PO BOX 34  
-Victor, NY 14564** **  
-or call our Privacy Administrator at 585-454-1460** **Changing or Updating Personal Information  
-**  
-If you would like to update or change your user profile on the AVS Forum message board,  
-just [ click here](http://www.avsforum.com/ubbcgi/ubbmisc.cgi?action=editbio&Browser=&DaysPrune=20&LastLogin=).
 
-If you have questions regarding your information, you can contact our Privacy Administrator at [privacy@avscience.com](mailto:privacy@avscience.com).
+## Information Sharing and Disclosure
 
- **Here are useful resources for the Children's Online Privacy Protection Act. **
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
 
-Resource Area for the Children's Online Privacy Protection Act 
 
-Effective April 21, 2000, the Children's Online Privacy Protection Act (COPPA) seeks to institute online safety measures that protect children aged 12 and under. AVS Forum, as a provider of an online community that are affected by this new law, is providing this resource page to assist its users with understanding this new law.
 
-** Helpful Links:  
-**  
-How to Comply with the Children's Online Privacy Protection Rule  
-[ http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm)
+## Consent
 
-Federal Trade Commission Privacy Initiatives Site (includes link to the full text of the Final Rule)   
-[ http://www.ftc.gov/privacy/index.html  
-](http://www.ftc.gov/privacy/index.html)  
-"Children in Cyberspace"  
-[ http://www.privacyrights.org/fs/children.htm  
-](http://www.privacyrights.org/fs/children.htm)  
-CNET article, "Building Websites for Kids; Do: Be Careful with Private Info" (includes link to a "quick fix" privacy policy)  
-[ http://www.builder.com/Graphics/Kids/ss03.html  
-](http://www.builder.com/Graphics/Kids/ss03.html)  
-Online Privacy Alliance's Resources for Business  
-[ http://www.privacyalliance.org/resources](http://www.privacyalliance.org/resources)
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
 
-**_Thank you....AV Science Inc._**
+
+
+## How to Access your Personal Information
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+## Third Party Cookies
+
+  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices).
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
+
+
+
+## Security
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+## Changes to this Privacy Statement
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+## Questions or Suggestions
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+## Opting Out of Third-Party Ad Servers
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network’s Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting.
+
+
