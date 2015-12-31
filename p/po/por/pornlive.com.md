@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornlive.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501111324id_/http%3A//www.pornlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornlive.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231165210id_/http%3A//www.pornlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Live Porn - Privacy Policy
 
