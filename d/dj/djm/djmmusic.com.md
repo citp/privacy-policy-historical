@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the djmmusic.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmmusic.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
 **PRIVACY POLICY**
 
-DJM Music Limited is committed to protecting and respecting your privacy.  We are the data controller for the purposes of the Data Protection Act 1998.  Our contact details can be found on the [Contact Us ](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/customersupport.aspx)page.
+DJM Music Limited is committed to protecting and respecting your privacy.  We are the data controller for the purposes of the Data Protection Act 1998.  Our contact details can be found on the [Contact Us ](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/customersupport.aspx)page.
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -74,11 +74,11 @@ We may disclose your personal information to third parties:
 
 ·                          If DJM Music Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-·                          If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms Of Use](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/t-termsandconditions.aspx#terms_of_use) [Terms and Conditions of Sale](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/t-termsandconditions.aspx#terms_of_sale) or [Terms and Conditions of Sale (Business Customers)](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/t-termsandconditions.aspx#terms_of_business) and other agreements; or to protect the rights, property or the safety of DJM Music Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+·                          If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms Of Use](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/t-termsandconditions.aspx#terms_of_use) [Terms and Conditions of Sale](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/t-termsandconditions.aspx#terms_of_sale) or [Terms and Conditions of Sale (Business Customers)](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/t-termsandconditions.aspx#terms_of_business) and other agreements; or to protect the rights, property or the safety of DJM Music Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Your rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at the address or email address on the [Contact Us ](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/customersupport.aspx)page. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at the address or email address on the [Contact Us ](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/customersupport.aspx)page. 
 
 **Third parties**
 
@@ -96,7 +96,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Contact**
 
-Questions, comments and requests regarding this Privacy Policy are welcomed.  Please use the contact details on the [Contact Us ](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/customersupport.aspx)page.
+Questions, comments and requests regarding this Privacy Policy are welcomed.  Please use the contact details on the [Contact Us ](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/customersupport.aspx)page.
 
 Our site uses cookies to collect information about you.  Cookies are small data files which are placed on your computer or other device by this site and which collect certain personal data about you.  You may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of this site and you may not be able to shop from this site. 
 
@@ -110,4 +110,4 @@ You can block cookies by activating the setting on your browser which allows you
 
 Except for essential cookies, all cookies will expire 1 month.
 
-If you have any questions about our Cookies Policy, please contact us via the address or email address given on the [Contact Us ](https://web.archive.org/web/20150430054841id_/http%3A//www.djmmusic.com/customersupport.aspx)page.
+If you have any questions about our Cookies Policy, please contact us via the address or email address given on the [Contact Us ](https://web.archive.org/web/20151231032924id_/http%3A//www.djmmusic.com/customersupport.aspx)page.
