@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubspot.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163632id_/https%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubspot.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231130558id_/https%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -191,7 +191,7 @@ To exercise any of these rights, please contact us at privacy@hubspot.com or by 
 
 **6.2. Anti-Spam Policy**
 
-Our Acceptable Use Policy, at [http://www.hubspot.com/acceptable-use](https://www.hubspot.com/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
+Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://web.archive.org/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
 
 **6.3. To Unsubscribe From Our Communications**
 
