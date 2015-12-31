@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rap4.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412044038id_/http%3A//www.rap4.com/store/paintball/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rap4.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231054726id_/http%3A//www.rap4.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement RAP4.com Catalog
+# Privacy Statement Modern Combat Solutions
 
 ### Privacy Statement
 
