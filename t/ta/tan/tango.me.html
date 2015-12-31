@@ -1,305 +1,223 @@
-<!--The following is the downloaded HTML source of the tango.me privacy policy that was archived on 2015-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150507141940id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tango.me privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231151150id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcDUFZbGwABV1hbAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta name="HandheldFriendly" content="true">
-    <meta name="MobileOptimized" content="320">
-    <meta name="author" content="Tango – FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi!">
-    <meta name="copyright" content="Tango – FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi! ©2015">
-    <meta name="description" content="Connect, Get Social, and Have Fun! Send free text messages, make video &amp; voice calls, share photos &amp; music, follow channels, play games, and more!">
-
-    <title>Tango - Privacy Policy</title>
-    <link rel="home" href="http://www.tango.me/">
-
-    <!-- Facebook -->
-    <meta property="og:title" content="Tango - Privacy Policy">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://www.tango.me/privacy-policy">
-
-                                  
-                    <meta property="og:description" content="Introduction
-	This is the Privacy Policy of TangoMe, Inc. dba Tango (“Tango&quot;, “us&quot;, “we&quot;, or “our&quot;) and is incorporated into and is subject to our Terms of Use, which can be found at 
-	http://www.tango.me/terms-of-use.  In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix and others) collectively as the “Service.&quot; Please read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
-Information We Collect
-	When you access or use the Service from or through your smart phone, tablet, computer or other device (collectively “device&quot;), or when you install the Service on your device and register with Tango, personally identifiable information about you may be collected. This collection may occur at different times, and for different purposes as explained below.
-Download and Registration
-	When you download an application that is part of the Service you are requested to register with us. For registration through Tango, you are only required to provide your mobile phone number or your email address, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your Facebook account, we may collect additional information you make available to us (see “Your User Profile&quot;) below.
-Address Book
-	If you are not already a user of the Service, the first time when you install an application that is part of the Service on your device you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango application, or in your device's privacy settings. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect&quot; below.
-Location Information
-	We may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your device settings menu.
-Profile Information
-	The Service may also collect and store certain profile information including country of residence and preferences. In addition, the Service may collect and store information about your and others' usage of, and interaction with, the Service and our websites, including calls, numbers of calls made by members, call durations, text messages, information relating to games played through the Service (such as the games played, your game scores and how often you play), usage by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
-Advertisements
-	When we serve advertisements to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(window.NREUM||(NREUM={})).loader_config={xpid:"VwcDUFZbGwABV1hbAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="320">
+<meta name="author" content="Tango – FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi!">
+<meta name="copyright" content="Tango – FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi! ©2015">
+<meta name="description" content="Connect, Get Social, Shop &amp; Have Fun! Send free text messages, make video &amp; voice calls, share photos &amp; music, follow channels, play games, buy stuff &amp; more!">
+<title>Tango - Privacy Policy</title>
+<link rel="home" href="//www.tango.me/">
+<meta property="og:title" content="Tango - Privacy Policy">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.tango.me/privacy-policy">
+<meta property="og:description" content="IntroductionThis is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango&quot;, “us&quot;, “we&quot;, or “our”) and is incorporated into and is
+subject to our Terms of Use, which can be found at 
+	http://www.tango.me/terms-of-use. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at http://www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please
+read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
+Information We CollectWhen you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart
+phone, tablet, computer or other device (each, a “device”), or when you install
+the Service on your device and register with Tango, personally identifiable
+information about you may be collected. This collection may occur at different
+times, and for different purposes as explained below.
+Download and RegistrationWhen you download an application that is part of the
+Service you are requested to register with us. For registration through Tango,
+you are only required to provide your mobile phone number or your email
+address, depending on the device(s) you are using on the Service. You may also
+provide other personally identifiable information, but that is optional. When
+you log in using your Facebook account, we collect additional information you
+make available to us (see “Your User Profile”) below.
+Address BookIf you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your device’s privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect&quot; below.
+Location InformationWe may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your account settings or your device settings menu.
+Profile InformationWe collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.Usage InformationWe may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
+AdvertisementsWhen we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
 Shared Text, Photos, Videos and Other Communications
-	The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to do so, your text messages, photos, videos and other communications will be stored on our servers.
+The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share  your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.
+In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
+Device and Log InformationIf you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
+Error Reporting InformationWe also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+How We Use InformationIn addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:
 
-	In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
-Device and Log Information
-	If you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
-Error Reporting Information
-	We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
-How We Use Information We Collect
-	In addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information only as follows:
-
-	To verify your identity;
-
-	To connect you with your Tango contacts and others as enabled by the Service;
-
-	To share your Profile with your Tango contacts and others on the Service;
-
-	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience;
-
-	To show you the names and profile of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service;
-
-	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service;
-
-	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations;
-
+	To verify your identity; 
+	To connect you with your Tango contacts and others as enabled by the Service; 
+	To share your Profile with your Tango contacts and others on the Service in accordance with your account settings; 
+	
+	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience; 
+	
+	To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service; 
+	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service; 
+	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations; 
 	To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;
-
-	To understand how you use the different features of the Service, or what your preferences are - for example what type of game you like to play, or what type of music you like to attach to your pictures;
-
-	To keep your list of Tango contacts up to date – for example, when new users join Tango;
-
+	To understand (i) how you use the different features of the Service, (ii) what your preferences are - for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in; 
+	To keep your list of Tango contacts up to date – for example, when new users join Tango; 
+	
 	To solicit information from you, including through surveys;
+	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs); 
+	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity; 
+	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. 
+With Whom We Share Your InformationService ProvidersIn certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:
 
-	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, or of such SMSs by replying stop);
-
-	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity;
-
-	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities.
-With Whom We Share Your InformationService Providers
-	In certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you. For example, these third party service providers include:
-
-	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email.
-
-	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention.
-
-	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls).
-Business Partners
-	We have relationship with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party's application, product, or service. For example Tango may host a third party's game through its Service, and would have access to some information about your use of that game (such as whether you play it or not), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party's privacy policy.  
-	 
-Outbound Links
+	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email. 
+	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. 
+	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls). 
+Business PartnersWe have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party’s application, product, or service. For example Tango may host a third party’s game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party’s privacy policy.Outbound Links
 	If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
 
-	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service or website. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
-Legal Process
-	We also may share your information with third parties:
+	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
+Legal ProcessWe also may share your information with third parties:
 
 	In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
-
-	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others;
-
-	To establish or exercise our legal rights, or as otherwise required by law;
-
-	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event.
+	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others; 
+	To establish or exercise our legal rights, or as otherwise required by law; 
+	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event. 
 Aggregate and Anonymous Information
 	We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
 Other
 	Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
-Display of Tailored Advertising
-	We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about the use of our Service, so that they can serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
-
-	We do not do not share with these third parties any information that would readily identify you (such as email address); however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+Display of Tailored AdvertisingWe allow third parties with whom we have a separate agreement to use certain technologies to collect information about the placement, views and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
+We do not share with these third parties any information that would readily identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
 Do Not Track Policy
-	California law requires that operators of website and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
+	California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
 
-	Some browsers have incorporated “Do Not Track&quot; features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signal. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we can send you targeted advertisements, please contact us at privacy@tango.me.
+	Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we cannot send you targeted advertisements, please contact us at privacy@tango.me.
 
-	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other site or services.
+	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other sites or services.
 Your User Profile
-	The information you enter into your user profile (your “Profile&quot;) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
-
-	Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out&quot; any Tango user in your contact list from discovering your Profile at any time.
-
-	In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
+	The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
+Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out&quot; any Tango user in your contact list from discovering your Profile at any time.
+In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
 Data Access and Removal
-	You can always control what information the Service sends us. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove any mobile app from your mobile device entirely.
-
-	You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
-
-	Any personally identifiable information that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
+	You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
+You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
+Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
 Opt-Out – Promotional Communications
 	Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at privacy@tango.me.
-Security
-	Protecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
-
-	However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
-Data Transfer
-	Your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
-Age
-	The Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
-Notification of Changes
-	We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
-
-	If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
-Contact Information
-	If you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
-Date
-	This Privacy Policy is effective as of November 9, 2014.
+SecurityProtecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
+However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
+Data TransferYour information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
+AgeThe Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
+Notification of ChangesWe reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
+Contact InformationIf you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
+DateThis privacy policy was posted on December 28, 2015.
 ">
-            <meta name="twitter:description" content="Introduction
-	This is the Privacy Policy of TangoMe, Inc. dba Tango (“Tango&quot;, “us&quot;, “we&quot;, or “our&quot;) and is incorporated into and is subject to our Terms of Use, which can be found at 
-	http://www.tango.me/terms-of-use.  In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix and others) collectively as the “Service.&quot; Please read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
-Information We Collect
-	When you access or use the Service from or through your smart phone, tablet, computer or other device (collectively “device&quot;), or when you install the Service on your device and register with Tango, personally identifiable information about you may be collected. This collection may occur at different times, and for different purposes as explained below.
-Download and Registration
-	When you download an application that is part of the Service you are requested to register with us. For registration through Tango, you are only required to provide your mobile phone number or your email address, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your Facebook account, we may collect additional information you make available to us (see “Your User Profile&quot;) below.
-Address Book
-	If you are not already a user of the Service, the first time when you install an application that is part of the Service on your device you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango application, or in your device's privacy settings. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect&quot; below.
-Location Information
-	We may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your device settings menu.
-Profile Information
-	The Service may also collect and store certain profile information including country of residence and preferences. In addition, the Service may collect and store information about your and others' usage of, and interaction with, the Service and our websites, including calls, numbers of calls made by members, call durations, text messages, information relating to games played through the Service (such as the games played, your game scores and how often you play), usage by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
-Advertisements
-	When we serve advertisements to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
+<meta name="twitter:description" content="IntroductionThis is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango&quot;, “us&quot;, “we&quot;, or “our”) and is incorporated into and is
+subject to our Terms of Use, which can be found at 
+	http://www.tango.me/terms-of-use. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at http://www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please
+read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
+Information We CollectWhen you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart
+phone, tablet, computer or other device (each, a “device”), or when you install
+the Service on your device and register with Tango, personally identifiable
+information about you may be collected. This collection may occur at different
+times, and for different purposes as explained below.
+Download and RegistrationWhen you download an application that is part of the
+Service you are requested to register with us. For registration through Tango,
+you are only required to provide your mobile phone number or your email
+address, depending on the device(s) you are using on the Service. You may also
+provide other personally identifiable information, but that is optional. When
+you log in using your Facebook account, we collect additional information you
+make available to us (see “Your User Profile”) below.
+Address BookIf you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your device’s privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect&quot; below.
+Location InformationWe may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your account settings or your device settings menu.
+Profile InformationWe collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.Usage InformationWe may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
+AdvertisementsWhen we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
 Shared Text, Photos, Videos and Other Communications
-	The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to do so, your text messages, photos, videos and other communications will be stored on our servers.
+The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share  your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.
+In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
+Device and Log InformationIf you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
+Error Reporting InformationWe also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+How We Use InformationIn addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:
 
-	In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
-Device and Log Information
-	If you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
-Error Reporting Information
-	We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
-How We Use Information We Collect
-	In addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information only as follows:
-
-	To verify your identity;
-
-	To connect you with your Tango contacts and others as enabled by the Service;
-
-	To share your Profile with your Tango contacts and others on the Service;
-
-	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience;
-
-	To show you the names and profile of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service;
-
-	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service;
-
-	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations;
-
+	To verify your identity; 
+	To connect you with your Tango contacts and others as enabled by the Service; 
+	To share your Profile with your Tango contacts and others on the Service in accordance with your account settings; 
+	
+	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience; 
+	
+	To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service; 
+	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service; 
+	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations; 
 	To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;
-
-	To understand how you use the different features of the Service, or what your preferences are - for example what type of game you like to play, or what type of music you like to attach to your pictures;
-
-	To keep your list of Tango contacts up to date – for example, when new users join Tango;
-
+	To understand (i) how you use the different features of the Service, (ii) what your preferences are - for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in; 
+	To keep your list of Tango contacts up to date – for example, when new users join Tango; 
+	
 	To solicit information from you, including through surveys;
+	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs); 
+	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity; 
+	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. 
+With Whom We Share Your InformationService ProvidersIn certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:
 
-	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, or of such SMSs by replying stop);
-
-	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity;
-
-	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities.
-With Whom We Share Your InformationService Providers
-	In certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you. For example, these third party service providers include:
-
-	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email.
-
-	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention.
-
-	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls).
-Business Partners
-	We have relationship with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party's application, product, or service. For example Tango may host a third party's game through its Service, and would have access to some information about your use of that game (such as whether you play it or not), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party's privacy policy.  
-	 
-Outbound Links
+	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email. 
+	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. 
+	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls). 
+Business PartnersWe have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party’s application, product, or service. For example Tango may host a third party’s game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party’s privacy policy.Outbound Links
 	If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
 
-	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service or website. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
-Legal Process
-	We also may share your information with third parties:
+	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
+Legal ProcessWe also may share your information with third parties:
 
 	In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
-
-	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others;
-
-	To establish or exercise our legal rights, or as otherwise required by law;
-
-	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event.
+	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others; 
+	To establish or exercise our legal rights, or as otherwise required by law; 
+	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event. 
 Aggregate and Anonymous Information
 	We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
 Other
 	Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
-Display of Tailored Advertising
-	We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about the use of our Service, so that they can serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
-
-	We do not do not share with these third parties any information that would readily identify you (such as email address); however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+Display of Tailored AdvertisingWe allow third parties with whom we have a separate agreement to use certain technologies to collect information about the placement, views and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
+We do not share with these third parties any information that would readily identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
 Do Not Track Policy
-	California law requires that operators of website and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
+	California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
 
-	Some browsers have incorporated “Do Not Track&quot; features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signal. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we can send you targeted advertisements, please contact us at privacy@tango.me.
+	Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we cannot send you targeted advertisements, please contact us at privacy@tango.me.
 
-	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other site or services.
+	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other sites or services.
 Your User Profile
-	The information you enter into your user profile (your “Profile&quot;) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
-
-	Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out&quot; any Tango user in your contact list from discovering your Profile at any time.
-
-	In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
+	The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
+Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out&quot; any Tango user in your contact list from discovering your Profile at any time.
+In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
 Data Access and Removal
-	You can always control what information the Service sends us. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove any mobile app from your mobile device entirely.
-
-	You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
-
-	Any personally identifiable information that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
+	You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
+You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
+Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
 Opt-Out – Promotional Communications
 	Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at privacy@tango.me.
-Security
-	Protecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
-
-	However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
-Data Transfer
-	Your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
-Age
-	The Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
-Notification of Changes
-	We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
-
-	If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
-Contact Information
-	If you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
-Date
-	This Privacy Policy is effective as of November 9, 2014.
+SecurityProtecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
+However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
+Data TransferYour information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
+AgeThe Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
+Notification of ChangesWe reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
+Contact InformationIf you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
+DateThis privacy policy was posted on December 28, 2015.
 ">
-        
-    
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@tangome">
-    <meta name="twitter:creator" content="@tangome">
-    <meta name="twitter:title" content="Tango - Privacy Policy">
-
-<!-- Favicons -->
-	<link rel="shortcut icon" href="http://www.tango.me/img/favicons/favicon.ico">
-	<link rel="apple-touch-icon" sizes="57x57" href="http://www.tango.me/img/favicons/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="http://www.tango.me/img/favicons/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="http://www.tango.me/img/favicons/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="http://www.tango.me/img/favicons/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="http://www.tango.me/img/favicons/apple-touch-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="http://www.tango.me/img/favicons/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="http://www.tango.me/img/favicons/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="http://www.tango.me/img/favicons/apple-touch-icon-152x152.png">
-	<link rel="icon" type="image/png" href="http://www.tango.me/img/favicons/favicon-196x196.png" sizes="196x196">
-	<link rel="icon" type="image/png" href="http://www.tango.me/img/favicons/favicon-160x160.png" sizes="160x160">
-	<link rel="icon" type="image/png" href="http://www.tango.me/img/favicons/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="http://www.tango.me/img/favicons/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="http://www.tango.me/img/favicons/favicon-32x32.png" sizes="32x32">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="http://www.tango.me/img/favicons/mstile-144x144.png">
-	<meta name="msapplication-config" content="http://www.tango.me/img/favicons/browserconfig.xml">
-
-
-<!-- CSS -->
-	<link rel="stylesheet" href="http://www.tango.me//css/style.css?t=1">
-
-
-<!-- Google Analytics -->
-	<script>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tangome">
+<meta name="twitter:creator" content="@tangome">
+<meta name="twitter:title" content="Tango - Privacy Policy">
+<link rel="shortcut icon" href="//www.tango.me/img/favicons/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="//www.tango.me/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//www.tango.me/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//www.tango.me/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//www.tango.me/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//www.tango.me/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//www.tango.me/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//www.tango.me/img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//www.tango.me/img/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="//www.tango.me/img/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="//www.tango.me/img/favicons/browserconfig.xml">
+<link rel="stylesheet" href="//www.tango.me/css/style.css?t=1">
+<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -308,279 +226,205 @@ Date
 	  ga('create', 'UA-19882179-26', 'auto');
 	  ga('send', 'pageview');
 	</script>
-
 </head>
-
 <body>
-
-
-    <header id="header">
-        <div class="container">
-            <h1 class="logo"><a href="http://www.tango.me/"><span>Tango</span></a></h1>
-
-            <a href="#" class="menu-btn"><span class="icon-menu-btn"></span> Menu</a>
-
-            <nav class="main-nav">
-                <ul>
-                                        <li><a href="http://www.tango.me/download">Download</a></li>
-                    <li><a href="http://www.tango.me/#connect-block">Features</a></li>
-                                                            <li><a href="http://www.tango.me/games">Games</a></li>
-                                        <li><a href="http://www.tango.me/tango-out">Tango Out</a></li>
-                    <!--<li><a href="http://www.tango.me/tango-store" >Tango Store</a></li>-->
-                </ul>
-            </nav>
-        </div>
-
-        <nav class="main-nav mobile">
-            <ul>
-                <li><a href="http://www.tango.me/download">Download</a></li>
-                <li><a href="http://www.tango.me/#connect-block">Features</a></li>
-                
-                                <li><a href="http://www.tango.me/games">Games</a></li>
-                                <li><a href="http://www.tango.me/tango-out">Tango Out</a></li>
-            </ul>
-        </nav>
-    </header>
-
-<!-- START  MAIN -->
-	<main id="content" role="main">
-		<div id="privacy-policy" class="template">
-
-    <section>
-        <div class="container">
-            <h1>Introduction</h1><p>
-	This is the Privacy Policy of TangoMe, Inc. dba Tango (“Tango", “us", “we", or “our") and is incorporated into and is subject to our Terms of Use, which can be found at 
-	<a href="http://www.tango.me/terms-of-use">http://www.tango.me/terms-of-use</a>.  In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at <a href="http://www.tango.me">www.tango.me</a>, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix and others) collectively as the “Service." Please read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
-</p><h1>Information We Collect</h1><p>
-	When you access or use the Service from or through your smart phone, tablet, computer or other device (collectively “device"), or when you install the Service on your device and register with Tango, personally identifiable information about you may be collected. This collection may occur at different times, and for different purposes as explained below.
-</p><h2>Download and Registration</h2><p>
-	When you download an application that is part of the Service you are requested to register with us. For registration through Tango, you are only required to provide your mobile phone number or your email address, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your Facebook account, we may collect additional information you make available to us (see “Your User Profile") below.
-</p><h2>Address Book</h2><p>
-	If you are not already a user of the Service, the first time when you install an application that is part of the Service on your device you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango application, or in your device's privacy settings. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect" below.
-</p><h2>Location Information</h2><p>
-	We may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your device settings menu.
-</p><h2>Profile Information</h2><p>
-	The Service may also collect and store certain profile information including country of residence and preferences. In addition, the Service may collect and store information about your and others' usage of, and interaction with, the Service and our websites, including calls, numbers of calls made by members, call durations, text messages, information relating to games played through the Service (such as the games played, your game scores and how often you play), usage by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
-</p><h2>Advertisements</h2><p>
-	When we serve advertisements to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
-</p><h2>Shared Text, Photos, Videos and Other Communications</h2><p>
-	The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to do so, your text messages, photos, videos and other communications will be stored on our servers.
-</p><p>
-	In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
-</p><h2>Device and Log Information</h2><p>
-	If you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
-</p><h2>Error Reporting Information</h2><p>
-	We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
-</p><h1>How We Use Information We Collect</h1><p>
-	In addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information only as follows:
-</p><p>
-	To verify your identity;
-</p><p>
-	To connect you with your Tango contacts and others as enabled by the Service;
-</p><p>
-	To share your Profile with your Tango contacts and others on the Service;
-</p><p>
-	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience;
-</p><p>
-	To show you the names and profile of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service;
-</p><p>
-	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service;
-</p><p>
-	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations;
-</p><p>
-	To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;
-</p><p>
-	To understand how you use the different features of the Service, or what your preferences are - for example what type of game you like to play, or what type of music you like to attach to your pictures;
-</p><p>
-	To keep your list of Tango contacts up to date – for example, when new users join Tango;
-</p><p>
-	To solicit information from you, including through surveys;
-</p><p>
-	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, or of such SMSs by replying stop);
-</p><p>
-	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity;
-</p><p>
-	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities.
-</p><h1>With Whom We Share Your Information</h1><h2>Service Providers</h2><p>
-	In certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you. For example, these third party service providers include:
-</p><p>
-	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email.
-</p><p>
-	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention.
-</p><p>
-	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls).
-</p><h2>Business Partners</h2><p>
-	We have relationship with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party's application, product, or service. For example Tango may host a third party's game through its Service, and would have access to some information about your use of that game (such as whether you play it or not), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party's privacy policy.  
-	<strong> </strong>
-</p><h2>Outbound Links</h2><p>
-	If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
-</p><p>
-	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service or website. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
-</p><h2>Legal Process</h2><p>
-	We also may share your information with third parties:
-</p><p>
-	In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
-</p><p>
-	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others;
-</p><p>
-	To establish or exercise our legal rights, or as otherwise required by law;
-</p><p>
-	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event.
-</p><h2>Aggregate and Anonymous Information</h2><p>
-	We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
-</p><h2>Other</h2><p>
-	Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
-</p><h1>Display of Tailored Advertising</h1><p>
-	We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about the use of our Service, so that they can serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
-</p><p>
-	We do not do not share with these third parties any information that would readily identify you (such as email address); however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
-</p><h1>Do Not Track Policy</h1><p>
-	California law requires that operators of website and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
-</p><p>
-	Some browsers have incorporated “Do Not Track" features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signal. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we can send you targeted advertisements, please contact us at privacy@tango.me.
-</p><p>
-	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other site or services.
-</p><h1>Your User Profile</h1><p>
-	The information you enter into your user profile (your “Profile") may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
-</p><p>
-	Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out" any Tango user in your contact list from discovering your Profile at any time.
-</p><p>
-	In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
-</p><h1>Data Access and Removal</h1><p>
-	You can always control what information the Service sends us. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove any mobile app from your mobile device entirely.
-</p><p>
-	You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
-</p><p>
-	Any personally identifiable information that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
-</p><h1>Opt-Out – Promotional Communications</h1><p>
-	Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at privacy@tango.me.
-</p><h1>Security</h1><p>
-	Protecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
-</p><p>
-	However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
-</p><h1>Data Transfer</h1><p>
-	Your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
-</p><h1>Age</h1><p>
-	The Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
-</p><h1>Notification of Changes</h1><p>
-	We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
-</p><p>
-	If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
-</p><h1>Contact Information</h1><p>
-	If you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
-</p><h1>Date</h1><p>
-	This Privacy Policy is effective as of November 9, 2014.
-</p>
-        </div>
-    </section>
-
+<header id="header">
+<div class="container">
+<h1 class="logo"><a href="//www.tango.me/"><span>Tango</span></a></h1>
+<a href="#" class="menu-btn"><span class="icon-menu-btn"></span> Menu</a>
+<nav class="main-nav">
+<ul>
+<li><a href="https://www.tango.me/download">Download</a></li>
+<li><a href="//www.tango.me/#connect-block">Features</a></li>
+<li><a href="https://www.tango.me/games">Games</a></li>
+</ul>
+</nav>
 </div>
-	</main>
-<!-- END  MAIN -->
-
-    <footer id="footer">
-        <div class="container">
-
-            <nav class="footer-nav">
-
-                <ul class="nav-section">
-                    <li><h3>Tango</h3></li>
-                    <li><a href="http://www.tango.me/download">Downloads</a></li>
-                    <li><a href="http://www.tango.me/#connect-block">Features</a></li>
-                    <li><a href="http://www.tango.me/games">Games</a></li>
-                    <li><a href="http://www.tango.me/tango-out">Tango Out</a></li>
-                    <li><a href="http://support.tango.me/home">Support</a></li>
-                    <li><a href="http://www.tango.me/tips">FAQ</a></li>
-                </ul>
-                <ul class="nav-section">
-                    <li><h3>Partners</h3></li>
-                    <li><a href="http://www.tango.me/partners/developers">Developers</a></li>
-                    <li><a href="http://www.tango.me/partners/advertisers">Advertisers</a></li>
-                    <li><a href="http://www.tango.me/partners/business">Business</a></li>
-                </ul>
-
-                <ul class="nav-section mobile-full">
-                    <li><h3>Corporate</h3></li>
-                    <div class="mobile-half">
-                        <li><a href="http://www.tango.me/about">About Us</a></li>
-                        <li><a href="http://www.tango.me/careers">Careers</a></li>
-                        <li><a href="http://www.tango.me/press">Press</a></li>
-                        <li><a href="http://www.tango.me/blog">Blog</a></li>
-                        <li><a href="http://www.tango.me/contact">Contact Us</a></li>
-                    </div>
-                </ul>
-            </nav>
-
-
-            <nav class="download-follow">
-
-                <div class="download-now">
-                    <h3 class="download-title">Download the App now!</h3>
-                    <p class="icon-platforms">
-                        <span>
-                            <a href="http://itunes.apple.com/us/app/tango-text-voice-video/id372513032?mt=8"></a>
-                        </span>
-                        <span>
-                            <a href="http://play.google.com/store/apps/details?id=com.sgiggle.production"></a>
-                        </span>
-                        <span>
-                            <a href="http://appworld.blackberry.com/webstore/content/47528888/?countrycode=US&amp;lang=en"></a>
-                        </span>
-                        <span>
-                            <a href="http://www.amazon.com/TangoMe-Inc-Tango-Messenger-Video/dp/B00IQDFBN4/ref=sr_1_1?s=mobile-apps&amp;ie=UTF8&amp;qid=1395247945&amp;sr=1-1&amp;keywords=tango"></a>
-                        </span>
-                        <span>
-                            <a href="http://install.tango.me/"></a>
-                        </span>
-                    </p>
-                </div>
-
-                <div class="follow-us">
-                    <h3>Follow Us</h3>
-
-                    <ul class="icon-social">
-                        <li><a href="https://www.facebook.com/TangoMe"><span></span></a></li>
-                        <li><a href="https://twitter.com/tangome"><span></span></a></li>
-                        <li><a href="https://plus.google.com/+tangoapp/posts"><span></span></a></li>
-                        <li><a href="https://instagram.com/tango_app"><span></span></a></li>
-                        <li><a href="https://www.linkedin.com/company/tango-me"><span></span></a></li>
-                        <li><a href="https://www.youtube.com/user/tangome"><span></span></a></li>
-                    </ul>
-                </div>
-
-            </nav>
-
-            <div class="copyright">
-                            <div style="float: left; padding-left: 50px; padding-right: 30px; width=20%;">
-                    <small><a href="http://www.tango.me/privacy-policy">Privacy Policy</a></small>
-                </div>
-                <div style="float: left; padding-left: 20px; padding-right: 30px; width=20%;">
-                    <small><a href="http://www.tango.me/terms-of-use">Terms of Use</a></small>
-                </div>
-                <div style="float: left; padding-left: 30px; width=20%;">
-                    <small><a href="http://www.tango.me/copyright">Copyright</a></small>
-                </div>
-                <br>
-                <p><small>Copyright ©2009-2015 Tango - FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi!. All Rights Reserved. </small></p>
-            </div>
-
-        </div>
-    </footer>
-
-<!-- JS -->
-	<script type="text/javascript" src="http://www.tango.me/js/vendor/modernizr.custom.js"></script>
-
-	<!--[if lt IE 9]>
-	<link rel="stylesheet" href="http://www.tango.me/css/ie.css">
-	<script type="text/javascript" src="http://www.tango.me/js/vendor/ie/ie9.min.js"></script>
+<nav class="main-nav mobile">
+<ul>
+<li><a href="https://www.tango.me/download">Download</a></li>
+<li><a href="//www.tango.me/#connect-block">Features</a></li>
+<li><a href="https://www.tango.me/games">Games</a></li>
+</ul>
+</nav>
+</header>
+<main id="content" role="main">
+<div id="privacy-policy" class="template">
+<section>
+<div class="container">
+<h2>Introduction</h2><p>This is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango", “us", “we", or “our”) and is incorporated into and is
+subject to our Terms of Use, which can be found at
+<a href="http://www.tango.me/terms-of-use">http://www.tango.me/terms-of-use</a>. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at <a href="http://www.tango.me/">http://www.tango.me</a>, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please
+read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
+</p><h2>Information We Collect</h2><p>When you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart
+phone, tablet, computer or other device (each, a “device”), or when you install
+the Service on your device and register with Tango, personally identifiable
+information about you may be collected. This collection may occur at different
+times, and for different purposes as explained below.
+</p><h3>Download and Registration</h3><p>When you download an application that is part of the
+Service you are requested to register with us. For registration through Tango,
+you are only required to provide your mobile phone number or your email
+address, depending on the device(s) you are using on the Service. You may also
+provide other personally identifiable information, but that is optional. When
+you log in using your Facebook account, we collect additional information you
+make available to us (see “Your User Profile”) below.
+</p><h3>Address Book</h3><p>If you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your device’s privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect" below.
+</p><h3>Location Information</h3><p>We may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your account settings or your device settings menu.
+</p><h3>Profile Information</h3><p>We collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.</p><h3>Usage Information</h3><p>We may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
+</p><h3>Advertisements</h3><p>When we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
+</p><p>Shared Text, Photos, Videos and Other Communications
+</p><p>The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.
+</p><p>In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
+</p><h3>Device and Log Information</h3><p>If you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
+</p><h3>Error Reporting Information</h3><p>We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+</p><h2>How We Use Information</h2><p>In addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:
+</p><ul>
+<li>To verify your identity; </li>
+<li>To connect you with your Tango contacts and others as enabled by the Service; </li>
+<li>To share your Profile with your Tango contacts and others on the Service in accordance with your account settings;
+</li>
+<li>To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience;
+</li>
+<li>To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service; </li>
+<li>To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service; </li>
+<li>To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations; </li>
+<li>To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;</li>
+<li>To understand (i) how you use the different features of the Service, (ii) what your preferences are - for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in; </li>
+<li>To keep your list of Tango contacts up to date – for example, when new users join Tango;
+</li>
+<li>To solicit information from you, including through surveys;</li>
+<li>To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs); </li>
+<li>For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity; </li>
+<li>When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. </li>
+</ul><h2>With Whom We Share Your Information</h2><h3>Service Providers</h3><p>In certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:
+</p><ul>
+<li>Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email. </li>
+<li>Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. </li>
+<li>Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls). </li>
+</ul><h3>Business Partners</h3><p>We have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party’s application, product, or service. For example Tango may host a third party’s game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party’s privacy policy.</p><h3>Outbound Links</h3><p>
+If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
+</p><p>
+These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
+</p><h3>Legal Process</h3><p>We also may share your information with third parties:
+</p><ul>
+<li>In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;</li>
+<li>To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others; </li>
+<li>To establish or exercise our legal rights, or as otherwise required by law; </li>
+<li>In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event. </li>
+</ul><h3>Aggregate and Anonymous Information</h3><p>
+We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
+</p><h3>Other</h3><p>
+Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
+</p><h2>Display of Tailored Advertising</h2><p>We allow third parties with whom we have a separate agreement to use certain technologies to collect information about the placement, views and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
+</p><p>We do not share with these third parties any information that would readily identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+</p><h3>Do Not Track Policy</h3><p>
+California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
+</p><p>
+Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we cannot send you targeted advertisements, please contact us at privacy@tango.me.
+</p><p>
+The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other sites or services.
+</p><h2>Your User Profile</h2><p>
+The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
+</p><p>Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out" any Tango user in your contact list from discovering your Profile at any time.
+</p><p>In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
+</p><h2>Data Access and Removal</h2><p>
+You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
+</p><p>You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
+</p><p>Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
+</p><h2>Opt-Out – Promotional Communications</h2><p>
+Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at <a href="mailto:privacy@tango.me">privacy@tango.me</a>.
+</p><h2>Security</h2><p>Protecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
+</p><p>However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
+</p><h2>Data Transfer</h2><p>Your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
+</p><h2>Age</h2><p>The Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
+</p><h2>Notification of Changes</h2><p>We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
+</p><p>If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
+</p><h2>Contact Information</h2><p>If you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
+</p><h2>Date</h2><p>This privacy policy was posted on December 28, 2015.
+</p>
+</div>
+</section>
+</div>
+</main>
+<footer id="footer">
+<div class="container">
+<nav class="footer-nav">
+<ul class="nav-section">
+<li><h3>Tango</h3></li>
+<li><a href="https://www.tango.me/download">Downloads</a></li>
+<li><a href="https://www.tango.me/#connect-block">Features</a></li>
+<li><a href="https://www.tango.me/games">Games</a></li>
+<li><a href="http://support.tango.me/home" onclick="ga('send', 'event', 'Footer - Support', 'click', {'page': '/download'});">Support</a></li>
+<li><a href="https://www.tango.me/tips" onclick="ga('send', 'event', 'Footer - Tips', 'click', {'page': '/download'});">FAQ</a></li>
+</ul>
+<ul class="nav-section">
+<li><h3>Partners</h3></li>
+<li><a href="https://www.tango.me/partners/developers">Developers</a></li>
+<li><a href="https://www.tango.me/partners/advertisers">Advertisers</a></li>
+<li><a href="https://www.tango.me/partners/business">Business</a></li>
+</ul>
+<ul class="nav-section mobile-full">
+<li><h3>Corporate</h3></li>
+<div class="mobile-half">
+<li><a href="https://www.tango.me/about">About Us</a></li>
+<li><a href="https://www.tango.me/careers">Careers</a></li>
+<li><a href="https://www.tango.me/press">Press</a></li>
+<li><a href="https://www.tango.me/contact">Contact Us</a></li>
+</div>
+</ul>
+</nav>
+<nav class="download-follow">
+<div class="download-now">
+<h3 class="download-title">Download the App now!</h3>
+<p class="icon-platforms">
+<span>
+<a href="http://itunes.apple.com/us/app/tango-text-voice-video/id372513032?mt=8" onclick="ga('send', 'event', 'Footer - Download iOS', 'click', {'page': '/download'});"></a>
+</span>
+<span>
+<a href="http://play.google.com/store/apps/details?id=com.sgiggle.production" onclick="ga('send', 'event', 'Footer - Download Google Play', 'click', {'page': '/download'});"></a>
+</span>
+<span>
+<a href="http://appworld.blackberry.com/webstore/content/47528888/?countrycode=US&amp;lang=en" onclick="ga('send', 'event', 'Footer - Download Blackberry', 'click', {'page': '/download'});"></a>
+</span>
+<span>
+<a href="http://www.amazon.com/TangoMe-Inc-Tango-Messenger-Video/dp/B00IQDFBN4/ref=sr_1_1?s=mobile-apps&amp;ie=UTF8&amp;qid=1395247945&amp;sr=1-1&amp;keywords=tango" onclick="ga('send', 'event', 'Footer - Amazon Kindle', 'click', {'page': '/download'});"></a>
+</span>
+</p>
+</div>
+<div class="follow-us">
+<h3>Follow Us</h3>
+<ul class="icon-social">
+<li><a href="https://www.facebook.com/TangoMe" onclick="ga('send', 'event', 'Footer - Facebook', 'click', {'page': '/download'});"><span></span></a></li>
+<li><a href="https://twitter.com/tangome" onclick="ga('send', 'event', 'Footer - Twitter', 'click', {'page': '/download'});"><span></span></a></li>
+<li><a href="https://plus.google.com/+tangoapp/posts" onclick="ga('send', 'event', 'Footer - Google+', 'click', {'page': '/download'});"><span></span></a></li>
+<li><a href="https://instagram.com/tango_app" onclick="ga('send', 'event', 'Footer - Instagram', 'click', {'page': '/download'});"><span></span></a></li>
+<li><a href="https://www.linkedin.com/company/tango-me" onclick="ga('send', 'event', 'Footer - LinkedIn', 'click', {'page': '/download'});"><span></span></a></li>
+<li><a href="https://www.youtube.com/user/tangome" onclick="ga('send', 'event', 'Footer - YouTube', 'click', {'page': '/download'});"><span></span></a></li>
+</ul>
+</div>
+</nav>
+<div class="copyright">
+<div style="float: left; padding-left: 50px; padding-right: 30px; width=20%;">
+<small><a href="https://www.tango.me/privacy-policy">Privacy Policy</a></small>
+</div>
+<div style="float: left; padding-left: 20px; padding-right: 30px; width=20%;">
+<small><a href="https://www.tango.me/terms-of-use">Terms of Use</a></small>
+</div>
+<div style="float: left; padding-left: 20px; width=20%;">
+<small><a href="https://www.tango.me/copyright">Copyright</a></small>
+</div>
+<br>
+<p><small>Copyright ©2009-2015 Tango - FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi!. All Rights Reserved. </small></p>
+</div>
+</div>
+</footer>
+<script src="//www.tango.me/js/vendor/modernizr.custom.js"></script>
+<!--[if lt IE 9]>
+	<link rel="stylesheet" href="//www.tango.me/css/ie.css">
+	<script type="text/javascript" src="//www.tango.me/js/vendor/ie/ie9.min.js"></script>
 	<![endif]-->
-
-	<script type="text/javascript" src="http://www.tango.me/js/site.min.js"></script>
-
-
-
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f5d53f072d","applicationID":"3139943","transactionName":"M1xTMBRRW0FQU0YMWQoWcAcSWVpcHnNABFAQZWUBC0BZU0VVQSZZCk1DCwpcUEAeQlcLUgFL","queueTime":0,"applicationTime":431,"atts":"HxtQRlxLSE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
+<script src="//www.tango.me/js/site.min.js"></script>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f5d53f072d","applicationID":"3139943","transactionName":"M1xTMBRRW0FQU0YMWQoWcAcSWVpcHnNABFAQZWUBC0BZU0VVQSZZCk1DCwpcUEAeQlcLUgFL","queueTime":0,"applicationTime":458,"atts":"HxtQRlxLSE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script><script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
