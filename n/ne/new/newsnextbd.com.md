@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsnextbd.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095653id_/http%3A//newsnextbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnextbd.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231192913id_/http%3A//newsnextbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - cares nothing but accuracy
+# Privacy Policy - cares for nothing but accuracy
 
 This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by [newsnextbd.com](http://newsnextbd.com/)  and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the “[newsnextbd.com](http://newsnextbd.com/)”), which operates various websites and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the “Services”). This privacy policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
 
