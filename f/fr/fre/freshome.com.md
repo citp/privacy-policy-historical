@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshome.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211129id_/http%3A//freshome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshome.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231084548id_/http%3A//freshome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Freshome.com
 
 ### Privacy Policy
 
@@ -20,7 +20,7 @@ Whether or not you provide this information is your choice; however, in many ins
 
 Information that does not personally identify you, that we automatically collect when you visit our Website
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We typically collect and store details about your visit, such as the Internet domain (for example, â€œwebsite.comâ€? if you use a private Internet access account), your IP address address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web), the type of browser and operating system used to access our site, the pages you visit, the date and time you access our Website and if you linked to our website from another website, the address of that website.
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We typically collect and store details about your visit, such as the Internet domain (for example, website.com if you use a private Internet access account), your IP address address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web), the type of browser and operating system used to access our site, the pages you visit, the date and time you access our Website and if you linked to our website from another website, the address of that website.
 
 We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
 
@@ -30,7 +30,7 @@ We have implemented security measures we consider reasonable and appropriate to 
 
 Cookies
 
-To save you comment’s information every time you visit Freshome, we place a little text file called a â€œcookieâ€? on your hard drive. It sits in your web browser directory.
+To save you comment’s information every time you visit Freshome, we place a little text file called a cookie? on your hard drive. It sits in your web browser directory.
 
 A cookie lets us store your profile information on your computer and lets our website retrieve it when you visit our site. No other website can use or view the cookie set by Freshome.
 
@@ -44,7 +44,7 @@ Freshome has links to partners and other sites. When you link to another site, y
 
 ### Restriction of Liability
 
- **Freshome.com** makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+ **Freshome.com  **makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
 ### Changes to this Privacy Policy
 
