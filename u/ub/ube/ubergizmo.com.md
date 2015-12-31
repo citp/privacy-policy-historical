@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629042857id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083637id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubergizmo
 
@@ -55,3 +55,5 @@ Whenever Ubergizmo changes our privacy policy, we will post those changes to thi
 ### Contact Information
 
 If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.ubergizmo.com/contact/).
+
+Filed in .. 
