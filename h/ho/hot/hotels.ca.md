@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623114401id_/http%3A//ca.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231070116id_/http%3A//ca.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
 # Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
 
