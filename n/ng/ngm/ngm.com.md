@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ngm.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626205624id_/http%3A//www.nationalgeographic.com/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngm.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231234022id_/http%3A//www.nationalgeographic.com/community/privacy) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy Highlights
 
-This statement applies to www.nationalgeographic.com, the Web site of the National Geographic Society and online applications that contain a link to this policy. For more information, please read [complete Privacy Policy.](https://web.archive.org/community/privacy_complete.html) To review additional measures we take in relation to children's privacy, please view our[ Kids Privacy Policy](http://www.nationalgeographic.com/kids/privacy.html). 
+This statement applies to www.nationalgeographic.com, the Web site of National Geographic Partners, LLC, and online and mobile applications that contain a link to this policy. For more information, please read the [complete Privacy Policy.](https://web.archive.org/community/privacy_complete.html) To review additional measures we take in relation to children's privacy, please view our[ Kids Privacy Policy](http://www.nationalgeographic.com/kids/privacy.html). 
 
 * * *
 
 ### Information Collected
 
-• If you are interested in obtaining information, products or services from National Geographic, we may ask you to provide us with information about yourself.
+• If you are interested in obtaining information, products, or services from National Geographic, we may ask you to provide us with information about yourself.
 
 • We may supplement information that you provide with information obtained from other National Geographic services and other organizations.
 
@@ -18,7 +18,7 @@ This statement applies to www.nationalgeographic.com, the Web site of the Nation
 
 ### Third-Party Online Advertising
 
-• Third parties that deliver some of the advertisements you see on this site and other websites collect information through technology about your online activities, which may be supplemented with information about you that we provide such as your age, gender or interactions with our site, in an effort to understand your interests and deliver to you advertisements tailored to your interests. These companies may offer you a way to choose not to have your information used for advertising purposes. 
+• Third parties that deliver some of the advertisements you see on this site and other websites collect information through technology about your online activities, which may be supplemented with information about you that we provide such as your age, gender, or interactions with our site, in an effort to understand your interests and deliver to you advertisements tailored to your interests. These companies may offer you a way to choose not to have your information used for advertising purposes. 
 
 [Additional Details »](https://web.archive.org/community/privacy_complete.html#Information_Use)
 
@@ -50,7 +50,7 @@ This statement applies to www.nationalgeographic.com, the Web site of the Nation
 
 Questions about this statement or National Geographic's privacy policy may be sent to:
 
-National Geographic Society  
+National Geographic Partners, LLC  
 Attn: Marketing Services - Privacy  
 1145 17th Street NW  
 Washington, DC 20036-4688
