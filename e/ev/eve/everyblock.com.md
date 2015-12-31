@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629135200id_/http%3A//comcastlmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231211150id_/http%3A//comcastlmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EveryBlock and Project Open Voice
+# Privacy Policy | Local Media Development
 
 **Summary**
 
 **What the Privacy Policy does**  
-These Terms set forth the terms and conditions through which Comcast will permit you to use the Local Media Development sites as well as Comcast-owned and operated websites and services based on the POV and EveryBlock platform (the **“Web Services“** ). A list of such websites can we found at [http://comcastlmd.com](http://comcastlmd.com%22/) (the **“Web Services“** ).
+These Terms set forth the terms and conditions through which Comcast will permit you to use the Local Media Development sites as well as Comcast-owned and operated websites and services based on the POV and EveryBlock platform (the **“Web Services“** ). A list of such websites can we found at http://comcastlmd.com (the **“Web Services“** ).
 
 **What the Privacy Policy does not do**  
 Please note: the Privacy Policy does not tell you what information we collect and how we use it when you use other Comcast services (Comcast Digital Cable with On Demand, Comcast Digital Voice, Comcast High Speed Internet, XFINITY TV, XFINITY Voice, or XFINITY Internet). These websites and services have their own privacy policies, which we post at <http://xfinity.comcast.net/privacy/2013-06/> for the websites and web services and at <http://www.comcast.com/customerprivacy/> and by mail to subscribers for other Comcast services.
@@ -55,7 +55,7 @@ If you choose to post information on blogs or forums, it will not be private. On
 You may choose to use social networking websites to share information from your Web Services profile, or information about what you do when you use the Web Services. If we get instructions to send your information to one of these websites, with your valid Web Services login information included, we will accept the instructions to transfer your information.
 
 **Changes to Comcast’s Business or the Privacy Policy**  
-If Comcast’s business changes—for example, if our company merges with another company or we sell one or more of the Comcast companies that provide the Web Services—we may give the new owners of the Web Services your information. If this happens, or if the Privacy Policy changes for any other reason, we will post a notice on the Privacy Policy so you can decide whether you want to continue using the Web Services.
+If Comcast’s business changes—for example, if our company merges with another company or we sell one or more of the Comcast companies that provide the Web Services—we may give the new owners of the Web Services your information. If this happens, or if the Privacy Policy changes for any other reason, we will post a notice on the Privacy Policy so you can decide whether you want to continue using the Web Services <http://essayswriters.biz/>.
 
 **Full Policy**
 
