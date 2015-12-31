@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629072539id_/http%3A//www.ok.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231233835id_/http%3A//www.ok.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OK! Magazine
 
@@ -66,7 +66,7 @@ If you log-in to our sites using social media, for example facebook, Google+, Tw
 
 ## 3) Registration
 
-The minimum information we need to register you is your name, email address and a password. We will ask you more questions for different services, including sales promotions. Unless we say otherwise, you have to answer all the registration questions. We may also ask some other voluntary questions during registration for certain services (for example, professional networks) so we can gain a clearer understanding of who you are. This also allows us to personalise services for you. After you have registered, we may send you communications we think may interest you in accordance with your preferences. At any time you can decide not to receive these communications and will be able to 'unsubscribe' via the Preference Centre.
+The minimum information we need to register you is your name, email address and a password. We will ask you more questions for different services, including sales promotions. Unless we say otherwise, you have to answer all the registration questions. We may also ask some other voluntary questions during registration for certain services (for example, professional networks) so we can gain a clearer understanding of who you are. This also allows us to personalise services for you. After you have registered, we may send you communications we think may interest you in accordance with your preferences. At any time you can decide not to receive these communications and will be able to 'unsubscribe' via the Preference Centre or the link at the bottom of each email.
 
 ## 4) Use of children's data
 
