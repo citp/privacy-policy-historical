@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110430id_/http%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231082334id_/http%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Express
 
@@ -73,7 +73,7 @@ If you log-in to our sites using social media, for example facebook, Google+, Tw
 
 The minimum information we need to register you is your name, email address and a password. We will ask you more questions for different services, including sales promotions. Unless we say otherwise, you have to answer all the registration questions. 
 
-We may also ask some other voluntary questions during registration for certain services (for example, professional networks) so we can gain a clearer understanding of who you are. This also allows us to personalise services for you. After you have registered, we may send you communications we think may interest you in accordance with your preferences. At any time you can decide not to receive these communications and will be able to 'unsubscribe' via the Preference Centre. 
+We may also ask some other voluntary questions during registration for certain services (for example, professional networks) so we can gain a clearer understanding of who you are. This also allows us to personalise services for you. After you have registered, we may send you communications we think may interest you in accordance with your preferences. At any time you can decide not to receive these communications and will be able to 'unsubscribe' via the Preference Centre or the link at the bottom of each email. 
 
 **4) Use of children's data**
 
