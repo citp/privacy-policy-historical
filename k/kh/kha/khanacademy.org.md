@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629230059id_/https%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231015654id_/https%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Khan Academy
 
-If you're seeing this message, it means we're having trouble loading external resources for Khan Academy.
-
-If you're behind a web filter, please make sure that the domains ***.kastatic.org** and ***.kasandbox.org** are unblocked. 
+[ ](http://studentprivacypledge.org/?page_id=45)
 
 #### Last Updated: June 10, 2015
 
-_[ ](http://studentprivacypledge.org/?page_id=45) Our mission at Khan Academy is to provide a free, world-class education for anyone, anywhere. _
+_Our mission at Khan Academy is to provide a free, world-class education for anyone, anywhere._
 
 Khan Academy is a proud supporter of the Student Privacy Pledge to safeguard student privacy. 
 
