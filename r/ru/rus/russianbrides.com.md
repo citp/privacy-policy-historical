@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013317id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231191710id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RussianBrides.com
 
@@ -123,7 +123,7 @@ Please note that whenever you submit any information to us in connection with an
 
 If you have any questions, comments or complaints about Russian Brides’ privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/russian-dating-faq.htm)
 
-Email [support@russianbrides.com](mailto:support@russianbrides.com)
+Email [support@russianbridesmailing.com](mailto:support@russianbridesmailing.com)
 
 +1 (800) 480-8077
 
@@ -137,7 +137,7 @@ RussianBrides.com reserves the right to change, modify or amend this policy at a
 
 ## VI. How to contact RussianBrides.com
 
-### [Contact Us](mailto:support@russianbrides.com)
+### [Contact Us](mailto:support@russianbridesmailing.com)
 
 ### Effective Date
 
