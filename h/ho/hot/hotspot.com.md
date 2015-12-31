@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626125221id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231234621id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
@@ -42,7 +42,7 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
   * Any content you add or any change that you make to a Wikimedia Site will be publicly and permanently available. 
   * If you add content or make a change to a Wikimedia Site without logging in, that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username. 
   * Our community of volunteer editors and contributors is a self-policing body. Certain administrators of the Wikimedia Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the Wikimedia Sites and enforce policies. 
-  * This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Labs](https://labs.wikimedia.org/)).
+  * This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/ "wikitech:")).
   * As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
   * For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
@@ -151,7 +151,7 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
 
   
   
-This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (such as third-party developer projects on [Wikimedia Labs](https://labs.wikimedia.org/)). To understand more about what this Privacy Policy does not cover, please see below. 
+This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the [Wikimedia Shop](https://store.wikimedia.org/)) or sites or services run by third parties (such as third-party developer projects on [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/ "wikitech:")). To understand more about what this Privacy Policy does not cover, please see below. 
 
 More on what this Privacy Policy doesn’t cover  
   
@@ -162,7 +162,7 @@ This section is part of the Privacy Policy and is meant to explain in detail whi
 Wikimedia Sites with alternative policies
      Some Wikimedia Foundation websites have alternative privacy policies or provisions that differ from this Privacy Policy. These websites include: 
 
-  * **Wikimedia Shop** (covered by [the shop's policy](https://shop.wikimedia.org/pages/privacy-policy)); and
+  * **Wikimedia Shop** (covered by [the shop's policy](https://store.wikimedia.org/pages/privacy-policy)); and
   * **donate.wikimedia.org** , including the donation process, such as clicking on a donation banner (covered by [the Donor Privacy Policy](https://web.archive.org/wiki/Special:MyLanguage/Donor_policy "Special:MyLanguage/Donor policy")).
 
 
@@ -172,7 +172,7 @@ Community members
      The Wikimedia Sites are collaborative labors of love that are constantly maintained and updated by a global community of volunteers. As a result, some volunteers have access to certain nonpublic information, and use of that information may not be governed by this Privacy Policy. Examples include: 
 
   * **Administrative volunteers** , such as [CheckUsers](https://meta.wikimedia.org/wiki/Special:MyLanguage/CheckUser "m:Special:MyLanguage/CheckUser") or [Stewards](https://meta.wikimedia.org/wiki/Special:MyLanguage/Stewards "m:Special:MyLanguage/Stewards"). These are volunteers who enforce Wikimedia Site policies and ensure the safety of the Wikimedia Sites. When these administrators access nonpublic information, they are required to comply with our [Access to Nonpublic Information Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/Access_to_nonpublic_information_policy "m:Special:MyLanguage/Access to nonpublic information policy"), as well as other, tool-specific policies.
-  * **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as [Labs wmflabs.org](https://www.mediawiki.org/wiki/Wikimedia). When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
+  * **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as [Labs wmflabs.org](https://www.mediawiki.org/wiki/Wikimedia_Labs). When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
   * **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include: 
     * posting to Foundation-hosted email lists;
     * requesting support from volunteers through our [online ticketing system](https://meta.wikimedia.org/wiki/Special:MyLanguage/OTRS "m:Special:MyLanguage/OTRS") (email sent to info[at]wikimedia.org goes to this system);
@@ -321,7 +321,7 @@ For more information, see our [Subpoena FAQ](https://web.archive.org/wiki/Privac
 
 In the unlikely event that the ownership of the Foundation changes, we will provide you 30 days notice before any personal information is transferred to the new owners or becomes subject to a different privacy policy. 
 
-In the extremely unlikely event that ownership of all or substantially all of the Foundation changes, or we go through a reorganization (such as a merger, consolidation, or acquisition), we will continue to keep your personal information confidential, except as provided in this Policy, and provide notice to you via the Wikimedia Sites and a notification on [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l) or similar mailing list at least thirty (30) calendar days before any personal information is transferred or becomes subject to a different privacy policy. 
+In the extremely unlikely event that ownership of all or substantially all of the Foundation changes, or we go through a reorganization (such as a merger, consolidation, or acquisition), we will continue to keep your personal information confidential, except as provided in this Policy, and provide notice to you via the Wikimedia Sites and a notification on [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l "mail:wikimediaannounce-l") or similar mailing list at least thirty (30) calendar days before any personal information is transferred or becomes subject to a different privacy policy. 
 
 #### To Protect You, Ourselves & Others
 
@@ -395,7 +395,7 @@ We do not allow tracking by third-party websites you have not visited.
 
 We do not share your data with third parties for marketing purposes. 
 
-We are strongly committed to not sharing nonpublic information with third parties. In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your information with any third parties for marketing purposes. Under this Policy, we may share your information only under particular situations, which you can learn more about in the “When May We Share Your Information” section of this Privacy Policy. 
+We are strongly committed to not sharing nonpublic information with third parties. In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your information with any third parties for marketing purposes. Under this Policy, we may share your information only under particular situations, which you can learn more about in the "When May We Share Your Information" section of this Privacy Policy. 
 
 Because we protect all users in this manner, we do not change our behavior in response to a web browser's "do not track" signal. 
 
@@ -407,8 +407,8 @@ Substantial changes to this Policy will not be made until after a public comment
 
 Because things naturally change over time and we want to ensure our Privacy Policy accurately reflects our practices and the law, it may be necessary to modify this Privacy Policy from time to time. We reserve the right to do so in the following manner: 
 
-  * In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the Wikimedia Sites, and via a notification on [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l) or a similar mailing list.
-  * For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l) or similar mailing list.
+  * In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the Wikimedia Sites, and via a notification on [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l "mail:wikimediaannounce-l") or a similar mailing list.
+  * For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l "mail:wikimediaannounce-l") or similar mailing list.
 
 
 
@@ -426,10 +426,10 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 **This privacy policy was[approved by the board](https://web.archive.org/wiki/Resolution:New_privacy_policy_and_access_policy "Resolution:New privacy policy and access policy") on April 25th 2014 and went into effect on June 6, 2014. Previous versions can be found below:**
 
-  * **[Privacy policy (November 2008 - June 2014)](https://wikimediafoundation.org/w/index.php?title=Privacy_policy&oldid=80023) : effective from November 25, 2008 until June 6, 2014**
-  * **[Privacy policy (August 2008 - November 2008)](https://wikimediafoundation.org/w/index.php?title=Privacy_policy&oldid=28670) : effective from August 19, 2008 until November 25, 2008.**
-  * **[Privacy policy (June 2006 - August 2008)](https://wikimediafoundation.org/w/index.php?title=Privacy_policy&oldid=14088) : effective from June 21, 2006 until August 19, 2008.**
-  * **[Privacy policy (April 2005 to June 2006)](https://wikimediafoundation.org/w/index.php?title=Privacy_policy&oldid=4834) : effective from April 2005 until June 21, 2006**
+  * **[Privacy policy (November 2008 - June 2014)](https://web.archive.org/wiki/Special:PermanentLink/80023 "Special:PermanentLink/80023"): effective from November 25, 2008 until June 6, 2014**
+  * **[Privacy policy (August 2008 - November 2008)](https://web.archive.org/wiki/Special:PermanentLink/28670 "Special:PermanentLink/28670"): effective from August 19, 2008 until November 25, 2008.**
+  * **[Privacy policy (June 2006 - August 2008)](https://web.archive.org/wiki/Special:PermanentLink/14088 "Special:PermanentLink/14088"): effective from June 21, 2006 until August 19, 2008.**
+  * **[Privacy policy (April 2005 to June 2006)](https://web.archive.org/wiki/Special:PermanentLink/4834 "Special:PermanentLink/4834"): effective from April 2005 until June 21, 2006**
 
 
 
