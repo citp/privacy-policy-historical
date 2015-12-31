@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628042439id_/http%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231064634id_/https%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
 
 # About: Privacy Policy - ClixSense
 
@@ -19,6 +19,9 @@ Any of the information we collect from you may be used in one of the following w
 
 **How do we protect your information?**  
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+**International Transfers**  
+If you are visiting our site from outside the United States, be aware that your information will be transferred to, and maintained on, computers located within the United States. The collection, use, retention and any other processing of your information will be governed by United States law.
 
 **What information do we collect from children?**  
 We do not intentionally collect any information from children under 13 years of age. However, if a child under 13 years of age navigates to our website, we may store session data on their browser as we would with any other visitor. If you have reason to believe that a child under 13 years of age has provided us with personal information, please contact us by clicking the 'Contact Us' link found at the bottom of our site.
@@ -50,4 +53,4 @@ This online privacy policy applies only to information collected through our web
 By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**  
-We may update this Policy from time to time. When we update this Policy, we will change the "Last Updated" date at the top of this Policy.
+We may update this Policy from time to time. When we update this Policy, we will change the "Last Updated" date at the top of this Policy. 
