@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextjobathome.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504095732id_/http%3A//nextjobathome.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjobathome.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091417id_/http%3A//nextjobathome.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Next Job At Home Privacy Policy
 
@@ -20,7 +20,7 @@ The Terms will continue to apply until terminated by either you or NGM by either
 
 NGM may at any time, terminate its legal agreement with you for any reason not limited to but including if you have breached any provision of the Terms, you act in a manner that indicates that you do not intend to, or are unable to comply with the provisions of the Terms, is required to do so by law, a subsidiary, affiliate, or partner with whom NGM offered the Services to you has terminated its relationship with NGM or you, NGM is no longer providing the Services to users in the country in which you are resident or from which you use the service or in NGM's opinion service is no longer commercially viable. Nothing in this Section shall affect NGM's rights regarding provisions of Services in the Terms above. When these Terms come to an end, all of the legal rights, obligations and liabilities that you and NGM have benefited from, been subject to which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions herein and shall continue to apply to such rights, obligations and liabilities indefinitely.
 
-To be removed from our list, simply [click here now](https://web.archive.org/web/20150504095732id_/http%3A//nextjobathome.com/opt-out/opt-out_form.php) or on the unsubscribe links located on any of our emails. You can also reply to an email and request to be removed manually.
+To be removed from our list, simply [click here now](https://web.archive.org/web/20151231091417id_/http%3A//nextjobathome.com/opt-out/opt-out_form.php) or on the unsubscribe links located on any of our emails. You can also reply to an email and request to be removed manually.
 
 **Security**
 
