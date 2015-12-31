@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pogo.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630022259id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231110615id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddThis
 
@@ -108,7 +108,7 @@ AddThis processes information in a way that is compatible with and relevant for 
 
 #### Access
 
-AddThis will allow an individual access to their Personal Information to the extent it is available and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. If you have provided Personal Information when registering for our Site, you may access and modify that information at any time by visiting your account settings (http://addthis.com/settings). If you'd like us to update, correct, delete, or deactivate any other Personal Information that you have provided to us, please send your request to us at addthis-info@AddThis.com and we will process your request within a reasonable period of time after receipt. 
+AddThis will allow an individual access to their Personal Information to the extent it is available and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. If you have provided Personal Information when registering for our Site, you may access and modify that information at any time by visiting your account settings (http://addthis.com/settings). If you'd like us to update, correct, delete, or deactivate any other Personal Information that you have provided to us, please send your request to us at euprivacy@addthis.com and we will process your request within a reasonable period of time after receipt. 
 
 #### Children
 
@@ -124,7 +124,7 @@ The Site and Services are hosted in the United States. If you access the Site or
 
 #### Enforcement, Questions, and Complaints
 
-AddThis regularly reviews its compliance with this Privacy Policy. In compliance with the U.S.-EU and U.S-Swiss Safe Harbor Principles, AddThis commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss citizens and others with inquiries or complaints regarding this privacy policy should first contact AddThis by emailing us at addthis-info@AddThis.com or writing to us at: 
+AddThis regularly reviews its compliance with this Privacy Policy. In compliance with the U.S.-EU and U.S-Swiss Safe Harbor Principles, AddThis commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss citizens and others with inquiries or complaints regarding this privacy policy should first contact AddThis by emailing us at euprivacy@addthis.com or writing to us at: 
 
 > Privacy Office  
 >  c/o AddThis  
