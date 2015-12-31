@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askkids.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608182610id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askkids.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231193347id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ask.com
 
@@ -144,8 +144,9 @@ If you would like to review, change or delete personal information we have colle
 
 Ask.com  
 Attn: Privacy Officer  
-555 12th Street, 11th Floor  
-Oakland, CA 94607
+555 12th Street, Suite 500  
+Oakland, CA 94607  
+[Privacyhelp@ask.com](mailto:Privacyhelp@ask.com)
 
 If you would like to permanently delete your Ask.com account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
 
@@ -163,7 +164,7 @@ We retain the information we collect about and from you for as long as necessary
 
 **8.          Children under 13**
 
- ****The Services are not intended for users under the age of 13.   We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.
+The Services are not intended for users under the age of 13.  We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.
 
 **9.          Consent to Transfer of Information **
 
