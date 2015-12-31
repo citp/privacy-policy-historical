@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kshowonline.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630064715id_/http%3A//kshowonline.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshowonline.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083222id_/http%3A//www.kshowonline.com/%23privacy) for the most accurate reproduction.*
 
 # KShowOnline.Com
 
