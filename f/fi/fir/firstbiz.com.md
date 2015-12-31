@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the firstbiz.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622215633id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbiz.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231181526id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Firstpost
-
-[ ](http://www.firstpost.com/business/battle-lines-why-bjp-states-may-hold-key-to-modis-performance-as-pm-2306462.html "Battle lines: Why BJP states may hold key to Modi\\'s performance as PM")
 
 **Our Commitment**  
 firstpost.com is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
