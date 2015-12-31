@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623163422id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231132708id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jabong.com
+
+[ about jabong ](https://web.archive.org/about)
+
+about jabong 
+
+[ contact ](https://web.archive.org/contact)
+
+contact
+
+[ privacy policy ](https://web.archive.org/privacy_policy)
 
 We are Jabong.com, a service provided by Xerion Retail Pvt.Ltd. from, Gurgaon, Haryana, India - 122001. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
@@ -69,3 +79,11 @@ By submitting data to us or our agent or using the Site, you consent to our use 
 We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
 This Privacy Policy can change at any time to include / exclude clauses and Jabong.com does not bear responsibility for updating Users on the same.
+
+[ terms and conditions ](https://web.archive.org/terms_and_conditions)
+
+terms and conditions
+
+[ vendors code of conduct ](https://web.archive.org/vendor-code-conduct)
+
+vendors code of conduct
