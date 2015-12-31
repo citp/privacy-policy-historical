@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073237id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231183623id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
 
 # Flipkart.com
 
@@ -55,10 +55,11 @@ A "cookie" is a small piece of information stored by a web server on a web brows
   
 
 
-We may share personal information with our other corporate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+We may share personal information with our other corporate entities and affiliates. These entities and affiliates may market to you as a result of such sharing unless you explicitly opt-out.
 
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court  
-orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+We may disclose personal information to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent.
+
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
 We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
@@ -71,7 +72,7 @@ Our Website has stringent security measures in place to protect the loss, misuse
 
 We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
-If you want to remove your contact information from all flipkart.com lists and newsletters, please visit [unsubscribe](https://web.archive.org/web/20150629073237id_/http%3A//www.flipkart.com/unsubscribe.php)
+If you want to remove your contact information from all flipkart.com lists and newsletters, please visit [unsubscribe](https://web.archive.org/web/20151231183623id_/http%3A//www.flipkart.com/unsubscribe.php)
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email  
 address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
@@ -88,15 +89,16 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Mr Chinnappa Karumbaiah Kuppanda
+Mr. Krishna Salunke
 
-Flipkart Internet Private Limited  
-Ozone Manay Tech Park, #56/18 & 55/09, 7th floor,  
-Garvebhavipalya, Hosur Road, Bangalore- 560068.  
+Flipkart Internet Pvt Ltd.  
+AKR Tech Park  
+1st floor Block 'C' Krishna Reddy Industrial Area  
+7th Mile, Hosur Road Bangalore 560068  
 Karnataka, India
 
-Phone: +91- 080-49083910  
+Phone: +91 - 080-42749527  
 Email: grievance.officer@flipkart.com  
-Time: Mon to Sat (9:00 to 18:00)
+Time: Mon - Sat (9:00 - 18:00)
 
 Please [contact us](https://web.archive.org/s/contact) regarding any questions regarding this statement.
