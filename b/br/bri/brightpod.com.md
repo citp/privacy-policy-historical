@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightpod.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502123025id_/http%3A//www.brightpod.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpod.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124611id_/http%3A//www.brightpod.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brightpod
 
