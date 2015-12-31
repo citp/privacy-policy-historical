@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504144144id_/http%3A//www.futurepointindia.com/privacy.aspx%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231133824id_/http%3A//www.futurepointindia.com/privacy.aspx%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,9 @@ We may collect I.P. addresses for some purposes (for example, to report anonymou
 
 We have security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control.  Only certain employees have access to the information you provide us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences.
 
-If you have questions about this privacy policy or the practices of this site, please [Contact Us](https://web.archive.org/web/20150504144144id_/http%3A//www.futurepointindia.com/contactus.aspx)
+If you have questions about this privacy policy or the practices of this site, please [Contact Us](https://web.archive.org/web/20151231133824id_/http%3A//www.futurepointindia.com/contactus.aspx)
 
 FuturePointIndia.com reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will make necessary efforts to notify you of any significant changes to this privacy policy. 
+
+  
+[](http://www.futurepointindia.com/horoscope-model-comparison/compare-horoscope.aspx)
