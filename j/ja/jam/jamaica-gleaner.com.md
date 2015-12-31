@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaica-gleaner.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626130452id_/http%3A//jamaica-gleaner.com/gleaner/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaica-gleaner.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231092639id_/http%3A//jamaica-gleaner.com/gleaner/privacy.html) for the most accurate reproduction.*
 
 # Jamaica Gleaner's Privacy Policy
 
@@ -12,7 +12,7 @@ If you would like more information about this practice and to know your choices 
 * Burstmedia -[ http://www.burstmedia.com/release/privacy.asp](http://www.burstmedia.com/release/privacy.asp)  
 * Kontera - <http://www.kontera.com/privacy.aspx>  
 * ValueClickMedia - <https://www.valueclickmedia.com/privacy.shtml>  
-* Amazon - [Amazon.com Privacy Notice](https://web.archive.org/web/20150626130452id_/http%3A//jamaica-gleaner.com/gleaner/Amazon.com%20Privacy%20Notice)  
+* Amazon - [Amazon.com Privacy Notice](https://web.archive.org/web/20151231092639id_/http%3A//jamaica-gleaner.com/gleaner/Amazon.com%20Privacy%20Notice)  
 * Share A Sale -[ http://www.shareasale.com/w3c/policy.html](http://www.shareasale.com/w3c/policy.html)  
 * Advertising -[ http://www.advertising.com/privacy_policy.php](http://www.advertising.com/privacy_policy.php)  
 * Tribal Fusion - <http://www.tribalfusion.com/TribalFusion/privacy.html>  
