@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629053612id_/http%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154718id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Get West London: Number one for news, opinion, sport & celebrity gossip
+# Mirror Online: The intelligent tabloid. #madeuthink
 
-## Privacy Policy
+## PRIVACY STATEMENT
 
-**IN RELATION TO ALL WEBSITES AND WEBSITE SERVICES OFFERED BY TRINITY MIRROR SOUTHERN LIMITED**
+**IN RELATION TO ALL WEBSITES AND WEBSITE SERVICES OFFERED BY MGN LIMITED**
 
 This Privacy Policy applies to all of our websites and our mobile applications ("the Website").
 
-In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile application operated by or on behalf of TRINITY MIRROR SOUTHERN LIMITED or its parent companies, subsidiaries and affiliates (collectively "Trinity Mirror"), regardless of how you access the network.
+In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile application operated by or on behalf of Trinity Mirror plc or its parent companies, subsidiaries and affiliates (collectively "Trinity Mirror"), regardless of how you access the network.
 
-By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our [Website Terms and Conditions](http://reg-cms1a.getwestlondon.co.uk:8080/terms-conditions/)
+By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our [Website Terms and Conditions](http://cms1a.mirror.co.uk:8080/terms-conditions/)
 
 Any changes to this policy will be posted here. We reserve the right to vary this Privacy Policy from time to time and such changes shall become effective as soon as they are posted. Your continued use of the Website constitutes your agreement to all such changes.
 
@@ -26,17 +26,16 @@ We may send you administrative and promotional emails relating to the Website an
 
 We may personalise your visits to the Website and develop the design and style of the Website to improve the services provided to you.
 
-We may need to contact you to about a comment you have submitted or material you have posted on the Website or in order to verify your identity form time to time.
-
+We may need to contact you to about a comment you have submitted or material you have posted on the Website or in order to verify your identity form time to time.  
 In addition to the services we provide on this web site we may want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
 
  **WHAT INFORMATION DO WE COLLECT FROM YOU?**
 
 We may collect information from you when you fill in an online registration form for any of the services available on our Website, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](http://reg-cms1a.getwestlondon.co.uk:8080/cookie-policy/) page, which forms part of this [Privacy Policy](http://reg-cms1a.getwestlondon.co.uk:8080/privacy-policy/).
+We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](http://cms1a.mirror.co.uk:8080/cookie-policy/) which forms part of this Privacy Policy.
 
-In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our [Cookie Policy](https://web.archive.org/cookie-policy/) page.
+In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our [Cookie Policy](http://cms1a.mirror.co.uk:8080/cookie-policy/)
 
 If you register to use services via Facebook Connect, we may collect other types of information. These are all shown at the time you use Facebook to register.
 
@@ -56,11 +55,12 @@ By using the Website, you agree that we may disclose your personal information t
 
 We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. By direct marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material..
 
-If you wish to receive marketing material from TRINITY MIRROR SOUTHERN LIMITED, from companies in the same group as TRINITY MIRROR SOUTHERN LIMITED or from carefully selected third parties you should tick the appropriate box on the registration form(s).
+If you wish to receive marketing material from MGN Ltd, from companies in the same group as MGN Ltd or from carefully selected third parties you should tick the appropriate box on the registration form(s).
 
-If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or third parties or no longer want us to pass your information to third parties, please notify us at the following email address: [tms-digitalmedia@trinitymirror.com](mailto:tms-digitalmedia@trinitymirror.com)
+If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or third parties or no longer want us to pass your information to third parties, please notify us at the following email address: [web@mirror.co.uk](mailto:web@mirror.co.uk).
 
-In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.  
+In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
+
 We may disclose details about use of the Website to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
 
 We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies.
@@ -69,29 +69,14 @@ We will comply with any court order requesting or requiring the disclosure of th
 
 We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
 
-We may transfer, sell or assign any of the information described in this policy to third parties as   
-a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
-
- **REALMEDIA AD SERVING TECHNOLOGY**
-
-We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.
-
-If you do not wish this to happen, you can either click[ here](http://www.247realmedia.com/privacy.html) to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
-
-More information on this can be found in the "Help" section of the browser that you are using.
-
- **OMNITURE ANALYTICS**
-
-TRINITY MIRROR PLC engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. TRINITY MIRROR PLC controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of TRINITY MIRROR SOUTHERN LIMITED is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to TRINITY MIRROR SOUTHERN LIMITED may be reassociated by TRINITY MIRROR SOUTHERN LIMITED with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
-
-Further information regarding Omniture's privacy statement can be found by clicking[ here](http://www.omniture.com/privacy/product).
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
  **OBTAINING YOUR PERSONAL INFORMATION**
 
 If you wish to receive a copy of the personal information we hold about you, or have any other queries or concerns about the way we are collecting and using your personal information, please write to us (including full details of your request) at:
 
 Legal Department  
-Trinity Mirror PLC  
+Trinity Mirror plc  
 One Canada Square  
 London  
 E14 5AP
