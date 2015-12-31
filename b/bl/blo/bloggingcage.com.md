@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloggingcage.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172634id_/http%3A//www.bloggingcage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingcage.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231233255id_/http%3A//www.bloggingcage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This _Privacy Policy_ governs the manner in which Blogging Cage collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloggingcage.com](https://web.archive.org/web/20150623172634id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Cage.
+This _Privacy Policy_ governs the manner in which Blogging Cage collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloggingcage.com](https://web.archive.org/web/20151231233255id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Cage.
 
 **Personal identification information**
 
@@ -58,8 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Blogging Cage](https://web.archive.org/web/20150623172634id_/http%3A//)  
-[http://www.bloggingcage.com](https://web.archive.org/web/20150623172634id_/http%3A//)  
+[Blogging Cage](https://web.archive.org/web/20151231233255id_/http%3A//)  
+[http://www.bloggingcage.com](https://web.archive.org/web/20151231233255id_/http%3A//)  
 Rattia Chungi, Shakti Nagar, Ward No. 1  
 Fatehabad Pin – 125050  
 Haryana India  
