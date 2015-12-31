@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181128id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231035254id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DeviantArt
 
-Revision date: November 25, 2014
+Revision date: November 25, 2015
 
 DeviantArt respects your privacy.
 
@@ -34,7 +34,7 @@ _Your Address Book._ We may ask our mobile applications users for access to the 
 
 Except as noted, DeviantArt does not share your PII with third parties unless you give us your permission or we need to share such information in order to provide our Services to you at your request.
 
-_Information Shared with Our Service Providers._ We may engage third party service providers to work with us to administer and provide the Services. For example, we use third parties to help with some of the products and services available on our Sites, such as processing payments and fulfilling orders for products through the DeviantArt Print Shop, to help us with maintenance of the Sites or to administer mailing lists. When we supply PII to these third party service providers, we require them to use it only for the purposes of providing services to us or to you as you have requested through our Sites. These service providers are expressly obligated not to disclose or use your PII for any other purpose.
+_Information Shared with Our Service Providers._ We may share aggregated information and non-identifying information that we collect with third party advertisers. We also may share hashed or otherwise obfuscated identifiers based on your PII with trusted partners who in turn may provide these identifiers to third party advertisers, advertising networks, advertising exchanges and analytics services to help us serve ads that are more targeted to your interests and to help us better understand the interests of users of our Sites.
 
 _Information Shared with Advertisers._ We may share aggregated information and non-identifying information that we collect with third party advertisers. 
 
