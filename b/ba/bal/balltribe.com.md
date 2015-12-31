@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balltribe.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503125723id_/http%3A//balltribe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balltribe.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231143347id_/http%3A//balltribe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Balltribe
 
@@ -6,7 +6,7 @@
 
 **About Our Advertisers:**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in  
-order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://balltribe.com/?bar=DUeAYeRP "Original Link: http://www.networkadvertising.org/managing/opt_out.asp").
 
 **Will Balltribe.com disclose the information it collects to outside parties?**  
 [Balltribe.com](http://balltribe.com/) may eventually disclose the aforementioned GENERAL information about visitors – information that does NOT identify who you are. We may disclose answers to questions such as: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. We will never release contact details of any registered users of our website. The last thing we want is “spam” reaching our visitors.
