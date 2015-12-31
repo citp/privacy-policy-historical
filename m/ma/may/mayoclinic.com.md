@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003027id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083931id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About This Site - Mayo Clinic
 
@@ -106,7 +106,7 @@ To do any of these, contact Mayo Clinic by one of the methods listed below.
 
 ### If you reached this site via an ad from Mayo Clinic
 
-If you come to a Mayo Clinic website via a Mayo Clinic advertisement, the ad may have been served to you based on your interests or selected for you based on your browsing activities. If you want to opt out of being served Mayo Clinic advertisements based on your browsing activity, you may opt out of cookies for multiple ad servers by visiting <http://info.evidon.com/more_info/1936> and <http://www.goodwaygroup.com/privacy>.
+If you come to a Mayo Clinic website via a Mayo Clinic advertisement, the ad may have been served to you based on your interests or selected for you based on your browsing activities. If you want to opt out of being served Mayo Clinic advertisements based on your browsing activity, you may opt out of cookies for multiple ad servers by visiting <http://info.evidon.com/more_info/1936>.
 
 ### Protecting children's privacy
 
@@ -131,6 +131,6 @@ Rochester, MN 55905
 
 If you've contacted the website about a privacy-related concern and you do not believe your problem has been addressed, you may file a complaint with the Mayo Clinic chief security officer by calling the Mayo Clinic general number at 507-284-2511 and asking for the chief security officer.
 
-This policy was last updated in May 2015.
+This policy was last updated in November 2015.
 
 .
