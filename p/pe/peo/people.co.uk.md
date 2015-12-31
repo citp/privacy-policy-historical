@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the people.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125830id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154718id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Mirror Online: The intelligent tabloid. #madeuthink
 
