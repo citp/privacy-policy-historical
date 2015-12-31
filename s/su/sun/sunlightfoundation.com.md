@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunlightfoundation.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605005238id_/http%3A//sunlightfoundation.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlightfoundation.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231114607id_/http%3A//sunlightfoundation.com/legal/privacy) for the most accurate reproduction.*
 
 # Sunlight Foundation
 
