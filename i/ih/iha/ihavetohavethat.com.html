@@ -1,45 +1,31 @@
-<!--The following is the downloaded HTML source of the ihavetohavethat.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102060440id_/http%3A//www.thatdailydeal.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ihavetohavethat.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231113717id_/http%3A//www.ihavetohavethat.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-	<title>THAT Daily Deal - A New Deal Every Morning</title>
-	
-	<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/scripts.js"></script>
-	<link rel="stylesheet" href="style.css" type="text/css">
-	<!--floating cart slider-->
-    <script src="js/jquery.coda-slider-2.0.js" type="text/javascript"></script>
-    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
-	<!--end floating cart slider-->
-	<script>
-		$(document).ready(function(){
-			setHeaderBackground();
-		});	
-	</script>
-	
+<html lang="en"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="THAT Daily Deal is all about the DEAL. The Wow! That's a good deal! deal. We bring you items that are low in price, high in quality. THAT's that.">
+
+	<title>That Daily Deal</title>
+	<link type="text/css" href="css/tddstyle.css" rel="stylesheet">
+
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=264137883631479"></script><script type="text/javascript" src="js/jquery-1.7.1.js"></script>
+
+	<script type="text/javascript" src="js/scripts.js"></script>
 	<link href="https://www.13deals.com/admin/validationEngine.jquery.css" rel="stylesheet">
-	<link href="https://www.13deals.com/admin/formular.css" rel="stylesheet">  
-        
-	<script type="text/javascript" src="https://www.13deals.com/admin/jquery.validationEngine-en.js"></script>
-	<script type="text/javascript" src="https://www.13deals.com/admin/jquery.validationEngine.js"></script>
-	
-	<script src="https://www.13deals.com/admin/galleria-1.2.3.min.js"></script>
+	<link href="https://www.13deals.com/admin/formular.css" rel="stylesheet">
 
-	<script src="js/swfobject.js"></script>
-		
-	<script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAAYNY_q0pwXUMPDFS4lrho9xSEDJssbWt2EtumEfzGpCOKPOlCyxRY0mK5iz-bf64fNtupoxnbMm_bsQ"></script>
+	<script type="text/javascript" src="js/jquery.validationEngine-en.js"></script>
+	<script type="text/javascript" src="js/jquery.validationEngine.js"></script>
+
 	<script type="text/javascript">
-		google.load("feeds", "1") //Load Google Ajax Feed API (version 1)
-	</script>
-	<script type="text/javascript" src="js/gfeedfetcher.js">
-		/***********************************************
-		* gAjax RSS Feeds Displayer- (c) Dynamic Drive (www.dynamicdrive.com)
-		* This notice MUST stay intact for legal use
-		* Visit http://www.dynamicdrive.com/ for full source code
-		***********************************************/
-	</script>
-	
-	<script>
+
 		function showHeaderLogin(logged_in){
 			if (logged_in==1){
 				$.ajax({
@@ -48,395 +34,695 @@
 					   data: "header_login=1",
 					   success:
 					  		function(data){
-								$('#header_username').html(data.username);
-								$("#userwelcome").css('display','block');
-								$("#header_login").css('display','none');
-								
-							}, 
+								$(".loggedin").css('display','block');
+								$(".loggedout").css('display','none');
+
+							},
 					   dataType:"json"
 					  });
 			}else{
-				$("#userwelcome").css('display','none');
-				$("#header_login").css('display','block');
+				$("#loggedin").css('display','none');
+				$("#loggedout").css('display','block');
 			}
 		}
+
 	</script>
   </head>
-  <body>
-	<div class="ajax_cart_container_overlay" onclick="hideCart()" style="display:none"></div> 
-	<div class="ajax_cart_container" style="display:none"></div>
-	<div class="login_box_container_overlay" style="display:none"></div>
-	<div class="login_box_container" style="display:none"></div>
-<!-- header -->
+  <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+
+  	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&appId=264137883631479";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
 	<div id="header">
-		<div class="bg">
-			<div class="hcontainer">
-				<a href="http://www.thatdailydeal.com/" class="main"></a>
-				<div id="header_login" style="display:block;">
-				  <form name="header_login_frm" method="post" action="https://www.thatdailydeal.com/privacy.php"> 
-				  <table cellspacing="0" cellpadding="0">
-				    <tbody><tr>
-					<td valign="top">
-						<input type="text" class="login" id="loginname" name="loginname" value="Email" onfocus="if (this.value == 'Email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email';}"> &nbsp;
-						<input type="password" class="login" id="pass" name="pass" value="Password" onfocus="if (this.value == 'Password') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Password';}"> &nbsp;
-					</td>
-					<td valign="top">
-						<input name="login" type="image" src="images/login.jpg" alt="Login">
-					</td>
-				    </tr>
-				  </tbody></table>
-				  </form>
-				  <div><strong style="color:#5d943f;">IHTHT logins still work!</strong> <strong>Are you new?</strong> <a href="signup.php">Sign up!</a></div>
-				</div>
-				<div id="userwelcome" style="display:none;">
-					<p>Welcome, <a href="#" id="header_username"></a></p>
-					<p class="font12"><a href="user.php">My Account</a> | <a href="https://www.thatdailydeal.com/checkout.php">My Cart</a> | <a href="index.php?logout=1">Log out</a></p>
-				</div>
-				
-			</div>
-		</div>
-	</div>
-<!-- end header -->
-
-<div class="container">
-<!-- content -->
-	<div id="content">	
 		<div class="top">
-		</div>
-		<div class="content">
-		
-		<table width="100%" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-		<td valign="top">
-		<!-- page -->
-			<div class="page">
-				<a name="top"></a><div class="page_title privacy_policy">
-				</div>
-
-				<table width="100%"><tbody><tr>
-
-					<td valign="top" width="65%" style="padding-right:30px;">
-						<a name="general-privacy-policy"></a><h2 style="font-size:18px;color:#ff6600;">General Privacy Policy</h2>
-						<p>
-							ThatDailyDeal.com is a Jammin’ Butter property. 
-						</p>
-						<p>
-							This Privacy Policy tells you how we collect information when you visit That Daily Deal, or if you purchase a product from us. 
-						</p>
-						<p>
-							At That Daily Deal (AKA TDD), we understand the importance of your personal information. We ensure that we comply with this obligation, to you (our valued customers). 
-						</p>
-						<p>
-							When you submit information to That Daily Deal by creating an account, purchasing one of our products, or by sending us an email, we collect that information and use it for the purposes of providing you with information or advice about our goods and/or services, and for processing an order by you for our goods and/or services. Specifically, we require your name, street address, email address, phone number and method of payment details in order to complete an order for said goods and/or services. 
-						</p>
-						<p>
-							We shall only disclose your personal information to third parties where the disclosure is necessary and directly related to the purposes set out above - such as our financial institution to process your order. <em><strong>We shall not give our customer lists to third parties for promotions independent of That Daily Deal. You do not have to provide us with the information requested; however, we will be unable to process your order should you be unwilling to do so</strong></em>.  
-						</p>
-						<p>
-							That Daily Deal relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information. To remove yourself, please go <a href="newsletter.php?unsubscribe=1" style="color:#ff6600;">here</a> and enter in your email address.
-						</p>
-						<p>
-							[<a href="#top" style="color:#ff6600;">Back to top</a>]
-						</p>
-						<a name="product-information"></a><h2 style="font-size:18px;color:#ff6600;">Product Information</h2>
-						<p>
-							All products listed on www.ThatDailyDeal.com are described to the best of our abilities, and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us know (that way we can make all things right with the world). You can do so <a href="contact.php" style="color:#ff6600;">here</a>.
-							[<a href="#top" style="color:#ff6600;">Back to top</a>]
-						</p>
-						<a name="copyright"></a><h2 style="font-size:18px;color:#ff6600;">Copyright</h2>
-						<p>
-							The descriptions of our products are the copyright property of That Daily Deal, and specifically you may not use that description as the description of the product should you choose to re-sell the items elsewhere (we know you kids are clever and are more than capable of coming up with your own material).
-								[<a href="#top" style="color:#ff6600;">Back to top</a>]
-					</p>
-						<a name="payment-information"></a><h2 style="font-size:18px;color:#ff6600;">Payment Information</h2>
-						<p>
-							All orders are prepaid. When ordering, your credit card (or PayPal) is charged <em>when you place your order</em>.  All orders must be paid for in US Dollars (and are priced as such). Please note that we do not store your credit card information on our servers. Ever.
-							[<a href="#top" style="color:#ff6600;">Back to top</a>]
-						</p>
-						<a name="shipping-information"></a><h2 style="font-size:18px;color:#ff6600;">Shipping Information</h2>
-						<p>
-							The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please travel on over <a href="shipping.php" style="color:#ff6600;">here</a>.
-							[<a href="#top" style="color:#ff6600;">Back to top</a>]
-						</p>
-						<a name="in-more-detail"></a><h2 style="font-size:18px;color:#ff6600;">In More Detail</h2>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">What information do we collect?</h3>
-							We collect information from you when you register on our site, place an order, or subscribe to our newsletter.<br><br>
-							When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.<br><br>
-							Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">What do we use your information for?</h3>
-							Any of the information we collect from you may be used in one of the following ways: 
-							<ul>
-								<li>To personalize your experience <br> <em style="font-size:12px;">(Your information helps us to better respond to your individual needs.)</em></li>
-								<li>To improve our website <br> <em style="font-size:12px;">(We continually strive to improve our website offerings based on the information and feedback we receive from you.)</em></li>
-								<li>To improve customer service <br> <em style="font-size:12px;">(Your information helps us to more effectively respond to your customer service requests and support needs.)</em></li>
-								<li>To process transactions <br> <em style="font-size:12px;">(Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)</em></li>
-								<li>To administer a contest, promotion, survey or other site feature </li>
-								<li>To send periodic emails <br> <em style="font-size:12px;">(The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)</em></li>
-							</ul>
-							Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">How do we protect your information?</h3>
-							We implement a variety of security measures to maintain the safety of your personal information when you place an order.<br><br>
-							We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.<br><br>
-							After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Do we use cookies?</h3>
-							Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.<br><br>
-							We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Do we disclose any information to outside parties?</h3>
-							We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Third party links </h3>
-							Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">California Online Privacy Protection Act Compliance</h3>
-							Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>
-							As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Account' page.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Children’s Online Privacy Protection Act Compliance</h3>
-							We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Your Consent</h3>
-							By using our site, you consent to our online privacy policy.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Changes to our Privacy Policy</h3>
-							If we decide to change our privacy policy, we will post those changes on this page. <br><br>
-							This policy was last modified on 5/03/2011.
-						<p></p>
-						<p>
-							</p><h3 style="font-size:14px;color:#5d943f;margin:0;">Contacting Us</h3>
-							If there are any questions regarding this privacy policy you may contact us using the information on our <a href="contact.php" style="color:#ff6600;">contact page</a>. 
-						<p></p>
-						<p>
-						[<a href="#top" style="color:#ff6600;">Back to top</a>]
-						</p>
-						<p style="text-align:center;">
-							<br><strong>Please note that That Daily Deal and/or Jammin’ Butter may revise these terms at any time. Use of this website is subject to the revised terms.</strong>
-						</p>
-					</td>
-					
-					<td valign="top" width="35%">
-						<style type="text/css">
-							.blocklinks a{display:block;color:#777;text-decoration:none;padding: 0 0 0 15px;}
-							.blocklinks a:hover{color:#444;}
-						</style>
-						<div class="blocklinks" style="background:#fafafa;border:3px dashed #ff6600;padding:8px;">
-							<div style="font-weight:bold;font-size:15px;color:#8155a2;text-align:center;border-bottom:1px dashed #8155a2;">It's on a "Need-to-Know" Basis</div>
-							<h4 style="font-size:14px;color:#5d943f;margin:10px 0 0 0;">Frequently asked questions</h4>
-								<a href="faq.php#who-are-you">Who are you?</a>
-								<a href="faq.php#how-do-you-ship">How do you ship?</a>
-								<a href="faq.php#can-i-return-it">Can I return it?</a>
-								<a href="faq.php#i-have-an-issue">I have an issue.</a>
-							<h4 style="font-size:14px;color:#5d943f;margin:10px 0 0 0;">Contact us</h4>
-								<a href="contact.php">Let's talk about it.</a>
-							<h4 style="font-size:14px;color:#5d943f;margin:10px 0 0 0;">Shipping</h4>
-								<a href="faq.php#how-do-you-ship">The short answer</a>
-								<a href="shipping.php">The long answer</a>
-							<h4 style="font-size:14px;color:#5d943f;margin:10px 0 0 0;">Returns</h4>
-								<a href="faq.php#can-i-return-it">Basic info</a>
-								<a href="returns.php">More details</a>
-							<h4 style="font-size:14px;color:#5d943f;margin:10px 0 0 0;">Privacy Policy</h4>
-								<a href="privacy.php#general-privacy-policy">General Privacy Policy</a>
-								<a href="privacy.php#product-information">Product information</a>
-								<a href="privacy.php#copyright">Copyright</a>
-								<a href="privacy.php#payment-information">Payment information</a>
-								<a href="privacy.php#shipping-information">Shipping information</a>
-								<a href="privacy.php#in-more-detail">More details</a>
-							<h4 style="font-size:14px;color:#5d943f;margin:10px 0 0 0;">Partners</h4>
-								<a href="vendors.php">Can I sell my stuff on your site?</a>
-								<a href="affiliates.php">Do you have an Affiliate Program?</a>
+			<div class="container">
+				<div class="row">
+					<div class="account col-sm-3">
+						<div class="loggedout" style="display:block;">
+							<div class="visible-xs">
+                            	<a data-toggle="modal" data-target="#login-mobile" href="#login-mobile" class="login">Login</a> / <a data-toggle="modal" data-target="#signup-mobile" href="#signup-mobile" class="signup">Signup</a> &nbsp; &nbsp; <a href="checkout.php">Cart (0)</a>
+							</div>
+							<div class="hidden-xs">
+								<a data-toggle="modal" data-target="#login" href="#login" class="login">Login</a> / <a data-toggle="modal" data-target="#signup" href="#signup" class="signup">Signup</a>
+							</div>
 						</div>
-					</td>
-					
-				</tr></tbody></table>
-			</div>
-
-		<!-- end page -->
-		</td>
-		<td valign="top">
-			<script>
-/*
-function beforeCall(form, options){
-    alert("Right before the AJAX form validation call");
-    return true;
-}
-
-function showSubscriptionResult(status, form, errors, options){
-	if (status === true) {
-        alert("the form is valid!");
-	}
-}
-
-$(document).ready(function() {	
-	$("#subscribe").validationEngine({
-		ajaxFormValidation: true,
-		onAjaxFormComplete: showSubscriptionResult,
-		onBeforeAjaxFormValidation: beforeCall
-	});
-	$("#subscribe").validationEngine('attach');
-	
-	openDebug: true;
-
-});
-*/
-$(document).ready(function() {
-	$("#subscribe").validationEngine();
-	openDebug: false;
-});
-</script>
-<div class="right_col" style="margin-left:-10px;*margin-left:0;">
-	<div class="viewcart_link">
-		<a href="https://www.thatdailydeal.com/checkout.php"><img src="images/cart.png"> View Cart</a>
-	</div>
-					<div class="todays_that_right">
-			<div style="text-align:center;">
-			<a href="http://thatdailydeal.com">
-				<div class="info">
-					<img src="http://thatdailydeal.com/images/products/tmb/wed.JPG" width="80" border="0/">
-					<div class="price">$29.99</div>
-					<div class="shipping">+ $4.99 shipping</div>
-					<div class="save">
-					You save
-						<div class="amount">95%</div>
-										</div>
+						<div class="loggedin" style="display:none;">
+							<span>Welcome back! </span><a href="user.php">My Account</a> / <a href="index.php?logout=1">Logout</a><span class="cart_mobile visible-xs"> &nbsp;&nbsp; <a href="checkout.php">Cart (0)</a></span>
+						</div>
+					</div>
+					<div class="logo col-sm-6">
+						<a href="index.php"><img src="images/logo-tdd.png"></a>
+					</div>
+					<div class="cart col-sm-3 hidden-xs">
+						<div><a href="checkout.php">Checkout<span>0 items</span></a></div>
+					</div>
 				</div>
-				</a>
-				<a href="#" class="help"></a>
-			</div>	
-		</div>
-																					
-	<div class="dailies">
-																			<div class="single">
-			<div class="header shirt">
 			</div>
-			<a href="http://shirt.thatdailydeal.com"><img src="http://shirt.thatdailydeal.com/images/products/tmb/keepcalmbeer.jpg" height="100"></a>
 		</div>
-																					<div class="single">
-			<div class="header style">
+		<div class="nav">
+			<div class="container">
+				<style type="text/css">@media (max-width: 767px){#header .nav li{width:16.66666666667%;}}</style>
+				<ul id="nav" class="nav-justified">
+					<li class="current"><a href="http://www.thatdailydeal.com/" class="todays_deal"><span class="wrap"><span>Today's </span>Deal</span></a></li>
+					<li><a href="http://shirt.thatdailydeal.com/" class="daily_shirt"><span class="wrap"><span>Daily </span>Print</span></a></li>
+					<li><a href="http://style.thatdailydeal.com/" class="daily_style"><span class="wrap"><span>Daily </span>Style</span></a></li>
+					<li><a href="http://pet.thatdailydeal.com/" class="daily_pet"><span class="wrap"><span>Daily </span>Pet</span></a></li>
+					<li><a href="http://meatball.thatdailydeal.com/" class="daily_meatball"><span class="wrap"><span>Daily </span>Meatball</span></a></li>
+<!--                <li><a href="community.html" class="community"><span class="wrap">Community</span></a></li>  -->
+				</ul>
 			</div>
-			<a href="http://style.thatdailydeal.com"><img src="http://style.thatdailydeal.com/images/products/tmb/D55alt.jpg" height="100"></a>
 		</div>
-																					<div class="single">
-			<div class="header pet">
+	</div>
+<!-- end header --><div class="container">
+		<div class="page">
+			<div class="row">
+				<div class="col-sm-9">
+                	<h2>General Privacy Policy</h2>
+                    <p>ThatDailyDeal.com is a Jammin' Butter property.</p>
+                    <p>This Privacy Policy tells you how we collect information when you visit That Daily Deal, or if you purchase a product from us.</p>
+                    <p>At That Daily Deal (AKA TDD), we understand the importance of your personal information. We ensure that we comply with this obligation, to you (our valued customers).</p>
+                    <p>When you submit information to That Daily Deal by creating an account, purchasing one of our products, or by sending us an email, we collect that information and use it for the purposes of providing you with information or advice about our goods and/or services, and for processing an order by you for our goods and/or services. Specifically, we require your name, street address, email address, phone number and method of payment details in order to complete an order for said goods and/or services.</p>
+                    <p>We shall only disclose your personal information to third parties where the disclosure is necessary and directly related to the purposes set out above - such as our financial institution to process your order. <strong>We shall not give our customer lists to third parties for promotions independent of That Daily Deal. You do not have to provide us with the information requested; however, we will be unable to process your order should you be unwilling to do so.</strong></p>
+                    <p>That Daily Deal relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information. To remove yourself, please go <a href="http://thatdailydeal.com/newsletter.php?unsubscribe=1">here</a> and enter in your email address.</p>
+                    <h3 id="product-information">Product Information</h3>
+                    <p>All products listed on www.ThatDailyDeal.com are described to the best of our abilities, and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us know (that way we can make all things right with the world). You can do so <a href="http://thatdailydeal.com/contact.php">here</a>.</p>
+                    <h3 id="copyright">Copyright</h3>
+                    <p>The descriptions of our products are the copyright property of That Daily Deal, and specifically you may not use that description as the description of the product should you choose to re-sell the items elsewhere (we know you kids are clever and are more than capable of coming up with your own material).</p>
+                    <h3 id="payment-information">Payment Information</h3>
+                    <p>All orders are prepaid. When ordering, your credit card (or PayPal) is charged when you place your order. All orders must be paid for in US Dollars (and are priced as such). Please note that we do not store your credit card information on our servers. Ever.</p>
+                    <h3 id="shipping-information">Shipping Information</h3>
+                    <p>The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please travel on over <a href="http://thatdailydeal.com/shipping.php">here</a>.</p>
+					<h3 id="giveaways-and-sweeptakes">Giveaways and Sweepstakes</h3>
+					<p>To enter our sweepstakes or giveaway, please mail postcard to:<br><br>
+					Jammin' Butter - Sweepstakes<br>
+					Attn: Casey Booyinga<br>
+					168 Roweland Drive<br>
+					Johnson City, TN 37601</p>
+					<p>Please include first name, last name, date of birth and email address. One postcard equals one entry. You can enter as many times as you want.</p>
+
+                    <h3 id="in-more-detail">In More Detail</h3>
+					<div>
+						<h4>What information do we collect?</h4>
+                        <p>We collect information from you when you register on our site, place an order, or subscribe to our newsletter.</p>
+                        <p>When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.</p>
+                        <p>Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. [<a href="#top">Back to top</a>]</p>
+					</div>
+                    <div>
+						<h4>What do we use your information for?</h4>
+						<p>Any of the information we collect from you may be used in one of the following ways:</p>
+                        <ul>
+                        	<li>To personalize your experience <br><small><em>(Your information helps us to better respond to your individual needs.)</em></small></li>
+                            <li>To improve our website <br><small><em>(We continually strive to improve our website offerings based on the information and feedback we receive from you.)</em></small></li>
+                            <li>To improve customer service <br><small><em>(Your information helps us to more effectively respond to your customer service requests and support needs.)</em></small></li>
+                            <li>To process transactions <br><small><em>(Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)</em></small></li>
+                            <li>To administer a contest, promotion, survey or other site feature</li>
+                            <li>To send periodic emails <br><small><em>(The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)</em></small></li>
+                        </ul>
+                        <p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>How do we protect your information?</h4>
+						<p>We implement a variety of security measures to maintain the safety of your personal information when you place an order.</p>
+                        <p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
+                        <p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. [<a href="#top">Back to top</a>]</p>
+					</div>
+                    <div>
+						<h4>Do we use cookies?</h4>
+                        <p>Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
+						<p>We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>Do we disclose any information to outside parties?</h4>
+						<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>Third party links</h4>
+						<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>California Online Privacy Protection Act Compliance</h4>
+                        <p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+						<p>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Account' page. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>Children's Online Privacy Protection Act Compliance</h4>
+						<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>Your Consent</h4>
+						<p>By using our site, you consent to our online privacy policy. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>Changes to our Privacy Policy</h4>
+                        <p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+						<p>This policy was last modified on 5/03/2011. [<a href="#top">Back to top</a>]</p>
+					</div>
+					<div>
+						<h4>Contacting Us</h4>
+						<p>If there are any questions regarding this privacy policy you may contact us using the information on our <a href="http://thatdailydeal.com/about.php">contact page</a>. [<a href="#top">Back to top</a>]</p>
+					</div>
+                    <div>
+                    	<p style="text-align:center;"><strong>Please note that That Daily Deal and/or Jammin' Butter may revise these terms at any time. Use of this website is subject to the revised terms.</strong></p>
+                    </div>
+                </div>
+				<div class="col-sm-3">
+					<div class="ftd-side">
+						<div class="item">
+	<div class="top">
+		<div class="banner"><a href="home.php?id=42754">Today's Deal</a></div>
+		<div class="img"><a href="home.php?id=42754"><img src="http://www.thatdailydeal.com//images/products/everlastmedballs_000.jpg"></a></div>
+		<div class="price"><a href="home.php?id=42754">$17.99</a></div>
+	</div>
+	<div class="title"><a href="home.php?id=42754">Everlast Medicine Balls - 8 or 10 or 12 Pounds - Great for overall body work! It's time to live up to those resolutions! SHIPS FREE!</a></div>
+</div>
+					</div>
+					<div class="faq-nav">
+						<div>
+							<h5>Frequently Asked Questions</h5>
+							<a href="faq.php#who-are-you">Who are you?</a>
+							<a href="faq.php#how-do-you-ship">How do you ship?</a>
+							<a href="faq.php#can-i-return-it">Can I return it?</a>
+							<a href="faq.php#i-have-an-issue">I have an issue.</a>
+						</div>
+						<div>
+							<h5>Shipping</h5>
+							<a href="faq.php#how-do-you-ship">The short answer</a>
+							<a href="shipping.php">The long answer</a>
+						</div>
+						<div>
+							<h5>Returns</h5>
+							<a href="faq.php#can-i-return-it">The simple answer</a>
+							<a href="returns.php">If you like things complicated</a>
+						</div>
+						<div>
+							<h5>Privacy Policy</h5>
+							<a href="privacy.php">General Privacy Policy</a>
+							<a href="privacy.php#product-information">Product Information</a>
+							<a href="privacy.php#copyright">Copyright</a>
+							<a href="privacy.php#payment-information">Payment Information</a>
+							<a href="privacy.php#shipping-information">Shipping Information</a>
+							<a href="privacy.php#in-more-detail">More info you should know</a>
+						</div>
+						<div>
+							<h5>Contact us</h5>
+							<a href="about.php">Let's talk about it.</a>
+						</div>
+						<div>
+							<h5>Partners</h5>
+							<a href="about.php">Can I sell my stuff on your site?</a>
+							<a href="affiliates.php">Do you have an Affiliate Program?</a>
+						</div>
+					</div>
+				</div>
 			</div>
- 			<a href="http://pet.thatdailydeal.com"><img src="http://pet.thatdailydeal.com/images/products/tmb/trvbowls.jpg" height="100"></a>
 		</div>
-																					<div class="single meatball">
-			<div class="header what">
+	</div>	<div id="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<h6>Company</h6>
+					<a href="index.php">Home</a>
+					<a href="about.php">About Us</a>
+					<a href="about.php">Contact Us</a>
+					<a href="privacy.php">Privacy Policy</a>
+				</div>
+				<div class="col-md-2">
+					<h6>Customers</h6>
+					<a href="faq.php">FAQ</a>
+					<a href="returns.php">Return Policy</a>
+					<a href="shipping.php">Shipping Policy</a>
+					<a href="http://support.jamminbutter.com" target="_blank">Customer Support</a>
+				</div>
+				<!-- <div class="col-md-2">
+					<h6>Other stuffs</h6>
+					<a href="http://blog.thatdailydeal.com" target="_blank">Blog, News &amp; Updates</a>
+					<a href="index.php#blog">The Area of Fun</a>
+				</div> -->
+				<div class="col-md-2">
+					<h6>Partners</h6>
+					<a href="http://www.thatdailydeal.com//affiliates.php">Affiliate Program</a>
+					<a href="about.php">Feature Your Product</a>
+					<!-- <a href="http://www.jamminbutter.com/wholesale">Wholesale</a>  -->
+					<a href="http://thatdailydeal.com/rss/feed.xml">RSS Feed</a>
+				</div>
+				<div class="col-md-4 about">
+					<img src="images/logo-orig.png">
+					<p>THAT Daily Deal is all about the DEAL. The <em>Wow! That's a good deal!</em> deal. We bring you items that are low in price, high in quality. THAT's that.</p>
+					<div class="copyright">© 2011-2014 ThatDailyDeal.com, a <a href="http://jamminbutter.com">Jammin' Butter</a> Property</div>
+				</div>
 			</div>
-			<a href="http://meatball.thatdailydeal.com"><img src="http://meatball.thatdailydeal.com/images/products/tmb/code3-sw.jpg" height="100"></a>
-		</div>
-					<img src="images/meatball_peek.png" class="meatball_peek">	
-	</div>
-	<div class="dyk" title="IHaveToHaveThat.com is now ThatDailyDeal.com" style="cursor:pointer">
-		<p>IHaveToHaveThat.com is now ThatDailyDeal.com</p>
-	</div>
-	<script>
-	/*
-	 function subscribeNewsletter(){ 
-		$.get('newsletter.php?do=subscribe&email='+$('#subscribe_email').val());
-	 }
-*/
-	</script>
-	<form name="subscribe" id="subscribe" method="post" action="newsletter.php">
-		<input type="hidden" name="subscribe_newsletter" value="1">
-		<input name="newsletter_email" id="newsletter_email" type="text" maxlength="70" class="validate[required,custom[email],length[0,100]] subscribe" value="Type your email here" onfocus="if (this.value == 'Type your email here') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Type your email here';}" autocomplete="off">
-		<p><img src="images/subscribe_button.png" alt="Go" style="cursor:pointer" onclick="$('#subscribe').submit()"></p>
-	</form>
-</div>		</td>
-		</tr>
-		</tbody></table>
-		</div>
-		<div class="bot">
-		</div>	
-	</div>
-<!-- end content -->	<div style="width:790px;text-align:center;padding-top:30px;">
-		<img src="images/auth-logos/nmc6ir7r.png" height="60" style="margin:0 8px;">
-		<img src="images/auth-logos/mcaednv_long.png" height="60" style="margin:0 8px;">
-		<img src="images/auth-logos/godaddy.png" height="60" style="margin:0 8px;">
-		<a href="http://www.bbb.org/knoxville/business-reviews/internet-shopping-services/jammin-butter-in-johnson-city-tn-90011679" target="_blank"><img src="images/auth-logos/bbbab.png" height="60" style="margin:0 8px;"></a>
-		<img src="images/auth-logos/21cpe7xp.png" height="60" style="margin:0 8px;">
-	</div>
-</div>	
-	<div id="footer">
-		<div class="zag"></div>
-		<div class="content">
-			<table width="100%">
-				<tbody><tr>
-					<td valign="top" width="17%">
-						<strong>Company</strong><br>
-						<a href="index.php">Home</a>
-						<a href="contact.php">Contact Us</a>
-						<a href="privacy.php">Privacy Policy</a>
-						<a href="about.php">What is THAT Daily Deal?</a>
-					</td>
-					<td valign="top" width="17%">
-						<strong>More</strong><br>
-						<a href="faq.php">FAQ</a>
-						<a href="returns.php">Return Policy</a>
-						<a href="shipping.php">Shipping Policy</a>
-						<a href="http://support.jamminbutter.com/">Customer Support</a>
-					</td>
-					<td valign="top" width="18%">
-						<strong>Extra</strong><br>
-						<a href="http://blog.thatdailydeal.com/">Blog, News &amp; Updates</a>
-						<a href="index.php#hangout">The Hangout</a>
-						<a href="index.php#giveaway">This Week's Giveaway</a>
-					</td>
-					<td valign="top" width="18%">
-						<strong>Partners</strong><br>
-						<a href="http://www.thatdailydeal.com//affiliates.php">Affiliate Program</a>
-						<a href="vendors.php">Feature Your Product</a>
-						<a href="rss/feed.xml">RSS Feed</a>
-					</td>
-					<td valign="top" width="30%" style="font-size:11px;">
-						<img src="images/logo.png" align="left" style="margin-right:8px;">THAT Daily Deal is all about the DEAL. The <em>Wow! That's a good deal!</em> deal. We bring you items that are low in price, high in quality. THAT's that.
-						<div style="background:#7e7a75;width:100%;height:1px;margin:18px 0;"></div>
-						<div class="copyright">© 2011 ThatDailyDeal.com, a <a href="http://www.jamminbutter.com">Jammin' Butter</a> Property</div>
-					</td>
-				</tr>
-			</tbody></table>
 		</div>
 	</div>
-<!-- Start of Woopra Code -->
+	<div id="login" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                    <div class="login-table">
+                        <table width="600" cellspacing="0" cellpadding="0" border="0" align="middle"><tbody><tr>
+                            <td width="300" valign="top">
+                                <div class="left">
+                                    <h1>Login</h1>
+                                    <form action="login.php" name="login" id="login-form" method="post">
+                                        <p><input type="text" name="login_username" id="login_name" autocomplete="off" class="validate[required,custom[email],length[1,60]]" placeholder="email"></p>
+                                        <p><input type="password" name="login_password" id="login_password" value="password" class="validate[required]" placeholder="password"></p>
+                                        <p><a class="forgot-password" href="javascript:showForgotPassword();">Forgot your password?</a></p>
+                                        <p><input type="button" value="Login" class="login-submit" onclick="submitLoginForm();"></p>
+                                        <div id="login_error"><!-- error message --></div>
+                                    </form>
+                                </div>
+                            </td>
+                            <td width="300" valign="top">
+                                <div class="right">
+                                    <!--<h2>Don't already have an account?</h2>
+                                    <a data-toggle="modal" data-target="#signup" href="#signup" class="signup-link">Signup here!</a>-->
+                                    <div class="other-logins">
+                                        <h3>Or login with your account from</h3>
+                                        <a href="http://www.13deals.com/" target="_blank" title="13 Deals"><img src="images/logos/13d.png" alt="13 Deals"></a>
+                                        <a href="http://www.hoboninja.com/" target="_blank" title="Hobo Ninja"><img src="images/logos/hn.png" alt="Hobo Ninja"></a>
+                                        <a href="http://www.sirmacho.com/" target="_blank" title="Sir Macho"><img src="images/logos/sirmacho.png" alt="Sir Macho"></a>
+                                        <a href="http://www.locobuy.com/" target="_blank" title="LocoBuy"><img src="images/logos/lb.png" alt="LocoBuy"></a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr></tbody></table>
+                    </div>
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+	<div id="login-mobile" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                    <div class="login-table">
+                        <table width="300" cellspacing="0" cellpadding="0" border="0" align="middle"><tbody><tr>
+                            <td width="300" valign="top">
+                                <div class="left">
+                                    <h1>Login</h1>
+                                    <form action="login.php" name="login" id="login-form-mobile" method="post">
+                                        <p><input type="text" name="login_username" id="login_name" autocomplete="off" class="validate[required,custom[email],length[1,60]]" placeholder="email"></p>
+                                        <p><input type="password" name="login_password" id="login_password" value="password" class="validate[required]" placeholder="password"></p>
+                                        <div id="login_error_mobile"><!-- error message --></div>
+                                        <p><a class="forgot-password" href="javascript:showForgotPasswordMobile();">Forgot your password?</a></p>
+                                        <p><input type="button" value="Login" class="login-submit" onclick="submitLoginFormMobile();"></p>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr></tbody></table>
+                    </div>
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+	<div id="signup" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                    <div class="login-table">
+                        <table width="600" cellspacing="0" cellpadding="0" border="0" align="middle"><tbody><tr>
+                            <td width="300" valign="top">
+                                <div class="left">
+                                    <h1>Signup</h1>
+                                    <form action="signup.php" name="signup" id="signup_form" method="post">
+                                        <p><input type="text" name="fullname" id="fullname" class="validate[required,length[0,30]]" placeholder="full name"></p>
+                                        <p><input type="text" name="nickname" id="nickname" class="validate[custom[noSpecialCaracters],minSize[0],maxSize[30]]" autocomplete="off" placeholder="nickname"></p>
+                                        <p><input type="text" name="email" id="email" class="validate[required,custom[email],length[0,60],ajax[ajaxEmail]]" autocomplete="off" placeholder="email"></p>
+                                        <p><small>Password:</small><br><input type="password" name="password" id="password" class="validate[required,length[6,15]]" autocomplete="off"></p>
+                                        <p><small>Confirm password:</small><br><input type="password" name="password2" id="password2" class="validate[required,equals[password]]" autocomplete="off"></p>
+                                        <p><input type="button" value="Signup" name="signup" onclick="submitSignupForm()" class="signup-submit"></p>
+                                        <div id="signup_error"><!-- error message --></div>
+                                    </form>
+                                </div>
+                            </td>
+                            <td width="300" valign="top">
+                                <div class="right">
+                                    <!--<h2>Already have a That Daily account?</h2>
+                                    <a data-toggle="modal" data-target="#login" href="#login" class="login-link">Login here!</a>-->
+                                    <div class="other-logins">
+                                        <h3>You can also login with your account from</h3>
+                                        <a href="http://www.13deals.com/" target="_blank" title="13 Deals"><img src="images/logos/13d.png" alt="13 Deals"></a>
+                                        <a href="http://www.hoboninja.com/" target="_blank" title="Hobo Ninja"><img src="images/logos/hn.png" alt="Hobo Ninja"></a>
+                                        <a href="http://www.sirmacho.com/" target="_blank" title="Sir Macho"><img src="images/logos/sirmacho.png" alt="Sir Macho"></a>
+                                        <a href="http://www.locobuy.com/" target="_blank" title="LocoBuy"><img src="images/logos/lb.png" alt="LocoBuy"></a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr></tbody></table>
+                    </div>
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+	<div id="signup-mobile" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                    <div class="login-table">
+                        <table width="300" cellspacing="0" cellpadding="0" border="0" align="middle"><tbody><tr>
+                            <td width="300" valign="top">
+                                <div class="left">
+                                    <h1>Signup</h1>
+                                    <form action="signup.php" name="signup_frm_mobile" id="signup_form_mobile" method="post">
+                                        <p><input type="text" name="fullname" id="fullname" class="validate[required,length[0,30]]" placeholder="full name"></p>
+                                        <p><input type="text" name="nickname" id="nickname" class="validate[custom[noSpecialCaracters],minSize[0],maxSize[30]]" autocomplete="off" placeholder="nickname"></p>
+                                        <p><input type="text" name="email" id="email" class="validate[required,custom[email],length[0,60],ajax[ajaxEmail]]" autocomplete="off" placeholder="email"></p>
+                                        <p><small>Password:</small><br><input type="password" name="password" id="password" class="validate[required,length[6,15]]" autocomplete="off"></p>
+                                        <p><small>Confirm password:</small><br><input type="password" name="password2" id="password2" class="validate[required,equals[password]]" autocomplete="off"></p>
+                                        <p><input type="button" value="Signup" name="signup" onclick="submitSignupFormMobile()" class="signup-submit"></p>
+										<div id="signup_error_mobile"><!-- error message --></div>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr></tbody></table>
+                    </div>
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="signup_thankyou" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                   Welcome....
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+	<div id="password" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                    <div class="login-table">
+                        <table width="600" cellspacing="0" cellpadding="0" border="0" align="middle"><tbody><tr>
+                            <td width="300" valign="top">
+                                <div class="left">
+                                    <h1>Forgot your password?</h1>
+                                    <p>If you want to reset your password please enter your e-mail address below and click <strong>Reset</strong>.</p>
+                                    <form action="" name="reset-pass" method="post" id="forgot_password_form">
+                                        <p><input type="text" name="email" id="email" autocomplete="off" class="validate[required,custom[email],length[1,60]]" placeholder="email"></p>
+                                        <p><input type="button" name="submit" onclick="submitForgotPasswordForm()" value="Reset" class="reset-submit"></p>
+                                        <div id="get_password_error"><!-- error message --></div>
+                                    </form>
+                                </div>
+                            </td>
+                            <td width="300" valign="top">
+                                <div class="right">
+                                    <!--<h2>Already have a That Daily account?</h2>
+                                    <a href="login.html" class="login-link">Login here!</a>-->
+                                    <div class="other-logins">
+                                        <h3>You can also login with your account from</h3>
+                                        <a href="http://www.13deals.com/" target="_blank" title="13 Deals"><img src="images/logos/13d.png" alt="13 Deals"></a>
+                                        <a href="http://www.hoboninja.com/" target="_blank" title="Hobo Ninja"><img src="images/logos/hn.png" alt="Hobo Ninja"></a>
+                                        <a href="http://www.sirmacho.com/" target="_blank" title="Sir Macho"><img src="images/logos/sirmacho.png" alt="Sir Macho"></a>
+                                        <a href="http://www.locobuy.com/" target="_blank" title="LocoBuy"><img src="images/logos/lb.png" alt="LocoBuy"></a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr></tbody></table>
+                    </div>
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+	<div id="password-mobile" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="imagesLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+                    <div class="login-table">
+                        <table width="300" cellspacing="0" cellpadding="0" border="0" align="middle"><tbody><tr>
+                            <td width="300" valign="top">
+                                <div class="left">
+                                    <h1>Forgot your password?</h1>
+                                    <p>If you want to reset your password please enter your e-mail address below and click <strong>Reset</strong>.</p>
+                                    <form action="" name="reset-pass" method="post" id="forgot_password_form_mobile">
+                                        <p><input type="text" name="email" id="email" autocomplete="off" class="validate[required,custom[email],length[1,60]]" placeholder="email"></p>
+                                        <p><input type="button" name="submit" onclick="submitForgotPasswordFormMobile()" value="Reset" class="reset-submit"></p>
+                                        <div id="get_password_error_mobile"><!-- error message --></div>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr></tbody></table>
+                    </div>
+				</div>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+<script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/application.js"></script>
+<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 <script type="text/javascript">
 
-var woo_settings = {idle_timeout:'300000', domain:'thatdailydeal.com'};
+    function showForgotPassword(){
 
-(function(){
+		$('div#login').modal('hide');
+		$('div#password').modal('show');
 
-var wsc = document.createElement('script');
+		$("#forgot_password_form").validationEngine();
+	}
+    function showForgotPasswordMobile(){
 
-wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+		$('div#login-mobile').modal('hide');
+		$('div#password-mobile').modal('show');
 
-wsc.type = 'text/javascript';
+		$("#forgot_password_form_mobile").validationEngine();
+	}
 
-wsc.async = true;
+	function showLogin(){
 
-var ssc = document.getElementsByTagName('script')[0];
+		$('div#forgot_password').css('display','none');
+		$('div#login').css('display','block');
+		$("#header_login_form").validationEngine();
+	}
+	function showLoginMobile(){
 
-ssc.parentNode.insertBefore(wsc, ssc);
+		$('div#forgot_password_mobile').css('display','none');
+		$('div#login-mobile').css('display','block');
+		$("#header_login_form").validationEngine();
+	}
 
-})();
+	function submitForgotPasswordForm(){
+		if ($("#forgot_password_form").validationEngine('validate')){
 
-</script>
+			$('#get_password_error').html('');
+			$.ajax({
+			   type: "POST",
+			   url: "login.php",
+			   data: "get_password=1&"+$('#forgot_password_form').serialize(),
+			   success: function(data){
+				   if (data==0){
+					   $('#get_password_error').html("This email address does not exist in our system. Please try again, or create a new account.");
+				   }else{
+					   $('#get_password_error').html("A new password has been sent to your e-mail address.");
+				   }
+			   }
+			 });
+		}
+	}
+	function submitForgotPasswordFormMobile(){
+		if ($("#forgot_password_form_mobile").validationEngine('validate')){
 
-<!-- End of Woopra Code -->
+			$('#get_password_error_mobile').html('');
+			$.ajax({
+			   type: "POST",
+			   url: "login.php",
+			   data: "get_password=1&"+$('#forgot_password_form_mobile').serialize(),
+			   success: function(data){
+				   if (data==0){
+					   $('#get_password_error_mobile').html("This email address does not exist in our system. Please try again, or create a new account.");
+				   }else{
+					   $('#get_password_error_mobile').html("A new password has been sent to your e-mail address.");
+				   }
+			   }
+			 });
+		}
+	}
 
+	function submitLoginForm(){
+		if ($("#login-form").validationEngine('validate')){
+
+			$('#login_error').html('');
+			$.ajax({
+			   type: "POST",
+			   url: "login.php",
+			   data: "login=1&"+$('#login-form').serialize(),
+			   success: function(data){
+				   if (data==0){
+					   $('#login_error').html("Login failed. Please try again.");
+				   }else{
+					  parent.showHeaderLogin(1);
+					  $('#login').modal('hide');
+				   }
+			   }
+			 });
+		}
+	}
+	function submitLoginFormMobile(){
+		if ($("#login-form-mobile").validationEngine('validate')){
+
+			$('#login_error_mobile').html('');
+			$.ajax({
+			   type: "POST",
+			   url: "login.php",
+			   data: "login=1&"+$('#login-form-mobile').serialize(),
+			   success: function(data){
+				   if (data==0){
+					   $('#login_error_mobile').html("Login failed. Please try again.");
+				   }else{
+					  parent.showHeaderLogin(1);
+					  $('#login-mobile').modal('hide');
+				   }
+			   }
+			 });
+		}
+	}
+
+	function submitSignupForm(){
+		if ($("#signup_form").validationEngine('validate')){
+
+			$('#signup_error').html('');
+			$("#signup_form").validationEngine('hideAll');
+			$.ajax({
+			   type: "POST",
+			   url: "signup.php",
+			   data: "signup=1&"+$("#signup_form").serialize(),
+			   success: function(data){
+				   if (data==0){
+					   $('#signup_error').html("Signup failed. Please try again.");
+				   }else{
+					   showSignupThankYou();
+					   parent.showHeaderLogin(1);
+				   }
+			   }
+			 });
+		}
+	}
+	function submitSignupFormMobile(){
+		if ($("#signup_form_mobile").validationEngine('validate')){
+
+			$('#signup_error_mobile').html('');
+			$("#signup_form_mobile").validationEngine('hideAll');
+			$.ajax({
+			   type: "POST",
+			   url: "signup.php",
+			   data: "signup=1&"+$("#signup_form_mobile").serialize(),
+			   success: function(data){
+				   if (data==0){
+					   $('#signup_error_mobile').html("Signup failed. Please try again.");
+				   }else{
+					   showSignupThankYou();
+					   parent.showHeaderLogin(1);
+				   }
+			   }
+			 });
+		}
+	}
+
+	function showSignupThankYou(){
+
+		$('#signup').modal('hide');
+		$('#signup-mobile').modal('hide');
+		$('#signup_thankyou').modal('show');
+	}
+
+
+    </script>
+
+    <!-- Start of Woopra Code -->
+
+	<script type="text/javascript">
+
+	var woo_settings = {idle_timeout:'300000', domain:'thatdailydeal.com'};
+
+	(function(){
+
+	var wsc = document.createElement('script');
+
+	wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+
+	wsc.type = 'text/javascript';
+
+	wsc.async = true;
+
+	var ssc = document.getElementsByTagName('script')[0];
+
+	ssc.parentNode.insertBefore(wsc, ssc);
+
+	})();
+
+	</script>
+
+	<!-- End of Woopra Code -->
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-21195725-3']);
+	  _gaq.push(['_setDomainName', 'thatdailydeal.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('1116-763-10-4914');/*]]>*/</script><noscript><a href="https://www.olark.com/site/1116-763-10-4914/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
 
   
-
 </body></html>
