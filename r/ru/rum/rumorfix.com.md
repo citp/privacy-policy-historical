@@ -1,95 +1,111 @@
-> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407135550id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231110225id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RumorFix
+# Privacy Policy - RumorFix - The Anti Tabloid
 
-Privacy Policy
+**Zealot Networks, Inc.**
 
-Effective Date: April 20, 2010
+**Privacy Policy**
 
-This Privacy Policy applies only to RumorFix.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), which is owned or controlled by Stage 29 Productions, LLC. (“Company,” “we,” “our” or “us”) or other interactive features that are accessible or downloadable through RumorFix.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated).
+Last Updated: October 20, 2015
 
-Please read this Privacy Policy carefully. In addition, please review our Terms of Use, which govern your use of the Web Site and the content you submit to the Web Site, respectively.
+Zealot Networks, Inc. (“Zealot” or “we” or “our” or “us”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy (this “Privacy Policy”). By visiting or using one of our network of websites, applications, products, software, data feeds, and services provided to you by Zealot (collectively, the “Service”), or viewing our Content (“Content” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features and other materials you may view on, access through, or contribute to the Service), you are accepting the practices outlined in this Privacy Policy.   **If you do not agree to the collection and use of information from or about you in accordance with this Privacy Policy and our[Terms of Service](http://rumorfix.com/sample-page), then you may not use the Service.**
 
-**TYPES OF INFORMATION THAT MAY BE COLLECTED**
+This Privacy Policy covers our treatment of personal information that we gather when you visit or use our Service. This Privacy Policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage. The Service may contain links to third party websites that are not owned or controlled by us.  We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, we will not and cannot censor or edit the content of any third-party site. By using the Service, you expressly relieve Zealot from any and all liability arising from your use of any third-party website.
 
-The following are the types of information we may collect:
+**Information Collected by Us**
 
-**Information You Provide Us**  
-We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, cell phone number and physical address (“Personal Information”); and (2) demographic information, such as gender, zip code, information regarding your education or number of children, or similar information. We may collect this information at various places and forms on the Web Site. If we combine demographic information with personal information, we will treat the combined information as personal information in those circumstances. You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Site, and in those cases, please do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Site’s features.
+We only collect personal information that is relevant to the purpose of the Service. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from users of the Service:
 
-**Information from Other Sources**  
-We may receive information about you from other sources; for example, we may receive information from a marketing partner in connection with a co-branded web site or promotion. We may use this information for a variety of purposes, including to enhance our ability to serve you and to tailor content and ads we serve to you. We may combine the information we receive from those other sources with information we collect through the Web Site. In those cases, we will apply this Privacy Policy to any Personal Information received, unless otherwise specifically disclosed by us at the time you provide your Personal Information.
+1\. Information You Provide to Us: We receive and store any information you enter on the Service or provide to us in any other way. For instance, we may collect information you provide to us if you register on the Service, respond to surveys, contact us through customer service or by other means, or participate in promotions that we may offer from time to time. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
 
-**Information We Collect As You Access And Use The Web Site**  
-We may receive and store certain types of web site usage information whenever you visit or interact with the Web Site. For example, we and our third party service providers may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other similar information. We may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a “Device Identifier”). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet (each, a “Device”), and our computers identify your device by its Device Identifier. When analyzed, web site usage information helps us determine how our site is used, such as what types of visitors arrive at the Web Site, and what type of content is most popular. We may associate your Device Identifier or web site usage information with the Personal Information you provide, but we will treat the combined information as Personal Information.
+2\. Automatic Information:
 
-**Web site usage information may be collected using various methods, such as the following:**
+  * We receive and store certain types of information whenever you interact with the Service. Zealot, and our authorized agents, automatically receive and record certain “traffic data” on server logs, including your IP address, cookie information, the page you requested, device and software characteristics (such as type and operating system), location, activity on the Service, ad data, referral URLs, device identifiers or other unique identifiers such as advertising identifiers (e.g., “ad-ID” or “IDFA”).
+  * This traffic data is used to help diagnose problems with servers, analyze trends and administer the Service.
+  * We may collect and, on any page, display the total counts that page has been viewed.
+  * Many companies offer programs that help you to visit or use the Service anonymously. While we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-**Cookies**  
-The Web Site uses standard technology called “cookies,” which are small data files that are transferred to your Device when you visit the Web Site if your browser is set to accept cookies. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you and allow you to personalize your experience on the Web Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies.
 
-**Web Beacons**  
-The Web Site and any communications sent by the Web Site may contain electronic images (generally, single-pixel “.gif” images) called “web beacons.” These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message, or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the Device that the web beacon is sent to and the time the web beacon was viewed.
 
-**Embedded Scripts**  
-An embedded script is programming code that is designed to collect information about your interactions with the Web Site, such as the links you click on. The code is temporarily downloaded onto your Device from our Web server or a third party service provider, is active only while you are connected to the Web Site, and is deactivated or deleted thereafter.
+**E-mail Communications**
 
-**IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT**
+We are very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. We may send out e-mails with Zealot-related news, products, offers, surveys or promotions.
 
-If you register to join the Web Site (“ **Member** “), you may be able to create a public profile that includes information such as your photo, username, city/state and other information that you choose to post publicly (“ **Profile** “). The Web Site may also publicly post information about your activity on the Web Site as a Member, such as when you post information, such as a blog entry or message board post, to the Web Site. 
+**Cookies and Similar Technologies**
 
-The Web Site may contain public areas to which you can contribute your original text and audio or video content, such as comments the message boards, blog comments areas, personal blog, online chat features, and the public portion of your Profile (collectively, “ **Public Areas** “).If you submit comments, message board posts, blog comments, votes, reviews, suggestions, chat messages, photographs, videos, audio recordings, music, text or other content other content to Public Areas (“ **User Content** “),  **it may be published online or offline in any media or format (currently existing or later developed)**. Other users of the Web Site will have access to your User Content and may have the ability to share it with third parties across the Internet, including through the use of Web Site features allowing users to share links to User Content with third party web sites (such as Blogger, Facebook, Twitter and similar sites). **Company may use your User Content, or any portion, for advertising, marketing, publicity and promotional activities. For the full terms and conditions regarding User Content you submit to the Web Site, please review the Web Site’s  Terms of Use**.  
- **  
-If you submit to Company and/or the Web Site any User Content including comments, message board posts, blog comments, votes, reviews, suggestions, chat messages, photographs, videos may be published online or offline (including, without limitation, on The Doctors Show, on a CD or DVD, or any other electronic or non-electronic media or format currently existing or later developed). We may publish your name, voice, likeness and other Personal Information in connection with publishing the User Content or any thereof, and we may use the User Content and any excerpt thereof in connection with advertising, marketing, publicity and promotional activities. For the full terms and conditions regarding User Content you submit to the Web Site, please review the Web Site’s  Terms of Use.**
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in the Service are visited and by how many people. Our cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or your screen name or e-mail address.
 
-You also may have the ability to interact and communicate other Members on the Site. Please use caution when interacting and communicating with people that you do not know personally. Please note that Company cannot ensure the security of any information you choose to make public and cannot ensure that parties who have access to such publicly available information will respect your privacy. Therefore, use caution when including Personal Information in User Content or a Public Area or any message that you send using the Web Site (for example, do not post your real name, e-mail address, phone number or physical address).  
- **  
-HOW WE USE THE INFORMATION COLLECTED**  
-Company may use information collected through the Web Site, including your Personal Information: (1) for use on or in connection with Web Site; (2) to process your registration with the Web Site, including verifying that your e-mail address is active and valid; (3) to provide you with information or services or process transactions that you have requested or agreed to receive; (4) to allow you to participate in the Public Areas and other features of the Web Site; (5) to improve the Web Site or our services and for internal business purposes; (6) to contact you with regard to your use of the Web Site and, in our discretion, changes to the Web Site policies; and (7) for purposes disclosed at the time you provide your Personal Information.
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of the coolest features of the Service.
 
-Please note that information submitted to the Web Site via the comments area or other similar mechanisms will not necessarily receive a response.
+In addition to cookies, we may use other technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails, to collect certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Content, the IP address of your computer, and the URL of the web page from which the Content was viewed.
 
-If you send a friend a communication from the Web Site, the information you provide (names, e-mail addresses, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain consent from that person.
+**Third Party Advertising and Statistics – Choices**
 
-**THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES**  
-The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site’s third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your Device if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party”s specific privacy policy, not this one.
+We use third-party advertising companies to serve ads when you visit or use the Service. These companies may use information (not including your name, address email address or telephone number) about your visits and use of the Service in order to provide advertisements about goods and services of interest to you. 
 
-**WITH WHOM INFORMATION MAY BE SHARED**  
-We do not share your Personal Information with third parties for those third parties’ marketing purposes unless you opt-in to such sharing at the time you provide your Personal Information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
+In addition, we allow third parties to monitor the Service for the purpose of reporting traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile aggregate and anonymous statistics about our users. 
 
-**Third parties providing services on our behalf**  
-We employ third parties to perform functions on our behalf; examples include hosting or operating the Web Site, sending e-mail and/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, and customer service. These third parties may have access to your Personal Information for the purpose of performing such functions on the Web Site’s behalf.
+**California Do Not Track Disclosures**
 
-**When You Agree To Receive Information From Third Parties**  
-You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your Personal Information shared, your Personal Information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
+We may also use tracking technologies to collect information about your visits over time and across third-party websites or other online services. **If you would like more information about this practice and to know your choices about not having this information used by these companies** **and to opt-out of most third-party tracking, you may go to:**
 
-**Sweepstakes, Contests and Promotions**  
-We may offer sweepstakes, contests, and other promotions (“Promotion”) through the Web Site that may require registration. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Also, by entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.
+[**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp) **or**
 
-**Business Transfers**  
-We may share your Personal Information with other entities affiliated with us for internal reasons primarily for business and operational purposes. Company or any of it assets, including the Web Site, may be sold, or other transactions may occur in which your Personal Information is one of the key business assets for the transaction. In such a case, your Personal Information may be one of the business assets we transfer. Hence, Company reserves the right to disclose and transfer user information, including Personal Information (i) to a subsequent owner, co-owner or operator of the Web Site or applicable database, or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of Company’s stock and/or assets, or other corporate change including, without limitation, during the course of any due diligence process.
+[**http://www.aboutads.info/choices**](http://www.aboutads.info/choices)
 
-**Legal Protections and Law Enforcement**  
-We may disclose information about our users, including your Personal Information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Site and applicable laws; or to protect the legal rights, interests, or safety of the Web Site, our users or others. We may also use Device Identifiers, including IP addresses, to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+**Sharing Your Information**
 
-**UPDATING YOUR INFORMATION AND OPTING OUT FROM EMAIL COMMUNICATIONS**  
-The Web Site may contain web pages through which you can correct or update some of the personal information you have provided to us through registration with the Web Site. With regard to e-mail newsletters and similar communications you may receive from us, you may tell us you no longer want to receive these emails from the Web Site by following the opt-out instructions provided to you in those communications. Please note that we reserve the right to send you certain communications relating to your account or use of the Web Site, such as administrative and services announcements and these transactional account messages may be unaffected if you choose to opt-out from marketing communications.
+We neither rent nor sell your personal information to anyone and we will share your personal information only as described below.
 
-**THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES**  
-When you are on the Web Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you “click” on a banner advertisement, the “click” may take you off the Web Site onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Site’s logo as part of a co-branding agreement. These other web sites may set their own cookies on your browser, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Site, you should consult that web site’s privacy policy before providing any Personal Information. Company is not responsible for the privacy practices employed by any third party web site.
+Personnel: Our personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of our business.
 
-**CONSENT TO TRANSFER**  
-The Web Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Web Site or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if the Service or Zealot, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-**SECURITY**  
-Company incorporates commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you submit via the Web Site, and you do so at your own risk.
+Protection of Zealot and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Service and other policies; or to protect the rights, property, or safety of Zealot, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-**A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**  
-The Web Site is a general audience web site. We do not knowingly collect any Personal Information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13).
+Syndication: We allow for the RSS syndication of public Content from the Service.
 
-**THIRD PARTY ADVERTISING**
+**Security of Your Information**
 
- We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and otherwebsites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
+Security Measures: We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
 
-**NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY**  
-By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy and those changes will become effective immediately upon posting. However, Company will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+No Security Guarantees: Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy Policy.
+
+**Children Under  13 Years of Age**
+
+The Service is not directed to children. You must be 13 years and older to register to use the Service. As a result, we do not knowingly collect information from children under the age of 13. If we learn that information has been collected from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using the Service or sending information about themselves or anyone else over the Internet.
+
+**California Privacy Rights**
+
+If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. California Business and Professions Code Section 22581 permits registered users who are minors to request and obtain deletion of certain posted content. To make any such requests, please send an email to legal@zealotnetworks.com or write us at:
+
+Zealot Networks, Inc.
+
+660 Venice Blvd.
+
+Venice, CA 90291
+
+Attn: California Privacy Rights
+
+**Changes to this  Privacy Policy**
+
+We may amend this Privacy Policy from time to time, at our sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on our website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+**Conditions of Use**
+
+If you decide to visit or use the Service, your visit and use and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](http://rumorfix.com/sample-page), including limitations on damages, arbitration of disputes, and application of California state law, and you consent to having your information or data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use the Service.
+
+**Contact Information**
+
+If you have any questions regarding this Privacy Policy, you may email us at legal@zealotnetworks.com or contact us by mail addressed to:
+
+  
+Zealot Networks, Inc.
+
+660 Venice Blvd.
+
+Venice, CA 90291
+
+**Effective Date of this  Privacy Policy**
+
+This Privacy Policy is effective as of June 24, 2011 and last updated October 20, 2015.
