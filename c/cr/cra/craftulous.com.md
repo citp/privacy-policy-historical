@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftulous.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530145841id_/http%3A//craftulous.com/privacy-policy-terms-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftulous.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231095950id_/http%3A//craftulous.com/privacy-policy-terms-service) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service - Craftulous
 
