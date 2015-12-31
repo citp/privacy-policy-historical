@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squline.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512225621id_/http%3A//squline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squline.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231220348id_/http%3A//squline.com/privacy-policy) for the most accurate reproduction.*
 
 # SquLine.com – Online Language Tutoring with Skype Anytime, Anywhere – Privacy Policy
 
