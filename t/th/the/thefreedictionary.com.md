@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111825id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231152206id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,11 +22,11 @@ We do not collect any personal information from a visitor to our sites unless th
 
 ### Subscriptions
 
-If you choose to subscribe to our premium products or services, we will request certain information from you such as your name, address, telephone number, e-mail address, and credit card information.
+If you choose to register for an account or subscribe to our premium products or services, we will request certain information from you such as your name, address, telephone number, e-mail address, and credit card information.
 
 ### Statistical Information about your Visit
 
-When you visit our sites, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather about your visit to our sites. We may monitor statistics such as how many people visit our sites, the user's IP address, which pages people visit on our sites, from which domains our visitors reach our sites, and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web sites.
+When you visit our sites, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather pertains to your visit to our sites. We may monitor statistics such as how many people visit our sites, the user's IP address, which pages people visit on our sites, from which domains our visitors reach our sites, and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web sites.
 
 ### Our Commitment to Children's Privacy
 
@@ -34,14 +34,26 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### Use of Cookies
 
-A "cookie" is a piece of information that our web sites send to your browser, which then is stored on your system. A user can use our web sites without cookies; however, our systems need cookies for premium content in order to identify you as a premium subscriber. You may disable or delete the cookies at any time. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender any personal or other information from your computer.
+A "cookie" is a small file that our websites send to your browser, which then is stored on your system. A user can use our web sites without cookies; however, our systems need cookies in order to identify you as a registered user or premium subscriber. By using our sites, products, or apps, you are granting us explicit consent to place cookies or other forms of tracking technology on your device. You may disable or delete the cookies at any time by accessing your browser's privacy settings. Many users prefer to use cookies in order to help them navigate a website as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender any personal or other information from your computer.
 
-To find more information about cookies: 
+To find more information about how to manage or delete cookies, consult the support page for your browser, such as: 
 
-* If you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291 
-* If you are using Netscape Navigator® as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies 
+  * Microsoft Internet Explorer:  
+<http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies>
+  * Mozilla Firefox:  
+<https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+  * Google Chrome:  
+<https://support.google.com/chrome/answer/95647?hl=en>
+  * Safari:  
+<https://support.apple.com/kb/PH17191> or  
+<https://support.apple.com/kb/PH19214>
+  * Opera:  
+<http://www.opera.com/help/tutorials/security/cookies/>
 
 We may use third-party advertising companies, such as Google, Yahoo!, Microsoft) to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+
+
 
 ### Disclosure by Law and Protection of Farlex
 
