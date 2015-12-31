@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the crmls.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145438id_/http%3A//crmls.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crmls.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231184315id_/http%3A//go.crmls.org/%23pp) for the most accurate reproduction.*
 
-# CRMLS Privacy Policy
-
-## California Regional Multiple Listing Service, Inc.   
-Privacy Policy
+# California Regional Multiple Listing Service
 
 ### About the Policy
 
@@ -25,7 +22,7 @@ CRMLS takes appropriate measures to ensure that any information collected is pro
 
 ### Cookies
 
-The Websites utilize Cookie technology to assist CRMLS in keeping track of the pages you visit while on the Websites. Cookies are small bits of information that can be transferred to your computer to identify your computer�s browser. When you visit the Websites, CRMLS may place one or more cookies on your computer. The use of cookies helps CRMLS improve the quality of the services provided to you. At any time, you have the ability to adjust your internet browser�s settings to not accept cookies. If you choose to disable the cookies, however, there is a chance that certain features of the Websites will not operate properly. 
+The Websites utilize Cookie technology to assist CRMLS in keeping track of the pages you visit while on the Websites. Cookies are small bits of information that can be transferred to your computer to identify your computer�s browser. When you visit the Websites, CRMLS may place one or more cookies on your computer. The use of cookies helps CRMLS improve the quality of the services provided to you. At any time, you have the ability to adjust your internet browser�s settings to not accept cookies. If you choose to disable the cookies, however, there is a chance that certain features of the Websites will not operate properly.
 
 ### Advertising
 
@@ -37,11 +34,11 @@ This Website is not directed to children under the age of 13, and we do not know
 
 ### Policy Changes
 
-CRMLS reserves the right to change or amend this Privacy Policy at any time with or without notice to you. 
+CRMLS reserves the right to change or amend this Privacy Policy at any time with or without notice to you.
 
 ### Comments and Questions
 
-If you have any comments or concerns about this Privacy Policy, please contact us by clicking here or by mail at: 
+If you have any comments or concerns about this Privacy Policy, please contact us by clicking here or by mail at: 
 
 legal@crmls.org  
 California Regional Multiple Listing Service, Inc.  
