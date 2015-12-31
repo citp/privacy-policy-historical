@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveawaysandglitter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607115743id_/http%3A//momdoesitall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawaysandglitter.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010101id_/http%3A//momdoesitall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom Does It All
 
@@ -61,4 +61,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://giveawaysandglitter.com  
 misteedawnw@aol.com
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support help desk software.
