@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystar.com.lb privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627113358id_/http%3A//dailystar.com.lb/Service.aspx%3Fname%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.com.lb privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231092257id_/http%3A//dailystar.com.lb/Service.aspx%3Fname%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | THE DAILY STAR
 
