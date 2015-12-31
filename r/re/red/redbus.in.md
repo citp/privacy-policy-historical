@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052633id_/http%3A//www.redbus.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010900id_/http%3A//www.redbus.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # redBus - Privacy policy
 
@@ -12,7 +12,7 @@ Our privacy policy is subject to change at any time without notice. To make sure
 
 By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20150622052633id_/http%3A//www.redbus.in/TermsAndConditions.aspx)
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20151231010900id_/http%3A//www.redbus.in/TermsAndConditions.aspx)
 
 #### 1\. Collection of Personally Identifiable Information and other Information
 
