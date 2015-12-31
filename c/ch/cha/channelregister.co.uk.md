@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626143617id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154121id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -71,7 +71,7 @@ We reserve the right to publish emails and letters sent to The Register. If the 
 
 ### Rackspace
 
-Rackspace host The Register's websites. [Privacy Policy](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
+Peer 1 hosts The Register's websites. It outlines its [regulatory responsibilities here.](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
 
 ### Data Protection
 
@@ -94,7 +94,8 @@ If you wish to contact Situation Publishing Limited regarding any aspect of the 
 ### By Post
 
 The Data Controller   
-Situation Publishing Limited Unit 1 Portland Street Trading Estate   
+Situation Publishing Limited   
+Unit 1 Portland Street Trading Estate   
 14 Portland Street   
 Southport PR8 1LJ
 
