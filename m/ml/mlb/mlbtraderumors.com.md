@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075925id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231032859id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
 
 # MLBTradeRumors.com Privacy Policy - MLB Trade Rumors
+
+By | August 31, 2007 at 11:59pm CST
 
 This is a **Dierkes Information Services, Inc.**  website.
 
