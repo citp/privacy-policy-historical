@@ -1,76 +1,73 @@
-> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214045640id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231202314id_/http%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Amateur, Voyeur & Exhibitionist PoseParty - The Sexiest Party On Earth
+# Privacy Policy • Project Voyeur
 
-##  PRIVACY STATEMENT 
+###  1\. GENERAL 
 
-We will not collect any personal or business information, nor store or share that information with any third party without your express permission. 
+1.1. The operative parties referred to in this policy are SharpeDezine, B.V. d/b/a projectvoyeur.com (hereinafter "SharpeDezine" or "Company") and You, the User of this Site.
 
-###  Why we need Information 
+1.1.1. SharpeDezine, B.V. is the operator of [www.projectvoyeur.com](https://web.archive.org/)
 
-When you visit our site you will receive explicit advice when we seek to gather information about you. The information you provide is used to produce your web page and any information you supply is displayed to the public on this page, unless otherwise stated. 
+Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to SharpeDezine, B.V.. d/b/a as the above Site, or as any other Site that We may choose to publish in the future. Additionally, when the terms "the Site" or "Site" are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.
 
-###  The Registration Process 
+1.1.2. You, the User – As the User of this Site, this policy will refer to the User as "You" or through any second-person pronouns, such as "Yours," etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
 
-The information harvested during the registration process is used to create your own unique identification as a site visitor/services user and enable us to undertake the various administration processes necessary. 
+1.2. This Privacy Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
 
-###  Your Unique Identification 
+###  2\. REVISIONS TO THIS POLICY 
 
-This identification is provided in the form of a member name and password. It is important that you keep this identification secret to avoid unauthorized use of your account. 
+2.1. We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this Web page and using the "refresh" button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "Last Modified" date remains unchanged after You have clicked the "refresh" button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed "Last Modified" date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
-###  How we use your Information 
+### 3\. PERSONAL INFORMATION THAT WE COLLECT
 
-The information we collect about you or your business enables us to: 
+Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows:
 
-  * understand your needs 
-  * improve our service to you 
-  * stay in touch with you through other media as you require 
-  * deliver goods and services to the addresses you have provided 
-  * enhance and refine existing information we may have acquired from other sources 
-  * complete the internal administration necessary to register you and maintain our service to you 
+3.1. Members - Members are those Users who subscribe to Our services. Should You choose to become a Member We will require a valid email address for registration and creation of a username and password. Additionally, to obtain a Project Voyeur Premium Account, We may require Your name, a valid email address, credit card information with a physical address, and any information that We, in Our sole discretion, feel is necessary to create a suitable account.
 
+3.2. Browsers - Browsers are visitors to the Site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses, Referral URLs, and other passive information gathering devices.
 
+### 4\. HOW WE COLLECT INFORMATION FROM YOU
 
-###  How do you know if we are gathering Information? 
+4.1. Passive Collection – We use cookies to collect information about You in order to enhance Your experience on the Site and for various statistical purposes. The information collected in Referral URLs, Our cookies and other passive information gathering activities includes, but is not limited to, Your User IP address, Your browser, and Your geographic location.
 
-Detailed information about you is only collected when you are advised explicitly that is what we are doing and you supply it voluntarily. 
+4.2. Active Collection – We collect information from You when You complete the initial registration and/or membership subscription to Our Site. Please see above provisions 3.1-3.2
 
-###  Sharing Information 
+### 5\. HOW WE USE YOUR INFORMATION
 
-PoseParty.Com does not share your information with any sub-contractors or third parties. We do however encourage you to look at the privacy statements of our billing agents, Epoch and CCBill. 
+5.1. The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to improve User experience or to customize the use of Our Site for an aggregate group of customers.
 
-###  Checking Information 
+5.2. We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription or other services, if applicable. We also use Your information for market research purposes – in order to increase Your (and other Users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing/statistical purposes.
 
-You can check the accuracy of our records and make modifications at any time in the 'My Account' settings area. 
+5.3. We may provide, at Our sole discretion, Your registration information to third parties as a means of marketing and/or advertising.
 
-###  Deleting Information 
+### 6\. SPECIAL CASES
 
-You can immediately delete any information we hold about you by using the facilities in My Account. But please remember that deletion of key information may affect your status as a registered user. 
+It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the Services or websites accessible through Our Services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including, but not limited to:
 
-###  Legal Disclosure 
+6.1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
 
-When approached by the appropriate authorities, information about you, your business or account usage may be disclosed but only when legally required under European Law. 
+6.2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our User Agreement or other User policies;
 
-###  Payment Encryption Technology 
+6.3. To operate Our Services properly;
 
-To maintain the highest security we use the services of Epoch and CCBill, both very technologically advanced billing agents who use state-of-the-art 128 bit encyption techniques. 
+6.4. To protect Ourselves, Our Members, and the general public. We will always cooperate with law enforcement authorities when legally compelled to do so. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
-###  Hackers and Viruses 
+6.5. Private-party litigants, governmental administrative or regulatory agencies, and investigative reporters or journalists will not be cooperated with unless We have been legally advised to do so.
 
-Your registration details are very important - please keep your password and member name secret. It is better for other users to register separately than to share your account access information. We will never write to ask for your login details - be cautious of anyone asking for this information. 
+6.6. If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder. We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility. However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information.
 
-###  Automated Collection of Other Information 
+### 7\. TRANSMITTALS FROM US
 
-Some non-personal information may be collected automatically, such as the computer operating system and the type of browser software you are using, along with special codes that tell us which pages you have visited. Some information is stored in the form of a 'cookie', a small file which remains on your computer but which acts as a reminder about any preferences you have selected when visiting our sites. We only use 'cookies' to improve our service to you. We may also store your log in details on your computer, but only if you explicitly request us to do so. Remember that if you opt for us to do this, any other user of the same computer can access your account. You can delete this 'cookie' by clicking the Log Out link at the top of any page. 
+We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting help@projectvoyeur.com or by clicking the opt-out link at the bottom of these emails, if applicable. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. For example, We may send You messages in response to a lost password request, when other members contact You via the Site's services, or for other reasons associated with the features of the Site. If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
 
-###  Switching Cookies Off 
+### 8\. OUR COMMITMENT TO DATA SECURITY
 
-Cookies are required in order to become a member of PoseParty, or to use the PoseParty Services. 
+We take various measures to protect the transmission of all sensitive end-User information. We make every effort to ensure the integrity and security of Our network and systems by storing User data in an secure encrypted network database. We do not have access to this data unless requested by authorized personnel for specific legal or billing reasons. Only Your provided name and email address will be retained in-house for confirmation purposes. Nevertheless, We cannot guarantee that Our security measures will prevent third-party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals We are unable to guarantee that Our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
 
-###  Changes to our Privacy Promise 
+### 9\. HOW TO ACCESS OR MODIFY YOUR INFORMATION
 
-We reserve the right to change this statement at any time without warning to meet any statutory requirements or changes in the nature of our activities and services. This privacy statement does not form the basis of any contract between any party. 
+We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, [contact Our Customer Service Department](https://web.archive.org/pages/contact.php)
 
-###  Protect your Privacy 
+### 10\. WHERE TO DIRECT QUESTIONS ABOUT OUR PRIVACY POLICY
 
-We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes. 
+If You have any questions about this Privacy Policy or the practices described herein, please [contact us](https://web.archive.org/pages/contact.php)
