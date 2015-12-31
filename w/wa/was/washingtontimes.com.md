@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626102741id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231202233id_/http%3A//washingtontimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Times
 
-**Effective Date: February 25, 2015**
+## Privacy Policy
+
+ **Effective Date: February 25, 2015**
 
 The Washington Times LLC (“TWT”, “we” or “us”) recognizes the importance of protecting the information it collects from users in the operation of its Web site, washingtontimes.com (“TWT’s Web site”) as well as other activities. As such, TWT takes reasonable steps to maintain the security, integrity and privacy of this information.
 
