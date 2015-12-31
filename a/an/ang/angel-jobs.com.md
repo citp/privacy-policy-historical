@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the angel-jobs.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429055347id_/http%3A//www.angel-jobs.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel-jobs.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124329id_/http%3A//www.angel-jobs.com/Footer/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | angel-jobs.com
+# 
 
-**Privacy Policy**
+**Introduction**
 
-**Introduction**  
 We, at Angel-Jobs.com, value the privacy of its user and are committed to respect your need for appropriate protection and management of any personally identifiable information inclusive of first name, last name, home or other physical address and an email address or other contact information, whether at work or at home but not limited to. With a view to offer most enriching and holistic internet experience to its users, Angel-Jobs.com is too stringent in concealing all the personal information that you share with us.
 
 By utilizing our website or its services, in either case by logging or registering, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
@@ -60,7 +59,8 @@ The Site uses technology from Google Analytics through which data is collected a
 
 
 
-**Updating of Privacy Policy**  
+**Updating of Privacy Policy**
+
 However the internet is a dynamic process, Angel-Jobs.com reserves the right to update, change or modify the privacy policy from time to time to incorporate necessary future changes. Obviously, our use of any information we gather, will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
 **Disclaimer**
@@ -75,13 +75,13 @@ Angel-Jobs.com invites your comments regarding this privacy statement at the con
 
 We request you to please provide the following information in your complaint:-
 
-  *  A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint
-  *  Identification of the copyrighted work claimed to have been infringed.
-  *  Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
-  *  The address, telephone number or e-mail address of the complaining party
-  *  A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
-  *  A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
+  * A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint
+  * Identification of the copyrighted work claimed to have been infringed.
+  * Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+  * The address, telephone number or e-mail address of the complaining party
+  * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+  * A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 
 
-Note: The terms in this agreement may be changed by Angel-Jobs.com at any time and is free to offer its services to any client/prospective client without restriction.
+**Note:** The terms in this agreement may be changed by Angel-Jobs.com at any time and is free to offer its services to any client/prospective client without restriction.
