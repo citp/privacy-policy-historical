@@ -1,43 +1,80 @@
-> *The following text is extracted and transformed from the localizermethod.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522200312id_/http%3A//localincomesystem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localizermethod.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | Local Income System
+# HugeDomains.com - Privacy Policy
 
-(Last Revised: 2/28/12)
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
+**What information do we collect?**
 
-## Information We Collect
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We will only use your personal information for the following purposes: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; and (4) to reach you, when necessary, regarding your use of the web site or product(s).
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We will NEVER share your information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. By permitting us to collect this information, you will be able to receive free information on products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
+**What do we use your information for?**
 
-In addition, you agree that by submitting your email address on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
+Any of the information we collect from you may be used in one of the following ways: 
 
-## Third Party Actions
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We do not control and are not liable for the actions of any third parties who we may promote. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-## Cookies
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We may use cookies to deliver content that is specific to your interests. Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site.
+• To process transactions
 
-## IP Addresses
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
+• To send periodic emails
 
-## Third Party Web Sites
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-## Commitment to Data Security
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-All information collected from you is stored in a technically and physically secure environment. We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
+**How do we protect your information?**
 
-## Contacting Us
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-If you need to contact us, you can use our support ticket system below:
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-https://vipersupport.zendesk.com/
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us.
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
