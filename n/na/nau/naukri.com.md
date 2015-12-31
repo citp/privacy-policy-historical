@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510225709id_/http%3A//jobsearch.naukri.com/mynaukri/mn_privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231132503id_/http%3A//jobsearch.naukri.com/mynaukri/mn_privacypolicy.php) for the most accurate reproduction.*
 
-# My Naukri
+# Privacy Policy - Naukri.com
 
 **Introduction**
 
-We, at 'Info Edge India Limited' and our affiliated companies worldwide, are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
+We, at 'Info Edge India Limited' and our affiliated companies worldwide, are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. In order to provide a personalised browsing experience, Naukri.com may collect information from you, this may include technical or other related information from the device used to access Naukri.com including without limitation contact lists in your device and its location, you may also be asked to complete a registration form. When you let us have your preferences, we will be able to deliver or allow you to access the most relevant information that meets your end. 
 
-"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Info Edge India Limited's Web pages without telling us who you are or revealing any Personal Information about yourself. 
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Info Edge India Limited's web pages without telling us who you are or revealing any Personal Information about yourself. 
 
 **Cookies and Other Tracking Technologies**
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+Some of our web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about activity on the web site. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the web site. 
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
+Tracking technologies may record information such as internet domain and host names; internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our web site and your web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
 
 **Third Party Services**
 
-Third parties provide certain services available on www.naukri.com on Info Edge India Limited's behalf. 'Info Edge India Limited' may provide information, including Personal Information, that 'Info Edge India Limited' collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which 'Info Edge India Limited' maintains its Web site and mailing lists. 'Info Edge India Limited' will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Info Edge India Limited's behalf. 
+Third parties provide certain services available on www.naukri.com on Info Edge India Limited's behalf. 'Info Edge India Limited' may provide information, including Personal Information, that 'Info Edge India Limited' collects on the web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which 'Info Edge India Limited' maintains its web sites and mailing lists. 'Info Edge India Limited' will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Info Edge India Limited's behalf. 
 
 'Info Edge India Limited' does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Info Edge India Limited's behalf unless such transfer is legally required. Similarly, it is against Info Edge India Limited's policy to sell Personal Information collected online without consent. 
 
 **Your Consent**
 
-By using this Web site, you consent to the terms of our Online Privacy Policy and to Info Edge India Limited's processing of Personal Information for the purposes given above as well as those explained where 'Info Edge India Limited' collects Personal Information on the Web. 
+By using this web site, you consent to the terms of our online Privacy Policy and to Info Edge India Limited's processing of Personal Information for the purposes given above as well as those explained where 'Info Edge India Limited' collects Personal Information on the web. 
 
 **Information security**
 
@@ -61,7 +61,7 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 **Confidentiality and Security**
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * " We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and Rules made thereunder to ensure the protection and preservation of your privacy. 
+  * " We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. We seek to ensure compliance with the requirements of the Information Technology Act, 2000 as amended and rules made thereunder to ensure the protection and preservation of your privacy. 
 
 
 
@@ -69,9 +69,9 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 'Info Edge India Limited' reserves the right to update, change or modify this policy at any time. The policy shall come to effect from the date of such update, change or modification. 
 
-**Disclaimer** Info Edge India Ltd does not store or keep credit card data in a location that is accessible via the Internet. Once a credit card transaction has been completed, all credit card data is moved off-line only to ensure that the data/credit card information received is not accessible to anyone after completion of the on-line transaction and to ensure the maximum security. Info Edge India Ltd uses the maximum care as is possible to ensure that all or any data / information in respect of electronic transfer of money does not fall in the wrong hands. 
+**Disclaimer** Info Edge India Limited uses the maximum care as is possible to ensure that all or any data / information in respect of electronic transfer of money does not fall in the wrong hands. For completing online transactions involving payments a user is directed to a secured payment gateway, Info Edge India Ltd does not store or keep financial data such as credit card numbers/passwords/PINs etc "Personal Account Related Information". Since the transaction happens on a third party network not controlled by Info Edge India Limited, once an online transaction has been completed, the Personal Account Related Information is not accessible to anyone at Info Edge (India) Limited after completion of the on-line transaction at the payment gateway, this ensures maximum security. 
 
-Info Edge India Ltd shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise. 
+Info Edge India Limited shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise. 
 
 **Contact Information** 'Info Edge India Limited' welcomes your comments regarding this privacy statement at the contact address given at the website. Should there be any concerns about contravention of this Privacy Policy, 'Info Edge India Limited' will employ all commercially reasonable efforts to address the same. 
 
