@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzfeed.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623222710id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzfeed.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231195125id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ When you visit the Site, we may also collect information about your online activ
 
 Location Data:
 
-Some of our Services, such as mobile applications, may collect geo-location data to provide location-related functionality. We may link location data to other information we have collected about you. You may stop sharing your location data by adjusting your mobile deviceâs location services settings. For instruction on changing the relevant settings, please contact your service provider or device manufacturer.
+Some of our Services, such as mobile applications, may collect geo-location data to provide location-related functionality. We may link location data to other information we have collected about you. You may stop sharing your location data by adjusting your mobile device’s location services settings. For instruction on changing the relevant settings, please contact your service provider or device manufacturer.
 
 Email Communications:
 
@@ -150,4 +150,4 @@ If you have any questions or concerns regarding privacy using the Services, plea
 
 Effective Date: 10-27-2014
 
-[Read this in French](https://web.archive.org/about/privacy-fr) | [Read this in German](https://web.archive.org/about/privacy-de) | [Read this in Spanish](https://web.archive.org/about/privacy-es) | [Read this in Portuguese](https://web.archive.org/about/privacy-pt)
+[Read this in French](https://web.archive.org/about/privacy?country=fr-fr) | [Read this in German](https://web.archive.org/about/privacy?country=de-de) | [Read this in Spanish](https://web.archive.org/about/privacy?country=es) | [Read this in Portuguese](https://web.archive.org/about/privacy?country=pt-br) | [Read this in Japanese](https://web.archive.org/about/privacy?country=ja-jp)
