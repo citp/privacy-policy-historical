@@ -1,11 +1,56 @@
-> *The following text is extracted and transformed from the gsmarena.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629082504id_/http%3A//www.gsmarena.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarena.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231155257id_/http%3A//www.gsmarena.com/privacy.php3) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArena.com
 
-GSMArena.com takes privacy issues very seriously. Submission of personal information is not required in order to browse the website. We use demographic and traffic information of our users only to analyze the readers community and may also provide it to potential advertisers and business partners. This does not include personal reader information. Submission of this information on GSMArena.com is always optional and will never be provided to third parties.
+### Privacy information
 
-To ensure that users email addresses will not get in any bulk mail lists or newsletters, we at GSMArena modify the addresses so any email collecting scripts will not be able to gather them. Besides that, only in the Forum section of the website it is obligatory for the user to provide an email address in order to complete the registration. The Forum section (software by phpBB) requires certain user information in order to take full advantage of the software features. This information will never be provided to third parties.
+We at GSMArena.com take privacy very seriously. We would never disclose your personal information to third parties or use it for bulk mail lists or newsletters. 
 
-#### Third Party Ad Servers
+Submission of personal information is not required in order to browse our website and we strongly urge you NOT to disclose any of your personal addresses, emails or phone numbers when interacting with our readers in the comments sections. 
 
-We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer [web site](http://www.networkadvertising.org/managing/opt_out.asp).
+When you register an account at our website and you log in with either your Facebook or Google account, we never store your login data, your name or email address - the login verification is performed directly by Facebook or Google. We also don't get any information about your social network contacts or any right for posting to your Facebook timeline. 
+
+You should however be aware that we record data about your visit to our website for statistical purposes. We only collect that to analyze our audience and we may provide this analysis to our potential advertisers and business partners. 
+
+The data we collect is not personally identifiable regardless of whether you are a registered user or not. Every computer and device connected to the Internet is assigned an Internet Protocol (IP) address. IP address can often be used to identify your country, state, and city and we may process that information for statistical purposes with the goal of understanding from where in the world you are coming from (also known as "IP geolocation"). 
+
+### Our cookie policy
+
+In compliance with the European Union legislation, we inform you that our website GSMArena.com will store some information about your preferences how the website looks and operates on your own computer inside a tiny file called a 'cookie'. 
+
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to "remember" your actions or preferences over time. 
+
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work. 
+
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called [aboutcookies.org](http://aboutcookies.org/) has been setup to help you with instructions how you can do that on various browsers. 
+
+We use cookies to: 
+
+  * identify you as a returning user and to count your visits in our traffic statistics analysis; 
+  * remember your custom display preferences; 
+  * suggest the last phones you've searched for in our Phone search field; 
+  * other usability features including tracking whether you've already given your consent to cookies 
+
+
+
+Enabling cookies from GSMarena.com is not strictly necessary for the website to work but it will provide you with a better browsing experience. 
+
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here. 
+
+There may also be other types of cookies created after you've visited our website. 
+
+We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyse how users use the site. It counts the number of visitors and tells us things about their behaviour overall - such as the typical length of stay on the site or the average number of pages a user views. 
+
+The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. 
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google undertakes not to associate your IP address with any other data held by Google. 
+
+### Third Party Ad Servers
+
+We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other web sites in order to provide you with relevant advertisements about goods and services. 
+
+These companies may employ cookies and other identifiers to measure advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message. 
+
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://www.networkadvertising.org/choices/). 
+
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology. 
