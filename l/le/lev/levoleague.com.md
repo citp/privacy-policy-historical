@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the levoleague.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053632id_/http%3A//www.levo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levoleague.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231035126id_/http%3A//www.levo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ~ Levo League
+# Privacy Policy - Levo
 
 The Levo League Corporation is committed to maintaining robust privacy protections for its users. Our Privacy Policy ("Privacy Policy") is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site or our Service. For purposes of this Agreement, "Site" refers to www.levoleague.com and "Service" refers to our service designed to provide content and services targeting Generation Y women. The terms "Levo League," "we," "us," and "our" refer to The Levo League Corporation, a Delaware limited liability corporation. "You" refers to you, as a user of the Site or the Service. By accepting our Privacy Policy and Terms of Use (found here: [www.levoleague.com/terms](https://web.archive.org/terms)) ("Terms of Use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.
 
