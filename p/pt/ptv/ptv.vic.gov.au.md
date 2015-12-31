@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626120642id_/http%3A//ptv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231034545id_/http%3A//ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
@@ -203,10 +203,10 @@ Melbourne VIC 3000
 People can also contact the Commissioner for Privacy and Data Protection for more information or to raise certain complaints about privacy matters and regulation in Victoria.
 
 **Privacy and Data Protection **Victoria**  
-Level 6, 121 Exhibition Street  
+** Level 6, 121 Exhibition Street  
 Melbourne VIC 3000  
 GPO Box 24014  
-Melbourne VIC 3001  
- **Telephone:** 1300 666 444  
- **Facsimile:** 1300 666 445  
- **Email:**[enquiries@privacy.vic.gov.au](mailto:enquiries@privacy.vic.gov.au "Email to Privacy and Data Protection Victoria")**
+Melbourne VIC 3001 **  
+ **Telephone:**** 1300 666 444 **  
+ **Facsimile:** **1300 666 445 **  
+ **Email:****[enquiries@privacy.vic.gov.au](mailto:enquiries@privacy.vic.gov.au "Email to Privacy and Data Protection Victoria")
