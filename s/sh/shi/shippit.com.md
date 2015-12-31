@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shippit.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618014508id_/http%3A//www.shippit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shippit.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231071209id_/http%3A//www.shippit.com/privacy) for the most accurate reproduction.*
 
 # Shippit
 
