@@ -1,43 +1,80 @@
-> *The following text is extracted and transformed from the iseostats.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142014id_/http%3A//www.iseostats.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseostats.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Free SEO Stats And Website Valuation
+# HugeDomains.com - Privacy Policy
 
-Iseostats, Inc. provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the iseostats.com website located at http://iseostats.com (website) and any services or software offered by iseostats.com. This Privacy Policy applies only to information provided to us by users through Iseostats.com
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-## Information - What We Collect and How We Use It
+**What information do we collect?**
 
-### What we collect
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-When you submit information for publication on our Website, all information supplied will be available to the public. Please exercise caution when supplying personally identifying information. Avoid posting your email address and phone number within the post message.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-In the course of using Iseostats.com, some of what we will ask you for is considered "Personal Information". This term refers to personally identifiable information about you that can be used to contact or identify you. Such Personal Information typically includes but is not limited to your name, phone number, email address, credit card or other billing information, and home and business postal addresses.
+**What do we use your information for?**
 
-We may also ask for other information, such as your zip code and personal preferences, which is typically considered "Non-Identifying Information" since it can't be used to identify you on its own. Sometimes Non-Identifying Information can be considered part of your Personal Information if it is combined in such a way that it enables you to be identified (for example, combining your zip code with your street address).
+Any of the information we collect from you may be used in one of the following ways: 
 
-Like most other Internet sites, we use cookies to personalize and enhance your experience on our sites. No personal information is gathered via the cookies.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies are necessary to provide you with certain website features.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-### Links to third party Web sites
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Our sites offer hyperlinks to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies, practices, or the content of any third party Web sites. Once you've left our Web sites via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any information they collect from you.
+• To process transactions
 
-### Third party advertising
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We may use third-party advertising companies to serve ads on our Web sites. These companies may use cookies, pixel tags, or otherwise independently collect non-personally identifiable information from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+• To send periodic emails
 
-### Security
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Iseostats.com is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-### Phishing
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Iseostats.com is concerned about identity theft and the practice currently known as "phishing". We treat safeguarding your Personal Information as a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited email or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+**How do we protect your information?**
 
-### Privacy Policy Changes
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-### Questions and comments
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Questions regarding this privacy statement should be submitted via the feedback form.
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
