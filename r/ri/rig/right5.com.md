@@ -1,70 +1,80 @@
-> *The following text is extracted and transformed from the right5.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623054338id_/http%3A//www.banggood.com/Security-And-Privacy_hl34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the right5.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Security & Privacy - Help Center - Banggood.com
+# HugeDomains.com - Privacy Policy
 
-### Security & Privacy
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-  * Security & Privacy
-  * Information Protection
-  * Protected Information Includes:
-  * Collected Information Includes:
-  * The Collected Information Use
-  * About Links
-  * Notification of Changes
-  * About Banggood Newsletter
-  * Questions or Concerns
+**What information do we collect?**
 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-## Security & Privacy
+**What do we use your information for?**
 
-In order to protect your personal information when doing business with us, Banggood.com has established **Security & Privacy** to help you.
+Any of the information we collect from you may be used in one of the following ways: 
 
-## Information Protection
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Your personal information is protected by Banggood.com. When you submit sensitive information via the website, your information is protected both online and offline. The policy of allowing access to this Personal Information is only to our staff with a need to know. Banggood.com is the sole owner of information collected on this site and we guarantee that we will not sell, share, or rent your information to any outside parties.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-## Protected Information Includes:
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Registered email/ password /nickname/ IP address/ the date and time/ browser and operating system/ the URL you requested/ your PayPal email / your PayPal shipping address and other information. 
+• To process transactions
 
-**Note** : No one other than yourself can access your password, including our staff.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-## Collected Information Includes:
+• To send periodic emails
 
-1.When you browse our website, we may collect your IP address, browser and operating system, and the URL you request.  
-2.When you order on our website, we may collect the registered email, password, nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email and your PayPal shipping address.  
-3.When we have more cooperation, we may collect more information, for example, phone number, your website, MSN, your reviews and testimonials etc.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-## The Collected Information Use
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-1.We need the information to process your orders and offer a better service to you.  
-2.We want to make it easier to tailor our products and services to your particular needs.   
-3.We want you to have the most enjoyable internet and shopping experience.  
-4.This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-## About Links
+**How do we protect your information?**
 
-Our website contains links to other sites (like tracking web). Please be aware that Banggood.com is not responsible for the privacy practices of other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-## Notification of Changes
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy & Policy available on the website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-## About Banggood Newsletter
+**Do we use cookies?**
 
-Banggood Newsletter will be sent out regularly with the latest updates on new arrivals, recent hot deals, special offers and bargains, as well as exclusive coupons and discounts to our email subscribers. We respect your privacy and will not disclose your details to any third party.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-If you no longer want to receive our newsletter, you can click the unsubscribe link.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-## Questions or Concerns
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or through the following methods:  
- **Tel** : (+0852)-35903678     
-**Email** : [cservice@banggood.com.](mailto:cservice@banggood.com)  
-Contact Address:  
-15/F ,RADIO CITY,  
-505 HENNESSY RD,  
-CAUSEWAY BAY,  
-HK  
-0852-35903678(Office time: 8:00pm to 4:00am)
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
