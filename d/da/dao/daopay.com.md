@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121131836id_/http%3A//www.daopay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231043944id_/http%3A//www.daopay.com/privacy-policy) for the most accurate reproduction.*
 
 # daopay.com - Privacy Policy
 
 We, DaoPay GmbH, appreciate the confidence you place in us by sharing your information with us. We apply greatest care for the protection of your information. In the following we are providing an overview of how we gather, process, and protect your information.
 
-This Privacy Policy covers all personal information which we may collect when you visit our website ([www.daopay.com](http://www.daopay.com/)), use the payment service “DaoPay” or contact our customer support.
+This Privacy Policy covers all personal information which we may collect when you visit our website (www.daopay.com), use the payment service “DaoPay” or contact our customer support.
 
 1\. Personal information
 
@@ -22,7 +22,7 @@ At any rate, we utilize personal information only to the extent it is permitted 
 
 We utilize personal information for the following purposes: processing, billing and controlling payment transactions, providing customer support, assuring the best service possible as well as prevention of fraud and abuse.
 
-We do not share personal information with any third party without your consent. However, we may disclose some or all of the personal information to our contractual merchants and service providers (like telecom carriers) for the purposes of processing requested transactions or handling complaints, or to state authorities as permitted or required by law.
+We do not share your personal information with any third party without your consent except if required for the purposes of processing requested transactions, statistical handling,  handling complaints, for  the customer protection purposes to state authorities or any third party (in particular our contractual merchants and service providers (like telecom carriers).
 
 4\. Protection and security of personal information
 
