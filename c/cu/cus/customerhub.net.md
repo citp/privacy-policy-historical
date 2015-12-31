@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customerhub.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624090052id_/http%3A//www.infusionsoft.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerhub.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231180321id_/http%3A//www.infusionsoft.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Infusionsoft® Privacy Policy | Infusionsoft
+# 
 
 We at Infusion Software, Inc. ("Infusionsoft" or "we" or "us" or "our") know that your privacy is important. This privacy policy ("Policy") is designed to assist you in understanding how we will collect and use the information you provide when you use (i) our publicly available websites (the "Sites") and (ii) the Infusionsoft Mobile and other add-on applications (e.g., Infusionsoft Mobile for iOS®, Infusionsoft Mobile for Android™, etc.) ("Apps") and other related services on which we post a direct link to this privacy policy (together with Apps, the "Services").
 
