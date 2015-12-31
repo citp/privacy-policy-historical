@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000254id_/http%3A//www.autofurnish.com/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154600id_/http%3A//www.autofurnish.com/privacyinfo) for the most accurate reproduction.*
 
-# Autofurnish.com – Buy Online Auto Accessories, Audio Systems, Car Perfumes, Bike Gears & Car Care Products | Autofurnish. Privacy Policy
+# Buy online auto accessories, car accessories, car body covers, car seat covers. Privacy Policy
 
 Auto Furnish is committed to safeguarding your privacy and we understand the importance you place on the privacy and security of your Identifiable Information. "Identifiable Information" means, as the term suggests, information that identifies you, including name, address, telephone number or e-mail address and financial information that is collected by Auto Furnish through this website.
 
