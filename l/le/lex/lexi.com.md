@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408050235id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231080501id_/http%3A//www.wolterskluwercdi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Lexicomp
+# Privacy Statement | Clinical Drug Information
 
-This Privacy Statement relates solely to the online information collection and use practices of our website located at www.lexi.com. We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time at Wolters Kluwer Clinical Drug Information's sole discretion, has been developed to address those concerns.
+This Privacy Statement relates solely to the online information collection and use practices of our website located at www.wolterskluwercdi.com. We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time at Wolters Kluwer Clinical Drug Information's sole discretion, has been developed to address those concerns.
 
 By your use of this Website you explicitly warrant to Wolters Kluwer Clinical Drug Information that you have read and that you accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact us.
 
@@ -22,7 +22,7 @@ Should you decide, you can, of course, disable cookies on your computer by indic
 
 ## How do we use the information we collect?
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features, or services. If you no longer wish to receive press releases or any other type of information from us, you must [contact us](https://web.archive.org/home/contact/).
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features, or services. If you no longer wish to receive press releases or any other type of information from us, you must [contact us](https://web.archive.org/contact/).
 
 We use non-identifying information collected on our Website in the aggregate to better understand the use of the Website and to enhance your experience. For example, we may use the information to improve the design and content of our Website or to analyze the programs and services that we offer.
 
@@ -34,7 +34,7 @@ We will not share your personally identifiable information in ways unrelated to 
 
 ## How do you access and/or modify your information or choices?
 
-If you visit our Website and volunteer personally identifiable information, you may modify, update, or delete such information at any time by [contacting us](https://web.archive.org/home/contact/). In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Website.
+If you visit our Website and volunteer personally identifiable information, you may modify, update, or delete such information at any time by [contacting us](https://web.archive.org/contact/). In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Website.
 
 ## Privacy Protection for Children Using the Internet
 
