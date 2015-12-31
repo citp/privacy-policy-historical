@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the zovi.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052511id_/http%3A//zovi.com/fineprint%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zovi.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010241id_/http%3A//zovi.com/fineprint%23privacypolicy) for the most accurate reproduction.*
 
-# 
+# Online Shopping - Clothes, Shoes, Accessories at Zovi.com - Online Fashion Store.
 
   * ZOVI Privacy Policy
   * Terms and Conditions
-  * Sale T&C
+  * Sale  T&C
 
 
 
 We value the trust you place in ZOVI.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.  
 
 
-__Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
 **1\. Collection of Personally Identifiable Information** We collect personally identifiable information (email address, name,phone number, etc.) from you when you set up an account with ZOVI.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
@@ -59,7 +59,9 @@ We as a merchant shall be under no liability whatsoever in respect of any loss o
 
   1. No other offer/coupon or zovi cash will be applicable along with this offer
   2. Free shipping is applicable only on orders of Rs.599/- & above. 
-  3. We offer a 30 day return policy, however returned products should be unsoiled and all tags need to be intact
-  4. Terms of this offer is subject to change without prior notice
+  3. Min cart value to make a purchase on Zovi is Rs.399 
+  4. We offer a 30 day return policy, however returned products should be unsoiled and all tags need to be intact
+  5. Terms of this offer is subject to change without prior notice
+  6. *Max discount applicable on any product is up to 50% on the MRP
 
 
