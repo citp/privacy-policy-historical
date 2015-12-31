@@ -1,100 +1,55 @@
-> *The following text is extracted and transformed from the starwipe.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwipe.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231114352id_/http%3A//www.theonion.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - The Onion - America's Finest News Source
 
-**Go Daddy Respects Your Privacy**
+Welcome to The Onion. Onion, Inc., producer of The Onion, A.V. Club and The Onion Websites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you’re concerned about protecting your privacy online. This Privacy Policy explains what information we collect about you and how we use that information. In this Privacy Policy, “The Onion Websites” or “the Websites” means the websites associated with the domain names theonion.com and avclub.com. “The Services” means all the services offered in conjunction with the Websites, except the services offered through The Onion personals at personals.theonion.com. [Click here] to access the Privacy Policy associated with The Onion personals. “The Onion” means Onion, Inc., the owner of the Websites and the provider of the Services. The term “Personal Data” refers to personally identifiable information about you, such as your full name, birth date, e-mail address or mailing address, phone number and any other information that can be used to identify or contact you. By using The Onion Websites, you consent to the practices outlined in this Privacy Policy. The Onion reserves the right to change this Privacy Policy, and if we do, any such changes will be included on this page so current privacy information will always be available to you. We encourage you check this page periodically.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+#### No Collection of Personal Data from Children under 13.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We recognize the need to provide additional privacy protections for the Personal Data of children under 13. The Children’s Online Privacy and Protection Act (“COPPA”) requires general audience website operators to obtain a parent’s prior consent if they are knowingly collecting, using or disclosing any Personal Data from a child under 13. The Onion Websites are not directed to or intended to be used by children under 13 (or under 18 for that matter), and The Onion does not knowingly collect, use or disclose any Personal Data from children under 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@theonion.com](mailto:legal@theonion.com).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#### Personal Data Collected.
 
-**Information Collection and Use**
+The only Personal Data The Onion currently collects through the The Onion Websites is the Personal Data that you voluntarily provide to The Onion. For example, all users must first create a member account in order to access certain features of the The Onion Websites. To create the account, you must enter Personal Data, such as your full name and email address. Users must also enter Personal Data, such as full name, address, phone number, email address, and credit card information to complete sales transactions in the The Onion store. Users of the social networking features on The Onion Websites may also enter Personal Data to create a social networking page and user profile. The information on the social networking page and the user profile, including any Personal Data, will also be available to other users of The Onion Websites.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Instead of creating new account information for The Onion Websites, users may choose to use their existing “facebook” personal account information. If you choose to use facebook account information to gain access to The Onion Websites, The Onion will then be able to read and access all of your information, including Personal Data, posted on the www.facebook.com website.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Other data that does not qualify as Personal Data because it cannot be used to contact or identify you (“Non-Personal Data”) may also be collected when a user participates in certain features of the The Onion Websites, or may be automatically collected about you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+For example, The Onion uses technology to automatically collect Non-Personal Data about the use of the The Onion Websites. This technology is used to track things like how many users access the The Onion Website, the date and time of their visits, the length of their stays, and which pages they view. The Onion may also use technology to determine which web browsers users use and the address from which they accessed the Websites. In addition, The Onion uses Google Analytics Demographics and Interest Reporting to collect Non-Personal Data about the use of The Onion Websites such as overview of traffic by age and gender, as well as overview of traffic by affinity and other categories. The information collected using this technology does not identify any user personally and is thus all Non-Personal Data that simply enables The Onion to compile statistics about users and their use of the The Onion Websites.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+The Onion uses this Non-Personal Data and may share it with third parties to improve the content and functionality of the The Onion Websites, to better understand our customers and markets, and to improve our products and services. We may also use this information to provide you with targeted advertising, so that the advertisements you may see on The Onion Websites are of more interest to you.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Vistors may opt out of the Google Analytics Advertising Features by following [this link](https://tools.google.com/dlpage/gaoptout/).
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### Cookies.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may store certain information from your web browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use session-ID cookies to confirm that users are logged in. These cookies would terminate once the user closes the web browser. We may also use persistent cookies that store certain Personal Data you already provided to us to make it easier for you to log back in to The Onion Websites or access your shopping cart. Cookies are used as a convenience feature for the user. You can remove or block cookies using the settings in your browser if you want to disable them.
 
-**Security**
+#### Use of Personal Data Collected.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The Onion uses the Personal Data collected on the Websites to provide you with the requested Services. If you enter Personal Data to create a member account, for example, that Personal Data will be used to create your account and allow that user to access certain features of The Onion Websites. If you enter Personal Data to create a social networking page and user profile, that Personal Data will be available to other users of The Onion Websites on your social networking page. If you enter Personal Data to complete a purchase at The Onion store, that Personal Data will be used to complete your purchase and contact you with any questions related to that purchase.
 
-**Updating Your Information**
+The Onion may also use the Personal Data to contact you for a variety of reasons, such as but not limited to notifying you about upcoming events, offering you additional products or services, or requesting your feedback on The Onion Websites. If you wish to opt-out of these contacts, you can let us know by following the “unsubscribe” instructions that accompanied the contact email, or by contacting us at [legal@theonion.com](mailto:legal@theonion.com). Even if you opt-out of certain contacts, The Onion may still contact you about any problems or issues with your personal account, social networking page or user profile.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### Disclosure of Personal Data Collected.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The Onion may disclose Personal Data to third parties when (a) it is reasonably necessary to provide you with the Services, (b) you have authorized the disclosure, or (c) if required or authorized to do so by law.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+For example, when you choose to use the social networking features of The Onion Websites, it is necessary for The Onion to disclose the information on your social networking page and your user profile information, including Personal Data, to other users of The Onion Websites. Without disclosure of this information, no one could contact you and there would be no social networking feature. Any User Content (as defined in the Terms of Service) you post to The Onion Websites will also be available to other users. By participating in the social networking features, you are also giving The Onion permission to include you in its RSS feed features, which allow other users to get updates on your social networking page and user profile. For example, if you add your favorite movie or restaurant to your user profile, users who are subscribed to your RSS feed will be notified of this change in your user profile. This feature will also allow other users to see how you are using the Websites. You use the social networking features and post User Content at your own risk. The Onion is not responsible for security or privacy breaches that may result from your use of the social networking features or posting User Content to The Onion Websites.
 
-      iii.      You may call us at: (480) 505-8800
+The Onion may also disclose Personal Data to third parties if a user has requested that The Onion do so. The The Onion Websites may offer users opportunities to request disclosure of Personal Data to third parties. For example, users may have the ability to request through the The Onion Websites that certain third parties send them information. In that case, The Onion would disclose the user’s full name and email address or mailing address so that the third party can send the user the requested information.
 
-       iv.      You may fax us at: (480) 505-8844
+The Onion may also disclose Personal Data to its affiliates, contractors and partners, who will use the Personal Data in compliance with this Privacy Policy. We may sell, rent, give or otherwise share your personal information with The Onion’s successors, assigns, affiliates and other related third parties. The Onion may also disclose Personal Data if required or authorized to do so by law.
 
-**Sending Emails**
+#### Security Measures.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The Onion uses industry standard security measures to protect your Personal Data. While such security measures provide reasonable protections against unauthorized access, they provide no guarantee that your Personal Data will not be compromised.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+#### Links to Other Websites.
 
-**Compliance with Laws and Law Enforcement**
+This Privacy Policy applies only to Personal Data collected on the The Onion Websites. The The Onion Websites may contain hyperlinks to websites that are not operated by The Onion. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. The Onion does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any website you visit before using the website or providing any Personal Data about yourself.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+#### Questions About Our Privacy Policy.
 
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions about this Privacy Policy or concerns about the way The Onion processes your Personal Data, please contact us at [legal@theonion.com](mailto:legal@theonion.com).
