@@ -1,63 +1,80 @@
-> *The following text is extracted and transformed from the rentsentinel.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401105152id_/http%3A//www.rentsentinel.com/Default.aspx%3Ftabid%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentsentinel.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# RentSentinel
+# HugeDomains.com - Privacy Policy
 
-Privacy Policy
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Effective Date March 1, 2009
+**What information do we collect?**
 
-Yield Technologies, Inc ("we" or "us") recognizes that you care how information about your organization is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-What information about your organization is collected and stored?
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We collect and store information that you enter into this web site or that you provide to our Customer Service Department. For example, when you open an account we collect and store some or all of the following information that you provide: name, billing address and community information. This information also may be used to contact you about sales, special offers and new site features.
+**What do we use your information for?**
 
-We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this web site and to provide our customers with a fulfilling listing experience.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Also, like many web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their listing experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this web site without checking out. Cookies are not used on this web site to store your account information; this information is stored securely on this web site's server. When you log in at this web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this web site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this web site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this web site.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Is information collected from children?
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-This Web Site is a professional audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13\. No part of our website is structured to attract anyone under 13. By using our website you represent that you are not under 13 years of age.
+• To process transactions
 
-With whom do you share information?
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.
+• To send periodic emails
 
-We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Yield Technologies, or any of our respective affiliates, business partners, customers or others.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or published ads to specific listing services through this Web site. This information generally is shared in an aggregated form.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-As with any business, it is possible that as our business develops, we might sell or buy other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that Yield Technologies, or substantially all of our assets, are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, Yield Technologies would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy.
+**How do we protect your information?**
 
-What steps are taken to keep personal information secure?
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact us at [**customerservice@rentsentinel.com**](mailto:customerservice@rentsentinel.com).
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-How can I access, correct and update personal information?
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "My Account" area of this Web site.
+**Do we use cookies?**
 
-Can I indicate whether or not I want to receive promotional communications?
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may email us at **customerservice@rentsentinel.com. **Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-What happens when I link to or from another web site?
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.
+**Do we disclose any information to outside parties?**
 
-If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-What about online surveys?
+**Online Privacy Policy Only**
 
-We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-How will I be informed about changes regarding this privacy policy?
+**Terms and Conditions**
 
-If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at [** customerservice@rentsentinel.com**](mailto:customerservice@rentsentinel.com).
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
