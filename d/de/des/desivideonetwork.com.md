@@ -1,23 +1,80 @@
-> *The following text is extracted and transformed from the desivideonetwork.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425161402id_/http%3A//www.desivideonetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desivideonetwork.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Desi Video Network - Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-This document sets out Desi Video Network's commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/terms.php).
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/signup) on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
+**What information do we collect?**
 
-Data indicated on the Website as mandatory is required in order to use the Website's features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Your Data is not transmitted to third parties. However, Desi Video Network may release Data if the law requires it to do so or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant or to protect Desi Video Network's rights and interests. It is Desi Video Network's policy, whenever possible and legally permissible, to promptly notify you upon receipt of a subpoena, and not produce your Data until approximately two weeks after receipt of the subpoena, so that you will have adequate opportunity to move to quash the subpoena in court.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Desi Video Network attaches great importance to the security of your Data, and takes all appropriate steps to limit the risk that it may be lost, damaged or misused.
+**What do we use your information for?**
 
-Data is stored on the premises of the Website host and is kept only as long as necessary for the purposes set out above. After that point, data is kept only for statistical purposes and shall not be used for any other reason.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Children under the age of 13 are not permitted to register with Desi Video Network. It is Desi Video Network's policy not to collect any information from anyone under the age of 13. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13. If you are under 13 years of age, do not use or access the Desi Video Network website at any time or in any manner.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-If you are the parent or legal guardian of a child under 13, and that child has somehow registered with Desi Video Network, please send an e-mail to [webmaster@desivideonetwork.com](mailto:webmaster@desivideonetwork.com) for instructions on how to cancel your child's registration. Â In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. Desi Video Network will use this information only to verify that you are the child's parent or legal guardian and for no other purposes. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-You are entitled to access and correct your Data by requesting to do so via the Contact us section.
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
