@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624121112id_/http%3A//www.livingrichwithcoupons.com/2009/05/living-rich-with-coupons-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231231311id_/http%3A//www.livingrichwithcoupons.com/2009/05/living-rich-with-coupons-privacy-policy.html) for the most accurate reproduction.*
 
-# Living Rich With Coupons Privacy Policy | Living Rich With Coupons®Living Rich With Coupons®
+# Living Rich With Coupons Privacy Policy |-Living Rich With Coupons®Living Rich With Coupons®
 
 **Privacy Policy**
 
