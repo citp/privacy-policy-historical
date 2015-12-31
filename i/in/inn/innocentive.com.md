@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004752id_/http%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231030107id_/http%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,6 @@ InnoCentive complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
   * You may utilize social networking sites not operated by us. For example, you may be able to sign on to your InnoCentive account using a social networking site sign-on and connect through that social networking site to Your Information. Depending on the social networking site’s policies, we may collect certain information about you from your account on the social networking site (such as gender, age, occupation, hobbies, interests, zip code, contacts or other information you have provided to the social networking site) or about your activity on the social networking site. Once Your Information is received by us, we will treat any such information as if you had given it directly to us, in accordance with this policy.
   * In some cases, the sharing settings of a social networking site may effectively override the choices you have made on our Site. Please remember that if you embed, post or link to Your Information on our Site on a social networking site’s page that is visible to the public, the terms of this Privacy Policy will not apply.
   * If you receive an Award in response to a Solution that you submit in response to an InnoCentive Challenge, we will request certain information from you in order to comply with our obligations under tax law and other applicable laws. This information will include copies of positive identification documentation and a tax identification number, often your Social Security number (“Award Information”). Award Information will not be incorporated into Your Information that is stored by the Site, and we will not request more Award Information than is reasonably necessary to comply with our legal obligations.
-  * If you choose to participate in a Brainstorm Challenge we will process payments and Awards through our third party credit card processor. All such transactions will be governed by the Stripe privacy policy at [stripe.com/privacy](http://stripe.com/privacy). We do not receive or store credit card information into our servers. We receive a transaction “token” and a one-time use ID number so we can validate that the transaction has been successfully completed. Because we do not retain your credit card information, you will need to re-enter your information each time you make a purchase.
   * Areas of this Site that collect Your Information use industry standard secure socket layer encryption (SSL); however, to take advantage of this your browser must support encryption protection. We will not request Award Information online.
 
 
@@ -58,9 +57,8 @@ Our business changes constantly and our Privacy Notice may change also. We may e
 If you would like to terminate your account, or if you have concerns about Your Information or this Privacy Policy, please contact us at innohelp [at] innocentive [dot] com. You can also reach us by postal mail at:
 
 InnoCentive, Inc.  
-610 Lincoln Street  
-Suite 125  
+265 Winter Street, 2nd Floor  
 Waltham, MA 02451  
 USA
 
-Last Updated: October 11, 2012
+Last Updated: July 6th, 2015
