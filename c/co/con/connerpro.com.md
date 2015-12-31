@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the connerpro.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626163948id_/http%3A//www.connerpro.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connerpro.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231235538id_/http%3A//www.connerpro.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | Conner Productions
 
-This Privacy Policy governs the manner in which Conner Productions collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://connerpro.com](http://connerpro.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Conner Productions.
+This Privacy Policy governs the manner in which Conner Productions collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://connerpro.com](http://www.connerpro.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Conner Productions.
 
 **Personal identification information**
 
