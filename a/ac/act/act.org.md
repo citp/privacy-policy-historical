@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623085456id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231110415id_/http%3A//act.org/privacy.html) for the most accurate reproduction.*
 
 # ACT Privacy Policy | ACT
 
@@ -10,7 +10,7 @@ ACT has updated its privacy policy as part of its continuous improvement efforts
 
 ACT has consolidated its data policies and practices into a centralized policy. The ACT Privacy Policy applies to the online and offline collection of data and outlines what information ACT collects, how ACT uses personally identifiable information, and when it discloses information consistent with ACT’s mission. The Privacy Policy provides a transparent and detailed description of ACT’s data policies and procedures.
 
-View the previous [ACT Privacy Policy](https://web.archive.org/web/20150623085456id_/http%3A//www.act.org/2014-act-privacy-policy.html).
+View the previous [ACT Privacy Policy](https://web.archive.org/web/20151231110415id_/http%3A//act.org/2014-act-privacy-policy.html).
 
 ##  Scope of this Policy
 
