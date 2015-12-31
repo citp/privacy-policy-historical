@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooextension.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619140220id_/http%3A//www.zooextension.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooextension.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231040048id_/http%3A//www.zooextension.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZooExtension
 
@@ -55,7 +55,7 @@ This Web site contains links to other sites. Please be aware that We are not res
 
 ### 6\. How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact us **magento(at)cleversoft.co**
+If you have further questions please don’t hesitate to [contact us](https://web.archive.org/contact-us)!
 
 ### 7\. Changes to the Website Privacy Policy
 
