@@ -1,120 +1,57 @@
-> *The following text is extracted and transformed from the edmontonsun.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150305id_/http%3A//www.edmontonsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmontonsun.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231112724id_/http%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy policy | Edmonton Sun
+# Privacy Statement | Postmedia Integrated Advertising
 
-**Protection and respect of your privacy**
+**[Version Française](http://www.postmediaadvertising.com/enonce-relatif-a-la-protection-des-renseignements-personnels/)**
 
-Sun Media appreciates the concerns you may have with respect to the circulation of personal information on the Internet and, with your collaboration, wishes to address these issues. This is why we feel it is important that you fully understand the type of information we collect from you when visiting our website along with its intended use. 
+Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. (“ **Postmedia** ”, “ **we** ” or “ **us** ”) is committed to protecting your privacy and safeguarding your personal information. The Postmedia Privacy Policy (available [**here**](http://www.postmedia.com/wp-content/uploads/2014/09/Postmedia-Privacy-Policy-Final.pdf)) and this Privacy Statement (collectively, the “ **Privacy Policy** ”) describe how we may collect, use and disclose personal information. The Privacy Policy applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes.
 
-**I) The collection and processing of aggregated personal information**
+By submitting your personal information, subscribing to our services or products or using our websites, you signify your agreement to the terms and conditions of the Privacy Policy. Please check back periodically as the Privacy Policy may be amended from time-to-time and applies to all Postmedia divisions in Canada.
 
-**a) "Cookies" -- What is a cookie?**
+**What is personal information?  
+**‘Personal information’ means information about an identifiable individual. Examples of personal information that we may collect, use and disclose include your contact information (name, address, phone number or email address), your billing information (credit card number or banking information), and other information that you may provide to us. Personal information does not include publicly available information or your business contact information.
 
-"Cookies" are little bits of information that are sent by our web site servers_to the Internet browser of your computer when you visit a Web site. They are saved on your computer, either temporarily or permanently, keeping a trace of your passage associated with the IP address assign to your computer or equipment. The information can include such things as the date and time of your last visit, a given answer to an online question, etc. This interaction between your computer and Web sites can enhance your Web experience by recording your navigation preferences for a given Web site. For example, it will remember your language preference, your location, your user ID and password to a member restricted zone, etc. 
+**What personal information do we collect? To whom do we disclose personal information?  
+**In most cases, we will collect personal information directly from you when you purchase or interact with us about a product or service that we offer or provide (for example, when you subscribe to a newspaper or when you email us or contact us through our website). Occasionally, we may collect personal information from a third party based on your consent or as otherwise permitted by law.
 
-The use of cookies on the Web has become standard practice which evolves rapidly. Most Internet browsers used on computers or wireless equipment will accept them by default. If you so choose, you may, at any time, change the parameters of your computer or wireless equipment to disallow the use of cookies or, simply erase, from time to time, all the cookie files stored by your browser. However, in doing so, you could be unable to access the full features of certain sites.
+We identify the purposes for which we may collect, use and disclose your personal information at the time that we collect such information. Such purposes include providing and delivering products or services to you, responding to your inquiries, and internal business purposes such as administering or improving our website. We obtain your consent for such purposes at or before the time that we collect, use or disclose your personal information, except where permitted or required by law.
 
-It should be noted that the actual cookie files stored on your hard drive are harmless. They may be read and deleted at any time. THUS, YOU ALWAYS HAVE THE CHOICE TO OPT-OUT OR DISALLOW THE USE OF COOKIES BY ACCESSING TO THE INTERNET OPTIONS OF YOUR COMPUTER SETTINGS. 
+Postmedia’s divisions and affiliates may share personal information with each other in order to fulfill the purposes that you have consented to. We may also share your personal information with third party service providers as necessary for them to provide services on our behalf. Some service providers may be located outside of Canada where personal information may be subject to the laws of those jurisdictions.
 
-**b) The use of cookies by Sun Media**
+We may disclose personal information to a potential purchaser in connection with the sale of some or all of the business of Postmedia, or as otherwise permitted or required by law.
 
-TO BETTER UNDERSTAND HOW VISITORS INTERACT WITH OUR WEB SITE AND HOW THEY VALUE OUR ADVERTISEMENT, WE USE GOOGLE ANALYTICS’ SERVICES TO COLLECT AND ANALYZE AUDIENCE DATA, AND TO ADVERTISE OUR WEB SITES VISITORS BASED ON INTEREST. MORE SPECIFICALLY, WE USE THE FOLLOWING GOOGLE ANALYTICS SERVICES : GOOGLE ANALYTICS DEMOGRAPHICS AND REMARKETING. GOOGLE ANALYTICS ACTIVITIES ARE SUBJECT TO GOOGLE’S POLICIES AND TERMS. 
+**How do we retain and safeguard your personal information?  
+**We retain personal information for as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law. We have implemented physical, organizational, contractual and technological security measures to protect your personal information from loss or theft, and unauthorized access, disclosure, copying, use or modification.
 
-WHEN USING GOOGLE ANALYTICS SERVICES, SUN MEDIA DOES NOT SHARE NOR DISCLOSE ANY PERSONALIZED INFORMATION ABOUT YOU. THE INFORMATION SHARED OR DISCLOSES BY SUN MEDIA IS ALWAYS ANONIMIZED.
+**How do we monitor our websites?  
+**Our websites may place and access cookies when you visit our websites. A cookie is a small data file that websites commonly write to your computer. A cookie file contains information that can identify you each time you visit the website. Our websites use cookies as a way to measure website activity and traffic patterns. We may use third-party vendors and advertising networks to serve advertisements on our websites. Such third parties may place and access cookies on your browser, including for the purpose of delivering tailored advertisements to you. The placement of third party cookies on your browser is subject to the terms, conditions and policies of such third-party vendors and advertising networks. . You may choose to set your computer to reject cookies if you desire. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites.
 
-**IF YOU DON’T WANT TO BE PRESENTED WITH INTEREST BASE ADVERTISEMENT,** you may choose to set your computer to reject cookies or you can control advertising cookies from Google by using its Ad Preferences Manager, available here: <https://support.google.com/ads/answer/2662922?hl=en>. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer by other companies you can visit [http://youradchoices.ca](http://youradchoices.ca/).
+Postmedia is a member of the Interactive Advertising Bureau of Canada (IAB Canada) and follows industry privacy standards for online advertising. The majority of advertisements displayed on our websites are served through one or more reputable third party advertisement-serving companies, including Google. You can control advertising cookies from Google by using its Ad Preferences Manager, available here: <https://support.google.com/ads/answer/2662922?hl=en>. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer by other companies you can visit <http://youradchoices.ca/>.
 
-The cookie files collected during your visit of our web site are used by Sun Media for the following reasons and shared with Google Analytics who may use it to improve its own products and services. Also, your interest in news content could help Google Analytics present you more relevant advertisement.
+From time to time, we collect certain usage information from our servers that relates to the use of our websites. We use this information to improve our website, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our website for advertising purposes and to help us plan for technical improvements.
 
-While the information cannot be used to directly identify a visitor, cookies provide important data for our marketing department as well as our research and development department. 
+**How can you access your personal information?  
+**We will make available to you any personal information that we have collected, used or disclosed, upon your written request, to the extent permitted by law. We will attempt to respond to your written request within thirty (30) days. We will advise you in writing if we cannot meet your request within this time limit.
 
-Sun Media web site uses cookies to : 
+**Contact Us  
+**Our Chief Privacy Officer is accountable for our compliance with the Privacy Policy and applicable privacy law. All comments, questions, concerns or complaints regarding your personal information should be forwarded to our Chief Privacy Officer as follows:
 
-  * \- enhance the user experience, 
-  * \- monitor traffic,
-  * \- better understand its targeted audience, and
-  * \- advertise according to user’s interests and habits
+_By Email:_
+
+  * Corporate: [CorporatePrivacyOfficer@postmedia.com](mailto:CorporatePrivacyOfficer@postmedia.com)
 
 
 
-**Enhance user’s experience**
+-OR-
 
-For example, the Sun Media web site will remember from your previous visits your favored language, your user ID and password, the key words search and field of interests. 
+_In Writing:_
 
-**Monitor traffic**
+Chief Privacy Officer  
+Postmedia Network Inc.  
+Postmedia Place  
+365 Bloor Street East, 12th Floor  
+Toronto, Ontario Canada M4W 3L4
 
-It enables Sun Media to estimate the size of its audience, the favorite hours of visits, the fidelity of the visitor, the popularity of certain pages and sponsored content, etc. A better understanding of its audience helps Sun Media to improve its products and services to meet its user’s needs and to give proper retribution to its sponsors. It also allows our sponsors to estimate or measure the probable or actual impact of their ads. It also allows us to determine our ad rates. While this information helps our sponsors buy ad space, it does not allow them to identify you individually. 
+Updated: September 8, 2014
 
-**Understand its targeted audience (Google Analytics Demographics)**
-
-Also, Sun Media will collect, from Google Analytics, aggregated demographic information on its visitors or web site users. By demographic information, Sun Media means user’s age, gender, favorite language, interests and location.
-
-**Interest base advertisement (Remarketing)**
-
-It allows Sun Media to display, more relevant advertising and content to its users. Sun Media use Google Analytics services to serve you with advertisements on and outside its web site. Google Analytics may place and access cookies on your browser to deliver tailored advertisements to you from and to Sun Media’s web site. As a result, Google and third parties can show Sun Media’s advertisement on sites across Internet.
-
-**II) The collection and processing of identifiable personal information**
-
-The collection and processing of personal information takes place under very precise conditions and at specific times. For example, when participating in online contests, you are required to enter your name, postal address, e-mail and other personal information by filling out an online form. From time to time, Sun Media also solicits online reader comments on various issues and topics. For the comments to be accepted, Sun Media requires that you submit your full name and city, along with any relevant comments and information, for potential publication online or in the print version of the newspaper. 
-
-Sun Media also accepts letters to the editor online. When you send a letter to the editor to the Sun, you are consenting to the letter being published, along with your name and city. Please be advised that after you submit a letter to the editor, Sun Media owns the content of this letter and may republish it at any time. 
-
-At these very specific times, the information that you submit will be processed and be subject to a host of data collection practices including saving, storing, editing, detailing, archiving and destruction. 
-
-Sun Media also provides, within reasonable limits, means to verify the accuracy and to update your personal information. As well, on certain online forms, Sun Media may ask you if you wish to receive information on other services, contests or news about Sun Media and its partners. You are always given the option to decline such offers or to end your subscription to a previously requested service. 
-
-WE WILL NEVER DISCLOSE ANY PERSONAL INFORMATION TO PARTIES OUTSIDE OF Sun Media WITHOUT GIVING YOU AN OPPORTUNITY TO OPT OUT OR WITHOUT YOUR EXPLICIT PRIOR CONSENT. FURTHERMORE, ALL PERSONAL INFORMATION COLLECTED BY SUN MEDIA IS STORED IN SERVER SECTORS THAT ARE INACCESSIBLE TO THE PUBLIC.
-
-The length of time Sun Media retains your personal information will vary depending upon the rules and requirements of each individual contest, promotion, or activity. 
-
-Despite the above, at any time, you may request that Sun Media end its use or planned uses of your personal information. Doing so may disentitle you to participate in contests.
-
-IN ADDITION, Sun Media MAY DISCLOSE YOUR PERSONAL INFORMATION: UPON REQUEST BY A LEGAL AUTHORITY OR IN GOOD FAITH WHEN SUCH ACTION IS DEEMED NECESSARY (A) IN ORDER TO ABIDE BY APPLICABLE LAWS OR REGULATIONS OR TO INTERVENE IN A LAWSUIT AGAINST SUN MEDIA; (B) IN ORDER TO PROTECT OR DEFEND THE LEGAL OR PROPERTY RIGHTS OF SUN MEDIA OR THOSE OF ITS USERS; AND (C) TO INTERVENE, UNDER EXTREME CIRCUMSTANCES, IN ORDER TO PROTECT THE PERSONAL SAFETY OF SUN MEDIA USERS OR THE SAFETY OF THE GENERAL PUBLIC. 
-
-**III) Be careful!**
-
-Sun Media may contain links to third-party Web sites; these are provided solely for your convenience. Clicking on these links will take you outside of Sun Media. Please be advised that Sun Media has no control over these third-party sites and, while Sun Media may feature such links, Sun Media will not, at any time, accept liability for these sites. Consequently, personal information that you provide to a Web site outside of Sun Media is subject to the privacy protection policies of the given third-party site. In the event of abuse by such sites, Sun Media cannot, at any time, be held responsible. Therefore, we strongly urge you to carefully read the privacy protection policies of all third-party sites you choose to enter. 
-
-We also wish to inform you that the risks associated with the supplying of personal information in a chat room, via e-mail or on a Web-based message board are not covered by our privacy protection policy; thus, you must be extremely careful if you choose to supply personal information through these means. You are submitting this information at your own risk. Indeed, this information may be collected and used by third parties without your prior consent. In other words, if you choose to provide personal information online and this information is available to the public, you may, eventually, receive unsolicited e-mail from third parties. Sun Media declines all responsibility in this regard. We urge you to remain cautious and vigilant, at all times, on the Internet. 
-
-**IV) Security**
-
-Sun Media has set up security measures to protect you from the loss or unauthorized use of your supplied personal information. As well, our Sun Media servers are equipped with firewall technology. Despite these measures, and given that no technology is foolproof, we must advise you that there will always remain a certain amount of risk and that your personal information may be disclosed, without your consent, unintentionally, and without fault on the part of Sun Media. Sun Media declines any responsibility in the event that such confidential information is disclosed, unless caused by negligence on the part of Sun Media.
-
-**V) Protection of children and teens on the Internet**
-
-Children and teenagers are increasingly using the Internet and discovering its many advantages. However, as is the case in many other environments, their greater vulnerability may be targeted for crime and exploitation. This is why we urge you to monitor the Internet use of your children and teenagers and provide them with advice on security and recommendations based on common sense. Such measures will often prevent your children and teenagers from being exposed to offensive content, or from becoming victims of harassment or other criminal acts. 
-
-To reduce these risks, as a parent, you should exercise a reasonable amount of supervision of Internet use by your children and teenagers. They should be told to never give out their personal information, such as their name, address or phone number, on any Internet forum. 
-
-It is also important that children and teenagers be encouraged to share their concerns with you in the event that they receive disturbing or provocative messages.
-
-These recommendations will help your children and teenagers surf the Internet in an informed fashion and allow you to ensure that they fully benefit from the learning and development possibilities that exist online. 
-
-**In conclusion…**
-
-We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that Sun Media reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes. 
-
-If you have any questions or concerns about our privacy practices, you may call 416-947-3100 or contact us in writing at the following address: 
-
-Sun Media Corporation Privacy Officer  
-333 King Street East  
-Toronto ON M5A 3X5
-
-The Edmonton Sun respects the confidentiality of the personal information of its subscribers, readers, advertisers and those who enter our contests and promotions. As part of our commitment to you, we want to clarify the details of our privacy policy concerning the personal information that we collect. 
-
-If you are a subscriber or advertiser, we collect personal information in order to set up an account, verify creditworthiness, to maintain a satisfactory relationship and to provide you with ongoing service. For example, we collect information that allows us to process your subscription or advertisement, confirm your identity and address so we can accurately deliver your newspaper or print your advertisement and accurately bill and collect. We may collect credit card or bank account information if you prefer the convenience of pre-authorized payment or we require pre-payment. 
-
-If you enter a contest or participate in a promotion, we collect personal information to process your application and administer the contest. The rules of the contest or promotion may allow other uses. On occasion, we undertake contests or promotions with sponsors or we use third parties to assist us in administering a contest or promotion. In these cases we share your personal information with these sponsors or administrators in order that they can assist us in undertaking and administering the contest or promotion. In addition, if you enter a contest or participate in a promotion that involves or relates to specific products or activities we or our sponsors may send you material that relates to such products or activities. 
-
-We or another company acting with our authority may contact you to conduct surveys or determine your preferences in order to better serve you and provide you with the newspaper content or other products or services that you may wish to receive. We may share your personal information with our affiliate businesses or with selected third parties who act on our behalf as our agents, suppliers or service providers. We may also make our subscription list available to specific reputable businesses whose products or services may be of interest to you. In addition, we may disclose personal information to meet legal or regulatory requirements or in connection with any potential corporate reorganization or sale. 
-
-The Edmonton Sun also accepts letters to the editor. When you send a letter to the editor to the Sun, you are consenting to the letter being published, along with your name and city. Please be advised that after you submit a letter to the editor, the Edmonton Sun owns the content of this letter and may republish it at any time. 
-
-We will honour any request you may make to have access to or review your personal information that we have obtained as referred to above. 
-
-If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 416-947-3100 or contact us in writing at the following address: 
-
-Sun Media Privacy Officer  
-333 King Street East  
-Toronto ON M5A 3X5 
+Back To Top
