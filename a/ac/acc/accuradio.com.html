@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the accuradio.com privacy policy that was archived on 2014-07-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140714062513id_/http%3A//help.accuradio.com/kb/privacy-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accuradio.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231100350id_/http%3A//help.accuradio.com/kb/privacy-policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"agent":"js-agent.newrelic.com/nr-411.min.js","applicationTime":163,"transactionName":"cF8IQBcMXlgEQ0lRBUJDSUcNDEU=","licenseKey":"97c4857d94","queueTime":5,"errorBeacon":"bam.nr-data.net","applicationID":"16193","agentToken":null,"ttGuid":"","beacon":"beacon-5.newrelic.com"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcUUFBSAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
     
       <meta name="viewport" content="width=1024">
     
@@ -12,30 +10,38 @@
     <title>Privacy Policy / Privacy Policy / Knowledge Base - AccuRadio Support</title>
      <link rel="canonical" href="http://help.accuradio.com/kb/privacy-policy/privacy-policy"> 
     
+
       <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://asset-1.tenderapp.com/pkg/frontend-datauri.css?1404754932" media="all" rel="stylesheet" type="text/css">
-<!--<![endif]-->
-<!--[if lte IE 7]>
-<link href="http://asset-2.tenderapp.com/pkg/frontend-mhtml.css?1404754932" media="all" rel="stylesheet" type="text/css" />
-<![endif]-->
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/pkg/frontend-datauri-fp-9c4752398063dd4968ccc916e02295fd.css" media="all" rel="stylesheet" type="text/css">
+      <!--<![endif]-->
+      <!--[if lte IE 7]>
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/pkg/frontend-mhtml-fp-6de06b242d31e0d601a32e1dd61846b4.css" media="all" rel="stylesheet" type="text/css" />
+      <![endif]-->
+
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/pkg/frontend-fp-41253569a5eb44364213f90590be9407.css" media="all" rel="stylesheet" type="text/css">
+      
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+
       <!--[if lte IE 8]>
-      <link href="http://asset-2.tenderapp.com/pkg/ie.css?1404754932" media="all" rel="stylesheet" type="text/css" />
+      <link embed_assets="false" href="http://d1gqiycb7x9t7x.cloudfront.net/stylesheets/browsers/ie-fp-d41d8cd98f00b204e9800998ecf8427e.css" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
       <!--[if IE 6]>
-      <link href="http://asset-2.tenderapp.com/pkg/ie6.css?1404754932" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/stylesheets/browsers/ie6-fp-dacd65c6c8db53575695a350a5d82df2.css" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
       <!--[if IE 7]>
-      <link href="http://asset-1.tenderapp.com/pkg/ie7.css?1404754932" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/stylesheets/browsers/ie7-fp-09a053f328d4136cdbc70d335e8c317e.css" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
       <!--[if IE 8]>
-      <link href="http://asset-1.tenderapp.com/stylesheets/browsers/ie8.css?1404754932" media="all" rel="stylesheet" type="text/css" />
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/stylesheets/browsers/ie8-fp-934420a475e54b16e34f848338a54777.css" media="all" rel="stylesheet" type="text/css" />
       <![endif]-->
-      <link href="http://asset-2.tenderapp.com/stylesheets/browsers/safari.css?1404754932" media="all" rel="stylesheet" type="text/css">
+      <link href="http://d1gqiycb7x9t7x.cloudfront.net/stylesheets/browsers/safari-fp-b19bac525d72e6d5b2f730b7a23ad0d1.css" media="all" rel="stylesheet" type="text/css">
     
-    <script type="text/javascript" charset="utf-8">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" charset="utf-8">
   
-  function getAuthKey() { return "ab5a5bd3b04d763788e1e74deac41d9a3cda216fa3a40fedb09912d57776de88"; }
-  Tender = {"root":"/","user_flags":{},"user_email":"","logged_in":false,"user_created":"","user_id":0,"user_markdown":false,"kb_enabled":true,"discussion_editable":null,"user_name":"","is_supporter":false};
+  function getAuthKey() { return "916d4bf464e5038708cc9a137d17eae92a57f524108f38217c318147bba467aa"; }
+  Tender = {"user_email":"","user_id":0,"is_supporter":false,"logged_in":false,"root":"/","user_created":"","user_name":"","mobile":false,"user_markdown":false,"user_flags":{},"discussion_editable":null,"kb_enabled":true};
 </script>
 
 
@@ -48,11 +54,11 @@
       <link href="/kb.atom" rel="alternate" title="Knowledge Base" type="application/atom+xml">
   <link href="/kb/privacy-policy.atom" rel="alternate" title="Privacy Policy Knowledge Base" type="application/atom+xml">
 
-           <link rel="stylesheet" type="text/css" media="all" href="/help/theme.css?1404754932"> 
+           <link rel="stylesheet" type="text/css" media="all" href="/help/theme.css?1445591249"> 
         
-      <link type="text/css" href="/help/custom.css" media="all" rel="stylesheet">
+      <link type="text/css" href="/help/custom.css?t=30853182d6d5fb6ab25d579a03d5246b" media="all" rel="stylesheet">
         
-      <script src="http://asset-0.tenderapp.com/pkg/frontend.js?1404754932" type="text/javascript"></script>
+      <script src="http://d1gqiycb7x9t7x.cloudfront.net/pkg/frontend-fp-e351b87a74c01a60e11298b67c3b4f94.js" type="text/javascript"></script>
       
     
       </head>
@@ -73,7 +79,7 @@
     
     <ul id="tender_nav" class="gnav">
       
-        <li class="home"><a href="/home">Support</a></li>
+        <li class="home"><a href="/home">Support Home</a></li>
       
                         <li class="public_issues"><a href="/discussions">Public Discussions</a></li>
                     
@@ -118,51 +124,151 @@
   <a href="/kb">Knowledge Base</a> <span class="sep">→</span>
   <a href="/kb/privacy-policy">Privacy Policy</a> <span class="sep">→</span>
 </p>
-  <h1>Privacy Policy</h1>
+  <h1>
+    Privacy Policy
+    
+  </h1>
 </div>
 
 <div class="columns">
   <div class="column maincol">
     <div class="article">
-      <div><p>Like most sites, AccuRadio.com and its affiliate sites will
-automatically receive and store certain types of non-personally
-identifiable information whenever you visit. This information
-includes your IP address, browser type, etc. Also, like most sites,
-we use cookies to store certain information such as your artist
-deselects. Again, the information we collect automatically cannot
-be used to identify you personally, nor can it be used to send you
-spam or target you for viruses or other types of malware.</p>
-<p>We sometimes use this non-personally identifiable information to
-improve the design and content of our site. We may also use this
-information in the aggregate to analyze site usage, and that
-information may be shared with our advertisers and clients.</p>
-<p>We will often link to sites who privacy policies differ from
-ours. Visitors should consult the other site's privacy notices, as
-we have no control over information that is submitted to or
-collected by these third parties.</p>
+      <div><p>AccuRadio.com and its affiliate sites receive information from
+and about you in three ways: (I) information you provide to us
+directly, (II) inform we automatically receive from devices you use
+to access AccuRadio's service, and (III) information we
+automatically receive from third parties. AccuRadio makes every
+effort to ensure that the information we collect about you cannot
+be used to identify you personally, nor can it be used to spam or
+target you for viruses or other types of malware.</p>
+<p>(I) When you register with AccuRadio, you must provide certain
+information such as your email address, year of birth, gender and
+zip code in addition to creating a password. By registering with us
+you automatically subscribe to occasional AccuRadio newsletters
+announcing new features, channels, and promotions. You may
+unsubscribe from receiving newsletters at any time by clicking the
+"Unsubscribe" button appearing at the bottom of the newsletter and
+then following the instructions provided. AccuRadio also receives
+information about you whenever you email us, participate in a poll
+or survey, or respond to an advertisement appearing on our service.
+Finally, AccuRadio uses cookies and beacons to collect certain
+information. Cookies are used to save information like your artist
+deselects and song ratings, and beacons may be placed in emails and
+on webpages to let us know which emails recipients have opened and
+how many unique visitors have visited a webpage.</p>
+<p>(II) When you access the AccuRadio service our servers receive
+and record certain information about the type of the device you
+used such as a computer, tablet, mobile phone, automobile, etc.,
+and we may also collect other information such as the applicable
+operating system version and type, unique identifiers like android
+ID, IDFA, MAC address or VIN, as well as carrier or other
+transactional information for the device.</p>
+<p>(III) AccuRadio sometimes receives non-personal information
+about you from third parties like advertisers and service partners
+and this information is stored on our servers. This information
+generally includes how often you have viewed their ads or whether
+you have clicked through an ad.</p>
+<p>Any of the three types of information discussed above cannot be
+used to identify you personally, but we may use certain
+non-personally identifiable information to improve the design or
+content of our site. We also use non-personally identifiable
+information to analyze site usage to be shared with our advertisers
+and clients for the sole purpose of better targeting ads to our
+listeners. We also may be required, in certain limited
+circumstances, to provide certain information to comply with the
+law or legal process or in the event of a corporate reorganization,
+merger or sale of AccuRadio or any of its affiliates.</p>
+<p>Finally, we will often link to sites whose privacy policies
+differ from ours. You should consult other sites' privacy policies
+as we have no control over information that is submitted to or
+collected by these outside sites, nor can AccuRadio, its affiliates
+or employees assume any liability whatsoever in the event that any
+outside site collects, uses or shares any information about you in
+violation of its own privacy policy.</p>
 <p>If you have any questions or concerns about the AccuRadio
-privacy policy for this site or any of it's implementations, you
-may contact us using our <a href="http://accuradio.tenderapp.com/">feedback system</a>.</p></div>
+privacy policy for this site or any of its implementations, you may
+contact us using our <a href="http://help.accuradio.com/">feedback
+system</a>.</p></div>
     </div>
   </div>
+  
   <div class="column sidebar">
     <dl class="stats">
+      
+        
+          <div class="rating" id="ratingContainer">
+  
+  
+    <!-- ko if: showForm -->
+    <form method="put" action="/kb/privacy-policy/privacy-policy/rate">
+      <p>
+        
+          Is this article helpful?
+        
+      </p>
+      <p class="ratings">
+        <!-- ko ifNot: isNegative -->
+        <span class="fa-stack fa-lg thumbs-up">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-thumbs-up fa-inverse fa-stack-1x" data-bind="click: ratingUp"></i>
+        </span>
+        <span class="fa-stack fa-lg thumbs-down">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-thumbs-down fa-inverse fa-stack-1x" data-bind="click: ratingDown"></i>
+        </span>
+        <!-- /ko -->
+      </p>
+      <!-- ko if: isNegative -->
+      <p>
+        <label for="reason">Do you have any feedback about this article? (optional)</label>
+      </p>
+      <p>
+        <textarea name="reason" data-bind="value: reason, hasFocus: isNegative"></textarea>
+        <button class="gbutton" type="submit" name="rating" data-bind="click: ratingDown" value="down">Send feedback</button>
+      </p>
+      <!-- /ko -->
+    </form>
+    <!-- /ko -->
+    <!-- ko ifNot: showForm -->
+    <p class="ratings" style="display:none" data-bind="visible: isLoading">
+      <i class="fa fa-spin fa-spinner"></i> Sending your feedback
+    </p>
+    <p class="ratings" style="display:none" data-bind="visible: loaded">
+      Thank you!
+    </p>
+    <!-- /ko -->
+  
+</div>
+
+<script type="text/javascript">
+jQuery(function() {
+  var ratingContainer = document.getElementById('ratingContainer');
+  if (ratingContainer) {
+    Tender.koFaq = new Tender.FaqRatingModel();
+    ko.applyBindings(Tender.koFaq, ratingContainer);
+  }
+});
+</script>
+
+        
+      
       <dt>Section:</dt>
       <dd><a href="/kb/privacy-policy">Privacy Policy</a></dd>
       <dt>Last Updated:</dt>
-      <dd><span class="timestamp" rel="%B %d, %Y" title="27 Oct, 2011 07:15 PM">27 Oct, 2011 07:15 PM</span></dd>
+      <dd><span class="timestamp" rel="%B %d, %Y" title="10 Dec, 2014 11:11 PM">10 Dec, 2014 11:11 PM</span></dd>
     </dl>
         <ul class="articles">
             <li class="category-privacy-policy"><a href="/kb/privacy-policy/privacy-policy">Privacy Policy</a></li>
             <li class="category-privacy-policy"><a href="/kb/privacy-policy/third-party-advertising">Third party advertising</a></li>
           </ul>
       </div>
+  
 </div>
 <div class="rule"></div>
 
 
 <ul class="categories" id="faqsections">
-        <li class="faqitem section-using_accuradio">
+        <li class="faqitem section-using-accuradio">
         <h3>
       <a href="/kb/using-accuradio">Using AccuRadio</a> 
       
@@ -171,44 +277,44 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-about kb-keyword-started kb-keyword-do kb-keyword-start kb-keyword-first kb-keyword-intro kb-keyword-welcome kb-keyword-how first-faq">
           <a href="/kb/using-accuradio/what-is-accuradio">What is AccuRadio?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-mix kb-keyword-blend kb-keyword-add kb-keyword-channels kb-keyword-stations kb-keyword-radio kb-keyword-together kb-keyword-random kb-keyword-shuffle kb-keyword-together kb-keyword-favorites kb-keyword-variety ">
           <a href="/kb/using-accuradio/how-do-i-blendmix-different-channels-together">How do I blend/mix different channels together?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-ban kb-keyword-remove kb-keyword-delete kb-keyword-add kb-keyword-back kb-keyword-artist kb-keyword-song kb-keyword-band kb-keyword-music kb-keyword-track kb-keyword-customize kb-keyword-personalize kb-keyword-channel kb-keyword-out ">
           <a href="/kb/using-accuradio/how-do-i-ban-artists-or-songs">How do I ban artists or songs?</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-ban kb-keyword-artist kb-keyword-song kb-keyword-channels kb-keyword-save kb-keyword-remember kb-keyword-preferences kb-keyword-customize kb-keyword-account kb-keyword-remove kb-keyword-music ">
           <a href="/kb/using-accuradio/can-i-save-my-channels-and-banned-artistssongs">Can I save my channels and banned artists/songs?</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-mobile kb-keyword-iphone kb-keyword-ipad kb-keyword-app kb-keyword-smartphone kb-keyword-kindle kb-keyword-nook kb-keyword-android kb-keyword-phone kb-keyword-device kb-keyword-application kb-keyword-samsung kb-keyword-kindle kb-keyword-apple last-faq">
           <a href="/kb/using-accuradio/how-do-i-use-accuradio-on-my-phone">How do I use AccuRadio on my phone?</a>
           
           
         </li>
       
-      <li class="all"><a href="/kb/using-accuradio">View all (14 more)</a></li>
+      <li class="all"><a href="/kb/using-accuradio">View all (16 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-privacy_policy">
+        <li class="faqitem section-privacy-policy">
         <h3>
       <a href="/kb/privacy-policy">Privacy Policy</a> 
       
@@ -217,14 +323,14 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-privacy kb-keyword-policy kb-keyword-cookies kb-keyword-data kb-keyword-ip kb-keyword-address kb-keyword-user kb-keyword-tracking first-faq">
           <a href="/kb/privacy-policy/privacy-policy">Privacy Policy</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-advertising kb-keyword-ads kb-keyword-privacy kb-keyword-policy kb-keyword-cookies kb-keyword-tracking kb-keyword-data last-faq">
           <a href="/kb/privacy-policy/third-party-advertising">Third party advertising</a>
           
           
@@ -233,7 +339,7 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
       <li class="all"><a href="/kb/privacy-policy">View all</a></li>
     </ul>
       </li>
-        <li class="faqitem section-technical_problems">
+        <li class="faqitem section-technical-problems">
         <h3>
       <a href="/kb/technical-problems">Technical problems</a> 
       
@@ -242,35 +348,35 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     <ul class="articles">
       
         
-        <li class="first-faq">
+        <li class="kb-keyword-technical kb-keyword-requirements kb-keyword-mac kb-keyword-windows kb-keyword-pc kb-keyword-flash kb-keyword-problem kb-keyword-nothing kb-keyword-happens kb-keyword-issue kb-keyword-computer kb-keyword-web kb-keyword-browser kb-keyword-os kb-keyword-linux kb-keyword-javascript kb-keyword-safari kb-keyword-internet kb-keyword-explorer kb-keyword-firefox kb-keyword-chrome kb-keyword-google first-faq">
           <a href="/kb/technical-problems/technical-requirements">Technical requirements</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-debug kb-keyword-help kb-keyword-solve kb-keyword-issues kb-keyword-problem kb-keyword-error kb-keyword-firefox kb-keyword-chrome kb-keyword-internet kb-keyword-explorer kb-keyword-assist kb-keyword-report ">
           <a href="/kb/technical-problems/how-to-debug-problems">How to debug problems</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-music kb-keyword-stops kb-keyword-problem kb-keyword-audio kb-keyword-song kb-keyword-flash kb-keyword-error ">
           <a href="/kb/technical-problems/the-music-suddenly-stops-when-listening-to-accuradio-help">The music suddenly stops when listening to AccuRadio. Help!</a>
           
           
         </li>
       
         
-        <li>
+        <li class="kb-keyword-loading kb-keyword-player kb-keyword-channel kb-keyword-open kb-keyword-play kb-keyword-no kb-keyword-music kb-keyword-error ">
           <a href="/kb/technical-problems/i-open-a-player-but-all-i-see-is-a-loading-message-help">I open a player but all I see is a "Loading..." message, help!</a>
           
           
         </li>
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-player kb-keyword-launch kb-keyword-open kb-keyword-station kb-keyword-nothing kb-keyword-problem kb-keyword-error kb-keyword-happens kb-keyword-site last-faq">
           <a href="/kb/technical-problems/nothing-is-working">Nothing is working</a>
           
           
@@ -279,7 +385,7 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
       <li class="all"><a href="/kb/technical-problems">View all (3 more)</a></li>
     </ul>
       </li>
-        <li class="faqitem section-advertise_on_accuradio">
+        <li class="faqitem section-advertise-on-accuradio">
         <h3>
       <a href="/kb/advertise-on-accuradio">Advertise on AccuRadio</a> 
       
@@ -288,7 +394,7 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     <ul class="articles">
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-advertise kb-keyword-promo kb-keyword-buy last-faq">
           <a href="/kb/advertise-on-accuradio/how-to-advertise-on-accuradio">How to advertise on AccuRadio</a>
           
           
@@ -297,7 +403,7 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
       <li class="all"><a href="/kb/advertise-on-accuradio">View all</a></li>
     </ul>
       </li>
-        <li class="faqitem section-music_on_accuradio">
+        <li class="faqitem section-music-on-accuradio">
         <h3>
       <a href="/kb/music-on-accuradio">Music on AccuRadio</a> 
       
@@ -306,7 +412,7 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     <ul class="articles">
       
         
-        <li class="last-faq">
+        <li class="kb-keyword-music kb-keyword-submit kb-keyword-send kb-keyword-local kb-keyword-artist kb-keyword-musician kb-keyword-record kb-keyword-label kb-keyword-airplay kb-keyword-play kb-keyword-song kb-keyword-track last-faq">
           <a href="/kb/music-on-accuradio/how-can-i-submit-music-to-accuradio">How can I submit music to AccuRadio?</a>
           
           
@@ -330,28 +436,28 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     <table class="listing">
           <tbody><tr>
         <td class="icon"><span class="icon problems"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="14 Jul, 2014 02:30 AM">14 Jul, 2014 02:30 AM</span></td>
-        <td class="link"><a href="/discussions/problems/4360-now-ruined-accuradio-the-videos-often-create-a-glitch-in-the-music">NOW RUINED ACCURADIO: the videos often create a glitch in the music</a></td>
-      </tr>
-          <tr>
-        <td class="icon"><span class="icon problems"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="13 Jul, 2014 12:30 AM">13 Jul, 2014 12:30 AM</span></td>
-        <td class="link"><a href="/discussions/problems/4358-songs-repeat-within-2-3-hours">songs repeat within 2-3 hours</a></td>
-      </tr>
-          <tr>
-        <td class="icon"><span class="icon channels-jazz"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="12 Jul, 2014 04:43 PM">12 Jul, 2014 04:43 PM</span></td>
-        <td class="link"><a href="/discussions/channels-jazz/361-what-happened-to-the-piano-jazz-channel">What happened to the Piano Jazz channel?</a></td>
-      </tr>
-          <tr>
-        <td class="icon"><span class="icon channels-electronic"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="12 Jul, 2014 06:43 AM">12 Jul, 2014 06:43 AM</span></td>
-        <td class="link"><a href="/discussions/channels-electronic/131-music-submission">Music Submission </a></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="31 Dec, 2015 05:06 AM">31 Dec, 2015 05:06 AM</span></td>
+        <td class="link"><a href="/discussions/problems/8172-ipad-streaming">iPad streaming</a></td>
       </tr>
           <tr>
         <td class="icon"><span class="icon suggestions"></span></td>
-        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="11 Jul, 2014 08:19 PM">11 Jul, 2014 08:19 PM</span></td>
-        <td class="link"><a href="/discussions/suggestions/5992-website-details">Website details</a></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="30 Dec, 2015 10:16 PM">30 Dec, 2015 10:16 PM</span></td>
+        <td class="link"><a href="/discussions/suggestions/8022-stop-boosting-the-commercials">Stop boosting the commercials</a></td>
+      </tr>
+          <tr>
+        <td class="icon"><span class="icon problems"></span></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="30 Dec, 2015 05:19 PM">30 Dec, 2015 05:19 PM</span></td>
+        <td class="link"><a href="/discussions/problems/8198-no-sound">no sound</a></td>
+      </tr>
+          <tr>
+        <td class="icon"><span class="icon problems"></span></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="30 Dec, 2015 12:49 AM">30 Dec, 2015 12:49 AM</span></td>
+        <td class="link"><a href="/discussions/problems/8203-fading">fading</a></td>
+      </tr>
+          <tr>
+        <td class="icon"><span class="icon channels-rb"></span></td>
+        <td class="date"><span class="timestamp" rel="%d %b %H:%M" title="30 Dec, 2015 12:48 AM">30 Dec, 2015 12:48 AM</span></td>
+        <td class="link"><a href="/discussions/channels-rb/177-fading">fading</a></td>
       </tr>
         </tbody></table>
   </div>
@@ -359,25 +465,25 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     
       <h2>Recent Articles</h2>
       <table class="listing">
-              <tbody><tr>
-          <td class="icon"><span class="icon folder"></span></td>
-          <td class="link"><a href="/kb/using-accuradio/does-accuradio-have-a-windows-phone-app">Does AccuRadio have a Windows Phone app?</a></td>
-        </tr>
-              <tr>
-          <td class="icon"><span class="icon folder"></span></td>
-          <td class="link"><a href="/kb/using-accuradio/can-i-use-accuradio-with-sonos-or-squeezebox">Can I use AccuRadio with Sonos or Squeezebox?</a></td>
-        </tr>
-              <tr>
+              <tbody><tr class="section-using-accuradio kb-keyword-sonos,squeezebox,device,home,stream,url">
           <td class="icon"><span class="icon folder"></span></td>
           <td class="link"><a href="/kb/using-accuradio/how-can-i-listen-to-accuradio-on-my-sonossqueezeboxgrace-type-device">How can I listen to AccuRadio on my Sonos/Squeezebox/Grace-type device?</a></td>
         </tr>
-              <tr>
-          <td class="icon"><span class="icon folder"></span></td>
-          <td class="link"><a href="/kb/using-accuradio/what-is-accuradio">What is AccuRadio?</a></td>
-        </tr>
-              <tr>
+              <tr class="section-technical-problems kb-keyword-loading kb-keyword-player kb-keyword-channel kb-keyword-open kb-keyword-play kb-keyword-no kb-keyword-music kb-keyword-error">
           <td class="icon"><span class="icon folder"></span></td>
           <td class="link"><a href="/kb/technical-problems/i-open-a-player-but-all-i-see-is-a-loading-message-help">I open a player but all I see is a "Loading..." message, help!</a></td>
+        </tr>
+              <tr class="section-technical-problems kb-keyword-debug kb-keyword-help kb-keyword-solve kb-keyword-issues kb-keyword-problem kb-keyword-error kb-keyword-firefox kb-keyword-chrome kb-keyword-internet kb-keyword-explorer kb-keyword-assist kb-keyword-report">
+          <td class="icon"><span class="icon folder"></span></td>
+          <td class="link"><a href="/kb/technical-problems/how-to-debug-problems">How to debug problems</a></td>
+        </tr>
+              <tr class="section-technical-problems kb-keyword-ban kb-keyword-artist kb-keyword-artists kb-keyword-remove kb-keyword-banned">
+          <td class="icon"><span class="icon folder"></span></td>
+          <td class="link"><a href="/kb/technical-problems/i-banned-an-artist-but-it-keeps-coming-back">I banned an artist, but it keeps coming back!</a></td>
+        </tr>
+              <tr class="section-using-accuradio kb-keyword-delete kb-keyword-remove kb-keyword-account kb-keyword-unsubscribe kb-keyword-uninstall kb-keyword-disable">
+          <td class="icon"><span class="icon folder"></span></td>
+          <td class="link"><a href="/kb/using-accuradio/removing-your-accuradio-account">Removing your AccuRadio account</a></td>
         </tr>
             </tbody></table>
     
@@ -423,8 +529,8 @@ may contact us using our <a href="http://accuradio.tenderapp.com/">feedback syst
     })();
   </script>
 
-  
+
 
   
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
