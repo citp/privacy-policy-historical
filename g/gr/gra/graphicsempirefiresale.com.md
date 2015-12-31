@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601055129id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052132id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Graphics Empire Firesale
 
