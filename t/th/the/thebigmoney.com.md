@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626132847id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231211047id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
 
 # Slate's privacy policy.
 
 ## Our data-collection practices.
 
-Last Updated: February 28, 2014.
+Last Updated: October 19, 2015.
 
 The Slate Group LLC (“Slate,” “we,” or “us”) is committed to bringing you information tailored to your individual needs while protecting the privacy of your information.  This Privacy Policy (“Policy”) describes how we collect, use, and disclose information through the websites, mobile applications, and other online services and products that link to or post this Policy (collectively, the “Services”).  Please read the entire Privacy Policy before using our Services.  By using the Services, you consent to the terms of this Privacy Policy.
 
@@ -38,7 +38,7 @@ We also may collect certain information automatically when you visit the Service
 
 
 
-We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  By using the Services, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies, you may not be able to use certain online products, services or features on the Services.
+We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  By using the Services, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies, you may not be able to use certain online products, services or features on the Services.
 
 **2.      Use of Information**
 
@@ -52,10 +52,10 @@ We may use information that we collect through the Services for a variety of pur
   * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
   * Publish stories, comments, and other information posted in our interactive online features;
   * Process employment applications and inquiries; and
-  * As otherwise described to you at the point of collection or pursuant to your consent.
+  * As otherwise described to you at the point of collection or pursuant to your consent.; and
   
 
-  * To show you relevant ads both on our Services and elsewhere, and measure the effectiveness and reach of ads. To learn more about how you can opt out of interest-based advertising, please visit [www.networkadvertising.org](http://www.networkadvertising.org/);
+  * To show you relevant ads both on our Services and elsewhere, and measure the effectiveness and reach of ads. We may also combine information that we collect through the Services with other information we obtain about you to serve and measure advertising. To learn more about how you can opt out of interest-based advertising, please visit the [Network Advertising Initiative Consumer Opt-Out Page](http://www.networkadvertising.org/) or the [Digital Advertising Alliance Consumer Choice Page](http://www.aboutads.info/choices/#completed).  
 
 
 
@@ -65,15 +65,15 @@ We are committed to maintaining your trust, and we want you to understand when a
 
   * _Corporate Parents, Affiliates, and Subsidiaries_.  We may share your information with our corporate parents, subsidiaries, and other affiliated entities for a variety of purposes, including business, operational, and marketing purposes.
   * _Service Providers_.  ** ** We may share your information with service providers that perform certain functions or services on our behalf, such as to host the Services, manage databases, host a store or other e-commerce platform, perform analyses, or send communications for us.
-  * _Select Business Partners_.  We may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. However, Slate is not responsible for the privacy practices of these business partners, which may use your information for their own purposes.
-  * _Other Parties When Required By Law or as Necessary to Protect the Services_.  We may disclose your information to third parties in order to protect the legal rights, safety, and security of Slate, our corporate parents, affiliates, and subsidiaries, and the users of our Services; enforce our Terms of Use; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
-  * _In Connection With a Transfer of Assets.  _If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
-  * _Other Parties With Your Consent_. We may share information about you with third parties when you consent to such sharing, including when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool.
-  * _Aggregate Information_.  We may disclose to third parties information that does not describe or identify individual users, such as aggregate website usage data or demographic reports.
+  * _Select Business Partners_.  We may share your information with select business partners so that they can provide you with special offers, promotional materials, advertisements and other materials that may be of interest to you. However, Slate is not responsible for the privacy practices of these business partners, which may use your information for their own purposes.
+  * _Other Parties When Required By Law or as Necessary to Protect the Services_.  We may disclose your information to third parties in order to protect the legal rights, safety, and security of Slate, our corporate parents, affiliates, and subsidiaries, and the users of our Services; enforce our Terms of Use; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
+  * _In Connection With a Transfer of Assets.  If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction._
+  * _Other Parties With Your Consent_. We may share information about you with third parties when you consent to such sharing, including when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool.
+  * _Aggregate Information_. We may disclose to third parties information that does not describe or identify individual users, such as aggregate website usage data or demographic reports.
 
 
 
-We may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services.  For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on [Adobe’s Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).   If you choose to refuse, disable, or delete these technologies, some of the functionality of the Services may no longer be available to you.
+We may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services.  For example, our third-party service providers may use these technologies to collect information (i) that helps us with traffic measurement, research, and analytics, and (ii) that is used to serve advertisements on our Services and across the Internet tailored to your apparent interests.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on Adobe’s Setting Manager page.  If you choose to refuse, disable, or delete these technologies, some of the functionality of the Services may no longer be available to you.
 
 Slate does not share information that it collects with third parties for the third party’s direct marketing purposes.
 
@@ -119,56 +119,56 @@ You may choose to receive promotional emails, newsletters, and similar communica
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
-[](http://www.slate.com/articles/news_and_politics/roads/2015/06/kodokushi_in_aging_japan_thousands_die_alone_and_unnoticed_every_year_their.html) Roads & Kingdoms
+[](http://www.slate.com/articles/news_and_politics/crime/2015/12/gun_deaths_map_how_many_people_have_died_or_been_injured_in_shootings_around.html) Crime
 
-June 26 2015 8:04 AM
+Dec. 31 2015 10:04 AM
 
-The Lonely End In aging Japan, thousands die alone and unnoticed every year. Toru Koremura is there to clean up what they leave behind.
+How Many People Have Been Shot in Your Neighborhood This Year? A map of shootings in America.
 
-[](http://www.slate.com/articles/business/metropolis/2015/06/supreme_court_fair_housing_act_ruling_it_makes_fighting_housing_discrimination.html) Metropolis
+[](http://www.slate.com/blogs/business_insider/2015/12/30/uber_just_patented_uber_travel_for_trip_planning.html) Business Insider
 
-June 25 2015 10:25 PM
+Dec. 30 2015 4:02 PM
 
-Fair Housing Won’t Be Enough The Supreme Court just dealt a blow to housing discrimination. But we’ll need more tools than that to solve inequality. Stefani Cox
+Uber Might Want to Be Your Next Travel Agent Biz Carson
 
-[](http://www.slate.com/blogs/outward/2015/06/25/why_trans_immigrant_activist_jennicet_guti_rrez_was_right_to_interrupt_president.html) Outward
+[](http://www.slate.com/blogs/outward/2015/12/31/a_queer_look_at_tops_bottoms_a_children_s_book_about_gardening.html) Outward
 
-June 25 2015 4:53 PM
+Dec. 31 2015 2:36 PM
 
-Jennicet Gutiérrez and the Politics of Pride J. Bryan Lowder
+Gayest Thing:  _Tops & Bottoms_ J. Bryan Lowder
 
-[](http://www.slate.com/blogs/xx_factor/2015/06/25/margaret_atwood_and_the_secret_loves_of_geek_girls_a_new_comics_anthology.html) The XX Factor
+[](http://www.slate.com/blogs/xx_factor/2015/12/31/the_cosby_case_raises_important_questions_on_how_states_define_sexual_assault.html) The XX Factor
 
-June 25 2015 1:06 PM
+Dec. 31 2015 12:22 PM
 
-Margaret Atwood Joins the Mix for  _The Secret Loves of Geek Girls_ Amanda Marcotte
+The Cosby Case Raises Important Questions on How States Define Sexual Assault Deborah Tuerkheimer
 
-[](http://www.slate.com/articles/slate_plus/culturebox/2015/06/slate_s_weekly_roundup_lisa_macabasco_on_her_week_at_slate.html?wpsrc=sp_all_native_by-section) Culturebox
+[](http://www.slate.com/articles/news_and_politics/slate_plus/2015/12/what_to_read_from_2015.html?wpsrc=sp_all_native_by-section) Slate Plus
 
-June 26 2015 4:00 AM
+Dec. 31 2015 11:38 AM
 
-What Happened at **_Slate_** This Week? A **_Slate_** social media staffer on her favorite reads of the week. Lisa Macabasco
+Our Favorite Reads of 2015 **_Slate_** writers and editors pick their favorite stories from around the Web.
 
-[](http://www.slate.com/blogs/browbeat/2015/06/26/dan_clowes_wilson_is_an_incredible_graphic_novel_and_a_strange_choice_for.html) Brow Beat
+[](http://www.slate.com/blogs/browbeat/2015/12/31/watch_kendrick_lamar_s_intensely_trippy_video_for_u_and_for_sale.html) Brow Beat
 
-June 26 2015 8:32 AM
+Dec. 31 2015 12:46 PM
 
-Dan Clowes’ _Wilson_ Is an Incredible Graphic Novel—And a Strange One to Adapt Into a Movie Jacob Brogan
+Watch Kendrick Lamar’s Intensely Trippy Video for “U” and “For Sale?” L.V. Anderson
 
-[](http://www.slate.com/articles/technology/bitwise/2015/06/mr_robot_on_usa_finally_hollywood_created_a_realistic_hacker_character.html) Bitwise
+[](http://www.slate.com/blogs/future_tense/2015/12/31/rounding_up_the_biggest_hacks_of_2015.html) Future Tense
 
-June 25 2015 2:19 PM
+Dec. 31 2015 12:49 PM
 
-The Unvarnished Nerd Hollywood is afraid to portray realistically alienating hackers. _Mr. Robot_ goes there. David Auerbach
+Wow, There Were Just So Many Hacks in 2015 Lily Hay Newman
 
-[](http://www.slate.com/blogs/bad_astronomy/2015/06/26/crash_course_astronomy_the_outer_solar_system.html) Bad Astronomy
+[](http://www.slate.com/blogs/bad_astronomy/2015/12/31/the_top_space_and_astronomy_stories_of_2015.html) Bad Astronomy
 
-June 26 2015 7:30 AM
+Dec. 31 2015 9:15 AM
 
-What Lurks in the Outer Solar System? Phil Plait
+The Top Space and Astronomy Stories of 2015 Phil Plait
 
-[](http://www.slate.com/blogs/the_spot/2015/06/25/abby_wambach_is_the_u_s_women_s_world_cup_star_a_jerk_or_not.html) The Spot
+[](http://www.slate.com/articles/sports/sports_nut/2015/12/dabo_swinney_s_christianity_is_clemson_s_marketing_tool.html) Sports Nut
 
-June 25 2015 6:01 PM
+Dec. 29 2015 1:50 PM
 
-World Cup Jerkwatch: Is Abby Wambach the Greatest Jerk in American Soccer History? Justin Peters
+Dabo Swinney’s Master Evangelism Why the Clemson coach’s Christianity is a big part of the Tigers’ success. Michael Weinreb
