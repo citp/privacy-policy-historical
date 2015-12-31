@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204953id_/http%3A//gulfnews.com/gnmedia/privacy-policy-1.1376093) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231090927id_/http%3A//gulfnews.com/gnmedia/privacy-policy-1.1376093) for the most accurate reproduction.*
 
 # Privacy Policy | GulfNews.com
 
