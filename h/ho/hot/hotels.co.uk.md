@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623114408id_/http%3A//uk.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231064525id_/http%3A//uk.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
 # Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
 
