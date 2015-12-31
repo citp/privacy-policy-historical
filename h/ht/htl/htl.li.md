@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the htl.li privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623104444id_/https%3A//hootsuite.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htl.li privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231074114id_/https%3A//hootsuite.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective date:** February 4, 2015
+**Effective date:** November 10, 2015
 
   * Introduction
   * About this Privacy Policy
@@ -36,7 +36,7 @@ It is Hootsuite’s policy to respect your privacy and the privacy of all users 
 
 Hootsuite reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at [hootsuite.com/legal/privacy](https://web.archive.org/legal/privacy). Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
 
-Hootsuite’s Privacy Policy forms part of its wider terms of service (collectively the “Terms”). If you are a visitor to the Website or if you are a Hootsuite Free or Hootsuite Pro user, these terms of service are available at [ https://hootsuite.com/legal/terms](https://web.archive.org/legal/terms). If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterpriseterms](https://web.archive.org/legal/enterpriseterms) (collectively the “ _Terms_ ”). If you make a purchase on the Shop, these terms of service are available at [shop.hootsuite.com/pages/terms-and-conditions](http://shop.hootsuite.com/pages/terms-and-conditions). Both the Terms and the Privacy Policy apply to your use of the Services. Unless otherwise indicated, all defined terms in this Privacy Policy shall have the same meaning as in the Terms.
+Hootsuite’s Privacy Policy forms part of its wider terms of service (collectively the “Terms”). If you are a visitor to the Website or if you are a Hootsuite Free or Hootsuite Pro user, these terms of service are available at [ https://hootsuite.com/legal/terms](https://web.archive.org/legal/terms). If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterpriseterms](https://web.archive.org/legal/enterprise-terms) (collectively the “ _Terms_ ”). If you make a purchase on the Shop, these terms of service are available at [shop.hootsuite.com/pages/terms-and-conditions](http://shop.hootsuite.com/pages/terms-and-conditions). Both the Terms and the Privacy Policy apply to your use of the Services. Unless otherwise indicated, all defined terms in this Privacy Policy shall have the same meaning as in the Terms.
 
 ## About this Privacy Policy
 
@@ -109,7 +109,7 @@ The Services use “session cookies”, which improve your user experience by st
 
 ### Performance and Remarketing Cookies
 
-Partners who help us serve advertising on and off the Website and analytics companies may also put cookies on your device. We use several third-party vendors to help deliver ads for relevant Hootsuite products and services to you when you visit certain pages on our Website and then visit certain third-party sites. Below is information about one such vendor. Please note that this Privacy Policy covers only our use of cookies and does not include use of cookies by any third parties.
+Partners who help us serve advertising on and off the Website and analytics companies may also put cookies on your device. We use several third-party vendors to help deliver ads for relevant Hootsuite products and services to you when you visit certain pages on our Website and then visit certain third-party sites. We may share with third-party ad partners a cryptographic hash of a common account identifier (such as an email address), to help us measure and tailor ads and services provided to you. Below is information about one such vendor. Please note that this Privacy Policy covers only our use of cookies and does not include use of cookies by any third parties.
 
  _i)                 __Google Analytics_  
 
