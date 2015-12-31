@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorware.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/company.aspx%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorware.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/company.aspx%23privacy-policy) for the most accurate reproduction.*
 
-# ColorWare - About
+# ColorWare About
 
   * welcome
   * contact us
@@ -156,9 +156,9 @@ In 2012, ColorWare quadrupled the size of their state-of-the-art paint facility.
 
 ColorWare was featured as number 108 on the Inc. 500 list of fastest growing privately held companies in the fall of 2007.
 
-### [Blog—Now In Color](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/nowincolor.aspx)
+### [Blog—Now In Color](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/nowincolor.aspx)
 
-Hello, and welcome to ColorWare’s new [blog—Now In Color](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/nowincolor.aspx). ColorWare is a tech-savvy, fashion-minded brand that offers a unique customization service on a variety of tech products. Because of our intriguing art application processes, high quality photographs and videos, as well as our unique products and services, we designed [Now In Color](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/nowincolor.aspx) with more stimulating content. We have a dedicated team with diverse backgrounds to bring you credible and insightful information. [Now In Color](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/nowincolor.aspx) includes a comprehensive range of culturally relevant content such as tech, art, design, automobiles, sports, fashion and travel. 
+Hello, and welcome to ColorWare’s new [blog—Now In Color](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/nowincolor.aspx). ColorWare is a tech-savvy, fashion-minded brand that offers a unique customization service on a variety of tech products. Because of our intriguing art application processes, high quality photographs and videos, as well as our unique products and services, we designed [Now In Color](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/nowincolor.aspx) with more stimulating content. We have a dedicated team with diverse backgrounds to bring you credible and insightful information. [Now In Color](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/nowincolor.aspx) includes a comprehensive range of culturally relevant content such as tech, art, design, automobiles, sports, fashion and travel. 
 
 [RSS Feed](http://www.colorware.com/rssfeed.aspx?channel=blog)
 
@@ -207,9 +207,9 @@ To achieve this highly durable finish, the X2 coating is applied similarly to th
 
 ### Press
 
-[Press Request Form](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/pressrequest.aspx)
+[Press Request Form](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/pressrequest.aspx)
 
-ColorWare has been featured in a variety of magazines. If you would like more information about featuring a ColorWare product in your magazine, please fill out our [Press Request Form](https://web.archive.org/web/20150615005104id_/http%3A//www.colorware.com/pressrequest.aspx).
+ColorWare has been featured in a variety of magazines. If you would like more information about featuring a ColorWare product in your magazine, please fill out our [Press Request Form](https://web.archive.org/web/20151231130049id_/http%3A//www.colorware.com/pressrequest.aspx).
 
   * [](https://dq5eb43zrmc0c.cloudfront.net/images/company/press/martha%20stewart%20weddings/outside-large.jpg)[](https://dq5eb43zrmc0c.cloudfront.net/images/company/press/martha%20stewart%20weddings/inside-large.jpg)
 
@@ -331,3 +331,24 @@ Attention: Privacy Statement Personnel
 Winona, MN 55987
 
 ColorWare, Inc. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+
+### Holiday Order Datesshow
+
+To ensure delivery before December 25th please order by the following dates.
+
+  * ##### Send In
+
+November
+
+27
+
+  * ##### Brand New
+
+December
+
+2
+
+
+
+
+**RUSH** orders are not affected by this chart. They will ship according to the rush option chosen.
