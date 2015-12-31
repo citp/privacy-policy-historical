@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nosgoth.com privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310200448id_/http%3A//eu.square-enix.com/en/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nosgoth.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231123933id_/http%3A//eu.square-enix.com/en/documents/privacy) for the most accurate reproduction.*
 
 # SQUARE ENIX
 
@@ -6,7 +6,7 @@
 
 We, Square Enix Limited, are committed to protecting and respecting your privacy.
 
-This Privacy Policy relates to our website at _eu.square-enix.com_ , the European parts of the website at _www.playonline.com_ , our mobile applications and any of our other online or mobile products, content and services (collectively, the “ **Service** ”).
+This Privacy Policy relates to our website at [eu.square-enix.com](http://eu.square-enix.com/), the European parts of the website at [www.playonline.com](http://www.playonline.com/), our mobile applications and any of our other online or mobile products, content and services (collectively, the “ **Service** ”).
 
 This Privacy Policy explains how we use any personal information that we collect about you when you use the Service. Further details of how we use your information is set out in our [_Cookies Policy_](https://web.archive.org/en/documents/cookies) and in the _[Square Enix Online Services Privacy Policy](https://web.archive.org/en/documents/onlineprivacy)_ , each of which forms part of this Privacy Policy.
 
@@ -128,7 +128,7 @@ Certain parts of the Service may give you the option to manage location tracking
 
 A "cookie" is a small text file deposited on your device when you access an online or mobile site. We may use cookies to monitor your use of the Service and to customise your experience of it.
 
-For further details, please refer to our _Cookies Policy_.
+For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20151231123933id_/http%3A//eu.square-enix.com/en/documents/cookies).
 
 **Where we store your personal information**
 
@@ -164,7 +164,7 @@ If you would like a copy of the personal information that we hold about you, jus
 
 **How to contact us**
 
-If you have any questions on this Privacy Policy or our use of your personal information, you can email us at _eu.privacypolicy@square-enix.com_ or write to us at Square Enix Limited, 240 Blackfriars Road, London, SE1 8NW marking any correspondence for the attention of the Legal and Business Affairs Department.
+If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [eu.privacypolicy@square-enix.com ](mailto:eu.privacypolicy@square-enix.com)or write to us at Square Enix Limited, 240 Blackfriars Road, London, SE1 8NW marking any correspondence for the attention of the Legal and Business Affairs Department.
 
 **Changes to this Privacy Policy**
 
