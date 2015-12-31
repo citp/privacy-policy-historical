@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628155230id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231153843id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
 
 # TinyURL.com - shorten that long URL into a tiny URL
 
@@ -36,7 +36,7 @@ The Services are not directed to children under 13. We do not knowingly collect 
 
 ### Use of Cookies
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. TinyURL and third party advertisers on the Site may also place or read cookies on your browser. These cookies may collect information that can be used to tailor advertising to you on TinyURL, other websites and other forms of media. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.selectout.org](http://www.selectout.org/)
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. TinyURL and third party advertisers on the Site may also place or read cookies on your browser. These cookies may collect information that can be used to tailor advertising to you on TinyURL, other websites and other forms of media. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
 ### Links to Other Sites
 
