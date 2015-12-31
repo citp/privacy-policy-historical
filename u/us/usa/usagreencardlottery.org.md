@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625094104id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231145347id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # USA Green Card Lottery Privacy Policy
 
@@ -6,11 +6,11 @@
 
 Privacy Policy
 
-USAGreenCardLottery.Org ("we" or "us" or "our" or "Company") respects the privacy concerns of each visitor ("you" or "your" or "Visitor") to the website ([www.usagreencardlottery.org](http://www.usagreencardlottery.org/ "Linkification:  http://www.usagreencardlottery.org")) (the "Website") and this Privacy Policy describes the type of information gathered from Visitor's use of the Website and/or from any use of our services, and how that information is used.
+USA Green Card Organization ("we" or "us" or "our" or "Company") respects the privacy concerns of each visitor ("you" or "your" or "Visitor") to the website ([www.usagreencardlottery.org](http://www.usagreencardlottery.org/ "Linkification:  http://www.usagreencardlottery.org")) (the "Website") and this Privacy Policy describes the type of information gathered from Visitor's use of the Website and/or from any use of our services, and how that information is used.
 
 Please take a moment to review this Privacy Policy and feel free to contact the Company with any questions at [privacy@usagreencardlottery.org](mailto:privacy@usagreencardlottery.org).
 
-_This privacy policy is effective as of and was last updated on September 26, 2012._
+_This privacy policy is effective as of and was last updated on October 9, 2015._
 
 _Types of Information We Collect_
 
