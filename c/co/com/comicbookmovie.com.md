@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628174210id_/http%3A//www.comicbookmovie.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231232520id_/http%3A//www.comicbookmovie.com/about-us/privacy) for the most accurate reproduction.*
 
 # Comic Book Movie Privacy Policy
 
