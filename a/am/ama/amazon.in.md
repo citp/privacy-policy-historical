@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628203512id_/http%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.in privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231150540id_/http%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
 
 # Amazon.in Help
 
@@ -82,13 +82,7 @@ Back to Top
 
 ## What About Third-Party Advertisers and Links to Other Web sites?
 
-Our site may include third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites. 
-
-These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. 
-
-Amazon.in may also display personalised third-party advertising based on personal information about customers, such as purchases on Amazon.in or visits to Amazon Associate Web sites. 
-
-Although Amazon.in does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalised advertisement meet the criteria used to personalise the ad. 
+Our site includes third-party advertising and links to other Web sites. For more information about third party advertising on Amazon.in, including personalised or interest-based ads, please read our [Interest-Based Ads policy](http://www.amazon.in/b?node=6691071031). 
 
 Back to Top
 
@@ -103,7 +97,7 @@ Back to Top
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.in features as Your Profile, Wish Lists, Customer Reviews and Amazon Prime. 
   * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the previous version for our records. 
   * If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.in and orders placed with Amazon.in, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to personalise third-party advertisements we display to you, please adjust your Advertising Preferences. 
+  * If you do not want us to use personal information that we gather to personalise advertisements we display to you, please adjust your [Advertising Preferences](http://www.amazon.in/gp/dra/info). 
   * The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. 
 
 
