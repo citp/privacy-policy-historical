@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231235937id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231103423id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # NetZero - Value-priced Internet Service Provider - ISP - Free, low-cost and HiSpeed Internet Access. - Privacy and Security
 
@@ -169,7 +169,7 @@ By using the Sites or Services, you signify your acceptance to this Policy. If y
 
 If you have any questions about this Policy please contact us at:   
 NetZero Legal Department  
-21255 Burbank Boulevard  
+21255 Burbank Boulevard, Suite 400   
 Woodland Hills, CA 91367 
 
 or 
