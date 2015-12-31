@@ -1,41 +1,80 @@
-> *The following text is extracted and transformed from the adultlook.com privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208010758id_/http%3A//adultlook.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultlook.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# PrivatePolicy
+# HugeDomains.com - Privacy Policy
 
-**Privacy Policy**[AdultSolution.com](http://www.adultsolution.com/) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with AdultSolution.com standards for integrity and objectivity. 
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-[AdultSolution.com](http://wwwadultsolution.com/) regards all personal information collected from all its customers as completely confidential. Many of our web sites collect registration, circulation qualification and other information (including e-mail addresses). In all these aspects including personal data provided during registration processes and financial account information is handled appropriately. 
+**What information do we collect?**
 
-[AdultSolution.com](http://www.adultsolution.com/) does offer to advertisers any data which maybe facilitated for the sale of advertising for a member site. This includes traffic data, click-thru rates, unique visitor information, web site geographic location, content information, and any demographic information offered by the web site member for the purpose of facilitating an advertising sale. This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from AdultSolution.com and appropriate third parties.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
- ****
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
- **Use of Personal Subscriber Information** By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in Personal Data, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site.   
-By the subscriber's use of the Site, the subscriber expressly agrees that the Site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
+**What do we use your information for?**
 
-Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the Site. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**  
-Security of Personal Information Collected by the Site**
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site.   
-All subscribers should consider any information provided to or collected by the Site as **non-confidential** , and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
+• To process transactions
 
-  
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
+• To send periodic emails
 
-**"OPT-IN" and "OPT-OUT" Provisions  
-**  
-There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-  
-"OPT-IN" \-- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept"(alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-  
-"OPT-OUT" \-- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. ******"OPT-OUT" Revocation Procedure**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [webmaster@adultsolution.com](mailto:webmaster@adultsolution.com) clearly stating that the subscriber has revoked consent to receive any future Offers. 
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
