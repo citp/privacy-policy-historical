@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625123538id_/http%3A//www.zappos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231044706id_/http%3A//www.zappos.com/c/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zappos.com
 
-Last updated: January 1, 2013. To see what has changed, [click here](https://web.archive.org/c/privacy-policy-changes).
+Last updated: January 1, 2013. To see what has changed, [click here](https://web.archive.org/c/privacy-policy-changes).
 
 Thank you for accessing the Zappos.com Website (“Site”) operated by Zappos IP, Inc. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -14,7 +14,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 **INFORMATION COLLECTION AND USE**
 
-**1.          Information Collection.**
+**1\. Information Collection.**
 
 ****We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
@@ -27,7 +27,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 (a) Registration and Ordering. Before using certain parts of any Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me Later® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me Later® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization’s country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Sites, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you.
 
-(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for a contest or sweepstakes; to request us to notify you of new [brands](https://web.archive.org/brands), new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for the Zappos.com [Shoe Digest](https://web.archive.org/shoe-digest). Your participation in a contest or sweepstakes is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest and sweepstakes winners and to award prizes. We may post on the Site the names and cities of contest and sweepstakes winners.  By entering a contest or sweepstakes, you may be opting in to receive our email newsletter and special offers and this will be disclosed in the official rules governing the contest or sweepstakes.
+(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for a contest or sweepstakes; to request us to notify you of new [brands](https://web.archive.org/brands), new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for the Zappos.com [Shoe Digest](https://web.archive.org/shoe-digest). Your participation in a contest or sweepstakes is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest and sweepstakes winners and to award prizes. We may post on the Site the names and cities of contest and sweepstakes winners. By entering a contest or sweepstakes, you may be opting in to receive our email newsletter and special offers and this will be disclosed in the official rules governing the contest or sweepstakes.
 
 (c) Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or “action tags”) to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
 
@@ -47,7 +47,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 (g) Bizrate Reviews. Bizrate.com is an independent company that permits shoppers to rate their experiences in visiting and shopping at online stores. After placing an order on the Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from us, whether or not you choose to provide feedback. Your feedback is collected by Bizrate.com, not us, and is governed by their privacy policy, available at http://shop.bizrate.com/content/privacy.html.
 
-**2.          Information Use and Disclosure.**
+**2\. Information Use and Disclosure.**
 
 (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under Zappos.com, Inc.’s control.
 
@@ -77,9 +77,9 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site http://www.zappos.com/cs.zhtml, or by telephoning, or emailing your request to Zappos.com’s Customer Loyalty Team 1-800-943-1633 or:
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site <http://www.zappos.com/customer-service-center>, or by telephoning, or emailing your request to Zappos.com’s Customer Loyalty Team 1-800-943-1633 or:
 
-cs@zappos.com
+[cs@zappos.com](mailto:cs@zappos.com)
 
 Please do not email your credit-card number or other sensitive information.
 
@@ -89,6 +89,6 @@ As you might expect from us, the majority of information that we collect is obta
 
 **UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-800-943-1633 or cs@zappos.com.
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-800-943-1633 or [cs@zappos.com](mailto:cs@zappos.com).
 
 Effective January 1, 2013
