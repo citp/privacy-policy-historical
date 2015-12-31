@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjsdaily.blogspot.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062601id_/http%3A//www.tjsdaily.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjsdaily.blogspot.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091855id_/http%3A//www.tjsdaily.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TJS Daily
 
