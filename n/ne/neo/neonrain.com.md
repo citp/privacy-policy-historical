@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neonrain.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316140346id_/http%3A//www.neonrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neonrain.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231200310id_/http%3A//www.neonrain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Neon Rain Interactive
 
