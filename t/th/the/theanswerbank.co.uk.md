@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625123925id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231034929id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy) for the most accurate reproduction.*
 
 # The AnswerBank Privacy Policy in The AnswerBank: Editor's Blog
 
@@ -48,7 +48,7 @@ For more information on your profile and using the site, please [check out our F
 
 **Who makes sure we keep our word?**
 
-Any details which you provide to us from which we can identify you are protected by the [Data Protection Act](https://web.archive.org/web/20150625123925id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/%E2%80%9Dhttp://www.dataprotection.gov.uk/principl.htm%E2%80%9D). 
+Any details which you provide to us from which we can identify you are protected by the [Data Protection Act](https://web.archive.org/web/20151231034929id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/%E2%80%9Dhttp://www.dataprotection.gov.uk/principl.htm%E2%80%9D). 
 
 **Does The AnswerBank use cookies?**
 
@@ -92,7 +92,7 @@ This may change as the service evolves. We will notify users of this site to any
 
 **How can I contact The AnswerBank?**
 
-If you wish to email us with any questions or comments about The AnswerBank, then please [contact us here](https://web.archive.org/web/20150625123925id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/%E2%80%9Dhttp://www.theanswerbank.co.uk/Info/ContactUs/%E2%80%9D) or email us at  
+If you wish to email us with any questions or comments about The AnswerBank, then please [contact us here](https://web.archive.org/web/20151231034929id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/%E2%80%9Dhttp://www.theanswerbank.co.uk/Info/ContactUs/%E2%80%9D) or email us at  
 [theeditor@theanswerbank.co.uk](mailto:theeditor@theanswerbank.co.uk?Subject=Privacy%20Policy%20Contact)
 
 If you wish to write to us by snail mail our registered address is: 
