@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9gag.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120522id_/http%3A//9gag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9gag.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154356id_/http%3A//9gag.com/privacy) for the most accurate reproduction.*
 
-# 9GAG - Why So Serious?
+# 9GAG - Go Fun Yourself
 
 ## Privacy
 
