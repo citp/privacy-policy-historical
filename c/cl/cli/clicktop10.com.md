@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clicktop10.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418092504id_/http%3A//www.clicktop10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktop10.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231153128id_/http%3A//www.readingtree.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Click Top 10
+# Privacy Policy | Reading Tree
 
 **Website Privacy Policy**
 
-The last update to our Privacy Policy was posted on October 17, 2013. This Privacy governs the privacy policy of our Website, [www.Clicktop10.com](http://www.clicktop10.com/)
+The last update to our Privacy Policy was posted on October 17, 2013. This Privacy governs the privacy policy of our Website, [www.Readingtree.org](http://www.readingtree.org/)
 
 **Definitions**
 
@@ -15,9 +15,9 @@ The last update to our Privacy Policy was posted on October 17, 2013. This Priva
 
 Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
 
-Clicktop10.com and its affiliated entities are committed to the security and privacy of all our customers. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
+Readingtree.org and its affiliated entities are committed to the security and privacy of all our customers. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
 
-Clicktop10.com, its affiliated entities and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
+Readingtree.org, its affiliated entities and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
 
 As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers. Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.
 
@@ -49,7 +49,7 @@ Finally, if we sold or transferred our business, we would transfer your PII to t
 
 **Changing Your Information**
 
-You may change your PII at any time using facilities found on our Website. If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or [contact us](http://www.clicktop10.com/contact-us/) here.
+You may change your PII at any time using facilities found on our Website. If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or [contact us](http://www.readingtree.org/contact-us/) here.
 
 **Opting Out of Sharing Information**
 
@@ -57,7 +57,7 @@ You can always opt out of future unaffiliated third-party disclosures of your in
 
 **Protecting Your Child’s Privacy**
 
-We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please [contact us](http://www.clicktop10.com/contact-us/). We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website.
+We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please [contact us](http://www.readingtree.org/contact-us/). We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website.
 
 **Our Email Policy**
 
@@ -77,11 +77,11 @@ You may have to provide a credit card to buy products and services from our Webs
 
 Our Website may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of our site you have visited, so the next time you visit the site, we can better personalize the content that you see on our Website. Most browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to use certain functionality on our Website correctly or at all. We never place PII in Cookies.
 
-Clicktop10.com reserves the right to use ads which use “cookies” to track ad performance. Some advertisers might place and monitor tracking cookies on your browser, or use “beacons” to analyze the performance of these advertisements.
+Readingtree.org reserves the right to use ads which use “cookies” to track ad performance. Some advertisers might place and monitor tracking cookies on your browser, or use “beacons” to analyze the performance of these advertisements.
 
 These “cookies” are only tracking tools and are not meant nor designed to compromise the performance of your computer or your personal privacy.
 
-Clicktop10.com  may use the Google Adsense platform ads. Google Adsense utilizes the DoubleClick Dart Cookie to monitor ad performance.
+Readingtree.org  may use the Google Adsense platform ads. Google Adsense utilizes the DoubleClick Dart Cookie to monitor ad performance.
 
 You can learn more Google Adsense by visiting : [Google Adsense](http://www.google.com/adsense/).
 
@@ -97,4 +97,4 @@ As necessary to address changes in laws or our business practices, we may modify
 
 **Questions about Our Privacy Policy**
 
-If you have any questions about our Privacy Policy, please contact us using the [Contact us](http://www.clicktop10.com/contact-us/) information found on our Website.
+If you have any questions about our Privacy Policy, please contact us using the [Contact us](http://www.readingtree.org/contact-us/) information found on our Website.
