@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217141047id_/https%3A//www.msu.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083407id_/http%3A//msu.edu/privacy/index.html) for the most accurate reproduction.*
 
-# Michigan State University Privacy Statement | Michigan State University
+# MSU Home Page Privacy Statement | Michigan State University
 
 This online privacy statement is intended to inform you of the ways in which this website (“Site”) collects information, the uses to which that information will be put, and the ways in which we protect information you choose to provide us.
 
