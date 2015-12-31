@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikr.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622014404id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikr.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154517id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Quikr
 
@@ -26,14 +26,17 @@ This privacy policy describes how we handle your personal information. We collec
 • We may also share personal information with:  
     \- Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market  
      only to users who ask them to).  
-    \- Service providers who help with our business operations.
+    \- Service providers who help with our business operations.  
+• Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to the website.   
+• Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.   
+• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
 
 **Using Information from Quikr.** You may use personal information gathered from Quikr only to follow up with another user about a specific posting, not to send spam/ phising or collect personal information from someone who hasn't agreed to that.
 
-**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at [](mailto:privacy@quikr.com) to review any personal information we store that is not available on Quikr. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
+**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at [privacy@quikr.com](mailto:privacy@quikr.com) to review any personal information we store that is not available on Quikr. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
 
 **Data Security.** We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.
 
 **Confidentiality of Information.** Users who use any of the features on Quikr agree and accept that they have been fully informed by Quikr that the use of features may lead to publication, to all users of Quikr, of any personal information posted by them while using any specific feature on Quikr. Users further agree that the authenticity of, and consequences from the posting by users of any personal information of themselves or any other person, are the sole responsibility of the user. Users further agree and accept that the terms of the Privacy Policy will be applicable to the use of all features, existing and new. However, the Users agree and accept that confidentiality of information posted on such features has been waived by the Users of such features themselves.
 
-**General.** We may update, upgrade, modify (partially &/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [](mailto:privacy@quikr.com).
+**General.** We may update, upgrade, modify (partially &/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@quikr.com](mailto:privacy@quikr.com).
