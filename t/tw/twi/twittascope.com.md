@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195345id_/http%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231111919id_/http%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
 
 # Tarot.com's Privacy Policy
 
@@ -18,15 +18,15 @@ Based on your chosen settings, you may access custom readings and other special 
 
 ### Subscribe to our Emails and Newsletters: We Adhere to a Strict Anti-Spam Policy
 
-At Tarot.com we are 100 percent committed to protecting your privacy. We won't reveal or sell your email address to third parties. We won't send you emails if you don't want to receive them, either.
+At Tarot.com we are 100 percent committed to protecting your privacy. We won't send you emails if you don't want to receive them, either.
 
 When you first **[sign up to Tarot.com](http://www.tarot.com/readings-reports "Tarot.com Sign-up")** , we send out an email welcoming you and confirming your login name and password. Unless you choose to unsubscribe -- which you can do from within that email -- you will also receive an occasional Special News email from Tarot.com. This is our way of notifying you about free readings, special gift offers, new reports or feature updates. You can easily unsubscribe from these at any time and still be able to receive horoscopes by email if you like.
 
-You can rest assured that Tarot.com will never share email addresses with anyone else. If you decide at any time that you want to stop receiving our member-benefits emails, you can opt-out by clicking on the Unsubscribe link at the end of every email or by visiting the "About You" area of the website.
+If you decide at any time that you want to stop receiving our member-benefits emails, you can opt-out by clicking on the Unsubscribe link at the end of every email or by visiting the "About You" area of the website.
 
 You may also control whether or not you subscribe to our **[Daily Horoscope newsletter, Weekly Love Horoscope newsletter and any other content newsletters](http://product.tarot.com/about-you/emails/ "Newsletter sign-up page")** that may be offered in the future. This same privacy policy applies to those newsletters -- in essence, we do not want to send you emails that you do not want -- you are in control!
 
-If you are subscribed to our Special News list, we may also send out special offer emails on behalf of select partners and advertisers that we feel are of interest to our members. Each of these mailings will provide you with an easy way to unsubscribe. They will come from Tarot.com on behalf of these select third parties -- we will never share or sell your email address or private information with anyone. You can opt-out of partner mailings while still continuing to receive Tarot.com special offers, horoscopes, newsletters, etc. If you choose to unsubscribe to any of our email lists, but in the future decide you would like to start receiving them again, you can easily re-subscribe under "About You" at any time. But until then, you can rest assured that we will honor your preference by removing your name from the internal lists that you specify.
+If you are subscribed to our Special News list, we may also send out special offer emails on behalf of select partners and advertisers that we feel are of interest to our members. Each of these mailings will provide you with an easy way to unsubscribe. They will come from Tarot.com on behalf of these select third parties. You can opt-out of partner mailings while still continuing to receive Tarot.com special offers, horoscopes, newsletters, etc. If you choose to unsubscribe to any of our email lists, but in the future decide you would like to start receiving them again, you can easily re-subscribe under "About You" at any time. But until then, you can rest assured that we will honor your preference by removing your name from the internal lists that you specify.
 
 ### Legal Disclaimer
 
