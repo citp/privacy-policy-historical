@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622211856id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231173508id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster Privacy Policy
 
-Effective July 20, 2012 (last updated October 08, 2013)
+Effective July 20, 2012 (last updated July 24, 2015)
 
 ## This Privacy Policy applies to the sites and apps where it appears.
 
