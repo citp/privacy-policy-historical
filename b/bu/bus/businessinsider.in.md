@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628224722id_/http%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231092100id_/http%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
 
 # Privacy Policy | Business Insider India
 
