@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swarmapp.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204817id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarmapp.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231145701id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
 
 # Foursquare
 
-**Last Updated: May 1, 2015**
+**Last Updated: September 17, 2015**
 
 ## Foursquare Labs, Inc. Privacy Policy
 
@@ -68,7 +68,7 @@ The Services include several features that may allow you to share your informati
 
 ### Email Communications
 
-If you do not want to receive commercial email or other mail from us, please indicate your preference by making a modification on your account settings page or through the 'settings' tab on our website once you're logged into the Services. Please note that if you do not want to receive legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. We may receive a confirmation when you open an email from Foursquare if your computer supports this type of program. Foursquare uses this confirmation to help us make emails more interesting and helpful and improve our service.
+By providing your email address to us, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us or our partners. If you have a Services account and do not want to receive commercial email or other mail from us, please indicate your preference by making a modification on your account settings page or through the 'settings' tab on our website once you're logged into the Services. Please note that if you do not want to receive legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. We may receive a confirmation when you open an email from Foursquare if your computer supports this type of program. Foursquare uses this confirmation to help us make emails more interesting and helpful and improve our service.
 
 ### What About Cookies and Similar Technologies?
 
