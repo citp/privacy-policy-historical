@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623080713id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083127id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
 
-# McAfee SECURE / Privacy Policy
+# Privacy Policy
 
 Last Updated: 2013-10-01
 
