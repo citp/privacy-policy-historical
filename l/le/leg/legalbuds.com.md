@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalbuds.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426105119id_/http%3A//www.legalbuds.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalbuds.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231183715id_/http%3A//www.legalbuds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,8 +99,8 @@ Information Retention \- How long is this information retained?
   
 
 
-All of our [legal bud](https://web.archive.org/web/20150426105119id_/http%3A//www.legalbuds.com/legal_bud.html) products are 100% natural and contain only organic smokeable material.   
-None of our products will cause you to fail a drug test. [Do legal buds get you high](https://web.archive.org/web/20150426105119id_/http%3A//www.legalbuds.com/do-legal-buds-get-you-high.html)?   
+All of our [legal bud](https://web.archive.org/web/20151231183715id_/http%3A//www.legalbuds.com/legal_bud.html) products are 100% natural and contain only organic smokeable material.   
+None of our products will cause you to fail a drug test. [Do legal buds get you high](https://web.archive.org/web/20151231183715id_/http%3A//www.legalbuds.com/do-legal-buds-get-you-high.html)?   
 None of our products are sold as marijuana alternatives, legal weed, or alternatives to illegal street drugs.   
-By purchasing from[ legal buds](https://web.archive.org/web/20150426105119id_/http%3A//www.legalbuds.com/legal_bud_herbal_smoke.html) you agree that you are atleast 18 years of age.   
+By purchasing from[ legal buds](https://web.archive.org/web/20151231183715id_/http%3A//www.legalbuds.com/legal_bud_herbal_smoke.html) you agree that you are atleast 18 years of age.   
 Our legal bud products are available in better herbal smoke stores nationally and across the world. 
