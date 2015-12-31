@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629225116id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231065524id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
 
 # Forbes.com Privacy Statement
 
 ### FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: September 11, 2014_
+_Revised and posted as of: July 2, 2015_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
 
@@ -36,9 +36,7 @@ Forbes.com does not collect personally identifying information about any individ
 
 A cookie is a small data file that is written to your computer's hard drive by your web browser. A cookie file can contain information, such as a user identification code, that a website will use to track the pages and number of times you have visited. Forbes.com uses cookies to track web and advertising analytics throughout Forbes.com and its affiliate websites and to remember your custom video playlists, preferences, job title, story ratings (if you have provided any), and membership status so that you don't have to login each time you visit the website. The data read from these cookies may be linked to personally identifying (PII) and non-personally identifying (non-PII) information.
 
-We also use browser plug-in cookies on our site, including Flash cookies, also known as "local shared objects," to perform similar functions as browser cookies. Like normal browser cookies, these cookies are represented as small files stored on your computer. One method of preventing Flash cookies from being placed is to adjust your preferences in the Macromedia Website Privacy Settings Panel at macromedia.com.
-
-Business partners of Forbes.com, vendors providing hosting and other services for Forbes.com, third party analytics providers, as well as advertisers who contract directly with a third-party service to serve their advertisements on our website may set their own unique cookies through your browser. We do not have access to these cookies or any information that they may contain. If you would like more information about this practice and about your option not to accept cookies placed by these companies, please [click here](http://preferences-mgr.truste.com/).
+Business partners of Forbes.com, vendors providing hosting and other services for Forbes.com, third party analytics providers, as well as advertisers who contract directly with a third-party service to serve their advertisements on our website may set their own unique cookies through your browser. If you would like more information about this practice and about your option not to accept cookies placed by these companies, please [click here](http://preferences-mgr.truste.com/).
 
 Most web browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, choose to accept cookies only from certain websites or to refuse all cookies. However, if you choose to disable the receipt of cookies from our website, you may not be able to use certain features of the site. To learn more about the use of cookies in online advertising including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
 
