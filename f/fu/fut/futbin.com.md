@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010235546id_/http%3A//www.futbin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231195332id_/http%3A//www.futbin.com/privacy) for the most accurate reproduction.*
 
-# FUTBIN - FUT 15 Prices | Privacy
+# FUTBIN - FUT 16 Prices | Privacy
 
 Futbin.com Privacy Policy 
 
