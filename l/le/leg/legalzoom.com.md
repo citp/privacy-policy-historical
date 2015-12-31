@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624001820id_/http%3A//www.legalzoom.com/privacy-policy-popup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231084857id_/http%3A//www.legalzoom.com/privacy-policy-popup.html) for the most accurate reproduction.*
 
 # Privacy Policy | legalzoom.com
 
