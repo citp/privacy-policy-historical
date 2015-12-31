@@ -1,205 +1,172 @@
-> *The following text is extracted and transformed from the tapulous.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206065608id_/http%3A//tapulous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapulous.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231041411id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Privacy Policy - Tapulous - Social Apps for iPhone
+# Data Policy
 
-The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
+We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://web.archive.org/about/basics). 
 
-We have updated our privacy policy. Our updated policy is designed to provide greater transparency into our privacy practices and principles, in a new format that is easier to navigate, read and understand. We continue to treat your personal information with care and respect.
+As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://web.archive.org/help/1561485474074139)
 
-## Privacy Policy
+###  What kinds of information do we collect? 
 
-Effective Date: August 22, 2011
+Depending on which Services you use, we collect different kinds of information from or about you. 
 
-This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
+Things you do and information you provide.
 
-  1. Types of Information We Collect
-  2. How We Collect Your Information
-  3. Use of Your Information by The Walt Disney Family of Companies
-  4. Sharing Your Information with Other Companies
-  5. Your Controls and Choices
-  6. Children’s Privacy
-  7. Data Security and Integrity
-  8. Data Transfers, Storage and Processing Globally
-  9. Changes to this Privacy Policy
-  10. Comments and Questions
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
 
+Things others do and information they provide.
 
-  1. Types of Information We Collect
+We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
 
-We collect two basic types of information – personal information and anonymous information – and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information:
+Your networks and connections.
 
-    * Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username and password
-    * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
-    * Information you provide in public forums on our sites and applications
-    * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information
-    * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account
-    * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information
-    * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send 
-  2. How We Collect Your Information
-    * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
-    * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](http://tapulous.com/online-tracking-and-advertising/) for further information, including how to disable cookies.
-    * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
-  3. Use of Your Information by The Walt Disney Family of Companies
+We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
 
-A member of The Walt Disney Family of Companies, which includes many different brands, will be the data controller for your information. The relevant data controller(s) can be determined here. Other members of The Walt Disney Family of Companies may have access to your information where they perform services on behalf of the data controller(s) (as a data processor) and, unless prohibited under applicable law, for use on their own behalf (as a data controller) for the following purposes:
+Information about payments.
 
-    * Provide you with the products and services you request
-    * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
-    * Consistent with local law and choices and controls that may be available to you: 
-      * Send you offers and promotions for our products and services or third-party products and services
-      * Personalize content and experiences on our sites and applications
-      * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](http://tapulous.com/online-tracking-and-advertising/).
-    * Optimize or improve our products, services and operations
-    * Detect, investigate and prevent activities that may violate our policies or be illegal
-  4. Sharing Your Information with Other Companies
+If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
 
-We will not share your personal information outside The Walt Disney Family of Companies except in limited circumstances, including:
+Device information.
 
-    * When you allow us to share your personal information with another company, such as: 
-      * Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services
-      * Directing us to share your personal information with third-party sites or platforms, such as social networking sites
+We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company’s privacy practices.
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-    * When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card; however, we will do so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your personal information for purposes other than those related to the co-branded products or services
-    * When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law
-    * When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our guests and third parties, to protect our rights and property and the rights and property of our guests and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law
-  5. Your Controls and Choices
 
-We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
 
-    * You may correct, update and delete your registration account 
-    * You may change your choices for subscriptions, newsletters and alerts
-    * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
-    * You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services
-    * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/)
-    * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
+Information from websites and apps that use our Services.
 
-You may exercise your controls and choices, or request access to your personal information, by contacting Guest Services or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Guest Services.
+We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
 
-  6. Children’s Privacy
+Information from third-party partners.
 
-We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children’s privacy, including:
+We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
 
-    * Notifying parents about our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information
-    * In accordance with applicable law, obtaining consent from parents for the collection of personal information from their children, or for sending information about our products and services directly to their children
-    * Limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity
-    * Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
+Facebook companies.
 
-For additional information about our practices in the United States and Latin America regarding children’s personal information, please read our [Children’s Privacy Policy.](http://corporate.disney.go.com/corporate/kids.html)
+We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://web.archive.org/help/111814505650678) about these companies and their privacy policies. 
 
-  7. Data Security and Integrity
+###  How do we use this information? 
 
-The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
+We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
 
-  8. Data Transfers, Storage and Processing Globally
+Provide, improve and develop Services.
 
-We operate globally and may transfer your personal information to individual companies of The Walt Disney Family of Companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia.
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
 
-  9. Changes to this Privacy Policy
+We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
 
-From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
+When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
 
-  10. Comments and Questions
+We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
 
-If you have a comment or question about this privacy policy, please contact Guest Services.
+Communicate with you.
 
-Our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
+We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
 
-Notice to California Residents:
+Show and measure ads and services.
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Tapulous, Inc. to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [caprivacy.wdig@twdc.com](mailto:caprivacy.wdig@twdc.com) or write us:
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/about/ads/#568137493302217) how information about you is used to personalize the ads you see. 
 
-CA Privacy Rights
+Promote safety and security.
 
-Tapulous, Inc.  
-500 South Buena Vista Street  
-Mail Code 7667  
-Burbank, CA 91521-7667
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
 
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/help/cookies/update) to learn more. 
 
+###  How is this information shared? 
 
+Sharing On Our Services
 
-* * *
+People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
 
-_Aggregate Information_. Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest. 
+People you share and communicate with.
 
-(Back)
+When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
 
-_Anonymous Information_. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest. 
+[Public information](https://web.archive.org/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://web.archive.org/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
 
-(Back)
+In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
 
-_Application_. Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.
+People that see content others share about you.
 
-(Back)
+Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://web.archive.org/notes/facebook-safety/details-on-social-reporting/196124227075034). 
 
-_Children_. Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term “children” refers to individuals under 13 years of age.
+Apps, websites and third-party integrations on or using our Services.
 
-(Back)
+When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://web.archive.org/help/203805466323736), which includes your [username or user ID](https://web.archive.org/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
 
-_Data Controller_. The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications. For all Tapulous sites and applications, the data controller is: 
+[Learn more](https://web.archive.org/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
 
-Tapulous, Inc.395 Page Mill Road, Second FloorPalo Alto, CA 94306
+Sharing within Facebook companies.
 
-(Back)
+We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://web.archive.org/help/111814505650678) about our companies. 
 
-_Data Processor_. A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s).
+New owner.
 
-(Back)
+If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
 
-_IP address_. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information.
+Sharing With Third-Party Partners and Customers
 
-(Back)
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
 
-_Member_. Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies.
+Here are the types of third parties we can share information with about you: 
 
-(Back)
+Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
 
-_Notice_. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
 
-(Back)
+Please review your [advertising preferences](https://web.archive.org/about/ads) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
 
-_Parents_. Parents means a parent or legal guardian.
+Vendors, service providers and other partners.
 
-(Back)
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
 
-_Personal information_. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information. 
+###  How can I manage or delete information about me? 
 
-(Back)
+You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://web.archive.org/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://web.archive.org/help/302796099745838). 
 
-_Public Forums_. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services. 
+We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
 
-(Back)
+You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://web.archive.org/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
 
-_The Walt Disney Family of Companies_. The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following:
+###  How do we respond to legal requests or prevent harm? 
 
-  * ABC
-  * Baby Einstein
-  * BabyZone
-  * Club Penguin
-  * Disney
-  * ESPN
-  * Hollywood Records
-  * Kaboose
-  * Marvel
-  * Muppets
-  * Pixar
-  * Playdom
-  * Tapulous
-  * Touchstone
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
 
+###  How our global services operate 
 
+Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=BAQHa_8AQ&s=1). 
 
-(Back)
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=0AQGjZaVb&s=1). 
 
-Please visit our [Tapulous Customer Support Site](https://web.archive.org/support) where you can read answers to frequently asked questions or submit a question or request to our support team.
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
 
-Or write to us at:
+###  How will we notify you of changes to this policy? 
 
-Tapulous, Inc.  
-395 Page Mill Road, Second Floor  
-Palo Alto, CA 94306  
-Email: [privacy@tapulous.com](mailto:privacy@tapulous.com)
+We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
 
-(Back)
+###  How to contact Facebook with questions 
+
+To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+
+If you live in the US or Canada… 
+
+Please contact Facebook, Inc. [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook, Inc.  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+If you live anywhere else… 
+
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook Ireland Ltd.  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2 Ireland 
+
+Date of Last Revision: January 30, 2015 
