@@ -1,42 +1,73 @@
-> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185859id_/http%3A//www.onsecrethunt.com/wallpaper/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231080402id_/http%3A//www.onsecrethunt.com/wallpaper/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | On Secret Hunt
 
-### On Secret Hunt, Privacy Policy
+This Privacy Policy governs the manner in which onsecrethunt.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the onsecrethunt.com website (“Site”). This privacy policy applies to the Site and all products and services offered by onsecrethunt.com.
 
-At **On Secret Hunt** , we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.  
+## Personal Identification Information
 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### When does On Secret Hunt collect my personal information?
+## Non-personal Identification Information
 
-You may provide personal information to OSH everal ways including: 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-(1)By sharing your e-mail address when subscribing to our newsletter.
+## Web Browser Cookies
 
-(2)By sharing personal information when submit your Article,Tutorial,Tips & Tricks and more… to us or by submitting a report via our Contact Form or Feedback Form.
+This Website uses cookies. A cookie is a small, removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on this Website and allow us to enhance, facilitate and personalize your online surfing and shopping experience. For example, we use cookies to:
 
-(3)By sharing personal information when you post comments on our posts.
+Recognize you when you return to this Website;  
+Remember your stored preferences on this Website;  
+Present relevant content to you when you visit this Website;  
+Analyze visitor behavior; and  
+Facilitate other similar type of activities.  
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings.
 
-(4)By sharing contact information (Twitter username and Facebook account name) through our contests.
+If you turn cookies off, you won’t have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.
 
-In addition to basic contact information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
+## How we use collected information
 
-### How does On Secret Hunt use my personal information?
+onsecrethunt.com may collect and use Users personal information for the following purposes:  
+– To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+– To improve our Site  
+We may use feedback you provide to improve our products and services.  
+– To send periodic emails  
+We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Depending on the portion of our site that you have subscribed to or interacted with, we may use your information in a number of ways.
+## How we Protect Your Information
 
-  * The email address you provided through our newsletter subscription form enables us to send you a daily digest of OSH news stories and posts. This subscription is entirely opt-in by the user. (We cannot subscribe you to the newsletter as you personally must have access to the email account in order to verify the subscription.) Subscribers can opt-out of our newsletter at any time by clicking the “Unsubscribe” link that is present on every email at the very bottom of the newsletter.
-  * The email address that you use when contacting via our Contact Form will not be used for any reason but for the purposes of responding to your inquiry.
-  * We may at times request your participation in a survey. We will not provide your email addresses to any third party but may contact you via them to distribute prizes in associated giveaways.
-  * We may also share your email address such information will be used for data analytics and advertising targeting. However, we do not sell individual personal data or email addresses or allow them to be used for mailings you have not asked to receive.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
+Sharing your Personal Information  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
+## Advertising
 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
+## Google AdSense
 
-  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
-  * Google’s privacy policy at <http://www.google.com/privacy.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+## Third Party Site Privacy Policy’s
 
+**Google +1 Button –** <http://www.google.com/intl/en/privacy/plusone/>  
+**Feedburner** – Newsletter at <http://www.feedburner.com/fb/a/privacy>  
+**Facebook.com** – fan page, FaceBook like, share and send buttons; <http://www.facebook.com/policy.php>  
+**Twitter.com** – Twitter tweet button; Twitter <http://twitter.com/privacy>  
+**Pinterest.com** – Pinterest Pin button; Pinterest <http://pinterest.com/about/privacy/>
 
-Accounts associated with OSH are all ‘public.’ By ‘public,’ we mean that certain information will be viewable by all users. What you see on other user profiles is the same information that other users can see about you.
+## Changes to this Privacy Policy
+
+onsecrethunt.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your Acceptance of These Terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting US
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.onsecrethunt.com/wallpaper/contact/) at: admin[@]onsecrethunt.com  
+Last Updated: 27/Aug/2015
