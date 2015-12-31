@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lodgemfg.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044222id_/http%3A//www.lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodgemfg.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231040620id_/http%3A//www.lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.*
 
-# Lodge Manufacturing Company
+# Lodge Cast Iron
 
 • Web orders will ship 5-7 business days from the time of purchase. 
 
