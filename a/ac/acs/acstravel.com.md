@@ -1,31 +1,80 @@
-> *The following text is extracted and transformed from the acstravel.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acstravel.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Netster®
+# HugeDomains.com - Privacy Policy
 
-   |  **Netster® Privacy Policy and Terms of Use**
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered by Netster.com. 
+**What information do we collect?**
 
-This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our web pages to transmit, set and access their cookies on your computer. **Therefore, the following policies are those of Netster.com only**. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your browser so not to allow cookies to be placed on your computer. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Cookies and single-pixel gifs**  
-Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, (in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical information. Again, The Netster® does **not** gather personal information through the use of these images. The Netster® or our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information. 
+**What do we use your information for?**
 
-In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide it to The Netster®. This information is collected at the time **you** have **chosen** to sign-up for certain Netster.com products or services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to send you product and service offers in the future. We may also use this information to provide to companies who work for or on behalf of Netster.com to provide special offers on product and services. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to return to you the most relevant information and links to the web sites your search query has called for. However, we cannot guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the Internet is **NOT** appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or usefulness of any materials contained in such sites. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise amended except in a written document signed by you and Netster.com 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**CHILDREN'S PRIVACY**  
-Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department by e-mail at [emailsupport@netster.net](mailto:emailsupport@netster.net) **Visit** <http://www.ftc.gov/kidzprivacy> **for information from the Federal Trade Commission about protecting children's privacy online**. 
+• To process transactions
 
-* * *
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-  
-  
+• To send periodic emails
 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
