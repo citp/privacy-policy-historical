@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornfail.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052505id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornfail.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010301id_/http%3A//efukt.com/privacy) for the most accurate reproduction.*
 
-# eFukt.com | adult humor for adults
+# Adult humor for adults | eFukt.com
 
 Privacy Policy
 
