@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629204703id_/http%3A//www.tripadvisor.ca/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ca privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091204id_/http%3A//www.tripadvisor.ca/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
@@ -209,8 +209,8 @@ TripAdvisor may change or modify this Privacy Policy in the future. We will note
 If you have questions about this Privacy Policy, please contact us at: 
 
 TripAdvisor  
-141 Needham Street,  
-Newton, MA 02464,  
+400 1st Avenue,  
+Needham, MA 02494,  
 USA  
 Attn: Privacy Officer/Legal Department  
 Email: [privacy@tripadvisor.com](mailto:privacy@tripadvisor.com)  
