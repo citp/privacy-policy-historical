@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122150id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231201731id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
-Last Updated: 8 April 2015.
+Last Updated: 8 April 2015. 
 
-To view changes to the Privacy Notice please [click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201809190).
+To view changes to the Privacy Notice please [click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201809190). 
 
 Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. **By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
-  * Controllers of Personal Information.
+  * Controllers of Personal Information. 
   * What Personal Information About Customers Does Amazon.co.uk Gather?
   * What About Cookies?
   * Does Amazon.co.uk Share the Information it Receives?
@@ -17,20 +17,20 @@ Amazon.co.uk knows that you care how information about you is used and shared an
   * What Information Can I Access?
   * What Choices Do I Have?
   * Are Children Allowed to Use Amazon.co.uk?
-  * Notices and Revisions.
-  * Examples of Information Collected.
+  * Notices and Revisions. 
+  * Examples of Information Collected. 
 
 
 
 ##  Controllers of Personal Information
 
-Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 5 Rue Plaetis L-2338, Luxembourg and Amazon Instant Video Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers). Amazon.co.uk Ltd of 60 Holborn Viaduct, London, England, EC1A 2FD UK acts as data processor on behalf of the data controllers. 
+Any personal information provided to or gathered by Amazon UK Service is controlled by Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 5 Rue Plaetis L-2338, Luxembourg and Amazon Instant Video Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers). Amazon UK Services Ltd of 60 Holborn Viaduct, London, England, EC1A 2FD UK acts as data processor on behalf of the data controllers. 
 
-Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the [U.S. Department of Commerce's Safe Harbour](https://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
+Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the [U.S. Department of Commerce's Safe Harbour](https://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com). 
 
 ## What Personal Information About Customers Does Amazon.co.uk Gather?
 
-The information we learn from customers helps us personalise and continually improve your shopping experience at Amazon.co.uk. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
+The information we learn from customers helps us personalise and continually improve your shopping experience at Amazon.co.uk. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and website, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf. 
 
 Here are the types of information we gather: 
 
@@ -94,9 +94,9 @@ Amazon.co.uk doesn't sell products for purchase by children. We sell children's 
 
 ## Conditions of Use, Notices & Revisions
 
-If you have any concern about privacy at Amazon.co.uk, please [contact us](https://www.amazon.co.uk/gp/help/contact-us/general-questions.html) with a thorough description and we will try to resolve the issue for you.
+If you have any concern about privacy at Amazon.co.uk, please [contact us](https://www.amazon.co.uk/gp/help/contact-us/general-questions.html) with a thorough description and we will try to resolve the issue for you. 
 
-Our business changes constantly and our Privacy Notice and the [ Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html?nodeId=1040616) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Our business changes constantly and our Privacy Notice and the [ Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html?nodeId=1040616) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 ## Related Practices & Information
 
@@ -112,11 +112,11 @@ Our business changes constantly and our Privacy Notice and the [ Conditions of U
 
 **Information You Give Us**
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.co.uk or one of our third-party sellers; provide information in [Your Account](https://www.amazon.co.uk/youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or your [ Your Profile](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039420); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; use our services; compile [ Wish Lists](https://web.archive.org/gp/help/customer/display.html?nodeId=748390) or other gift registries; participate in Discussion Boards or other community features; provide and rate [ Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=201468010); specify a Special Occasion Reminder; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); people (with addresses and phone numbers) listed in [ 1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=201459800) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in your [ Your Profile](https://web.archive.org/gp/help/customer/display.html?nodeId=200039420); and financial information. 
+You provide most such information when you search, buy, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.co.uk or one of our third-party sellers; provide information in [Your Account](https://www.amazon.co.uk/youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or your [Your Profile](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039420); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; use our services; compile [ Wish Lists](https://web.archive.org/gp/help/customer/display.html?nodeId=748390) or other gift registries; participate in Discussion Boards or other community features; provide and rate [ Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=201468010); specify a Special Occasion Reminder; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); people (with addresses and phone numbers) listed in [ 1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=201459800) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in your [ Your Profile](https://web.archive.org/gp/help/customer/display.html?nodeId=200039420); and financial information. 
 
 **Automatic Information**
 
-Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; and time zone setting, browser plug-in types and versions; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; and time zone setting, browser plug-in types and versions; operating system; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
 
 **Mobile**
 
