@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615024333id_/http%3A//www.webgility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124628id_/http%3A//www.webgility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webgility
 
@@ -34,3 +34,7 @@ You can update or correct your contact information relating to your Webgility ac
 If you have privacy-related questions that are not addressed here, please contact us by visiting [www.webgility.com](http://www.webgility.com/). If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
 
 Last Updated: May 1, 2011
+
+Makes transferring orders from our website to QuickBooks seamless.
+
+\- Jamie Turpin, SOMS Technologies
