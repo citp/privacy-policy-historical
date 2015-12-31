@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627084555id_/http%3A//www.jpost.com/landedpages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231123433id_/http%3A//www.jpost.com/landedpages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
-06.26.2015 | 9 Tammuz, 5775
+12.31.2015 | 19 Tevet, 5776
 
-06.26.2015 | 9 Tammuz, 5775
+12.31.2015 | 19 Tevet, 5776
 
-  * 1. **Privacy:** In order to protect Your Privacy, The Jerusalem Post has set up this extensive Privacy Policy. When You use Services, certain information is retained at The Jerusalem Post's servers, as well as at 3rd Parties. Such information may be stored in databases, conveyed to 3rd parties or used to provide You with better Service, all according to the following policy:
+  * 1. **Privacy:** In order to protect Your Privacy, The Jerusalem Post has set up this extensive Privacy Policy. When You use Services, certain information is retained at The Jerusalem Post's servers, as well as at 3rd Parties. Such information may be stored in databases, conveyed to 3rd parties or used to provide You with better Service, all according to the following policy:   
+You are not obligated under law to provide your information, but without providing your information, The Jerusalem Post may not be able to provide you with the services. The information you provide shall be used to provide you with the Jerusalem Post's services, as you requested through the Terms of Service, and to send you periodic updates according to this Privacy Policy.
   
 
   * 1.1 **What Information is stored?** The Jerusalem Post retains certain information you provide it when you browse its Services, as well as information tracked using automated means.
