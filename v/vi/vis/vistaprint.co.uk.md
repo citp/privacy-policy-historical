@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623083057id_/http%3A//www.vistaprint.co.uk/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231084725id_/http%3A//www.vistaprint.co.uk/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
 
 # Vistaprint Cookies & Privacy
 
@@ -160,8 +160,8 @@ Vistaprint Address for Written Requests. If you choose to indicate your preferen
 Vistaprint Limited  
 c/o Vistaprint USA Incorporated  
 Customer Care  
-95 Hayden Avenue  
-Lexington MA 02421  
+275 Wyman Street  
+Waltham Massachusetts 02451  
 USA
 
 How to manage your account:
@@ -169,10 +169,10 @@ How to manage your account:
 If you wish to change your name, e-mail address, telephone number, password, communication and/or opt-in preferences after you have registered, you can access your account by logging into My Account and selecting Account Update. You may also request these changes by contacting customer care at <http://www.vistaprint.co.uk/customer-care/contact-us.aspx> or calling Customer Care at 0800 496 0350 or writing to: 
 
 Vistaprint Limited  
-c/o Vistaprint USA Incorporated  
+c/o Vistaprint]__ USA Incorporated  
 Customer Care  
-95 Hayden Avenue  
-Lexington MA 02421  
+275 Wyman Street  
+Waltham Ma 02451  
 USA  
 
 
