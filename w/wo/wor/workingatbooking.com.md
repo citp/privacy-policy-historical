@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the workingatbooking.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628151503id_/http%3A//www.booking.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingatbooking.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231222200id_/http%3A//www.booking.com/content/privacy.html) for the most accurate reproduction.*
 
 # Booking.com: Privacy and Cookies.
+
+2015-12-31 23:22:01
 
 Your privacy is important to us. We value your trust and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal data and how we use cookies. It also tells you how you can contact us if you have questions about your personal information.
 
