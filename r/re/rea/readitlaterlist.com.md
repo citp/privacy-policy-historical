@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184630id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010531id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
 
 # Pocket: Privacy Policy
 
