@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultofandroid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234515id_/http%3A//www.cultofandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofandroid.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231122839id_/http%3A//www.cultofandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Cult of Android - Privacy Policy | Cult of Android
 
