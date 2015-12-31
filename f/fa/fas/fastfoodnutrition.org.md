@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000757id_/http%3A//www.fastfoodnutrition.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231030049id_/http%3A//fastfoodnutrition.org/privacy) for the most accurate reproduction.*
 
-# - Fast Food Nutrition Facts
+# 
 
 This Privacy Policy governs the manner in which FastFoodNutrition.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.fastfoodnutrition.org](http://www.fastfoodnutrition.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FastFoodNutrition.org.
 
