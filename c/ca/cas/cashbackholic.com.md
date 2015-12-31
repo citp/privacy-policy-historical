@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackholic.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608023539id_/http%3A//www.cashbackholic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackholic.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231181521id_/http%3A//www.cashbackholic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CashbackHolic.com
 
