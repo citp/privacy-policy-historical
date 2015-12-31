@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205148id_/http%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231233548id_/http%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eLiquid.com
 
@@ -20,11 +20,14 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 **How do I withdraw my consent?**
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at Info@TheVaporLoft.com or mailing us at:
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@eliquid.com or mailing us at:
 
 **eLiquid.com  
-** 23810 Via Del Rio, Suite C  
-Yorba Linda, CA 92887
+**
+
+16832 Red Hill Ave
+
+Irvine, CA 92606
 
 **SECTION 3 - DISCLOSURE**
 
@@ -106,9 +109,10 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at Info@TheVaporLoft.com or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@eliquid.com or by mail at:
 
-**eLiquid.com**  
-23810 Via Del Rio, Suite C
+**eLiquid.com**
 
-Yorba Linda, CA 92887
+16832 Red Hill Ave
+
+Irvine, CA 92606
