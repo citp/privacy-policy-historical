@@ -1,56 +1,80 @@
-> *The following text is extracted and transformed from the article356.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213002957id_/http%3A//www.article356.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article356.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy » Article356.com
+# HugeDomains.com - Privacy Policy
 
-Article356.com owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-## Information Collected
+**What information do we collect?**
 
-  * Your personal information is not required to visit http://www.article356.com
-  * Any personal information collected is knowingly provided by you and only when requested/required during account registration for interactive participation on http://www.article356.com and during the ordering process
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
+**What do we use your information for?**
 
-### Traffic Data
+Any of the information we collect from you may be used in one of the following ways: 
 
-  * Your IP address is a numeric address assigned to your computer, assigned by your Internet service provider. We automatically collect your IP address as traffic data so that we can send information back to you when requested. This is not used to identify your personal information.
-  * Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information.
-  * System information such as your operating system/platform, and the type of web browser you use. This is not attached to personally identifiable information.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-## Information Use
+• To process transactions
 
-### Account Information
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-  * Your information is maintained on a secure web server in what we believe to be a well protected environment.
-  * Article356.com only shares personal information to billing companies for completing transactions and for no other purpose. No other information is shared with any other third-party company for any purpose, under any circumstance.
-  * Article356.com makes every effort to preserve your privacy, personal information may be disclosed when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, court order or legal process.
+• To send periodic emails
 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-### Cookies
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-http://www.article356.com relies on “cookie” technology to allow you to re-access your registered account profile during a web session. This mechanism is employed solely for your convenience and for no other purpose.
+**How do we protect your information?**
 
-### Links
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-This Web site contains links to other sites. Please be aware that we, Article356.com, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-### Security
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-This web site takes every precaution to protect our visitor’s information. When visitors submit sensitive information via the web site, their information is protected both online and off-line.
+**Do we use cookies?**
 
-We do everything in our power to protect user-information off-line. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-If visitors have any questions about the security on http://www.article356.com, feel free to contact Customer Service.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-### Correcting, Updating, Deleting & Deactivating Personal Information
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service.
+**Do we disclose any information to outside parties?**
 
-## Notification of Changes
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Online Privacy Policy Only**
 
-If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
