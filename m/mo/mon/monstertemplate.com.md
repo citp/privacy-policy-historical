@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstertemplate.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621163629id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstertemplate.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231114501id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,6 +41,16 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
 
 
+**User ID Tracking**  
+
+
+  * TemplateMonster.com uses Google Analytics to track and analyze website visits and usage. Google Analytics uses a unique User ID when a user is authenticated and logged in.
+  * On Behalf of TemplateMonster.com, Google Analytics tracks users flow, location by country, language, browser and operating system, internet service provider and devices used to access TemplateMonster.com. TemplateMonster.com tracks this information to improve service to its clients.
+  * TemplateMonster.com will not upload any data that allows Google to personally identify an individual (such as name, Social Security Number, email address, or any similar data), or data that permanently identifies a particular device (e.g. IP address).
+  * To opt-out of Analytics for the web, visit the [ Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.
+
+
+
 **Display Advertising**  
 
 
@@ -74,6 +84,6 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@templatemonster.com](mailto:privacy@templatemonster.com).
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please leave us a note [here](http://support.template-help.com/index.php?/Tickets/Submit).
 
 
