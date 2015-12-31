@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629041612id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091205id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
@@ -49,8 +49,6 @@ We automatically collect some information from your computer or Device when you 
 #### Payment Information.
 
 If you make travel reservations with third-party suppliers facilitated by TripAdvisor, we will collect payment information from you, including your credit card number, cardholder name, expiration date, authentication code, and billing address. We will securely transmit this information to the supplier of the travel reservation to complete the transaction. Please note that the supplier processes your payment, not TripAdvisor, unless otherwise specified. You agree to review and be bound by the supplier’s policies and procedures before making a reservation through TripAdvisor. 
-
-We may offer members the option to save information related to method and choice of payment on our Website. If you save such payment details on TripAdvisor, you will be able to add, delete, or modify that information at any time in Account Settings. 
 
 #### Location Information and Other Information from Devices.
 
@@ -170,8 +168,8 @@ If you have questions about this Privacy Policy, please contact us at:
 
 TripAdvisor LLC  
 Attn: Legal Department, Privacy Officer  
-141 Needham Street  
-Newton, MA 02464, USA
+400 1st Avenue  
+Needham, MA 02494, USA
 
 #### Call Recording and Monitoring.
 
