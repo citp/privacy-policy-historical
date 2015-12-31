@@ -1,17 +1,35 @@
-<!--The following is the downloaded HTML source of the fastvideo.me privacy policy that was archived on 2015-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503173033id_/http%3A//www.fastvideo.me/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fastvideo.me privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231121707id_/http%3A//www.fastvideo.me/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><title>Fastvideo.eu</title>
 
 
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>FastVideo</title>
 	<link rel="stylesheet" type="text/css" href="http://www.fastvideo.me/css/reset.css">
 	<link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="http://www.fastvideo.me/css/main.css">
+	<link rel="stylesheet" type="text/css" href="http://www.fastvideo.me/css/jquery.sidr.light.css">
+	<link rel="stylesheet" type="text/css" href="http://www.fastvideo.me/css/responsive.css">
 
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.fastvideo.me/js/jquery.min.js"></script>
 	<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.fastvideo.me/js/xupload.js"></script>
+	<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.fastvideo.me/js/jquery.sidr.min.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+        jQuery('.toggler').sidr({
+	        name: 'sidr-left',
+	        source: '#search, #navigation',
+	        onOpen: function(){
+	          $('body').css({'overflow':'hidden', 'height': '100%'});
+	        },
+	        onClose: function(){
+	          $('body').css({'overflow':'auto', 'height': 'auto'});
+	        }
+	    });
+	});
+	</script>
 
 	<meta name="description" content="FastVideo - Free file upload service">
 	<meta name="keywords" content="file upload,share files,free upload">
@@ -35,7 +53,7 @@
 			<div id="banner">FREE <span id="infinity">∞</span> storage to store your <b>FILES</b>, <b>VIDEO</b>, <b>MUSIC</b>, etc... </div>
 			<div id="search">
 				<form action="/" method="POST">
-					<input type="text" name="search" value="" placeholder="Search...">
+					<input type="search" name="search" value="" placeholder="Search...">
 					<input type="submit" name="do_search" value="">
 				</form>
 			</div>
@@ -51,6 +69,7 @@
 	<div id="navigation_container">
 		<div id="navigation">
 			<ul>
+				<li class="toggler"><img src="images/toggler.png"></li>
 				<li>
 					<a href="http://www.fastvideo.me/">Home</a>
 				</li>
@@ -89,8 +108,7 @@
 </ul>
 <br>
 Below is our privacy policy which incorporates these goals:<br><br>
-If you have questions about accessing or correcting your personal data please contact our support team at support@fastvideo.me<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script><br><br>
+If you have questions about accessing or correcting your personal data please contact our support team at support@fastvideo.me<br><br>
 FastVideo Inc. (“FastVideo”) operates on this website www.fastvideo.me It is FastVideo’s policy to respect your privacy regarding any information we may collect while operating our websites.<br><br>
 
 <b>Website Visitors</b><br><br>
