@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekingalpha.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627085808id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingalpha.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231233955id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy | Seeking Alpha
 
