@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626133804id_/http%3A//appleinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231191517id_/http%3A//appleinsider.com/privacy) for the most accurate reproduction.*
 
 # Apple News and rumors since 1997 | AppleInsider
 
