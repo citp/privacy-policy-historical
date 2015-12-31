@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630095255id_/http%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231202332id_/http%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cult of Mac
 
-## [Privacy Policy](http://www.cultofmac.com/privacy-policy/ "Read "Privacy Policy"")
+  * [News](http://www.cultofmac.com/category/news/)
+
+[](http://www.cultofmac.com/privacy-policy/)
 
  **Privacy Policy for www.cultofmac.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@cultofmac.com](mailto:info@cultofmac.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@cultofmac.com.
 
 At www.cultofmac.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.cultofmac.com and how it is used.
 
