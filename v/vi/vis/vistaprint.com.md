@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626023009id_/http%3A//www.vistaprint.com/customer-care/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231101221id_/http%3A//www.vistaprint.com/customer-care/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Vistaprint Privacy & Security
 
@@ -92,11 +92,11 @@ Updating Your Personal Information
 
 If you wish to change your name, e-mail address, password, and/or communication preferences after you have registered, you can access your account in the [My Account](https://web.archive.org/vp/ns/my_account/account_update.aspx) section of the Website. You may also request these changes by contacting [Customer Service](https://web.archive.org/customer-care/contact-us.aspx) or calling Customer Service at 1.866.614.8002 or writing to the address below. 
 
-Vistaprint Limited  
+_Vistaprint Limited  
 c/o Vistaprint USA Incorporated  
 Customer Care  
-95 Hayden Avenue  
-Lexington MA 02421  
+275 Wyman Street  
+Waltham Ma 02451  
 USA  
 Copy Text to Clipboard   
 Vistaprint Limited  
@@ -122,10 +122,10 @@ Vistaprint Address for Written Requests
 Written request may be sent to the following address. When writing to us, please be sure to include your exact name, mailing address, telephone number and specific preferences or request. 
 
 Vistaprint Netherlands B.V.  
-c/o Vistaprint USA, Incorporated  
+c/o _[LM:SiteBranding:CompanyName]_ USA, Incorporated  
 Customer Service  
-95 Hayden Avenue  
-Lexington MA 02421  
+275 Wyman Street  
+WalthamMA 02451  
 USA 
 
 Special Notification for California Residents
