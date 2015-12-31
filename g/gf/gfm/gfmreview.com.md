@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gfmreview.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621210024id_/http%3A//www.gfmreview.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfmreview.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231171222id_/http%3A//gfmreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 GFM Review is committed to protecting and respecting your privacy.
 
-This policy (which forms part of the [Terms of Use](http://www.gfmreview.com/index.php/termsofuse) of our site) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (which forms part of the [Terms of Use](http://www.gfmreview.com/index.php/termsofuse) of our site) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 Please note that this Privacy Policy applies only to our site and not to any third party sites that are linked to from our site.
 
@@ -86,7 +86,7 @@ We may collect and process the following data about you:
 
 6\. Your rights
 
-6.1  You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@gfmreview.com](mailto:info@gfmreview.com).
+6.1  You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@gfmreview.com](mailto:info@gfmreview.com).
 
 6.2  Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -102,13 +102,13 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 9\. Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@gfmreview.com](mailto:info@gfmreview.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@gfmreview.com](mailto:info@gfmreview.com).
 
 10\. ClickTale
 
-This site also uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to increase our site's usability and make it a more enjoyable experience for you to browse it.
+This site also uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to increase our site's usability and make it a more enjoyable experience for you to browse it.
 
-You can choose to disable the service at [http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)
+You can choose to disable the service at [http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)
 
 11\. Google Analytics & DoubleClick
 
@@ -116,9 +116,9 @@ At an advertiser’s discretion, Google Analytics data may be examined in concer
 
                         GFM Review may use this data to inform and optimize our ad campaigns.
 
-                        Users may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/) or
+                        Users may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/) or
 
-                        Visitors may opt out of our use of Analytics by visiting the [Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).
+                        Visitors may opt out of our use of Analytics by visiting the [Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).
 
 12\. Google Analytics & Remarketing
 
@@ -128,4 +128,4 @@ Third party vendors, including Google, may show GFM Review ads on sites on the i
 
                         We may also use analytics data to serve ads based on a user's prior visits to our website.
 
-                        Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). In addition, you may also opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+                        Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). In addition, you may also opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
