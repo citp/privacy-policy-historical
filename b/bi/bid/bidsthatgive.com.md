@@ -1,82 +1,80 @@
-> *The following text is extracted and transformed from the bidsthatgive.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023105120id_/http%3A//www.bidsthatgive.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsthatgive.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy | BidsThatGive »
+# HugeDomains.com - Privacy Policy
 
-**PRIVACY POLICY**
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-BidsThatGive.com is a service provided by Bids That Give Ltd. We acknowledge and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you're visiting BidsThatGive.com.
+**What information do we collect?**
 
-Please read this Privacy Policy before using the BidsThatGiveBidsThatGive website or submitting any personal information. By using the BidsThatGive website, you accept and consent to the practices described in this Privacy Policy. By your continued use you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. If you do not agree with these practices you are free to discontinue your use of the BidsThatGive website at any time.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-If you have questions about our privacy policy, please email us at [auctions@BidsThatGive.com](mailto:auctions@BidsThatGive.com).
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-You may visit BidsThatGive at any time without intentionally revealing any personal information about yourself. However, when you visit our website, we may collect and store your computer and connection information, statistics on page views, traffic to and from BidsThatGive, advertisement data, IP address and standard web log information and information from other companies, such as demographic and navigation data.
+**What do we use your information for?**
 
-**DATA COLLECTION**
+Any of the information we collect from you may be used in one of the following ways: 
 
-You may visit BidsThatGive at any time without intentionally revealing any personal information about yourself. However, when you visit our website, we may collect and store your computer and connection information, statistics on page views, traffic to and from BidsThatGive, advertisement data, IP address and standard web log information and information from other companies, such as demographic and navigation data.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-For you to actively participate in BidsThatGive we do need some of your personal information. Once you provide us with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-When you register on BidsThatGive, we will collect the following required information: email address, first and last name, date of birth, and password; all transactional information based on your activities on BidsThatGive; shipping, billing and other information relating to any purchase or shipping; any correspondence sent to us; financial information, such as your credit card information; and other supplemental information from third parties.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**USE OF DATA**
+• To process transactions
 
-Our purpose for collecting personal information is to provide you with a safe, efficient, and customized experience. By signing up, you agree that we may use your personal information to: provide the services and customer support you request; resolve disputes, collect fees, and troubleshoot problems; prevent potentially prohibited or illegal activities, and enforce our Terms & Conditions; customize, measure and improve our services, content and advertising; inform you about our services, targeted marketing, service updates, and promotions; and compare information and verify it with third parties for accuracy.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**DISCLOSURE OF PERSONAL DATA**
+• To send periodic emails
 
-  * We may disclose personal information to respond to legal requirements, enforce our Terms & Conditions and Privacy Policy, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. This information will be disclosed under applicable laws and regulations.  
- 
-  * We may also share your personal information with third parties assisting our business operations under contract, including but not limited to fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should we plan to merge with or be acquired by that business entity.  
- 
-  * We do not share your personal information with third party advertisers.  
- 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**YOUR INFORMATION ON BIDSTHATGIVE**
+**How do we protect your information?**
 
-Once you have been approved as a registered user with BidsThatGive, you will be required to choose a user name. This user name will be displayed throughout BidsThatGive and therefore provided to the public. If you win an auction, BidsThatGive will display the number of bids and dollar value of those bids when the auction ends. Unless you associate your user name with your personal information, other users will not be able to personally identify your activities on BidsThatGive.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-When visiting BidsThatGive from a public or shared computer, certain information about you, such as your user name, may also be visible to others who may use that computer after your use. It is your responsibility to ensure private information is removed from the public or shared computer should you choose to use one.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**ACCESS, REVIEW, AND CHANGE OF PERSONAL DATA**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-You can access, review and change most of your personal information by logging on to BidsThatGive at any time. However, some of your personal information can only be changed by contacting our Customer Service. Accurate information is required for billing and delivery purposes. You are required to promptly update your personal information if changes occur or information is inaccurate.
+**Do we use cookies?**
 
-**CLOSING YOUR ACCOUNT**
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-Upon closing your account, BidsThatGive will remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms & Conditions, and take other actions otherwise permitted by law.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**USE OF COOKIES AT OUR WEBSITE**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-BidsThatGive uses so-called "cookies", which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. The information saved supports the functionality of the site, for example, by keeping track of your visual preferences or controlling the frequency of "pop-up" windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, turning off these settings may result in limited functionality.
+**Do we disclose any information to outside parties?**
 
-**SECURITY MEASURES**
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-Your BidsThatGive account and profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. BidsThatGive will never ask for your password in e-mail or over the phone. Please remember to log out of your account and to close your Internet browser window when you leave the BidsThatGive site; this is especially important if you use a PC in public locations. We assume no liability for the abuse of login data and passwords used.
+**Online Privacy Policy Only**
 
-BidsThatGive treats data as an asset that must be highly protected. We use security measures to protect your personal information against unauthorized access and disclosure. However, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-PROTECTION FROM WEB CRAWLERS OR SPAM
+**Terms and Conditions**
 
-BidsThatGive assures you that we will use your e-mail address with your express consent only for the purposes stated in the help Terms & Conditions. We will not rent or sell your e-mail address to third parties, and we will prevent your e-mail address from being recorded by "web crawlers" or "web spiders" to the best of our ability. If you believe that your e-mail address has been recorded in this way, please email us at support@BidsThatGive.com immediately.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-**CHILDREN**
+**Your Consent**
 
-BidsThatGive is sensitive to the need to protect the privacy of children who use the Internet. BidsThatGive does not knowingly collect or solicit personally identifiable information from or about children under the age of eighteen (18) consistent with and exceeding the requirements of the Children's Online Privacy Protection Act. If we discover or are otherwise notified that we have received any such information from a child in violation of this policy, we will delete that information. If you are under the age of eighteen (18), please do not attempt to provide any personally identifiable information on our Sites. If you believe that BidsThatGive has any information from or about a child under the age of thirteen, please contact us immediately by clicking on "Contact Us" and sending us an e-mail and we will take appropriate steps to remove such information from our files.
+By using our site, you consent to our web site privacy policy. 
 
-Please review the privacy policy of other sites you or your children elect to link to through BidsThatGive for the children's privacy policy of those sites. BidsThatGive is not responsible for the privacy policy or other content of any other website, including sites that are co-branded.
+**Changes to our Privacy Policy**
 
-**NOTICE OF PRIVACY RIGHTS TO CALIFORNIA RESIDENTS**
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the "Act") and the California Business and Professions Code. As required by the Act, we provide you with the categories of personally identifiable information that we collect through this website and the categories of third party persons or entities with whom such personally identifiable information may be shared for direct marketing purposes at your request.
+This policy was last modified on 1/10/2012 
 
-California law requires us to inform you, at your request, (1) the categories of personally identifiable information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below.
+**Contacting Us**
 
-When contacting us, please indicate your name, address, email address, and what personally identifiable information you do not want us to share with third parties. The request should be sent to the attention of our legal department, and labeled "California Customer Choice Notice." Please allow thirty (30) days for a response. Also, please note that there is no charge for controlling the sharing of your personally identifiable information or requesting this notice.
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-**GENERAL**
-
-We may amend this Privacy Policy at any time by posting the new Privacy Policy on BidsThatGive. BidsThatGive reserves the right to change this Privacy Policy at any time without notice to you. Consequently, you should review this Privacy Policy for changes each time You visit BidsThatGive.
+HugeDomains.com
