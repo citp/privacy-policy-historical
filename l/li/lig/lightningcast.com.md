@@ -1,20 +1,36 @@
-> *The following text is extracted and transformed from the lightningcast.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604181821id_/http%3A//www.lightningcast.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightningcast.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231142637id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
-# Lightningcast - Privacy Policy
+# AOL Privacy
 
-### Lightningcast, Inc. Website Privacy Policy 
+### How to Opt-Out
 
-Your privacy is very important to us. Lightningcast, Inc. respects your concerns about maintaining strict privacy. Any information that you divulge to us via this website is kept in confidence. We do not collect personally identifiable information on our website unless you choose to give it to us. Even when you choose to give us information, we keep it confidential. We do not sell, rent, share, or otherwise disclose mailing lists or other personally identifiable information obtained via our website. We may maintain some records of individuals who contact us in case we contact you later or provide further information to you in the future. However, we do not provide this information to anyone else unless you give us your permission. 
+You can [opt-out](http://www.aboutads.info/choices/) of targeted advertising delivered by the AOL Advertising Network.
 
-We do not enable "cookies" on our website. Cookies are a feature of many web browsers defined as client-side persistent information. Cookies allow websites to store information about your visit to that site on your hard drive. Then when you return, cookies will read your hard drive to find out if you have been there before. The website might offer you products or ads tailored to your interests, based on the contents of the cookies data. 
+### Information We Collect and Receive
 
-The server of our Internet Service Provider collects information about the date and time in which our website was accessed and the Internet address of the website from which you linked to our site. We have the ability to access this information. We can use this information to analyze web traffic by measuring the number of visitors to our site and the addresses of the websites from which our visitors come. E-mail addresses and other personally identifiable information are not available to us via this website. 
+We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources.
 
-If you have any questions or concerns about this privacy policy, please feel free to contact us at our e-mail address [info@lightningcast.com](mailto:info@lightningcast.com), or at the following coordinates: 
+### Internet Advertising
 
-> Lightningcast, Inc.  
->  Attn: Privacy Director  
->  1100 South Washington Street   
->  Alexandria, VA 22314  
->  Tel. 703.535.5806  
->  Fax 703.535.7957 
+Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.com/advertising-and-privacy/).
+
+### Information Sharing
+
+AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties. We may, however, share [non-personally identifiable information](http://privacy.aol.com/definitions) with select business partners. 
+
+### How we use your Information
+
+The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
+
+### How to Contact Us
+
+ **AOL Privacy**  
+22000 AOL Way  
+Dulles, VA 20166  
+privacyquestions@aol.com
+
+[](http://www.networkadvertising.org/managing/learn_more.asp)
+
+[](http://www.aboutads.info/)
+
+AOL is a member of the Network Advertising Initiative and is committed to complying with the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising.
