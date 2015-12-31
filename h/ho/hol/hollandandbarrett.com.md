@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510174701id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231151542id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
 
-# Holland & Barrett - the UK's Leading Health Retailer> Privacy & cookie policy
+# Holland & Barrett - the UK’s Leading Health Retailer> Privacy & cookie policy
 
 At Holland & Barrett we make every effort to ensure we protect your personal information.
 
-This [www.hollandandbarrett.com/](https://web.archive.org/) (the “Website") is owned and operated by Holland & Barrett Retail Limited (the “Company” “we” “us”, or “Holland & Barrett”). This Data and Privacy Policy (“Policy”), in conjunction with our [Terms and Conditions](https://web.archive.org/info/terms-conditions), explains how Holland & Barrett may use the information we collect about you, as well as the rights you have over any personal information we hold about you. Please read this Policy and our [Terms and Conditions](https://web.archive.org/info/terms-conditions) carefully; by accessing the Website you confirm to have understood and agreed to them.
+This www.hollandandbarrett.com (the “Website") is owned and operated by Holland & Barrett Retail Limited (the “Company” “we” “us”, or “Holland & Barrett”). This Data and Privacy Policy (“Policy”), in conjunction with our [Terms and Conditions](https://web.archive.org/info/terms-conditions), explains how Holland & Barrett may use the information we collect about you, as well as the rights you have over any personal information we hold about you. Please read this Policy and our [Terms and Conditions](https://web.archive.org/info/terms-conditions) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
-Holland & Barrett has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's programme requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through web sites which link to this Policy.
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservices@hollandandbarrett.com](mailto:customerservices@hollandandbarrett.com) or write to us at Customer Services, Holland & Barrett Retail Limited, Samuel Ryder House, Barling Way, Eliot Park, Nuneaton, Warwickshire, CV10 7RH.  If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).  TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservices@hollandandbarrett.com](mailto:customerservices@hollandandbarrett.com) or write to us at Customer Services, Holland & Barrett Retail Limited, Samuel Ryder House, Barling Way, Eliot Park, Nuneaton, Warwickshire, CV10 7RH.
 
 ## **Information we collect**
 
