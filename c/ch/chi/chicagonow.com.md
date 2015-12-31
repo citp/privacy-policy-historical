@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagonow.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155005id_/http%3A//chicagotribune.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagonow.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231045715id_/http%3A//chicagotribune.com/privacypolicy) for the most accurate reproduction.*
 
 # Tribune Publishing | Privacy Policy and Your Privacy Rights
 
