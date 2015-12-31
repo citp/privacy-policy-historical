@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the runrocknroll.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629004028id_/http%3A//competitorgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runrocknroll.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231084853id_/http%3A//competitorgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy Competitor Group, Inc.
+# Privacy Policy - Competitor Group Inc.
+
+### Privacy Policy
 
 **COMPETITOR GROUP ONLINE PRIVACY POLICY**
 
@@ -98,3 +100,5 @@ Competitor Group, Inc.
 San Diego, CA 92121  
 (858)450-6510  
 PrivacyPolicy@competitorgroup.com
+
+© Competitor Group Inc. 2015
