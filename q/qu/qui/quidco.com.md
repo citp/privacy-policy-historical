@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624001746id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231073801id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
 
 # Quidco - The UK's #1 Cashback Site
 
 Personal data, or personal information as it is sometimes called, is data that relates to or is capable of identifying a living person. Account Holder privacy is very important to us and we do all we can to protect it.
 
-The purpose of this Privacy Policy is to let you know the type of information we may gather about you, how we may use it, whether we disclose it to anyone, and the choices you have regarding our use of the information. Words and phrases in this Privacy Policy have the same meaning as in the [Quidco Account Holder Agreement](http://www.quidco.com/quidco-account-holder-agreement/).
+The purpose of this Privacy Policy is to let you know the type of information we may gather about you, how we may use it, whether we disclose it to anyone, and the choices you have regarding our use of the information. Words and phrases in this Privacy Policy have the same meaning as in the [Quidco Account Holder Agreement](https://web.archive.org/quidco-account-holder-agreement/).
 
   
 
 
 ## General Information
 
-When you join Quidco your personal data will be collected, processed, stored and used by us and other companies within our group to provide customer support, process payments we make to Account Holders and for other purposes referred to in this Privacy Policy, the Quidco Account Holder Agreement and any other agreements that Account Holders may have with us.
+Your personal data will be collected, processed, stored and used by us and passed to and processed by companies within our group and data processors acting under contract with us to provide customer support, track your transactions with retailers, process payments we make to Account Holders and for other purposes referred to in this Privacy Policy, the Quidco Account Holder Agreement and any other agreements that Account Holders may have with us.
 
   
 
@@ -29,13 +29,13 @@ When you join Quidco your personal data will be collected, processed, stored and
 
 **Cookies** : When your web browser accesses a specific web site such as ours, cookies (a type of small text file) may, depending on your browser settings, be automatically stored on your computer's hard drive.
 
-**Cookies are placed on the Quidco site** both by Quidco and by third parties authorised by Quidco to do so.
+**In using the Quidco Service, cookies will be placed both by Quidco** and by third parties. You can see details of the cookies placed by Quidco. [here](https://web.archive.org/cookies)
 
-**Cookies on the Quidco site** do the following:
+**These Cookies** do the following:
 
   1. Tell us the route (such as a web-search or an online advertisement, for example) by which you came to the Quidco site.
   2. Where you are an Account Holder: 
-    1. Track your transactions. When you make a purchase on a retailer's site it's cookies that give us the information to track your transactions with retailers. Specifically it tells us which retailer's site you've clicked through to and when and if you go on to make a transaction. Specifics related to the value of the transaction and cashback earned is sent at a later date by the participating retailer.
+    1. Track your transactions. When you make a purchase on a retailer's site it's cookies that give us the information to track your transactions with retailers. Specifically it tells us which retailer's site you've clicked through to and when and if you go on to make a transaction. Specifics related to the value of the transaction, and its validation or cancellation, are sent at a later date by the participating retailer.
     2. Keep you logged in to your Account for a period of time.
     3. Allow us to comply with your choices about the display of information in your Account.
     4. Track your use of blogging functionality available through the Quidco site.
@@ -45,6 +45,8 @@ When you join Quidco your personal data will be collected, processed, stored and
   3. Also, if you visit the Quidco site and do not establish an Account, a cookie-like technology allows you to be presented with advertising for Quidco on other sites that you visit - this advertising is intended to prompt you to return to the Quidco site to register as an Account Holder.
 
 
+
+Note that retailers may place cookies on your device when you transact with them: those cookies will be governed by the retailer’s own policies. We are not responsible for retailers’ or other third parties’ acts and omissions (including in relation to their cookie and privacy policies).
 
 We may include cookies on the Quidco site that allow third party advertisers to present you with advertising on the Quidco site based on interests inferred from your web browsing activity and your use of the Quidco Service. To understand more about the cookies placed by third party advertising providers, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
@@ -76,7 +78,7 @@ We also put the information we gather about Account Holders together in an aggre
 
 In addition, Quidco will also share data with trusted 3rd parties to enable our instore program to correctly track your Qualifying Transactions and related Referral Fees:
 
-  * By registering the number of your credit card and/or debit card and/or charge card ("Identifier Card Numbers") in the Quidco Programme, you hereby authorise us to disclose your Identifier Card Numbers to businesses which assist Quidco by associating with your Account certain in-store purchases you may make (we call them “Transactional Service Providers”), to retailers or their suppliers (even if you never use the Identifier Card Numbers with one or more of those retailers) to identify and calculate any entitlement to Cashback that you might have and otherwise as appropriate in accordance with the terms of our Privacy Policy and acknowledge that we and Transactional Service Providers on our behalf, will collect any and all information from any retailer, merchant acquirer, credit card processor, issuing bank, or any other available source with respect to the purchases made using your Identifier Card Numbers. You represent that with respect of each Identifier Card Number that you have provided that you are entitled to register that card number and receive information about the transactions effected using such card. To see the details of our Transactional Service Providers, please [click here](https://web.archive.org/transactional-service-providers/).
+  * By registering the number of your credit card and/or debit card and/or charge card ("Identifier Card Numbers") in the Quidco Programme, you hereby authorise us to disclose your Identifier Card Numbers to businesses which assist Quidco by associating with your Account certain in-store purchases you may make (we call them “Transactional Service Providers”), to retailers or their suppliers (even if you never use the Identifier Card Numbers with one or more of those retailers) to identify and calculate sums which may contribute to your Balance and otherwise as appropriate in accordance with the terms of our Privacy Policy and acknowledge that we and Transactional Service Providers on our behalf, will collect any and all information from any retailer, merchant acquirer, credit card processor, issuing bank, or any other available source with respect to the purchases made using your Identifier Card Numbers. You represent with respect to each Identifier Card Number that you have provided that you are entitled to register that card number and receive information about the transactions effected using such card. To see the details of our Transactional Service Providers, please [click here](https://web.archive.org/transactional-service-providers/).
   * You may only register a maximum of 5 Identifier Card Numbers per Member's account, however this may include cards belonging to other members of your household/family providing that they have consented to the registration of their Identifier Card Number(s) to assist you to collect Cashback. We may request that you provide written evidence of such consent at any time. If we are not satisfied that all Identifier Card Numbers are included with the holder's consent we reserve the right to de-register any or all Identifier Card Numbers on your account.
   * Each Identifier Card Number may only be registered at any one time to one service in the world through which cards are used as identifiers for the purpose of crediting rewards (whether cashback, points or other kinds of rewards) when shopping with designated retailers. In the event of more than one attempted registration of the same Identifier Card Number the last registration will prevail and previous registrations will be automatically de-registered.
 
@@ -115,21 +117,21 @@ Please note there are some communications that are an integral part of the Quidc
 
 The Data Protection Act 1998 gives you the right to access the personal data we hold about you.
 
-In accordance with that Act, we reserve the right to charge a small fee if you ask us to provide you with this information. If you have questions about the handling or protection of your personal data, a written enquiry should be sent to us using our [contact form](http://www.quidco.com/support-contact-us/).
+In accordance with that Act, we reserve the right to charge a small fee if you ask us to provide you with this information. If you have questions about the handling or protection of your personal data, a written enquiry should be sent to us using our [contact form](https://web.archive.org/support-contact-us/).
 
   
 
 
 ## Relationship with the Quidco Account Holder Agreement
 
-Words and phrases used in this Privacy Policy have the same meaning as is attributed to them in the [Quidco Account Holder Agreement](http://www.quidco.com/quidco-account-holder-agreement/). Any changes to it will be made in accordance with the Quidco Account Holder Agreement.
+Words and phrases used in this Privacy Policy have the same meaning as is attributed to them in the [Quidco Account Holder Agreement](https://web.archive.org/quidco-account-holder-agreement/). Any changes to it will be made in accordance with the Quidco Account Holder Agreement.
 
   
 
 
 ## Changes to this privacy statement
 
-This Privacy Policy is correct as of 15/04/2013.
+This Privacy Policy is correct as of 14/10/2015.
 
   
 
