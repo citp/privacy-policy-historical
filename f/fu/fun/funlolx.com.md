@@ -1,74 +1,80 @@
-> *The following text is extracted and transformed from the funlolx.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229143443id_/http%3A//lolzepic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funlolx.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-**Privacy Policy :  **  
-lolzepic recognizes that its customers, visitors, users, and others who use www.lolzepic.com or other web Website owned or operated by lolzepic (the “lolzepic Website”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the lolzepic Website. lolzepic provides this Privacy Notice to help you make an informed decision about whether to use or continue using the lolzepic Website.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-This Privacy Notice is incorporated into and is subject to the lolzepic Terms of Use. Your use of the lolzepic Website and any personal information you provide on the lolzepic Website remains subject to the terms of this Privacy Notice and our lolzepic Terms of Use.
+**What information do we collect?**
 
-Please note that any video, image, or other content posted at the direction of Users onto the lolzepic Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-The Information lolzepic Collects
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-User Provided Information: You provide certain personally identifiable information (such as your name and email address) to lolzepic when choosing to participate in various activities on the lolzepic Website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.  
-Cookies Information: When you visit the lolzepic Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. lolzepic uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the lolzepic Website may not function properly if the ability to accept cookies is disabled.  
-Log File Information: When you use the lolzepic Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.  
-Clear GIFs Information: When you use the lolzepic Website, we may employ “clear GIFs” (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.  
-The Way lolzepic Uses Information
+**What do we use your information for?**
 
-If you submit personally identifiable information to us through the lolzepic Website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the lolzepic Website.  
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the lolzepic Website and other Users can contact you through messages and comments. Any videos that you submit to the lolzepic Website may be redistributed through the internet and other media channels, and may be viewed by the general public.  
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major lolzepic Site changes or for customer service purposes).  
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the lolzepic Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.  
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the lolzepic Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.  
-When lolzepic Discloses Information
+Any of the information we collect from you may be used in one of the following ways: 
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the lolzepic Website.  
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.  
-lolzepic also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that lolzepic believes, in good faith, is appropriate or necessary to enforce our lolzepic Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of lolzepic, our Users or others.  
-Your Choices
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-You may, of course, decline to submit personally identifiable information through the lolzepicWebsite, in which case lolzepic may not be able to provide certain services to you. Please note that media files uploaded by Users to the lolzepic Website cannot be removed and remain subject to our lolzepic Terms of Use.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Please contact lolzepic with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing
+• To process transactions
 
-Third-party Advertisers, Links to Other Website
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-lolzepic allows other companies, called third-party ad servers or ad networks, to serve advertisements within the lolzepic Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the lolzepic Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+• To send periodic emails
 
-lolzepic does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks lolzepic to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the lolzepic Website, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. lolzepic’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Website.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Our Commitment To Data Security
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-lolzepic uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to lolzepic and you do so at your own risk. Once we receive your transmission of information, lolzepic makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+**How do we protect your information?**
 
-If lolzepic learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. lolzepic may post a notice on the lolzepic Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Our Commitment To Childrens’ Privacy
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Protecting the privacy of young children is especially important. For that reason, lolzepic does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the lolzepic Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the lolzepic Website at any time or in any manner. If lolzepic learns that personally identifiable information of persons under 13 years of age has been collected on the lolzepic Website without verified parental consent, then lolzepic will take the appropriate steps to delete this information.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Special Note to International Users
+**Do we use cookies?**
 
-The lolzepic Website is hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the lolzepic Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the lolzepic Website, which are governed by Turkish Law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-In the Event of Merger, Sale, or Bankruptcy
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-In the event that lolzepic is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Changes and updates to this Privacy Notice
+**Do we disclose any information to outside parties?**
 
-This Privacy Notice may be revised periodically and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the lolzepic Website constitutes your agreement to this Privacy Notice and any future revisions.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+**Online Privacy Policy Only**
 
-Contact Information:
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Please contact lolzepic with any questions or comments about this Privacy Notice at alimehdipak@gmailcom
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
