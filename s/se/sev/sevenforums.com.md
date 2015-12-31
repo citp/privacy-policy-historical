@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenforums.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626065258id_/http%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenforums.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010320id_/http%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Windows 7 Help Forums
 
