@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200346id_/http%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231143514id_/http%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
 
 # The Green Head - Privacy Policy
 
