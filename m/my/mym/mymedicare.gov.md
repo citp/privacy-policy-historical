@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the mymedicare.gov privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223175149id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymedicare.gov privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083321id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare & Medicaid Services
 
 Protecting your privacy is very important to us. We're telling you about the Centers for Medicare & Medicaid Services (CMS) website privacy policy so you know what information we collect, why we collect it, and what we do with it. This policy covers the following websites:
 
-  * [www.HealthCare.gov](http://www.healthcare.gov/)
   * [www.CMS.gov](http://www.cms.gov/)
   * [www.Medicare.gov](http://www.medicare.gov/)
   * [www.MyMedicare.gov](http://www.mymedicare.gov/)
