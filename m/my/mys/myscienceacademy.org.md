@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myscienceacademy.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503205948id_/http%3A//myscienceacademy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscienceacademy.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231170447id_/http%3A//myscienceacademy.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | MyScienceAcademy
 
