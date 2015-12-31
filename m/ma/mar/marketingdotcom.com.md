@@ -1,72 +1,172 @@
-> *The following text is extracted and transformed from the marketingdotcom.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512202225id_/http%3A//marketingdotcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdotcom.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231041411id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Mike Filsaime Official Corporate Website – Company Information and properties related to MikeFilsaime.com, Inc. – Latest Internet Marketing news about MarketingDotCom.com | Privacy Policy
+# Data Policy
 
-## Privacy Policy
+We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://web.archive.org/about/basics). 
 
-1\. HOW WE PROTECT YOUR PRIVACY.  
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://web.archive.org/help/1561485474074139)
 
-2\. MINORS.  
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+###  What kinds of information do we collect? 
 
-3\. POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE.  
-Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
+Depending on which Services you use, we collect different kinds of information from or about you. 
 
-4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU.  
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
+Things you do and information you provide.
 
-And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
+Things others do and information they provide.
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
 
-5\. WHAT WE DO WITH YOUR INFORMATION.  
-We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
+Your networks and connections.
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+Information about payments.
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
+If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+Device information.
 
-6\. USER NAMES AND PASSWORDS.  
-Your access to parts of our website may be protected by a user name and a password. Do not give  your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL.  
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
 
-8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS.  
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-9\. AUTORESPONDERS.  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support@MikeFilsaime.com, or sending us mail to the address listed below.
+Information from websites and apps that use our Services.
 
-10\. POLICY CHANGES.  
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support@MikeFilsaime.com and providing us with information relating to your concern.
+Information from third-party partners.
 
-You may also mail your concerns to us at the following address:
+We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
 
-MikeFilsaime.com, Inc.  
-3555 Veterans Memorial Highway  
-Ronkonkoma, New York 11779  
-USA
+Facebook companies.
 
-11\. CALIFORNIA PRIVACY RIGHTS.  
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support@MikeFilsaime.com or write us at the following address:
+We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://web.archive.org/help/111814505650678) about these companies and their privacy policies. 
 
-MikeFilsaime.com, Inc.  
-3555 Veterans Memorial Highway  
-Ronkonkoma, New York 11779  
-USA
+###  How do we use this information? 
 
-This policy was last updated on 04-09-2010.
+We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
 
-Copyright © 2008Law Office of Michael E. Young PLLC , and licensed for use by the owner of this website at www.MikeFilsaime.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Provide, improve and develop Services.
+
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
+
+We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
+
+When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
+
+We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
+
+Communicate with you.
+
+We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
+
+Show and measure ads and services.
+
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/about/ads/#568137493302217) how information about you is used to personalize the ads you see. 
+
+Promote safety and security.
+
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
+
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/help/cookies/update) to learn more. 
+
+###  How is this information shared? 
+
+Sharing On Our Services
+
+People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
+
+People you share and communicate with.
+
+When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
+
+[Public information](https://web.archive.org/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://web.archive.org/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
+
+In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
+
+People that see content others share about you.
+
+Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://web.archive.org/notes/facebook-safety/details-on-social-reporting/196124227075034). 
+
+Apps, websites and third-party integrations on or using our Services.
+
+When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://web.archive.org/help/203805466323736), which includes your [username or user ID](https://web.archive.org/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
+
+[Learn more](https://web.archive.org/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
+
+Sharing within Facebook companies.
+
+We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://web.archive.org/help/111814505650678) about our companies. 
+
+New owner.
+
+If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
+
+Sharing With Third-Party Partners and Customers
+
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
+
+Here are the types of third parties we can share information with about you: 
+
+Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
+
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
+
+Please review your [advertising preferences](https://web.archive.org/about/ads) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
+
+Vendors, service providers and other partners.
+
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
+
+###  How can I manage or delete information about me? 
+
+You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://web.archive.org/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://web.archive.org/help/302796099745838). 
+
+We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
+
+You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://web.archive.org/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
+
+###  How do we respond to legal requests or prevent harm? 
+
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
+
+###  How our global services operate 
+
+Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=BAQHa_8AQ&s=1). 
+
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=0AQGjZaVb&s=1). 
+
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
+
+###  How will we notify you of changes to this policy? 
+
+We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
+
+###  How to contact Facebook with questions 
+
+To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+
+If you live in the US or Canada… 
+
+Please contact Facebook, Inc. [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook, Inc.  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+If you live anywhere else… 
+
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook Ireland Ltd.  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2 Ireland 
+
+Date of Last Revision: January 30, 2015 
