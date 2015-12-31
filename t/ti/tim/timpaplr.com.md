@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timpaplr.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617070411id_/http%3A//timpaplr.com/terms/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timpaplr.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231081955id_/http%3A//timpaplr.com/terms/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Timpa PLR
 
