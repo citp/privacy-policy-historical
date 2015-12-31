@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upworthy.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629164802id_/http%3A//www.upworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upworthy.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231203709id_/http%3A//www.upworthy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
