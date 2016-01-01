@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsnprice.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122162219id_/http%3A//dealsnprice.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsnprice.com privacy policy that was archived on 2016-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160101153142id_/http%3A//dealsnprice.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Deals N Price
 
 Privacy Policy
 
