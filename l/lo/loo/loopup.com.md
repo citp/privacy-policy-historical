@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101074852id_/http%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2016-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160101141601id_/http%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LoopUp Privacy Policy | Conference Call and Online Meetings Service
 
