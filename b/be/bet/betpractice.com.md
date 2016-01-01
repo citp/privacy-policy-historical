@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the betpractice.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202010551id_/http%3A//www.betpractice.com/com/9_betpractice-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betpractice.com privacy policy that was archived on 2016-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160101194928id_/http%3A//www.betpractice.com/com/9_betpractice-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Betpractice betting statistics platfrom
 
-Betpractice is committed to preserving the privacy of all visitors to our website at http://www.betpractice.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us. By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
+BetPractice is committed to preserving the privacy of all visitors to our website at http://www.betpractice.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us. By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
 
 ##  1 INFORMATION THAT WE COLLECT FROM YOU
 
