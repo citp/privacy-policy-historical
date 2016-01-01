@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customer-care-center.blogspot.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111085152id_/http%3A//customer-care-center.blogspot.com/p/site-usage-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customer-care-center.blogspot.com privacy policy that was archived on 2016-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160101141531id_/http%3A//customer-care-center.blogspot.com/p/site-usage-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
