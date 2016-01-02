@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702144843id_/http%3A//www.shopping-bargains.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2016-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160102182902id_/https%3A//www.shopping-bargains.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Articles & Tips
+# Privacy Policy - Shopping-Bargains
 
 **What information do we collect?**
 
@@ -52,7 +52,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-We include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and [welcome any feedback](https://web.archive.org/articles/contact-us/) about these sites.
+We include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and [welcome any feedback](https://web.archive.org/contact-us/) about these sites.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -68,7 +68,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions section](https://web.archive.org/articles/terms-and-conditions-of-use/) establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions section](https://web.archive.org/terms-and-conditions-of-use/) establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
