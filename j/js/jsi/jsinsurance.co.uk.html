@@ -1,0 +1,407 @@
+<!--The following is the downloaded HTML source of the jsinsurance.co.uk privacy policy that was archived on 2016-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160102144050id_/https%3A//www.jsinsurance.co.uk/help/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<title>Cookie and Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-GB">
+<meta name="keywords" content="js insurance, single trip insurance, annual travel insurance, annual holiday insurance, cheap annual holiday insurance">
+<meta name="description" content="We provide travel insurance, annual travel insurance, backpacker insurance, ski insurance, snowboard insurance, computer insurance, laptop insurance, student possessions insurance and pda insurance.">
+<meta name="robots" content="index,follow">
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=014703289948444025541:y4xxevqtvk8"></script><script src="https://17f317a64bc64e87510e-6edae77b678ed420f91fbc7b61cff2bb.ssl.cf3.rackcdn.com/prototype.js" type="text/javascript"></script>
+<script src="https://17f317a64bc64e87510e-6edae77b678ed420f91fbc7b61cff2bb.ssl.cf3.rackcdn.com/scriptaculous.js" type="text/javascript"></script>
+<script src="/javascript/loadimages_generic.js.php" type="text/javascript"></script>
+<link rel="shortcut icon" href="/images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://67471a0b61ef6f806c73-4d8542fcf22e94c2dd17a33871fb370a.ssl.cf3.rackcdn.com/universal_styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://67471a0b61ef6f806c73-4d8542fcf22e94c2dd17a33871fb370a.ssl.cf3.rackcdn.com/link_styles.css" media="all">
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7_universal.css" media="all" />
+<![endif]-->
+
+<style type="text/css">
+  #circle_links { top: 145px; }
+</style>
+	</head>
+	<body>
+<!-- links bar -->
+<div id="tabbed_navbar">
+<ul>
+<li><a href="//www.jsinsurance.co.uk/" class="list_1st js_home">home</a></li>
+<li><a href="//www.jsinsurance.co.uk/help/about_us.php" class="js_about_us">about us</a></li>
+<li><a href="https://www.jsinsurance.co.uk/help/contact_us.php" class="js_contact_us">contact us</a></li>
+<li><a href="//www.jsinsurance.co.uk/renewals/">renewals</a></li>
+<li><a href="//www.jsinsurance.co.uk/sports_and_activities.php">Sports &amp; Activities</a></li> 
+<li><a href="//www.jsinsurance.co.uk/help/sitemap.php">site map</a></li> 
+</ul>
+<div id="header_contact_tel" style="float:right;padding-right:10px;color:#34a;font-weight:bold;">Tel: 0800 047 5065</div>
+
+<script type="text/javascript">
+  (function() {
+    var searchString = window.location.search.substring(1);
+    var Parameters = new Object();
+    var nameValuePairs = searchString.split(/&/);
+    var nameValuePair;
+    var name;
+    var value;
+
+    for (var i = 0; i < nameValuePairs.length; i++) {
+      nameValuePair = nameValuePairs[i].split(/=/);
+      name = nameValuePair[0];
+      value = nameValuePair[1];
+      name = name.toLowerCase();
+       
+      var affiliateCookieValue = false;
+
+      if (name == "aff_code") {
+        if (typeof(value)!="undefined" && value) {
+          affiliateCookieValue = "af";
+        }
+      } else if (name == "adnetwork") {
+        if (typeof(value)!="undefined") {
+          value = value.toLowerCase();
+          if (name == "adnetwork" && value =="af") {
+            affiliateCookieValue = "af";
+          }
+        }
+      }
+
+      if (affiliateCookieValue) {
+        var affiliateCookieName = "adnetwork";
+        var pathname = '/';
+        var myDomain = '.jsinsurance.co.uk';
+        var largeExpDate = new Date ();
+        largeExpDate.setTime(largeExpDate.getTime() + (30 * 24 * 3600 * 1000));
+        SetCookie(affiliateCookieName, affiliateCookieValue, largeExpDate, pathname, myDomain);
+      }
+    }
+
+    if (GetCookie ("adnetwork") == "af") {
+      document.getElementById("header_contact_tel").innerHTML = '';
+    }
+
+    //////////////////functions////////////////////////////////////////////////
+    function SetCookie (name, value) {
+      var argv = SetCookie.arguments;
+      var argc = SetCookie.arguments.length;
+      var expires = (argc > 2) ? argv[2] : null;       
+      var path = (argc > 3) ? argv[3] : null;
+      var domain = (argc > 4) ? argv[4] : null;
+      var secure = (argc > 5) ? argv[5] : false;
+      document.cookie = name + "=" + escape (value) +
+        ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+        ((path == null) ? "" : ("; path=" + path)) +
+        ((domain == null) ? "" : ("; domain=" + domain)) +
+        ((secure == true) ? "; secure" : "");
+    }
+ 
+    function getCookieVal (offset) {
+      var endstr = document.cookie.indexOf (";", offset);
+      if (endstr == -1)
+        endstr = document.cookie.length;
+      return unescape(document.cookie.substring(offset, endstr));
+    }
+ 
+    function GetCookie (name) {  
+      var arg = name + "=";
+      var alen = arg.length;
+      var clen = document.cookie.length;
+      var i = 0;
+      while (i < clen) {
+        var j = i + alen;
+        if (document.cookie.substring(i, j) == arg)
+          return getCookieVal (j);
+        i = document.cookie.indexOf(" ", i) + 1;
+        if (i == 0)
+          break;
+      }
+      return null;
+    }
+    //////////////////functions////////////////////////////////////////////////
+  })();
+</script>
+
+<br style="clear: both;">
+</div>
+<div id="container">
+
+
+<div id="header" class="header_welcome">
+  <span>JS Insurance</span>
+  <a href="//www.jsinsurance.co.uk/" id="home_link"><span>Home</span></a>  
+  <div class="google_search_box" style="float:right;width:350px;margin:101px 10px 0 0;">
+    <script>
+  (function() {
+    var cx = '014703289948444025541:y4xxevqtvk8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+      '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only resultsurl="/search_results/"></gcse:searchbox-only>
+
+  </div>
+</div>
+
+<div id="navbar" style="height:20px;">Location: <a href="/">Home </a> 
+
+</div>
+
+<div id="main_content">
+
+<style type="text/css">
+li { font-size:0.8em; }
+</style>
+
+<div class="contentbox" id="t_and_c">
+<h2 class="title_js">Important Information and Privacy Policy</h2>
+<p>Updated: November 2015</p>
+
+<h3>Who We Are</h3>
+<p>JS Travel Insurance is a trading name of Jade Stanley Ltd, which is authorised by the Financial Conduct Authority. If you would like to find out more about the company, please visit our website at <a href="//www.jsinsurance.co.uk">www.jsinsurance.co.uk</a></p>
+
+<h3>Disclaimer</h3>
+<p>JS Travel Insurance will be liable for any loss or damage arising from your use of this website.</p>
+
+<h3>Insurer</h3>
+<p>Our Travel Insurance policies are underwritten by White Horse Ireland Insurance Ltd.</p>
+
+<h3>Trade Marks, Copyright and other Intellectual Property Rights</h3>
+<p>JS Travel Insurance claim rights to all trademarks, service marks and logos contained on this site. All rights are expressly reserved.</p>
+<p>Copyright and all other intellectual property rights existing within this website belong to JS Travel Insurance, unless otherwise indicated, and may not be used, sold, licensed, copied or reproduced in whole or in part without the prior written consent of JS Travel Insurance.</p>
+<p>These intellectual property rights including, without limitation, all database rights and rights in designs in all cases whether registered or unregistered - are hereby reserved.</p>
+<p>You are not permitted to download, print, redistribute or extract any information from this website other than for your personal, non-commercial use. You are not permitted to reproduce, modify or in any way change any of the information available on this website.</p>
+
+<h3>United Kingdom Only</h3>
+<p>Our Travel Insurance is available to Residents of the UK or Republic of Ireland and is governed by the law applicable to where you reside within the UK or Republic of Ireland. The use of this website is governed by and in the event of a dispute you irrevocably submit to the exclusive jurisdiction of the English Courts.</p>
+
+<h3>Our Website Availability, Accuracy and Validity of Information</h3>
+<p>JS Travel Insurance takes all reasonable steps to ensure that the information contained within these pages is at all times accurate at the date of publication.</p>
+<p>We do not accept any liability for any errors or omissions within it.</p>
+<p>If you are in any doubt as to the validity or accuracy of any information on this website then please contact us immediately.</p>
+<p>JS Travel Insurance endeavour to ensure our website is accessible at all time, however we will not be held liable if, for any reason, the website is unavailable for any period of time. We have the right to suspend access to the website for updates and maintenance without notice but we will of course always try to keep any disruption to a minimum.</p>
+<p>In addition we cannot warrant that this website will be free of viruses or defects of any description and we will not be held responsible for any technical problems you may suffer as a result of your use of this website.</p>
+
+<h3>Acceptance</h3>
+<p>By purchasing Insurance through our website you are deemed to have accepted our terms, so please read the policy wording carefully.</p>
+
+<h3>Block Transfers</h3>
+<p>In respect of some classes of Insurance we may operate block Insurance arrangements in order to provide competitive terms. On occasions it will be necessary for us to transfer such blocks from one Insurer to another where this is beneficial to our clients.</p>
+<p>This document constitutes both your acceptance that we do this and your prior request for us so to do.</p>
+
+<h3>Third Party Websites &amp; Hyperlinks</h3>
+<p>This website also contains hypertext links to websites operated by third parties. The responsibility for the operation and content of those websites rests solely with the company controlling the third party website and will be governed by separate terms and conditions. We do not accept any responsibility or liability for the contents of any linked website.</p>
+
+<h3>Variations</h3>
+<p>We reserve the right to amend these terms from time to time without notice to you.</p>
+
+<h3>Renewal of Annual Travel Insurance policies</h3>
+<p>All renewals are at our discretion.</p>
+<p>We will notify you that your policy is due for renewal 21 days before it expires and include a quotation based closely on your current cover type.</p>
+<p>Where possible we will automatically renew your policy for a further 12 months.</p>
+<p>Automatic credit card renewal ensures that you never have to worry about travelling uninsured. We will debit your payment card annually.</p>
+<p>Contact details will be provided along with your renewal quotation so that you can get in touch if you need to make any changes to your cover, for instance; declare a medical condition, add extra cover for sports or activities, change the geographic area or the level of cover required.</p>
+<p>Payment will be taken from your card on the renewal date. If we are unable to renew your policy for any reason, we will contact you by email, letter or telephone.</p>
+<p>If you would prefer not to automatically renew your Annual Travel Insurance you can let us know by email, telephone or letter at any time. In this instance, we will contact you to let you know when your policy is due to expire but will not issue a new policy or charge your card unless you instruct us to do so.</p>
+<p>Once your policy has been renewed, whether automatically or after your instruction, you have a 14 day cooling off period, when you can cancel the cover and receive a full refund, provided no claim has been made.
+</p><p>We are unable to automatically renew your policy, if you have any pre-existing medical conditions.</p>
+
+
+<h3>Security</h3>
+<p>JS Travel Insurance take every reasonable step to ensure that any information you provide via the forms on this website is kept secure, however due to the nature of the internet, we cannot guarantee the security or privacy of emails or that any emails sent will be received by us.</p>
+
+<h3>Privacy Policy</h3>
+<p>Jade Stanley Ltd. (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.</p>
+
+<h3>How we use information you provide us</h3>
+<p>Any personal information you supply to JS Travel Insurance via this website will be treated in accordance with the Data Protection Act 1998.</p>
+<p>We use the information that you provide to us for the following purposes:</p>
+<ul>
+  <li>For the purposes of insurance administration by the JS Insurance of companies or our agents</li>
+  <li>To offer renewal of cover (if you have taken out an annual multi trip policy that can be renewed)</li>
+  <li>For the investigation of or prevention of crime</li>
+  <li>For research and statistical purposes</li>
+  <li>To disclose to regulatory bodies for the purposes of monitoring and/or enforcing our compliance with their requirements</li>
+  <li>For marketing purposes</li>
+</ul>
+<p>We do not sell, trade, or rent your personal information to others.</p>
+<p>We store all the information you provide us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.</p>
+<p>In the event that a third party may deliver all or part of the service requested by you, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided and to maintain management information for business analysis.</p>
+<p>We ask for your home, mobile telephone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services, to contact you if there is a problem with your order, or there is another genuine reason for doing so.</p>
+<p>Generally by providing the requested data you consent to JS Insurance. using that data for administrative purposes and for informing you of other products and services by letter, SMS, telephone and / or email.</p>
+<p>Each time you receive marketing information you have the option to opt out of receiving further marketing information from us. If you wish to exercise this opt-out, please write to Customer Services Manager, Jade Stanley Ltd, 5 Chapel Mews, Waterloo Street, Hove, East Sussex BN3 1AR.</p>
+
+
+<h3>Your consent</h3>
+<p>Before you provide any data to us, we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples might be past medical history). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by JS Insurance to provide and send you information about their services. At times the personal information that you have provided may be sent to you via email to verify quotations or confirm cover.</p>
+<p>Please note that we provide products and services outside the European Economic Area (EAA). Therefore if you travel on such holidays, and it is deemed necessary to provide the cover you have purchased, the information you provide may occasionally be transferred outside the European Economic Area. It is worth noting however that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details, you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.</p>
+
+<h3>Marketing consent</h3>
+<p>JS Travel Insurance has adopted the following procedure in gaining your consent to be placed on its marketing lists.</p>
+<p>When you first make an enquiry or buy a product from a JS Insurance, you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group.</p>
+<p>You can opt-out of marketing by emailing <a href="mailto:support@jsinsurance.co.uk">support@jsinsurance.co.uk</a></p>
+<p>If, at any time, you would prefer not to receive any further email marketing from us please follow the unsubscribe instructions which are included at the bottom of every email.</p>
+<p>In addition to this you can call us on 0800 047 5065, we are available Monday to Friday between 8am and 6pm, or write to us at Customer Services Manager, Jade Stanley Ltd, 5 Chapel Mews, Waterloo Street, Hove, East Sussex BN3 1AR.</p>
+<p>When you receive a marketing email we may track which links you click on and the areas of our website that you visit. This will enable us to better understand your needs and ensure any other information we send is better suited to your requirements.</p>
+
+<h3>How we use cookies</h3>
+<p>A cookie is a small file of letters and numbers that is stored on your computer to help us provide you with a better experience.</p>
+<p>These cookies help us to do the following things:</p>
+
+<h3>Enable our website to function correctly</h3>
+<p>We put a session cookie on your computer for the duration of your visit to our site. It stores data about the browser you are using and information you have entered in order for our website to function correctly and for us to provide you with a quotation or policy. This cookie is deleted when you leave our website.</p>
+
+<h3>Help us improve the customer experience on our website</h3>
+<p>We use cookies to collect trend data which we analyse to help us improve how our site works. This trend data includes how visitors find our site and how they move around our site. They do not collect or store any personal data.</p>
+
+<h3>Improve the quality of our email messages</h3>
+<p>We use cookies to identify whether you have visited our site in response to one of our email newsletters. This enables us to improve our email messages and send you more relevant information. To opt out of email marketing click on the unsubscribe link which appears at the bottom of all of our emails, or email <a href="mailto:support@jsinsurance.co.uk">support@jsinsurance.co.uk</a>.</p>
+<p>If you have any doubts or do not use any of the above systems please refer to <a href="//www.allaboutcookies.org">www.allaboutcookies.org</a>, which explains in detail how cookies work and how they can be managed.</p>
+
+<h3>Social networks</h3>
+<p>If you use the buttons allowing you to share products and content with your friends via social networks like Twitter and Facebook, these companies may set a cookie. You can read their cookie policies:</p>
+<ul>
+  <li><a href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a></li>
+  <li><a href="//twitter.com/privacy">http://twitter.com/privacy</a></li>
+  <li><a href="//www.google.com/intl/en-GB/policies/privacy/">http://www.google.com/intl/en-GB/policies/privacy/</a></li>
+</ul>
+
+<h3>What happens if I opt out of all cookies?</h3>
+<p>We use cookies to track the effectiveness of our online advertising and to reward external websites who may have recommended us. If you opted out of all cookies, it would not affect your ability to purchase insurance from us but may affect our ability to improve customer service in future.</p>
+
+<h3>How do I opt out of cookies?</h3>
+<p>You can manage the cookies that you allow on your computer through the internet browser that you use. You can also ask to be alerted every time a cookie is offered so that you can retain the ability to choose. Here are instructions on how to manage your cookies using the most popular internet browsers: </p>
+
+<h3>Which internet browser are you using?</h3>
+<ol>
+  <li>On a PC: click on 'Help' at the top of your browser window and select 'About'</li>
+  <li>On an Apple Mac: click on the Apple menu and select 'About' (make sure the browser is open)</li>
+</ol>
+	
+<h3>Opting out of cookies in Internet Explorer</h3>
+<p>Internet Explorer allows you to select the level of cookie filter on the basis of the source of the cookie and whether the source has a privacy policy.</p>
+<ol>
+  <li>Choose 'Tools'</li>
+  <li>Click on 'Internet Options'</li>
+  <li>Click the 'Privacy' tab</li>
+  <li>Move the slider to choose your settings</li>
+  <li>For more detailed privacy settings click on 'Advanced'</li>
+</ol>
+
+<h3>Opting out of cookies in Safari</h3>
+<ol>
+  <li>Choose 'Preferences' from Safari menu</li>
+  <li>Select 'Security'</li>
+  <li>Cookie settings are shown</li>
+  <li>Choose your settings</li>
+</ol>
+
+<h3>Opting out of cookies in Google Chrome</h3>
+<p>As a default, Google Chrome allows all cookies. You can manage the behaviour of first-party and third-party cookies or even block them completely.</p>
+<ol>
+  <li>Click on the 'Tools' menu</li>
+  <li>Select 'Options'</li>
+  <li>Click the 'Under the Bonnet' tab</li>
+  <li>Find the 'Privacy' section</li>
+  <li>Click 'Content settings'</li>
+  <li>Click the 'Cookie settings' tab and choose your settings</li>
+</ol>
+
+<h3>Opting out of cookies in Mozilla Firefox</h3>
+<p>You can configure which sites are allowed to set cookies, how long to keep them for, and view and manage your existing cookies.</p>
+<ol>
+  <li>Click on 'Menu', then 'Options'</li>
+  <li>Select 'Privacy'</li>
+  <li>Select 'Cookies'</li>
+  <li>Choose your settings</li>
+</ol>
+
+<h3>Opting out of cookies in AOL</h3>
+<ol>
+  <li>From the AOL toolbar, select 'Settings'</li>
+  <li>Select 'Internet Options'</li>
+  <li>Select 'Use your Internet Explorer Settings to set advanced browser options'</li>
+  <li>Select the 'Privacy' tab</li>
+  <li>Select 'Advanced'</li>
+  <li>Deselect override automatic cookie handling button</li>
+  <li>Choose your settings</li>
+</ol>
+
+<h3>Opting out of Flash Cookies</h3>
+<p>If you'd like to control the use of <a href="//www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">Flash Cookies</a> on your computer, Adobe's website offers tools to do this.</p>
+<p>If you use Mozilla Firefox to browse the internet, you can <a href="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/">use an add-on to find and delete Flash Cookies</a>.</p>
+
+<h3>Disclosure of information to third parties</h3>
+<p>JS Travel Insurance do not sell, trade or rent your information and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you take out an insurance policy underwritten by a third party, they will need your details in order to administer the policy and process any claims.</p>
+<p>We may also be obliged by law to pass on your information to the Police or any other statutory authority.</p>
+
+<h3>Amendment and rectification of information</h3>
+<p>Please advise us in writing as to any changes in your circumstances or of any instances where you feel the data we hold may be incorrect. We will amend details as required.</p>
+
+<h3>Subject access requests</h3>
+<p>You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to, Customer Services Manager, Jade Stanley Ltd, 5 Chapel Mews, Waterloo Street, Hove, East Sussex BN3 1AR.</p>
+
+<h3>Changes to our Privacy Policy</h3>
+<p>If we decide to change our Privacy Policy, we will update all relevant documentation and post any changes onto our websites so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.</p>
+
+<div class="contentbox-bot">&nbsp;</div>
+</div>
+
+</div>
+
+<div id="extra_links">
+<ul>
+<li><a href="http://www.worldnomads.com/index.aspx?affiliate=trvonl" class="extralinks_international"><span>International Resident Travel Insurance</span></a></li>
+<li><a href="http://www.book-airport-parking.com" class="extralinks_airport"><span>Airport Parking</span></a></li>
+<li><a href="http://www.carhireonline.net" class="extralinks_car"><span>Car Rental</span></a></li>
+<li><a href="http://www.holiday-weather.com" class="extralinks_weather"><span>Weather</span></a></li>
+<li><a href="http://www.onlinefx.co.uk" class="extralinks_currency"><span>Currency</span></a></li>
+</ul>
+<p style="clear:left;font-size:11px;color:#555;text-align:center;">JS Insurance is the trading name of Jade Stanley Limited, 5 Chapel Mews, Waterloo Street, Hove, East Sussex, BN3&nbsp;1AR, Telephone: 01273&nbsp;773&nbsp;017. Jade Stanley Ltd  is authorised and regulated by the Financial Conduct Authority. FCA Registration number is 306205.
+<br>
+<br>
+<a href="/help/terms_and_conditions.php" style="color:#2255dc;font-size:12px;text-decoration:none;">Terms and Conditions</a>
+
+</p>
+</div>
+ 
+
+
+<div id="circle_links">
+
+<div id="frontlinks_main">
+<ul>
+	<li><a href="/travel_insurance/"><span class="frontcircle_singletrip">&nbsp;</span><span class="frontlink_name">Travel</span><br><span class="frontlink_lower">Insurance</span></a></li>
+</ul>
+</div>
+
+<div style="clear: both;"></div>
+</div>
+</div>
+
+<div id="help_container_bot"></div>
+
+<div id="code">
+<!-- Google Analytics Code-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-223274-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--END Google Analytics Code-->
+
+</div>
+
+	
+</body></html>
