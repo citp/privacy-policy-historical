@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614050121id_/http%3A//www.hobsons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103200308id_/http%3A//www.hobsons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobsons
 
 This statement discloses the privacy practices for the Hobsons® website, located at www.hobsons.com (the “Site”), and Hobsons’® offline print and electronic publications.  By using a Site or one of our offline print or electronic publications, you agree to the collection, use and disclosure of your personal information as described in this statement.  If you do not agree to the terms of this statement, then please do not use a Site or such publications.
+
+Naviance users: Please refer to the separate [Privacy Statement](https://succeed.naviance.com/auth/signin#/privacy) for the Naviance product.
 
 BY USING THE SITE, YOU AGREE TO OUR COLLECTION, USE AND MAINTENANCE OF YOUR INFORMATION IN THE UNITED STATES. 
 
