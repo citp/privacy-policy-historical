@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glockapps.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102012039id_/http%3A//glockapps.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glockapps.com privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103083501id_/https%3A//glockapps.com/privacy-policies) for the most accurate reproduction.*
 
 # √ Privacy Policies ® G-Lock Apps
 
