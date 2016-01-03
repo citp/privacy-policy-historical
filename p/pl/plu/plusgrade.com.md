@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusgrade.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104030428id_/http%3A//www.plusgrade.com/docs/pgpp-eusafeharbor.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusgrade.com privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103141158id_/http%3A//www.plusgrade.com/docs/pgpp-eusafeharbor.html) for the most accurate reproduction.*
 
 # Plusgrade | Privacy Policy
 
