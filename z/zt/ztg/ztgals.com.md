@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ztgals.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122032016id_/http%3A//www.ztod.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztgals.com privacy policy that was archived on 2016-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160104165530id_/http%3A//www.ztod.com/privacy) for the most accurate reproduction.*
 
-# ZTOD Privacy Policy
+# Privacy Info
 
-Return to [ZTOD](http://www.ztod.com/)
+#### Privacy policy
 
 This Privacy Policy applies to the following websites: (1) www.ztod.com (collectively, the "Sites", or individually, a "Site"). 
 
