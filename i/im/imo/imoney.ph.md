@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imoney.ph privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909101617id_/http%3A//www.imoney.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoney.ph privacy policy that was archived on 2016-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160104181401id_/http%3A//www.imoney.ph/privacy-policy) for the most accurate reproduction.*
 
-# iMoney Philippines | Cards | Deposits | Loans | Insurance
+# iMoney Privacy and Personal Data Protection Policy Statement
 
 ### Privacy Statement
 
