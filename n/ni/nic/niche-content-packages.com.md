@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the niche-content-packages.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203104654id_/http%3A//niche-content-packages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niche-content-packages.com privacy policy that was archived on 2016-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160104211738id_/http%3A//niche-content-packages.com/privacy.php) for the most accurate reproduction.*
 
 # Niche Content Products With Private Label Rights (PLR) - Privacy
 
 Privacy Policy 
 
-[](https://web.archive.org/web/20151203104654id_/http%3A//niche-content-packages.com/cart.php)
+[](https://web.archive.org/web/20160104211738id_/http%3A//niche-content-packages.com/cart.php)
 
 If you have any questions about our products or comments about our service we'd love to hear from you! Log a support ticket or if we're online contact us via Live Chat for instant answers at our [support](https://web.archive.org/support) page. 
 
