@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104024432id_/http%3A//www.ztod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2016-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160104165530id_/http%3A//www.ztod.com/privacy) for the most accurate reproduction.*
 
 # Privacy Info
 
