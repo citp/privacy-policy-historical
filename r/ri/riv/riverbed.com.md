@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102005629id_/http%3A//www.riverbed.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2016-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160104170317id_/http%3A//www.riverbed.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Riverbed
 
