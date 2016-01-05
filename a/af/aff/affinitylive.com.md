@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910160608id_/https%3A//www.affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105232930id_/https%3A//www.accelo.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AffinityLive
+# Privacy Policy | Accelo
 
-This privacy statement describes how **Hiive Systems** collects and uses the personal information you provide on **AffinityLive**. It also describes the choices available to you regarding our use of your information and how you can access and update this information.
+This privacy statement describes how **Hiive Systems** collects and uses the personal information you provide on **Accelo**. It also describes the choices available to you regarding our use of your information and how you can access and update this information.
 
-[TRUSTe](http://privacy.truste.com/privacy-policy/Hiive-Systems/google_apps/AffinityLive_Suite.html) has reviewed and certified the web-based version of this application that is accessed through any internet browser. This privacy statement does not cover independent versions of this application, such as mobile apps.
+[TRUSTe](http://privacy.truste.com/privacy-policy/Hiive-Systems/google_apps/Accelo_Suite.html) has reviewed and certified the web-based version of this application that is accessed through any internet browser. This privacy statement does not cover independent versions of this application, such as mobile apps.
 
 ## Collection and Use
 
@@ -70,7 +70,7 @@ We use this aggregated information to understand and optimize how our app is use
 
 ## Accessing your Information
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to close your account or request that we no longer use your information to provide you services contact [AffinityLive support](mailto:support@affinitylive.com).
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to close your account or request that we no longer use your information to provide you services contact [Accelo support](mailto:support@accelo.com).
 
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
