@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrowsercash.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205211557id_/http%3A//www.mybrowsercash.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrowsercash.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105105732id_/http%3A//mybrowsercash.com/pp.php) for the most accurate reproduction.*
 
 # 
 
