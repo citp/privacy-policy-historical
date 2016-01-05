@@ -1,34 +1,52 @@
-> *The following text is extracted and transformed from the notablepdf.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719011552id_/http%3A//www.notablepdf.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notablepdf.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105130947id_/https%3A//www.kamihq.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Notable PDF - FAQ
+# Kami - Privacy
 
-This Privacy Policy was last modified on April 17, 2014.
+Effective: April 5th, 2014
 
-Notable Ltd ("us", "we", or "our") operates www.notablepdf.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Thanks for using Kami! Here we describe how we collect, use and handle your information when you use our websites, software and services ("Services").
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.notablepdf.com.
+**What & Why**
 
-**Information Collection And Use**  
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").
+We collect and use the following information to provide, improve and protect our Services:
 
-**Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+**Account.** We collect, and associate with your account, information like your name, email address, phone number, payment info, and physical address. Some of our services let you access your accounts and your information with other service providers.
 
-**Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+**Services.** When you use our Services, we store, process and transmit your files and information related to them (for example, your annotations ). If you give us access to your contacts, we'll store those contacts on our servers for you to use. This will make it easy for you to do things like share your stuff, send emails, and invite others to use the Services.
 
-Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+**Usage.** We collect information from and about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, the web page you visited before coming to our sites, and identifiers associated with your devices. Your devices (depending on their settings) may also transmit location information to the Services.
 
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+**Cookies and other technologies.** We use technologies like cookies and pixel tags to provide, improve, protect and promote our Services. For example, cookies help us with things like remembering your username for your next visit, understanding how you are interacting with our Services, and improving them based on that information. You can set your browser to not accept cookies, but this may limit your ability to use the Services.
 
-**Links To Other Sites**  
-Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+**With whom**
 
-Notable Ltd has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+We may share information as discussed below, but we won't sell it to advertisers or other third-parties.
 
-**Changes To This Privacy Policy**  
-Notable Ltd may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+**Others working for Kami.** Kami uses certain trusted third parties to help us provide, improve, protect, and promote our Services. These third parties will access your information only to perform tasks on our behalf and in compliance with this Privacy Policy.
 
-**Contact Us**  
-If you have any questions about this Privacy Policy, please contact us at support@notablepdf.com.
+**Other users.** Our Services display information like your name and email address to other users in places like your user profile and sharing notifications. Certain features let you make additional information available to other users.
+
+**Other applications.** You can also give third parties access to your information and account - for example, via Kami APIs. Just remember that their use of your information will be governed by their privacy policies and terms.
+
+**Law & Order.** We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to (a) comply with the law; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of Kami or our users; or (d) protect Kami’s property rights.
+
+Stewardship of your data is critical to us and a responsibility that we embrace. We believe that our users' data should receive the same legal protections regardless of whether it's stored on our services or on their home computer's hard drive. We'll abide by our principles when receiving, scrutinizing and responding to government requests for our users' data:
+
+  * Be transparent,
+  * Fight blanket requests,
+  * Protect all users, and
+  * Provide trusted services.
+
+
+
+**How**
+
+**Security.** We have a team dedicated to keeping your information secure and testing for vulnerabilities. We also continue to work on features to keep your information safe.
+
+**Retention.** We'll retain information you store on our Services for as long as we need it to provide you the Services. If you delete your account, we'll also delete this information. But please note: (1) there might be some latency in deleting this information from our servers and back-up storage; and (2) we may retain this information if necessary to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+We may revise this Privacy Policy from time to time, and will post the most current version on our website. If a revision meaningfully reduces your rights, we will notify you.
+
+**Contact**
+
+Have questions or concerns about Kami, our Services and privacy? Contact us at privacy@kamihq.com.
