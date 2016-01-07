@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the granicusideas.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063746id_/http%3A//www.granicus.com/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granicusideas.com privacy policy that was archived on 2016-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160107032401id_/http%3A//54.152.35.128/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Granicus
 
