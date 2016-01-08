@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profileoverlays.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209042617id_/http%3A//www.profileoverlays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profileoverlays.com privacy policy that was archived on 2016-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160108161950id_/http%3A//www.profileoverlays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Profile Overlays
 
