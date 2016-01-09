@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-onlinecoupons.com privacy policy that was archived on 2015-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150114050612id_/http%3A//www.e-onlinecoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-onlinecoupons.com privacy policy that was archived on 2016-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160109214912id_/http%3A//www.e-onlinecoupons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Coupons, Promotions, Discounts, Voucher Codes, Online Shopping Deals | EcomCoupons
 
