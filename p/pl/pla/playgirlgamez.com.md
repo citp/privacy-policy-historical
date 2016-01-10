@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgirlgamez.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235121id_/http%3A//www.playgirlgamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgirlgamez.com privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110150036id_/http%3A//www.playgirlgamez.com/privacy.html) for the most accurate reproduction.*
 
 # playgirlgamez.com - Privacy Policy
 
