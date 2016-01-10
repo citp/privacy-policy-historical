@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwaysright.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209055546id_/http%3A//notalwaysright.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysright.com privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110133236id_/https%3A//notalwaysright.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Funny & Stupid Customer Stories – Not Always Right
 
