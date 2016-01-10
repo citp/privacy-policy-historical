@@ -1,149 +1,45 @@
-> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915194606id_/http%3A//thinkingphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110213813id_/http%3A//thinkingphones.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ThinkingPhones
 
-### CONTACTIVE PRIVACY POLICY
+ThinkingPhones respects your right to privacy. Please read below to understand more about our privacy policy.
 
-Welcome to Contactive! This Privacy Policy discloses the privacy practices and procedures of Thinking Phone Networks, Inc. (d/b/a Contactive) (“Contactive”, “we”, “us” or “our”) in connection with our real time intelligence platform (the “Platform”) that enables our clients to maximize the productivity of their sales calls and related efforts (collectively, the “Services”), including use of the www.thinkingphones.com web site and its subdomains (the “Website”) and our related mobile application (the “Mobile App”). This Privacy Policy applies solely to information collected by or in connection with the Services. This Privacy Policy does not apply to the practices of companies that Contactive does not administer, or to individuals that Contactive does not employ. We may update this Privacy Policy at any time by posting a new Privacy Policy to our Website or by delivery of notice through our Mobile App. Your access and use of the Services is subject to this Privacy Policy and to our separate terms of use on the Website or App as in effect from time to time (“Terms of Service”). Your use of the Services is also subject to any agreement (“Client Agreement”) between Contactive and the organization that employs or otherwise retains you to engage in sales efforts using our Platform (the “Client”). With respect to any and all information you provide to us which is owned by the Client, all of Contactive’s rights to use such information is set forth solely in the Client Agreement and is not subject to this Privacy Policy.
+By using our website, you consent to the collection and use of information by ThinkingPhones. If our privacy policy changes, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-#### Notice of Information We Collect And How We Use It
+**Information Collection**
 
-Our primary purpose in collecting Personal Information (as defined below) is to provide you with a smooth, efficient, and customized experience using our Services. This allows us to provide services and features that most likely meet your needs, and to customize our Services to improve your experience. “Personal Information” means information that specifically identifies an individual (such as a name, address, or e-mail address, etc.) or other information about such individual that is directly linked to Personal Information. Personal Information does not include “aggregate” information, which is data we collect about the use of our Services or that is extracted from Personal Information in a manner that does not identify an individual. We collect and store information, including Personal Information, that you provide to us when registering or when using the Services. Some Personal Information is required in order for you to register as a user of our Services. You can choose not to provide us with certain information, but by doing so, you may not be able to take advantage of many of our features and functionality. We use Personal Information to deliver the Services to you, to improve the delivery of our Services, which may include advertising, and to develop analytics and aggregated data that allow us and our partners (including the Client) to improve our Services and correspond with you.
+A website is capable of collecting certain information about persons who access a website or attempt to use its functions. ThinkingPhones’ primary goal in collecting personal and business information is to provide a customized experience on our website(s). This includes personalization services, interactive communications, business transaction information, and other types of services. ThinkingPhones is the sole owner of all information collected by the websites. To the extent that ThinkingPhones provides access to this information to others, the parameters for such disclosure are set forth herein.
 
-We also collect and store non-personally identifiable information that is automatically generated when you use the Services. We use this information to do internal research on the nature of our users to better understand, protect and serve you and our clients generally.
+To review some portions of the website, you must complete a registration form. During registration, you may be asked to provide verifiable contact and identity information. This information may be used to establish the identity of account holders and may be retained by ThinkingPhones. Further, if you submit an application for a product, service, or information to us through any website, ThinkingPhones may collect and retain the content of the application or correspondence that we receive, the email address from which it was sent, and ThinkingPhones’ response, if any.
 
-In general, our collection and use of information is as follows:
+The personal information we collect as part of any entry/registration process also provides us a means to inform you of product updates or revisions, additional special offers, or to notify you of products and services that relate directly to your specific interests and needs. After you have authorized the initiation of transmission of commercial electronic e-mail from ThinkingPhones by using a ThinkingPhones’ product and/or service, you may elect to cease further transmissions of commercial electronic e-mail sent to you from ThinkingPhones, you may do so by replying to that email with a request to “Unsubscribe”.
 
-  * Contactive collects Personal Information you knowingly choose to submit to us during registration, such as your name, and email address, which we use for the following general purposes: identification and authentication of a user, provision of and improvement to the Platform and Services, contact, research, reporting of aggregated, anonymous data and correspondence with you regarding our Services or other products or services (the “General Purposes”).
-  * Contactive automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored by Contactive when you register with Contactive. IP addresses may be used for various research purposes, the General Purposes and/or delivering unique functionality to our service.
-  * We may allow users to post content on the Services. If we make such a feature available, you post content at your own risk. We cannot control the actions of other users with whom you choose to share your information. Even after removal, copies of such content may remain viewable in cached and archived pages or if other users have copied or stored your content.
+Some of our web pages use “cookies” or other information collection devices so that we can better serve you with more tailored information when you return to our website. Cookies are identifiers which a website sends to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, so that you can choose to decline or accept it.
 
+We may use IP addresses and web server log files to analyze trends, administer a website, track a user’s movement, and gather broad demographic information for aggregate use. Additionally, in areas of a website requiring registration, we may use this information from time to time to police a website for unregistered users (but we undertake no obligation to do so). Information of this type may be combined with cookies or other sources of information for these purposes. Specifically, through the use of web server log files, any or all of the following information may be accessed, collected, analyzed, and stored during or after your visits to the website: the name of the domain name from which you access the Internet; the date and time you access the website; the pages you visit on the website and the sequence in which you visit them; the amount of time you spent on a particular website page; the Internet address of a website that you visit immediately before or after visiting our website; the Internet address from which you liked directly to our website, if any; the type of operating system on your computer; the type of browser that you are using to view a website. These and similar types of information may also be collected by “web-bugs” or single-pixel gifs and by other means.
 
+**Information Use and Disclosure**
 
-##### Cookies
+ThinkingPhones may use the information obtainable from a website for editorial and feedback purposes and for other purposes.
 
-By using our Services, you indicate your consent for Contactive and our affiliates to send cookies to your computer in order to uniquely identify your browser or device and improve the quality of our Services; you may turn off cookies in your browser though, in doing so, some of our Services may not work. A “cookie” is a piece of alphanumeric data stored on a visitor’s hard drive that enables us to improve your access to our Services and identify repeat visitors to our Services. We use the non-personally identifiable information, such as your browser version, IP address, referring domains, pages visited, your mobile carrier, device and application IDs, the nature of your use of the Services and cookie information, to improve our Services delivery, including advertising, for the General Purposes, and to develop analytics and aggregated data that allow us and our partners to utilize our Service and reach out to you via our Services or otherwise. If you wish to restrict or block the cookies which are set by Contactive, or by any other website, you can do this through your browser settings. The Help function within your browser should tell you how to do so. For information on how to delete cookies on the browser of your mobile phone as applicable you will need to refer to your handset manual.
+For example, ThinkingPhones may provide aggregate information to its in-house and independent sales representatives, use the information for marketing and promotional purposes, for a statistical analysis of user behavior, for product development, to inform advertisers as to how many visitors have seen or clicked on their advertisements, to target markets and to formulate our own proprietary and business strategies and plans. Any information that you actively provide to us, such as names, postal and email addresses, and phone numbers may be added to our databases and if you elect to allow such use, may be used by us to contact you regarding website updates, new products and services and for other purposes specifically allowed by you when you supply such information.
 
-##### Log Files
+ThinkingPhones may retain the content of any customer service web form or email that ThinkingPhones receives, the email from which it is sent, and our response, if any. Content and other information related to emails sent by user to ThinkingPhones may be used as testimonials or for any other marketing purpose, except that no marketing communications unrelated to the subject matter of the submission will be sent to the email address from which such email or form is sent unless the user specifically elects to receive additional marketing materials or we obtain the email address through another avenue that permits such use. In all cases, email addresses may be compared to subscription or customer lists of ThinkingPhones and its business partners.
 
-Like many websites and mobile app providers, we may automatically gather certain information about our Website and App traffic and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, for the General Purposes, to track users’ use of the Services and to gather demographic information about our user base.
+Where completion of a sale or shipment requires the use of information, such as credit card information, shipping addresses, or contact persons, ThinkingPhones may use the information to the extent necessary.
 
-We may link this automatically collected data to Personal Information. IP addresses may be tied to Personal Information to troubleshoot access issues and ban users by IP from certain communities upon appropriate request.
+ThinkingPhones may use the information collected to analyze trends, administer websites, track user movement, and gather broad demographic information for aggregate use, to monitor or to improve the use and satisfaction of a website, and to customize, upgrade, or configure the layout or content of a website.
 
-We may use a third party tracking service that uses log files and cookies, see below, to track non- Personal Information about visitors to the Website in the aggregate. This service captures usage and volume statistics as well as geographical location data to compile usage reports and maps for optimization and troubleshooting purposes.
+ThinkingPhones may share and disclose aggregated user statistics and demographic information in order to describe our services to prospective and existing partners, advertisers, or other third parties, and for other lawful purposes. This information is not linked to any personal information that can identify any individual person. Under confidentiality agreements, ThinkingPhones may match user information with third-party data. ThinkingPhones may disclose your personal information to business partners unless you directly inform us that you prefer we not do so.
 
-##### Clear Gifs (Web Beacons/Web Bugs)
+**Links to Third Party Sites**
 
-We may employ, and our third party advertising partners may employ, a software technology called clear gifs, also referred to as web beacons or web bugs, that help manage content on the Services by tracking what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
+The website may contain links to third party sites. Access to any other Internet site linked to the website is at the user’s own risk and ThinkingPhones is not responsible for the accuracy or reliability of any information, data, opinions, advice, statements, terms of use or privacy practices of such other sites unless it is also a website owned or controlled by ThinkingPhones. ThinkingPhones provides these links merely as a convenience and the inclusion of such links does not imply an endorsement of the site or their entities, products or services. We encourage you to be aware when you leave our website and to read the privacy statements of each and every site that collects personally identifiable information. This Privacy Policy applies solely to information collected by a website on the domains owned and controlled by ThinkingPhones.
 
-We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+**Security**
 
-##### Information We Collect To Respond To Your Choices and Requests Registration.
+ThinkingPhones’ websites take precautions to protect our users’ information. We use standard industry mechanisms to protect customer data from unauthorized access, for example, by using password protection and standard encryption methods. Transactions, access to transactional records, or access to account information occurs over a server that has safeguards such as secure server software (SSL) which encrypts information before transmission. You can confirm that pages are encrypted, and we urge you to do so before submitting or transmitting sensitive information, by viewing the lock icon on the bottom of most browsers.
 
-In order to use many of our Services, you must first complete the registration form and provide an user name and password (“Login Credentials”). During registration, you are required to complete the registration form and create a user name and password and are required to give truthful contact information (such as name and email address) in accordance with our Terms of Service as then in effect. We use this information to contact you about the Services in which you have expressed interest.
+You may edit your account information and account profile at any time using your email address and password. Do not divulge your password to anyone. ThinkingPhones will never ask you for your password in an unsolicited telephone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your work. This may help to protect against access by others to your personal and business information if you share a computer or are using a computer in a public place.
 
-Contactive may enable you to connect to your Contactive account with your accounts on networks like Google+, Facebook, LinkedIn, Twitter or other third party accounts as enabled on our Platform from time to time (each, a “Third Party Social Account”) and with your or the applicable Client’s accounts on certain proprietary business services, such as Salesforce (each, a “Proprietary Account”, together with the Third Party Social Accounts, the “Third Party Accounts”). By connecting to our Services with a Third Party Account, you authorize Contactive and the applicable third party service provider to share certain information about you with each other. We may receive and store information about you, but not limited to, your user ID associated with your Third Party Account, and other information that you have permitted the third party service provider to share with us, and any information you have made public in connection with that third party service. Your use of any third party service provider is subject to its terms of service and privacy policy. You should always review, and if necessary, adjust your privacy settings on third party service providers and other third party websites and services before linking or connecting them to the Service. We do not store your passwords for any such Third Party Accounts.
-
-We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. Our Services are more useful to you when you link our Services with your Third Party Accounts. For certain portions of our Services, we may give you the opportunity to opt out of combining such information.
-
-##### Communication from Us or our Services
-
-When you send email or other communications to Contactive, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. When you send and receive messages we may collect and maintain information associated with those messages. We may also occasionally send you information on products, services, special deals, and promotions offered by us or one of our partners. You can sign up for these emails from us on our registration page.
-
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out” section below.
-
-##### Service-Related Announcements
-
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our Service is temporarily suspended for maintenance, we might send you an email.
-
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
-
-##### Customer Service
-
-Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may contact customer service at contactive-support@thinkingphones.com.
-
-##### Use Profile
-
-We may store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We use this profile in order to provide promotions and marketing offers and to improve the content of the Services for you.
-
-We do not share your profile with other third parties other than as set forth in this Privacy Policy, including, without limitation, when you login using a Third Party Account, in which case we may share your profile information with the third party service provider.
-
-We may purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our profiles of individual Users, we may tie User’s profile information to the personally identifiable information such third party has provided to us.
-
-#### Conditions Under Which We Share Information
-
-We may share aggregated demographic information about our user base with our partners. This information does not identify individual users. We do not link aggregate user data with Personal Information. We may use and publicize aggregate information in any manner that does not identify you, without your consent.
-
-We do not sell, trade, or otherwise transfer to outside parties your Personal Information without your consent, except that we may share your Personal Information as set forth in this Privacy Policy, including, without limitation, in situations described below:
-
-  * We may share aggregated data to improve the delivery of our Services, including advertising, to develop analytics, and to enable us and our partners to improve and promote our products and services.
-  * We may collect and share Personal Information made publicly available by users through the Services.
-  * We may release your Personal Information to authorized agents who we contract with or are employed by us to perform tasks on our behalf and need to share information with them to provide products, services and offers to you. Unless we communicate with you differently, our authorized agents do not have the right to use any Personal Information we share with them beyond what is necessary to work with us. You hereby consent to our sharing your Personal Information for the above purposes.
-  * We believe it is necessary to investigate potential violations of our Terms of Service, to enforce those Terms of Service, to comply with law or to protect ours or others rights, property, or safety.
-  * If we or our business are acquired, in whole or in part, your non-personal information and your Personal Information would be transferred to the buyer as part of that transaction, provided that the conditions of this Privacy Policy would continue to apply.
-
-
-
-##### Third Party Websites and Services
-
-By connecting to our Services with a Third Party Account, you authorize Contactive and the third party provider to share certain information about you with each other to enhance your use of each the Services. You can stop or start sharing of your information through the Services with third party service providers by removing the applicable Third Party Account through the Platform.
-
-##### Legal Disclaimer
-
-We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court order, or legal process served on us; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.
-
-##### Choice and Opt-out
-
-We provide you the opportunity to ‘opt-out’ of having your Personal Information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on your profile account page.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at contactive-support@thinkingphones.com.
-
-##### California Residents – Your California Privacy Rights
-
-This Privacy Policy provides you a choice to opt-out regarding whether we share your Personal Information with third parties for their direct marketing purposes and information on how to exercise that choice. We will not share your information with a third party for its direct marketing purposes, if you choose to opt out of our sharing of such information. If you are a California resident and have questions about how we share information with third parties for their direct marketing purposes or about your ability to choose to opt out of that practice, please send an email that reads “Your California Privacy Rights” in subject line to: contactive-support@thinkingphones.com. We are only required to respond to one request per customer each year.
-
-##### Access to or Changing Your Information
-
-If your Personal Information changes, or if you no longer desire our Service, you may correct, update, delete or deactivate it by emailing our Customer Support at contactive-support@thinkingphones.com or by contacting us by telephone or postal mail at the contact information listed below.
-
-Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other public areas or third party websites – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third party use of such information.
-
-Please also keep in mind that your use of any systems or facilities made available by any third party, including the Client, are subject to your separate arrangements with that third party. The Client or other third party will have different terms and privacy policies regarding your use of their systems and facilities.
-
-##### Third party links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our Website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. This Privacy Policy applies only to information collected through our Services. Nonetheless, we seek to protect the integrity of our Services and welcome any feedback about the Platform, Website or Mobile App or our Services generally.
-
-##### Information You Post to Other Websites
-
-Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other community posting or social networking sites – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third party use of such information.
-
-##### Information Security
-
-Contactive is committed to protecting the security and privacy of your information stored by us. All data gathered through our Services is stored by us in a secure, password protected database. Only we and our hosting provider have access to this database. We will protect Personal Information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-
-While all standard security protections are implemented by us and our hosting providers, we cannot guarantee the physical or electronic security of the servers and databases on which this Website is hosted.
-
-We make available a separate security statement providing more details regarding our security arrangements. We require our partners who receive your information to agree to security requirements consistent with this Privacy Policy.
-
-##### Minors
-
-Our Services are not directed to people under 13 years of age. If you become aware that your child has provided us with Personal Information without your consent, please contact us at contactive-support@thinkingphones.com.
-
-We do not knowingly collect Personal Information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we take steps to remove that information and terminate the applicable account.
-
-##### Terms of Service
-
-Please also visit our Terms of Service, when available, establishing the use, disclaimers, and limitations of liability governing the use of our Services. Please also note that the Client Agreement governs all rights and obligations between Contactive and the Client.
-
-##### Your Consent
-
-By using the Website or Mobile App or any other aspect of our Services, you consent to our latest Privacy Policy.
-
-##### Changes to our Privacy Policy
-
-Contactive may update this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy modification date at the top of this Privacy Policy. If you have questions or concerns regarding our Privacy Policy, please contact us at: contactive-support@thinkingphones.com.
-
-#### Contact Us
-
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at: contactive-support@thinkingphones.com or to Thinking Phone Networks, Inc. (d/b/a Contactive) at 25 Broadway, Fl. 5, New York, NY 10004, USA.
+By using our website, you consent to the collection and use of information by ThinkingPhones. We reserve the right to change this Privacy Policy and our Terms of Use at any time and for any reason. If our privacy policy changes, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You agree that continued use of a website is an acknowledgment, consent and acceptance of any terms contained in our terms, conditions, practices and policies, including this Privacy Policy, as it may be amended from time to time.
