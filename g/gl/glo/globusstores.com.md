@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122756id_/http%3A//www.globusstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110093214id_/http%3A//www.globusstores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
