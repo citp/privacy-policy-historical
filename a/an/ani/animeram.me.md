@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeram.me privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209065000id_/http%3A//www.animeram.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeram.me privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110130034id_/http%3A//www.animeram.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Watch Anime – AnimeRam.org
 
