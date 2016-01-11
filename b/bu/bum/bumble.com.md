@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125515id_/http%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2016-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160111134239id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
 
 # Bumble - Privacy
 
