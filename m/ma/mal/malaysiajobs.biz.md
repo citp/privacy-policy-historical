@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiajobs.biz privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629182222id_/http%3A//malaysiajobs.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiajobs.biz privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112052157id_/http%3A//malaysiajobs.biz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
