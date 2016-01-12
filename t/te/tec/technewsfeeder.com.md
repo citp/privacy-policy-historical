@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsfeeder.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810073225id_/http%3A//10pm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsfeeder.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112235929id_/http%3A//10pm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 10pm
 
