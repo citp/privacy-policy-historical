@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207180659id_/http%3A//www.quickflirt.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112011432id_/https%3A//www.quickflirt.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual Dating at QuickFlirt
 
@@ -338,7 +338,7 @@ You have the right to choose whether or not to accept cookies and we explain how
 
   
 You can also block cookies by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. In order to do this follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser.   
-Further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.youronlinechoices.eu](https://web.archive.org/web/20151207180659id_/http%3A//www.quickflirt.com/staticPage/www.youronlinechoices.eu). 
+Further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.youronlinechoices.eu](https://web.archive.org/web/20160112011432id_/https%3A//www.quickflirt.com/staticPage/www.youronlinechoices.eu). 
 
 _**What cookies are used for and why we use them on this Site**_  
 This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
@@ -352,8 +352,8 @@ Site features and services | These cookies and local storage devices provide the
 Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Services.  
 Ad Serving & Behavioural Advertising | We sell space on some of our websites to advertisers. We use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (i.e. it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.   
 Advertisements on this Site and the other sites you visit are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites. In order to do this, our advertising partner may need to place a cookie on your computer.   
-For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](https://web.archive.org/web/20151207180659id_/http%3A//www.quickflirt.com/staticPage/www.youronlinechoices.eu) and select your country.   
-These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20151207180659id_/http%3A//www.quickflirt.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
+For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](https://web.archive.org/web/20160112011432id_/https%3A//www.quickflirt.com/staticPage/www.youronlinechoices.eu) and select your country.   
+These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20160112011432id_/https%3A//www.quickflirt.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
   
 **10\. OUR RIGHTS TO AMEND THIS POLICY**
 
