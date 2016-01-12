@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adis.ws privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132340id_/http%3A//www.amplience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adis.ws privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112214147id_/http%3A//www.amplience.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Amplience – The Big Content Platform
 
