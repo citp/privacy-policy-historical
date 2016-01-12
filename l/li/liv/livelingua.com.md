@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelingua.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223122412id_/https%3A//www.livelingua.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelingua.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112182848id_/https%3A//www.livelingua.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Live Lingua Privacy Policy
 
