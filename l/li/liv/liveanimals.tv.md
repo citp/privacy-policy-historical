@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveanimals.tv privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907224517id_/http%3A//liveanimals.tv/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveanimals.tv privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112131327id_/http%3A//liveanimals.tv/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which NoNiche LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the [LiveAnimals.tv](https://web.archive.org/web/20150907224517id_/http%3A//liveanimals.tv/LiveAnimals.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by NoNiche LLC..
+This Privacy Policy governs the manner in which NoNiche LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the [LiveAnimals.tv](https://web.archive.org/web/20160112131327id_/http%3A//liveanimals.tv/LiveAnimals.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by NoNiche LLC..
 
 **Personal identification information**
 
@@ -58,8 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[NoNiche LLC.](https://web.archive.org/web/20150907224517id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
-[LiveAnimals.tv](https://web.archive.org/web/20150907224517id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
+[NoNiche LLC.](https://web.archive.org/web/20160112131327id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
+[LiveAnimals.tv](https://web.archive.org/web/20160112131327id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
 webmaster@liveanimals.tv
 
 This document was last updated on May 29, 2013
