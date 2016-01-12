@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-thyroid.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812083332id_/http%3A//www.1-thyroid.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-thyroid.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112165854id_/http%3A//www.1-thyroid.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Thyroid concerns | low iodine levels | IodinePlus2 - Natural Living
 
