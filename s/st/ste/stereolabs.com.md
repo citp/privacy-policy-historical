@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stereolabs.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529151754id_/http%3A//www.stereolabs.com/zed/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stereolabs.com privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113221311id_/https%3A//www.stereolabs.com/zed/privacy) for the most accurate reproduction.*
 
-# ZED - Privacy Policy
+# Privacy Policy
 
 **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**  
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
