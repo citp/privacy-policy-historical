@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwi.qa privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923200931id_/https%3A//kiwi.qa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwi.qa privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113143649id_/https%3A//kiwi.qa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kiwi
 
@@ -72,7 +72,7 @@ Except as expressly provided otherwise, this document addresses only the use and
 
 **11\. Other Terms and Conditions**
 
-Your access to and use of the Services is subject to the Terms of Service at [www.Kiwi.qa/terms](https://www.kiwi.qa/terms)
+Your access to and use of the Services is subject to the Terms of Service at [www.kiwi.qa/terms](https://www.kiwi.qa/terms)
 
 **12\. Updates to this Policy**
 
