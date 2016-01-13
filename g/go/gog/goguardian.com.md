@@ -1,53 +1,110 @@
-> *The following text is extracted and transformed from the goguardian.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315035215id_/https%3A//goguardian.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguardian.com privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113020942id_/https%3A//www.goguardian.com/privacy.html) for the most accurate reproduction.*
 
 # GoGuardian | Privacy Policy
 
-This privacy statement discloses the privacy practices for Liminex Inc. ("Liminex" or "GoGuardian" or "Company") websites including: [www.liminex.net](https://liminex.net/), and [www.GoGuardian.com](https://goguardian.com/).
+Last Updated: October 1, 2015
 
-## Information Collection and Use
+Liminex Inc. dba GoGuardian (" **GoGuardian** ", " **we** ", " **us** ", " **our** ") provides this Privacy Policy to better explain how we collect, use, and safeguard your information, including legally protected information such as personally identifiable information, educational records, and pupil records (cumulatively " **Sensitive Information** "). This privacy policy explains how we handle all types of " **Data** ", which includes, but is not limited to, Sensitive Information, student data, metadata, and any other information collected through our website (" **Website** ") and through our services (" **Services** ").
 
-Liminex is the sole owner of the information collected on this site. We will not sell, share, or rent personally identifiable information to others in ways different from what is disclosed in this statement. Liminex collects information from our users at several different points on our website.
+## This privacy policy covers the following topics:
 
-## Purchase
+  * What Information We Collect
+    * Contact Information
+    * Service Information
+    * Student Information
+    * Non-Student Information
+    * Other Information
+  * Information Disclosure and Third Parties
+  * How We Protect Your Information
+  * Accessing and Modifying Information
+  * Important Notice to Non-U.S. Residents
+  * Changes to this Privacy Policy
+  * How to Learn More
 
-Liminex requires that information be provided when purchasing Liminex software products. This information is used by Liminex in the following manner:
-
-  * Financial information necessary to purchase Liminex products includes the customer's name, credit card billing address, credit card number, and credit card expiration date. Credit card numbers are not stored or archived by Liminex except the last 4 digits of the credit card which are kept as part of the purchase record. The last 4 digits of the credit card are kept in order to assist in future customer inquiries related to the purchase.
-  * Shipping information necessary to deliver physical product(s) includes the customer's name and shipping address. Liminex will not use this information to mail any other solicitation nor will Liminex sell this information to any third party.
-  * Contact information necessary to identify the customer includes the customer's name and email address. This information is required in order to email a purchase receipt to the customer containing information about the purchase that was made, including instructions for downloading and installing the software purchased and the serial number of the software purchased. The email address may also be used to contact the customer regarding problems processing the order. The name and email address are used for security purposes by our customer service personnel with regards to any customer inquiries about a software purchase. Information regarding a customer software purchase will only be provided at the email address used for that purchase. The name and email information may also be used to contact the customer about software products available on our web site. If a customer desires to not be contacted about our software products using their email address, they can prevent the email address from receiving Liminex product solicitations. Please see the below policy on 'opt-out' and discontinue.
 
 
+## What Information We Collect and How
 
-## Cookies
+### Contact Information
 
-Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies by themselves do not personally identify users, although they do identify a user's computer. Most browsers are configured to accept cookies. If you'd prefer, you can set your browser to refuse cookies. However, you will not be able to purchase software on our web site without session cookies enabled. The cookies allow Liminex to manage the state of the order purchase process. Cookies may also be used to store a code that provides the customer with special price offers on Liminex products and to determine from which web site a special price offer was made.
+Our website serves as a channel for GoGuardian to share information about our Services, and to gather information about current and potential customers of our Services. A visitor to our website may elect to leave contact information if they would like more information.
 
-## Referrers
+Our Website gathers customer information via web forms, which use industry standard Secure Socket Layer (SSL) encryption technology to protect their Data from other web users.
 
-A Referrer is the information passed along by a web browser that references the web site that you came to the Liminex web site from. This Referrer is automatically collected by our web server. This information is used by Liminex to identify broad demographic trends about use of our site. You will not be personally identified by this information.
+Contact information is retained for a period required to support our business purposes, i.e. sales, forecasting, and analytics.
 
-## IP Addresses
+ _Please Note:_ We do not anticipate receiving student contact information through the contact portion of our Website. Nevertheless, if you are under 13, please do not leave your contact information on our Website. If you are a parent or guardian of a child under 13 years old and you learn that your child has left Sensitive Information on GoGuardian's Website, please contact us, and we will endeavor to delete that information from our databases.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. Liminex web sites automatically collect IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information about web site use. Liminex will not use your IP address to identify any personal information.
+### Service Information
 
-## Sharing of Information
+To set up our Services, we require certain information (billing details, number of devices, network configuration, and various other information) from school officials to provide GoGuardian's Services. In the process of using GoGuardian's Services, we also collect a variety of information about how users interact with our systems, including service diagnostics and technical logging information.
 
-Liminex will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if Liminex is required to do so by law, or (ii) Liminex has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on Liminex, or to protect and defend the rights or property of Liminex or to enforce the Terms of Use. (iii) Liminex reserves the right to disclose information to its strategic partners and service providers so that Liminex may enhance the creation, distribution and support of its products. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. (iv) Liminex has the right to use share aggregated, non-personally identifiable information publicly and with our partners – like advertisers. For example, we may share information publicly to show trends about the general use of our services or popular applications.
+The service information volunteered by school officials is used in a manner consistent with this privacy policy and is only used to provide GoGuardian's Services, to provide support, to improve our Services, and provide our customers with additional information about GoGuardian's Services.
 
-## Security
+Service information is retained for the period of time required to provide the service.
 
-Information collected by Liminex is stored in secure operating environments that are not available to the public. All of our employees are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, Liminex cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure its security on our systems.
+### Student information
 
-The Liminex web site purchase forms ask users to enter sensitive personal information (such as credit card number and/or phone number). Information collected is encrypted and protected with the best encryption software in the industry - SSL. While on a secure page, such as our purchase order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+GoGuardian's Services do not directly require access to any Sensitive Information. However, students' and administrators' Data is logged as they interact with our Services.
 
-## Special Offers
+In the process of sales, support, and product development activities to support K-12 education, select GoGuardian employees may access a student's browsing history or Sensitive Information. This disclosure of potential Sensitive Information is only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on GoGuardian's behalf or to provide Services, and (ii) that have agreed not to disclose it to others.
 
-Liminex customers will occasionally receive information on Liminex products, services, and special offers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our opt-out and discontinue policy below.
+We do not sell Sensitive Information (except as noted in the "Acquisition" portion of the "Information Disclosure and Third Parties" section below) or use Sensitive Information for any purposes prohibited by SOPIPA and California Education Code section 49703.1. However, GoGuardian may market or advertise to individuals as well as use Sensitive Information in any way permitted by all applicable federal and state laws and regulations.
 
-## Correction/Updating Personal Information
+GoGuardian may use de-identified Data for product development, research, marketing of our capabilities, or other purposes. De-identified Data will have all direct and indirect personal identifiers removed. This includes, but is not limited to, name, email address, date of birth, geolocation information, and school ID. Furthermore, GoGuardian agrees not to attempt to re-identify de-identified Data.
 
-If a customer's personal information changes (such as your email), we will endeavor to provide a way to correct, update or remove that user's personal information provided to us. This can be done emailing our Customer Support.
+GoGuardian does not store, save, or in any way process any student-generated content.
 
-## Opt-out and Discontinue
+### Non-Student information
 
-A Liminex customer may elect to avoid future communications from Liminex by sending us an email at support@liminex.com or selecting Unsubscribe and indicate your email address and request we discontinue future communications. Under urgent circumstances, Liminex may be required to send you information about your software purchase, but we will not send you unsolicited communications regarding any commercial offers or advertisements if you have opted out or discontinued communications.
+GoGuardian's Services can only be provided through accounts or devices that are subject to higher-level management of their Internet access. GoGuardian collects Data from any managed account or device to which our Services are applied.
+
+### Other Information
+
+ _Analytics:_ Our Website automatically collects Data via Google Analytics and other similar services (" **our analytics tools** ") when you visit our Website or use our Services. Our analytics tools may collect information such as your IP address, Internet service provider, date and time, browser language, browser type, referring and exit pages and URLs, amount of time spent on particular pages, what sections of our Website you visit, which links you click while on our Website, search terms, operating system, Website traffic and related statistics, keywords and/or other general browsing Data.
+
+In addition to our analytics tools, we use cookies to better understand our Website's traffic, allowing us to offer better experiences and tools in the future. Cookies are small text files stored on your computer that allow us to personalize the content of our Website. An example of this is the ability of our systems to recognize you if you leave our Website and come back a short time later. Cookies can be turned off via your browser settings if you so choose. However, if you turn your cookies off, some features of our Website may not function properly.
+
+This other information is retained for the period of time required to provide the analytics services.
+
+## Information Disclosure and Third Parties
+
+ _Third parties:_ We often use other companies to perform certain business-related functions. Examples include hosting services, processing payments, sending emails, or customer service tools. When we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function, which may include student information. When student information is required, the information is encrypted when possible to provide the service; otherwise, we require the vendors to implement the same commitments to safeguarding Sensitive Information and Data that we do.
+
+ _Website Links:_ The GoGuardian website may contain links to third party websites, which we do not own or manage. In this case, the privacy practices of these websites are dependent on the individual websites. As such, we are not responsible for the privacy policies of those third party websites and encourage you to check the applicable third party privacy policy and terms of use when visiting any other websites, and before providing any Sensitive Information to said websites.
+
+ _Acquisition:_ If all or substantially all of our assets are acquired, we expect that the data that we have collected, including Sensitive Information, would be transferred to the new organization along with our other business assets. In this case, we will allow a successor entity to maintain the Sensitive Information provided that the successor entity upholds the same commitments in regards to the previously collected Sensitive Information.
+
+ _Unauthorized disclosure:_ Upon GoGuardian learning of an unauthorized disclosure of Sensitive Information, GoGuardian will alert the affected organizations as soon as reasonably practicable, not to exceed five (5) business days, through the contact information provided. In collaboration with the school district, we will make a commercially reasonable effort to alert affected parents, legal guardians, or eligible students to the disclosure. GoGuardian will also immediately investigate the disclosure to determine both why it happened and how to prevent it in the future. Additionally, GoGuardian will fully cooperate, within commercially reasonable means, with a school district's investigation as to why the breach occurred.
+
+ _Other disclosure:_ We may disclose certain Sensitive Information to government authorities, and to other third parties when compelled to do so by government authorities or required by law, including but not limited to in response to court orders and subpoenas. We also may disclose certain Sensitive Information when we have reason to believe someone is intending to or is causing harm to other users, or anyone else that could be harmed by such activities, or our rights or property. Any and all data disclosures will be made in compliance with federal and state laws, specifically in accordance with FERPA regulations.
+
+## How we Protect your Information
+
+GoGuardian takes the security and privacy of your Data very seriously. We agree to materially comply with all laws and regulations affecting our Services, and have committed to act in good faith to follow the Student Privacy Pledge, coordinated by FutureofPrivacy.org.
+
+GoGuardian has and will maintain strict procedures and controls to protect Data collected and stored by our systems from unauthorized access, destruction, use, modification, or disclosure.
+
+We use industry-standard best practices to protect the Data from both internal and external sources, including limiting database access, SSL (Secure Socket Layer) encryption, physical access controls to servers, buildings, and offices.
+
+In addition, the scope of an employee's access to Data, and especially Sensitive Information, is limited to those employees who require it to perform their job functions, and any GoGuardian employee that has access to Data will have been trained to properly handle and protect the Data to which they have access. Also, employees with access and only after they are specifically trained as to their responsibilities in regards to the Sensitive Information.
+
+## Accessing and Modifying Information
+
+Parents, legal guardians, eligible students: Upon request, we can grant you reasonable access to Sensitive Information that we and our agents have about you for the purpose of reviewing and/or requesting changes. In addition, parents have the right to ask that the online records of their children under the age of 13 be removed from the storage of any online service provider.
+
+If you wish to request review or correction of your child's records, please contact the appropriate official in your school district and ask them to review the school's information with you. If any corrections need to be made, the school official can carry out this action in collaboration with the GoGuardian team. We will use commercially reasonable efforts to process such requests in a timely manner.
+
+Lastly, if a school or school district requests the deletion of data under the control of the school or the school district, then GoGuardian will use commercially reasonable effort to delete such information.
+
+## Important Notice to Non-U.S. Residents
+
+Our Website, and our Services are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to or accessed within the United States. By providing us with any information through our Website, or our Services, you consent to this transfer.
+
+## Changes to this Privacy Policy
+
+We may change this privacy policy from time to time. When material changes are made to this privacy policy, GoGuardian customers will be notified by posting the new agreement on its Website (www.goguardian.com) and by emailing you at the email address associated with your GoGuardian account. 
+
+## How to Learn More
+
+We can be reached by telephone at [888-310-0410](tel:+18883100410). To learn more about our privacy policy, you can email us at [privacy@goguardian.com](mailto:privacy@goguardian.com).
