@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackers.university privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815001735id_/http%3A//hackers.university/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackers.university privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113120423id_/http%3A//hackers.university/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HackersUniversity
 
