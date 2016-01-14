@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointclub.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718005702id_/https%3A//s3-us-west-2.amazonaws.com/pointclub/ui/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclub.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114213710id_/https%3A//s3-us-west-2.amazonaws.com/pointclub/ui/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
