@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satwcomic.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316130947id_/http%3A//satwcomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satwcomic.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114100942id_/http%3A//satwcomic.com/privacy-policy) for the most accurate reproduction.*
 
-# Scandinavia and the World - privacy-policy
+# - Scandinavia and the World
 
 **Cookies & 3rd Party Advertisements**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
