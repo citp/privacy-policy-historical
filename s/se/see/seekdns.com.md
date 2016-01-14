@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekdns.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023043253id_/http%3A//seekdns.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekdns.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114192523id_/http%3A//seekdns.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # SeekDNS - Privacy Policy
 
