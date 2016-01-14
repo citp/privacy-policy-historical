@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeaffiliateadvisor.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223230619id_/http%3A//freeaffiliateadvisor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeaffiliateadvisor.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114122307id_/http%3A//freeaffiliateadvisor.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
