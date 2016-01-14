@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottokings.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216140614id_/http%3A//lottokings.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottokings.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114182555id_/http%3A//lottokings.com/privacy.aspx) for the most accurate reproduction.*
 
 # LottoKings.com > Home
 
