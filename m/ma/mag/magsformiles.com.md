@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magsformiles.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212002051id_/http%3A//www.timeinc.net/subs/privacy/synapse/magsformiles.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magsformiles.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114030921id_/http%3A//www.timeinc.net/subs/privacy/synapse/magsformiles.html) for the most accurate reproduction.*
 
 # Magazines for Miles Privacy Policy
 
