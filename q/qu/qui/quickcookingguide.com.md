@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickcookingguide.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822090559id_/http%3A//quickcookingguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickcookingguide.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114030433id_/http%3A//quickcookingguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quick Cooking Guide
 
