@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourcampfire.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210185933id_/http%3A//www.24hourcampfire.com/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourcampfire.com privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114145051id_/http%3A//www.24hourcampfire.com/privacy2.html) for the most accurate reproduction.*
 
 # 24hourcampfire.com ?PRIVACY POLICY
 
@@ -48,6 +48,6 @@ Copyright ?2000-2013 24hourcampfire.com, Inc.  All Rights Reserved.
 |  |   
   | 
 
-[](https://web.archive.org/web/20151210185933id_/http%3A//www.24hourcampfire.com/linkwithus.html)
+[](https://web.archive.org/web/20160114145051id_/http%3A//www.24hourcampfire.com/linkwithus.html)
 
 |  
