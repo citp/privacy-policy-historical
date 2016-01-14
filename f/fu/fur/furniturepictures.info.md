@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturepictures.info privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512164051id_/http%3A//furniturepictures.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturepictures.info privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115002658id_/http%3A//furniturepictures.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Furniture Pictures
 
