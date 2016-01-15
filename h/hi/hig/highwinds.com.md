@@ -1,54 +1,69 @@
-> *The following text is extracted and transformed from the highwinds.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114154022id_/http%3A//www.highwinds.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwinds.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115192857id_/https%3A//www.highwinds.com/privacy-policy) for the most accurate reproduction.*
 
-# Highwinds | Privacy Policy
+# Privacy Policy | Highwinds
 
-Protecting your privacy is important to Highwinds. We hope the following statement about the information we collect from the Highwinds Site will help you understand how Highwinds collects, uses and safeguards the personal information you provide to us on the Highwinds Site. 
+### Privacy Policy
 
-**Collection and Uses of Personal Information:**   
-Highwinds collects personally identifiable information about you from information you voluntarily provide when you register, make a purchase from or participate in the Highwinds Site. We receive general contact information including, but not limited to, your name, address, telephone number, organization name, e-mail address and credit card number. We might monitor your use of the Highwinds Site through your IP address, computer settings or most recently visited URL. We also may receive information about you from other sources, such as updated address information. Highwinds may contact you about your account status or changes to any policies relevant to you. 
+This privacy policy describes how Highwinds Network Group, Inc. (“Highwinds”) collects, uses and discloses the information we collect through [http://www.highwinds.com](http://www.highwinds.com/) (our “Website”), as well as our CDN Services (our “Services”).
 
-In general, Highwinds only uses the information you provide to us for the purpose for which the information was provided. For example, Highwinds uses the personal information gathered from the Highwinds Site to complete your requests and send you information about Highwinds. This information may include, but is not limited to, notifications of new products and services on the Highwinds Site or provided by some of our partners. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the "Control of Personal Information" section below. Highwinds also uses this personal information to help Highwinds create a more user-friendly website. In order to periodically make enhancements to the Highwinds Site, Highwinds will use personal contact information to allow us to gauge the interests, needs and preferences of our customers. We use your IP address to help diagnose problems with our server and to administer our web site. We might also use your personal information for product development, site tracking and analysis, marketing, advertising and customer support. 
+Highwinds website and services are not intended for individuals under the age of 18. Highwinds does not knowingly collect personally identifiable information from any person under the age of 18.
 
-**Disclosure of Personal Information:**   
-We may also collect customer information on an aggregate basis and disclose the aggregate data to prospective partners or other outside parties. Aggregate customer statistics are not personally traceable to you. 
+Highwinds will never sell, lease, or give away any of your personal information without your consent. Any personal and private information that you provide to us shall remain private. In order for us to provide certain services, we may on occasion need to provide information you supply us to external parties. If this is ever necessary, we will always provide you explicit notice and the ability to opt-out.
 
-Highwinds may post collected data on the Highwinds Site or share, rent sell or otherwise disclose data to third parties. Any third party to which Highwinds shares, rents, sells or otherwise discloses personal data will be carefully pre-screened by Highwinds, determined by Highwinds to be reputable, and will use the personal data for marketing products and services which Highwinds determines, in its sole judgment, that visitors might find of interest. Highwinds will disclose to third parties only information knowingly and voluntarily disclosed by visitors. 
+##### Safe Harbor Framework
 
-Through the use of third party cookies, advertisers will be electronically notified when visitors view or click on its advertisements. 
+Highwinds participates in the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor as set forth by the United States Department of Commerce available in full on the U.S. Department of Commerce’s Safe Harbor website: <http://export.gov/safeharbor/>). This applies to all personal information received by Highwinds whether in electronic, verbal, or paper format. As part of our participation in the Safe Harbor, we have agreed to JAMS dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with JAMS online at <http://www.jamsadr.com/safe-harbor-claim/>. The JAMS dispute resolution process will be conducted in English.
 
-Other than as explained above, Highwinds will not disclose your personally identifiable information to outside parties except: (i) to the extent necessary to provide you with a service you purchased from Highwinds, which is provided by a third party under contract with Highwinds, (ii) when we believe in good faith that any applicable law, regulation, or legal process requires disclosure; (iii) when we believe disclosure is necessary to protect or enforce our rights or the rights of another customer; or (iv) under urgent circumstances to protect the personal safety of users or members of the public. We may also provide information to governmental agencies or other companies assisting us in fraud prevention or investigation, when: (1) permitted or required by law; (2) attempting to protect you, another customer or Highwinds against actual or threatened fraud; or (3) investigating fraud that has already taken place. 
+##### Websites
 
-**Control of Personal Information:**   
-To the extent that Highwinds uses personal identifiers (such as usernames and passwords) to verify your identity, maintain recordkeeping in our system, and for other purposes, it is your responsibility to safeguard this unique information so as not to allow unauthorized users to view personal information. 
+The information we collect on or through our Websites may include:
 
-Highwinds allows you to change or modify the information you have previously provided to us. Upon request via e-mail or postal mail, Highwinds will provide you with a summary of any of your personal information retained by Highwinds. You may modify, correct, change, or update your personal record on Highwinds' database. Highwinds will only send personal records to the e-mail address on file for the visitor name associated with it. Upon request, Highwinds will also remove your personal information from its database, thereby canceling your registration, if any, and your license and permission to use the Highwinds Site. Unfortunately, to the extent such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records. 
+  * Information that you provide by filling in forms on our Websites. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Websites.
+  * Records and copies of your correspondence (including e-mail addresses, IRC handles and Twitter handles), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Websites and of the fulfillment of your orders.
+  * Your search queries on our Websites.
 
-The Highwinds Site also provides you the opportunity to opt-out of receiving all marketing communications via your e-mail account from our partners or Highwinds. To opt-out of these e-mails, change or modify your personal information or cancel your registration, please send an e-mail to [optout@highwinds.com](mailto:optout@highwinds.com). 
 
-**Use of Cookies and Other Technology:**   
-A cookie is a message that is sent to your browser from a web server and stored locally on your hard drive to help you navigate a web site as easily as possible. We use cookies and other technology to recognize when you visit the Highwinds Site so that you do not need to re-enter all of your registration data at each connection, as well as to store and track customers' preferences and uses of the Highwinds Site. We also use cookies that contain no personal information. These cookies help us estimate the number of customers using our Highwinds Site, determine which areas of the Highwinds Site are the most appealing and serve targeted advertising. The use of such technology is now common throughout the industry and you will encounter them on most web sites. You may adjust your browser setting to reject all cookies; however, please note that if you do so, Highwinds may prohibit you from participating in certain services or promotions. 
 
-We may also use technology such as clear GIFS on the Highwinds Site to help us better manage content on the Highwinds Site. We also may use clear GIFS in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the "Control of Personal Information" section. 
+The Highwinds website uses cookies in order to provide the highest quality service to our users. Highwinds does not store information we consider personal or private in a cookie. The cookies are placed by your browser on your computer’s hard drive to assign a unique identification for your computer. If you do not want Highwinds or any other website to use cookies, please disable them within your browser. Portions of the Highwinds website are still functional without cookies. You may delete Highwinds’ cookies through your browser’s cookie manager. Please note that deleting Highwinds’ cookies will reset your session, disable auto-login, and could adversely affect other functions on the Highwinds website and services.
 
-Some of our business partners (e.g., advertisers) may use cookies or similar technology on the Highwinds Site. We have no access to or control over these cookies. This privacy statement covers the use of this technology by the Highwinds Site only and does not cover the use of this technology by any advertisers. 
+##### Data Security
 
-**Third Parties:**   
-The ads appearing on the Highwinds Site are delivered to users by our advertising partners. We share web site usage information about users with a reputable third party for the purpose of targeting our Internet banner advertisements on the Highwinds Site. Our partners may use cookies and clear GIFs on this site, which would allow the partner to recognize a user's cookie when a user visits this site. The information that any partner collects and shares through this technology is not personally identifiable. 
+Highwinds takes reasonable measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any sensitive information will be encrypted using Transport Layer Security (also known as Secure Sockets Layer or “SSL”).
 
-To learn more about the choices available to you regarding this anonymous information, please see the section entitled "Control of Personal Information." 
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Websites. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Websites.
 
-The Highwinds Site may contain links to other web sites. Highwinds is not responsible for the privacy practices or the content of such web sites. Please check the privacy policies on the linked site before disclosing information to anyone. 
+##### Third Party Websites
 
-**Information about Children:**   
-We do not knowingly post or collect personally identifiable information from children under the age of sixteen (16) without a parent or guardian's consent. If a parent or guardian contacts us at [optout@highwinds.com](mailto:optout@highwinds.com) to inform us that an underage child has provided us personal information without their consent, Highwinds will remove the information about the child from our marketing database. 
+The Highwinds website may contain links to sites of third parties. Highwinds is not responsible for the privacy practices of external sites. Please review privacy statements of any website you visit.
 
-**General Comments on Privacy:**   
-While Highwinds has endeavored to create a secure and reliable site for its customers, Highwinds cannot ensure or warrant the security or confidentiality of any information customers transmit to and from the Highwinds Site. When disclosing any personal information, you should remain mindful that the information is potentially accessible to the public, and consequently, can be collected and used by others without your consent. 
+##### Promotional Partners
 
-You are the ultimate controller of personal information. You are solely responsible for maintaining the secrecy of any password used to log in, if any, and you should always be mindful and responsible whenever disclosing information online. Highwinds will use all commercially reasonable efforts to safeguard the privacy of your personal information, whether in electronic or tangible form. However, transmissions made by means of the Internet cannot be made completely secure. 
+Highwinds may notify you about an offer from a promotional partner via email or directly through the Highwinds website. Promotional partners will not have access to any of the targeting information. You will have to affirmatively respond to a promotional offer before Highwinds will reveal any identifying information about you to any partner.
 
-**California Privacy Rights:**   
-Once a calendar year, California residents who provide personal information in obtaining products or services for household use are entitled to request and obtain from Highwinds information about the customer information that we shared, if any, with other businesses for their direct marketing uses, such as the types of information shared and the names and addresses of those businesses for the prior calendar year. To request such information, please contact us at [optout@highwinds.com](mailto:optout@highwinds.com). 
+##### Social Media Widgets
 
-**Contact Us:**   
-Feel free to contact us at [support@highwinds.com](mailto:support@highwinds.com). 
+The Highwinds Website may include Social media features, such as the Facebook Like button, and widgets, such as the “Share” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a third party or hosted directly on our Websites. Your interactions with these social media features are governed by the privacy policy of the company providing them.
+
+##### Law Enforcement
+
+Highwinds may be compelled by court order, subpoena, regulation, or other legal process to provide information about our customers. Highwinds reviews all requests to ensure they follow the letter of the law and due process is respected before we turn over any information.
+
+##### California Privacy Rights
+
+California Civil Code Section 1798.83 permits users of our Website that are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make a request, please send an email or written request at the mailing address in the Contact Information section.
+
+##### Correcting Your Personal Information
+
+If you ever need to update or modify your personal information, please feel free to contact Highwinds anytime using the email or mailing address provided in the Contact Information below.
+
+##### Changes to this Privacy Policy
+
+Highwinds reserves the right to modify this Privacy Policy at any time. Changes to the policy will be posted on the website and we encourage you to review the site from time to time. We stand by the position that Highwinds will not sell or give away your information without your consent.
+
+##### Contact Information
+
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: Highwinds Network Group, Inc. General Counsel 807 West Morse Boulevard, Suite 101 Winter Park, FL 32789 legal@highwinds.com
+
+Last Updated: November 15, 2015
