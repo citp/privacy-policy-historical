@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagedecode.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026001737id_/http%3A//imagedecode.com/page-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagedecode.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115153602id_/http%3A//imagedecode.com/page-Policy.html) for the most accurate reproduction.*
 
 # Policy - ImageDecode.com|Earn money sharing images
 
