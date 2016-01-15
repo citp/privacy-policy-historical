@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the round2education.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230125210id_/http%3A//www.round2education.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the round2education.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115065626id_/http%3A//www.round2education.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | R 2 Education
 
@@ -83,7 +83,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [info#round2education.com](mailto:info#r%6fund2e%64%75cation.%63om "Send email to: info#round2education.com")
+Email: [info#round2education.com](mailto:%69n%66o%23round%32%65duc%61t%69%6fn%2ec%6fm "Send email to: info#round2education.com")
 
 
 
