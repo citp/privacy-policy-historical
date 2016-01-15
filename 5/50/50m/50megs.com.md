@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224194154id_/http%3A//www.50megs.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116002322id_/http%3A//www.50megs.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- 50megs.com
 
@@ -8,7 +8,7 @@ United Online Web Services, Inc. (“United Online Web Services”), a United On
 
 By using the Services you consent to our gathering, use and disclosure of your information, as described in this Privacy Statement, the Terms of Service and the other documents, agreements and materials incorporated therein (collectively referred to as the “Rules”). This Privacy Statement may change from time to time and United Online Web Services will provide notice of changes as described in the Terms of Service. 
 
-Questions regarding this Statement should be directed Attn: Legal Department - Privacy, United Online Web Services, Inc., c/o United Online, Inc., 2 Executive Drive, Suite 820, Fort Lee, NJ 07024. 
+Questions regarding this Statement should be directed Attn: Legal Department - Privacy, United Online Web Services, Inc., c/o United Online, Inc., 2 Executive Drive, Suite 680, Fort Lee, New Jersey 07024. 
 
 This Privacy Statement explains the following: 
 
