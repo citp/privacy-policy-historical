@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003155414id_/http%3A//www.smartnetworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115122156id_/http%3A//www.smartnetworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Smart Home Based Business Solutions
 
 **Preamble**
 
@@ -74,8 +74,8 @@ Our Company reserves the right to change this policy at any time by notifying vi
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:  
 SmartNetWorld Enterprises  
-326 One Tree Point Road  
-Whangarei, 0118  
+15 Cresta Drive  
+Katikati, 3129  
 New Zealand
 
 **Article 10. Links**
@@ -90,5 +90,5 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-© 2004 – 2011 SmartNetWorld Enterprises , All rights reserved.  
+© 2004 – 2015 SmartNetWorld Enterprises , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
