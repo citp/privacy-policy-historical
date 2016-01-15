@@ -1,86 +1,181 @@
-> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609042059id_/http%3A//www.windowsmarketplace.com/content.aspx%3FctId%3D314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115223301id_/http%3A//www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage) for the most accurate reproduction.*
 
-# Windows Marketplace: Privacy Policy
+# Microsoft Store - Privacy statement
 
-  * Windows Marketplace privacy statement 
+### Microsoft is committed to protecting your privacy
+
+This privacy statement applies to the data collected by Microsoft through its Microsoft Stores, including the Microsoft Store websites that specifically point to this privacy statement (the "Site" or "Website") and its Microsoft Store retail locations that specifically point to this privacy statement (the "Store," collectively the "Microsoft Stores"). This privacy statement does not apply to other online or offline Microsoft sites, stores products, or services. Similarly, this privacy statement does not apply to the products or services that you may purchase through the Store or the Website, unless those products and services specifically reference this privacy statement.
+
+### Collection of your information
+
+We will ask you when we need information that allows us to contact you. The personal information we collect may include your name, email address, phone number, and postal address. We may also collect demographic information, such as your ZIP or postal code, age, gender, preferences, interests, and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address which is used to create a billing account. If you choose to participate in these activities, we may also collect information from you that you provide in response to surveys or that you provide in connection with a contest. In our Stores, we may use video surveillance for safety and loss prevention purposes. We may also use video footage for analytical purposes.
+
+We may collect information about your visit to the Store or the Website. For example, we may use Website analytics tools to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our Website, the pages you view within the Website, your browser add-ons, and your browser's width and height. Additionally, we collect certain standard information that your browser sends to every Website you visit, such as your IP address, browser type and language, access times, and referring Website addresses. We may use information from your browser, such as language choice, to improve your customer experience, for example by making our Website accessible to you in your preferred language where possible.
+
+In order to offer you a more consistent and personalized experience in your interactions with Microsoft, information collected through one Microsoft service may be combined with information obtained through other Microsoft services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
+
+To sign in to the Website, you will be asked to enter an email address and password, which we refer to as your Microsoft account (formerly known as Windows Live ID). After you create your Microsoft account, you can use the same credentials to sign in to many different Microsoft sites and services, as well as those of select Microsoft partners that display the Microsoft account logo. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign in to participating sites, please read the [Microsoft Online Privacy Statement](http://privacy.microsoft.com/en-us/fullnotice.mspx "Microsoft Online Privacy Statement"). We may also use GeoIP or Geo Location mapping each time you visit the Website to help automatically direct you to the specific Microsoft Store Website intended for your location, but we do not store this information as part of your account information.
+
+### Use of your information
+
+The information collected in the Store or on the Website will be used to operate the Store and the Website and to provide the service(s) or carry out the transaction(s) you have requested or authorized, to include sending you a reminder if you have items in your shopping cart. We may also use this information to provide customer support, to facilitate returns and exchanges, to respond to questions or complaints, to conduct customer surveys, to detect and prevent fraud, and for other purposes described in this Privacy Statement.
+
+In support of these uses, Microsoft may use your information to provide you with more effective customer service, improve the Store or the Website and any related Microsoft products or services, perform statistical analysis, and make the Website easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Website to your particular preferences or interests.
+
+We may use your information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about Microsoft Store products, services, events, and promotions, as well as the same information for other Microsoft products and services. Also, with your permission, we may share your personal information with Microsoft partners so they may send you information about their products and services. Microsoft might use your email address.
+
+Microsoft occasionally hires other companies to provide limited services on our behalf, such as Website hosting, packaging, mailing, surveys and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.
+
+We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the services; or (c) act on a good-faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers, or the public. We may also disclose personal information as otherwise permitted by law and as part of a corporate transaction such as a merger or sale of assets.
+
+Information that is collected in the Store or on the Website may be stored and processed in the United States or any other country or region in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+
+### Control of your personal information
+
+Except as otherwise described in this statement or with your permission, personal information you provide to Microsoft in connection with the Store or on the Website will not be shared outside of Microsoft and its controlled subsidiaries and affiliates.
+
+You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive. You may also make choices about the communications you receive through the Website by signing in to your Microsoft Store account and modifying your contact settings. For Store communications, you may modify your contact preferences by notifying the Store directly.
+
+In the event that you return any product or item, you are responsible for deleting all stored personal information and content before your return it.
+
+Please be aware that this privacy statement and any choices you make in the Store or on the Website will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft websites, products, or services.
+
+### Access to your personal information 
+
+You can review and edit the personal information you provided at the Website by signing in to your Microsoft Store account. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your Microsoft account credentials (email address and password).
+
+### Security of your information 
+
+At Microsoft, we take the security of your personal information very seriously. We use a variety of security technologies and procedures in our Stores and on our Websites to help protect your personal information from unauthorized access, use, or disclosure. For example, for our Website, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, if we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+### Cookies & Similar Technologies
+
+Most Microsoft websites use "cookies," which are small text files placed on your hard disk by a web server. Cookies contain text that can be read by a web server in the domain that issued the cookie to you. That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well. Here is an example of the text stored in a cookie that Microsoft might place on your hard disk when you visit one of our websites: E3732CA7E319442F97EA48A170C99801
+
+We may use cookies for:
+
+  *  **Storing your preferences and settings**  
+If you enter your city or postal code to get local news or weather information on a Microsoft site, we may store that city or postal code in a cookie so that you will see the relevant local information when you return to the site. This can save you time by eliminating the need to repeatedly enter the same information every time you visit the site.
+  *  **Sign-in and authentication**  
+When you sign in to a site or service using your Microsoft account, we store your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. We also use cookies to improve the sign-in experience. For example, your email address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your email address to be pre-populated, so that you will only need to type your password the next time you sign in. In addition, we use cookies to store items in your shopping cart between visits. If you are using a public computer or do not want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.
+  *  **Targeted advertising**  
+When we display online advertisements to you, we will place one or more persistent cookies on your device in order to recognize your device each time we display an ad to you. Because we serve advertisements on our own websites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content, and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes. For example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you. You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in the [Microsoft Online Privacy Statement](http://privacy.microsoft.com/en-us/fullnotice.mspx "Microsoft Online Privacy Statement").
+  *  **Site analytics**  
+We may use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our sites and services. These analytics help us operate and improve the performance of these sites and services.
+
+Some of the cookies we commonly use are listed in the following chart. This list is not exhaustive, but it is intended to illustrate some of the reasons we set cookies. If you visit one of our Websites, the site may set some or all of the following cookies:
+
+ **Cookie name**|  **Description**  
+---|---  
+MUID| Identifies unique browsers to Microsoft sites. It is used for advertising, site analytics, and other operational purposes.  
+ANON| Contains the ANID, a unique identifier used to help identify which ads a user may like. It is also used to preserve a user's choice to opt out of behaviorally targeted ads from Microsoft, if the user has chosen to associate the opt-out with his or her Windows Live ID.  
+CC| Contains a country code as determined by reverse IP address lookup.  
+Windows Live ID authentication| Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when a user signs in with a Windows Live ID.  
+NAP| Contains an encrypted version of the user's country, ZIP code, age, gender, language, and occupation, if known, based on the user's Windows Live profile.  
+MH| Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser so the right ad is selected.  
+ACH01| Maintains information about which ad and where the user clicked on the ad.  
+TOptOut| Indicates that the user has indicated he or she does not want to receive behaviorally targeted ads delivered by Microsoft.  
+  
+In addition to the cookies Microsoft may set when you visit our Websites, third parties may also set certain cookies on your hard drive when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content, or ads delivered by other ad networks. Because your browser connects to those third parties' web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive.
 
 
 
-last updated: January 2007 
+### How to control cookies
 
-Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through the Windows Marketplace and Windows Marketplace sites (collectively "Windows Marketplace" or the "Site"); it does not apply to data collected through other online or offline Microsoft sites, products or services.
+ **Browser controls to block cookies**  
+Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.  
+For example, in Internet Explorer 9 you may block cookies by taking the following steps:
 
-Collecting your personal information
+  1. Click "Tools" and then select "Internet Options"
+  2. Click the "Privacy" tab at the top of the window
+  3. Move the slider up or down to select the types of cookies you wish to block
 
-We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we may collect includes your name, e-mail address, and nickname.
 
-To sign in to the Site, you will be asked to enter an e-mail address and password, which we refer to as your credentials. After you create these credentials, you can use them to sign in to other sites that are part of the Microsoft Windows Live Id Network. To learn more about the Windows Live Id Network, and learn how your credential information may be used and shared if you sign in to other sites on the Windows Live Id Network, read the Windows Live Id Network privacy statement at <http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033>
 
-We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Site. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. 
+Instructions for blocking cookies in other browsers are available at <http://www.allaboutcookies.org/manage-cookies/>.
 
-Windows Marketplace offers the ability to post reviews of merchandise featured on the Site. As the author of a review, you will be identified by a nickname that you choose. In order to help prevent your personal information from being gathered and used by others for inappropriate or harmful purposes, you should be cautious about including personal information in your nickname or merchandise reviews. 
+Please be aware that if you choose to block cookies, you will not be able to add items to your shopping cart, proceed to checkout, or sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
 
-In some cases, when you click on a link to purchase or download an item listed on the Site, you will be redirected to a different site where the merchandise is available. When you are redirected, you will see the new site's branding (page layout, styles, images, and text), not Windows Marketplace's. Any personal information you provide to such sites will be collected by those sites and governed by those sites' privacy statements. Windows Marketplace does not receive any of that personal information. We receive only aggregate reports from those sites. 
+ **Browser controls to delete cookies**  
+If you accept cookies, you can delete them later.  
+For example, in Internet Explorer 9, you may delete cookies by taking the following steps:
 
-In other cases, when you click on a link to purchase a software download, you may be taken to the digital locker download shopping cart. We will share the billing information you provide with the reseller(s) of record for software downloads you are purchasing solely so that they can perform the transactions you have requested or authorized. 
+  1. Click “Tools” and then select “Internet Options”
+  2. On the “General” tab, under “Browsing History,” click the “Delete” button
+  3. On the pop-up, select the box next to “Cookies” 
+  4. Click the “Delete” button
 
-If you choose to use the Games Advisor feature on this site in order to analyze the gaming performance of your PC, a plug in from Futuremark Corporation will be installed in your browser. This plug in will collect data about your PC system. The data collected is anonymous and will not contain, or be linked to, any personal information. 
 
-Use of your personal information
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
+Instructions for deleting cookies in other browsers are available at <http://www.allaboutcookies.org/manage-cookies/>.
 
-In support of these uses, Microsoft may use personal information to provide you with more effective customer service, to improve the Site and any related Microsoft merchandise or services, to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or to customize the site to your particular preference or interests. 
+Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
 
-We may use your personal information to provide you with important information about the merchandise or service that you are using, including critical updates and notifications. 
+ **Browser Controls for “Do Not Track” and Tracking Protection**  
+Some newer browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites' privacy practices.
 
-Microsoft occasionally hires other companies to provide limited services on our behalf, such as Web site analytics or answering customer questions about merchandise and services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose. 
+Internet Explorer 9 and 10 have a feature called Tracking Protection that helps prevent the websites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the websites you visit. For more information about Tracking Protection Lists and how to find them, please see the Internet Explorer privacy statement or Internet Explorer Help.
 
-Microsoft may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Microsoft or the Site; (b) protect and defend the rights or property of Microsoft and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of Microsoft employees or agents, users of Microsoft merchandise or services, or members of the public. 
+### Advertising opt-out controls
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use. Companies in the online advertising industry have developed guidelines and programs to help protect users' privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft). These pages include:
 
-Control of your personal information
+  1. Digital Advertising Alliance (DAA) Consumer Choice Page:   
+<http://www.aboutads.info/choices/>
+  2. Network Advertising Initiative (NAI) Opt-Out Page:   
+<http://www.networkadvertising.org/managing/opt_out.asp>
+  3. In Europe, you may also visit Your Online Choices:   
+<http://www.youronlinechoices.com/>
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. 
 
-You can access and change the nickname you provided at any time by going to any merchandise listing and clicking on "Write a review." A page will be displayed that includes a link to change your nickname. Click on that link and enter the new nickname you want to use. 
 
-You can access and edit or delte any billing information (such as address or credit card number) you may have elected to save when using the Windows Marketplace download shopping cart by clicking [Your Digital Locker](https://digitallocker.windowsmarketplace.com/locker.aspx) and selecting Profile. 
+Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft's advertising preference and opt-out controls are available at <http://choice.live.com/advertisementchoice/>. Please note that opting out does not mean that you will stop getting ads or see fewer ads; however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from being collected.
 
-You can edit any merchandise reviews that you may have posted by returning to the merchandise listing, signing-in, and clicking on "Write a review." Your previous review will be displayed and you can edit or delete any of the text before resubmitting the review. 
+### Our use of web beacons
 
-If you have further questions or concerns about any personal information collected on the Site, please write to us at the e-mail or postal addresses listed at the bottom of this statement. 
+Microsoft web pages may contain electronic images known as web beacons— sometimes called single-pixel gifs— that may be used to help deliver cookies on our sites, let us count users who have visited those pages, and deliver co-branded services. We may include web beacons in our promotional email messages or newsletters to determine whether messages have been opened and acted upon.
 
-Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft merchandise or services. 
+We may also work with other companies that advertise on Microsoft sites to place web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site.
 
-Security of your personal information
+Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other website operations. These web beacons may allow the third parties to set or read a cookie on your computer. We prohibit third parties from using web beacons on our sites to collect or access your personal information. Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:
 
-Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+  * [Omniture (Adobe)](http://www.d1.sc.omtrdc.net/optout.html "Omniture \(Adobe\)")
+  * [Nielsen](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices "Nielsen")
+  * [IBM Digital Analytics](http://www.ibm.com/privacy/us/en/#optout "IBM Digital Analytics")
+  * [Visible Measures](http://corp.visiblemeasures.com/viewer-settings "Visible Measures")
+  * [Google Analytics](http://tools.google.com/dlpage/gaoptout "Google Analytics") (requires you to install a browser add-on)
 
-Cookies
 
-We use cookies on this Site to ensure the integrity of the registration process and to allow personalization of the site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content and eases site navigation. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
+### Other similar technologies
 
-TRUSTe certification
+In addition to standard cookies and web beacons, websites can use other technologies to store and read data files on your computer. This may be done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or "Flash cookies") and Silverlight Application Storage.
 
-Windows Marketplace is a member of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because Windows Marketplace wants to demonstrate its commitment to your privacy, we have agreed to publish our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
+  *  **Local Shared Objects or “Flash cookies”**  
+Web sites that use Adobe Flash technologies may use Local Shared Objects or “Flash cookies” to store data on your computer. Note that the ability to clear Flash cookies may or may not be controlled by your browser setting for standard cookies as that may vary by browser. To manage or block Flash cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html").
+  *  **Silverlight application storage**  
+Websites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, visit [Silverlight](http://www.microsoft.com/getsilverlight/get-started/install/privacy.aspx "Silverlight").
 
-Enforcement of this privacy statement
 
-If you have questions regarding this statement, you should first contact Windows Marketplace by e-mail. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their Web site, <http://www.truste.org/users/users_watchdog.html>. TRUSTe will serve as a liaison with Windows Marketplace to resolve your concerns. 
 
-Changes to this privacy statement
+### Display of advertising 
 
-We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+Many of our web sites and online services are supported by advertising. Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you.You may opt out of receiving targeted ads from Microsoft Advertising by visiting our [opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759 "opt-out page"). For more information about how Microsoft Advertising collects and uses information, please see the Microsoft Advertising Privacy Statement.
 
-Contact information
+We also allow third-party ad companies, including other ad networks, to display advertisements on our sites. In some cases, these third parties may also place cookies on your computer. These companies currently include, but are not limited to: [24/7 Media](http://www.247realmedia.com/ "24/7 Media"), [adblade](http://www.adblade.com/ "adblade"), [AdConion](http://www.adconion.com/ "AdConion"), [AdFusion](http://www.adfusion.com/ "AdFusion"), [Advertising.com](http://advertising.com/ "Advertising.com"), [AppNexus](http://www.appnexus.com/ "AppNexus"), [Bane Media](http://www.banemedia.com/ "Bane Media"), [Brand.net](http://www.brand.net/ "Brand.net"), [CasaleMedia](http://www.casalemedia.com/ "CasaleMedia"), [Collective Media](http://www.collective.com/ "Collective Media"), [InMobi](http://www.inmobi.com/ "InMobi"), [Jumptap](http://www.jumptap.com/ "Jumptap"), [Millennial Media](http://www.millennialmedia.com/ "Millennial Media"), [nugg.adAG](http://ad-choices.nuggad.net/ "nugg.adAG"), [Mobclix](http://www.mobclix.com/ "Mobclix"), [Mojiva](http://www.mojiva.com/ "Mojiva"), [SpecificMedia](http://www.specificmedia.com/ "SpecificMedia"), [Tribal Fusion](http://www.tribalfusion.com/ "Tribal Fusion"), [ValueClick](http://www.valueclickmedia.com/ "ValueClick"), [Where.com](https://advertising.paypal.com/terms-and-use "Where.com"), [Yahoo](http://advertising.yahoo.com/ "Yahoo"), [YuMe](http://www.yumenetworks.com/ "YuMe"), and [Zumobi](http://www.zumobi.com/ "Zumobi").
 
-Microsoft welcomes your comments regarding this privacy statement. Please contact us by e-mail at [mktprvcy@microsoft.com](mailto:mktprvcy@microsoft.com?=Windows%20Marketplace%20Privacy%20statement). 
+These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the web sites of each company. Many of them are also members of the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative") or the [Digital Advertising Alliance](http://www.aboutads.info/choices/ "Digital Advertising Alliance"), which each provide a simple way to opt out of ad targeting from participating companies.
 
-Windows Marketplace  
+### Changes to this privacy statement 
+
+We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Website or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.
+
+### Contact information 
+
+Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please visit the Contact Us page on our Website to send us an email or contact us by postal mail at:
+
+Microsoft Privacy  
 Microsoft Corporation  
 One Microsoft Way  
-Redmond, WA 98052-6399 
+Redmond, Washington 98052  
+
