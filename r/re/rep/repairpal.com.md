@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairpal.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216214250id_/http%3A//repairpal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairpal.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115045238id_/http%3A//repairpal.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,5 +117,5 @@ Changes to this Privacy Policy are effective when they are posted on this page.
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [team@repairpal.com](mailto:team@repairpal.com "team@repairpal.com").
 
 RepairPal  
-85 Federal St. 2nd Floor   
-San Francisco, CA 94107
+363 Clementina St, 1st Floor   
+San Francisco, CA 94103
