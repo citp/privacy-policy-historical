@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcstartup.net privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620232522id_/https%3A//ggservers.net/billing/knowledgebase/5/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcstartup.net privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115081920id_/https%3A//ggservers.net/billing/knowledgebase/5/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Knowledgebase - GGServers Ltd.
 
@@ -41,7 +41,7 @@ GGServers has the discretion to update this privacy policy at any time. When we 
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://ggservers.net/billing/knowledgebase.php?action=displayarticle&id=4). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://ggservers.net/billing/knowledgebase.php?action=displayarticle&id=4). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed as your acceptance of those changes.
 
  **Contacting us**
 
