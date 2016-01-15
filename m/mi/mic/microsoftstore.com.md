@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsoftstore.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215101946id_/http%3A//www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftstore.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115223301id_/http%3A//www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage) for the most accurate reproduction.*
 
 # Microsoft Store - Privacy statement
 
