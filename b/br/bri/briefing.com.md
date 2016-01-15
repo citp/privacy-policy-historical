@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503191746id_/http%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115104300id_/https%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy
 
 [](https://privacy.truste.com/privacy-seal/Briefing-com/validation?rid=a13d2a83-f198-42e1-8647-b9390a03ed05 "TRUSTe online privacy certification")
 
-Effective on: 11/26/14
+Effective on: 1/4/16
 
-Briefing.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.briefing.com and does not cover information that may be collected through our mobile site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Briefing.com has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this Web site, www.briefing.com and does not cover information that may be collected through our mobile site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
   1. What personally identifiable information Briefing.com collects.
   2. What personally identifiable information third parties collect through the Web site.
@@ -59,19 +59,15 @@ Profile
 
 We store information that we collect through log files, clear gifs, and/or third parties to create a profile of our users. The profile is used as a whole, rather than individually to track user preferences, but not individual patterns of use. We do not share your profile with other third parties.
 
- **Third-Party Advertising**
+ **Tracking Technologies**
 
-The ads appearing on this Web site are delivered to users by DoubleClick, our Web advertising partner. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+Technologies such as cookies, beacons, scripts and tags are used by Briefing.com and our partners, affiliates, or analytics or service providers [Act-On, Google Universal, SeeWhy]. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
 
-This privacy statement covers the use of cookies by Briefing.com only and does not cover the use of cookies by any advertisers.
-
-**Tracking Technologies**
-
-Technologies such as: cookies, beacons, tags and scripts are used by Briefing.com and our partners, affiliates, or analytics or service providers [SeeWhy, Google Analytics, and DoubleClick]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for our shopping cart, to remember users’ settings (e.g. username), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies for our shopping cart, to remember users’ settings (e.g. username), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 **Log Files**
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Google Analytics that uses log files to analyze user movement. These log files are not tied to the user’s personal information.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Google Universal that uses log files to analyze user movement. These log files are not tied to the user’s personal information.
 
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
 
@@ -97,7 +93,7 @@ We also may contact users who have not checked out, not completed registration, 
 
 Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
  **Legal Disclaimer**
 
@@ -145,7 +141,7 @@ You can log in to our Investor (free) site using Facebook Connect. This service 
 
 **Social Media Widgets**
 
-Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing it. 
 
 **Surveys**
 
@@ -165,19 +161,19 @@ If users have any questions about the security at our Web site, users can send a
 
 Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by e-mailing our Customer Support at [service@briefing.com](mailto:service@briefing.com). Or users may contact us by telephone or postal mail at the contact information listed below.
+If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support team at [service@briefing.com](mailto:service@briefing.com). Or users may contact us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy statement, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy statement under which the information was collected.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via e-mail prior to the change becoming effective. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices prior to the change becoming effective.
 
 Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+If users have any questions or suggestions regarding our privacy statement, please contact us at:
 
 Phone: 800-752-3013 or 312-670-4463  
 Fax: 312-670-5021  
