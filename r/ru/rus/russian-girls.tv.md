@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russian-girls.tv privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717011754id_/http%3A//www.russian-girls.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-girls.tv privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116004332id_/http%3A//www.russian-girls.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # AnastasiaDate: Protecting your Privacy
 
@@ -88,7 +88,7 @@ Children under eighteen years of age are prohibited from using our Websites. We 
 
 You may periodically be sent email messages describing updates, new features, or promotional offers related to Anastasia-Date. You can choose to stop receiving this email at any time.
 
-To unsubscribe just email us at [unsubscribe@anastasiadate.com.](mailto:unsubscribe@anastasiadate.com) You can also follow the ‘unsubscribe’ instructions and link provided with each email or as we otherwise provide.
+To unsubscribe just click [here](http://submit.unsub-5-69.com/6ba79e935aa5a4dcbef778254686680b8946c79f783bea186eb246a0a1b3c0d5). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
 
 ## Updating Your Information
 
