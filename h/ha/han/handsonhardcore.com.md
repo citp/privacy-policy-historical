@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonhardcore.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314212743id_/http%3A//handsonhardcore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonhardcore.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115103450id_/http%3A//handsonhardcore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Hands On Hardcore - Privacy Policy
 
