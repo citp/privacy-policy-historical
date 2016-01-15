@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperitycashmachine.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707102704id_/http%3A//prosperitycashmachine.com/content.php%3Fp_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitycashmachine.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115080606id_/http%3A//www.prosperitycashmachine.com/content.php%3Fp_id%3D9) for the most accurate reproduction.*
 
 # Prosperity Cash Machine : Privacy Policy
 
