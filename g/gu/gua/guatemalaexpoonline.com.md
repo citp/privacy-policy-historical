@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guatemalaexpoonline.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019124248id_/http%3A//www.guatemalaexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guatemalaexpoonline.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116095939id_/http%3A//guatemalaexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
