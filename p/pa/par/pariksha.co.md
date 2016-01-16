@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pariksha.co privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221004406id_/http%3A//pariksha.co/users/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pariksha.co privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116161216id_/https%3A//www.pariksha.co/users/privacy) for the most accurate reproduction.*
 
-# Pariksha-Redefining Preparation & Assessment
+# Pariksha | Prepare Better
 
-### Privacy Policy
-
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.  
+This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.   
 
 Pariksha.co is committed to protecting the privacy of your personal information on our Web sites and developing technology that gives you the most powerful, safe, online experience. Please read this Privacy Policy, as well as our Terms of Use Agreement for more details about how we use information you submit to the Web site. If you have questions about this Privacy Policy or the protection of your personal information on Pariksha.co Web sites, please contact us. This Privacy Policy, together with the Terms of Use Agreement, constitutes the entire agreement between you and Pariksha.co. By using Pariksha.co, you consent to be governed by this Privacy Policy.   
 
