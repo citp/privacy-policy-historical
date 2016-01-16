@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabmania.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815134717id_/http%3A//grabmania.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabmania.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116151159id_/http%3A//grabmania.com/privacy.php) for the most accurate reproduction.*
 
 # Arena! privacy policy
 
