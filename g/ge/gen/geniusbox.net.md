@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the geniusbox.net privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026132635id_/http%3A//geniusbox.net/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusbox.net privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116195359id_/http%3A//www.geniusbox.net/Legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112)
 
-GeniusBox is certified as a Trusted Download Program by TRUSTe signifying that GeniusBox has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding GeniusBox, please contact us at Wisconsin Technology Group 11414 W. Park Pl. Suite 202 Milwaukee, Wisconsin 53224-3500 or by email at support@geniusbox.net. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112).
+GeniusBox is certified as a Trusted Download Program by TRUSTe signifying that GeniusBox has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding GeniusBox, please contact us at Wisconsin Technology Group 11414 W. Park Pl. Suite 202 Milwaukee, Wisconsin 53224 - 3500 or by email at support@geniusbox.net. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112).
 
-GENIUSBOX PRIVACY POLICY
+GeniusBox PRIVACY POLICY
 
 MAY CHANGE FROM TIME TO TIME
 
@@ -80,7 +80,7 @@ Any personally-identifiable information which you may send us when contacting us
 
 5.         How You May Exercise Your Rights
 
-To prevent the display of GeniusBox advertising on your computer, uninstall the GeniusBox software program by following the instructions located at Http://GeniusBox.net under the FAQ “How do I uninstall Genius Box?”
+To prevent the display of GeniusBox advertising on your computer, uninstall the GeniusBox software program by following the instructions located at www.geniusbox.net under the FAQ “How do I uninstall GeniusBox”
 
 In order to remove any cookies, check the instructions about your web browser to learn how to prevent placement of, or how to remove, cookies placed on your computer by GeniusBox.
 
@@ -94,11 +94,11 @@ Our Services are international in scope. By using the Services you consent to yo
 
 8\.         Minors Under Age 18
 
-The Services are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Services, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us through our contact form at: http://www.GeniusBox.net/Home/Contact and we will remove it.  If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
+The Services are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Services, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us through our contact form at: http://www.geniusbox.net#contact and we will remove it.  If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
 
 9\.         Changes to this Privacy Policy
 
-GeniusBox may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the “Privacy Policy” link at the bottom of GeniusBox.net, or visiting this link which you can bookmark:  [Http://geniusbox.net/legal/privacy](http://geniusbox.net/legal/privacy) . If we make any substantial changes to this Privacy Policy, we will present you a notice via the GeniusBox Application and post a prominent notice on our home page with a copy of the previous changes along with any substantial changes we made. 
+GeniusBox may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the “Privacy Policy” link at the bottom of www.geniusbox.net, or visiting this link which you can bookmark:  [http://www.geniusbox.net/legal/privacy](http://www.geniusbox.net/legal/privacy) . If we make any substantial changes to this Privacy Policy, we will present you a notice via the GeniusBox Application and post a prominent notice on our home page with a copy of the previous changes along with any substantial changes we made. 
 
 10\.       Who We Are
 
@@ -108,9 +108,9 @@ Any references made in this Privacy Policy to "us", "we", "our" and/or "GeniusBo
 
 For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices.
 
-We do not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive.  However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us through our contact form at http://geniusbox.net/Home/Contact or write to us at:
+We do not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive.  However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us through our contact form at http://www.geniusbox.net#contact or write to us at:
 
 Wisconsin Technology Group  
 11414 W. Park Pl. Suite 202  
-Milwaukee, Wisconsin  53224-3500  
+Milwaukee, Wisconsin 53224 - 3500  
 support@geniusbox.net
