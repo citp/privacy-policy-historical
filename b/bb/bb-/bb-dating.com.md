@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bb-dating.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218124735id_/http%3A//bb-dating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bb-dating.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116092132id_/http%3A//bb-dating.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - bb-dating.com
 
