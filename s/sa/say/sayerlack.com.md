@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sayerlack.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027011255id_/http%3A//privacy.sherwin-williams.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayerlack.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116165119id_/http%3A//privacy.sherwin-williams.com) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**PRIVACY POLICY UPDATE**
-
-Your right to privacy is very important to us. As such, we have updated our consumer privacy policy to make it easier for you to understand the way we collect, use, share and secure your information. At your convenience, please take a few minutes to review our updated policy.
 
 The Sherwin-Williams Privacy Policy applies to any  information collected about you by Sherwin-Williams, its affiliated companies, and its subsidiaries.  This includes information collected by any means, including but not limited to, any website, mobile application, or other online service that refers to or links to this Privacy Policy, as well as information collected through other business functions of Sherwin-Williams, such as through our customer loyalty programs or customer service representatives (the “Services”).  Please click [here](https://web.archive.org/privacy-policy) to review the full Sherwin-Williams Privacy Policy. 
 
@@ -49,4 +45,4 @@ Enterprise Risk Management
 
 Cleveland, OH 44115
 
-E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=test)
+E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=http://generalpolymers.com/)
