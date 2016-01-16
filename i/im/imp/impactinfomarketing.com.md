@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactinfomarketing.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815083129id_/http%3A//impactinfomarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactinfomarketing.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116075047id_/http%3A//impactinfomarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
