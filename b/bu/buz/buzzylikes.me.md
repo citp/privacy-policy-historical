@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzylikes.me privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810081615id_/http%3A//buzzylikes.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzylikes.me privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117215239id_/http%3A//buzzylikes.me/privacy) for the most accurate reproduction.*
 
 # buzzylikes
 
