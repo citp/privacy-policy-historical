@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotacloud.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219044808id_/http%3A//rotacloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotacloud.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117093737id_/https%3A//rotacloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RotaCloud
 
