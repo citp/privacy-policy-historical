@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810032344id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117101054id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Use of this site means you agree : All Poetry
 
@@ -63,7 +63,8 @@ In addition, your ip address, cookie information, and what pages you request is 
   * Many people are unsure what cookies are and are unfamiliar with them. 
   * We use cookies to keep you logged in from page to page, so that you do not have to type in your login information on every page of the site. 
   * All the cookie stores is that your username is 'blah', and an encrypted copy of your password. 
-  * Third-party ads may use cookies to track the types of sites you visit, and show ads accordingly (e.g. poetry ads, or a sports ads if you often visit espn). 
+  * Third-party ads may use cookies to track the types of sites you visit, and show ads accordingly (e.g. poetry ads). 
+  * We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices.”
 
 
 
