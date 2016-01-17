@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041308id_/http%3A//www.uhv.edu/aboutuhv/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117213118id_/http%3A//www.uhv.edu/aboutuhv/privacyandpolicies) for the most accurate reproduction.*
 
 # Privacy and Policies - University of Houston-Victoria
 
@@ -28,11 +28,10 @@ NOTE: Due to the evolving nature of UHV, technology, and the World Wide Web, UHV
 
 UHV Web Policies and Guidelines are in compliance with the laws, regulations, policies, and standards as stated in the following documents:
 
-      * Section 508 of the Rehabilitation Act of 1973. Particularly, [§ 1194.22 Web-based intranet and internet information and applications](http://www.section508.gov/section-508-standards-guide#Web).
-      * Texas Dept. of Information Resources (DIR) [Standards Review and Recommendations Publications (SRRPUBs)](http://www.dir.texas.gov/pubs/srrpubs/Pages/SRRPUBs.aspx)
-      * Texas Administrative Code (TAC) Chapter 206: State Websites
-      * Particularly, [Subchapter C: Institution of Higher Education Websites](http://www.uhv.edu/it/Web_guidelines/TAC20670.aspx)
-      * Web Content Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag))
+  * Section 508 Standards for Electronic and Information Technology. Particularly, [§ 1194.22 Web-based intranet and internet information and applications.](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards#22)
+  * Texas Dept. of Information Resources (DIR). [Texas EIR Accessibility statutes and rules](http://dir.texas.gov/View-Resources/Pages/Content.aspx?id=36).
+  * Texas Administrative Code (TAC) Chapter 206: State Websites.Particularly, [Subchapter C: Institution of Higher Education Websites](http://www.uhv.edu/it/Web_guidelines/TAC20670.aspx)
+  * Web Content Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag))
 
 
   *[WCAG]: Web Content Accessibility Guidelines
