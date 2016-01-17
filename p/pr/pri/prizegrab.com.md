@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218060517id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117155715id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-REVISION DATE: 12/4/14
+REVISION DATE: 05/24/15
 
-Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20150218060517id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
+Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20160117155715id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
 
 ### Collection of Information.
 
@@ -22,11 +22,11 @@ As is true of most websites, we gather certain information automatically and sto
 
 We may use Google Analytics on parts of our Website. If you prefer to not have your data used by Google Analytics you may visit the Google Analytics [opt-out page ](https://tools.google.com/dlpage/gaoptout)and install the add-on for your browser.
 
-The third party advertisers, vendors and ad networks may also use cookies to show advertisements to you. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it to serve ads to you based on your visit to our Website and/or other websites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](https://web.archive.org/web/20150218060517id_/http://prizegrab.com/privacy/aboutads.info) at any time.
+The third party advertisers, vendors and ad networks may also use cookies to show advertisements to you. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it to serve ads to you based on your visit to our Website and/or other websites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](https://web.archive.org/web/20160117155715id_/http://prizegrab.com/privacy/aboutads.info) at any time.
 
 ### Sharing Information With Third Parties.
 
-We share your personal information with the Sponsor of the Sweepstakes so that they may contact you if you win or if there is an issue with your entry. We may share your personal information with third parties for commercial purposes which mean they may send you advertising that may be of interest to you. We may share aggregated non-personal information with third parties. We will also release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or to establish or exercise our legal rights or defend against legal claims.
+We share your personal information with the Sponsor of the Sweepstakes so that they may contact you if you win or if there is an issue with your entry. We may share aggregated non-personal information with third parties. We will also release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or to establish or exercise our legal rights or defend against legal claims.
 
 In the event of a merger, acquisition, or change of control of our company, your information would be considered a business asset and would be disclosed and transferred. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We may also disclose personal information as required by law or to protect the safety and security of our users. Finally we will use your information to deliver our own commercial offers to you. 
 
@@ -34,7 +34,7 @@ In the event of a merger, acquisition, or change of control of our company, your
 
 Receiving email messages from us or anyone we share your information with is optional. As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users. While some basic data is necessary to provide certain services, such as entry into the sweepstakes, there are some cases where the submission of information is optional. All users who provide their Information to PrizeGrab.com may modify and correct such Information through their personal profile or by contacting us [ here.](http://prizegrab.com/contact)
 
-But if you are receiving offers from other companies, you may follow the simple opt-out procedure contained in each email at the bottom of the email. If you are receiving our emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every one of our emails, or contact us at Fun Grab LLC, PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 
+But if you are receiving offers from other companies, you may follow the simple opt-out procedure contained in each email at the bottom of the email. If you are receiving our emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every one of our emails, or contact us at PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 
 
 ### No Control of Third Party Links or Privacy Practices.
 
@@ -52,7 +52,7 @@ We do not target or direct collection of information from children under the age
 
 ### California Privacy Rights:
 
-The following information for California residents covers on-line (internet) and off-line (direct mail) information sharing activities. From time to time we may share or exchange marketing information about you with other companies so they may contact you about products and services that may interest you. If you do not want your name passed on to other companies for the purpose of receiving marketing offers, please contact us at Fun Grab LLC, PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 and we will respect your wishes. Please make sure to provide both your email address and full name, mailing address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing. In addition, you should know that we do not respond to do-not-track cookies or other do-not-track technology.
+The following information for California residents covers on-line (internet) and off-line (direct mail) information sharing activities. From time to time we may share or exchange marketing information about you with other companies so they may contact you about products and services that may interest you. If you do not want your name passed on to other companies for the purpose of receiving marketing offers, please contact us at PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 and we will respect your wishes. Please make sure to provide both your email address and full name, mailing address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing. In addition, you should know that we do not respond to do-not-track cookies or other do-not-track technology.
 
 ### Changes to the Privacy Policy
 
@@ -60,8 +60,8 @@ We may decide to change this Privacy Policy from time to time. When we make mate
 
 ### Questions and Contact Information.
 
-If you have any questions or comments regarding this privacy policy or the use of personal data, please contact us at Fun Grab LLC, PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 
+If you have any questions or comments regarding this privacy policy or the use of personal data, please contact us at PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 
 
-No Purchase Necessary. You do not need to click ads in order to enter or win. Void where prohibited. Sponsored by Prizegrab.com. See [Official Rules](https://web.archive.org/rules). 
+NO PURCHASE NECESSARY. A purchase of payment of any kind will not increase your chances of winning. You do not need to click ads in order to enter or win. Void where prohibited. Sponsored by Prizegrab.com. See [Official Rules](https://web.archive.org/rules). 
 
-The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with PrizeGrab.com. These third parties do not sponsor or endorse this website, its content, or services. 
+The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with PrizeGrab.com and do not sponsor or endorse any sweepstakes. 
