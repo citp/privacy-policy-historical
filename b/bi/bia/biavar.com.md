@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biavar.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810081949id_/http%3A//biavar.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biavar.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118004140id_/http%3A//biavar.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Biavar.com - Privacy Policy
 
