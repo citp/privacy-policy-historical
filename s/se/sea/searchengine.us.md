@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengine.us privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727054700id_/http%3A//freeinternetmarketingcourses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.us privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117083608id_/http%3A//freeinternetmarketingcourses.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
