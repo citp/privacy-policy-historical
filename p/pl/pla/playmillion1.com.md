@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playmillion1.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043641id_/http%3A//www.playmillion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmillion1.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117014134id_/http%3A//www.playmillion-promo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Play Online Casino with up to 3000€ Welcome Bonus - PlayMillion.com
 
 PlayMillion.com values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents.
 
