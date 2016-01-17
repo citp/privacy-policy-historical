@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecandidforum.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815081726id_/http%3A//hotvolleyball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecandidforum.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117155055id_/http%3A//hotvolleyball.com/privacy-policy) for the most accurate reproduction.*
 
 # Hot volleyball - candid volleyball girls | Privacy Policy
 
