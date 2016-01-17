@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackinggo.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217122257id_/http%3A//www.trackinggo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackinggo.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117100533id_/http%3A//www.trackinggo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
