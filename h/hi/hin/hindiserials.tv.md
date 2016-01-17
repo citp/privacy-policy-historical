@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindiserials.tv privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118001819id_/http%3A//hindiserials.tv/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindiserials.tv privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117160315id_/http%3A//hindiserials.tv/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
