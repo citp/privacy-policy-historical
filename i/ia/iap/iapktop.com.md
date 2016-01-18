@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iapktop.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403171213id_/http%3A//www.iapktop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapktop.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118233339id_/http%3A//www.iapktop.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
