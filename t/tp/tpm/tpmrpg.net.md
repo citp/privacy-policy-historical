@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tpmrpg.net privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010222928id_/http%3A//tpmrpg.net/legal.php%3Farea%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpmrpg.net privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118094622id_/http%3A//tpmrpg.net/legal%3Farea%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy :: The Pokemon Moon RPG :: Online Pokemon RPG Game
+# Privacy Policy - The Pokemon Moon RPG - Online Pokemon RPG Game
 
-Privacy Policy :: The Pokemon Moon RPG :: Online Pokemon RPG Game
+Privacy Policy - The Pokemon Moon RPG - Online Pokemon RPG Game
 
 ## Privacy Policy
 
