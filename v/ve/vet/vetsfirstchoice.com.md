@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112023123id_/http%3A//www.vetsfirstchoice.com/wp-content/uploads/2015/08/VetsFirstChoice_Vets_PrivacyPolicy-2015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118014708id_/http%3A//www.vetsfirstchoice.com/wp-content/uploads/2015/08/VetsFirstChoice_Vets_PrivacyPolicy-2015.pdf) for the most accurate reproduction.*
 
 # 
 
