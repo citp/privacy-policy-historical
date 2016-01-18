@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssdownloader.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221224140id_/http%3A//www.xdisc.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssdownloader.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118093039id_/http%3A//www.xdisc.biz/privacy.html) for the most accurate reproduction.*
 
 # XDisc Corp Privacy Policy
 
@@ -149,7 +149,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 http://www.xdisc.biz  
-info@xdisc.biz
+info@xdisc.biz 
 
 * * *
 
