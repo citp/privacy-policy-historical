@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y-axis.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220115337id_/https%3A//www.y-axis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y-axis.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118152449id_/https%3A//www.y-axis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
