@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couchtuner.mx privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218071559id_/http%3A//www.couchtuner.mx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchtuner.mx privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118224955id_/http%3A//www.couchtuner.mx/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CouchTuner-Watch Series Online
+# Privacy Policy | Couchtuner - Watch Series
 
 **Privacy Policy**
 
@@ -12,7 +12,7 @@ Information is collected only if users submitted the information voluntarily. Th
 
 **Cookie/Tracking Technology**
 
-CouchTuner.me may use tracking and/or cookies technology, useful for collecting data like operating system, checking the number of viewers, browser type, and the site’s usefulness to its users. Your personal information can’t be gathered using this technology; on the other hand, if you previously provided your personal information, cookies may link back to that information. Our advertisers or other third parties may use cookies to collect data to provide specific ads. Most of the browsers automatically recognize cookies, but you may modify your browser settings to decline cookies.
+CouchTuner.bz may use tracking and/or cookies technology, useful for collecting data like operating system, checking the number of viewers, browser type, and the site’s usefulness to its users. Your personal information can’t be gathered using this technology; on the other hand, if you previously provided your personal information, cookies may link back to that information. Our advertisers or other third parties may use cookies to collect data to provide specific ads. Most of the browsers automatically recognize cookies, but you may modify your browser settings to decline cookies.
 
 **Information Distribution**
 
