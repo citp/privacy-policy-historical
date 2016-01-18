@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestatearticles4u.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109211942id_/http%3A//www.realestatearticles4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatearticles4u.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118091014id_/http%3A//realestatearticles4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
