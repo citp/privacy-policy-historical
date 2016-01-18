@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiacolleges.edu privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906084013id_/https%3A//secure.californiacolleges.edu/Home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiacolleges.edu privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118123630id_/https%3A//www.californiacolleges.edu/Home/Privacy.aspx) for the most accurate reproduction.*
 
 # California Colleges - Privacy Policy
 
