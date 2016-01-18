@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923141858id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118121826id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Chicago Public Library | BiblioCommons
 
@@ -115,7 +115,7 @@ When you contribute content to an individual title, that title is automatically 
 
 ### Can Shared Content be viewed by the public?
 
-Shared Content has been designed for sharing, and is usually public. However you may make portions of your Shared Content private by using your [Privacy Settings](https://web.archive.org/user/privacy). In addition, messages sent directly to other users through the service are not publically viewable.
+Shared Content has been designed for sharing, and is usually public. However you may make portions of your Shared Content private by using your [Privacy Settings](https://web.archive.org/user/privacy). In addition, messages sent directly to other users through the service are not publicly viewable.
 
 If you are uncomfortable with the idea of sharing content with others, you may decide not to use My Shelves or contribute ratings, comments, guides, or other types of Shared Content. You do not need to create Shared Content in order to use the BiblioCommons Service.
 
