@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030054853id_/http%3A//browsergamez.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118191852id_/http%3A//browsergamez.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy note
 
