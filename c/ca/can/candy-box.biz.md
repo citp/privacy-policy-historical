@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candy-box.biz privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812074633id_/http%3A//candy-box.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candy-box.biz privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118082041id_/http%3A//www.candy-box.biz/privacy.html) for the most accurate reproduction.*
 
 # Candybox
 
