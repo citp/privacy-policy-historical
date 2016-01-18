@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rust-servers.net privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218215539id_/http%3A//rust-servers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rust-servers.net privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118034618id_/http%3A//rust-servers.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Politique de Confidentialité
 
@@ -30,9 +30,7 @@ Like many other websites, we make use of log files. The information inside the l
 
 ### Cookies
 
-" **Rust-Servers.net** " use cookies to store session information of your account. This allow us to logged you in automatically. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to login on " **Rust-Servers.net** ". 
-
-" **Rust-Servers.net** " use cookies to detect and fight vote cheating. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to vote on " **Rust-Servers.net** ". 
+Our Cookie policy is available here: [Cookie Policy](https://web.archive.org/cookie/)
 
 ## Links to other websites
 
@@ -74,9 +72,7 @@ Comme beaucoup de sites Internet, nous utilisons des fichiers d'historique. Les 
 
 ### Cookies
 
-" **Rust-Servers.net** " utilise les cookies pour stocker les informations de session de votre compte. Vous pouvez supprimer et désactiver les cookies dans les réglages de votre navigateur. Cependant, cela pourrait vous empêcher de vous connecter sur " **Rust-Servers.net** ".
-
-" **Rust-Servers.net** " utilise les cookies pour détecter et combattre la triche au sein de notre système de vote. Vous pouvez supprimer et désactiver les cookies dans les réglages de votre navigateur. Cependant, cela pourrait vous empêcher de voter sur " **Rust-Servers.net** ".
+Politique liée aux cookies est consultable ici : [Politique Liée aux Cookies](https://web.archive.org/cookie/)
 
 ## Liens vers d'autres sites
 
