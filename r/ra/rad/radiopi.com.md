@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiopi.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126042147id_/http%3A//radiopi.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopi.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118174342id_/http%3A//radiopi.com/privacypolicy.php) for the most accurate reproduction.*
 
 # TVneto - Privacy Policy
 
