@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchseries1.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215193413id_/http%3A//www.watchseries1.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchseries1.net privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118152003id_/http%3A//www.watchseries1.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WatchSeries1
 
@@ -22,7 +22,7 @@ iii. Information that you provide when you communicate with us by any means.
 
 Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
 
-We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
+We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computerâ€™s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
 
 You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer.
 
@@ -56,11 +56,11 @@ iii. To further fraud protection and reduce the risk of fraud.
 
 **Third Party Links**
 
-On occasion we include links to third parties on this website. Where we provide a link it **does not mean that we endorse or approve that site’s policy towards visitor privacy**. You should review their privacy policy before sending them any personal data.
+On occasion we include links to third parties on this website. Where we provide a link it **does not mean that we endorse or approve that siteâ€™s policy towards visitor privacy**. You should review their privacy policy before sending them any personal data.
 
 **Access to Information**
 
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of £10 to cover costs incurred by us in providing you with the information.
+In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of Â£10 to cover costs incurred by us in providing you with the information.
 
 **Contacting Us**
 
