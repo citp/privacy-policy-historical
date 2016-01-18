@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofreeserve.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815160759id_/https%3A//gofreeserve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreeserve.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118044852id_/https%3A//gofreeserve.com/privacy-policy) for the most accurate reproduction.*
 
 # GoFreeserve - Privacy Policy
 
