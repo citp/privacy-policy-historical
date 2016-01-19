@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the boreburn.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205225641id_/http%3A//boreburn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boreburn.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119023541id_/http%3A//boreburn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BoreBurn
 
-_Last Updated: December 22, 2014_
+_Last Updated: March 19, 2015_
 
 Generally BOREBURN.COM (“Site” or “we”, “our” or “us”) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter “PII”).
 
-BOREBURN.COM is owned by BOREBURN.COM. For BOREBURN.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+BOREBURN.COM is owned by SolutionsWide. For BOREBURN.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 **What does this Privacy Policy cover?**
 
