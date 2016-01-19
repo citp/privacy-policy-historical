@@ -1,23 +1,53 @@
-> *The following text is extracted and transformed from the smsfunbook.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174957id_/http%3A//smsfunbook.com/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsfunbook.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119213428id_/http%3A//www.smsfunbook.com/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+**What information do we collect?**
 
-We are glad of your interest in [**SmsFunBook**](http://www.smsfunbook.com/). We have created this privacy statement in order to demonstrate our firm commitment to privacy.
+We collect information from you when you register on our site. 
 
-We can be reached via email at service@smsfunbook.com
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Our Site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. For each visitor to our Web Page, our Web Server automatically logs statistical information such as the user's IP address, browser type, and the site where the user came from. The information stored on our server may be used to provide statistics about the usage of this site, for the purpose of improving this site and to provide statistical information to advertisers. Only aggregated information is given, and the log file itself is not available to the public.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+ **What do we use your information for?**
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. An advertiser may also display an advertisement that contains a cookie. These cookies are not sent from our site and we have no access to the information in these cookies. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-This site contains links to other sites. [**SmsFunBook**](http://www.smsfunbook.com/) is not responsible for the privacy practices or the content of such Web Sites.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-If you feel this site is not following it's stated privacy policy, you may contact us at the address below.
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-[service@smsfunbook.com](mailto:service@smsfunbook.com)
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+
+This policy was last modified on 25 May 2014
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://smsfunbook.com/  
+service@smsfunbook.com
