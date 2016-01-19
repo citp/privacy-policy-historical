@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbetter.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815131013id_/http%3A//www.searchbetter.com/media/html/sb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbetter.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119195134id_/http%3A//www.searchbetter.com/media/html/sb/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for SearchBetter.com
 
@@ -41,7 +41,7 @@ We use the information that we collect to facilitate the delivery of relevant an
 
 Information about the search queries you submit to the Site and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Site and on third-party sites (see also "What information do we share with third parties?" below). If you would like to terminate and Site's access to your search history you may remove our cookies from your computer (see "How are cookies used on the Site?" below and consult your browser's "help" menu to learn how to delete cookies).
 
-If you choose to submit your name, email address, or other information, we may use such information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our [Terms of Service](https://web.archive.org/web/20150815131013id_/http%3A//www.searchbetter.com/media/html/sb/terms.html) or this Privacy Policy. We do not associate your search queries or selected search results in any manner with your name, email address, or other information, unless required to do so by legal process.
+If you choose to submit your name, email address, or other information, we may use such information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our [Terms of Service](https://web.archive.org/web/20160119195134id_/http%3A//www.searchbetter.com/media/html/sb/terms.html) or this Privacy Policy. We do not associate your search queries or selected search results in any manner with your name, email address, or other information, unless required to do so by legal process.
 
 **How are cookies used on the Site?**
 
@@ -63,7 +63,7 @@ _Search Partners._ If you have accessed the Site through an APN or third party a
 
 We have agreements in place with our search partners and our third-party service providers that limits their use and disclosure of any information about you that you provide directly to us (i.e., information not provided directly by you to the applicable search partner or third-party service providers.
 
-_Law enforcement/legal requirements._ We may disclose any information you voluntarily submit to us, as well as any other information we have about you (such as your IP address, the search queries you have submitted, and the search results you have selected) in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law-enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Service](https://web.archive.org/web/20150815131013id_/http%3A//www.searchbetter.com/media/html/sb/terms.html). 
+_Law enforcement/legal requirements._ We may disclose any information you voluntarily submit to us, as well as any other information we have about you (such as your IP address, the search queries you have submitted, and the search results you have selected) in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law-enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Service](https://web.archive.org/web/20160119195134id_/http%3A//www.searchbetter.com/media/html/sb/terms.html). 
 
 _Corporate restructuring._ We also may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
 
@@ -87,7 +87,7 @@ We have security measures in place that are designed to safeguard and help preve
 
 If you are visiting the Site from outside of the United States, your information will be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data-protection and other laws in the United States and other countries might not be as comprehensive as those in your own country. Please be assured, however, that we seek to take reasonable steps to protect your privacy. By using the Site Services, you consent to the transfer of your information to our facilities and those third parties with whom we may share it as described in this Privacy Policy.
 
-[Copyright & Trademark Notices](https://web.archive.org/web/20150815131013id_/http%3A//www.searchbetter.com/media/html/sb/copyright.html)  
-[Terms of Service](https://web.archive.org/web/20150815131013id_/http%3A//www.searchbetter.com/media/html/sb/terms.html)
+[Copyright & Trademark Notices](https://web.archive.org/web/20160119195134id_/http%3A//www.searchbetter.com/media/html/sb/copyright.html)  
+[Terms of Service](https://web.archive.org/web/20160119195134id_/http%3A//www.searchbetter.com/media/html/sb/terms.html)
 
 © 2020 APN, LLC
