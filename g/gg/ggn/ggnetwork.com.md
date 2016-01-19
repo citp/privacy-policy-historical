@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggnetwork.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815160025id_/http%3A//ggnetwork.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggnetwork.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120004104id_/http%3A//ggnetwork.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Ggnetwork.com - Privacy Policy
 
