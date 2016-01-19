@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehren.tv privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022162619id_/http%3A//www.lehren.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehren.tv privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119041934id_/http%3A//www.lehren.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
