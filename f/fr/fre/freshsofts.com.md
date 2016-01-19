@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshsofts.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221124820id_/http%3A//www.freshsofts.com/index.php%3Fmain_page%3Dpage%26id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshsofts.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119144418id_/http%3A//www.freshsofts.com/index.php%3Fmain_page%3Dpage%26id%3D18) for the most accurate reproduction.*
 
 # Privacy Policy : Freshsofts.com
 
