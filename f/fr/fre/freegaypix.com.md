@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegaypix.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410052413id_/http%3A//www.freegaypix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegaypix.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119220231id_/http%3A//www.freegaypix.com/privacy.html) for the most accurate reproduction.*
 
 # Our Commitment To Privacy
 
