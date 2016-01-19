@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haneyuniversity.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822221208id_/http%3A//membership.haneyuniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haneyuniversity.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119060339id_/http%3A//membership.haneyuniversity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Persistent cookies enable us to track and target the interests of our users to e
 
 Third party vendors, including Google, show our ads on sites on the internet.
 
-Third party vendors, including Google, use our cookies to serve [ GolfTailor.com ](https://web.archive.org/web/20150822221208id_/http://membership.haneyuniversity.com/privacy-policy/GolfTailor.com) ads based on a user’s prior visits to our website.
+Third party vendors, including Google, use our cookies to serve [ GolfTailor.com ](https://web.archive.org/web/20160119060339id_/http://membership.haneyuniversity.com/privacy-policy/GolfTailor.com) ads based on a user’s prior visits to our website.
 
 Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of our cookies by visiting the [ Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
