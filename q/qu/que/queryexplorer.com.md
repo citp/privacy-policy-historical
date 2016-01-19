@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queryexplorer.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717070830id_/http%3A//queryexplorer.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queryexplorer.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119063803id_/http%3A//queryexplorer.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # QueryExplorer - Privacy Policy
 
