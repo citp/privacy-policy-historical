@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickprofitssystem.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233853id_/http%3A//quickprofitssystem.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickprofitssystem.co privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119130341id_/http%3A//quickprofitssystem.co/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
