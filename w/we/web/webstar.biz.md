@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstar.biz privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810023847id_/http%3A//static01.webstar.biz/pub/pdf/webstar_datenschutzerklaerung_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstar.biz privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119112314id_/http%3A//static01.webstar.biz/pub/pdf/webstar_datenschutzerklaerung_en.pdf) for the most accurate reproduction.*
 
 # Data protection declaration
 
