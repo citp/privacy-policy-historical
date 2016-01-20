@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnystuff247.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815162101id_/http%3A//funnysmileorg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnystuff247.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120203405id_/http%3A//funnysmileorg.com/privacy) for the most accurate reproduction.*
 
 # funnysmileorg
 
