@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiphishing.org privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920185838id_/http%3A//apwg.org/about-APWG/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiphishing.org privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120142919id_/http%3A//apwg.org/about-APWG/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | APWG
 
