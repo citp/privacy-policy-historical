@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baklol.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810063608id_/http%3A//baklol.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baklol.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120225625id_/http%3A//baklol.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
