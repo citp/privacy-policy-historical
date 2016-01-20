@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freemaps.co privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815061704id_/http%3A//freemaps.co/freemaps/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemaps.co privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120231201id_/http%3A//freemaps.co/freemaps/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FreeMaps.co
 
 ## Overview of Our Privacy Policy
 
-We supply free utility software. Our Products may include Toolbars, which add search functionality to your browser. Mindspark Interactive Network, Inc. is the source of the Mapsgalaxy™ Toolbar application. We refer to our software and Products such as Toolbars throughout this agreement as our “Services”.
+We supply free utility software. Our Products may include Toolbars, which add search functionality to your browser. Tightrope Interactive is the source of the FreeMaps™ Toolbar application. We refer to our software and Products such as Toolbars throughout this agreement as our “Services”.
 
 We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software.
 
