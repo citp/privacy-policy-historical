@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wrong.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810004037id_/http%3A//4wrong.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wrong.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120043803id_/http%3A//4wrong.com/privacy) for the most accurate reproduction.*
 
 # 4wrong
 
