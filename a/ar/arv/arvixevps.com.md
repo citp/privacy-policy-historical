@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvixevps.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218014638id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixevps.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120062303id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
