@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbootstrapmethod.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810051112id_/http%3A//bootstrapmethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbootstrapmethod.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120121441id_/http%3A//bootstrapmethod.com/privacy) for the most accurate reproduction.*
 
 # 
 
