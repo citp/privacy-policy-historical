@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmoose.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002248id_/http%3A//searchmoose.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmoose.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120120656id_/http%3A//searchmoose.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
