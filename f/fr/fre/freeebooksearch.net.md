@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeebooksearch.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221210554id_/http%3A//freeebooksearch.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeebooksearch.net privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120065510id_/http%3A//freeebooksearch.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Ebooks Search Engine
 
