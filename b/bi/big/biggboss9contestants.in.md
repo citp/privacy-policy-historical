@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggboss9contestants.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218185359id_/http%3A//www.biggboss9contestants.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggboss9contestants.in privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120174011id_/http%3A//www.biggboss9contestants.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bigg Boss 9
 
