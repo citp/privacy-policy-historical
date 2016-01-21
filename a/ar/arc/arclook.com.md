@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arclook.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128104117id_/http%3A//arclook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arclook.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121161149id_/http%3A//arclook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arclook.com
 
