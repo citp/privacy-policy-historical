@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happywivesclub.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221233247id_/http%3A//www.happywivesclub.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happywivesclub.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121220533id_/http%3A//www.happywivesclub.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Happy Wives Club
 
