@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skim3.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703181615id_/http%3A//skim3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skim3.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121225850id_/http%3A//skim3.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
