@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianlivetv.com privacy policy that was archived on 2015-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianlivetv.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Watch privacy_policy - Iran TV Series - iranianlivetv.com
 
@@ -11,14 +11,13 @@
    
 |   
 ---  
-[Live TVs](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/index.php)  
-[Live Radios](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/radio.php)  
-[Frequency List](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/frequency.php)  
-[Movies](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/movies.php)  
-[TV Series](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/serial.php)  
+[Live TVs](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/index.php)  
+[Live Radios](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/radio.php)  
+[Frequency List](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/frequency.php)  
+[TV Series](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/serial.php)  
 [Iran Music & More](http://www.music0098.com/)  
-[Useful Links](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/links.php)  
-[Parazit](https://web.archive.org/web/20150830004141id_/http%3A//www.iranianlivetv.com/parasites.php)  
+[Useful Links](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/links.php)  
+[Parazit](https://web.archive.org/web/20160121164254id_/http%3A//iranianlivetv.com/parasites.php)  
 |  |    
 | Privacy Policy  
 ---  
@@ -37,4 +36,5 @@ Concerns or questions about this privacy policy can be directed to info@iranianl
   
 |   
 |   
+  
   |  |   |   |   |   |   |  
