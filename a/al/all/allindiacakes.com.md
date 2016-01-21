@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allindiacakes.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810123321id_/http%3A//allindiacakes.com/page-detail%3Fpage%3D3-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiacakes.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121095913id_/http%3A//allindiacakes.com/page-detail%3Fpage%3D3-Privacy-Policy) for the most accurate reproduction.*
 
 # All india cakes Shop | Privacy Policy
 
