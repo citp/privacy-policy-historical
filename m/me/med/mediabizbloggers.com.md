@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabizbloggers.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915093858id_/https%3A//www.mediavillage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabizbloggers.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122004150id_/https%3A//www.mediavillage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
