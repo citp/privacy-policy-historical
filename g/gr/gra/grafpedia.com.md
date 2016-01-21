@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the grafpedia.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815214339id_/http%3A//grafpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafpedia.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121022141id_/http%3A//www.grafpedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Grafpedia – Privacy Policy
-
-### Privacy Policy
+# Privacy Policy | Grafpedia
 
 This Privacy Policy explains what information of yours will be collected when you use grafpedia.com. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-#### Statistical Data
+### Statistical Data
 
 Our servers (as most) track IP addresses and referring pages to help with site maintenance and improvements. This data is viewed only as anonymous statistics to show the busiest times of the day or week, pages with errors and how effective our advertising has been. This information is not used for any other purpose.
 
-#### Personal Information Collected
+### Personal Information Collected
 
 We store the information from your order form to allow us to track consulting issues or refer to a previous order to help provide some customer service.
 
-#### What information do we collect ?
+### What information do we collect ?
 
-We may collect, store and use the following kinds of personal data:  
-• Information about your computer and about your visits to the Grafpedia website and use of this website including your IP address, geographical location, browser type, referral source, length of visit and number of page views.  
-• Information relating to any transactions carried out between you and Grafpedia on or in relation to this website, including information relating to any purchases you make of our goods or services.  
-• Information that you provide to us for the purpose of billing your order : your first, your last name and your email.  
-• Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.  
-• Any other information that you choose to send to us by email.
+We may collect, store and use the following kinds of personal data:
+
+  * Information about your computer and about your visits to the Grafpedia website and use of this website including your IP address, geographical location, browser type, referral source, length of visit and number of page views.
+  * Information relating to any transactions carried out between you and Grafpedia on or in relation to this website, including information relating to any purchases you make of our goods or services.
+  * Information that you provide to us for the purpose of billing your order : your first, your last name and your email.
+  * Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.
+  * Any other information that you choose to send to us by email.
+
+
