@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorstv.in privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922174803id_/http%3A//colors.in.com/in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorstv.in privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121042536id_/http%3A//www.colorstv.com/in/privacy.html) for the most accurate reproduction.*
 
-# Colors.in.com
+# www.colorstv.com
 
 This Privacy Policy shall be read in conjunction and together with the Terms of Use available on and forms an integral part of the user agreement between You and the Company. Capitalized terms not defined herein shall have the meaning attributed to them under the Terms of Use.
 
