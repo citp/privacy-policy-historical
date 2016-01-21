@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baitalzubair.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810103553id_/http%3A//baitalzubair.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baitalzubair.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122004907id_/http%3A//baitalzubair.com/privacy.htm) for the most accurate reproduction.*
 
 # The Bait Al Zubair Museum
 
