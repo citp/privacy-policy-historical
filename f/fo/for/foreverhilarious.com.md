@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreverhilarious.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815221812id_/http%3A//foreverhilarious.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreverhilarious.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121125548id_/http%3A//foreverhilarious.com/privacy) for the most accurate reproduction.*
 
 # foreverhilarious
 
