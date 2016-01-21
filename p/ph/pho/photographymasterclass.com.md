@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographymasterclass.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029131934id_/http%3A//photographymasterclass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographymasterclass.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121123136id_/http%3A//photographymasterclass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photography Masterclass by Evan Sharboneau
 
