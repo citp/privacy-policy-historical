@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220212044id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121151013id_/https%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Association of Boards of Pharmacy® (NABP®)
 
