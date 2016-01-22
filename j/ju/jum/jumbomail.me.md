@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumbomail.me privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702082354id_/http%3A//www.jumbomail.me/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumbomail.me privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122231355id_/http%3A//www.jumbomail.me/Privacy.aspx) for the most accurate reproduction.*
 
 # JumboMail Privacy policy
 
