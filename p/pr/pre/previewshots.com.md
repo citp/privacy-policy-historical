@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the previewshots.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901101735id_/http%3A//previewshots.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the previewshots.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123003409id_/http%3A//www.previewshots.com/about/privacy.php) for the most accurate reproduction.*
 
 # Snap.com: Delivering Contextual Content And Advertising > Privacy Policy
 
@@ -58,7 +58,7 @@ Our Technology uses cookies in conjunction with Web beacons in order to help mak
 
 ##### Opting out from Cookies
 
-If you'd like to opt-out from having Snap collect your Non-PII in connection with our Technology, please see our [opt-out page](https://web.archive.org/web/20150901101735id_/http%3A//previewshots.com/about/opt_out) located at [http://www.snap.com/about/opt_out](https://web.archive.org/web/20150901101735id_/http%3A//previewshots.com/about/opt_out). we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
+If you'd like to opt-out from having Snap collect your Non-PII in connection with our Technology, please see our [opt-out page](https://web.archive.org/web/20160123003409id_/http%3A//www.previewshots.com/about/opt_out) located at [http://www.snap.com/about/opt_out](https://web.archive.org/web/20160123003409id_/http%3A//www.previewshots.com/about/opt_out). we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
 
 ##### Deleting your PII
 
