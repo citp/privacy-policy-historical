@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questscan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062017id_/http%3A//questscan.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questscan.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122200422id_/http%3A//questscan.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # QuestScan - Privacy Policy
 
