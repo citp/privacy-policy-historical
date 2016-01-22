@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212120347id_/http%3A//www.silverpop.com/About/Trust--Privacy/Privacy-Policy-Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122141740id_/http%3A//www.silverpop.com/About/Trust--Privacy/Privacy-Policy-Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Silverpop
 
