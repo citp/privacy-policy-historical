@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskysoft.us privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111191256id_/http%3A//www.iskysoft.us/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskysoft.us privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122101805id_/http%3A//www.iskysoft.us/other/privacy.html) for the most accurate reproduction.*
 
 # iSkysoft Privacy Policy
 
@@ -76,4 +76,4 @@ A cookie is a small text file that a website writes to your hard drive. Cookies 
 
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
 
-[Check the End User License Agreement>>](https://web.archive.org/web/20141111191256id_/http%3A//www.iskysoft.us/other/end-user-license-agreement.html)
+[Check the End User License Agreement>>](https://web.archive.org/web/20160122101805id_/http%3A//www.iskysoft.us/other/end-user-license-agreement.html)
