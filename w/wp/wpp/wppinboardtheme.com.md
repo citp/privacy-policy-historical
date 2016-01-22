@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wppinboardtheme.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118091044id_/http%3A//p1port.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wppinboardtheme.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122101632id_/http%3A//p1port.com/privacy) for the most accurate reproduction.*
 
 # P1Port Privacy Policy
 
