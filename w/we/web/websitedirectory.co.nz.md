@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitedirectory.co.nz privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216151055id_/http%3A//www.entry.net.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitedirectory.co.nz privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122141512id_/http%3A//www.entry.net.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Zealand Entry Network
 
