@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilyke.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203125256id_/http%3A//ilyke.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilyke.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122133209id_/http%3A//ilyke.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Funny Pictures and Funny Videos to make your days awesome!
 
