@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtarget.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905205315id_/https%3A//www.jobtarget.com/oc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtarget.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122132243id_/https%3A//jobtarget.com/oc/privacy-policy) for the most accurate reproduction.*
 
 # We make finding and recruiting talent easy | JobTarget.com
 
@@ -93,6 +93,10 @@ Unless you expressly direct us not to or we are obligated not to by applicable l
 ## Subject to Change
 
 This Privacy Policy is subject to change at any time by updating this page. Periodically, you should return and review this Privacy Policy. Any use of the site following the posting of any new or modified privacy agreement constitutes your acceptance of the modified agreement. Should we make any material changes to the manner in which we use your collected information, we shall notify you by means of a notice on the website of an updated Privacy Policy.
+
+## Subscription Preferences
+
+Manage the communication you receive from us at any time by accessing and editing your preferences [here](http://info.jobtarget.com/Subscription-Center-JT.html).
 
 ## Comments and Questions
 
