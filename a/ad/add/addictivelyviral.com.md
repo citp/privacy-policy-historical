@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictivelyviral.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810111037id_/http%3A//addictivelyviral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictivelyviral.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122202059id_/http%3A//addictivelyviral.com/privacy) for the most accurate reproduction.*
 
 # addictivelyviral
 
