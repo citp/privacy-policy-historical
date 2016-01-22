@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222092833id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122071455id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
 
 # Lushome | Interior Design and Decor
 
