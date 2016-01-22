@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the myillinoislottery.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322185346id_/https%3A//www.myillinoislottery.com/en-us/footer/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myillinoislottery.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122022648id_/https%3A//www.myillinoislottery.com/en-us/footer/privacyNotice.html) for the most accurate reproduction.*
 
-# Privacy Policy | Illinois Lottery
+# Privacy Notice | Illinois Lottery
 
-#### Updated Effective January 12th ,2014
+#### Updated Effective November 15th ,2015
 
 ### I.INTRODUCTION
 
-Thank you for downloading the Illinois Lottery [The Illinois Lottery] (the "Mobile App") and/or visiting the Illinois Lottery’s website, which includes [www.illinoislottery.com](http://www.illinoislottery.com/ "www.illinoislottery.com"), [www.myillinoislottery.com](http://www.myillinoislottery.com/ "www.myillinoislottery.com"), and [https://m.myillinoislottery.com](https://m.myillinoislottery.com/ "https://m.myillinoislottery.com") (the Mobile App and websites collectively "Websites" or the "Website").The Illinois Lottery, its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including Northstar Lottery Group, LLC and GTECH Corporation) recognize that you need to understand how your privacy is protected when you visit the Website. As such, the Website Providers (as defined below) have established the following privacy policy("Privacy Policy"). For purposes of this Privacy Policy, the "Website Providers" or "We" means the Illinois Lottery, including its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including, but not limited to, Northstar Lottery Group, LLC and GTECH Corporation).
+Thank you for downloading the Illinois Lottery [The Illinois Lottery] (the "Mobile App") and/or visiting the Illinois Lottery’s website, which includes [www.illinoislottery.com](http://www.illinoislottery.com/ "www.illinoislottery.com"), [www.myillinoislottery.com](http://www.myillinoislottery.com/ "www.myillinoislottery.com"), and [https://m.myillinoislottery.com](https://m.myillinoislottery.com/ "https://m.myillinoislottery.com") (the Mobile App and websites collectively "Websites" or the "Website").The Illinois Lottery, its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including Northstar Lottery Group, LLC and IGT Global Solutions Corporation) recognize that you need to understand how your privacy is protected when you visit the Website. As such, the Website Providers (as defined below) have established the following privacy notice("Privacy Notice"). For purposes of this Privacy Notice, the "Website Providers" or "We" means the Illinois Lottery, including its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including, but not limited to, Northstar Lottery Group, LLC and IGT Global Solutions Corporation).
 
-This Privacy Policy is subject to change at any time without notice to you by posting changes on the Websites. The Website Providers encourage you to check the Websites and review this Privacy Policy from time to time. Your continued use of the Websites following any changes made to this Privacy Policy will mean that you accept the revised Privacy Policy.
+This Privacy Notice is subject to change at any time without notice to you by posting changes on the Websites. The Website Providers encourage you to check the Websites and review this Privacy Notice from time to time. Your continued use of the Websites following any changes made to this Privacy Notice will mean that you accept the revised Privacy Notice.
 
-This Privacy Policy describes the Illinois Lottery's privacy practices regarding information collected from you when you visit the Websites. This Privacy Policy describes what information is collected and how that information is used. Because this Privacy Policy only applies to the Websites, if you link to another entity’s website through the Websites, you should examine that entity’s privacy policy to determine its website practices (including other state agency websites).
+This Privacy Notice describes the Illinois Lottery's privacy practices regarding information collected from you when you visit the Websites. This Privacy Notice describes what information is collected and how that information is used. Because this Privacy Notice only applies to the Websites, if you link to another entity’s website through the Websites, you should examine that entity’s privacy policy to determine its website practices (including other state agency websites).
 
-For purposes of this Privacy Policy, "you" or "your" means each person, group of individuals, entity or entities who visits the Websites for any purpose.
+For purposes of this Privacy Notice, "you" or "your" means each person, group of individuals, entity or entities who visits the Websites for any purpose.
 
-For purposes of this Privacy Policy, Personally Identifiable Information("PII") means information about a natural person that is readily identifiable to that specific individual. PII includes, among other information, an individual’s name, address, telephone number, date of birth, password information, and any other information used to identify you on the Websites. A domain name or Internet protocol address is not considered PII.
+For purposes of this Privacy Notice, Personally Identifiable Information("PII") means information about a natural person that is readily identifiable to that specific individual. PII includes, among other information, an individual’s name, address, telephone number, date of birth, password information, and any other information used to identify you on the Websites. A domain name or Internet protocol address is not considered PII.
 
 **You must be 18 years or older to use these Websites, including downloading the Mobile App.**
 
@@ -43,7 +43,7 @@ If you visit the Websites and do nothing further (including, but not limited to,
 
 None of the foregoing information is deemed to be PII.
 
-The foregoing information is used to improve the Websites’ content and help the Illinois Lottery understand how you interact with the Websites This information is also collected for statistical analysis to determine what information is of most and least interest to you, to improve the utility of the material available on the Websites, and for other purposes described in this Privacy Policy. Methods that your information may be automatically collected include, but are not limited to:
+The foregoing information is used to improve the Websites’ content and help the Illinois Lottery understand how you interact with the Websites This information is also collected for statistical analysis to determine what information is of most and least interest to you, to improve the utility of the material available on the Websites, and for other purposes described in this Privacy Notice. Methods that your information may be automatically collected include, but are not limited to:
 
 _A.Cookies_
 
@@ -151,14 +151,14 @@ The Website Providers and Third Party Service Providers may use your PII for var
   * to be provided to the Third Party Service Providers in connection with the legitimate business purposes of the Illinois Lottery or other Website Providers or the Websites;
   * to generate aggregate statistical studies and to use the results of such aggregate statistical studies for marketing purposes and responsible gaming initiatives;
   * to protect and defend the rights or property of the Illinois Lottery or other Website Providers;
-  * to enforce this Privacy Policy, as well as the Illinois Lottery Terms and Conditions;
+  * to enforce this Privacy Notice, as well as the Illinois Lottery Terms and Conditions;
   * as required by law or regulation, or as requested by government or regulatory authorities, including but not limited to gaming regulators and the Internal Revenue Service (IRS), or for the protection of persons or property;
   * in connection with an acquisition, merger, restructuring, sale or other transfer involving all or any portion of the business associated with the Websites; and
   * any other business purposes, including those purposes described in Section XI below.
 
 
 
-By submitting the foregoing information, you consent to its use for such purposes. When you sign up for a Players Account, the information you provide will be shared with GTECH Corporation which is one of the Third Party Service Providers that administers your account. Your Players Account is subject to separate Illinois Lottery Terms and Conditions located at <https://www.myillinoislottery.com/en-us/footer/termsAndConditions.html> and GTECH’s privacy policy located below. More information is available in the Illinois Lottery Terms and Conditions. Any questions regarding your account should be directed to the Player Hotline (1-800-252-1775).
+By submitting the foregoing information, you consent to its use for such purposes. When you sign up for a Players Account, the information you provide will be shared with IGT Global Solutions Corporation which is one of the Third Party Service Providers that administers your account. Your Players Account is subject to separate Illinois Lottery Terms and Conditions located at <https://www.myillinoislottery.com/en-us/footer/termsAndConditions.html> and IGT Global Solutions Corporation's privacy policy located below. More information is available in the Illinois Lottery Terms and Conditions. Any questions regarding your account should be directed to the Player Hotline (1-800-252-1775).
 
 ### V. YOUR CHOICES REGARDING DISCLOSURE OF PERSONAL INFORMATION
 
@@ -168,7 +168,7 @@ As noted above, no PII is collected about you during your visit to the Websites 
 
 ### VI. REVIEW AND CORRECTION OF PERSONAL INFORMATION
 
-You can review any PII that is collected about you and request changes by using the Contact Us section at the end of this Privacy Policy. Reasonable steps will be taken to verify your identity before granting access or making corrections. Updates to your PII will be made instantly.
+You can review any PII that is collected about you and request changes by using the Contact Us section at the end of this Privacy Notice. Reasonable steps will be taken to verify your identity before granting access or making corrections. Updates to your PII will be made instantly.
 
 You can also review and correct certain PII in your Players Account profile (such as your name and contact information) by signing into your Players Account.
 
@@ -178,7 +178,7 @@ To process your Players Account application, you authorize the Website Providers
 
 ### VIII. EMAIL COMMUNICATIONS
 
-If you register for a Players Account or otherwise provide PII through the Websites, you may receive email messages regarding Illinois Lottery products such as games and promotions from Northstar Lottery Group, LLC and GTECH Corporation (on behalf of the Illinois Lottery).
+If you register for a Players Account or otherwise provide PII through the Websites, you may receive email messages regarding Illinois Lottery products such as games and promotions from Northstar Lottery Group, LLC and IGT Global Solutions Corporation (on behalf of the Illinois Lottery).
 
 ### IX. COMMUNICATIONS VIA TEXT MESSAGE
 
@@ -194,11 +194,11 @@ The Website Providers and Third Party Service Providers will not knowingly colle
 
 ### XII. DISCLOSURE OF INFORMATION COLLECTED THROUGH THE WEBSITE
 
-Your voluntary disclosure of PII to the Website Providers, whether solicited or unsolicited, constitutes consent to the collection and disclosure of such information by the Website Providers and Third Party Service Providers for the purposes described in this Privacy Policy. If you provide PII on the Websites, certain state or federal laws may protect that information. Once you provide PII, however, it becomes a public record that may be subject to public inspection and copying if not protected by state or federal laws.
+Your voluntary disclosure of PII to the Website Providers, whether solicited or unsolicited, constitutes consent to the collection and disclosure of such information by the Website Providers and Third Party Service Providers for the purposes described in this Privacy Notice. If you provide PII on the Websites, certain state or federal laws may protect that information. Once you provide PII, however, it becomes a public record that may be subject to public inspection and copying if not protected by state or federal laws.
 
 Without limiting the foregoing, PII may be collected or disclosed without your consent if the collection or disclosure is: (1) necessary to perform the statutory duties of the Illinois Lottery, or necessary for the Illinois Lottery to operate a program authorized by law, or authorized by state or federal statute or regulation, including the Freedom of Information Act; (2) made pursuant to a court order, subpoena or by law; (3) for the purpose of validating your identity; (4) with affiliates of the Illinois Lottery, the Website Providers or Third Party Service Providers to provide the services on the Websites; or (5) to federal or state law enforcement authorities to enforce the Lottery’s rights against unauthorized access or attempted unauthorized access to the Illinois Lottery’s information technology assets or against other inappropriate use of the Websites.
 
-In the event of a conflict between this Privacy Policy and any state or federal laws, including the Freedom of Information Act, the state or federal laws will control.
+In the event of a conflict between this Privacy Notice and any state or federal laws, including the Freedom of Information Act, the state or federal laws will control.
 
 ### XIII. CONTACT US
 
@@ -210,9 +210,9 @@ For questions regarding the Websites, please contact:
 
 Because the Websites do not encrypt incoming email, you should not send information that you consider sensitive through the Websites.
 
-## GTECH CORPORATION PRIVACY POLICY
+## IGT GLOBAL SOLUTIONS CORPORATION PRIVACY POLICY
 
-### WHAT DOES GTECH CORPORATION DO WITH YOUR PERSONAL INFORMATION?
+### WHAT DOES IGT GLOBAL SOLUTIONS CORPORATION DO WITH YOUR PERSONAL INFORMATION?
 
 #### Why?
 
@@ -237,9 +237,9 @@ When you are no longer our customer, we continue to share your information as de
 
 #### How?
 
-All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers personal information; the reasons GTECH Corporation chooses to share; and whether you can limit this sharing.
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers personal information; the reasons IGT Global Solutions Corporation chooses to share; and whether you can limit this sharing.
 
-Reasons we can share your personal information | Does GTECH Corporation share? | Can you limit this sharing?  
+Reasons we can share your personal information | Does IGT Global Solutions Corporation share? | Can you limit this sharing?  
 ---|---|---  
 For our everyday business purposes such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or to enable our affiliates to send you information about the Illinois Lottery’s products such as games and promotions. | YES | NO  
 For joint marketing with other financial companies | NO | We do not share  
@@ -255,15 +255,15 @@ Call 1-888-644-5161
 
 #### Who is providing this notice?
 
-GTECH Corporation
+IGT Global Solutions Corporation
 
 ### WHAT WE DO
 
-#### How does GTECH Corporation protect my personal information?
+#### How does IGT Global Solutions Corporation protect my personal information?
 
 To protect your personal information from unauthorized access and use, we use security measures that comply with Federal law. These measures include computer safeguards and secured files and buildings.
 
-#### How does GTECH Corporation collect my personal information?
+#### How does IGT Global Solutions Corporation collect my personal information?
 
 We collect your personal information, for example, when you:
 
