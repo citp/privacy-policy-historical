@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5in5now.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722185604id_/http%3A//www.5in5now.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5in5now.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123142404id_/http%3A//www.5in5now.com/privacy.php) for the most accurate reproduction.*
 
 # 5In5Now | Earn Cash for Taking Surveys, Trying Products and more!
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy of 5in5Now.com, an internet property of SBG Media, Inc.
 
-Please note that our Privacy Policy may change from time to time. Changes to the Privacy Policy will be posted on this website and the effective date will be modified to reflect the most recent version. This will be the only notice of any changes made to the Privacy Policy. If you are interested in learning about the other terms of use of our Websites, please [use this link](https://web.archive.org/web/20140722185604id_/http%3A//www.5in5now.com/terms.php).
+Please note that our Privacy Policy may change from time to time. Changes to the Privacy Policy will be posted on this website and the effective date will be modified to reflect the most recent version. This will be the only notice of any changes made to the Privacy Policy. If you are interested in learning about the other terms of use of our Websites, please [use this link](https://web.archive.org/web/20160123142404id_/http%3A//www.5in5now.com/terms.php).
 
 5in5Now.com wants you to know how the data, including, personally identifiable information (PII), it collects or obtains is used. Accordingly, the data collection, acquisition, use and dissemination practices of 5in5Now.com are discussed in this policy. This policy applies to data collected (a) on our websites (“Websites”), (b) on third party websites or (c) otherwise as disclosed herein.
 
