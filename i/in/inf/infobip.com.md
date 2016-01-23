@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814105737id_/http%3A//policies.infobip.com/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123212445id_/http%3A//policies.infobip.com/privacy/general) for the most accurate reproduction.*
 
 # Infobip Policies
 
