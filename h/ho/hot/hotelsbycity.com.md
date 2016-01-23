@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsbycity.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815221434id_/http%3A//secure.hotelsbycity.com/hotels/help/privacy/%3Frefid%3D1001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsbycity.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123173615id_/http%3A//secure.hotelsbycity.com/hotels/help/privacy/%3Frefid%3D1001) for the most accurate reproduction.*
 
 # Our Privacy Policy - HotelsByCity.com
 
@@ -103,4 +103,4 @@ Persons under the age of 18 are not eligible to use any services on our Site.
 
 How to Contact Us
 
-Should you have any questions, concerns or comments, please [click here](https://web.archive.org/hotels/help/contact/?refid=1001&varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b).
+Should you have any questions, concerns or comments, please [click here](https://web.archive.org/hotels/help/contact/?refid=1001&varid=1b2b3b4a37a41b43b44a45b47b).
