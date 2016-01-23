@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotelsbycity.com privacy policy that was archived on 2015-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150815221434id_/http%3A//secure.hotelsbycity.com/hotels/help/privacy/%3Frefid%3D1001) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotelsbycity.com privacy policy that was archived on 2016-01-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160123173615id_/http%3A//secure.hotelsbycity.com/hotels/help/privacy/%3Frefid%3D1001) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="gtie9 gtie8 gtie7"><!--<![endif]--><head>
         <meta charset="UTF-8">
@@ -43,11 +43,11 @@
         <![endif]-->
 
         <!--[if gt IE 8]><!-->
-            <script src="/shared/js/jquery-2.0.3.min.js"></script>
+            <script src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/shared/js/jquery-2.0.3.min.js"></script>
         <!--<![endif]-->
 
 <!--start template head -->
-    <link rel="stylesheet" type="text/css" href="//data.rezserver.com/twig/1001/style_resp.css">
+    <link rel="stylesheet" type="text/css" href="//ppn-data.global.ssl.fastly.net/twig/1001/style_resp.css">
 
     <style type="text/css">
 
@@ -56,13 +56,13 @@
         .template-wrap{ margin:0 auto; }
 
         .rs_borderBox{ margin-left:0 !important;}
-        #logo{ background: transparent url(//data.rezserver.com/twig/1001/sprite.gif) -178px -71px no-repeat;}
-        #header_nav_above{ background: #fff url(//data.rezserver.com/twig/1001/sprite.gif) -84px -46px no-repeat;}
-        #header{background: #fff url(//data.rezserver.com/twig/1001/sprite_width1px.gif) 0px 68px repeat-x;}
-        .subnav_li_left{background: transparent url(//data.rezserver.com/twig/1001/sprite.gif) -236px 13px no-repeat;}
-        #foot_1{background:#fff url(//data.rezserver.com/twig/1001/sprite_width1px.gif) 0 -30px repeat-x;}
-        #foot_cr2{background:#fff url(//data.rezserver.com/twig/1001/sprite.gif) -210px 0 no-repeat;}
-        #hbc_l a{ background:#fff url(//data.rezserver.com/twig/1001/sprite.gif) -84px -24px no-repeat;}
+        #logo{ background: transparent url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite.gif) -178px -71px no-repeat;}
+        #header_nav_above{ background: #fff url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite.gif) -84px -46px no-repeat;}
+        #header{background: #fff url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite_width1px.gif) 0px 68px repeat-x;}
+        .subnav_li_left{background: transparent url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite.gif) -236px 13px no-repeat;}
+        #foot_1{background:#fff url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite_width1px.gif) 0 -30px repeat-x;}
+        #foot_cr2{background:#fff url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite.gif) -210px 0 no-repeat;}
+        #hbc_l a{ background:#fff url(//ppn-data.global.ssl.fastly.net/twig/1001/sprite.gif) -84px -24px no-repeat;}
 
         #container { width:100%;max-width: 958px; margin:0 auto !important; }
 
@@ -172,6 +172,96 @@
     <![endif]-->
 
 <!--end template head -->
+    <script>
+    // Google Analytics - Universal
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    $rsTrack = new (function(uaid_list, page, product, refid, accountid){
+        this.uaid_list = uaid_list || [];
+        this.page = page;
+        this.product = product;
+        this.refid = refid;
+        this.accountid = accountid;
+
+        this.create = function (){
+            $.each(this.uaid_list, function( key, val ) {
+                ga('create', val.id , 'auto',{
+                    'allowLinker': true,
+                    'name' : val.name.replace(".", "")
+                });
+            });
+        };
+
+        this.pageview = function (type){
+            var
+                refid = this.refid,
+                accountid = this.accountid
+            ;
+            $.each(this.uaid_list, function( key, val ) {
+//                console.log("ga_pageview >> " + val.name + ' send', 'pageview');
+                ga(val.name +'send', 'pageview', {
+                    'dimension3':  refid,
+                    'dimension4':  accountid
+                });
+            });
+        };
+
+        this.event = function(category, action, label){
+            $.each(this.uaid_list, function( key, val ) {
+//                console.log("ga_event >> " + val.name + ' send', 'event', category, action, label);
+                ga(val.name + 'send', 'event', category, action, label);
+            });
+        };
+
+        this.customDimension = function(dimension_name, dimension_scope){
+            $.each(this.uaid_list, function( key, val ) {
+//                console.log("ga_custom_dimension >> " + val.name + ' set', dimension_name, dimension_scope);
+                ga(val.name + 'set', dimension_name, dimension_scope);
+            });
+        };
+
+        this.addTransaction = function (transaction_data){
+            $.each(this.uaid_list, function( key, val ) {
+//                console.log(val.name);
+                ga(val.name + 'require', 'ecommerce');
+
+                ga(val.name + 'ecommerce:addTransaction', {
+                    'id': transaction_data.TRIPNUM,
+                    'affiliation': transaction_data.REFID,
+                    'revenue': '0',
+                    'shipping': '0',
+                    'tax': '0',
+                    'city': transaction_data.HOTELCITY,
+                    'state': transaction_data.HOTELSTATE,
+                    'country': transaction_data.HOTELCOUNTRY
+                });
+
+                ga(val.name + 'ecommerce:addItem', {
+                    'id': transaction_data.TRIPNUM,
+                    'name': transaction_data.RATECATEGORY,
+                    'sku': 'hotel' ,
+                    'category': transaction_data.HOTELNAME,
+                    'price': '0',
+                    'quantity': transaction_data.NIGHTS
+                });
+
+                ga(val.name + 'ecommerce:send');
+
+            });
+        };
+
+    })({"global":{"id":"UA-1825499-112","name":"ppn."}}, 'privacy', 'hotel', 1001, 1000);
+
+    $rsTrack.create();
+    $rsTrack.pageview();
+
+        // End Google Analytics - Universal
+</script>
+
+
          <script>
             (function () {
                 window.console = {};
@@ -194,15 +284,15 @@
                         </a>
                     </li>
                                                 <li class="">
-                        <a href="/car_rentals/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b"><span class="icon"></span>Car Rentals
+                        <a href="/car_rentals/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b"><span class="icon"></span>Car Rentals
                         </a>
                     </li>
                                                 <li class="">
-                        <a href="/flights/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b"><span class="icon"></span>Flights
+                        <a href="/flights/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b"><span class="icon"></span>Flights
                         </a>
                     </li>
                                                 <li class="">
-                        <a href="/vp/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b"><span class="icon"></span>Vacation Packges
+                        <a href="/vp/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b"><span class="icon"></span>Vacation Packges
                         </a>
                     </li>
                                                 <li class="">
@@ -210,11 +300,11 @@
                         </a>
                     </li>
                                                 <li class="">
-                        <a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">Help
+                        <a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">Help
                         </a>
                     </li>
                                                                         <li class="">
-                        <a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b&amp;queion=09e24d204527e84f36ff277f601463a7">Review/Cancel Reservation
+                        <a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b&amp;queion=428d62d9db08cd4c028fb54f9560f11f">Review/Cancel Reservation
                         </a>
                     </li>
                                     </ul>
@@ -222,7 +312,7 @@
             <div class="phoneNum">
                 Book by phone: <span class="bold">1-866-966-3048</span>  mention promo code: <span class="opPromo">HBC1001</span>
             </div>
-            <div id="logo"><a href="&lt;rs:url_index /&gt;"><h1 class="logo_H1"><rs:site_name></rs:site_name></h1></a></div>
+            <div id="logo"><a href="http://www.hotelsbycity.com"><h1 class="logo_H1">HotelsByCity.com</h1></a></div>
             <div class="template-nav-toggle" id="nav-toggle">≡</div>
             <!-- <div id="header_subnav">
                 <ul id="ddm2">
@@ -368,10 +458,10 @@
 
                     <div class="rs_heading_5">How to Contact Us</div>
 
-                        <p class="rs_paragraph">Should you have any questions, concerns or comments, please <a href="/hotels/help/contact/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b" target="_blank">click here</a>.</p>
+                        <p class="rs_paragraph">Should you have any questions, concerns or comments, please <a href="/hotels/help/contact/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b" target="_blank">click here</a>.</p>
 
             </section>
-            <div class="clearfix"></div>
+            <div class="rs_clearfix"></div>
         </div>
         <div class="rs_move_cont">
             <div class="rs_book_rightcol3">
@@ -379,36 +469,36 @@
                     <div class="rs_right_nav">
                         <ul>
                             <li>
-                                <a href="/hotels/help/contact/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">
+                                <a href="/hotels/help/contact/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">
                                     <span class="rs_icon">"</span>
                                     <span class="rs_supp_link">Contact us</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/hotels/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">
+                                <a href="/hotels/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">
                                 <span class="rs_icon">c</span><span class="rs_supp_link">Search</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b&amp;queion=09e24d204527e84f36ff277f601463a7">
+                                <a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b&amp;queion=428d62d9db08cd4c028fb54f9560f11f">
                                     <span class="rs_icon">.</span>
                                     <span class="rs_supp_link">Review/Cancel Reservation</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">
+                                <a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">
                                     <span class="rs_icon">l</span>
                                     <span class="rs_supp_link">Frequently Asked Questions</span>
                                 </a>
                             </li>
                             <li class="rs_right_sel">
-                                <a href="/hotels/help/privacy/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">
+                                <a href="/hotels/help/privacy/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">
                                     <span class="rs_icon">\</span>
                                     <span class="rs_supp_link">Privacy Policy</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/hotels/help/terms/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">
+                                <a href="/hotels/help/terms/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">
                                     <span class="rs_icon">/</span>
                                     <span class="rs_supp_link">Terms and Conditions</span>
                                 </a>
@@ -417,7 +507,7 @@
                     </div>
                 </div>
             </div>
-            <div class="clearfix"></div>
+            <div class="rs_clearfix"></div>
         </div>
     </div>
         </div>
@@ -433,24 +523,24 @@
                 <nav class="template-foot-nav">
                     <ul id="foot_nav_ul">
                                                         <li><a href="http://www.hotelsbycity.com" style="">home</a></li>
-                                                                                    <li><a href="/car_rentals/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b" style="">car rentals</a></li>
-                                                                                    <li><a href="/flights/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b" style="">flights</a></li>
-                                                                                    <li><a href="/vp/home/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b" style="">vacation packges</a></li>
-                                                                                                            <li><a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b" style="">help</a></li>
+                                                                                    <li><a href="/car_rentals/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b" style="">car rentals</a></li>
+                                                                                    <li><a href="/flights/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b" style="">flights</a></li>
+                                                                                    <li><a href="/vp/home/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b" style="">vacation packges</a></li>
+                                                                                                            <li><a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b" style="">help</a></li>
                                                                                     <li><a href="http://pricelinepartnernetwork.com/" style="">hotel affiliate program</a></li>
-                                                                                    <li><a href="/hotels/help/privacy/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b" style="">privacy and policy</a></li>
-                                                                                    <li><a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b&amp;queion=09e24d204527e84f36ff277f601463a7" style="border-right:none">review/cancel reservation</a></li>
+                                                                                    <li><a href="/hotels/help/privacy/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b" style="">privacy and policy</a></li>
+                                                                                    <li><a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b&amp;queion=428d62d9db08cd4c028fb54f9560f11f" style="border-right:none">review/cancel reservation</a></li>
                                                                         </ul>
                 </nav>
                 <nav class="template-foot-nav-resp">
-                                                                                                                                                    <a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">help</a> |
+                                                                                                                                                    <a href="/hotels/help/faq/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">help</a> |
                                                                         <a href="http://pricelinepartnernetwork.com/">hotel affiliate program</a> |
-                                                                        <a href="/hotels/help/privacy/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b">privacy and policy</a> |
-                                                                        <a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b&amp;queion=09e24d204527e84f36ff277f601463a7">review/cancel reservation</a> 
+                                                                        <a href="/hotels/help/privacy/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b">privacy and policy</a> |
+                                                                        <a href="https://secure.rezserver.com/hotels/help/review/?refid=1001&amp;varid=1b2b3b4a37a41b43b44a45b47b&amp;queion=428d62d9db08cd4c028fb54f9560f11f">review/cancel reservation</a> 
                                                             </nav>
                 <div class="template-foot-copy">
                     <div id="foot_spacer">
-                        © <a href="http://www.hotelsbycity.com" title="Hotels By City">HotelsByCity</a> 2015, all rights reserved. A <a href="http://www.priceline.com/" title="Priceline" target="_blank">Priceline.com</a> company
+                        © <a href="http://www.hotelsbycity.com" title="Hotels By City">HotelsByCity</a> 2016, all rights reserved. A <a href="http://www.priceline.com/" title="Priceline" target="_blank">Priceline.com</a> company
                     </div>
                     <div id="foot_cr2"></div>
                 </div>
@@ -486,31 +576,85 @@
     
     <script type="text/javascript">
         rs = {"media_url":"media.rezserver.com","is_mobile":false,"is_tablet":false,"is_touch":false,"is_ie":false,"is_firefox":false,"is_ipad":false,"is_ios":false,"is_android":false,"is_osx":false,"is_windows":false,"page":"privacy","product":"hotel","product_list":{"hotel":{"name":"Hotels","folder":"hotels","home_link_id":"hotel_home"},"car":{"name":"Car Rentals","folder":"car_rentals","home_link_id":"car_home"},"air":{"name":"Flights","folder":"air","home_link_id":"air_home"},"vp":{"name":"Vacations","folder":"vp","home_link_id":"vp_home"}},"host_name":"secure.hotelsbycity.com"};
-        ref = {"refid":"1001","accountid":"1000","site_name":"HotelsByCity.com","plugin":{"booking_cache22":true,"live_rates_off":true},"colors":{"main_titles":"ff8500","text":"000000","links":"009cff","links_hover":"ff8500","base":"d0dfea","base_contrast":"333333","highlight":"75b338","base_mobile":"666666","links_mobile":"999999","mobile_header":"666666","mobile_footer":"999999"},"products":{"air":{"version":"3","product_on_off":"1","distribution_on_off":"1","applayer_filter":{"inventory":{"TWEB2":{"activate":"1"}},"insurance":{"type":"none","com_rate":"0.3"}},"custom_ets_itinerary":"0","pre_travel_email":"0","email_confirmation_suppression":"0"},"hotel":{"version":"3","product_on_off":"1","distribution_on_off":"1","applayer_filter":{"inventory":{"TWEB2":{"activate":"1"},"Booking":{"activate":"1"},"Agoda":{"activate":"1"},"EXP":{"activate":"1"},"AAA":{"activate":"0"},"Net":{"activate":"0"},"Tour":{"activate":"0"},"VMER":{"activate":"0"},"SMOP":{"activate":"0"}},"insurance":{"type":"none","com_rate":"0.3"}},"pre_travel_email":"0","email_confirmation_suppression":"0"},"car":{"version":"3","product_on_off":"1","mobile_on_off":"0","responsive_on_off":"0","distribution_on_off":"1","mer_com_parent_rate":"11.6","mer_com_rate":"100","cdw_daily_rate":"3","rc_com_rate":"100","rc_com_parent_rate":"70","car_insurance_on_off":"1","applayer_filter":{"inventory":{"TWEB":{"activate":"1","xml_version":"2"},"RC":{"activate":"0","filter":{"region":["INT"],"airport_only":"1"}}},"insurance":{"type":"BERKLEY","com_rate":"0.3"}},"pre_travel_email":"0","email_confirmation_suppression":"0"},"vp":{"version":"2","product_on_off":"1","distribution_on_off":"0","applayer_filter":null}},"filter_country":"","filter_state":"","filter_city":"","domain_mask":"secure.hotelsbycity.com","group_booking_url":null,"group_booking_flag":"0","vcid":"0","is_ppn":false,"site_options":{"currency":{"id":2,"value":"USD","level":"global"},"hotel_results_default_sort_order":{"id":15,"value":"most_popular","level":"global"},"hotel_results_default_sort_order_airport":{"id":25,"value":"distance","level":"global"},"hotel_results_default_sort_order_poi":{"id":35,"value":"distance","level":"global"},"breadcrumb_display":{"id":45,"value":"1","level":"global"},"breadcrumb_home_display":{"id":55,"value":"1","level":"global"},"breadcrumb_home_url":{"id":65,"value":"hotel_home","level":"global"},"conceal_bkg_rates":{"id":75,"value":"0","level":"global"},"home_bg_image_url":{"id":85,"value":"0","level":"global"},"home_bg_image_color":{"id":95,"value":"0","level":"global"},"limit_canadian_inventory_to_aaa":{"id":105,"value":"0","level":"global"},"link_hotel_home":{"id":114,"value":"hotel_home","level":"global"},"language_select_display":{"id":124,"value":"1","level":"global"},"hotel_results_applayer_call":{"id":134,"value":"ResultsWithCacheV2","level":"global"},"email_lookup_link":{"id":144,"value":"0","level":"global"},"hotel_amenity_filter_order":{"id":154,"value":"{\"order\":[]}","level":"global"},"hotel_amenity_filter_remove":{"id":164,"value":"{\"remove\":[25]}","level":"global"},"express_deals":{"id":174,"value":"1","level":"site"},"new_tab_to_hotel_page":{"id":184,"value":"1","level":"global"},"car_prepaid_rates":{"id":194,"value":"0","level":"global"},"home_page":{"id":204,"value":"{\"home\": \"home\", \"hotel\": \"hotel_home\", \"car\": \"car_home\", \"air\": \"air_home\", \"vp\": \"vp_home\"}","level":"account"},"aaa_insurance_advertisement":{"id":224,"value":"0","level":"global"},"always_show_car_cc":{"id":244,"value":"0","level":"global"},"aaa_lookup_by_email_security_check":{"id":254,"value":"0","level":"global"},"express_deals_only":{"id":264,"value":"0","level":"global"},"distance_unit_of_measure":{"id":274,"value":"mi","level":"global"},"car_matrix":{"id":284,"value":"0","level":"global"},"auto_suggest_stadiums":{"id":294,"value":"0","level":"global"},"agoda_cid":{"id":304,"value":"1558215","level":"global"},"google_analytics_script_type":{"id":314,"value":"A","level":"global"},"hotel_live_rates_version":{"id":324,"value":"2.0","level":"account"},"hotel_live_rates_view":{"id":334,"value":"low_price","level":"global"},"xsell_banners":{"id":354,"value":"0","level":"global"},"disabled_list":{"id":363,"value":"0","level":"global"},"remove_hotel_chain":{"id":364,"value":"","level":"global"},"criteo_tracking":{"id":365,"value":"{\"account_id\": 17199 , \"products\" : [\"hotel\"]}","level":"site"},"ga_remarketing_tracking":{"id":374,"value":"0","level":"global"},"sold_out_margin":{"id":394,"value":"40","level":"global"},"disabled_list_aaa":{"id":404,"value":"{\"hotel_chain\" : {\"level\" : \"hotel_chain,id\", \"values\" : [175]}}","level":"global"},"abtest":{"id":414,"value":"{\"active\":{},\"plugin\":{\"aaa\":{\"active\":{}},\"on_star\":{\"active\":{\"1\":false,\"2\":false,\"3\":false,\"4\":false,\"5\":false,\"6\":false,\"7\":false,\"8\":false}}}}","level":"global"},"air_add_hotel_link":{"id":424,"value":"1","level":"global"},"pet_friendly":{"id":434,"value":"0","level":"global"},"secure_domain_mask":{"id":444,"value":"0","level":"global"},"green_friendly":{"id":454,"value":"0","level":"global"},"mapquest":{"id":464,"value":"0","level":"global"},"car_itinerary_bjs":{"id":474,"value":"0","level":"global"},"solr_parallel":{"id":484,"value":"0","level":"global"},"aaa":{"id":494,"value":"0","level":"global"},"smop_hide_summary_of_charges_on_lookup":{"id":514,"value":"0","level":"global"},"aaa_ace_club":{"id":524,"value":"0","level":"global"},"caa":{"id":534,"value":"0","level":"global"},"solr_cache":{"id":544,"value":"1","level":"global"},"breadcrumb_search_url":{"id":554,"value":"{\"hotel\": \"hotel_home\", \"car\": \"car_home\", \"air\": \"air_home\", \"vp\": \"vp_home\"}","level":"global"},"hotel-success--show_booking_logo":{"id":564,"value":"0","level":"global"},"hotel-hotel--NewBulidOut":{"id":574,"value":"0","level":"global"},"mapquest_ad":{"id":584,"value":"0","level":"global"},"display_nearby_cities":{"id":624,"value":"1","level":"global"},"intent_media_sca":{"id":635,"value":"0","level":"global"},"intent_media_ppa":{"id":645,"value":"{\"library\":\"intent_media_hotelsbycity_dot_com_meta\",\"ad_unit_id\":\"htc_ppa_hot_lst_ads_us\"}","level":"site"},"hotel-booking_configs_mapquest":{"id":655,"value":"0","level":"global"},"hotel-booking_configs_aaa":{"id":665,"value":"0","level":"global"},"mapquest_adV2":{"id":675,"value":"0","level":"global"},"language_default":{"id":685,"value":"en","level":"global"},"aaa_web_sort_order":{"id":695,"value":"1","level":"global"},"flycheap":{"id":714,"value":"0","level":"global"},"rs_templates":{"id":715,"value":"twig","level":"site"},"use_mobile_template":{"id":724,"value":"0","level":"global"},"autosuggest_pois":{"id":734,"value":"0","level":"global"},"autosuggest_hotels":{"id":744,"value":"0","level":"global"},"solr_geo":{"id":754,"value":"1","level":"global"},"shop_pixel":{"id":764,"value":"0","level":"global"},"multi_home_popular_destinations":{"id":774,"value":"us","level":"global"},"show_live_rates_inventory_logo":{"id":784,"value":"0","level":"global"},"paypro":{"id":794,"value":"0","level":"global"},"facebook_conversion_id":{"id":804,"value":"0","level":"global"}},"intent_media_ppa":null};
-        rs_link = {"sticky_params":{"refid":"1001","varid":"1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b"}};
+        ref = {"refid":"1001","accountid":"1000","site_name":"HotelsByCity.com","plugin":{"booking_cache22":true,"live_rates_off":true},"colors":{"main_titles":"ff8500","text":"000000","links":"009cff","links_hover":"ff8500","base":"d0dfea","base_contrast":"333333","highlight":"75b338","base_mobile":"666666","links_mobile":"999999","mobile_header":"666666","mobile_footer":"999999"},"products":{"air":{"version":"3","product_on_off":"1","distribution_on_off":"1","air_insurance_on_off":null,"air_dist_insurance_on_off":null,"applayer_filter":{"inventory":{"TWEB2":{"activate":"1"}},"insurance":{"type":"none","com_rate":"0.3"}},"custom_ets_itinerary":"0","pre_travel_email":"0","email_confirmation_suppression":"0","post_send_email":"0","post_send_sms":null,"cc_confirmation_email":"0"},"hotel":{"version":"3","product_on_off":"1","distribution_on_off":"1","hotel_insurance_on_off":null,"hotel_dist_insurance_on_off":null,"applayer_filter":{"inventory":{"TWEB2":{"activate":"1"},"Booking":{"activate":"1"},"Agoda":{"activate":"1"},"EXP":{"activate":"1"},"AAA":{"activate":"0"},"Net":{"activate":"0"},"Tour":{"activate":"0"},"VMER":{"activate":"0"},"SMOP":{"activate":"0"}},"insurance":{"type":"none","com_rate":"0.3"}},"pre_travel_email":"0","email_confirmation_suppression":"0","post_send_email":"0","post_send_sms":null,"cc_confirmation_email":"0"},"car":{"version":"3","product_on_off":"1","mobile_on_off":"0","responsive_on_off":"0","distribution_on_off":"1","car_insurance_on_off":"1","car_dist_insurance_on_off":null,"applayer_filter":{"inventory":{"TWEB":{"activate":"1","xml_version":"2"},"RC":{"activate":"0","filter":{"region":["INT"],"airport_only":"1"}}},"insurance":{"type":"BERKLEY","com_rate":"0.3"}},"pre_travel_email":"0","email_confirmation_suppression":"0","post_send_email":"0","post_send_sms":null,"cc_confirmation_email":"0"},"vp":{"version":"2","product_on_off":"1","distribution_on_off":"0","applayer_filter":null}},"filter_country":"","filter_state":"","filter_city":"","domain_mask":"secure.hotelsbycity.com","group_booking_url":null,"group_booking_flag":"0","vcid":"0","is_ppn":false,"site_options":{"currency":{"id":2,"value":"USD","level":"global"},"hotel_results_default_sort_order":{"id":15,"value":"most_popular","level":"global"},"hotel_results_default_sort_order_airport":{"id":25,"value":"distance","level":"global"},"hotel_results_default_sort_order_poi":{"id":35,"value":"distance","level":"global"},"breadcrumb_display":{"id":45,"value":"1","level":"global"},"breadcrumb_home_display":{"id":55,"value":"1","level":"global"},"breadcrumb_home_url":{"id":65,"value":"hotel_home","level":"global"},"conceal_bkg_rates":{"id":75,"value":"0","level":"global"},"home_bg_image_url":{"id":85,"value":"0","level":"global"},"home_bg_image_color":{"id":95,"value":"0","level":"global"},"limit_canadian_inventory_to_aaa":{"id":105,"value":"0","level":"global"},"link_hotel_home":{"id":114,"value":"hotel_home","level":"global"},"language_select_display":{"id":124,"value":"1","level":"global"},"hotel_results_applayer_call":{"id":134,"value":"ResultsWithCacheV2","level":"global"},"email_lookup":{"id":144,"value":"0","level":"global"},"hotel_amenity_filter_order":{"id":154,"value":"{\"order\":[]}","level":"global"},"hotel_amenity_filter_remove":{"id":164,"value":"{\"remove\":[25]}","level":"global"},"express_deals":{"id":174,"value":"1","level":"site"},"new_tab_to_hotel_page":{"id":184,"value":"1","level":"global"},"car_prepaid_rates":{"id":194,"value":"0","level":"global"},"home_page":{"id":204,"value":"{\"home\": \"home\", \"hotel\": \"hotel_home\", \"car\": \"car_home\", \"air\": \"air_home\", \"vp\": \"vp_home\"}","level":"account"},"aaa_insurance_advertisement":{"id":224,"value":"0","level":"global"},"always_show_car_cc":{"id":244,"value":"0","level":"global"},"aaa_lookup_by_email_security_check":{"id":254,"value":"0","level":"global"},"express_deals_only":{"id":264,"value":"0","level":"global"},"distance_unit_of_measure":{"id":274,"value":"mi","level":"global"},"car_matrix":{"id":284,"value":"0","level":"global"},"auto_suggest_stadiums":{"id":294,"value":"0","level":"global"},"agoda_cid":{"id":304,"value":"1558215","level":"global"},"google_analytics_script_type":{"id":314,"value":"A","level":"global"},"hotel_live_rates_version":{"id":324,"value":"2.0","level":"account"},"hotel_live_rates_view":{"id":334,"value":"low_price","level":"global"},"xsell_banners":{"id":354,"value":"0","level":"global"},"disabled_list":{"id":363,"value":"0","level":"global"},"remove_hotel_chain":{"id":364,"value":"","level":"global"},"criteo_tracking":{"id":365,"value":"{\"account_id\": 17199 , \"products\" : [\"hotel\"]}","level":"site"},"ga_remarketing_tracking":{"id":374,"value":"0","level":"global"},"sold_out_margin":{"id":394,"value":"40","level":"global"},"disabled_list_aaa":{"id":404,"value":"{\"hotel_chain\" : {\"level\" : \"hotel_chain,id\", \"values\" : [175]}}","level":"global"},"abtest":{"id":414,"value":"{\"active\":{},\"plugin\":{\"aaa\":{\"active\":{\"41\":false,\"43\":false,\"45\":false,\"47\":false, \"48\": false, \"49\": false}}},\"site_option\":{\"abtest__car-AAA_Remove_Car_Companies\":{\"active\":{\"46\":true}}}}","level":"global"},"air_add_hotel_link":{"id":424,"value":"1","level":"global"},"pet_friendly":{"id":434,"value":"0","level":"global"},"secure_domain_mask":{"id":444,"value":"0","level":"global"},"green_friendly":{"id":454,"value":"0","level":"global"},"mapquest":{"id":464,"value":"0","level":"global"},"car_itinerary_bjs":{"id":474,"value":"0","level":"global"},"solr_parallel":{"id":484,"value":"0","level":"global"},"aaa":{"id":494,"value":"0","level":"global"},"smop_hide_summary_of_charges_on_lookup":{"id":514,"value":"0","level":"global"},"aaa_ace_club":{"id":524,"value":"0","level":"global"},"caa":{"id":534,"value":"0","level":"global"},"solr_cache":{"id":544,"value":"1","level":"global"},"breadcrumb_search_url":{"id":554,"value":"{\"hotel\": \"hotel_home\", \"car\": \"car_home\", \"air\": \"air_home\", \"vp\": \"vp_home\"}","level":"global"},"hotel-hotel--NewBulidOut":{"id":574,"value":"0","level":"global"},"mapquest_ad":{"id":584,"value":"0","level":"global"},"display_nearby_cities":{"id":624,"value":"1","level":"global"},"intent_media_sca":{"id":635,"value":"0","level":"global"},"intent_media_ppa":{"id":645,"value":"{\"library\":\"intent_media_hotelsbycity_dot_com_meta\",\"ad_unit_id\":\"htc_ppa_hot_lst_ads_us\"}","level":"site"},"mapquest_adV2":{"id":675,"value":"0","level":"global"},"language_default":{"id":685,"value":"en","level":"global"},"aaa_web_sort_order":{"id":695,"value":"1","level":"global"},"flycheap":{"id":714,"value":"0","level":"global"},"rs_templates":{"id":715,"value":"twig","level":"site"},"use_mobile_template":{"id":724,"value":"0","level":"global"},"autosuggest_pois":{"id":734,"value":"0","level":"global"},"autosuggest_hotels":{"id":744,"value":"0","level":"global"},"solr_geo":{"id":754,"value":"1","level":"global"},"shop_pixel":{"id":764,"value":"0","level":"global"},"multi_home_popular_destinations":{"id":774,"value":"[{\"city_id\": 800056409,\"name\": \"Los Angeles, CA\",\"hotel_count\": 371,\"image\": \"losangeles.jpg\"}, {\"city_id\": 800046992,\"name\": \"San Francisco, CA\",\"hotel_count\": 299,\"image\": \"sanfrancisco.jpg\"}, {\"city_id\": 800047418,\"name\": \"Miami, FL\",\"hotel_count\": 248,\"image\": \"miami.jpg\"}, {\"city_id\": 800049030,\"name\": \"Las Vegas, NV\",\"hotel_count\": 223,\"image\": \"lasvegas.jpg\"}, {\"city_id\": 800049480,\"name\": \"New York, NY\",\"hotel_count\": 524,\"image\": \"newyork.jpg\"}, {\"city_id\": 800050584,\"name\": \"Houston, TX\",\"hotel_count\": 368,\"image\": \"houston.jpg\"}]","level":"global"},"paypro":{"id":794,"value":"1","level":"global"},"facebook_conversion_id":{"id":804,"value":"0","level":"global"},"6912_results_event":{"id":814,"value":"0","level":"global"},"email_lookup_link":{"id":824,"value":"0","level":"global"},"brand_name_pricing":{"id":844,"value":"{}","level":"global"},"aaa_banners":{"id":854,"value":"new","level":"global"},"currency_select_display":{"id":874,"value":"1","level":"global"},"paypro_car_upsell":{"id":884,"value":"0","level":"global"},"adobe_dtm_tracking":{"id":904,"value":"0","level":"global"},"clicky_accountid":{"id":1114,"value":"","level":"global"},"gosquared_group_id":{"id":1124,"value":"","level":"global"},"gosquared_single_id":{"id":1134,"value":"GSN-006212-X","level":"site"},"force_https_protocol":{"id":1144,"value":"0","level":"global"},"gosquared_global_id":{"id":1154,"value":"GSN-687538-L","level":"global"},"use_fastly":{"id":1164,"value":"1","level":"site"},"gosquared_sale_tracking":{"id":1174,"value":"js","level":"global"},"gosquared_global_http_test":{"id":1184,"value":"GSN-736435-H","level":"global"},"express_deals_hide_button":{"id":1204,"value":"0","level":"global"},"detailed_breadcrumb":{"id":1224,"value":"0","level":"global"},"featured_brand":{"id":1234,"value":"","level":"global"},"abtest__car-AAA_Remove_Car_Companies":{"id":1244,"value":"0","level":"global"},"twitter_conversion_id":{"id":1264,"value":"{}","level":"global"},"car-pre-travel-email":{"id":1274,"value":"0","level":"global"},"car-pre-travel-sms":{"id":1284,"value":"0","level":"global"},"caa_currency_banner":{"id":1294,"value":"0","level":"global"},"bing_conversion_script":{"id":1304,"value":"{}","level":"global"},"car-BJs-Remove_Car_Companies":{"id":1314,"value":"0","level":"global"},"class_add_grey_bg":{"id":1324,"value":"0","level":"global"},"google_tag_manager":{"id":1334,"value":"","level":"global"},"air_home_version":{"id":1344,"value":"","level":"global"},"booking":{"id":1354,"value":"0","level":"global"}},"intent_media_ppa":null};
+        rs_link = {"sticky_params":{"refid":"1001","varid":"1b2b3b4a37a41b43b44a45b47b"}};
     </script>
-    <script type="text/javascript" src="/public/3.35.1/help.min.js"></script>
+    <script type="text/javascript" src="/public/3.57.2/help.min.js"></script>
 
 
     <script>
         var _gaq = _gaq || [];
         rs_global.tracking.trackEvents();
     </script>
+
+<!-- GoSquared -->
+<script>
+    !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+            arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+        d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+                insertBefore(d,q)}(window,document,'script','_gs');
+
+
+                    _gs('GSN-687538-L');
+                            _gs('GSN-006212-X');
+                        
+    //track the user
+    _gs('identify', {
+        id:    '428d62d9db08cd4c028fb54f9560f11f',
+        custom: {
+            refid: "1001",
+            accountid: "1000",
+            product: "hotel"
+            // other custom properties...
+        }
+    });
+
+    </script>
+<!-- End GoSquared -->
+
+                                                                                                                
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js"></script>
+<script type="text/javascript">
+    window.criteo_q =  window.criteo_q || [];
+    var deviceType = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? "m" : "d"; //check if is_mobile
+        window.criteo_q.push(
+                {event:"setAccount",account:17199},
+                {event:"setSiteType",type:deviceType},
+                {event:"setHashedEmail",email:[""]}
+            );
+    </script>
+
+
+
+
+
+
+
+
+
     <!-- // ================== SESSION ID
-      09e24d204527e84f36ff277f601463a71
+      428d62d9db08cd4c028fb54f9560f11f1
     -->
 
     <script>
         $(document).ready(function () {
             $('#rs_support_nav').on('change', function () {
                 if ($(this).val() === 'vp') {
-                    window.location.href = '/vp/help/privacy/?refid=1001&varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b';
+                    window.location.href = '/vp/help/privacy/?refid=1001&varid=1b2b3b4a37a41b43b44a45b47b';
                 } else if ($(this).val() == 'air') {
-                    window.location.href = '/flights/help/privacy/?refid=1001&varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b';
+                    window.location.href = '/flights/help/privacy/?refid=1001&varid=1b2b3b4a37a41b43b44a45b47b';
                 } else if ($(this).val() == 'car') {
-                    window.location.href = '/car_rentals/help/privacy/?refid=1001&varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b';
+                    window.location.href = '/car_rentals/help/privacy/?refid=1001&varid=1b2b3b4a37a41b43b44a45b47b';
                 } else if ($(this).val() == 'hotel') {
-                    window.location.href = '/hotels/help/privacy/?refid=1001&varid=1b2b3b4b15b16b17a18a19a20a21b23b25a26a27b28a29b';
+                    window.location.href = '/hotels/help/privacy/?refid=1001&varid=1b2b3b4a37a41b43b44a45b47b';
                 } else {
                     return false;
                 }
