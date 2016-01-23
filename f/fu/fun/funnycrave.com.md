@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnycrave.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021125725id_/http%3A//funnycrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnycrave.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123220027id_/http%3A//funnycrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
