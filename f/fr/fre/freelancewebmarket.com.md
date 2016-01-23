@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancewebmarket.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208105916id_/http%3A//freelancewebmarket.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancewebmarket.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123093025id_/http%3A//freelancewebmarket.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy-policy - FreelanceWebmarket
 
@@ -37,7 +37,7 @@ Tallinn, 13413, Estonia
 Fax: (+372) 65 22 645  
 
 
-or by email: [Contact Us](http://www.freelancewebmarket.com/contact.shtml?mod=Freelance_Projects)
+or by email: [Contact Us](http://freelancewebmarket.com/contact.shtml?mod=Freelance_Projects)
 
 Effective Date: January 07, 2007 (last update 26 07 2007)
 
