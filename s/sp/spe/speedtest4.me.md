@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the speedtest4.me privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114749id_/http%3A//speedtest4.me/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtest4.me privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124004728id_/http%3A//speedtest4.me/privacy_policy.php) for the most accurate reproduction.*
 
 # Speedtest4.me
 
 [](https://web.archive.org/)
 
-Instantly Check Your Connection Speed Download InternetSpeedTracker™ Toolbar Now!
+Instantly Check Your Connection Now!
 
 Speedtest4.me is commited to protect your privacy and will only use information collected about you in accordance with the Data Protection Act 1998 and the European Directive on Privacy and Electronic Communications (2002/58/EC). 
 
