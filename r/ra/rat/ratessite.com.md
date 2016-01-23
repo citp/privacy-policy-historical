@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratessite.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126174014id_/http%3A//ratessite.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratessite.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124003208id_/http%3A//ratessite.com/privacystatement.htm) for the most accurate reproduction.*
 
 # RatesSite
 
@@ -34,7 +34,7 @@ RatesSite.com Web sites will disclose your personal information, without notice,
 
 Opt-out Provision
 
-Please write to us at 5699 Kanan Road #222 Agoura Hills, CA 91301 or email [ customerservice@RatesSite.com](mailto:customerservice@RatesSite.com) if you wish to have your name removed form any and/or all future contact and services. In the event that you contact us with this request, all reasonable efforts will be taken to ensure that your will not receive any further communications from us in the future.
+Please write to us at 543 Country Club Dr #409 Simi Valley, CA 93065 or email [ customerservice@RatesSite.com](mailto:customerservice@RatesSite.com) if you wish to have your name removed form any and/or all future contact and services. In the event that you contact us with this request, all reasonable efforts will be taken to ensure that your will not receive any further communications from us in the future.
 
 Use of Cookies
 
