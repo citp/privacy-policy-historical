@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondurasexpoonline.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110222600id_/http%3A//www.hondurasexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondurasexpoonline.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123071910id_/http%3A//hondurasexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
