@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostedgalleries.me privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815185503id_/http%3A//hostedgalleries.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostedgalleries.me privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123202916id_/http%3A//hostedgalleries.me/privacy) for the most accurate reproduction.*
 
 # hostedgalleries
 
