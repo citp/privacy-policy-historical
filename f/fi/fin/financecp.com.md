@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financecp.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223015153id_/http%3A//www.financecp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financecp.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123183259id_/http%3A//www.financecp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FinanceCP
 
@@ -84,7 +84,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [info#financecp.com](mailto:i%6e%66o#%66%69n%61%6e%63%65cp.co%6d "Send email to: info#financecp.com")
+Email: [info#financecp.com](mailto:info%23financecp.com "Send email to: info#financecp.com")
 
 
 
