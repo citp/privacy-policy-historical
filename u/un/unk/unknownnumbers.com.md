@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unknownnumbers.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110154332id_/http%3A//www.unknownnumbers.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unknownnumbers.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123035427id_/http%3A//www.unknownnumbers.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unknown Numbers
 
