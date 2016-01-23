@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckingawesome.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816122727id_/http%3A//fuckingawesome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckingawesome.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124001714id_/http%3A//www.fuckingawesome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
