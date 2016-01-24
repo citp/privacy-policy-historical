@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427140227id_/https%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124025810id_/https%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brandsfever
+# Privacy Policy Brandsfever
 
 Brandsfever Pte Ltd (“ **Brandsfever** ”, or alternatively “ **we** ”, “ **our** ”, “ **ours** “, or “ **us** ”) is committed to ensuring that your personal information is protected. This Personal Data Protection Policy (“ **Policy** ”) explains how we collect, use, disclose and retain your personal information that we collect about you, and the measures that we have in place to safeguard your personal data. To this extent, we respect the confidentiality of personal data and privacy of individuals and conduct our business in line with the principles and the requirements of the Personal Data Protection Act 2012 (“ **PDPA** ”). 
 
