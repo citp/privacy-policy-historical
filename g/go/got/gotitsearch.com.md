@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotitsearch.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207211958id_/http%3A//gotitsearch.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotitsearch.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124203045id_/http%3A//gotitsearch.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Gotitsearch.com- Privacy Policy
 
