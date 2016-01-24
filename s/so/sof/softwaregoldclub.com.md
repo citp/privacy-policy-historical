@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaregoldclub.com privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713055536id_/http%3A//www.softwaregoldclub.com/legally/page.php%3Fp%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaregoldclub.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124231710id_/http%3A//www.softwaregoldclub.com/legally/page.php%3Fp%3D3) for the most accurate reproduction.*
 
 # General Privacy Policy for All Websites Owned by AX Gold Software Limited
 
