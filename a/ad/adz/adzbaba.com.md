@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzbaba.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419024846id_/http%3A//adzbaba.com/Privacy%26Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzbaba.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124023801id_/http%3A//adzbaba.com/Privacy%26Policy) for the most accurate reproduction.*
 
 # 
 
