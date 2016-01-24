@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the superpoints.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160714id_/https%3A//www.superpoints.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpoints.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124200823id_/https%3A//www.rewardshopping.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Superpoints® - Reward Yourself.
+# RewardShopping - Reward Yourself.
 
-##  SUPERPOINTS.COM PRIVACY POLICY 
+##  REWARDSHOPPING PRIVACY POLICY 
 
-Superpoints LLC (the "Company") respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit our websites and apps (the “Services”) and use the associated services that are available if you become a member, why we collect it, and how it is used. By using a Website or app or creating a member account, you consent to the data practices prescribed in this Privacy Policy. The Company's Privacy Policy governs the privacy guidelines for the Services. 
+RewardShopping LLC (the "Company") respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit our websites and apps (the “Services”) and use the associated services that are available if you become a member, why we collect it, and how it is used. By using a Website or app or creating a member account, you consent to the data practices prescribed in this Privacy Policy. The Company's Privacy Policy governs the privacy guidelines for the Services. 
 
 ####  What information does the Company collect? 
 
@@ -62,7 +62,7 @@ By using a Website, you agree to this Privacy Policy. This is our entire and exc
 
 For questions or comments regarding this Privacy Policy, please contact us at: 
 
-Superpoints LLC  
+RewardShopping LLC  
 Attn: Privacy Policy  
 145 Cortre Madera Town Center, #445  
 Corte Madera, CA 93925 
