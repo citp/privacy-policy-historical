@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsrecruitments.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815184408id_/http%3A//jobsrecruitments.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsrecruitments.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124024939id_/http%3A//jobsrecruitments.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
