@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpnames.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907044328id_/http%3A//www.alpnames.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpnames.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125005313id_/https%3A//alpnames.com/support/privacy.php) for the most accurate reproduction.*
 
 # AlpNames AlpNames Privacy Policy
 
@@ -6,7 +6,7 @@ At AlpNames Limited we recognize that privacy is important. This Privacy Policy 
 
 #### Collection of Information
 
-We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services.. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
 When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
