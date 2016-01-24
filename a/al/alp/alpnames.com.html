@@ -1,32 +1,33 @@
-<!--The following is the downloaded HTML source of the alpnames.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907044328id_/http%3A//www.alpnames.com/support/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alpnames.com privacy policy that was archived on 2016-01-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160125005313id_/https%3A//alpnames.com/support/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr"><head>
-<meta name="google-site-verification" content="C4MV3xam0zFscdlswch54QmbqWoVucU1cx8UOd7xv08">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFR983"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="//web.archive.org/web/20150909060052/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUVZUGwEIV1BUDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-	
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
     
     <meta name="keywords" content="">
-	<meta name="description" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>AlpNames AlpNames Privacy Policy</title>    
     
-	<title>AlpNames AlpNames Privacy Policy</title>    
+    <link rel="icon" href="/getImage.php?src=favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/getImage.php?src=favicon.ico" type="image/x-icon">
     
-	<link rel="icon" href="/getImage.php?src=favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/getImage.php?src=favicon.ico" type="image/x-icon">
-	
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/style.css?v=1436971094">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/style.css?v=1448451542">
     <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/style3.css?v=1413280909">
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev1.css?v=1410954289">
-    <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/common/stylev2.css?v=1378478507">
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev4.css?v=1411044047">
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev5.css?v=1438690502">
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev6.css?v=1436968797">
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/superdupersite.css?v=1438773558">
-	
-	<script type="text/javascript" src="/ui/supersite/en/js/jquery.js"></script>
-	<script type="text/javascript" src="/ui/supersite/en/js/commonScripts.js"></script>
-	<script type="text/javascript" src="/ui/supersite/en/js/cart.js"></script>
-        <script src="https://www.google.com/recaptcha/api.js"></script>
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev1.css?v=1447065744">
+    <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/common/stylev2.css?v=1448531689">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev4.css?v=1446460961">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev5.css?v=1446556001">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/stylev6.css?v=1450196873">
+    <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/common/stylev7.css?v=1448903405">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/superdupersite.css?v=1452595285">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/510000_539999/516804/supersite2/supersite/themes/MinimalGreen-Theme1/css/common/superdupersitev1.css?v=1446034906">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFR983"></script><script async="" src="//web.archive.org/web/20150909060052/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/ui/supersite/en/js/jquery.js"></script>
+    <script type="text/javascript" src="/ui/supersite/en/js/commonScripts.js"></script>
+    <script type="text/javascript" src="/ui/supersite/en/js/cart.js"></script>
     
     <!--[if IE]>   
     <script type="text/javascript">
@@ -45,169 +46,122 @@
     </script>
 
     <!--[if IE 6]>    
-        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie6.css?1378478507">
+        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie6.css?1448531689">
     <![endif]-->
       
      <!--[if IE 7]>     
-      	<link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie7.css?1436358367">
+        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie7.css?1448531689">
       <![endif]-->
       
        <!--[if IE 8]>   
-       <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie8.css?1436358367">
+       <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie8.css?1448531689">
       <![endif]-->
       
       <!--[if IE 9]>    
-        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie9.css?1436358367">
+        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie9.css?1448531689">
      <![endif]--> 
      
       <!--[if lt IE 9]>
         <script type="text/javascript" src="/ui/supersite/themes/MinimalGreen/images/iefix/PIE.js"></script>
         <script type="text/javascript" src="/ui/supersite/themes/MinimalGreen/images/iefix/iefix.js"></script>
     <![endif]-->
-
-<!-- pingdom -->
-<script>
-var _prum = [['id', '541736c8abe53da83c0cf5ee'],
-             ['mark', 'firstbyte', (new Date()).getTime()]];
-(function() {
-    var s = document.getElementsByTagName('script')[0]
-      , p = document.createElement('script');
-    p.async = 'async';
-    p.src = '//rum-static.pingdom.net/prum.min.js';
-    s.parentNode.insertBefore(p, s);
-})();
-</script>
     
 </head>
 <body class=" home-bg">
-<!-- Social Media Widget -->
-<style>
-.WidgetMain {
-	position: fixed;
-	left: -50px;
-	top: 40%;
-	width: 74px;
-	height: 135px;
-	border-radius: 0px 9px 9px 0px;
-	background-color: #2d3237;
-	padding: 5px;
-	transition: left 0.6s;
-}
-.WidgetMain:hover {
-	left: 0px;
-	width: 44px;
-	color: transparent !important;
-	transition: left 0.5s, width 0.5s, color 0.2s;
-	transition-timing-function: linear;
-}
-.LinkedIn, .FaceBook, .Twitter {
-	background-size:34px 34px;
-	background-repeat: no-repeat;
-	width: 34px; height: 34px;
-	padding: 5px 4px;
-	background-origin: content-box;;
-	}
-.LinkedIn {
-		background-image: url("/getImage.php?src=myUploadedImages/linkedinbw.png");
-	}
-.LinkedIn:hover {
-		background-image: url("/getImage.php?src=myUploadedImages/linkedincol.png");
-	}
-.FaceBook {
-		background-image: url("/getImage.php?src=myUploadedImages/facebookbw.png");
-	}
-.FaceBook:hover {
-		background-image: url("/getImage.php?src=myUploadedImages/facebookcol.png");
-	}
-.Twitter {
-		background-image: url("/getImage.php?src=myUploadedImages/twitterbw.png");
-	}
-.Twitter:hover {
-		background-image: url("/getImage.php?src=myUploadedImages/twittercol.png");
-	}
-.WidgetMain:hover .Followus {
-	color: transparent;
-	transition: color 0.2s;
-}
-.Followus {
-	-webkit-transform: rotate(-90deg);
-	transform: rotate(-90deg);
-	display: inline-block;
-	position: relative;
-	top: -74px;
-	left: 10px;
-	width: 90px;
-	height: 10px;
-	color: #FFFFFF;
-	font-size: 20px;
-	transition: color 0.4s;
-}
-</style>
-<div class="WidgetMain">
-	<div>
-		<a href="http://linkedin.com/company/alpnames-limited" target="_blank"><div class="LinkedIn"></div></a>
-		<a href="http://facebook.com/AlpNames" target="_blank"><div class="FaceBook"></div></a>
-		<a href="http://twitter.com/alpnames" target="_blank"><div class="Twitter"></div></a>
-		<div class="Followus">Follow us</div>
-	</div>
-</div>
-<!--  End Social Media Widget -->
+    <div id="site-container">
+         <!--[if IE 6]>
+        <div id="ie6-wrapper">
+        <div id="ie6-header">
+            <div id="ie-header-message"><strong>Upgrade your browser!</strong> You are using an outdated browser. For a better experience, get one of the following:</div>
+            <div id="ie6-browser-wrap">
+                <a id="ie-chorme" target="_blank" href="http://www.google.com/chrome">Chrome</a>
+                <a id="ie-firfox" target="_blank" href="http://www.mozilla.com">Firefox</a>
+                <a id="ie-iexplorer" target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie">Internet Explorer</a>
+            </div>
+            <div class="clear"></div>
+        </div>
+        </div>
+         <![endvif]-->
 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WFR983"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WFR983');</script>
-<!-- End Google Tag Manager -->
-
-
- <!--[if IE 6]>
-<div id="ie6-wrapper">
-<div id="ie6-header">
-    <div id="ie-header-message"><strong>Upgrade your browser!</strong> You are using an outdated browser. For a better experience, get one of the following:</div>
-    <div id="ie6-browser-wrap">
-        <a id="ie-chorme" target="_blank" href="http://www.google.com/chrome">Chrome</a>
-        <a id="ie-firfox" target="_blank" href="http://www.mozilla.com">Firefox</a>
-        <a id="ie-iexplorer" target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie">Internet Explorer</a>
-    </div>
-    <div class="clear"></div>
-</div>
-</div>
- <![endif]-->
-
-<div id="page-header">
-	<div id="header-wrapper">
-		
+        <div id="page-header">
+            <div id="header-wrapper">
+                
 <!-- ### Template common/header/header.html starts here ### -->
 <script type="text/javascript" src="/ui/supersite/en/js/jquery.innerfade.js"></script>
 <script type="text/javascript" src="/ui/supersite/en/js/jquery.scrollTo.js"></script>
 
-<h1 id="branding">
+
+<!--<h1 id="branding">
     <span class="logo-cont">
         <span></span>
-        
+        <a href="/index.php"><img src="/getImage.php?src=logo.gif" alt=""></a>
     </span>
-</h1>
+</h1>-->
 
 <!-- ### Template common/header/includes/header_dashboard.html starts here ### -->
+<div id="top-header">
+    <div class="top-header">    
+    
+        
+        <p class="header-text">support@alpnames.com | +44 203 137 9683</p>
+<a href="tel:442031379683"> <img id="header-text" src="/getImage.php?src=myUploadedImages/support.png"></a>
+        <ul class="top-nav">
+            
+                <li><a href="/login.php"><span class="ic-top-set ic-top-user"></span>Login / Sign up</a></li>
+            
+
+            
+
+            
+                <form action="/content.php" method="post" name="currency_change_form" style="display: none;">
+                    <input type="hidden" name="action" value="change_display_currency">
+                    <input type="hidden" name="preferred_currency">
+                </form>
+                <li class="currency-opt"><span class="ic-top-set ic-cur-usd" id="selected_currency_flag"></span><span id="current_selected_currency"> USD</span><span class="ic-top-set ic-top-dd"></span>
+                    <ul class="user-dd" id="currency_change">
+                        
+                            <li data-currencykey="AUD" data-selectedcurrency=""><span class="ic-top-set ic-cur-aud"></span> AUD</li>
+                            <li data-currencykey="CAD" data-selectedcurrency=""><span class="ic-top-set ic-cur-cad"></span> CAD</li>
+                            <li data-currencykey="CNY" data-selectedcurrency=""><span class="ic-top-set ic-cur-cny"></span> CNY</li>
+                            <li data-currencykey="EUR" data-selectedcurrency=""><span class="ic-top-set ic-cur-eur"></span> EUR</li>
+                            <li data-currencykey="GBP" data-selectedcurrency=""><span class="ic-top-set ic-cur-gbp"></span> GBP</li>
+                            <li data-currencykey="INR" data-selectedcurrency=""><span class="ic-top-set ic-cur-inr"></span> INR</li>
+                            <li data-currencykey="RUB" data-selectedcurrency=""><span class="ic-top-set ic-cur-rub"></span> RUB</li>
+                            <li data-currencykey="TRY" data-selectedcurrency=""><span class="ic-top-set ic-cur-try"></span> TRY</li>
+                            
+                        <li class="note-cur">Prices are calculated at the daily forex rate and are for display purposes only. Payments will be made in USD</li>
+                    </ul>
+                </li>
+            
+            <li class="shp-cart"><a href="/checkout.php"><span class="ic-top-set ic-shp-cart"></span><span class="shp-cart-no" id="dashboard-cartItemCount">0</span></a></li>
+        </ul>
+        
+        <div class="clear"></div>
+        
+    </div>
+</div>
 <input type="hidden" id="signout1" value="Are you sure you want to signout?">
 <input type="hidden" id="signout2" value="You have some item(s) in your shopping cart. All these items will be emptied and you will have to start all over again. Are you sure?">
 <!-- ### Template common/header/includes/header_dashboard.html ends here ### -->
 
+
+<div class="clear"></div>
 <div id="primary-nav">
-<ul style="position; absolute; z-index: 1; float:none;" class="top-nav">
-	<div class="nav">
-    <div class="top-header">
-
-    	<ul class="navigation" style="margin:0;padding:0;">		
-
-    		<li class="levelone"><a href="/" style="color:orange;">Home</a></li>
-            
+    <div class="nav-mobile">
+        <ul class="nav-mobile">
+        <li><a href="/"><i id="mobile-menu-icon" class="material-icons"></i></a></li>
+        <li><a href="/domain-registration/bulk-domain-registration.php"><i id="mobile-menu-icon" class="material-icons"></i></a></li>
+        <li><a href="/website-design/do-it-yourself-website-builder.php"><i id="mobile-menu-icon" class="material-icons"></i></a></li>
+        <li><a href="/web-hosting/index.php"><i id="mobile-menu-icon" class="material-icons"></i></a></li>
+        <li><a href="/business-email"><i id="mobile-menu-icon" class="material-icons"></i></a></li>
+        <li><a href="/digital-certificate"><i id="mobile-menu-icon" class="material-icons"></i></a></li>
+        </ul>
+    </div>
+    <div class="nav">
+        <ul class="navigation">
+        <li class="first "><a href="/">Home</a></li>
             <li class="levelone ">
-            <a href="/index.php">Domains</a>
+            <a href="/domain-registration/index.php">Domains</a>
                 <ul class="submenu-parent" id="domainssubmenu">
                     <li>
                         <h3>Registration</h3>
@@ -215,15 +169,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li>
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
-                                    <a href="/index.php">Register a Domain</a>
-                                    <p>Book your domain here</p>
+                                    <a href="/domain-registration/domain-registration-price.php">Price List</a>
+                                    <!--<p>Full Price List</p>-->
                                 </div>
                             </li>
                             <li>
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
-                                    <a href="/new-domain-extensions">New Domain Extensions<span class="mnew-tag">New</span></a>
-                                    <p>Pre-register to get the name of your choice</p>
+                                    <a href="/domain-registration/index.php">Register a Domain</a>
+                                    <!--<p>Book your domain here</p>-->
+                                </div>
+                            </li>
+
+                            <li>
+                                <span class="menu-icon"></span>
+                                <div class="menu-content">
+                                    <a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Registration<span class="mnew-tag">New</span></a>
+                                    <!--<p>Includes bulk registration tool.</p>-->
+                                </div>
+                            </li>
+
+                            <li>
+                                <span class="menu-icon"></span>
+                                <div class="menu-content">
+                                    <a href="/content.php?action=mypages&amp;page=bulk_pricing.html">Bulk Pricing<span class="mnew-tag">New</span></a>
+                                    
+                                </div>
+                            </li>
+
+                            <li>
+                                <span class="menu-icon"></span>
+                                <div class="menu-content">
+                                    <a href="/new-domain-extensions">New Domain Extensions</a>
+                                    <!--<p>Pre-register to get the name of your choice</p>-->
                                 </div>
                             </li>
 
@@ -231,15 +209,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/new-domain-extensions/sunrise">Sunrise Domains</a>
-                                    <p>Register domains using your trademark name</p>
+                                    <!--<p>Register domains using your trademark name</p>-->
                                 </div>
                             </li>
                             
                             <li>
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
-                                    <a href="http://premium.alpnames.com">Premium Domains<span class="mnew-tag">New</span></a>
-                                    <p>New tier priced premium domains</p>
+                                    <a href="http://www.alpnames.com/content.php?action=mypages&amp;page=premiumlanding.html">Premium Domains<span class="mnew-tag">New</span></a>
+                                    <!--<p>Register catchy, popular Domain Names</p>-->
                                 </div>
                             </li>
                             
@@ -247,7 +225,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/domain-registration/idn">IDN Domain Registration</a>
-                                    <p>Book your internationalized domains here</p>
+                                    <!--<p>Book your internationalized domains here</p>-->
                                 </div>
                             </li>
 
@@ -255,7 +233,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a>
-                                    <p>Compare pricing across 50+ extensions</p>
+                                    <!--<p>Compare pricing across 50+ extensions</p>-->
                                 </div>
                             </li>
                         </ul>
@@ -268,14 +246,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/domain-registration/transfer/index.php">Transfer your Domain</a>
-                                    <p>Move in your existing Domains</p>
+                                    <!--<p>Move in your existing Domains</p>-->
                                 </div>
                             </li>                    
                             <li>
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/index.php">Bulk Domain Transfer</a>
-                                    <p>Save by moving domains in bulk</p>
+                                    <!--<p>Save by moving domains in bulk</p>-->
                                 </div>
                             </li>                    
                         </ul>
@@ -288,21 +266,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/domain-registration/free-with-domain-registration.php">Free with every domain</a>
-                                    <p>Free email, DNS, theft protection and more</p>
+                                    <!--<p>Free email, DNS, theft protection and more</p>-->
                                 </div>
                             </li>
                             <li>
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/domain-registration/domain-name-suggestion-tool.php">Name suggestion tool</a>
-                                    <p>Use our name spinner for ideas on your ideal domain name</p>
+                                    <!--<p>Use our name spinner for ideas on your ideal domain name</p>-->
                                 </div>
                             </li>
                             <li>
                                 <span class="menu-icon"></span>
                                 <div class="menu-content">
                                     <a href="/domain-registration/domain-whois-lookup.php">Whois lookup</a>
-                                    <p>Perform a Whois Lookup</p>
+                                    <!--<p>Perform a Whois Lookup</p>-->
                                 </div>
                             </li>
                         </ul>
@@ -312,8 +290,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
             
             <li class="levelone ">
-            <a href="/website-design/do-it-yourself-website-builder.php">Website</a>
-                <ul class="submenu-parent" id="websitessubmenu" style="width: 1792px;">
+            <a href="/website-design/do-it-yourself-website-builder.php">Websites</a>
+                <ul class="submenu-parent" id="websitessubmenu" style="width: 2496px;">
                     <li>
                         <h3>Build your Website</h3>
                         <ul>
@@ -321,7 +299,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon websitebuilder-micon"></span>
                                 <div class="menu-content">
                                     <a href="/website-design/do-it-yourself-website-builder.php">Website Builder</a>
-                                    <p>Create your own website instantly, no coding/design skills required. Choose from over 100 themes or simply drag-and-drop to customize your design</p>
+                                    <!--<p>Create your own website instantly, no coding/design skills required. Choose from over 100 themes or simply drag-and-drop to customize your design</p>-->
                                 </div>
                             </li>
                         </ul>
@@ -335,29 +313,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon sitelock-micon"></span>
                                 <div class="menu-content">
                                     <a href="/sitelock.php">SiteLock Malware Detector</a>
-                                    <p>Over 5000 websites get attacked everday. Get SiteLock and secure your website from hackers, viruses and malware.</p>
+                                    <!--<p>Over 5000 websites get attacked everday. Get SiteLock and secure your website from hackers, viruses and malware.</p>-->
                                 </div>
                             </li>
-                           
+                            
                             
                             <li>
                                 <span class="menu-icon codeguard-micon"></span>
                                 <div class="menu-content">
                                     <a href="/codeguard.php">Codeguard Website Backup</a>
-                                    <p>Protect yourself from unexpected website crashes. Add CodeGuard and get automatic cloud backup for your website and database.</p>
+                                    <!--<p>Protect yourself from unexpected website crashes. Add CodeGuard and get automatic cloud backup for your website and database.</p>-->
                                 </div>
                             </li>
                             
-                        </ul>	
+                        </ul>   
                     </li>
                     
                 </ul>
             </li>
             
             
-    		<li class="levelone ">
+            <li class="levelone ">
             <a href="/web-hosting/index.php">Hosting</a>
-                <ul class="submenu-parent " id="hostingsubmenu" style="width: 3640px;">
+                <ul class="submenu-parent " id="hostingsubmenu" style="width: 4992px;">
                     
                     <li>
                         <h3>Shared Hosting</h3>
@@ -367,50 +345,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon linuxhosting-micon"></span>
                                 <div class="menu-content">
                                     <a href="/web-hosting/linux-php-hosting.php">Linux Shared Hosting</a>
-                                    <p>Perfect for smaller websites and blogs. Comes with cPanel, PHP, Apache and more</p>
+                                    <!--<p>Perfect for smaller websites and blogs. Comes with cPanel, PHP, Apache and more</p>-->
                                 </div>
                             </li>
                             
                             
                             <li>
-                            	<span class="menu-icon windowshosting-micon"></span>
+                                <span class="menu-icon windowshosting-micon"></span>
                                 <div class="menu-content">
                                     <a href="/web-hosting/windows-hosting.php">Windows Shared Hosting</a>
-                                    <p>Perfect for smaller websites, blogs, etc. Comes with Plesk, ASP, IIS and more</p>
+                                    <!--<p>Perfect for smaller websites, blogs, etc. Comes with Plesk, ASP, IIS and more</p>-->
                                 </div>
                             </li>
                             
-                        </ul>	
+                        </ul>   
                     </li>
                     
                     
-					<li>
-                    	<h3>Servers</h3>
+                    <li>
+                        <h3>Servers</h3>
                         <ul>
-                        	
+                            
                             <li>
-                            	<span class="menu-icon vps-micon"></span>
+                                <span class="menu-icon vps-micon"></span>
                                 <div class="menu-content">
                                     <a href="/vps-hosting.php">VPS</a>
-                                    <p>For larger websites and apps that require dedicated hardware, at a cheaper price</p>
+                                    <!--<p>For larger websites and apps that require dedicated hardware, at a cheaper price</p>-->
                                 </div>
                             </li>
                             
+
                             
+
                             
                             <li>
-                            	<span class="menu-icon dedicated-micon"></span>
+                                <span class="menu-icon dedicated-micon"></span>
                                 <div class="menu-content">
                                     <a href="/dedicated-servers.php">Dedicated Servers</a>
-                                    <p>Dedicated hardware and rock-solid performance; perfect for larger websites and apps</p>
+                                    <!--<p>Dedicated hardware and rock-solid performance; perfect for larger websites and apps</p>-->
                                 </div>
                             </li>
+                            
+
                             
                             
                              
                         </ul>
-                    </li>				
-					
+                    </li>               
+                    
                     
                     <li>
                         <h3>Reseller Hosting</h3>
@@ -420,31 +402,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon rhlinuxhosting-micon"></span>
                                 <div class="menu-content">
                                     <a href="/reseller-hosting.php">Linux Reseller Hosting</a>
-                                    <p>Start your hosting business today. Comes with free WHM, cPanel and WHMCS</p>
+                                    <!--<p>Start your hosting business today. Comes with free WHM, cPanel and WHMCS</p>-->
                                 </div>
                             </li>
                             
                             
                             <li>
-                            	<span class="menu-icon rhwindowshosting-micon"></span>
+                                <span class="menu-icon rhwindowshosting-micon"></span>
                                 <div class="menu-content">
                                     <a href="/windows-reseller-hosting.php">Windows Reseller Hosting</a>
-                                    <p>Start your hosting business today. Comes with free Plesk and WHMCS</p>
+                                    <!--<p>Start your hosting business today. Comes with free Plesk and WHMCS</p>-->
                                 </div>
                             </li>
                             
-                        </ul>	
+                        </ul>   
                     </li>
                     
                     
                     <li>
                         <h3>Tools</h3>
                         <ul>
+                            
                             <li>
                                 <span class="menu-icon codeguard-micon"></span>
                                 <div class="menu-content">
                                     <a href="/codeguard.php">Codeguard Website Backup</a>
-                                    <p>Your data is precious. Secure your website in just a few minutes</p>
+                                    <!--<p>Your data is precious. Secure your website in just a few minutes</p>-->
                                 </div>
                             </li>
                             
@@ -453,11 +436,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon sitelock-micon"></span>
                                 <div class="menu-content">
                                     <a href="/sitelock.php">SiteLock Malware Detector</a>
-                                    <p>Over 5000 websites get attacked everday. Get SiteLock and secure your website from hackers, viruses and malware.</p>
+                                    <!--<p>Over 5000 websites get attacked everday. Get SiteLock and secure your website from hackers, viruses and malware.</p>-->
                                 </div>
                             </li>
                             
-                        </ul>	
+                        </ul>   
                     </li>
                     
                 </ul>
@@ -466,7 +449,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
             <li class="levelone ">
             <a href="#">Email</a>
-				<ul class="submenu-parent" id="emailsubmenu">
+                <ul class="submenu-parent" id="emailsubmenu">
                     <li>
                         <ul>
                             
@@ -474,7 +457,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon business-micon"></span>
                                 <div class="menu-content">
                                     <a href="/business-email">Business Email</a>
-                                    <p>Simple and powerful webmail.</p>
+                                    <!--<p>Simple and powerful webmail.</p>-->
                                 </div>
                             </li>
                             
@@ -483,9 +466,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon enterprise-micon"></span>
                                 <div class="menu-content">
                                     <a href="/web-hosting/enterprise-email-hosting.php">Enterprise Email</a>
-                                    <p>Advanced and Corporate-class email.</p>
+                                    <!--<p>Advanced and Corporate-class email.</p>-->
                                 </div>
                             </li>
+                            
                             
                         </ul>
                     </li>
@@ -494,27 +478,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
             
             
-            <li class="levelone ">
+            <li class="last levelone ">
             <a href="/digital-certificate">Security</a>
-				<ul class="submenu-parent" id="securitysubmenu">
+                <ul class="submenu-parent" id="securitysubmenu">
                     <li>
                         <ul>
-                        	
+                            
                             <li>
                                 <span class="menu-icon ssl-micon"></span>
                                 <div class="menu-content">
                                     <a href="/digital-certificate">SSL Certificates</a>
-                                    <p>Powerful encryption for your data.</p>
+                                    <!--<p>Powerful encryption for your data.</p>-->
                                 </div>
                             </li>
                             
-                        	
+                            
                             
                             <li>
                                 <span class="menu-icon sitelock-micon"></span>
                                 <div class="menu-content">
                                     <a href="/sitelock.php">SiteLock</a>
-                                    <p>Over 5000 websites get attacked everday. Get SiteLock and secure your website from hackers, viruses and malware.</p>
+                                    <!--<p>Over 5000 websites get attacked everday. Get SiteLock and secure your website from hackers, viruses and malware.</p>-->
                                 </div>
                             </li>
                             
@@ -523,158 +507,149 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="menu-icon codeguard-micon"></span>
                                 <div class="menu-content">
                                     <a href="/codeguard.php">Codeguard Website Backup</a>
-                                    <p>Your data is precious. Secure your website in just a few minutes</p>
-									               </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>            
-            </li>
-									            								
-            <li class="last levelone ">
-            <a href="" style="
-    color: orange;
-">Promotions</a>
-				<ul class="submenu-parent" id="promosubmenu">
-                    <li>
-                        <ul>
-                        	<!--
-                            <li>
-							<img src='/getImage.php?src=myUploadedImages/promo.png' style="width: 120px;height: 70px;"></br>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src='/getImage.php?src=myUploadedImages/science.png' style="width: 16px;height: 16px;">
-                                    <a href="http://register.science">.Science<span class="mnew-tag">New</span></a>
-                                    <p>New gTLD @ only $0.49 - 'One of our primary gTLDs with over 300,000 registrations.'</p>
+                                    <!--<p>Your data is precious. Secure your website in just a few minutes</p>-->
                                 </div>
                             </li>
-                           
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src='/getImage.php?src=myUploadedImages/faviconpt.jpg' style="width: 16px;height: 16px;">
-                                    <a href="http://register.party">.Party<span class="mnew-tag">New</span></a>
-                                    <p>Get the .Party started with this unique and fun gTLD @ only $0.49</p>
-                                </div>
-                            </li>
-                           
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src='/getImage.php?src=myUploadedImages/favicon1.png' style="width: 16px;height: 16px;">
-                                    <a href="http://register.webcam">.Webcam<span class="mnew-tag">New</span></a>
-                                    <p>.Webcam has it's looks! Our new fast growing gTLD @ only $0.49</p>
-                                </div>
-                            </li>
-                            -->
-                            
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src="/getImage.php?src=myUploadedImages/faviconp.png" style="width: 16px;height: 16px;">
-                                    <a href="http://buy.pw">.PW<span class="mnew-tag">New</span></a>
-                                    <p>Be a 'Professional' and register .PW (Professional Web) @ only $0.30</p>
-                                </div>
-                            </li>
-							<!--
-							                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src='/getImage.php?src=myUploadedImages/cricketfav.jpg' style="width: 16px;height: 16px;">
-                                    <a href="http://register.cricket">.Cricket<span class="mnew-tag">New</span></a>
-                                    <p>For 1 month only register your .Cricket domain for only $0.75</p>
-                                </div>
-                            </li>
-							-->
-							                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src="/getImage.php?src=myUploadedImages/faviconx.png" style="width: 16px;height: 16px;">
-                                    <a href="http://buy.xyz">.XYZ<span class="mnew-tag">New</span></a>
-                                    <p>The biggest gTLD online! Over 1 million registrations. Buy now @ only $2.29</p>
-								</div>
-							</li>
-													    <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-								<img src="/getImage.php?src=myUploadedImages/faviconsd.png" style="width: 16px;height: 16px;">
-                                    <a href="http://superdeals.space">.Space<span class="mnew-tag">New</span></a>
-                                    <p>Get more .Space @ $0.99 only!</p>
-								</div>
-							</li>
                             
                         </ul>
                     </li>
                 </ul>                        
             </li>
-
-    	</ul>
-	</div>
+            
 
 
+            <!--<li class="last levelone ">
+            <a href="">Offers</a>
+                <ul class="submenu-parent" id="offermenu">
+                    <li>
+                        <ul>
 
-<div class="top-header">
+                            <li>
+                                
+                                <div class="menu-content">
+                                    <a href="/content.php?action=mypages&page=week45.html">Week 45<span class="mnew-tag">New</span></a>
+                                    
+                                </div>
+                            </li>
+
+                            <li>
+                                
+                                <div class="menu-content">
+                                    <a href="">Week 46</a>
+                                    
+                                </div>
+                            </li>
+
+                            <li>
+                                
+                                <div class="menu-content">
+                                    <a href="">Week 47</a>
+                                    
+                                </div>
+                            </li>
+
+                            <li>
+                                
+                                <div class="menu-content">
+                                    <a href="">Week 48</a>
+                                    
+                                </div>
+                            </li>
+
+                             <li>
+                                
+                                <div class="menu-content">
+                                    <a href="">Week 49</a>
+                                    
+                                </div>
+                            </li>
+
+
+                        </ul>
+                    </li>-->
+                </ul>                        
+            
 
         
-
-        <ul class="top-nav">
-            
-                    <li><a href="/login.php"><span class="ic-top-set ic-top-user"></span>Login / Register</a></li>
-                
-
-                
-
-                
-                    <form action="/content.php" method="post" name="currency_change_form" style="display: none;">
-                        <input type="hidden" name="action" value="change_display_currency">
-                        <input type="hidden" name="preferred_currency">
-                    </form>
-                    <li class="currency-opt"><span class="ic-top-set ic-cur-usd" id="selected_currency_flag"></span><span id="current_selected_currency"> USD</span><span class="ic-top-set ic-top-dd"></span>
-                        <ul class="user-dd" id="currency_change">
-                            
-                                <li data-currencykey="AUD" data-selectedcurrency=""><span class="ic-top-set ic-cur-aud"></span> AUD</li>
-                                <li data-currencykey="CAD" data-selectedcurrency=""><span class="ic-top-set ic-cur-cad"></span> CAD</li>
-                                <li data-currencykey="CNY" data-selectedcurrency=""><span class="ic-top-set ic-cur-cny"></span> CNY</li>
-                                <li data-currencykey="EUR" data-selectedcurrency=""><span class="ic-top-set ic-cur-eur"></span> EUR</li>
-                                <li data-currencykey="GBP" data-selectedcurrency=""><span class="ic-top-set ic-cur-gbp"></span> GBP</li>
-                                <li data-currencykey="INR" data-selectedcurrency=""><span class="ic-top-set ic-cur-inr"></span> INR</li>
-                                <li data-currencykey="RUB" data-selectedcurrency=""><span class="ic-top-set ic-cur-rub"></span> RUB</li>
-                                <li data-currencykey="TRY" data-selectedcurrency=""><span class="ic-top-set ic-cur-try"></span> TRY</li>
-                                
-                                    <li class="note-cur">Prices in the daily exchange rates and only for display purposes. Payment will be made USD</li>
-                        </ul>
-                    </li>
-                
-                <li class="shp-cart"><a href="/checkout.php"><span class="ic-top-set ic-shp-cart"></span><span class="shp-cart-no" id="dashboard-cartItemCount">0</span></a></li>
-
-</ul></div>
+    </div>
+    <span class="l-corner"></span>
+    <span class="r-corner"></span>  
 </div>
 
-</ul></div>
+<style style="text/css">
+.scroll-left {
+ height: 20px;  
+ overflow: hidden;
+ position: relative;
+ background-color:rgba(45, 50, 55, 0.6);
+ top:14px;
+ color:#FFF;
+ width:100%;
+}
+.scroll-left p {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);    
+ transform:translateX(100%);
+ /* Apply animation to this element */  
+ -moz-animation: scroll-left 50s linear infinite;
+ -webkit-animation: scroll-left 50s linear infinite;
+ animation: scroll-left 50s linear infinite;
+ top:-15px;
+ font-size:14px;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Browser bug fix */
+ -webkit-transform: translateX(100%); /* Browser bug fix */
+ transform: translateX(100%);       
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); /* Browser bug fix */
+ -webkit-transform: translateX(-100%); /* Browser bug fix */
+ transform: translateX(-100%); 
+ }
+}
+</style>
 
-<script>
+<div class="scroll-left">
+<p>CLAIM YOUR FREE .CLICK OR .LINK DOMAIN NAME WHEN PURCHASING ANY OTHER DOMAIN - SIMPLY CONTACT SUPPORT FOR MORE INFORMATION</p>
+</div>
+<script type="text/javascript">
+
 $(".navigation li").hover(
   function () {
-    $(this).addClass("nav-hover");	
+    $(this).addClass("nav-hover");  
   },
   function () {
     $(this).removeClass("nav-hover");
   }
 );
+
 </script>
-
-
-
-
-
 <!-- ### Template common/header/header.html ends here ### -->
 
-	</div>
-</div>
+            </div>
+        </div>
 
-<div id="page-container">
-	<div id="page-wrapper">
-		
+        <div id="page-container">
+            <div id="page-wrapper">
+                
 <!-- ### Template /support/privacy.html starts here ### -->
 <div class="row-indent row-white">
   <div class="ui-heading">Privacy</div>
@@ -685,7 +660,7 @@ $(".navigation li").hover(
       register with Company, during your usage of our products and services, when you 
       visit pages of our partners. We may combine information about you that we have 
       with information we obtain from other partners or other companies in order to 
-      provide you a better experience or to improve the quality of our services. When 
+      provide you a better experience or to improve the quality of our services.. When 
       you sign in to our services, you are not anonymous to us. We automatically 
       receive and record information from your computer and browser, including your IP 
       address, our cookie information, software and hardware attributes, the page you 
@@ -808,86 +783,130 @@ $(".navigation li").hover(
 
 <!-- ### Template /support/privacy.html ends here ### -->
 
-	</div>
-</div>
+            </div>
+        </div>
 
-<div id="page-footer">
-	<div id="footer-wrapper">
-		
+        <div id="page-footer-v1">
+            <div id="footer-wrapper">
+                
 <!-- ### Template common/footer/footer.html starts here ### -->
-<div class="footer-cols">
-	<div class="col one">
-    	<h4>Domains</h4>
-		<ul class="secondary-links">
-			<li><a href="/domain-registration/index.php">Register Domain Name</a></li>
-			<li><a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a></li>
-						<li><a href="/domain-registration/domain-whois-lookup.php">Whois Lookup</a></li>
-			<li><a href="/domain-registration/domain-name-suggestion-tool.php">Name Suggestion Tool</a></li>
-			<li><a href="/domain-registration/free-with-domain-registration.php">Free with Every Domain</a></li>
-			<li><a href="http://premium.alpnames.com" class="greytext">PREMIUM</a></li>
+<!--<div class="footer-cols">
+    <div class="col one">
+        <h4>Domains</h4>
+        <ul class="secondary-links">
+            <li><a href="/domain-registration/index.php">Register Domain Name</a></li>
+            <li><a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a></li>
+            <li><a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Register</a></li>
+            <li><a href="/index.php">Bulk Domain Transfer</a></li>
+            <li><a href="/domain-registration/domain-whois-lookup.php">Whois Lookup</a></li>
+            <li><a href="/domain-registration/domain-name-suggestion-tool.php">Name Suggestion Tool</a></li>
+            <li><a href="/domain-registration/free-with-domain-registration.php">Free with Every Domain</a></li>
+            <li><a href="/domain-registration/promos.php" class="greytext">View Promos</a></li>
         </ul>
-	</div>
+    </div>
     
-	<div class="col two">
-    	<h4>Hosting &amp; Products</h4>
-		<ul class="secondary-links">
+    <div class="col two">
+        <h4>Hosting & Products</h4>
+        <ul class="secondary-links">
             <li><a href="/web-hosting/linux-php-hosting.php">Linux Hosting</a></li>
             <li><a href="/web-hosting/windows-hosting.php">Windows Hosting</a></li>
             <li><a href="/reseller-hosting.php">Linux Reseller Hosting</a></li>
             <li><a href="/windows-reseller-hosting.php">Windows Reseller Hosting</a></li>
+            <li><a href="/vps-hosting.php">Virtual Private Servers</a></li>
+            <li><a href="/dedicated-servers.php">Dedicated Servers</a></li>
+            
             <li><a href="/website-design/do-it-yourself-website-builder.php">Website Builder</a></li>
-            <li><a href="/web-hosting/email-hosting.php">Business Email</a></li>
+            <li><a href="/business-email">Business Email</a></li>
             <li><a href="/web-hosting/enterprise-email-hosting.php">Enterprise Email</a></li>
             
+            <li><a href="/digital-certificate">SSL Certificates</a></li>
+            <li><a href="/sitelock.php">Sitelock</a></li>
+            <li><a href="/codeguard.php">Codeguard</a></li>
         </ul>
-	</div>
+    </div>
     
     
-	<div class="col three">
-    	<h4>Infrastructure</h4>
-		<ul class="secondary-links">
+    <div class="col three">
+        <h4>Infrastructure</h4>
+        <ul class="secondary-links">
             <li><a href="/web-hosting/datacenter-network.php">Datacenter Details</a></li>
             <li><a href="/web-hosting/hosting-security.php">Hosting Security</a></li>
             <li><a href="/web-hosting/server-monitoring.php">24 x 7 Servers Monitoring</a></li>
             <li><a href="/web-hosting/data-protection-recovery.php">Backup and Recovery</a></li>
        </ul>
-	</div>
-    
-	<div class="col four">
-    	<h4>Support</h4>
-		<ul class="secondary-links">
-			<li><a target="_blank" href="http://my.alpnames.com/kb">View Knowledge Base</a></li>
-			<li><a href="/support/contact-us.php">Contact Us</a></li>
-			<li><a href="/report-abuse.html">Report Abuse</a></li>
-      <li><img src="/getImage.php?src=myUploadedImages/tp_icann.png" alt="ICANN accredit" style="padding-top:30px; width: 90px; opacity:0.8;" ;="">
-	  </li>
-		</ul>
     </div>
-<div class="col misc">
-<img src="/getImage.php?src=myUploadedImages/payments.png" style="width: 130px;margin-top: 46px">
-</div>
-	<!-- <div class="col misc">
+    
+    <div class="col four">
+        <h4>Support</h4>
+        <ul class="secondary-links">
+            <li><a target="_blank" href="http://my.alpnames.com/kb">View Knowledge Base</a></li>
+            <li><a href="/support/contact-us.php">Contact Support</a></li>
+            <li><a href="/support/contact-us.php">Report Abuse</a></li>
+        </ul>
+    </div>
+    <div class="col misc">
         <h4>Resellers</h4>
         <ul class="secondary-links">
-			<li><a target="_blank" href="/reseller.php?action=partnersite">Join Reseller Program</a></li>
+            <li><a target="_blank" href="/reseller.php?action=partnersite">Join Reseller Program</a></li>
         </ul>
-    </div> -->
+    </div>
 
-</div>
+</div>-->
 
-<div style="text-align:center;">
-<a id="fineprint">Copyright © AlpNames Limited. All rights reserved</a><br>
-<a href="/support/privacy.php" target="_blank">Privacy Policy</a> | <a href="/support/legal.php" target="_blank">Legal Agreement</a> 
-</div>
+<p id="fineprint">Copyright © AlpNames Ltd. All rights reserved<br>
+<a href="/support/privacy.php" target="_blank">Privacy Policy</a> · <a href="/support/legal.php" target="_blank">Legal Agreement</a> · <a href="http://my.alpnames.com/kb" target="_blank">Knowledge Base</a> · <a href="/support/contact-us.php" target="_blank">Contact Us</a><br>
+ · <a href="http://www.alpnames.com/support/report-spam.php" target="_blank">Report Abuse</a></p>
+<img id="footer-image" src="/getImage.php?src=myUploadedImages/payments2.png">
+
 
 <script type="text/javascript" src="/ui/supersite/en/js/loading_animation.js"></script>
 <script type="text/javascript" src="/ui/supersite/en/js/footerScripts.js"></script>
+<script async="" type="text/javascript" src="/ui/supersite/en/js/ga_event_tracking.js"></script>
 <!-- ### Template common/footer/footer.html ends here ### -->
 
-	</div>
-</div>
+            </div>
+        </div>
+        <!-- Social Media Widget -->
+        <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WFR983"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFR983');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"8ce0a4af47","applicationID":"2831685","transactionName":"Y1RTMhNTC0dRBRFaWloeZBQIHRZBQBYKQUEaQVkW","queueTime":0,"applicationTime":178,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+fbq('init', '1661246647491991');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1661246647491991&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+        <div class="WidgetMain">
+            <div>
+                <a href="http://linkedin.com/company/alpnames-limited" target="_blank">
+                    <div class="LinkedIn"></div>
+                </a>
+                <a href="http://facebook.com/AlpNames" target="_blank"><div class="FaceBook"></div></a>
+                <a href="http://twitter.com/alpnames" target="_blank"><div class="Twitter"></div></a>
+                <a href="http://zcmym.com" target="_blank"><div class="zcmym"></div></a>
+                <a href="http://google.com/+AlpnamesLimited" target="_blank"><div class="Google"></div></a>
+                <div class="Followus">Follow Us</div>
+            </div>
+        </div>
+        <!--  End Social Media Widget -->
+    </div>
+<script src="https://livesupporti.com/Scripts/client.js?acc=0d497722-b238-495d-856d-84cbaf48ed75&amp;skin=Modern"></script>    
+
 
 <!-- ### Template root.html ends here ### -->
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
