@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rateyourmusic.com privacy policy that was archived on 2015-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151019200910id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rateyourmusic.com privacy policy that was archived on 2016-01-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160124175201id_/https%3A//rateyourmusic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="theme_"><head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,20 +21,428 @@
             font-size:0.9em !important;
             color:#999  !important;            
          }
-#wiki_content_text {
-padding-left: 2em !important;
-padding-right: 2em !important;
-padding-bottom: 25px !important;
-width:auto !important;
-box-sizing: content-box;
+         #wiki_content_text {
+         padding-left: 2em !important;
+         padding-right: 2em !important;
+         padding-bottom: 25px !important;
+         width:auto !important;
+         box-sizing: content-box;
+         }
+
+
+a.genre_vote_btn, a.descriptor_vote_btn {
+   display:inline-block;
+
+   color:#55c;
+   border: 1px #ddd solid;
+   background: #f4f4f4;
+
+   text-decoration:none;
+   border-radius:3px;
+   padding: 2px;
+   width: 80%;
+   max-width: 140px;
+   float: right;
+
+   opacity: 0;
+   transition: opacity 100ms;
 }
+tr.release_genres:hover a.genre_vote_btn, tr.film_genres:hover a.genre_vote_btn {
+   opacity: 1;
+   color:#55c;
+   border: 1px #ccc solid;
+   background: #eef;
+}
+
+tr.release_descriptors:hover a.descriptor_vote_btn, tr.film_descriptors:hover a.descriptor_vote_btn {
+   opacity: 1;
+   color:#55c;
+   border: 1px #ccc solid;
+   background: #eef;
+} 
+
+.release_pri_descriptors {
+   font-size:0.9em;
+   color:#666
+}
+   
+
+         .indiegogo_frame *, .indiegogo_subtle * {
+              -moz-box-sizing: border-box;
+              -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+         }
+         .indiegogo_frame {
+            width:100%;
+            background:#f8f8f8;
+            max-width:700px;  
+            font-size:1.3em;
+            position:relative;
+         }
+
+         .indiegogo_success_msg a {
+            text-decoration:none;
+            font-weight:bold;
+            color:#019B7A;
+         }
+
+         .indiegogo_success_msg.almost_completed b {
+            color:crimson;
+         }
+
+         .indiegogo_success_msg {
+                line-height: 1.3em;
+             padding-bottom: 0.5em;
+             font-size: 0.9em;
+             color: #666;
+             margin-left: 0.5em;
+         }
+
+         .indiegogo {
+            width:100%;
+
+            margin-bottom:0.5em;
+            color:#333;
+
+            background:transparent
+            border:1px solid #ddd;
+
+         }
+
+         .indiegogo a {
+            font-weight:bold;
+            text-decoration:none;
+         }
+
+         .indiegogo_message {
+            padding:0.7em;
+             padding-left: 1em;
+             padding-right: 1em;
+             font-size: 0.8em;
+             line-height: 1.5;
+             color:#777;
+         }
+
+         .progress_bar {
+            width:100%;
+            background:#f7f7f7;
+            font-size:0.8em;
+            padding:0.5em;
+            cursor:pointer;
+         }
+         a.twitter_link {
+            color:rgb(39, 174, 207);
+            text-decoration:none;
+            font-weight:bold;
+         }
+          .twitter_link i {
+            color:rgb(39, 174, 207);
+            text-shadow: 1px 1px #eee;   
+          }
+          .facebook_link i {
+            color:#3b5998;
+          }
+         a.facebook_link {
+            color:#3b5998;
+            font-weight:bold;
+            text-decoration:none;
+
+         }
+
+         .sonemic_logo {
+            height:4.2em;
+            width:13.6em;
+            background:url('https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/glitchwave-banner.png') center center no-repeat;
+            background-size:contain;
+            float:left;
+            cursor:pointer;
+         }
+
+         .progress_bar_bar {
+
+            margin-left:4em;
+            margin-right:2.9em;
+            height:2em;
+            min-width:8em;
+            background:#fff;
+            border-radius:0px;
+            border:1px solid #aaa;
+         }
+
+         .progress_bar_logo {
+            width:3.5em;
+            height:2em;
+            background:url('https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/ig2.png') center center no-repeat;
+            background-size:contain;
+            float:left;
+         }
+
+         .progress_bar_filled {
+            height:100%;
+            width:80%;
+            display:block;
+            float:left;
+            background:#eb1478;
+            border-top-left-radius:0px;
+            border-bottom-left-radius:0px;
+         }
+
+         .progress_bar_filled_2 {
+            height:100%;
+            width:22%
+            display:block;
+            float:left;
+            background:#B0EFE3;
+            border-top-left-radius:0px;
+            border-bottom-left-radius:0px;
+         }
+
+         .progress_bar_filled.goal_reached {
+            background:#019B7A;
+         }
+
+         .progress_bar_goal {
+            float:right;
+            margin-right:-1.5em;
+            display:inline;
+            color:#000;
+            margin-left:1em;
+            line-height: 1.7;
+            margin-left: 0.5em;
+            font-weight:bold;
+         }
+
+         @media only screen and (max-width:40em) {
+
+
+            .progress_bar_goal {
+               display:none;
+               margin-right:-3.5em;
+            }
+            .progress_bar_bar {
+               margin-right:3.6em;
+            }
+
+            .sonemic_logo {
+               height: 6.3em;
+               width: 100%;
+               background: url('https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/sonemic-banner2.png') center center no-repeat;
+               background-size: cover;
+               float: left;
+            }
+
+            .progress_bar_close {
+               font-size:1.2em;
+               cursor:pointer;
+                float: right;
+                color: #bbb;
+                padding: 0.3em;
+                position: absolute;
+                right: 0;
+            }
+
+            .indiegogo_message {
+                padding-left: 2em;
+                padding-right: 2em;
+                padding-top: 2em;
+                padding-bottom: 2em;
+                font-size: 0.7em;
+                height:auto;
+                display: inline-block;
+            }
+         }
+
+
+         .progress_bar_donate {
+            float:right;
+            cursor:pointer;
+         }
+
+         .progress_bar_close {
+            float:right;
+            color:#bbb;
+            padding:0.3em;
+         }
+
+         .progress_bar_close:hover {
+            color:#aaa;
+         }
+
+         .progress_bar_amount { 
+             float: right;
+             color: white;
+             margin-right:1em;
+             font-weight: bold;
+             line-height: 1.7;
+             margin-left: 0.5em;
+         }
+
+
+         .progress_bar_donate {
+            background:#eb1478;
+            font-weight:bold;
+            text-transform:uppercase;
+            padding:0.55em;
+            font-size:0.8em;
+            margin:0.4em;
+            padding-left:1em;
+            padding-right:1em;
+            color:#fff;
+         }
+
+         .progress_bar_donate:hover {
+            background:#fb2488;
+         }
+
+         .indiegogo_subtle {
+            font-size: 0.9em;
+            margin-top: 0.1em;
+            transition:all 0.2s ease-in-out;
+            cursor:pointer;
+            box-sizing: border-box;
+         }
+
+         .indiegogo_subtle .progress_bar {
+            opacity:0.8;
+         }
+
+         .indiegogo_subtle .progress_bar {
+            border:0;
+            background:transparent;
+         }
+
+         .indiegogo_subtle:hover .progress_bar {
+            opacity:1;
+         }
+
+         .indiegogo_subtle_bar {
+            margin-left:2%;
+            width:33em;
+            float:left;
+            box-sizing:border-box;
+            user-select:none;
+         }
+
+         .indiegogo_subtle_bar * {
+            user-select:none;
+            -webkit-user-select:none;
+         }
+
+         @media only screen and (max-width:40em) {
+            .indiegogo_subtle_bar {
+               margin-left:0;
+               padding-left:0.5em;
+               padding-right:0.5em;
+               width:100%;
+               float:left;
+            }  
+            .indiegogo_comment_frame {
+               margin-right:0.5em;
+            }
+         }
+
+
+         .indiegogo_comments {
+            opacity:0.8;
+            display: inline-block;
+             width: 2.2em;
+             height: 2.6em;
+             margin-top: 0.3em;
+             line-height: 2.2;
+             font-size: 0.8em;
+             background: url('https://8c30d0904e8b39d0d903-000092c797254b10c6f28a1f9486b488.ssl.cf1.rackcdn.com/comment_2.png');
+             background-size: contain;
+             text-align: center;
+             color: white;
+             font-weight: bold;
+             background-position: center center;
+             background-repeat: no-repeat;
+         }
+
+         .indiegogo_comments.read {
+            -webkit-filter: grayscale(100%);
+            -moz-filter: grayscale(100%);
+            filter: grayscale(100%);
+         }
+
+         .indiegogo_comments:hover {
+            opacity:1;
+         }
+
+         .indiegogo_comment_frame {
+            position:relative;
+            float:right;
+         }
+
+         .indiegogo_comments_detail {
+            display:none;
+            position:absolute;
+            top:2.2em;
+            right:0;
+            width:25em;
+            border:1px solid #ccc;
+            background:#f8f8f8;
+            z-index:100;
+            box-shadow:1px 1px 4px rgba(0,0,0,0.3);
+         }
+
+
+
+         .indiegogo_comments_update {
+            border-bottom:1px solid #ddd;
+            font-size:1.1em;
+         }
+         .indiegogo_comments_update:hover {
+            background:#fff;
+            cursor:pointer;
+         }
+
+         .indiegogo_comments_header {
+            line-height:2;
+            text-align:center;
+            font-weight:bold;
+            background:#f4f4f4;
+            border-bottom:1px solid #ddd;
+         }
+
+         .indiegogo_comments_update_title {
+            font-weight:bold;
+            color:#555;
+            font-size:0.9em;
+             padding: 0.6em;
+             padding-bottom: 0.2em;
+             padding-left: 0.7em;
+             padding-right: 1.2em;
+         }
+
+         .indiegogo_comments_update_summary p {
+            margin:0;
+            line-height:1.2;
+            font-size:0.9em;
+         }
+
+         .indiegogo_comments_update_summary {
+            padding:0.8em;
+            padding-top:0.2em;
+            padding-bottom:0.2em;
+            color:#777;
+         }
+
+         .indiegogo_comments_update_date {
+            line-height:2;
+            font-size:0.8em;
+            text-align:right;
+            padding-right:0.8em;
+         }
+
+      
 
       </style>
    
       <meta name="apple-mobile-web-app-capable" content="yes">   
   
    <meta name="description" content="Rate Your Music is an online community of people who love music.  Catalog, rate, tag, and review your music.  List and review the concerts you've attended, and track upcoming shows.   When you rate your music, the site's music/social recommender can recommend similar music and users with similar music taste. ">
-   <meta name="keywords" content="rate your music, rate music, rate albums, music catalog, music catalogue, social software, album reviews, music lists, community, music recommendations, concert listings, record labels, venues, shows"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/web_ads/advertisement.js"></script></head><body><div id="ad_1"></div>
+   <meta name="keywords" content="rate your music, rate music, rate albums, music catalog, music catalogue, social software, album reviews, music lists, community, music recommendations, concert listings, record labels, venues, shows"><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/web_ads/advertisement.js"></script></head><body><div id="ad_1"></div>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="/images/rym.min.4.js"></script>
 <script type="text/javascript">rym.session.init(0, '0', '');</script>
@@ -61,7 +469,6 @@ box-sizing: content-box;
                        addSize([0, 0], [300, 100]).build();
 
                var mappingRSMPU = googletag.sizeMapping().
-                       addSize([768, 90], [336, 280]).
                        addSize([0, 0], [300, 250]).build();
 
                <!-- TARGETING: This example shows targeting for an artistâs page. These will need to change for each page -->
@@ -110,7 +517,10 @@ box-sizing: content-box;
 
 		<li><a title="Message Boards and Member Directory" href="/community/">community</a></li>
 
-		<li><a href="/account/login">log in / sign up</a></li>		
+		<li><a href="/account/login">log in / sign up</a></li>          <li><a href="/subscribe/" title="Support Rate Your Music with your subscription">
+             <span class="hide-for-small">$</span>
+             <span class="show-for-small">subscribe to RYM</span>
+    </a></li>		
 	</ul>
 
 
@@ -291,17 +701,20 @@ box-sizing: content-box;
 </div>
 <div id="navbottom">
     <ul>
+      <li><a href="https://www.indiegogo.com/projects/sonemic-cinemos-glitchwave">Fundraising campaign</a></li>
       <li><a href="/listen/all">RYM Artists</a></li>
       <li><a href="/wiki/RYM:FAQ">FAQ</a></li>
       <li><a href="/tos">Terms of Service</a></li>
       <li><a href="/privacy">Privacy</a></li>
       <li><a href="/suggestions">Website Feedback</a></li>
       <li><a href="/help/">Help</a></li>
+      <li><a class="facebook_link" href="https://www.facebook.com/sonemic.network/"><i class="fa fa-facebook-square"></i> Like us</a></li>
+      <li><a class="twitter_link" href="https://twitter.com/sonemic"><i class="fa fa-twitter"></i> Follow us</a></li>
    </ul>
   
    <script> function areAdsBlocked() { return ($('#ad_1').length == 0) } 
    function politeAdRequest() {
-      var xx = '<div class=abpmessage>RYM relies on advertising income to support the site.  Please consider adding an exception to adblock for rateyourmusic.com, or <a href=/subscribe>subscribing</a> to help with bandwidth/server costs.</div>' 
+      var xx = '<div class=abpmessage>RYM relies on advertising income to support the site.  Please consider adding an exception to adblock for rateyourmusic.com, or <a href="https://www.indiegogo.com/projects/sonemic-cinemos-glitchwave">contributing</a> a small amount to our Indiegogo campaign.</div>' 
       $('#content').prepend(xx)
    }
 
@@ -310,12 +723,20 @@ box-sizing: content-box;
       <script>if(areAdsBlocked()) { politeAdRequest() }</script>
    
 
-<table><tbody><tr><td style="width:100%;text-align:center;"><address>© 2000 - 2015 Sonemic, Inc. &nbsp; &nbsp; &nbsp; </address></td></tr></tbody></table> 
+<table><tbody><tr><td style="width:100%;text-align:center;"><address>© 2000 - 2016 Sonemic, Inc. &nbsp; &nbsp; &nbsp; </address></td></tr></tbody></table> 
 
 </div>
 </div>		
 
-
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
  
  </body></html>
