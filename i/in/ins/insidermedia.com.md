@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034240id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124200014id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Insider Media Ltd
 
@@ -63,7 +63,7 @@ We are committed to ensuring that the Data is secure. In order to prevent unauth
 
 ### IP Addresses and Cookies
 
-We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and **does not identify any individual**.
 
 For the same reason our website and some of our third-party providers may obtain information about your general internet usage by using a cookie file. A cookie is a small file of letters and numbers that is stored by your browser on your computer’s hard drive allowing websites to recognise one user from another. Cookies can be deleted from your hard drive if you want to. Most web browsers automatically accept cookies but your web browser can be altered so as to prevent acceptance.
 
@@ -90,7 +90,7 @@ Our third-party suppliers that use cookies are as follows:
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website. Please note that our advertisers may also use cookies, over which we have no control. Our Website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our Website. They are a technique to compile aggregated statistics about our Website’s usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
+You may refuse to accept cookies by activating the setting on your browser ([Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-11), [Safari](https://support.apple.com/kb/ph19214?locale=en_US)) which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website. Please note that our advertisers may also use cookies, over which we have no control. Our Website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our Website. They are a technique to compile aggregated statistics about our Website’s usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
 
 ### Links to other websites
 
