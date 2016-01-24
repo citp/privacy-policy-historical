@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re-markable.net privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821104523id_/http%3A//re-markable.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re-markable.net privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124151023id_/http%3A//re-markable.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Re-Markable
 
