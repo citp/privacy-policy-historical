@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesrow.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209083454id_/http%3A//gamesrow.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesrow.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125135622id_/http%3A//www.gamesrow.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Games - Games Download - Gamesrow.com!
 
