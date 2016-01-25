@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zemana.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915064457id_/https%3A//zemana.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemana.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125085924id_/https%3A//zemana.com/Privacy) for the most accurate reproduction.*
 
 # Zemana AntiLogger - The #1 Privacy Protection Software
 
