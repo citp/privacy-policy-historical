@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdevresources.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225054850id_/http%3A//superdevresources.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdevresources.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125035550id_/http%3A//superdevresources.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Dev Resources
 
@@ -10,7 +10,7 @@ If you have any concerns about our privacy policy, please feel free to [contact 
 
 We may publish updates to our policy from time to time in which case we will be updating this page along with the date from which the policy is effective from.
 
-This policy is effective from _19 th Feb, 2014._
+This policy is effective from  _19 th Feb, 2014._
 
 **Analytics and Log files**
 
@@ -24,7 +24,8 @@ We use cookies and web storage to store information about visitors preferences, 
 
 Google, as a third party vendor, uses cookies to serve ads to users on superdevresources.com based on their visit to superdevresources.com and other sites on the Internet. You may opt out of these cookies by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on superdevresources.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -34,4 +35,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **RSS & Email delivery powered by Google**
 
-RSS feed and email subscription provided by superdevresources.com is powered by Google’s feedburner. You should also read Google’s feedburner privacy policy at the following URL - <http://feedburner.google.com/fb/a/privacy>
+RSS feed and email subscription provided by superdevresources.com is powered by Google’s feedburner. You should also read Google’s feedburner privacy policy at the following URL – <http://feedburner.google.com/fb/a/privacy>
