@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradecam.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021219id_/http%3A//gradecam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradecam.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125030727id_/https%3A//gradecam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GradeCam
 
