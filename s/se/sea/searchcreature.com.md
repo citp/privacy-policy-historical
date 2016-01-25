@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the searchcreature.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923160645id_/http%3A//www.searchcreature.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcreature.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125231149id_/http%3A//www.searchcreature.com/privacy.php) for the most accurate reproduction.*
 
 # Pay Per Click Search Engine
 
-|  | 
+ 
+
+ [](http://kantor74.elsi1983.hop.clickbank.net/)
+
+[ ](http://kantor74.bttb1.hop.clickbank.net/)
+
+|   | 
 
 **  
-SearchCreature.com Privacy Policy**
+SearchCreature.com Privacy Policy **
 
    At SearchCreature.com, our mission is to meet the expectancies of our advertisers as well as the users of our search tools and other resources. In an effort to achieve our goal, we would like to clearly define our position with regard to the Internet, our Web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at [SearchCreature.com](http://www.searchcreature.com/).
 
@@ -16,5 +22,14 @@ SearchCreature.com Privacy Policy**
 Contacting Us:  
 If you have any questions about our site, this privacy policy, or our general procedures, please [email us](mailto:office@SearchCreature.com).
 
-|  |   
----|---|---|---|---
+ 
+
+  | **   ADD YOUR WEBSITE** |  **  POPULAR SEARCHES** |   
+---|---|---  
+[ ](http://www.searchcreature.com/addurl.php) |  |  |  |  | 
+
+SubscribeUnsubscribe  
+   
+  
+---  
+  Enter Your Email Address:
