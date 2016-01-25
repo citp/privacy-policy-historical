@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howshealth.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020103338id_/http%3A//howshealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howshealth.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125124208id_/http%3A//howshealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Current Health Articles and Tips
+# Privacy Policy | Current Health Advice, Articles and Tips
 
 **Privacy Policy for www.howshealth.com**
 
@@ -19,7 +19,7 @@ www.howshealth.com does use cookies to store information about visitors preferen
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.howshealth.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.howshealth.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/policies/privacy/ads
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
