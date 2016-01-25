@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homerunmonkey.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094433id_/http%3A//www.homerunmonkey.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homerunmonkey.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125095334id_/http%3A//www.homerunmonkey.com/privacypolicy) for the most accurate reproduction.*
 
 # Homerun Monkey.com - #1 Online Hockey Goalie Equipment Store Privacy Policy
 
