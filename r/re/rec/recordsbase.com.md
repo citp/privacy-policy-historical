@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordsbase.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219180913id_/http%3A//www.recordsbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordsbase.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125142050id_/http%3A//www.recordsbase.com/privacy) for the most accurate reproduction.*
 
 # Free Online Public Records Searches Fast, Easy and Private
 
