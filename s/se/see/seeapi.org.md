@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeapi.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611095245id_/http%3A//seeapi.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeapi.org privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125053006id_/http%3A//www.seeapi.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - See API
 
