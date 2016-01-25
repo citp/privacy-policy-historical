@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestsavingsdaily.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223012427id_/http%3A//www.bestsavingsdaily.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsavingsdaily.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125213105id_/http%3A//bestsavingsdaily.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BestSavingsDaily.com | Best Savings In Life.
 
