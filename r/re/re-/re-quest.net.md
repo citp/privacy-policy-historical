@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re-quest.net privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218225210id_/http%3A//www.re-quest.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re-quest.net privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126001912id_/http%3A//re-quest.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ Re-QUEST dot Net (tm)
 
@@ -108,7 +108,7 @@ This Privacy Policy covers, the following:
 
      The safety of children surfing the Internet is of great importantance to us at **Re-QUEST dot Net** ™. As such, **Re-QUEST dot Net** ™ does not knowingly collect personally identifiable information from children of any age. Notwithstanding this, children should always ask a parent for permission before sending any personal information to **Re-QUEST dot Net** ™, or to anyone else in cyberspace for that matter. **Re-QUEST dot Net** ™ does not share personal information about its visitors with third parties regardless of their age, except as outlined in herein, and in those instances only in the aggregate. 
 
-     Furthermore, while our web site was designed to be user friendly to both students and professionals, we are aware of our attractiveness to children, especially those doing homework assignments. We have, therefore, not provided any links to web sites which we believe may contain content not suitable or appropriate for children of any age. In addition, our [Search Engine](https://web.archive.org/web/20150218225210id_/http%3A//www.re-quest.net/search/index.htm) has been specifically designed to weed out inappropriate, lewd and sexual content. **Re-QUEST dot Net** ™ will always strive to protect children from the black holes of cyberspace and we challenge other web sites to join us in this endeavor. 
+     Furthermore, while our web site was designed to be user friendly to both students and professionals, we are aware of our attractiveness to children, especially those doing homework assignments. We have, therefore, not provided any links to web sites which we believe may contain content not suitable or appropriate for children of any age. In addition, our [Search Engine](https://web.archive.org/web/20160126001912id_/http%3A//re-quest.net/search/index.htm) has been specifically designed to weed out inappropriate, lewd and sexual content. **Re-QUEST dot Net** ™ will always strive to protect children from the black holes of cyberspace and we challenge other web sites to join us in this endeavor. 
 
      **Re-QUEST dot Net** ™ has fully complied with the requirements of the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm) as well as the recommendations regarding the same as published by the [Federal Trade Commission](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm). In our attempt to better serve our younger audience, our actions not to seek out personally identifiable information from persons under the age of 13 without prior written permission from their parents or guardians pre-dates the concerns of Congress and the aforementioned legislative Act. Rest assured, while visiting **Re-QUEST dot Net** ™, your children will be treated as if they were our own. **Re-QUEST dot Net** ™ takes every precaution to keep our content and your children's privacy our top concern. 
 
@@ -163,7 +163,7 @@ USA
 
 **E-Mail :**
 
-[E-Mail Us](https://web.archive.org/web/20150218225210id_/http%3A//www.re-quest.net/comments.htm#contact)    
+[E-Mail Us](https://web.archive.org/web/20160126001912id_/http%3A//re-quest.net/comments.htm#contact)    
 
 
 
