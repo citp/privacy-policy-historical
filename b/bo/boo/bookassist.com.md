@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookassist.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810163528id_/http%3A//www.bookassist.com/global/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookassist.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126052756id_/http%3A//www.bookassist.com/global/security.jsp) for the most accurate reproduction.*
 
 # Bookassist_Security_Privacy
 
