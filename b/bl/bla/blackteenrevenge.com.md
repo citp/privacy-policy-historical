@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028143317id_/http%3A//blackteenierevenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126203923id_/http%3A//blackteenierevenge.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
