@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgame.us privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206042059id_/http%3A//www.sfgame.us/legal/index.php%3Ftype%3Dprivacy%26mode%3D1%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgame.us privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126055359id_/http%3A//www.sfgame.us/legal/index.php%3Ftype%3Dprivacy%26mode%3D1%26lang%3Den) for the most accurate reproduction.*
 
 # 
 
