@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070507id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126162153id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
-_Last Revised May 1, 2015_
+_Last Revised November 23, 2015_
 
 ### Read our Full Privacy Policy Here
 
@@ -18,8 +18,10 @@ _Last Revised May 1, 2015_
 
   * Fulfill your order and provide customer service
   * Send you promotions and offers
-  * Improve and personalize your shopping experience
-  * Protect the security of our website, apps and business
+  * Improve your shopping experience
+  * Provide in-store wireless local area network (“Wi-Fi”) services
+  * Ensure you have a personalized and consistent experience in all of our services and brands
+  * Protect the security of our websites, apps and business
 
   
 
@@ -53,8 +55,10 @@ If you have any questions about our privacy policy, please contact us as describ
   * How do I make choices about receiving promotional communications?
   * How do I stop receiving Athleta catalogs?
   * How does Gap Inc. protect kids' privacy?
-  * How does Gap Inc. use cookies and other tracking technologies?
+  * How does Gap Inc. use browser and mobile-based cookies and other tracking technologies?
   * How is my information used for behavioral or targeted advertising and what choices do I have?
+  * Do you combine information about me from multiple sources?
+  * What if I connect to your in-store Wi-Fi service?
   * How do I know my personal information is secure?
   * What is "phishing"?
   * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
@@ -65,7 +69,7 @@ If you have any questions about our privacy policy, please contact us as describ
 
 
 
-We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, install or use our mobile apps, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online, through a mobile app, or by phone and in our stores. We also collect information about the device you use to access our websites or mobile apps such as your computer's IP address, your browser type, your operating system, and other technical information. Our mobile apps may also collect information about your location if you have allowed this. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, install or use our mobile apps, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make in our stores, online, through our mobile app, or by phone and catalog. We may also collect your image via Closed Circuit Television in our stores. We also collect information about the device you use to access our websites, or mobile apps or when you connect to our in-store Wi-Fi services, such as your computer's Internet Protocol (“IP address”), your browser type, your operating system, media access control (“MAC address”), received signal strength indicator (“RSSI”) and other technical information. Our mobile apps may also collect information about your location if you have allowed this. We may combine all of this information with information about you that we acquire from your activities in our stores, on our site, through our mobile app and/or information we receive from our joint marketing partners, unrelated third parties, and from our other brands.
 
 back to top
 
@@ -74,8 +78,9 @@ We may use your personal information in the following ways:
   * To process and fulfill your order, including to send you emails to confirm your order status and shipment
   * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
   * To administer and fulfill our contests and other promotions
-  * To help us learn more about your shopping preferences
-  * To help us address problems with and improve our site and mobile app design, products and services
+  * To help us better understand your shopping needs and preferences and provide consistent, personalized services and experiences across our brands.
+  * To help us address problems with and improve our site and mobile app design, products and services 
+  * To allow you to connect to our in-store Wi-Fi service
   * To enhance your shopping experience
   * To analyze trends and statistics
   * To protect the security or integrity of our websites, mobile apps, and our business
@@ -133,7 +138,9 @@ Our websites use "cookies," and pixel tags and other tracking technologies, to h
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-These technologies may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites and our online ads.
+Cookies, pixel tags and other tracking technologies help us better understand your shopping needs and preferences tell us which parts of our website you have visited and facilitate and measure the effectiveness of our advertisements, and provide consistent and personalized services and experiences.
+
+These technologies may be used to collect “click-stream data”, which includes information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites and our online ads.
 
 Pixel tags in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
@@ -146,6 +153,18 @@ We use our own cookies to help determine which of our ads are shown to you on ot
 We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options including how to opt out of receiving these tailored advertisements, please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
 Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.
+
+back to top
+
+If you choose to connect to our in-store Wi-Fi services, Gap Inc. will receive information about you and your device, including personal information (such as your MAC address, email address and IP address) in accordance with our [Wi-Fi Terms of Use](http://www.gap.com/Asset_Archive/GPWeb/content/0008/000/Dynamic/US/en_US/gapsplash.html) (“Terms”) which may change at any time without prior notice. As such, we encourage you to review the Terms whenever you connect to the service. We may receive information about your activity on our network, including what domains or applications you visit or use while connected to the Wi-Fi service. We may also use signal strength data to determine to which store infrastructure you have connected. If you do not wish us to receive this information, you should not connect to our Wi-Fi service. Information received from you through the Wi-Fi service may be combined with additional information, including personal information we collect about you when you choose to connect to our Wi-Fi service will be used to monitor and protect the security of our network, to enforce the Terms or as otherwise described in this policy, including to assist in our efforts to understand your shopping needs and preferences and provide you with consistent and personalized experiences in all of our brands.
+
+back to top
+
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
+
+When you enter your personal information on our websites, we use encryption technology to protect your information as it is transmitted to us. 
+
+If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands are available 24 hours a day, seven days a week, and will be happy to assist you.
 
 back to top
 
@@ -176,8 +195,8 @@ back to top
 For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail:
 
   
-5930 Gap Online Drive  
-Groveport, OH 43195-0002  
+100 Gap Online Drive  
+Grove City, OH 43123  
 1-800-GAPSTYLE (1-800-427-7895)  
 1-888-906-1104 (TDD hearing impaired)  
 [custserv@gap.com](mailto:custserv@gap.com)
@@ -211,5 +230,7 @@ Gap Inc. - California Privacy Rights
 Legal Department  
 2 Folsom Street  
 San Francisco, CA 94105
+
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not respond to Do Not Track browser settings or signals. For information about Do Not Track, please visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/). As described above, we deploy cookies, tracking pixels, web beacons and other technologies on our websites and mobile applications. We may also collect information through our in-store technologies, such as our in-store Wi-Fi service. Those tools may be used by us to collect information about you and your internet activity, even if you have turned on the Do Not Track signal.
 
 back to top
