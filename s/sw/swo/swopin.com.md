@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swopin.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210092907id_/http%3A//swopin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swopin.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126210903id_/http%3A//swopin.com/privacy.php) for the most accurate reproduction.*
 
 # :: Pacific West Corporation CORPORATION ::
 
