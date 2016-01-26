@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hilariousfunnypictures.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203052233id_/http%3A//hilariousfunnypictures.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilariousfunnypictures.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126163432id_/http%3A//hilariousfunnypictures.com/privacy.php) for the most accurate reproduction.*
 
 # DNE
 
