@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609101439id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126050923id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.*
 
-# Groove3.com - Tutorial Videos for Producers, Engineers and Musicians
+# Groove3.com - Privacy Statement
 
 ##  About Us
 
-This is a privacy policy for Groove 3 Inc. Our homepage on the Web is located at [http://www.groove3.com](http://www.groove3.com/). The full text of our privacy policy is available on the Web at <http://www.groove3.com/w3c/policy.html> Users may go to for information on how to opt-in or opt-out of use of their information.
+This is a privacy policy for Groove 3 Inc. Our homepage on the Web is located at [http://www.groove3.com](http://www.groove3.com/).
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
     
@@ -13,7 +13,7 @@ We invite you to contact us if you have questions about this policy. You may con
     4412 Spicewood Springs, #104
     Austin, TX  78759
     USA
-    
+              
 
 You may contact us by e-mail at [support@groove3.com](mailto:support@groove3.com). You may call us at 800-460-7509. 
 
@@ -119,11 +119,11 @@ The compact policy which corresponds to this policy is:
     
     
         CP="NOI DSP COR CURa ADMa DEVa PSAa PSDa OUR IND UNI COM NAV INT"
-    
+              
 
 The following table explains the meaning of each field in the compact policy.
 
-**Field** |  **Meaning**  
+**Field** | **Meaning**  
 ---|---  
 `CP=` |  This is the compact policy header; it indicates that what follows is a P3P compact policy.  
 `NOI` |  No identifiable information is collected, so no access is possible.  
