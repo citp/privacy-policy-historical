@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamovideo.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201200221id_/http%3A//gamovideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamovideo.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126093726id_/http%3A//gamovideo.com/privacy.html) for the most accurate reproduction.*
 
 # GamoVideo
 
