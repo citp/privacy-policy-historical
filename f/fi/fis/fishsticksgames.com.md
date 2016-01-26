@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishsticksgames.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209015734id_/http%3A//murka.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishsticksgames.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126021752id_/http%3A//murka.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Murka
 
@@ -132,4 +132,4 @@ For Fishsticks' policy regarding the purchase of “coins” or other virtual cu
 
 ###  Contacting Us
 
-For any questions about its Privacy Policy or any other issue please contact Fishsticks at: [in@murka.com](mailto:in@murka.com)
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@murka.com](mailto:privacy@murka.com)
