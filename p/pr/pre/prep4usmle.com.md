@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prep4usmle.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127141847id_/http%3A//www.prep4usmle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prep4usmle.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126165418id_/http%3A//www.prep4usmle.com/privacy) for the most accurate reproduction.*
 
 # Prep4USMLE.com: Privacy Policy
 
