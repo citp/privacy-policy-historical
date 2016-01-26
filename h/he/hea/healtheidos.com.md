@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healtheidos.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225211400id_/http%3A//healtheidos.com/%3Fpage_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healtheidos.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126025610id_/http%3A//healtheidos.com/%3Fpage_id%3D30) for the most accurate reproduction.*
 
 # Privacy Policy | Health Eidos
 
