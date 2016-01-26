@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentsmafias.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233259id_/http%3A//www.torrentsmafias.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentsmafias.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126051448id_/http%3A//torrentsmafi.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Download in TorrentsMafia
 
