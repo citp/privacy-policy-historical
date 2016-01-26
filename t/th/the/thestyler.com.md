@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestyler.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224161822id_/http%3A//www.thestyler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestyler.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126220642id_/http%3A//www.thestyler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Styler - Your Guide to a Fashion Life
 
