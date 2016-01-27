@@ -1,9 +1,26 @@
-> *The following text is extracted and transformed from the ideainfosolutions.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924112533id_/http%3A//www.ideainfosolutions.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideainfosolutions.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127071234id_/http%3A//ideainfosolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Ideainfosolutions.com | Privacy Policy
+# Enterprise mobility and SAP consultancy
 
-To protect our customers and visitors we operate a privacy policy. The information that is transmitted when placing an order is used for billing and administrative purposes only. All information will be kept confidential and will not be passed onto any third parties. All personal information transmitted through the site is the customer's responsibility. Security measures have been implemented to ensure customer's details remain protected against misuse, alterations and loss.
+### Privacy Policy
 
-Cookies can be stored on your own PC in order to remember your details when accessing the website. We do not store any form of credit card / debit card information. 
+At Linchpin Technologiess Pvt Ltd, we understands the importance of your privacy. We are detailing the use of any personal information that you provide at our site.
 
-We take our customers security very seriously and will answer any questions or concerns you may have.
+In general, you would be considered safe anonymous for using our website. We don’t track any personal information or the individual use of our website.
+
+Your IP address and domain name are used to identify any problems with our website. We do use your IP address to gather approximate demographic statistics for our own use.
+
+We don’t require any registration as such to use our website. You might need to give your email address and other information for getting quote or any information. The information provided anywhere on our website is secure and solely used by us. We do not engage in sharing this information with anyone.
+
+Cookies  
+A cookie is a small piece of code that a website may send to your local computer to facilitate page loading, and may be stored on your system. We are not using any cookies at this time. However, we reserve the right to use ‘cookies’ on our site to better assist you in the future. We advise you to set your browser to protect your system against unwarranted cookies.
+
+We might use data collected through cookies to provide better customer service at a later date.
+
+#### Links
+
+We have links to other websites on our website. We do not take any responsibility of the privacy practices at those sites. It is our policy to provide the best content on our site; however, we don’t take any ownership of the content or the quality of the content or the opinions expressed at these links.
+
+For any further information about our Privacy Policy, or your dealings with our website, please contact info@lptpl.com.
+
+Copyright © 20015. Linchpin Technologies Pvt. Ltd. All Rights Reserved.
