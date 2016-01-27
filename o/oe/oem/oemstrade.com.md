@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210193218id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127224638id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,7 @@ These cookies collect information to deliver you more relevant advertising. They
 
 
 
-While you will still be able to use the Supply Frame Offerings if you disable Cookies in your browser, certain parts of the Supply Frame Offerings may not function as effectively. You can find more information on Cookies and how they may affect you by visiting: [www.youronlinechoices.org](https://web.archive.org/web/20151210193218id_/http://www.supplyframe.com/company/privacy/www.youronlinechoices.org)
+While you will still be able to use the Supply Frame Offerings if you disable Cookies in your browser, certain parts of the Supply Frame Offerings may not function as effectively. You can find more information on Cookies and how they may affect you by visiting: [www.youronlinechoices.org](https://web.archive.org/web/20160127224638id_/http://www.supplyframe.com/company/privacy/www.youronlinechoices.org)
 
 ### Personal Information From Other Sources
 
