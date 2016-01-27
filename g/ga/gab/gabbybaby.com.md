@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabbybaby.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128055913id_/http%3A//www.gabbybaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabbybaby.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127231122id_/http%3A//www.gabbybaby.com/privacy-policy) for the most accurate reproduction.*
 
 # GabbyBaby | Privacy Policy
 
