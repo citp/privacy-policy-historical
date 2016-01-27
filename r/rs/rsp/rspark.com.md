@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rspark.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108095435id_/http%3A//rspark.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspark.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127104849id_/http%3A//rspark.com/privacy.php) for the most accurate reproduction.*
 
 # welcome to rSpark : Electrify Your Revenue
 
