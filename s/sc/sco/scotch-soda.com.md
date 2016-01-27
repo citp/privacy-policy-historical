@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotch-soda.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023035511id_/http%3A//www.scotch-soda.com/us/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotch-soda.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127073256id_/http%3A//www.scotch-soda.com/us/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -53,23 +53,6 @@ We may use ‘cookies’ on our website that act as an identification card for y
 
 You have a choice to accept or reject cookies by modifying your browser preferences. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. Please note that if you choose to reject all cookies, certain parts of this site may not be available to you or may not function properly.
 
-Cookie | First / third party | Session / persistent | Expiry when persistent | Usage for  
----|---|---|---|---  
-Sagent | 3rd | Persistent | 30 days | Functionality  
-Dynamic Google Remarketing | 3rd | Persistent | 7 days | Marketing  
-IGoDigital | 3rd | Persistent | 60 days | Personalization  
-Google Analytics | 3rd | Persistent | 24 months | Analytics  
-DoubleClick | 3rd | Persistent | 7 days | Remarketing  
-Lucky Orange | 3rd | Persistent | 12 months | Analytics  
-Google AdWords Conversion | 3rd | Persistent | 12 months | Advertising  
-Google Analytics | 3rd | Persistent | 24 months | Analytics  
-Demandware | 1st | Persistent | 24 months | Functionality  
-Pinterest | 3rd | Persistent | 12 months | Functionality  
-Instagram | 3rd | Persistent | 12 months | Functionality  
-Vimeo | 3rd | Persistent | 12 months | Functionality  
-Youtube | 3rd | Persistent | 12 months | Functionality  
-Facebook | 3rd | Persistent | 12 months | Functionality  
-  
 **5\. Controlling your information with us**
 
 By submitting your personal information, you give your consent to the use of said information as set out in this privacy policy. You have the following rights to change your information: a right to see the information we hold on you, a right to have any wrong or incomplete information corrected , or (in certain circumstances) to have your personal information deleted, a right to ask us to stop providing you information on our services.
