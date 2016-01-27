@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheanimale.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223174339id_/http%3A//www.sheanimale.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheanimale.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127213940id_/http%3A//sheanimale.com/privacy.php) for the most accurate reproduction.*
 
 # SheAniMale.com - Privacy
 
