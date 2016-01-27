@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syndicatekahuna.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516012717id_/http%3A//www.syndicatekahuna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndicatekahuna.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127222637id_/http%3A//syndicatekahuna.com/privacy) for the most accurate reproduction.*
 
 # Syndicate Kahuna - Privacy Policy
 
