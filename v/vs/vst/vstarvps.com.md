@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vstarvps.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001946id_/https%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vstarvps.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127194615id_/https%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
 
 # Estro Web Services Private Limited - Portal Home
 
