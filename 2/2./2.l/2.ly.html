@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 2.ly privacy policy that was archived on 2015-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150810211451id_/http%3A//2.ly/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2.ly privacy policy that was archived on 2016-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160127233607id_/http%3A//2.ly/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de"><head>
 <!-- Metaangaben -->
@@ -16,42 +16,19 @@
 -->
 </script>
 
-<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="/static/js/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="/static/js/bootstrap.min.js"></script> 
-<script type="text/javascript" src="/static/js/waypoints.min.js"></script>
-<script type="text/javascript" src="/static/js/jquery.counterup.min.js"></script>        
-<script type="text/javascript" src="/static/scripte/markerclusterer.orig.js"></script>     
-<script>
-	jQuery(document).ready(function() {
+<!-- jquery -->
 
-		$('#url-option-collapse').on('hide.bs.collapse', function () {
-			$('#lightbulb').addClass('active');
+<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.core.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.dialog.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.draggable.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.resizable.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.tabs.js"></script>
+<script type="application/javascript" src="/static/scripte/jquery.tablesorter.js"></script>
+<script type="application/javascript" src="/static/scripte/jquery.tablesorter.pager.js"></script> 
+<script type="application/javascript" src="/static/scripte/jquery.metadata.js"></script>
+<script type="application/javascript" src="/static/scripte/jquery.ahover.js"></script>
 
-		});
-		$('#url-option-collapse').on('show.bs.collapse', function () {
-			$('#lightbulb').removeClass('active');
-		});
-		
-        jQuery('.counter').counterUp({
-            delay: 10,
-            time: 1000
-        });
-
-	});
-	function writeEmail(user, host, tld, write) {
-    var elem = document.getElementById('email');
-
-    if(elem) {
-        elem.innerHTML = user + '@' + host + '.' + tld;
-    }
-    else {
-        if(write) {
-            document.write(user + '@' + host + '.' + tld);
-        }
-    }
-} 
-</script>
 
 <script type="application/javascript">
 <!-- <![CDATA[
@@ -91,7 +68,7 @@
 		if($("#custom_shorturl_input").val() != "") {
 			shorturloptions();
 		}
-        
+
 		$("#urlgroup_create_input").ready(function(){
 			$("#count_urls").text("0/100 addresses found");
 		})
@@ -164,6 +141,17 @@
 		//$('#custom_shorturl_button').remove();
 	};
 	
+    var addthis_config = {
+        ui_language: 'en',
+        ui_click: true,
+        data_track_linkbacks: true,
+        services_compact: 'favorites,twitter,facebook,email,wordpress,more',
+    }
+    
+    var addthis_share = {
+        templates: {
+               twitter: '',
+           }
     }
     function show(toShow){
         $('#' + toShow).toggle();
@@ -180,10 +168,14 @@
     });
 // ]]> -->
 </script>
+<script type="application/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=shorturl"></script>
+
+
+
+<script type="application/javascript" src="/static/scripte/swfobjects.js"></script>
+<script type="application/javascript" src="/static/scripte/markerclusterer.js"></script>
+
         <link rel="icon" href="/static/image/favicon.ico" type="image/ico">
-        
-            <link rel="Stylesheet" type="text/css" href="/static/css/font-awesome.css">
-        
         <link rel="Stylesheet" type="text/css" href="/static/shorturl.css">
         <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAS-t_h1YvqjppPaFlblSXnBTyFxF1vgqCE7Ig-gu1AFM8eS5BIRQ16NSg6OAH4ShcY0dLM7HL_BkL4Q"></script>
         
@@ -357,7 +349,7 @@ We are constantly striving to develop our website and use new technologies. Ther
 
 <!-- footer -->
 <div class="copyright">
-	<a href="http://2.ly/imprint">Imprint</a> | <a href="http://2.ly/privacy">Privacy Terms</a> | ©2009-2015 2.ly 
+	<a href="http://2.ly/imprint">Imprint</a> | <a href="http://2.ly/privacy">Privacy Terms</a> | <a href="http://2.ly/contact">Contact</a> | ©2009-2016 2.ly 
 </div>	
 
 </div>
@@ -370,42 +362,19 @@ We are constantly striving to develop our website and use new technologies. Ther
 -->
 </script>
 
-<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="/static/js/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="/static/js/bootstrap.min.js"></script> 
-<script type="text/javascript" src="/static/js/waypoints.min.js"></script>
-<script type="text/javascript" src="/static/js/jquery.counterup.min.js"></script>        
-<script type="text/javascript" src="/static/scripte/markerclusterer.orig.js"></script>     
-<script>
-	jQuery(document).ready(function() {
+<!-- jquery -->
 
-		$('#url-option-collapse').on('hide.bs.collapse', function () {
-			$('#lightbulb').addClass('active');
+<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.core.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.dialog.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.draggable.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.resizable.js"></script>
+<script type="application/javascript" src="/static/scripte/ui.tabs.js"></script>
+<script type="application/javascript" src="/static/scripte/jquery.tablesorter.js"></script>
+<script type="application/javascript" src="/static/scripte/jquery.tablesorter.pager.js"></script> 
+<script type="application/javascript" src="/static/scripte/jquery.metadata.js"></script>
+<script type="application/javascript" src="/static/scripte/jquery.ahover.js"></script>
 
-		});
-		$('#url-option-collapse').on('show.bs.collapse', function () {
-			$('#lightbulb').removeClass('active');
-		});
-		
-        jQuery('.counter').counterUp({
-            delay: 10,
-            time: 1000
-        });
-
-	});
-	function writeEmail(user, host, tld, write) {
-    var elem = document.getElementById('email');
-
-    if(elem) {
-        elem.innerHTML = user + '@' + host + '.' + tld;
-    }
-    else {
-        if(write) {
-            document.write(user + '@' + host + '.' + tld);
-        }
-    }
-} 
-</script>
 
 <script type="application/javascript">
 <!-- <![CDATA[
@@ -445,7 +414,7 @@ We are constantly striving to develop our website and use new technologies. Ther
 		if($("#custom_shorturl_input").val() != "") {
 			shorturloptions();
 		}
-        
+
 		$("#urlgroup_create_input").ready(function(){
 			$("#count_urls").text("0/100 addresses found");
 		})
@@ -518,6 +487,17 @@ We are constantly striving to develop our website and use new technologies. Ther
 		//$('#custom_shorturl_button').remove();
 	};
 	
+    var addthis_config = {
+        ui_language: 'en',
+        ui_click: true,
+        data_track_linkbacks: true,
+        services_compact: 'favorites,twitter,facebook,email,wordpress,more',
+    }
+    
+    var addthis_share = {
+        templates: {
+               twitter: '',
+           }
     }
     function show(toShow){
         $('#' + toShow).toggle();
@@ -534,6 +514,13 @@ We are constantly striving to develop our website and use new technologies. Ther
     });
 // ]]> -->
 </script>
+<script type="application/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=shorturl"></script>
+
+
+
+<script type="application/javascript" src="/static/scripte/swfobjects.js"></script>
+<script type="application/javascript" src="/static/scripte/markerclusterer.js"></script>
+
     
 
 </body></html>
