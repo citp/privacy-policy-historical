@@ -1,46 +1,124 @@
-> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707055825id_/http%3A//www.ganges.com/help_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128002149id_/http%3A//ganges.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ganges.com | Domain Shop
 
-Privacy Policy Ganges Ltd is committed to protecting your privacy when you use Ganges Service, which is comprised of (i) Ganges website, currently located at www.Ganges.com (and/or any successor or additional website(s) owned or operated by or for Ganges); (ii) Ganges syndication network (which includes third party websites); (iii) Ganges client, a downloadable application to upload, download and view content (the "Ganges Client"); (iv) the servers operated by or on behalf of Ganges; and/or (v) any other technology and/or services that Ganges provides its users. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information.
+###  A. Information from Visit 
 
-It is very important that you read and understand our Privacy Policy. If you do not accept the terms set out in our Privacy Policy, please do not use Ganges Service.
+When accessing our Website www.ganges.com, ganges.com may learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. If you visit our site to read or download information on our pages, we collect and store only the following information about you: 
 
-We may update this Privacy Policy from time to time. We will advise you that changes have been made by posting a notice on our website. Your use of Ganges Service constitutes your acceptance of the terms of our Privacy Policy, as may be amended or revised by us, and you are advised to consult our Privacy Policy regularly for any changes (revisions will be reflected by the "last update" notation below).
+  * The name of the domain from which you access the Internet; 
+  * The date and time you access our site; and 
+  * The Internet address of the Web site you used to link directly to our site. 
 
-If you have any questions regarding Ganges's policies or practices relating to privacy, please direct them to privacy@ganges.com.
 
-This Privacy Policy was last updated on February 22, 2007.
 
-Collection and Use of Information  
-While using Ganges Service you may, among other things, gather information on our website, publish and download content, subscribe to one of our services. In doing so, we may collect certain information about you.
+* * *
 
-We may automatically collect certain aggregated data regarding use of Ganges Service, like the number of users and frequency and manner of usage of Ganges Service. We may also collect aggregated information regarding the use of our subscription-based service network, such as the extent to which certain features are used. Aggregated information is anonymous, statistical information that reflects the scope of our user base, sales, customer patterns and related site information. We use this information to better understanding how Ganges Service is used, and to improve the online experience of our users. This information is not used in a way that will personally identify you.
+###  B.Types of information captured 
 
-Similarly, we may also use cookies to track and understand the traffic on our website. Cookies are alphanumeric identifiers that our website places onto your computer's hard drive. Cookies identify your computer hard drive so that we can recognize you the next time you visit us. We use cookies to collect and store some information about you, such as the name of the domain and host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using, the date and time you access our website and the Internet address of the website from which you linked directly to our website. We use this information to better understand our users and customize our site for users' particular preferences. In the same manner, we may also engage third parties to monitor the usage of Ganges Service. These third parties may use cookies and web beacons (which collect non-personally identifiable information regarding user behavior on our website) to collect such information, which is also used to better understand our users and customize our site for users' particular preferences. You may disable cookies by following directions on your web browser. Disabling cookies also disables web beacons. You should be aware, however, that by disabling cookies you may be unable to access certain services and features of Ganges Service.
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. ganges.com uses software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
 
-We may collect personally identifiable information from you when you seek access to certain portions of Ganges Service, publish or download content, and/or register for our services. This information may include, but is not limited to, your name, physical and e-mail addresses, phone and/or fax numbers, Internet address, type of computer and credit card or other payment information, as well as your preferences and usage patterns. This information may be used to fulfill your requests for services, to communicate with you about your account, to support your online activities, to respond to your questions, to customize your experience and to customize the content or features of Ganges Service. We may use your personally identifiable information to notify you of changes to Ganges Service, Terms of Use and/or Privacy Policy. We may also use your personally identifiable information to personalize your interactive experience on Ganges Service. For example, if you have given us permission, we may use your information to inform you of other products or services that you may find valuable. We may also use the information you provide to make improvements that better serve our users' needs.
+* * *
 
-If you prefer not to receive information about additional products and services that we think you may be interested in, you can choose not to receive this information by opting-out when given the opportunity at the point we ask you for your contact information. You may also choose to opt-out after the fact by following the Opt Out instructions provided below.
+When you register to use the site you will enter your name, email address, billing address and credit card information such as credit card number and expiration date. Once you have signed up for the service we will then allow you to enter more information about yourself within the portfolio and settings section of the site. Such information includes your name, phone numbers (including mobile), mailing address, external accounts that you may have on third party sites such as Amazon, Clickbank and GoDaddy. Further information we may collect if you wish to add an external account to your ganges.com account is username, password, primary tracking ID, access key ID and secret access key for any domains you choose to manage via your ganges.com account.
 
-Disclosure of Information  
-We may share aggregated statistical information about users of Ganges Service with third-parties, including our distributors, vendors, actual and potential customers and third-parties that offer products or services for use with Ganges Service. This information is not linked to any personally identifiable information.
+We will only use this information to set up your account, bill you after your 14 day free trial has expired (which you may cancel at any time), respond to your inquiries, allow you to watch domains that may be up for auction, purchase domains that are available to buy, domain trading and selling, import a list of domains, view traffic stats from all countries for all domains that you own and link to, build a Web site to sell, and link your external accounts so that you may access them from our site. 
 
-Ganges will not share your personally identifiable information with any third-parties, with the following exceptions: 
+We do not physically capture or retain any of your credit card information. This information will be entered by you into a secure PCI-DSS-compliant payment processing service provided to us by Stripe Inc whose service is operated in conjunction with Wells Fargo Bank, N.A. We do not know your card details and therefore cannot disclose them to any other party.
 
-Security  
-Ganges is committed to taking appropriate measures to protect your privacy against unauthorized disclosures. Ganges uses a variety of secure techniques designed to protect your information.
+If you do not have an external account on the third party single sign on domain marketplaces we work with, we also allow you the ability to create an account at those third party domain marketplaces so that you may link them to your ganges.com account.
 
-While we have implemented safeguards, you should be aware that Internet security technology rapidly changes. As such, we cannot guarantee that the safeguards we employ today can protect your personal information from the threats of tomorrow, or that our security measures are failsafe and not subject to circumvention or unauthorized intrusion. You should also be aware that, despite our best efforts, factors beyond our control may result in disclosure of data. 
+* * *
 
-Third-Party Links  
-Portions of Ganges Service may contain links to other third party websites that you may access. These other sites have their own privacy policies, and you should review those policies before following those links. We cannot control the information disclosed at these third-party sites or how that information is used. 
+###  C. Networking Monitoring 
 
-Young Children  
-We do not knowingly collect any personal information from children under the age of 13. To best protect your child's privacy, we suggest that you carefully supervise your child's access to the Internet and our website. 
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. ganges.com uses software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
 
-Opt-Out  
-Ganges Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, click here to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications. 
+* * *
 
-Contact  
-If you have any questions or comments about this privacy policy, please contact us at support@ganges.com 
+###  D. Cookies 
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+
+The use of cookies by third parties on our site is not covered by our privacy policy. We do not have access or control over these cookies.
+
+Clear Gifs (Web Beacons)
+
+Our third party service provider employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. 
+
+* * *
+
+### E. Keeping Your Information Secure 
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+When you enter sensitive information (such as credit card or payment information on our service provider's forms) or personal information once you have created an account on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). As noted above, we do not capture or store any credit card details on our site or servers.
+
+* * *
+
+### F. Contact and Opt-Out Information
+
+You may contact us as at [info@ganges.com](mailto:info@ganges.com) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies regarding new developments and functions that we have made available within our products and services; or (d) wish to withdraw your consent to sharing your personally identifiable information with the service providers described in Section J of this Privacy Policy, including payment processors, email service providers and customer support hosting providers. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
+
+  
+
+
+* * *
+
+### G. Notifications
+
+You choose which types of notification you wish to receive once you have signed up. You may wish to receive notifications when an auction has been won, when your maximum bid has been reached or exceeded, when a domain has achieved a pending status, or when a backordered domain has been missed or acquired. Simply login to your account and select the "notifications" tab.
+
+We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+
+We will send you a welcoming email to verify your email address and provide you a password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+
+* * *
+
+### H. Sole Statement
+
+This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
+
+* * *
+
+### I. Access
+
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete inaccuracies, or deactivate your account by making the change on our member information page or by emailing us at [info@ganges.com](mailto:info@ganges.com). We will respond to your access request within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@ganges.com](mailto:info@ganges.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+* * *
+
+### J. Third Parties
+
+We will not share, sell, rent or trade your personal information with third parties other than as disclosed within this privacy policy.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as a payment processor to bill you for services, an email service provider to send out emails on our behalf, or a customer support hosting provider to host our feedback and support pages. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+All information collected for payments is done through our third party service provider Stripe, Inc on their site. Only relevant information is then shared back with us in order for us to fulfill your service request. All information collected is done securely via secure socket layer technology (SSL) which transmits that information directly to Stripe Inc. We do not capture or retain any credit card information on our site or servers. Stripe Inc asserts that it maintains commercially reasonable administrative, technical and physical procedures to protect all the personal information regarding our customers that is stored in its servers from unauthorized access and accidental loss or modification. However, Stripe Inc does not guarantee that unauthorized third parties will never be able to defeat those measures or use such personal information for improper purposes. You acknowledge that you provide this personal information at your own risk. You may review Stripe's Privacy Policy, which explains how Stripe Inc collects, uses and safeguards information.
+
+We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+If ganges.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding the use of your personal information. 
+
+This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information.
+
+This privacy policy applies only to information collected by this Web site. 
+
+* * *
+
+### K. Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@ganges.com](mailto:info@ganges.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+* * *
+
+### L. Changes in this Policy
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email ( sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
