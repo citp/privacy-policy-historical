@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car-insurance-quotes-free.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224090130id_/http%3A//www.car-insurance-quotes-free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-insurance-quotes-free.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128135145id_/http%3A//www.car-insurance-quotes-free.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Car Insurance Quotes Free
 
@@ -84,7 +84,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [info#car-insurance-quotes-free.com](mailto:i%6efo#car-ins%75r%61nce-quo%74es-f%72ee.%63%6f%6d "Send email to: info#car-insurance-quotes-free.com")
+Email: [info#car-insurance-quotes-free.com](mailto:%69n%66o#ca%72%2di%6esura%6ece-quote%73-fre%65.com "Send email to: info#car-insurance-quotes-free.com")
 
 
 
