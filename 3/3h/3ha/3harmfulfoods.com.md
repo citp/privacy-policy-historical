@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3harmfulfoods.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718065851id_/http%3A//3harmfulfoods.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3harmfulfoods.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129000935id_/http%3A//3harmfulfoods.com/privacy.php) for the most accurate reproduction.*
 
 # Nucific Privacy Policy
 
