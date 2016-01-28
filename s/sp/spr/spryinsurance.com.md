@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spryinsurance.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003505id_/http%3A//spryinsurance.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spryinsurance.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128133600id_/http%3A//spryinsurance.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Home
 
