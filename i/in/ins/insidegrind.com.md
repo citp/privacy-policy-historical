@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidegrind.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210013400id_/http%3A//insidegrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidegrind.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128051008id_/http%3A//insidegrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inside Grind
 
