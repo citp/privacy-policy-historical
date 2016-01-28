@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumwordpressthemesfree.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226234419id_/http%3A//premiumwordpressthemesfree.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwordpressthemesfree.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128015317id_/http%3A//premiumwordpressthemesfree.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pivacy Policy
 
