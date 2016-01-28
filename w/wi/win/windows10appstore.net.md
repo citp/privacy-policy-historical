@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows10appstore.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215101338id_/http%3A//ifreedownload.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows10appstore.net privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128095230id_/http%3A//ifreedownload.net/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -17,9 +17,9 @@ Here are some examples of the types of personal information ifreedownload.net ma
 ifreedownload.net collects personally identifiable information when you provide it to us, such as when you register on our sites, when you use certain products or services and when you visit ifreedownload.net pages. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our ifreedownload.net sites you are no longer anonymous to us.
 
 2\. What anonymous information does ifreedownload.net collect?
-     _Cookies_
-     Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the ifreedownload.net site, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser.
-     _Web Bugs & Servers_
+    _Cookies_
+    Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the ifreedownload.net site, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser.
+    _Web Bugs & Servers_
     We use electronic images known as Web bugs - sometimes called single-pixel GIFs, transparent GIFs, or clear gifs- that allow us to track general user traffic patterns. ifreedownload.net also automatically receives and records information from our servers and from your browser including your IP address, the time, and information about the page you requested.
     
 
@@ -46,8 +46,8 @@ ifreedownload.net collects personally identifiable information when you provide 
 
 
 4\. How does ifreedownload.net share the information?
-     _Personally Identifiable Information_
-     ifreedownload.net will make your personally identifiable information available to other companies or people when:
+    _Personally Identifiable Information_
+    ifreedownload.net will make your personally identifiable information available to other companies or people when:
     
 
   1. We have your consent to share the information
@@ -56,10 +56,10 @@ ifreedownload.net collects personally identifiable information when you provide 
   4. We respond to subpoenas, court orders or legal process; or we believe that your actions violate applicable laws, ifreedownload.net's terms of use or any usage guidelines for specific products or services, or threaten the rights, property or safety of ifreedownload.net, our users, or others
 
 
-     _Aggregate Information_
-     ifreedownload.net aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
-     _Business Transfers_
-     We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes. In that event, we will seek to give you notice of that change in control and we will seek to get assurances that the purchaser will honour any opt-out requests you might make of us.
+    _Aggregate Information_
+    ifreedownload.net aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+    _Business Transfers_
+    We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes. In that event, we will seek to give you notice of that change in control and we will seek to get assurances that the purchaser will honour any opt-out requests you might make of us.
 
 5\. What are my options?
     Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
