@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bg9.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811053539id_/http%3A//www.bg9.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bg9.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128084639id_/http%3A//bg9.com/privacy.html) for the most accurate reproduction.*
 
 # bg9.com - Privacy Policy
 
