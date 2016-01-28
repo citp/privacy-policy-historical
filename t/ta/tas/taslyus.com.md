@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taslyus.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321034134id_/http%3A//taslyus.com/index.php%3Fmod%3Dabout%26op%3Ddetail%26id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taslyus.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128074039id_/http%3A//www.taslyus.com/index.php%3Fmod%3Dabout%26op%3Ddetail%26id%3D4) for the most accurate reproduction.*
 
 # Privacy taslyus
 
