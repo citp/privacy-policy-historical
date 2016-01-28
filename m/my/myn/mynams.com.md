@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynams.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325161602id_/https%3A//mynams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynams.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128115905id_/https%3A//mynams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyNAMS
 
@@ -108,7 +108,7 @@ Attn: Privacy Policy Officer
 352 O Z Davis Rd.  
 Eva, AL, 35621  
 Email:  compliance.officer-at-mynams.com  
-Telephone: 256.318.5202  
+Telephone: (800) 637-0314  
 Facsimile:  800.470.5998
 
 —  
