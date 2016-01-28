@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarsummit.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052736id_/http%3A//www.scholarsummit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarsummit.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128184134id_/http%3A//scholarsummit.com/privacy.asp) for the most accurate reproduction.*
 
 # ScholarSummit.com
 
@@ -78,4 +78,4 @@ This Privacy Policy may be revised at will. Such changes, edits, revisions, and/
 **Presiding Language**  
 This Agreement and all ScholarSummit policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document. 
 
-DATE OF MODIFICATION: November 28, 2009
+DATE OF MODIFICATION: September 16, 2014
