@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indicareer.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211015835id_/http%3A//www.indicareer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indicareer.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128060507id_/http%3A//www.indicareer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
