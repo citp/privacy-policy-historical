@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnzyclub.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023064941id_/http%3A//www.funnzyclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnzyclub.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128043134id_/http%3A//www.funnzyclub.com/privacy.php) for the most accurate reproduction.*
 
 # FunnzyClub - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, FunnzyClub, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
