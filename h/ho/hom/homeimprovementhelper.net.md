@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeimprovementhelper.net privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202065500id_/http%3A//www.homeimprovementhelper.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeimprovementhelper.net privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128111425id_/http%3A//homeimprovementhelper.net/privacy.html) for the most accurate reproduction.*
 
 # HomeImprovementHelper.net
 
