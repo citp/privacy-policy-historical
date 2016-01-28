@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a7laqalb.info privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817072818id_/http%3A//a7laqalb.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a7laqalb.info privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128193638id_/http%3A//a7laqalb.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
