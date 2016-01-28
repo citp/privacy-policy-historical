@@ -1,0 +1,499 @@
+<!--The following is the downloaded HTML source of the bsave.io privacy policy that was archived on 2016-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160128234227id_/https%3A//www.bsave.io/index.php/privacy-and-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:17,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:17,2:18,ee:"QJf3ax"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:18,2:17,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:18,2:17,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:18,2:17,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:18,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:11,2:14,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],14:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],17:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],18:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:17,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"8b707f7f97",applicationID:"8400090",sa:1,agent:"js-agent.newrelic.com/nr-460.min.js"}</script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1453907160,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"2436a91328b59c274f3fb452a00a615b",petok:"302e686cd361fb22198db3d5f211b0ffa3483051-1454024549-3600",zone:"bsave.io",rocket:"0",apps:{"ga_key":{"ua":"UA-67418697-1","ga_bs":"2"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYDU1NTABAIVlFSBQYE"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta charset="UTF-8">
+<title>Privacy Policy | BSave</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.bsave.io/xmlrpc.php">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.bsave.io/wp-content/uploads/2015/09/facicon.png?da97b5">
+<link rel="apple-touch-icon" href="https://www.bsave.io/wp-content/uploads/2015/09/facicon.png?da97b5">
+<!--[if gte IE 9]>
+		<style type="text/css">
+			.gradient {
+				 filter: none;
+			}
+		</style>
+	<![endif]-->
+<link href="//fonts.googleapis.com/css?family=Raleway:100,200,300,400,600,700,800,900,400italic" rel="stylesheet" type="text/css">
+ 
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://www.bsave.io/privacy-and-policy/">
+<meta property="article:published_time" content="2015-08-03">
+<meta property="article:modified_time" content="2015-10-18">
+<meta property="og:site_name" content="BSave">
+<meta name="twitter:card" content="summary">
+ 
+<link rel="alternate" type="application/rss+xml" title="BSave » Feed" href="https://www.bsave.io/feed/">
+<link rel="alternate" type="application/rss+xml" title="BSave » Comments Feed" href="https://www.bsave.io/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="BSave » Privacy Policy Comments Feed" href="https://www.bsave.io/privacy-and-policy/feed/">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.bsave.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=72070fb18dff9bf684c36a89636e524c"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.bsave.io/wp-includes/js/wp-emoji-release.min.js?ver=72070fb18dff9bf684c36a89636e524c" type="text/javascript"></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="layerslider-css" href="https://www.bsave.io/wp-content/plugins/Layerslider/static/css/layerslider.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="ls-google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&amp;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="wpclef-main-css" href="https://www.bsave.io/wp-content/plugins/wpclef/assets/dist/css/main.min.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="default_style-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/style.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="qode-font-awesome-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/font-awesome/css/font-awesome.min.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="stylesheet-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/stylesheet.min.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="webkit-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/webkit_stylesheet.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="style_dynamic-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/style_dynamic.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/responsive.min.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="style_dynamic_responsive-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/style_dynamic_responsive.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://www.bsave.io/wp-content/plugins/js_composer/assets/css/js_composer.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="custom_css-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/css/custom_css.css?da97b5" type="text/css" media="all">
+<link rel="stylesheet" id="childstyle-css" href="https://www.bsave.io/wp-content/themes/bridge-creative/bridge-child/style.css?da97b5" type="text/css" media="all">
+<script type="text/javascript" src="https://www.bsave.io/wp-includes/js/jquery/jquery.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-includes/js/jquery/jquery-migrate.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/Layerslider/static/js/layerslider.kreaturamedia.jquery.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/Layerslider/static/js/greensock.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/Layerslider/static/js/layerslider.transitions.js?da97b5"></script>
+<link rel="https://api.w.org/" href="https://www.bsave.io/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bsave.io/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bsave.io/wp-includes/wlwmanifest.xml">
+<link rel="canonical" href="https://www.bsave.io/privacy-and-policy/">
+<link rel="shortlink" href="https://www.bsave.io/?p=15204">
+<link rel="alternate" type="application/json+oembed" href="https://www.bsave.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bsave.io%2Fprivacy-and-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.bsave.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bsave.io%2Fprivacy-and-policy%2F&amp;format=xml">
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://www.bsave.io/wp-content/plugins/js_composer/assets/css/vc-ie8.css?da97b5" media="screen"><![endif]--><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.bsave.io/?wordfence_logHuman=1&hid=46829BD5D7DC7D283B0697854726A75F');
+</script><noscript><style>.wpb_animate_when_almost_visible{opacity:1;}</style></noscript>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-67418697-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body class="page page-id-15204 page-template-default  side_area_uncovered_from_content qode-child-theme-ver-1.0.0 qode-theme-ver-7.1 wpb-js-composer js-comp-ver-4.5.1 vc_responsive"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="https://",c="www.bsave.io",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+<div class="ajax_loader"><div class="ajax_loader_1"><div class="pulse"></div></div></div>
+<section class="side_menu right ">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script type="text/javascript">
+		(function(){
+		$.ajax({
+			  dataType: "json",
+			  url: '//www.bsave.io/wp-content/themes/bridge-creative/bridge-child/price.php',
+			  data: data,
+			  success: lsuccess,
+			  error: lfailure,
+			});
+  		 
+  			function lsuccess()
+			{
+				console.info("lsuccess");
+			}
+			function lfailure()
+			{
+			  console.info("lfailure");
+			}
+});
+        	</script>
+<a href="#" target="_self" class="close_side_menu"></a>
+<div id="text-2" class="widget widget_text posts_holder"> <div class="textwidget"><ul>
+<li><a href="https://www.bsave.io/index.php/about-us/" target="_self">About</a></li>
+<li><a href="https://www.bsave.io/index.php/news" target="_self">News</a></li>
+<li><a href="https://www.bsave.io/index.php/help-center/" target="_self">Help Center</a></li>
+<li><a href="https://www.bsave.io/index.php/privacy-and-policy/" target="_self">Privacy</a></li>
+<li><a href="https://www.bsave.io/index.php/terms" target="_self">Terms</a></li>
+<li><a href="https://www.bsave.io/index.php/contact/" target="_self">Contact Us</a></li>
+</ul>
+<div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 7px;"></div>
+<span class="q_social_icon_holder normal_social"><a href="https://twitter.com/bsave_io?lang=en" target="_blank"><i class="fa fa-twitter fa-lg simple_social" style="font-size: 17px;"></i></a></span>
+</div>
+</div> </section>
+<div class="wrapper">
+<div class="wrapper_inner">
+ 
+<script>/* CloudFlare analytics upgrade */
+</script>
+ 
+<header class=" scroll_header_top_area light stick transparent scrolled_not_transparent page_header">
+<div class="header_inner clearfix">
+<div class="header_top_bottom_holder">
+<div class="header_bottom clearfix" style=" background-color:rgba(255, 255, 255, 0);">
+<div class="container">
+<div class="container_inner clearfix">
+<div class="header_inner_left">
+<div class="mobile_menu_button"><span><i class="fa fa-bars"></i></span></div>
+<div class="logo_wrapper">
+<div class="q_logo">
+<a href="https://www.bsave.io/">
+<img class="normal" src="https://www.bsave.io/wp-content/uploads/2016/01/123456-1.png?da97b5" alt="Logo">
+<img class="light" src="https://www.bsave.io/wp-content/uploads/2015/08/bsavelogoW11.png?da97b5" alt="Logo">
+<img class="dark" src="https://www.bsave.io/wp-content/uploads/2015/08/bsavelogoB1.png?da97b5" alt="Logo">
+<img class="sticky" src="https://www.bsave.io/wp-content/uploads/2016/01/123456-1.png?da97b5" alt="Logo">
+<img class="mobile" src="https://www.bsave.io/wp-content/uploads/2015/08/bsavelogoB2.png?da97b5" alt="Logo">
+</a>
+</div>
+</div>
+</div>
+<div class="header_inner_right">
+<div class="side_menu_button_wrapper right">
+<div class="side_menu_button">
+<a class="side_menu_button_link normal" href="javascript:void(0)">
+<i class="fa fa-bars"></i>
+</a> </div>
+</div>
+</div>
+<nav class="main_menu drop_down right">
+<ul id="menu-topnav" class=""><li id="nav-menu-item-15064" class="menu-item menu-item-type-custom menu-item-object-custom  wide icons"><a href="#" class=""><i class="menu_icon fa blank"></i><span><span class="blink">BTC Price</span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-14885" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://www.coinbase.com/join/55e838bb29160e79660001d6" class=""><i class="menu_icon fa blank"></i><span>Create an account</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-14886" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://bsave.io/oauth.php?provider=coinbase" class=""><i class="menu_icon fa blank"></i><span>Connect with coinbase</span><span class="plus"></span></a></li>
+</ul> </nav>
+<nav class="mobile_menu">
+<ul id="menu-topnav-1" class=""><li id="mobile-menu-item-15064" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="#" class=""><span><span class="blink">BTC Price</span></span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-14885" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.coinbase.com/join/55e838bb29160e79660001d6" class=""><span>Create an account</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-14886" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://bsave.io/oauth.php?provider=coinbase" class=""><span>Connect with coinbase</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<a id="back_to_top" href="#">
+<span class="fa-stack">
+<i class="fa fa-arrow-up" style=""></i>
+</span>
+</a>
+<div class="content ">
+<div class="meta">
+<div class="seo_title">BSave | Privacy Policy</div>
+<span id="qode_page_id">15204</span>
+<div class="body_classes">page,page-id-15204,page-template-default,,side_area_uncovered_from_content,qode-child-theme-ver-1.0.0,qode-theme-ver-7.1,wpb-js-composer js-comp-ver-4.5.1,vc_responsive</div>
+</div>
+<div class="content_inner fade ">
+<div class="title_outer animate_title_area with_image" data-height="200" style="opacity:0;height:100px;">
+		<div class="title title_size_large  position_left" style="height:200px;">
+			<div class="image responsive"><img src="https://www.bsave.io/wp-content/uploads/2015/08/privacy.jpg?da97b5" alt="&nbsp;"> </div>
+										<div class="title_holder">
+					<div class="container">
+						<div class="container_inner clearfix">
+								<div class="title_subtitle_holder" style="padding-top:43px;">
+																	<div class="title_subtitle_holder_inner">
+																	<h1 style="color:#ffffff"><span>Privacy Policy</span></h1>
+																			<span class="separator small left"></span>
+																	
+																												<div class="breadcrumb"> <div class="breadcrumbs"><div class="breadcrumbs_inner"><a style="color:#ffffff" ;="" href="https://www.bsave.io">Home</a><span class="delimiter" style="color:#ffffff" ;="">&nbsp;&gt;&nbsp;</span><span class="current" style="color:#ffffff" ;="">Privacy Policy</span></div></div></div>
+																	</div>
+																	</div>
+														</div>
+					</div>
+				</div>
+								</div>
+	</div>
+				<div class="container">
+			<div class="container_inner default_template_holder clearfix page_container_inner">
+																<div class="vc_row wpb_row section vc_row-fluid grid_section" style=" padding-top:87px; padding-bottom:95px; text-align:left;"><div class=" section_inner clearfix"><div class="section_inner_margin clearfix">
+	<div class="vc_col-sm-12 wpb_column vc_column_container ">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;">Privacy Policy</h2>
+
+		</div> 
+	</div> <div class="separator  small center  " style="margin-top: 7px;margin-bottom: 38px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">BSave (“BSave,” “we,” “us,” and “our”) has created the following Privacy Policy to inform the user (“user,” “you,” “your,” and “yours”) of how and why we collect what information. This Privacy Policy explains the data collection and use practices of BSave. By using our service, you consent to the data practices described in this statement. We may periodically post changes to this Privacy Policy on this page, and it is your responsibility to review this Privacy Policy frequently and we encourage you to visit this page often. From time to time, we may notify you of changes to this Privacy Policy.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;"><strong>Which information do we collect?</strong></h3>
+<h3 style="text-align: justify;"></h3>
+<p style="text-align: justify;">While using our site and services, we will collect non-personal identifying information, such as the type of device and operating system you are using as well as the GEO and your preferred language. This information is collected in order to provide you with the applicable services in the best performance possible. This information is statistical information that does not identify you in any way or manner.</p>
+<p style="text-align: justify;">We also collect personal identifying information such as your IP address, name and email address, transactions made through the service, etc. (as specified and detailed below). This personal identifying information is not shared with third parties and can be deleted by you at any time, all as detailed below.</p>
+<h3></h3>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;"></h3>
+<h3 style="text-align: justify;"><strong>How we collect information about you?</strong></h3>
+<p style="text-align: justify;">When you visit the BSave website, use BSave Services, or use third-party services which are used by BSave we collect information sent to us through your computer, mobile phone, or other access device. You must be at least 18 years old, or of the applicable age of majority, in order to use BSave Services. BSave does not intentionally collect information from or about any individual who is under 13 years old.<br>
+If you create an account or use BSave Services, we, or our affiliate vendors acting on our behalf, may collect the following types of information:</p>
+<p style="text-align: justify;"></p><div class="q_list circle circle_number light"><p></p>
+<ul style="text-align: justify;">
+<li><strong>Coinbase Credentials</strong><br>
+You connect to BSave using your Coinbase credentials. As a result, with your consent, we automatically receive your Coinbase ID, the email you use to log in to Coinbase, your first name, and your last name.</li>
+<li><strong>Financial Information</strong></li>
+</ul>
+<p style="text-align: justify;">Through your exercise of our Services, we naturally collect information concerning your use of BSave. This information includes the amount you deposit in your BSave account, the amount you withdraw, when these transactions take place, the amount of interest paid to you, and when the interest is paid. We may require you to provide additional information which we may use in collaboration with service providers acting on our behalf to verify your identity or address, and/or to manage risk. This information may include your date of birth, taxpayer or government identification number, a copy of your government-issued identification, or other personal information. We may also obtain information about you from third parties such as credit bureaus and identity verification services.</p>
+<p style="text-align: justify;">When you use BSave Services, we collect information about your transactions and/or your other activities on our website and we may continuously collect information about your computer, mobile device, as specified below.</p>
+<p style="text-align: justify;">We share none of your information with Coinbase as the information is provided to us from them. Naturally, your accounts in Coinbase will reflect any transactions you conduct between your Coinbase wallet and your BSave account and any interest deposits made by us to your Coinbase wallet, but we share none of your personal information with Coinbase or any other third party (subject to the aforesaid). We recommend you review the Coinbase privacy policy available at:&nbsp;<a href="https://www.coinbase.com/legal/privacy">https://www.coinbase.com/legal/privacy</a>.</p>
+<p style="text-align: justify;">Finally, we may collect additional information you may disclose to our customer support team through our email address:&nbsp;<a href="mailto:support@bsave.io">support@bsave.io</a>.</p>
+<p style="text-align: justify;"></p></div>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;">How we protect and store personal information</h3>
+<p style="text-align: justify;">Throughout this policy, we use the term “personal information” to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user. BSave takes reasonable precautions, as described herein, to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction.</p>
+<p style="text-align: justify;">We store our customers’ personal information securely throughout the life of the customer’s BSave Account. BSave will retain your personal information for as necessary to comply with our legal obligations or resolve disputes (as specified below).</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;">How we use the personal information we collect</h3>
+<p style="text-align: justify;">Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to:</p>
+<p style="text-align: justify;"></p><div class="q_list circle circle_number light"><p></p>
+<ul style="text-align: justify;">
+<li>Provide BSave Services and customer support you request</li>
+<li>Process transactions and send notices about your transactions;</li>
+<li>Resolve disputes, collect fees, and troubleshoot problems;</li>
+<li>Prevent and investigate potentially prohibited or illegal activities, and/or violations of our posted user terms;</li>
+<li>Customize, measure, and improve BSave Services and the content and layout of our website and applications;</li>
+<li>Deliver targeted marketing, service update notices, and promotional offers based on your communication preferences; and</li>
+<li>Compare information for accuracy and verify it with third parties</li>
+</ul>
+<p style="text-align: justify;"></p></div>
+<p style="text-align: justify;">We will not use your personal information for purposes other than those purposes we have disclosed to you, without your permission. From time to time we may request your permission to allow us to share your personal information with third parties. You may opt out of having your personal information shared with third parties, or from allowing us to use your personal information for any purpose that is incompatible with the purposes for which we originally collected it or subsequently obtained your authorization. If you choose to so limit the use of your personal information, certain or all features of BSave Services may not be available to you.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;">Marketing</h3>
+<p style="text-align: justify;">We will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;"><strong>How personal information is shared with other BSave users</strong></h3>
+<p style="text-align: justify;">None of your personal information will ever be available to other BSave users through our BSave Services.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;">How personal information is shared with other BSave users</h3>
+<p style="text-align: justify;">We may share your personal information with:</p>
+<p style="text-align: justify;"></p><div class="q_list circle circle_number light"><p></p>
+<ul style="text-align: justify;">
+<li>Service providers under contract who help with parts of our business operations such as fraud prevention, bill collection, marketing and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.</li>
+<li>Financial institutions with which we partner.</li>
+<li>Companies that we plan to merge with or are acquired by. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. You will receive prior notice of any change in applicable policy.)</li>
+<li>Law enforcement, government officials, or other third parties when:
+<ul>
+<li>We are compelled to do so by a subpoena, court order or similar legal procedure; or</li>
+<li>We believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreement</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: justify;"></p></div>
+<p style="text-align: justify;">BSave will not sell or rent any of your personal information to third parties for their marketing purposes and only shares your personal information with third parties as described in this policy.</p>
+<p style="text-align: justify;">In general, we will notify you of material changes to this policy by updating the last updated date at the top of this page, and we will provide you with explicit notice of material changes as required by law. We recommend that you visit this page frequently to check for changes. For even more additional information and explanation please connect with us at&nbsp;<a href="mailto:support@bsave.io">support@bsave.io</a>.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;"><strong>How you can access or change your personal information</strong></h3>
+<p style="text-align: justify;">You are entitled to review, correct, or amend your personal information, or to delete that information where it is inaccurate and you may do so at any time by changing, deleting or revising the information through you Coinbase account. If you close your BSave account, we will mark your account in our database as “Closed,” but will keep your account information in our database for a period of time described above. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law, or in accordance with this Privacy Policy. If you wish to delete your account or need our assistance in doing so please connect to us at: <a href="mailto:support@bsave.io">support@bsave.io</a>.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;"><strong>How you can contact us about privacy questions</strong></h3>
+<p style="text-align: justify;">If you have questions or concerns regarding this policy, you should contact us at: <a href="mailto:support@bsave.io">support@bsave.io</a>. If you believe your privacy has been compromised as a result of your use of BSave Services, you may submit a complaint through our independent data privacy consultant, Privacy Trust,&nbsp;via our support email at: <a href="mailto:support@bsave.io">support@bsave.io</a>.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: justify;">Law</h3>
+<p style="text-align: justify;">The law governing the provision of the BSave service to the user is the law of England and any disputes arising in respect hereof shall be governed exclusively by the English courts.</p>
+
+		</div> 
+	</div> <div class="separator  normal center  " style="margin-top: 30px;margin-bottom: 30px;height: 1px;"></div>
+
+		</div> 
+	</div> 
+</div></div></div>
+														 
+																				
+		</div>
+	</div>
+	<footer>	
+	<div class="custom-bottom-bar">
+		<div class="container">
+		
+			<div class="container_inner clearfix">
+			
+				<div class="row">
+					<div class="vc_col-sm-4 vc_col-xs-12">
+						<a href="https://www.bsave.io"><img src="//www.bsave.io/wp-content/uploads/2015/05/bsavelogoW1.png?da97b5"></a>
+					</div>
+					<!--<div class="vc_col-sm-1 vc_col-xs-12">
+						<a href="#">About</a>
+					</div>
+					<div class="vc_col-sm-1 vc_col-xs-12">
+						<a  href="#">News</a>
+					</div>
+					<div class="vc_col-sm-1 vc_col-xs-12">
+						 <a  href="#">Help Center</a>
+					</div>
+					<div class="vc_col-sm-1 vc_col-xs-12">
+						<a  href="#">Privacy</a>
+					</div>
+					<div class="vc_col-sm-1 vc_col-xs-12">
+						<a  href="#">Terms</a>
+					</div> -->
+					<div class="vc_col-sm-8 vc_col-xs-12">
+						<ul class="footer-ul">
+							<li><a href="//www.bsave.io/index.php/about-us">About</a></li>
+							<li><a href="//www.bsave.io/index.php/news">News</a></li>
+							<li><a href="//www.bsave.io/index.php/help-center">Help Center</a></li>
+							<li><a href="//www.bsave.io/index.php/privacy-and-policy">Privacy</a></li>
+							<li><a href="//www.bsave.io/index.php/terms">Terms</a></li>
+							<li><a href="//www.bsave.io/index.php/contact">Contact Us</a></li>
+						</ul>
+					</div>	
+						
+				</div>
+				
+			</div>
+
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">	
+			<div class="footer_bottom_holder">
+				<div class="footer_bottom">
+						
+				</div>
+			</div>
+		</div>
+	</div>
+<footer>
+
+<script>
+    // When the document is loaded...
+    jQuery(document).ready(function($) {
+      // Scroll initially if there's a hash (#something) in the url 
+      $.localScroll.hash( {
+        target: 'body', // Could be a selector or a jQuery object too.
+        duration:1500
+      });
+
+      /**
+       * Scroll the whole document
+       * NOTE: I use $.localScroll instead of $('#navigation').localScroll().
+      */
+      $.localScroll({
+        target: 'body', // Could be a selector or a jQuery object too.
+        duration:1000,
+        hash:true
+      });
+    });
+    </script><div id="su-footer-links" style="text-align: center;"></div><script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/wp-localscroll/js/jquery.scrollTo.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/wp-localscroll/js/jquery.localscroll.min.js?da97b5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/www.bsave.io\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/qode-like.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/plugins.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/jquery.carouFredSel-6.2.1.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/lemmon-slider.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/jquery.fullPage.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/jquery.mousewheel.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/jquery.touchSwipe.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/myscript.js?da97b5"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;ver=72070fb18dff9bf684c36a89636e524c"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/default_dynamic.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/default.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/themes/bridge-creative/bridge/js/custom_js.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-includes/js/comment-reply.min.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-content/plugins/js_composer/assets/js/js_composer_front.js?da97b5"></script>
+<script type="text/javascript" src="https://www.bsave.io/wp-includes/js/wp-embed.min.js?da97b5"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8b707f7f97","applicationID":"8200273","transactionName":"MVQGYEZZDUpRUEIIWwgeJVdAUQxXH0NXBlE=","queueTime":0,"applicationTime":314,"atts":"HRMFFg5DHkQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching 11/34 queries in 0.016 seconds using memcached
+Object Caching 1849/1881 objects using memcached
+Fragment Caching 1/4 fragments using memcached
+Application Monitoring using New Relic
+
+ Served from: www.bsave.io @ 2016-01-28 23:42:29 by W3 Total Cache --></footer></footer></div></div></div></div><script src="https://js-agent.newrelic.com/nr-768.min.js"></script></body></html>
