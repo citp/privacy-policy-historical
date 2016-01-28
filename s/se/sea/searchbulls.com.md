@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchbulls.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107150253id_/http%3A//www.searchbulls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbulls.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128214706id_/http%3A//www.searchbulls.com/privacy.php) for the most accurate reproduction.*
 
-# PayPerClick Search Engine - SearchBulls.com
+# 
 
 **  
 SearchBulls.com Privacy Policy**
@@ -13,14 +13,3 @@ SearchBulls.com Privacy Policy**
 
 Contacting Us:  
 If you have any questions about our site, this privacy policy, or our general procedures, please [email us](mailto:office@SearchBulls.com).
-
-|  | 
-
-**SEARCH FOR PRODUCTS:**   
-  
-Select Category:  
-  
-  
----|---|---  
-  
- 
