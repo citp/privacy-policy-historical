@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goseon.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206210803id_/http%3A//goseon.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goseon.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128124204id_/http%3A//goseon.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Goseon.com - Privacy Policy
 
