@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401091601id_/http%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129034944id_/http%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - CDN, Security, Infrastructure | Bizety
+# Privacy Policy - CDN, Cloud Security, Telecom | Bizety
 
 ## **Privacy Policy**
 
@@ -61,5 +61,3 @@ Bizety Technologies, LLC
 5405 Wilshire Blvd. Suite 353  
 Los Angeles, CA 90036  
 support @ bizety.com
-
-[Copyright secured by Digiprove © 2015](http://www.digiprove.com/prove_copyright.aspx?id=P583770%26guid=uZDeqrtIikKP6jFVCghULA)
