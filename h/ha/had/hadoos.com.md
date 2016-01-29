@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hadoos.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217044305id_/http%3A//www.hadoos.com/roastedseaweed_en/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hadoos.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129183838id_/http%3A//www.hadoos.com/roastedseaweed_en/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - hadoos
 
