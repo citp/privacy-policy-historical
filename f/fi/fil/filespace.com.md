@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filespace.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408043557id_/http%3A//www.filespace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filespace.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129193810id_/http%3A//filespace.com/privacy.html) for the most accurate reproduction.*
 
 # FileSpace - Share your files easily
 
@@ -6,7 +6,7 @@
 
 Last Updated:  February 25, 2014
 
-D4A LLC (“Company”) respect your Privacy and are committed to maintaining the privacy and confidentiality of personal data we collect. The purpose of our Privacy Policy is to demonstrate our commitment to the privacy and protection of all persons who provide personal data to Company and its affiliates. This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
+Bayside Ltd (“Company”) respect your Privacy and are committed to maintaining the privacy and confidentiality of personal data we collect. The purpose of our Privacy Policy is to demonstrate our commitment to the privacy and protection of all persons who provide personal data to Company and its affiliates. This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
 
 This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information.  Users can access the FileSpace.com Service (the “Service”) through [www.filespace.com](http://www.filespace.com/) (“Website”), applications on Devices through Application Programming Interfaces (“APIs”), and through third-parties.  A “Device” is any computer used to access the Service, including without limitation a desktop, laptop, mobile telephone, tablet or other consumer electronic device.  This Privacy Policy governs your access of the Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy.  All of the different forms of data, content, and information described below are collectively referred to as “information.”
 
@@ -54,11 +54,11 @@ We will not intentionally collect or maintain, and do not want you to provide, a
 
 Our services are not designed for or directed to minors or children under the age of 13, and we will not intentionally collect or maintain information about anyone under the age of 13.  We do not knowingly collect personally identifiable information from children under 13.  If a parent or guardian becomes aware that his or her child as provided us with Personal Information without their consent, he or she should contact us at helpdsk@filespace.com,  If we become aware that a child under 13 has provided us with Personal Information, we will take such steps to delete such information from our files.
 
-**Changes/Access/Disputes/ CancellationShould** You request changes to Your information, send written notice to: D4A LLC, 2637 E Atlantic Blvd #28324, Pompano Beach, FL 33062, United States 
+**Changes/Access/Disputes/ CancellationShould** You request changes to Your information, send written notice to: Bayside Ltd, 112 Bonadie Street, Kingstown, St. Vincent & the Grenadines 
 
-Should You request access to Your information, send written notice to: D4A LLC, 2637 E Atlantic Blvd #28324, Pompano Beach, FL 33062 United States 
+Should You request access to Your information, send written notice to: Bayside Ltd, 112 Bonadie Street, Kingstown, St. Vincent & the Grenadines 
 
-Should you have disputes concerning Our Privacy Policy, send written notice to: D4A LLC, 2637 E Atlantic Blvd #28324, Pompano Beach, FL 33062, United States **.** We always reserve the right to cancel any remaining term of Your agreement with us.
+Should you have disputes concerning Our Privacy Policy, send written notice to: Bayside Ltd,112 Bonadie Street, Kingstown, St. Vincent & the Grenadines **.** We always reserve the right to cancel any remaining term of Your agreement with us.
 
 **2.   WHAT DO WE USE THIS INFORMATION FOR?**
 
@@ -120,7 +120,7 @@ Company utilizes the self-assessment approach to assure its compliance with its 
 
 **7.    CHANGES **
 
-Our business changes constantly and our Privacy Policy may also change from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent.  By continuing to use the Service after changes have become effective, you agree to be bound by the revised Privacy Policy.  This Privacy Policy was last updated on September 5, 2013.
+Our business changes constantly and our Privacy Policy may also change from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent.  By continuing to use the Service after changes have become effective, you agree to be bound by the revised Privacy Policy.  This Privacy Policy was last updated on July 1, 2015.
 
 iness Transfers. 
 
