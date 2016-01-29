@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlez.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810183219id_/http%3A//www.articlez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlez.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129172413id_/http%3A//www.articlez.com/privacy) for the most accurate reproduction.*
 
 # Articlez.com Privacy Policy
 
