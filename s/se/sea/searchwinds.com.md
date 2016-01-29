@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchwinds.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927000838id_/http%3A//searchwinds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchwinds.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129112256id_/http%3A//searchwinds.com/privacy) for the most accurate reproduction.*
 
 # SearchWinds.com Privacy Policy
 
