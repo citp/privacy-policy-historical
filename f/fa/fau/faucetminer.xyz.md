@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetminer.xyz privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129012457id_/http%3A//faucetminer.xyz/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetminer.xyz privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129045621id_/http%3A//faucetminer.xyz/privacy_policy.php) for the most accurate reproduction.*
 
 # FaucetMiner
 
