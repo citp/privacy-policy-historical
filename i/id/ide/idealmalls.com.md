@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idealmalls.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102025104id_/http%3A//www.idealmalls.com/about/view/aid/11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealmalls.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130001216id_/http%3A//www.idealmalls.com/about/view/aid/11) for the most accurate reproduction.*
 
-# Privacy Notice - Idealmalls
+# Privacy Notice - Best Online Shopping Center Taobao Agent (English Taobao)
 
 Idealmalls.com  is responsible for this privacy policy.   
 Please note, that when you enter any sub-sites accessible through Idealmalls.com, they may have different privacy  policies specific to those sites. We encourage you to read the privacy policies of each Idealmalls site.
