@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayswordsofglass.blogspot.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230052538id_/http%3A//todayswordsofglass.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayswordsofglass.blogspot.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129085916id_/http%3A//todayswordsofglass.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Today's Words Of Glass: Privacy Policy
 
