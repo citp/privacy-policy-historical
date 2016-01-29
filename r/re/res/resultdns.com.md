@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultdns.com privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114003545id_/http%3A//www.resultdns.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultdns.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129083332id_/http%3A//resultdns.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # ResultDns - Privacy Policy
 
@@ -23,6 +23,6 @@ Any web sites that you click to from one of our Internet search results web page
 ## Questions:
 
 Questions regarding this Software Use Privacy Policy should be directed by e-mail to ResultDns at [ResultDns.privacy@ResultDns.com](mailto:ResultDns.privacy@ResultDns.com) or, by U.S. mail, to:  
-335 Madison Avenue,  
-Suite 840, New York, NY 10017  
+356 E 74th Street,  
+New York, NY 10021  
 Attn: Privacy Officer
