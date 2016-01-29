@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the romancecompass.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218094144id_/http%3A//romancecompass.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancecompass.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129095816id_/http%3A//romancecompass.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-RomanceCompass Ltd is a registered company(referred to in this Privacy Policy as "we" and "our" and "us"), whose dating services are provided on a domain [www.romancecompass.com](http://www.romancecompass.com/)
+Sono RC LP is a registered company(referred to in this Privacy Policy as "we" and "our" and "us"), whose dating services are provided on a domain [www.romancecompass.com](http://www.romancecompass.com/)
 
-This Privacy Policy must be read together with our Terms and Conditions and any other documents referred to, as it sets out how we process data collected from you or which you provide to us in relation to the RomanceCompass Ltd Company dating services ("Dating Services").
+This Privacy Policy must be read together with our Terms and Conditions and any other documents referred to, as it sets out how we process data collected from you or which you provide to us in relation to the Sono RC LP Company dating services ("Dating Services").
 
 BY REGISTERING AND BECOMING A MEMBER SUBSCRIBING TO OUR DATING SITE SERVICES, OR OTHERWISE PROVIDING YOUR PERSONAL INFORMATION TO US, YOU AGREE TO THE COLLECTION, RETENTION, DISTRIBUTION AND USE OF YOUR PERSONAL INFORMATION BY US IN ACCORDANCE WITH THIS PRIVACY POLICY AND OUR TERMS AND CONDITIONS.
 
@@ -54,6 +54,12 @@ Third parties and websites linked to our site may collect or use information abo
 
 If you need to contact us for any reason, please do so at the following address:
 
-**Aiglis 15, Kermia Building, Office 303, 3090, Limassol, Cyprus  
-Romance Compass Ltd  
-Registration Number: 321665**
+**Sono RC LP**
+
+**16/5 West Pilton Rise,  **
+
+**Edinburgh,  **
+
+**EH4 4UQ,  **
+
+**United Kingdom**
