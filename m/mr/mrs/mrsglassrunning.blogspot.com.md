@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsglassrunning.blogspot.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230052107id_/http%3A//mrsglassrunning.blogspot.com/p/privacy-policy_8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsglassrunning.blogspot.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129085247id_/http%3A//mrsglassrunning.blogspot.com/p/privacy-policy_8.html) for the most accurate reproduction.*
 
 # Will Run For Ice Cream: Privacy / Disclosure Policy
 
