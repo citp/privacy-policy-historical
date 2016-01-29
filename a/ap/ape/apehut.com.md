@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apehut.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216094627id_/http%3A//apehut.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apehut.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129140044id_/http%3A//www.apehut.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
