@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artentertainments.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803070039id_/https%3A//artentertainments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artentertainments.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129123812id_/http%3A//artentertainments.com/privacy) for the most accurate reproduction.*
 
-# Likes.com
+# artentertainments
 
 Effective Date: 27 August 2013
 
