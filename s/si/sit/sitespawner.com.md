@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitespawner.com privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713140126id_/http%3A//www.sitespawner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitespawner.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129085834id_/http%3A//www.sitespawner.com/privacy.html) for the most accurate reproduction.*
 
 # WebSpawner.com: Privacy Policy - WebSpawner
 
