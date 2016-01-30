@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dunebook.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130035950id_/http%3A//dunebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunebook.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130043128id_/https%3A//www.dunebook.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | Dunebook.com
+# privacy policy | Dunebook - Learn Laravel , Angularjs , PHP Frameworks , Javascript and Ruby
 
 Privacy Policy  
 At dunebook.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by dunebook.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.  
