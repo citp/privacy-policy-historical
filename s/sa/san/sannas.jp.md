@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sannas.jp privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017051531id_/http%3A//www.sannas.jp/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sannas.jp privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130011836id_/http%3A//www.sannas.jp/en/privacy) for the most accurate reproduction.*
 
 # SANNA'S | Privacy Policy
 
