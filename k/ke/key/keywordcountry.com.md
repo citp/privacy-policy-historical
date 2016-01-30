@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordcountry.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201034716id_/http%3A//www.keywordcountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordcountry.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130031558id_/http%3A//www.keywordcountry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Keyword Country | www.keywordcountry.com
 
