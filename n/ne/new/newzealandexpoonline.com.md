@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newzealandexpoonline.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216210016id_/http%3A//www.newzealandexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzealandexpoonline.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130120241id_/http%3A//www.newzealandexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
