@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magsforeveryone.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213122312id_/http%3A//magsforeveryone.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magsforeveryone.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130202512id_/http%3A//magsforeveryone.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
 # Privacy Policy ― Mags For Everyone, 2015. All rights reserved
 
