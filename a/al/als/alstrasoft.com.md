@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230242id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131022329id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AlstraSoft PHP Clone Script Provider
 
@@ -34,8 +34,6 @@ The primary goal of AlstraSoft in collecting personal information is to provide 
 
 Who is collecting your information
 
-When you are asked for personal information on this web site, you are sharing that information with AlstraSoft alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the demo programs.
-
 With whom your information may be shared
 
 As a general rule, AlstraSoft will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. 
@@ -51,12 +49,6 @@ You also have choices with respect to cookies. By modifying your browser prefere
 The AlstraSoft does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
 
 The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-
-Other than the administrator of this web site or other authorized personnel of the AlstraSoft, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access. 
-
-We recommend that you do not divulge your password to anyone. AlstraSoft will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session when using AlstraSoft software demos. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, AlstraSoft cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
 How AlstraSoft protects children's privacy
 
