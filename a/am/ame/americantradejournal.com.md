@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americantradejournal.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201045342id_/http%3A//www.americantradejournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americantradejournal.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131041454id_/http%3A//www.americantradejournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Trade Journal
 
