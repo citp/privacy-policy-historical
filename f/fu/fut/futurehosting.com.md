@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futurehosting.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319064902id_/https%3A//www.futurehosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurehosting.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131135227id_/https%3A//www.futurehosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Future Hosting
+# Future Hosting Privacy Policy
 
 Future Hosting considers user privacy paramount, and Future Hosting utilizes great care in keeping the information of the customer and/or user (“Customer”) private and secure. Additionally, Future Hosting complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth set forth by the United States Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Future Hosting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Future Hosting’s certification, please visit http://www.export.gov/safeharbor/. To demonstrate our firm commitment to privacy, the following agreement has been created to explain our policies and procedures in relation to all data collected.
 
