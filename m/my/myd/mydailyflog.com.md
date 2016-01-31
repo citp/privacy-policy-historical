@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224190359id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131102204id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to MyDailyFlog! | MyDailyFlog
 
