@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124140718id_/http%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131111532id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us - Psych Central
 
