@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okp.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218225605id_/http%3A//okp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okp.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131203033id_/http%3A//okp.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
