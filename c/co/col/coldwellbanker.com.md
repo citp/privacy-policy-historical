@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117185851id_/https%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131061853id_/https%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Coldwell Banker
 
@@ -43,6 +43,15 @@ We send to your web browser some of the advertisements you see when you use our 
 We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches, (B) to receive, if you choose, to receive periodic industry updates, (C) to answer your questions or complaints, (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend, and (F) for analytical purposes to help us improve the Site and for our business generally.
 
 We may also use the Personal Information to inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products.
+
+We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, SDKs, and other technologies to identify your device when you use the Site, as well as when you visit other online sites and services, and such services will be covered by the privacy policy of the respective third parties.
+
+We use Google Analytics to collect information about use of the Site. More information on Google Analytics – including how you can control the information sent to Google - can be found here: [www.google.com/policies/privacy/partners.](http://www.google.com/policies/privacy/partners)
+
+If you have registered an account with the Coldwell Banker platform, your activity may be tracked using Google Analytics to provide cross-device usage reports. This data is not publicly shared, and contains no personally identifiable information. All data from these reports are used to evaluate and improve the experience of interacting with the Coldwell Banker platform. User activity is referenced using the Coldwell Banker user ID and does not share user email or name. To prevent this tracking, please disable the “Cross-Device Tracking” setting at the following link:   
+<https://www.coldwellbanker.com/account/settings#account>
+
+You may also choose to control some of the advertisements you receive on the Site by visiting [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 4\. Sharing Your Information
 
