@@ -1,79 +1,159 @@
-> *The following text is extracted and transformed from the postarticles.info privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214235646id_/http%3A//www.postarticles.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postarticles.info privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131124113id_/http%3A//postarticles.info/privacy.html) for the most accurate reproduction.*
 
-# Postarticles.info » Privacy Policy
+# - Post articles
 
-Your privacy is important to postarticles.info.  This privacy statement provides information about the personal information that postarticles.info collects, and the ways in which postarticles.info uses that personal information.
+Privacy Policy Statement  
+This is the web site of HimalayaIT.
 
-Personal information collection
+Our postal address is  
+000 W End Ave 00  
+New York NY 10000  
+We can be reached via e-mail at admin@domainprivateregistrationinfo  
+Telephone: 347-913-5920
 
-postarticles.info may collect and use the following kinds of personal information:
+We respect your interest in your privacy and as a result we have created   
+this informational disclosure. 
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+We collect and use personal information for many purposes, including but   
+not limited to, billing; product and service fulfillment; to better   
+understand our customer needs; to provide a better website, products and   
+services; to communicate with customers and potential customers regarding   
+our products and services and third party products and services. 
 
-Personal Information You Choose to Provide
+Generally, your private information will only be disclosed to our owners,   
+employees, independent contractors, subsidiaries, partners, affiliates,   
+attorneys, consultants, business associates, service providers, suppliers   
+and agents, acting on our behalf or request. This general rule, and   
+disclosures in specific situations, is more particularly described below. 
 
-Registration Information
+You must be at least 18 years old to access this website. We do not direct   
+this website to persons under 18, nor do we knowingly collect any personal   
+information from children under the age of thirteen. 
 
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+Information Collected by our ISP 
 
-Credit Card Information
+The hosting provider for this Internet site (as with any Internet site) has   
+the ability to record various information, including domain name, pages   
+accessed, date and time of access, web browser type and computer operating   
+system, and referring information, and to disclose this information. This   
+is most commonly done by providing access to raw server logs. For more   
+information you should perform an Internet search on 'server logs' or 'raw   
+server logs.' We may have access to our raw server logs and access reports   
+prepared by our hosting provider. 
 
-This information is never collected or stored by us. Any information submitted by the buyer will be used only for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+Financial Information for Billing Purposes 
 
-Email Information
+We sell products and services. When sales are made financial information   
+must be disclosed. This information can include any number of facts you are   
+asked to provide, but most commonly includes your name, financial / credit   
+card information, billing address, and email address. Generally, this   
+purchase information will be provided by you to a third party payment   
+processor and we do not receive your financial / credit card information. 
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+In the event we do receive financial / credit card information, we will not   
+disclose it to anyone unless disclosure is required by law or a court   
+order, or unless disclosure is required to address an issue implicated by   
+the financial transaction. If you claim that your financial information   
+was used to make a purchase you did not authorize, details about the   
+financial transaction may be disclosed to law enforcement and anyone else   
+we deem necessary to address the matter. 
 
-Using personal information
+Use of eMail Addresses and other Contact Information 
 
-postarticles.info may use your personal information to:
+An important part of our services includes being able to provide   
+information to you. As a result, you expressly consent to receiving   
+communications from us via email, fax, telephone, mail, text, SMS, or any   
+other delivery method, including to your cell phone. 
 
-o [administer this website;]  
-o [personalize the website for you;]  
-o [enable your access to and use of the website services;]  
-o [publish information about you on the website;]  
-o [send to you products that you purchase;]  
-o [supply to you services that you purchase;]  
-o [send you statements and invoices;]  
-o [collect payments from you; and]  
-o [send you marketing communications.]
+As a customer you are agreeing to receive information about the product or   
+service you purchased. This may include, but is not limited to, information   
+about product or service updates, new features, or information we believe   
+you may find interesting. 
 
-Where postarticles.info discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+We may also send you information about other products and services our   
+company offers. 
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, postarticles.info may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+We will not sell, provide, or transfer you email address to others. 
 
-Securing your data
+We may allow advertising to our customers, or engage in joint ventures,   
+which result in your receiving advertisements from selected third parties. 
 
-postarticles.info will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+Identification of Purchasers 
 
-postarticles.info will store all the personal information you provide on its secure servers.
+If you purchase one of our products or services, you authorize us to use   
+your name and identification information in advertising or promotions. 
 
-[Information relating to electronic transactions entered into via this website will be  protected by encryption technology.]
+We also use personal information in an aggregate form (i.e., not   
+individually attributable to you) for business analysis, operational,   
+marketing and other promotional purposes. 
 
-Cross-border data transfers
+Unless we provide access to a membership area, account, or provide an   
+ability to have and change a username, password, email address, or other   
+similar information, we do not have the capability to allow users to review   
+and request changes their personal information. 
 
-Information that postarticles.info collects may be stored and processed in and transferred between any of the countries in which postarticles.info operates to enable the use of the information in accordance with this privacy policy.
+Cookies and Tracking 
 
-[In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.]
+Cookies may be used to keep track of referred affiliate commissions and to   
+monitor access to our website. You consent to any future use of cookies   
+for testing purposes and the use of cookies for publicly available data to   
+gather statistics for the purpose of determining which search engines,   
+referring sites, key words, etc., bring visitors to our website, which   
+pages visitors are most interested in, what web browsers are used, etc.   
+Various providers may be used for this purpose. The purpose is to obtain   
+information that will help promote the website, make the website more   
+interesting and useful to visitors, and to identify areas where improvement   
+is needed. 
 
-You agree to such cross-border transfers of personal information.
+Our website does not respond to “do not track” requests from a web browser   
+or other device, or other similar requests or procedures. 
 
-Updating this statement
+Additionally, various third party information suppliers and other entities   
+that provide information for this website, or for use by us, may use   
+cookies. Examples include, but are not necessarily limited to billing   
+providers, third party advertisers, and third party resources we promote. 
 
-postarticles.info may update this privacy policy by posting a new version on this website.
+We may also allow third party advertisers to display ads on our website.   
+We are not in a position to know if they collect identifiable information   
+about an individual consumer’s online activities over time and across   
+different websites, so you should assume they do. In most web browsers you   
+can choose not to accept cookies from third party sites or third-party   
+cookies. 
 
-You should check this page occasionally to ensure you are familiar with any changes.
+Disclosure by Necessity 
 
-Other websites
+Private information may be disclosed if required by a court order, statute,   
+law, or regulation. 
 
-This website contains links to other websites.
+Information is subject to disclosure to address a claim that you are   
+violating the terms of any agreement pertaining to your use of your use   
+this website or our products or services, or rights of any third party. 
 
-postarticles.info is not responsible for the privacy policies or practices of any third party.
+Information is also subject to disclosure if we believe that disclosure is   
+necessary to identify, contact or bring an action against someone who may   
+be causing injury to or interfering (either intentionally or   
+unintentionally) with our rights or property, your rights or property,   
+other users of our website, products or services, or anyone else. 
 
-Contact Admin – Askcarletta.com
+As we continue to develop our business, we or our affiliates may sell or   
+buy other businesses or entities, or we may merge with another company, or   
+be bought by another company. In such transactions, personal information   
+may be one of the transferred assets. 
 
-This privacy statement
+Your information may be stored and processed in any country in which we   
+maintain facilities or conduct operations. By using our website, products   
+and services, you consent to any such transfer of information outside of   
+your country. 
 
-This privacy statement is based on a precedent created by
+After your account becomes inactive your information may remain in our   
+databases, computers, and archives, and cannot reasonably be expunged. 
 
-employmentlawcontracts.co.uk and published by freenetlaw.com.
+Policy Changes 
+
+These policies may be amended by us at any time and without notice, but   
+will be posted at this page. 
+
+You agree that your continued use of our websites, product or service after   
+that date will constitute your consent and acceptance of the amendment. 
+
+Effective Date: September 30, 2015
