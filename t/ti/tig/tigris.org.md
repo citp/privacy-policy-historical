@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigris.org privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915025819id_/http%3A//www.tigris.org/nonav/servlets/LegalNotices%3Ftype%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigris.org privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131142316id_/http%3A//www.tigris.org/nonav/servlets/LegalNotices%3Ftype%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # LegalNotices
 
