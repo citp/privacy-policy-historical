@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011843id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131233323id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,11 +19,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 ## How we use collected information
 
 Quick LOL.com may collect and use Users personal information for the following purposes:  
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.  
 How we protect your information
 
