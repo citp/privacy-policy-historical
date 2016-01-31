@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browardschools.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811043238id_/http%3A//browardschools.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardschools.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131105320id_/http%3A//www.browardschools.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Broward County Public Schools - Privacy Policy
 
