@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnearnown.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112223id_/http%3A//www.myleobusiness.com/R2/R2_PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnearnown.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131165930id_/http%3A//www.learnearnown.com/AboutLEO/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - LEO
+# LEO
 
 ###### What information do we collect?
 
@@ -62,11 +62,11 @@ This online privacy policy applies only to information collected through our web
 
 ###### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.myleobusiness.com/R2/R2_TermsConditions.aspx>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.learnearnown.com/AboutLEO/PrivacyPolicy](https://web.archive.org/AboutLEO/TermsConditions)
 
 ###### Your Consent
 
-By using our site, you consent to our [privacy policy](http://www.myleobusiness.com/R2/R2_PrivacyPolicy.aspx).
+By using our site, you consent to our [privacy policy](https://web.archive.org/AboutLEO/PrivacyPolicy).
 
 ###### Changes to our Privacy Policy
 
