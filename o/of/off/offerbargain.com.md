@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerbargain.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021185851id_/http%3A//offerbargain.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerbargain.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131011411id_/http%3A//offerbargain.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
 
 # offerbargain.com Privacy Policy
 
