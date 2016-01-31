@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbseo.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226054742id_/http%3A//abbseo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbseo.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131094550id_/http%3A//abbseo.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | abbseo.com
 
