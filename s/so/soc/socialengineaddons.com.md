@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialengineaddons.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414025940id_/http%3A//www.socialengineaddons.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialengineaddons.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201141043id_/https%3A//www.socialengineaddons.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialEngineAddOns
 
