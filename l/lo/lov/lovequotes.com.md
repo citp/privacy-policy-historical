@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovequotes.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501102520id_/http%3A//www.lovequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovequotes.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201140921id_/https%3A//www.lovequotes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LoveQuotes.com
+# Privacy Policy | Love Quotes
 
 **Your Privacy**
 
