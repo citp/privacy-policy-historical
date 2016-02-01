@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052854id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201053052id_/https%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Math, Science, English, Test Prep - Brightstorm
 
