@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512095211id_/http%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202004624id_/https%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Creativebug - Craft Classes & Workshops - What will you make today?
 
@@ -87,7 +87,7 @@ Identity theft and phishing are of great concern to Creativebug. Safeguarding in
 
 ## Testimonials
 
-We may post your testimonial on the Site along with your name. If you want your testimonial removed please contact us at [support@creativebug.com](mailto:support@creativebug.com).
+We may post your testimonial on the Site along with your name. If you want your testimonial removed please contact us at [support@creativebug.com](https://creativebughelp.zendesk.com/hc/en-us/requests/new).
 
 ## Affiliate Program
 
