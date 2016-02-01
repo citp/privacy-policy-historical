@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002061551id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201211222id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consumer-Rankings.com
 
@@ -134,8 +134,6 @@ For more information on how your personally identifiable information is collecte
 
 PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
 
-LAST UPDATED 09-05-2013
+LAST UPDATED 02-25-2015
 
 Copyright © Consumer-Rankings.com, 2013 All Rights Reserved.
-
-Back to Top
