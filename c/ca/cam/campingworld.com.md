@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215135530id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201093607id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Camping World
 
@@ -11,7 +11,7 @@ The majority of the product and service information posted on our sites is offer
 
 There are a few activities on our sites where the collection of personally identifiable information is necessary. Those activities include things like entering a contest or sweepstakes, making a purchase, requesting a catalog, newsletter or other information, registering to our sites or the Open Roads Forum, filling out a survey or questionnaire or contacting us. We do not market to, seek to solicit information from or knowingly collect information from children.. 
 
-When personally identifiable information is collected, you will know because you will have to provide such information to us. For most activities, we collect only your name, e-mail address, street address, zip code, birth date, and RV type. When you make a purchase, we also collect your billing address, your phone number, and credit card information. 
+When personally identifiable information is collected, you will know because you will have to provide such information to us. For most activities, we collect only your name, e-mail address, street address, ZIP Code, birth date, and RV type. When you make a purchase, we also collect your billing address, your phone number, and credit card information. 
 
 **Information Collected from You with Technology**
 
@@ -40,6 +40,16 @@ On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in
 **Content Providers**
 
 On some of our sites, we provide content that is created by a third-party Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between our third-party sponsors and us. 
+
+**Mobile and Geo-Location**
+
+When you download a mobile application from us, we have the ability to use a service provider to provide you with push notifications containing marketing messages to your mobile device. Your device may allow you to opt out of these push notifications by accessing your device's application or notification settings for the Camping World app. Camping World has no control over the application permission notifications that may be provided to you on download from a third party app store or the ability of your device to opt-out of these push notifications. 
+
+In addition, if you download our mobile app, we may also send you push notifications based on your location if you activate your location settings on your device. Your ability to turn off location settings and the method for doing so will vary according to your mobile device. You may not be able to deactivate location based notifications without turning off all location services on certain mobile devices. 
+
+If you choose to share your location with us, we use a service provider to approximate your position based on one or more of the following, as available: network location (cell tower triangulation) technology, GPS and wi-fi signals. IF YOU DO NOT WANT USE TO HAVE ACCESS TO YOUR LOCATION, YOU MAY CHANGE YOUR LOCATION SETTINGS AS PERMITTED BY YOUR MOBILE DEVICE. CAMPING WORLD HAS NO RESPONSIBILITY OR LIABILITY FOR THE FUNCTION OF LOCATION SETTINGS WITHIN ANY MOBILE DEVICE. 
+
+Once you allow location based tracking through a mobile application or mobile website, you are agreeing that we can collect and use your location data and can continue to do so until you turn off your location settings and/or opt out of that usage, as may be permitted by your mobile device. We use this location based data to track your general shopping patterns and stores that you visit and also aggregate this data to help understand general consumer patterns and trends. 
 
 **Third-Party Advertisers and Network Advertisers**
 
