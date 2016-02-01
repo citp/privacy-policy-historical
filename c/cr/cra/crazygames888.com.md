@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazygames888.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816181911id_/http%3A//g55.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazygames888.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201021915id_/http%3A//g55.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,11 @@ Any personal information that you disclose while visiting any of our websites is
 **Questions and Complaints**  
 If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us by using the contact form.
 
-By using this app, you signify your assent to the G55.CO Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+By using this site, you signify your assent to the G55.CO Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+
+**Additional Information**  
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
