@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobi11.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329081543id_/http%3A//www.mobi11.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobi11.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201151312id_/http%3A//www.mobi11.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobi11.com
 
@@ -20,10 +20,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Mobi11.com collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_ Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _– To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _– To improve customer service_ Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _– To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
