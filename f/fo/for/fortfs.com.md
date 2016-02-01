@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortfs.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023175621id_/https%3A//static.fortfs.com/download/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortfs.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201161324id_/https%3A//static.fortfs.com/download/privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
