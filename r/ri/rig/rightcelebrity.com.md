@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightcelebrity.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008023429id_/http%3A//www.rightcelebrity.com/%3Fpage_id%3D3018) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightcelebrity.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202005726id_/http%3A//www.rightcelebrity.com/%3Fpage_id%3D3018) for the most accurate reproduction.*
 
 # Privacy Policy | Right Celebrity
 
