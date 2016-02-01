@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websbestsex.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702052336id_/http%3A//www.milfaholic.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websbestsex.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201085613id_/http%3A//www.milfaholic.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds5) for the most accurate reproduction.*
 
 # Free MILF Dating, Mature Dating and Cougar Dating at Milfaholic.com
 
