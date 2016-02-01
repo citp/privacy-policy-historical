@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817121859id_/http%3A//www.easybib.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201072207id_/http%3A//www.easybib.com/company/privacy) for the most accurate reproduction.*
 
 # EasyBib: Free Bibliography Generator - MLA, APA, Chicago citation styles
 
