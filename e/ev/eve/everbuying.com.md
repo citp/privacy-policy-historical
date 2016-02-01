@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everbuying.com privacy policy that was archived on 2015-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150110054141id_/http%3A//www.everbuying.com/m-article-id-83.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbuying.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201223438id_/http%3A//www.everbuying.com/m-article-id-83.html) for the most accurate reproduction.*
 
 # Privacy Policies - Everbuying.com
 
-Everbuying.com (hereinafter "Everbuying" or "we") values the privacy of our customers/visitors and takes every known precaution to safeguard the information we collect from unauthorized use.  The following is a detailed explanation of the privacy policy for Everbuying.  
+Everbuying.net (hereinafter "Everbuying" or "we") values the privacy of our customers/visitors and takes every known precaution to safeguard the information we collect from unauthorized use.  The following is a detailed explanation of the privacy policy for Everbuying.  
 
 
 **What information do we collect?**  
