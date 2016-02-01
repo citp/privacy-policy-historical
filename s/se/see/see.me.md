@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101043248id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201060859id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
 
 # See | Me - Bringing creativity back to the real world.
 
