@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223153455id_/http%3A//sifterapp.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201074714id_/http%3A//sifterapp.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sifter
 
 We care deeply about your privacy and the privacy of your data. We strive to maintain the highest possible [backup and security standards](https://web.archive.org/policies/security/) to protect that data. And we aim to be as transparent as possible about our practices. If you have any questions, concerns, or suggestions about how we can improve, please don’t hesitate to [contact us](mailto:support@sifterapp.com?subject=Your%20Privacy%20Policy).
 
-We never record or capture any personally identifiable information unless you explicitly provide that information to us for the purposes of subscribing to one of our newsletters or setting up a Sifter account. 
+We never record or capture any personally identifiable information unless you explicitly provide that information to us for the purposes of subscribing to one of our newsletters or setting up a Sifter account.
 
 ## For Analytics & Advertising
 
