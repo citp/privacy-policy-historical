@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the 1and1.org privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717032430id_/http%3A//www.1and1.com/PrivacyPolicy%3F__lf%3DStatic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.org privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201062701id_/http%3A//www.1and1.com/terms-policy-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
 
-# 1&1 Internet - Privacy Policy
+# 1&1 Internet T&C - Privacy policy
 
 1&1 Internet Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which 1&1 Internet Inc. (1&1) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
 
 ## Information We Collect
 
-1&1 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. 
+1&1 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-The data we collect is information that identifies you personally, such as: 
+The data we collect is information that identifies you personally, such as:
 
   * Your name
   * E-mail address
@@ -20,7 +20,7 @@ The data we collect is information that identifies you personally, such as:
 
 
 
-1&1 may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies. 
+1&1 may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
 ## What are Cookies?
 
@@ -48,7 +48,7 @@ On rare occasions, it is necessary to send out a strictly service-related announ
 
 ## Legally-Required Disclosures
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, or if 1&1 believes that disclosure is necessary to protect 1&1\x92s rights and/or to comply with a judicial proceeding, court order, subpoena or other legal process. 1&1 may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary. Please see our [Subpoena Policy](http://www.1and1.com/SubpoenaPolicy) for more information.
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, or if 1&1 believes that disclosure is necessary to protect 1&1\x92s rights and/or to comply with a judicial proceeding, court order, subpoena or other legal process. 1&1 may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary. Please see our [Subpoena Policy](http://www.1and1.com/terms-policy-subpoena) for more information.
 
 ## Third Party Websites
 
