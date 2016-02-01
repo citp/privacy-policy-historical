@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1and1.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908062658id_/http%3A//www.1and1.co.uk/terms-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.co.uk privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201164718id_/https%3A//www.1and1.co.uk/terms-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
 
 # 1&1 Internet Limited - Privacy Policy
 
@@ -29,6 +29,8 @@ This privacy policy governs the manner in which 1&1 Internet, Ltd. (1&1) uses, m
 ## What are Cookies?
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. 1&1 may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer's hard drive for an extended period of time. Your browser's help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by 1&1 to track user preferences while the user is visiting the website. They also help to minimise load times and save on server processing. Persistent cookies may be used by 1&1 to store, for example, whetheror not you want your password remembered, or other such information. Cookies used on the 1&1 Website do not contain personally identifiable information. 
+
+We use Google Analytics on our website. How Google uses the data when you use our website may be found [here](http://www.google.com/policies/privacy/partners/). You may disable the Google Analytics function by means of a [browser add-on](http://www.google.com/policies/privacy/partners/) to ensure the prevention of the sending of any analytical information to Google.
 
 ## Log Files
 
