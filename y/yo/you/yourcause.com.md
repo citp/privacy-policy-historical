@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010532id_/http%3A//www.csrconnect.me/Privacy-and-Terms-of-Use.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201175757id_/http%3A//www.csrconnect.me/Privacy-and-Terms-of-Use.html) for the most accurate reproduction.*
 
 # Privacy and Terms of Use | CSRconnect
 
