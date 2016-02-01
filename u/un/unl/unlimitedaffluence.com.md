@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlimitedaffluence.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112212810id_/http%3A//www.unlimitedaffluence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedaffluence.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201201325id_/http%3A//www.unlimitedaffluence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Internet Marketing Experts
 
