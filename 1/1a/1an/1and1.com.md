@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1and1.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128002949id_/http%3A//www.1and1.com/terms-policy-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201062701id_/https%3A//www.1and1.com/terms-policy-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
 
 # 1&1 Internet T&C - Privacy policy
 
