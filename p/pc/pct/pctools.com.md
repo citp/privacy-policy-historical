@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025095121id_/http%3A//www.pctools.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201043333id_/http%3A//www.pctools.com/info/privacypolicy) for the most accurate reproduction.*
 
 # PC Tools Privacy Policy
 
 ## Pctools.com Privacy Policy
 
-Last updated 14 July 2009
+Last updated 2012, 7 May
 
-This policy sets out PC Tools Limited's and its affiliated companies (collectively, "PC Tools") privacy practices in connection with all of the products, services and websites offered by PC Tools (collectively, "services").
+This policy sets out PC Tools S.à.r.l.'s and its affiliated companies (collectively, "PC Tools") privacy practices in connection with all of the products, services and websites offered by PC Tools (collectively, "services").
 
-If you have any questions about this policy, are concerned about how personal data is processed by PC Tools, or if you wish to receive a copy of any personal data which you may have supplied to PC Tools, please feel free to [contact us](https://web.archive.org/contact/) through our website or write to us at PC Tools Limited, c/- PO Box 1974, North Sydney NSW 2060, Australia.
+If you have any questions about this policy, are concerned about how personal data is processed by PC Tools, or if you wish to receive a copy of any personal data which you may have supplied to PC Tools, please feel free to [contact us](https://web.archive.org/contact/) through our website or write to us at PC Tools S.à.r.l., c/- PO Box 1974, North Sydney NSW 2060, Australia.
 
 ### General statement
 
-PC Tools fully respects your right to privacy, and will not collect any personal information about you without your clear permission. Any personal information which you volunteer to PC Tools will be treated with the appropriate standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 & 2003.
+PC Tools fully respects your right to privacy, and will not collect any personal information about you without your clear permission. Any personal information which you volunteer to PC Tools will be treated with the appropriate standards of security and confidentiality, strictly in accordance with the applicable data protection regulations.
 
 ### Collection and use of personal information
 
@@ -26,7 +26,7 @@ Your personal data may also be anonymised and used for statistical purposes.
 
 ### Your rights regarding data supplied to PC Tools
 
-You have a right to be given a copy of any personal data which you may have supplied to PC Tools in connection with any service. To exercise this right, you must [contact us](https://web.archive.org/contact/) through our website or write to us at PC Tools Limited, c/- PO Box 1974, North Sydney NSW 2060, Australia. If you are contacting us by mail, you should include any personal identifiers which you supplied earlier (e.g. name, address, phone number, e-mail address). Your request will be dealt with as soon as possible and will take not more than 40 days to process.
+You have a right to be given a copy of any personal data which you may have supplied to PC Tools in connection with any service. To exercise this right, you must [contact us](https://web.archive.org/contact/) through our website or write to us at PC Tools S.à.r.l., c/- PO Box 1974, North Sydney NSW 2060, Australia. If you are contacting us by mail, you should include any personal identifiers which you supplied earlier (e.g. name, address, phone number, e-mail address). Your request will be dealt with as soon as possible and will take not more than 40 days to process.
 
 You also have a right to have any inaccurate information corrected. If you discover that PC Tools does hold inaccurate information about you, you have a right to instruct PC Tools to correct that information. Such instruction must be in writing or via e-mail. Your request will be dealt with as soon as possible and will take not more than 40 days to process.
 
@@ -60,6 +60,123 @@ The technical information will be used only by PC Tools, and only for statistica
 ### Other websites
 
 PC Tools is not responsible for the content or privacy practices of other websites accessible from this website via external links. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Any external links to other websites are clearly identifiable as such.
+
+### Cookies on PCTools.com
+
+The cookies used on this site are described according to the following cookie categories based on the International Chamber of Commerce guide for cookies:
+
+  * Strictly Necessary
+  * Performance
+  * Functionality
+  * Targeting 
+
+
+
+### STRICTLY NECESSARY COOKIES
+
+These cookies do not collect any information about you that could be used for marketing purposes or to track your navigation on other websites.
+
+### Purposes
+
+We use Strictly Necessary Cookies for the following purposes:
+
+  * Differentiate you from other users on the site, and provide you the appropriate content you requested
+  * Prevent fraud transactions in the shopping cart
+  * Provide VeriSign Trust Seal in the shopping cart 
+
+
+
+### List of Strictly Necessary Cookies (First Party)
+
+ASP.NET_SessionId  
+PHPSESSID  
+thx_guid  
+v1st  
+
+
+### PERFORMANCE COOKIES
+
+These cookies do not collect any information about you that could be used for marketing purposes, to track your navigation on other websites, or to send you targeted ads. These cookies collect information about how visitors use our website, for instance which pages they go to most often, and if they get error messages from web pages. These are only used to improve how a website works.
+
+### Purposes
+
+We use Performance Cookies for the following purposes:
+
+  * Perform Web Analytics, including determining service performance and counting number of visitors to our sites, pages that referred you to our sites, etc
+  * Establish and continue sessions
+  * Perform A/B testing of web pages
+
+
+
+You can opt out from these cookies by adjusting your browser settings to reject cookies. If you have previously visited our websites, you may also have to delete any existing cookies from your browser. Also, you can opt out from Omniture cookies at: [http://www.omniture.com/en/privacy/2o7#optout.](http://www.omniture.com/en/privacy/2o7#optout)
+
+### List of Performance Cookies (First Party):
+
+__utma  
+__utmb  
+__utmc  
+__utmz  
+buySAFEUID  
+mbox  
+s_pers  
+s_sess   
+s_sv_112_p1  
+s_sv_112_s1  
+s_vi  
+
+
+### Third Party Performance Cookies
+
+### FUNCTIONALITY COOKIES
+
+We do not use functionality cookies to target you with advertisements on other websites. These cookies allow the website to detect some features of your device, for instance if you are using a mobile to navigate, and to remember choices you make (such as your user name, language or region you are in) and provide enhanced, more personal features. These cookies can be used to remember changes made to text size, fonts and other parts of web pages that can be customized. They may also be used to provide services you asked for such as watching a video, initiating a chat, or commenting on a blog. These cookies cannot track browsing activity on other websites.
+
+### Purposes
+
+We use functionality cookies for the following purposes:
+
+  * Provide proactive chat sessions
+  * Limit proactive chat sessions
+  * Identify when you have clicked on the chat button
+  * Deliver appropriate chat content to you
+  * Use the appropriate language for chat based on your Geo IP location
+  * Maintain chat history for the session
+  * Identify when you initiated the last chat 
+  * Provide customer support forum functionality, including identifying when you are active on the forum, which session is yours, on which page and at what time 
+
+
+
+Some of these cookies are managed for us by third parties. You can control the use of these cookies, but if you opt out from them, we may be unable to offer some services or support and we may also be unable to remember that you did not want a certain service.
+
+### List of Functionality Cookies (First Party):
+
+bb_lastactivity  
+bb_lastvisit  
+bb_sessionhash  
+checkout  
+IS3_History  
+IS3_GSV  
+isvt_visitor  
+LastVisit  
+mlaccepted  
+mlreferer  
+
+
+### TARGETING COOKIES
+
+Targeting cookies on our sites are linked to services provided by third parties. Our third party provides these services in return for recognising that you have visited our website. 
+
+### Purposes
+
+We use targeting cookie for the following purposes:
+
+  * Identify which pages you have used and found helpful, while on our websites
+
+
+
+### List of Targeting Cookies (First Party):
+
+reftrack
 
 ### Changes to this policy
 
