@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beamite.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514082009id_/http%3A//beamite.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamite.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201045022id_/http%3A//beamite.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
 # Privacy Policy ― Beamite.com
 
