@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lecturebooksonline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230212044id_/http%3A//lecturebooksonline.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecturebooksonline.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202001105id_/http%3A//lecturebooksonline.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
 # Privacy Policy ― Lecture Books Online © 2014. All rights reserved.
 
