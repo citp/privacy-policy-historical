@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printrunner.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506002137id_/http%3A//www.printrunner.com/secure/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printrunner.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202081455id_/http%3A//www.printrunner.com/secure/privacy-policy.html) for the most accurate reproduction.*
 
 # PrintRunner Printing Company Privacy Policy
 
@@ -77,7 +77,7 @@ PrintRunner.com
 Digital Room, Inc.  
 8000 Haskell Avenue  
 Van Nuys, CA 91406  
-We can be reached via email at [info@printrunner.com](mailto:info@printrunner.com) or by telephone at 1-888-774-6889. 
+We can be reached via email at [info@printrunner.com](mailto:info@printrunner.com) or by telephone at 1-888-296-5760. 
 
 **Changes to the Privacy Policy**  
 PrintRunner.com reserves the right to amend this Privacy Policy at any time with or without notice. Any changes will be posted on this page. PrintRunner.com encourages you to check this page regularly. If you provide information to us, access, or use the Site in any way after this Privacy Policy has been changed, you will be deemed to have unconditionally consented and agreed to such changes. The most current version of this Privacy Policy will be available on the web page at all appropriate times and will supersede all previous versions of this Privacy Policy. 
