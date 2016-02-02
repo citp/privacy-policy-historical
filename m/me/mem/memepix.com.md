@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memepix.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905033920id_/http%3A//memepix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memepix.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202163523id_/http%3A//memepix.com/privacy) for the most accurate reproduction.*
 
 # MemePix - Privacy Policy
 
