@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansible.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905183938id_/http%3A//www.ansible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansible.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202030330id_/https%3A//www.ansible.com/privacy-policy) for the most accurate reproduction.*
 
 # Ansible Privacy Policy
 
@@ -48,7 +48,7 @@ We collect Personal Data from you when you --
 
 
 
-By submitting Personal Data through [www.ansible.com](http://www.ansible.com/) or in connection with use of the Ansible Products you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
+By submitting Personal Data through [www.ansible.com](https://www.ansible.com/) or in connection with use of the Ansible Products you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
 
 We also retain information on your behalf, such as files and messages that you store using your account.  By providing feedback on any of the Ansible Products or our website, you agree we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Data.
 
@@ -91,7 +91,7 @@ If we establish a parent company, one or more subsidiaries, joint ventures or ot
 ## COOKIES MAY BE USED TO:
 
   * Measure traffic patterns on our website and the areas of the website you have visited, and your visiting patterns generally. We may use this information to better personalize the content and promotions you and other users will see on our sites.
-  * Estimate our audience size. Each browser accessing [www.ansible.com](http://www.ansible.com/) is given a unique cookie that is used to determine the extent of repeat usage and usage by a registered user versus by an unregistered user.
+  * Estimate our audience size. Each browser accessing [www.ansible.com](https://www.ansible.com/) is given a unique cookie that is used to determine the extent of repeat usage and usage by a registered user versus by an unregistered user.
   * Remind us of who you are and to access your account information in order to provide a better and more personalized service. This cookie is set when you register or "sign in" and is modified when you "sign out" of our services.
   * Track the progress and number of entries, submissions and status in Ansible promotions, sweepstakes, and contests.
 
