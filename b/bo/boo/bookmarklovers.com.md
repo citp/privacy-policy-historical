@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarklovers.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811173159id_/http%3A//www.bookmarklovers.com/privicypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarklovers.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202145819id_/http%3A//www.bookmarklovers.com/privicypolicy.html) for the most accurate reproduction.*
 
 # Bookmarklovers
 
