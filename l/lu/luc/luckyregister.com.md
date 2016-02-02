@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218215342id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202223133id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
 
 # LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Privacy Policy | LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects Your Privacy
 
-**Last Revised: March 10, 2015**
+**Last Revised: January 11, 2016**
 
 LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
 
@@ -20,15 +20,17 @@ We use your information to contact you regarding functionality changes to our pr
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Our Site uses cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer number, which is associated with the information in your account.  If you reject cookies, you may still use our Site, but your ability to use some features or areas may be limited.
 
-Our Site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer number, which is associated with the information in your account.
+Within our Site we and our partners, affiliates, and/or analytics or service providers use techologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site, track users' movements around the Site, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis.
 
-This Site also contains links to other websites. Unfortunately, LuckyRegister - Cheap Domain Registration, Domain Hosting Services - is not responsible for the privacy practices or the content of such sites.
+As is true of most websites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, brower type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data.  We use this information gathered about you from our Site to help personalize search results, diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+This Site and our mobile applications contain links to other websites. Unfortunately, LuckyRegister - Cheap Domain Registration, Domain Hosting Services - is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We use security measures to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. 
 
@@ -41,10 +43,6 @@ The information you send to us may be stored and used to improve this Site and o
 **Third Party Service Providers**
 
 We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-We may also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click [here](http://media.godaddy.com/optout.html).
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Google Analytics**
 
@@ -66,13 +64,19 @@ In order to provide certain services to you, we may on occasion supplement the p
 
 **Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
 
 We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 **Targeted Advertisements**  
 
-LuckyRegister - Cheap Domain Registration, Domain Hosting Services - may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services - may display targeted, or interest-based, offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+
+We also partner with third parties to manage our advertising on other websites.  Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other websites in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to not have this information used for the purpose of serving you with targeted ads, you may opt out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).  
+
+We also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click [here](http://media.godaddy.com/optout.html).
+
+Please note that opting out of targeted advertisements does not completely opt you out of being served with ads.  You will continue to receive generic ads. 
 
 **Tell-A-Friend**
 
