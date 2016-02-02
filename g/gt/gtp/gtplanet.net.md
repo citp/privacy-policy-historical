@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908154702id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202065256id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – GTPlanet
 
@@ -30,7 +30,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Correct/Update Personal Information**
 
-This site gives users the following options for changing and modifying information previously provided, located [here](https://www.gtplanet.net/forum/usercp.php).
+This site gives users the following options for changing and modifying information previously provided, located [here](https://www.gtplanet.net/forum/account/personal-details).
 
 **Contacting GTPlanet**
 
