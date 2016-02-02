@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivecams.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215193435id_/http%3A//www.massivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivecams.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202143424id_/http%3A//www.massivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MassiveCams - Privacy Policy
 
