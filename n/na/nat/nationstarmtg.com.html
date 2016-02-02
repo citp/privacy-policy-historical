@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the nationstarmtg.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906133518id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationstarmtg.com privacy policy that was archived on 2016-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160202034819id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js borderradius"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="robots" content="noodp"><meta name="google-site-verification" content="h6jpXCEr8viZrkS5eG8N92W1Hokyo85BwQt5iY6RanE"><meta name="msvalidate.01" content="A817DE9B2765ACCEFB130C1B1997E4BB"><title>
 	
-    
+  
   
     Privacy Policy | Nationstar Mortgage
 
 
 
-</title><meta name="description" content="At Nationstar Mortgage, customer service, trust and confidence is a high priority. View our Privacy Policy to learn more."><meta name="keywords" content="– home loan originator, home loan, home loans, mortgage loan, mortgage lender, fha loan, va home loan, usda home loan, arm loan, tx home loan, texas home loan"><meta name="google-site-verification" content="vRdxG7xwWOYpKuM2RhAmlKOP3M6D_qyJLencsPjImSU"><link href="content/_nationstar.css?ver=2" rel="stylesheet" type="text/css"><link rel="icon" type="image/png" href="ns01.png">
+</title><meta name="description" content="At Nationstar Mortgage, customer service, trust and confidence is a high priority. View our Privacy Policy to learn more."><meta name="keywords" content="– home loan originator, home loan, home loans, mortgage loan, mortgage lender, fha loan, va home loan, usda home loan, arm loan, tx home loan, texas home loan"><meta name="google-site-verification" content="vRdxG7xwWOYpKuM2RhAmlKOP3M6D_qyJLencsPjImSU"><link href="content/_nationstar.css?ver=2" rel="stylesheet" type="text/css"><link rel="icon" type="image/png" href="favicon.png">
     <!--<link rel="shortcut icon" type="image/x-icon" href="nationstar.ico" />-->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!--<link rel="apple-touch-icon" href="ns01.png" />-->
@@ -25,7 +25,7 @@
     <link href="content/ie7hacks.css" rel="stylesheet" type="text/css" />
     <![endif]-->
     
-        <script type="text/javascript" async="" src="//com-nationstar.netmng.com/?aid=3542&amp;siclientid="></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PT5RFM"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/jquery.js" type="text/javascript"></script>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PT5RFM"></script><script src="/scripts/jquery.js" type="text/javascript"></script>
         <script src="/scripts/jquery.ui.js" type="text/javascript"></script>
         <script src="/scripts/jquery.cycle.all.min.js" type="text/javascript"></script>
         <!-- A jQuery Cycle is a slideshow plugin that supports many different types of transition effects -->
@@ -46,7 +46,7 @@
         <script type="text/javascript"> _root = "/";</script>
         
     
-    
+  
 
   
 
@@ -60,6 +60,7 @@
     <link href="/content/menu-horizontal.css" rel="stylesheet" type="text/css">
     <link href="/content/tables.css" rel="stylesheet" type="text/css">
     <link href="/content/myaccount.css" rel="stylesheet" type="text/css">
+    <link href="/content/custom.css" rel="stylesheet" type="text/css">
       
   
 
@@ -73,151 +74,171 @@
    
 
 
-        <script type="text/javascript">
 
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-12910956-1']);
-            _gaq.push(['_trackPageview']);
+    
 
-            (function () {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
+    <script type="text/javascript">
 
-        </script>
+      $(document).ready(function () {
 
-    <!-- Google Tag Manager -->
+        try {
+          // BEGIN - Users are not able to see the drop down menu on iPhone
+          $('#masterMenuHomeownerAssistance li').bind('touchstart', function () {
+            $(this).addClass('hover');
+          }).bind('touched', function () {
+            $(this).removeClass('hover');
+          });
 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PT5RFM"
+          $('#masterMenuCustomerCenter li').bind('touchstart', function () {
+            $(this).addClass('hover');
+          }).bind('touched', function () {
+            $(this).removeClass('hover');
+          });
 
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+          $('#masterMenuApplyToday li').bind('touchstart', function () {
+            $(this).addClass('hover');
+          }).bind('touched', function () {
+            $(this).removeClass('hover');
+          });
 
-<script>(function (w, d, s, l, i) {
-w[l] = w[l] || []; w[l].push({
-'gtm.start':
+          $('#masterMenuApplyToday li').bind('touchstart', function () {
+            $(this).addClass('hover');
+          }).bind('touched', function () {
+            $(this).removeClass('hover');
+          });
 
-new Date().getTime(), event: 'gtm.js'
-}); var f = d.getElementsByTagName(s)[0],
+          $('#masterMenuContactUs li').bind('touchstart', function () {
+            $(this).addClass('hover');
+          }).bind('touched', function () {
+            $(this).removeClass('hover');
+          });
+        }
+        catch (err) {
+        }
+        //END - Users are not able to see the drop down menu on iPhone
 
-j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+      }); // document.ready
 
-'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      // Added for GTM
+      window.dataLayer = window.dataLayer || [];
 
-})(window, document, 'script', 'dataLayer', 'GTM-PT5RFM');</script>
-
-<!-- End Google Tag Manager -->
+    </script>
 
 </head>
 
 <body>
     
-    <div id="container">
-        <header>
-            
+  <div id="container">
+    <header style="background: #00c2f5;">
+      
 
-            <table style="width: 100%;">
-                <tbody><tr>
+      <table style="width: 960px; margin: 0px auto;">
+        <tbody><tr>
 
-            <td style="float: left; padding: 0px 0px 0px 30px;">
-              <div id="logo">
-                <a href="default.aspx" id="ctl00_ctl00_ctl00_body_home_hyperlink">
-                  <img src="content/images/master/ns_logo.gif" id="ctl00_ctl00_ctl00_body_log_image" alt="Nationstar Mortgage | Nationstar is a national home loan servicer and originator offering most mortgage products including VA, USDA, FHA, ARM"></a>
-              </div>
-            </td>
+          <td style="float: left;">
+            <div id="logo">
+              <a href="default.aspx" id="ctl00_ctl00_ctl00_body_home_hyperlink">
+                <img src="content/images/master/ns_logo.png" id="ctl00_ctl00_ctl00_body_log_image" alt="Nationstar Mortgage | Nationstar is a national home loan servicer and originator offering most mortgage products including VA, USDA, FHA, ARM"></a>
+            </div>
+          </td>
 
-                    <td>&nbsp;</td>
+          <td>&nbsp;</td>
 
-            <td style="float: right; padding: 10px 20px 0px 0px;">
+          <td style="float: right; padding: 10px 20px 0px 0px;">
 
-              <span style="float: right; padding: 0 10px 60px 0;">
-                  <label id="ctl00_ctl00_ctl00_body_labelWelcomeMessage" style="font-size: 16px;"></label>
-                  &nbsp;
-                <a href="MyAccount/Signout.aspx" id="ctl00_ctl00_ctl00_body_buttonLogout" class="controlHide">Sign Out</a>
+            <span style="float: right; padding: 0 10px 60px 0;">
+              <label id="ctl00_ctl00_ctl00_body_labelWelcomeMessage" style="font-size: 16px;"></label>
+              &nbsp;
+               
+              <a href="MyAccount/Signout.aspx" id="ctl00_ctl00_ctl00_body_buttonLogout" class="controlHide">Sign Out</a>
+            </span>
+            <span style="float: right;">
+              
+            </span>
+          </td>
+
+        </tr>
+
+        <tr>
+
+          <td style="float: left; padding: 0 0 2px 62px;">
+            <span id="tagline" style="float: left; vertical-align: top;">
+              <img src="content/images/master/tagline.gif" id="ctl00_ctl00_ctl00_body_tagline_image" alt="Helping You Achieve More">
+            </span>
+          </td>
+
+          <td>&nbsp;</td>
+
+          <td style="float: right; padding: 22px 22px 13px 0;">
+            <span id="alert-bar" style="font-size: 0.9em; color: #fff; text-decoration: none; float: right;">| <a href="http://nationstarholdings.com/" id="ctl00_ctl00_ctl00_body_NationstarHoldingsHyperLink"><span class="no-bold1">About Us</span></a>
+              | <a href="CustomerReviews.aspx" id="ctl00_ctl00_ctl00_body_CustomerReviewsLink"><span class="no-bold1">Customer Reviews</span></a>
+              | <a href="http://nationstarholdings.com/careers" id="ctl00_ctl00_ctl00_body_CareersHyperLink"><span class="no-bold1">Careers</span></a>
+              | <a href="http://investors.nationstarholdings.com/corporateprofile.aspx?iid=4288863" id="ctl00_ctl00_ctl00_body_ShareholderHyperLink"><span class="no-bold1">Shareholder Relations</span></a>
+
+              <a id="ctl00_ctl00_ctl00_body_HeaderLoginLinks_SignInHyperLink" class="no-bold"></a>
+              <span id="accessibility">
+                <a href="#" id="normal" class="em80">A</a><a href="#" id="larger" class="em90">A</a><a href="#" id="largest" class="em100">A</a>
               </span>
-                        <span style="float: right;">
-                            
-                        </span>
-                    </td>
+            </span>
+          </td>
 
-                </tr>
+        </tr>
+      </tbody></table>
+    </header>
+  </div>
 
-                <tr>
-
-                    <td style="float: left; padding: 0 0 2px 62px;">
-                        <span id="tagline" style="float: left; vertical-align: top;">
-                            <img src="content/images/master/tagline.gif" id="ctl00_ctl00_ctl00_body_tagline_image" alt="Helping You Achieve More">
-                        </span>
-                    </td>
-
-                    <td>&nbsp;</td>
-
-                    <td style="float: right; padding: 22px 22px 13px 0;">
-                        <span id="alert-bar" style="font-size: 0.9em; color: #ccc; text-decoration: none; float: right;">
-                            <a href="CustomerReviews.aspx" id="ctl00_ctl00_ctl00_body_CustomerReviewsLink"><span class="no-bold">Customer Reviews</span></a>
-                            | <a href="Careers/Default.aspx" id="ctl00_ctl00_ctl00_body_CareersHyperLink"><span class="no-bold">Careers</span></a>
-                            | <a href="http://investors.nationstarholdings.com/corporateprofile.aspx?iid=4288863" id="ctl00_ctl00_ctl00_body_ShareholderHyperLink"><span class="no-bold">Shareholder Relations</span></a>
-                            | <a href="http://nationstarholdings.com/" id="ctl00_ctl00_ctl00_body_NationstarHoldingsHyperLink"><span class="no-bold">About</span></a>
-                            
-                            <a id="ctl00_ctl00_ctl00_body_HeaderLoginLinks_SignInHyperLink" class="no-bold"></a>
-                            <span id="accessibility">
-                                <a href="#" id="normal" class="em80">A</a><a href="#" id="larger" class="em90">A</a><a href="#" id="largest" class="em100">A</a>
-                            </span>
-                        </span>
-                    </td>
-                </tr>
-            </tbody></table>
-        </header>
-        <div id="body">
-            
+  <div id="body">
+    
 
   <div class="ns-main-menu" id="ns-menu-inner">        
-    <ul>
-      <li id="masterMenuHome"><a id="ctl00_ctl00_ctl00_body_body_MenuHome" href="Default.aspx" style="background: none;">Home</a>
-      </li><li id="masterMenuMyNationstar"><a href="MyAccount/Dashboard.aspx" style="background: none;">My Nationstar</a>
-      </li><li id="masterMenuCustomerCenter"><a>Resources</a>
-        <ul>                     
-            <li><a href="CustomerCenter/NewToNationstar.aspx">New to Nationstar?</a></li>
-            <li><a href="CustomerCenter/FAQs.aspx">FAQs</a></li>
-            <li><a href="https://www.gonsm.com/worth">Mortgage Tips</a></li>
-            <li><a href="CustomerCenter/Default.aspx" id="ctl00_ctl00_ctl00_body_body_A2">Customer Center</a></li>
-            <li><a href="CustomerCenter/CustomerVideos.aspx" id="ctl00_ctl00_ctl00_body_body_A1">Video Help Center</a></li>
-        </ul>
-      </li>
-      <li id="masterMenuHomeownerAssistance"><a>Homeowner Assistance</a>
-        <ul>
-          <li><a href="PaymentAssistance/">Homeowner Assistance</a></li>
-          <li><a href="PaymentAssistance/newstart.aspx">NewStart Solutions</a></li>
-          <li><a href="PaymentAssistance/resources.aspx">Homeowner Resources</a></li>
-          <li><a href="PaymentAssistance/MilitaryFamilies.aspx">Military Families</a></li>
-        </ul>
-      </li>
-      <li id="masterMenuApplyToday"><a>Apply Today</a>
-        <ul>
-          <li><a href="http://www.nationstarhomeloans.com/buy-home/">New Home Loan</a></li>
-          <li><a href="Refinancing/Apply.aspx?type=REFI">Refinance My Home</a></li>
-          <li><a href="http://www.nationstarhomeloans.com/vamilitary-home-loans/">Military / VA Loans</a></li>
-        </ul>
-      </li>
-      <li id="masterMenuContactUs"><a>Contact Us</a> 
-          <ul>
-             <li><a href="CustomerCenter/Feedback.aspx">Feedback Center</a></li>
-             <li><a href="CustomerCenter/ContactUs.aspx">Contact Nationstar</a></li>
-             <li><a href="http://investors.nationstarholdings.com/corporateprofile.aspx?iid=4288863">Shareholders</a></li>
-             <li><a href="http://nationstarholdings.com/">About</a></li>
-          </ul>
-      </li>
-    </ul>
-
+     <ul class="menu-container">
+                        <li id="masterMenuHome"><a id="ctl00_ctl00_ctl00_body_body_MenuHome" href="Default.aspx" style="background: none;">Home</a>
+                        </li><li id="masterMenuMyNationstar"><a href="MyAccount/Dashboard.aspx" id="ctl00_ctl00_ctl00_body_body_A2" style="background: none;">My Nationstar</a>
+                        </li><li id="masterMenuCustomerCenter"><a id="ctl00_ctl00_ctl00_body_body_A3">Resources</a>
+                            <ul class="submenu">
+                                <li><a href="CustomerCenter/NewToNationstar.aspx" id="ctl00_ctl00_ctl00_body_body_A4">New to Nationstar?</a></li>
+                                <li><a href="CustomerCenter/FAQs.aspx" id="ctl00_ctl00_ctl00_body_body_A5">FAQs</a></li>
+                                <li><a href="https://www.gonsm.com/worth" id="ctl00_ctl00_ctl00_body_body_A20">Mortgage Tips</a></li>
+                                <li><a href="CustomerCenter/Default.aspx" id="ctl00_ctl00_ctl00_body_body_A19">Customer Center</a></li>
+                                <li><a href="CustomerCenter/CustomerVideos.aspx" id="ctl00_ctl00_ctl00_body_body_A6">Video Help Center</a></li>
+                            </ul>
+                        </li>
+                        <li id="masterMenuHomeownerAssistance"><a id="ctl00_ctl00_ctl00_body_body_A8" style="width: 175px;">Homeowner Assistance</a>
+                            <ul class="submenu ha"> 
+                                <li><a href="PaymentAssistance/" id="ctl00_ctl00_ctl00_body_body_A9">Homeowner Assistance</a></li>
+                                <li><a href="PaymentAssistance/newstart.aspx" id="ctl00_ctl00_ctl00_body_body_A10">NewStart Solutions</a></li>
+                                <li><a href="PaymentAssistance/resources.aspx" id="ctl00_ctl00_ctl00_body_body_A11">Homeowner Resources</a></li>
+                                <li><a href="PaymentAssistance/MilitaryFamilies.aspx" id="ctl00_ctl00_ctl00_body_body_A12">Military Families</a></li>
+                            </ul>
+                        </li>
+                        <li id="masterMenuApplyToday"><a id="ctl00_ctl00_ctl00_body_body_A13">Apply Today</a>
+                            <ul class="submenu">
+                                <li><a href="http://www.nationstarhomeloans.com/buy-home/" id="ctl00_ctl00_ctl00_body_body_A14">New Home Loan</a></li>
+                                <li><a href="Refinancing/Apply.aspx?type=REFI" id="ctl00_ctl00_ctl00_body_body_A15">Refinance My Home</a></li>
+                                <li><a href="http://www.nationstarhomeloans.com/vamilitary-home-loans/" id="ctl00_ctl00_ctl00_body_body_A16">Military / VA Loans</a></li>
+                            </ul>
+                        </li>
+                        <li id="masterMenuContactUs"><a id="ctl00_ctl00_ctl00_body_body_A7">Contact Us</a>
+                            <ul class="submenu">
+                                <li><a href="CustomerCenter/Feedback.aspx" id="ctl00_ctl00_ctl00_body_body_A17">Feedback Center</a></li>
+                                <li><a href="CustomerCenter/ContactUs.aspx" id="ctl00_ctl00_ctl00_body_body_A18">Contact Us</a></li>
+                                <li><a href="http://investors.nationstarholdings.com/corporateprofile.aspx?iid=4288863" id="ctl00_ctl00_ctl00_body_body_A21">Shareholders</a></li>
+                                <li><a href="http://nationstarholdings.com/" id="ctl00_ctl00_ctl00_body_body_A22">About</a></li>
+                            </ul>
+                        </li>
+         </ul>
   </div>
+
 
   <div class="ns-menu-bottom">
+
+
   </div>
 
-  <div id="divBody">
+  <div id="content_body">
     <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" novalidate="">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc0NzM1ODU3NQ9kFgJmD2QWAmYPZBYCZg9kFgRmD2QWAgIGDxYCHgdjb250ZW50BXlBdCBOYXRpb25zdGFyIE1vcnRnYWdlLCBjdXN0b21lciBzZXJ2aWNlLCB0cnVzdCBhbmQgY29uZmlkZW5jZSBpcyBhIGhpZ2ggcHJpb3JpdHkuIFZpZXcgb3VyIFByaXZhY3kgUG9saWN5IHRvIGxlYXJuIG1vcmUuZAIBD2QWCGYPZBYCZg8WAh4HVmlzaWJsZWhkAgIPFgIeCWlubmVyaHRtbGVkAgMPFgIeBWNsYXNzBQtjb250cm9sSGlkZWQCCw9kFgICMQ8WAh8DBQtjb250cm9sU2hvd2Rk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc0NzM1ODU3NQ9kFgJmD2QWAmYPZBYCZg9kFgRmD2QWAgIGDxYCHgdjb250ZW50BXlBdCBOYXRpb25zdGFyIE1vcnRnYWdlLCBjdXN0b21lciBzZXJ2aWNlLCB0cnVzdCBhbmQgY29uZmlkZW5jZSBpcyBhIGhpZ2ggcHJpb3JpdHkuIFZpZXcgb3VyIFByaXZhY3kgUG9saWN5IHRvIGxlYXJuIG1vcmUuZAIBD2QWCAIBD2QWAmYPFgIeB1Zpc2libGVoZAIFDxYCHglpbm5lcmh0bWxlZAIHDxYCHgVjbGFzcwULY29udHJvbEhpZGVkAhcPZBYCAjEPFgIfAwULY29udHJvbFNob3dkZA==">
 </div>
 
       
@@ -508,7 +529,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <div id="content-2-2">
       <div id="registernow2">
         <div id="ctl00_ctl00_ctl00_body_body_registerNow" class="controlShow">
-          First time here? <a href="../MyAccount/Signup.aspx"><b style="color: #b20838;">Register now</b></a><br>
+          First time here? <a href="../MyAccount/Signup.aspx"><b style="color: #0fa0cc;">Register now</b></a><br>
           and set up your online access.
         </div>
       </div>
@@ -518,68 +539,63 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
   </div>
 
 
+  </div>
+
+  <div class="sf_cols socMed_wrapper">
+
+    
+    <div id="footerPlaceholder_T9BB62E30008_Col00" class="sf_colsIn sf_1col_1in_100">
+      <div class="sfContentBlock">
+        <div id="socMed_container">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="em80b">
+    <div>
+      <div id="footerPlaceholder_T9BB62E30014_Col00" class="sf_colsIn sf_1col_1in_100">
+        <div class="ContentBlock">
+          <ul class="footer-wrap">
+            <li class="footer-menu">
+              <ul class="sfNavVertical" id="ftr_menu">
+                <li><a href="TermsOfUse.aspx" id="ctl00_ctl00_ctl00_body_A23">Terms of Use</a>
+                </li><li><a href="Privacy.aspx" id="ctl00_ctl00_ctl00_body_A24">Privacy</a>
+                </li><li><a href="Legal.aspx" id="ctl00_ctl00_ctl00_body_A25">Legal</a>
+                </li><li><a href="CustomerCenter/MakingHomeAffordablePlan_OtherStates.aspx" id="ctl00_ctl00_ctl00_body_A26">CA, WA and NV Residents</a>
+                </li><li><a href="http://investors.nationstarholdings.com/corporateprofile.aspx?iid=4288863" id="ctl00_ctl00_ctl00_body_A27" target="_blank">Shareholder Relations</a><br>
+                </li><li><a href="SiteMap.aspx" id="ctl00_ctl00_ctl00_body_A28">Site Map</a>
+                </li><li><a href="http://nationstarholdings.com/careers" id="ctl00_ctl00_ctl00_body_A29" target="_blank">Careers</a>
+                </li><li><a href="CustomerReviews.aspx" id="ctl00_ctl00_ctl00_body_A30">Customer Reviews</a>
+                </li><li><a href="CustomerCenter/ContactUs.aspx" id="ctl00_ctl00_ctl00_body_A31">Contact Us</a>
+                </li><li><a href="http://nationstarholdings.com/" id="ctl00_ctl00_ctl00_body_A32">About</a><br>
+                <br>
+                </li><li>NMLS #2119 <a href="http://www.nmlsconsumeraccess.org" target="_blank">NMLS Consumer Access</a>
+              </li></ul>
+            </li>
+            <li class="footer-logo">
+              <div id="outer">
+                <p id="nmls" style="font-size: 0.7em; white-space: nowrap;">
+                  NMLS #2119
+   
+                  <img alt="" src="/content/images/icons/logo_eho.png">
+                </p>
+              </div>
+            </li>
+          </ul>
+
         </div>
 
-        <div id="footer" class="em80">
+      </div>
 
-            
-            <div id="ctl00_ctl00_ctl00_body_adwords">
-                <script type="text/javascript">
-                    var google_conversion_id = 948103697;
-                    var google_custom_params = window.google_tag_params;
-                    var google_remarketing_only = true;
-                </script>
-                <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> 
-                </script>
-                <noscript>
-                    <div style="display: inline;">
-                        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/948103697/?value=0&amp;guid=ON&amp;script=0"/>
-                    </div>
-                </noscript>
-            </div>
-
-                 
-                <script type="text/javascript" src="https://sp.analytics.yahoo.com/spp.pl?a=1000571747666&amp;.yp=402418&amp;js=no"></script>
-
-            
-            <script type="text/javascript">
-                (function () {
-                    var Data = {
-                    }
-                      , i = Data, d = document, u = encodeURIComponent, x = z = '', j = d.createElement('script'),
-                      r = d.referrer, s = d.getElementsByTagName('script')[0]; j.type = 'text/javascript';
-                    j.async = !0; r && r.split(/[/:?]/)[3] != d.location.hostname && (i.ref = r); for (y in i)
-                        x += '&' + y + '=' + u(i[y]); j.src = '//com-nationstar.netmng.com/'
-                        + '?aid=3542&siclientid=' + x; s.parentNode.insertBefore(j, s);
-                })();
-            </script>
-            
-
-            <p>
-                <a href="TermsOfUse.aspx" id="ctl00_ctl00_ctl00_body_TermsOfUseHyperLink">Terms of Use</a> | <a href="Privacy.aspx" id="ctl00_ctl00_ctl00_body_PrivacyHyperLink">Privacy</a> | <a href="Legal.aspx" id="ctl00_ctl00_ctl00_body_LegalHyperLink">Legal</a> | <a href="CustomerCenter/MakingHomeAffordablePlan_OtherStates.aspx" id="ctl00_ctl00_ctl00_body_HampHyperLink">CA, WA and NV Residents</a> | <a href="http://investors.nationstarholdings.com/corporateprofile.aspx?iid=4288863" target="_blank">Shareholder Relations</a><br>
-                <a href="SiteMap.aspx" id="ctl00_ctl00_ctl00_body_SiteMapHyperLink">Site Map</a> | <a href="https://www.nationstarmtg.com/Careers/Default.aspx" target="_blank">Careers</a> | <a href=" https://www.nationstarmtg.com/CustomerReviews.aspx" target="_blank">Customer Reviews</a> | <a href="CustomerCenter/ContactUs.aspx" id="ctl00_ctl00_ctl00_body_ContactUsHypherLink">Contact Us</a> | <a href="http://nationstarholdings.com/" id="ctl00_ctl00_ctl00_body_nationstarholdings">About</a><br><br>
-                NMLS #2119 | <a href="http://www.nmlsconsumeraccess.org" target="_blank">NMLS Consumer Access</a> |   
-            </p>
-
-            <ul id="socialMedia">
-                <li><img src="content/images/master/logo_eho.png" style="height: 70px;" alt="Equal Housing Opportunity"></li>
-                <li><a href="https://twitter.com/Nationstar_Help" target="_blank" class="twitter" id="Twitter"></a></li>
-                <li><a href="https://www.facebook.com/NationstarMortgage" target="_blank" class="facebook" id="Facebook"></a></li>
-                <li><a href="https://www.youtube.com/user/nationstarmortgage" target="_blank" class="youtube" id="Youtube"></a></li>
-                <li><a href="https://plus.google.com/+nationstarmortgage/" target="_blank" class="googleplus" id="GooglePlus"></a></li>
-                <li><a href="http://www.linkedin.com/company/nationstar-mortgage" target="_blank" class="linkedin" id="Linkedin"></a></li>
-                <li><a href="https://instagram.com/nationstarmortgage/" target="_blank" class="instagram" id="Instagram"></a></li>
-            </ul>
-      <p>
-        © 2015 Nationstar Mortgage Holdings, Inc.
-      </p>
-    
+      
 
 
     </div>
-        
+
   </div>
-    
+
 
     <style>
         .session-timeout-modal {
@@ -620,7 +636,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         }
 
         .button {
-            background: #d00013;
+            background: #0fa0cc;
             padding: 5px 10px;
             -webkit-border-radius: 0.3em;
             -moz-border-radius: 0.3em;
@@ -937,24 +953,52 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             //console.debug("No need to start the timer, user is logged out");
         }
 
-
     </script>
+
     
     <script type="text/javascript">
-        var google_conversion_id = 948103697;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> 
-    </script>
-    <noscript>
-        <div style="display: inline;">
-            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/948103697/?value=0&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
+        $("#ctl00_ctl00_body_loginHome_buttonLogin").css("background", "#a7ce39");
 
-    
-    <script type="text/javascript" src="https://sp.analytics.yahoo.com/spp.pl?a=1000571747666&amp;.yp=402418&amp;js=no"></script>
+        
+        var currenturl = jQuery(location).attr('href').toLowerCase();;
+        
+        var n = 0;
+        var iLogin = 0; 
+        var iIntro = 0;        
+
+        n = currenturl.search("customerselect");
+        if ($('.cfl-login').length > 0) {
+            iLogin=1;
+        }
+        if ($('.intro-pad').length > 0) {
+            iIntro=1;
+        }
+
+        if ((n > 0) & (iLogin > 0) & (iIntro > 0))
+        {
+            //Only change the link and text to CUSTOMER SELECT 
+            //if the page link is customerselect.aspx and the page loaded with "cfl-login" div and "intro-pad" div
+            //
+            $("#ctl00_ctl00_ctl00_body_body_A1").text("CUSTOMER SELECT");
+            $("#ctl00_ctl00_ctl00_body_body_A1").attr("href", "../MyAccount/CustomerSelect.aspx");
+
+        }
+            
+    </script>
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PT5RFM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PT5RFM');</script>
+    <!-- End Google Tag Manager -->
+
 
 
 
