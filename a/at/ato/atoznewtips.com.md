@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atoznewtips.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119070802id_/http%3A//www.atoznewtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atoznewtips.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202065957id_/http%3A//www.atoznewtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Job Vacancies
 
