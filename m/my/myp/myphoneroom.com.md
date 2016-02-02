@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myphoneroom.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014061453id_/http%3A//www.myphoneroom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphoneroom.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202063119id_/http%3A//www.myphoneroom.com/privacy_policy) for the most accurate reproduction.*
 
 # MyPhoneRoom.com
 
