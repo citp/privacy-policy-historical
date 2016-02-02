@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906133518id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202034819id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Nationstar Mortgage
 
@@ -146,7 +146,7 @@ You can respond to Nationstar emails with replies, and there is also a method fo
 
 ####  Privacy Options and Solicitations
 
-  * To make privacy elections, [click here](https://web.archive.org/web/20150906133518id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
-  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20150906133518id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
+  * To make privacy elections, [click here](https://web.archive.org/web/20160202034819id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
+  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20160202034819id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
 
 
