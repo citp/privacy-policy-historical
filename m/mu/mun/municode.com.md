@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905204740id_/https%3A//www.municode.com/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202081458id_/https%3A//www.municode.com/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Municipal Code Corporation
 
@@ -46,10 +46,6 @@ We consider any information that could reasonably be used to identify you as "pe
 
 
 
-If personal information is requested on the website or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is no longer protected once you provide it, and may be subject disclosure. Any personally identifying information you provide will be stored in a limited access server, and we maintain safeguards to protect the security of the information. 
-
-We do not supplement information collected at our website with data from other sources, nor do we sell or share information collected from our website with others. We may, however, use information collected to process, validate and verify subscriptions; to enhance existing features or develop new features; to send you emails about new services or features; or to personalize the content you and others see. 
-
 We offer links to other websites. Please note: When you click on links to other websites, we encourage you to read their privacy policies. Their standards may differ from ours. 
 
 Our website offers a List-Serv mailing list. Please be advised that information posted in these venues is accessible by members of the lists. 
@@ -81,7 +77,7 @@ Municode protects user information with the following security measures:
 
 If you have any further questions about privacy or security, please [contact us ](https://web.archive.org/Partial/ContactUs/General%20inquiry) . 
 
-This policy was last updated on December 28th, 2011. 
+This policy was last updated on October 9th, 2015. 
 
 Top of page.  
 
