@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the chennaieducation.net privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013010920id_/http%3A//www.indiaeducation.net/common/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaieducation.net privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202021635id_/http%3A//www.chennaieducation.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - IndiaEducation.net | Study in India
+# Privacy Policy
 
   
-LAST UPDATED:  April 16, 2012  
+LAST UPDATED:  April 16, 2012
 
-
-###  PRIVACY POLICY
+### PRIVACY POLICY
 
 **QuinStreet India Marketing and Media Pvt. Ltd.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
