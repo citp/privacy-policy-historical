@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the kinklive.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024205038id_/http%3A//www.kinklive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinklive.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202182155id_/http%3A//www.kinklive.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to KinkLive - The Best BDSM and Fetish Cams
+# Kink Live
 
   
 
 
 ## Effective Date: March 1, 2013
 
-**Your privacy is very important to VS Media, Inc. (hereinafter "Company" or "we", "us", etc.). The following Privacy Policy explains how we collect, use and safeguard the information you provide to us through or in association with the Welcome to KinkLive - The Best BDSM and Fetish Cams TM website, its related features and functions, and regarding other services provided by the Company. In furtherance of our efforts to protect your privacy, the Company and this Privacy Policy are in compliance with the California Online Privacy Protection Act. **
+**Your privacy is very important to VS Media, Inc. (hereinafter "Company" or "we", "us", etc.). The following Privacy Policy explains how we collect, use and safeguard the information you provide to us through or in association with the Kink Live TM website, its related features and functions, and regarding other services provided by the Company. In furtherance of our efforts to protect your privacy, the Company and this Privacy Policy are in compliance with the California Online Privacy Protection Act. **
 
-The Company is the exclusive owner and operator of the Welcome to KinkLive - The Best BDSM and Fetish CamsTM website accessible via the Universal Resource Locator ("URL") kinklive.com (hereafter the "Website"). The Company is committed to respecting and safeguarding your privacy online, as set forth in this Privacy Policy. This Privacy Policy sets forth the policies and practices of the Company with respect to information and other data that is received or gathered regarding visitors to, and members, subscribers and other users of, the Website and services provided by or related to the Website. The use of the terms "visitor", "member", "subscriber" and "Website user" shall, depending on your status shall mean and otherwise refer to you. The term "Third Party Program Participants" shall mean merchants, advertisers, promoters, content providers, including live content providers, and any others that the Company contracts with to provide goods and/or services via programs and/or Offers (as that term is defined below) available t o Website users or otherwise available in, at, on or via the Website. 
+The Company is the exclusive owner and operator of the Kink LiveTM website accessible via the Universal Resource Locator ("URL") kinklive.com (hereafter the "Website"). The Company is committed to respecting and safeguarding your privacy online, as set forth in this Privacy Policy. This Privacy Policy sets forth the policies and practices of the Company with respect to information and other data that is received or gathered regarding visitors to, and members, subscribers and other users of, the Website and services provided by or related to the Website. The use of the terms "visitor", "member", "subscriber" and "Website user" shall, depending on your status shall mean and otherwise refer to you. The term "Third Party Program Participants" shall mean merchants, advertisers, promoters, content providers, including live content providers, and any others that the Company contracts with to provide goods and/or services via programs and/or Offers (as that term is defined below) available t o Website users or otherwise available in, at, on or via the Website. 
 
 THIS DOCUMENT CONTAINS FIFTEEN (15) NUMBERED PARAGRAPHS. BEFORE YOU BEGIN OR CONTINUE TO USE THE SITE, OR ANY SERVICES OR FUNCTIONALITY PROVIDED BY OR THROUGH THE SITE, PLEASE CAREFULLY READ THIS PRIVACY POLICY. THIS PRIVACY POLICY CONTAINS IMPORTANT INFORMATION. 
 
 **ONLY PERSONS OVER THE AGE OF EIGHTEEN (18) YEARS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN (18) YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR[TERMS AND CONDITIONS](https://web.archive.org/terms.php). **
 
-ONLY ADULT PERSONS OVER THE AGE OF EIGHTEEN (18) YEARS ARE AUTHORIZED TO PROVIDE PERSONAL INFORMATION TO OR VIA THE Welcome to KinkLive - The Best BDSM and Fetish Cams WEBSITE OR TO THE COMPANY. THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY MINORS OR OTHER PERSONS UNDER THE AGE OF EIGHTEEN (18) YEARS. 
+ONLY ADULT PERSONS OVER THE AGE OF EIGHTEEN (18) YEARS ARE AUTHORIZED TO PROVIDE PERSONAL INFORMATION TO OR VIA THE Kink Live WEBSITE OR TO THE COMPANY. THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY MINORS OR OTHER PERSONS UNDER THE AGE OF EIGHTEEN (18) YEARS. 
 
 IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE [TERMS OF USE](https://web.archive.org/terms.php) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE. 
 
@@ -65,7 +65,7 @@ Company also collects user submitted information such as name, email address, an
 
 Company also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third parties to provide more relevant services and advertisements to members. User IP addresses are also recorded for security and monitoring purposes. 
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in, with or through, the Website and/or through any social networking community operated by Company. Email addresses may be used, for example, for the purposes of inviting new friends to join Welcome to KinkLive - The Best BDSM and Fetish Cams, to add users to members' friends' networks, and to send notifications related to the service. 
+User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in, with or through, the Website and/or through any social networking community operated by Company. Email addresses may be used, for example, for the purposes of inviting new friends to join Kink Live, to add users to members' friends' networks, and to send notifications related to the service. 
 
 ## Marketing:
 
