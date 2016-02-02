@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905192322id_/https%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202144202id_/https%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FlexJobs Privacy Policy
 
