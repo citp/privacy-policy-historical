@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernfurniturewarehouse.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203170310id_/http%3A//www.modernfurniturewarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernfurniturewarehouse.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202183906id_/http%3A//www.modernfurniturewarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Furniture Warehouse
 
