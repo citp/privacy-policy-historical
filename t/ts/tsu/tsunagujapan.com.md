@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsunagujapan.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720172216id_/http%3A//www.tsunagujapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsunagujapan.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202211125id_/http%3A//www.tsunagujapan.com/privacy) for the most accurate reproduction.*
 
 # Privacy | tsunagu Japan
 
