@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplifeinsurance.us privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222190603id_/http%3A//www.toplifeinsurance.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplifeinsurance.us privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203150545id_/http%3A//www.toplifeinsurance.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Life Insurance
 
@@ -84,7 +84,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [info#toplifeinsurance.us](mailto:%69%6efo%23to%70l%69fe%69nsuran%63e.us "Send email to: info#toplifeinsurance.us")
+Email: [info#toplifeinsurance.us](mailto:in%66o#to%70%6ci%66e%69nsu%72ance.u%73 "Send email to: info#toplifeinsurance.us")
 
 
 
