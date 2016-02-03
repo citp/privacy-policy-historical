@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elegantmarketplace.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114192116id_/https%3A//elegantmarketplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantmarketplace.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203122136id_/https%3A//elegantmarketplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement reviews how Elegant Marketplace collects and uses the personal information you provide on our Web site: [www.elegantmarketplace.com](https://web.archive.org/web/20151114192116id_/http://elegantmarketplace.com/privacy-policy/www.elegantmarketplace.com). It also outlines the options available to you with regards to our use of your personal information and how you can access and update this information.
+This privacy statement reviews how Elegant Marketplace collects and uses the personal information you provide on our Web site: [www.elegantmarketplace.com](https://web.archive.org/web/20160203122136id_/http://elegantmarketplace.com/privacy-policy/www.elegantmarketplace.com). It also outlines the options available to you with regards to our use of your personal information and how you can access and update this information.
 
 **Personal Information**
 
@@ -60,7 +60,7 @@ When we collect personal information directly from you, we follow generally acce
 
 In order to complete your oder and make a purchase from us, you must use our shopping cart provider to finalize and pay for that order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@elegantmarkeplace.com](https://web.archive.org/web/20151114192116id_/http://elegantmarketplace.com/privacy-policy/info@elegantmarkeplace.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@elegantmarkeplace.com](https://web.archive.org/web/20160203122136id_/http://elegantmarketplace.com/privacy-policy/info@elegantmarkeplace.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Additional Policy Information**
 
