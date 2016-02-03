@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sexpose.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811081431id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpose.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203041357id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ###  PRIVACY POLICY 
 
 for [BravoTube.net](http://www.bravotube.net/)  
-Effective Date: 10 August, 2015  
+Effective Date: 31 January, 2016  
 Last Modified: 16 December, 2011 
 
   * I. **General**
