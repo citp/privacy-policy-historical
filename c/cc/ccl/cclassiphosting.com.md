@@ -1,59 +1,37 @@
-> *The following text is extracted and transformed from the cclassiphosting.com privacy policy that was archived on 2013-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130702190601id_/http%3A//www.cclassiphosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclassiphosting.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203072507id_/http%3A//www.cclassiphosting.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SEO Hosting | Privacy Policy
+# Privacy Policy | RankFirst Hosting
 
-### Cclassiphosting.com Privacy/Return Policy
+Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
-At Cclassiphosting.com we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
+**What Information Do We Collect?**
 
-##### C CLASS IP HOSTING
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-Suite 192, Lot PT40036  
-Jalan PJU 7/2  
-Petaling Jaya 47800  
-Selangor Darul Ehsan  
-Malaysia
+**Personal Information You Choose to Provide**
 
-Telephone: +180 499 100 99
+You will provide us information about yourself, your firm or company, and your practices when you register to be a member of RANKFIRST HOSTING, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see RANKFIRST HOSTING servicing your needs and interests.
 
-**Does this website use cookies to keep track of my information?**  
-Yes, portions of this website use cookies in order to offer certain functionality to our customers.>
+**Email Information**
 
-**What types of information does this website collect?**  
-We collect the following types of information: 
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
-  * Traditional contact information such as mailing address, phone number, and fax number.
-  * Internet contact information such email addresses.
-  * Information about the user's computer system, such as the web browser type, IP address, and operating system.
+**Web Site Use Information**
 
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called “web beacons” or “clear gifs” to determine which advertisements and promotions users have seen and how users responded to them.
 
+**How Do We Use the Information That You Provide to Us?**
 
-**Why is this website collecting the information?**  
-We collect the information for the following purposes: 
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at .
 
-  * To complete the current activity of the visitor.
-  * For website administration purposes.
-  * To evaluate, review, or improve the website.
+**Sharing Information with Third Parties**
 
+We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
 
+**Notice of New Services and Changes**
 
-**Who will receive the information?**  
-The information will be shared with Our internal staff only. 
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at .
 
-**How long will the information are kept?**  
+**What are Cookies?**
 
-
-  * Cookies will be stored only as long as the browser remains open, unless otherwise specified by the user
-  * Contact information will be kept as long as the customer maintains an active account or holds an outstanding balance.
-
-
-
-**Can I review my information?**  
-Our website allows you to review all the information we keep about you.
-
-**What if I think there are inaccuracies in my information?**  
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at [Contact Us](http://www.cclassiphosting.com/contact.html "Contact") Page  
-If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
-
-**Return Policy**  
-Cclassiphosting.com bills at the day of a month you sign up for that months service. Once cancellation is made in writing, service will terminate on the last day of that month. The account will be terminated before the first of the next month. Refunds are made if Cclassiphosting.com services are found to be unsatisfactory or different from advertised in the first month of use. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
