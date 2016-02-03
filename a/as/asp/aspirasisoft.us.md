@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspirasisoft.us privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202005401id_/http%3A//aspirasisoft.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspirasisoft.us privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203174225id_/https%3A//www.aspirasisoft.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Aspirasisoft
 
