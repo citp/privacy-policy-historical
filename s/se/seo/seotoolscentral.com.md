@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotoolscentral.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141324id_/http%3A//www.seotoolscentral.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoolscentral.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203214415id_/http%3A//seotoolscentral.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
