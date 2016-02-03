@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwitv.com privacy policy that was archived on 2015-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151111032215id_/http%3A//wwitv.com/page/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwitv.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203085238id_/http%3A//wwitv.com/page/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
