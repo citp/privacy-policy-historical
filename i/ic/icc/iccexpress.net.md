@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccexpress.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175814id_/http%3A//iccexpress.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccexpress.net privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203045843id_/http%3A//iccexpress.net/privacy-policy.html) for the most accurate reproduction.*
 
 # ICC Express (Instant Content Curator) Curation Software by Web Dimensions, Inc.
 
