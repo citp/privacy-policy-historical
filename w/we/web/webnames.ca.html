@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webnames.ca privacy policy that was archived on 2015-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117035550id_/https%3A//www.webnames.ca/content/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webnames.ca privacy policy that was archived on 2016-02-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160204144939id_/https%3A//www.webnames.ca/content/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-ca" class="no-js"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=8">     
@@ -63,325 +63,320 @@ function pageLoaded() {
 
 <div id="site-container">
 
-    <header>
-    <a id="logo" class="pos-relative" href="https://www.webnames.ca/">
-        <img class="pos-absolute" src="https://www.webnames.ca/images/wn/layout/webnames-ca-logo.png" alt="Webnames.ca">
-        <h2 class="pos-absolute">Canada's Original .CA Domain Name Registrar</h2>
+
+<header role="navigation">
+    <button type="button" class="navbar-toggle" data-toggle="collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <span class="menu-label">Menu</span>
+    <a id="logo" href="https://www.webnames.ca/">
+        <img class="logo-lg" src="https://www.webnames.ca/images/wn/layout/webnames-ca-logo.png" alt="Webnames.ca">
+        <h2 class="sub-logo">Canada's Original .CA Domain Name Registrar</h2>
     </a>
-        <img class="pos-absolute" src="https://www.webnames.ca/images/wn/layout/canadas-original-ca-domain-name-registrar.jpg" alt="Canada's Original .CA Domain Name Registrar">
-        <div id="header-account-links">
+    <img class="canadian-pride" src="https://www.webnames.ca/images/wn/layout/canadas-original-ca-domain-name-registrar.jpg" alt="Canada's Original .CA Domain Name Registrar">
 
-            <form id="loginform" name="loginform" method="post" action="https://www.webnames.ca/login.aspx">
-                <div id="login">
-                    
-                            <a href="https://www.webnames.ca/login.aspx?goto=content/tbr.asp">Login </a>
-                            <span>|</span> <a href="https://www.webnames.ca/sc/NewAccount.aspx">Create Account</a>
-
-                    
-                </div><!-- /#login -->
-            </form><!-- /#loginform --> 
-        </div><!-- /#header-account-links -->
-
-        <div id="header-search">
-            <form id="domainSearchform" name="domainSearchform" action="https://www.webnames.ca/domain-registration/search/" method="post">
-                <span>www.</span>
-                <div class="input-append">
-                    <input type="text" name="domainName" value="" input-text="Search for a Domain Name" class="watermark domain-search-header">
-                    <button class="btn" type="submit">Go!</button>
-                </div><!-- /.input-append -->
-            </form>
-        </div><!-- /#header-search -->
-        <div id="header-cart"><a href="https://www.webnames.ca/sc/cart.aspx">0</a></div><!-- /#header-cart -->
-    </header><!-- /header -->
-
+    <div id="header-account-links" class="header-account-links hidden-xs">          
+        <!-- Login Modal -->
+        <!-- loginform is used by both account and hosting control panel, do not change it! -->
+        <div class="link-group phone">
+            <a href="#">
+                <i class="icon-phone"></i>
+                <span>1-866-221-7878</span>
+            </a>
+        </div>
+        <div class="link-group">
+            <a href="https://www.webnames.ca/customersupport/contact.aspx" target="_blank">
+                <i class="icon-question-sign"></i>
+                <span>Help</span>
+            </a>
+        </div>
+        <form id="loginform" name="loginform" method="post" action="https://www.webnames.ca/login.aspx">
+            <div id="login">      
+                
+                <div class="link-group sign-in-default">
+                    <a href="https://www.webnames.ca/login.aspx" id="inlineLoginLink">
+                        <i class="icon-signin"></i>
+                        <span>Sign In</span>
+                        <i class="icon-caret-down"></i>
+                    </a>
+                </div>
+                
+            </div> 
+        </form>           
+    </div>
     
+    <div class="header-links">
+        <span class="link-label">Domain Tools:</span>
+        <div class="link-group">
+            <a href="https://www.webnames.ca/domain-registration/search/">
+                <i class="icon-search"></i>
+                <span>Search</span>
+            </a>
+        </div>
+        <div class="link-group">
+            <a href="https://www.webnames.ca/domain/transfer/">
+                <i class="icon-exchange"></i>
+                <span>Transfer</span>
+            </a>
+        </div>
+        <div class="link-group">
+            <a href="https://www.webnames.ca/myaccount/domain-list#?renewals">
+                <i class="icon-refresh"></i>
+                <span>Renew</span>
+            </a>
+        </div>
+    </div>
+    <div class="mobile-search">
+        <a href="https://www.webnames.ca/domain-registration/search/"><i class="icon-search"></i></a>
+    </div>
+    <div class="mobile-login">
+        <a href="https://www.webnames.ca/myaccount/domain-list"><i class="icon-user"></i></a>
+    </div>
+    <div id="header-cart">
+        <a id="cart-icon" title="View your cart" href="https://www.webnames.ca/sc/Cart.aspx">0</a>
+    </div>
+</header>
 
-<nav id="main-menu">
+<nav id="main-menu" class="main-menu">
     <ul class="clearfix main-menu-list collapse navbar-collapse">
-        <ul class="mobile-menu-login">
-            
+        <li class="mobile-menu-login">
+            <ul>
+                
                 <li>
                     
                         <a href="https://www.webnames.ca/login.aspx?goto=/">
                     
                     <i class="icon-signin"></i>Sign In</a>
                 </li>
-            
-        </ul>
+                
+            </ul>
+        </li>
+
         <li class="">
             <a href="#" class="dropdown-toggle" id="domainsMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Domains</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="domainsMenu">                
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/domain-registration/search/">Domain Registrations</a></li>
+            <div class="mega-menu dropdown-menu" aria-labelledby="domainsMenu">                
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/domain-registration/search/">Search</a></li>
                     <li><a href="https://www.webnames.ca/domain-registration/search/">Domain Search</a></li>
                     <li><a href="https://www.webnames.ca/domain-wizard/">Domain Wizard</a>
-                    </li><li><a href="https://www.webnames.ca/domain-registration/search/">Pre-Order New gTLDs</a></li>
-                    <li><a href="https://www.webnames.ca/pre-registration/">Get Notified of Future gTLDs</a></li>
-                    <li><a href="https://www.webnames.ca/content/tbr.asp">Backorder/TBR Domains</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/DomainIDNSearch.aspx">Internationalized Domains</a></li>
+                    </li><li><a href="https://www.webnames.ca/pre-registration/">Pre-Register New Domains</a></li>
+                    <li><a href="https://www.webnames.ca/content/tbr.asp">Released &amp; Backorder Domains</a></li>
                 </ul>
-                    <div class="mega-divider-1"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list">Domain Renewals</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/myaccount/domain-list">Renew Domains</a></li>
-                    <li class="first"><a href="https://www.webnames.ca/domain/transfer/">Domain Transfer</a></li>
-                    <li><a href="https://www.webnames.ca/domain/transfer/">Transfer a Domain</a></li>
-                    <li><a href="https://www.webnames.ca/transfer/rant_add_domains.aspx">Change Domain Ownership</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/mytransfers.aspx">My Transfers</a></li>
+                <ul class="mega-group">
+                    <li class="first">Resources</li>
+                    <li><a href="https://www.webnames.ca/whois/">WHOIS Lookup</a></li>
+                    <li><a href="https://www.webnames.ca/domain-registration/new-domain-name-launch-schedule.aspx">New Domain Extensions</a></li>
+                    <li><a href="https://www.webnames.ca/pricing">Pricing</a></li>
                 </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-left">
-                    <li class="first">Additional Domain Services</li>
-                    <li><a href="https://www.webnames.ca/domain/domain-brokering">Domain Brokering</a></li>
-                    <li><a href="https://www.webnames.ca/services/domains/privacy.aspx">Domain Privacy</a></li>
-                    <li><a href="https://www.webnames.ca/services/domains/advanced_dns.aspx">DNS Advantage</a></li>
-                    <li><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx">Trademark Clearinghouse</a></li>
-                    <li><a href="https://www.webnames.ca/domains/domain-security.aspx">Domain Security</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/domain/transfer/">Transfers</a></li>
+                    <li><a href="https://www.webnames.ca/domain/transfer/">Transfer Domains</a></li>
+                    <li><a href="https://www.webnames.ca/transfer/rant_add_domains.aspx">Ownership Transfer</a></li>
+                </ul>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list#?renewals">Renewals</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/domain-list#?renewals">Renew Domains</a></li>
                     
-                </ul>
-                    <div class="mega-divider-3"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/help/domains/Default.htm" target="_blank">Domain Resources</a></li>
-                    <li><a href="https://www.webnames.ca/help/domains/Default.htm" target="_blank">Domain Guide</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/domain-list">My Domains</a></li>
-                    <li><a href="https://www.webnames.ca/whois">WHOIS Search</a></li>
-                    <li><a href="https://www.webnames.ca/services/ConvertPunyCode.aspx">IDN Conversion Tool </a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/pricing.aspx">Domain Pricing</a></li>
-                    <li><a href="https://www.webnames.ca/domain-registration/new-domain-name-launch-schedule.aspx">New Domain Schedule</a></li>
-                </ul>
+                </ul>                
             </div>
         </li>
 
         <li class="">
-            <a href="#" class="dropdown-toggle" id="hostingMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Web Hosting</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="hostingMenu">
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/hosting/web-hosting">Web Hosting</a></li>
-                    <li><a href="https://www.webnames.ca/hosting/web-hosting">Plans and Pricing</a></li>
-                    <li><a href="https://www.webnames.ca/hosting/web-hosting#features">Features</a></li>
-                    <li><a href="https://www.webnames.ca/hosting/web-hosting#faq">FAQ</a></li>
+            <a href="#" class="dropdown-toggle" id="hostingMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hosting</a>
+            <div class="mega-menu dropdown-menu" aria-labelledby="hostingMenu">
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/hosting/web-hosting">
+                        <img class="hosting-menu-icon" alt="Web hosting icon" title="Web Hosting" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">Web Hosting</span>
+                    </a>
+                </div>
+                <ul class="mobile-only mega-group">
+                    <li><a href="https://www.webnames.ca/hosting/web-hosting">Web Hosting</a></li>
                 </ul>
-                    <div class="mega-divider-1"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/hosting/asp-net-hosting.aspx">Windows Hosting</a></li>
-                    <li><a href="https://www.webnames.ca/hosting/asp-net-hosting.aspx">Plans and Pricing</a></li>
-                    <li><a href="https://www.webnames.ca/hosting/asp-net-hosting.aspx?tab=1">Features</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/hosting/web-hosting">Hosting Options</a></li>
+                    <li><a href="https://www.webnames.ca/hosting/web-hosting">Linux Hosting</a></li>
+                    <li><a href="https://www.webnames.ca/hosting/asp-net-hosting.aspx">Windows Hosting</a></li>
+                    <li><a href="https://www.webnames.ca/services/domains/advanced_dns.aspx">DNS Hosting</a></li>
                 </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list">Hosting Renewals</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/recurringpayments/recurring_payments.aspx">Recurring Payments</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/accountsettings/credit_card_management.aspx">Manage Credit Cards</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/myaccount/invoice/recent_transactions.aspx">Transaction History</a></li>
-                    <li class="first"><a href="https://www.webnames.ca/help/hosting/default.htm" target="_blank">Hosting Resources</a></li>
-                    <li><a href="https://www.webnames.ca/help/hosting/default.htm#Resources/Articles/Hosting/Hosting_Account_Overview/Hosting_Account_Overview.htm%3FTocPath%3DHosting Account Overview|_____0" target="_blank">Web Hosting Guide</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/hosting/admin.aspx">Manage</a></li>
+                    <li><a href="https://www.webnames.ca/hosting/admin.aspx">Hosting Login</a></li>
                 </ul>
-                    <a href="https://www.webnames.ca/hosting/web-hosting"><div class="menu-banner hosting float-right"></div></a>
-            </div>
-        </li>
-
-        <li class="">
-            <a href="#" class="dropdown-toggle" id="websitesMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Websites</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="websitesMenu">
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/web-design/custom-website/">Website Design</a></li>
-                    <li><a href="https://www.webnames.ca/web-design/custom-website/">Plans and Pricing</a></li>
-                </ul>
-                    <div class="mega-divider-1"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/build-a-website/website-builder.aspx">Website Builder</a></li>
-                    <li><a href="https://www.webnames.ca/build-a-website/website-builder.aspx">Plans and Pricing</a></li>
-                    <li><a href="https://www.webnames.ca/build-a-website/website-builder.aspx?tab=1">Features</a></li>
-                    <li><a href="https://www.webnames.ca/build-a-website/website-builder.aspx?tab=2">Showcase Gallery</a></li>
-                    <li><a href="https://www.webnames.ca/build-a-website/website-builder.aspx?tab=3">FAQ</a></li>
-                </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/help/hosting/Default.htm#Resources/Articles/Hosting/Web_Presence_Builder/Web_Presence_Builder.htm" target="_blank">Website Resources</a></li>
-                    <li><a href="https://www.webnames.ca/help/hosting/Default.htm#Resources/Articles/Hosting/Web_Presence_Builder/Getting_Familiar_With_Web_Presence_Builder.htm%3FTocPath%3DWeb Presence Builder|_____1" target="_blank">Website Builder Setup Guide</a></li>
-                    <li><a href="https://www.webnames.ca/wordpress/support-plans/">WordPress Support Plans</a></li>
-                </ul>
-                <a href="https://www.webnames.ca/web-design/custom-website/"><div class="menu-banner websites float-right"></div></a>
             </div>
         </li>
 
         <li class="">
             <a href="#" class="dropdown-toggle" id="emailMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Email</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="emailMenu">            
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/email/email-hosting">Email</a></li>
-                    <li><a href="https://www.webnames.ca/email/email-hosting">Plans and Pricing</a></li>
+            <div class="mega-menu dropdown-menu" aria-labelledby="emailMenu">       
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/email/email-hosting/">
+                        <img class="email-menu-icon" alt="Email hosting icon" title="Business Email" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">Email</span>
+                    </a>
+                </div>
+                <ul class="mobile-only mega-group">
+                    <li><a href="https://www.webnames.ca/email/email-hosting/">Business Email</a></li>
                 </ul>
-                    <div class="mega-divider-1"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list">Email Renewals</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/recurringpayments/recurring_payments.aspx">Recurring Payments</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/myaccount/invoice/recent_transactions.aspx">Transaction History</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/email/email-hosting">Email Options</a></li>
+                    <li><a href="https://www.webnames.ca/email/email-hosting">Email Hosting</a></li>
                 </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/help/email/Default.htm" target="_blank">Email Resources</a></li>
-                    <li><a href="https://www.webnames.ca/help/email/Default.htm" target="_blank">Email Guide</a></li>
-                    <li><a href="https://www.webnames.ca/help/email/Default.htm#Resources/Articles/Email/Pronto4_Webmail/Overview.htm" target="_blank">Pronto Webmail</a></li>
-                    <li><a href="https://www.webnames.ca/help/email/Default.htm#Resources/Articles/Email/Email_Client_Setup/Email_Client_Setup_Guides.htm" target="_blank">Regular Webmail</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="#">Access</a></li>
+                    <li><a href="https://securemail.webnames.ca/" target="_blank">Basic Webmail</a></li>
+                    <li><a href="https://securemail.webnames.ca/pronto/" target="_blank">Business Webmail</a></li>
                 </ul>
-                <a href="https://www.webnames.ca/email/email-hosting"><div class="menu-banner email float-right"></div></a>
+                <a href="https://www.webnames.ca/website-design/custom-website.aspx"><div class="menu-banner websites float-right"></div></a>
+            </div>
+        </li>
+
+        <li class="">
+            <a href="#" class="dropdown-toggle" id="websitesMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Websites</a>
+            <div class="mega-menu dropdown-menu" aria-labelledby="websitesMenu">
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/web-design/custom-website">
+                        <img class="design-menu-icon" alt="Web design icon" title="Website Design" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">Website Design</span>
+                        <span class="sub-label design">Built by Us</span>
+                    </a>
+                </div>
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/build-a-website/website-builder.aspx">
+                        <img class="builder-menu-icon" alt="Website builder icon" title="Website Builder" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">Website Builder</span>
+                        <span class="sub-label builder">Do it Yourself</span>
+                    </a>
+                </div>
+                <ul class="mobile-only mega-group">
+                    <li><a href="https://www.webnames.ca/web-design/custom-website">Website Design</a></li>
+                    <li><a href="https://www.webnames.ca/build-a-website/website-builder.aspx">Website Builder</a></li>
+                </ul>
             </div>
         </li>
 
         <li class="">
             <a href="#" class="dropdown-toggle" id="ssllMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SSL</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="sslMenu">     
-                <ul class="float-left">
+            <div class="mega-menu dropdown-menu" aria-labelledby="sslMenu">     
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/ssl/ssl-certificates.aspx">
+                        <img class="ssl-menu-icon" alt="SSL icon" title="SSL Certificates" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">SSL Certificates</span>
+                    </a>
+                </div>
+                <ul class="mega-group">
                     <li class="first"><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx">SSL Certificates</a></li>
-                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx">GeoTrust Certificates</a></li>
-                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx?tab=2">GeoTrust Features</a></li>
-                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx?tab=1">VeriSign Certificates</a></li>
-                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx?tab=3">VeriSign Features</a></li>
-                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx?tab=4">What are SSL Certificates?</a></li>
+                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx">GeoTrust</a></li>
+                    <li><a href="https://www.webnames.ca/ssl/ssl-certificates.aspx?tab=3">VeriSign</a></li>
                 </ul>
-                    <div class="mega-divider-1"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/digitalcertificates/certificatelist.aspx">SSL Configuration &amp; Renewals</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/digitalcertificates/certificatelist.aspx">My SSL Certificates</a></li>
-                    <li class="first"><a href="https://www.webnames.ca/help/ssl/Default.htm" target="_blank">SSL Resources</a></li>
-                    <li><a href="https://www.webnames.ca/help/ssl/Default.htm#Resources/Articles/SSL/Differences_between_SSL_Certificate_types.htm%3FTocPath%3D_____2" target="_blank">SSL Guide</a></li>
-                </ul>
-                <a href="https://www.webnames.ca/ssl/ssl-certificates.aspx"><div class="menu-banner ssl float-right"></div></a>
             </div>
         </li>
 
         <li class="">
             <a href="#" class="dropdown-toggle" id="serviceslMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="servicesMenu">     
-                <a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx"><div class="menu-banner services float-left"></div></a>
-                <ul class="float-right">
-                    <li class="first"><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx">Trademark Protection</a></li>
-                    <li><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx">Trademark Clearinghouse</a></li>
-                    <li><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx?tab=2">Trademark Validation Process</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx?tab=1">Submit a Trademark</a></li>
-                    <li class="first"><a href="https://www.webnames.ca/domain/domains-protected-marks-list.aspx">Domains Protected Marks List</a></li>
-                    <li><a href="https://www.webnames.ca/domain/domains-protected-marks-list.aspx">Donuts Inc. DPML</a></li>
-                </ul>
-                    <div class="mega-divider-3"></div>
-                <ul class="float-right">
-                    <li class="first"><a href="https://www.webnames.ca/productsandservices.aspx">Other Services</a></li>
-                    <li><a href="https://www.webnames.ca/wordpress/support-plans/">WordPress Support Plans</a></li>
-                    <li><a href="https://www.webnames.ca/third-party-services/digitalsafe">DigitalSafe</a></li>
-                </ul>
-                <div class="mega-divider-2"></div>
-                <ul class="float-right">
+            <div class="mega-menu dropdown-menu" aria-labelledby="servicesMenu">     
+                <ul class="mega-group">
                     <li class="first">Domain Services</li>
                     <li><a href="https://www.webnames.ca/domain/domain-brokering">Domain Brokering</a></li>
                     <li><a href="https://www.webnames.ca/dns/anycast">Anycast DNS</a></li>
-                    <li><a href="https://www.webnames.ca/services/domains/advanced_dns.aspx">DNS Advantage</a></li>
+                    <li><a href="https://www.webnames.ca/services/domains/advanced_dns.aspx">DNS Hosting</a></li>
                     <li><a href="https://www.webnames.ca/services/domains/privacy.aspx">Domain Privacy</a></li>
                     <li><a href="https://www.webnames.ca/domains/domain-security.aspx">Domain Security</a></li>
+                </ul>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/productsandservices.aspx">Other Services</a></li>
+                    <li><a href="https://www.webnames.ca/wordpress/support-plans">WordPress Support Plans</a></li>
+                    <li><a href="https://www.webnames.ca/third-party-services/digitalsafe">DigitalSafe</a></li>                    
+                </ul>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx">Trademark Protection</a></li>
+                    <li><a href="https://www.webnames.ca/trademark/trademark-clearinghouse.aspx">Trademark Clearinghouse</a></li>
+                    <li><a href="https://www.webnames.ca/domain/domains-protected-marks-list.aspx">Domains Protected Marks List</a></li>
                 </ul>
             </div>
         </li>
 
         <li class="">
             <a href="#" class="dropdown-toggle" id="programMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programs</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="programMenu">
-                
-                    <div class="mega-divider-3"></div>
-                <ul class="float-right">
-                    <li class="first"><a href="https://www.webnames.ca/domains/volume">Programs</a></li>
-                    <li><a href="https://www.webnames.ca/domains/volume">Volume &amp; Reseller Programs</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/charity/">Charity Programs</a></li>
-                    <li class="first"><a href="https://www.webnames.ca/corporate/">Corporate Programs</a></li>
-                    <li><a href="https://www.webnames.ca/corporate/">Managed Services Program</a></li>
-                </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-right">
-                    <li class="first"><a href="https://www.webnames.ca/specials/promotions.aspx">Promotions &amp; Contests</a></li>
-                    <li><a href="https://www.webnames.ca/specials/promotions.aspx">Promotions</a></li>
+            <div class="mega-menu dropdown-menu" aria-labelledby="programMenu">
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/corporate/">
+                        <img class="corporate-menu-icon" alt="Corporate program icon" title="Corporate Program" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">Corporate</span>
+                    </a>
+                </div>
+                <div class="mega-icon">
+                    <a href="https://www.webnames.ca/domains/volume">
+                        <img class="volume-menu-icon" alt="Volume program icon" title="Volume Programs" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfAQMAAAC0gom2AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABJJREFUeNpjYBgFo2AUjIJhAwAE0wAB9y1edwAAAABJRU5ErkJggg==">
+                        <span class="mega-label">Volume</span>
+                    </a>
+                </div>
+                <ul class="mobile-only mega-group">
+                    <li><a href="https://www.webnames.ca/corporate/">Corporate</a></li>
+                    <li><a href="https://www.webnames.ca/domains/volume">Volume</a></li>
                 </ul>
             </div>
         </li>
+
         <li class="menu-divider"></li>
 
         <li class="">
             <a href="#" class="dropdown-toggle" id="accountMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Account</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="accountMenu">
-                <ul class="float-left">
+            <div class="mega-menu dropdown-menu" aria-labelledby="accountMenu">
+                <ul class="mega-group">
                     <li class="first"><a href="https://www.webnames.ca/mywebnames.asp">My Account</a></li>
                     <li><a href="https://www.webnames.ca/mywebnames.asp">Account Summary</a></li>
                     <li><a href="https://www.webnames.ca/accmanager.asp">Account Settings</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/ManageIPAddresses.aspx">Account Security</a></li>
+                    <li><a href="https://www.webnames.ca/ManageIPAddresses.aspx">Account Security</a></li>
                     
                 </ul>
-                    <div class="mega-divider-1"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/myaccount/recurringpayments/recurring_payments.aspx">Billing Information</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/recurringpayments/recurring_payments.aspx">Recurring Payments</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/accountsettings/credit_card_management.aspx">Manage Credit Cards</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/invoice/recent_transactions.aspx">Transaction History</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/pricing.aspx">Pricing</a></li>
-                    
-                </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list">Domain Products</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/domain-list">Domain Management</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/domain-list">Domain Renewals</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/mytransfers.aspx">Domain Transfers Progress</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/pre-order/Default.aspx">Domain Pre-Orders</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/pre-registration/Default.aspx">Domain Pre-Registrations</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list">Manage Domains</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/domain-list">Domain List</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/domain-list#?renewals">Renewals</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/mytransfers.aspx">Transfers</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/pre-order/">Pre-Orders</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/pre-registration/">Pre-Registrations</a></li>
+                    <li><a href="https://www.webnames.ca/regList.asp">Registrants</a></li>
                     <li><a href="https://www.webnames.ca/myaccount/manage_name_server_profiles.aspx">Name Server Profiles</a></li>
                 </ul>
-                    <div class="mega-divider-3"></div>
-                <ul class="float-left">
-                    <li class="first"><a href="https://www.webnames.ca/regList.asp">Other Products/Services</a></li>
-                    <li><a href="https://www.webnames.ca/regList.asp">Manage Registrants</a></li>
-                    <li><a href="https://www.webnames.ca/trademark/mytrademark.aspx">Trademark Management</a></li>
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/myaccount/domain-list">Manage Products</a></li>
+                    <li><a href="">Web Hosting</a></li>
+                    <li><a href="">Email</a></li>
                     <li><a href="https://www.webnames.ca/digitalcertificates/certificatelist.aspx">SSL Certificates</a></li>
-                    <li><a href="https://www.webnames.ca/domains/domain-security.aspx">Domain Security</a></li>
-                    <li><a href="https://www.webnames.ca/myaccount/wpsupport/">WordPress Support Hours</a></li>
+                    <li><a href="">DNS Hosting</a></li>
+                    <li><a href="">Web Builder</a></li>
+                    <li><a href="https://www.webnames.ca/trademark/mytrademark.aspx">Trademarks</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/wpsupport/">WordPress Support</a></li>
+                </ul>
+                <ul class="mega-group"> 
+                    <li class="first"><a href="https://www.webnames.ca/myaccount/recurringpayments/recurring_payments.aspx">Billing</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/recurringpayments/recurring_payments.aspx">Recurring Payments</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/accountsettings/credit_card_management.aspx">Manage Credit Cards</a></li>
+                    <li><a href="https://www.webnames.ca/myaccount/invoice/recent_transactions.aspx">Order History</a></li>
+                    <li><a href="https://www.webnames.ca/pricing">Pricing</a></li>
+                    
                 </ul>
             </div>
         </li>
-
-        <li class="">
+        <li class="mobile-support-menu">
             <a href="#" class="dropdown-toggle" id="supportMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support</a>
-            <div class="mega-menu dropdown-menu col-sm-12" aria-labelledby="supportMenu">
-                <ul class="float-right">
-                    <li class="first"><a href="https://www.webnames.ca/help/faq/default.htm" target="_blank">Resources</a></li>
-                    <li><a href="https://www.webnames.ca/help/faq/default.htm" target="_blank">FAQ</a></li>
-                    <li><a href="https://www.webnames.ca/help/wnaccount/default.htm" target="_blank">Account Management</a></li>
-                    <li><a href="https://www.webnames.ca/help/domains/Default.htm" target="_blank">Domain Name Support</a></li>
-                    <li><a href="https://www.webnames.ca/help/hosting/default.htm" target="_blank">Web Hosting Support</a></li>
-                    <li><a href="https://www.webnames.ca/help/email/Default.htm" target="_blank">Email Hosting Support</a></li>
-                    <li><a href="https://www.webnames.ca/help/ssl/Default.htm" target="_blank">SSL Certificate Support</a></li>
-                </ul>
-                    <div class="mega-divider-2"></div>
-                <ul class="float-right">
-                    <li class="first"><a href="https://www.webnames.ca/customersupport/contact.aspx">Customer Support</a></li>
-                    <li><a href="https://www.webnames.ca/customersupport/contact.aspx">Support Portal</a></li>
-                    <li class="last"><a href="http://systemstatus.webnames.ca/">System Status</a></li>
-                    <li class="first"><a href="https://www.webnames.ca/about/about-webnames.aspx">About Webnames</a></li>
-                    <li class="last"><a href="https://www.webnames.ca/reviews/testimonials.aspx">Testimonials</a></li>
-                    <li class="single"><a href="http://blog.webnames.ca/">Blog</a></li>
-                </ul>
-                    <div class="mega-divider-3"></div>
-                <ul class="float-right">
-                    <li class="first"><a href="mailto:support@webnames.ca">Contact Us</a></li>
-                    <li>Phone: 1-866-221-7878</li>
-                    <li class="last">Email: <a href="mailto:support@webnames.ca">support@webnames.ca</a></li>
-                    <li class="first"><a href="mailto:sales@webnames.ca">Sales</a></li>
-                    <li>Phone: 1-866-976-9835</li>
-                    <li class="last">Email: <a href="mailto:sales@webnames.ca">sales@webnames.ca</a></li>
+            <div class="mega-menu dropdown-menu" aria-labelledby="supportMenu">
+                <ul class="mega-group">
+                    <li class="first"><a href="https://www.webnames.ca/customersupport/contact.aspx">Get Support</a></li>
+                    <li><a href="https://www.webnames.ca/customersupport/contact.aspx">Help</a></li>
+                    <li><a href="https://www.webnames.ca/help/faq/default.htm">Frequently Asked Questions</a></li>
+                    <li><a href="tel:1-866-221-7878">1-866-221-7878</a></li>
                 </ul>
             </div>
         </li>
     </ul>
 </nav>
 
-<div class="promo-bar hidden">
-    <span>Register a .GLOBAL domain for 1 year and receive a 2nd year for <span class="font-orange">FREE</span> when using promo code <span class="font-orange">GLOBAL</span> </span>
-    <a class="float-right" href="https://www.webnames.ca/domain-registration/search/">Register Now &gt;</a>
-</div>
 <script>
     $(function(){
         var $links = $(".main-menu-list > li");
@@ -389,27 +384,6 @@ function pageLoaded() {
             $links.removeClass("active");
             $(this).addClass("active");
         }); 
-    });
-
-    $(".dropdown-toggle").click(function(e) {
-        e.preventDefault();
-        setTimeout($.proxy(function() {
-            if ("ontouchstart" in document.documentElement) {
-                $(this).siblings(".dropdown-backdrop").off().remove();
-            }
-        }, this), 0);
-    });
-
-    $(window).bind("scroll", function () {
-        // Keep menu bar fixed to top of screen after scrolling.
-        // Add padding to header above it to compensate for lost height when menu is taken out of document flow.
-        if ($(window).scrollTop() > 115) {
-            $(".main-menu-list").addClass("menu-fixed");
-            $("#site-container > header").addClass("pad-menu-fixed");
-        } else {
-            $(".main-menu-list").removeClass("menu-fixed");
-            $("#site-container > header").removeClass("pad-menu-fixed");
-        }
     });
 </script>
 
@@ -863,6 +837,7 @@ This version in effect since <strong>18 June 2008</strong><br><br></center>
 
     }
 </script>
+<script src="https://www.webnames.ca/scripts/header.js"></script>
 <script src="https://www.webnames.ca/scripts/ui/showhide.js"></script>
 <script src="https://www.webnames.ca/scripts/core/jquery.webnamesUI.js"></script>
 <script src="https://www.webnames.ca/scripts/thickbox-compressed.js"></script>
