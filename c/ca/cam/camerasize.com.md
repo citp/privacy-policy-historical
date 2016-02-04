@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camerasize.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815064403id_/http%3A//camerasize.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camerasize.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204073343id_/http%3A//camerasize.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
