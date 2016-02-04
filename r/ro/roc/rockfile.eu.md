@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockfile.eu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011716id_/https%3A//rockfile.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockfile.eu privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204170244id_/https%3A//rockfile.eu/privacy) for the most accurate reproduction.*
 
-# Rockfile - sólida como uma rocha
+# Rockfile - Solid as a Rock
 
 ## Privacy Policy
 
