@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manifestation-miracle.org privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125060227id_/http%3A//manifestation-miracle.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manifestation-miracle.org privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204091245id_/http%3A//manifestation-miracle.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
