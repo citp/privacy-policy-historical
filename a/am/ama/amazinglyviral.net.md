@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazinglyviral.net privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104164456id_/http%3A//amazinglyviral.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazinglyviral.net privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204084728id_/http%3A//amazinglyviral.net/privacy) for the most accurate reproduction.*
 
 # amazinglyviral
 
