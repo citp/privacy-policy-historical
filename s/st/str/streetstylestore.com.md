@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetstylestore.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009201002id_/http%3A//streetstylestore.com/index.php%3Fid_cms%3D2%26controller%3Dcms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetstylestore.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204141509id_/http%3A//streetstylestore.com/index.php%3Fid_cms%3D2%26controller%3Dcms) for the most accurate reproduction.*
 
 # Privacy Policy - Street Style Store
 
