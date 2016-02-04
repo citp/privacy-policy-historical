@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeskin.org privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806180831id_/http%3A//safeskin.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeskin.org privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204094548id_/http%3A//safeskin.org/privacy.php) for the most accurate reproduction.*
 
 # SafeSkin.org | Sunless Tanners | Self Tanning
 
