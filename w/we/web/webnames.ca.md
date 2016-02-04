@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webnames.ca privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117035550id_/https%3A//www.webnames.ca/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnames.ca privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204144939id_/https%3A//www.webnames.ca/content/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
