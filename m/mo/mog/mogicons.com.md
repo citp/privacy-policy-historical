@@ -1,56 +1,22 @@
-> *The following text is extracted and transformed from the mogicons.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221214011id_/http%3A//www.mogicons.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mogicons.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204220340id_/https%3A//www.mogicons.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Website Privacy
+### Information Collection, Use, and SHaring
 
-### Data Collection
-
-We do _not_ collect any personal data.
+We are the sole owners of the information collected on this site. We only have access to information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will not share your information with any third party outside of our organization.
 
 We use _Google Analytics_ to track and examine the use of _www.mogicons.com_ to prepare reports on its activities. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Find Google's [privacy policy here](http://www.google.com/intl/en/policies/privacy/). 
 
 ### Cookies
 
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site.
+
 Our advertising partners include Google Adsense which may employ cookies on our site. Google uses cookies to serve ads. You may wish to visit Google Adsense for additional information about their privacy policies as well.
-
-### Children Under 13 Years of Age
-
-Note that we do not collect any personal data at all.
 
 ### External Links
 
 Our website may contain links to third-party websites. These third party websites maintain their own policies regarding cookies and the collection and use of personal information.
-
-### Information Sharing
-
-_www.mogicons.com_ has no personal information to share.
-
-## Add-on "Facebook Secret Emoticons" Privacy
-
-### Data Collection
-
-We do _not_ collect or use any data from your Facebook account! 
-
-### Cookies
-
-We don't use cookies.
-
-### External Links
-
-Our Add-on contains links to our website [www.mogicons.com](http://www.mogicons.com/ "Facebook Smileys")
-
-### Children Under 13 Years of Age
-
-Note that we do not collect any personal data at all.
-
-### Information Sharing
-
-We don't have any personal information to share.
-
-### Changes to Privacy Policy
-
-We may change our policy at any time by posting a new version of it on the Website. If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.
 
 ### Question and Comments
 
