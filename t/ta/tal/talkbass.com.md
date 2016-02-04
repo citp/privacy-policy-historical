@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the talkbass.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141939id_/http%3A//www.talkbass.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbass.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204223853id_/https%3A//www.talkbass.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkBass.com
 
   
 
 
-This Privacy Policy governs the manner in which TalkBass.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.talkbass.com](https://web.archive.org/web/20151206141939id_/http://www.talkbass.com/pages/privacy/www.talkbass.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by TalkBass.com.
+This Privacy Policy governs the manner in which TalkBass.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.talkbass.com](https://web.archive.org/web/20160204223853id_/http://www.talkbass.com/pages/privacy/www.talkbass.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by TalkBass.com.
 
 **Personal identification information**
 
@@ -67,8 +67,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TalkBass.com](https://web.archive.org/web/20151206141939id_/http://www.talkbass.com/pages/privacy/www.talkbass.com)  
-[www.talkbass.com](https://web.archive.org/web/20151206141939id_/http://www.talkbass.com/pages/privacy/www.talkbass.com)  
+[TalkBass.com](https://web.archive.org/web/20160204223853id_/http://www.talkbass.com/pages/privacy/www.talkbass.com)  
+[www.talkbass.com](https://web.archive.org/web/20160204223853id_/http://www.talkbass.com/pages/privacy/www.talkbass.com)  
 TalkBass.com PO Box 652 Cedar Park, TX 78630-0652  
 cssupport1@talkbass.com
 
