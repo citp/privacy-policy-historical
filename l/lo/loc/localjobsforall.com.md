@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localjobsforall.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220210822id_/http%3A//localjobsforall.com/Shrd/Docs/Privacy.aspx%3FType%3DJobs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localjobsforall.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204095224id_/http%3A//www.localjobsforall.com/Shrd/Docs/Privacy.aspx%3FType%3DJobs) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
