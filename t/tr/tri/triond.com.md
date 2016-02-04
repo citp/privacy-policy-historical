@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triond.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203132404id_/http%3A//www.triond.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triond.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204112526id_/http%3A//www.triond.com/info/privacy) for the most accurate reproduction.*
 
 # Triond - Write and Publish Online for Free and Earn
 
