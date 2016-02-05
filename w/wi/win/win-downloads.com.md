@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the win-downloads.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506141057id_/http%3A//win-downloads.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the win-downloads.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205200938id_/http%3A//win-downloads.com/en/privacypolicy) for the most accurate reproduction.*
 
 # win-downloads.com - The latest software for free
 
