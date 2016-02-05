@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techreviewpro.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206231119id_/http%3A//techreviewpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreviewpro.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205130705id_/https%3A//techreviewpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TechReviewPro
+# Privacy Policy - TechReviewPro
 
 This Privacy Policy governs the manner in which TechReviewPro collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://techreviewpro.com](http://techreviewpro.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechReviewPro.
 
