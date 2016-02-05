@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapehere.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143022id_/http%3A//www.dilbole.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapehere.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205103019id_/http%3A//www.dilbole.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Dilbole.com - Privacy policy | Social Shopping India
 
