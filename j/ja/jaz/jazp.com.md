@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazp.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205115739id_/http%3A//www.jazp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazp.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205201611id_/http%3A//www.jazp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
