@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoinsquote.us privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812121145id_/http%3A//autoinsquote.us/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoinsquote.us privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205093235id_/http%3A//autoinsquote.us/priv.php) for the most accurate reproduction.*
 
 # 
 
