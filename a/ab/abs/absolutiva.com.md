@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutiva.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811090424id_/http%3A//absolutiva.com/%3Fpage_id%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutiva.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205122200id_/http%3A//absolutiva.com/%3Fpage_id%3D64) for the most accurate reproduction.*
 
 # Privacy Policy | Absolutiva
 
