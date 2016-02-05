@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorupload.net privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923170449id_/http%3A//www.mirrorupload.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorupload.net privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205154259id_/http%3A//www.mirrorupload.net/privacy.html) for the most accurate reproduction.*
 
 # MirrorUpload.net - Privacy Policy
 
