@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bylabel.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223105724id_/http%3A//bylabel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bylabel.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205163812id_/http%3A//bylabel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ByLabel.com
+# Privacy Policy – ByLabel.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
