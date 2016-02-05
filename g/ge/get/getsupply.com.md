@@ -1,69 +1,81 @@
-> *The following text is extracted and transformed from the getsupply.com privacy policy that was archived on 2000-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001019081254id_/http%3A//welcome.hp.com/country/us/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsupply.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205180716id_/http%3A//www.getsupply.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Hewlett-Packard Privacy Policy
+# Privacy Policy - Supply Provision Co.
 
-HP and its subsidiaries are committed to respecting and protecting your privacy. We've structured our web sites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. HP is a founding sponsor of the BBBOnLine Privacy Program, the 'gold standard' for Privacy certification. We proudly display the BBBOnLine Privacy Seal.
+This Privacy Policy describes the policies and procedures of Citizen Supply Ltd. Co. d/b/a Supply Co. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.supplyprovisions.com (the “Site”) and the services, features, content, applications, and products we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with HP. On the ecardfile.com business card e-service, personal information you provide is considered publicly available over the Internet, unless you choose otherwise in your ecardfile.com member profile. This statement is not applicable to [ www.myapollo.com](http://www.myapollo.com/) and [ www.dazel.com](http://www.dazel.com/), which maintain their own Privacy Statements. 
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-This statement regarding the privacy of the personally identifiable information you provide online covers the five foundation principles of fair information: Awareness, Choice, Accuracy & Access, Security, and Oversight. 
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.  
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-**Awareness**
+SECTION 2 - CONSENT
 
-HP provides this Online Privacy Statement to make you aware of our privacy policy, practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every HP.com, its subsidiaries' and affiliates' web pages. 
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-**What we collect**
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at patrick@supplyprovisions.com or mailing us at:  
+Supply Provision Co.  
+1908 Fairmount Ave. Fort Worth Texas US 76110
 
-On some HP web sites, you can order products or services, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and billing information, transaction, and credit card information. On the ecardfile.com e-service, you supply the personal and business contact information you choose. 
+SECTION 3 - DISCLOSURE
 
-In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our products, and more detailed contact preferences. Some electronic newsletters record anonymous data about articles you have expressed interest in. 
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-Some HP.com web pages use cookies, a data analysis technique. To learn more, click here. [How HP uses cookies.](https://web.archive.org/privacy.htm#cookies)
+SECTION 4 - SHOPIFY
 
-**How we use it**
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-HP uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on service and benefits, and to personalize our web sites for you. Credit card numbers are used only for payment processing, fraud protection, and are not retained for other purposes. 
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact. We will also follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable. On the ecardfile.com e-service, information you supply and designate as public is available to any viewer who looks up your card. You can choose to keep most or all of your ecardfile.com information private. ecardfile.com is not a customer registration service. 
+SECTION 5 - THIRD-PARTY SERVICES
 
-**Who we share it with**
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-HP will not sell, rent, or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other HP entities and/or business partners who are acting on our behalf for the uses described in "how we use it". Such HP entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements. 
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-Data collected online may also be combined with information you provide when you register your ownership of HP products.
+SECTION 6 - SECURITY
 
-**Children's Privacy Protection** HP takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be an active participant in their child's online activities and interests. We abide by the Children's Online Privacy Protection Act (COPPA) requirements. The vast majority of HP web sites do not target and are not intended for children under the age of 13. HP web sites that do not target children will not knowingly collect data from them. If we discover personal data from a child through an adult oriented site, we will eliminate that data. A very few web sites in HP's "Home & Home Office" web section may include children under the age of 13 as part of a broader family audience target. Those specific web pages are clearly identified and provide an explicit privacy notice and processes to obtain parental approval, provide data access and data removal process for parents. HP conducts the Annual HP Young Writers' Contest from January to early April each year. This contest targets children under the age of 13, grades K-5. Personal data is not collected online. Data collected from children is done so through a printed contest entry form that is mailed or faxed to HP care of the contest administrator SMP Scholastic. Parental approval is required on the contest entry form. No personal data is shared with the contest administrator. Parents wishing to access, review or delete their child's contest entry data should send a request to "Annual HP Young Writers' Contest, SMP c/o Scholastic Inc., 555 Broadway, New York, NY 10012.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-**Choice**
+SECTION 7 - COOKIES
 
-HP will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. Local country laws and policies are applied where they differ from those in the U.S. 
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-Your permission is always secured first, should we ever share your information with third parties that are not acting on our behalf and governed by our privacy policy. For example, as part of HP's commitment to offering you choice, we enable you to make online purchases directly from us or through our resellers. When you choose our resellers, we inform you that your registration and shopping basket data is being transferred to the reseller you selected. This notice is important because when you choose to make online purchases through our resellers, use of your registration and shopping basket data by the reseller is then governed by their privacy policy. Local country laws and policies are applied where they differ from those in the U.S. 
+SECTION 8 - AGE OF CONSENT
 
-**Accuracy & Access **
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-HP strives to keep your personally identifiable information accurate. We will provide you with access to your information, including making every effort to provide you with online access to your registration data so that you may view, update or correct your information at the HP site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personally identifiable information, return to the web page where you originally entered it and follow the instructions on that web page. Certain areas of HP's web sites may limit access to specific individuals through the use of passwords and through providing personally data. 
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-Links to third party web sites on the site are provided solely as a convenience to you. If you use these links, you will leave the HP site. HP has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus, HP does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk. 
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-**Security**
+QUESTIONS AND CONTACT INFORMATION
 
-HP is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. Preventing credit card fraud is important to protect your personal financial data security. As part of real-time payment processing, HP subscribes to a Fraud Risk Management Service. The Service gives you and HP an extra level of protection to guard against credit card fraud. The secure data transfer and validation process between the Service and HP is bound by contractual and confidentiality agreements. 
-
-**Oversight**
-
-If you have comments or questions about our privacy policy, please complete the [Web form](http://www.hp.com/ghp/assist/general.html), and select "Privacy" as your subject category. 
-
-As a Founding Sponsor, Hewlett-Packard participates in the Council of Better Business Bureau's BBBOnLine Privacy Program, complies with all BBBOnLine privacy standards and proudly display the BBBOnLine Privacy Seal which applies to our U.S. and Canadian web sites. We are actively engaged with BBBOnLine, the EU Data Protection Council and other organizations to develop a global approach to oversight, dispute resolution and a global seal. Further information about BBBOnLine is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
-
-**How HP uses cookies**
-
-A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, then your browser adds the text in a small file. The purpose of a cookie is to help us analyze web traffic or let us know when you visit a particular site. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes and dislikes. For example, when you visit an electronic store, a cookie makes it easy to shop by allowing you to drop things into a shopping cart; the cart itself is not the cookie, the cookie is placed on your hard drive and keeps track of your cart versus others' in use at the same time. 
-
-HP uses traffic log cookies to identify what pages are being used and which ones aren't. This helps us aggregate and analyze data about web page traffic and make improvements to HP.com web sites to better meet customer needs. In this case, HP uses this information only for statistical analysis purposes and then the data is removed from the system. That is the case of many of our support and information-sharing pages and forums. Denial of a traffic log cookie should not prevent you from using one of these sites. 
-
-A few HP.com web sites use temporary cookies as part of the customer web navigation experience, tracking unique IDs for that particular web site session only. Examples are product registration sites. This cookie, by itself, only tells us that a previous HP.com visitor has returned. If you deny the cookie, you can still use the site anonymously. At hpshopping.com, you will receive a persistent cookie. Customers can browse with cookies turned off, but you can only purchase if you accept the cookie. The HP InfoAgent subscription service site requires enabling cookies to subscribe to the free newsletters offered through this service.HP InfoAgent uses cookie technology to assign and place an identifier unique only to you, placed on your computer. When you register for the subscription service, it ensures that you are accurately identified and linked with your registration data. The InfoAgent also uses a temporary "authentication" cookie to assure secure access to your personal information by you alone (completed with user name and password). 
-
-Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. HP wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our customers, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. HP works to continuously improve the HP.com web experience and personal data privacy policy and practices. 
-
-You may set your web browser (MicroSoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your internet browser. 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at patrick@supplyprovisions.com or by mail at  
+Supply Provision Co.  
+[Re: Privacy Compliance Officer]  
+1908 Fairmount Ave. Fort Worth Texas US 76110  
+\----
