@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the omgghana.com privacy policy that was archived on 2015-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214185638id_/http%3A//omgghana.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the omgghana.com privacy policy that was archived on 2016-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160205045750id_/http%3A//omgghana.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//cdn.taboola.com/libtrc/omgghana/loader.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"bfcf35a5c0cc0269daa85de7966f7002",petok:"fb00eff0497a7cf57ba05e5ee4f8bb5df6869267-1450119399-86400",zone:"omgghana.com",rocket:"0",apps:{"ga_key":{"ua":"UA-27861927-1","ga_bs":"2"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1454590122,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"97b4bcdae7e3d362c2e5b46f770061eb",petok:"d5b78408ee4cd20e841c14834c57dbb730d56860-1454648270-86400",zone:"omgghana.com",rocket:"0",apps:{"ga_key":{"ua":"UA-27861927-1","ga_bs":"2"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
@@ -67,7 +67,7 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 <meta property="og:description" content="Thank you for visiting omgghana.com, the website of The BiGx Music Group LLC. We respect your privacy and consider it an important element of our business.">
 <meta property="og:url" content="http://omgghana.com/privacy/">
 <meta property="og:site_name" content="OMGGhana.Com">
-<meta property="article:publisher" content="https://www.facebook.com/OMGghana">
+<meta property="article:publisher" content="https://www.facebook.com/omgvoice">
 <meta property="article:author" content="https://www.facebook.com/OMGghana">
 <meta property="fb:app_id" content="340588739364967">
 <meta name="twitter:card" content="summary_large_image">
@@ -77,7 +77,7 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 <meta name="twitter:creator" content="@omgghanadotcom">
  
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/omgghana.com\/wp-includes\/js\/wp-emoji.js?ver=4.4","twemoji":"http:\/\/omgghana.com\/wp-includes\/js\/twemoji.js?ver=4.4"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/omgghana.com\/wp-includes\/js\/wp-emoji.js?ver=4.4.2","twemoji":"http:\/\/omgghana.com\/wp-includes\/js\/twemoji.js?ver=4.4.2"}};
 			( function( window, document, settings ) {
 	var src, ready;
 
@@ -92,7 +92,9 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tone;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -116,8 +118,19 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 			 * The first two will encode to small images (1-2KB data URLs), the third will encode
 			 * to a larger image (4-5KB data URL).
 			 */
-			context.fillText( String.fromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+			context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
 			return canvas.toDataURL().length > 3000;
+		} else if ( 'diversity' === type ) {
+			/*
+			 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+			 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+			 * compares if the emoji rendering has changed.
+			 */
+			context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+			tone = context.getImageData( 16, 16, 1, 1 ).data.toString();
+			context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+			// Chrome has issues comparing arrays, so we compare it as a  string, instead.
+			return tone !== context.getImageData( 16, 16, 1, 1 ).data.toString();
 		} else {
 			if ( 'simple' === type ) {
 				/*
@@ -125,13 +138,13 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 				 * center pixel. In browsers that don't support emoji, the character will be rendered
 				 * as an empty square, so the center pixel will be blank.
 				 */
-				context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
 			} else {
 				/*
 				 * To check for Unicode 8 support, let's try rendering the most important advancement
 				 * that the Unicode Consortium have made in years: the burrito.
 				 */
-				context.fillText( String.fromCharCode( 55356, 57135 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
 			}
 			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
@@ -146,9 +159,10 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 	}
 
 	settings.supports = {
-		simple:   browserSupportsEmoji( 'simple' ),
-		flag:     browserSupportsEmoji( 'flag' ),
-		unicode8: browserSupportsEmoji( 'unicode8' )
+		simple:    browserSupportsEmoji( 'simple' ),
+		flag:      browserSupportsEmoji( 'flag' ),
+		unicode8:  browserSupportsEmoji( 'unicode8' ),
+		diversity: browserSupportsEmoji( 'diversity' )
 	};
 
 	settings.DOMReady = false;
@@ -156,7 +170,7 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag || ! settings.supports.unicode8 ) {
+	if ( ! settings.supports.simple || ! settings.supports.flag || ! settings.supports.unicode8 || ! settings.supports.diversity ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -184,14 +198,14 @@ window._fbq.push(['track', '6029899290307', {'value':'0.00','currency':'USD'}]);
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://omgghana.com/wp-includes/js/twemoji.js?ver=4.4" type="text/javascript"></script><script src="http://omgghana.com/wp-includes/js/wp-emoji.js?ver=4.4" type="text/javascript"></script>
+		</script><script src="http://omgghana.com/wp-includes/js/twemoji.js?ver=4.4.2" type="text/javascript"></script><script src="http://omgghana.com/wp-includes/js/wp-emoji.js?ver=4.4.2" type="text/javascript"></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="dashicons-css" href="http://cdn.omgghana.com/wp-includes/css/dashicons.css?ver=4.4" type="text/css" media="all">
-<link rel="stylesheet" id="thickbox-css" href="http://cdn.omgghana.com/wp-includes/js/thickbox/thickbox.css?ver=4.4" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://cdn.omgghana.com/wp-includes/css/dashicons.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://cdn.omgghana.com/wp-includes/js/thickbox/thickbox.css?ver=4.4.2" type="text/css" media="all">
 <script type="text/javascript" src="http://cdn.omgghana.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://cdn.omgghana.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1" defer="" onload=""></script>
 <link rel="https://api.w.org/" href="http://omgghana.com/wp-json/">
-<meta name="generator" content="WordPress 4.4">
+<meta name="generator" content="WordPress 4.4.2">
 <link rel="alternate" type="application/json+oembed" href="http://omgghana.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fomgghana.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://omgghana.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fomgghana.com%2Fprivacy%2F&amp;format=xml">
 <script data-cfasync="true" src="/wp-content/themes/omgghana/js/admanger.js" language="javascript"></script>
@@ -548,81 +562,81 @@ try{(function(a){var b="http://",c="omgghana.com",d="/cdn-cgi/cl/",e="img.gif",f
 <div class="col-md-3">
 <a href="http://omgghana.com/business/">
 <li>
-Business <h6>— Updated 1 Month(s) ago</h6>
+Business <h6>— Updated 17 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/cars-autos/">
 <li>
-Cars &amp; Autos <h6>— Updated 6 Day(s) ago</h6>
+Cars &amp; Autos <h6>— Updated 1 Month(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/entertainment/">
 <li>
-Entertainment <h6>— Updated 58 Minute(s) ago</h6>
+Entertainment <h6>— Updated 2 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/fashion/">
 <li>
-Fashion <h6>— Updated 25 Day(s) ago</h6>
+Fashion <h6>— Updated 14 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/health/">
 <li>
-Health <h6>— Updated 1 Month(s) ago</h6>
+Health <h6>— Updated 27 Day(s) ago</h6>
 </li>
 </a>
 </div>
 <div class="col-md-3">
 <a href="http://omgghana.com/lifestyle/">
 <li>
-Lifestyle <h6>— Updated 3 Day(s) ago</h6>
+Lifestyle <h6>— Updated 14 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/news/">
 <li>
-News <h6>— Updated 3 Day(s) ago</h6>
+News <h6>— Updated 2 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/photos/">
 <li>
-Photos <h6>— Updated 10 Hour(s) ago</h6>
+Photos <h6>— Updated 21 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/property/">
 <li>
-Property <h6>— Updated 4 Day(s) ago</h6>
+Property <h6>— Updated 5 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/relationships/">
 <li>
-Relationships <h6>— Updated 2 Hour(s) ago</h6>
+Relationships <h6>— Updated 5 Day(s) ago</h6>
 </li>
 </a>
 </div>
 <div class="col-md-3">
 <a href="http://omgghana.com/sports/">
 <li>
-Sports <h6>— Updated 5 Day(s) ago</h6>
+Sports <h6>— Updated 7 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/technology/">
 <li>
-Technology <h6>— Updated 10 Day(s) ago</h6>
+Technology <h6>— Updated 23 Day(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/travel/">
 <li>
-Travel <h6>— Updated 10 Day(s) ago</h6>
+Travel <h6>— Updated 2 Month(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/videos/">
 <li>
-Videos <h6>— Updated 1 Month(s) ago</h6>
+Videos <h6>— Updated 3 Month(s) ago</h6>
 </li>
 </a>
 <a href="http://omgghana.com/weddings/">
 <li>
-Weddings <h6>— Updated 26 Day(s) ago</h6>
+Weddings <h6>— Updated 1 Month(s) ago</h6>
 </li>
 </a>
 </div>
@@ -867,44 +881,49 @@ We know you love the gossip. No worries, we can keep you posted regularly. Leav
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
-</div><span class="omgh-inline-post-label">Trending Stories&nbsp;<a href="http://omgghana.com/trending/">All</a></span><div id="_load_trending"><a href="http://omgghana.com/16-famous-ghanaians-passed-away-2014/">
+</div><span class="omgh-inline-post-label">Trending Stories&nbsp;<a href="http://omgghana.com/trending/">All</a></span><div id="_load_trending"><a href="http://omgghana.com/top-20-senior-secondary-schools-ghana-2014/">
 <div class="omgh-inlinepost-sidebar">
-<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="173" src="http://cdn.omgghana.com/wp-content/uploads/2014/01/komla_dumor_-300x173.jpg" class=" wp-post-image" alt="komla_dumor_" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/01/komla_dumor_-300x173.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/01/komla_dumor_-600x346.jpg 600w, http://cdn.omgghana.com/wp-content/uploads/2014/01/komla_dumor_.jpg 1555w" sizes="(max-width: 300px) 100vw, 300px">  
+<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="225" src="http://cdn.omgghana.com/wp-content/uploads/2014/12/prese-300x225.jpg" class=" wp-post-image" alt="12 Successful Ghanaians Who Went To Presec - Legon" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/12/prese-300x225.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/12/prese-533x400.jpg 533w, http://cdn.omgghana.com/wp-content/uploads/2014/12/prese.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px">  
 </div>
-<div class="omgh-inlinepost-sidebar-text">16 Famous Ghanaians Who Passed Away in 2014</div>
-<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 154,760 </span>
+<div class="omgh-inlinepost-sidebar-text">Top 20 Senior Secondary Schools In Ghana For 2014</div>
+<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 216,134 </span>
 </span></div>
 </div>
-</a><a href="http://omgghana.com/7-sextape-scandals-rocked-ghana-2014/">
+</a><a href="http://omgghana.com/10-expensive-cars-ghana/">
 <div class="omgh-inlinepost-sidebar">
-<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="266" src="http://cdn.omgghana.com/wp-content/uploads/2014/12/nahnah_abynah3_-300x266.jpg" class=" wp-post-image" alt="nahnah_abynah3_">  
+<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="194" src="http://cdn.omgghana.com/wp-content/uploads/2014/09/rolls_royce-300x194.jpg" class=" wp-post-image" alt="rolls_royce" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/09/rolls_royce-300x194.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/09/rolls_royce-620x400.jpg 620w" sizes="(max-width: 300px) 100vw, 300px">  
 </div>
-<div class="omgh-inlinepost-sidebar-text">7 Sextape Scandals That Rocked Ghana In 2014</div>
-<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 175,934 </span>
+<div class="omgh-inlinepost-sidebar-text">10 Most Expensive Cars In Ghana</div>
+<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 183,113 </span>
 </span></div>
 </div>
-</a><a href="http://omgghana.com/welcome-good-life-8-black-celebrities-private-jets/">
+</a><a href="http://omgghana.com/ghanaian-celebrities-cute-kids/">
 <div class="omgh-inlinepost-sidebar">
-<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="300" src="http://cdn.omgghana.com/wp-content/uploads/2014/12/Private-Jet-John-Dumelo-Fally-Ipupa-300x300.jpg" class=" wp-post-image" alt="Private-Jet-John-Dumelo-Fally-Ipupa" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/12/Private-Jet-John-Dumelo-Fally-Ipupa-150x150.jpg 150w, http://cdn.omgghana.com/wp-content/uploads/2014/12/Private-Jet-John-Dumelo-Fally-Ipupa-300x300.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/12/Private-Jet-John-Dumelo-Fally-Ipupa-400x400.jpg 400w, http://cdn.omgghana.com/wp-content/uploads/2014/12/Private-Jet-John-Dumelo-Fally-Ipupa.jpg 607w" sizes="(max-width: 300px) 100vw, 300px">  
+<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="300" src="http://cdn.omgghana.com/wp-content/uploads/2015/01/caroline_son-300x300.jpg" class=" wp-post-image" alt="caroline_son" srcset="http://cdn.omgghana.com/wp-content/uploads/2015/01/caroline_son-150x150.jpg 150w, http://cdn.omgghana.com/wp-content/uploads/2015/01/caroline_son-300x300.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2015/01/caroline_son-400x400.jpg 400w, http://cdn.omgghana.com/wp-content/uploads/2015/01/caroline_son.jpg 640w" sizes="(max-width: 300px) 100vw, 300px">  
 </div>
-<div class="omgh-inlinepost-sidebar-text">Welcome To The Good Life: 8 Black Celebrities Who Own Private Jets</div>
-<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 153,867 </span>
+<div class="omgh-inlinepost-sidebar-text">Beautiful Photos Of Ghanaian Celebrities And Their Cute Kids</div>
+<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 615,261 </span>
 </span></div>
 </div>
-</a><a href="http://omgghana.com/8-types-sex-every-ghanaian-man-must-try-dies/">
+</a><a href="http://omgghana.com/heres-cast-things-love-looks-like-now/">
 <div class="omgh-inlinepost-sidebar">
-<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="194" src="http://cdn.omgghana.com/wp-content/uploads/2014/01/date_african-american-couple2-300x194.jpeg" class=" wp-post-image" alt="date_african-american-couple2" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/01/date_african-american-couple2-300x194.jpeg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/01/date_african-american-couple2-620x400.jpeg 620w" sizes="(max-width: 300px) 100vw, 300px">  
+<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="194" src="http://cdn.omgghana.com/wp-content/uploads/2014/08/pusher-300x194.jpg" class=" wp-post-image" alt="dede things we do for love" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/08/pusher-300x194.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/08/pusher-620x400.jpg 620w" sizes="(max-width: 300px) 100vw, 300px">  
 </div>
-<div class="omgh-inlinepost-sidebar-text">The 8 Types Of Sex Every Ghanaian Man Must Try Before He Dies</div>
-<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 100,064 </span>
+<div class="omgh-inlinepost-sidebar-text">Here’s What The Cast Of ‘Things We Do For Love’ Look Like Now</div>
+<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 143,484 </span>
 </span></div>
 </div>
-</a><div class="adsense-wrapper"></div><a href="http://omgghana.com/photo-video-footage-rihanna-drake-sex-bathroom-leaks/">
+</a><div class="adsense-wrapper"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:100%;height:250px" data-ad-client="ca-pub-3633255683884717" data-ad-slot="9012155672"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><a href="http://omgghana.com/schools-favorite-ghanaian-pastors-bishops-prophets-attended/">
 <div class="omgh-inlinepost-sidebar">
-<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="216" src="http://cdn.omgghana.com/wp-content/uploads/2012/03/rihanna-drake-wmn-300x216.jpg" class=" wp-post-image" alt="RIHANNA DRAKE ALBUM" srcset="http://cdn.omgghana.com/wp-content/uploads/2012/03/rihanna-drake-wmn-300x216.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2012/03/rihanna-drake-wmn.jpg 600w" sizes="(max-width: 300px) 100vw, 300px">  
+<div class="omgh-inlinepost-sidebar-image-wrapper"><img width="300" height="182" src="http://cdn.omgghana.com/wp-content/uploads/2014/11/bishop_obinim_omg-300x182.jpg" class=" wp-post-image" alt="bishop_obinim_omg" srcset="http://cdn.omgghana.com/wp-content/uploads/2014/11/bishop_obinim_omg-300x182.jpg 300w, http://cdn.omgghana.com/wp-content/uploads/2014/11/bishop_obinim_omg-600x365.jpg 600w, http://cdn.omgghana.com/wp-content/uploads/2014/11/bishop_obinim_omg.jpg 986w" sizes="(max-width: 300px) 100vw, 300px">  
 </div>
-<div class="omgh-inlinepost-sidebar-text">PHOTOS + VIDEO: Footage of Rihanna and Drake having sex in the bathroom leaks!</div>
-<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 204,881 </span>
+<div class="omgh-inlinepost-sidebar-text">The Schools Ghanaian Pastors Attended</div>
+<div class="omgh-metadata"><span><span class="omgh-metadata-hot"><span class="glyphicon glyphicon-fire"></span><span class="omgh-hide">Hot Story</span></span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span class="omgh-metadata-time">1 year(s) ago</span><span style="color:#DDDDDD">&nbsp;|&nbsp;</span><span style="color:#5a9863; cursor:text"><span class="fa fa-eye">&nbsp;</span><span class="omgh-hide">Views :</span> 162,168 </span>
 </span></div>
 </div>
 </a></div></div>
