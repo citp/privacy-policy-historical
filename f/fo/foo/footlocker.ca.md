@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162204id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205055757id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Foot Locker Canada
 
