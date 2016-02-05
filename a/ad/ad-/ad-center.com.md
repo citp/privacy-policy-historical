@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad-center.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421232533id_/http%3A//www.ad-center.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-center.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205035654id_/http%3A//www.ad-center.com/%23privacy) for the most accurate reproduction.*
 
 # AdCenter
 
