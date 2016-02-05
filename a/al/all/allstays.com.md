@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206040611id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205130345id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays
 
@@ -30,11 +30,11 @@ We need to share your information to provide the product or service you have req
 
 We respond to subpoenas, court orders or legal process; or
 
-We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20150206040611id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays.
+We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20160205130345id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays.
 
 **Changes to this Privacy Policy**
 
 AllStays may edit this policy on occasion. If we do make any substantial changes we will post an announcement on our pages.
 
 **Questions or Suggestions**  
-If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20150206040611id_/http%3A//www.allstays.com/Services/feedback.htm)
+If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20160205130345id_/http%3A//www.allstays.com/Services/feedback.htm)
