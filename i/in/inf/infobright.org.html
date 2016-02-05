@@ -1,315 +1,101 @@
-<!--The following is the downloaded HTML source of the infobright.org privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501011927id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infobright.org privacy policy that was archived on 2016-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160205074924id_/https%3A//www.infobright.org/index.php/Legal/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
-    
-    <title>infobright.org</title>
-
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="robots" content="index,follow,archive">
-
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
-<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
-<meta name="DC.title" content="infobright.org">
-<meta name="DC.creator" content="infobright.org Forum Update">
-<meta name="DC.subject" content="">
-<meta name="DC.description" content="">
-<meta name="DC.publisher" content="">
-<meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2013-05-01T01:41:23+0000">
-<meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="1370-01-27T11:00:00+0000">
-<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2013-05-07T03:41:23+0000">
-<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
-<meta name="DC.rights" scheme="DCTERMS.URI" content="">
-<meta name="DC.format" content="text/html">
-<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.infobright.org/Legal/Privacy-Policy/">
-    
 
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1">
 
-
+<title>Open Source Data Warehouse, Column Database Software, Improve SQL Performance - Infobright.org</title>
+<meta name="description" content="ICE is a column-oriented database with a unique Knowledge Grid architecture to eliminate the complexity of data warehousing.">
+<meta name="keywords" content="open source data warehouse,query performance,mysql storage engine,sql query performance,sql index performance,improve query performance,mysql scalability,analyze query performance,indexes performance,queries performance,cost performance index,query performance tuning,index insert performance,select query performance,index scan performance, 10g query performance, database 
+with null support,open source data warehousing,column oriented database,analytic data warehouse,open source business intelligence ">
 
 <link rel="shortcut icon" href="/favicon.ico">
 
-<script src="http://www.infobright.org/mint/?js" type="text/javascript"></script>
+<!--<script src="https://www.infobright.org/mint/?js" type="text/javascript"></script>-->
 
-<link rel="stylesheet" type="text/css" media="all" href="http://www.infobright.org/infobright-main.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.infobright.org/infobright-main.css">
 
-<style type="text/css" media="screen">@import "http://www.infobright.org/infobright-main.css";</style>
 
 <!--[if (IE 6)]>
-<link href="http://www.infobright.org/infobright-ie6.css" rel="stylesheet" type="text/css" />
+<link href="https://www.infobright.org/infobright-ie6.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <!--[if (IE 7)]>
-<link href="http://www.infobright.org/infobright-ie7.css" rel="stylesheet" type="text/css" />
+<link href="https://www.infobright.org/infobright-ie7.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/infobright/IWvz">
 
-<!-- The closing HEAD tag is on the main template to allow for JS includes per page -->
-<script type="text/javascript" src="http://www.infobright.org/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.infobright.org/js/jquery.form.packed.js"></script>
-<script type="text/javascript">
-(function($) {
-    $.extend({ 
-        uiLock: function(){
-            content = '<img src="/images/CircleThickbox.gif" style="position:fixed; top: 50%; left: 50%; z-index: 10001; margin: -16px 0 0 -16px" />';
-            $('<div></div>').attr('id', 'uiLockId').css({
-                'position': 'fixed',
-                'top': 0,
-                'left': 0,
-                'z-index': 1000,
-                'opacity': 0.6,
-                'width':'100%',
-                'height':'150%',
-                'color':'white',
-                'background-color':'black'
-            }).html(content).appendTo('body');
-        },
-        uiUnlock: function(){
-            $('#uiLockId').remove();
-        }
-    });
-})(jQuery);
-
-function submitAjaxRedirectForm( options, theEl )
-{
-	if( options.form != null )
-		var request	= jQuery(options.form).attr('action')||'http://'+document.domain+'/';
-	else if( options.link != null )
-		var request	= jQuery(theEl).attr('href')||'http://'+document.domain+'/';
-	else
-		var request = 'http://'+document.domain+'/';
-	var domain_replace = request.match(/^https?:\/\/(.+?)\//)[1]||document.domain;
-	request	= request.replace(domain_replace, document.domain);
-	
-	try {
-		var opts	= {
-			url:	request,
-			type:	"POST",
-			dataType:	'html',
-			complete: function() {
-				if(opts.iframe == true) {
-					var redirect = (opts.redirect_url != '') ? opts.redirect_url : jQuery(opts.form).find("input[@name='"+opts.redirect_var+"']").val();
-					if( opts.refresh == true )
-						setTimeout(function() {window.location.reload();}, opts.redirect_timer);
-					else if( redirect != '' && options.no_redirect == false )
-						setTimeout(function() { window.location = redirect}, opts.redirect_timer);
-				}
-			},
-			success:	function(data, textStatus) {
-                $.uiUnlock();
-				if( opts.iframe == true && opts.link != null) {
-					jQuery("body").append("<iframe src='"+request+"' id='ajax_redirect_iframe' style='display:none;' width='0px' height='0px'></iframe>");
-					data = jQuery('iframe#ajax_redirect_iframe').contents();
-				}
-				
-				if( typeof(formPostProcessAll) != 'undefined' )
-					formPostProcessAll(jQuery(opts.form||opts.link), data, opts.message_display_id);
-				
-				var error = jQuery(data).find(opts.error_search).html();
-				var message = (opts.message != null) ? opts.message : jQuery(data).find(opts.message_id).html();
-				if( error != null ) {
-					var display = '';
-					jQuery(error).replaceWith( jQuery(error).html().replace(/<\/?[^>]+>/gi, '') ).each(function( n,i ) {
-						display += jQuery.trim(jQuery(i).text()) + "\n";
-					});
-					alert(display);
-					return false;
-				}
-				
-				if( typeof(formPostProcess) != 'undefined' && formPostProcess(jQuery(opts.form||opts.link), message, error) == false )
-					return false;
-				
-				if( opts.message_display_id != null && typeof formPostProcessAll == "undefined" ) {
-					jQuery(opts.message_display_id).empty();
-					jQuery(opts.message_display_id).html(message);
-				}
-				
-				if( typeof(formPostProcessJSON) != 'undefined' && formPostProcessJSON(jQuery(opts.form||opts.link), data) == false)
-					return false;
-				
-				var redirect = (opts.redirect_url != '') ? opts.redirect_url : jQuery(opts.form).find("input[@name='"+opts.redirect_var+"']").val();
-				if( opts.refresh == true )
-					setTimeout(function() {window.location.reload(true);}, opts.redirect_timer);
-				else if( redirect != '' && options.no_redirect == false )
-					setTimeout(function() { window.location = redirect}, opts.redirect_timer);
-			}
-		};
-		
-		jQuery.extend(opts, options);
-		
-		if( opts.form != null )
-			jQuery(opts.form).bind('submit', function() {jQuery(opts.form).ajaxSubmit(opts); $.uiLock(); return false;});
-		else if( opts.link != null )
-			jQuery(opts.link).bind('click', function() {
-				opts = jQuery.extend(opts, {url: jQuery(this).attr('href')});
-				jQuery.ajax(opts); return false;
-			});
-	} catch(postE) {
-		console.log(postE);
-	}
-	return false;
-}
-</script>
-
-<script type="text/javascript">
-jQuery(document).ready( function() {
-	submitAjaxRedirectForm({
-form: jQuery("form#mailinglist_form"),
-link: null,
-dataType: 'html',
-beforeSubmit: null,
-message_id: '#message:last',
-error_search: '#message:last ul',
-redirect_var: 'RET',
-redirect_url: '',
-redirect_timer: 2000,
-no_redirect: true,
-iframe: false,
-refresh: false,
-resetForm: null,
-message: null,
-message_display_id: null,
-type: "POST",
-data: null});
-});
-</script>
-
-<script type="text/javascript"> 
-function formPostProcess(formObj, message, error) {
-	if( message != null ) {
-		if(jQuery(formObj).attr('id') == 'mailinglist_form') {
-			var display = '';
-			jQuery(message).replaceWith( jQuery(message).html().replace(/<\/?[^>]+>/gi, '') ).each(function( n,i ) {
-				display += jQuery(i).text() + "\n";
-			});
-			alert(display);
-		}
-	}
-}
-</script>
-
-
-
-
-
-
-
-
-<!-- IndexTools -->
-
-
-
-
-<!-- Insert Required JS Links Here -->
-<script type="text/javascript" src="http://www.infobright.org/js/highslide/highslide-full.packed.js"></script>
-
-<script type="text/javascript">	
-	hs.graphicsDir = '/js/highslide/graphics/';
-	hs.outlineType	= 'rounded-white';
-	hs.outlineWhileAnimating = true;
-	hs.align = 'center';
-	hs.showCredits = false;
-</script>
-
-
-
-
-
+<meta name="verify-v1" content="CrA48LlBF+8Q5lAAbyxq0q4efUH8kDixcpy2SpcAhvE=">
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580523300000/374279.js"></script><script type="text/javascript" src="https://www.infobright.org/js/jquery.js"></script>
 </head>
-
-
-
-
 <body>
 
-
-<div id="container">
+<!-- IndexTools -->
+	<div id="container">
 		<div id="top">
 
 	<div class="top-logo">
-		<a title="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" href="http://www.infobright.org"><img src="http://www.infobright.org/images/site/org-logo.gif" alt="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" border="0"></a>
+		<a title="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" href="https://www.infobright.org"><img src="https://www.infobright.org/images/site/org-logo.gif" alt="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" border="0"></a>
 	</div>
-	<div class="top-utility-bar">
-	
-	
-			
- 		<a href="http://www.infobright.org/Forums/member/register/">Join</a><img src="http://www.infobright.org/images/site/utility-seperator.jpg" border="0" alt="utility seperator"><a href="http://www.infobright.org/inc/login-box" class="highslide" onclick="return hs.htmlExpand(this,{contentId: 'login_box', preserveContent: true, width: 400, height: 200});">Login</a>
-		<div class="highslide-html-content" id="login_box" style="display:none;">
-			<div class="highslide-header">
-				<ul>
-					<li class="highslide-move">
-						<a href="#" title="Move" onclick="return false">
-						<span>MOVE</span></a>
-					</li>
-					<li class="highslide-close">
-						<a href="#" title="Close" onclick="return hs.close(this)">
-						<span>CLOSE</span></a>
-					</li>
-				</ul>
-			</div>
-			<div class="highslide-body">
-			<form name="login_form" method="post" action="http://www.infobright.org/">
-<div class="hiddenFields">
-<input type="hidden" name="XID" value="ea2a4babf504f3aa72c76555f07ea8c5b11734e1">
-<input type="hidden" name="ACT" value="9">
-<input type="hidden" name="RET" value="Legal/Privacy-Policy/">
-<input type="hidden" name="site_id" value="1">
-</div>
-
-
-			<table>
-			<tbody><tr>
-				<td>Username: </td>
-				<td><input type="text" name="username" value="" maxlength="32" class="input" size="25"></td>
-			</tr>
-			<tr>
-				<td>Password: </td>
-				<td><input type="password" name="password" value="" maxlength="32" class="input" size="25"></td>
-			</tr>
-			
-			<tr>
-				<td colspan="2"><input class="checkbox" type="checkbox" name="auto_login" value="1"> Auto-login on future visits</td>
-			</tr>
-			
-			<tr>
-				<td colspan="2"><input type="submit" name="submit" value="Submit">
-				<a href="http://www.infobright.org/Forums/member/forgot_password/">Forgot your password?</a></td>
-			</tr>
-			</tbody></table>
-			</form>
-			</div>
-		</div><img src="http://www.infobright.org/images/site/utility-seperator.jpg" border="0" alt="utility separator">
-		<a href="http://www.infobright.com">Infobright.com</a>
-		</div>
-	
+ 
+ 
+ 
+ 
+ <div class="top-utility-bar" style="margin-top:10px;">
+ <form role="search" method="get" id="searchform" action="https://www.infobright.org/">
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="Search">
+	</div>
+	</form> </div>
+ 
+ <!-- Comment out for phase 1
+ 
+<div class="top-utility-bar" style="margin-top:10px;">
+		<form style="font-size:.8em;" action="https://www.infobright.org/forums/login.php?do=login" method="post">
+			<input type="hidden" name="do" value="login" />
+			<input type="hidden" name="vb_login_md5password" />
+			<input type="hidden" name="vb_login_md5password_utf" />
+			<input type="hidden" name="s" value="" />
+			<input type="hidden" name="cookieuser" value="1" id="cb_cookieuser" tabindex="1" />
+			<label>Username:<input style="height:13px;width:60px;" name="vb_login_username" type="text" id="login" tabindex="1" class="bginput" accesskey="u"/></label>&nbsp;<label>Password:<input style="height:13px;width:60px;" name="vb_login_password" type="password" id="password" tabindex="1" class="bginput" /></label>&nbsp;<input name="submit" style="height:22px;width:50px;" type="submit" id="submit" tabindex="1" value="Login" accesskey="s" class="button" />
+		</form>
+	</div>
+	 -->
+   
+   
+   
+   
+   
+   
+   
 	<div class="clear"></div>
-	
+ 
 	<div class="nav-bar">
 	
 		<span class="preload1"></span>
 <span class="preload2"></span>
 
 <ul class="prodrop4">
-	<li class="top"><a title="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" href="http://www.infobright.org" id="home" class="top_link"><span>HOME</span></a></li>
-	<li class="top"><a href="http://www.infobright.org/Download/ICE/" id="products" class="top_link"><span>DOWNLOAD</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+	<li class="top"><a title="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" href="https://www.infobright.org" id="home" class="top_link"><span>HOME</span></a></li>
+	<li class="top"><a href="https://www.infobright.org/index.php/Download/ICE" id="products" class="top_link"><span>DOWNLOAD</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		
 		<ul class="sub1">
-			<li><a href="http://www.infobright.org/Downloads/What-is-ICE/">What is ICE?</a></li>
-			<li><a href="http://www.infobright.org/Downloads/join/">Join the Infobright Community</a></li>
-			<li><a href="http://www.infobright.org/Downloads/Bug-Report/">How to report a bug in ICE</a></li>
-			<li><a href="http://www.infobright.org/Downloads/contribute/">How to contribute to the ICE project</a></li>
-			<li><a href="http://www.infobright.org/Download/ICE/">Download ICE</a></li>
-			<li><a href="http://www.infobright.org/Downloads/Contributed-Software/">Download contributed software</a></li>
-			<li><a href="http://www.infobright.org/Downloads/Pentaho_ICE_VM/">Download the Pentaho &amp; ICE integrated Virtual Machine</a></li>
-			<li><a href="http://www.infobright.org/Downloads/Jaspersoft_ICE_VM/">Download the Jaspersoft &amp; ICE integrated Virtual Machine</a></li>
-			<li><a href="http://www.infobright.org/Downloads/Actuate/">Download the BIRT/Actuate &amp; ICE integrated Virtual Machine</a></li>
-			<li><a href="http://www.infobright.org/Downloads/Talend_VM/">Download the Talend &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/what-is-ice/">What is ICE?</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/join-the-infobright-community/">Join the Infobright Community</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/how-to-report-a-new-bug-in-ice/">How to report a bug in ICE</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/how-to-contribute-to-the-ice-project/">How to contribute to the ICE project</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/ICE/">Download ICE</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/download-contributed-software/">Download contributed software</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/download-pentaho-ice-integrated-virtual-machine/">Download the Pentaho &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/download-jaspersoft-ice-integrated-virtual-machine/">Download the Jaspersoft &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/download-birtactuate-ice-integrated-virtual-machine/">Download the BIRT/Actuate &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="https://www.infobright.org/index.php/download/download-talend-ice-integrated-virtual-machine/">Download the Talend &amp; ICE integrated Virtual Machine</a></li>
 		</ul>
 						
 		
@@ -318,19 +104,19 @@ function formPostProcess(formObj, message, error) {
 	<li class="top"><a href="#" id="services" class="top_link"><span>COMMUNITY</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub2">
-			<li><a href="http://www.infobright.org/Open-Source/Blog/News_and_Events">News</a></li>
-			<li><a href="http://www.infobright.org/Forums">Forums&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-			<li><a href="http://www.infobright.org/wiki">Wiki</a></li>
-			<!-- <li><a href="http://www.infobright.org/Open-Source/Blog/Newsletters">Newsletters</a></li> -->
+			<li><a href="https://www.infobright.org/index.php/community/news/">News</a></li>
+			<li><a href="/forums">Forums&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+			<li><a href="https://www.infobright.org/index.php/ICE_Wiki/wiki-4/">Wiki</a></li>
+			<!-- <li><a href="https://www.infobright.org/Open-Source/Blog/Newsletters">Newsletters</a></li> -->
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
 	<li class="top"><a href="#" id="contacts" class="top_link"><span>BLOGS</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub3">
-			<li><a href="http://www.infobright.org/Open-Source/Blog/infobright_blog">Infobright Blog</a></li> 
+			<li><a href="https://www.infobright.org/index.php/blogs/infobright-blog/">Infobright Blog</a></li>
 			<li><hr></li>
-			<li><a href="http://www.infobright.com/Blog/ceo_blog">CEO Blog</a></li>
+			<li><a href="https://www.infobright.com/index.php/category/ceo-blog/">CEO Blog</a></li>
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
@@ -338,21 +124,28 @@ function formPostProcess(formObj, message, error) {
 	<li class="top"><a href="#" id="shop" class="top_link"><span>RESOURCES</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub4">
+   
+   	<li>
+    		<a href="https://www.infobright.com/" title="Infobright.com">Infobright.com</a>
+		</li>
+   
 		
 		<li>
-    		<a href="http://www.infobright.org/Downloads/ICE/" title="ICE User Guide">ICE User Guide</a>
+    		<a href="https://www.infobright.org/index.php/Resources/ICE/" title="ICE User Guide">ICE User Guide</a>
 		</li>
 		<li>
-    		<a href="http://www.infobright.org/Resources/FAQ/" title="ICE FAQ">ICE FAQ</a>
+    		<a href="https://www.infobright.org/index.php/Resources/FAQ/" title="ICE FAQ">ICE FAQ</a>
 		</li>
 <li>
 
-    		<a href="http://www.infobright.org/Resources/release_notes/" title="Latest ICE Release Notes">Latest ICE Release Notes</a>
+    		<a href="https://www.infobright.org/index.php/Resources/release_notes/" title="Latest ICE Release Notes">Latest ICE Release Notes</a>
 		</li>
 <li>
-    		<a href="http://www.infobright.org/Resources/sites/" title="Suggested DW Sites">Suggested DW Sites</a>
+    		<a href="https://www.infobright.org/index.php/Resources/sites/" title="Suggested DW Sites">Suggested DW Sites</a>
 		</li>
-
+<li>
+    		<a href="https://www.infobright.org/index.php/pentaho-web-analytics/" title="Pentaho Web Analytics Example" target="_blank">Pentaho Web Analytics Example</a>
+		</li>
 		
 			
 			
@@ -366,29 +159,9 @@ function formPostProcess(formObj, message, error) {
 		<div class="search-box">
 			
 			
-<div id="cse-search-form" style="width:200px;">Loading</div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en'});
-  google.setOnLoadCallback(function() {
-    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-      '010512709134129681767:5r36i67lmsg', customSearchOptions);
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    var options = new google.search.DrawOptions();
-    options.enableSearchboxOnly("http://www.google.com/cse?cx=010512709134129681767:5r36i67lmsg");
-    customSearchControl.draw('cse-search-form', options);
-  }, true);
-</script>
-<link rel="stylesheet" href="//www.google.com/cse/style/look/default.css" type="text/css">
-<style type="text/css">
-  input.gsc-input {
-    border-color: #D9D9D9;
-  }
-  input.gsc-search-button {
-    border-color: #666666;
-    background-color: #CECECE;
-  }
-</style>
+<div id="cse-search-form" style="width:200px;"></div>
+
+
       
 		</div>
 	</div>
@@ -397,8 +170,17 @@ function formPostProcess(formObj, message, error) {
 
 </div>
 
-		
-		<!-- Center Container Hack -->
+
+<!-- BreadCrumbs Tool -->
+	<div class="breadcrumbs" style="margin: 10px 30px; text-transform:uppercase;">
+	   	 <!--? if(function_exists('bcn_display')){bcn_display();}?-->
+	</div>
+	
+
+
+
+
+<!-- Center Container Hack -->
 
              <script language="JavaScript" type="text/javascript"><!--
 function formCheck(formobj){
@@ -459,344 +241,221 @@ function formCheck(formobj){
 // --></script>
 
 		<div id="center-container">
+		
 			<div id="inner">
 		
-		<div class="float-left pages-main-left">
-		<div class="breadcrumbs">
+<div class="float-left pages-main-left">		<div class="breadcrumbs">
 
 <div class="space35"></div>
-<a href="http://www.infobright.org" title="My Web Site">Home</a>
-
-	
-		&nbsp;&gt;&nbsp;<a href="http://www.infobright.org/Legal/Privacy-Policy/">privacy policy</a>
-	
+<a href="https://www.infobright.org" title="My Web Site">Home</a>
 
 
+		&nbsp;&gt;&nbsp;<a href="https://www.infobright.org/index.php/legal/privacy-policy/">Privacy Policy</a> 
 
 <div class="space10"></div>
 
    
-</div>
-		
-				
+</div>	
 
-		
-		
-		
-   						
-   		<p></p><p>
-&nbsp;
-</p>
-<h1><strong>Privacy Policy</strong></h1>
-<p>
-Infobright Inc. ("Infobright") respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Infobright. Please note that, Infobright reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Infobright collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Infobright as explained below.<br>
-</p>
-<h2>
-1. Personal Information.</h2>
-<p>
-You have complete control over your personal information. In general, you can visit our web site without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our protected and secured sites. This information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("User Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list.<br>
-</p>
-<h2>
-2. Use of User Information.</h2>
-<p>
-We intend to use such information for purposes of supporting your and your employer's relationship with Infobright by designing web site content that is suitable to your needs and alerting you to new product and service offerings as they become available. This User Information may be retained by Infobright to verify compliance with the agreement between Infobright and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and / or your employer, or to simply contact you either electronically or otherwise. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. However, please do not submit any User Information if you are less than 18 years of age.<br>
-</p>
-<h2>
-3. Disclosure of User Information.</h2>
-<p>
-Infobright does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. For example, we provide User Information to our service providers for direct emailing of our newsletters, online surveys or notifications on Infobright Offerings to our viewers. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order or you violate our Terms of Use. You may separately agree to provide your personal information to third parties that provide content for Infobright Offerings, in order to access and/or use their products and/or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.<br>
-</p>
-<h2>
-4. Accuracy and Security.</h2>
-<p>
-The accuracy and security of the User Information is important to Infobright. Currently, you may review and request updates to your User Information retained by Infobright. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. Infobright is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures to secure your personal User Information. We also continue to implement procedures to maintain accurate, complete and current User Information.<br>
-</p>
-<h2>
-5. Usernames and Passwords.</h2>
-<p>
-Access to certain content on our web site may be allowed under a written agreement between you or your employer and Infobright and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing certain Infobright web site(s) containing certain confidential information, products, services, or promotional offers ("Infobright Offerings"). By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Use.<br>
-</p>
-<h2>
-6. Cookies.</h2>
-<p>
-Infobright uses "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser (Microsoft Internet Explorer, Safari or Firefox) to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. <br>
-</p>
-<h2>
-7. External Links.</h2>
-<p>
-Infobright web site provides links to other third party web sites. Even if the third party is affiliated with Infobright through a business partnership or otherwise, Infobright is not responsible for the privacy policies or practices or the content of such external links. 
-</p>
-<p></p>
-   		
-   		<p></p>
-		
+  			
+   		<h1>Privacy Policy</h1><strong></strong>Infobright Inc. ("Infobright") respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Infobright. Please note that, Infobright reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Infobright collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Infobright as explained below.
+<h2>1. Personal Information.</h2>
+You have complete control over your personal information. In general, you can visit our web site without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our protected and secured sites. This information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("User Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list.
+<h2>2. Use of User Information.</h2>
+We intend to use such information for purposes of supporting your and your employer's relationship with Infobright by designing web site content that is suitable to your needs and alerting you to new product and service offerings as they become available. This User Information may be retained by Infobright to verify compliance with the agreement between Infobright and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and / or your employer, or to simply contact you either electronically or otherwise. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. However, please do not submit any User Information if you are less than 18 years of age.
+<h2>3. Disclosure of User Information.</h2>
+Infobright does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. For example, we provide User Information to our service providers for direct emailing of our newsletters, online surveys or notifications on Infobright Offerings to our viewers. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order or you violate our Terms of Use. You may separately agree to provide your personal information to third parties that provide content for Infobright Offerings, in order to access and/or use their products and/or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.
+<h2>4. Accuracy and Security.</h2>
+The accuracy and security of the User Information is important to Infobright. Currently, you may review and request updates to your User Information retained by Infobright. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. Infobright is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures to secure your personal User Information. We also continue to implement procedures to maintain accurate, complete and current User Information.
+<h2>5. Usernames and Passwords.</h2>
+Access to certain content on our web site may be allowed under a written agreement between you or your employer and Infobright and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing certain Infobright web site(s) containing certain confidential information, products, services, or promotional offers ("Infobright Offerings"). By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Use.
+<h2>6. Cookies.</h2>
+Infobright uses "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser (Microsoft Internet Explorer, Safari or Firefox) to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser.
+<h2>7. External Links.</h2>
+Infobright web site provides links to other third party web sites. Even if the third party is affiliated with Infobright through a business partnership or otherwise, Infobright is not responsible for the privacy policies or practices or the content of such external links.	
+ 
 		</div>
-		
-		
-<!-- Side Bar -->
-		
-		<div id="sidebar-container">
+<div id="sidebar-container">
 
 
-	<div class="sidebar-feedburner">
+
+<div class="sidebar-feedburner">
 	
-	<p><a href="http://feeds.feedburner.com/infobright/IWvz"><img src="http://feeds.feedburner.com/~fc/infobright/IWvz?bg=E1F0FA&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>	
+	<p><a href="http://feeds.feedburner.com/infobright/IWvz"><img width="88" height="26" alt="" style="border: 0pt none;" src="http://feeds.feedburner.com/~fc/infobright/IWvz?bg=E1F0FA&amp;fg=444444&amp;anim=0"></a></p>	
 	</div>
-	
-	<div class="sidebar-blogs">
+
+
+<div class="sidebar-blogs">
 		
 		<div class="sidebar-blogs-header">
-		<h2 class="float-left">OUR BLOGS</h2> <img src="/images/site/blog-cloud.gif" class="float-left" align="middle">
-		<div class="clear"></div>
+		<h2 class="float-left">OUR BLOGS</h2> <img align="middle" class="float-left" src="/images/site/blog-cloud.gif">
+    <div class="clear">
+
 		</div>
-		
-			<div class="sidebar-blogs-inner">
+
+   
+   <div class="sidebar-blogs-inner">
 			<div class="sidebar-blogs-container">
 			
-				<a href="http://www.infobright.org/Open-source/Blog/Infobright_blog">Infobright Blog</a><br>
+				<a href="https://www.infobright.org/index.php/blogs/Infobright-blog">Infobright Blog</a><br>
 			
 			</div>
 
 			</div>
-			
-			<div class="space20"></div>
-	</div>
-	
-	<div class="sidebar-blogs-inner">
-	
-	
-	<hr>
-	
+			<hr>
+
 	<div class="sidebar-archives">
 		
 		<h2>ARCHIVES</h2>
 		
-		<h3>News &amp; Events</h3>
-		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2012/07/">July 2012</a></li>
 
-		</ul>
 		
 		<h3>Infobright Blog</h3>
-		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/11/">November 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/09/">September 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/07/">July 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/06/">June 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/05/">May 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/04/">April 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/03/">March 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/02/">February 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2012/01/">January 2012</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2011/12/">December 2011</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2011/11/">November 2011</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2011/10/">October 2011</a></li>
+		
+   
+   
+   
+<ul><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2014&amp;month=3">March 2014</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2013&amp;month=12">December 2013</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2013&amp;month=10">October 2013</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2013&amp;month=7">July 2013</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2013&amp;month=6">June 2013</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=11">November 2012</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=9">September 2012</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=7">July 2012</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=6">June 2012</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=4">April 2012</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=3">March 2012</a></li><li><a href="https://www.infobright.org/index.php/blogs/infobright-blog?offset=0&amp;myyear=2012&amp;month=2">February 2012</a></li></ul>
 
-		</ul>
+
 		
 	</div>
 	
 	<hr>
 	
 	</div>
-
-<div class="sidebar-twitter">
+ 
+ 
+ 
+ 
+ 
+ <div class="sidebar-twitter">
 
 		
 		
 		<div class="float-left twitter-bird">
-		<img src="/images/site/twitter-bird.gif" alt="twitter">
+		<img alt="twitter" src="/images/site/twitter-bird.gif">
 		</div>
+
 		<div class="float-right twitter-link">
-		<a href="http://www.twitter.com/infobright" target="_blank">Follow Infobright on Twitter</a>
+		<a target="_blank" href="http://www.twitter.com/infobright">Follow Infobright on Twitter</a>
 		</div>
-		<div class="clear"></div>
+    <div class="clear"></div>
 		
 		<div class="sidebar-twitter-top"></div>
 		
 		<div class="sidebar-twitter-middle">
 		
-		
 		</div>
 		
 		
+		
 </div>
+
+
 	
 	<div class="tag-cloud">
-
-<a href="http://www.infobright.org/tag/10,000+hours" title="10,000 hours" style="font-size:12px;">10,000 hours</a>
-
-<a href="http://www.infobright.org/tag/130+terabytes" title="130 terabytes" style="font-size:12px;">130 terabytes</a>
-
-<a href="http://www.infobright.org/tag/4.0" title="4.0" style="font-size:12px;">4.0</a>
-
-<a href="http://www.infobright.org/tag/4.0.4" title="4.0.4" style="font-size:14px;">4.0.4</a>
-
-<a href="http://www.infobright.org/tag/4.0.5" title="4.0.5" style="font-size:12px;">4.0.5</a>
-
-<a href="http://www.infobright.org/tag/abbyy" title="abbyy" style="font-size:12px;">abbyy</a>
-
-<a href="http://www.infobright.org/tag/about+infobright" title="about infobright" style="font-size:12px;">about infobright</a>
-
-<a href="http://www.infobright.org/tag/academic+conference" title="academic conference" style="font-size:12px;">academic conference</a>
-
-<a href="http://www.infobright.org/tag/acquisition" title="acquisition" style="font-size:12px;">acquisition</a>
-
-<a href="http://www.infobright.org/tag/actuate" title="actuate" style="font-size:14px;">actuate</a>
-
-<a href="http://www.infobright.org/tag/ad+hoc" title="ad hoc" style="font-size:12px;">ad hoc</a>
-
-<a href="http://www.infobright.org/tag/ad+hoc+analytics" title="ad hoc analytics" style="font-size:12px;">ad hoc analytics</a>
-
-<a href="http://www.infobright.org/tag/aggregate" title="aggregate" style="font-size:12px;">aggregate</a>
-
-<a href="http://www.infobright.org/tag/agile" title="agile" style="font-size:12px;">agile</a>
-
-<a href="http://www.infobright.org/tag/amazon" title="amazon" style="font-size:14px;">amazon</a>
-
-<a href="http://www.infobright.org/tag/amazon+cloud" title="amazon cloud" style="font-size:12px;">amazon cloud</a>
-
-<a href="http://www.infobright.org/tag/ami" title="ami" style="font-size:14px;">ami</a>
-
-<a href="http://www.infobright.org/tag/analytic+database" title="analytic database" style="font-size:14px;">analytic database</a>
-
-<a href="http://www.infobright.org/tag/analytic+database+video" title="analytic database video" style="font-size:12px;">analytic database video</a>
-
-<a href="http://www.infobright.org/tag/analytics" title="analytics" style="font-size:18px;">analytics</a>
 
 </div> 
 	
 	<div class="space20"></div>
-	
+ 
+ 
+ 	
 	<hr>
-	
+</div>
+
+
 	<div class="sidebar-comments">
 	
-		<h2 class="float-left">RECENT COMMENTS</h2> <img src="/images/site/comments-cloud.gif" class="float-left" align="bottom">
-		
-		<div class="clear"></div>
-		
-		
-			
-			
-			
-			<p>[#9551] addam comments on <a href="/Blog/Entry/infobright_on_the_cloud">Infobright On The Cloud</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9550] LaraC23 comments on <a href="/Blog/Entry/working_with_big_data">Working with big data....</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9549] uniwork comments on <a href="/Blog/Entry/connecting_tableau_to_infobright">Connecting Tableau to Infobright</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9548] Patent Attorney comments on <a href="/Blog/Entry/ice_4.0.5_released">ICE 4.0.5 Released</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9547] Patent Attorney comments on <a href="/Blog/Entry/fgit_conference_2011_and_plans_for_2012">FGIT CONFERENCE: 2011 AND PLANS FOR 2012</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9546] markoseo comments on <a href="/Blog/Entry/big_data_infographc">Big Data Infographc</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9545] alyssadynon comments on <a href="/Blog/Entry/infobright_on_the_cloud">Infobright On The Cloud</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9544] alyssadynon comments on <a href="/Blog/Entry/infobright_community_edition_4.0_released">Infobright Community Edition 4.0 Released</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9543] alyssadynon comments on <a href="/Blog/Entry/everything_youd_want_to_know_about_music_--_all_in_infobright">Everything You'd Want to Know about Music -- All in Infobright</a></p>
-			
-			<hr>
-			
-			
-			<p>[#9542] alyssadynon comments on <a href="/Blog/Entry/big_data_infographc">Big Data Infographc</a></p>
-			
-			<hr>
-				
-		
-	</div>
+		<h2 class="float-left">RECENT COMMENTS</h2> <img align="bottom" class="float-left" src="/images/site/comments-cloud.gif">
+
+<div class="clear"></div>	
+
+
+
+
+
+<br>
+
+ ib_org_admin comments on <a href="https://www.infobright.org/index.php/big_data_infographc/">Big Data Infographic</a><hr><br>
+
+
+
+
 
 
 </div>
 
-		
+
+
+</div>
 		<!-- Center Container Hack End -->
-			</div> <!-- inner -->
+
+</div> <!-- inner -->
 		</div> <!-- center container -->
 		
 		<div class="clear"></div>
-		
-		
-		
-	<div id="footer">
-	<hr class="footer-hr">
-	<div class="footer-left">
-		<form id="mailinglist_form" method="post" action="http://www.infobright.org/">
-<div class="hiddenFields">
-<input type="hidden" name="XID" value="53d3bb22584fae09831361ac1a52f46be8b129bf">
-<input type="hidden" name="ACT" value="3">
-<input type="hidden" name="RET" value="http://www.infobright.org/Legal/Privacy-Policy/">
-<input type="hidden" name="list" value="default">
-<input type="hidden" name="site_id" value="1">
+
+
+<script type="text/javascript">// <![CDATA[
+function showHide(id)
+{
+	$('#' + id).toggle();
+}
+// ]]&gt;</script>	
+
+<hr class="footer-hr">
+
+
+
+<div id="footer">
+     
+<div class="footer-left">
+	<!--		<form id='mailinglist_form' method="post" action="http://www.infobright.org/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="XID" value="8fe7edb44d72fcec36d2c5ad7c8bf6a748f7a77a" />
+<input type="hidden" name="ACT" value="3" />
+<input type="hidden" name="RET" value="http://www.infobright.org/" />
+<input type="hidden" name="list" value="default" />
+<input type="hidden" name="site_id" value="1" />
+
 </div>
 
 
 		Sign Up for our newsletter
-		<input type="text" name="email" value="your e-mail address"><input type="image" src="http://www.infobright.org/images/site/newsletter-button.gif" value="Submit" alt="Submit">
+		<input type="text" name="email" value="your e-mail address" /><input type="image" src="/images/site/newsletter-button.gif" value="Submit" alt="Submit" />
 		</form>
 	<br>
+    -->
 	</div>
-	<div class="footer-center"><a title="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" href="http://www.infobright.org">HOME</a> |
+	<div class="footer-center"><a title="Open Source Data Warehouse, Column Database Software, Improve SQL Performance" href="https://www.infobright.org">HOME</a> |
 			<li>
-    			<a href="http://www.infobright.org/Legal/Privacy-Policy/" title="PRIVACY POLICY" rel="nofollow">PRIVACY POLICY</a>
+    			<a href="https://www.infobright.org/index.php/Legal/Privacy-Policy/" title="PRIVACY POLICY" rel="nofollow">PRIVACY POLICY</a>
 			</li>
 <li>
-    			<a href="http://www.infobright.org/Legal/Site-Map/" title="SITE MAP" rel="nofollow">SITE MAP</a>
+    			<a href="https://www.infobright.org/index.php/Legal/Site-Map/" title="SITE MAP" rel="nofollow">SITE MAP</a>
 			</li>
 <li>
-    			<a href="http://www.infobright.org/Legal/Terms-Of-Use/" title="TERMS OF USE" rel="nofollow">TERMS OF USE</a>
+    			<a href="https://www.infobright.org/index.php/Legal/Terms-Of-Use/" title="TERMS OF USE" rel="nofollow">TERMS OF USE</a>
 			</li>
 		<div class="footer-copyright">
-			Copyright © 2013 <a title="Big Data Analytics, Large Scale Data Analysis Tool, Column Oriented Database" href="http://www.infobright.com" target="_blank">Infobright Inc.</a><a> All rights reserved.
+			Copyright © 2012 <a title="Big Data Analytics, Large Scale Data Analysis Tool, Column Oriented Database" href="http://www.infobright.com" target="_blank">Infobright Inc.</a><a> All rights reserved.
 <br>
 Open source Column-oriented SQL database management software for data warehousing and business intelligence.
 		</a></div><a>
+
 	</a></div><a>
-	</a><div class="footer-right"><a>
-		<!-- AddThis Button BEGIN -->
-		<script type="text/javascript">addthis_pub  = 'infobright';</script>
-		</a><a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-		<!-- AddThis Button END -->
+	<div class="footer-right">
+		
 	</div>
 <div class="clear">	</div>
 <div class="space30"></div>
-</div>
 
-	</div> <!-- container end -->
+
+	</a></div><a> <!-- container end -->
 <!-- SEO SCRIPTS -->
 
-<!-- Loop Fuse -->
-<script src="http://lfov.net/webrecorder/js/listen.js" type="text/javascript"></script>
-<script type="text/javascript">
-_lf_cid = "LF_1b4a8584";
-_lf_remora();
-</script>
 
 
 <!-- Google Analytics -->
@@ -824,8 +483,38 @@ imgsrc = prot + '//www.visitor-track.com/admin/loghit.asp?'
 + 'id=' + id + '&rp=' + escape(rp) + '&sw=' + screen.width + '&sh=' + screen.height
 + '&pa=' + escape(pageurl) + '&bn=' + escape(bn) + '&tz=' + tzo + '&vr=' + ver;
 document.write('<img border="0" alt="" src="' + imgsrc + '">');
-</script><img border="0" alt="" src="https://www.visitor-track.com/admin/loghit.asp?id=105557&amp;rp=&amp;sw=800&amp;sh=600&amp;pa=https%3A//web.archive.org/web/20130501011927id_/http%3A//www.infobright.org/Legal/Privacy-Policy/&amp;bn=Netscape%20v5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;tz=0&amp;vr=3">
+</script><img border="0" alt="" src="https://www.visitor-track.com/admin/loghit.asp?id=105557&amp;rp=&amp;sw=800&amp;sh=600&amp;pa=https%3A//web.archive.org/web/20160205074924id_/https%3A//www.infobright.org/index.php/Legal/Privacy-Policy/&amp;bn=Netscape%20v5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;tz=0&amp;vr=3">
 <!--End of Visitor Track Code-->
+
+<!-- BEGIN PARDOT TRACKING -->
+<script type="text/javascript">
+piAId = '25482';
+piCId = '1226';
+
+(function() {
+ function async_load(){
+  var s = document.createElement('script'); s.type = 'text/javascript';
+  s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+  var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+ }
+ if(window.attachEvent) { window.attachEvent('onload', async_load); }
+ else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+<!-- END PARDOT TRACKING -->
+
+<!-- HUBSPOT TRACKING -->
+<!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/374279.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+<!-- End of Async HubSpot Analytics Code -->
+<!-- END HUBSPOT TRACKING -->
 
 
 <script type="text/javascript">
@@ -839,7 +528,4 @@ pageTracker._trackPageview();
 
 
 
-
-
-
-</body></html>
+</a></div></body></html>
