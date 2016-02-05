@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtribune.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163830id_/http%3A//xtribune.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtribune.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205062818id_/http%3A//xtribune.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ X Tribune
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://aboutads.info/choices> or <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.” 
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
 
 **How we use collected information**
 
@@ -73,3 +73,5 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](https://web.archive.org/contact/) by email.
+
+[](http://xtribune.com/contact/)
