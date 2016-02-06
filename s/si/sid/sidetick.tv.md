@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidetick.tv privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702211304id_/http%3A//sidetick.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidetick.tv privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206191805id_/http%3A//sidetick.tv/privacy.html) for the most accurate reproduction.*
 
 # SideTick TV - Internet Television!
 
