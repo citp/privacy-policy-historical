@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainfitnessproject.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501194217id_/http%3A//www.brainfitnessproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainfitnessproject.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206211627id_/http%3A//brainfitnessproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fitness program
 
