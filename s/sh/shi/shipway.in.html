@@ -1,22 +1,25 @@
-<!--The following is the downloaded HTML source of the shipway.in privacy policy that was archived on 2015-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150820001307id_/http%3A//shipway.in/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shipway.in privacy policy that was archived on 2016-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160206210413id_/http%3A//shipway.in/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
        
        <meta charset="utf-8">
        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Track Shipments at one place - Shipway.in</title><meta name="keywords" content="ship way, gtt, go to track, track shipment, track package, track dhl,track bludart, fedex tracking, delhivery tracking, track gati, fedex, ecom"><meta name="description" content="Shipway is an online tracking tool where users can track shipments from all Indian couriers at one place">       
+<title>Courier Tracking and Shipment status Notifications - Shipway.in</title><meta name="keywords" content="ship way, gtt, go to track, track shipment, track package, track dhl,track bludart, fedex tracking, delhivery tracking, track gati, fedex, ecom"><meta name="description" content="Shipway is courier tracking tool where users can track shipments and get Notified by SMS/Email. Merchants can use shipway for courier tracking on their website and send courier notifications to their customers.">       
 	<link rel="icon" href="onj-images/favicon.ico">
 
 	<link href="onj-css/style.css" rel="stylesheet" type="text/css" media="all">
 
 	<!--fonts-->
+                <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
 		<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 		
 	<!--//fonts-->
 		<link href="onj-css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+                
+                
 		<link href="onj-css/font/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
-
+                <!--<link href="https://googledrive.com/host/0BzwcjxLnfZ5XOEpkdUNleFdGTEE/" rel="stylesheet" type="text/css" media="all" />-->
 	<!-- for-mobile-apps -->
                
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -24,8 +27,10 @@
 		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<!-- //for-mobile-apps -->
 	<!-- js -->
+	
 		<script type="text/javascript" src="onj-js/jquery.min.js"></script>
-		<script type="text/javascript" src="onj-js/bootstrap.min.js"></script>		
+	<script type="text/javascript" src="onj-js/bootstrap.min.js"></script>	
+			
 	<!-- js -->
 	<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="onj-js/move-top.js"></script>
@@ -33,8 +38,18 @@
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
-					event.preventDefault();
-					$('html,body').animate({scrollTop:$(this.hash).offset().top - 30},1000);
+					 event.preventDefault();
+                                         var top_var = '';
+                                         try {
+                                             if( $(this.hash).offset().top != '' ){
+                                                 top_var = $(this.hash).offset().top ;
+                                             } 
+                                         }
+                                        catch(err) {
+                                                window.parent.location.href = '../#price';
+                                        }
+                                        
+					$('html,body').animate({scrollTop:top_var - 30},1000);
 				});
 			});
 		</script>
@@ -114,13 +129,13 @@
     <div class="collapse navbar-collapse onj-up" id="onj">
       <ul class="nav navbar-nav navbar-right nav1" style="display:block;overflow:visible;">
         <li class="dropdown">
-        </li><li><a style="color:red;font-weight:bold;" href="/rakhi">Ship Your Rakhi</a></li>
+      <!--   <li><a  style="color:red;font-weight:bold;" href="/rakhi" >Ship Your Rakhi</a></li>
 				<li><a class="scroll" href="/#track">Track Now</a></li>
-				<li><a class="scroll" href="/#pro">Shipway Pro</a></li>
-                                <li><a class="scroll" href="/#price">Pricing</a></li>				
-				<li><a href="http://www.shipway.in/admin/" target="_blank">Login</a></li>
-				<li><a href="http://www.shipway.in/admin/index.php/auth/register" target="_blank">Register</a></li>						
-				<li><a href="http://shipway.in/contact.php">Contact</a></li>		
+				<li><a class="scroll" href="/#pro">Shipway Pro</a></li> -->
+                                </li><li><a class="scroll" href="/#price">Pricing</a></li>				
+				<li><a href="HTTP_SERVERSadmin/" target="_blank">Login</a></li>
+				<li><a href="HTTP_SERVERSadmin/index.php/auth/register" target="_blank">Register</a></li>						
+				<li><a href="HTTP_SERVERScontact.php">Contact</a></li>		
 		 
        </ul> 
 	</div> 
@@ -185,30 +200,30 @@ element_to_scroll_to.scrollIntoView();
 <!-- //about -->
 <style>
 .fb-like{
-    height: 20px;
-    overflow: hidden;
-}
+	height: 20px;
+	overflow: hidden;
+} 
 .social{vertical-align:baseline;width:20px;margin-left:5px;}
+.footer a{color: #aaaaaa;font-size: 14px;text-decoration: none;font-weight: 300;line-height: 1.6;}
+.footer h4{color: #aaaaaa;line-height: 1.6;}
+.footer{position: relative;}
+
+@media (max-width: 800px){
+       .footer-grids{display:block!important;}
+       .oj-show{display:none;}
+}
 </style>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 <!-- footer -->
 <div class="footer">
 	<div class="container">
-		<div class="footer-grids">
+		<div class="footer-grids" style="display:none;">
 			 <div class="footer-left">
 				<ul style="float:left;">
 					<li><a href="privacy.php">Privacy Policy</a></li>
 					<li><a href="cancellation.php">Cancellation</a></li>
 					<li><a href="terms.php">Terms &amp; Conditions</a></li>
-					<li><a href="http://shipway.in/plugins/shipway-order-tracking-notify/#!/downloads">Downloads</a></li>
-					<!-- <li><a href="contact.html">CONTACT</a></li> -->
+					<li><a href="HTTP_SERVERSplugins/shipway-order-tracking-notify/#!/downloads">Downloads</a></li>
+					<!--  <li><a href="contact.html">CONTACT</a></li> -->
 				</ul>
 			</div> 
                         <div class="footer-center">
@@ -216,12 +231,101 @@ element_to_scroll_to.scrollIntoView();
                                  <a href="https://www.facebook.com/shipway.in?fref=ts" target="_blank"><img src="/images/social/facebook-icon.png" alt="Facebook" class="social"></a>
 			</div>
 			<div class="footer-right">
-				<!--<p>Copyright &copy; 2015 <a href="http://www.onjection.com/home" target="_blank"> ONjection Solutions</a></p>-->
-<p>Powered by Shipway Technology Pvt. Ltd.</p>
+				<!--<p>Copyright &copy; 2015 <a href="http://www.onjection.com/home" target="_blank"> ONjection Solutions</a></p>
+<p>Powered by Shipway Technology Pvt. Ltd.</p>-->
 			</div>
 			<div class="clearfix"></div>
 		</div>
+
+	
+	<div class="row oj-show" style="padding-bottom: 10px;">
+			<div class="col-lg-6 col-md-6 col-sm-12">
+			<h4 style="padding:0 15px;">Tracking Couriers</h4>
+				<div class="col-lg-3">
+					<a href="HTTP_SERVERStnt" alt="TNT Track" title="TNT Tracking" target="_blank"><p>TNT</p></a>	
+					<a href="HTTP_SERVERSdhl" alt="DHL Track" title="DHL Tracking" target="_blank"><p>DHL</p></a>	
+					<a href="HTTP_SERVERSaramex" alt="Aramex Track" title="Aramex Tracking" target="_blank"><p>Aramex</p></a>
+					<a href="HTTP_SERVERSbluedart" alt="Bluedart Track" title="Bluedart Tracking" target="_blank"><p>Bluedart</p></a>
+					<a href="HTTP_SERVERSdelhivery" alt="Delhivery Track" title="Delhivery Tracking" target="_blank"><p>Delhivery</p></a>
+				</div>
+				<div class="col-lg-3">				
+					<a href="HTTP_SERVERSdtdc" alt="DTDC Track" title="DTDC Tracking" target="_blank"><p>DTDC</p></a>
+					<a href="HTTP_SERVERSfedex" alt="Fedex Track" title="Fedex Tracking" target="_blank"><p>Fedex</p></a>
+					<a href="HTTP_SERVERSdotzot" alt="Dotzot Track" title="Dotzot Tracking" target="_blank"><p>Dotzot</p></a>
+					<a href="HTTP_SERVERSecom_express" alt="Ecom Express Track" title="Ecom Express Tracking" target="_blank"><p>Ecom Express</p></a>
+					<a href="HTTP_SERVERSfirst_flight" alt="First Flight Track" title="First Flight Tracking" target="_blank"><p>First Flight</p></a>
+				</div>
+				<div class="col-lg-3">
+				<a href="HTTP_SERVERSups" alt="UPS Track" title="UPS Tracking" target="_blank"><p>UPS</p></a>
+					<a href="HTTP_SERVERSgati" alt="Gati Track" title="Gati Tracking" target="_blank"><p>Gati</p></a>
+					<a href="HTTP_SERVERSondot" alt="Ondot Track" title="Ondot Tracking" target="_blank"><p>Ondot</p></a>
+					<a href="HTTP_SERVERSgojavas" alt="Gojavas Track" title="Gojavas Tracking" target="_blank"><p>Gojavas</p></a>
+					<a href="HTTP_SERVERSindia_post" alt="India Post Track" title="India Post Tracking" target="_blank"><p>India Post</p></a>
+				</div>
+				<div class="col-lg-3">
+					<a href="HTTP_SERVERSred_express" alt="Red Express Track" title="Red Express Tracking" target="_blank"><p>Red Express</p></a>												
+					<a href="HTTP_SERVERSxpress_bees" alt="Xpress Bees Track" title="Xpress Bees Tracking" target="_blank"><p>Xpress Bees</p></a>	
+					<a href="HTTP_SERVERScj_korea_express" alt="CJ Korea Express Track" title="CJ Korea Express Tracking" target="_blank"><p>CJ Korea Express</p></a>					
+					<a href="HTTP_SERVERSondot_pickspeed" alt="Ondot Pickspeed Track" title="Ondot Pickspeed Tracking" target="_blank"><p>Ondot Pickspeed</p></a>
+					<a href="HTTP_SERVERSthe_professional_couriers" alt="The Professional Track" title="The Professional Tracking" target="_blank"><p>The Professional</p></a>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12">
+				<div class="col-lg-3">
+					<h4>Downloads</h4>
+					<a href="http://www.magentocommerce.com/magento-connect/shipway-courier-tracking-and-notification.html" target="_blank"><p>Magento</p></a>
+					<a href="https://wordpress.org/support/plugin/shipway-shipment-tracking-and-notify" target="_blank"><p>Wordpress</p></a>
+					<a href="http://www.opencart.com/index.php?route=extension/extension/info&amp;extension_id=22367&amp;filter_search=shipway" target="_blank"><p>Opencart</p></a>
+					<a href="http://marketplace.cs-cart.com/add-ons/integrations/cscart-shipway-courier-tracking-and-notify.html" target="_blank"><p>CS Cart</p></a>
+					
+				</div>
+				<div class="col-lg-3">
+					<h4>Information</h4>
+					<a href="privacy.php"><p>Privacy Policy</p></a>
+					<a href="cancellation.php"><p>Cancellation</p></a>
+					<a href="terms.php"><p>Terms &amp; Conditions</p></a>
+					<a href="HTTP_SERVERSplugins/shipway-order-tracking-notify/#!/downloads"><p>Downloads</p></a>
+				</div>
+				<div class="col-lg-3">
+					<h4>My account</h4>
+					<a class="scroll" href="/#price"><p>Pricing</p></a>			
+					<a href="HTTP_SERVERSadmin/" target="_blank"><p>Login</p></a>
+					<a href="HTTP_SERVERSadmin/index.php/auth/register" target="_blank"><p>Register</p></a>				
+					<a href="HTTP_SERVERScontact.php"><p>Contact</p></a>
+				</div>
+			<div class="col-lg-3">
+                                        <h4>Social</h4>
+					<div class="fb-like" data-href="https://www.facebook.com/shipway.in?fref=ts" data-width="225px " data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div><br>
+                                        <a href="https://www.youtube.com/watch?v=6jecthgw_LQ&amp;feature=youtu.be" target="_blank"><img src="onj-images/youtube.jpeg"></a>
+                                 
+			</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+					
+					
+				</div>
+			</div>
+	
+		<hr style="border-top: 1px solid #aaa;" class="oj-show">
+		<div class="row oj-show">
+			<div class="col-lg-6">
+				<p style="color:#aaaaaa;">Powered by Shipway Technology Pvt. Ltd.</p>
+			</div>
+			<div class="col-lg-6" style="text-align:right;">
+				<a href="https://www.facebook.com/shipway.in?fref=ts" target="_blank"><i class="fa fa-facebook-square"></i> Find us on Facebook</a>&nbsp;&nbsp;
+                             <a href="https://www.linkedin.com/company/shipway" target="_blank"><i class="fa fa-linkedin-square"></i> Follow us on LinkedIn</a>
+			</div>
+		</div>
+	
+	
 	</div>
+	
+	
 </div>
 <!-- //footer -->
 
