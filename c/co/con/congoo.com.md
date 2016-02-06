@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congoo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044514id_/http%3A//www.congoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congoo.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206072201id_/http%3A//www.congoo.com/privacy) for the most accurate reproduction.*
 
 # Congoo - Privacy Policy
 
