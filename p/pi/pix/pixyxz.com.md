@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixyxz.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809081349id_/http%3A//www.pixyxz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixyxz.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206233234id_/http%3A//www.pixyxz.com/privacy) for the most accurate reproduction.*
 
-# pixyxz.com | Privacy Policy
+# Free Music And Video Downloads | Free App Downloading | Top Latest Games | Pixyxz | Privacy Policy
 
 **PRIVACY POLICY**
 
-This Privacy Policy is governed by and construed only in accordance with the law of Spain, and was amended on December 09, 2014. pixyxz.com (referred to as the "service"), owned and operated by Nobelium Services SL (referred to as the "Company", "we, "us", "our"), C/ Joaquin Loriga, 2 Bajo Buzón 252 C.P. 36203 Vigo (Pontevedra)., knows that you care about how your information may be used or shared. This Privacy Policy explains what information is collected by the Company while using pixyxz.com and related services, how the information will be used, and how you can control the collection, correction and / or elimination of your information. We will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy is governed by and construed only in accordance with the law of Spain, and was amended on the 2 January 2016. pixyxz.com (referred to as the "service"), owned and operated by Nobelium Services SL (referred to as the "Company", "we, "us", "our"), Centro de Negocios Puerta de Banus Edificio E Oficina 29, 29660 Marbella, Malaga, Spain, knows that you care about how your information may be used or shared. This Privacy Policy explains what information is collected by the Company while using pixyxz.com and related services, how the information will be used, and how you can control the collection, correction and / or elimination of your information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Use and Treatment of Information**
 
