@@ -1,51 +1,53 @@
-> *The following text is extracted and transformed from the okpussy.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124210344id_/http%3A//www.okpussy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okpussy.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206075258id_/http%3A//www.okpussy.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy Policy on OK Pussy - Porn Tube
+# OK pussy Adult webcams Privacy Policy
 
-Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of okpussy.com (the “Website”), including information you provide when using it.
+[Home](http://www.okpussy.com/) / Privacy Policy
 
-We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-**Data Collected**
+okpussy.com respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use okpussy.com, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the okpussy.com website.
 
-_Browsing the Website._ You can use the search function, view videos and pictures, and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
+okpussy.com will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-_Registering on the Website._ Registration of an account is required for saving your preferences, uploading content, saving favorites and accessing other features on the Website. We require the following personal information at the time of registration: your username, your e-mail address and a password. Your IP address is recorded automatically. Except for your username and as specifically set forth below, none of this information becomes publically available on the website.
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-_Usage Information._ We may record information about your usage of the Website such as the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
+When you do provide us with personal identifying information, such information will be gathered solely by okpussy.com, and is for use solely by okpussy.com and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-_Uploaded Content._ Any personal information or content you voluntarily disclose online, including videos, comments and your profile page or any other User Submissions, becomes publicly available and may be collected and used by others.
+okpussy.com may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-_Other Information._ You may have the ability to favorite videos, make comments on videos and engage in other social activities. Any such activities may be visible to the public.
+okpussy.com may request personal identifying information on specific pages that allow users to contact okpussy.com. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-_Correspondences._ We may keep a record of any correspondence between you and us.
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of okpussy.com or those of okpussy.com customers or chat hosts, (4) under exigent circumstances to protect the physical safety of okpussy.com, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
-_Cookies._ When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-**Data Usage**
+Cookies used on the website by category:
 
-We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
-We may use your e-mail address or other personal information to send commercial or marketing messages. We may use your e-mail for non-marketing or administrative purposes.
 
-We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
 
-We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-Your username may be displayed to other visitors of the Website alongside content on the website in relation to your uploaded content, comments, “most watched” content, “favorited” content and other similar features.
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-**Disclosures of Information**
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. okpussy.com does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
+Members areas of okpussy.com may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@webcamassist.com](https://web.archive.org/contactsupport.php?).
 
-If you upload any illegal material to the Website, or you are suspected of doing such, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
+okpussy.com does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from okpussy.com, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-**Miscellaneous**
+okpussy.com also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if okpussy.com becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, okpussy.com reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the okpussy.com program, termination of okpussy.com services, and forfeiture of all commissions.
 
-If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@webcamassist.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your okpussy.com login name, and any information you feel is important.
 
-While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
+The address for correspondence by post is
 
-  
-  
-
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA
