@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shipway.in privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820001307id_/http%3A//shipway.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipway.in privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206210413id_/http%3A//shipway.in/privacy.php) for the most accurate reproduction.*
 
-# Track Shipments at one place - Shipway.in
+# Courier Tracking and Shipment status Notifications - Shipway.in
 
 **Information We Collect**
 
