@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productsumo.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702044552id_/http%3A//productsumo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productsumo.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206161837id_/http%3A//productsumo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ ProductSumo.com does not knowingly collect or solicit Personally Identifiable In
 
 Contacting Us.
 
-We can be reached by contacting us through our [Contact Form](https://web.archive.org/web/20140702044552id_/http%3A//productsumo.com/contact.html)
+We can be reached by contacting us through our [Contact Form](https://web.archive.org/web/20160206161837id_/http%3A//productsumo.com/contact.html)
 
 Changes to this Policy
 
