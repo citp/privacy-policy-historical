@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urladviser.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204233345id_/http%3A//www.urladviser.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urladviser.net privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206184323id_/http%3A//www.urladviser.net/privacy_policy.html) for the most accurate reproduction.*
 
 # URL ADVISER | Privacy Policy
 
