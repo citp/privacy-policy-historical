@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myalternativegf.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150645id_/http%3A//myalternativegf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myalternativegf.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206211832id_/http%3A//www.myalternativegf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
