@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805144534id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207003002id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
 
 # Newser
 
@@ -46,6 +46,15 @@ You should be aware that this Privacy Policy applies only to the Newser Website.
 
 
 
+### How do I opt out of targeted advertistments?
+
+  * If you’d like to opt out from receiving targeted advertisements from those companies that have placed an advertising cookie on your computer, mobile device, or other similar device, please click on the links below.
+  * Digital Advertising Alliance: <http://www.aboutads.info/choices>
+  * Network Advertising Initiative: <http://www.networkadvertising.org/managing/opt_out.asp>
+  * JumpTap: <https://opt.jumptap.com/optout/opt>
+
+
+
 ### How will I know when there are changes to this Privacy Policy?
 
   * This Privacy Policy is subject to modification from time to time at Newser’s discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the Newser Website. The date of last revision to the policy is indicated at the top of the document.
@@ -57,8 +66,8 @@ You should be aware that this Privacy Policy applies only to the Newser Website.
 If you have questions, you may contact:
 
 Newser, LLC.   
-222 N. Columbus Dr., Unit D   
-Chicago, IL 60601   
+1395 Brickell Avenue, Suite 800   
+Miami, Florida 33131   
 Attention: General Counsel 
 
 [Or, use this form.](https://web.archive.org/contact.aspx)
