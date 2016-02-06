@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americannews.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208095632id_/http%3A//americannews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americannews.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207003436id_/http%3A//americannews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Privacy Policy
 
 This privacy policy discloses the privacy practices for americannews.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
