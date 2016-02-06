@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butterflymarketing.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812011439id_/http%3A//butterflymarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterflymarketing.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206093642id_/http%3A//butterflymarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.ButterflyMarketing.com
 
