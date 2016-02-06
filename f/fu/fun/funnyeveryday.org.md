@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyeveryday.org privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823073910id_/http%3A//funnyeveryday.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyeveryday.org privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206020621id_/http%3A//funnyeveryday.org/privacy) for the most accurate reproduction.*
 
 # funnyeveryday
 
