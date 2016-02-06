@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagebargaining.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210142439id_/http%3A//mortgagebargaining.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagebargaining.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206102337id_/http%3A//www.mortgagebargaining.com/policy.htm) for the most accurate reproduction.*
 
 # mortgagebargaining.com
 
