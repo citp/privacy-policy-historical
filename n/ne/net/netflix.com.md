@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017012456id_/https%3A//www.netflix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207195243id_/https%3A//help.netflix.com/legal/privacy) for the most accurate reproduction.*
 
-# Netflix - Watch TV Shows Online, Watch Movies Online
+# None
+
+[ ](https://web.archive.org/legal/privacy/download)
 
 This Privacy Statement explains our practices regarding the collection, use, and disclosure of certain information, including your personal information, by the [Netflix family of companies](https://help.netflix.com/support/2101) ("Netflix").
 
 ### Contacting Us
 
-For any questions concerning your account, please visit our online help center at [https://help.netflix.com](https://help.netflix.com/), where you will also find information on how to contact our Customer Service for assistance. For questions specifically concerning this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact us via email at privacy@netflix.com. Alternatively, you can write to us at the following address:
+For any questions concerning your account, please visit our online help center at [https://help.netflix.com](https://help.netflix.com/), where you will also find information on how to contact our Customer Service for assistance. For questions specifically concerning this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact us by email at privacy@netflix.com.
 
-Netflix, Inc., 100 Winchester Circle, Los Gatos, CA 95032, U.S.A. Attention: Privacy.
+Alternatively, you can write to us at the following address: Netflix, Inc., 100 Winchester Circle, Los Gatos, CA 95032, U.S.A. Attention: Privacy.
 
 Individuals who reside in Brazil are being provided the service by Netflix Entretenimento Brasil, Ltda. Av. Bernardino de Campos, 98 - 4° andar - sala 36, Paraiso, Cep 04004-040 SP Brasil.
 
-Otherwise, Netflix, Inc. (address above) is providing the service to you and is the data controller (where applicable).
+Otherwise, Netflix, Inc. (address above) is providing the service to you and is the data controller (where applicable)
 
 Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
 
@@ -26,8 +28,8 @@ We receive and store information about you such as:
   * **Information we collect automatically:** We collect information regarding you and your use of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service (such as gaming systems, smart TVs, mobile devices, and set top boxes). This information includes: 
     * your activity on the Netflix service, such as title selections, watch history and search queries;
     * details regarding your interactions with customer service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number;
-    * device IDs or unique identifiers, device and software characteristics (such as type and configuration), connection information, statistics on page views, referral URLs, ad data, IP address and standard web log information;
-    * information collected via the use of cookies, web beacons and other technologies. See our Cookies and Internet Advertising section for more details.
+    * device IDs or unique identifiers, device and software characteristics (such as type and configuration), connection information, statistics on page views, referral URLs, IP address and standard web log information;
+    * information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on impressions delivered to a cookie, the site URL where the impression was delivered, as well as the date and time). See our Cookies and Internet Advertising section for more details.
   * **Information from other sources:** We might supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information could include demographic data, interest based data, and Internet browsing behavior.
 
 
@@ -36,9 +38,9 @@ We receive and store information about you such as:
 
 We use the information we collect to provide, analyze, administer, enhance and personalize our services and marketing efforts, to process your registration, your orders and your payments, and to communicate with you on these and other topics. For example, we use the information we collect for:
 
-  * determining your general geographic location, providing localized content, providing you with customized and personalized viewing recommendations for movies and TV shows we think will be enjoyable, determining your Internet service provider and helping us quickly and efficiently respond to inquiries and requests;
+  * determining your general geographic location, providing localized content, providing you with customized and personalized viewing recommendations for movies and TV shows we think will be enjoyable, determining your Internet service provider and helping us quickly and efficiently respond to inquiries and requests
   * preventing, detecting and investigating potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);
-  * analyzing and understanding our audience; improving our service (including our user interface experiences), delivery optimization, content selection, and recommendation algorithms; 
+  * analyzing and understanding our audience; improving our service (including our user interface experiences), delivery optimization, content selection, and recommendation algorithms;
   * communicating with you concerning our service (for example by email, push notifications and text messaging), so that we can send you news about Netflix, details about new features and content available on Netflix, and special offers, promotional announcements and consumer surveys, and to assist you with operational requests such as password reset requests. Please see the "Your Choices" section of this Privacy Statement to learn how to set or change your communications preferences.
 
 
@@ -47,11 +49,11 @@ We use the information we collect to provide, analyze, administer, enhance and p
 
 We disclose your information for certain purposes and to third parties, as described below:
 
-  * **The Netflix family of companies:** We share your information among the Netflix family of companies  (<https://help.netflix.com/support/2101>) as needed for: data processing and storage; providing you with access to our services; providing customer support; making decisions about service improvements, content development; and for other purposes described in the Use of Information section of this Privacy Statement. 
+  * **The Netflix family of companies:** We share your information among the Netflix family of companies (<https://help.netflix.com/support/2101>) as needed for: data processing and storage; providing you with access to our services; providing customer support; making decisions about service improvements, content development; and for other purposes described in the Use of Information section of this Privacy Statement.
   * **Service Providers:** We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our service, to process credit card transactions or other payment methods, to provide customer service, to collect debts, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services.
-  * **Promotional offers:** We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties. In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive. Please note that these third parties are responsible for their own privacy practices. 
+  * **Promotional offers:** We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties. In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive. Please note that these third parties are responsible for their own privacy practices.
   * **Protection of Netflix and others:** Netflix and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities (including payment fraud), security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public, as required or permitted by law.
-  * **Business transfers:** In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement. 
+  * **Business transfers:** In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement.
 
 
 
@@ -59,9 +61,9 @@ Whenever in the course of sharing information we transfer personal information t
 
 You may also choose to disclose your information in the following ways:
 
-  * While using the Netflix service you will have opportunities to post reviews or other information publicly, and third parties could use the information you disclose; 
-  * Certain portions of our service may contain a tool which gives you the option to share information by email, text message and social or other sharing applications, using the clients and applications on your smart device; 
-  * Social plugins (including those offered by Facebook, Twitter, Pinterest, and Google) allow you to share information on those platforms. 
+  * While using the Netflix service you will have opportunities to post reviews or other information publicly, and third parties could use the information you disclose;
+  * Certain portions of our service may contain a tool which gives you the option to share information by email, text message and social or other sharing applications, using the clients and applications on your smart device;
+  * Social plugins (including those offered by Facebook, Twitter, Pinterest, and Google) allow you to share information on those platforms.
 
 
 
@@ -77,7 +79,9 @@ Profiles allow different members of your household to have a distinct, personali
 
 ### Your Choices
 
-If you no longer want to receive certain communications from us via email, simply access the "Email preferences" link on the "Your Account" page of our website and uncheck those items to unsubscribe, or click the "unsubscribe" link in the email. Please note that you cannot unsubscribe from certain correspondence from us, such as messages relating to your account transactions. You can opt in to receive push notifications from Netflix. If you subsequently decide you no longer wish to receive these notifications, you can use your mobile device’s settings functionality to turn them off.
+If you no longer want to receive certain communications from us via email or SMS, simply access the email and text messages settings page in the "Your Account" section of our website and uncheck those items to unsubscribe. Alternatively, click the "unsubscribe" link in the email or reply STOP (or as otherwise instructed) to the SMS message. Please note that you cannot unsubscribe from certain email correspondence from us, such as messages relating to your account transactions.
+
+You can opt in to receive mobile push notifications from Netflix. If you subsequently decide you no longer wish to receive these notifications, you can use your mobile device’s settings functionality to turn them off.
 
 To exercise choices regarding cookies set through our website, as well as other types of online tracking and Internet advertising, see the Cookies and Internet Advertising section (below).
 
@@ -122,7 +126,7 @@ We and our Service Providers may use the following types of cookies:
     * **Advertising cookies:** These cookies use information about your visit to this and other websites, such as the pages you visit, your use of our service or your response to ads and emails, to deliver ads that are more relevant to you. These types of ads are called "Interest-Based Advertising." Many of the advertising cookies associated with our service belong to our Service Providers.
   3. **How can I exercise choice regarding cookies and other types of online tracking?**
 
-For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising), and to exercise choices regarding them, [click here](http://info.evidon.com/pub_info/1932). At this time, we do not respond to Web browser "do not track" signals.
+For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising), and to exercise choices regarding them, [click here](https://c.betrad.com/netflix/customlink.html?locale=en-US). At this time, we do not respond to Web browser "do not track" signals.
 
   4. **How Does Netflix use Web Beacons and other Technologies?**
 
@@ -131,6 +135,8 @@ Web beacons (also known as clear gifs or pixel tags) often work in conjunction w
 We use other technologies that are similar to cookies, such as browser storage and plugins (e.g., HTML5, IndexedDB, and WebSQL). Like cookies, some of these technologies may store small amounts of data on your device. We may use these and various other technologies for similar purposes as cookies, such as to enforce our terms, prevent fraud, and analyze the use of our service. There are a number of ways to exercise choice regarding these technologies. For example, many popular browsers provide the ability to clear browser storage, commonly in the settings or preferences area; see your browser’s help function or support area to learn more. Other technologies, such as Silverlight storage, may be cleared from within the application.
 
 
-**Last updated:** August 20, 2015
+
+
+**Last updated:** 6 January 2016
 
 To see the prior version of this document, please go to [www.netflix.com/privacyupdates](https://www.netflix.com/privacyupdates).
