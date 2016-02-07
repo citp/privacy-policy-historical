@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6wsb.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813012040id_/http%3A//6wsb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6wsb.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207013003id_/http%3A//6wsb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 6WSB - 6 Week Service Business
 
