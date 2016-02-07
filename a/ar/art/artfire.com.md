@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfire.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235546id_/http%3A//www.artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfire.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207140735id_/http%3A//www.artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ArtFire.com
 
@@ -41,7 +41,7 @@ After a transaction, your private information (credit cards, social security num
 
 Do we use cookies? 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computer�s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -59,9 +59,9 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their My ArtFire control panel and going to the "My account" page.
 
-Children’s Online Privacy Protection Act Compliance
+Children�s Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children�s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 Online Privacy Policy Only
 
