@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4up.im privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211063307id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4up.im privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207033440id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 4Up Files | Cloud Storage Service
 
