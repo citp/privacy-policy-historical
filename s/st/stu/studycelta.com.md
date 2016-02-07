@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studycelta.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104154709id_/http%3A//www.studycelta.com/our-privacy-policy/ele-profesor-de-espanol/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studycelta.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207083347id_/http%3A//www.studycelta.com/about-study-celta/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | StudyCELTA
 
