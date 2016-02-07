@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myorganogold.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192633id_/http%3A//myorganogold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myorganogold.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207145847id_/http%3A//myorganogold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Organo Gold
 
