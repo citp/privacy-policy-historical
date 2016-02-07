@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811155419id_/http%3A//www.unlockthegame.com/UTG/ServicePages/PrivacyStatement/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207120213id_/http%3A//www.unlockthegame.com/UTG/ServicePages/PrivacyStatement/index.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Unlock The Game
 
@@ -54,6 +54,6 @@ USA
 or
 
 Unlock The Game  
-Suite 223, 25 Oxford Street  
+Suite 223, 30 Denison Street  
 Sydney, NSW 2022   
 Australia
