@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventurekk.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815125517id_/http%3A//adventurekk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventurekk.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207093257id_/http%3A//adventurekk.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy｜Adventure.,Inc.
 
