@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007142102id_/http%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207223045id_/http%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Koimoi
 
-1.1 General Principles  
-Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential.  
-We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for anyunauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.  
+### **General Principles**
+
+Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential.
+
+We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for anyunauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
+
 We also cannot warrant the security of the information, which you transmit to us.
 
-We categorise information about you (collectively referred to as “Personal Information”) as follows:
+#####  **We categorise information about you (collectively referred to as “Personal Information”) as follows:**
 
   * Information about your personal identity such as gender, age, etc.
   * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
@@ -19,40 +22,48 @@ We categorise information about you (collectively referred to as “Personal Inf
   * Correspondence Information: Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, comments, blog, chat room and discussion board communications, instant message communications, experts forum communications, contests and entries, faxmail communications, membership of mailing lists, etc.
   * User IDs: Your usernames, nicknames, passwords, email addresses and other security-related information used by you in relation to our Services.
   * Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
-  * Profiling Information: 
-
-(i) Information which you provide when you Subscribe or register for a Service:
-
-    * Information about your personal identity such as gender, age, etc.;
-    * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
-    * Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
-    * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
-
-(ii) Information from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics:  
-\- We use Google Analytics tracking code to track our site’s traffic. This code also supports Display Advertising. The Google Analytics features include Google Analytics Demographics and Interest Reporting that we have implemented based on Display Advertising.
 
 
 
+#####  **Profiling Information:**
+
+######  **Information which you provide when you Subscribe or register for a Service:**
+
+  * Information about your personal identity such as gender, age, etc.;
+  * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
+  * Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
+  * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
+
+
+
+######  **Information from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics:**
+
+– We use Google Analytics tracking code to track our site’s traffic. This code also supports Display Advertising. The Google Analytics features include Google Analytics Demographics and Interest Reporting that we have implemented based on Display Advertising.
 
 We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services.  
-We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent.  
+We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent.
+
 If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you.  
-Any of your information which you provide when you use our Services in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.  
-Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments.  
-Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions, etc. unless expressly stated otherwise.  
+Any of your information which you provide when you use our Services in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.
+
+Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments.
+
+Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions, etc. unless expressly stated otherwise.
+
 We are not liable to you or any third party for any damages that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
 
-1.2 Right to collect  
+###  **Right to collect**
+
 By accepting the Terms you agree that we may collect and store your Personal Information as long as you Subscribe to or use our Services subject to the limitations set out in this Privacy Policy.
 
-We collect your Profiling and Account Information for the following reasons:
+#####  **We collect your Profiling and Account Information for the following reasons:**
 
   * We need your identity details, contact details, banking information (if requested and provided) and account history (if requested and provided) to manage our relationship with you and provide Services to you. We will only disclose this information as provided for in clause 1.3 below.
   * We use certain of your information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities. We may disclose such information about you, provided that the information is in an aggregated form that is not capable of being used or interpreted in such a manner as to identify you.
 
 
 
-We collect and store your Correspondence Information and Personal Identifiers to:
+#####  **We collect and store your Correspondence Information and Personal Identifiers to:**
 
   * determine and verify the Service Charges payable by you and to administer our relationship with you;  
 comply with any statutory or regulatory requirement;
@@ -62,21 +73,26 @@ comply with any statutory or regulatory requirement;
 
 
 
-We collect and store your Correspondence Information and Personal Identifiers to:
+#####  **We collect and store your Correspondence Information and Personal Identifiers to:**
 
   * comply with our obligations under clause 1.3 below; and
   * monitor your use of our Services in order to ensure your compliance with our User Rules as provided for in clause 1.3 below.
 
 
 
-We will only disclose Correspondence Information and Personal Identifiers under clause 1.3 below.  
-We may scan your Stored Information to ensure that you comply with clause 1.3 below.  
-Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.  
-Some of our own websites use “cookies” so that we can provide you with more customised information when you return to our website. “Cookies” are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a “cookie”, giving you the chance to decide whether or not to accept it. If you do accept a “cookie”, you thereby agree to our use of any Personal Information collected by us using that Cookie.  
+We will only disclose Correspondence Information and Personal Identifiers under clause 1.3 below.
+
+We may scan your Stored Information to ensure that you comply with clause 1.3 below.
+
+Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.
+
+Some of our own websites use “cookies” so that we can provide you with more customised information when you return to our website. “Cookies” are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a “cookie”, giving you the chance to decide whether or not to accept it. If you do accept a “cookie”, you thereby agree to our use of any Personal Information collected by us using that Cookie.
+
 You may update your Profiling Information at any time by using the personalise function. You acknowledge and agree that in the interests of improvingpersonalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us).
 
-1.3 General exceptions  
-If we are required to intercept, disclose, monitor and/or store your Personal Information:
+###  **General exceptions**
+
+#####  **If we are required to intercept, disclose, monitor and/or store your Personal Information:**
 
   * by law;
   * to conduct our business;
