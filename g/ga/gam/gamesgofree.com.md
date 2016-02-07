@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesgofree.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215120533id_/http%3A//gamesgofree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesgofree.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207102221id_/http%3A//gamesgofree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - GamesGoFree.com - Download Full PC Games and Play for Free!
 
