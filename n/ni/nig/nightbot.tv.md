@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the nightbot.tv privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130900id_/http%3A//www.nightbot.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightbot.tv privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207023914id_/http%3A//www.nightbot.tv/privacy) for the most accurate reproduction.*
 
 # Nightbot | Privacy Policy
+
+#### Heads Up!
+
+Nightbot v4 is now in beta! You can check it out at [https://beta.nightbot.tv](https://beta.nightbot.tv/). **Please note that the new Nightbot has modernized/different default commands. We have backwards compatibility for managing commands and regulars via chat, but not for spam protection nor song requests. This is a beta and we know it is not perfect. We appreciate any feedback you have about the beta, and you can share feedback on our[forum](https://community.nightdev.com/c/nightbot).**
 
 ### OVERVIEW
 
