@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygateglobal.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215211223id_/http%3A//mygate.co.za/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygateglobal.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207045052id_/http%3A//mygate.co.za/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyGate
 
