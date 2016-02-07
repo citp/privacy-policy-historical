@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixcat.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034805id_/http%3A//www.mixcat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcat.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207041743id_/http%3A//www.mixcat.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Mixcat Interactive
 
