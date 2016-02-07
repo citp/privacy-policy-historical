@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiastarter.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122024724id_/http%3A//asiastarter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiastarter.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207134435id_/http%3A//asiastarter.com/privacy) for the most accurate reproduction.*
 
 # AsiaStarter: Privacy policy
 
