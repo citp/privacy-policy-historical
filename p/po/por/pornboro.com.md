@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornboro.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020527id_/http%3A//www.pornboro.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornboro.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207182540id_/http%3A//www.pornboro.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
