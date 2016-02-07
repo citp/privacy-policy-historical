@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentloanhero.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223231001id_/http%3A//studentloanhero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloanhero.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208001608id_/https%3A//studentloanhero.com/privacy-policy) for the most accurate reproduction.*
 
-# Student Loan Hero - Privacy Policy | Refinance and Consolidate Your Student Loans | Student Loan Hero
+# Student Loan Hero - Privacy Policy | Student Loan Hero
 
 ### STUDENT LOAN HERO, INC. PRIVACY POLICY
 
