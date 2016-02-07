@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quad-cleaner.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929135606id_/http%3A//quad-cleaner.com/v3/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quad-cleaner.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207232458id_/http%3A//quad-cleaner.com/v3/privacy.asp) for the most accurate reproduction.*
 
 # Quad Registry Cleaner detect, clean & repair all threats on your PC
 
@@ -35,4 +35,4 @@ For Web site security purposes, and to ensure that our Web site remains availabl
 We analyze visitors use of our sites by tracking information such as pageviews, traffic flow, search terms, and click through. We use this information to improve our sites. We do not share any information with third part companies that can identify an individual user. We use a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers online needs. The tracking system does not reveal any personally identifiable information, such as names or email address. 
 
 **Contact Information**  
-[www.interactivebrands.com](http://www.interactivebrands.com/) welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us](https://web.archive.org/web/20140929135606id_/http%3A//quad-cleaner.com/v3/support.asp).
+[www.interactivebrands.com](http://www.interactivebrands.com/) welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us](https://web.archive.org/web/20160207232458id_/http%3A//quad-cleaner.com/v3/support.asp).
