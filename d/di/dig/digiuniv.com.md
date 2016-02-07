@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiuniv.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125041349id_/http%3A//www.digiuniv.com/info/disclaimer_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiuniv.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207015730id_/http%3A//www.digiuniv.com/info/disclaimer_privacy.html) for the most accurate reproduction.*
 
 # Learning Management System | University Management System | Campus Management System
 
