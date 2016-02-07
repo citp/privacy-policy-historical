@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamboo.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209003121id_/http%3A//mamboo.com/en/tips/%3Ftip%3DConditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamboo.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207074817id_/http%3A//mamboo.com/en/tips/%3Ftip%3DConditions) for the most accurate reproduction.*
 
 # Sign into Mamboo.com free dating site and chat with new friends around the world!
 
