@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afternoongossip.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922100156id_/http%3A//www.afternoongossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternoongossip.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207161530id_/http%3A//afternoongossip.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Afternoon Gossip
+# Privacy Policy | Afternoon Gossip
 
 ### This Application collects some Personal Data from its Users.
 
