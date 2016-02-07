@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobilemove.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813002307id_/http%3A//automobilemove.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemove.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207080914id_/http%3A//automobilemove.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Automobile Move - Auto Transport Services
 
