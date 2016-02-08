@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialml.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207152041id_/http%3A//www.financialml.com%3Fpage_id%3D1038) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialml.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208160709id_/http%3A//www.financialml.com%3Fpage_id%3D1038) for the most accurate reproduction.*
 
 # Privacy Policy « Business News, Finance News, Stock Market, World Business, Financial Markets News Online
 
