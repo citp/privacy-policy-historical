@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3li.org privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511142747id_/http%3A//mp3li.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3li.org privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208075404id_/http%3A//mp3lee.com/en/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 This privacy policy sets out how administration (“we”) of mp3.li (“Website”) uses and protects any information that you give us when you use Website.
 
@@ -48,7 +48,3 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 Our Website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
-
-16.
-
-Yelawolf Ft. Twista & Busta Rhymes - [Let's Go](http://mp3li.org/index.php?q=Yelawolf%20Ft.%20Twista%20%26%20Busta%20Rhymes%20-%20Let%27s%20Go "Yelawolf Ft. Twista & Busta Rhymes - Let's Go")
