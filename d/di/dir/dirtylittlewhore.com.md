@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtylittlewhore.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917213421id_/http%3A//www.clips4sale.com/do/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtylittlewhore.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208144912id_/http%3A//www.clips4sale.com/do/privacy) for the most accurate reproduction.*
 
 # Amateur Porn | Fetish Porn Videos - Clips4Sale.com
 
