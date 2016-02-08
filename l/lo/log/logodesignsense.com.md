@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignsense.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220213042id_/http%3A//www.logodesignsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignsense.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209000354id_/http%3A//www.logodesignsense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement of LogoDesignSense – Complete Branding Solutions | LogoDesignSense
 
@@ -50,4 +50,4 @@ In the first place, it is our top priority to avoid the information disclosure. 
 
 #### CONTACT US
 
-If you have any confusion or concerns regarding our privacy policies, you can [contact us](http://www.logodesignsense.com/contact-us) via our contact us form.
+If you have any confusion or concerns regarding our privacy policies, you can [contact us](http://logodesignsense.com/contact-us) via our contact us form.
