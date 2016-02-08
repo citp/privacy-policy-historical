@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmpgnr.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812074938id_/http%3A//secure.campaigner.com/csb/public/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmpgnr.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208070944id_/http%3A//secure.campaigner.com/csb/public/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
