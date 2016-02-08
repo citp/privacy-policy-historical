@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finestsocial.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116010939id_/http%3A//finestsocial.com/index.php%3Fa%3Dpage%26a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestsocial.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208122932id_/http%3A//finestsocial.com/index.php%3Fa%3Dpage%26a%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Books Libraries
 
