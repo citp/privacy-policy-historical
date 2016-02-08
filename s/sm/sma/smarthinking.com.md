@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035624id_/http%3A//www.smarthinking.com/privacy-purchase-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208143447id_/http%3A//www.smarthinking.com/privacy-purchase-policies) for the most accurate reproduction.*
 
 # Privacy & Purchase Policies | Smarthinking, Inc.
 
