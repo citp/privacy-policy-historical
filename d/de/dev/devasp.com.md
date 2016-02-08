@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the devasp.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008105136id_/http%3A//www.devasp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devasp.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208202929id_/http%3A//www.devasp.com/privacy.aspx) for the most accurate reproduction.*
 
-# DevASP Privacy Policy
+# DevASP - ASP and XML Articles, Samples, Toturials, Sample Chapters and resources for Developers
 
-##  Privacy Policy
+##  Privacy Policy 
 
 DevASP is strongly committed to protecting the privacy of its user community. 
 
@@ -24,7 +24,7 @@ DevASP will collect personal information if you choose to become a DevASP member
 
 DevASP reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, DevASP will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties. 
 
-If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [ contact us](https://web.archive.org/contact.asp). 
+If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](http://devasp.net/net/contact.aspx).. 
 
   
 Thank you. 
