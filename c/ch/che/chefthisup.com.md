@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chefthisup.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206110251id_/http%3A//chefthisup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefthisup.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208150820id_/http%3A//chefthisup.co/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Chefthisup
 
