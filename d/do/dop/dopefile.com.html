@@ -1,58 +1,373 @@
-<!--The following is the downloaded HTML source of the dopefile.com privacy policy that was archived on 2015-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150922233129id_/http%3A//dopefile.com/pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dopefile.com privacy policy that was archived on 2016-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160208191104id_/http%3A//dopefile.com/pages/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<html><head>
 
-	<title>DopeFile.com - Free File Hosting Service</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
 
-        <meta name="description" content="Dopefile - Free file upload service">
-        <meta name="keywords" content="file upload,share files,free upload">
+    <meta http-equiv="content-Type" content="text-html; charset=UTF-8">
 
-	<link rel="stylesheet" type="text/css" href="http://dopefile.com/new1.1.css">	
-	
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://dopefile.com/xupload1.js?"></script>
-    
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<link rel="shortcut icon" href="http://dopefile.com/images/df-inew.ico">
+    <meta name="description" content="DopeFile.com - Free File Hosting Service.">
 
-	
-	
+    <meta name="keywords" content="file upload,share files,free upload">
+
+    <title>DopeFile.com - Free File Hosting Service</title>
+
+    <link rel="shortcut icon" href="http://dopefile.com/images/df-inew.ico" type="image/x-icon">
+
+    <link rel="stylesheet" type="text/css" href="http://dopefile.com/css/newstyle.css">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://dopefile.com/js/dfjs.min.js"></script>
+
+        
+
+    <script type="text/javascript">
+
+    $(document).ready(function() {
+
+           $("#showallarch").click(function() {
+
+               $(this).css('display', 'none'),
+
+            $("#fileinfoarch").css('height', '100%'),
+
+            $("#grad").css('display', 'none');
+
+           });
+
+       });
+
+   </script>
+
+   <script type="text/javascript">
+
+      (function($) {
+
+   $(function() {
+
+
+
+      $('ul.tabs').on('click', 'li:not(.current)', function() {
+
+         var section = $(this).parents('div.section:first');
+
+         var idx = $(this).index();
+
+
+
+         $(this).addClass('current').siblings().removeClass('current');
+
+         $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
+
+         $.cookie($(section).attr('id') + 'tab', idx);
+
+      });
+
+
+
+      $('.section').each(function(i, e) {
+
+         if(!e.id) return;
+
+
+
+         var idx;
+
+         if(idx = $.cookie(e.id + 'tab'))
+
+         {
+
+            $(e).find('> ul > li').eq(idx).click();
+
+         }
+
+      });
+
+
+
+   })
+
+   })(jQuery)
+
+    </script>
+
+
+
+<script type="text/javascript">
+
+
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-46685703-1']);
+
+  _gaq.push(['_trackPageview']);
+
+
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+
+
+</script>
+
+
+
+
+
 </head>
+
 <body>
 
-<div style="width:990px;">
-            
-			<div style="height:18px; border-bottom:thin solid #222; background:#000;padding:11px 0;">
-			<div style="width:90%;"><a href="http://dopefile.com" class="left"><div style="width:127px; height:25px;
-		background:url(http://dopefile.com/images/new/dflogo.png) no-repeat center;"></div></a>
+<div class="wrapper">
 
-		
-<ul class="pull-right">
-                        <li><a class="redbtnh" href="http://dopefile.com" role="button"><i class="icon-inbox icon-white"></i> Upload Files</a></li>
-						
+   <div id="header">
+
+      <div class="containerm">
+
+         <div id="logo" style="float: left;" onclick="location.href='http://dopefile.com';"><!--start logo-->
+
+         </div><!--end logo-->
+
+         <div id="mainmenu"><!--start main menu-->
+
+            <ul>
+
+                           <li><a href="http://dopefile.com/?op=upload" style="line-height:60px" class="uploadmenubtn">Dosya yГјkle</a></li>
+
+               
+
+               
+
+               <li><a href="http://dopefile.com/login.html" style="line-height:60px">KullanД±cД± GiriЕџi</a>&nbsp; &nbsp;</li>
+
+               <li><a class="btn_blue" href="http://dopefile.com/?op=registration" style="line-height:60px">Yeni KayД±t</a>&nbsp; &nbsp;</li>
+
+               <li><a href="http://dopefile.com/?op=forgot_pass" style="line-height:60px">Еџifremi unuttum?</a></li>
+
+               
+
+               
+
+            </ul>
+
+            <div id="language">
+
+               <ul>
+
+                  <li>
+
+                     <a>
+
+                        <span class="trf trf-english"></span>
+
+                     </a>
+
+                     <ul>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=russian">
+
+                              <span class="trf trf-russian"></span><span class="langname">Russian</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=german">
+
+                              <span class="trf trf-german"></span><span class="langname">German</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=french">
+
+                              <span class="trf trf-french"></span><span class="langname">French</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=arabic">
+
+                              <span class="trf trf-arabic"></span><span class="langname">Arabic</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=turkish">
+
+                              <span class="trf trf-turkish"></span><span class="langname">Turkish</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=polish">
+
+                              <span class="trf trf-polish"></span><span class="langname">Polish</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=thai">
+
+                              <span class="trf trf-thai"></span><span class="langname">Thai</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=spanish">
+
+                              <span class="trf trf-spanish"></span><span class="langname">Spanish</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=japan">
+
+                              <span class="trf trf-japan"></span><span class="langname">Japan</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=hungary">
+
+                              <span class="trf trf-hungary"></span><span class="langname">Hungary</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=indonesia">
+
+                              <span class="trf trf-indonesia"></span><span class="langname">Indonesia</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=dutch">
+
+                              <span class="trf trf-dutch"></span><span class="langname">Dutch</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                        <li>
+
+                           <a href="http://dopefile.com/?op=change_lang&amp;lang=hebrew">
+
+                              <span class="trf trf-hebrew"></span><span class="langname">Hebrew</span>
+
+                           </a>
+
+                        </li>
+
+                        
+
+                     </ul>
+
+                  </li>
+
+               </ul>
+
+            </div>
+
+         </div>
+
+      </div><!--end main menu-->
+
+   </div> <!--end header-->
+
+   
+
+   <div class="clear"></div>
+
+   
+
+   
+
+   
+
+   <div class="clear"></div>
+
+   
+
+   
+
+   <div id="container">
+
+   
 
 
-<li><a class="link" href="http://dopefile.com/login.html">Login</a></li>
-<li><a class="link" href="http://dopefile.com/?op=registration">Sign Up</a></li>
 
-
-
-<div class="clear"></div>			
-						</ul>
-<div class="clear"></div>
-				</div>
-			</div>
-	
-</div>
-
-
-
-
-<div style="background: #e5e5e5; width: 990px;padding:1px 0 40px;min-height: 1080px;">
-<div id="myfiles">
+   <div id="myfiles">
 <h3>Privacy Policy</h3>
 <div style="padding:15px;">
 <p>
@@ -118,68 +433,117 @@ Dopefile uses IP addresses to measure usage and analyze trends, administer the w
 </p>
 </div>
 </div>
-</div>
+
+   </div>
+
+   </div>
 
 
 
+<footer>
+
+   <div class="container1">
+
+       
+
+           <div class="company left">
 
 
 
-<div id="footer">
-<div id="socialpages">
-<div style="float:left; margin:0px 0px 0px 5px;"><a href="https://facebook.com/dopefile" target="_blank"><img title="Like Dopefile On Facebook " src="http://dopefile.com/images/new/fb.png" alt="" width="20" height="20" border="0"></a></div>
-<div style="float:left; margin:0px 0px 0px 5px;"><a href="https://www.twitter.com/realdopefile" target="_blank"><img title=" Follow Dopefile On Twitter @Realdopefile" src="http://dopefile.com/images/new/tw.png" alt="" width="20" height="20" border="0"></a></div>
-<br>
+                                        <span class="footer-logo">DopeFile</span>
 
-<div style="float:left;margin-top: 10px;margin-left: -45px;color:#fff;font-size: 10px;">© 2014 Dopefile, All Rights Reserved</div>
-</div>
-		<div class="clear"></div>
-            <ul id="ftlinks">
-			<li><a href="http://dopefile.com/?op=news">News</a></li>
-			<li><a href="http://dopefile.com/faq.html">FAQ</a></li>
-			<li><a href="http://dopefile.com/tos.html">Terms of service</a></li>
-			<li><a href="http://dopefile.com/pages/dmca.html">DMCA</a></li>
-			<li><a href="http://dopefile.com/pages/privacy-policy.html">Privacy Policy</a></li>
-			<li><a href="http://dopefile.com/?op=checkfiles">Link Checker</a></li>
-			<li><a href="http://dopefile.com/contact.html">Contact Us</a></li>
-			
-		</ul>
-<div class="clear"></div>
-</div>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46685703-1', 'dopefile.com');
-  ga('send', 'pageview');
+                                        <p>© 2013-2016 Dopefile. All Rights Reserved.</p>
 
-</script>
 
-<script type="text/javascript">
-	$(document).ready(
-	function ($) {
-		if (!$.browser.robot) {
-			if (COOKIE.read('follow_popup') == null) {
-				COOKIE.create('follow_popup', 1, 31);
-				$('#followModal').modal('show');
-			}
-		}
-		if ($.browser.mobile) {
-			$(".modSwitch").val(APP.getButtonTitle());
-			$(".modSwitch").show();
-		}
-	});
-	$('.btn-navbar').click(function () {
-		$(this).is('.active') ? $(this).removeClass('active') : $(this).addClass('active');
-		$('.btn-navbar').not(this).removeClass('active');
-		$('.nav-collapse').not($($(this).attr('data-target'))).removeClass('in').height(0);
-	});
-</script>
 
-<div style="position:fixed;left:50%;margin-left:-956px;z-index:-1000;height:1080px;width:1920px;top:0"><img src="http://dopefile.com/images/df-hd.jpg"></div>
+<div style="float:left; margin:10px 0px 0px 0"><a href="https://facebook.com/dopefile" target="_blank"><img title="Like Dopefile On Facebook " src="http://dopefile.com/images/new/fb.png" alt="" width="20" height="20" border="0"></a></div>
+
+<div style="float:left; margin:10px 0px 0px 10px;"><a href="https://www.twitter.com/realdopefile" target="_blank"><img title=" Follow Dopefile On Twitter @Realdopefile" src="http://dopefile.com/images/new/tw.png" alt="" width="20" height="20" border="0"></a></div>
+
+
+
+                </div><!--/.company-->
+
+      
+
+          
+
+            <div class="widgets-wrap-footer">
+
+                                        <div class="menu-widgets">
+
+
+
+                                                <div class="widget">
+
+
+
+                                                        <ul>
+
+
+
+                           <li><a href="http://dopefile.com/?op=news">BГјlten</a></li>
+
+               <li><a href="http://dopefile.com/faq.html">SSS</a></li>
+
+               <li><a href="http://dopefile.com/?op=checkfiles">Linki kontrol et</a></li>
+
+               <li><a href="http://dopefile.com/links.html">Links</a></li>
+
+               
+
+            
+
+
+
+                                                </ul></div><!--/.widget-->
+
+
+
+                                                <div class="widget">
+
+
+
+                                                        <ul>
+
+                                                        
+
+                                                            <li><a href="http://dopefile.com/tos.html">KullanД±m ЕџartlarД±</a></li>
+
+
+
+                                                                <li><a href="http://dopefile.com/pages/dmca.html">DMCA</a></li>
+
+                                            
+
+                                                                <li><a href="http://dopefile.com/pages/privacy-policy.html">Privacy Policy</a></li>
+
+                                                                
+
+                                                                <li><a href="http://dopefile.com/contact.html">IletiЕџim</a></li>
+
+               
+
+                                                </ul></div><!--/.widget-->
+
+
+
+                                        </div><!--/.menu-widgets-->
+
+
+
+                                </div><!--/.widgets-wrap-->
+
+   
+
+      
+
+   </div>
+
+</footer>
+
 
 
 
