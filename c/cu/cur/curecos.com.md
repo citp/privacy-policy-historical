@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curecos.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209081814id_/http%3A//en.curecos.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curecos.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208151133id_/http%3A//en.curecos.com/info/privacy) for the most accurate reproduction.*
 
 # To the Users of These Services - Privacy Policy - Cosplayers' Cure
 
