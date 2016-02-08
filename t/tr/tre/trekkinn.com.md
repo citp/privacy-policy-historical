@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekkinn.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210134701id_/http%3A//www.trekkinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekkinn.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209005002id_/https%3A//www.trekkinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
 # trekkinn Terms & conditions. Online outdoor gear and outdoor equipment shop
 
@@ -172,7 +172,7 @@ For United Kingdom: Maestro - Local Bank Transfer Account
 
 The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 14 days beginning the day after the day on which you received the goods (a "cooling off period").
 
-You must notify us of your cancellation in writing or in another durable medium by e-mail to our contact page using the following link: [CONTACT](http://www.trekkinn.com/?idioma=eng&action=contacto&uam=) or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
+You must notify us of your cancellation in writing or in another durable medium by e-mail to our [contact page](http://www.trekkinn.com/?action=contacto&idioma=eng&uam= "Contact page") or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
 
 9.2. Cancellation consequences:
 
