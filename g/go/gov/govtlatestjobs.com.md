@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govtlatestjobs.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130033140id_/http%3A//www.govtlatestjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtlatestjobs.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209142203id_/https%3A//www.govtlatestjobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Govt Latest Jobs
 
 This Privacy Policy governs the manner in which www.Govtlatestobs.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.govtlatestjobs.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Govt Latest Jobs Team.
 
@@ -65,4 +65,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 www.Govtlatestobs.com/p/contact-us.html
 
-This document was last updated on August, 2015
+This document was last updated on February 2016
