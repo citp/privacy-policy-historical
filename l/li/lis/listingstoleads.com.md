@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingstoleads.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221005801id_/http%3A//www.listingstoleads.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingstoleads.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209141205id_/http%3A//www.listingstoleads.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Listings-to-Leads - Privacy Policy
 
