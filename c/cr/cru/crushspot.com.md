@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crushspot.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928123537id_/http%3A//crushspot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushspot.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210001810id_/http%3A//crushspot.com/privacy.php) for the most accurate reproduction.*
 
-# Punk Rock Demonstration Radio Station - A Demonstration of Punk Rock since 2005
+# Punk Rock Demonstration Privay
 
 **_Punk Rock Demonstration Privacy Policy_**
 
