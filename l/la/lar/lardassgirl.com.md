@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lardassgirl.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224194026id_/http%3A//www.lardassgirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lardassgirl.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209224229id_/http%3A//lardassgirl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
