@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letssearch.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006175054id_/http%3A//letssearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssearch.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210005940id_/http%3A//letssearch.com/privacy) for the most accurate reproduction.*
 
 # LetsSearch
 
