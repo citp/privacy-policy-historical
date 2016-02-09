@@ -1,74 +1,81 @@
-> *The following text is extracted and transformed from the envywomen.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026190226id_/http%3A//envywomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envywomen.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209031410id_/http%3A//envywomen.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – envywomen.com
+# Privacy Policy – Envywomen.com
 
-**Privacy**
+EnvyWomen is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on this website and how we use that information. By using the EnvyWomen , you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
-This policy was last updated January 2015.
+Children Under 13
 
-Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information.
+We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).
 
-**Personal Information**
+Information We Collect
 
-EnvyWomen Media requires your e-mail address when you subscribe to our newsletters, when you sign up for sweepstakes, and when you take advantage of other services our website offers. To provide you with the best possible service, we also require some basic personal information when you sign up. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic and optional information, to further tailor our content to your interests. Upon request, we will provide you with the information that we maintain about you.
+The information we gather falls into two categories:
 
-**Demographic Information  **
+Information you supply when you register to receive emails or comment on the website, and  
+Tracking information collected as you navigate through our site.
 
-We may use aggregate data such as income, age and geography to further customize our content and enhance our services. We may share this information with advertisers and the media. Likewise, we may share this information with another company in the event that we merge, are acquired or participate in a joint venture with another company, or if we conclude that we are required by law to share it. All aggregate data will be shared without any personally identifiable information about our individual subscribers.
+Personally Identifying Information
 
-**Cookies  **
+In operating the Site, EnvyWomen may include registration, comment forms, online surveys, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
 
-We and some of our partners may make use of cookies (small text files placed on your computer’s hard disk by our server). They are used to collect traffic information such as the number of visits to our site and pages visited. This information will be used to assess how visitors are using our services. This data will also allow us to manage the functionality of the site. You can disable cookies at any time if your browser permits.
+Tracking Information
 
-**Web Site Usage Information**
+Cookies
 
-We and our partners also may make use of pixel tags which also collect traffic information regarding the behaviour and usage patterns of users of our site.   Pixel tags allow us, or a third party who provides the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the Web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that Web page or other document, including the sites the users of that computer visit. The entity that provides the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user’s operating system and browser type, and similar information.  Our partners may use this information to display advertisements and other content that targeted to you.  We may also use other technologies that permit data gathering.
+From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
 
-You may chose not to accept a pixel tag by taking one of the following three actions:
+Click Tracking
 
-First, you can opt-out using our partner Blue Kai’s opt-out process, which is explained here  <http://www.bluekai.com/optout.html>. Second, you can also opt-out by using the NAI’s opt-out tool, which is explained here <http://www.networkadvertising.org/managing/opt_out.asp>. These two options require you to accept cookies, and they will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, the pixel tag will be installed until an opt-out cookie is reset on that browser. The third way to block pixel tags is to block third-party cookies on your browser.  If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites.
+As is true of most websites,EnvyWomen gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We use this information to analyze trends, administer the site, track users’ movements around the site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
 
-**Linked Sites**
+IP Addresses
 
-Although EnvyWomen may provide links to third party sites, and advertisements from third parties, we are not responsible for the content that appears on those sites nor do we endorse these sites. Please review each site’s privacy policy to determine their use of information.
+Each user’s IP address is logged with each visit and each action performed on EnvyWomen . This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
-**Social Networking**
+Advertising
 
-If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with the Service, we may receive personally identifiable information and other information about you and your computer, mobile and other device that you have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by vising those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, share and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
+If there is advertising on EnvyWomen , such advertising may employ the use of cookies or other methods to track hits and click-throughs. We are not responsible for advertiser cookies or how the information gathered through their use might be used.
 
-**Advertisers  **
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-To support our efforts we sell sponsorships of EnvyWomen mailings and on the blog to advertisers who we think you’d like to know about. Collection, use, disclosure and security of information collected by advertisers are subject to the privacy policies of those advertisers.
+Participation on a Public Website
 
-**Agents  **
+You should be aware that any personal information you submit on EnvyWomen in the comments may be read, collected, or used by other users of this Site, including anonymous visitors.
 
-From time to time, we may use the services of third-party companies to help facilitate our business activities. These include affiliate or incentive program providers, customer service organizations, e-mail and postal mail brokers, and marketing service providers. These companies are subject to confidentiality agreements with us and are prohibited from using the information we provide for any reason except to perform the functions that we have outlined for them.
+How Your Information Will Be Used
 
-#### Third Parties
+Personal Information
 
-Company expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our Website, may have their own privacy and data collection policies and practices.
+We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the site. We may also use your contact information to inform you of any changes to EnvyWomen , or to send you additional information about EnvyWomen
 
-You should also be aware that if you voluntarily disclose information (including personally identifiable information) on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this Privacy Policy.
+Anonymous Information
 
-Company is not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. It follows that the Company accepts no responsibility for events experienced by you if you visit a third party site by clicking through from the Website. Please remember that when you use a link to go from the Website to another website, this Privacy Policy is no longer in effect. User browsing and interaction on any other website, including those that have a link on our Website, is subject to that other website’s own rules and policies. Please read over those rules and policies before proceeding.
+We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-#### Third Party Advertisements and Technologies:
+Use of Cookies
 
-We use third-party advertising companies to serve advertisements when you visit the Website as is explained in detail in the Terms of Use. In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser. This advertising technology uses information derived from your visits to the Website to target advertising within this Website or on other websites. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called “online behavioral advertising” or “interest-based advertising” or “OBA”). We also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this Website, to learn which banner ads bring users to our Website and to deliver more relevant advertising.
+We may use cookies to deliver content specific to your interests. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
-In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Website and other websites. We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites.
+Disclosure of Personal Information
 
-**Opt-out / Unsubscribe**
+We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to:
 
-If we ever send you an email that you did not expressly request, we will provide you with an email address by which you may request to receive no future notices.
+Conform to the edicts of the law or comply with legal process served on EnvyWomen  
+Protect and defend the rights or property of EnvyWomen or the users of this site, or  
+Act under circumstances to protect the safety of the public or users of this site.
 
-**Changes to Privacy Policy  **
+Security
 
-EnvyWomen may change this privacy policy. Any changes will be reflected on this privacy policy page. If you are concerned about how your information will be used, you should check back at this privacy policy page periodically.
+EnvyWomen has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-#### Children’s Privacy
+Comments  
+EnvyWomen may include interactive forms such as comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any personal information to Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@envywomen.com
+Third Party Websites
 
-**Contact  **  
-If you should have any questions about our privacy policy, please contact us at Info@EnvyWomen.com.
+EnvyWomen may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+
+Updates and Changes
+
+We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on EnvyWomen  and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
