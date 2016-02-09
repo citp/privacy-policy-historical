@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindblowingfactss.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011140id_/https%3A//mindblowingfactss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindblowingfactss.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209051210id_/http%3A//mindblowingfactss.com/privacy) for the most accurate reproduction.*
 
-# Likes.com
+# mindblowingfactss
 
 Effective Date: 27 August 2013
 
