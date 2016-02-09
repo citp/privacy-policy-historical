@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemobserver.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930133556id_/http%3A//www.salemobserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemobserver.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209212421id_/http%3A//www.salemobserver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SalemObserver
 
