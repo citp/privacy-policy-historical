@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812212444id_/http%3A//downloadbureau.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbureau.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210092557id_/http%3A//downloadbureau.com/privacy.html) for the most accurate reproduction.*
 
 # Download Softwares
 
