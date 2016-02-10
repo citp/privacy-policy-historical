@@ -1,176 +1,161 @@
-> *The following text is extracted and transformed from the manjam.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511194823id_/http%3A//www.manjam.com/support/privacyterms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manjam.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210192825id_/http%3A//www.manjam.com/info/privacy) for the most accurate reproduction.*
 
-# Manjam.com - Terms and Conditions - Privacy Policy
+# Privacy policy
 
-Membership Terms and Conditions 
+This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English and law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail. 
 
-These Membership Terms and Conditions apply when You choose to register as a Member of this website (the "Site"). This Site and related sites are offered to you ("Your"/"You") by HubJet LLC and its subsidiary companies. Please read these Membership Terms and Conditions carefully before registering on the Site as a Member. If You do not agree to these Membership Terms and Conditions, then You SHOULD NOT register as a Member.
+###  Summary 
 
-**1\. Acceptance of Membership Terms and Conditions**
+Please read our privacy policy carefully because it will tell you exactly how we are looking after your personal data. Here are the topics that we cover: 
 
-1.1 By clicking "Start" to register You will be deemed to have consented to these Membership Terms and Conditions. 
+  1. What information we collect and how we collect it 
+  2. How we use the information and who we share it with 
+  3. How you can access and update such information 
+  4. How we protect the information we store about you 
 
-1.2 We reserve the right to change or update these Membership Terms and Conditions from time to time (subject to Your termination right pursuant to paragraph 8). 
 
-**2\. Description of Membership and Subscription**
 
-2.1 As a Member, You can take advantage of many services on the Site for free. However other areas of the site require payment of a Member subscription. For a full description of the services offered on this Site and the subscription options for Members, please consult the Membership Benefits page [ [membership benefits](https://web.archive.org/web/20080511194823id_/http%3A//www.manjam.com/myAccount/join/membership.aspx)]. 
+###  Legal information 
 
-2.2 Member subscription payments can be made in UK Sterling or Dollars. 
+HUBJET Limited ("we" or "us") is a company incorporated in Isle of Man under company number 000866L registered at 12 Mount Havelock, Douglas IM1 2QG. This privacy policy (the "Policy") is to let you know how we use personal information (‘personal data’ or ‘personal information’). 
 
-2.3 Please note that any Member subscription paid by You is subject to a minimum contractual period of one month. 
+This Policy applies to your use of the Manjam website at www.manjam.com ("Manjam"). We suggest you read it in conjunction with our Terms and Conditions of Use (the "Terms"). When you access or use Manjam, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy. 
 
-**3\. Age of Consent**
+We reserve the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information. 
 
-3.1 You must be 18 years or over to register as a Member. If We discover or have any reason to suspect that You are not over 18 years of age, then We reserve Our right to suspend or terminate Your Membership to this Site immediately and without notice. 
+####  IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS OR USE THE SITE. 
 
-**4\. Password Member Name and Security**
+###  1\. Users and visitors to our site 
 
-4.1 Upon registration as a Member, You will select a Password and Member Name that You can use to access Your Member Account and Profile and to log on to the Members' area of the Site. 
+####  What information do you collect if I decide to register? 
 
-4.2 You are responsible for maintaining the confidentiality of Your Password and Member Name and are responsible for all activities that occur under them. We do not have the means to check the identity of people using the Members' area of the Site and will not be liable where Your Password or Member Name are used by someone else. 
+To join Manjam you will have to complete our online registration form, where we ask you to provide us with information about you such as your name, your email address, your gender, your date of birth, your location details. Once you have created an account, we will automatically track certain information such as your IP address and your longitude and latitude if connecting using a device that supports such functionality. You will be able to correct or update your registration information by logging in to your account and editing your account settings. 
 
-4.3 You agree to notify Us immediately of any unauthorized use of Your Password or Member Name or any other breach of security of which You become aware. 
+####  What information do you collect if I am under 18? 
 
-**5\. Your warranties**
+You can only become a member of Manjam if your aged 18 or over (or the age of majority in the country in which you reside if that happens to be greater than 18). That means Manjam does not knowingly collect any information about children, minors or anyone under the age of majority. Nor do we knowingly market to children, minors or anyone under the age of 18. If you are less than 18 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person’s registration and delete their Profile information from Manjam. If we do delete a Profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new Profile. 
 
-5.1 You warrant that: 
+####  Do you collect my personal information if I am not a member and just visit the site? 
 
-5.1.1 You are over 18 years of age; 
+No. We don’t collect any personal information about visitors to our site. If you do visit us without becoming a member, we will place session ID cookies on your computer. 
 
-5.1.2 all information and details provided by You to Us (including on registration as a Member) are true, accurate and up to date in all respects and at all times (see Our Privacy Policy for details on how to update Your personal data); and 
+####  What do you do with personal information I have decided to post to the site? 
 
-5.1.3 You will comply with these Membership Terms and Conditions including, without limitation, the restrictions relating to acceptable use set out at section 6 below. 
+Manjam is designed to make it easy for you to find, connect and interact with other members of Manjam by posting information about yourself. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves. We also do not recommend that you put email addresses, instant messaging details, phone numbers, addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse. 
 
-5.2 You agree to indemnify and hold Us harmless from any claim or damages (including any legal fees in relation to same) made by a third party in respect of any matter in relation to or arising from Your use and Membership arising from any breach or suspected breach of these Membership Terms and Conditions by You or Your violation of any law or the rights of any third party. 
+Please be careful about posting sensitive details about yourself on you Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs or any video clips that you post on Manjam may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing your information and making this public to other users. 
 
-**6\. Acceptable Use**
+When you post information about yourself or use the messaging, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate your account. 
 
-6.1 We support the free flow of information and ideas over the Internet and do not actively monitor use of the Site, including the Members' area under normal circumstances. We seek to balance this aim with Our obligations to other Members and at law however. We do therefore review all information entered onto the Site by Members, check instant messages where certain keywords are triggered and log chatroom exchanges in order to ensure compliance with these terms, and to comply with or investigate any enforcement agency or police request or complaints. We also therefore require that You do not: 
+####  What information is collected from me if I purchase premium services? 
 
-6.1.1 say or do anything that would cause annoyance, inconvenience, harassment or needless anxiety to others; 
+If you decide to take advantage of any Manjam premium services, we collect any information necessary to process your payments as per your chosen payment method such as your name and address and or mobile number. We do not store credit card details nor do we share customer details with any 3rd parties. 
 
-6.1.2 advertise or promote any third party or Your own products or services by way of the distribution of 'spam' email, instant messages and/or chat room messages; 
+####  Do you collect any other personal information about me? 
 
-6.1.3 use foul, threatening or offensive language including, without limitation, racist, sexist, ageist, homophobic or sexually explicit language where inappropriate; 
+If you contact our Customer Support team we will receive your email address, your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you). 
 
-6.1.4 make insulting remarks to or about other Members ("flaming"); 
+####  Will you contact me? 
 
-6.1.5 jump in and out of Site forum rooms ("frogging"); 
+In your account communication settings, you have the opportunity to opt-in or out of receiving emails from us about new message notifications or other purposes related to the use of the website. 
 
-6.1.6 distribute illegal, copyright infringing, indecent or offensive material or any messages or content that may incite disorder or encourage illegal activities or that causes or may cause harm to minors; 
+####  Do you use my personal information for any other purpose? 
 
-6.1.7 impersonate another person or Member; 
+We may use material that you post on the open access areas of Manjam in advertising and promotional materials or on our partner sites and partner products. You can opt-out at any time by hiding your Profile from non-members of the site in your account privacy settings. 
 
-6.1.8 transfer files that contain viruses, trojans or other harmful programs; 
+We use your personal information to resolve disputes, troubleshoot problems and enforce our Terms and Conditions of Use. 
 
-6.1.9 use the Site to conduct any fraudulent activity including any "pyramid scheme"; "ponzi scheme" or "chain letter"; 
+####  How does the site use cookies? 
 
-6.1.10 access or attempt to access the accounts of other Members or to penetrate or attempt to penetrate the Site security measures; 
+Cookies are small pieces of data that are stored on your computer, mobile phone or other device. They help sites recognise you and your preferences each time you visit and also help sites deliver their services and enable their functionality. 
 
-6.1.11 have more than one Member Account at any time. 
+Manjam collects and stores information by placing cookies on your computer or mobile device when you visit the site to enable site functionality. 
 
-6.2 We may take any or all of the following action at Our discretion: 
+When you visit Manjam, a session ID cookie is placed on your computer or mobile device that only lasts while you’re visiting. 
 
-6.2.1 remove any Member profile (including photographs) or other material that, in Our sole discretion may be inappropriate or We suspect to be illegal, subject Us to liability or which may violate these Membership Terms and Conditions or where required to do so by law; 
+We also place persistent cookies (also known an local storage devices) on members’ computers and mobile devices, so that Manjam remembers them and makes their login experience faster and easier when they return to the site. 
 
-6.2.2 issue Members with verbal or written warnings and may take such further action as We deem appropriate under this paragraph 6.2 if such warnings are not heeded; 
+You may set your browser to block cookies and local storage devices, but if you do, you may not be able to access the features that Manjam offers. 
 
-6.2.3 suspend or terminate a Member's access to the Members' area of the Site or a Member's Account without notice at any time; 
+The types of cookies we store include: 
 
-6.2.4 inform the appropriate authorities and provide them with information regarding any suspected illegal activity; or 
+_Authentication_   
+These cookies help us to identify if you have the correct permissions to access the site and allow you to use features such as communicating with other members and posting content. 
 
-6.2.5 bring legal action against a Member or other user of the Site in relation to any breach of these Membership Terms and Conditions or any illegal or suspected illegal activity. 
+_Site services_   
+These cookies provide the functionality that our Manjam members enjoy, such as your search preference, friend invitations, assisting with navigation and ensuring pages load up quickly and respond faster. 
 
-We will determine what action is appropriate to be taken against a Member on a case by case basis. 
+_Analytics and research_   
+We use Google Analytics to collect information about how visitors use the Manjam website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. 
 
-6.3 You acknowledge that We may be required by law or regulation to access, monitor, store or copy material sent by or to Members without further notice to You. 
+###  2\. Friends and other Users 
 
-**7\. Cancellation**
+####  When I post information about myself, what do the other users see? 
 
-7.1 Your Membership services commence immediately when You submit Your registration, or subscription. This means that, subject always to Your right to terminate as set out below, You will not be able to cancel the services after this point. 
+To ensure you get to meet as many people as possible on Manjam, other members get to see your user name and any information you post on your Profile, including public photos. Any information you choose to provide should reflect how much you want other people to know about you. You can choose to reveal your name to your friends and you can also choose to limit the information that other users see by adjusting your privacy settings in your account. 
 
-**8.Termination of Membership**
+####  What information do you collect about my friends and contacts? 
 
-8.1 Subject to paragraph 8.2 below, You can terminate Your Membership at any time by notifying Us. 
+To make it easier to search and find friends and acquaintances on Manjam, users may search for other members using first and last name, email address and location. If you want to invite your friends and contacts to become a Manjam member, we will send an email invitation from Manjam in your name to your friends and contacts encouraging them to sign up to Manjam. If any of the individuals you have invited do not register within a few days, Manjam may occasionally send reminder emails to those individuals. Please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Manjam invite. 
 
-8.2 Please note that any Membership subscription paid by You is non-refundable. This means that, where You choose to terminate Your Member subscription before the expiry of this period, You will not receive any refund. 
+When we send an email to your friend or contact, we store their name and email address. We do not sell these email addresses or use them to send any other communication besides invitations. The friend may request the removal of their information from our database by clicking the ‘remove’ link in the email. Any such request will only apply to addresses we have at the time of the request and not to any addresses that the member/user provides to us later. 
 
-8.3 No refunds will be paid by Us where Your Membership is terminated by Us as a consequence of Your breach of these Membership Terms and Conditions. 
+###  3\. Third parties 
 
-**9\. Copyright and Other Intellectual Property Rights**
+####  Do you sell my information to other parties? 
 
-9.1 Your use of the Site grants no rights to You in relation to copyright, trade marks or other of Our intellectual property rights or the intellectual property rights of third parties. 
+Not at all! We do not sell or rent out any personal information about you to any third party. 
 
-9.2 You may not, without limitation, copy, reproduce, republish, download, post, broadcast, record, transmit, commercially exploit, communicate to the public, or otherwise use the content included in or provided via the Site except for Your own personal, non-commercial use. Subject to the above, You may download insubstantial excerpts of this content to Your hard disk for the purpose of viewing it provided that no more than one copy of any information is made. 
+####  Do you disclose my information to other parties? 
 
-**10\. Limitation of Liability**
+We may share aggregated information that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
 
-10.1 Whilst We will use all reasonable endeavors to correct any errors or omissions as soon as practicable once they have been brought to Our attention, We do not warrant that the Site will be available uninterrupted and in a fully operating condition nor that the information on and provided via the Site will be free from errors or omissions. 
+In particular, in relation to targeted advertising, we use third-party advertising companies to serve ads when you visit Manjam. These companies may use information about your visits in order to provide advertisements about goods and services of interest to you. 
 
-10.2 Access to this Site and its contents may be suspended temporarily and without notice in the case of system failure, necessary maintenance or repair or for reasons beyond Our control. 
+We also wish to maintain a healthy community, and we will cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We may also disclose your personal information to government or law enforcement agencies, or private parties, as required by law when/or, in our sole discretion, we believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, or legal process served on us. 
 
-10.3 Save that nothing in this paragraph 10 shall restrict Your statutory rights (including Your right to receive a reasonable standard of service), all content and services on this Site are provided on an 'as is' and 'as available' basis. We do not make any representation or give any warranty in respect of the Site or its content, including, without limitation information provided by or regarding other Members. We can not vet all Member profiles and entries to ensure that they are appropriate or correct. Any decision made or action taken by You on the basis of information provided on or via the Site is at Your sole discretion and risk. 
+###  4\. Data storage 
 
-10.4 Due to the fact that many technical aspects of the Site and the content provided herein is supplied by or otherwise dependent on third parties, We do not give any warranty as to the accuracy, suitability, reliability, completeness, performance, satisfactory quality, fitness for a particular purpose, or freedom from viruses, or other harmful programs of the content contained in or accessed through this Site. 
+Manjam is a global website operating through servers located in a number of countries around the world, including but not limited to, the United States, United Kingdom, France and The Netherlands. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information to us, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations. 
 
-10.5 We will not be liable for any damages, including indirect or consequential losses and whether in contract, tort (including negligence) or otherwise, arising in connection with any use by You or other Members of the Site that is in contravention of these Membership Terms and Conditions or is not directly attributable to Our negligence. Where We are liable for direct loss this will be limited to a maximum of the total price of the Member Subscription paid to Us by You in the 6 months prior to the claim. 
+###  5\. Security 
 
-10.6 Nothing in these Terms and Conditions shall exclude or limit Our liability for death or personal injury caused by Our negligence. 
+####  How do you protect my personal information? 
 
-**11\. Security and Privacy**
+We have implemented reasonable and appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal information. We use reasonable security measures to safeguard the confidentiality of your personal information such as secured servers using firewalls and encryption. Our technical experts at work hard to ensure your secure use of our site. 
 
-11.1 Your security and those of all Our Members is very important to Us. Please read Our Privacy Policy for important information regarding the use of Your personal data and Your rights in relation to this. 
+While we take reasonable precautions against possible security breaches, no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your password) and to log out of your account after use. 
 
-**12\. General**
+We cannot guarantee the security of your personal data while it is being transmitted to our site and any transmission is at your own risk. Once we have received your information we have procedures and security features in place to try to prevent unauthorised access. 
 
-12.1 We shall not be liable for any failure for any suspension, or termination of access to the Site or any content arising out of a force majeure event. A force majeure event shall include, without limitation, failure of infrastructure, government intervention, wars, civil commotion, hijacking, fire, flood, accident, storm, strikes, lockouts, terrorist attacks, or industrial action affecting Us or Our suppliers. 
+####  How do I help keep my information secure? 
 
-12.2 If any of these Membership Terms and Conditions are determined to be illegal, invalid or otherwise unenforceable by reason of law then to the extent and within the jurisdiction in which that term is illegal, invalid or unenforceable, it shall be severed and deleted from these terms and the remaining terms shall survive, remain in full force and effect and continue to be binding and enforceable. 
+You may not disclose your password to any third parties or share it with any third parties. If you lose your password or give it out, your personal information may be compromised. If that happens, please report it to use. You must change your password immediately via your account settings. We cannot be held responsible for your failure to keep your password secure and failure to do so may violate our Terms and Conditions of Use. 
 
-12.3 These Membership Terms and Conditions shall be governed by and interpreted in accordance with the laws of England. Disputes arising in connection with these terms shall be subject to the exclusive jurisdiction of the courts of England and Wales. 
+###  6\. Your rights 
 
-**13\. Complaints and Feedback**
+####  How do I control my information? 
 
-13.1 If You have any complaints about another Member or any aspect of the Site or if You have any questions or would otherwise like to provide any other feedback, then You can contact Us directly.
+You can review and revise your profile information at any. You can create, modify and delete your personal information using the account settings when you edit your account. 
 
-  
+We strongly urge you to periodically change your password to help reduce the risk of unauthorised access to your account information. 
 
+####  Can I deactivate or delete my Profile? 
 
-Your Privacy
+You can cancel your account by choosing ‘cancel membership’ from your account settings when you are logged into your account. 
 
-**Privacy Policy  **We at HubJet LLC, ("we" or "HubJet") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on this Website and and double blind email communications between members (collectively, the "Site") but does not apply to any other Website or offline point of contact between HubJet, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on December 30, 2005. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
+If you choose to cancel your account, it will be initially deactivated. This means that your Profile will no longer be available for others to view but your account will not be deleted. We save your Profile information in case you later decide to restore your account or if you cancelled your account by mistake and you later change your mind. Many users cancel their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Manjam. You will therefore be able to restore your account and your Profile in its entirety within 12 months of cancelling it. 
 
-**Your IP Address  **Like most e-commerce Websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.
+After the 12 months expiration period, you will be sent an email informing you that your account will be permanently deleted from Manjam within 14 days. You have up to 14 days to login and restore your account. If you do not login within the 14-day period, your account is permanently deleted from Manjam. 
 
-**Cookies   **Like most Websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site.
+Please note: Even after you remove information from your profile or cancel your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. 
 
-**Information We Collect From You  **In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between you and other members over the Site), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Site; and 2) "public information", which consists of all other demographic information. We ask that you do not enter personal information or financial information into your “Profile” (for example, don’t use your address or postcode as your username, or include your name or address in your written responses), because if you do then it may be posted publicly on the Site, and the information will then be treated as "demographic information" that is "public information." Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 18, as we require that all users represent to us that they are at least 18 years old.
+Removed and deleted information may persist in backups, but will not be available to others. 
 
-**Information Other Websites Collect From You  **On the Site, we place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites’ business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+####  What happens if I do nothing? 
 
-**How We Use Personal Information  **We use your email address and your other personal information to help us efficiently operate the Site, to contact you in connection with your transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect your relationship with HubJet), and to forward messages to you from other users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers.
+If you have not signed in to Manjam for 12 months, we may remove your Profile as part of our data cleansing process. 
 
-We also use personal information to send you newsletters, information, offers and other promotional materials for HubJet’s or third parties’ goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with options to decline to receive communications from HubJet (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Site, you are opting in to receive services by email. To stop receiving services by Mail, go to the "My Email Alerts" section of your account settings and change the desired options.
+###  Effective date 
 
-To operate the Site, including processing your transactions and supporting your activities on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfilment and sweepstakes and promotional fulfilment. We require these entities not to use your information for any other purpose.
-
-By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Site, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us.
-
-In some cases, we may enter into a promotional relationship with another company in which we prominently display their brand name or trademarks on pages of the Site. These pages are known as "Co-Branded Pages" and these companies are known as “Co-Branded Companies.” If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Company. Co-Branded Companies may use your personal information in accordance with their own privacy policies. You will need to contact Co-Branded Companies to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Companies in the same manner in which we are entitled to use and disclose any other information you submit to us. Some Co-Branded Pages may contain an action tag (also known as a Web Beacon or a 1 pixel .gif file) that a third party may use to read cookies that it, or its clients, may have placed on your browser at other Websites before your visit to this Website. This technology is used to measure the effectiveness of advertisements on such other Websites that promote Co-Branded Pages. Other third parties may use the information collected through this technology to learn more about your visits to this Site and other Websites in order to provide advertisements about goods and services of interest to you. We have been informed by a third party that unless you are otherwise notified, they do not use your name, address, e-mail address or telephone number, and do not link your online actions to any information that can be used to identify or contact you. However, as we may not verify that this is the case, we ask that you seek a third parties assurance yourself and do not hold us accountable for the accuracy of the above statement.
-
-Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them.
-
-Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information.
-
-**How We Use Financial Information** We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine are necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support the transaction or activity. By purchasing, or registering or making reservations for, products or services of third parties offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Additionally, if the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your financial information with the associated Co-Branded Company. Any of these various third parties (including Co-Branded Companies) may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your financial information. 
-
-**Special Cases in which we Share Personal and Financial Information  **Your personal information or financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy. We may also disclose personal information or financial information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of members or other visitors to the Site. We also may disclose your personal information or financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with who we are under common corporate control. Whenever personal information or financial information is disclosed under this paragraph, we may also disclose your demographic information along with it, on a non-anonymous basis. All of our parent, subsidiary and affiliated legal entities and businesses that receive your personal information, financial information, or non-anonymous demographic information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such information.
-
-**How We Use Public Information and Other Demographic Information  **We may review all demographic information. We may use public information to enable other users to find your profile and to communicate with you. We may use demographic information to tailor the Site and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers’ goods and services will appeal to members, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our Terms of Use.
-
-**Our Security Precautions  **The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.
-
-**Changing our Privacy Policy for Previously Gathered Information  **If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.
-
-**How You Can Access and Update Your Email Preferences, Personal Information and Public Information  **We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the Account Settings or My Profile section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from HubJet, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from HubJet. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.
+The Policy was updated 1 January 2014. 
