@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the usacitytoday.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715190332id_/http%3A//www.usacitytoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacitytoday.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210013236id_/http%3A//www.usacitytoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Usa City Today: Latest World and US News – usacitytoday.com
 
 RIGHT NOW
 
-  * [McDonald’s ending relationship with Heinz](http://www.usacitytoday.com/mcdonalds-ending-relationship-with-heinz/)
   * [Time to get serious about Medicare reform: Your Say](http://www.usacitytoday.com/time-to-get-serious-about-medicare-reform-your-say/)
-  * [HHS issues formal insurance deadline clarification](http://www.usacitytoday.com/hhs-issues-formal-insurance-deadline-clarification/)
-  * [Corporate profit powers ahead again in Q3](http://www.usacitytoday.com/corporate-profit-powers-ahead-again-in-q3/)
-  * [Independent films are finding their audiences on VOD](http://www.usacitytoday.com/independent-films-are-finding-their-audiences-on-vod-2/)
+  * [Obama family attends church service](http://www.usacitytoday.com/obama-family-attends-church-service/)
+  * [Terrelle Pryor did something Bo Jackson and Michael Vick never did](http://www.usacitytoday.com/terrelle-pryor-did-something-bo-jackson-and-michael-vick-never-did/)
+  * [‘Jack Ryan’ moves release date to January 2014](http://www.usacitytoday.com/jack-ryan-moves-release-date-to-january-2014/)
+  * [Idle Millennials need help on jobs: Column](http://www.usacitytoday.com/idle-millennials-need-help-on-jobs-column/)
 
 
 
