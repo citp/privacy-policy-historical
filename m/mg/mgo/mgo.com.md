@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgo.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013126id_/http%3A//www.mgo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgo.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210134458id_/http%3A//www.mgo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | M-GO
 
