@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailserverdotcom.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213030107id_/http%3A//mailserverdotcom.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailserverdotcom.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210014615id_/http%3A//mailserverdotcom.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy For MailServerDotCom.com
 
