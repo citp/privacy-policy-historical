@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famous-comics.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811220202id_/http%3A//www.famous-comics.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famous-comics.com privacy policy that was archived on 2016-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160211225254id_/http%3A//www.famous-comics.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
