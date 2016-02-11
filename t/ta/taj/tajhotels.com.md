@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tajhotels.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217173732id_/http%3A//www.tajhotels.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tajhotels.com privacy policy that was archived on 2016-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160211144931id_/http%3A//www.tajhotels.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
