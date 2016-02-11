@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonoraquest.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141525id_/http%3A//www.sonoraquest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonoraquest.com privacy policy that was archived on 2016-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160211024633id_/http%3A//www.sonoraquest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy < Sonora Quest Laboratories
 
