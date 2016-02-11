@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getitbazaar.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224232232id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitbazaar.com privacy policy that was archived on 2016-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160211150530id_/http%3A//www.askmebazaar.com/privacy_policy.php%3FdefSearch%3D1) for the most accurate reproduction.*
 
 # Online Shopping India:Shop Clothing,Bags,Shoes,Watches Online in India
 
@@ -38,7 +38,7 @@ Your personal information may be used by us to:
 
 (iii)             process and deal with any complaints or enquiries made by or about you; and
 
-(iv)             investigate any suspected breach of the [Terms and Conditions ](https://web.archive.org/web/20151224232232id_/http%3A//www.askmebazaar.com/termsconditions.php) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.
+(iv)             investigate any suspected breach of the [Terms and Conditions ](https://web.archive.org/web/20160211150530id_/http%3A//www.askmebazaar.com/termsconditions.php) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.
 
 Where and only where requested/agreed by you, we will:
 
