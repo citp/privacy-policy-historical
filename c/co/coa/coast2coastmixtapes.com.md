@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coast2coastmixtapes.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812053159id_/http%3A//coast2coastmixtapes.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coast2coastmixtapes.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212034646id_/http%3A//coast2coastmixtapes.com/privacy.aspx) for the most accurate reproduction.*
 
 # Coast 2 Coast Mixtapes | Magazine | DJ Coalition | Radio | Videos | Music Promotion | Audio | Artists | DJs
 
