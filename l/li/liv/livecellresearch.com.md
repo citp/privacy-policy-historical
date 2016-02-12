@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907165618id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212104211id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
 
 # Live Cell Research | Privacy Policy
 
@@ -37,7 +37,7 @@ We use the information we collect about you for the following, including:
   * Responding to your questions;
   * Providing you access to certain areas and features of this Website
   * Communicating with you about your purchase and activities on this Website
-  * Adapting content, advertisements, and offers we provide you;
+  * Adapting content, advertisements, and offers we provide you directly or through third-party partners.
   * Improving the Website and Customer Experience
   * Sending Notice or Information
 
