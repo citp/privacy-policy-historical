@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crow.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812035644id_/http%3A//crow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crow.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212024233id_/http%3A//www.crow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ Changes to our privacy policy will be prominently displayed on this page.
 
 Opting Out
 
-Visitors and customers who opt out of services will no longer receive communications, services or products from us. We destroy all personally identifiable information from people who choose to opt out from our services. To opt out, please send us an email with "OPT OUT" in the subject line to optout@chopstick.com.
+Visitors and customers who opt out of services will no longer receive communications, services or products from us. We destroy all personally identifiable information from people who choose to opt out from our services. To opt out, please send us an email with "OPT OUT" in the subject line to optout@crow.com.
