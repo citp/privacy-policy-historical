@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychicwhois.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230045344id_/https%3A//www.domaintools.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychicwhois.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212223454id_/https%3A//www.domaintools.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | DomainTools
 
