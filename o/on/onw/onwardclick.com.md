@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onwardclick.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220135924id_/http%3A//onwardclick.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onwardclick.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212164541id_/http%3A//onwardclick.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CPL (Leads), CPA (Actions), CPC (Clicks) and CPV (Views) Exchange - Onwardclick->>
 
