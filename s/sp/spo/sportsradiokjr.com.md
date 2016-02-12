@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportsradiokjr.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911162350id_/http%3A//www.sportsradiokjr.com/cc-common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsradiokjr.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212021222id_/http%3A//www.sportsradiokjr.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | Seattle's Sports Radio 950 KJR
 
-[Versión en Español](https://web.archive.org/web/20150926053347id_/http://www.sportsradiokjr.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](https://web.archive.org/web/20160212021222id_/http://www.sportsradiokjr.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
