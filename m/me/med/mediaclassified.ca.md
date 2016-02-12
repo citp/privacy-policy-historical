@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaclassified.ca privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103154658id_/http%3A//www.mediaclassified.ca%3FContentID%3D8b1b0fb7-2519-4ddf-aaaa-b1a8de9c5a1b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaclassified.ca privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212205356id_/http%3A//www.mediaclassified.ca%3FContentID%3D8b1b0fb7-2519-4ddf-aaaa-b1a8de9c5a1b) for the most accurate reproduction.*
 
 # Media Classified | Free Publications – Print – Web | Distribution Solutions
 
