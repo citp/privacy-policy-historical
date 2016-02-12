@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtyteencelebrities.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812115811id_/http%3A//dirtyteencelebrities.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyteencelebrities.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212161851id_/http%3A//www.dirtyteencelebrities.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
