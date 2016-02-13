@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the opinionresearchpanel.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030104102id_/http%3A//www.opinionresearchpanel.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionresearchpanel.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213170928id_/http%3A//www.opinionresearchpanel.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # OpinionResearchPanel
 
 **Effective Date: May 1, 2011**
 
-Thank you for visiting the OpinionResearchPanel website located at www.opinionresearchpanel.com (the "Site"). The Site is an Internet property of RewardIncentiveNetwork, LLC, a State of Delaware limited liability company ("OpinionResearchPanel," "we" or "us"). This OpinionResearchPanel Website Privacy Policy ("Privacy Policy") covers what information we collect from you and how we use that information.
+Thank you for visiting the opinionresearchpanel.com website located at www.opinionresearchpanel.com (the "Site"). The Site is an Internet property of Reward Incentive Network LLC, a State of Delaware limited liability company ("opinionresearchpanel.com," "we" or "us"). This opinionresearchpanel.com Website Privacy Policy ("Privacy Policy") covers what information we collect from you and how we use that information.
 
-OpinionResearchPanel honors the privacy of its clients, members and visitors ("You", "Your") and created this privacy statement in order to demonstrate our firm commitment to privacy. We comply with all applicable federal and state laws concerning data privacy, as well as best practices and procedures and guidelines established by industry groups. We believe concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all clients, members and visitors of this web site.
+opinionresearchpanel.com honors the privacy of its clients, members and visitors ("You", "Your") and created this privacy statement in order to demonstrate our firm commitment to privacy. We comply with all applicable federal and state laws concerning data privacy, as well as best practices and procedures and guidelines established by industry groups. We believe concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all clients, members and visitors of this web site.
 
 By using and accessing the Site, you acknowledge you have read, understood and agree to be bound to all the terms and practices described in this Privacy Policy. If you do not agree to these terms, exit this page and do not use or access the Site.
 
@@ -16,7 +16,7 @@ Generally, two (2) types of information are gathered. The first type of informat
 
 In addition to the Personal Information You provide to Us, We will also collect certain information online and offline arising out of Your participation in the Program and use of the property including, but not limited to, the number and type of offers You have responded to and completed.
 
-Any member who discloses Personal Information on Our property is entitled to either: (1) a list detailing the categories of Personal Information shared and the third parties to which such information was provided by such property; or (2) a mechanism by which You may opt-out of having Your Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by sending Your request, including Your full name, email address and postal address to: OpinionResearchPanel, 1150 Wilmette Ave, WILMETTE, IL 60091. Please be advised that where You opt-out from permitting Your Personal Information to be shared with third-parties, You may still receive selected offers directly from Us, in accordance with the law.
+Any member who discloses Personal Information on Our property is entitled to either: (1) a list detailing the categories of Personal Information shared and the third parties to which such information was provided by such property; or (2) a mechanism by which You may opt-out of having Your Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by sending Your request, including Your full name, email address and postal address to: opinionresearchpanel.com, 1241 Central Street , Wilmette, IL 60091. Please be advised that where You opt-out from permitting Your Personal Information to be shared with third-parties, You may still receive selected offers directly from Us, in accordance with the law.
 
 **HOW DO WE USE THE INFORMATION COLLECTED?**
 
@@ -78,4 +78,4 @@ Consumers under the age of eighteen (18) are not permitted to submit any Persona
 
 **HOW TO CONTACT US**
 
-If You have any questions about the practices of OpinionResearchPanel, You can contact Us by visiting the Contact Us section of one of Our properties, or via postal mail at OpinionResearchPanel, 1150 Wilmette Ave, WILMETTE, IL 60091.
+If You have any questions about the practices of opinionresearchpanel.com, You can contact Us by visiting the Contact Us section of one of Our properties, or via postal mail at opinionresearchpanel.com, 1241 Central Street , Wilmette, IL 60091.
