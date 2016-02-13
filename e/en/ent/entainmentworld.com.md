@@ -1,115 +1,62 @@
-> *The following text is extracted and transformed from the entainmentworld.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208195936id_/http%3A//entainmentworld.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entainmentworld.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213194608id_/http%3A//entainmentworld.com/pages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY FOR: Entainmentworld
+Privacy Policy  
 
-This privacy statement is created in order to demonstrate our continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site.This privacy policy sets out how “Entainmentworld” uses and protects any information that you give “Entainmentworld” when you use this website.
 
-“Entainmentworld” is committed to ensuring that your privacy is protected and holds your privacy to the highest regard. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
-“Entainmentworld” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 20, 2009.
+We gather user information to provide you with a customized experience on our site. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you post comments, enter a contest, order products, subscribe to a newsletter and/or visit certain areas of our site. If you choose not to register you may not have access to areas that require personal identification. 
 
-We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site.
+If you register with our site or purchase products from us, from time to time we may e-mail you with messages about our services or third party products and services we believe may be of interest to you, such as new products, features, services, special offers and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the e-mail was opened and/or what links (if any) were clicked. We will combine that information with other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. In addition, if you register with our site or purchase products you may automatically receive e-mails confirming your registration and/or purchase and providing you with necessary information relating to the access or use of your registration and/or purchase. With the exception of the e-mails described in the preceding sentence which are necessary to provide customer support and deliver products and services to you, you may opt-out of receiving e-mail from us as described below. 
 
-What Information We Collect?
+When you register, we ask for your e-mail address, a unique nickname selected by you and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information. 
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+For contests, we collect information from users in order to register them for the contest and to provide for payment. We may use an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order (including e-mail) may be used to deliver digital products and information. We may use third parties to accept and process orders and credit card purchases for merchandise and products, including software. 
 
-1\. Personal Information You Choose to Provide
+We may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms. 
 
-Registration Information
+All communication on the Internet takes place between pairs of IP Addresses. Our Web servers will log the IP address that any connection is made from. We may use these IP addresses to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. 
 
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A "cookie" is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. We use cookies to save your password (in an encrypted format) on your machine so you don't have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads and purchases from our site. 
 
-Credit Card Information
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). We use companies [Google ([www.google.com](http://www.google.com/)), Tribal Fusion ([www.tribalfusion.com](http://www.tribalfusion.com/)), ValueClickMedia ([www.valueclickmedia.com](http://www.fastclick.com/)), CPMSTAR ([www.cpmstar.com](http://www.realmedia.com/)), Intergi ([www.intergi.com](http://www.rightmedia.com/))] to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information. 
 
-If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:
+Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. Our site may also link to Websites that feature our trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Website, as the co-branded Website may not be under our control. 
 
--Name
+Applications you use or download from our site may contain third party digital rights management systems ('DRMS') which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that we shall not be responsible for any loss or damage of any sort relating to the use of the DRMS or your dealings with such third parties. The applications may also contain DRMS produced by us which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications. 
 
--Mailing address
+For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address. 
 
--Email address
+We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this privacy policy. As stated, and whether or not you have opted-in, we may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on our behalf. In addition, if you opt-out, we may share that information with third parties who send e-mails on our behalf so that they do not e-mail you. 
 
--Credit card number
+However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone�s safety. 
 
--Name on credit card
+We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
 
--Credit card billing address
+In the event that we acquired by another company, your personal information may be part of the assets transferred to the acquiring party. 
 
--Business and home phone number
+If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or "Opt-Out") either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on each newsletter. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails, and we may share this information with third parties who send e-mails on our behalf so that they do not e-mail you; this information may also be contained in web logs (see above). 
 
-Email Information
+Our site is not directed to children under the age of 13. We assume products purchased through credit card means are purchased by adults. We respect the privacy of parents and children and are committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the sites that ask for age, we do not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where we believe that such collection is permitted under COPPA. 
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+If a parent believes that his or her child has submitted personal information to we, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database (see above regarding web logs, and below regarding archived information). 
 
-2\. Web Site Use Information
+We believe that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission. 
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+We have security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. 
 
-How Do We Use the Information That You Provide to Us?
+We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users. 
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+If a user elects to use our site for informing a friend about our site or particular features or content, we ask them for the friend's name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit our site. We store this information for the sole purpose of sending this one-time e-mail. 
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with us in order to prevent others from accessing your personal information. 
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
+We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database (see above regarding web logs). We maintain archives for disaster recovery, legal and other non-marketing purposes. 
 
-What Are Cookies?
+You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from us, sign in and then select "update your profile" to change your newsletter preferences. 
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+Please address comments or questions regarding this Privacy Policy to us by e-mail at [webmaster [at] arcadelots.com](mailto:support@). 
 
-How Do We Use Information We Collect from Cookies?
-
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
-
-IP Addresses
-
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
-
-Sharing and Selling Information
-
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
-
-How Can You Access and Correct Your Information?
-
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
-
-What About Legally Compelled Disclosure of Information?
-
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
-
-What About Other Web Sites Linked to Our Web Site?
-
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
-
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
-
-Your Consent
-
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
-
-Choice/Opt-In/Opt-Out
-
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
-
-Surveys &amp; Contests
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-Persons under 18
-
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
-
-Acquisition or Changes in Ownership
-
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
-
-Policy Revisions
-
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-QUESTIONS
-
-You may direct enquiries to:   [admin@Entainmentworld.com](mailto:admin@Entainmentworld.com)
+Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 07/27/2011 
