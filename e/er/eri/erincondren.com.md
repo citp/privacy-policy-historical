@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erincondren.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213154045id_/https%3A//www.erincondren.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erincondren.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213105142id_/https%3A//www.erincondren.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Effective Date: 5/5/15
+Effective Date: 05/05/15
 
 EC Design LLC (“ **EC** ,” “ **we** ,” “ **us** ,” or “ **our** ”) is committed to protecting your privacy. This Privacy Policy (“ **Policy** ”) describes how we collect, use, store, process, and share your information in relation to [www.erincondren.com](http://www.erincondren.com/) (the “ **Site** ”). By visiting, browsing, or using the Site or any part of the Site, you expressly consent to the collection, use, storage, processing, and disclosure of your information, including personal information, as described in this Policy. IF YOU DO NOT AGREE WITH THIS POLICY, DO NOT VISIT OR USE THE SITE, REGISTER FOR AN ACCOUNT ON THE SITE, OR CLICK TO INDICATE THAT YOU AGREE TO THIS POLICY. This Policy is part of and incorporated into the Site [Terms & Conditions](https://www.erincondren.com/terms-and-conditions) (“ **Terms** ”), governing your use of the Site. Parts of the Terms affect this Policy, so be sure to review the Terms prior to using the Site. Capitalized terms not defined herein have the definitions set forth in the Terms.
 
