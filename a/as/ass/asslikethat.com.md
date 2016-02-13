@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asslikethat.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617010125id_/http%3A//asslikethat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asslikethat.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213123319id_/http%3A//www.asslikethat.com/privacy.php) for the most accurate reproduction.*
 
 # AssLikeThat : Privacy Policy
 
