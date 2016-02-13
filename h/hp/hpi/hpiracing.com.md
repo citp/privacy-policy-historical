@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpiracing.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141126id_/http%3A//www.hpiracing.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpiracing.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213133727id_/http%3A//www.hpiracing.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HPI Racing
 
@@ -35,3 +35,9 @@ HPI Racing reserves the right to change this privacy policy as required. If we m
 ## Conditions of Use
 
 If you decide to visit the HPI Racing website, your visit and any possible dispute over privacy is subject to this Privacy Policy, including limitations on damages, arbitration of disputes, and application of UK law.
+
+The affairs, business and property of Hobby Products International Europe Limited are being managed by Eddie Williams and Nick Wood, appointed as Joint Administrators on 14 January 2016.
+
+The Joint Administrators act as agent of the company without personal liability.
+
+Eddie Williams is authorised by the ICAEW to act as an insolvency practitioner and Nick Wood is authorised by the IPA to act as an insolvency practitioner.
