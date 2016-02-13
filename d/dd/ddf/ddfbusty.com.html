@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ddfbusty.com privacy policy that was archived on 2015-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211162648id_/http%3A//ddfbusty.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ddfbusty.com privacy policy that was archived on 2016-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160213074747id_/http%3A//ddfbusty.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -14,7 +14,7 @@
 <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
 <link rel="alternate" type="application/rss+xml" title="ddfbusty.com RSS feed" href="http://ddfbusty.com/rss.php">
 
-<link rel="stylesheet" href="http://ddfbusty.com/css/main-1449847062.css" type="text/css">
+<link rel="stylesheet" href="http://ddfbusty.com/css/main-1453899694.css" type="text/css">
 <link rel="stylesheet" href="http://ddfbusty.com/css/warning.css" type="text/css">
 <link rel="stylesheet" href="http://ddfbusty.com/css/fancybox.css" type="text/css">
 <link rel="stylesheet" href="http://ddfbusty.com/css/nivo-default-theme.css" type="text/css" media="screen">
@@ -24,7 +24,7 @@
 <link href="https://fonts.googleapis.com/css?family=Lato:400,100,900,700,300" rel="stylesheet" type="text/css">
 <link href="/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="http://ddfbusty.com/css/site.css?1449847062" type="text/css">
+<link rel="stylesheet" href="http://ddfbusty.com/css/site.css?1453899694" type="text/css">
 <link rel="stylesheet" href="http://ddfbusty.com/css/ddf.css" type="text/css">
 <link rel="stylesheet" href="http://ddfbusty.com/css/jquery.lightbox-0.5.css" type="text/css">
 <link rel="stylesheet" href="/css/jquery.fancybox2.css" type="text/css">
@@ -74,7 +74,9 @@ ga('send', 'pageview');
 <div class="free_word_result_container" id="free_word_results"></div>
 </form>
 </li>
-</ul></div> <!-- #navigation -->
+</ul>	<a href="#" id="promo_floater" class="floater top-right" onclick="javascript: show_popup();">
+	<img src="http://resources.hwnds.ddfstatic.com/images/common/floaters/253/floater_253.png" width="" height="" alt=""></a>
+</div> <!-- #navigation -->
 </div>
 </div>
 <div id="wrapper" class="index pngfix">
@@ -86,6 +88,92 @@ ga('send', 'pageview');
 Join Now</a>
 </p>
 </div> <!-- #tagline -->
+
+<div class="ppup-modal">
+<div class="ppup-content fixed_modal">
+<a href="javascript:close_popup();" data-ga_category="Tour / Popup" data-ga_action="Close" data-ga_label="Valentines 2016" class="promo_close ga_track_event" title="Close window" rel="nofollow">[CLOSE]</a>
+<a href="http://join.ddfnetwork.com/track/MTAwMDAwMTgwNi4zNi4yMy4yMDguMC4wLjAuMC4w" target="" title="Valentines 2016" data-ga_category="Tour / Popup" data-ga_action="Accept" data-ga_label="Valentines 2016" class="ga_track_event" onclick="javascript:close_popup();">
+<img src="http://resources.hwnds.ddfstatic.com/images/events/253//modal_253.jpg" width="" height="" border="0" alt="Valentines 2016">
+</a>
+</div>
+</div>
+<script type="text/javascript">
+var animateType = 1;
+var floaterPosition = "top-right";
+function close_popup()
+{
+if (animateType == 1) {
+var widthpx = 0;
+var margintoppx = 250;
+if (floaterPosition == "top-right" || floaterPosition == "middle-right") {
+var leftpx = 600;
+}
+if (floaterPosition == "top-left" || floaterPosition == "middle-left") {
+var leftpx = -600;
+}
+}
+if (animateType == 2) {
+var widthpx = 1024;
+var leftpx = 0;
+var margintoppx = 0;
+}
+jQuery(".ppup-content").animate(
+{
+height: 0
+,width: widthpx
+,marginTop: margintoppx
+,left: leftpx
+,opacity: 0
+},400,
+function()
+{
+jQuery(".ppup-modal").fadeOut(0);
+jQuery(".ppup-content").css("display","none");
+jQuery(".ppup-content").css("overflow","hidden");
+jQuery("body").css("overflow","auto");
+jQuery("#status-bar").show();
+jQuery(".ppup-modal").off("mousewheel", false);
+});
+}
+var delayTime = 5 * 1000;
+function show_popup()
+{
+var wh = jQuery(window).height();
+var ww = jQuery(window).width();
+jQuery("body").css("overflow","hidden");
+jQuery(".ppup-modal").on("mousewheel", function(e){
+e.preventDefault();
+});
+jQuery("#status-bar").hide();
+jQuery(".ppup-modal").width(ww);
+jQuery(".ppup-modal").height(wh+150);
+jQuery(".ppup-modal").css("display","block");
+//jQuery(".ppup-modal").click(close_popup);
+//jQuery(".ppup-modal").fadeIn();
+jQuery(".ppup-content").height(0);
+jQuery(".ppup-content").css("display","block");
+jQuery(".ppup-content").css("opacity","0");
+//jQuery(".ppup-content").fadeIn();
+if (animateType == 1) {
+jQuery(".ppup-content").css("margin-top","250px");
+jQuery(".ppup-content").width(0);
+if (floaterPosition == "top-right" || floaterPosition == "middle-right") {
+jQuery(".ppup-content").css("left","600px");
+}
+if (floaterPosition == "top-left" || floaterPosition == "middle-left") {
+jQuery(".ppup-content").css("left","-600px");
+}
+jQuery(".ppup-content").animate({height: 600, width: 1024, left: 0, marginTop: 0, opacity: 1},400);
+}
+if (animateType == 2) {
+jQuery(".ppup-content").animate({height: 600, opacity: 1},400);
+}
+//jQuery(".ppup-content").animate({height: wh+150, opacity: 1},400);
+}
+
+setTimeout(show_popup, delayTime);
+
+</script>
 <!-- #header -->
 <div id="content" class="tour">
 <div class="tosholder">
@@ -193,7 +281,7 @@ We communicate with users on a regular basis to provide requested services and i
 
 			<section class="jasminblock">
 				<a href="http://ddfbustylive.com/" rel="nofollow" data-ga_category="Tour / Footer" data-ga_action="visit livesex" class="ga_track_event">
-					<img src="http://resources.hwnds.ddfstatic.com/images/banners/live/ddf_banner_09.jpg" alt=""></a>
+					<img src="http://resources.hwnds.ddfstatic.com/images/banners/live/ddf_banner_08.jpg" alt=""></a>
 			</section>
 
 						<section class="linkblock">
@@ -205,7 +293,7 @@ We communicate with users on a regular basis to provide requested services and i
 							WebMasters</a></li>
 											<li><a href="http://beaddfmodel.com/?utm_source=busty&amp;utm_medium=site_footer" title="Models Wanted" class="ga_track_event" data-ga_category="Tour / Footer" data-ga_action="models wanted">
 							Models Wanted</a></li>
-											<li><a href="http://ddfsupport.com/cancel.php" rel="nofollow" title="Cancel Membership" class="ga_track_event" data-ga_category="Tour / Footer" data-ga_action="cancel membership">
+											<li><a href="http://ddf.happyfox.com/kb/article/6-how-do-i-cancel-my-membership" rel="nofollow" title="Cancel Membership" class="ga_track_event" data-ga_category="Tour / Footer" data-ga_action="cancel membership">
 							Cancel Membership</a></li>
 									</ul>
 			</section>
@@ -391,7 +479,7 @@ All models are 18 and older.<br></p>
 		<h1 class="uppercase">The Hottest Euro Pornstars</h1>
 		<hr>
 
-				<p>About 1630 scenes featuring more than 288 of<br> the most beautiful women from Europe and Beyond.</p>
+				<p>About 1657 scenes featuring more than 325 of<br> the most beautiful women from Europe and Beyond.</p>
 		
 				<p>Unlock it all with Full Access Membership!</p>
 			</div>
