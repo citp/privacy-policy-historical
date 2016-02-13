@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastsideboxing.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008110348id_/https%3A//www.boxing247.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastsideboxing.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213170145id_/https%3A//www.boxing247.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Boxing247.com
 
