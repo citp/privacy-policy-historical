@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayviral.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103212758id_/http%3A//everydayviral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayviral.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213211458id_/http%3A//everydayviral.com/privacy) for the most accurate reproduction.*
 
 # everydayviral
 
