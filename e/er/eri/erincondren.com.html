@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the erincondren.com privacy policy that was archived on 2015-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213154045id_/https%3A//www.erincondren.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erincondren.com privacy policy that was archived on 2016-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160213105142id_/https%3A//www.erincondren.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <!-- Meta tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEFWV5XGwYCUFJaDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
     <meta name="viewport" content="width=device-width, maximum-scale=1.0">
-    <meta name="csrf-token" content="RnmkxIEIKJBZeHSr53tu2YTAVbm4o0Zi3LPgQ1jR">
+    <meta name="csrf-token" content="iZzQNhIsUwOGXCJRVQa4JFIUhV3UdQeRvYVXgTc1">
+    <link rel="icon" href="http://www.erincondren.com/icons/favicon.ico" type="image/gif">
         <title>Privacy Policy</title>
     <meta name="keywords" content="">
     <meta name="description" content=""><meta property="og:description" content="">
-    <link href="//www.erincondren.com/desktop/css/8b1bbecf0add59aa6ec332fcb3987cd827499849376.css" rel="stylesheet">
+    <link href="//www.erincondren.com/desktop/css/a19a1a128cf0d36c72314cb29bb818ff36322031153.css" rel="stylesheet">
    <!-- favorite CSS file -->
 
     <!-- Common Libraries -->
@@ -41,7 +42,7 @@
             <div class="col-right">
                 <div class="row-content clearfix">
                     <div class="subscribe-pink-menu">
-                        <form method="POST" action="http://www.erincondren.com/subscription" accept-charset="UTF-8" id="newsletter_subscribe" name="newsletter_subscribe" class="subs validate-subscribe"><input name="_token" type="hidden" value="RnmkxIEIKJBZeHSr53tu2YTAVbm4o0Zi3LPgQ1jR">
+                        <form method="POST" action="http://www.erincondren.com/subscription" accept-charset="UTF-8" id="newsletter_subscribe" name="newsletter_subscribe" class="subs validate-subscribe"><input name="_token" type="hidden" value="iZzQNhIsUwOGXCJRVQa4JFIUhV3UdQeRvYVXgTc1">
 <input id="subscriber_email" placeholder="add email for savings &amp; tips" class="input-name-field email_address last-field subscribe" name="email" type="text">
 <input name="subscribe" class="subscribe-submit" id="subscribe" type="submit" value="subscribe">
 </form>
@@ -61,13 +62,13 @@
 <div class="checkout-signin">
     <div class="checkout__order-signin">
         <div class="sign-in-window">
-            <form method="POST" action="https://www.erincondren.com/login" accept-charset="UTF-8" id="login" autocomplete="off" class="validate_form"><input name="_token" type="hidden" value="RnmkxIEIKJBZeHSr53tu2YTAVbm4o0Zi3LPgQ1jR">
+            <form method="POST" action="https://www.erincondren.com/login" accept-charset="UTF-8" id="login" autocomplete="off" class="validate_form"><input name="_token" type="hidden" value="iZzQNhIsUwOGXCJRVQa4JFIUhV3UdQeRvYVXgTc1">
             <fieldset>
                 <input class="required email_address" placeholder="email address" maxlength="70" required="required" name="email_address" type="text" value="">
             </fieldset>
             <fieldset>
-                <input class="default-input hidden" name="" type="text" value="">
-                <input class="pass-with-reminder required" placeholder="password" maxlength="70" required="required" name="password" type="password" value="">
+                <input autocomplete="off" name="" type="hidden" value="">
+                <input class="pass-with-reminder required" placeholder="password" maxlength="70" required="required" autocomplete="off" name="password" type="password" value="">
             </fieldset>
             <input class="hidden" type="submit" value="save">
             <a href="http://www.erincondren.com/forgot-password" class="reminder">need a reminder?</a>
@@ -184,31 +185,29 @@
                 </ul>
             </li>
             <li>
-                <a title="address books" href="/address-books">address books</a>
-                <ul class="sub-nav">
-                    <li>
-                        <a title="Good to Go™" href="/good-to-go-address-books" class="list">Good to Go™</a>
-                    </li>
-                    <li>
-                        <a href="/personalized-classics-address-books" title="personalized classics">personalized classics</a>
-                    </li>
-                </ul>
-            </li>
-
-            <li>
                 <a title="teacher lesson planners" href="/teacher-lesson-planners">teacher lesson planners</a>
                 <ul class="sub-nav">
                     <li>
-                        <a title="Good to Go™" href="/good-to-go-teacher-lesson-planners" class="list">Good to Go™</a>
+                        <a title="Good to Go™" href="/good-to-go-teachers-lesson-planner" class="list">Good to Go™</a>
                     </li>
                     <li>
                         <a href="/personalized-classics-teacher-lesson-planners" title="personalized classics">personalized classics</a>
                     </li>
                 </ul>
             </li>
-
             <li>
-                <a title="notebook dividers" href="/dividers">notebook dividers</a>
+                <a title="notebooks &amp; journals" href="/notebooks-journals">notebooks &amp; journals</a>
+                <ul class="sub-nav">
+                    <li>
+                        <a title="Good to Go™" href="/good-to-go-notebooks-journals" class="list">Good to Go™</a>
+                    </li>
+                    <li>
+                        <a title="personalized classics" href="/personalized-classics-notebooks" class="list">personalized classics</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a title="dividers" href="/dividers">dividers</a>
                 <ul class="sub-nav">
                     <li>
                         <a title="Good to Go™" href="/good-to-go-dividers" class="list">Good to Go™</a>
@@ -224,22 +223,10 @@
     <div class="nested-column">
         <ul class="nav">
             <li>
-                <a title="note books" href="/note-books">notebooks</a>
-                <ul class="sub-nav">
-                    <li>
-                        <a title="Good to Go™" href="/good-to-go-notebooks" class="list">Good to Go™</a>
-                    </li>
-                    <li>
-                        <a title="personalized classics" href="/personalized-classics-notebooks" class="list">personalized classics</a>
-                    </li>
-                </ul>
-            </li>
-
-            <li>
                 <a title="wedding planners" href="/wedding-planners">wedding planners</a>
                 <ul class="sub-nav">
                     <li>
-                        <a title="Good to Go™" href="/good-to-go-wedding-planners" class="list">Good to Go™</a>
+                        <a title="Good to Go™" href="/good-to-go-wedding-planner" class="list">Good to Go™</a>
                     </li>
                     <li>
                         <a title="personalized classics" href="/personalized-classics-wedding-planners" class="list">personalized
@@ -251,8 +238,17 @@
                     </li>
                 </ul>
             </li>
-
-
+            <li>
+                <a title="address books" href="/address-books">address books</a>
+                <ul class="sub-nav">
+                    <li>
+                        <a title="Good to Go™" href="/good-to-go-address-book" class="list">Good to Go™</a>
+                    </li>
+                    <li>
+                        <a href="/personalized-classics-address-books" title="personalized classics">personalized classics</a>
+                    </li>
+                </ul>
+            </li>
             <li>
                 <a title="interchangeable covers" href="/all-interchangeable-covers">interchangeable covers</a>
                 <ul class="sub-nav">
@@ -314,11 +310,7 @@
                         <a href="/functional-family" title="FUNctional family">FUNctional family</a>
                     </li>
                     <li>
-                        <a href="/ff-practice-pads" title="practice pads">practice
-                            pads</a>
-                    </li>
-                    <li>
-                        <a href="/coloring-sketch-pad" title="coloring sketch pad">coloring
+                        <a href="/coloring-book-sketch-pad" title="coloring sketch pad">coloring
                             sketch pad</a>
                     </li>
                     <li>
@@ -363,19 +355,13 @@
                 <a title="calendars" href="/calendars">calendars</a>
                 <ul class="sub-nav">
                     <li>
-                        <a title="on the go" href="/on-the-go-calendars" class="list">on the go</a>
+                        <a title="on the go calendars" href="/on-the-go-calendars" class="list">on the go calendars</a>
                     </li>
                     <li>
-                        <a title="table top" href="/table-top-calendars" class="list">table top</a>
-                    </li>
-                    <li>
-                        <a title="poster" href="/poster-calendars" class="list">poster</a>
+                        <a title="desk calendars" href="/desk-calendars" class="list">desk calendars</a>
                     </li>
                      <li>
-                        <a title="desk pad" href="/desk-pad-calendars" class="list">desk pad</a>
-                    </li>
-                     <li>
-                        <a title="jumbo" href="/jumbo-calendars" class="list">jumbo</a>
+                        <a title="wall calendars" href="/wall-calendars" class="list">wall calendars</a>
                     </li>
                 </ul>
             </li>
@@ -419,7 +405,7 @@
                 <a title="address books" href="/address-books">address books</a>
                 <ul class="sub-nav">
                     <li>
-                        <a href="/good-to-go-address-books" title="Good to Go™">Good to Go™</a>
+                        <a href="/good-to-go-address-book" title="Good to Go™">Good to Go™</a>
                     </li>
                     <li>
                         <a href="/personalized-classics-address-books" title="personalized classics">personalized
@@ -432,7 +418,7 @@
                 <a title="teacher lesson planner" href="/teacher-lesson-planners">teacher lesson planner</a>
                 <ul class="sub-nav">
                     <li>
-                        <a title="Good to Go™" href="/good-to-go-teacher-lesson-planners" class="list">Good to Go™</a>
+                        <a title="Good to Go™" href="/good-to-go-teachers-lesson-planner" class="list">Good to Go™</a>
                     </li>
                     <li>
                         <a href="/personalized-classics-teacher-lesson-planners" title="personalized classics">personalized classics</a>
@@ -464,10 +450,10 @@
 
 
             <li>
-                <a title="notebooks" href="/note-books">notebooks</a>
+                <a title="notebooks &amp; journals" href="/notebooks-journals">notebooks &amp; journals</a>
                 <ul class="sub-nav">
                     <li>
-                        <a title="Good to Go™" href="/good-to-go-notebooks" class="list">Good to Go™</a>
+                        <a title="Good to Go™" href="/good-to-go-notebooks-journals" class="list">Good to Go™</a>
                     </li>
                     <li>
                         <a title="personalized classics" href="/personalized-classics-notebooks" class="list">personalized classics</a>
@@ -486,9 +472,6 @@
                     </li>
                     <li>
                         <a title="FUNctional family" href="/functional-family" class="list">FUNctional family</a>
-                    </li>
-                    <li>
-                        <a title="practice pads" href="/ff-practice-pads" class="list">practice pads</a>
                     </li>
                     <li>
                         <a title="coloring sketch pad" href="/coloring-sketch-pad" class="list">coloring sketch pad</a>
@@ -541,7 +524,7 @@
     <div class="nested-column">
         <ul class="nav">
             <li>
-                <a title="phones &amp; tech" href="/phones-tech">phones &amp; tech</a>
+                <a title="phones cases" href="/phone-cases">phone cases</a>
                 <ul class="sub-nav">
                     <li>
                         <a href="/phone-cases-phone-wallets" title="wallet phone case">wallet phone case</a>
@@ -568,7 +551,18 @@
         <ul class="nav">
             
             <li>
-                <a title="accessories" href="/forever-photos">forever photos</a>
+                <a title="forever photos" href="/forever-photos">forever photos</a>
+                <ul class="sub-nav">
+                    <li>
+                        <a href="/acrylic-photo-frame" title="acrylic photo frames">acrylic photo frames</a>
+                    </li>
+                    <li>
+                        <a href="/acrylic-photo-block" title="acrylic photo blocks">acrylic photo blocks</a>
+                    </li>
+ <li>
+                        <a href="/photos-on-canvas" title="photos on canvas">photos on canvas</a>
+                    </li>
+                </ul>
             </li>  <li>
                 <a title="accessories" href="/carryall-clutches">carry-all clutches</a>
             </li>  
@@ -618,11 +612,11 @@
                                         <div class="nav-info"><div class="column-row clearfix">
     <div class="nested-column">
         <ul class="nav">
-            <li><a title="sorority" href="/metallics">metallics</a></li>
+            <li><a title="metalllics" href="/metallics">metallics</a></li>
             <li><a title="cancer awareness" href="/cancer-awareness">cancer awareness</a></li>
-            <li><a title="sorority" href="/sorority">sorority</a></li>
-            <li> <a title="cancer awareness" href="/polaroid-partnership">polaroid partnership </a> </li>
-            <li><a title="sorority" href="/purebarre">pure barre partnership </a></li>
+            <li> <a title="polaroid partnership" href="/polaroid-partnership">polaroid partnership </a> </li>
+            <li><a title="pure barre" href="/purebarre">pure barre partnership </a></li>
+            <li><a title="valentines day" href="/valentines-day">valentine's day</a></li>
         </ul>
     </div>
 </div></div>
@@ -678,13 +672,7 @@
                 <a title="bundles" href="/bundles-good-to-go">bundles</a>
             </li>
             <li>
-                <a title="stationery" href="/stationery-good-to-go">stationery</a>
-            </li>
-            <li>
-                <a title="calendars" href="/calendars-good-to-go">calendars</a>
-            </li>
-            <li>
-                <a title="notepads" href="/notepads-good-to-go">notepads</a>
+                <a title="calendars &amp; notepads" href="/calendars-notepads-good-to-go">calendars &amp; notepads</a>
             </li>
             <li>
                 <a title="stickers" href="/stickers-good-to-go">stickers</a>
@@ -717,84 +705,6 @@
                                                                                     </div><!-- End of Dropdown section -->
                     </div>
         <!-- End of List item section -->
-                <!-- List item section -->
-        <div class="list-item">
-            holiday
-            <span></span>
-
-            <!-- Dropdown section -->
-                            <div class="dropdown">
-                                                                                            <!-- Column section -->
-                            <!-- Check which column type structure this menu have-->
-                            <div class="column ">
-                                                                    <img src="//media.erincondren.com/menu/Typography_holiday.png" class="cursor-none" alt="">
-                                                                                                                                                                                                                                </div><!-- End of Column section -->
-                        <!-- Code for next menu with checking which column layout its using-->
-                                                                                                                        <!-- Column section -->
-                            <!-- Check which column type structure this menu have-->
-                            <div class="column middle">
-                                                                                                                                                                                                                                            <div class="column-row clearfix">
-                        <div class="nested-column">
-    <ul class="nav">
-        <li>
-                                        <div class="nav-info"><div class="column-row clearfix">
-    <div class="nested-column">
-        <ul class="nav">
-<li>
-                <a title="holiday gift guide" href="/holiday-gift-guide">holiday gift guide</a>
-            </li>
-            <li>
-                <a title="view collection" href="/holiday-cards">holiday cards</a>
-            </li>
-            <li>
-                <a title="books" href="/invitations-holiday">invitations</a>
-            </li>
-            <li>
-                <a title="bundles" href="/stickers-labels-holiday">stickers &amp; labels</a>
-            </li>
-            <li>
-                <a title="stationery" href="/gift-wrap-book">gift wrap book</a>
-            </li>
-            <li>
-                <a title="calendars" href="/acrylic-tray-inserts-holiday">acrylic tray inserts</a>
-            </li>
-            <li>
-                <a title="notepads" href="/interchangeable-covers-holiday">interchangeable covers</a>
-            </li><li>
-                <a title="wine totes" href="/wine-totes">wine totes</a>
-            </li> 
-<br>
-<li>
-                <a title="gifts $10 &amp; under" href="/gifts-10-under">gifts $10 &amp; under</a>
-            </li> 
-<li>
-                <a title="gifts $20 &amp; under" href="/gifts-20-under">gifts $20 &amp; under</a>
-            </li>
-<li>
-                <a title="gifts $50 &amp; under" href="/gifts-50-under">gifts $50 &amp; under</a>
-            </li>
-        </ul>
-    </div>
-</div></div>
-                    </li>
-    </ul>
-</div>                                <div class="nested-column">
-    <ul class="nav">
-        <li>
-                                <img src="//media.erincondren.com/menu/Image_holiday_CENTER_RIGHT.jpg" class="cursor-none" alt="">
-            </li>
-    </ul>
-</div>                        </div>                                                                </div><!-- End of Column section -->
-                        <!-- Code for next menu with checking which column layout its using-->
-                                                                                                                        <!-- Column section -->
-                            <!-- Check which column type structure this menu have-->
-                            <div class="column ">
-                                                                    <img src="//media.erincondren.com/menu/Image_holiday_RIGHT.jpg" class="cursor-none" alt="">
-                                                                                                                                                                                                                                </div><!-- End of Column section -->
-                        <!-- Code for next menu with checking which column layout its using-->
-                                                                                    </div><!-- End of Dropdown section -->
-                    </div>
-        <!-- End of List item section -->
         
         <!-- List item section -->
 
@@ -819,8 +729,8 @@
 
         <div class="wrapper filter-container">
         <p></p><p><i><b></b></i></p>
-<p><b>Privacy Policy</b></p>
-<p>Effective Date: 5/5/15</p>
+<p><b>Privacy Policy</b></p><p><b><br></b></p>
+<p>Effective Date: 05/05/15</p>
 <p><br></p><p>EC Design LLC (“<b>EC</b>,” “<b>we</b>,” “<b>us</b>,” or “<b>our</b>”) is committed to protecting your privacy. This Privacy Policy (“<b>Policy</b>”) describes how we collect, use, store, process, and share your information in relation to <a href="http://www.erincondren.com"><span>www.erincondren.com</span></a> (the “<b>Site</b>”). By visiting, browsing, or using the Site or any part of the Site, you expressly consent to the collection, use, storage, processing, and disclosure of your information, including personal information, as described in this Policy. IF YOU DO NOT AGREE WITH THIS POLICY, DO NOT VISIT OR USE THE SITE, REGISTER FOR AN ACCOUNT ON THE SITE, OR CLICK TO INDICATE THAT YOU AGREE TO THIS POLICY. This Policy is part of and incorporated into the Site <a href="https://www.erincondren.com/terms-and-conditions">Terms &amp; Conditions</a> (“<b>Terms</b>”), governing your use of the Site. Parts of the Terms affect this Policy, so be sure to review the Terms prior to using the Site. Capitalized terms not defined herein have the definitions set forth in the Terms.</p><p><br></p>
 <p><b>1. CHANGES TO THIS POLICY</b>. EC reserves the right to revise this Policy from time to time by updating it and posting it at <a href="https://www.erincondren.com/privacy-policy">https://www.erincondren.com/privacy-policy</a>, with the new Policy taking effect on the date of posting. You should periodically review this Policy to ensure you are familiar with the most current version. Your use of the Site after the effective date of the updated version of this Policy will constitute your acceptance of the updated Policy.</p>
 <p><b><br></b></p><p><b>2. APPLICABILITY OF THIS POLICY</b>. This Policy covers our treatment of information that is gathered by the Site, including personally identifiable information and non-personally identifiable information. If you visit the Site without registering for an Account or making a purchase, you can browse without submitting any personally identifiable information. In order to access certain features, such as registering for an Account or making a purchase, you may be asked to provide personally identifiable information, such as your name, address, phone number, email address, and billing information. This Policy does not apply to information collected by third party Linked Sites, including third party websites or services. We have no control over and no responsibility or liability for any third party collection, use, disclosure, or retention of your information and that collection, use, disclosure, and retention is not subject to this Policy. Please review the privacy policies of any Linked Sites you may access. &nbsp;</p>
@@ -881,7 +791,7 @@
 		<div class="wrapper clearfix">
 <div class="logo">
 <a href="#"></a>
-<p>copyright 2015</p>
+<p>copyright 2016</p>
 </div>
 <div class="footer-items">
 <a href="https://www.erincondren.com/terms-and-conditions">terms &amp; conditions</a>
@@ -890,7 +800,7 @@
 <a href="https://www.erincondren.com/privacy-policy">privacy policy</a>
 </div>
 <div class="footer-items">
-<a href="https://www.erincondren.com/faq">customer service</a>
+<a href="https://www.erincondren.com/faq">support</a>
 </div>
 <div class="footer-items">
 <a href="https://www.erincondren.com/shipping">shipping info</a>
@@ -902,18 +812,19 @@
 <a href="https://www.erincondren.com/staples"><img src="//s3-us-west-2.amazonaws.com/ec-cdn-content/ec-image-resources/880774858_staples_logo.png"></a>
 </div>
 <div class="footer-items">
-© 2015
+© 2016
 </div>
 </div>
 
+<script src="//my.hellobar.com/f8fe588f09e9d30b71bad2a2689e3af08e131dac.js" type="text/javascript" charset="utf-8" async="async"></script>
 
 <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){ f[z]=function(){ (a.s=a.s||[]).push(arguments)};var a=f[z]._={ },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){ f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={ 0:+new Date};a.P=function(u){ a.p[u]=new Date-a.p[0]};function s(){ a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){ hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){ return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){ b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{ b.contentWindow[g].open()}catch(w){ c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{ var t=b.contentWindow[g];t.write(p());t.close()}catch(x){ b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({ loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]}); /* custom configuration goes here (www.olark.com/documentation) */ olark.identify('5222-268-10-5870');/*]]>*/</script>
 	</div>
-</footer><script src="//www.erincondren.com/desktop/js/builds/a68addcf634a045c4f52b477ac691a4133250073361.js"></script>
+</footer><script src="//www.erincondren.com/desktop/js/builds/fe8d65c63aad315a7ffbbf1decdce47134739383950.js"></script>
 
 <script src="http://www.erincondren.com/desktop/js/validation.js"></script>
 
-<script src="//www.erincondren.com/desktop/js/builds/7b0c4308e101720055b550bd743a08be56416296333.js"></script>
+<script src="//www.erincondren.com/desktop/js/builds/1a34037f8f079295c16e6cc5d3b3d40859511205086.js"></script>
 
 
 <script>
@@ -935,6 +846,6 @@
     
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c3983c8f4f","applicationID":"5243881","transactionName":"Z1JaYRcEWBZQW0dZVl4YeVYRDFkLHkNAXExXShdODBFTCG5RVw9E","queueTime":0,"applicationTime":147,"atts":"SxVZF18eSxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c3983c8f4f","applicationID":"5243881","transactionName":"Z1JaYRcEWBZQW0dZVl4YeVYRDFkLHkNAXExXShdODBFTCG5RVw9E","queueTime":0,"applicationTime":117,"atts":"SxVZF18eSxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 </body></html>
