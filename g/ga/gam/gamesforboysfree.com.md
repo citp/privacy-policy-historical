@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesforboysfree.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908063311id_/http%3A//www.gamesforboysfree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforboysfree.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213164741id_/http%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | GamesForBoysFree.com
+# Privacy Policy - MyPlayCity - Download Free Games - Play Free Games!
 
 ## MyPlayCity ® Online Privacy Policy
 
