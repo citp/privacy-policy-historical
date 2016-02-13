@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumbofiles.org privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202032826id_/http%3A//jumbofiles.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumbofiles.org privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213045349id_/http%3A//jumbofiles.org/privacy) for the most accurate reproduction.*
 
 # JumboFiles - Free Online Storage, Secure File Hosting
 
@@ -47,4 +47,4 @@ We use third-party advertising companies to serve ads when you visit our website
 * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 Contact   
-If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact](https://web.archive.org/web/20151202032826id_/http%3A//contact). 
+If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact](https://web.archive.org/web/20160213045349id_/http%3A//contact). 
