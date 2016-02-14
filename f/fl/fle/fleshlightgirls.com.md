@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshlightgirls.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214034614id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshlightgirls.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214035139id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # Fleshlight privacy Policy
 
@@ -114,11 +114,11 @@ By using the Site, you are accepting the Privacy Policy and the Terms of Use. IL
 
 * **Google Analytics**
 
-Through our provider, Google Analytics, data is collected about use of our sites. We will not provide Google Analytics with your name, credit card number, birthday, phone number, email address and address information. We assign a random number to your usage so that Google Analytics can identify unique users of our sites. However, Google Analytics cannot associate that number with your personally identifiable information. We recognize that you may prefer to limit or eliminate the data that Google Analytics collects about your use of our sites. Google Analytics does provide an “Opt-out” option. Directions can be found at:[http:/2015-holiday-(bf/cm)-combos//www.google.com/analytics/learn/privacy.html](http://2015-holiday-%28bf/cm\)-combos//www.google.com/analytics/learn/privacy.html). 
+Through our provider, Google Analytics, data is collected about use of our sites. We will not provide Google Analytics with your name, credit card number, birthday, phone number, email address and address information. We assign a random number to your usage so that Google Analytics can identify unique users of our sites. However, Google Analytics cannot associate that number with your personally identifiable information. We recognize that you may prefer to limit or eliminate the data that Google Analytics collects about your use of our sites. Google Analytics does provide an “Opt-out” option. Directions can be found at:<http://www.google.com/analytics/learn/privacy.html>. 
 
 * **Your California Privacy Rights**
 
-California residents who have an established business relationship with ILF may choose to opt out of ILF disclosing personal information about them to third parties for marketing purposes. From time to time, we may share your personal information with carefully screened companies that offer products or services that we believe you may enjoy. If you do not want us to share your personal information with such third parties, please send us your name, email address, street address and phone number to [http:/2015-holiday-(bf/cm)-combos//support.fleshlight.com/index.php?_m=tickets&_a=submit](http://2015-holiday-%28bf/cm\)-combos//support.fleshlight.com/index.php?_m=tickets&_a=submit). Your opt out request will be processed within 30 days of the date it was received. 
+California residents who have an established business relationship with ILF may choose to opt out of ILF disclosing personal information about them to third parties for marketing purposes. From time to time, we may share your personal information with carefully screened companies that offer products or services that we believe you may enjoy. If you do not want us to share your personal information with such third parties, please send us your name, email address, street address and phone number to [http://support.fleshlight.com/index.php?_m=tickets&_a=submit](http://support.fleshlight.com/index.php?_m=tickets&_a=submit). Your opt out request will be processed within 30 days of the date it was received. 
 
 * **Visitors From Outside the US**
 
@@ -137,7 +137,7 @@ Interactive Life Forms, LLC
 Austin, TX 78744 USA  
 Attention: General Counsel Phone: [+1 (888) 804-4453](tel:+18888044453), from 10am to 10pm CST 
 
-If you have a privacy question about our website or would like to change or remove any of your information, please submit a Ticket here: [http:/2015-holiday-(bf/cm)-combos//support.fleshlight.com/index.php?_m=tickets&_a=submit](http://2015-holiday-%28bf/cm\)-combos//support.fleshlight.com/index.php?_m=tickets&_a=submit).
+If you have a privacy question about our website or would like to change or remove any of your information, please submit a Ticket here: [http://support.fleshlight.com/index.php?_m=tickets&_a=submit](http://support.fleshlight.com/index.php?_m=tickets&_a=submit).
 
 All written complaints will be investigated and if ILF determines a complaint to be justified, we will take all appropriate measures, including, if necessary, amending our Privacy Policy, policies and/or practices. A complainant will be advised of the outcome of the investigation regarding their complaint.
 
