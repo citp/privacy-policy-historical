@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edusson.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812183828id_/http%3A//edusson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edusson.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214212920id_/http%3A//edusson.com/privacy) for the most accurate reproduction.*
 
 # Edusson.com - Privacy Policy
 
-Boosta Ltd. (herein after referred to as “ **Boosta** ”) is committed to protecting your privacy. This Privacy Policy applies to the Edusson.com website and governs data collection and usage. This Privacy Policy, together with our Terms and Conditions, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. By using the Edusson.com website, you consent to the data practices described in this policy.
+Boosta Ltd. (herein after referred to as “ **Boosta** ”) is committed to protecting your privacy. This Privacy Policy applies to the Edusson.com website and governs data collection and usage. This Privacy Policy, together with our Terms and Conditions, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. By using the Edusson.com website, you consent to the data practices described in this policy. 
 
-**COLLECTION OF YOUR PERSONAL INFORMATION**
+### **COLLECTION OF YOUR PERSONAL INFORMATION**
 
 Edusson.com website collects personally identifiable information, such as your e-mail address, name, user name, address or telephone number when you sign up for our website and access it. Edusson.com also collects anonymous demographic information, which is not unique to you, such as your Postal/Area codes and country.
 
@@ -14,7 +14,7 @@ In case of Customers, we may ask for your credit card detail, which is used for 
 
 Protecting the privacy of young children is especially important. For that reason, Edusson.com does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Edusson.com learns that personally identifiable information of persons below 13 years of age has been collected on the Website without verified parental consent, then Edusson.com will take appropriate steps to delete this information.
 
-**USE OF YOUR PERSONAL INFORMATION**
+### **USE OF YOUR PERSONAL INFORMATION**
 
 Edusson.com collects and uses your personal information to operate the Edusson.com website. We also use your personally identifiable information to inform you of other products or services available from Edusson.com and its affiliates. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -24,15 +24,15 @@ Edusson.com does not use or disclose sensitive personal information, such as rac
 
 Edusson.com keeps track of the websites and pages our Users visit within Edusson.com, in order to determine what Edusson.com services are the most popular. This data may be used to deliver customized content and advertising within Edusson.com to customers whose behavior indicates that they are interested in a particular subject area.
 
-**DISCLOSING YOUR INFORMATION**
+### **DISCLOSING YOUR INFORMATION**
 
 Edusson.com website will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Edusson.com or the site; (b) protect and defend the rights or property of Edusson.com; and, (c) act under exigent circumstances to protect the personal safety of users of Edusson.com, or the public.
 
-**THIRD PARTY LINKS**
+### **THIRD PARTY LINKS**
 
 Edusson.com may provide links to third-party websites for your convenience and information. These third party sites have their own privacy policies. We encourage you to review the privacy policies of websites you choose to link to from Edusson.com so that you can understand how those websites collect, use and share your information. Edusson.com is not responsible for the privacy policies or other content on websites outside of the Edusson.com.
 
-**USE OF COOKIES**
+### **USE OF COOKIES**
 
 Edusson.com website may gather information about your general Internet use by using cookies. Where used, these cookies are downloaded to your computer automatically. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Edusson.com website uses "cookies" to help you personalize your online experience.
 
@@ -44,7 +44,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 Third party links provided on our website may also use cookies, over which Edusson.com has no control. Such cookies (if used) would be downloaded once you click on their advertisement banners on our website or visit their sites.
 
-**SECURITY OF YOUR PERSONAL INFORMATION**
+### **SECURITY OF YOUR PERSONAL INFORMATION**
 
 Edusson.com may transfer your personal information and submitted content that Edusson.com collects from you to our main server for processing and storing. By submitting your personal data, you agree to this transfer, storing or processing. Edusson.com will take all reasonable steps to make sure that your data is treated securely without any loss, misuse or alteration of information and in agreement with this Privacy Policy. Edusson.com secures the information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
@@ -58,12 +58,12 @@ You can always contact support team and ask to block / remove your testimonials 
 
 The transmission of information via the internet is not completely secure and therefore Edusson.com cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk.
 
-**CHANGES TO THIS POLICY AND OPT-OUT**
+### **CHANGES TO THIS POLICY AND OPT-OUT**
 
 Edusson.com will occasionally update this Privacy Policy to reflect company and customer feedback. We may notify you by posting a prominent announcement on our web pages. However, Edusson.com encourages you to periodically review this Policy to be informed of how Edusson.com is protecting your information.
 
 YOU MAY CHOOSE TO “OPT-OUT”/STOP RECEIVING OUR NEWSLETTER OR MARKETING EMAILS BY FOLLOWING THE UNSUBSCRIBE LINK INCLUDED IN THESE EMAILS OR BY SENDING AN E-MAIL TO [support@edusson.com](mailto:support@edusson.com).
 
-**CONTACT INFORMATION**
+### **CONTACT INFORMATION**
 
 Edusson.com welcomes your suggestions and questions regarding this Privacy Policy. If you believe that Edusson.com has not adhered to this Policy, please contact Edusson.com at [support@edusson.com](mailto:support@edusson.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
