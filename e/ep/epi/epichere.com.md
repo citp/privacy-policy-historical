@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epichere.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812093522id_/http%3A//www.epichere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichere.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214024430id_/http%3A//www.epichere.com/privacy.php) for the most accurate reproduction.*
 
 # Epichere - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, Epichere, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
