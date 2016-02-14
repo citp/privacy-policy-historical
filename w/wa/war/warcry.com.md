@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907223525id_/http%3A//www.warcry.com/codex/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214201519id_/http%3A//www.warcry.com/codex/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WarCry
 
