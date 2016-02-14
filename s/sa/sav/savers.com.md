@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905155808id_/https%3A//www.savers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214143142id_/https%3A//www.savers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Savers Thrift Store
 
