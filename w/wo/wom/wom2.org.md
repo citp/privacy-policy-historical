@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wom2.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317005415id_/https%3A//wom2.org/tyc.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wom2.org privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214161825id_/https%3A//global.wom2.org/tyc.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # WoM2 - Free MMORPG
 
