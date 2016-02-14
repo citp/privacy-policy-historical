@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicfinds.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216003146id_/http%3A//www.magicfinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicfinds.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214131737id_/http%3A//www.magicfinds.com/privacy.php) for the most accurate reproduction.*
 
 # MagicFinds.com
 
@@ -20,6 +20,6 @@
 
 **Corrections/Updating Personal Information** If our Clients' personally identifiable information changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data. This can be done within the "Admin" section of our Account Management Interface or by contacting our Advertiser Services Team through our contact page.
 
-**www.sitename.com**
+**MagicFinds.com**
 
 We have the right to change our privacy policy at any time. If we do so, we will post those changes in this section of our website so that our Clients are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose such information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify Clients by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
