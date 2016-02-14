@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miata.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906093419id_/http%3A//www.miata.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miata.net privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214093112id_/http%3A//www.miata.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,6 @@ If you are a previous registered user and you have lost or forgotten your passwo
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time. By following the "my profile" link provided on our system, you may view and edit personal information you have already given us. You may also elect to receive or discontinue receiving any email newsletters we may choose to distribute periodically. 
 
-Any other exceptions will be specifically noted on the page itself. If you have any questions or require clarification of any portion of our privacy policy, please [contact us.](https://web.archive.org/web/20150906093419id_/http%3A//www.miata.net/feedback.html)
+Any other exceptions will be specifically noted on the page itself. If you have any questions or require clarification of any portion of our privacy policy, please [contact us.](https://web.archive.org/web/20160214093112id_/http%3A//www.miata.net/feedback.html)
 
 * * *
