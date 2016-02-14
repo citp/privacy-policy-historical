@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigarsbuy.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812191445id_/http%3A//cigarsbuy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigarsbuy.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214130933id_/http%3A//cigarsbuy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The cart is empty
 
 ##  Privacy Policy 
 
-Cigarsbuy.com, takes your privacy seriously and is committed to protecting the personal information that you provide to us. This Privacy statement covers our website, [www.cigarsbuy.com](https://web.archive.org/ "Cheap Cigars Store"), and explains our policies and practices regarding the use and disclosure of your personal information collected by us.
+Cigarsbuy.com, takes your privacy seriously and is committed to protecting the personal information that you provide to us. This Privacy statement covers our website, [www.Cigarsbuy.com](https://web.archive.org/ "Cheap Cigars Store"), and explains our policies and practices regarding the use and disclosure of your personal information collected by us.
 
 Cigarsbuy.com reviews and updates this policy from time to time as needed without notice. Therefore, we advise you to review this policy periodically. By using our website you consent to the terms of this policy. 
 
@@ -20,7 +20,7 @@ Use of Personal Information
 
 Cigarsbuy.com is committed to the privacy of the User Information collected by the Website and will not transfer any personal information to any outside parties. Any requested information is for internal Cigarsbuy.com use only. We do not share any information about individual users or the organizations they represent for marketing purposes with any third party, under no circumstances.
 
-Cigarsbuy.com opposes the emailing of any junk mail, and does not sell user information to email lists or telemarketers. If you receive junk email that mentions the Website services, please email to [support@cigarsbuy.com](mailto:support@cigarsbuy.com) and we will make a prompt investigation.
+Cigarsbuy.com opposes the emailing of any junk mail, and does not sell user information to email lists or telemarketers. If you receive junk email that mentions the Website services, please email to [support@Cigarsbuy.com](mailto:support@Cigarsbuy.com) and we will make a prompt investigation.
 
 Notification of Changes
 
