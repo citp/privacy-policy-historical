@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cluewebhost.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926063218id_/http%3A//www.cluewebhost.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluewebhost.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215015625id_/http%3A//www.cluewebhost.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
