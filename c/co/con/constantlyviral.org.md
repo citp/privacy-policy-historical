@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constantlyviral.org privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104225410id_/http%3A//constantlyviral.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constantlyviral.org privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215191911id_/http%3A//constantlyviral.org/privacy) for the most accurate reproduction.*
 
 # constantlyviral
 
