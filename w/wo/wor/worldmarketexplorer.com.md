@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarketexplorer.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215033738id_/https%3A//www.worldmarketexplorer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarketexplorer.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215050113id_/https%3A//www.worldmarketexplorer.com/privacy) for the most accurate reproduction.*
 
 # World Market Explorer
 
