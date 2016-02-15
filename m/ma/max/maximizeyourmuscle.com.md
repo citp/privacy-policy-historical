@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximizeyourmuscle.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703201823id_/http%3A//www.maximizeyourmuscle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximizeyourmuscle.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215200611id_/http%3A//www.maximizeyourmuscle.com/privacy.php) for the most accurate reproduction.*
 
 # Maximize Your Muscle – Privacy Policy
 
