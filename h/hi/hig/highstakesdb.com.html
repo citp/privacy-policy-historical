@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the highstakesdb.com privacy policy that was archived on 2015-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151018050423id_/http%3A//www.highstakesdb.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the highstakesdb.com privacy policy that was archived on 2016-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160215174642id_/https%3A//www.highstakesdb.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=""><head id="Head1">
 		<!-- set the encoding of your site -->
@@ -9,7 +9,7 @@
 	Privacy Policy - HighstakesDB
 </title>
 		<!-- include the site stylesheet -->
-		<link type="text/css" rel="stylesheet" href="/css/bootstrap.css"><link type="text/css" rel="stylesheet" href="/css/all.css"><link type="text/css" rel="stylesheet" href="/css/custom.css"><link rel="stylesheet" href="css/ads.css"><link href="fancybox/jquery.fancybox.css" rel="stylesheet"><link href="/jquery-search/styles.css" rel="stylesheet" media="screen, projection" type="text/css">
+		<link type="text/css" rel="stylesheet" href="/css/bootstrap.css"><link type="text/css" rel="stylesheet"><link type="text/css" rel="stylesheet" href="/css/all.css"><link type="text/css" rel="stylesheet" href="/css/custom.css"><link rel="stylesheet" href="css/ads.css"><link type="text/css" rel="stylesheet" href="css/flags/flags.css"><link href="fancybox/jquery.fancybox.css" rel="stylesheet"><link href="/jquery-search/styles.css" rel="stylesheet" media="screen, projection" type="text/css">
         <!-- include jQuery library -->
         <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script language="javascript">
 
@@ -37,6 +37,23 @@
                 pageTracker._trackPageview();
             } catch (err) { }</script>
         <script type="text/javascript">
+
+            function convertToServerTimeZone(){
+
+                //EST
+                offset = -5.0
+
+                clientDate = new Date();
+                utc = clientDate.getTime() + (clientDate.getTimezoneOffset() * 60000);
+
+                serverDate = new Date(utc + (3600000*offset));
+
+                return Math.floor(((clientDate-serverDate)/1000)/60);
+
+
+            }
+            
+            setCookie("_local_time", (convertToServerTimeZone()), 30);
 
             function setCookie(c_name, value, exdays) {
                 var exdate = new Date();
@@ -126,6 +143,31 @@
                 //Micke use forum login 
                 //$("#placeLoginHere").load("/community/index.php?/register/");
 
+                //bgad
+                $(window).bind('scroll', function () {
+
+                    if ($(window).scrollTop() > 52) {
+                        $('.bgads').addClass('bgads1');
+
+                    }
+                    else {
+                        $('.bgads').removeClass('bgads1');
+                    }
+                });
+                //bgad
+
+                //bgad
+                $(window).bind('scroll', function () {
+
+                    if ($(window).scrollTop() > 104) {
+                        $('.bgads').addClass('bgads2');
+
+                    }
+                    else {
+                        $('.bgads').removeClass('bgads2');
+                    }
+                });
+            //bgad
 
                 // Initiate hand replayer
                 $(window).bind('scroll', function () {
@@ -253,29 +295,103 @@
             width:100%;
             z-index:2;
         }
+        .bgads {
+            position:fixed;
+            top:258px;
+            width:100%;
+        }
+       .bgads1 {
+            position:fixed;
+            top:158px;
+            width:100%;
+        }
+        .bgads2 {
+            position:fixed;
+            top:115px;
+            width:100%;
+        }
         
     </style>
           
 <style type="text/css">.fancybox-margin{margin-right:0px;}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style><style type="text/css">.js-tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style type="text/css">.js-slide-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style></style><style type="text/css">.jcf-unselectable{-moz-user-select:none;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-user-select:none;user-select:none;}</style></head>
 <body id="hsdbResponsive">
-    <form method="post" action="privacy-policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTI2NDczNTE5D2QWAmYPZBYCAgMPZBYOAgQPZBYCAgEPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCZg8VAgIxOEJodHRwOi8vd3d3LmhpZ2hzdGFrZXNkYi5jb20vcHJvbW90aW9uLWV4Y2x1c2l2ZS1teWJldC1yYWNlLTMwLmFzcHhkAggPFgIeBXN0eWxlBUJiYWNrZ3JvdW5kOiNlZGVkZWQgdXJsKC4uL2ltYWdlcy9zcHJpdGUucG5nKSBuby1yZXBlYXQgLTE2MHB4IDJweDtkAg4PFgIeCm9ua2V5cHJlc3MFXGphdmFzY3JpcHQ6aWYoZXZlbnQua2V5Q29kZSA9PSAxMyl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JTZWFyY2gnKS5jbGljaygpO3JldHVybiBmYWxzZTt9ZAIQDzwrABEBDBQrAABkAhEPZBYCAgEPZBYEAgIPFgIfAAICFgRmD2QWAmYPFQJBNjIxOC1wdXRpbi1iYWNrcy1iaWxsLXRvLXByb2hpYml0LW9ubGluZS1nYW1pbmctdHJhbnNhY3Rpb25zLmFzcHg3UHV0aW4gYmFja3MgYmlsbCB0byBwcm9oaWJpdCBvbmxpbmUgZ2FtaW5nIHRyYW5zYWN0aW9uc2QCAQ9kFgJmDxUCQzYyMjEtd3NvcGUtcGF2bG9zLXhhbnRob3BvdWxvcy13aW5zLXNlY29uZC1icmFjZWxldC1mb3ItZ3JlZWNlLmFzcHg6V1NPUEU6IFBhdmxvcyBYYW50aG9wb3Vsb3MgV2lucyBTZWNvbmQgQnJhY2VsZXQgZm9yIEdyZWVjZWQCAw8WAh8AAgEWAmYPZBYCZg8VBEE2MjE4LXB1dGluLWJhY2tzLWJpbGwtdG8tcHJvaGliaXQtb25saW5lLWdhbWluZy10cmFuc2FjdGlvbnMuYXNweDdQdXRpbiBiYWNrcyBiaWxsIHRvIHByb2hpYml0IG9ubGluZSBnYW1pbmcgdHJhbnNhY3Rpb25zQTYyMTgtcHV0aW4tYmFja3MtYmlsbC10by1wcm9oaWJpdC1vbmxpbmUtZ2FtaW5nLXRyYW5zYWN0aW9ucy5hc3B4NVB1dGluIGJhY2tzIGJpbGwgdG8gcHJvaGliaXQgb25saW5lIGdhbWluZyB0cmFuc2FjLi4uZAISDxYCHwACBxYOZg9kFgJmDxUGDFdpbGxpYW0gSGlsbApwb2tlci1kZWFsDFdpbGxpYW0tSGlsbBYyMDE1MDUyMTEwMTk0Nm1pbmlpY29uDFdpbGxpYW0gSGlsbAxXaWxsaWFtIEhpbGxkAgEPZBYCZg8VBgk4ODggUG9rZXIKcG9rZXItZGVhbAk4ODgtcG9rZXIWMjAxNTA1MjExMDM0NDFtaW5paWNvbgk4ODggUG9rZXIJODg4IFBva2VyZAICD2QWAmYPFQYFTXliZXQKcG9rZXItZGVhbAtteWJldC1wb2tlchYyMDEzMDUwMzEwMDQxMG1pbmlpY29uBU15YmV0BU15YmV0ZAIDD2QWAmYPFQYNQmV0c2FmZSBQb2tlcghyYWtlYmFjaw1iZXRzYWZlLXBva2VyFjIwMTUwNTIxMTAzNjA2bWluaWljb24NQmV0c2FmZSBQb2tlcg1CZXRzYWZlIFBva2VyZAIED2QWAmYPFQYGUmVkYmV0CHJha2ViYWNrDHJlZGJldC1wb2tlchYyMDEyMDIyMDA5MzI0Mm1pbmlpY29uBlJlZGJldAZSZWRiZXRkAgUPZBYCZg8VBhFBbWVyaWNhcyBDYXJkcm9vbQhyYWtlYmFjaxFhbWVyaWNhcy1jYXJkcm9vbRYyMDEyMDMwNTEyNTIxOW1pbmlpY29uEUFtZXJpY2FzIENhcmRyb29tEUFtZXJpY2FzIENhcmRyb29tZAIGD2QWAmYPFQYOQmxhY2tDaGlwUG9rZXIIcmFrZWJhY2sQYmxhY2stY2hpcC1wb2tlchYyMDEyMDYwNzEyNTUzN21pbmlpY29uDkJsYWNrQ2hpcFBva2VyDkJsYWNrQ2hpcFBva2VyZAITDxYCHwBmZBgBBQ9jdGwwMCRHcmlkVmlldzEPZ2Q=">
+    <form method="post" action="./privacy-policy.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTI2NDczNTE5D2QWAmYPZBYCAgMPZBYSAgEPZBYCAgEPFgIeC18hSXRlbUNvdW50ZmQCBQ9kFgICAQ8WAh8AAgEWAmYPZBYCZg8VAgIxNUJodHRwOi8vd3d3LmhpZ2hzdGFrZXNkYi5jb20vcHJvbW90aW9uLWV4Y2x1c2l2ZS1teWJldC1yYWNlLTM0LmFzcHhkAgkPFgIeBXN0eWxlBT9iYWNrZ3JvdW5kOiNGRkYgdXJsKC4uL2ltYWdlcy9zcHJpdGUucG5nKSBuby1yZXBlYXQgLTE2MHB4IDJweDtkAg8PFgIeCm9ua2V5cHJlc3MFXGphdmFzY3JpcHQ6aWYoZXZlbnQua2V5Q29kZSA9PSAxMyl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JTZWFyY2gnKS5jbGljaygpO3JldHVybiBmYWxzZTt9ZAIRDzwrABEBDBQrAABkAhIPZBYCAgEPZBYEAgMPFgIfAAICFgRmD2QWAmYPFQI9NjU3Ny1yYXVsZ29uemFsZXMtbWFrZXMtYS1xdWljay0xMDY2ay1hdC0yLTctdHJpcGxlLWRyYXcuYXNweDVSYXVsR29uemFsZXMgTWFrZXMgYSBRdWljayAkMTA2LjZrIGF0IDItNyBUcmlwbGUgRHJhd2QCAQ9kFgJmDxUCQDY1NzYtYnVkZGhpc3QtbW9uay1zdG9sZS0yNjNrLWZyb20tdGVtcGxlLXRvLXBsYXktYmxhY2tqYWNrLmFzcHg3QnVkZGhpc3QgbW9uayBzdG9sZSAkMjYzSyBmcm9tIHRlbXBsZSB0byBwbGF5IGJsYWNramFja2QCBA8WAh8AAgEWAmYPZBYCZg8VBD02NTc3LXJhdWxnb256YWxlcy1tYWtlcy1hLXF1aWNrLTEwNjZrLWF0LTItNy10cmlwbGUtZHJhdy5hc3B4NVJhdWxHb256YWxlcyBNYWtlcyBhIFF1aWNrICQxMDYuNmsgYXQgMi03IFRyaXBsZSBEcmF3PTY1NzctcmF1bGdvbnphbGVzLW1ha2VzLWEtcXVpY2stMTA2NmstYXQtMi03LXRyaXBsZS1kcmF3LmFzcHg1UmF1bEdvbnphbGVzIE1ha2VzIGEgUXVpY2sgJDEwNi42ayBhdCAyLTcgVHJpcGxlIEQuLi5kAhMPFgIfAAIHFg5mD2QWAmYPFQYNVG9ueWJldCBQb2tlcgpwb2tlci1kZWFsDXRvbnliZXQtcG9rZXIWMjAxNTEwMjIwOTM0MDFtaW5paWNvbg1Ub255YmV0IFBva2VyDVRvbnliZXQgUG9rZXJkAgEPZBYCZg8VBgVNeWJldApwb2tlci1kZWFsC215YmV0LXBva2VyFjIwMTMwNTAzMTAwNDEwbWluaWljb24FTXliZXQFTXliZXRkAgIPZBYCZg8VBgZVbmliZXQIcmFrZWJhY2sGdW5pYmV0FjIwMTUwNjAzMTAyMjQybWluaWljb24GVW5pYmV0BlVuaWJldGQCAw9kFgJmDxUGBlJlZGJldAhyYWtlYmFjawxyZWRiZXQtcG9rZXIWMjAxMjAyMjAwOTMyNDJtaW5paWNvbgZSZWRiZXQGUmVkYmV0ZAIED2QWAmYPFQYRQW1lcmljYXMgQ2FyZHJvb20IcmFrZWJhY2sRYW1lcmljYXMtY2FyZHJvb20WMjAxMjAzMDUxMjUyMTltaW5paWNvbhFBbWVyaWNhcyBDYXJkcm9vbRFBbWVyaWNhcyBDYXJkcm9vbWQCBQ9kFgJmDxUGDkJsYWNrQ2hpcFBva2VyCHJha2ViYWNrEGJsYWNrLWNoaXAtcG9rZXIWMjAxMjA2MDcxMjU1MzdtaW5paWNvbg5CbGFja0NoaXBQb2tlcg5CbGFja0NoaXBQb2tlcmQCBg9kFgJmDxUGDUJldGZhaXIgUG9rZXIKcG9rZXItZGVhbA1iZXRmYWlyLXBva2VyFjIwMTMxMDIxMDI1ODQ1bWluaWljb24NQmV0ZmFpciBQb2tlcg1CZXRmYWlyIFBva2VyZAIUD2QWAgIBDxYCHwBmZAIVD2QWAmYPFgIfAAIBFgJmD2QWAmYPFQQBOUdodHRwczovL3d3dy5oaWdoc3Rha2VzZGIuY29tL3Jha2ViYWNrLWFtZXJpY2FzLWNhcmRyb29tLmFzcHg/Zmlyc3R2aXNpdEdodHRwczovL3d3dy5oaWdoc3Rha2VzZGIuY29tL3Jha2ViYWNrLWFtZXJpY2FzLWNhcmRyb29tLmFzcHg/Zmlyc3R2aXNpdA4yMDE2MDIwOTA5MDMwN2QYAQUPY3RsMDAkR3JpZFZpZXcxD2dk62e+l1qBEt67Op0IG4z3tapuo3mvYUnN8xV8vJrn9ZI=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=FaYXF7QG-fWtaR29Wv_k97vzjf42Yn_hA4axGfE8Q_6g6AcBQJiqJevZcJK9ScdI8aOz3QIzDlwGcldKU_hT0qphu4JvCjfjKwFmM8DtgldI656NNDhKDVD4WkcJCCpeJluEKE_diNA955pGTgfeciVIU5bm6cs2CyAkzF4ez1HJUkLgqYhkOysKsLRgvzeB0&amp;t=348b0da" type="text/javascript"></script>
+<script src="/WebResource.axd?d=fRbk0A4AvzsZ0Q0TjF6UvGLqTW9BBqsJ-ek7z3pnfuGNIBZddxdVJNWc59IcAYDjbccV2TkE9-3YgLiXJRbahtjIPLBIttEBG7TJkk_B2So1&amp;t=635793099671809273" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=spW5ENs5T5mNp41R8abkA6DKEo8FdeY9GSJMpChHIz4Q61cqRU04R35oJp1wmt3Io-YvxyYJjXxIJKWyD7L1gOQVCfOVpCpK8GuyBECR0ulN3-DK7qyt-bh6aukBD7JMkfDujagZANSete-PoNcolXCYDM2xmmAKEkJ8fTb8k2-mHPxpPh0VDC_JuIcfPbY50&amp;t=72e85ccd" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX0BGuoHsnrvEVoLwq0G0aoOnLUKTErAuGMQbotL3mRY0c6CSszmkRXAHpcseCO15E88zvppB6ZCdlYw/cXE77rxixHMKrGGRzlJWUtHbzUKw==">
-        
+<script src="/ScriptResource.axd?d=GALURn6ppevdYqifpN8UOGeLBRF4LDSrUe0TRO8ROwcasTHwoSx1diIfTy6V5Sx5sviVVDZWh0OSFgvYsgCaxxRwZOz1qn0gQnRq1QHuYrJsNwYUOrx2i8c73XR0Jhq_PMnSIpIj5LrW5YpwHPegfgjE4t5rGbPf02cxwyLh75uAyRsl_xrLJhaxvvsdbQPi0&amp;t=72e85ccd" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVskkqzj3vS2/Rx/l9ooiOSOnLUKTErAuGMQbotL3mRY0c6CSszmkRXAHpcseCO15E88zvppB6ZCdlYw/cXE77rxixHMKrGGRzlJWUtHbzUK5RzBnpKdlwuuuYtieCiw6YRQDWC8eyzGTxVbQfCgCQD">
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
 
             <header id="header">
 				<div class="header-area" style="height: 65px;">
 					<div class="container">
 						<div class="row">
+                            
+                            
+                        
+<script type="text/javascript">
+
+    function track_baner_LR(ID) {
+      
+        $.ajax({
+            type: "POST",
+            url: "/Handler.ashx?query=BLR-" + ID,
+            contentType: "application/json; charset=utf-8",
+            data: "{}",
+            dataType: "json"
+
+        });
+
+    }
+
+
+
+    </script>
+                    
+
+                        
+
+                                                       
 							<div class="col-sm-6">
 								<!-- page logo -->
 								<strong class="logo"><a href="/"><img id="hsdblogo" src="/images/logo.png" height="56" width="142" alt="High Stakes Database" style="width: 142px; height: 56px;"></a></strong>
@@ -283,72 +399,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 							<div class="col-sm-18">
 								<div class="holder" style="margin-top:-44px;">
 								
-                                 
+                               
+                                      
+                                         
 
-        <script type="text/javascript">
-
-
-            setInterval(function () {
-                var future = new Date("oct 20 2015 22:00 UTC+02:00");
-                var now = new Date();
-                var difference = Math.floor((future.getTime() - now.getTime()) / 1000);
-
-                var seconds = fixIntegers(difference % 60);
-                difference = Math.floor(difference / 60);
-
-                var minutes = fixIntegers(difference % 60);
-                difference = Math.floor(difference / 60);
-
-                var hours = fixIntegers(difference % 24);
-                difference = Math.floor(difference / 24);
-
-                var days = difference;
-
-
-                $("#seconds_top_header").text(seconds);
-                $("#minutes_top_header").text(minutes);
-                $("#hours_top_header").text(hours);
-                $("#days_top_header").text(days);
-
-            }, 1000);
-
-            function fixIntegers(integer) {
-                if (integer < 0)
-                    integer = 0;
-                if (integer < 10)
-                    return "0" + integer;
-                return "" + integer;
-            }
-        
-        
-        
-        
-        </script>
-
-
-
-
-
-                                    <div class="top-count-1">                                      
-                                    <div style="margin-left: -110px !important;">
-                                            <img src="http://www.highstakesdb.com/images/rooms/20150923022053-counter.png">
+                                     <div class="top-count-1-us">
+                                        <div>
+                                            <img src="/images/header-prize-us.png">
                                         </div>
-                                        <img src="/images/animation-header.gif">
+                                        <img src="/images/animation-us.gif">
                                     </div>
-                                    <div class="top-count-2"><b>Next tournament:</b> 1x PS4 + $555 gntd</div>
-                                    <div class="top-count-3">Starts in: 
-                                      
-                                    <span id="days_top_header">-1565</span> days 
-                                     <span id="hours_top_header">00</span> hours 
-                                     <span id="minutes_top_header">00</span> min 
-                                     
-                                      <a href="/exclusive-tourney-series.aspx?counter">
-
-                                     <img src="/images/header-prize-signup.png" border="0"></a></div>
-
-                              
-                                      
-						                       
+                                    <div class="top-count-3-us">
+                                        <a href="/us-players-rakeback.aspx?top">
+                                        <img src="/images/header-prize-signup-us.png" border="0"></a>
+                                    </div>
+        
+                                         
 
 
 
@@ -465,7 +531,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 								<!-- main navigation of the page -->
 								<nav>
 									<ul id="nav">
-										<li class="home mobile-home"><a href="/" id="Menu_Home" style="background:#ededed url(../images/sprite.png) no-repeat -160px 2px;">Home</a></li>
+										<li class="home mobile-home"><a href="/" id="Menu_Home" style="background:#FFF url(../images/sprite.png) no-repeat -160px 2px;">Home</a></li>
 										<li id="Li1" class="has-drop-down">
 											<a href="/poker-news/latest.aspx" id="Menu_News" class="has-drop-down-a">Poker News</a>
 											<ul>
@@ -495,10 +561,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 										    <a href="/poker-deals.aspx" id="Menu_Poker_Deals" class="has-drop-down-a">Deals</a>
 											<ul>
 											    <li><a title="Poker deals" href="/poker-deals.aspx">Top poker deals</a></li>
-                                                <li><a title="Rakeback" href="/rakeback.aspx">Rakeback</a></li>
+                                                <li><a title="Rakeback" href="/rakeback.aspx">Top poker rakeback</a></li>
+                                                <li><a title="US poker sites" href="/us-players-rakeback.aspx">Top US poker sites</a></li>
+                                                <li><a title="US poker sites" href="/top-mobile-poker-sites.aspx">Top Mobile poker sites</a></li>
+                                               
+                                                <li><a title="Rakeback" href="/free-poker-bonuses.aspx">Free poker bonuses</a></li>
+                                                
 							                    <li><a title="Rake and point races leaderboards" href="/rakeback-races.aspx">Race leaderboards</a></li>
-                                                <li><a title="Money added tournaments" href="/exclusive-tourney-series.aspx">Money added tournaments</a></li>
-						                        <li><a title="US poker sites" href="/us-players-rakeback.aspx">US poker sites</a></li>					
+                                                <li><a title="Money added tournaments" href="/exclusive-tourney-series.aspx">Exclusive tournaments</a></li>
+						                        				
 											</ul>
 										</li>
 										<li><a href="/community">Forum</a></li>
@@ -533,8 +604,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </div>
                 
     
-
 <script language="javascript" type="text/javascript">
+
+                           
+
     function createACookie(name, value, days) {
         if (days) {
             var date = new Date();
@@ -583,23 +656,36 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li><a href="/privacy-policy.aspx">Privacy Policy</a></li>
 						</ul>
 
+                        <div id="counter_desktop" class="counter small" style="height:13px;">
+                            <ul>
+                            
+							    <li><a href="/community/index.php?/login/" class="fancyiframelogin" style="font-size:11px;font-weight:bold;color:#2f5886;">Login</a></li>
+							    <li><span style="color:#888;"> / </span> <a href="/community/index.php?/register/" class="fancyiframeregister" style="font-size:11px;font-weight:bold;color:#2f5886;">Register</a></li>
+                            
+
+						    </ul>
+						</div>
+
                         <div id="counter_desktop" class="counter small">
-						<span>Popular:</span>	 <a href="/profiles/pokerstars/Isildur1.aspx">Isildur1</a>, <a href="/profiles/pokerstars/RaiseOnce.aspx">RaiseOnce</a>, <a href="/profiles/pokerstars/Jeans89.aspx">Jeans89</a>, <a href="/profiles/pokerstars/Ike-Haxton.aspx">Ike Haxton</a>  
+						<span>Popular:</span>	 <a href="/profiles/pokerstars/Isildur1.aspx">Isildur1</a>, <a href="/profiles/pokerstars/Ilari-FIN.aspx">Ilari FIN</a>, <a href="/profiles/pokerstars/Sauce123.aspx">Sauce123</a>, <a href="/profiles/pokerstars/MrSweets28.aspx">MrSweets28</a>  
 						</div>
 
 					</div>
 				</div>
 
+                
 
                 
                 <div class="container">
 
                 
+                
+
                     
-					<!--<div style="margin-bottom:15px;margin-top:5px;"><a href="/exclusive-tourney-series.aspx?breadcrumb" border="0"><img src="/images/William-TournamentBar.gif" style="width:100%;" /></a></div>	-->
+						<!--<div style="margin-bottom:15px;margin-top:5px;"><a href="/exclusive-tourney-series.aspx?breadcrumb" border="0"><img src="/images/William-TournamentBar.gif" style="width:100%;" /></a></div>-->
 
 					<!-- top panel -->
-					<div class="top-panel">
+					<div class="top-panel" style="display:none;">
 						
                         <ul class="login-box">
                         
@@ -609,56 +695,80 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         
 
 						</ul>
-						<div class="news-area">
-							
+                        
+						<div class="news-area" style="display:none;">
+                       
                             <strong class="title">
                                
                                             Latest news
                                             
-                            
-
-
                             </strong>
 							<ul class="news-list desktop">
 
                               
-
 							   <li>                              
-                                <a href="/6218-putin-backs-bill-to-prohibit-online-gaming-transactions.aspx">Putin backs bill to prohibit online gaming transactions</a>
-                                
+                                <a href="/6577-raulgonzales-makes-a-quick-1066k-at-2-7-triple-draw.aspx">RaulGonzales Makes a Quick $106.6k at 2-7 Triple Draw</a>
                                </li>
-                                
                               
-
 							   <li>                              
-                                <a href="/6221-wsope-pavlos-xanthopoulos-wins-second-bracelet-for-greece.aspx">WSOPE: Pavlos Xanthopoulos Wins Second Bracelet for Greece</a>
-                                
+                                <a href="/6576-buddhist-monk-stole-263k-from-temple-to-play-blackjack.aspx">Buddhist monk stole $263K from temple to play blackjack</a>
                                </li>
-                                
                                
 
                              </ul>   
-                              <ul class="news-list mobile">
+                              <ul class="news-list mobile" style="display:none;">
 
                               
 
 							   <li class="mobile-760">                              
-                                <a href="/6218-putin-backs-bill-to-prohibit-online-gaming-transactions.aspx">Putin backs bill to prohibit online gaming transactions</a>
+                                <a href="/6577-raulgonzales-makes-a-quick-1066k-at-2-7-triple-draw.aspx">RaulGonzales Makes a Quick $106.6k at 2-7 Triple Draw</a>
                                 
                                </li>
                                
 							   <li class="mobile-320">                              
-                                <a href="/6218-putin-backs-bill-to-prohibit-online-gaming-transactions.aspx">Putin backs bill to prohibit online gaming transac...</a>
+                                <a href="/6577-raulgonzales-makes-a-quick-1066k-at-2-7-triple-draw.aspx">RaulGonzales Makes a Quick $106.6k at 2-7 Triple D...</a>
                                 
                                </li>
                                 
                                 
                                
                              </ul>  
+                              
+                              <div class="main-banner" style="width:80% !important;margin-left:auto;margin-right:auto;">
+                                
+<div id="prom-mobsquare-half" class="adMobile">
+<script type="text/javascript">
+
+    var width = window.innerWidth 
+        || document.documentElement.clientWidth 
+        || document.body.clientWidth;
+
+    if (width < 481) {
+        
+        <!--//<![CDATA[
+           var m3_u = (location.protocol=='https:'?'https://www.highstakesdb.com/revad/www/delivery/ajs.php':'https://www.highstakesdb.com/revad/www/delivery/ajs.php');
+        var m3_r = Math.floor(Math.random()*99999999999);
+        if (!document.MAX_used) document.MAX_used = ',';
+        document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+        document.write ("?zoneid=7");
+        document.write ('&amp;cb=' + m3_r);
+        if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+        document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+        document.write ("&amp;loc=" + escape(window.location));
+        if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+        if (document.context) document.write ("&context=" + escape(document.context));
+        if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+        document.write ("'><\/scr"+"ipt>");
+        //]]>-->
+    }
+</script>
+
+</div>
+                              </div>
                             
 
                          <div class="latest-news-ads-box icon-icomoon-clock mobile">   
-						 <span>Popular:</span>	 <a href="/profiles/pokerstars/Isildur1.aspx">Isildur1</a>, <a href="/profiles/pokerstars/RaiseOnce.aspx">RaiseOnce</a>, <a href="/profiles/pokerstars/Jeans89.aspx">Jeans89</a>, <a href="/profiles/pokerstars/Ike-Haxton.aspx">Ike Haxton</a>  
+						 <span>Popular:</span>	 <a href="/profiles/pokerstars/Isildur1.aspx">Isildur1</a>, <a href="/profiles/pokerstars/Ilari-FIN.aspx">Ilari FIN</a>, <a href="/profiles/pokerstars/Sauce123.aspx">Sauce123</a>, <a href="/profiles/pokerstars/MrSweets28.aspx">MrSweets28</a>  
 						</div>
 
 
@@ -666,7 +776,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 					</div>
                     </div>
-				</div> 
+
+
+                     
+
+
+				</div>
+                     
     <div class="main-holder">
 	    <div id="twocolumns">
 		    <div class="container privacy">
@@ -691,7 +807,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <h3>Changes to this Policy</h3>
                         <p>Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. </p>
                         <h3>Contacting Us</h3>
-                        <p>If you have any questions about our Privacy Policy, please <a href="/contact-us.aspx" style="color:blue;">contact us</a>. </p><p>&nbsp;</p>
+                        <p>If you have any questions about our Privacy Policy, please <a href="/contact-us.aspx" style="color:blue;">contact us</a>. </p>
 				    </div>
 			    </div>
 		    </div>
@@ -725,7 +841,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 							<div class="col-sm-8 col-md-5">
 								<h3>Popular Players</h3>
 								<ul>
-									<li><a href="/profiles/pokerstars/Isildur1.aspx">Isildur1</a></li><li><a href="/profiles/pokerstars/RaiseOnce.aspx">RaiseOnce</a></li><li><a href="/profiles/pokerstars/Jeans89.aspx">Jeans89</a></li><li><a href="/profiles/pokerstars/Ike-Haxton.aspx">Ike Haxton</a></li><li><a href="/profiles/pokerstars/BB1985.aspx">BB1985</a></li><li><a href="/profiles/pokerstars/Ben86.aspx">Ben86</a></li><li><a href="/profiles/Isildur1.aspx">Isildur1</a></li><li><a href="/profiles/pokerstars/Ra%c3%balGonzalez.aspx">RaúlGonzalez</a></li>
+									<li><a href="/profiles/pokerstars/Isildur1.aspx">Isildur1</a></li><li><a href="/profiles/pokerstars/Ilari-FIN.aspx">Ilari FIN</a></li><li><a href="/profiles/pokerstars/Sauce123.aspx">Sauce123</a></li><li><a href="/profiles/pokerstars/MrSweets28.aspx">MrSweets28</a></li><li><a href="/profiles/pokerstars/RaiseOnce.aspx">RaiseOnce</a></li><li><a href="/profiles/Isildur1.aspx">Isildur1</a></li><li><a href="/profiles/pokerstars/Lrslzk.aspx">Lrslzk</a></li><li><a href="/profiles/pokerstars/w00ki3z..aspx">w00ki3z.</a></li>
 								</ul>
 							</div>
 							<div class="col-sm-8 col-md-5">
@@ -733,44 +849,44 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <ul class="icons-list">
                                 
                                       <li>
-                                          <a title="William Hill poker deal" href="/poker-deal-William-Hill.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20150521101946miniicon.gif" alt="William Hill">William Hill
-                                          </a>
-                                      </li>
-                                 
-                                      <li>
-                                          <a title="888 Poker poker deal" href="/poker-deal-888-poker.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20150521103441miniicon.gif" alt="888 Poker">888 Poker
+                                          <a title="Tonybet Poker poker deal" href="/poker-deal-tonybet-poker.aspx">
+                                          <img src="https://www.highstakesdb.com/images/rooms/20151022093401miniicon.gif" alt="Tonybet Poker">Tonybet Poker
                                           </a>
                                       </li>
                                  
                                       <li>
                                           <a title="Mybet poker deal" href="/poker-deal-mybet-poker.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20130503100410miniicon.gif" alt="Mybet">Mybet
+                                          <img src="https://www.highstakesdb.com/images/rooms/20130503100410miniicon.gif" alt="Mybet">Mybet
                                           </a>
                                       </li>
                                  
                                       <li>
-                                          <a title="Betsafe Poker poker deal" href="/rakeback-betsafe-poker.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20150521103606miniicon.gif" alt="Betsafe Poker">Betsafe Poker
+                                          <a title="Unibet poker deal" href="/rakeback-unibet.aspx">
+                                          <img src="https://www.highstakesdb.com/images/rooms/20150603102242miniicon.gif" alt="Unibet">Unibet
                                           </a>
                                       </li>
                                  
                                       <li>
                                           <a title="Redbet poker deal" href="/rakeback-redbet-poker.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20120220093242miniicon.gif" alt="Redbet">Redbet
+                                          <img src="https://www.highstakesdb.com/images/rooms/20120220093242miniicon.gif" alt="Redbet">Redbet
                                           </a>
                                       </li>
                                  
                                       <li>
                                           <a title="Americas Cardroom poker deal" href="/rakeback-americas-cardroom.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20120305125219miniicon.gif" alt="Americas Cardroom">Americas Cardroom
+                                          <img src="https://www.highstakesdb.com/images/rooms/20120305125219miniicon.gif" alt="Americas Cardroom">Americas Cardroom
                                           </a>
                                       </li>
                                  
                                       <li>
                                           <a title="BlackChipPoker poker deal" href="/rakeback-black-chip-poker.aspx">
-                                          <img src="http://www.highstakesdb.com/images/rooms/20120607125537miniicon.gif" alt="BlackChipPoker">BlackChipPoker
+                                          <img src="https://www.highstakesdb.com/images/rooms/20120607125537miniicon.gif" alt="BlackChipPoker">BlackChipPoker
+                                          </a>
+                                      </li>
+                                 
+                                      <li>
+                                          <a title="Betfair Poker poker deal" href="/poker-deal-betfair-poker.aspx">
+                                          <img src="https://www.highstakesdb.com/images/rooms/20131021025845miniicon.gif" alt="Betfair Poker">Betfair Poker
                                           </a>
                                       </li>
                                   
@@ -808,13 +924,34 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         
 
         <style>
+            
+              #HiddenTourney_mobile 
+            {
+                display:none;
+                                }
+            
         @media (max-width: 480px) {
             .HideMobile {
                 display: none;
             }
 
         }
-        @media (max-width: 732px) {
+         @media (max-width: 769px) 
+        {
+            #HiddenTourney_mobile 
+            {
+                display:block;
+                                }
+                                
+            #HiddenTourney
+            {
+                display:none;
+                                }
+        }
+        @media (max-width: 732px) 
+        {
+            
+            
             .HideMobile {
                 zoom:0.65;
             }
@@ -827,11 +964,84 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         }
     </style>
 
-        
-        
-        
+<script language="javascript" type="text/javascript">
+
+      
+    function track_footer_baner(ID) {
+
+        $.ajax({
+            type: "POST",
+            url: "/Handler.ashx?query=BF-" + ID,
+            contentType: "application/json; charset=utf-8",
+            data: "{}",
+            dataType: "json"
+
+        });
+
+    }
 
 
+</script>
+
+  
+
+          
+ 
+<script language="javascript" type="text/javascript">
+
+      
+ function track_fv_splash(ID) {
+
+         $.ajax({
+             type: "POST",
+             url: "/Handler.ashx?query=FV-" + ID,
+             contentType: "application/json; charset=utf-8",
+             data: "{}",
+             dataType: "json"
+
+         });
+     }
+
+
+</script>
+
+
+
+        <div style="position:fixed;bottom:0;width:100%;z-index:150;" class="HideMobile">
+
+                        <div id="idFirstVisit" style="margin-left: auto; margin-right: auto; border: none; width: 692px;">
+                          
+                                
+                                 
+                                           <a onclick="track_fv_splash(9);document.location='https://www.highstakesdb.com/rakeback-americas-cardroom.aspx?firstvisit';return false;" href="https://www.highstakesdb.com/rakeback-americas-cardroom.aspx?firstvisit">
+                                
+                                         <img src="http://www.highstakesdb.com/images/Rooms/20160209090307.gif">
+
+
+                                                 </a>
+                
+                                      
+
+                                                     
+                            
+                            <a href="#" onclick="jQuery('#idFirstVisit').slideUp();"><img src="https://www.highstakesdb.com/footer/firstvisit_close.png" border="0" style="margin-left:-4px !important;"></a>
+
+                        </div>
+
+            </div> 
+
+
+        <script type="text/javascript" language="javascript">
+            jQuery(document).ready(new function () {
+                jQuery("#idFirstVisit").slideDown();
+            });
+        </script>
+
+                
+         
+
+
+          
         <script>            (function () {
                 var _fbq = window._fbq || (window._fbq = []);
                 if (!_fbq.loaded) {
@@ -852,4 +1062,4 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 	
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="AutocompleteContainter_33e22" style="position: absolute; z-index: 9999; font-family: Arial; font-size: 10px; top: 25px; left: 0px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_33e22" style="display: none; width: 200px; max-height: 300px;"></div></div></div><div id="AutocompleteContainter_a0203" style="position: absolute; z-index: 9999; font-family: Arial; font-size: 10px; top: -9519px; left: -9952.44px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_a0203" style="display: none; width: 200px; max-height: 300px;"></div></div></div><div id="AutocompleteContainter_68d1b" style="position: absolute; z-index: 9999; font-family: Arial; font-size: 10px; top: 0px; left: 0px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_68d1b" style="display: none; width: 295px; max-height: 300px;"></div></div></div></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="AutocompleteContainter_97e0" style="position: absolute; z-index: 9999; font-family: Arial; font-size: 10px; top: 25px; left: 0px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_97e0" style="display: none; width: 200px; max-height: 300px;"></div></div></div><div id="AutocompleteContainter_aa742" style="position: absolute; z-index: 9999; font-family: Arial; font-size: 10px; top: -9481px; left: -9978.16px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_aa742" style="display: none; width: 200px; max-height: 300px;"></div></div></div><div id="AutocompleteContainter_27543" style="position: absolute; z-index: 9999; font-family: Arial; font-size: 10px; top: 0px; left: 0px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_27543" style="display: none; width: 295px; max-height: 300px;"></div></div></div></body></html>
