@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carguideinfo.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216190358id_/http%3A//carguideinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carguideinfo.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215222801id_/http%3A//carguideinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Car Buying Tips, New Car Review, Car Insurance and Auto LoanPrivacy Policy - Car Buying Tips, New Car Review, Car Insurance and Auto Loan
 
