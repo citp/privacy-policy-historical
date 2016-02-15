@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merriam.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202010536id_/http%3A//www.merriam-webster.com/info/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merriam.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215084552id_/http%3A//merriam.com/info/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Merriam-Webster
 
