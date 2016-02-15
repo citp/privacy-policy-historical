@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028155513id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215044526id_/https%3A//www.crystaltravel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy - Holidays, travel, Cheap Holidays, discount flights, Flights
-
-### Privacy Policy Statement
+# Privacy Policy
 
     Crystaltravel.co.uk is an online travel portal that offers flights, hotel deals, holiday packages, car rentals, travel guides and lots more. 
 
 This Privacy Policy explains the way we use your given information and the steps we take to make sure that your information is secure and confidential with us. We at Crystal Travel, understand that online booking involves complete trust on your part. We accept this trust very seriously, making it a high priority service, ensuring a safe and delicate deal with you. 
 
-Crystal Travel (Reg. No. 3517) extends its protection to clients who complete the booking and payment procedure in the United Kingdom. Click on our ATOL logo to find out more information about the security and the authentication of our company and dealing. Our website is operated by the Moresand Group (registered in England and Wales under number 2114691), whose registered office is 38 Riding House Street, London W1W 7ES. The organization does all the trading under its ATOL registered name, Crystal Travel. Our website is intended for use by residents of the UK who are over 18 years of age. If you have questions or concerns regarding this statement, you should first contact: enquiry@crystaltravel.co.uk 
+Crystal Travel (Reg. No. 3517) extends its protection to clients who complete the booking and payment procedure in the United Kingdom. Click on our ATOL logo to find out more information about the security and the authentication of our company and dealing. Our website is operated by the Moresand Group (registered in England and Wales under number 2114691), whose registered office is 38 Riding House Street, London W1W 7ES. The organization does all the trading under its ATOL registered name, Crystal Travel. Our website is intended for use by residents of the UK who are over 18 years of age. If you have questions or concerns regarding this statement, you should first contact: enquire@crystaltravel.co.uk 
 
 [Categories of Your Personal Information We Collect __]()
      When you visit any Platform, we may gather some facts from you, some of it may refer to your confidential information. Such content can consist of an IP address, search history, operating system, access time, URL and browser. 
@@ -80,7 +78,7 @@ You can manage/tackle or alter your web browser controls in order to accept or r
 [How You Can Contact Us __]()
      If you have any question about this Privacy Policy (or travel planning and product purchase), kindly contact us at: 
 
-Email:- Email For General Enquiry: enquiry@crystaltravel.co.uk Information about travel plans: customercare@crystaltravel.co.uk 
+Email:- Email For General Enquiry: enquire@crystaltravel.co.uk Information about travel plans: customercare@crystaltravel.co.uk 
 
 Call:- Get in touch with our customer care executives for your queries regarding flight tickets, hotel bookings, holiday packages, car hire, cancellation and refund by calling us at free phone: For Callers within the UK: 0800 368 0300 For Callers from outside of the UK: +44 207 612 0500 
 
