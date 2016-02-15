@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mktginc.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306030125id_/http%3A//www.mktginc.com/pdf/Mktg_Privacy_Policy_052013.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mktginc.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215223422id_/http%3A//mktginc.com/pdf/Mktg_Privacy_Policy_052013.pdf) for the most accurate reproduction.*
 
 # Mktg, Inc. Privacy Policy
 
