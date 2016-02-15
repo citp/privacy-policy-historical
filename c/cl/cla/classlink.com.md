@@ -1,32 +1,12 @@
-> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924184403id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215142925id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ClassLink | Your Cloud, Your Way…
 
-### Forms on this Website
-
-We may collect the following information:
-
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
-
-
-
-### What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
-
-
+As a system that connects school districts to the applications they use, ClassLink ensures that school district customers retain 100% control of their teacher, student, and parent information, including granting permission for third-party applications to access said data through ClassLink’s single sign-on connectors. In the course of enabling access, ClassLink does not retrieve nor distribute personal identifying information from districts or to third-party applications.
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Learn more about our [security protocols](https://www.classlink.com/security/).
 
 ### How we use cookies
 
