@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csi-cloudapp.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204164647id_/http%3A//csi-cloudapp.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csi-cloudapp.net privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215014107id_/http%3A//csi-cloudapp.net/privacy.php) for the most accurate reproduction.*
 
 # Club Management Software, Membership Management Software, Parks and Recreation, Health Club, Fitness Management Software - CSI Software
 
