@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the shippingexchange.com privacy policy that was archived on 2015-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151112002027id_/http%3A//shippingexchange.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shippingexchange.com privacy policy that was archived on 2016-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160215152924id_/https%3A//shippingexchange.com/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class="csstransforms csstransforms3d csstransitions"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Shipping Exchange">
@@ -23,7 +23,7 @@
     
     
 
-    <link href="/Content/css/sxg.css?v=C0S_q9Wj0gDlvZ_RLwxz8CO2zeT3bnBKauZKEAcu19E1" rel="stylesheet">
+    <link href="/Content/css/sxg.css?v=7uGqgrnmWKeHU7xOSKTHgMvQDeacQkO10O2TV_5CFiE1" rel="stylesheet">
 
     <link href="/Content/js/select2-3.3.2/select2.css" rel="stylesheet" type="text/css">
     <link href="/Content/css/developer.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,6 @@
         <div id="dvHeaderSection">
 
 
-
 <script type="text/javascript">
     var totalSec = 5;
     var timeId;
@@ -56,9 +55,8 @@
     $.validator.setDefaults({
         ignore: ":hidden:not(.validate)"
     });
-
+    
     function popupInterval() {
-        debugger;
         var myCookie = readCookie('daycookie');
         if (myCookie == '' || myCookie == undefined) {
             // code to show modal here
@@ -69,36 +67,73 @@
             var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
             var x = Math.floor((Math.random() * 1000) + 1);
             document.cookie = 'daycookie' + "=" + x + "; " + "expires=" + midnight;
-
         }
         clearInterval(timeId);
     }
 
-    $(document).ready(function () {
-
-        chkSession = ""
-
-        debugger;
-        if (chkSession == "") {
-            timeId = setInterval(popupInterval, 60000);
+    function loadPopUpWithCookie() {
+        var myCookie = readCookie('daycookie');
+        if (myCookie == '' || myCookie == undefined) {
+            var date = new Date();
+            var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
+            var x = Math.floor((Math.random() * 1000) + 1);
+            document.cookie = 'daycookie' + "=" + x + "; " + "expires=" + midnight;
         }
-        $(".notificationicon").click(function () {
-            $(this).toggleClass("open");
-            $("#notificationMenu").toggleClass("open");
-        });
+    }
+
+    function loadNotificationList() {        
+        if (chkSession != "") {
+            $.ajax({
+                url: '/PendingQueries/GetNotificationList',
+                success: function (response) {
+                    //$('#notificationCount').remove();
+                    $("#ulHeader li.dropdown").nextAll().remove();
+                    $("#ulHeader").append(response.html);
+                    clearInterval(timeId);
+                    timeId = setInterval(IntervalGetNotificationList, 300000);
+                }
+            })
+        }        
+    }
+    function IntervalGetNotificationList() {
+        loadNotificationList();
+    }
+
+    $(document).ready(function () {    
+        chkSession = ""
+        if (chkSession == "") {
+            timeId = setInterval(popupInterval, 30000);
+        } else {
+            loadNotificationList();
+        }
 
         var isPlanExp = getParameterByName('isplanexpire');
         if (isPlanExp)
             showPopupOnce();
+
+        $(".language_Selector").click(function () {
+            $("#dvLanguage").toggle();
+        })
+
+        $.ajax({
+            url: '/Home/DIDNumber',
+            success: function (response) {
+                $("#spDidNumber").text(response.oldLang);
+            }
+        })
+
+        $(document).on("click", function (event) {
+            var $trigger = $("#notificationCount");
+            if ($trigger !== event.target && !$trigger.has(event.target).length) {
+                if ($("#notificationMenu").hasClass("open")) {
+                    $("#notificationMenu").removeClass("open");
+                }
+            }
+        });
+
     });
 
     function showPopupOnce() {
-        //var hasSeenPopup = myGetCookie("has_seen_popup");
-        //if (hasSeenPopup == null || hasSeenPopup == "") {
-        //    mySetCookie("has_seen_popup", "true", 1);
-        //    $('#dvMsg').modal();
-        //    $('#modelbody').html("Your plan has been expired");
-        //}
         $.ajax({
             url: '/Common/CheckPlanExpiry',
             success: function (response) {
@@ -110,18 +145,20 @@
         })
     }
 
-    function updateWebNotification(userId) {
+    function updateWebNotification(userId) {        
         if (!$("#notificationCount").hasClass("readNotification")) {
             $.ajax({
                 url: '/PendingQueries/SetReadWebNotification',
                 data: { userId: userId },
-                success: function (response) {
+                success: function (response) {                    
                     if (response.IsSuccess) {
                         $("#notificationCount").addClass("readNotification");
                     }
                 }
             })
         }
+        $(this).toggleClass("open");
+        $("#notificationMenu").toggleClass("open");
     }
 
     function LoginPopUp() {
@@ -130,6 +167,7 @@
             success: function (response) {
                 $("#dvLogin").html(response);
                 fnLoginPopup();
+                loadPopUpWithCookie();
                 partialViewLoaded(request, "success", '#dvLogin');
             }
         })
@@ -142,6 +180,7 @@
             success: function (response) {
                 $("#dvRegister").html(response);
                 fnRegisterPopup();
+                loadPopUpWithCookie();
                 partialViewLoaded(request, "success", '#dvRegister');
             }
         })
@@ -155,10 +194,10 @@
     function fnRegisterPopup() {
         $('#dvLogin').modal('hide');
         $('#dvRegister').modal('show');
-        debugger;
         if (isRegisterPopUp == true) {
+            isRegisterPopUp = false;
             $('#dvRegText').html('');
-            $('#dvRegText').html('<P class="regtext margin-t-40">Whether you are a Shipper or a Forwarder, an NVOCC or a line, we promise to help you save a lot of money.</p> <h2> Sign up !! </h2> <p class="regtext"> It takes a few seconds and is completely free. </p>');
+            $('#dvRegText').html('<P class="regtext margin-t-40">Ocean Shipping deals starting from $1</p> <h2> Register Now !! </h2> <span class="regtext"> FREE </span> <p class="regtext"> and start saving on ocean freight </p>');
         }
     }
     function popUpLoginSuccess(response) {
@@ -191,7 +230,6 @@
         var Register = response.IsRegister;
         if (Register == true) {
             window.location.reload();
-            
         }
         else if (Register == false) {
             $('#dvRegisterMessagePopUp').addClass(response.ErrorClass).html(response.ErrorMessage);
@@ -208,7 +246,6 @@
             $("#divForgetMsg").html("<h5 class='alert-success'>We have sent the link to reset your password. Please check your e-mail.</br>To get the link again, enter your username below and click submit</h5>");
             setTimer();
         }
-
     }
     function setTimer() {
         intrvl = self.setInterval(UpdateCount, 800);
@@ -221,8 +258,6 @@
         }
     }
 
-
-
     function readCookie(name) {
         var nameEQ = name + "=";
         var ca = document.cookie.split(';');
@@ -231,44 +266,74 @@
             while (c.charAt(0) == ' ') c = c.substring(1, c.length);
             if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
         }
-
-
     }
 
+    function changeLanguage(language) {
+        $.ajax({
+            url: '/Home/SetCulture',
+            data: { language: language },
+            success: function (response) {
+                if (response.oldLang == undefined || response.oldLang == null || response.oldLang == "") {
+                    window.location.reload();
+                }
+                else {
+                    var oldlng = "/" + response.oldLang + "/";
+                    var url = window.location.href.replace(oldlng, "/" + language + "/");
+                    window.location.href = url;
+                }
+            }
+        })
+    }
 
 </script>
 
+
 <!--======= HEADER =========-->
-<header class="sticky" id="dvHeader">
+<div id="dvHeader-sticky-wrapper" class="sticky-wrapper" style="height: 73px;"><header class="sticky" id="dvHeader">
+    <div class="text-center" id="dvLanguage" style="display:none;">
+        Select language :
+                <span onclick="changeLanguage('en')">
+                    English
+                </span>
+
+    </div>
+
     <div class="container">
         <nav class="navbar navbar-default">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-res"> <span class="sr-only">Toggle navigation</span> <span class="fa fa-navicon"></span> </button>
                 <!--======= LOGO =========-->
-                <div class="logo"> <a href="/"><img src="http://cdn.shipping-exchange.com/Content/images/logo.png" alt="Shipping Exchange"></a> </div>
+                <div class="logo col-md-5"> <a href="/"><img src="/Content/images/logo.png" alt="Shipping Exchange"></a> </div>
+                <div class="hidden-sm col-md-7 margin-t-20 text-right">
+                    <p>Call us <strong><span id="spDidNumber">+1 347 647 9130</span></strong></p>
+                    
+                </div>
             </div>
-            <div class="hidden-sm hidden-xs col-md-3 margin-t-20">
-
-                <p id="spDidNumber"><i class="fa fa-phone"></i> +1 347 647 9130</p>
-                
-            </div>
+           
             <!--======= MENU =========-->
             <div class="collapse navbar-collapse" id="nav-res">
                 <ul class="nav navbar-nav" id="ulHeader">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/en/freight-inquiries">Freight Inquiries</a></li>
+                    <li><a href="/en/freight-inquiries">Freight Inquiries </a></li>
                     <li><a href="/en/freight-deals">Freight Deals</a></li>
                     <li><a href="/container-tracking">Tracking</a></li>
 
                         <li><a href="/en/services/plans">Pricing</a></li>
                         <li>
-                            <a class="link" style="cursor:pointer" onclick="LoginPopUp()">Login/Register</a>
+                            <a class="link cursor" onclick="LoginPopUp()">Login/Register</a>
                         </li>
+
+                    
                 </ul>
             </div>
         </nav>
     </div>
-</header>
+
+    <div class="language_Selector">
+        <span class="current-lang"><span class="icon"></span><span class="language_code">en</span></span>
+    </div>
+</header></div>
+
 <div id="dvLogin" class="modal fade">
 </div>
 <div id="dvRegister" class="modal fade">
@@ -324,7 +389,7 @@
     </div>
 </div>
 <!--======= ABOUT =========-->
-<section class="about">	<div class="container">		<!--======= TITTLE =========-->		<div class="tittle">			<h3>				ShippingExchange Privacy Policy</h3>			<hr>		</div>		<!--======= ABOUT INFO =========-->		<div class="about-us">			<ul class="row">				<li class="col-sm-12">					<p>						Shipping Exchange Inc {hereinafter referred to as "SEI"} is committed to safeguarding its users' privacy. We request all our users to read the following 'privacy policy' to understand how their personal &amp; business information will be treated, as they make full use of our services to their benefit. This policy is applicable only to the entire network of marketplaces operated by SEI and not by any other company.</p>					<h5 class="margin-t-40 col-sm-12">						Collection of Information</h5>					<p>						SEI collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal &amp; business information. During registration, we ask the users for their name, email address, business information and other personal details. Once a user registers, he/she is no longer anonymous to Shipping Exchange and it is deemed that the user has given SEI the right to publish the desired business &amp; personal details throughout its marketplaces, including but not limited to, business directory, trade leads, catalogs etc.</p>					<p>						When you are on our network and are asked for personal information, you are sharing the information with SEI alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies other than SEI or may be co-sponsored by SEI and another company. Some or all data collected during a promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't want your data to be shared.</p>					<p>						We also gather usage statistics such as pages viewed, number of unique visitors, browser software, screen resolution etc. for analysis that helps us provide you improved user experience and services.</p>					<h5 class="margin-t-40 col-sm-12">						Use of Personal &amp; Business Information</h5>					<p>						Shipping Exchange's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalized services, interactive communication and other services, most of which are completely free and remaining are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user.</p>					<p>						In order to provide free services, SEI displays advertisements based upon the site usage statistics and visitor trends. SEI uses user's personal &amp; business information to serve targeted advertisements through its websites, newsletters and customized mailers. In addition to it, once the user's personal and business information is displayed on our network, the user may start receiving business enquiries through email, phone calls or SMS notifications, from various buyers and sellers that might or might not be of their interest. SEI does not exercise any control over its users for sending business enquiries to the listed members.</p>					<p>						We record buying and browsing activities of our users including but not limited to their client's contact details and profiles and uses the same to provide value-added services to our users.</p>					<h5 class="margin-t-40 col-sm-12">						Sharing of Information</h5>					<p>						As a general rule, SEI will not disclose or share any of the user's personally identifiable information except when SEI has the user's permission or under special circumstances, such as when SEI believes in good faith that the law requires it or as permitted in terms of this policy.</p>					<p>						SEI may also disclose account information in special cases when SEI has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating SEI's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) SEI's rights or property, other SEI network website users, or if SEI deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.</p>					<h5 class="margin-t-40 col-sm-12">						Distribution of Information</h5>					<p>						SEI may, from time to time, send its users emails regarding its products and services. SEI constantly tries and improves the marketplace tools for better efficiency, more relevancy, innovative business matchmaking and better personal preferences. SEI has many match making tools on the marketplace to be used by its users for making relevant business contacts with each other. SEI may allow direct mails using its own scripts (without disclosing the email address) with respect/pertaining to the products and services of third parties that it feels may be of interest to the user or if the user has shown interest in your company for business requirement by way of our paid buyers-sellers contact services. All users shall be able to control the information sharing through their administration/account setting panel available at http://www.shippingexchange.com/. Only SEI, its registered members or its agents working under confidentiality agreements will send these direct mailers. Relevancy of the contacts made between users would depend upon the information sought &amp; given by various users.</p>					<h5 class="margin-t-40 col-sm-12">						Updation of Information</h5>					<p>						A user may edit his/her account information and profile by logging onto our website and/or by sending a request to useradmin@shippingexchange.com . The requested changes may take upto 30 days to appear online because of verification process and server cache policies.</p>					<p>						A user account can be deleted or deactivated, but doing so will result in the user not being able to access any members-only area of the network. Residual information will remain within our archive records.</p>					<h5 class="margin-t-40 col-sm-12">						Protection of information</h5>					<p>						As with all information, SEI do not sell any data in bulk to third party that can be misused for telemarketing or bulk mailing or any other wrong purposes. In addition, SEI does not sell any user's personal information or business information until and unless it is permitted by the user. Any user statistics that we may provide to prospective advertisers or partners regarding product or service usage on SEI network is provided in an aggregate form only and does not include any personally identifiable information about any individual user. Users may log in to account settings section of http://www.shippingexchange.com/ to check current status of their contact sharing permissions.</p>					<p>						We request our users to sign out of their SEI account and close their browser window when they have finished their work. This is to ensure that others cannot access their personal or business information and correspondence, if the user shares the computer with someone else or is using a computer in a public place.</p>					<p>						SEI takes necessary steps, within its limits of commercial viability and necessity, to ensure that the user's information is treated securely.</p>					<h5 class="margin-t-40 col-sm-12">						VIII. REGISTERED USER(S)</h5>					<p>						Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while SEI strives to protect the user's personal &amp; business information, it cannot ensure the security of any information transmitted to SEI and you do so at your own risk. Once SEI receives your transmission, it makes best efforts to ensure its security in its systems. Please keep in mind that whenever you post personal &amp; business information online, that is accessible to the public, you may receive unsolicited messages from other parties.</p>					<h5 class="margin-t-40 col-sm-12">						Google and the DoubleClick DART cookie</h5>					<p>						* Google, as a third party vendor, uses cookies to serve ads on our site.</p>					<p>						* Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.</p>					<p>						* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>					<h5 class="margin-t-40 col-sm-12">						Changes in Privacy Policy</h5>					<p>						The policy may change from time to time so please check periodically.</p>				</li>			</ul>		</div>	</div></section><p>	&nbsp;</p>
+<!--======= TITTLE =========--><h3>ShippingExchange Privacy Policy</h3><!--======= ABOUT INFO =========--><ul>	<li>	<p>Shipping Exchange Inc {hereinafter referred to as "SEI"} is committed to safeguarding its users' privacy. We request all our users to read the following 'privacy policy' to understand how their personal &amp; business information will be treated, as they make full use of our services to their benefit. This policy is applicable only to the entire network of marketplaces operated by SEI and not by any other company.</p>	<p>Collection of Information</p>	<p>SEI collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal &amp; business information. During registration, we ask the users for their name, email address, business information and other personal details. Once a user registers, he/she is no longer anonymous to Shipping Exchange and it is deemed that the user has given SEI the right to publish the desired business &amp; personal details throughout its marketplaces, including but not limited to, business directory, trade leads, catalogs etc.</p>	<p>When you are on our network and are asked for personal information, you are sharing the information with SEI alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies other than SEI or may be co-sponsored by SEI and another company. Some or all data collected during a promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't want your data to be shared.</p>	<p>We also gather usage statistics such as pages viewed, number of unique visitors, browser software, screen resolution etc. for analysis that helps us provide you improved user experience and services.</p>	<p>Use of Personal &amp; Business Information</p>	<p>Shipping Exchange's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalized services, interactive communication and other services, most of which are completely free and remaining are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user.</p>	<p>In order to provide free services, SEI displays advertisements based upon the site usage statistics and visitor trends. SEI uses user's personal &amp; business information to serve targeted advertisements through its websites, newsletters and customized mailers. In addition to it, once the user's personal and business information is displayed on our network, the user may start receiving business enquiries through email, phone calls or SMS notifications, from various buyers and sellers that might or might not be of their interest. SEI does not exercise any control over its users for sending business enquiries to the listed members.</p>	<p>We record buying and browsing activities of our users including but not limited to their client's contact details and profiles and uses the same to provide value-added services to our users.</p>	<p>Sharing of Information</p>	<p>As a general rule, SEI will not disclose or share any of the user's personally identifiable information except when SEI has the user's permission or under special circumstances, such as when SEI believes in good faith that the law requires it or as permitted in terms of this policy.</p>	<p>SEI may also disclose account information in special cases when SEI has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating SEI's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) SEI's rights or property, other SEI network website users, or if SEI deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.</p>	<p>Distribution of Information</p>	<p>SEI may, from time to time, send its users emails regarding its products and services. SEI constantly tries and improves the marketplace tools for better efficiency, more relevancy, innovative business matchmaking and better personal preferences. SEI has many match making tools on the marketplace to be used by its users for making relevant business contacts with each other. SEI may allow direct mails using its own scripts (without disclosing the email address) with respect/pertaining to the products and services of third parties that it feels may be of interest to the user or if the user has shown interest in your company for business requirement by way of our paid buyers-sellers contact services. All users shall be able to control the information sharing through their administration/account setting panel available at http://www.shippingexchange.com/. Only SEI, its registered members or its agents working under confidentiality agreements will send these direct mailers. Relevancy of the contacts made between users would depend upon the information sought &amp; given by various users.</p>	<p>Updation of Information</p>	<p>A user may edit his/her account information and profile by logging onto our website and/or by sending a request to useradmin@shippingexchange.com . The requested changes may take upto 30 days to appear online because of verification process and server cache policies.</p>	<p>A user account can be deleted or deactivated, but doing so will result in the user not being able to access any members-only area of the network. Residual information will remain within our archive records.</p>	<p>Protection of information</p>	<p>As with all information, SEI do not sell any data in bulk to third party that can be misused for telemarketing or bulk mailing or any other wrong purposes. In addition, SEI does not sell any user's personal information or business information until and unless it is permitted by the user. Any user statistics that we may provide to prospective advertisers or partners regarding product or service usage on SEI network is provided in an aggregate form only and does not include any personally identifiable information about any individual user. Users may log in to account settings section of http://www.shippingexchange.com/ to check current status of their contact sharing permissions.</p>	<p>We request our users to sign out of their SEI account and close their browser window when they have finished their work. This is to ensure that others cannot access their personal or business information and correspondence, if the user shares the computer with someone else or is using a computer in a public place.</p>	<p>SEI takes necessary steps, within its limits of commercial viability and necessity, to ensure that the user's information is treated securely.</p>	<p>VIII. REGISTERED USER(S)</p>	<p>Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while SEI strives to protect the user's personal &amp; business information, it cannot ensure the security of any information transmitted to SEI and you do so at your own risk. Once SEI receives your transmission, it makes best efforts to ensure its security in its systems. Please keep in mind that whenever you post personal &amp; business information online, that is accessible to the public, you may receive unsolicited messages from other parties.</p>	<p>Google and the DoubleClick DART cookie</p>	<p>* Google, as a third party vendor, uses cookies to serve ads on our site.</p>	<p>* Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.</p>	<p>* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>	<p>Changes in Privacy Policy</p>	<p>The policy may change from time to time so please check periodically.</p>	</li></ul><p>&nbsp;</p>
 
         </div>
         <!--======= FOOTER =========-->
@@ -341,7 +406,10 @@
                     <li class="col-sm-12">
                         <h5>About <span>Us</span></h5>
                         <hr>
-                        <p>ShippingExchange.com, owned &amp; operated by Shipping Exchange Inc, is the world’s first online Freight Exchange for ocean shipping. It allows Shippers to invite most competitive quotes for their shipments from service providers across the globe. On the other hand, it helps service providers generate a lot more business with minimal effort – a true win-win. And No, we don’t charge you any commission on the deals you close.</p>
+<p>ShippingExchange.com, owned &amp; operated by Shipping Exchange Inc, is the world’s first online Freight Exchange for ocean shipping. It allows Shippers to invite most competitive quotes for their shipments from service providers across the globe. On the other hand, it helps service providers generate a lot more business with minimal effort – a true win-win. And No, we don’t charge you any commission on the deals you close.</p>
+
+
+                        
                         <p>Try us once to Trust us forever. <a href="/en/AboutUs" class="btn-link"> read more</a></p>
 
 
@@ -352,7 +420,7 @@
                     </li>
                 </ul>
             </div>
-
+            
             <!--======= FOOTER ROWS =========-->
             <div class="col-md-5">
                 <ul class="row">
@@ -366,7 +434,8 @@
                             <li><a title="Get real-time exchange rates" href="/currency-converter"> Currency Converter <i class="fa fa-angle-right"></i></a></li>
                             <li><a title="List of all that you need to know" href="/logistics-glossary"> Logistics Glossary <i class="fa fa-angle-right"></i></a></li>
                             <li><a title="Get IMO classification according to material characterstics" href="/IMO-Haz-Classes"> IMO Haz Classes <i class="fa fa-angle-right"></i></a></li>
-                            <li><a title="Track your shipment - anytime, anywhere .. all major lines" href="/container-tracking"> Tracking <i class="fa fa-angle-right"></i></a></li>
+                            <li><a title="Track your shipment - anytime, anywhere .. all major lines" href="/container-tracking"> Tracking  <i class="fa fa-angle-right"></i></a></li>
+                            <li><a title="" href="/freight-rate-trends"> Freight Rate Trends <i class="fa fa-angle-right"></i></a></li>
                             
                         </ul>
                     </li>
@@ -393,25 +462,31 @@
     <!--======= RIGHTS =========-->
     <div class="rights">
         <div class="container">
-            <ul class="row">
-                <li class="col-md-8">
-                    <p>All Rights Reserved © ShippingExchange.com</p>                    
+            <ul class="row" id="siteseal">
+                <li class="col-md-2">
+                    <span class="siteseal">
+                        
+                        
+                    </span>
+                </li>
+                <li class="col-md-5">
+                    <p>All Rights Reserved © ShippingExchange.com</p>
                 </li>
                 <!--======= SOCIAL ICON =========-->
-                <li class="col-md-4">
-                    <ul class="social_icons">                   
+                <li class="col-md-5">
+                    <ul class="social_icons">
                         <li class="facebook"><a href="https://www.facebook.com/shippingexchange" target="_blank"><i class="fa fa-facebook"></i></a></li>
                         <li class="googleplus"><a href="https://plus.google.com/+ShippingexchangeCom/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
                         <li class="twitter"><a href="https://twitter.com/ShippingXchange" target="_blank"><i class="fa fa-twitter"></i></a></li>
                         <li class="pinterest"><a href="https://www.pinterest.com/shippingexch/"><i class="fa fa-pinterest"></i></a></li>
                         
-                        <li class="linkedin"><a href="https://www.linkedin.com/company/3215249?trk=tyah" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="linkedin"><a href="https://www.linkedin.com/company/shipping-exchange" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                         
                     </ul>
                 </li>
             </ul>
         </div>
-    </div>
+    </div>  
 </footer>
 
 
@@ -458,7 +533,7 @@
         // <!--End of Tawk.to Script-->
 
     </script>
-    <script src="/Content/FooterJs.js?v=xLR9X1pBFpWdKjdElW0QtLhwTgVxhR8zc0Qu0Bi9i9s1"></script>
+    <script src="/Content/FooterJs.js?v=h__-_QbeU_rPhd1-TSfyi_htAo2rYEniVg9ba0Nt_ag1"></script>
 
 
 
