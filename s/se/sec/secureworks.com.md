@@ -1,79 +1,110 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035652id_/http%3A//www.secureworks.com/contact/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215155158id_/https%3A//www.secureworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dell SecureWorks
+# Privacy Policy | SecureWorks
 
-### **About Dell SecureWorks**
+## Privacy Statement
 
-With thousands of customers, Dell SecureWorks, Inc. ("Dell SecureWorks") is one of the market's leading Security as a Service providers. Organizations are protected from external and internal cyber-threats through Dell SecureWorks' On-Demand Security Information and Event Management (SIEM) platform, the Dell SecureWorks Counter Threat Unit™ and three fully synchronous [Security Operations Centers (SOCs)](http://www.secureworks.com/it_security_services/advantage/soc/ "SOC") staffed with SANS GIAC certified analysts working 24x7 to safeguard customer systems. 
+This Privacy Statement applies to information Dell SecureWorks, Inc. (“Dell SecureWorks,” “we,” “us,” or “our”) collects about you via the [www.secureworks.com](http://www.secureworks.com/) website (our “Website”). Dell SecureWorks is part of the Dell group of companies.
 
-### **The Information Dell Secureworks Collects via its Website**
+For purposes of this Privacy Statement, "Business Partners" means subcontractors, vendors or other entities with whom we have ongoing business relationships to provide products, services or information. "Personal Information" means information that can identify you, such as your name, telephone number and email address.
 
-This site is provided by Dell SecureWorks. Dell SecureWorks collects information in several ways from different parts of this site. Dell SecureWorks collects personal information from you when you register with this site. Dell SecureWorks also may ask you for personal information at other times, such as when you ask a question or report a problem with this site. If you contact Dell SecureWorks, Dell SecureWorks may keep a record of that session or correspondence, including a record of your email address. Dell SecureWorks may also occasionally ask users to complete surveys for research purposes. There also may be services on this site that require you to fill out an online form or send Dell SecureWorks an email message in order to utilize these services. Dell SecureWorks collects any information that you provide, including any personal information. 
+This Privacy Statement does not apply to the websites of any of our affiliates or Business Partners; or to any other third parties, even if links to their websites are on our Website. We recommend you review the privacy statements of the other parties with whom you interact.
 
-Dell SecureWorks also may collect IP addresses and domain names of users of this site to measure the number of visits, pages visited, average time spent on this site, and similar items. 
+### Information Dell SecureWorks Collects
 
-"Cookies" are used in connection with this site. A cookie is a small amount of identifier data that is sent to your browser from a web server and stored on your computer's hard drive. By using cookies, information is potentially collected without your express knowledge. Most browsers are initially set to accept cookies but you can change the setting to refuse cookies or to be alerted when cookies are being sent. While refusal to accept cookies will not prevent the use of portions of this site, some portions of this site may not function properly without cookies. 
+When you use our Website, we may ask you to provide Personal Information when you:
 
-### **How Dell SecureWorks Uses the Information it Collects**
+  * Use our Website;
+  * Request quotes, services, support, downloads, trials, whitepapers or information;
+  * Place orders for products or services or register for events or webinars;
+  * Participate in a survey;
+  * Apply for a job, submit your resume/CV or create a candidate profile;
+  * Register with this site;
+  * Ask a question or report a problem with this site;
+  * or Contact us for any other reason.
 
-Dell SecureWorks uses the information it collects through this site to improve its marketing and promotional efforts, to improve its content, and to customize this site's services, content, and layout. Dell SecureWorks may provide the information it collects through this site to Dell SecureWorks business partners and to third parties who provide services on Dell SecureWorks behalf. Dell SecureWorks may use the information it collects through this site to inform you of new services, changes, or promotions. If you do not want us to send you this type of information, please let us know by contacting us at 404-327-6339. We will not disclose your personal information to third parties except as described in this Privacy Policy without first informing you of such change in our disclosure practices and providing you a choice regarding such disclosure. 
 
-Generally, Dell SecureWorks may use cookies and the information they provide to: (a) remind it of who you are; (b) access your account information in order to deliver to you better and more personalized service; (c) estimate its audience size; (d) determine the nature and extent of repeat usage; and (e) measure certain traffic patterns to understand how users' habits are similar or different from one another, so that Dell SecureWorks may improve its site.   
-Dell SecureWorks understands the importance of privacy and confidentiality to users of this site. Dell SecureWorks will not share personal information you submit through this site with companies not affiliated with Dell SecureWorks for purposes of marketing or promoting events, products, or similar items, unless such events, products, or similar items are related to Dell SecureWorks, and except that Dell SecureWorks may, from time to time, make personal information available to selected third parties, but only in the aggregate. 
 
-Dell SecureWorks may provide the information it collects through this site to one or more third parties in the event that all or part of Dell SecureWorks or all or part of Dell SecureWorks assets are acquired by, merged with, sold to, or otherwise disposed of to one or more third parties (including, without limitation, in the event of bankruptcy). Dell SecureWorks may also disclose information it collects through this site when required to do so by a court, regulatory agency, subpoena, law, regulation, or other body of competent jurisdiction and authority, and for administrative and other purposes that Dell SecureWorks deems necessary to maintain, service, and improve its products and services and to protect its rights and property. Finally, if you become involved in any violation of security, Dell SecureWorks may release information about you to system administrators at other sites in order to assist them in resolving security incidents. 
+  
 
-### **Integrity and Security**
+Personal Information we request may include your email address, name, physical address and telephone number. We may automatically collect other types of information when you visit our Website such as your network location, the Internet Protocol (IP) address of your computer, browser type and language, the Uniform Resource Locator (URL) of the website that referred you to our Website, average time spent on this site, and what sections or pages of our Website you visit.
 
-Dell SecureWorks employs commercially reasonable managerial and technical measures to help protect the security and integrity of the personal information it collects online through this site. You acknowledge, however, that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Dell SecureWorks strives to protect your personal information, Dell SecureWorks cannot ensure the security of any information you transmit to or from this site. 
+### How Dell SecureWorks Uses the Personal Information We Collect
 
-### **No Collection of Information from Children**
+  * Dell SecureWorks may use your Personal Information collected through this site to:
+  * Deliver the services or carry out the transactions you have requested;
+  * Send communications to you, such as your transaction status including order confirmation, information about new services, changes, or promotions;
+  * Customize, analyze and improve our Website’s content, services and layout, our products, and our marketing and promotional efforts;
+  * Enforce our conditions of sale, our Website terms and/or separate contracts (if applicable) with you;
+  * Prevent fraud and other prohibited or illegal activities;
+  * Protect the security or integrity of our Website, our business, or our products or services; or 
+  * For other purposes, as disclosed to you at the point of collection or as required or permitted by law
 
-Dell SecureWorks does not intend to collect personal information from children who identify themselves as being under 18 years of age. Children should not provide personal information on this site, and should ask their parents to submit a request on their behalf if they want to receive information related to this site. 
 
-### **Privacy Practices of Other sites**
 
-This Privacy Policy only address the use and disclosure of information Dell SecureWorks collects online through this site, not information that Dell SecureWorks collects through other sources. This site may include links to the sites of Dell SecureWorks' business partners or others. Dell SecureWorks is not responsible for these other sites' privacy practices, which may be different from Dell SecureWorks' privacy practices. 
+Personal Information collected may be stored and processed in the United States or in any other country in which Dell SecureWorks or its corporate affiliates, subsidiaries or agents maintain facilities. By using Dell SecureWorks products and services (including our Website), you consent to any such secure transfer or information outside your country.
 
-### **Contacting Dell SecureWorks About Your Personal Information**
+### Disclosing Personal Information
 
-If you would like to review the personal information that Dell SecureWorks has collected about you through this site in order to verify its accuracy and completeness, or if you have a question or complaint regarding Dell SecureWorks' privacy practices, please contact Dell SecureWorks at 404-327-6339 or [privacy@secureworks.com](mailto:privacy@secureworks.com). 
+We may share your Personal Information with corporate affiliates—businesses in the Dell group of companies—to carry out transactions you request, to make our business or that of our corporate affiliates more responsive to your needs, including so that our corporate affiliates may provide you with information about those affiliates’ products and services, or for research or analysis.
 
-### **Dell SecureWorks EU and Swiss Safe Harbors Policy**
+In addition, we may share Personal Information to carry out transactions you request with Business Partners that help Dell SecureWorks or our corporate affiliates customize, analyze and/or improve our communication or relationship with you. This may include requests relating to Dell SecureWorks products or services. We will only share Personal Information with Business Partners who share our commitment to protecting your Personal Information. Except as described above, we will not disclose Personal Information to third parties for their own marketing purposes unless you have provided consent.
 
-This Section of the Privacy Policy describes how Dell SecureWorks handles personal data of representatives of, and event data related to, certain customers from the European Union and Switzerland in connection with the delivery of the following managed security services: Intrusion Prevention Systems (IPS), Intrusion Detection Systems (IDS), Log Monitoring, Log Retention, Firewall Monitoring, Firewall Management, Vulnerability Scanning and Security, and other managed security and consulting  services ("Covered Services") Specifically, Dell SecureWorks adheres to the EU Safe Harbor Privacy Principles ("EU Safe Harbor") and to the Swiss EU Safe Harbor Privacy Principles (“Swiss Safe Harbor” and together with the EU Safe Harbor, the “European Safe Harbors”) with respect to certain personally identifiable information that it receives from Covered Services customers in the European Union and Switzerland related to its services ("European Personal Data"). Dell SecureWorks has various other service offerings and data collections (for example, consulting services) which are not covered by this Section of the Privacy Policy, nor by Dell SecureWorks' participation in the European Safe Harbors and Dell SecureWorks makes no European Safe Harbors representations with respect to any data collected or used in these service offerings or data collections. For further background about the European Safe Harbors, please refer to the U.S. Department of Commerce's website at <http://export.gov/safeharbor/>. 
+We may also disclose Personal Information in connection with legal orders from law enforcement or other government bodies; to combat fraud or criminal activity; as required by law or regulation; if all or part of Dell SecureWorks is sold or merges with another company; if Dell SecureWorks reasonably believes it is necessary to protect the rights of Dell SecureWorks, its customers, the public, or others; or with your consent.
 
-### **Collection and Use of European Personal Data**
+We may aggregate or de-identify information so that it does not identify you and share that and other non-personal information with selected third parties for any purpose.
 
-From its customers, Dell SecureWorks may collect name, title, address, phone, fax, pager number, and other contact information ("Contact Data") for purposes of contacting customers as necessary or appropriate to provide or support the Covered Services. Where permitted by law, Dell SecureWorks may also use this Contact Data to communicate regarding Dell SecureWorks products or services, and disclose such data to subsidiaries, business partners and independent resellers of Dell SecureWorks services for the same purposes. With respect to any sharing of European Personal Data for purposes of marketing Dell SecureWorks products and services, Dell SecureWorks obtains promises from its subsidiaries, business partners and independent resellers that such entities will use and disclose the European Personal Data for purposes of marketing Dell SecureWorks products and services only. Individuals may opt-out of further disclosures of their European Personal Data from Dell SecureWorks to subsidiaries, business partners and independent resellers, and further uses of their data by SecureWorks for marketing, by contacting Dell SecureWorks at 404-327-6339. If you receive a marketing communication from one our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly. 
+### Integrity and Security  
+International Data Transfer
 
-In connection with providing the Covered Services, Dell SecureWorks may collect passwords, user names, and other data from customer networks, which may incidentally include European Personal Data ("Event Data") for the exclusive purposes of performing the Covered Services on behalf of its customers. Dell SecureWorks does not control the content of the Event Data as this data is securely transmitted to Dell SecureWorks by its customers' network assets. This Event Data is merely stored and processed by Dell SecureWorks and customers are informed that the Event Data may be transmitted outside the EU or Switzerland. Customers are responsible for warranting that the customer had the full authority to transmit such Event Data to Dell SecureWorks for purposes of the Covered Services. At all times with respect to Event Data, and not for any other purpose under US federal or state law, Dell SecureWorks acts as a mere "data processor" (as that term is defined under applicable EU or Swiss law or otherwise referred to under the European Safe Harbors as an "agent") on behalf of its customers. 
+Dell SecureWorks employs data protection measures designed to meet international cross-border data transfer requirements to protect Personal Information.
 
-### **Data Integrity and Access**
+In addition to these measures, in connection with the delivery of the following managed security services: Intrusion Prevention Systems (IPS), Intrusion Detection Systems (IDS), Log Monitoring, Log Retention, Firewall Monitoring, Firewall Management, Vulnerability Scanning and Security, and other managed security and consulting services ("Covered Services"), Dell SecureWorks also complies with the U.S. – E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland. Dell SecureWorks has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dell SecureWorks’ certification, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/")
 
-Dell SecureWorks takes commercially reasonable precautions to protect European Personal Data from loss, misuse and unauthorized access, disclosure, alteration, and destruction. 
+### Selecting Your Communication Preferences & Accessing Your Personal Information
 
-To the extent necessary or appropriate consistent with its role as a data processor, Dell SecureWorks makes reasonable efforts to keep Event Data reliable for its intended use, accurate, current, and complete. Dell SecureWorks makes reasonable efforts to keep all other European Personal Data reliable for its intended use, accurate, current, and complete. Dell SecureWorks also provides customer contacts with the opportunity to access, review and correct their own Contact Data, and otherwise provides customers access in accordance with the European Safe Harbors. Dell SecureWorks will respond to the request within 30 days. 
+If you would like to stop receiving future marketing communications, or wish to review or modify your Personal Information, please contact us at 404-327-6339 or [privacy@secureworks.com](mailto:privacy@secureworks.com). Please allow up to 30 days for any request regarding email preferences to take effect. We will then retain your information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal, regulatory or compliance obligations. Even when you opt out of receiving marketing communications, we may still communicate with you in connection with servicing your account, fulfilling your request, or administering any promotion or any program in which you have elected to participate.
 
-As a data processor, Dell SecureWorks has no direct relationship with the individuals whose European Personal Data may be included in Event Data processed by Dell SecureWorks. Individuals, who may be clients' customers or employees, seeking to correct, amend or delete European Personal Data included in Event Data should first contact their company's representative (i.e., Dell SecureWorks' customer), the data controller, who provided the data to Dell SecureWorks. The customer will then provide access to the individual as determined under the applicable local data protection law and Dell SecureWorks will cooperate with the customer per the established contractual arrangements. 
+### No Collection of Personal Information from Children
 
-### **Other Disclosures**
+Dell SecureWorks does not intend to collect personal information from children who identify themselves as being under 18 years of age. If you are under 18 years of age, please do not submit any Personal Information on this site without the express consent and participation of a parent or guardian.
 
-Dell SecureWorks may also disclose European Personal Data as necessary in connection with the sale or transfer of all or part of its business, provided that it will notify affected customers in accordance with the procedure for changing this Privacy Statement as noted above. In situations where Dell SecureWorks discloses European Personal Data to any third parties acting as "agents" on behalf of Dell SecureWorks, Dell SecureWorks will require the recipient to protect the data in accordance with the relevant principles in the European Safe Harbors, or otherwise take steps to ensure that the European Personal Data is appropriately protected. Dell SecureWorks may also disclose European Personal Data where required or permitted by law, where Dell SecureWorks believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by the European Safe Harbors, or in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply Dell SecureWorks agreements. 
+### Cookies and Log Files  
+How We Use Cookies
 
-### **Questions**
+Our Website uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file.
 
-If you have any questions about this European Safe Harbors Privacy Statement, or if you would like to request access to European Personal Data that Dell SecureWorks may maintain about you, please contact us as follows: 
+We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly. Generally, Dell SecureWorks may use cookies and the information they provide to: (a) personalize your online experience; (b) access your account information; (c) estimate its audience size; (d) determine the nature and extent of repeat usage; and (e) measure certain traffic patterns to understand how users' habits are similar or different from one another so that we may improve our Website.
 
-General Counsel  
-Dell SecureWorks, Inc.  
-One Concourse Pkway, Suite 500  
-Atlanta, GA 30328 
+You have the ability to accept or decline cookies. Many web browsers automatically accept cookies by default, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our Website and services that depend on cookies.
 
-Email: [info@secureworks.com](mailto:info@secureworks.com "Info at Secureworks")
+### Analytics / Log Files
 
-Any questions regarding Dell SecureWorks' European Safe Harbors Participation should first be directed to the Dell SecureWorks contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the EU or Swiss Data Protection Authorities for further information. 
+As is true of most web sites, our Website gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We may link this automatically-collected data to Personal Information in order to personalize our communications with you.
 
-### **Changes to This Privacy Policy**
+### Links to External Websites
 
-Dell SecureWorks can revise this Privacy Policy (including the European Safe Harbors Policy) at any time by updating this posting. Please consult this Privacy Policy regularly. ** **
+This Privacy Statement applies only to the use and disclosure of Personal Information Dell SecureWorks collects online through this Website. This Website may include links to the sites of Dell SecureWorks' Business Partners or to those of other third parties. Dell SecureWorks cannot control and is not responsible for the privacy practices of such third-party sites. SecureWorks encourages users to be aware when they leave our Website, and to read the privacy statements of each website they visit.
+
+### Data Integrity and Access
+
+Dell SecureWorks employs commercially reasonable managerial and technical measures to protect the security and integrity of Personal Information collected online at this Website. You acknowledge, however, that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Dell SecureWorks strives to protect your personal information, Dell SecureWorks cannot ensure the security of any information you transmit to or from this site. 
+
+### Expressing Preferences if You are a Customer of a Dell SecureWorks Client
+
+Dell SecureWorks has no direct relationship with the individuals whose personal information may be included in event data processed by Dell SecureWorks. Individuals, who may be clients' customers or employees, seeking to correct, amend or delete personal information about them that may be included in such event data should direct his or her query to a representative of the Dell SecureWorks customer (the data controller) who provided the data to Dell SecureWorks. If the client asks Dell SecureWorks to remove the data, Dell SecureWorks will respond to the request as soon as reasonably practicable. If you are a customer of one of our clients and would no longer like to be contacted by that client, please directly contact the client of which you are a customer. 
+
+### How to Contact Us
+
+If you would like to contact us for any reason regarding our privacy practices, please contact Dell SecureWorks via email at legal@secureworks.com or by sending postal mail to the following address:
+
+General Counsel Dell SecureWorks, Inc. One Concourse Pkway, Suite 500 Atlanta, GA 30328 Email: [legal@secureworks.com](mailto:legal@secureworks.com)
+
+  
+
+
+### Changes to This Privacy Statement
+
+Dell SecureWorks may occasionally update this Privacy Statement. If Dell SecureWorks materially changes this Privacy Statement or how we use your Personal Information, we will revise this Privacy Statement to reflect such changes and revise this Privacy Statement’s effective date, located at the end of this section. We encourage you to periodically review this Privacy Statement.
+
+Effective Date: December 10, 2015
