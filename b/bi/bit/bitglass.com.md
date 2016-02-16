@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitglass.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025508id_/http%3A//www.bitglass.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitglass.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216182928id_/http%3A//www.bitglass.com/privacy_policy) for the most accurate reproduction.*
 
 # Bitglass, Inc. Privacy Policy
 
