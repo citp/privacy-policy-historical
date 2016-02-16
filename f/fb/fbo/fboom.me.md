@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fboom.me privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911051917id_/http%3A//fboom.me/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fboom.me privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216133238id_/http%3A//fboom.me/page/policy.html) for the most accurate reproduction.*
 
 # FileBoom Privacy Policy
 
