@@ -1,57 +1,49 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821002507id_/http%3A//www.olx.ph/index.php/faq%2Bview/category/11/OLX.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216224635id_/http%3A//help.olx.ph/hc/en-us/articles/213529587) for the most accurate reproduction.*
 
-# FAQ - OLX.ph Rules and Policies - Philippines
+# Protecting your privacy – Help Center OLX
 
-**Introduction**
+**A. Overall Privacy**
 
-OLX Philippines respects each individual’s right to personal privacy.  We will collect and use information through our Website only in the ways disclosed in this statement.  This statement applies solely to information collected at OLX Philippines’ Website.
+At OLX Philippines, we value your privacy. Rest assured that the information you provide when you use our websites and related applications will be collected and used in the manner stated in this Policy.
 
-**Part I.   Information Collection**
+**B. What Information We Collect**
 
-OLX Philippines collects information through our Website at several points.  We collect the following information about primary visitors: Name and E-mail Address.
+The information we collect depends on whether you are a visitor or a member.
 
-OLX Philippines does not actively market to children, and we never knowingly ask a child under eighteen (18) to divulge personal information.
+  1. If you are a visitor, you provide us with information of what service you use and how you use it. Technically speaking, this includes:
+    * Log information, such as information on how you use our service (e.g. time or duration of your use), browser cookies, web beacons;
+    * information, such as IP address, operating system version, device settings, hardware model, device identifiers, and Subscriber Identity Module (SIM) number for some mobile devices, if available; and,
+    * Other information.
+  2. If you are a member, aside from the information above, you also provide us with your name, mobile number, and email address. These pieces information serve as our point of contact with our members. Our registration forms and profile update forms also ask for other information, such as birthday, gender and location. You have the option to provide us with these pieces of information or not.
+  3. To maintain the accuracy of members’ personal information, they may access this at any time and change any inaccuracies they may find by updating their profile. Members also have the option to delete their information from our database by updating their profile or sending us a support ticket to deactivate their account. 
 
-We collect the following general data that is not personally identifiable information: Birthday and Gender.  We collect demographic data in order to perform general analysis of our traffic that can help us improve our system better.
 
-We collect personal information through registration forms and profile update forms.  The information is collected voluntarily.   To receive our services, Name and E-mail Address is mandatory because our system needs a point of contact with our members.  On the other hand, other information we request is optional.
 
-We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable OLX Philippines to track usage patterns and deliver customized content to users.  Our cookies do have an expiration date. Our cookies do not collect personally identifiable information.
+**C. How we Use Your Personal Information**
 
-We store the IP address of the computer or device used to access our system.  IP address is a unique identifier that identifies your computer or device in the internet.
+All information that you provide us, including information you post in the site, may be collected and processed.  Also, by using our services, you consent to the collection, transfer, processing and storage of information we collect whether done within or outside of the Philippines. We assure you that our actions concerning your personal information will be guided by this Privacy Policy.
 
-**Part II.   Information Usage**
+  1. The information you provide us may be used in any of the following manner:
+    * To provide better and customized service to you.
+      * We are able to do this with your help. By using your cookies, we are able to track usage patterns and deliver customized content to all users. A cookie is a small text file that our Web server places on a user’s computer hard drive as a unique identifier. Our cookies have an expiration date.
+      * We also provide communications services to our members. Our members receive e-mails, SMS and Push Notifications (in mobile apps) regarding items posted in our system. We also send additional announcements about products, services, special deals and newsletters. Members may opt not to receive these types of communications.
+      * We may also use the information we collect from you to improve our products and services and to develop new ones.
+  2. _For information sharing.  _ Subject to applicable law, we may share, transfer, and disclose the information we collect, to the following:
+    * Companies that form part of our group of companies, to enable them to offer or improve their respective services or products;
+    * Service providers that help us provide our services, to the extent needed to perform their duties and their functions;
+    * Government authorities, at their request and only when legally required to do so; and,
+    * Purchasers or potential purchasers of our rights and obligations relating to the services we provide. In this case, all information collected are deemed assets that may be transferred to such third parties.
+  3. _Necessary to Protect Legitimate Interests_.  The information we collect may also be shared, transferred and disclosed when this is necessary:
+    * To protect the rights and interests of OLX Philippines, business partners, customers or third parties, as may be required and permitted by law; and
+    * To pursue your legitimate interests, as may be required or permitted by law.
+  4. _Advertisement in different media_. Images and information uploaded or posted may be used to advertise OLX Philippines and its services in different media (i.e., Above-the-line, Below-the-line, SEM, Social Media advertising). Information may be used for the conduct of promotions and advertisements through e-mails, SMS and Push Notifications.
+  5. _Location identification._ Through information provided by the device you use to access our Apps and services, we are provided with IP addresses and other locational information. An IP Address is a unique identifier that identifies your computer or device in the Internet. These information are used to identify the location of the device (i.e., town, city and country), and these are added to all data that are submitted to the system.
+  6. _Market analysis._ The information we collect may be used for assessment, record keeping, market analysis and generation of reports.
 
-The information collected by OLX Philippines will be used for the purpose of getting in touch with the members.  Users who provide information will receive e-mail notification services regarding items posted in our system.
 
-Registered users will receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option not to receive these types of communications.
 
-The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We will not supplement information collected at our Website with data from other sources.
+**D. How We Secure your Personal Information.**
 
-Subject always to applicable law, OLX Philippines may share the data of users and members (particularly, names and contact information such as email addresses and phone numbers) with companies that form part of the same group of companies as OLX Philippines (the "Group Companies"). Such sharing of data shall solely be for the purpose of allowing the Group Companies to offer their respective services/products to users and members if, in OLX Philippines's opinion, the users and members will be interested in such services/products.  In addition, OLX Philippines may advertise the site in different medium, but not limited to - Above-the-line, Below-the-line, SEM, Social Media advertising.  OLX Philippines may use images/data uploaded by users for its advertising materials.
+We endeavor to protect your information by using secure servers. Sufficient physical and technical methods and procedures are employed to safeguard and secure the information from unauthorized or unlawful processing. We have no control, however, over any information you provide when you leave our Apps. Our Apps offers listings, chats, forums and/or message boards, as well as links to third-party websites. When you click on these links, you effectively leave our Apps.
 
-OLX Philippines may be directed by any competent governmental authority to disclose such data. In those cases, OLX Philippines shall not be held liable for the disclosure.
-
-We offer links to other Websites.  Please note: When you click on links to other Websites, we encourage you to read their privacy policies.  Their standards may differ from ours.
-
-Our Website offers listings, chats, forums and/or message boards.  Please be advised that information posted in these venues becomes public knowledge.
-
-The IP address of the computer or device related to your last access to our system will be used to identify its location (town, city and country).  This location will be added to all data that you have submitted to the system.
-
-If our policy on information collection or uses changes, we will advise you through our monthly newsletter or by posting an announcement through our system.
-
-**Part III.   Access to Information**
-
-OLX Philippines maintains the accuracy of our information.  Users may access their own personal information and change any inaccuracies they may find by updating their profile.  Users may delete their information from our database by updating their profile or sending us a support ticket to deactivate their member account.
-
-**Part IV. Problem Resolution**
-
-If problems arise, members and/or users may contact OLX Philippines by submitting a support ticket at our Help Center.  We are committed to resolving disputes within the most expedient time.
-
-**Part V. Data Storage and Security**
-
-OLX Philippines uses reasonable endeavors to protect user information by using secure servers. Nonetheless, OLX Philippines may not be held liable for any loss of information and/or data.
-
-**Part VI. Third Party Advertising**
-
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+To ensure your protection, we encourage you to read their privacy policies. We also have no control over third-party advertising companies that serve ads when you visit our Apps. They may use information about your visits to our Apps and other websites in order to provide advertisements about goods and services that may be of interest to you. While we will not provide them your name, address, email address, or telephone number, we do not control their collection of information.
