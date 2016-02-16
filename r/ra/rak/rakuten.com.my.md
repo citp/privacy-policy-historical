@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the rakuten.com.my privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218050511id_/http%3A//www.rakuten.com.my/policy/privacy/%3Fl-id%3Dmy__footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com.my privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216192047id_/http%3A//www.rakuten.com.my/policy/privacy) for the most accurate reproduction.*
 
 # Rakuten Malaysia: Privacy Policy - Our Policies
+
+  * [Home](https://web.archive.org/)>
+  * Privacy Policy (English Version)
+
+
 
 Rakuten Malaysia Sdn. Bhd. ("RMSB") is committed to safeguarding your privacy online. In general, RMSB does not intentionally disclose individually identifiable personal information about our users to any third party without receiving this that user’s consent.
 
@@ -64,3 +69,5 @@ Tel: 03-2282 8262
 Email: my-inquiry@rakuten.com.my
 
  _This document was last updated on September 1, 2013_
+
+**Request ID:** 73655a7374d6e46cef53dd307733cdf8
