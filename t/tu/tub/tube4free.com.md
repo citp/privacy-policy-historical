@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tube4free.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223110858id_/http%3A//cs.securegatewayaccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube4free.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216013141id_/http%3A//cs.securegatewayaccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
