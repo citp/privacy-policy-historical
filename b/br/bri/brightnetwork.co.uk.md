@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightnetwork.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217031832id_/http%3A//www.brightnetwork.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnetwork.co.uk privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216032449id_/https%3A//www.brightnetwork.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bright Network
 
