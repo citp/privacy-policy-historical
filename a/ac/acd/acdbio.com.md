@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acdbio.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808181143id_/http%3A//www.acdbio.com/about/advanced-cell-diagnostic-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdbio.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216092241id_/http%3A//www.acdbio.com/store/privacy-policy) for the most accurate reproduction.*
 
-# Advanced Cell Diagnostic Privacy Policy
+# Privacy Policy
 
 Welcome to acdbio.com, which is owned and operated by Advanced Cell Diagnostic (“Advanced Cell Diagnostic” or “we”), 3960 Point Eden Way, Hayward, CA 94545. This Privacy Policy is designed to explain our practices regarding the collection and use of information received from you and/or your company.
 
