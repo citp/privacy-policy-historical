@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitschigogerl.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815204556id_/http%3A//fitschigogerl.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitschigogerl.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216012825id_/http%3A//fitschigogerl.com/page/privacy) for the most accurate reproduction.*
 
 # Fitschigogerl AG
 
