@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverplex.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812214352id_/http%3A//driverplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverplex.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216023325id_/http%3A//driverplex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
