@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click4surveys.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213012538id_/http%3A//click4surveys.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click4surveys.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216213759id_/http%3A//click4surveys.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Click4Surveys - Privacy Policy
 
