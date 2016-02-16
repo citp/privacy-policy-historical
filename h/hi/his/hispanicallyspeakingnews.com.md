@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hispanicallyspeakingnews.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217135425id_/http%3A//www.hispanicallyspeakingnews.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hispanicallyspeakingnews.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216161531id_/http%3A//www.hispanicallyspeakingnews.com/common/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HispanicallySpeakingNews.com
 
