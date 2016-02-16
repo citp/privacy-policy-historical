@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218051021id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216215312id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
 
 # Work at Home Jobs: Free Legitimate Work From Home Job Opportunities
 
