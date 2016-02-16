@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcodegeeks.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141411id_/http%3A//www.webcodegeeks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcodegeeks.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216130935id_/http%3A//www.webcodegeeks.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Code Geeks
+# Privacy Policy | Web Code Geeks - 2016
 
 Web Code Geeks is committed to protecting your privacy. The following privacy policy describes the ways in which Web Code Geeks gathers and shares your personal information as well as how you can access and update this information. Web Code Geeks reserves the right to update this privacy policy at any time. Any modifications to our privacy policy will be reflected on Web Code Geeks. If there is a material change in our privacy policy, we will indicate on [www.webcodegeeks.com](http://www.webcodegeeks.com/) our privacy policy has changed and provide a link to the new privacy statement.
 
