@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unifiedsocial.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504025750id_/http%3A//www.unifiedsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unifiedsocial.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216220031id_/http%3A//www.unifiedsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Unified Social
+# Privacy Policy | Unified Social | Unified
 
 Unified Social, Inc. is an enterprise social media advertising technology company. This privacy policy ("Policy") describes how we obtain and treat information on behalf of our advertisers, agencies, data partners and other businesses ("Clients") that use our advertising technology (“Platform”), and on behalf of ourselves on our corporate website located at www.unifiedsocial.com ("Website"). This Policy also describes how we treat personally identifiable information that we obtain via our products and services (“Services”), including our Website, and that may be provided to us by our third party partners. 
 
@@ -8,7 +8,7 @@ For the purposes of this Policy, we will use interchangeably the terms "Unified"
 
 #### Safe Harbor Privacy Principles
 
-We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that Unified Social adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. 
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that Unified Social adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](https://www.export.gov/safeharbor/). 
 
 ## PRIVACY PRACTICES FOR OUR WEBSITE
 
@@ -24,7 +24,7 @@ If you'd like us to delete any PII that you have provided to us, please send you
 
 #### Cookies
 
-Like most websites, we use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. You have the option of blocking the use of cookies by changing a setting in your browser. You can check your browser supplier's website for details on how to do this. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies>. 
+Like most websites, we use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. You have the option of blocking the use of cookies by changing a setting in your browser. You can check your browser supplier's website for details on how to do this. For more information about cookies and web beacons please visit [http://www.allaboutcookies.org/cookies](https://www.allaboutcookies.org/cookies). 
 
 #### Third Party Websites
 
@@ -52,7 +52,7 @@ We take precautions - including technical, administrative and physical measures 
 
 #### Ad Choices / Opt-out
 
-Unified uses third-party advertising partners who collect non-PII via this Website to tailor advertising messages on other Websites. We are supportive of the Network Advertising Initiative and Digital Advertising Alliance self-regulatory programs for behavioral advertising. If you would like more information about behavioral advertising and would like to understand more about your privacy choices, please visit <http://www.aboutads.info/choices/> or <http://www.networkadvertising.org/choices/>. Currently, the standards regarding the Do Not Track (“DNT”) signals and appropriate responses are not defined. Accordingly, we do not assign a meaning to DNT signals. 
+Unified uses third-party advertising partners who collect non-PII via this Website to tailor advertising messages on other Websites. We are supportive of the Network Advertising Initiative and Digital Advertising Alliance self-regulatory programs for behavioral advertising. If you would like more information about behavioral advertising and would like to understand more about your privacy choices, please visit [http://www.aboutads.info/choices/](https://www.aboutads.info/choices/) or [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/). Currently, the standards regarding the Do Not Track (“DNT”) signals and appropriate responses are not defined. Accordingly, we do not assign a meaning to DNT signals. 
 
 #### Access to Information
 
@@ -74,7 +74,7 @@ For questions or concerns relating to privacy, please send us an email at [suppo
 
 In compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Principles, Unified Social commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at [support@unifiedsocial.com](mailto:support@unifiedsocial.com). 
 
-We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the privacy department at Unified Social, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the privacy department at Unified Social, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 Council of Better Business Bureaus, Inc.  
 BBB EU Safe Harbor  
