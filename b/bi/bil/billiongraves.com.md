@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907142036id_/https%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216145724id_/https%3A//billiongraves.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Billion Graves
+# BillionGraves | Cemetery & Headstone Records
 
-This privacy notice discloses the privacy practices for  **billliongraves.com**. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+[](https://web.archive.org/)
+
+_search_
+
+Search BillionGraves
+
+### PRIVACY POLICY
+
+This privacy notice discloses the privacy practices for  **billiongraves.com**. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
@@ -11,15 +19,15 @@ This privacy notice discloses the privacy practices for  **billliongraves.com**
 
 
 
-**Information Collection, Use, and Sharing**    
+ **Information Collection, Use, and Sharing**    
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-**Your Access to and Control Over Information**    
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [contact us](https://web.archive.org/web/20150907142036id_/https%3A//billiongraves.com/contactus.php) form on our website:
+ **Your Access to and Control Over Information**    
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [contact us](https://web.archive.org/contact-us/) form on our website:
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
@@ -28,4 +36,4 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via the[Contact Us Form](https://web.archive.org/web/20150907142036id_/https%3A//billiongraves.com/contactus.php)**
+ **If you feel that we are not abiding by this privacy policy, you should contact us immediately via the[Contact Us Form](https://web.archive.org/contact-us/).**
