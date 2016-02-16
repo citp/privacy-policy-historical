@@ -1,0 +1,1519 @@
+<!--The following is the downloaded HTML source of the naazcouture.com privacy policy that was archived on 2016-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160216074447id_/http%3A//www.naazcouture.com/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<base href="http://www.naazcouture.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+							
+<link href="http://www.naazcouture.com/image/data/logo.png" rel="icon">
+<meta name="p:domain_verify" content="1f9f6dc81a1a693e67f4c47b0471b03b">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/boilerplate.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/style.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/slick.io/slick-theme.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/slick.io/slick.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/magnify_assets/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/bootstrap.min.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/font-awesome.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/bootstrap-theme.min.css" media="screen">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Biryani:400,700,300" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/custom.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/mmenu/css/demo.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/mmenu/css/jquery.mmenu.all.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/sep2015/stylesheet/flags.css" media="screen">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?3K2MOiV0AYJMRNcyafls63KUTj5HOG6v" type="text/javascript"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" src="catalog/view/theme/sep2015/js/respond.min.js"></script>
+<script type="text/javascript" src="catalog/view/theme/sep2015/js/jquery-2.1.3.js"></script>
+<script type="text/javascript">
+var base_url = 'catalog/view/theme/sep2015/';
+$(document).ready(function(e) {	
+	$('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+<script type="text/javascript" src="catalog/view/theme/sep2015/slick.io/slick.min.js"></script>
+<script type="text/javascript" src="catalog/view/theme/sep2015/magnify_assets/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="catalog/view/theme/sep2015/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/theme/sep2015/js/custom.js"></script>
+<script type="text/javascript" src="catalog/view/theme/sep2015//mmenu/js/jquery.mmenu.min.all.js"></script>
+<!--[if IE 7]> 
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Biryani:400,700,300:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '880123468722862', // Set YOUR APP ID
+      channelUrl : '', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+   FB.Event.subscribe('auth.authResponseChange', function(response){
+		 if (response.status === 'connected'){
+			//SUCCESS
+		 } else if (response.status === 'not_authorized') {
+			//alert("not authorized");
+			//FAILED
+		 } else {
+			//alert("logged out");
+	 
+			//UNKNOWN ERROR
+		 }
+	   }); 
+   };
+   function registerInfo(){
+	    FB.api('/me', { locale: 'en_US', fields: 'first_name,last_name,name,email' }, function(response) {
+          $.ajax({
+			type: "POST",
+			url: 'index.php?route=account/fbconnect',
+			data: {"first_name":response.first_name,"last_name":response.last_name,"email":response.email,"id":response.id,"city":'',"address":''}
+  		  }).done(function( msg ){
+		    location.href=location.href;
+		  });
+      });
+	}
+    function fb_login(){
+		$('.fb_loader').fadeIn(800);
+        FB.login(function(response) {
+           if (response.authResponse){
+				registerInfo();
+				console.log('User Logged in  fully authorize.');
+            } else {
+				$('.fb_loader').fadeOut(800);
+             	console.log('User cancelled login or did not fully authorize.');
+            }
+         },{scope: 'email,user_hometown,user_address'});
+	}
+    function getPhoto(){
+      FB.api('/me/picture?type=normal', function(response) { 
+         return response.data.url;
+      });
+    }
+    function Logout(){
+        FB.logout(function(){document.location.reload();});
+    }
+  // Load the SDK asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+<script type="text/javascript">
+/*function center_main_menu(){
+	logo_half_width = $('.logo_wrap').innerWidth();
+	/*if($(window).innerWidth()>=787 && $(window).innerWidth()<=1099){
+		width = 0;
+		count=0;
+		$('.menu_ul > li').each(function(index, element) {
+			if(count<5){
+				width += $(this).outerWidth(true);
+			}
+			count++;
+		});
+		$('.menu_ul').css('padding-left',(($(window).width() - width-logo_half_width)/2)+'px');
+	}else if($(window).innerWidth()>=1100 && $(window).innerWidth()<=1399){
+		width = 0;
+		count=0;
+		$('.menu_ul > li').each(function(index, element) {
+			if(count<5){
+				width += $(this).outerWidth(true);
+			}
+			count++;
+		});
+		$('.menu_ul').css('padding-left',(($(window).width() - width-logo_half_width)/2)+'px');
+	}else{
+		width = 0;
+		$('.menu_ul > li').each(function(index, element) {
+			width += $(this).outerWidth(true);
+		});
+		$('.menu_ul').css('padding-left',(($(window).width() - width-logo_half_width)/2)+'px');
+	}*/
+	/*if($(window).scrollTop()>=150){
+		$('.menu_ul > li').removeAttr('style');
+	}else{
+		width=0;//parseFloat($('.menu_ul').css('padding-left').replace(/px/,''));
+		first_half_width = ($(window).innerWidth() - logo_half_width)/2;
+		margin_flag=true;
+		$('.menu_ul > li').removeAttr('style');
+		$('.menu_ul > li').each(function(index, element) {
+			width += $(this).outerWidth(true);
+			if(margin_flag && width>first_half_width){
+				$(this).attr('style','margin-right:'+(first_half_width+logo_half_width - width+($(this).outerWidth(true)-35)) + 'px !important;');
+				margin_flag=false;
+			}
+		});
+	}
+}
+$(window).resize(function(){ center_main_menu(); });
+$(document).ready(function(){ center_main_menu(); });
+$(window).load(function(){ center_main_menu(); });*/
+</script>
+<script type="text/javascript">
+$(window).scroll(function(){
+	if($(window).scrollTop()>=150){
+		if(!$('.fix_menu_wrap').hasClass('active')){
+			$('.fix_menu_wrap,.logo_wrap').addClass('active');
+			width = 0;
+			$('.fix_menu_wrap.active ul.menu_ul > li').each(function(index, element) {
+				width += $(this).outerWidth(true);
+			});
+			parent_width = $('.fix_menu_wrap.active .gridContainer').innerWidth();
+			//$('.fix_menu_wrap.active ul.menu_ul').css('padding-left',((parent_width-width)/2)+'px');
+			if($(window).width()<1100 && $('.fixed_slider').length){
+				$('.fixed_slider').css({'padding-top':'0'});
+			}else{
+				$('.fixed_slider').removeAttr('style');
+			}
+		}
+	}else{
+		$('.fix_menu_wrap,.logo_wrap').removeClass('active');
+		//$('.fix_menu_wrap ul.menu_ul').removeAttr('style');
+		if($(window).width()<1100 && $('.fixed_slider').length){
+			logo_h = ($('.logo_wrap img').height()/3)+10;
+			fixed_menu_h = $('.fix_menu_wrap').height();
+			$('.fixed_slider').css({'padding-top':(fixed_menu_h+logo_h)+'px','background-color':'rgba(79,39,65,0.6)'});
+		}else{
+			$('.fixed_slider').removeAttr('style');
+		}
+	}
+});
+$(document).ready(function(e) {
+	$(window).trigger('scroll');
+});
+$(window).load(function(){
+	$(window).trigger('scroll');
+});
+$(window).resize(function(){
+	$(window).trigger('scroll');
+});
+</script>
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3K2MOiV0AYJMRNcyafls63KUTj5HOG6v";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#my-menu").mmenu({
+		offCanvas:{position:'right'}
+	});
+	$(document).on('click',"#my-button",function() {
+		$("#my-menu").trigger("open.mm");
+	});
+});
+$(window).load(function(){
+	if($('#filter-menu li').length){
+		$("#filter-menu").mmenu({
+			classes: "mm-light",
+			header: true  
+		},{
+			classNames:{
+				selectedClass : 'active'
+			}	
+		}).on( "closed.mm", function() {
+			filter_gallery_mobile();
+			match_mob_menu_with_desktop();
+		});
+		$(document).on('click','.menu_filter_li label.mm-toggle',function(){
+			if($(this).hasClass('active')){
+				$(this).removeClass('active');
+			}else{
+				$(this).addClass('active');
+			}
+		});
+		$("#filter-button").click(function() {
+			$("#filter-menu").trigger("open.mm");
+		});
+		$(document).on('click','.menu_option_li label.mm-toggle',function(){
+			if($(this).hasClass('active')){
+				$(this).removeClass('active');
+			}else{
+				$(this).parents('ul').find('li label.mm-toggle.active').trigger('click');
+				$(this).addClass('active');
+			}
+		});
+	}
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-67683594-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<style type="text/css">
+.featured_batch{
+	position:absolute;
+	bottom: 10px;
+    left: 10px;
+	cursor-events:none;
+	z-index:1009;
+	width:auto !important;
+}
+</style>
+			
+
+<style type="text/css">
+.new_arrival_batch{
+	position:absolute;
+	top: 0;
+    right: 0;
+	width:110px;
+	pointer-events:none;
+	z-index:1009;
+	width:auto !important;
+}
+</style>
+			
+
+<style type="text/css">
+.sale_batch{
+	position:absolute;
+	top:5px;
+	left:5px;
+	cursor-events:none;
+	z-index:1009;
+	width:auto !important;
+}
+</style>
+			
+</head>
+<body class="page">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=690832207622850";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="full_wrap">
+<!-- Menu Starts -->
+<nav id="my-menu">
+  <ul>
+    <li><a href="http://www.naazcouture.com/Home">Home</a></li>
+    <li><a href="javascript:void(0);">Couture</a>
+            <ul>
+                <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147">Bollywood</a>
+                    <ul>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_151">Bollywood Gown</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_150">Bollywood Lehenga Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_149">Bollywood Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_148">Bollywood Saree</a></li>
+                      </ul>
+                  </li>
+                <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=152">Ready Made</a>
+                    <ul>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=152_154">Ready Made Gown</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=152_153">Ready Made Salwar Suit</a></li>
+                      </ul>
+                  </li>
+                <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=144">Gown</a>
+                    <ul>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=144_146">Evening Gown</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=144_145">Wedding Gown</a></li>
+                      </ul>
+                  </li>
+                <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136">Lehenga Choli</a>
+                    <ul>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_143">A Line Lehenga Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_137">Bridal Lehenga Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_139">Designer Lehenga Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_142">Fish Cut Lehenga Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_141">Mermaid Cut Lehenga Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_140">Panetar Choli</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_138">Wedding Lehenga Choli</a></li>
+                      </ul>
+                  </li>
+                <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122">Salwar Suit</a>
+                    <ul>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_123">Achkan Style Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_124">Anarkali Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_125">Churidar Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_126">Designer Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_127">Jacket Style Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_128">Lehenga Style Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_129">Pakistani Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_130">Palazzo Style Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_133">Pant Style Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_132">Patiala Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_131">Punjabi Salwar Suit</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_135">Straight Long Salwar Suit</a></li>
+                      </ul>
+                  </li>
+                <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113">Saree</a>
+                    <ul>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_114">Bridal Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_118">Casual Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_115">Designer Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_119">Half N Half Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_117">Lehenga Style Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_121">Party Wear Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_120">Printed Saree</a></li>
+                        <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_116">Wedding Saree</a></li>
+                      </ul>
+                  </li>
+              </ul>
+          </li>
+    <li><a href="http://www.naazcouture.com/Best-Selling">Best Seller</a></li>
+    <li><a href="http://www.naazcouture.com/New-Arrivals">New Arrivals</a></li>
+    <li><a href="http://www.naazcouture.com/?route=product/special">Sale</a></li>
+    <li><a href="http://www.naazcouture.com/Membership-Discount">Membership</a></li>
+    <li><a href="http://www.naazcouture.com/About-Us">About</a></li>
+    <li><a href="http://www.naazcouture.com/Contact-Us">Contact</a></li>
+        <li><a href="http://www.naazcouture.com/Login">Login</a></li>
+    <li> <a href="http://www.naazcouture.com/Register">Create Account</a></li>
+        <li><a href="http://www.naazcouture.com/Shopping-Cart">Shopping Cart</a></li>
+    <li><a href="http://www.naazcouture.com/My-Wishlist">Wish List (<span class="wishlist_span_count">0</span>)</a></li>
+        <li><a href="javascript:void(0);">Currency</a>
+      <ul>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="AED" onclick="$('input[name=\'currency_code\']').attr('value', 'AED'); $('#currency_form').submit();">AED <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag ae"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="AUD" onclick="$('input[name=\'currency_code\']').attr('value', 'AUD'); $('#currency_form').submit();">AUD <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag au"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="CAD" onclick="$('input[name=\'currency_code\']').attr('value', 'CAD'); $('#currency_form').submit();">CAD <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag ca"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="DZD" onclick="$('input[name=\'currency_code\']').attr('value', 'DZD'); $('#currency_form').submit();">DZD <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag dz"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="EUR" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $('#currency_form').submit();">EUR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag eu"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="GBP" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $('#currency_form').submit();">GBP <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag gb"></a>
+                            </li>
+                <li>
+                              <a href="javascript:void(0);">INR  <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag in"></a>
+                  </li>
+                
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="LKR" onclick="$('input[name=\'currency_code\']').attr('value', 'LKR'); $('#currency_form').submit();">LKR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag lk"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="MUR" onclick="$('input[name=\'currency_code\']').attr('value', 'MUR'); $('#currency_form').submit();">MUR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag mu"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="MYR" onclick="$('input[name=\'currency_code\']').attr('value', 'MYR'); $('#currency_form').submit();">MYR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag my"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="NZD" onclick="$('input[name=\'currency_code\']').attr('value', 'NZD'); $('#currency_form').submit();">NZD <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag nz"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="PKR" onclick="$('input[name=\'currency_code\']').attr('value', 'PKR'); $('#currency_form').submit();">PKR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag pk"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="SAR" onclick="$('input[name=\'currency_code\']').attr('value', 'SAR'); $('#currency_form').submit();">SAR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag sa"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="SGD" onclick="$('input[name=\'currency_code\']').attr('value', 'SGD'); $('#currency_form').submit();">SGD <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag sg"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="US Dollar" onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $('#currency_form').submit();">USD <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag us"></a>
+                            </li>
+                <li>
+                  </li><li>
+                    <a href="javascript:void(0);" title="ZAR" onclick="$('input[name=\'currency_code\']').attr('value', 'ZAR'); $('#currency_form').submit();">ZAR <img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="f_right flag za"></a>
+                            </li>
+              </ul>
+    </li>
+      </ul>
+</nav>
+<nav id="filter-menu">
+  <ul>
+  </ul>
+</nav>
+<div class="logo_wrap"><a href="http://www.naazcouture.com/Home"><img src="http://www.naazcouture.com/image/data/logo.png" title="Naaz Couture" alt="Naaz Couture"></a></div>
+<div class="full_wrap" style="z-index: 2999;">
+  <div class="full_wrap"> <form action="http://www.naazcouture.com/?route=module/currency" method="post" id="currency_form" enctype="multipart/form-data">
+  <div id="currency">
+    <div class="dropdown">
+      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                                                                                <img id="cur" data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag in"> INR                                                                                                                                     <span class="caret"></span> </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" style="max-width:120%;min-width:120%;">
+                        <li>
+                    <a title="AED" onclick="$('input[name=\'currency_code\']').attr('value', 'AED'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag ae">  AED</a>
+                            </li>
+                        <li>
+                    <a title="AUD" onclick="$('input[name=\'currency_code\']').attr('value', 'AUD'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag au">  AUD</a>
+                            </li>
+                        <li>
+                    <a title="CAD" onclick="$('input[name=\'currency_code\']').attr('value', 'CAD'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag ca">  CAD</a>
+                            </li>
+                        <li>
+                    <a title="DZD" onclick="$('input[name=\'currency_code\']').attr('value', 'DZD'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag dz">  DZD</a>
+                            </li>
+                        <li>
+                    <a title="EUR" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag eu">  EUR</a>
+                            </li>
+                        <li>
+                    <a title="GBP" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag gb">  GBP</a>
+                            </li>
+                                
+                        <li>
+                    <a title="LKR" onclick="$('input[name=\'currency_code\']').attr('value', 'LKR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag lk">  LKR</a>
+                            </li>
+                        <li>
+                    <a title="MUR" onclick="$('input[name=\'currency_code\']').attr('value', 'MUR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag mu">  MUR</a>
+                            </li>
+                        <li>
+                    <a title="MYR" onclick="$('input[name=\'currency_code\']').attr('value', 'MYR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag my">  MYR</a>
+                            </li>
+                        <li>
+                    <a title="NZD" onclick="$('input[name=\'currency_code\']').attr('value', 'NZD'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag nz">  NZD</a>
+                            </li>
+                        <li>
+                    <a title="PKR" onclick="$('input[name=\'currency_code\']').attr('value', 'PKR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag pk">  PKR</a>
+                            </li>
+                        <li>
+                    <a title="SAR" onclick="$('input[name=\'currency_code\']').attr('value', 'SAR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag sa">  SAR</a>
+                            </li>
+                        <li>
+                    <a title="SGD" onclick="$('input[name=\'currency_code\']').attr('value', 'SGD'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag sg">  SGD</a>
+                            </li>
+                        <li>
+                    <a title="US Dollar" onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag us">  USD</a>
+                            </li>
+                        <li>
+                    <a title="ZAR" onclick="$('input[name=\'currency_code\']').attr('value', 'ZAR'); $('#currency_form').submit();"><img data-image="catalog/view/theme/sep2015/stylesheet/images/blank.gif" class="flag za">  ZAR</a>
+                            </li>
+              </ul>
+    </div>
+    <input type="hidden" name="currency_code" value="">
+    <input type="hidden" name="redirect" value="http://www.naazcouture.com/Privacy-Policy">
+  </div>
+</form>
+ </div>
+</div>
+<div class="fix_menu_wrap">
+  <div class="border_wrap full_wrap naaz_color"></div>
+  <div class="menu_wrap full_wrap naaz_color">
+    <div class="full_wrap">
+      <div class="full_wrap">
+        <div class="menu_icon google_biryani" id="my-button"><i class="fa fa-bars"></i> Menu</div>
+        <ul class="menu_ul google_biryani" style="padding-left:10px;padding-right:10px;">
+          <li><a href="http://www.naazcouture.com/Membership-Discount">Membership</a></li>
+          <li><a href="http://www.naazcouture.com/?route=product/special">Sale</a></li>
+                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147">Bollywood</a>
+                        <div class="sub_menu_parent black_menu">
+              <div class="hidden_container"></div>
+              <div class="full_wrap">
+                <ul>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_151">Bollywood Gown</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_150">Bollywood Lehenga Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_149">Bollywood Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=147_148">Bollywood Saree</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </li>
+                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=152">Ready Made</a>
+                        <div class="sub_menu_parent black_menu">
+              <div class="hidden_container"></div>
+              <div class="full_wrap">
+                <ul>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=152_154">Ready Made Gown</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=152_153">Ready Made Salwar Suit</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </li>
+                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=144">Gown</a>
+                        <div class="sub_menu_parent black_menu">
+              <div class="hidden_container"></div>
+              <div class="full_wrap">
+                <ul>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=144_146">Evening Gown</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=144_145">Wedding Gown</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </li>
+                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136">Lehenga Choli</a>
+                        <div class="sub_menu_parent black_menu">
+              <div class="hidden_container"></div>
+              <div class="full_wrap">
+                <ul>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_143">A Line Lehenga Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_137">Bridal Lehenga Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_139">Designer Lehenga Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_142">Fish Cut Lehenga Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_141">Mermaid Cut Lehenga Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_140">Panetar Choli</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=136_138">Wedding Lehenga Choli</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </li>
+                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122">Salwar Suit</a>
+                        <div class="sub_menu_parent black_menu">
+              <div class="hidden_container"></div>
+              <div class="full_wrap">
+                <ul>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_123">Achkan Style Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_124">Anarkali Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_125">Churidar Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_126">Designer Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_127">Jacket Style Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_128">Lehenga Style Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_129">Pakistani Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_130">Palazzo Style Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_133">Pant Style Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_132">Patiala Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_131">Punjabi Salwar Suit</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=122_135">Straight Long Salwar Suit</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </li>
+                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113">Saree</a>
+                        <div class="sub_menu_parent black_menu">
+              <div class="hidden_container"></div>
+              <div class="full_wrap">
+                <ul>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_114">Bridal Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_118">Casual Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_115">Designer Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_119">Half N Half Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_117">Lehenga Style Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_121">Party Wear Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_120">Printed Saree</a></li>
+                                    <li><a href="http://www.naazcouture.com/?route=product/category&amp;path=113_116">Wedding Saree</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border_wrap full_wrap naaz_color"></div>
+</div>
+<div class="home_bottom_fix">
+  <ul class="google_biryani home_bottom_ul other">
+    <li>
+      <div class="full_wrap border_wrap"></div>
+      <a href="http://www.naazcouture.com/My-Wishlist"><i class="fa fa-star"></i> Wish List (<span class="wishlist_span_count">0</span>)</a> </li>
+    <li>
+      <div class="full_wrap border_wrap"></div>
+            <a href="http://www.naazcouture.com/Register" class="f_right"><i class="fa fa-lock"></i> Login / Create Account</a>
+          </li>
+    <li class="top_section_container">
+      <input type="text" name="search" value="" placeholder="Search Here" class="google_biryani">
+    </li>
+    <li>
+      <div class="full_wrap border_wrap"></div>
+      <a href="http://www.naazcouture.com/Shipping"><i class="fa fa-truck"></i> Shipping</a> </li>
+    <li>
+      <div class="full_wrap border_wrap"></div>
+      <a href="http://www.naazcouture.com/Shopping-Cart"><i class="fa fa-shopping-cart"></i> Shopping Cart</a> </li>
+  </ul>
+</div>
+<script type="text/javascript">
+	$(document).ready(function(e) {
+        noti_wrap = '<div class="full_wrap notification_header_wrap"><div class="gridContainer clearfix">'+$('.notification_header_wrap .gridContainer').html()+'</div></div>';
+		$('.notification_header_wrap').remove();
+		$('.gallery_slider_warap').after(noti_wrap);
+    });
+	</script>
+<div class="full_wrap notification_header_wrap hidden">
+  <div class="gridContainer clearfix">
+        <div class="full_wrap" id="notification"></div>
+  </div>
+</div>
+<div id="content">
+  <div class="full_wrap gallery_slider_warap">
+    <div class="white_wrap"> </div>
+    <div class="full_wrap">
+      <div class="gridContainer clearfix">
+        <div class="full_wrap title_wrap">
+        	<div class="title">
+                <h1 class="google_biryani">Privacy Policy</h1>
+              </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="full_wrap">
+    <div class="gridContainer clearfix">
+      <div class="full_wrap margin_top_50">
+        <div class="full_wrap information_wrap google_biryani"> <p><span style="line-height: 1.6em;">Privacy Policy</span></p>
+
+<p>Naazcouture.com recognises the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Policy describes how we treat user information we collect on http://www.naazcouture.com and other offline sources. This Privacy Policy applies to current and former visitors to our website and to our online customers. By visiting and/or using our website, you agree to this Privacy Policy.</p>
+
+<p>Bookmyseats.in is a property of Naaz Couture, C-3103-04 Millennium Textile Market, Ring Road, Surat</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Information we collect</strong></p>
+
+<p><strong>Contact information.</strong> We might collect your name, email, mobile number, phone number, street, city, state, pincode,&nbsp; country and ip address.</p>
+
+<p><strong>Payment and billing information.</strong> We might collect your billing name, billing address and payment method when you buy a ticket. We NEVER collect your credit card number or credit card expiry date or other details pertaining to your credit card on our website. Credit card information will be obtained and processed by our online payment partner CC Avenue and PayU.</p>
+
+<p><strong>Information you post.</strong> We collect information you post in a public space on our website or on a third-party social media site belonging to Bookmyseats.in.</p>
+
+<p><strong>Demographic information.</strong> We may collect demographic information about you, events you like, events you intend to participate in, tickets you buy, or any other information provided by your during the use of our website. We might collect this as a part of a survey also.</p>
+
+<p><strong>Other information.</strong> If you use our website, we may collect information about your IP address and the browser you're using. We might look at what site you came from, duration of time spent on our website, pages accessed or what site you visit when you leave us. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running.</p>
+
+<p><strong>We collect information in different ways.</strong></p>
+
+<p><strong>We collect information directly from you.</strong> We collect information directly from you when you register for an event or buy tickets. We also collect information if you post a comment on our websites or ask us a question through phone or email.</p>
+
+<p><strong>We collect information from you passively.</strong> We use tracking tools like Google Analytics, Google Webmaster, browser cookies and web beacons for collecting information about your usage of our website.</p>
+
+<p><strong>We get information about you from third parties.</strong> For example, if you use an integrated social media feature on our websites. The third-party social media site will give us certain information about you. This could include your name and email address.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Use of your personal information</strong></p>
+
+<p><strong>We use information to contact you: </strong>We might use the information you provide to contact you for confirmation of a purchase on our website or for other promotional purposes.</p>
+
+<p><strong>We use information to respond to your requests or questions.</strong> We might use your information to confirm your registration for an event or contest.</p>
+
+<p><strong>We use information to improve our products and services.</strong> We might use your information to customize your experience with us. This could include displaying content based upon your preferences.</p>
+
+<p><strong>We use information to look at site trends and customer interests.</strong> We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.</p>
+
+<p><strong>We use information for security purposes.</strong> We may use information to protect our company, our customers, or our websites.</p>
+
+<p><strong>We use information for marketing purposes.</strong> We might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter.</p>
+
+<p><strong>We use information to send you transactional communications.</strong> We might send you emails or SMS about your account or a ticket purchase.</p>
+
+<p>We use information as otherwise permitted by law.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Sharing of information with third-parties</strong></p>
+
+<p><strong>We will share information with third parties who perform services on our behalf. </strong>We share information with vendors who help us manage our online registration process or payment processors or transactional message processors. Some vendors may be located outside of India.</p>
+
+<p><strong>We will share information with the event organizers.</strong> We share your information with event organizers and other parties responsible for fulfilling the purchase obligation. The event organizers and other parties may use the information we give them as described in their privacy policies.</p>
+
+<p><strong>We will share information with our business partners.</strong> This includes a third party who provide or sponsor an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies.</p>
+
+<p><strong>We may share information if we think we have to in order to comply with the law or to protect ourselves.</strong> We will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud.</p>
+
+<p><strong>We may share information with any successor to all or part of our business.</strong> For example, if part of our business is sold we may give our customer list as part of that transaction.</p>
+
+<p><strong>We may share your information for reasons not described in this policy.</strong> We will tell you before we do this.</p>
+
+<p><strong>Email Opt-Out</strong></p>
+
+<p><strong>You can opt out of receiving our marketing emails.</strong> To stop receiving our promotional emails, please email <a href="mailto:unsubscribe@naazcouture.com">unsubscribe@naazcouture.com</a> . It may take about ten days to process your request. Even if you opt out of getting marketing messages, we will still be sending you transactional messages through email and SMS about your purchases.<br>
+&nbsp;</p>
+
+<p><strong>Third party sites </strong></p>
+
+<p>If you click on one of the links to third party websites, you may be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Jurisdiction</strong></p>
+
+<p>If you choose to visit the website, your visit and any dispute over privacy is subject to this Policy and the website's terms of use. In addition to the foregoing, any disputes arising under this Policy shall be governed by the laws of India.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+ </div>
+      </div>
+    </div>
+  </div>
+  </div>
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $(document).on('click','.faq_link',function(){
+		$(this).parents('.faq_container').find('p').slideToggle('slow');
+	});
+});
+</script> 
+<div class="full_wrap">
+  <div class="gridContainer clearfix">
+    <div class="full_wrap testimonial_wrap google_biryani">
+      <ul id="testimonial_ul">
+                <li>
+          <div class="full_wrap testi_text"> "I love the color of all my outfits I appreciate the work done on my ordered items. its always hard to get my clothes stitched in India but this is awesome. Thank you for the fact that I got what I wanted in the size I needed. Communications to verify my orders were deeply appreciated. I will continue to shop from Naaz Couture." </div>
+          <div class="full_wrap testi_name">- Neeta Vekhariya (United Kingdom) -</div>
+          <div class="full_wrap testi_rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                                  </div>
+          <div class="add_testi_anchor full_wrap"><input type="button" name="send" value="Write your review" class="custom_button"></div>
+        </li>
+                <li>
+          <div class="full_wrap testi_text"> "Good service." </div>
+          <div class="full_wrap testi_name">- Sharmira Chanawala (Nadiad, Gujarat) -</div>
+          <div class="full_wrap testi_rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                                    <i class="fa fa-star-o"></i>
+                      </div>
+          <div class="add_testi_anchor full_wrap"><input type="button" name="send" value="Write your review" class="custom_button"></div>
+        </li>
+                <li>
+          <div class="full_wrap testi_text"> "I would really like to thank Naaz Couture for sending my order in correct time." </div>
+          <div class="full_wrap testi_name">- Jessi Kaur (Punjab, Ludhiana) -</div>
+          <div class="full_wrap testi_rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                                  </div>
+          <div class="add_testi_anchor full_wrap"><input type="button" name="send" value="Write your review" class="custom_button"></div>
+        </li>
+                <li>
+          <div class="full_wrap testi_text"> "My ordered outfit is very wonderful." </div>
+          <div class="full_wrap testi_name">- Asmina Patel (United States) -</div>
+          <div class="full_wrap testi_rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                                  </div>
+          <div class="add_testi_anchor full_wrap"><input type="button" name="send" value="Write your review" class="custom_button"></div>
+        </li>
+                <li>
+          <div class="full_wrap testi_text"> "I must thank you for your wonderful services. I look forward to future purchases again.Thank You Naazcouture.com" </div>
+          <div class="full_wrap testi_name">- Raksha Patel (India) -</div>
+          <div class="full_wrap testi_rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                                  </div>
+          <div class="add_testi_anchor full_wrap"><input type="button" name="send" value="Write your review" class="custom_button"></div>
+        </li>
+              </ul>
+    </div>
+    <div class="full_wrap hidden">
+      <div class="white-popup-block" id="popup_add_testimonial">
+        <div class="full_wrap f_none">
+          <div class="login_popup_wrap width_100per">
+            <h3 class="normal_header"> <strong>How do you like our website?</strong></h3>
+            <form id="testimonial_popup_form" method="post">
+              <div class="login_inner_wrap ">
+                <input type="text" class="login_input" name="full_name" placeholder="Enter your Full Name" value="">
+              </div>
+              <div class="login_inner_wrap ">
+                <textarea class="login_input" name="text" placeholder="Enter your message here"></textarea>
+              </div>
+              <div class="login_inner_wrap "><strong>Rating :</strong> <br> 
+              	<div class="full_wrap" id="rating_container">Bad&nbsp;
+                <input type="radio" name="rating" value="1">&nbsp;
+                <input type="radio" name="rating" value="2">&nbsp;
+                <input type="radio" name="rating" value="3" checked="">&nbsp;
+                <input type="radio" name="rating" value="4">&nbsp;
+                <input type="radio" name="rating" value="5">&nbsp;
+                Good</div> </div>
+              <div class="full_wrap">
+                <input type="button" id="testimonial_popup_btn" class="custom_button" value="Submit">
+                <img id="testimonial_loader" class="hidden" src="catalog/view/theme/sep2015/images/loader.gif" width="40px" style="margin-left: 10px; margin-top: 10px;"> </div>
+              <div class="full_wrap margin_top_10 message_wrap"> </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+$(document).ready(function(e) {
+   $('#testimonial_ul').slick({
+	  dots: false,
+	  arrows:false,
+	  infinite: true,
+	  autoplay : true,
+	  speed: 300,
+	  slidesToShow: 1,
+	  slidesToScroll: 1
+	});
+	$('.add_testi_anchor .custom_button').click(function(){
+		$.magnificPopup.open({
+			type: 'inline',
+			items: {
+				src: '#popup_add_testimonial', // can be a HTML string, jQuery object, or CSS selector
+				type: 'inline'
+			},
+			preloader: false,
+		});
+	});
+	$(document).on('click','#testimonial_popup_btn', function() {
+		$('#testimonial_loader').removeClass('hidden');
+		$('#popup_add_testimonial .error_full_wrap').remove();
+		$.ajax({
+			url: 'index.php?route=information/contact/testimonial',
+			type: 'post',
+			data: $('#testimonial_popup_form input[type="text"],#testimonial_popup_form input[type="checkbox"]:checked,#testimonial_popup_form textarea'),
+			dataType: 'json',		
+			success: function(json) {
+				$('#testimonial_loader').addClass('hidden');
+				if (json['success']) {
+					$('#popup_add_testimonial .message_wrap').html('<div class="success margin_top_10 no_margin_bottom">Thank you for your review. Please wait until administrator approve your review!</div>');
+					$('#popup_add_testimonial input[name=\'full_name\'],#popup_add_testimonial textarea[name=\'text\']').val('');
+				} else if (json['failed']) {
+					$('#popup_add_testimonial .message_wrap').html('<div class="warning margin_top_10 no_margin_bottom">Something went wrong. Please try again!</div>');
+					$('#popup_add_testimonial input[name=\'full_name\'],#popup_add_testimonial textarea[name=\'text\']').val('');
+				} else if (json['error']) {
+					if (json['error']) {
+						$('#popup_add_testimonial  .message_wrap').html('<div class="warning margin_top_10 no_margin_bottom" style="display: none;">Please checkout the details.</div>');
+						$('.warning').fadeIn('slow');
+					}
+					
+					if (json['full_name']) {
+						$('#popup_add_testimonial input[name=\'full_name\']').after('<span class="error_full_wrap">' + json['full_name'] + '</span>');
+					}
+					
+					if (json['text']) {
+						$('#popup_add_testimonial textarea[name=\'text\']').after('<span class="error_full_wrap">' + json['text'] + '</span>');
+					}	
+					
+					if (json['rating']) {
+						$('#popup_add_testimonial #rating_container').after('<span class="error_full_wrap">' + json['rating'] + '</span>');
+					}
+				}
+			}
+		});
+	});
+});
+</script> 
+<style type="text/css">
+.add_testi_anchor{
+	position:relative;
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+	left:inherit;
+	top:inherit;
+	cursor:pointer;
+}
+.add_testi_anchor > *{
+	float:none;
+}
+.testimonial_wrap{
+	border-top:1px solid #ccc;
+	padding-top:30px;
+	margin-top:20px;
+	padding-bottom:30px;
+}
+.testimonial_wrap ul{
+	max-width:470px;
+	width:100%;
+	margin:0 auto;
+	padding:0;
+}
+.testimonial_wrap ul li{
+	width:100%;
+	float:left;
+	margin:0;
+	padding:0;
+	display:inline-block
+}
+.testimonial_wrap ul li .testi_text {
+    font-size: 25px;
+	text-align:center;
+	width:100%;
+	float:left;
+    line-height: 1.5em;
+}
+.testimonial_wrap ul li .testi_name {
+    font-size: 22px;
+	text-align:center;
+	font-weight:600;
+	width:100%;
+	float:left;
+    line-height: 1.5em;
+}
+.testimonial_wrap ul li .testi_rating {
+    font-size: 20px;
+	text-align:center;
+	font-weight:500;
+	width:100%;
+	float:left;
+    line-height: 1.5em;
+}
+</style>
+  </div>
+</div>
+<div class="full_wrap footer_wrap">
+  <div class="gridContainer clearfix">
+    <div class="full_wrap">
+      <ul class="footer_ul google_biryani">
+         <li>
+          <ul>
+            <li><img src="catalog/view/theme/sep2015/images/footer_courier.png"></li>
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li> The Company </li>
+            <li><a href="http://www.naazcouture.com/FAQ">FAQ</a></li>
+            <li><a href="http://www.naazcouture.com/Shipping">Shipping</a></li>
+            <li><a href="http://www.naazcouture.com/Cancellation">Cancellation</a></li>
+            <li><a href="http://www.naazcouture.com/Returns">Returns</a></li>
+            <li><a href="http://www.naazcouture.com/Contact-Us">Contact Us</a></li>
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li> Account </li>
+           <li><a href="http://www.naazcouture.com/Home">Home</a></li>
+                     <li><a href="http://www.naazcouture.com/Register">Register</a></li>
+                    <li><a href="http://www.naazcouture.com/My-Account">My Account</a></li>
+          <li><a href="http://www.naazcouture.com/Order-History">Order History</a></li>
+          <li><a href="http://www.naazcouture.com/My-Wishlist">Wish List</a></li>
+          
+          </ul>
+        </li>
+                <li>
+          <ul>
+            <li> Naaz Couture </li>
+                        <li><a href="http://www.naazcouture.com/About-Us">About Us</a></li>
+                        <li><a href="http://www.naazcouture.com/Privacy-Policy">Privacy Policy</a></li>
+                        <li><a href="http://www.naazcouture.com/Terms-and-Conditions">Terms &amp; Conditions</a></li>
+                      </ul>
+        </li>
+              </ul>
+      <div class="full_wrap">
+      	<div class="quater_wrap f_left">
+        	        	<div class="full_wrap">
+            	<div class="fb-page" data-href="https://www.facebook.com/Naaz-Couture-1915150158709618/" data-width="400" data-height="180" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"></div>
+            </div>
+                </div>
+      	<div class="quater_wrap">
+        	<h3 class="google_biryani">Newsletter</h3>
+              <div class="full_wrap">
+                <input type="text" placeholder="Enter your Email Address" name="footer_newsletter_email" style="border:1px dotted #000;" class="login_input" id="footer_newsletter_email">
+                <input type="submit" class="custom_button no_margin_top margin_left_10" value="Subscribe" id="subscribe_btn" name="subscribe_btn">
+                <img src="catalog/view/theme/sep2015/images/loader.gif" id="footer_subscription_loader" class="hidden wholesale_loader margin_left_10" width="36px">
+                <div id="footer_newsletter_message" class="full_wrap"></div>
+              </div>
+              
+              <h3 class="google_biryani full_wrap margin_top_20">Follow us on</h3>
+          <div class="full_wrap social_media_wrapper"> 
+          	            <a href="https://www.facebook.com/Naaz-Couture-1915150158709618/" target="_blank"><i class="fa fa-facebook-official" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow on Facebook"></i> </a>
+                                    <a href="https://instagram.com/naazcoutureindia/" target="_blank"><i class="fa fa-instagram" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow on Instagram"></i> </a>
+                                                <a href="https://in.pinterest.com/naazcouture/" target="_blank"><i class="fa fa-pinterest-square" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow on Pinterest"></i> </a>
+                                    <a href="https://plus.google.com/b/108016496238651028744/" target="_blank"><i class="fa fa-google-plus-square" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow on Google Plus"></i> </a>
+                                    <a href="https://www.youtube.com/channel/UCTTV_f4GNwAXR4-5RqEgGSg" target="_blank"><i class="fa fa-youtube-square" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow on Youtube"></i> </a>
+                                  </div>
+        </div>
+        <div class="quater_wrap f_left">
+          <h3 class="google_biryani">You can pay buy</h3>
+          <div class="full_wrap"> <i class="fa fa-cc-visa" data-toggle="tooltip" data-placement="top" title="" data-original-title="Visa Payment"></i> <i class="fa fa-cc-amex" data-toggle="tooltip" data-placement="top" title="" data-original-title="American Express"></i> <i class="fa fa-cc-mastercard" data-toggle="tooltip" data-placement="top" title="" data-original-title="Master Card Payment"></i> <i class="fa fa-credit-card" data-toggle="tooltip" data-placement="top" title="" data-original-title="Pay by Credit Card"></i> <i class="fa fa-money" data-toggle="tooltip" data-placement="top" title="" data-original-title="Cash on Delievery"></i><i class="fa fa-cc-paypal" data-toggle="tooltip" data-placement="top" title="" data-original-title="Paypal"></i> </div>
+          
+          <h3 class="google_biryani full_wrap margin_top_20">Powered By</h3>
+        <div class="full_wrap powered_by_wrap"><a href="http://www.yellowsky.in" class="f_left" target="_blank">Yellow Sky Web Solutions</a></div>
+        </div>
+        
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 945435398;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;display:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/945435398/?value=0&amp;guid=ON&amp;script=0
+[3]"/>
+</div>
+</noscript>
+<script type="application/javascript">
+$(document).ready(function(e) {
+    $('#subscribe_btn').on('click',function(){
+		email=$.trim($('#footer_newsletter_email').val());
+		if(!email){
+			$('#footer_newsletter_message').html('<div class="error_full_wrap" style="margin-top:10px;margin-bottom:10px;">Please enter email.</div>');
+			return;
+		}
+		$('#subscribe_btn').addClass('hidden');
+		$('#footer_subscription_loader').removeClass('hidden');
+		$('#footer_newsletter_message').html('');
+		$.ajax({
+			'url'	: 'index.php?route=information/contact/footerSubscription',
+			type:'POST',
+			data:{email:email},
+			dataType:"json",
+			beforeSend: function(){
+				
+			},
+			success: function(json){
+				$('#subscribe_btn').removeClass('hidden');
+				$('#footer_subscription_loader').addClass('hidden');
+				if(json.success){
+					$('#footer_newsletter_email').val('');
+					$('#footer_newsletter_message').html('<div class="success_full_wrap" style="margin-top:10px;margin-bottom:10px;">'+json.success+'</div>');
+				}else{
+					$('#footer_newsletter_message').html('<div class="error_full_wrap" style="margin-top:10px;margin-bottom:10px;">'+json.error+'</div>');
+				}
+			}
+		});
+	});
+});
+</script> 
+
+			<style type="text/css">
+.common_title {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    border-bottom: 1px solid #999;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.measurement_table_popup{
+	width:100%;
+	float:left;
+	border:1px solid #333;
+	border-collapse:collapse;
+}
+.measurement_table_popup th{
+	border:1px solid #333;
+	background-color:#E0E0E0;
+	color:#000;
+	width:40%;
+	padding:7px;
+}
+.measurement_table_popup td{
+	border:1px solid #333;
+	padding:7px;
+}
+.measure_item_description.right{
+	left:-90%;
+}
+.custom_measurement_wrap table td{
+	position:relative;
+}
+.measure_item_description{
+	position:absolute;
+	top:-200px;left:90%;
+	z-index:999;
+	display:none;
+	border:2px solid #000;
+	-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding:20px;
+background-color:#FFF;
+width:250px;
+}
+.measure_item_description.right{
+	left:-90%;
+}
+.measure_item_description h3{
+	text-align: center;
+}
+.measure_item_description .img_wrap{
+	width:100%;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+	text-align:center;
+}
+.measure_item_description p{
+	text-align:justify;
+}
+.measurement_table_popup{
+	width:100%;
+	float:left;
+	border:1px solid #333;
+	border-collapse:collapse;
+}
+.measurement_table_popup th{
+	border:1px solid #333;
+	background-color:#E0E0E0;
+	color:#000;
+	width:40%;
+	padding:7px;
+}
+.measurement_table_popup td{
+	border:1px solid #333;
+	padding:7px;
+}
+@media only screen and (max-width: 480px){	
+.buttons > div{
+	width:100%;
+	margin-bottom:10px;
+}
+.buttons .button{
+	width:100%;
+}
+.measurement_add_new_wrap{
+	padding-left:20px;
+	padding-right:20px;
+	margin-top:30px;
+}
+.measurement_add_new_wrap .border_container{
+	border-bottom:1px solid #999;
+		    margin-bottom: 20px;
+	padding-bottom:20px;
+}
+.measurement_add_new_wrap .border_container .cust_img_wrap{
+	width:100%;
+	margin-bottom:20px;
+	text-align:center;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap .border_container .cust_desc_wrap{
+	width:100%;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap table{
+	width:100%;
+}
+.measurement_add_new_wrap table td:empty{
+	display:none;
+}
+.measurement_add_new_wrap table td{
+	display:inline-block;
+	width:100%;
+	float:left;
+}
+.measurement_add_new_wrap .login_input,.custom_measurement_wrap .login_input{
+	width:100%;
+}
+.custom_measurement_wrap{
+	padding-left:20px;
+	padding-top:0px;
+	padding-right:20px;
+}
+.custom_measurement_wrap .half_wrap{
+	width:100%;
+}
+.custom_measurement_wrap table{
+	width:100%;
+}
+.custom_measurement_wrap table td{
+	display:inline-block;
+	width:100%;
+	padding:8px;
+	padding-left:0;
+	padding-right:0;
+}
+.custom_measurement_wrap table tr td:first-child{
+	padding-bottom:0;
+	vertical-align:middle;
+}
+.custom_measurement_wrap table tr td:last-child{
+    padding-top: 2px;
+}
+}
+@media only screen and (max-width: 786px) and (min-width: 481px){
+	.measurement_add_new_wrap{
+	padding-left:40px;
+	padding-right:40px;
+	margin-top:30px;
+}
+.measurement_add_new_wrap .border_container{
+	border-bottom:1px solid #999;
+		    margin-bottom: 20px;
+	padding-bottom:20px;
+}
+.measurement_add_new_wrap .border_container .cust_img_wrap{
+	width:100%;
+	margin-bottom:20px;
+	text-align:center;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap .border_container .cust_desc_wrap{
+	width:100%;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.measurement_add_new_wrap table{
+	width:100%;
+}
+.measurement_add_new_wrap table td{
+	vertical-align:middle;
+	padding:3px;
+}
+.custom_measurement_wrap{
+	padding-left:20px;
+	padding-top:20px;
+}
+.custom_measurement_wrap .half_wrap{
+	width:100%;
+}
+.custom_measurement_wrap table{
+	width:100%;
+}
+.custom_measurement_wrap table td{
+	padding:8px;
+}
+.custom_measurement_wrap table tr td:first-child{
+	width:40%;
+	vertical-align:middle;
+}
+}
+@media only screen and (max-width: 1099px) and (min-width: 787px){
+	.measure_item_description.right{
+	left:-135%;
+}
+.measurement_add_new_wrap{
+	padding-left:40px;
+	padding-right:40px;
+	margin-top:30px;
+}
+.measurement_add_new_wrap .border_container{
+	border-bottom:1px solid #999;
+	padding-bottom:20px;
+		    margin-bottom: 20px;
+}
+.measurement_add_new_wrap .border_container .cust_img_wrap{
+	width:25%;
+	padding-right:20px;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap .border_container .cust_desc_wrap{
+	width:75%;
+	padding-left:20px;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap table{
+	width:400px;
+}
+.measurement_add_new_wrap table td{
+	vertical-align:middle;
+	padding:3px;
+}
+.custom_measurement_wrap{
+	padding-left:20px;
+	padding-top:20px;
+}
+.custom_measurement_wrap table{
+	width:100%;
+}
+.custom_measurement_wrap table td{
+	padding:8px;
+}
+.custom_measurement_wrap table tr td:first-child{
+	width:40%;
+	vertical-align:middle;
+}
+.custom_measurement_wrap .half_wrap:nth-child(odd){
+	padding-right:20px;
+}
+.custom_measurement_wrap .half_wrap:nth-child(even){
+	padding-left:20px;
+}	
+}
+@media only screen and (max-width: 1399px) and (min-width: 1100px){
+	.measurement_add_new_wrap{
+	padding-left:40px;
+	padding-right:40px;
+	margin-top:30px;
+}
+.measurement_add_new_wrap .border_container{
+	border-bottom:1px solid #999;
+	padding-bottom:20px;
+		    margin-bottom: 20px;
+}
+.measurement_add_new_wrap .border_container .cust_img_wrap{
+	width:25%;
+	padding-right:20px;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap .border_container .cust_desc_wrap{
+	width:75%;
+	padding-left:20px;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap table{
+	width:400px;
+}
+.measurement_add_new_wrap table td{
+	vertical-align:middle;
+	padding:3px;
+}
+.custom_measurement_wrap{
+	padding-left:20px;
+	padding-top:20px;
+}
+.custom_measurement_wrap table{
+	width:100%;
+}
+.custom_measurement_wrap table td{
+	padding:8px;
+}
+.custom_measurement_wrap table tr td:first-child{
+	width:40%;
+	vertical-align:middle;
+}
+.custom_measurement_wrap .half_wrap:nth-child(odd){
+	padding-right:20px;
+}
+.custom_measurement_wrap .half_wrap:nth-child(even){
+	padding-left:20px;
+}
+}
+@media only screen and (min-width: 1400px){
+.measurement_add_new_wrap{
+	padding-left:40px;
+	padding-right:40px;
+	margin-top:30px;
+}
+.measurement_add_new_wrap .border_container{
+	border-bottom:1px solid #999;
+	padding-bottom:20px;
+	    margin-bottom: 20px;
+}
+.measurement_add_new_wrap .border_container .cust_img_wrap{
+	width:25%;
+	padding-right:20px;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap .border_container .cust_desc_wrap{
+	width:75%;
+	padding-left:20px;
+	float:left;
+	display:inline-block;
+	-moz-box-sizing: border-box;
+	 -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.measurement_add_new_wrap table{
+	width:400px;
+}
+.measurement_add_new_wrap table td{
+	vertical-align:middle;
+	padding:3px;
+}
+.custom_measurement_wrap{
+	padding-left:20px;
+	padding-top:20px;
+}
+.custom_measurement_wrap table{
+	width:100%;
+}
+.custom_measurement_wrap table td{
+	padding:8px;
+}
+.custom_measurement_wrap table tr td:first-child{
+	width:40%;
+	vertical-align:middle;
+}
+.custom_measurement_wrap .half_wrap:nth-child(odd){
+	padding-right:20px;
+}
+.custom_measurement_wrap .half_wrap:nth-child(even){
+	padding-left:20px;
+}
+}
+.login_wrap input[type=text]{
+	margin-top:0 !important;
+	padding:8px !important;
+}
+.login_wrap select.login_input{
+	margin-top:0 !important;
+	padding:5px !important;
+}
+</style>
+			
+
+			
+</body></html>
