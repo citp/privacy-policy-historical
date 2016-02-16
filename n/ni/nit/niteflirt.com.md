@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922164509id_/https%3A//www.niteflirt.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216151855id_/https%3A//www.niteflirt.com/help/privacy_policy) for the most accurate reproduction.*
 
 # NiteFlirt Phone Sex
 
@@ -39,6 +39,8 @@ Niteflirt has certain security measures in place to help protect against the los
   * Web security procedures are quality-assured weekly.
   * Although we strive to keep your personal information secure, no security measures are absolute and fool-proof and there is always a possibility that a security breach could occur, resulting in the release of a Member's data or information.
 
+
+
  **3\. Information Niteflirt Collects.**  
 Our primary goal in collecting personal information from you is to provide you with a smooth and efficient experience while you're using Niteflirt's website services, and to keep you informed of opportunities available on those services. This allows us to provide services and features that are designed to meet your needs, and to customize our service to make your experience easier and quicker. To this end, we may share information you providewith Niteflirt-related entities worldwide eg. its parents, affiliates and subsidiaries and their successors and assigns (collectively herein "Niteflirt Entities").
 
@@ -46,9 +48,7 @@ When you join Niteflirt using our online registration form, or by registering ov
 
 Because we connect Members by telephone, we require you to enter a valid telephone number to connect with other Members through Niteflirt. At no time will we share your telephone number with any other Members with whom you communicate. Because Niteflirt initiates all calls, other Members cannot see your telephone number—not even with Caller ID. Although the Niteflirt system maintains the connection between the two parties, we do not monitor or record the content of any calls unless mandated by law. 
 
-We may use your email, mailing address and phone number to contact you regarding account activities, new product offerings and communications relevant to your use of Niteflirt and its affiliates. If you do not wish to receive such communications from Niteflirt you have the ability to stop receiving these mail communications by providing your Member name and email address in a 
-
-[Customer Support Form](https://support.niteflirt.com/anonymous_requests/new) or by unchecking the box on the My [Personal Info Page](https://web.archive.org/signup), which asks if you wish to receive such mailings. 
+We may use your email, mailing address and phone number to contact you regarding account activities, new product offerings and communications relevant to your use of Niteflirt and its affiliates. If you do not wish to receive such communications from Niteflirt you have the ability to stop receiving these mail communications by providing your Member name and email address in a [Customer Support Form](https://support.niteflirt.com/hc/en-us/requests/new?ticket_form_id=18558) or by unchecking the box on the My [Personal Info Page](https://web.archive.org/signup), which asks if you wish to receive such mailings. 
 
 You will, however, always receive administrative emails from Niteflirt that are related to the usage and functionality of Niteflirt. You may not opt-out of these administrative emails unless you cancel your membership. 
 
@@ -56,7 +56,7 @@ If you have an Advisor listing and/or are earning money on Niteflirt, we collect
 
 Niteflirt may collect credit card information when you create an Advisor listing, add money to your Member account or use your credit card to take advantage of special promotions. Niteflirt uses a third party to process credit cards for billing purposes. This third party may store or retain a Member's personally identifiable information. In certain cases, we will also use credit card information to help us verify your identity. We do not charge or bill the credit card when we collect credit card information for identity verification purposes. 
 
-You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/account) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/account) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Niteflirt listings by clicking on the My Listings link on the [My Account](https://web.archive.org/account) page. You may also update or correct information by filling out an updated [Customer Support Form](https://support.niteflirt.com/anonymous_requests/new) or you may write to Niteflirt at Customer Support, Niteflirt, 182 Howard Street, #418, San Francisco, CA 94105. 
+You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/account) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/account) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Niteflirt listings by clicking on the My Listings link on the [My Account](https://web.archive.org/account) page. You may also update or correct information by filling out an updated [Customer Support Form](https://support.niteflirt.com/hc/en-us/requests/new?ticket_form_id=18558) or you may write to Niteflirt at Customer Support, Niteflirt, 182 Howard Street, #418, San Francisco, CA 94105. 
 
 You may also provide Niteflirt with additional profile information (such as experience, affiliations, on-call schedule, etc.) that is displayed publicly on the Site, on your home page or in your listings. Other than the profile information submitted by our Members, and except as noted herein, Niteflirt does not disclose any personally identifying information to other Members without your permission. If you choose to use Niteflirt forums know that any personally identifiable information that you post can be read, collected, or used by others, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you provide in these Niteflirt forums. 
 
@@ -89,7 +89,7 @@ Niteflirt may also exchange personally identifiable information among Niteflirt 
 
 **5\. Member Account Cancellation Procedures.**  
 If you decide you would like to cancel your Member account on Niteflirt, you will need to do one of the following:   
-Send us an email — including your Member name and email address — by filling out a [Customer Support Form](https://support.niteflirt.com/anonymous_requests/new) asking us to cancel. 
+Send us an email — including your Member name and email address — by filling out a [Customer Support Form](https://support.niteflirt.com/hc/en-us/requests/new?ticket_form_id=18558)" asking us to cancel. 
 
 Send us mail to the following mailing address:  
 Niteflirt Cancel  
@@ -102,9 +102,7 @@ We will notify you by email if there is a material change in our privacy practic
 
 If you have any questions about this Privacy Policy, the practices of this Site or your dealings with Niteflirt, please contact us. 
 
-Email: 
-
-[privacy@niteflirt.com](mailto:privacy@niteflirt.com)
+Email: [privacy@niteflirt.com](mailto:privacy@niteflirt.com)
 
 Mailing Address:   
 Niteflirt  
