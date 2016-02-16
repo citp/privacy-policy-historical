@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deal-buster.net privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212101034id_/http%3A//deal-buster.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deal-buster.net privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216023154id_/http%3A//deal-buster.net/policy.html) for the most accurate reproduction.*
 
 # Deal-Fairy
 
@@ -115,7 +115,7 @@ We work with third-party websites, advertisers, and Internet advertising compani
 
   * To learn how to uninstall the Plugin and any bundled software, please visit [www.Deal-Fairy.com/uninstall.html](https://web.archive.org/uninstall.html)
 
-  * If you do not want to receive e-mail or other mail from us, [contact us](https://web.archive.org/web/20151212101034id_/http%3A//deal-buster.net/contact.html) to modify your preferences.
+  * If you do not want to receive e-mail or other mail from us, [contact us](https://web.archive.org/web/20160216023154id_/http%3A//deal-buster.net/contact.html) to modify your preferences.
 
   * The Help portion of the Plugin on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
