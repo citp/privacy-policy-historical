@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirror8.net privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414024725id_/http%3A//mirror8.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirror8.net privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217084123id_/http%3A//mirror8.net/privacy.php) for the most accurate reproduction.*
 
 # Download uPlayer Free
 
