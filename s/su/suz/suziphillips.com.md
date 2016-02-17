@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suziphillips.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021002405id_/http%3A//suziphillips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suziphillips.com privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217221210id_/http%3A//suziphillips.com/privacy.html) for the most accurate reproduction.*
 
 # New Page 3
 
