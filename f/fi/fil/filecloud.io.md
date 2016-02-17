@@ -1,43 +1,33 @@
-> *The following text is extracted and transformed from the filecloud.io privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015182222id_/https%3A//filecloud.io/misc-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecloud.io privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217212655id_/https%3A//filecloud.io/%3Fm%3Dhelp%26a%3Dprivacy) for the most accurate reproduction.*
 
-# privacy policy - filecloud.io
+# Privacy Policy - filecloud.io
 
-###  Information collected by filecloud.io 
+In the modern age of mass internet surveilance and tracking we at filecloud.io understand that Privacy is important, hence this "no bullshit" document is kept short and to the point: 
 
-filecloud.io uses cookies and other data sent by your browser to enhance your online experience and to learn about how you use filecloud.io services in order to improve the quality of our services. The following information may be collected and stored: 
+**Information collected by filecloud.io:**
 
-  * Your geographic country code (eg US,UK,IT etc) is determined from your network address (specific ip addresses are never logged since there is no need) on uploads and downloads, this is collected and stored for up to a month in order to better understand the needs of users across the globe.
-  * Email addresses are recorded and verified on registration for our free and/or premium services. We do not share/sell/transfer/give away etc our users email addresses! We hate spam as much as you do and only ever send email to you at account verification or if you want to recover account.
-  * Browser language settings as sent to us by your browser may be used for the duration of the session to display the site in your preferred language.
-  * Listing of all the files, tags and the files you upload and/or download (otherwise the cloud storage service can not operate of course!)
-
-  
-
-
-* * *
-
-  
-
-
-###  3rd Party Advertising and Analytics 
-
-filecloud.io uses services provided by 3rd parties such as Google in order to help maintain free services for our users and gather website usage analytics data in order to improve the service. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of: [Google](http://www.google.com/privacy.html)
-
-**Google Advertising and the DoubleClick DART cookie**
-
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google's use of the DART cookie enables it to serve ads to the users based on their visit to this sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
+  * Email address you use to register with. 
+    * filecloud.io will never send any promotional emails to your address
+    * Your email address will only be used in cases of: account recovery, top-up notifications, low credit notifications, very important site updates
+  * File information related to the files you upload such as your ip address on upload, filenames, filesizes etc.
+  * Timestamp, ip address, country, file_id of each file your download is kept for a duration of 24 hours in order for the temporary download ticket URLs to work.
+  * Any support tickets you open.
+  * Any copyright notices received
+  * Your topup history
 
 
 
-**Google Analytics**   
-This site (like the majority of internet sites) uses Google Analytics to provide us with statistics which we can use to improve this site. [Detailed privacy policy is available here](http://www.google.com/intl/en/analytics/privacyoverview.html). 
-
-  
-
+The above information is the absolute minimum required for the system to function.   
+This data will not be sold or given to any third parties. 
 
 * * *
 
-  
+**Information collected when you purchase credits:**   
+You can purchase __credits only using payment methods which guarantee your financial security and privacy such as Amazon.com gift vouchers, Bitcoin and Webmoney.   
+This is done deliberately so as to protect your privacy, cut out payment fees and remove various middlemen such as PayPal and Credit Card providers who love nothing better than collect tons of information about you and your purchasing habits and sell it to the highest bidder. 
 
+* * *
+
+**Information collected by 3rd parties:**   
+Third parties such as [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html) and/or [Advertising](http://www.google.com/policies/privacy/ads/) providers might collect further information during your visit. You are free to block these services.   
+NSA will also most likely attempt record every fart you make on the internet, nothing we can do about that (HTTPS/SSL is used by this site where possible!). If you have read this far well done and thank you for caring about privacy! 
