@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbump.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813052442id_/http%3A//clickbump.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbump.com privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217031606id_/http%3A//clickbump.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
