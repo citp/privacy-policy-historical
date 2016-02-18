@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineclock.net privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221025920id_/http%3A//onlineclock.net/about/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineclock.net privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218185614id_/http%3A//onlineclock.net/about/privacy.html%23privacy) for the most accurate reproduction.*
 
 # OnlineClock.net Contact, Imprint & Privacy Policy
 
@@ -57,7 +57,13 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 These third-party companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.networkadvertising.org/ "Link to NetworkAdvertising.org")**.
 
-**OnlineClock.net** has no access to or control over these cookies that are used by third-party advertisers.
+#### Shareaholic.com, AddThis.com & Online Behavioral Advertising (OBA)
+
+Like many other Web sites, OnlineClock.net makes use of Shareaholic.com and AddThis.com and also embeds buttons and code from some popular social media websites. This code at times uses Online Behavioral Advertising techniques and third party cookies.
+
+Specifically, we allow third-party companies, including Shareaholic.com and AddThis.com, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit **[www.networkadvertising.org](http://www.networkadvertising.org/ "Link to NetworkAdvertising.org")**.
+
+**OnlineClock.net** has no access to or control over these cookies that are used by third-party advertisers. You can find out more about Shareaholic.com's Privacy Policy here: **<https://shareaholic.com/privacy>**. Similarly, more information about AddThis.com's Privacy Policy can be found here: **<http://www.addthis.com/privacy>**. Information about Google's Privacy Policy may be found here: **<http://www.google.com/policies/privacy/>**.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **OnlineClock.net's** privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
@@ -67,9 +73,9 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **OnlineClock.net** compiles aggregate statistics about the number of visitors this site receives and browsers being used. No personally identifying data is included in this type of reporting.
 
-All of this reporting activity falls within the bounds of the [Google Analytics Terms of Service](http://www.google.com/analytics/tos.html "Google Analytics Terms of Service").
+All of this reporting activity falls within the bounds of the **[Google Analytics Terms of Service](http://www.google.com/analytics/tos.html "Google Analytics Terms of Service")**.
 
-Want to opt out of such tracking? You can do so via [Google's Privacy Center](http://www.google.com/privacy.html "Google's Privacy Center")
+Want to opt out of such tracking? You can do so via **[Google's Privacy Center](http://www.google.com/policies/privacy/ "Google's Privacy Center")**
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our **privacy notice**. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
