@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completeseoservice.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812055625id_/http%3A//completeseoservice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completeseoservice.com privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218193022id_/http%3A//completeseoservice.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CompleteSeoService.com
 
@@ -9,13 +9,13 @@
 
 
 
-[](https://web.archive.org/web/20150812055625id_/http%3A//completeseoservice.com/hire_dedicated_seo.html)
+[](https://web.archive.org/web/20160218193022id_/http%3A//completeseoservice.com/hire_dedicated_seo.html)
 
 Our Clients
 
 Video Testimonial
 
-[ View More](https://web.archive.org/web/20150812055625id_/http%3A//completeseoservice.com/video-testimonials.html)
+[ View More](https://web.archive.org/web/20160218193022id_/http%3A//completeseoservice.com/video-testimonials.html)
 
 Your privacy is always esteemed by us. The basic information like your email id or phone number will be collected by us just to send the information you have asked for. Generally, information on different marketing schemes, search engine ranking reports and monthly newsletters will be provided to you via your email address. 
 
