@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instachatrooms.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609024456id_/http%3A//www.instachatrooms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instachatrooms.com privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218061745id_/https%3A//www.instachatrooms.com/privacy.html) for the most accurate reproduction.*
 
 # InstaChatRooms Privacy Policy
 
@@ -66,7 +66,7 @@ You agree to comply with all local laws, rules and regulations regarding online 
 
 Minors
 
-InstaChatRooms has portions of its website that is directed to persons 18 years of age or older only. InstaChatRooms does not knowingly collect information from minors in those sections of the website and we do not knowingly allow underage users to access those parts of our website. Any person that accessed parts of the website that are directed to persons of 18 years of age or older only, consent and agree with the terms of service regarding these sections of our website and agree that they are at least 18 years of age or older. If you are not 18 years or age or older, you are not permitted to enter those parts of our website. For more details regarding the chat rooms that are for adults only or those that are for persons of all ages, please review our Rules Page here: http://www.instachatrooms.com/rules
+InstaChatRooms has portions of its website that is directed to persons 18 years of age or older only. InstaChatRooms does not knowingly collect information from minors in those sections of the website and we do not knowingly allow underage users to access those parts of our website. Any person that accessed parts of the website that are directed to persons of 18 years of age or older only, consent and agree with the terms of service regarding these sections of our website and agree that they are at least 18 years of age or older. If you are not 18 years or age or older, you are not permitted to enter those parts of our website. For more details regarding the chat rooms that are for adults only or those that are for persons of all ages, please review our Rules Page here: https://www.instachatrooms.com/rules
 
 Your Consent To The Privacy Policy 
 
