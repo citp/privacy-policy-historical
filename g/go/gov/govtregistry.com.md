@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtregistry.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129211308id_/http%3A//govtregistry.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtregistry.com privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218022139id_/http%3A//govtregistry.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ If you are unable to resolve your issue with the service then you can request a 
 
 The simplest way to get a refund from Clickbank is to simply take the electronic receipt that ClickBank mailed you after the purchase and forward it to **refunds@clickbank.com** along with a brief message asking for a refund and why you want the refund.
 
-[Go Back to the Home Page](https://web.archive.org/web/20151129211308id_/http%3A//govtregistry.com/index.php)
+[Go Back to the Home Page](https://web.archive.org/web/20160218022139id_/http%3A//govtregistry.com/index.php)
