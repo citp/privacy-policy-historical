@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myclassplanner.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707080718id_/http%3A//myclassplanner.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myclassplanner.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219034539id_/http%3A//myclassplanner.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - myclassplanner.com ©2014
 
