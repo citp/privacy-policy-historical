@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meandmyasian.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217123003id_/http%3A//www.meandmyasian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meandmyasian.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219054623id_/http%3A//meandmyasian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
