@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momsfreerecipes.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114614id_/http%3A//momsfreerecipes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsfreerecipes.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219053910id_/http%3A//www.momsfreerecipes.com/privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
