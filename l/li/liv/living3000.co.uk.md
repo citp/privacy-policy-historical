@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the living3000.co.uk privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222131155id_/http%3A//blog.living3000.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the living3000.co.uk privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219092634id_/http%3A//www.living3000.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | living3000
 
