@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydirtylatina.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034947id_/http%3A//mydirtylatina.com/mydirtylatina/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydirtylatina.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219231352id_/http%3A//mydirtylatina.com/mydirtylatina/privacy.html) for the most accurate reproduction.*
 
 # 
 
