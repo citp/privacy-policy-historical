@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movepix.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519165558id_/http%3A//movepix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movepix.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219213918id_/http%3A//movepix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Movepix.com – Online Movies, Tv Shows, Games and more..
 
