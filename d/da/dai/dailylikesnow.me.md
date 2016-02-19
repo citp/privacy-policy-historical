@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailylikesnow.me privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813071957id_/http%3A//dailylikesnow.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylikesnow.me privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219162221id_/http%3A//dailylikesnow.me/privacy) for the most accurate reproduction.*
 
 # dailylikesnow
 
