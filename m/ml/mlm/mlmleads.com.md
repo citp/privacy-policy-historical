@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909193703id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219093057id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
 
-# MLM Leads Privacy Policy
+# MLM Leads – MLM Leads Privacy Policy
 
 MLM Leads General Privacy Policy
 
