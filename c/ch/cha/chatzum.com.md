@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatzum.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813172714id_/http%3A//chatzum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzum.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219235805id_/http%3A//www.chatzum.com/privacy.html) for the most accurate reproduction.*
 
 # ChatZum Facebook Social Thumbnail Photo Zoom App
 
