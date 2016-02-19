@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecoloringpages.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219073910id_/http%3A//freecoloringpages.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecoloringpages.co.uk privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219092310id_/http%3A//freecoloringpages.co.uk/privacy.html) for the most accurate reproduction.*
 
 # None
 
