@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitium.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219142526id_/http%3A//monitium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitium.com privacy policy that was archived on 2016-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160219043918id_/http%3A//monitium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Monitium - Leading The Global Wealth Revolution
 
