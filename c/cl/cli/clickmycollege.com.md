@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmycollege.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813114839id_/http%3A//clickmycollege.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmycollege.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220173532id_/http%3A//clickmycollege.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ClickMyCollege.com
 
