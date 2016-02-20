@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousin60days.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813070530id_/http%3A//famousin60days.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousin60days.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220123230id_/http%3A//www.famousin60days.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO
 
