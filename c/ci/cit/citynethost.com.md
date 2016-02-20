@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citynethost.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117021822id_/http%3A//www.citynethost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citynethost.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220215221id_/https%3A//www.citynethost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CityNet Host
 
