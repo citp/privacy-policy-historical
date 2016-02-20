@@ -1,72 +1,28 @@
-> *The following text is extracted and transformed from the bustedcelebrity.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331045108id_/http%3A//bustedcelebrity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedcelebrity.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220203246id_/http%3A//sextape.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Busted Celebrity
+# Privacy Policy | SEXTAPE.COM
 
-This privacy statement covers Busted Celebrity:
+SexTape, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
-Information Collection
+We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and to gather broad demographic information.
 
-Busted Celebrity may collect information from our users at different points on the site. Busted Celebrity is the sole owner of the information collected on BustedCelebrity.com.
+Our site’s subscription forms require users to give us contact information (to include names and E-mail addresses), financial information (to include account or credit card numbers). We use customer contact information from the subscription form to send the user information about our company and promotional material from some of our partners. The customer’s contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-Comments and Posts
+This site contains links to other sites. SexTape, Inc. is not responsible for the privacy practices or the content of other such websites. Selection of an ad banner or link redirects User to a third party. Transactions that occur between the User and the third party are strictly between the User and the third party and are not the responsibility of SexTape, Inc. Because SexTape, Inc. is not responsible for the availability of these outside resources or their privacy policy or content, User should direct any concerns regarding any external link to its site administrator or Webmaster.
 
-Busted Celebrity users can choose to write comments or posts on the site. To leave a comment, users must submit a valid e-mail address. Busted Celebrity uses this information to screen out users who leave comments that violate our terms and conditions of use. Busted Celebrity does not share user information with any other organization.
+Our site uses order forms for customers to request information, products, and services. We collect visitor’s contact information (to include E-mail addresses), and financial information (to include account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-Newsletters
+Financial information that is collected is used to check the users’ qualifications and to bill the user for products and services ordered.
 
-Busted Celebrity offers e-mail newsletters. Users who subscribe to the Busted Celebrity newsletter will receive regular email updates about new content and features.
+Should the user utilize chat rooms, forums, message boards, and/or news groups, please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-To sign up to receive regular e-mails, users must submit information including a valid e-mail address. Busted Celebrity does not share contact or personal information with any other organization.
+Opting Out – Revocation of Consent To Email Procedure
 
-This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular e-mails, including new articles added to the site.
+The Site also offers all Members and Users a procedure for opting out if the Member or User subsequently chooses to revoke or withdraw any consent to receive offers by sending an e-mail via our [contact form](https://web.archive.org/contact/ "Contact SexTape Inc.") and clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers. Members and Users may also Unsubscribe to Opt-In emails via Unsubscribe links at the bottom of a generated email to the Member or User.
 
-Busted Celebrity may periodically e-mail you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
+PLEASE NOTE: Not every sex tape scandal that makes the news becomes a released tape. Just because we have an article on the latest celeb scandal does not mean that the tape is available.  
+Note: Not all sex tapes scandals on the news feeds and stories are available for public viewing. Legal restraints keep many of them from seeing the light of day.
 
-Cookies
-
-Busted Celebrity may use cookies. A cookie is a piece of data stored on the user’s computer, tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes his or her browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
-
-Third-Party Cookies
-
-We use third-party advertising companies to serve ads and collect information when you visit Busted Celebrity. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Busted Celebrity has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
-
-Log Files
-
-Like most websites, our servers use log files. These log files record include Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Busted Celebrity uses this information to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Busted Celebrity may use a tracking utility that uses log files to analyze user movement.
-
-Legal Disclaimer
-
-Though we make every effort to preserve user privacy, Busted Celebrity may need to disclose personal information when required by law, wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
-
-Business Transitions
-
-In the event Busted Celebrity goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred.
-
-Links
-
-Busted Celebrity publishes links to other sites. Please be aware that Busted Celebrity is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Busted Celebrity.
-
-Third-Party Cookies
-
-Some of our business partners (i.e. advertisers), may use cookies on our site. Busted Celebrity has no access to or control over these cookies once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Busted Celebrity only, and does not cover the use of cookies by any advertisers.
-
-Third-Party Advertising
-
-The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to BustedCelebrity.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
-
-Information Collected Through Third-Party Sources
-
-This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes but is not limited to:
-
-Demographic information (gender, age, HHI, job title, interests, etc.)  
-Advertising information (clicks, interactions, post-impression performance data)  
-Social networking information (Facebook, Twitter, LinkedIn, etc.)  
-Research information (data collected from partners)
-
-Notification of Changes
-
-Whenever Busted Celebrity changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
-
-Contact Information
-
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://bustedcelebrity.com/contact/ "Contact Busted Celebrity").
+Thank You,  
+SexTape Inc.  
+Management Team
