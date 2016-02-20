@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglecar.ca privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813013525id_/http%3A//www.eaglecar.ca/Eagle%2520Canada%2520Car%2520Privacy%2520Online%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecar.ca privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220140914id_/http%3A//www.eaglecar.ca/Eagle%2520Canada%2520Car%2520Privacy%2520Online%2520Policy.pdf) for the most accurate reproduction.*
 
 # EAGLE CANADA CAR RENTAL ONLINE PRIVACY POLICY
 
