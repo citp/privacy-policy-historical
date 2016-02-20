@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakuten.com.sg privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215140229id_/http%3A//www.rakuten.com.sg/policy/privacy/%3Fl-id%3Dsg__footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com.sg privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221000631id_/http%3A//www.rakuten.com.sg/policy/privacy) for the most accurate reproduction.*
 
 # Rakuten Singapore: Privacy Policy
 
