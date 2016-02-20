@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargames60.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712205301id_/http%3A//www.cargames60.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargames60.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220171338id_/http%3A//www.cargames60.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Car Games Dirt Bike Games Drag Racing Games Parking Games
 
