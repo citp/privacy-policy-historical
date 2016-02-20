@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epornercams.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813072632id_/http%3A//www.epornercams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epornercams.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220023509id_/http%3A//www.epornercams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # epornercams - Privacy Policy
 
