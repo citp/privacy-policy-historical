@@ -1,111 +1,225 @@
-> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822070525id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221102606id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+**What’s New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Bleacher Report, its parent and affiliates and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
-Last Updated:  December 20, 2013
+Thank you for visiting Bleacher Report, a digital service presented to you by Bleacher Report, Inc. (“Bleacher”), which is part of the Turner Broadcasting System, Inc. (“Turner”) network of affiliated and operated digital services (“Turner Network”). As used herein, “we” and “us” refer collectively to Turner and Bleacher Report. Your privacy is important to us. As such, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among the Turner Network, which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Bleacher, Turner or its Affiliates, including any online or mobile website, application or digital service through which this Privacy Policy appears (each a “Service,” collectively the “Services”). A representative list of Turner Affiliates is available below. “Users” are persons that use the Services.
 
-Welcome to Bleacher Report, the online and mobile service of Bleacher Report, Inc. (“Bleacher Report,” “we,” or “us”).  Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+**I. The Information We Collect.**
 
-**1.      ** ** ** **HOW WE COLLECT AND USE INFORMATION**
+We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the “Information”.
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](http://bleacherreport.com/pages/terms).
+**1\. Information You Provide To Us.** At some Services, you can register, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of information, such as: name, address, e-mail address, telephone number, fax number and credit card information.
 
-We collect the following types of information about you:
+At some Services, you may also be able to submit Information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. This Information may include, for instance, a recipient's name, address, e-mail address, and telephone number.
 
-**a.** ** ** ** ** **Information you provide us directly:**  We ask for certain information such as your first and last name, phone number and e-mail address when you register for a Bleacher Report account, or if you correspond with us.  We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service, including posts from your blog.  We use this information to operate, maintain, and provide to you the features and functionality of the Service, and as further detailed below. 
+**2\. Information That is Passively or Automatically Collected.** We, and our “Partners” who include Turner, Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section IV titled **Cookies, and Other User and Ad-Targeting Technologies  **for more information about how the foregoing Information may be collected and used.
 
-**b.** ** ** ** ** **Information we may receive from third parties** : We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Twitter or Facebook Connect, by “following,” “liking,” adding the Bleacher Report application, linking your account to the Bleacher Report service, etc., that third party may pass certain information about your use of its service to Bleacher Report.  This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service, including your public profile picture, news feed, posts on your wall (including your friends’ posts on your wall), friends list, etc. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Bleacher Report Service.  You may also unlink your third party account from the Service by adjusting your settings on the third party service.  If you unlink your third party account, we will remove the information collected about you in connection with that service.
+**3\. Geo-location Information.  **If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
 
-**c.** **   ** ** ** **Finding  your friends on Bleacher Report:** ** ** If you so choose, you can find your friends on the Bleacher Report Service.  Our find friends feature allows you to choose to locate your friends either through (i) your mobile device’s contact list, or (ii) your social media site accounts (such as Twitter or Facebook). If you choose to find your friends through your mobile device’s contact list, then you provide Bleacher Report with permission to access your contact list so that we can determine whether individuals in your contacts list are using our Service. If you choose to find your friends through social media sites, then you understand that we may access your friends list, as well as any other information that the social media service provides to us in accordance with their terms of use, privacy policy, and your account settings on those sites, so that we can determine whether individuals in your friends list or social media network are using our Service. Note that, in connection with the find friends feature, we do not retain any information contained in your mobile device’s contact list or information from social media sites about your contacts, and we do not use such information for any purpose other than to help you find and connect with your friends on Bleacher Report.
+**4\. Information Collected By and From Social Media Services and Other Third Party Platforms.** You also can engage with our content, such as video, games, applications, and other offerings, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications.  When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or “likes.” For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
 
-**d.** ** ** ** ** **Adding** ** ** **a  friend to a Group on Bleacher Report:** ** ** If you choose to add another User or a third party (an “invitee”) to your Group on the Bleacher Report Service, or if you share an article or other content with members of your Group, you may provide us with the invitee’s first and last name, email address, mobile telephone number, or other contact information.  We may also allow you to access contact information through (i) your mobile device’s contact list, or (ii) your social media site accounts (such as Twitter or Facebook).  If you choose to do so, then you provide Bleacher Report with permission to access to your mobile device’s contact list or your social media account friends list, as well as any other information that the social media service provides to us in accordance with their terms of use, privacy policy, and your account settings on those sites.  We will use and store the information we collect to add that invitee to your Group, to create a temporary User ID and URL to permit that invitee to access your Group, to send a Message to the invitee, and to track the success of this feature.  Unless the invitee otherwise agrees, we do not use the invitee’s contact information for marketing purposes, and we do not share such information with third parties except as described below in Sharing of Your Information.  The invitee may contact us at any time to request that we remove his or her information from our records at support@bleacherreport.com.
+When we interact with you through our content on third party websites, applications, integrations or platforms, we may obtain any information regarding your interaction with that content, such as content you have viewed, your game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on.
 
-**e.** ** ** ** ** **Analytics information**.  We may directly collect or use third-party analytics tools to help us measure traffic and usage trends for the Service.  These tools collect information sent by your browser or mobile device as part of a web page request, including the web pages you visit, your browser add-ons, your browser’s width and height, and other information that assists us in improving the Service.  We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+**II. How We Use the Information**
 
-**f.** **    ** ** ** **Cookies information** :  When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Bleacher Report help you log in faster and enhance your navigation through the site.  A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser.  Persistent cookies may be used by your browser on subsequent visits to the site.  Persistent cookies can be removed by following your web browser’s directions.  A session cookie is temporary and disappears after you close your browser.  You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.  However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+We, along with our Partners, may use the Information to:
 
-**g.** ** ** ** ** **Log file information** :  Log file information is automatically reported by your browser each time you access a web page.  When you use our Service, our servers automatically record certain log file information.  These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+1\. provide and communicate with you about the Services or your account with us,  
+2\. fulfill your requests regarding the Services, including without limitation requests for newsletters and notifications,  
+3\. respond to your inquiries, and notify you if you have won a contest,  
+4\. communicate with you about other products, programs or services that we believe may be of interest to you,  
+5\. enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our Services, and/or for the purposes for which you provided the Information,  
+6\. provide technical support for the Services,  
+7\. prevent fraud or potentially illegal activities (including, without limitation, copyright infringement) on or through the Services,  
+8\. protect the safety of our Users,  
+9\. customize or personalize ads, offers and content made available to you based on your visits to and/or usage of the Services or other online or mobile websites, applications, platforms or services, and analyze the 10. performance of those ads, offers and content, as well as your interaction with them,  
+11\. perform analysis regarding how you use the Services or any part thereof,  
+send gifts, cards, invitations or emails if you use these services, to your designated recipients.
 
-**h.** ** ** ** ** **Clear gifs/web beacons information** :  When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.  The information is allows for more accurate reporting and improvement of the Service.
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Services, (3) contact you through the social media service or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social media services. When you provide information about yourself to us through an application, through our Services, or on social media services or other third party platforms, it may be publicly viewed by other members of these services and we cannot prevent further use of the information by third parties.
 
-**i.** **     ** ** ** **Device identifiers** :  When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”).  Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device.  A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Bleacher Report.  A device identifier may convey information to us about how you browse and use the Service.  A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service.  Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+We or a Partner may use “cookies” or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them, please go to Section IV, titled **Cookies, And Other User And Ad-Targeting Technologies**. Sometimes, we may associate cookies with the Information, including de-identified, “hashed,” or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information.
 
-**j.** **    ** ** ** **Location data** :  When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.  Location data may convey to us information about how you browse and use the Service.   Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.
+We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, an article, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location).  Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews, posts, articles) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our **[Terms of Use](http://bleacherreport.com/terms) **for details on our use of content you submit.
 
-**k.** ** ** ** ** **Commercial and marketing  communications:** ** ** We use the information we collect or receive to communicate directly with you.  We may send you emails or push notifications on your mobile device containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences.  You may opt-out of push notification messages by changing your settings on your mobile device.  We will not send you marketing communications using SMS text messages.  We also use your information to send you Service-related notices (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices) to your email address or mobile device via push notification.  You may not opt out of Service-related messages. You will also be able to be “found” on Bleacher Report based on information that you provide (see “Find friends on Bleacher Report”) above.
+**III. Information Sharing and Disclosure**
 
-**l.** **     ** ** ** **Use of certain service type information we collect about you:** ** ** We use or may use cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising  to your browser or device, and (h) automatically update the Bleacher Report application on your mobile devices. 
+We may disclose the Information as follows:
 
-**2.      ** ** ** **SHARING OF YOUR INFORMATION**
+1\. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services.
 
-We will not rent or sell your information into third parties outside Bleacher Report and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
+2\. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request.
 
-**a.** ** ** ** ** **Who we may share your information with** : We may share your information with third-party business partners for the purpose of providing the Service to you.  Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
+3\. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our **[Terms of Use](http://bleacherreport.com/terms),** to verify or enforce compliance with the policies governing our Services.
 
-**b.** ** ** ** ** **Who you may choose to share your User Content** ** ** **with** : Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any available privacy settings.  To change your privacy settings on the Service, please change your profile settings.  Subject to your profile and privacy settings, any User Content that you voluntarily make public is searchable by other Users, including your full name and blog URL (should you provide this optional information).  In addition, Bleacher Report allows for the RSS syndication of all of its public content within the Service, and may allow third parties to access such information via the Bleacher Report application programming interface (“API”).  If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+4\. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way.
 
-**c.** **   ** ** ** **What happens in the event of a change of control** : We may buy or sell/divest/transfer our company (including any shares in the company), or any combination of its products, services, assets and/or businesses.  Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions.  We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company.
+5\. We may share the Information with Turner Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services. A representative list of our affiliates is available in the **Turner Affiliates**  section below.
 
-**d.** ** ** ** ** **Instances where we are required to share your information** : Bleacher Report will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](http://bleacherreport.com/pages/terms) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Bleacher Report, our Users or others.
+6\. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the **How to Contact Us/Opting Out of Marketing Communications  **section below for further instructions.
 
-**e.** ** ** ** ** **Sharing certain service type information we collect about you** :  We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with our third-party business partners for the purposes described in the section above on “ **How We Collect and Use Information**.”  We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties' use of this information, which is subject to their own privacy policies.
 
-**f.** **    ** ** ** **Ads on Bleacher Report** :  We may also share certain information such as your location, browser and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements (“ads”) that may be of interest to you.  Bleacher Report may allow third-party ad servers or ad networks to serve advertisements on the Service.  These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so.  They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content.  Bleacher Report does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes, unless you choose in advance to have your information shared for this purpose. Additionally, you may wish to opt-out of receiving cookies by adjusting your browser settings to refuse cookies or to alert you when a cookie is placed.  See “Your Choices About Your Information” below. 
+**IV. Cookies and Other User and Ad-Targeting Technologies.** We use cookies and other technologies both to provide our Services to you and to advertise to you. We also may work with Partners to help them advertise to you when you visit other websites or mobile applications, and to help them perform user analytics. These technologies may also be used to analyze how our Users interact with advertising on our Services and elsewhere, and more generally, to learn more about our Users and what services or offers you might prefer to receive. We describe some of these technologies below.
 
-Please note that an advertiser may ask Bleacher Report to show an ad to a certain audience of Users (e.g., based on demographics or other interests).  In that situation, Bleacher Report determines the target audience and Bleacher Report serves the advertising to that audience and only provides anonymous aggregated data to the advertiser.  If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. 
+**1\. Cookies.** To enhance your online experience, we and our Partners use "cookies", “web beacons” or other tracking technologies. Cookies are text files placed in your computer's browser to store your preferences. We use cookies or other tracking technologies to understand Service and Internet usage and to improve or customize the products, content, offerings, services or advertisements on our Services. For example, we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas, and enable you to use shopping carts on our Services. We also may use cookies or other tracking technologies to help us offer you products, content, offerings or services that may be of interest to you and to deliver relevant advertising when you visit this Service, a Turner Affiliate’s Service, or when you visit other websites or applications. We or a third party platform with whom we work may place or recognize a unique cookie on your browser to enable you to receive customized content, offers, services or advertisements on our Services or other sites. These cookies contain no information intended to identify you personally. The cookies may be associated with de-identified demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider solely in hashed, non-human readable form.
 
-The Bleacher Report Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.  Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising.
 
-**3.      ** ** ** **HOW WE STORE AND PROTECT YOUR INFORMATION**
+**2\. Syncing Cookies and Identifiers.** We may work with our Partners (for instance, third party ad platforms) to synchronize unique, anonymous identifiers (such as those associated with cookies) in order to match our Partners’ uniquely coded user identifiers to our own. We may do this, for instance, to enhance data points about a particular unique browser or device, and thus enable us or others to send ads that are more relevant, match Users to their likely product interests, or better synchronize, cap, or optimize advertising.  
+ ****
 
-**a.** ** ** ** ** **Storage and Processing** :  Your information collected through the Service may be stored and processed in the United States or any other country in which Bleacher Report or its subsidiaries, affiliates or service providers maintain facilities. Bleacher Report may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Bleacher Report or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+**3\. Locally Stored Objects.** Services on the Turner Network may employ locally stored objects (“LSOs”) and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [ **Adobe’s website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.  
+ ****
 
-**b.** ** ** ** ** **Keeping your information safe** :  Bleacher Report cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service.  To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account.  You are responsible for maintaining the secrecy of your unique password and account information (including Group hyperlinks, if applicable), and for controlling access to your email communications from Bleacher Report, at all times.  However, Bleacher Report cannot ensure or warrant the security of any information you transmit to Bleacher Report or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.  Your privacy settings may also be affected by changes to the functionality of Bleacher Report’s distributors, such as social networks.  Bleacher Report is not responsible for the functionality or security measures of any third party.
+**4\. Disabling Cookies.  **Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
 
-**c.** **   ** ** ** **Compromise of information** :  In the event that any information under our control is compromised as a result of a breach of security, Bleacher Report will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA’s opt-out program, please go to [**http://www.aboutads.info**](http://www.aboutads.info/). LINK TO http://www.aboutads.info.  
 
-**4.      ** ** ** **YOUR CHOICES ABOUT YOUR INFORMATION**
+**5\. Web Beacons.**  We and our Partners may also use "web beacons" or clear GIFs, or similar technologies, which are small pieces of code placed on a Service or in an email, to monitor the behavior and collect data about the visitors viewing a Service or email. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that Service. Web beacons may also be used to provide information on the effectiveness of our email campaigns (e.g., open rates, clicks, forwards, etc.).  
+ ****
 
-**a.** ** ** ** ** **You control your account information and settings** :  You may update your account information and email-communication preferences at any time by logging in to your account and changing your profile settings.  You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications, by sending an email message to [support@bleacherreport.com](mailto:support@bleacherreport.com), with the word "No email" in the subject field, or by sending mail to the following postal address:  
+**6\. Mobile Device Identifiers and SDKs.  **We also sometimes use, or partner with publishers or publisher-facing or app developer platforms that use, mobile Software Development Kits (“SDKs”), to collect information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information connected to how mobile devices interact with our Sites and those using our Sites. Such SDKs provide computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our partners and other third parties to deliver certain advertising through mobile applications and browsers based on information associated with your mobile device. If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the “Your Ad Choices” section below.
 
-    Customer Support  
-    Bleacher Report   
-    153 Kearny St.  
-    2nd Floor  
-    San Francisco, CA 94108 
+By visiting the Service, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Service through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
 
-Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  You may not opt out of certain Service-related notices. 
+Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies.  
 
-If you no longer wish to receive Messages, you may text “STOP” to the number indicated in the Message , or e-mail us at [support](mailto:support@bleacherreport.com)[@bleacherreport.com](mailto:support@bleacherreport.com). We will use commercially reasonable efforts to promptly process all unsubscribe requests.
+**V. Your Ad Choices**
 
-If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@bleacherreport.com](mailto:support@bleacherreport.com).
+Advertising enables us to provide the rich content for which Services on the Turner Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want.
 
-**b.** ** ** ** ** **Opting out of collection of your information**   **for Tracking / Advertising** :  At this time sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device.  Note that disabling cookies and/or other tracking tools prevents Bleacher Report or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties.  However, doing so may disable many of the features available through the Service.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@bleacherreport.com](mailto:support@bleacherreport.com).
+However, we also offers you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our **Ad Choices **page, which has general information about certain companies that place these ads.   You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative (“NAI”) at the [**NAI Service**](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the “DAA”) at the [DAA consumer choice Service](http://www.aboutads.info/). Turner is a participant in the online industry’s self-regulatory program administered by the DAA and has agreed to adhere to the DAA’s principles applicable to interest-based ads.
 
-**c.** **   ** ** ** **How long we keep your User Content** :  Following termination or deactivation of your User account, Bleacher Report may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
+The tools provided on the **Ad Choices** page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices/) LINK TO  and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Bleacher. Bleacher does not control or operate these tools or the choices that advertisers and others provide through these tools.
 
-**5.      ** ** ** **CHILDREN’S PRIVACY**
+When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator. 
 
-Bleacher Report does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users.  The Service and its content are not directed at children under the age of 13.  If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under 13, please contact us at [support@bleacherreport.com](mailto:support@bleacherreport.com). 
+**VI. Other Important Information About Your Privacy**
 
-**6.      ** ** ** **LINKS TO OTHER WEB SITES AND SERVICES**
+**1\. How We Respond to Do Not Track Signals**
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein.  Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services.  Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies.  In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook or Twitter) and you allow such a third-party access to you User Content you do so at your own risk.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service. 
+At this time Services on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions.
 
-**7.       HOW TO CONTACT US**
+**2\. Linked Services**
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [support@bleacherreport.com](mailto:support@bleacherreport.com).
+Some of the Services contain links to or integrations with other services such as Facebook, Twitter, LinkedIn, and other media services and platforms whose information practices may be different than ours. Visitors should consult these other services' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-**8.       CHANGES TO OUR PRIVACY POLICY**
+**3\. International Transfer**
 
-Bleacher Report may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.  
+This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. Bleacher is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law.
 
-**This privacy policy was last modified on August 22, 2012.**
+**4\. Data Security**
+
+We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store.
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy Policy.
+
+**5\. How You Can Access or Correct Information**
+
+Access to certain personal Information that is collected from our Services and that we maintain may be available to you. For example, if you created a password-protected account within our Service, you can access that account to review account Information.
+
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personal Information. Please include your registration information for such service such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+
+Customer Support  
+Bleacher Report   
+153 Kearny St.  
+2nd Floor  
+San Francisco, CA 94108   
+email:  [**support@bleacherreport.com**](mailto:support@bleacherreport.com)
+
+**6\. How to Contact Us/Opting Out of Marketing Communications**
+
+If you have any questions or concerns about the online Privacy Policy for this Service or its implementation, or if you would like to opt out from our sharing of your personal Information with unaffiliated third parties for the third parties' direct marketing purposes you may contact our Privacy Policy Coordinator at the above address or [**support@bleacherreport.com**](mailto:support@bleacherreport.com) and request that we opt you out of such sharing. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+
+If you have signed up to receive our e-mails and prefer not to receive marketing information from this Service, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this Service. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying “STOP” to the received text message.
+
+**7\. California Residents – Your California Privacy Rights**
+
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in **How to Contact Us/Opting Out of Marketing Communications** LINK TO HOW TO CONTACT US/OPTING OUT OF MARKETING COMMUNICATIONS, if you wish to opt-out of our sharing of your personal Information with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described above.
+
+**VII. List of Turner Affiliates.**
+
+Below is a representative list of some of the Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
+
+BLEACHER REPORT, INC.
+
+CABLE NEWS INTERNATIONAL, INC.
+
+CABLE NEWS NETWORK, INC.
+
+CARTOON INTERACTIVE GROUP, INC.
+
+CARTOON NETWORK ENTERPRISES, INC.
+
+CNE TOURS, INC. (F/K/A CARTOON NETWORK SHOP, INC.)
+
+CNN INTERACTIVE GROUP, INC.
+
+COURT TV DIGITAL LLC
+
+COURTROOM TELEVISION NETWORK LLC
+
+GREAT BIG STORY, LLC
+
+RETRO, INC.
+
+SUPERSTATION, INC.
+
+TBS INTERACTIVE GROUP, INC.
+
+TCM INTERACTIVE GROUP, INC.
+
+THE CARTOON NETWORK, INC.
+
+TNT INTERACTIVE GROUP, INC.
+
+TNT ORIGINALS, INC.
+
+TURNER BROADCASTING SALES, INC.
+
+TURNER BROADCASTING SYSTEM, INC.
+
+TURNER CLASSIC MOVIES, INC.
+
+TURNER DIGITAL BASKETBALL SERVICES, INC.
+
+TURNER DIGITAL ENTERTAINMENT, LLC
+
+TURNER ENTERTAINMENT NETWORKS, INC.
+
+TURNER FESTIVALS, INC. (F/K/A TURNER DIRECT RETAILING, INC.)
+
+TURNER MEDIA VENTURES, INC.
+
+TURNER NETWORK SALES, INC.
+
+TURNER NETWORK TELEVISION, INC.
+
+TURNER PAGES, INC.
+
+TURNER SPORTS INTERACTIVE, INC.
+
+TURNER SPORTS, INC.
+
+Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share Information we collect at our Services. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
+
+Warner Bros. Entertainment, Inc.
+
+Home Box Office, Inc.
+
+Time Warner, Inc.
+
+**VIII. Updates & Effective Date**
+
+From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it.
+
+The Privacy Policy posted on this Service was updated on October 24 _,_ 2015.
 
    
-**Questions?**  
+ **Questions?**  
 
 Please e-mail [support@bleacherreport.com](mailto:support@bleacherreport.com)[.](mailto:privacy%40bleacherreport.com)
 
