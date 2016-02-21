@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929180124id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221192103id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GoDaddy Respects Your Privacy - GoDaddy
 
-**Last Revised: March 10, 2015**
+**Last Revised: February 9, 2016**
 
 GoDaddy Respects your privacy
 
 This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
-[](https://privacy.truste.com/privacy-seal/Go-Daddy-Operating-Company,-LLC/validation?rid=503396dc-0fe5-4182-a3b4-435ca72dedea "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=6081aaf3-bb57-47af-af92-d6fe2430d3bc "TRUSTe Privacy Certification")
 
-GoDaddy has been awarded TRUSTe's Privacy Seal signifying that its Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your personally identifiable information.  This Privacy Policy covers the website [http://www.godaddy.com](http://www.godaddy.com/) and our mobile application. The TRUSTe program does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its lead privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com) or call (480) 505-8877.  If you are not satisfied with our response, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+The TRUSTe program covers only information that is collected through this Site and in our mobile applications, and does not cover information that may be collected through downloadable software.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com) or call (480) 505-8877.  If you are not satisfied with our response, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**GoDaddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from   European Union member countries.  GoDaddy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.**
+GoDaddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from  European Union member countries.  We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
 **Information Collection and Use**
 
-Our Site and mobile applications use forms in which you give us contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
+Our Site and mobile applications use forms to collect contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
 
 We receive and store any information you enter on our Site or mobile applications, or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
@@ -26,21 +26,25 @@ We use your information to contact you regarding functionality changes to our pr
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site or mobile application statistics (for example, your IP address, location or device operating system) to help personalize search results, diagnose problems with our server, and to administer our Site and mobile applications. We also gather broad demographic information from this data to help us improve our Site and mobile applications and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Our Site and mobile applications use cookies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  If you reject cookies, you may still use our Site and mobile applications, but your ability to use some features or areas may be limited.
 
-Our Site and mobile applications use cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.
+Within our Site and mobile applications we and our partners, affiliates, and/or analytics or service providers use techologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site and mobile applications, track users' movements around the Site and mobile applications, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis. 
 
-Within our Site and mobile applications we use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile applications automatically collect the device's operating system, phone model, app version, and device ID, and customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types. 
+As is true of most websites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, brower type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data.  We use this information gathered about you from our Site or mobile application to help personalize search results, diagnose problems with our server, and to administer our Site and mobile applications. We also gather broad demographic information from this data to help us improve our Site and mobile applications and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+We also use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile applications automatically collect the device's operating system, phone model, app version, and device ID, and customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types. 
 
 With your express consent, we may access and track location data from your mobile device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device.
 
-This Site and our mobile applications contain links to other websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.
+This Site and our mobile applications contain links to other websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
+
+For domain name registrations, please review the privacy portion (where available) of the [Registry Policies](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=20012) for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We use security measures to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+We follow generally accepted standards to protect the personal information transferred to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
 **Sending Emails**
 
@@ -51,10 +55,6 @@ The information you send to us may be stored and used to improve this Site, our 
 **Third Party Service Providers**
 
 We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-We may also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click [here](http://media.godaddy.com/optout.html).
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Google Analytics**
 
@@ -76,17 +76,23 @@ In order to provide certain services to you, we may on occasion supplement the p
 
 **Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
 
 We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 **Targeted Advertisements**  
 
-GoDaddy may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+GoDaddy may display targeted, or interest-based, offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+
+We also partner with third parties to manage our advertising on other websites.  Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other websites in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to not have this information used for the purpose of serving you with targeted ads, you may opt out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).  
+
+We also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click [here](http://media.godaddy.com/optout.html).
+
+Please note that opting out of targeted advertisements does not completely opt you out of being served with ads.  You will continue to receive generic ads. 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [mailto:hq@godaddy.com](mailto:hq@godaddy.com)to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [mailto:hq@godaddy.com](mailto:hq@godaddy.com) to request the removal of this information from our database.
 
 **What Happens to my Personally Identifiable  Information if I Terminate my GoDaddy Account? **
 
