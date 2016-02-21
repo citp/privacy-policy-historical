@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmerit.org privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925120903id_/http%3A//www.nationalmerit.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmerit.org privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221095753id_/http%3A//www.nationalmerit.org/privacy) for the most accurate reproduction.*
 
 # National Merit Scholarship Corporation - Competition Steps
 
