@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountsstory.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013806id_/http%3A//www.savingstory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountsstory.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221092758id_/http%3A//www.savingstory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SavingStory.com
 
