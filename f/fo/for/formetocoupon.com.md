@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117232023id_/http%3A//www.fmtc.co/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221015232id_/http%3A//www.fmtc.co/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FMTC Affiliate Datafeed and Tools
 
@@ -47,7 +47,7 @@ We have no intention of collecting Personal Information from children under the 
 
 We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Web site following the posting of any changes to this policy means you accept such changes.
 
-We give you the option to remove your Personal Information from our list of users who receive newsletters or other information not related to an account held with us. All unsubscribe or opt-out requests should be sent to us at support[at]formetocoupon.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.
+We give you the option to remove your Personal Information from our list of users who receive newsletters or other information not related to an account held with us. All unsubscribe or opt-out requests should be sent to us at support[at]fmtc.co and we will process your request within a reasonable time after receipt. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.
 
 ### Our Terms of Service
 
