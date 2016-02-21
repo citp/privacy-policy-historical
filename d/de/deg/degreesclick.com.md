@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreesclick.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814153845id_/http%3A//degreesclick.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesclick.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221090325id_/http%3A//www.degreesclick.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | degreesclick.com
 
@@ -9,7 +9,7 @@ This statement governs our privacy policies with respect to those users of the S
 transacting business and Visitors who register to transact business on the Site and make use of the various services offered by degreesclick.com (collectively, “Services”) (“Authorized Customers”).
 
 **“Personally Identifiable Information”**  
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and school card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
 or demographic information not connected to an identified individual.
 
 **Are Cookies Used on the Site?**  
@@ -25,7 +25,7 @@ Our privacy policy does not cover their collection or use of this information.
 Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
 **How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as school card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
 Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [info@degreesclick.com](mailto:info@degreesclick.com)
