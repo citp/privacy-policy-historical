@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrients.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221225828id_/http%3A//www.vrients.com/usa/customer-service/%23codice-condotta) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrients.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222141955id_/http%3A//www.vrients.com/usa/customer-service/%23codice-condotta) for the most accurate reproduction.*
 
 # Customer Service
 
@@ -10,7 +10,7 @@ Displayed prices include duty and taxes for the following countries: Hong Kong, 
 
 Upon confirmation of your order, you will receive the UPS or DHL tracking number with which you can track your order at any time visiting the website www.ups.com or www.dhl.com
 
-All orders placed before 1:00 PM (GMT) will be despatched the same day. Those sent later than 1:00 PM (GMT) will be shipped the next day.
+All orders placed before 1:00 PM (GMT+1) will be despatched the same day. Those sent later than 1:00 PM (GMT+1) will be shipped the next day.
 
 Paying by credit card (Bank system), you will be redirected on **Unicredit** secure servers that provide the transition safely by the following circuits:
 
