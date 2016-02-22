@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealoz.com privacy policy that was archived on 2015-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150817200046id_/http%3A//dealoz.com/price/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealoz.com privacy policy that was archived on 2016-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160222114914id_/http%3A//www.dealoz.com/price/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -56,70 +56,135 @@
           <form class="nav-searchbar-inner searchbar-now" accept-charset="utf-8" action="/price/load" method="get">
             <input type="hidden" name="browse_id" value="10">
             <span id="nav-search-in" class="nav-facade-active" style="width: auto;">
-              <span style="width: auto; overflow: visible;" id="nav-search-in-content" data-value="search-alias=aps">Books</span>
+              
+                <span style="width: auto; overflow: visible;" id="nav-search-in-content" data-value="search-alias=aps">Books</span>
+              
               <span class="nav-down-arrow sprite"></span>
-              <select id="searchDropdownBox" class="searchSelect" style="top:-1px;" onchange="dropdownBox(this);">
+              <select id="searchDropdownBox" class="searchSelect" style="top:-1px;" onchange="dropdownBoxs(this);">
                 
                 
-                  <option value="96">All Departments</option>
+                  
+                    <option value="96">All Departments</option>
+                  
                 
-                  <option value="19">Appliances</option>
+                  
+                    <option value="19">Appliances</option>
+                  
                 
-                  <option value="20">Arts, Crafts &amp; Sewing</option>
+                  
+                    <option value="20">Arts, Crafts &amp; Sewing</option>
+                  
                 
-                  <option value="21">Automotive</option>
+                  
+                    <option value="21">Automotive</option>
+                  
                 
-                  <option value="22">Baby</option>
+                  
+                    <option value="22">Baby</option>
+                  
                 
-                  <option value="34">Beauty</option>
+                  
+                    <option value="34">Beauty</option>
+                  
                 
-                  <option value="10" selected="selected">Books</option>
+                  
+                    
+                      <option value="10" selected="selected">Books</option>
+                      <!--<option value="textbook">TextBooks</option>-->
+                    
+                  
                 
-                  <option value="18">Clothing &amp; Accessories</option>
+                  
+                    <option value="18">Clothing &amp; Accessories</option>
+                  
                 
-                  <option value="8018">Computers</option>
+                  
+                    <option value="8018">Computers</option>
+                  
                 
-                  <option value="17">Electronics</option>
+                  
+                    <option value="17">Electronics</option>
+                  
                 
-                  <option value="35">Grocery &amp; Gourmet Food</option>
+                  
+                    <option value="35">Grocery &amp; Gourmet Food</option>
+                  
                 
-                  <option value="24">Health &amp; Personal Care</option>
+                  
+                    <option value="24">Health &amp; Personal Care</option>
+                  
                 
-                  <option value="25">Home &amp; Kitchen</option>
+                  
+                    <option value="25">Home &amp; Kitchen</option>
+                  
                 
-                  <option value="38">Industrial &amp; Scientific</option>
+                  
+                    <option value="38">Industrial &amp; Scientific</option>
+                  
                 
-                  <option value="26">Jewelry</option>
+                  
+                    <option value="26">Jewelry</option>
+                  
                 
-                  <option value="27">Magazine Subscriptions</option>
+                  
+                    <option value="27">Magazine Subscriptions</option>
+                  
                 
-                  <option value="12">Movies &amp; TV</option>
+                  
+                    <option value="12">Movies &amp; TV</option>
+                  
                 
-                  <option value="13">Music</option>
+                  
+                    <option value="13">Music</option>
+                  
                 
-                  <option value="28">Musical Instruments</option>
+                  
+                    <option value="28">Musical Instruments</option>
+                  
                 
-                  <option value="29">Office Products</option>
+                  
+                    <option value="29">Office Products</option>
+                  
                 
-                  <option value="39">Patio, Lawn &amp; Garden</option>
+                  
+                    <option value="39">Patio, Lawn &amp; Garden</option>
+                  
                 
-                  <option value="30">Pet Supplies</option>
+                  
+                    <option value="30">Pet Supplies</option>
+                  
                 
-                  <option value="11">Rare Books</option>
+                  
+                    <option value="11">Rare Books</option>
+                  
                 
-                  <option value="37">Shoes</option>
+                  
+                    <option value="37">Shoes</option>
+                  
                 
-                  <option value="16">Software</option>
+                  
+                    <option value="16">Software</option>
+                  
                 
-                  <option value="31">Sports &amp; Outdoors</option>
+                  
+                    <option value="31">Sports &amp; Outdoors</option>
+                  
                 
-                  <option value="40">Tools &amp; Home Improvement</option>
+                  
+                    <option value="40">Tools &amp; Home Improvement</option>
+                  
                 
-                  <option value="32">Toys &amp; Games</option>
+                  
+                    <option value="32">Toys &amp; Games</option>
+                  
                 
-                  <option value="14">Video Games</option>
+                  
+                    <option value="14">Video Games</option>
+                  
                 
-                  <option value="36">Watches</option>
+                  
+                    <option value="36">Watches</option>
+                  
                 
               </select>
             </span><!-- nav-search-in -->
@@ -156,6 +221,27 @@
     <ul id="nav-subnav" style="display:none;"></ul>
   </div><!-- navbar -->
 </header>
+
+<script>
+  function dropdownBoxs(obj) {
+    if ( $(obj).children('option:selected').val() == 'textbook' ) {
+      $('.searchbar-now').attr('action', '/textbooksearch');
+      $("input[name='browse_id']").val('');
+    } else {
+      $('.searchbar-now').attr('action', '/price/load');
+      $("input[name='browse_id']").val($(obj).children('option:selected').val());      
+    }
+    $('#nav-search-in-content').attr('data-value', $(obj).children('option:selected').val());
+    $('#nav-search-in-content').text($(obj).children('option:selected').text());
+
+    $('#nav-search-in').css('width','auto');
+    $('.nav-searchfield-width').css('padding-left', $('#nav-search-in').width());
+
+    if ( WJ.browserType() != 'ie' ) {
+        $('#searchtextbox').focus();
+    }
+  }
+</script>
 
 
 <style>
@@ -301,17 +387,16 @@ hr {color: #ffffff; background-color: #ffffff; border: 1px solid #d3d3d3; border
   <a href="/price/disclaimer">Disclaimer</a> - 
   <a href="javascript:;" onclick="goToSupport();">Contact us</a> - 
   <a href="/merchant/">Merchant login</a> - 
-  <a href="/price/help/jobs">Jobs</a> - 
   <a href="/price/help/faq">Help</a> - 
   <a href="/price/college_bookstores">College Bookstores</a>
 
   
-  <div style="font-size:10px;text-align:center;margin-top:8px;color:#666;">©2015 DealOz.com All rights reserved.</div>
+  <div style="font-size:10px;text-align:center;margin-top:8px;color:#666;">©2016 DealOz.com All rights reserved.</div>
 </div><!-- footer -->
 
   <script async="" type="text/javascript" src="/js/c/en-us/price/site.wide.min.js?v=3"></script>
   <script async="" type="text/javascript" src="/js/c/en-us/price/collect.main.info.min.js?v=1"></script>
-  <script type="text/javascript" src="/js/c/en-us/price/alert.new.min.js?v=23"></script>
+  <script type="text/javascript" src="/js/c/en-us/price/alert.new.min.js?v=24"></script>
   <script async="" type="text/javascript" src="/js/c/en-us/price/ticket.min.js?v=10"></script>
   <script async="" type="text/javascript" src="/js/c/en-us/price/cookie.min.js?v=2"></script>
 
