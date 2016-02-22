@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usenet.nl privacy policy that was archived on 2015-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221171000id_/http%3A//en.usenet.nl/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usenet.nl privacy policy that was archived on 2016-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160223004656id_/https%3A//en.usenet.nl/unf/shop/misc/miscShowPrivacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
                 <meta charset="utf-8">
@@ -11,9 +11,7 @@
                 <!-- google fonts-->
                 <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css">
                 
-                <link href="/UNF/RESOURCE/shop/skin/v3/css/vendor/bootstrap.min.css" rel="stylesheet" media="screen">
-                <link href="/UNF/RESOURCE/shop/skin/v3/css/vendor/jquery.dataTables.min.css" rel="stylesheet" media="screen">
-                <link href="/UNF/RESOURCE/shop/skin/v3/assets/css/unf-style.min.css" rel="stylesheet" media="screen">
+                <link href="/UNF/RESOURCE/shop/skin/v3/css/unf-style.min.css" rel="stylesheet" media="screen">
                 
                 <!--[if IE 7]><link href="css/ie7.css" rel="stylesheet"><![endif]-->
                 <!--[if IE 8]><link href="css/ie8.css" rel="stylesheet"><![endif]-->
@@ -56,7 +54,7 @@
 
     
         <header>
-            <div class="screenInfo">Breite = 1366 | Mo: false | Ta: false | De: false | La: true</div>
+            <div class="screenInfo"></div>
             <nav class="navbar navbar-default">
                 <div class="container">
                     <div class="navbar-header">
@@ -77,7 +75,7 @@
                             </li>
                             <li class="">
                                 
-                                <a href="/unf/shop/misc/miscShowFullPackages.cfm/" title="Packages&nbsp;">Packages&nbsp;</a>
+                                <a href="/unf/shop/misc/miscShowFullPackages.cfm/" title="Plans">Plans</a>
                             </li>
                             <li class="">
                                 
@@ -89,7 +87,7 @@
                             </li>
                             <li class="">
                                 
-                                <a href="/unf/shop/obj/cart/caShowCheckout.cfm" title="Registration">Registration</a>
+                                <a class="unf-cta-button-event" id="homeRegButtonTopLeft" href="/unf/shop/obj/cart/caShowCheckout.cfm" title="Registration">Registration</a>
                             </li>
                             <li class="login">
                                 
@@ -109,7 +107,7 @@
                         <h4 class="modal-title" id="loginModalLabel">Login</h4>
                     </div>
                     <div class="modal-body">
-                        <form id="login-modal-form" action="https://en.usenet.nl/privacy/" novalidate="novalidate">
+                        <form id="login-modal-form" action="https://en.usenet.nl/privacy/">
                             <div class="form-group">
                                 <input type="text" class="form-control" id="sUsername" name="sUsername" placeholder="Login">
                             </div>
@@ -137,7 +135,7 @@
 
                         <p class="text-center">Please enter your email address here. We will send you your access information again.</p>
 
-                        <form id="forgot-password-modal-form" method="post" action="/UNF/Shop/obj/user/usShowLostPassword.cfm" novalidate="novalidate">
+                        <form id="forgot-password-modal-form" method="post" action="/UNF/Shop/obj/user/usShowLostPassword.cfm">
                             <div class="form-group">
                                 <input type="email" class="form-control" name="sEmail" id="sEmail" placeholder="Email">
                             </div>
@@ -318,8 +316,10 @@ Should you no longer wish to receive newsletter e-mails or similar information, 
                                 <div class="dropdown" id="langMenu">
                                     
          <button id="langLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-             English <img src="/UNF/RESOURCE/shop/skin/v3/img/flag_english.jpg" alt="English">
+            English
+            <span class="flag flag-english"></span>
             <span class="caret"></span>
+            
         </button>
     
 
@@ -327,37 +327,37 @@ Should you no longer wish to receive newsletter e-mails or similar information, 
             
                 <li>
                     <a href="/privacy/" title="English">
-                        English<img src="/UNF/RESOURCE/shop/skin/v3/img/flag_english.jpg" alt="English">
+                        English <span class="flag flag-english"></span>
                     </a>
                 </li>
             
                 <li>
                     <a href="http://de.usenet.nl/privacy/" title="Deutsch">
-                        Deutsch<img src="/UNF/RESOURCE/shop/skin/v3/img/flag_german.jpg" alt="Deutsch">
+                        Deutsch <span class="flag flag-german"></span>
                     </a>
                 </li>
             
                 <li>
                     <a href="http://fr.usenet.nl/privacy/" title="Français">
-                        Français<img src="/UNF/RESOURCE/shop/skin/v3/img/flag_francais.jpg" alt="Français">
+                        Français <span class="flag flag-french"></span>
                     </a>
                 </li>
             
                 <li>
                     <a href="http://nl.usenet.nl/privacy/" title="Nederlands">
-                        Nederlands<img src="/UNF/RESOURCE/shop/skin/v3/img/flag_nederlands.jpg" alt="Nederlands">
+                        Nederlands <span class="flag flag-nederlands"></span>
                     </a>
                 </li>
             
                 <li>
                     <a href="http://es.usenet.nl/privacy/" title="Español">
-                        Español<img src="/UNF/RESOURCE/shop/skin/v3/img/flag_espanol.jpg" alt="Español">
+                        Español <span class="flag flag-spanish"></span>
                     </a>
                 </li>
             
                 <li>
                     <a href="http://it.usenet.nl/privacy/" title="Italiano">
-                        Italiano<img src="/UNF/RESOURCE/shop/skin/v3/img/flag_italiano.jpg" alt="Italiano">
+                        Italiano <span class="flag flag-italian"></span>
                     </a>
                 </li>
             
@@ -373,8 +373,7 @@ Should you no longer wish to receive newsletter e-mails or similar information, 
 
                     <!-- FOOTER_END-->
                     <!--SCRIPTS-->
-                    <script src="/UNF/RESOURCE/shop/skin/v3/assets/js/scripts.min.js"></script>
-
+                    <script src="/UNF/RESOURCE/shop/skin/v3/js/unf-base.min.js"></script>
                     <script>
 
                     //LOGIN FORM VALIDATION
@@ -409,9 +408,11 @@ Should you no longer wish to receive newsletter e-mails or similar information, 
                                 .done(function(response){
                                     response = JSON.parse(response);
                                     if(response.SUCCESS){
+                                        _gaq.push(['_trackEvent','CTA-Klick', 'Login', 'Login erfolgreich']);
                                          window.location.href = response.URL;
 
                                     } else {
+                                        _gaq.push(['_trackEvent','CTA-Klick', 'Login', 'Login fehlgeschlagen']);
                                         var createError = function(message, elements){
                                             if($.isArray(elements)) {
                                                 for(var i = 0; i < elements.length; i++){
@@ -469,7 +470,38 @@ Should you no longer wish to receive newsletter e-mails or similar information, 
                             }
 
                         });
-                        </script>
+
+                        $(".unf-cta-button-event").click(function(){
+                            switch(this.id){
+                                case "homeRegButtonTopLeft":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'Home_oben_links']);
+                                    break;
+                                case "homeRegButtonBottomMiddle":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'Home_unten_mitte']);;
+                                    break;
+                                case "packagesRegButton":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'Pakete_kostenlos_testen']);;
+                                    break;
+                                case "aboutUsenetRegButton":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'Ueber_usenet__kostenlos_testen']);;
+                                    break;
+                                case "stepOneCtaButton":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'step1_jetzt_kostenlos_testen']);;
+                                    break;
+                                case "stepTwoCtaButton":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'step2_kaufen']);;
+                                    break;
+                                case "stepThreeCtaButton":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Anmeldebutton', 'step3_Anmeldung_abschlieÃŸen']);;
+                                    break;
+                                case "submitContactFormCtaButton":
+                                    _gaq.push(['_trackEvent','CTA-Klick', 'Kontaktformular', 'senden']);;
+                                    break;
+                                default:
+                                    break;
+                            };
+                        });
+                    </script>
                         
                         <!--SCRIPTS_END-->
                     </footer>
