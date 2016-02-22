@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draggo.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813225230id_/http%3A//draggo.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draggo.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222090704id_/http%3A//draggo.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
