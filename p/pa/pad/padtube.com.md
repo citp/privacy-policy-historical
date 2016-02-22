@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017082136id_/http%3A//padtube.com/privacy-policy-p29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222232846id_/http%3A//padtube.com/privacy-policy-p29) for the most accurate reproduction.*
 
 # Privacy Policy - padtube.com
-
-### Privacy Policy
 
 This Privacy Policy describes padtube.com policies and procedures on the collection, use and disclosure of your information. padtube.com receives your information through our various web sites, APIs, applications, services and third-parties ("Services"). For example, you send us information when you use padtube.com from our web site, post ads, receive ads or access our site any resources. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by padtube.com in the Turkey or any other country where padtube.com operates.
 
