@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentlyviral.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117105513id_/http%3A//currentlyviral.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentlyviral.net privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222152226id_/http%3A//currentlyviral.net/privacy) for the most accurate reproduction.*
 
 # currentlyviral
 
