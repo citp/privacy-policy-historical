@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chesstempo.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813114257id_/http%3A//chesstempo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesstempo.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222151258id_/http%3A//chesstempo.com/privacy.html) for the most accurate reproduction.*
 
 # Chess Tempo Privacy Policy
 
