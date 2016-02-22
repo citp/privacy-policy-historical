@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120094522id_/https%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222171216id_/https%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
 
 # The website for the English football association, The FA Cup and The England football team - | The FA
 
