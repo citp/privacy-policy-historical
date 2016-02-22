@@ -1,20 +1,27 @@
-> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812211312id_/http%3A//www.sharethrough.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222212609id_/https%3A//platform-cdn.sharethrough.com/privacy-policy) for the most accurate reproduction.*
 
-# Sharethrough - Privacy Policy
+# Privacy Policy - Sharethrough
 
 ## Sharethrough and Privacy
 
 We at Sharethrough respect your privacy, and your privacy choices. We also try hard to customize our content to make it more interesting to our readers. We, and partners we work with (like online ad networks), do this by collecting anonymous information (which also may include anonymous precise geolocation information), from your browser as you surf the web and use your computer or device. This customization helps us provide you, our readers, with a more sophisticated and desirable product.
 
-Nonetheless, we respect your right to opt out of this type of content tailoring if you wish to do that. You can opt out through your web browser simply by clicking the “Opt Out” button below. If you do so, we will then place an opt-out cookie on your computer. 
+Nonetheless, we respect your right to opt out of this type of content tailoring if you wish to do that. You can opt out through your web browser by clicking the appropriate opt-out link below. If you do so, we will then place an opt-out cookie on your computer. 
 
 For ads inside mobile applications, you can also opt out through your mobile device itself, in which case we will cease tailoring content to your mobile device based on your device’s mobile identifier (for instance your device’s “IDFA” or “Android Advertising ID”). These opt-out tools tell us not to use your information for customizing content we serve. This may mean, for instance, that you may receive the same content multiple times rather than receiving new or targeted content. 
 
 Please also note that if you delete, block, or otherwise restrict cookies, clear your cookie cache, update your browser, override your device settings or switch devices, you will need to renew your opt-out choices. 
 
-Read Sharethrough's full privacy policy.
+Learn more about [Sharethrough](https://sharethrough.com/) and read our full privacy policy.
 
-Opt-out of targeted advertising [for desktop](https://www.google.com/settings/u/0/ads) and [for mobile](http://native.sharethrough.com/opt_out)
+Opt out of targeted advertising for the web via [Bluekai.com](https://www.bluekai.com/consumers.php) or a specific mobile device below:
+
+**Opt out on iOS:**  
+Go to your Settings > Select Privacy > Select Advertising > Enable the "Limit Ad Tracking" setting. Learn more from [Apple](https://support.apple.com/en-us/HT202074).
+
+**Opt out on Android:**  
+Open your Google Settings app > Ads > Enable "Opt out of interest-based advertising".  
+Learn more from [Google](https://www.google.com/policies/technologies/ads/).
 
 * * *
 
@@ -34,8 +41,8 @@ Generally, there are three categories of users of the Sharethrough Website and S
 
 This Privacy Policy governs two sets of data practices:
 
-  * **Privacy Practices for Users of the Sharethrough Services and Content Links**
-  * **Privacy Practices for Users of This Website**
+  * Privacy Practices for Users of the Sharethrough Services and Content Links
+  * Privacy Practices for Users of This Website
 
 
 
@@ -156,17 +163,19 @@ While we may link to another website or service through this Website, or allow o
 
 The Website and Services are hosted in the United States. If you access the Website or Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, you understand that through your continued use of the Website or Services, you may be transferring your Personal Information to the United States and if so, you consent to that transfer. Additionally, you understand that your Personal Information may be processed in countries (including the United States) where laws regarding processing Personal Information may be less stringent than in your country.
 
+However, to the extent they are applicable, Sharethrough complies with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information we receive from the relevant European countries, effective as of the date our certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>. To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact us as described below, and our business customers can log into their accounts to directly access and correct certain information they have submitted. In the event we are unable to resolve a disagreement with a covered European resident regarding Safe Harbor, we agree to resolve the matter through the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Dispute Resolution Program (<http://go.adr.org/safeharbor>). To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>.
+
 **(e) Changes to this Privacy Policy**
 
 This Privacy Policy may change from time to time, which may occur through our posting of new terms, made effective after a reasonable period of time.
 
 **(f) Enforcement, Questions, and Complaints**
 
-If you have any inquiries or concerns regarding this Privacy Policy or our privacy practices, please contact us by emailing us at [privacy@sharethrough.com](mailto:privacy@sharethrough.com) or writing to us at:
+If you have any inquiries or concerns regarding this Privacy Policy or our privacy practices, please contact us by emailing us at [privacy@sharethrough.com](mailto:privacy@sharethrough.com) or writing to us at: 
 
-Sharethrough, Inc.  
-Attention: Privacy Inquiries  
-394 Pacific Ave, 5th Floor  
-San Francisco, CA 94111
+Sharethrough, Inc.   
+Attention: Privacy Inquiries   
+394 Pacific Ave, 5th Floor   
+San Francisco, CA 94111 
 
-Last Updated: July 2014
+Last Updated: December 2014
