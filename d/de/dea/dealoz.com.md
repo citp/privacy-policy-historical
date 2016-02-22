@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealoz.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817200046id_/http%3A//dealoz.com/price/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealoz.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222114914id_/http%3A//www.dealoz.com/price/privacy) for the most accurate reproduction.*
 
 # DealOz.com Privacy Policy
 
