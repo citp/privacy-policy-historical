@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenet.nl privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221171000id_/http%3A//en.usenet.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenet.nl privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223004656id_/https%3A//en.usenet.nl/unf/shop/misc/miscShowPrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Usenet.nl - privacy statement
 
