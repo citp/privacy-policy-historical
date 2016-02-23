@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudify.cc privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813124747id_/http%3A//cloudify.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudify.cc privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223105546id_/http%3A//cloudify.cc/privacy) for the most accurate reproduction.*
 
 # Cloudify
 
-This privacy policy (the "Statement") covers SOLARION Limited ("SOLARION", "us," or "our") Cloudify service website, cloudify.cc. By using the Cloudify website, you consent to the data practices described in this Statement, as the same may be updated from time to time. 
+This privacy policy (the "Statement") covers SOLARION Ltd. ("SOLARION Ltd.", "us," or "our") Cloudify service website, cloudify.cc. By using the Cloudify website, you consent to the data practices described in this Statement, as the same may be updated from time to time. 
 
 #### Scope
 
