@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909080849id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223084400id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.*
 
 # Acne Studios - Privacy Policy Shop Ready to Wear, Accessories, Shoes and Denim for Men and Women
 
@@ -42,24 +42,24 @@ If you are under eighteen (18), we require that you inform and get your parents 
 ## Acceptance of privacy and modifications
 
 By accessing and using the Acne Studios website (including purchasing items through our website), or submitting a personal information at an Acne Studios store or any other Acne Studios outlet, you consent to our collection, use and disclosure of your information as described in this privacy policy. Acne Studios reserves the right occasionally to make changes to its privacy policy or practices. We will post the updated policy on our website, and thus we encourage you to review this page from time to time, particularly each time you use our online shop. You should therefore review this page from time to time to get updated information including in particular, each time you use the online shop. We will notify you of any changes in our privacy policy by posting the modifications on our website.   
-Last date for modification: February 6, 2012 – document added
+Last date for modification: January 11, 2016
 
 ## Contact us
 
-If you have any comments or queries regarding our privacy policy, please send an email to shop@acnestudios.com, or write to us at one of the following addresses:
+If you have any comments or queries regarding our privacy policy, please send an email to customercare@acnestudios.com, or write to us at one of the following addresses:
 
 US
 
 Acne Corp.  
-Etail Client Service  
-545 West 25th St. Fl. 8  
-New York, NY 10001  
-USA 
+Digital Customer Care  
+401 Broadway Ste 2202  
+New York, NY 10013  
+USA
 
 International
 
 Acne Studios AB  
-Etail Client Service  
+Digital Customer Care  
 Lilla Nygatan 23  
 111 28 Stockholm  
-Sweden 
+Sweden
