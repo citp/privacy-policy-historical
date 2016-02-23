@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theurbanlist.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215002519id_/http%3A//www.theurbanlist.com/brisbane/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbanlist.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223094124id_/http%3A//www.theurbanlist.com/auckland/privacy) for the most accurate reproduction.*
 
-# Privacy | Brisbane | The Urban List
+# Privacy | Auckland | The Urban List
 
 **1) PURPOSE OF OUR POLICY**
 
