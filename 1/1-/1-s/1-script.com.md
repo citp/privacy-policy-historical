@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-script.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925011850id_/http%3A//www.1-script.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-script.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223081003id_/http%3A//www.1-script.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Development Blog
 
