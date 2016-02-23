@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egomoneyac.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906202535id_/http%3A//egomoneyac.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egomoneyac.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223082611id_/http%3A//egomoneyac.com/privacy.php) for the most accurate reproduction.*
 
 # EgoMoneyAC - Get paid instantly!
 
@@ -22,4 +22,4 @@ Member's personal information is stored on servers which are protected by string
 
 Please be aware, however, that this website cannot be held responsible for the privacy policies of websites to which we may link. 
 
-[ ](https://web.archive.org/web/20150906202535id_/http%3A//egomoneyac.com/join.php)
+[ ](https://web.archive.org/web/20160223082611id_/http%3A//egomoneyac.com/join.php)
