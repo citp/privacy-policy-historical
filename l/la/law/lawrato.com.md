@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815011231id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223063941id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
 
-# Consult & Hire Top Rated Lawyers in India | LawRato.com
+# Privacy Policy | LawRato – Advocates Directory Online | LawRato.com
 
 **_If you do not agree to terms of our Privacy Policy we kindly request you to not use this site._**
 
