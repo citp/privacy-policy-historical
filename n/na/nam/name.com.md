@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023830id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223074243id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,9 +32,8 @@ Name.com respects your privacy. We want you to use Name.com services with comple
 Name.com takes this privacy policy and the principles herein very seriously. We are committed to abiding by this policy and taking reasonable precautions to ensure that your personal information remains secure. If you have any questions or concerns about the scope, tenants and/or application of this policy please let us know. We welcome your feedback. Please feel free to contact us by phone, email or fax per your preference.
 
 Name.com   
-2500 East Second Avenue   
-Second Floor   
-Denver, Colorado 80206   
+414 14th Street #200   
+Denver, Colorado 80202   
 Email - support@Name.com   
 Phone - +1 720.249.2374   
 Fax - +1 303.399.3167 
