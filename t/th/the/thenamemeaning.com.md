@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenamemeaning.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006010508id_/http%3A//www.thenamemeaning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenamemeaning.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223212535id_/http%3A//www.thenamemeaning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The Name Meaning
 
-[](http://www.thenamemeaning.com/wp-content/uploads/2013/03/thenamemeaning-logo-title.jpg)
+[](http://cdn.thenamemeaning.com/wp-content/uploads/2013/03/thenamemeaning-logo-title.jpg)
 
 The Name Meaning – Baby names, boy names, girl names, name meanings
 
