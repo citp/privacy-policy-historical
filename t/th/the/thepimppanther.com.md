@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepimppanther.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215160743id_/http%3A//www.thepimppanther.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepimppanther.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223150558id_/http%3A//www.thepimppanther.com/service/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Wordpress Templates
 
