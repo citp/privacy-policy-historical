@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchclass.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315092415id_/http%3A//matchclass.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchclass.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223132840id_/http%3A//www.matchclass.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # MatchClass
 
