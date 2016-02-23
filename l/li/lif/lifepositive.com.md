@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifepositive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073450id_/https%3A//www.lifepositive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifepositive.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223051947id_/https%3A//www.lifepositive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life Positive
 
