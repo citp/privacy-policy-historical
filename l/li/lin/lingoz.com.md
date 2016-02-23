@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingoz.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223020119id_/http%3A//translator.babylon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingoz.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223172219id_/http%3A//translator.babylon.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
