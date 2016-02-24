@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovaustralia.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507163323id_/http%3A//ovaustralia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovaustralia.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224012521id_/http%3A//www.ovaustralia.com/privacy.aspx) for the most accurate reproduction.*
 
 # ovaustralia.com
 
