@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814071252id_/https%3A//www.efirstbank.com/firstbank/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224070635id_/https%3A//www.efirstbank.com/firstbank/privacy-policy.htm) for the most accurate reproduction.*
 
 # FirstBank Privacy Policy & Disclosure
 
@@ -8,13 +8,13 @@ FirstBank is committed to maintaining the privacy of our customers. We have poli
 
 Our privacy policy is posted on our web site and is also available at any of our offices or by calling us. **We do not sell information about you to third parties for any purpose**. We will establish security procedures to confirm your identity. You must take reasonable precautions to maintain the confidentiality of any passwords or personal identification numbers (PINs) that you select or receive from us.
 
-[Read and Print the Privacy Policy »](https://web.archive.org/web/20150814071252id_/https%3A//www.efirstbank.com/_assets/documents/privacy-policy.pdf)
+[Read and Print the Privacy Policy »](https://web.archive.org/web/20160224070635id_/https%3A//www.efirstbank.com/_assets/documents/privacy-policy.pdf)
 
 This disclosure applies to the 1031 Corporation
 
 #### Security Policy
 
-We have implemented commercially reasonable security procedures for our Online Banking Service. More information about the security procedures for the Online Banking Service is available [here](https://web.archive.org/web/20150814071252id_/https%3A//www.efirstbank.com/internet-banking/security-privacy.htm). 
+We have implemented commercially reasonable security procedures for our Online Banking Service. More information about the security procedures for the Online Banking Service is available [here](https://web.archive.org/web/20160224070635id_/https%3A//www.efirstbank.com/internet-banking/security-privacy.htm). 
 
 In regard to Internet usage, cookies are pieces of data assigned by a Web server to the browser on a specific PC. Cookies help web sites recognize return visitors, and cannot be read by a web site other than the one that set the cookie. When someone returns to a web site he or she has visited before, the person's browser gives this data back to the server. 
 
@@ -32,4 +32,4 @@ For Online Banking enrollment, once the customer has been enrolled for Online Ba
 
 While visitors can use e-mail to contact us about routine issues and inquiries, e-mail may not be a secure method of communication for time sensitive communication or communication of information that is confidential. We strongly recommend that this type of information not be communicated via e-mail. 
 
-From our web site, we do not knowingly collect or use personal information from children under 13 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](https://web.archive.org/web/20150814071252id_/https%3A//www.efirstbank.com/firstbank/exit.htm?site=http://www.ftc.gov/).
+From our web site, we do not knowingly collect or use personal information from children under 13 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](https://web.archive.org/web/20160224070635id_/https%3A//www.efirstbank.com/firstbank/exit.htm?site=http://www.ftc.gov/).
