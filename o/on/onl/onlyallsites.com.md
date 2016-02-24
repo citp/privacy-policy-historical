@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyallsites.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124155023id_/http%3A//www.onlyallsites.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyallsites.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224222651id_/http%3A//www.onlyallsites.com/Privacy-policy) for the most accurate reproduction.*
 
 # Welcome | Only All Sites
 
