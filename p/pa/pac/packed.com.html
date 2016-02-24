@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the packed.com privacy policy that was archived on 2015-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503132553id_/http%3A//packed.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the packed.com privacy policy that was archived on 2016-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160224223603id_/http%3A//packed.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title></title>
@@ -14,7 +14,7 @@
 	<meta name="robots" content="noindex">
 	
 
-<link href="http://assets0.packed.com/webair/a/stylesheets/main.css?1271593624" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets3.packed.com/webair/a/stylesheets/main.css?1271593624" media="screen" rel="stylesheet" type="text/css">
 
 
 <script src="http://packed.com/javascripts/cache/all.js?1274011002" type="text/javascript"></script>
@@ -52,25 +52,27 @@
       </div>
       <div id="realLoginContent" style="display:none;">
         
-            
-
-            <div style="">
-              Welcome back Guest425885!<br>
-
-              <div id="LoginAvatarImage">
-                <a href="http://packed.com/users/guest425885"><img alt="Missing_medium_m" src="http://packed.com/system/avatars/missing_medium_m.jpg"></a>
-              </div>
-
-              <div id="headerProfileControls" class="FloatRight">
-
-                <a href="/users/guest425885" class="nickname" content_method="login" target="_top" title="Guest425885">Your Profile</a>
-
-                
-
-                
-
-                <div style="margin-top:5px;"><a href="http://packed.com/logout" rel="nofollow" target="_top">Logout</a></div>
-              </div>
+            <form action="/session" id="loginForm" method="post" target="_top"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="caf594f678bbfa488556e566ccc88ee06b642d59"></div>
+                <table id="LoginTable">
+                  <tbody><tr>
+                    <td><label for="Username:">Username:</label> </td>
+                    <td><input class="field" id="login" name="login" type="text"></td>
+                  </tr>
+                  <tr>
+                    <td><label for="password:">Password:</label></td>
+                    <td><input class="field" id="password" name="password" onkeydown="if(event.keyCode==13) $('loginForm').submit();" type="password"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" align="left">
+                      <input checked="checked" id="remember_me" name="remember_me" type="checkbox" value="1"><label for="Remember_Me">Remember me</label>
+                    </td>
+                  </tr>
+                </tbody></table>
+                <a class="button FloatLeft" href="#" onclick="$('loginForm').submit();; return false;" style="margin-left:30px; padding:4px 8px 3px 8px;">Login</a>
+            </form>
+            <a href="/signup" class="button FloatLeft" style="margin-left: 20px; padding:3px 8px;" target="_top">Signup</a>
+            <div id="ForgotPass">
+              <a href="/forgot">Forgot your password?</a>
             </div>
         
       </div>
