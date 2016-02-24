@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907022757id_/http%3A//www.helpscout.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224152941id_/https%3A//www.helpscout.net/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Scout
 
-_Last revised and effective as of: June 28, 2015_
+_Last revised and effective as of: January 12, 2016_
 
 Your privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of this website.
 
-This Privacy Policy relates to information collected by Brightwurks, Inc. dba Help Scout (referred to in this Privacy Policy as "Help Scout" "we" or "us" or "our") through your use of the Help Scout website and the Help Scout Services, features, and information available on the Help Scout website (which are collectively referred to in this Privacy Policy as the "Help Scout Service"). This Privacy Policy is incorporated into, a part of, and governed by our [Terms of Service](https://web.archive.org/company/terms-of-service/). 
+This Privacy Policy relates to information collected by Help Scout Inc. (referred to in this Privacy Policy as "Help Scout" "we" or "us" or "our") through your use of the Help Scout website and the Help Scout Services, features, and information available on the Help Scout website (which are collectively referred to in this Privacy Policy as the "Help Scout Service"). This Privacy Policy is incorporated into, a part of, and governed by our [Terms of Service](https://web.archive.org/company/terms-of-service/). 
 
 By using the Help Scout Service, you are accepting the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you may not use the Help Scout Service.
 
@@ -151,12 +151,15 @@ Back to top
 
 ### Is Help Scout Safe Harbor compliant?
 
-Help Scout (under the name Brightwurks, Inc.) complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Help Scout has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Help Scout's certification, please visit <http://www.export.gov/safeharbor/>.
+_**January 12, 2016**  
+Given the determination of the European Court of Justice that the EU-U.S. Safe Harbor Framework does not provide a valid legal basis for transfers of personal data from Europe to the U.S., Help Scout is making available to its EU users an Agreement including the European Commission’s standard contractual clauses (also referred to as "model clauses"). [Visit this page to sign the Agreement.](https://web.archive.org/company/model-clauses/)_
+
+[Help Scout complies](https://safeharbor.export.gov/companyinfo.aspx?id=27340) with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Help Scout has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Help Scout's certification, please visit <http://www.export.gov/safeharbor/>.
 
 [We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
 [](http://www.export.gov/safeharbor)
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Brightwurks, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first [contact us via email](https://web.archive.org/contact/).
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Help Scout Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first [contact us via email](https://web.archive.org/contact/).
 
 We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by our team, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
@@ -193,7 +196,7 @@ If you have any questions or comments about this Privacy Policy or feel that we 
   * [By email.](https://web.archive.org/contact/)
   * By postal mail or courier:  
 Attn: Privacy Agent  
-Brightwurks, Inc. dba Help Scout  
+Help Scout Inc.  
 131 Tremont Street  
 3rd Floor  
 Boston, MA 02111-1338 
