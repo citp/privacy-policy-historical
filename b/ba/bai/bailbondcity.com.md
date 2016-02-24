@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bailbondcity.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010254id_/http%3A//bailbondcity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailbondcity.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224214706id_/https%3A//bailbondcity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://bailbondcity.com](http://bailbondcity.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://bailbondcity.com](https://bailbondcity.com/)
 
 **Your Consent**
 
@@ -82,7 +82,7 @@ This policy was last modified on 07/06/2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://bailbondcity.com/  
+https://bailbondcity.com/  
 Orlando, Florida  
 USA  
 bondsman@bailbondcity.com  
