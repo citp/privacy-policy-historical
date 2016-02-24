@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paythru.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409074418id_/http%3A//www.paythru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paythru.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224233724id_/http%3A//www.paythru.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Paythru
 
