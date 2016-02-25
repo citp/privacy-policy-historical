@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coyonweb.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813085621id_/http%3A//coyonweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coyonweb.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225175506id_/http%3A//ideas.martinisky.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Home Design Ideas
+# Privacy Policy — Home Design Ideas
 
-**http://coyonweb.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://en.wikipedia.org/wiki/Privacy_policy) to learn more about privacy policies in general.
+**http://ideas.martinisky.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://en.wikipedia.org/wiki/Privacy_policy) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -10,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, http://coyonweb.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, http://ideas.martinisky.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to admin@http://coyonweb.com for further clarification.
+Concerns or questions about this privacy policy can be directed to admin@http://ideas.martinisky.com for further clarification.
