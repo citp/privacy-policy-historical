@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503095012id_/http%3A//www.unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225170910id_/http%3A//www.unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
