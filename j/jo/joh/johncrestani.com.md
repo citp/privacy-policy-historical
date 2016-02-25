@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johncrestani.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226201457id_/http%3A//johncrestani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johncrestani.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225075753id_/http%3A//johncrestani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - John Crestani
 
