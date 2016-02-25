@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kipkay.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209231100id_/http%3A//kipkay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipkay.com privacy policy that was archived on 2016-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160226004525id_/http%3A//kipkay.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Kipkay
 
