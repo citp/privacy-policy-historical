@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109183917id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225063127id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Dudes Club
 
