@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreedepend.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813114613id_/http%3A//degreedepend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreedepend.com privacy policy that was archived on 2016-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160226205852id_/http%3A//www.degreedepend.com/privacy.asp) for the most accurate reproduction.*
 
 # DEGREE DEPEND.COM
 
