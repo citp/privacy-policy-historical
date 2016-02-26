@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the devicemanuals.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214171424id_/http%3A//www.devicemanuals.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devicemanuals.com privacy policy that was archived on 2016-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160226034852id_/http%3A//www.devicemanuals.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Device Manuals
+
+## Privacy Policy
 
 Devicemanuals.com conjunction with our Advertisers, Affiliates, and Syndicated Providers have established the following statements regarding your privacy online at Devicemanuals.com   
 Internet user privacy is of paramount importance to Devicemanuals.com. Below is information regarding Devicemanuals.com's commitment to protect the privacy of users and to ensure the integrity of the Internet.
 
+## User Information
+
 All users who receive an ad targeted by Devicemanuals.com remain completely anonymous to Devicemanuals.com In the course of delivering an ad to you, Devicemanuals.com does not collect any personally-identifiable information about you, such as your name, address, phone number or email address. Devicemanuals.com does, however, collect certain non-personally-identifiable information about you, such as the server your computer is logged onto or your browser type (for example, Netscape or Internet Explorer). The information collected by Devicemanuals.com is used for the purpose of targeting ads and measuring ad effectiveness on behalf of Devicemanuals.com 's Advertisers, Affiliates, and Syndicated Providers who specifically request it.
+
+## Cookies
 
 Devicemanuals.com does not use cookies, however, cookies are used by our advertising software. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
