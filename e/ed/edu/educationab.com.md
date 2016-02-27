@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationab.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228133109id_/http%3A//www.educationab.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationab.com privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227111223id_/http%3A//www.educationab.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy « Education Information and Education News
 
@@ -51,3 +51,32 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 **Notification of Change** s
 
 If we decide to change our terms of use, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+
+### Online Courses 
+
+[Efficient Reading: Improving Speed and Comprehension](http://www.educationab.com/efficient-reading-improving-speed-and-comprehension/)
+
+Description Initially, you’ll diagnose your strengths and weaknesses in reading ability through a questionnaire that will show your reading habits...
+
+[Cisco CCNA Internetworking Technologies 2](http://www.educationab.com/cisco-ccna-internetworking-technologies-2-2/)
+
+Cisco CCNA Internetworking Technologies 2 Course Code: DED3500-B School: Distance-Education.org Enroll NowCourse Materials Available: 90 Days Estimated...
+
+[Expert Certificate Course in Medical Terminology](http://www.educationab.com/expert-certificate-course-in-medical-terminology/)
+
+Welcome to our Expert Certificate Medical Terminology course Learning medical terminology is like learning any foreign language. Along with the vocabulary,...
+
+[Sales and Consulting Professional Certificate](http://www.educationab.com/sales-and-consulting-professional-certificate/)
+
+Description Master the art of selling! Our comprehensive range of sales and consulting training modules are built into a complete library that equips you...
+
+[Sports Massage](http://www.educationab.com/sports-massage/)
+
+Description Many body masseurs are now applying their skills and techniques into the sporting arena with great success. This type of treatment is finding...
+
+[Advanced Technical Writing](http://www.educationab.com/advanced-technical-writing/)
+
+Advanced Technical Writing Course Code: DED235-A School: Distance-Education.org Enroll NowCourse Materials Available: 6 Weeks Estimated Hours to Complete...
+
+
+
