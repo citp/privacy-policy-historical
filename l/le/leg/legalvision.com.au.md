@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000011id_/https%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227223149id_/https%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LegalVision
+# LegalVision Privacy Policy - legalvision.com.au
 
 This Privacy Policy sets out how LV Australia Pty Ltd (ABN 55 159 908 620), our parent company, Legal Vision Pty Ltd (ABN 83 155 748 628) and our sister company, LegalVision ILP Pty Ltd (ABN 50 167 804 088) (together  **the LegalVision Group**  or  **we** ) protect the privacy of personal information that is collected through the website available at [legalvision.com.au](https://legalvision.com.au/) ( **Site** ), or directly from you.  We are committed to ensuring that your privacy is protected. Please read this Privacy Policy carefully.
 
@@ -111,7 +111,7 @@ If you believe that we have breached the Australian Privacy Principles and wish 
 
 LV Australia Pty Ltd/ LegalVision Pty Ltd/ LegalVision ILP Pty Ltd
 
-Suite 2C, Level 2, 2-12 Foveaux Street, Surry Hills NSW 2010
+67 Fitzroy Street, Surry Hills NSW 2010
 
 [info@legalvision.com.au](mailto:info@legalvision.com.au)
 
