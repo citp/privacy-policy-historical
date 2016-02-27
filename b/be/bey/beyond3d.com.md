@@ -1,45 +1,59 @@
-> *The following text is extracted and transformed from the beyond3d.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702134419id_/http%3A//www.beyond3d.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond3d.com privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227160422id_/http%3A//www.beyond3d.com/content/privacy) for the most accurate reproduction.*
 
-# Beyond3D - Privacy Policy
+# Privacy Policy | Beyond3D Forum
 
-## Beyond3D's Privacy Policy
+X \- Hello! It looks like you run an ad blocker. Honestly, we don't blame you; Internet advertising really sucks and we're as sick of relying on it as you are seeing it. So, instead of turning off your ad blocker, please [subscribe or donate](https://web.archive.org/help/subscribe-and-donate/). All subscription levels have ads disabled, and start at just $10 a year.
 
-Beyond3D has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for [beyond3d.com](http://www.beyond3d.com/). 
+So if you enjoy Beyond3D, maybe help us out directly rather than going back to the ads. 
 
-## The bottom line
+We collect certain data about you when you use Beyond3D. This privacy policy explains what kinds of data we collect, what we do with it, how we do our very best to be responsible with it when you trust us with it, and how you can ask us about it. It also details what kinds of 3rd party data collection happens and explains why we set cookies in your browser when you're on Beyond3D. 
 
-Personal information (such as your name, address, and email address) that you entrust to Beyond3D will not be shared with any third party without your explicit permission to do so. We do not sell our mailing lists, nor do we rent them to third parties, under any conditions.
+This policy covers all Beyond3D websites. 
 
-Beyond3D's forums and user preference systems use common cookie technology to store your preferences on your computer, at your option. We may also use your IP address to help diagnose problems with our server and to administer our web site. 
+## What we collect
 
-## Third-party advertisers
+To give you a personalised experience on the forums, we collect an email address in order to allow you to create an account. That's the only piece of potentially personally identifiable you must provide us. Everything else is at your own discretion. The forum software lets you give us things like your birth date, current location and real name, but none of those things is mandatory or required in any way. 
 
-Some advertisements at Beyond3D are served by third-party advertising networks. Some of these companies may use common cookie technology to place a cookie on your computer. This information is used to serve ads to you on this site and possibly others. Beyond3D cannot control or be responsible for this third-party data, but we do seek to do business only with companies that handle such data responsibly. 
+If you take out a subscription, which currently uses Paypal as our payment processor, Paypal requires your name and email address which does get passed on to us when your transaction is created, and we store it just in case we need to refer back to the transaction in the future. Paypal also gives us a transaction ID. We don't receive any of your payment or banking information. 
 
-## Links
+## Why we collect it 
 
-This site contains links to other sites. Beyond3D is not responsible for either the privacy practices or the content of such web sites. 
+We have to collect your email address since it's the unique identifier tied to forum accounts, which let you login and post on the forums. It gives us some way to contact you if we need to, or your forum settings ask us to, with thread digests, update notifications, password resets and other communication the forum software sometimes needs to send you. 
 
-## Security
+## Where your data is stored
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+We store your data on our secured servers in the UK. All current Beyond3D infrastructure resides in datacenters in London. 
 
-## Exceptions
+Off-site backups of all of the Beyond3D infrastructure are made to an incredibly secure location in Denver, Colorado, USA, provided by rsync.net (leading very secure off-site storage providers). 
 
-Notwithstanding the above policies, we reserve the right to disclose personal information to necessary third parties if we are required to do so:
+## Keeping your data secure
 
-  * To comply with legal process such as a search warrant, subpoena or court order;
-  * To protect the company's rights and property;
-  * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
-  * To protect against misuse or unauthorized use of our site and/or any of our services; or
-  * During emergencies, such as when we believe someone's physical safety is at risk.
+We follow industry standard procedures to keep your data secure once we receive it. We don't share your personal details and information with any other organisations for any reason. 
+
+## Disclosing your information
+
+We may pass on your personal information if we have a legal obligation to do so, but only if absolutely compelled with no way to avoid it. Where possible in that legal framework, we'll notify you if at all possible. 
+
+## Your rights to your information
+
+You can contact us at any time to find out what information we hold about you, and ask us to not use any of that information in the future. You can do so at any time, by emailing privacy@beyond3d.com. Please give us up to 48 hours to get back to you. 
+
+## Other websites and 3rd party services integrated into Beyond3D
+
+In order to provide you with a great experience, and also in order to give us information about who visits Beyond3D in order to get an idea of the user count, what parts of the site you're visiting and performance of our advertising, we integrate various 3rd party services. 
+
+This privacy policy doesn't cover those 3rd party services, even though we integrate them into Beyond3D. Please read the privacy policies for those services (listed below) to find out what they do with your information. Additionally, you might follow a link from Beyond3D to another website, or from another website to Beyond3D. We don't control the content of the linked websites or any that might have inbound links, but inbound links might send us personally identifiable information which might end up in our logs, if passed in with the HTTP requests. We can't control that, and don't do anything with that information, but it might persists in log files on our servers so we have to let you know. 
+
+We currently integrate the following 3rd party services: 
+
+  * Google (AdSense adverts, Analytics, Fonts)
+  * Twitter (Tweet button)
+  * Tech In Games (game and platform data)
 
 
 
-## Policy Changes
+## ICO
 
-Beyond3D, in the future, modify this privacy policy in order to provide additional clarity or to address additional issues, as needed. Any such changes will be posted here immediately. 
+GPU Tools Ltd, the company that owns, operates and publishes all of Beyond3D, is registered with the UK Information Commissioner's Office as a data controller. The ICO gives us practical advice in how to protect and control access to the data about you that we have, which we keep on our secured servers here in the UK. 
 
-## Contacting Us
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Beyond3D, you can contact Rys Sommefeldt at rys@beyond3d.com. Telephone number and address on reasonable request. 
+The UK Data Protection Act is something we're bound by law to uphold as a processor of personal information, and being registered with the ICO and using their advice as much as we can hopefully helps us do that. 
