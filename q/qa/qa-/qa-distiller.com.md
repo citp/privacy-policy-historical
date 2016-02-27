@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qa-distiller.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024051745id_/http%3A//www.qa-distiller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qa-distiller.com privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227135535id_/http%3A//www.qa-distiller.com/privacy) for the most accurate reproduction.*
 
 # Privacy - QA Distiller
 
