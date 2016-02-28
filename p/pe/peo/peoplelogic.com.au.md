@@ -1,60 +1,52 @@
-> *The following text is extracted and transformed from the peoplelogic.com.au privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318061340id_/http%3A//www.swiftdigital.com.au/spam_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplelogic.com.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228175124id_/https%3A//swiftdigital.com.au/privacy-policy.php) for the most accurate reproduction.*
 
-# Swift Digital: Online Marketing Software - Email Marketing, Event Management, Surveys
+# Website Privacy Policy - Swift Digital
 
-### Swift Digital Spam Policy
+This website is owned and operated by Swift Digital. By using this site, you agree to the Internet Privacy Policy of this website. 
 
-Swift Digital is an Email Service Provider (ESP). Swift Digital is strictly compliant with the Australian [Spam Act 2003](http://www.comlaw.gov.au/Details/C2014C00214) and the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles).   
-We have terms and conditions to prevent abuse by users in order to ensure that no spam is sent through our systems. If you have any questions about our spam policy, or you wish to report spam from one of our customers, please email abuse@swiftdigital.com.au.
+The website Privacy Policy relates to the collection and use of personal information you may supply to us through the use of this website.
 
-Spam Act Compliance 
+All personal Information collected by Swift Digital is protected by [Privacy Act 1988](http://www.oaic.gov.au/privacy/privacy-act/the-privacy-act). We recognise the importance of protecting the privacy of information collected about visitors to our website, in particular information that is capable of identifying an individual such as: email address and contact numbers.
 
-Swift Digital requires that our clients fully adhere to the Australian Spam Act 2003.   
-From the Act: 
+This Website Privacy Policy governs the manner in which your personal information, obtained through the website, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and feedback at [privacy@swiftdigital.com.au](mailto:privacy@swiftdigital.com.au) or by mail to Swift Digital’s Sydney office: Privacy officer, 31-33 Trafalgar Street, Enmore, NSW 2042, Australia. 
 
-The Spam Act 2003 prohibits the sending of unsolicited [commercial electronic messages](http://www.acma.gov.au/~/media/Unsolicited%20Communications%20Compliance/Fact%20sheet/URL/Commercial%20Electronic%20Messaging.PDF) \- known as spam - with an Australian link. A message has an Australian link if it originates or was commissioned in Australia, or originates overseas but was sent to an address accessed in Australia. 
+  1. Personal information about visitors to our site is collected only when knowingly and voluntarily submitted by you. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in Australia.
 
-All commercial electronic messages sent by a business or organisation must meet the requirements for consent, sender identification, and mandatory unsubscription. For detailed information on meeting the requirements of the Spam Act 2003, please [click here.](http://www.acma.gov.au/Industry/Marketers/Anti-Spam/Ensuring-you-dont-spam/key-elements-of-the-spam-act-ensuring-you-dont-spam-i-acma)
+We collect your information when:  
+You subscribe to our newsletters  
+You make an enquiry using our web forms  
+You contribute to our forums or blogs
 
-Australian Privacy Principles
 
-We treat your data with the utmost care and respect. All data is securely stored at an Australian data centre, and is held under the Australian Privacy Principles. The Australian Privacy Principles replaced the National Privacy Principles and Information Privacy Principles on 12 March 2014. These apply to Australian organisations, and Australian and Norfolk Island government bodies. For more information on the Australian Privacy Principles, please [click here.](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles)
 
-Any and all data stored in your Swift Digital account is owned entirely by you. As an ESP, Swift Digital acts only as custodian of the data. We do not sell data or mailing lists, and we do not disclose any information contained in customer accounts unless we are compelled to do so under Australian law. 
 
-No data stored in a Swift Digital account ever leaves Australian shores, and thus, Australian jurisdiction.   
-This enables our clients to comply with [APP 8](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-8-app-8-cross-border-disclosure-of-personal-information) \- cross-border disclosure of personal information.
+  2. Personal information that visitors submit to our site is used only for the purpose for which it is submitted.
 
-### Australian Privacy Act Compliant
+We will send you information you subscribed for.  
+We will contact you using your information regarding any enquiries.   
+We will provide updates of our services. 
 
-Data security is one of our highest priorities. The Swift Digital server network is hosted in a highly secure data centre in Sydney. The server infrastructure is subject to constant monitoring and maintenance to ensure maximum uptime and reliability. The Swift Digital software platform is robust and secure, with regular penetration testing conducted to ensure it is invulnerable. All data is held under the Australian Privacy Principles. All clients are required to strictly comply with the Spam Act 2003. The use of rental or purchased email lists is prohibited. Swift Digital does not rent or sell email lists. 
 
-Data security is a priority
 
-All data collected and stored in your Swift Digital account is done so in accordance with the Australian Privacy Principles. Your data is stored in Australia and is subject to Australian Law.
 
-No client data is ever exposed to third parties except under order of the law, therefore risk should be part of your decision on using non-Australian companies for your internet marketing. For more information please go to [Australia Privacy Act](http://www.privacy.gov.au/law/act).
+  7. _IP Addresses_  
+Our web servers gather your IP address to assist with the diagnosis of problems or support issues with our services. Again, information is gathered in aggregate only and cannot be traced to an individual user. 
+  
 
-Data Centre Security
+  8. _Cookies and Applets_  
+We use cookies to provide you with a better experience. These cookies allow us to increase your security by storing your session ID and are a way of monitoring single user access. This aggregate, non-personal information is collated and provided to us to assist in analysing the usage of the site. 
 
-Access to our servers in the data centre is to authorised Swift Digital personnel who have undergone security checks and induction training. Operated to an enhanced Tier III standard the data centre has diverse 33 kV feeds feeding a back up power system consisting of 22 diesel rotary UPS systems. Final distribution to customer suites is in a 2(N+1) configuration. For more information about our secure hosting services go to [Global Switch](http://www.globalswitch.com/en).
+You can set your browser to notify you when you receive a cookie so tthat you will have an opportunity to either accept or reject it in each instance. However you should note that refusing cookies may have negative impact on the usability of the website.
 
-Your data is your property
 
-All data in your Swift Digital account is owned by you and Swift Digital treats all your data as private. We do not sell your data, and we do not use the information you collect for our own purposes except in a limited set of circumstances (e.g. if we are compelled to for legal reasons, or if you've made this information public).
 
-In order for you to send publications via email, you may upload lists of email addresses to the Swift Digital mail house, in which case Swift Digital acts as a mere custodian of that data. We don't sell these email addresses and we use them only as directed by you and in accordance with this policy. The same goes for any email addresses collected by you through surveys or subscription forms.
 
-We keep your data securely at an Australian data centre.
+  11. If we become aware of any ongoing concerns or problems with our websites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact our Privacy Officer at [privacy@swiftdigital.com.au](mailto:privacy@swiftdigital.com.au) or by mailing to our postal address: Privacy officer, 31-33 Trafalgar Street, Enmore, NSW 2042, Australia.
 
-Software Penetration Testing
+All complaints will be responded to within 10 business days. We will investigate and attempt to resolve your query or complaint within 30 business days or such longer period as is necessary and notified to you by our Privacy Officer.
 
-70% of all security breaches are due to vulnerabilities within the web application layer. We conduct penetration testing on our software on a regular basis. We hire independant certified companies, such as [PureHacking](http://www.purehacking.com.au/), to perform security penetration testing from login to data storage within our software and the servers that host it.
+  
 
-Pure Hacking uses state-of-the art security tools to identify design flaws and determine whether our code and/or servers are vulnerable. We can ensure that your data is safe. We also encourage our customers to conduct their own audits and Penetration Tests.
+  12. For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's website: <http://www.privacy.gov.au/>.
 
-Our staff are fully trained on self auditing and sofware security. 
 
-We do not buy or sell lists
-
-The [Spam Act 2003](http://www.comlaw.gov.au/Details/C2014C00214) was introduced to protect Australians from Spam. Compliance means ensuring you communicate with people who have given you permission either by expressly signing up to receive your communications or by doing business with you. Only permission marketing is permitted when using Swift Digital's services.
