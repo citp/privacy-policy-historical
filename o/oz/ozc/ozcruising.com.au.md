@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozcruising.com.au privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326114658id_/https%3A//www.ozcruising.com.au/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozcruising.com.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228225140id_/https%3A//www.ozcruising.com.au/privacystatement) for the most accurate reproduction.*
 
-# Ozcruising Australia
+# Ozcruising General Privacy Statement | Ozcruising Australia
 
 Ozcruising Pty Ltd is a private company registered in Canberra, Australia (ABN 71 123 529 555. ACT Travel Agents Licence 18800618). 
 
