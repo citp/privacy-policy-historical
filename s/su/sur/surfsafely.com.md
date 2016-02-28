@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfsafely.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013034846id_/http%3A//www.surfsafely.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfsafely.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228122441id_/http%3A//www.surfsafely.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - %
 
@@ -20,30 +20,24 @@ Persistent cookies are used at **SURFSAFELY.COM** for the purpose of determining
 
 Because **SURFSAFELY.COM** is a directory is targeted at schools and family members of all ages, it is possible that information may end up in our files from children under the age of 13. Legal guardians of children under 13 who believe we may have unknowingly collected information from them may request that we supply and/or delete said information upon presenting verifiable proof they are indeed the legal guardian.
 
-**SURFSAFELY.COM** can not control the harvesting of email addresses or other personally identifiable information by third parties from pages which may be indexed here, has no control over how that information might be used by third parties should this occur and assumes no liability for any damages whatsoever resulting from this type of privacy breach. Owners are solely responsible for their own content.
+ **SURFSAFELY.COM** can not control the harvesting of email addresses or other personally identifiable information by third parties from pages which may be indexed here, has no control over how that information might be used by third parties should this occur and assumes no liability for any damages whatsoever resulting from this type of privacy breach. Owners are solely responsible for their own content.
 
-**Guestbook & forum**
+ **Guestbook & forum**
 
-**SURFSAFELY.COM** can not control the harvesting of e-mail addresses or other personal information by third parties which you may post to our guestbook or message board. For this reason we have deliberately omitted requiring this information in order to use them. If you include contact information in your posts or comments, you acknowledge that do so at your own risk. The responsibility of what you post here is yours alone.
+ **SURFSAFELY.COM** can not control the harvesting of e-mail addresses or other personal information by third parties which you may post to our guestbook or message board. For this reason we have deliberately omitted requiring this information in order to use them. If you include contact information in your posts or comments, you acknowledge that do so at your own risk. The responsibility of what you post here is yours alone.
 
 Our forum and guestbook are moderated and provided specifically for parents and school administrators to ask questions and share experience regarding online safety. Off-topic posts will not be allowed to remain, nor will replies to posts making no substantial contribution to any given message thread. While we do our best to stay on top of things, **SURFSAFELY.COM** assumes no liability for posts made to the guestbook or forum which may be considered in any way libelous or defamatory by any third party and reserves the right to edit or delete any message, at our sole discretion, that we feel inappropriate.
 
 Solicitation for anonymous contact via email through message boards like ours is the equivalent of anonymous online chat and, in keeping with our position on this subject, is _ **STRICTLY PROHIBITED!**_
 
-**Security**
+ **Security**
 
 All credit card processing performed at **SURFSAFELY.COM** is handled by Card Service International on their own servers. Using the recommended strong encryption versions of Netscape Navigator or Microsoft Internet Explorer, personal information submitted on the order page is RC4, 128 bit RSA encrypted with SSL Version 3 and RC4 1024-bit encrypted between merchant banks. Due to the extremely sensitive nature of sharing and warehousing credit card information, for your protection when placing an order, not even **SURFSAFELY.COM** has access to complete credit card numbers, only partial numbers for the purpose of identifying specific customers. A full security disclosure can be found at the CardService website. **SURFSAFELY.COM** assumes no liability for losses or damages to the client as a result of their use of this online transaction system.
 
-**Misc.**
+ **Misc.**
 
 Mechanisms are provided on the Child Safety-Net Forum and Lecture Schedule pages to be automatically notified of updates to those pages. This free service is provided courtesy of Netmind. **Click here** to view Netmind’s full Privacy Policy disclosure.
 
 Activity to this site is monitored closely and recorded. Suspicious or illegal activity has been and will continue to be reported to the appropriate authorities.
 
 For additional information, disclaimer of warranties and limitation of liability, please see our **Terms Of Use**.
-
-#### Incoming search terms:
-
-  * privacy-%
-
-
