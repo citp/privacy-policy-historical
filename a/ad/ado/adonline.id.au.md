@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810175157id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228231036id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Adam Dimech Online
 
