@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919081235id_/http%3A//www.acer.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228232201id_/https%3A//www.acer.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policies and Legal Disclaimers | ACER
 
