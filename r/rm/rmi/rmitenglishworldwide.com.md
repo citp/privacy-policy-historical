@@ -1,97 +1,220 @@
-> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227090224id_/http%3A//www.rmitenglishworldwide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228132400id_/https%3A//rmitenglishworldwide.com/privacy-policy) for the most accurate reproduction.*
 
-# RMIT English Worldwide - English Language Training and IELTS Testing, Melbourne, Australia
+# Privacy Policy
 
-## 1\. Policy Statement
+#### 1\. Privacy Statement
 
-RMIT Training Pty Ltd ("RMIT Training") is committed to protecting the privacy of any information volunteered by visitors to its websites, and staff, students, and others who have rights to log into them. RMIT Training complies with the State of Victoria and Commonwealth of Australia privacy legislation through the RMIT Training Privacy Policy. For further information and advice on telephone 9925 8190 or by email [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au)
+RMIT Training Pty Ltd (RMIT Training) is committed to protecting the privacy of any information volunteered by visitors to its websites, and employees, students and others who have rights to log into them.
 
-This Privacy and Security Statement is applicable to this Site and not necessarily to other RMIT Training sites on the World Wide Web. If you do not agree with this Privacy and Security Statement or the Privacy Policy, please do not use this Site.
+All users of RMIT Training’s websites and services should ensure they read and understand this Statement prior to using such websites or services. If you do not agree with this Privacy Statement, please do not use any RMIT Training website or the related services.
 
-## 2\. Privacy Policy Summary
+#### 2\. Purposes
 
-RMIT Training will collect 'personal information'1 only if it is necessary for RMIT Training's functions or activities. We will inform you of the purposes for which RMIT Training collects personal information and will use personal information only for the purposes for which it is collected. We will always explain what is being collected and how and by whom it is to be collected. RMIT Training will take all reasonable steps to protect personal information it holds about you from unauthorised access, modification or disclosure and will not use or disclose personal information about you except in the limited circumstances set out in this Privacy Policy.
+The purposes of this Statement are to:
 
-We will make sure that personal information we collect, use or disclose is accurate and up-to-date. You also have a responsibility here to assist RMIT Training by providing accurate and up-to-date information.
-
-The full, detailed version of our Privacy Policy can be found at [www.rmittraining.com](http://www.rmittraining.com/downloads/Privacy%20Policy%20-%20FINAL%20Oct%202007.pdf).
-
-## 3\. Website Privacy and Security Measures
-
-### 3.1 How any personal or financial information provided via RMIT Training websites may be used.
-
-Personal or financial information provided via RMIT Training websites2 will only be used by RMIT Training staff for the purposes of conducting the business of RMIT Training3, and in line with the RMIT Training Privacy Policy.
-
-Such information is stored securely, retained for no longer than is necessary or required by law [e.g. archiving legislation], and then disposed of lawfully and securely.
-
-### 3.2 Accuracy of collected data
-
-RMIT Training will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data. If you come across any incorrect or outdated information on our websites please contact the Privacy Officer at [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au) or call **9925 8179**.
-
-### 3.3 No junk mail or email!...
-
-#### Email privacy and security...
-
-Other than for a related secondary purpose (see the Privacy Principles set out in the Privacy Policy), RMIT Training will not send you any unsolicited mail or email. You will be asked to give permission for RMIT Training to use your address to send any promotional information or to be placed on a mail list. You will also be informed of any related secondary purpose for which your information may be used and can opt-out of receiving any material that may result from that purpose at any stage.
-
-If you are not an RMIT Training staff member or student, RMIT Training records your email address only if you email RMIT Training. When you send an email to RMIT Training your email address and any personal information you provide may be kept for the purpose of dealing with the enquiry. You may request to have your personal details removed at any time if you do not want any more information, or if the enquiry is concluded. You will not be placed on any mailing list as a result of emailing RMIT Training.
-
-RMIT Training does use email for routine business communication to its staff and students, and keeps consolidated lists for these purposes. Such email is sent only to RMIT Training owned, allocated and managed email addresses.
-
-In the above processes, email logs may be kept temporarily for the purpose of identifying and dealing with any inappropriate use of email. Such records are stored securely.
-
-### 3.4 Technical identifying information RMIT Training web servers collect from your visits to RMIT Training websites
-
-#### 3.4.1 Cookies
-
-Some of the features on RMIT Training websites require the use of "cookies." Cookies are small text files that are stored on your computer.
-
-We use cookies to:
-
-  * remember your personal details;
-  * enhance your experience using an RMIT Training website; and
-  * personalise the service you receive from an RMIT Training website.
+  * clarify the responsible collection and handling of personal information by RMIT Training
+  * inform individuals of their right to access information about them which is held by RMIT Training and to correct any errors in that information
+  * establish a complaints procedure for investigation and rectification of privacy breaches.
 
 
 
-We make very limited use of cookies and we do not use cookies to access data on your hard drive, to determine your e-mail address, or to view data in cookies created by other websites. Cookies only store information that a web server places in them. They cannot look at other cookies on your hard drive nor can they look at any other information on your computer. We do not use cookies to harvest information from your computer.
+#### 3\. Scope and responsibility
 
-#### 3.4.2 Session cookies
+This Statement applies to personal information collected by RMIT Training concerning students, prospective students, clients and other individuals. It also applies to employees to the extent that the personal information is not part of the employee’s employment record with RMIT Training. It does not apply to information about corporations.
 
-RMIT Training websites use temporary session cookies to collect identifying information about the user, such as user behaviour or user preferences for a specific website. These cookies are no longer accessible after the browser session expires i.e. once it has been inactive for fifteen minutes or when the browser is closed.
+This Statement must be observed by all RMIT Training employees, consultants, external contractors and students who have access to personal information held by RMIT Training.
 
-#### 3.4.3 Permanent, persistent or stored cookies
+#### 4\. Privacy Principles
 
-These are used in only personal details and contact us forms. They help to remember your personal details therefore the users do not have to enter their first name, family name over and over again across the RMIT Training websites. These cookies are stored on the user's hard drive.
+The _Privacy Act 1988_ (Cth) sets out Privacy Principles which must be observed by organisations such as RMIT Training that collect and hold personal information. RMIT Training’s rights and obligations with respect to personal information are based on those Privacy Principles.
 
-Please note that users do not have to have permanent cookies enabled in order to use our websites but session cookies must be enabled to use RMIT Training websites. All browsers allow the user to independently allow session cookies from permanent cookies. There are a number of Internet browsers and different versions of each browser which all act in different ways. If you choose not to accept our cookies, it may affect the way you experience our websites and they may not be fully functional.
+#### 5\. Privacy Officer
 
-## Logging of visits to RMIT Training websites
+RMIT Training has appointed a Privacy Officer who will be responsible for the administration of this Statement. RMIT Training’s Privacy Officer may be contacted for further information via telephone at 03 9657 5851 or email at [legal.training@rmit.edu.au](mailto:legal.training@rmit.edu.au).
 
-RMIT Training may make a record of your visits to RMIT Training websites and logs any of the following information for security, statistical, recording, and other business purposes: the user's server address, the user's domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used. This information is not disclosed, sold, or made available to other organisations and is stored securely. An important use is to track and identify inappropriate usage and hence provide a more secure online environment. Any disclosure for reporting purposes is done in ways which do not allow an individual user to be identified.
+#### 6\. Complaints process
 
-In addition, RMIT Training does not acquire this sort of information from other organisations.
+The following process will apply if an individual considers that RMIT Training has been involved in a privacy breach in respect of that individual:
 
-## What security is in place when you leave personal or financial information
+  * A written complaint must be forwarded by email to the Privacy Officer within three (3) months of the time the complainant first became aware of the apparent breach. The complaint must specify details of the apparent breach.
+  * The Privacy Officer must make a determination on the complaint within forty-five (45) days of receipt of the complaint, and advise the complainant in writing.
+  * If the Privacy Officer determines that there has been a privacy breach, he or she will, upon notification of the determination to the complainant, advise relevant RMIT Training personnel in writing of any action required in order to remedy the breach. If the breach is capable of being rectified and is not rectified within thirty (30) days of the advice from the Privacy Officer, the Privacy Officer must inform the Chief Executive Officer of RMIT Training.
+  * The Privacy Officer will keep a record of complaints.
 
-A technically secure environment is in place for when personal or financial information is collected through RMIT Training websites, to ensure that it cannot be accessed by other users or organisations.
 
-The RMIT Training (including RMIT University) network which hosts the RMIT Training websites and all RMIT Training online systems has highly sophisticated security and publishing systems in place. Technically this includes firewalling, intrusion detection, port filtering, password-login, virus protection, and packet shaping.
 
-E-commerce transactions involving authorisation to pay RMIT Training fees, or purchase products or services are conducted within the secure online environment of the secure payment service that has been contracted by RMIT Training. Users are passed through to that secure payment service automatically at the final payment stage of a purchase request.
+#### 7\. Consequences if this Statement is breached
 
-## How does logging into RMIT Training websites work?
+Disciplinary or legal action may be taken against any person who is involved in privacy breaches, including summary dismissal in the event of what RMIT Training considers to be a serious breach by an employee.
 
-RMIT Training students, staff, and other approved persons have a license to log into RMIT Training websites. This enables them to securely access important information and online services restricted to them, and not visible to, or available to visitors. Logging in to access these services is conducted in a safe and secure environment.
+### Privacy Principles
 
-When logging in, staff and students authenticate who they are by entering on a webpage the staff or student number allocated for their use by RMIT Training, and a unique password that they have generated.
+#### 1. Collection
 
-Student and staff numbers are stored securely. It is important that users with this license abide by RMIT Training approved use policies, especially keeping their number and password secure, and ensuring they log off when finished. In this way, their personal information, and that of others is protected from unauthorised access and misuse.
+1.1 RMIT Training:
 
-## Links from RMIT Training websites to other websites
+  * will collect personal information only if the information is necessary for one or more of its functions or activities
+  * must collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
 
-RMIT Training websites contain links to external (non RMIT Training) websites. RMIT Training is not, and cannot be responsible for the privacy or security practices or the content of these websites. A link to another website does not imply an RMIT Training association with, or endorsement of, that website.
 
-## For more information on RMIT Training Websites
 
-In the first instance, contact the [RMIT Training IT Manager](mailto:ian.penney@rmit.edu.au?subject=RE:Website%20information).
+1.2  When RMIT Training collects personal information about an individual from the individual, it will take reasonable steps to ensure that the individual is aware of:
+
+  * the identity of RMIT Training and how to contact it; and
+  * the fact that he or she is able to gain access to the information; and
+  * the purposes for which the information is collected (the primary purposes); and
+  * to whom (or the types of individuals or organisations to which) RMIT Training usually discloses information of that kind; and
+  * any law that requires the particular information to be collected; and
+  * the main consequences (if any) for the individual if all or part of the information is not provided.
+
+
+
+1.3  If it is reasonable and practicable to do so, RMIT Training will collect personal information about an individual only from that individual.
+
+However, there will be instances where RMIT Training will obtain such information from other sources, e.g. references for employment purposes, results data for prospective students, verification of formal qualifications of employees and students. In such instances RMIT Training will take reasonable steps to ensure that the individual is or has been made aware of the matters listed in Principle 1.2 except to the extent that making the individual aware of the matters would pose a serious threat to the life or health of any individual.
+
+#### 2. Use and disclosure
+
+RMIT Training will not without the prior consent of an individual use or disclose personal information about that individual for a purpose (the secondary purpose) other than the primary purposes of collection except in any of the following situations:
+
+  * both of the following apply: 
+    * the secondary purpose is related to the primary purpose of collection and, if the personal information is sensitive information, directly related to the primary purpose of collection;
+    * the individual would reasonably expect RMIT Training to use or disclose the information for the secondary purpose of collection; or
+  * if the use or disclosure is necessary for research, or the compilation or analysis of statistics, in the public interest, other than for publication in a form that identifies any particular individual: 
+    * it is impracticable for RMIT Training to seek the individual’s consent before the use or disclosure; and
+    * in the case of disclosure, RMIT Training reasonably believes that the recipient of the information will not disclose the information; or
+  * RMIT Training reasonably believes that the use or disclosure is necessary to lessen or prevent either: 
+    * a serious and imminent threat to an individual’s life, health, safety or welfare; or
+    * a serious threat to public health, public safety or public welfare; or
+  * RMIT Training has reason to suspect that unlawful activity has been, is being or may be engaged in, and uses or discloses the personal information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities; or
+  * the use or disclosure is required or authorised by or under law; or
+  * RMIT Training reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of a law enforcement agency: 
+    * the prevention, detection, investigation, prosecution or punishment of criminal offences or breaches of a law imposing a penalty or sanction;
+    * the enforcement of laws relating to the confiscation of the proceeds of crime;
+    * the protection of the public revenue;
+    * the prevention, detection, investigation or remedying of seriously improper conduct;
+    * the preparation for, or conduct of, proceedings before any court or tribunal; or
+  * the Australian Security Intelligence Organisation (ASIO) or the Australian Secret Intelligence Service (ASIS), in connection with its function, has requested RMIT Training to disclose the personal information, and: 
+    * the disclosure is made to an officer or employee of ASIO or ASIS (as the case requires) authorised in writing by the Director-General of ASIO or ASIS (as the case requires) to receive the disclosure; and
+    * an officer or employee of ASIO or ASIS (as the case requires) authorised in writing by the Director-General of ASIO or ASIS (as the case requires) for the purposes of this paragraph has certified that the disclosure would be connected with the performance by ASIO or ASIS (as the case requires) of its functions.
+
+
+
+Any such disclosure under this paragraph inclusively can only be made by the RMIT Training CEO or Solicitor, and written note to that effect must be made.
+
+#### 3. Data quality
+
+3.1 RMIT Training will take reasonable steps to make sure that the personal information it collects, uses or discloses is accurate, complete and up-to-date.
+
+3.2 If RMIT Training is to ensure the quality and accuracy of personal information, this places an obligation upon an individual to provide relevant and accurate information to RMIT Training.
+
+#### 4. Data security
+
+4.1 RMIT Training will take reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
+
+4.2 RMIT Training will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose.
+
+#### 5. Openness
+
+5.1 RMIT Training will make this Statement available to anyone who asks for it.
+
+5.2 On request by a person to the Privacy Officer, RMIT Training will take reasonable steps to let the person know, generally, what sort of personal information it holds, for what purposes, and how it collects, holds, uses and discloses that information.
+
+#### 6. Access and correction
+
+6.1 If RMIT Training holds personal information about an individual, it will provide the individual with access to the information on request by the individual, except to the extent that:
+
+  * providing access would pose a serious and imminent threat to the life or health of any individual; or
+  * providing access would have an unreasonable impact on the privacy of other individuals; or
+  * the request for access is frivolous or vexatious; or
+  * the information relates to existing legal proceedings between RMIT Training and the individual, and the information would not be accessible by the process of discovery or subpoena in those proceedings; or
+  * providing access would reveal the intentions of RMIT Training in relation to negotiations with the individual in such a way as to prejudice those negotiations; or
+  * providing access would be unlawful; or
+  * denying access is required or authorised by or under law; or
+  * providing access would be likely to prejudice an investigation of possible unlawful activity; or
+  * providing access would be likely to prejudice: 
+    * the prevention, detection, investigation, prosecution or punishment of criminal offences or breaches of a law imposing a penalty or sanction; or
+    * the enforcement of laws relating to the confiscation of the proceeds of crime; or
+    * the protection of public revenue; or
+    * the prevention, detection, investigation or remedying of seriously improper conduct; or
+    * the preparation for or conduct of proceedings before any court or tribunal, or implementation of its orders by or on behalf of a law enforcement agency; or
+  * ASIO, ASIS or a law enforcement agency performing a lawful security function asks RMIT Training not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
+
+
+
+6.2 Where providing access would reveal evaluative information generated within RMIT Training in connection with a commercially sensitive decision-making process, RMIT Training may give the individual an explanation for the commercially sensitive decision rather than direct access to the information.
+
+6.3 If RMIT Training is not required to provide the individual with access to the information because of one or more paragraphs within 6.1 inclusively, RMIT Training will, if reasonable, upon request by the individual to RMIT Training’s Privacy Officer, consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties.
+
+6.4 RMIT Training reserves the right to charge for providing access to personal information, and if it does so it will:
+
+  * advise an individual who requests access to personal information that RMIT Training will provide access on the payment of the prescribed fee; and
+  * may refuse access to the personal information until the fee is paid.
+
+
+
+6.5 If RMIT Training holds personal information about an individual and the individual is able to establish that the information is not accurate, complete and up-to-date, RMIT Training will take reasonable steps to correct the information so that it is accurate, complete and up-to-date.
+
+6.6 If RMIT Training and the organisation disagree about whether the information is accurate, complete and up-to-date, and the individual asks the organisation to associate with the information a statement from the individual claiming that the information is not accurate, complete or up-to-date, RMIT Training will take reasonable steps to do so.
+
+6.7 RMIT Training will provide reasons for denial of access or a refusal to correct personal information.
+
+6.8 If an individual requests access to, or the correction of, personal information held by RMIT Training, RMIT Training will:
+
+  * provide access, or reasons for the denial of access; or
+  * correct the personal information, or provide reasons for the refusal to correct the personal information; or
+  * provide reasons for the delay in responding to the request for access to or for the correction of personal information as soon as practicable, but no later than forty-five (45) days after receiving the request.
+
+
+
+6.9 RMIT Training is not required to provide an individual with access to information about that individual if that information is generally available to the public.
+
+#### 7. Unique identifiers
+
+7.1 RMIT Training will not assign unique identifiers to individuals (except for an Employee Number to identify an employee, a Student Number to identify a student and a database primary key to ensure the uniqueness of a database record) unless it is necessary for RMIT Training to carry out its functions efficiently. Employee Numbers, Student Numbers and database primary keys are considered necessary for RMIT Training to carry out its functions efficiently.
+
+7.2 RMIT Training will not knowingly adopt as its own unique identifier of an individual a unique identifier of the individual that has been assigned by another organisation (except for employee and student numbers assigned by RMIT University).
+
+7.3 RMIT Training will not require an individual to provide a unique identifier in order to obtain a service unless the provision of the unique identifier is required or authorised by law or the provision is in connection with the purpose (or a directly related purpose) for which the unique identifier was assigned.
+
+#### 8. Anonymity
+
+Because of the nature of some of RMIT Training’s core businesses, it may be impractical for individuals transacting with RMIT Training to have the option of not identifying themselves. However, where it is lawful and practical to do so, RMIT Training will give individuals this option.
+
+#### 9. Transborder data flows
+
+9.1 RMIT Training will only transfer personal information about an individual to someone (other than RMIT Training or the individual) who is outside Victoria if:
+
+  * RMIT Training reasonably believes that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the Privacy Principles set out in this Statement; or
+  * the individual consents to the transfer; or
+  * the transfer is necessary for the performance of a contract between the individual and RMIT Training, or for the implementation of pre-contractual measures taken in response to the individual’s request; or
+  * the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the individual between RMIT Training and a third party; or
+  * all of the following apply: 
+    * the transfer is for the benefit of the individual;
+    * it is impracticable to obtain the consent of the individual to that transfer;
+    * if it were practicable to obtain that consent, the individual would be likely to give it; or
+  * RMIT Training has taken reasonable steps to ensure that the information which it has transferred will not be held, used or disclosed by the recipient of the information inconsistently with the Privacy Principles set out in this Statement.
+
+
+
+#### 10. Sensitive information
+
+10.1 RMIT Training will not collect sensitive information about an individual unless:
+
+  * the individual has consented; or
+  * the collection is required under law; or
+  * the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where the individual whom the information concerns: 
+    * is physically or legally incapable of giving consent to the collection; or
+    * physically cannot communicate consent to the collection; or
+  * the collection is necessary for the establishment, exercise or defence of a legal or equitable claim.
+
+
+
+10.2 Despite paragraph 10.1, RMIT Training may collect sensitive information about an individual if the collection:
+
+  * is necessary for research, or the compilation or analysis of statistics, relevant to government funded targeted welfare or educational services; or
+  * is of information relating to an individual’s racial or ethnic origin and is collected for the purpose of providing government funded targeted welfare or educational services; and
+  * there is no reasonably practicable alternative to collecting the information for that purpose; and
+  * it is impracticable for RMIT Training to seek the individual’s consent to the collection.
+
+
