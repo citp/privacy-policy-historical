@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the zipmoney.com.au privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228012208id_/https%3A//zipmoney.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipmoney.com.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228213441id_/https%3A//zipmoney.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | zipMoney
 
-### Updated October 1st, 2013
-
-zipMoney Pty Ltd (“ZIP”) is committed to protecting the privacy of our customers’ personal and financial information. The purpose of this policy is to describe the ways in which we collect, hold, use and disclose personal information. We may vary this policy from time to time.
+zipMoney Payments Pty Ltd (“ZIP”) is committed to protecting the privacy of our customers’ personal and financial information. The purpose of this policy is to describe the ways in which we collect, hold, use and disclose personal information. We may vary this policy from time to time.
 
 ### How do we collect personal information?
 
@@ -99,7 +97,7 @@ ZIP does not use identifiers assigned by the Commonwealth Government agencies (f
 
 ### Marketing
 
-We may use your personal information from time to time to inform you about our current and future products and services including contacting you by telephone, email, SMS or post. You can request that you do not receive direct marketing communications by contacting us directly by telephone on (02) 8003 4322 or by email at customercare@zipmoney.com.au or by simply clicking “unsubscribe” or “STOP” to any emails or SMS offers or electronic marketing you may receive.
+We may use your personal information from time to time to inform you about our current and future products and services including contacting you by telephone, email, SMS or post. You can request that you do not receive direct marketing communications by contacting us directly by telephone on (02) 8294 2345 or by email at customercare@zipmoney.com.au or by simply clicking “unsubscribe” or “STOP” to any emails or SMS offers or electronic marketing you may receive.
 
 ### Access and Correction
 
@@ -118,9 +116,9 @@ For the avoidance of doubt, this Privacy Policy does not apply to ZIP’s employ
 If you like more information about our Privacy Policy, or in relation to the information we hold, please contact:
 
 The Privacy Officer:  
-Zipmoney Pty Limited
+zipMoney Payments Pty Limited
 
-**Mail** : PO Box 1501, Bondi Junction, NSW **Email** : [customercare@zipmoney.com.au](mailto:customercare@zipmoney.com.au) **Phone** : (02) 8003 4322
+**Mail** : 61 York St Sydney, NSW 2000  **Email** : [customercare@zipmoney.com.au](mailto:customercare@zipmoney.com.au) **Phone** : (02) 8294 2345
 
 If you require more information about Privacy laws generally, please contact:
 
