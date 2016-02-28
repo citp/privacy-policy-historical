@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudefuck.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515121858id_/http%3A//rudefuck.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudefuck.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228073312id_/http%3A//www.rudefuck.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -250,7 +250,7 @@ We may use personal information:
 
   * to give you information about us and our products, and product offers 
 
-  * for direct marketing â€“ see _Direct marketing_ for details 
+  * for direct marketing – see _Direct marketing_ for details 
 
   * to improve our products, our marketing and our website 
 
@@ -286,7 +286,7 @@ We may disclose personal information as reasonably required:
 
     * market research, sales and marketing 
 
-    * direct marketing â€“ see _Direct marketing_ for details 
+    * direct marketing – see _Direct marketing_ for details 
 
     * identity and fraud checking 
 
