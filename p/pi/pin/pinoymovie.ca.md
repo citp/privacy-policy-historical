@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoymovie.ca privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424143717id_/http%3A//www.pinoymovie.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoymovie.ca privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228143254id_/http%3A//www.pinoymovie.se/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinoy Movies | Filipino Tagalog Movie News, Review & Trailer
 
