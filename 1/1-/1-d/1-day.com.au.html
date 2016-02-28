@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1-day.com.au privacy policy that was archived on 2015-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151021060333id_/https%3A//www.1-day.com.au/content/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1-day.com.au privacy policy that was archived on 2016-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160228215508id_/https%3A//www.1-day.com.au/content/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
@@ -18,10 +18,11 @@
 	<!-- 1-day AUS -->
 	  
         
+		
 	
-	
-	
-	
+
+
+
 
 
 
@@ -67,10 +68,10 @@
 
 
 
-  <link rel="canonical" href="http://www.1-day.com.au/content/PrivacyPolicy">
+  <link rel="canonical" href="https://www.1-day.com.au/content/PrivacyPolicy">
 
 
-  <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.1-day.com.au/content/m-PrivacyPolicy?sitePreference=mobile">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.1-day.com.au/content/m-PrivacyPolicy?sitePreference=mobile">
 
 <link rev="made" href="mailto:enquiries@cs.1-day.co.nz">
 <meta name="author" content="1-day">
@@ -80,12 +81,11 @@
 
 
  
-<link href="/docs/themes/new_general.css?v=5ad6be59b8a24169a76f" rel="stylesheet" type="text/css">
-<link href="/docs/themes/colorbox.css?v=5ad6be59b8a24169a76f" rel="stylesheet" type="text/css">
+<link href="/docs/themes/new_general.css?v=541292e2b49d4c32222" rel="stylesheet" type="text/css">
 
 
 
-<link href="/docs/themes/master.css?v=5ad6be59b8a24169a76f" rel="stylesheet" type="text/css">
+<link href="/docs/themes/master.css?v=541292e2b49d4c32222" rel="stylesheet" type="text/css">
 
 
 
@@ -98,6 +98,16 @@
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBLWRW"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 
+
+
+<script type="text/javascript">
+	var _webUser_authenticated = false;
+	var _webUser_basket_size = 0;
+	var _forms = [];
+	
+	
+	
+</script>
 
   
 
@@ -161,12 +171,18 @@ GA_googleFetchAds();
 
 
 <script src="/docs/scripts/dumpymcfly.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if (window._webUser && window._webUser.authenticated){
+	var dataLayer = window.dataLayer = window.dataLayer || [];
+	dataLayer.push({ 'userID': window._webUser.userId });
+}
+</script>
 
 
 
 <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=25256185"></script></head>
 
-<body class="day4 DisplayCmsContent ">
+<body class="day1 DisplayCmsContent ">
 
 
 
@@ -216,20 +232,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="clock"></div>
 <script type="text/javascript">
 jQuery(function ($) {
-	$('#clock').countdown(68187858);
+	$('#clock').countdown(11090785);
 });
 </script>
-
-
-
-
-
-
-
-
-
-
-
 </div>
 <div class="clear"></div>
     
@@ -261,14 +266,19 @@ jQuery(function ($) {
 		} catch (err){
 		}
 		
-		FB.login(function (response) {
-		  if (response.authResponse) {
-			jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
-		  } else {
-			alert('Please login your facebook account or grant permission');
-			// user is not logged in
-		  }
-		}, { scope: 'email', auth_type: 'rerequest'});
+		if (navigator.userAgent.match('CriOS')){
+			window.open('https://www.facebook.com/dialog/oauth?client_id=145784258816635&redirect_uri=https://www.1-day.com.au/login.do%3FformAction%3Dsend&scope=email', '', null);
+		} else {
+			FB.login(function (response) {
+			  if (response.authResponse) {
+				jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
+			  } else {
+				alert('Please login your facebook account or grant permission');
+				// user is not logged in
+			  }
+			}, { scope: 'email', auth_type: 'rerequest'});
+		}
+
 		/*
 		FB.getLoginStatus(function (response) {
 		  if (response.status === 'connected') {
@@ -295,14 +305,18 @@ jQuery(function ($) {
 			showFaceBookLoginPopupDiv();
 		} catch (err){
 		}
-		FB.login(function (response) {
-		  if (response.authResponse) {
-			jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
-		  } else {
-			alert('Please login your facebook account or grant permission');
-			// user is not logged in
-		  }
-		}, { scope: 'email', auth_type: 'rerequest'});
+		if (navigator.userAgent.match('CriOS')){
+			window.open('https://www.facebook.com/dialog/oauth?client_id=145784258816635&redirect_uri=https://www.1-day.com.au/login.do%3FformAction%3Dsend&scope=email', '', null);
+		} else {
+			FB.login(function (response) {
+			  if (response.authResponse) {
+				jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
+			  } else {
+				alert('Please login your facebook account or grant permission');
+				// user is not logged in
+			  }
+			}, { scope: 'email', auth_type: 'rerequest'});
+		}
 	  }
 	</script>
 
@@ -313,12 +327,7 @@ jQuery(function ($) {
 	
 
 	
-
-		<a onclick="javascript: faceBookLogin('https://www.1-day.com.au/oneday/login.do', '');" class="facebook_connect_login_button">Login</a>
-
-
-
-
+	<a onclick="javascript: faceBookLogin('https://www.1-day.com.au/oneday/login.do', '');" class="facebook_connect_login_button">Log in</a>
 
 
 
@@ -373,6 +382,29 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 <!-- 1-day NZ TOP STRIP BANNER -->
 
   </div>
+  
+
+<div class="stats">
+
+
+
+
+
+
+
+	
+	
+	<div class="stay-right">
+		
+		
+			
+
+
+<span class="static-text">Daily Deals Every Day at 12pm</span>
+
+		
+	</div>
+</div>
   <div class="main_body day_colour">
     <div class="content_inner">
       <dl class="content_main">
@@ -664,9 +696,7 @@ $(document).ready(function() {
 </script>
 
 </div>
-<script type="text/javascript" src="/docs/scripts/dwr_ajax.js?v=5ad6be59b8a24169a76f"></script>
-<script type="text/javascript" src="/docs/scripts/jquery.colorbox.js?v=5ad6be59b8a24169a76f"></script>
-<script src="/assets/scripts/main.js?v=5ad6be59b8a24169a76f" type="text/javascript"></script>
+<script src="/assets/scripts/main.js?v=541292e2b49d4c32222" type="text/javascript"></script>
 
 
 
@@ -679,6 +709,8 @@ $(document).ready(function() {
 		}
 	});
 </script>
+
+
 
 
 
@@ -699,7 +731,6 @@ var google_remarketing_only = true;
 </noscript>
 
 
-
   
 
 
@@ -710,6 +741,27 @@ jQuery(function($){if($.browser.msie&&$.browser.version.indexOf('7')==0){$('.hom
 
 <div id="vegas-layer" style="display:none">
 	<img src="/images/vegas.png"></div>
+
+
+
+
+
+<script type="text/javascript" src="/docs/scripts/jquery.colorbox.js?v=541292e2b49d4c32222"></script>
+<script type="text/javascript" src="/docs/scripts/dwr_ajax.js?v=541292e2b49d4c32222"></script>
+<script type="text/javascript">
+//jQuery('.lazy').lazy();
+
+$(document).ready(function() {
+  if (!window.FB) {
+		if ($(".facebook_connect_login_button")){
+			$(".facebook_connect_login_button").hide();
+		}
+		if ($(".login-content-below")){
+			$(".login-content-below").hide();
+		}
+  }
+});
+</script>
 
 
 
