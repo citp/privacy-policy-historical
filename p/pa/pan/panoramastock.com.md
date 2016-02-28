@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228235606id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228200332id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Panorama Stock - Privacy Policy
 
