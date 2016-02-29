@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnahd.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319150617id_/http%3A//tnahd.com/legal.php%3Fs%3D6114%7C32612%7C2593%7C15%7Cwide%7C0%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnahd.com privacy policy that was archived on 2016-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160229204151id_/http%3A//tnahd.com/legal.php%3Fs%3D6114%7C32612%7C2593%7C15%7Cwide%7C0%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # TNA HD
 
