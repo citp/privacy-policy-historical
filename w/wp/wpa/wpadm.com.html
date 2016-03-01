@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wpadm.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231080432id_/https%3A//www.wpadm.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wpadm.com privacy policy that was archived on 2016-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160301075827id_/https%3A//www.wpadm.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <base href="https://www.wpadm.com/">
@@ -45,13 +45,14 @@
         <script>
             $(document).ready( function() {
                  loginform = '<div style="float:right;">'
-                + '<form id="login_form" class="form-inline" method="post" autocomplete="off" action="https://www.wpadm.com/login-process/">'
+                + '<form id="login_form" class="form-inline" method="post" autocomplete="off" action="http://www.wpadm.com/login-process/">'
                 + '<input type="text" id="username_input" name="username" title="email" placeholder="email" class="small with-helper login-form" value="" data-tabindex="1"/>'
                 + '<input type="password" id="password_input" class="input-small login-form" title="password" placeholder="password" name="password" required="required">'
                 + '<input id="login_form_but" onclick="loginProcess(this);" type="button" class="btn-orange" name="login_but" value="login" />'
+                + '<input onclick="$(\'#registration_link\').click();" type="button" class="btn-orange" style="margin-left: 10px;" value="sign up" />'
                 + '<div class="right vertical-center-table login-helper">'
                 + '<div class="vertical-center">'
-                + '<a href="http://secure.wpadm.com/user/recovery?lang=en" class="">Recovery</a>'
+                //+ '<a href="http://secure.wpadm.com/user/recovery?lang=en" class="">Recovery</a>'
                 + '</div>'
                 + '</div>'
                 + '</form>'
@@ -62,7 +63,7 @@
                 + '</span>'
                 + '<a data-count="fb" class="social-link" href="https://www.facebook.com/dialog/oauth?client_id=1100329753314255&redirect_uri=http%3A%2F%2Fsecure.wpadm.com%2Fuser%2FfacebookAuth%3Fauth_callback%3D1&response_type=code" style="background:url(css/main/images/social/icons.png) -0px 0 no-repeat" rel="nofollow"></a>'
                 + '<a data-count="go" class="social-link" style="background:url(css/main/images/social/icons.png) -32px 0 no-repeat" rel="nofollow" href="https://accounts.google.com/o/oauth2/auth?redirect_uri=http%3A%2F%2Fsecure.wpadm.com%2Fuser%2FgooglePlusAuth%3Fauth_callback%3D1&response_type=code&client_id=103060634920-tfl5cr94ot51hlnq2kgsc3nk0fert1h1.apps.googleusercontent.com&approval_prompt=force&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me&access_type=offline"></a>'
-                + '<a data-count="twi" class="social-link" href="https://api.twitter.com/oauth/authorize?oauth_token=XpTG0wAAAAAAevXxAAABUfcRHQk" style="background:url(css/main/images/social/icons.png) -48px 0 no-repeat" rel="nofollow"></a>'
+                + '<a data-count="twi" class="social-link" href="https://api.twitter.com/oauth/authorize?oauth_token=gQmbjQAAAAAAevXxAAABUzEvdHU" style="background:url(css/main/images/social/icons.png) -48px 0 no-repeat" rel="nofollow"></a>'
                 + '</div>';
                // helper.write("main-registration-form", form)
                 helper.write('login-form-auth', loginform);
@@ -70,7 +71,11 @@
             })
         </script>
         <div class="login" id="login-form-auth"></div>
+        <div style="position: absolute;top: 46px;right: 80px; font-size: 13px;">
+            <a href="http://secure.wpadm.com/user/recovery?lang=en" class="" style="color: white; margin-right: 10px; font-zise: 13px;">Recovery</a>
+        </div>
         <div class="languages">
+<!--	        <a href="--><!--" class="" style="color: white; margin-right: 10px; font-zise: 13px;">--><!--</a>-->
             <script>function setLang(lang) {
             var now = new Date();
             var time = now.getTime();
@@ -105,7 +110,11 @@
                 </ul>        </div>
     </div>
 
-</div><div id="body" class="body">
+</div>
+
+<!--- debug
+-->
+<div id="body" class="body">
             <div class="secondary-nav">
                 <div class="nav">
                     <div class="nav_body">
@@ -220,13 +229,16 @@ We use return email addresses to answer the email we receive. Also we use anothe
                     <a href="https://www.wpadm.com/api">API</a>
                 </li>
                 <li>
-                    <a id="support_link" href="https://www.wpadm.com/support/" onclick="supportPopup(this);return false;">Support</a>
+                    <a id="support_link" href="http://www.wpadm.com/support/" onclick="supportPopup(this);return false;">Support</a>
+                </li>
+                <li style="display:none;">
+                    <a id="registration_link" href="http://www.wpadm.com/registration/" onclick="regPopup(this, 'http://www.wpadm.com/');return false;">Registration</a>
                 </li>
             </ul>
         </div>
         <div class="footer_legal_block">
             <div class="hf_bottom_links">
-                <p class="copyright">© 2015</p>
+                <p class="copyright">© 2016</p>
             </div>
         </div>
 
