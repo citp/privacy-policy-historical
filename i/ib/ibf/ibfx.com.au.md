@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibfx.com.au privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329103153id_/http%3A//www.ibfx.com.au/pdfs/ibfx-privacy-policy-au.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibfx.com.au privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301181345id_/http%3A//www.ibfx.com.au/pdfs/ibfx-privacy-policy-au.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
