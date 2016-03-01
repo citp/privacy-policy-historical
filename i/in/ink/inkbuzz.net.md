@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the inkbuzz.net privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202185144id_/http%3A//inkbuzz.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkbuzz.net privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301163656id_/http%3A//inkbuzz.net/privacy) for the most accurate reproduction.*
 
-# inkbuzz
+# Inkbuzz
 
 Effective Date: 27 August 2013
 
 We take your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
 
-This privacy policy applies to inkbuzz.net (“inkbuzz”). This privacy policy describes how we collects and uses the personal information you provide on this website: [inkbuzz.net](http://inkbuzz.net/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to inkbuzz.net (“Inkbuzz”). This privacy policy describes how we collects and uses the personal information you provide on this website: [inkbuzz.net](http://inkbuzz.net/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://inkbuzz.net/contact). 
 
 #### INFORMATION AND COLLECTION OF USE
 
-We collect personal information when you register with inkbuzz, and when you subscribe and share inkbuzz channels. inkbuzz may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. inkbuzz uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on inkbuzz.
+We collect personal information when you register with Inkbuzz, and when you subscribe and share Inkbuzz channels. Inkbuzz may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. Inkbuzz uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on Inkbuzz.
 
 #### INFORMATION SHARING
 
@@ -20,7 +20,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 #### COOKIES
 
-We use “cookies” on inkbuzz to track how users use our website. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We link some information we store in cookines to personal information you submit in order to deliver a better experience on the service.
+We use “cookies” on Inkbuzz to track how users use our website. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We link some information we store in cookines to personal information you submit in order to deliver a better experience on the service.
 
 We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate our site. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
@@ -42,9 +42,9 @@ The security of your personal information is important to us. We follow generall
 
 #### THIRD PARTY SITES
 
-This Policy only applies to the inkbuzz website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personal information, and we shall not be liable for wrongful use or disclosure of your personal information by any third party.
+This Policy only applies to the Inkbuzz website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personal information, and we shall not be liable for wrongful use or disclosure of your personal information by any third party.
 
-  * (i) inkbuzz may sometimes use third-party advertising companies to serve ads to users;
+  * (i) Inkbuzz may sometimes use third-party advertising companies to serve ads to users;
   * (ii) Third-party advertising companies may use non-personally identifiable information about user visits in order to provide advertisements for goods and services that may be of interest to the user.
   * (iii) You can find more information about these practices and the your choices concerning these practices at <http://networkadvertising.org/managing/opt_out.asp>
 
@@ -72,6 +72,6 @@ You can log in to our website using sign-in services such as Facebook Connect or
 
 #### CHANGES TO THIS PRIVACY POLICY
 
-We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your inkbuzz account or by placing a prominent notice on our site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Inkbuzz account or by placing a prominent notice on our site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 [Email us](https://inkbuzz.net/contact)
