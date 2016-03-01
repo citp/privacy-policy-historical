@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games440.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024021114id_/http%3A//www.games440.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games440.com privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301191728id_/http%3A//www.games440.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - 440 Games
 
