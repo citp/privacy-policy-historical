@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexroot.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704162403id_/http%3A//www.forexroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexroot.com privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301180412id_/http%3A//www.forexroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Root
 
@@ -147,7 +147,7 @@ Social networks are on-line groups, networks or communities of people who share 
 
 A social network provides its members with many features, such as the ability to create and view profiles of other members who share commonalities. A social network also allows members to create personal profiles, potentially with fairly detailed information, as well as allow its members to engage in activities such as create personal blogs, share personal information and other applications that allow its members to help them to connect with other network members.
 
-The **Forex Root** Trader Social Network is limited to individuals who are active forex traders, as described in the Terms of Use http://www.forexroot.com/terms-of-use. As with other social networks, members of the **Forex Root** Trader Social Network may create personal profiles, in this case with respect to their forex trading, and may share among other information, information on their forex trading activities and performance and their market views and trading strategies.
+The **Forex Root** Trader Social Network is limited to individuals who are active forex traders, as described in the Terms of Use https://www.forexroot.com/terms-of-use. As with other social networks, members of the **Forex Root** Trader Social Network may create personal profiles, in this case with respect to their forex trading, and may share among other information, information on their forex trading activities and performance and their market views and trading strategies.
 
 **Benefits to Social Networks**
 
