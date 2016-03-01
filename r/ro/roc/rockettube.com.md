@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockettube.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171257id_/http%3A//www.rockettube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettube.com privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301020734id_/http%3A//www.rockettube.com/privacy.php) for the most accurate reproduction.*
 
 # RocketTube - Privacy Policy Statement
 
@@ -10,4 +10,4 @@ Your e-mail address will never be sold to other companies or used by RocketTube.
 
 Please note that any information you publicly reveal on your personal profile page, personal blog, personal gallery, in public message boards or chat does not fall under the above policy. This policy applies only to personally identifiable information you share privately with the operators of RocketTube.com.
 
-Cookie Policy We use cookies to help remember you as you surf RocketTube.com. These cookies do not contain any personally identifiable information and help enhance your usage of the site. Without them, you may not be able to fully enjoy many aspects of the site such as staying logged in. 
+Cookie Policy We use cookies to help remember you as you surf RocketTube.com. These cookies do not contain any personally identifiable information and help enhance your usage of the site. Without them, you may not be able to fully enjoy many aspects of the site such as staying logged in.
