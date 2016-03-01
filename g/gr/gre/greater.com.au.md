@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925095901id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301133632id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Building Society
 
@@ -228,15 +228,15 @@ Once a complaint has been lodged, the Customer Service Manager will respond to y
 
 If you are still not satisfied, you can contact external bodies that deal with privacy complaints. The Credit & Investments Ombudsman Limited which is our external dispute resolution scheme, or the Federal Privacy Commissioner. Any of these bodies may forward your complaint to another external dispute resolution body if it considers the complaint would be better handled by that other body.
 
-_Credit & Investments Ombudsman Limited_  
+_Credit & Investments Ombudsman_  
  _Post_ : PO Box A252, Sydney South NSW 1235  
  _Telephone_ : 1800 138 422  
- _Website_ : www.cosl.com.au
+ _Website_ : [www.cio.org.au](http://www.cio.org.au/)
 
 _Federal Privacy Commissioner_  
  _Post_ : GPO Box 5218 Sydney NSW 2001  
  _Telephone_ : 1300 363 992  
- _Website_ : www.oaic.gov.au
+ _Website_ : [www.oaic.gov.au](http://www.oaic.gov.au/)
 
 **14\. Customer Service Manager**
 
