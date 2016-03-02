@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotmortgage.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014022023id_/http%3A//www.gotmortgage.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotmortgage.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303003936id_/http%3A//gotmortgage.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy « GotMortgage
 
