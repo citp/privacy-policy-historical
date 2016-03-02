@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iiftadmissions.net.in privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016124522id_/http%3A//iiftadmissions.net.in/ppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiftadmissions.net.in privacy policy that was archived on 2016-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160302203352id_/http%3A//iiftadmissions.net.in/ppolicy.aspx) for the most accurate reproduction.*
 
 # Indian Institute of Foreign Trade
 
