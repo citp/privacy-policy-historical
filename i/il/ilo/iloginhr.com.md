@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloginhr.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212001101id_/http%3A//www.hr2000.com.my/dpa.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloginhr.com privacy policy that was archived on 2016-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160302173856id_/http%3A//www.hr2000.com.my/dpa.htm) for the most accurate reproduction.*
 
 # Personal Data Protection Act 2010 ("Act")
 
