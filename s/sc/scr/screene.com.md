@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screene.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919144745id_/http%3A//www.screene.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screene.com privacy policy that was archived on 2016-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160302050122id_/http%3A//www.screene.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Screene.com- Privacy Policy
 
@@ -16,4 +16,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-For any queries, [contact us](https://web.archive.org/web/20150919144745id_/http%3A//www.screene.com/contactus.php). 
+For any queries, [contact us](https://web.archive.org/web/20160302050122id_/http%3A//www.screene.com/contactus.php). 
