@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906105543id_/http%3A//www.bikesales.com.au/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303210127id_/http%3A//www.bikesales.com.au/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - bikesales.com.au
 
@@ -57,7 +57,7 @@ Your personal information may be used for the following purposes:
   * to conduct surveys to determine use and satisfaction with carsales services;
   * to generate statistics in relation to the carsales Network;
   * for the purposes of feedback, reviews and ratings;
-  * to promote and market special offers and other services to you (if you do not want to receive these, please let us know by clicking [here](http://helpcentre.carsales.com.au/help/contact-us/));
+  * to promote and market special offers and other services to you (if you do not want to receive these, please let us know by clicking [here](https://help.carsales.com.au/hc/en-gb/requests/new?ticket_form_id=26179));
   * for purposes connected with the operation of the carsales Network;
   * for staff training and quality assurance;
   * to personalise the site experience and / or the advertising you see when you visit sites within the carsales Network.
@@ -93,10 +93,10 @@ carsales may disclose personal information to individuals and organisations othe
 Where carsales provides information to a third party at your request (for example where you submit an enquiry), you acknowledge that your information will be handled by that third party in accordance with its privacy policy and not in accordance with the carsales privacy policy. 
 
 **Maintaining personal information quality**  
-carsales strives to maintain accurate and up-to-date records. To facilitate this, please let us know if any of your details change. You may update certain personal information through your membership account (if you have one) or click [here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email.
+carsales strives to maintain accurate and up-to-date records. To facilitate this, please let us know if any of your details change. You may update certain personal information through your membership account (if you have one) or click [here](https://help.carsales.com.au/hc/en-gb/requests/new?ticket_form_id=26179) to contact us by email.
 
 **How to access your personal information**  
-You generally have a right to access your personal information, subject to a few exceptions provided by law. If you wish to access your personal information please [Click here](http://helpcentre.carsales.com.au/help/contact-us/) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service, however you may be required to verify your identity before any information is released to you.
+You generally have a right to access your personal information, subject to a few exceptions provided by law. If you wish to access your personal information please [Click here](https://help.carsales.com.au/hc/en-gb/requests/new?ticket_form_id=26179) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service, however you may be required to verify your identity before any information is released to you.
 
 **About security and personal Information**  
 carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure. Your personal information may be stored in hard copy documents, but is generally stored electronically on carsales’ systems. 
@@ -131,7 +131,7 @@ Location: | Level 4, 449 Punt Road, Richmond VIC 3121
 Postal Address: | Locked Bag 9001, Richmond VIC 3121   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Nicole Birman  
-Email: | [Click here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email  
+Email: | [Click here](https://help.carsales.com.au/hc/en-gb/requests/new?ticket_form_id=26179) to contact us by email  
   
 carsales treats complaints relating to privacy extremely seriously. If you submit a concern or complaint, we will endeavour to deal with it comprehensively and reach an outcome with which all parties are satisfied. If you would like further information about privacy in Australia, please review the [Office of the Australian Information Commissioner’s website](http://www.oaic.gov.au/). 
 
