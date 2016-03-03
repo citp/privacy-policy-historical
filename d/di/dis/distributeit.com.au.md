@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142659id_/http%3A//www.tppwholesale.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303064226id_/https%3A//www.tppwholesale.com.au/legals/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TPP Wholesale
+# Privacy Policy | TPP Wholesale - Australia's Largest Wholesale Provider | TPP Wholesale
+
+  1. [TPP Wholesale Terms & Conditions](https://web.archive.org/legals/)
+  2. [Service Terms](https://web.archive.org/legals/service-terms/)
+    * [Acceptable Use Policy](https://web.archive.org/legals/acceptable-use-policy/)
+  3. [Domain Terms](https://web.archive.org/legals/domain-terms/)
+    * [ICANN RAA](https://web.archive.org/legals/icann-raa/)
+  4. [Copyright](https://web.archive.org/legals/copyright/)
+  5. [Disclaimer](https://web.archive.org/legals/disclaimer/)
+  6. [Privacy Policy](https://web.archive.org/legals/privacy-policy/)
+
+
 
 TPP Wholesale respects your privacy and is committed to its protection. We are bound by the Australian Privacy Principals of the Privacy Act 1988(Cth).
 
@@ -45,7 +56,7 @@ Our relationships with such third party service providers are governed by our co
 
 ### Accuracy / Access
 
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained in [this support article](http://www.tppwholesale.com.au/support/how-do-i-update-my-domain-whois-details/).
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained in [this support article](http://support.tppwholesale.com.au/articles/reseller/How-do-I-update-my-domain-Whois-details).
 
 If you believe that TPP Wholesale may hold other personal information about you that is inaccurate, or you wish to change or update any of the personal information you have provided, please email our Privacy Officer at privacy@netregistry.com.au.
 
