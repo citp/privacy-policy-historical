@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023073018id_/http%3A//mobooka.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303100708id_/http%3A//mobooka.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Performance Affiliate and Publisher Network - Internet Marketing - Mobooka
 
