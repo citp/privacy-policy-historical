@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomwaterhouse.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906093333id_/https%3A//www.tomwaterhouse.com/betting/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomwaterhouse.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303120640id_/https%3A//www.tomwaterhouse.com/betting/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help
 
@@ -7,7 +7,7 @@ The following statement sets out Tomwaterhouse.com’s policy relating to the co
 In this policy:
 
 (a) “we”, “us”, “our” or “Tomwaterhouse.com” means Tom Waterhouse (NT) Pty Limited ABN 99 142 687 876; and  
-(b) “William Hill Group companies” means all related bodies corporate of Tomwaterhouse.com, including William Hill Australia Trading Pty Limited ABN 55 092 468 883 and Centrebet Pty Limited ABN 14 106 487 736.  
+(b) “William Hill Group means Tom Waterhouse (NT) Pty Limited and all of its related bodies corporate, including William Hill Australia Pty Limited ABN 14 106 487 736 (which operates William Hill and Centrebet).  
 We take seriously our obligation to safeguard personal information about our clients, and are committed to complying with the Australian Privacy Principles contained in the Privacy Act 1988 (Cth).  
 This Privacy Policy is in addition to Tomwaterhouse.com’s [Betting Terms and Conditions](https://www.tomwaterhouse.com/betting/help/category/legal/ "Betting Terms and Conditions") and should be read in conjunction with the Betting Rules
 
@@ -64,7 +64,7 @@ It may also be necessary to collect your personal information from third parties
 
 
 
-We may also collect your personal information from other William Hill Group companies.
+We may also collect your personal information from other entities in the William Hill Group.
 
 We are required by our Northern Territory Sports Bookmaking Licence to record all telephone calls we have with you. We shall make a recording of all telephone calls with you including where you place a wager, lodge a dispute, or where there is a discussion regarding any aspect of your account. We will not tell you each time we record a call. You acknowledge this and agree to such recordings being made, and, you agree that the relevant recordings and/or any records of your transactions may be made available to the regulatory authority to enable any dispute to be determined in accordance with Tomwaterhouse.com’s Rules. 
 
@@ -81,7 +81,7 @@ We collect and hold, use and disclose personal information for purposes includin
   * to allow you to register as a client of Tomwaterhouse.com;
   * to provide products and services to you;
   * to enable us to perform our obligations to you under Tomwaterhouse.com’s Rules and to ensure that you perform your obligations under Tomwaterhouse.com’s Rules;
-  * for communicating with you, including sending you information about our products and services and the products and services of William Hill Group companies;
+  * for communicating with you, including sending you information about our products and services and the products and services of other entities in the William Hill Group;
   * for planning, research, promotion and marketing of our goods and services, including conducting competitions or promotions;
   * to create aggregate data about clients through demographic profiling and statistical analysis of our database to optimise our products and services and /or allow for more efficient operation of our business;
   * to maintain a credit information file on you and to carry out a credit assessment on you;
@@ -90,13 +90,13 @@ We collect and hold, use and disclose personal information for purposes includin
 
 
 
-William Hill Group companies may use your personal information to contact you about to products or services that may be of interest to you. If you no longer wish to receive promotional or marketing material from us or any William Hill Group company, please contact Tomwaterhouse.com Customer Service on 1800 928 374 or email [service@tomwaterhouse.com](mailto:service@tomwaterhouse.com)
+Other entities in the William Hill Group may use your personal information to contact you about to products or services that may be of interest to you. If you no longer wish to receive promotional or marketing material from us or any entity in the William Hill Group, please contact Tomwaterhouse.com Customer Service on 1800 928 374 or email [service@tomwaterhouse.com](mailto:service@tomwaterhouse.com)
 
 **To whom Personal Information is disclosed**
 
-By registering with Tomwaterhouse.com and providing personal information you consent to your personal information being used by us and William Hill Group companies.
+By registering with Tomwaterhouse.com and providing personal information you consent to your personal information being used by us and other entities in the William Hill Group.
 
-We share personal information with William Hill Group companies in a strictly controlled manner and does not sell personal information to other companies.  
+We share personal information with other entities in the William Hill Group in a strictly controlled manner and does not sell personal information to other companies.  
 We may disclose your personal information to third parties as follows:
 
   * to a credit reporting agency;
@@ -190,6 +190,6 @@ For further information about privacy issues in Australia, visit the Australian 
 
 If you have any further queries please contact us on 1800 928 374 or email us at [service@tomwaterhouse.com](mailto:service@tomwaterhouse.com).
 
-[Privacy Collection Notice](http://www.sportingbet.com.au/content/images/Privacy%20Collection%20Notice%20TW%2018062015%20\(3\).pdf) (PDF).
+[Privacy Collection Notice](https://www.tomwaterhouse.com/betting/help/wp-content/uploads/sites/2/2014/11/Privacy-Collection-Notice-TW-24092015.pdf) (PDF).
 
-Last updated: 17 July 2015
+Last updated: 25 September 2015
