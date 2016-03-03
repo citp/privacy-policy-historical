@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversephonelookup2.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027044533id_/http%3A//www.reversephonelookup2.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonelookup2.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303235416id_/http%3A//www.reversephonelookup2.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
