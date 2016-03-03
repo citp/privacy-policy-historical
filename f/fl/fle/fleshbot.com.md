@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907181305id_/http%3A//www.fleshbot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303041825id_/http%3A//www.fleshbot.com/privacy-policy) for the most accurate reproduction.*
 
 # Fleshbot Porn Blog | Pure Filth | Sex Culture
 
