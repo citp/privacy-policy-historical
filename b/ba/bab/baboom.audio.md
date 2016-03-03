@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baboom.audio privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820235828id_/http%3A//baboom.audio/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baboom.audio privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303052205id_/http%3A//baboom.audio/Privacy) for the most accurate reproduction.*
 
 # Baboom-Privacy
 
@@ -36,7 +36,8 @@ We collect Personal Information for the following purposes:
 We do not sell, trade, or rent Users' personal information to other parties. We may share non-personal information with:   
 • Our trusted service providers only to the extent required to fulfill the purposes outlined above.  
 • Other third parties (including retailers, ad networks, advertising companies, service providers, media and other interested parties) in any of the above circumstances, as well as for the purpose of developing or delivering advertising (whether via our Service, or websites, applications or services of third parties), or for the purpose of improving our Service, conducting business analysis or other business purposes. This information may be combined with information we collect from other sources, to the extent that the information remains non-personal information.  
-• You may share through the Service certain types of information (e.g. music interests and recommendations) with other users. 
+• You may share through the Service certain types of information (e.g. music interests and recommendations) with other users.  
+• We use a tool called “Google Analytics” to collect information about use of the Service. Google Analytics collects information such as how often users access the Service, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Service. Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits by disabling cookies on your browser. 
 
 ### **6\. Information retention policy and User choice**
 
