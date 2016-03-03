@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230004020id_/http%3A//www.upforit.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303075210id_/https%3A//www.upforit.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual Dating at UpForIt
 
