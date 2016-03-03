@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the comparethemarket.com.au privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908024227id_/https%3A//secure.comparethemarket.com.au/ctm/legal/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303213946id_/https%3A//secure.comparethemarket.com.au/ctm/legal/privacy_policy.pdf) for the most accurate reproduction.*
 
-# COMPARE THE MARKET AND COMPARE THE MEERKAT PRIVACY POLICY
+# COMPARE THE MARKET AND COMPARE THE MEERKAT PRIVACY
 
      COMPARE THE MARKET AND COMPARE THE MEERKAT PRIVACY
-                                                   POLICY
-This Policy contains important information about how we manage personal information. It applies to
-all of the services offered by Compare the Market Pty Ltd ACN 117 323 (CTM, we, us, our) in respect
-of www.comparethemarket.com.au and www.comparethemeerkat.com.au (websites) and the
-Compare the Market call centre (call centre).
+                                                    POLICY
+This Policy contains important information about how we manage personal information. It applies to all
+of the services offered by Compare the Market Pty Ltd ACN 117 323 (CTM, we, us, our) in respect of
+www.comparethemarket.com.au and www.comparethemeerkat.com.au (websites) and the Compare
+the Market call centre (call centre).
 We may modify this Policy at any time, and if we do, we’ll publish it on the websites. We are bound by
 the Privacy Act 1988 (Cth) and the Privacy Principles contained within that act.
 PERSONAL INFORMATION WE COLLECT
@@ -41,8 +41,8 @@ websites and social media, and our call centre. Sometimes, we may collect your p
 from one of our participating suppliers (e.g. where you purchase a policy from that supplier). We may
 also collect information from another person (e.g. the person arranging the policy of insurance for
 customers covered under a family or couples policy health policies)), or if you enquire about home
-loans , we may also collect personal information you provide to the mortgage broker we refer you to
-or from our credit licensee). If we collect information about you from a third party, we will determine
+loans , we may also collect personal information you provide to the mortgage broker we refer you to or
+from our credit licensee). If we collect information about you from a third party, we will determine
 whether we could have lawfully collected that information directly from you and, if not, we will destroy
 or de-identify that information (provided it’s lawful to do so).
 
@@ -64,35 +64,35 @@ choose.
 From time to time, we may use data collection devices such as 'cookies' in conjunction with the
 websites. We may (or our marketing company may) evaluate any cookie information collected to
 measure the effectiveness of its advertising and how visitors use the websites in order to:
-      provide you with a better and more customised service and a more effective website; and
-      collect information on how many visitors the websites receive, how those visitors use the
+•      provide you with a better and more customised service and a more effective website; and
+•      collect information on how many visitors the websites receive, how those visitors use the
        websites, where they came from and where they go.
 We also use web beacons and cookies provided by our third party ad server on the websites, which
 transmit information about how visitors use the websites to our ad servers so that advertising on third
 party sites can be better targeted and measured. You can configure your browser so it does not
 accept cookies, but this may affect the functionality of the websites. We may also collect and store
 information on your personal device using browser web storage and data caches.
-We hold personal information in data storage and cloud computing facilities operated by us (or by
-third parties for us). We take all reasonable steps to protect the information from unauthorised access,
+We hold personal information in data storage and cloud computing facilities operated by us (or by third
+parties for us). We take all reasonable steps to protect the information from unauthorised access,
 misuse, interference or disclosure.
 WHY WE COLLECT, HOLD AND USE PERSONAL INFORMATION
 We collect, hold and use personal information to provide services, benefits and products to you.
 These include:
-      to allow you to compare products and/or obtain quotes for products or make enquiries;
-      to send you a summary of your quote and comparison results;
-      to provide to our business partners or participating suppliers so that they can (where you have
+•      to allow you to compare products and/or obtain quotes for products or make enquiries;
+•      to send you a summary of your quote and comparison results;
+•      to provide to our business partners or participating suppliers so that they can (where you have
        agreed) provide you with updates or information about their products and services and provide
        you with reminders;
-      to reconcile transactions with our business partners or participating suppliers that supply you
+•      to reconcile transactions with our business partners or participating suppliers that supply you
        products because of our services;
-      unless you object, to communicate with you and make special offers to you;
-      unless you object, to direct market our services to you;
-      to deal with complaints and queries you may have;
-      To administer competitions and promotions; or
+•      unless you object, to communicate with you and make special offers to you;
+•      unless you object, to direct market our services to you;
+•      to deal with complaints and queries you may have;
+•      To administer competitions and promotions; or
 
 
-       any other purpose we have notified you of when the information was collected as permitted by
-        law.
+•        any other purpose we have notified you of when the information was collected as permitted by
+         law.
 If we disclose your personal information to our business partners or participating suppliers, they will
 use, deal with and manage your personal information in accordance with their privacy policies. We will
 never sell your personal information to other companies.
@@ -121,6 +121,11 @@ document to understand how we manage their personal information.
 KEEPING YOUR PERSONAL INFORMATION SECURE
 There is always a risk in sending and receiving information over the internet, but once we have
 received your personal information, we’ll take steps to make sure it is protected and secure.
+  UNSUBSCRIBE FROM MARKETING COMMUNICATIONS
+  If you no longer wish to receive marketing communications from Compare The Market or Compare
+  The Meerkat, please use the unsubscribe link contained in all of our email communications.
+  Alternatively, you can contact us by calling 1800 456 981 or by emailing
+  privacy@comparethemarket.com.au
 PRIVACY COMPLAINTS
 If you have a complaint about the way we manage your personal information, including any decision
 made regarding a request for access or correction of your personal information, please contact our
@@ -130,14 +135,14 @@ to you regarding the outcome of any investigation. If your privacy concerns are 
 satisfactorily or you wish to obtain more information on the privacy legislation, you can contact the
 Office of the Australian Information Commissioner (see Contact Information).
 CONTACT INFORMATION
-Privacy Officer                       Compliance Manager                    Office of the Australian
-                                                                            Information Commissioner
+Privacy Officer                       Compliance Manager                     Office of the Australian
+                                                                              Information Commissioner
 
 
-PO Box 301, Toowong QLD     PO Box 301, Toowong QLD 4066  GPO Box 5218
-4066                                                      Sydney NSW 2001
-                            privacy@comparethemarket.com. Phone: 1300 363 992
-privacy@comparethemarket.co au                            enquiries@oaic.gov.au
+PO Box 301, Toowong QLD       PO Box 301, Toowong QLD 4066  GPO Box 5218
+4066                                                        Sydney NSW 2001
+                              privacy@comparethemarket.com. Phone: 1300 363 992
+privacy@comparethemarket.co   au                            enquiries@oaic.gov.au
 m.au
-                                                          www.oaic.gov.au/privacy
-Last Updated: 22 April 2015
+                                                            www.oaic.gov.au/privacy
+Last Updated: 1 December 2015
