@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retechulous.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009041644id_/http%3A//retechulous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retechulous.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304162945id_/http%3A//retechulous.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ReTechulous
 
