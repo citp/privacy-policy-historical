@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hisfirstgaysex.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218052252id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hisfirstgaysex.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305003320id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
 
 # Clients-Support.com - Servicing Your Needs
 
