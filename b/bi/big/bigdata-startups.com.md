@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigdata-startups.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012154349id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdata-startups.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304152322id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
 
 # Datafloq - Privacy Policy
 
