@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitplutos.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116230249id_/http%3A//www.bitplutos.com/legal-information-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitplutos.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304231749id_/http%3A//www.bitplutos.com/legal-information-2) for the most accurate reproduction.*
 
 # Security & Privacy - BitPlutos
 
