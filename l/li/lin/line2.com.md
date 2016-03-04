@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line2.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921134540id_/https%3A//www.line2.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line2.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304232129id_/https%3A//www.line2.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Line2
 
@@ -60,11 +60,11 @@ Cookies are small text files placed on a computer’s hard drive by a Web server
   * Some third-party services providers that we engage (including third-party advertisers) may also place their own cookies on your hard drive. These third-party services providers, such as Google, Apple, and Facebook, may use these cookies to serve ads to you outside of the Line2.com website, based on your prior visits to the Line2.com website. For example, Google may place a cookie on your hard drive when you visit the Line2.com website. When you visit another website that works with Google, your web browser will send that website (and Google, its partner) that same cookie, and Google may serve you a Line2 ad. Using Line2.com website visit information stored in cookies placed on your hard drive, Google can show you Line2 ads on other sites within Google’s ad networks, Facebook can show you Line2 ads on the Facebook platform, and Apple can show you Line2 ads on sites and apps within Apple’s ad networks.
   * In addition to serving you with Line2 ads as detailed above, our third-party services providers may use the information collected about you during your visit to the Line2.com website through their use of cookies within the Line2 service to serve you with other ads that they deem relevant to you.
   * Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by third parties.
-  * Users may opt out of the use of cookies for interest-based advertising by visiting Ad Settings on their web browsers or iOS settings: 
+  * Users may opt out of the use of cookies for interest-based advertising by visiting Ad Settings on their web browsers or iOS settings:
     * Google Chrome: https://www.google.com/settings/u/0/ads
     * Internet Explorer: http://windows.microsoft.com/en-us/windows/change-internet-explorer-privacy-settings
     * Safari: Safari >Preferences>Privacy>Block Cookies
-    * iAD: http://support.apple.com/kb/ht4228 
+    * iAD: http://support.apple.com/kb/ht4228
 
 
 
@@ -80,7 +80,7 @@ Line2 may also place Web beacons on its site in conjunction with cookies to moni
 
 ##### IP Addresses
 
-IP addresses are used in the Line2 service as follows: 
+IP addresses are used in the Line2 service as follows:
 
   * An IP address allows information to be sent to and from a computer (or a phone or other device) on the Internet. IP addresses are often temporarily assigned. Temporarily assigned addresses are assigned to a user for a period of time so the user typically does not have the same address each time they use the service. If a user is using a permanent IP address (more common with servers than mobile, dial-up, DSL or cable Internet users), they will have the same address each time they use the service. Line2 collects IP addresses when people access our Web site.
   * Line2 phones receive temporary IP addresses when they use data services. These addresses are reassigned after each data session. IP addresses from Line2 phones are hidden from third parties you visit. These third parties cannot collect Line2 IP addresses.
