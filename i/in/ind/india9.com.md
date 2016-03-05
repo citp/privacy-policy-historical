@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india9.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906213605id_/http%3A//www.india9.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india9.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305074807id_/http%3A//www.india9.com/privacy.html) for the most accurate reproduction.*
 
 # india9.com | Privacy Policy
 
