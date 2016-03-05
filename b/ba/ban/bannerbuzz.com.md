@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannerbuzz.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703230710id_/http%3A//www.bannerbuzz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbuzz.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305202802id_/http%3A//www.bannerbuzz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BannerBuzz.com: Privacy Policy
 
