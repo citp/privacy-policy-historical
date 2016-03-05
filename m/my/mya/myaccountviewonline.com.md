@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myaccountviewonline.com privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714163737id_/http%3A//lplfinancial.lpl.com/Documents/PDF/LPLOnlinePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaccountviewonline.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305170657id_/http%3A//lplfinancial.lpl.com/Documents/PDF/LPLOnlinePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Policy
 
 LPL Financial Online Privacy Policy
-Last Updated: January 2, 2014
+Last Updated: October 16, 2015
 Introduction
 This privacy policy (“Privacy Policy”) describes the ways LPL Financial LLC and its affiliates and subsidiaries (“We”,
 “Us”, or “LPL Financial”) collect, store, use, disclose, and protect your personal information. We use the term
@@ -39,7 +39,7 @@ activities.
 
 
 LPL Financial Online Privacy Policy
-Last Updated: January 2, 2014
+Last Updated: October 16, 2015
 Sharing Personal Information in Connection with
 LPL Financial Online Services
 To provide LPL Financial online services, we may share some of your personal information with other entities
@@ -76,7 +76,7 @@ uses a do not track signal or similar mechanism.
 
 
 LPL Financial Online Privacy Policy
-Last Updated: January 2, 2014
+Last Updated: October 16, 2015
 Storage and Protection of Personal Information
 We maintain administrative, technical, and physical safeguards that are designed to protect the privacy and security
 of personal information. In order to help secure personal information collected from you as an LPL Financial online
@@ -109,7 +109,7 @@ may be different than our own policies.
 
 
 LPL Financial Online Privacy Policy
-Last Updated: January 2, 2014
+Last Updated: October 16, 2015
 Personal Information on Children
 We respect the privacy of children and encourage all parents to supervise their children’s computer usage. We do
 not intend to invite children to visit LPL Financial online services and we do not knowingly collect or retain personal
