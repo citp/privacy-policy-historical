@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasbreakfastbattle.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121132904id_/http%3A//www.thomasbreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasbreakfastbattle.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305221808id_/http%3A//thomasbreads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thomas'
 
