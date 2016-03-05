@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacatalog.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914183137id_/http%3A//www.indiacatalog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacatalog.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305234845id_/http%3A//www.indiacatalog.com/privacy.html) for the most accurate reproduction.*
 
 # India Catalog - Marketplace for Indian Businesses - Privacy Statement
 
