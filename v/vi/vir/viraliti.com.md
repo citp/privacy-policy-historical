@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraliti.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229171920id_/http%3A//viraliti.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraliti.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306004455id_/http%3A//viraliti.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Pinterest Advertisement Network
 
