@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127140524id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305143520id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
 
 # User Guidelines & Privacy Policy | Scarleteen
 
@@ -6,11 +6,7 @@ We need rules and guidelines with this many people and such sensitive subject ma
 
 If you registered for our message boards, you agreed to this set of rules and regulations, after which you clicked "I Agree." These are also the general rules for the site as a whole. Please respect these rules and guidelines. If another poster isn't abiding by the rules or is harassing you, please inform us immediately via email.
 
-* * *
-
-Protecting your privacy is important to us, and we do the best we can to help with that. But you also need to protect yourself. When registering, choose a username that is NOT a variant of your real name and is NOT a handle you have used or will use anywhere else. We'll edit it out if you do, but don't put any personally identifying information in blog comments, board posts or advice questions, like your email or MySpace/Facebook page. In fields that ask for your location, be general in registering: a state, province or even country is fine. Don't use real names of people, schools or places in any content you post here. If you make the effort to protect your privacy in ways we can't control, we'll help you protect it in the ways we can. If there is anything you do NOT want seen on the internet, even anonymously, or potentially be posted here until the end of time, **don't put it here**.
-
-* * *
+(SIDEBAR)Protecting your privacy is important to us, and we do the best we can to help with that. But you also need to protect yourself. When registering, choose a username that is NOT a variant of your real name and is NOT a handle you have used or will use anywhere else. We'll edit it out if you do, but don't put any personally identifying information in blog comments, board posts or advice questions, like your email or MySpace/Facebook page. In fields that ask for your location, be general in registering: a state, province or even country is fine. Don't use real names of people, schools or places in any content you post here. If you make the effort to protect your privacy in ways we can't control, we'll help you protect it in the ways we can. If there is anything you do NOT want seen on the internet, even anonymously, or potentially be posted here until the end of time, **don't put it here**.(/SIDEBAR)
 
 MEGA-IMPORTANT: To protect your privacy, when choosing a username for the boards or main site, do NOT use your full name or a handle you use or want to use anywhere else. Choose a handle that allows you to post freely and anonymously.
 
