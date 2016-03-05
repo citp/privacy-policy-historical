@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverrestore.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813111538id_/http%3A//driverrestore.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverrestore.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305083651id_/http%3A//driverrestore.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « DriverRestore
 
@@ -385,8 +385,8 @@ The preferred method for you to contact us is via our
 alternative, you may reach us at:
 
   * **BY EMAIL:** privacy@383media.com
-  * **BY TELEPHONE:** 1 (800) 815-6290. (Business Hours: M-F  
-9am-5pm Pacific Standard Time) International: 011-01-877-224-1524  
+  * **BY TELEPHONE:** 1 (925) 290-6191. (Business Hours: M-F  
+9am-5pm Pacific Standard Time) International: +1 (925) 290-6191  
 (check your local telephone company for estimated charges)
   * **BY MAIL:** Attn. Privacy Officer 383 Media Inc. 4683 Chabot  
 Drive, Suite 350 Pleasanton, CA, 94588
