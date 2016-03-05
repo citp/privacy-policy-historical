@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketluck.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720181238id_/http%3A//www.ticketluck.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketluck.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305083632id_/http%3A//www.ticketluck.com/policies.php) for the most accurate reproduction.*
 
 # Policies: Ticket Luck
 
@@ -20,7 +20,7 @@ All mandatory fields are denoted with an asterisk(*).
 **CORRECTING/UPDATING INFORMATION**  
 We never store any information after responding to your email and therefore it is not possible for you to update the information. If your contact information has changed, you will have to resubmit the contact information.  
 **_Security_**  
-We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.   
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 200% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.   
 **_  
 Changes to this privacy policy_**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the changes taking effect.
