@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographersdirect.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911065403id_/http%3A//www.photographersdirect.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographersdirect.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305041951id_/http%3A//www.photographersdirect.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Photographers Direct Privacy Policy
 
