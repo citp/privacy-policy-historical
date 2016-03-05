@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messengerforweb.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112013608id_/http%3A//www.messengerforweb.com/2015/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messengerforweb.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305011221id_/http%3A//www.messengerforweb.com/2015/06/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Messenger Lite
 
@@ -27,6 +27,6 @@ Telegram doesn't endorse or sponsor this website. Google doesn't endorse or spon
 
 Background image copyright: NASA Goddard Space Flight Center. Icons by Freepik from Flaticon.com is licensed by CC BY 3.0. 
 
-#### About author: [Van Bell](https://web.archive.org/web/20151112013608id_/http%3A//www.messengerforweb.com/2015/06/yourgoogleprofile)
+#### About author: [Van Bell](https://web.archive.org/web/20160305011221id_/http%3A//www.messengerforweb.com/2015/06/yourgoogleprofile)
 
 Cress arugula peanut tigernut wattle seed kombu parsnip. Lotus root mung bean arugula tigernut horseradish endive yarrow gourd. Radicchio cress avocado garlic quandong collard greens.
