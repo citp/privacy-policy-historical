@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmyfolks.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907095735id_/http%3A//www.filmyfolks.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyfolks.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305134624id_/http%3A//www.filmyfolks.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy of filmyfolks.com.
 
