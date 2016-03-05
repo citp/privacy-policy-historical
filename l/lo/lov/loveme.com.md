@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022051753id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305080742id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,7 @@ Phoenix, Arizona 85020
 (602) 553-8178  
 fax (602) 468-1119  
 [Contact Us](https://web.archive.org/invar/sendmess/index.php)  
-Copyright © 2015
+Copyright © 2016
+
+  
+
