@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201060847id_/http%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306082013id_/http%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
 
-# About Us
+# Soundtraack.net Privacy Policy
 
 **This privacy statement applies to the website of:**  
-Soundtrack.Net / Autotelics, LLC [mail@soundtrack.net](mailto:mail@soundtrack.net)
+Soundtrack.Net / Autotelics, LLC ([mail@soundtrack.net](mailto:mail@soundtrack.net)) 
 
 The following outlines our data collection practices and our privacy policy. Please take the time to review this document. 
 
