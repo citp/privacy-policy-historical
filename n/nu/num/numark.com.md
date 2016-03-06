@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numark.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906051950id_/http%3A//www.numark.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numark.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306103445id_/http%3A//www.numark.com/company/privacy_policy) for the most accurate reproduction.*
 
 # privacy_policy | Numark - Cutting-edge professional DJ equipment
 
