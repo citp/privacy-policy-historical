@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insectidentification.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113502id_/http%3A//www.insectidentification.org/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insectidentification.org privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306151318id_/http%3A//www.insectidentification.org/privacy-policy.asp) for the most accurate reproduction.*
 
 # InsectIdentification.org Site Privacy Policy
 
@@ -27,5 +27,3 @@ You can chose to disable or selectively turn off cookies or third-party cookies 
 
 3rd Party Advertisements - CasaleMedia  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-BugFinder allows for a quick search of the database by selecting primary color, secondary color, number of legs and the territory or state in question. If only one Primary color is present, select it again for Secondary color.
