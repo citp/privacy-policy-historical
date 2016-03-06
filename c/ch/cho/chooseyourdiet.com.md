@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chooseyourdiet.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926054915id_/http%3A//www.chooseyourdiet.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyourdiet.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306125404id_/http%3A//www.chooseyourdiet.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
