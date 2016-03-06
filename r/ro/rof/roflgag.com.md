@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roflgag.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204230625id_/http%3A//roflgag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roflgag.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306164806id_/http%3A//roflgag.com/privacy.php) for the most accurate reproduction.*
 
 # ROFLGAG.COM! - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, ROFLGAG.COM!, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
