@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratebeer.com privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230222008id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratebeer.com privacy policy that was archived on 2016-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160306045654id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 <title>RateBeer.com -- Privacy Policy</title>
@@ -19,7 +19,7 @@
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/custombs.css">
-<link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css">
+<link rel="stylesheet" href="//normalize-css.googlecode.com/svn/trunk/normalize.css">
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -35,6 +35,23 @@ GA_googleAddSlot("ca-pub-4822594167621467", "beerpage468");
 GA_googleFetchAds();
 </script><style>
 
+.paper {
+border: 3px solid #f8f8f8;
+padding: 15px;
+margin-bottom: 15px;
+}
+
+.paper-compact {
+border: 3px solid #f8f8f8;
+padding: 0;
+margin-top: 0px;
+}
+.padded {
+padding: 30px 0 0px 0;
+}
+.paper-compact h3{
+padding: 15px;
+}
 /* reset webkit search input browser style */
 input {
 	outline: none;
@@ -83,37 +100,50 @@ input::-webkit-input-placeholder {
 	color: #999;
 }
 .norman {margin-top: 8px; margin-bottom: 8px; margin-right: 3px;}
+
+#rbbody{max-width: 1600px; margin: auto;}
+#.rblogo {max-height:48px; margin: 10px 0px 10px 20px;border:0;}
+.logo {margin: 10px 0px 0px 20px;border:0;}
+.mobile-nav-menu{position: absolute; right: 0;text-align:right;}
+#.browser-nav-menu{padding-right:40px;}
+.header-leaderboard{border: 1px solid #e0e0e0; width: 100%; margin: auto; text-align: center; white-space:nowrap;min-height: 60px;margin: 0px 0px 10px 0px;}
 </style>
 </head>
 <body>
-<div id="rbbody" style="max-width: 1600px; margin: auto;">
+<div id="rbbody">
 
-<div class="row">
-		<div class="col-xs-3 col-sm-4 col-md-4 col-lg-3" style="vertical-align: middle;">
-		<a href="/"><img src="/images/logos/rblogo072016.png" alt="RateBeer" class="img-responsive" border="0" style="margin: 10px 0px 10px 20px;"></a>
-		</div>
-
-        <div class="col-xs-5 col-sm-5 col-md-6 col-lg-6 text-center" style="vertical-align: middle;">
+<div class="row" style="margin-left: 0; margin-right: 0;">
+		
+		
+			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-3">
+			<a href="/"><img src="/images/logos/rblogo072016.png" alt="RateBeer" class="img-responsive rblogo"></a>
+			</div>
+		
+        <div class="col-xs-4 col-sm-5 col-md-4 col-lg-6 text-center">
 		<form class="navbar-form" role="search" action="/findbeer.asp" method="POST" name="search">
 			<input type="search" placeholder="Search" name="beername">
 		</form>
 	    </div>
 
-		<div class="col-xs-4 col-sm-3 col-md-2 col-lg-3 text-right"><div class="norman">
-		 <a class="btn btn-default" href="/NewUser.asp"><b>Sign Up</b></a> <a class="btn btn-default" href="/login.asp">Sign In</a> </div>
-		</div>
+
+		
+			<div class="col-xs-4 col-sm-3 col-md-2 col-lg-3 text-right"><div class="norman">
+				 <a class="btn btn-default" href="/NewUser.asp"><b>Sign Up</b></a> <a class="btn btn-default" href="/login.asp">Sign In</a> </div>
+			</div>		
+		
 </div>
 				
 
 <nav class="navbar navbar-default" role="navigation">
+
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		  <span class="sr-only">Toggle navigation</span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		</button>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -122,6 +152,7 @@ input::-webkit-input-placeholder {
       <li class="dropdown ">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Beers <b class="caret"></b></a>
         <ul class="dropdown-menu">
+		  <li><a href="/top">Top Beers</a></li>
           <li><a href="/beer-ratings/">Recent Ratings</a></li>
           <!--li><a href="/ratings/toplists.asp">Top Lists</a></li-->
           <li><a href="/browsebrewers-A.htm">Brewers By Alpha</a></li>
@@ -137,26 +168,10 @@ input::-webkit-input-placeholder {
     </ul>
 
     <ul class="nav navbar-nav navbar-right">
+	
+		
 		<li><a href="/events">Events</a></li>
 		<li><a href="/users">Community</a></li>
-		<li class="dropdown ">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown">My Account <b class="caret"></b></a>
-			<ul class="dropdown-menu">
-			<li></li>
-			<li><a href="/user/0/">Profile</a></li>
-			<li><a href="/user/0/ratings/">Beer Ratings</a></li>
-			<li><a href="/user/0/places/">Place Ratings</a></li>
-			<li><a href="/inbox">Messages</a></li>
-			<li><a href="/activity">Activity</a></li>
-			<li><a href="/user/0/cellar/">Cellar</a></li>
-			<li><a href="/user/0/stats/">Stats</a></li>
-			<li><a href="/user/0/awards/">Awards</a></li>
-			<li class="divider"></li>
-			<li><a href="/places/mylocal.asp">My Local</a></li>
-			<li class="divider"></li>
-			<li><a href="/signout.asp">Sign Out</a></li>
-			</ul>
-		</li>
 		<li class="dropdown ">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
         <ul class="dropdown-menu">
@@ -173,7 +188,8 @@ input::-webkit-input-placeholder {
   </div><!-- /.navbar-collapse -->
 </nav>
 
-<div style="border: 1px solid #e0e0e0; width: 100%; margin: auto; text-align: center; white-space:nowrap;min-height: 60px;margin: 0px 0px 10px 0px;"><!-- header-leaderboard -->
+
+<div class="header-leaderboard"><!-- header-leaderboard -->
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ResponsiveAdBanner -->
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4822594167621467" data-ad-slot="3416692456" data-ad-format="auto"></ins>
