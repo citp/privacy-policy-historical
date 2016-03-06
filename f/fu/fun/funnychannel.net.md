@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnychannel.net privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814125621id_/http%3A//funnychannel.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnychannel.net privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306094532id_/http%3A//funnychannel.net/privacy) for the most accurate reproduction.*
 
 # funnychannel
 
