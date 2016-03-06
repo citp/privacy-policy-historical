@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the removethebackground.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106023154id_/http%3A//www.pixelz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the removethebackground.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306141153id_/http%3A//www.pixelz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pixelz
 
