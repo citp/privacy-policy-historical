@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119045605id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306044753id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
 
 # Serious Explorations' Privacy Policy
 
