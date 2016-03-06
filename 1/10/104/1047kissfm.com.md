@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1047kissfm.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212025312id_/http%3A//www.1047kissfm.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1047kissfm.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306230341id_/http%3A//www.1047kissfm.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | 104.7 KISS FM
 
-[Versión en Español](https://web.archive.org/web/20151212025312id_/http://www.1047kissfm.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](https://web.archive.org/web/20160306230341id_/http://www.1047kissfm.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
