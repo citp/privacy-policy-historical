@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907230302id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306035547id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Go Visit Costa Rica
+
+| 
 
 DELFINA TRAVEL GROUP, INC. – PRIVACY POLICY 
 
@@ -25,6 +27,8 @@ Once collected, we may use your Personally Identifiable Information in a variety
   * Sharing with our business partners to offer you products and services that may be of interest to you as described below
   * Sharing with third parties as required by law or to protect DELFINA as described below
   * Sharing your Email Address as permitted under DELFINA Email Policy as described below
+
+
 
 **Sharing your Personally Identifiable Information to Fulfill Service Requests.**   
 When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests.
@@ -68,4 +72,6 @@ If you are a registered user of the Sites, subscriber to DELFINA publications, o
 **No guarantee**  
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, DELFINA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services. If you have questions about this Privacy Policy, please [contact us](https://www.govisitcostarica.com/contactUs.asp). 
 
-Last updated: December 4, 2013 
+Last updated: November 23, 2015 
+
+| 
