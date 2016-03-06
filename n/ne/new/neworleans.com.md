@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy And Security - NewOrleans.com
 
@@ -6,29 +6,29 @@ _Updated June 5, 2013_
 
 NewOrleans.com takes the privacy of our site visitors and customers very seriously. On this page, we address what information we collect from you and how we use that information. If you have additional questions that are not answered here, please feel free to contact us at 504-309-1004.
 
-• [Information We Collect](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#collect)
+• [Information We Collect](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#collect)
 
-• [Information We Collect About You](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#aboutyou)
+• [Information We Collect About You](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#aboutyou)
 
-• [Other Information NewOrleans.com Collects](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#otherinfo)
+• [Other Information NewOrleans.com Collects](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#otherinfo)
 
-• [Information from Third-Party Sources](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#thirdparty)
+• [Information from Third-Party Sources](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#thirdparty)
 
-• [How NewOrleans.com Uses the Information We Collect](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#usesinfo)
+• [How NewOrleans.com Uses the Information We Collect](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#usesinfo)
 
-• [What You'll Receive from NewOrleans.com](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#what)
+• [What You'll Receive from NewOrleans.com](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#what)
 
-• [What Information does NewOrleans.com Share](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#shares)
+• [What Information does NewOrleans.com Share](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#shares)
 
-• [NewOrleans.com Products Offered on Other Sites](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#offered)
+• [NewOrleans.com Products Offered on Other Sites](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#offered)
 
-• [How NewOrleans.com Protects Your Information](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#protects)
+• [How NewOrleans.com Protects Your Information](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#protects)
 
-• [About This Policy](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#about)
+• [About This Policy](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#about)
 
-• [Accessing and Updating Your Information](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#accessing)
+• [Accessing and Updating Your Information](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#accessing)
 
-• [If You Have Questions](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#questions)
+• [If You Have Questions](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#questions)
 
 * * *
 
@@ -40,7 +40,7 @@ To better serve site visitors and customers, NewOrleans.com collects two basic t
 
 • **Aggregate user and tracking information:** This information gives us insights on how our customers and site visitors use our site and our other products. This data is anonymous in nature and does not contain any personally identifiable information. We use this information to ensure that our website, e-mails and marketing efforts continue to appeal to our customers.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -66,7 +66,7 @@ NewOrleans.com only collects personally identifiable information that you volunt
 
 Optional information, such as your age, gender, and ethnicity may also be requested for demographic purposes. NewOrleans.com only requires personally identifiable information from you when it's needed to complete your purchase, fulfill your order or request, or when you voluntarily decide to register as a member independent of a transaction.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -112,7 +112,7 @@ Information we measure, analyze and collect in this manner may include: your IP 
 
 Though some personally identifiable information may be collected in this process, the information collected is not used to track an individual's use through our website.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -124,7 +124,7 @@ This information can help us accurately fulfill orders or deliver purchase confi
 
 We also receive aggregate information such as page views, search terms and click-through information from sources, such as companies we advertise with.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -180,7 +180,7 @@ From time to time, NewOrleans.com may enter into agreements with third party pro
 
 NewOrleans.com does not bear any responsibility or liability for the actions or policies of third-party providers. If you prefer your web browsing patterns on the NewOrleans.com website to be tracked anonymously or if you prefer for your web browsing patterns to not be tracked in this way, please [**click here**](https://web.archive.org/web/20130502013308/http://www.neworleans.com/about-us/siteusage.html) for opt-out options.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -218,7 +218,7 @@ If you sign up for one of our marketing e-mails either directly, through the mem
 
 We only send these e-mails to site visitors and customers who sign up for one of our mailing lists or who agree to future contact regarding special promotions and offers from NewOrleans.com. These mailings contain clear information on how to unsubscribe, and we honor all requests as quickly as possible.
 
-If you are receiving e-mail from us and wish to unsubscribe, either follow the unsubscribe instructions in the e-mail, e-mail us, call us or send us a note via postal mail to inform us that you do not want to receive e-mail from our company. [Click here](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#contact) for our complete contact information.
+If you are receiving e-mail from us and wish to unsubscribe, either follow the unsubscribe instructions in the e-mail, e-mail us, call us or send us a note via postal mail to inform us that you do not want to receive e-mail from our company. [Click here](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#contact) for our complete contact information.
 
  **Postal mail**
 
@@ -228,7 +228,7 @@ NewOrleans.com may also send you postal mail notifications containing surveys, p
 
 If you send us or phone in a question or offer a suggestion, we will use your e-mail address, telephone number or postal address to respond to you.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -248,7 +248,7 @@ NewOrleans.com may also share aggregate information to service providers, busine
 
 In some instances, we may use outside companies to display ads and collect information on  our site. These ads may contain cookies for optimization purposes, and we do not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on site, other Web sites and other forms of media about goods and services of interest to you. If you would like more information, or to learn about opting-out of such advertising technologies, please visit: [ _http://www.networkadvertising.org/managing/opt_out.asp_](https://web.archive.org/web/20130502013308/http://www.networkadvertising.org/managing/opt_out.asp "blocked::http://www.networkadvertising.org/managing/opt_out.asp")
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -256,7 +256,7 @@ In some instances, we may use outside companies to display ads and collect info
 
 NewOrleans.com contains links to other sites as a convenience to our users. NewOrleans.com is not responsible for, and bears no liability for the privacy practices or contents of such sites.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -268,7 +268,7 @@ Personal data that you send or submit to us over the Internet is protected by Se
 
 NewOrleans.com is also digitally certified by Comodo, the leader in digital trust services. You can find verification of this certification on one of our secure pages, like our billing pages. Simply click on the key or lock image in the bottom bar of your browser window while on one of our secure pages. A window will appear with our site security information.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
@@ -278,15 +278,15 @@ The current NewOrleans.com privacy policy was posted April 1, 2011. NewOrleans.c
 
  **Special note:** Other sites that NewOrleans.com links to may collect your personally identifiable information. The privacy policies and information sharing practices of these websites is not covered within the NewOrleans.com privacy policy, and NewOrleans.com bears no responsibility or liability for the actions or policies of these links.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
  **Accessing and Updating Your Information**
 
-If you are receiving e-mail from us and wish to unsubscribe, either follow the unsubscribe instructions in the e-mail, e-mail us, call us or send us a note via postal mail to inform us that you do not want to receive e-mail from our company. [Click here](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#contact) for our complete contact information.
+If you are receiving e-mail from us and wish to unsubscribe, either follow the unsubscribe instructions in the e-mail, e-mail us, call us or send us a note via postal mail to inform us that you do not want to receive e-mail from our company. [Click here](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#contact) for our complete contact information.
 
-[back to top](https://web.archive.org/web/20150905214038id_/http%3A//www.neworleans.com/privacy.html#page)
+[back to top](https://web.archive.org/web/20160306030315id_/http%3A//www.neworleans.com/privacy.html#page)
 
 * * *
 
