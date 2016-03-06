@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoaffiliatex.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223104907id_/http%3A//www.autoaffiliatex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoaffiliatex.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306041103id_/http%3A//www.autoaffiliatex.com/privacy.html) for the most accurate reproduction.*
 
 # Auto Affiliate X - Privacy Policy
 
