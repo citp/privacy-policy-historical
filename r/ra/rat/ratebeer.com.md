@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratebeer.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222008id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratebeer.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306045654id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # RateBeer.com -- Privacy Policy
 
