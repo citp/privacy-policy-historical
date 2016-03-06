@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipesource.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020043824id_/http%3A//www.recipesource.com/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipesource.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306234051id_/http%3A//www.recipesource.com/admin/privacy.html) for the most accurate reproduction.*
 
 # RecipeSource: Our Site and Your Privacy
 
