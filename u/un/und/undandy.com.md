@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undandy.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204101538id_/http%3A//www.undandy.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undandy.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307103705id_/http%3A//www.undandy.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNDANDY › Bespoke Men's Shoes
 
@@ -37,21 +37,31 @@ ii. Unsubscribe, if you should subsequently decide that you no longer wish to re
 
 6\. How we use Cookies
 
-i. In order to make a visit to our site more attractive and to make it possible to use certain functions, we use what are known as cookies on various pages. These are small text files, which are stored in your terminal. Some of the cookies used by us are deleted at the end of a browser session, in other words once your browser has been switched off; these are known as session cookies. Other types of cookies remain on your terminal and allow us or our partner firms to recognise your browser the next time you visit our site (persistent cookies). You can configure your browser so that you will be informed of the placement of cookies and can decide on a case by case basis, whether to accept them or set your browser to refuse cookies generally or in certain cases. If a cookie is not accepted, the functionality of our web site may be restricted.
+i. You may choose to block the access to your computer by cookies, although you would be losing the benefits gained by using them.
 
-ii. Deactivation of cookies, guidance for the most commonly used browsers is set out below. You can find further guidance in your instruction manual or on the website of the browser manufacturer. If wish cookies to be activated only for certain websites - in this case for the UNDANDY online shop - please proceed as follows (e.g. using Internet Explorer):
+ii. By rejecting cookies, your ability to perform certain transactions on our site may be affected, as well as our web site’s ability to recognise your browser next time you visit.
 
-6.ii.1. Select the "Extras" function in the upper menu bar;
+iii. Your Internet browser may be configured in order to prompt you every time you may want to block a specific website from sending a cookie to your computer, or to completely prevent cookies from being accepted at all.
 
-6.ii.2. In the submenu click on "Internet options" and then on "Data Protection";
+iv. Undandy also works with vendors and partners who help deliver advertising and personalised content we think you might find of interest, by using cookies to collect information about your online activity on our own and on third party sites. For instance, by knowing you’ve visited a certain page within our web site, we may choose to show you an advertisement for a particular property, while you are browsing on a third party site. We may also choose to work with one of these partners in order to advertise our services to consumers whose online behaviour shows they might be interested in the Undandy offering.
 
-6.ii.3. In the lower section now select "Sites";
+v. You can opt out of any of these uses of cookies by our vendors, by visiting [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and[http://www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-6.ii.4. Next enter [www.undandy.com](http://www.undandy.com/) and click on "Allow";
+vi. In order to make a visit to our site more attractive and to make it possible to use certain functions, we use what are known as cookies on various pages. These are small text files, which are stored in your terminal. Some of the cookies used by us are deleted at the end of a browser session, in other words once your browser has been switched off; these are known as session cookies. Other types of cookies remain on your terminal and allow us or our partner firms to recognise your browser the next time you visit our site (persistent cookies). You can configure your browser so that you will be informed of the placement of cookies and can decide on a case by case basis, whether to accept them or set your browser to refuse cookies generally or in certain cases. If a cookie is not accepted, the functionality of our web site may be restricted.
 
-6.ii.5. Finally simply confirm with “OK ".
+vii. Deactivation of cookies, guidance for the most commonly used browsers is set out below. You can find further guidance in your instruction manual or on the website of the browser manufacturer. If wish cookies to be activated only for certain websites - in this case for the UNDANDY online shop - please proceed as follows (e.g. using Internet Explorer):
 
-7\. Right of revocation
+7.ii.1. Select the "Extras" function in the upper menu bar;
+
+7.ii.2. In the submenu click on "Internet options" and then on "Data Protection";
+
+7.ii.3. In the lower section now select "Sites";
+
+7.ii.4. Next enter [www.undandy.com](http://www.undandy.com/) and click on "Allow";
+
+7.ii.5. Finally simply confirm with “OK ".
+
+7.Right of revocation
 
 i. We send you by e-mail regular carefully selected offers for similar products from our range. You e-mail address will not be given to other companies; you can register your objection to the use of your e-mail address for promotional purposes at any time by sending an informal e-mail, without incurring any costs other than transmission costs at the basic rates.
 
@@ -69,7 +79,7 @@ i. On this website, a web analytics service provider called New Relic, collects 
 
 11\. Use of Facebook Social Plug-ins
 
-i. Our Internet presence uses social plug-ins from the [facebook.com](https://web.archive.org/web/20151204101538id_/http%3A//www.undandy.com/en/facebook.com) ("Facebook") social network. Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. Detailed guidance on the functions of the individual plug-ins and their appearance can be found on the following web site: <http://developers.facebook.com/docs/plugins/>
+i. Our Internet presence uses social plug-ins from the [facebook.com](https://web.archive.org/web/20160307103705id_/http%3A//www.undandy.com/en/facebook.com) ("Facebook") social network. Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. Detailed guidance on the functions of the individual plug-ins and their appearance can be found on the following web site: <http://developers.facebook.com/docs/plugins/>
 
 ii. Those web sites of our Internet presence, which contain Facebook social plug-ins, connect your browser directly to the Facebook servers, if you have opened them. In this way the information that you have called up the social plug-in page of our Internet offer is transmitted to Facebook.
 
