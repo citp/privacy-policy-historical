@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oanda.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906195702id_/http%3A//fxtrade.oanda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.co.uk privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307102352id_/http%3A//www.oanda.com/resources/legal/united-states/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OANDA fxTrade
+# Privacy Policy | OANDA
 
 ## A. Policy Statement
 
@@ -98,3 +98,5 @@ __Regular Mail: OANDA Privacy Mailbox, 46th Floor, 140 Broadway, New York, NY 10
 
   
 
+
+Trading FX and/or CFDs on margin are high risk and not suitable for everyone. Losses can exceed investment. 
