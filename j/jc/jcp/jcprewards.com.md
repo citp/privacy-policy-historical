@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jcprewards.com privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106184602id_/http%3A//www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcprewards.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307023615id_/http%3A//www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue) for the most accurate reproduction.*
 
 # privacy policy - JCPenney
 
-####  J. C. Penney Corporation, Inc. Privacy Policy (rev. 10/08/14)  
+####  J. C. Penney Corporation, Inc. Privacy Policy (rev. 7/24/15)  
   
 ---  
   
@@ -32,18 +32,19 @@ The following Privacy Policy applies to information collected by J. C. Penney Co
   
 We collect information from various sources, including from you, your transactions, your visits to our stores or websites, or your use of our mobile applications or in-store guest Wi-Fi service. We may also obtain information about you from third party sources.
 
-**information you provide -** When you interact with JCPenney, we collect information, including personal information, from you. Personal information is information that identifies you, for example, your name, physical and email addresses, telephone numbers, and your credit/debit card number, or driver’s license number. Examples of such interactions are:
+**information you provide -** When you interact with JCPenney, we collect information, including personal information, from you. Personal information is information that identifies you, such as your name, physical and email addresses, telephone numbers, and your credit/debit card number, or driver’s license number. Examples of such interactions are:
 
   * You make a purchase, return or exchange;
   * You create and use an account on one of our websites (e.g. a jcpenney.com account or a jcpenney rewards.com account/profile);
   * You sign up to receive coupons, sales alerts and promotional emails or text messages;
   * You join a loyalty program (e.g. JCPenney Rewards) or club;
-  * You participate in a contest, sweepstakes, promotion, survey or focus group;
+  * You participate in a contest, sweepstakes, promotion, survey or consumer research:
   * You create or update a gift registry, or a save for later list;
   * You submit a rating or review, or other user-generated content that may be posted to our website;
   * You request customer service or contact us;
-  * You apply for and open a JCPenney Credit Card account;
-  * You use JCPenney’s pages on social media sites (e.g. Facebook and Twitter); or
+  * You apply for a JCPenney Credit Card account;
+  * You use JCPenney’s pages on social media sites (e.g. Facebook and Twitter);
+  * You enable location-based functionalities through your mobile device, or when using the JCPenney mobile application; or
   * You ask us to ship an order to a gift recipient.
 
 
@@ -52,11 +53,11 @@ We collect information from various sources, including from you, your transactio
 
 We may also collect data that is publicly available. For example, information you submit in a public forum (e.g. a blog, chat room or social network) can be read, collected or used by us or others, and could be used to personalize your experience. You are responsible for the information you submit in those instances.
 
-**automated information collection -** When you visit our websites, use our mobile applications, or use our in-store guest Wi-Fi service, information is collected automatically.
+**automated information collection -** We and our service providers may automatically collect information when you visit our websites, use our mobile applications, or use our in-store guest Wi-Fi service.
 
-**our websites -** For example, we automatically collect such data as internet protocol (IP) address, device operating system and browser type, the address of the website you are coming from, if any, and the path you take through our website (e.g. the pages you look at and the items you click on).
+**our websites -** We and our service providers automatically collect such data as internet protocol (IP) address, device operating system and browser type, the address of the website you are coming from, if any, and the path you take through our website (e.g. the pages you look at and the items you click on).
 
-**our mobile application -** Automatically collected information includes, for example, the type of mobile device, operating system, and browser being used, the connection speed, any unique identifier assigned by us, the device manufacturer or your internet service provider for your device, the IP address of your device, time stamps, bar code or other information if you use the scanning feature, and information about the way you use our mobile applications. 
+**our mobile application -** We and our service providers automatically collect information such as  the type of mobile device, operating system, browser being used, the connection speed, any unique identifiers associated with advertising and analytics assigned by our service provider, the device manufacturer, or your internet service provider for your device,  the IP address of your device, time stamps, bar code or other information if you use the scanning feature, and information about the way you use our mobile applications. 
 
 **in-store guest Wi-Fi service -** We may make guest Wi-Fi service available to visitors to JCPenney stores. Some examples of information collected automatically in connection with that services, are:
 
@@ -66,17 +67,17 @@ We may also collect data that is publicly available. For example, information yo
 
 
 
-**cookies -** We or our service providers use “cookies” to recognize you as you use or return to our websites.  We or our service providers also may use “web beacons”, which allow us or them to know if a certain page was visited, an email was opened, or if ads on our website or other sites were effective. For more information, see the “cookies and other technologies” section below.
-
-**precise location information -** Our mobile applications collect precise, real-time information about the location of your device. You must first provide permission through your device before our mobile applications obtain such information from technologies such as GPS, Wi-Fi, or cell tower triangulation (or a combination of these technologies). We and our service providers may use this information to provide location-based services such as “store locator” or “find item in store.” You may opt-out from further allowing one of our mobile applications to have access to your location data by adjusting the permissions in your mobile device.
-
 Also, when you use the guest Wi-Fi service in our stores, we collect precise, real-time information about the location of your device.  If you do not wish this to occur, please refrain from using our in-store guest Wi-Fi service.
 
-**in-store cameras -** We use in-store cameras for security purposes and operational purposes such as   
+**cookies -** We or our service providers use “cookies” to recognize you as you use or return to our websites.  We or our service providers also may use pixel tags (also called "web beacons”), which allow us or them to know if a certain page was visited, an email was opened, or if ads on our website or other sites were effective. For more information, see the “cookies and other technologies” section below.
+
+**precise location information -** Our mobile applications collect precise, real-time information about the location of your device. You must first provide permission through your device before our mobile applications obtain such information from technologies such as GPS, Wi-Fi, or cell tower triangulation (or a combination of these technologies). We and our service providers may use this information to: provide location-based services such as “store locator” or “find item in store"; to improve your in-store experience in conjunction with our use of wireless beacons; or to provide location-based notifications about our products and services. You may opt-out from further allowing one of our mobile applications to have access to your location data by adjusting the permissions in your mobile device or uninstalling the application. 
+
+**in-store cameras -** We use in-store cameras for security purposes and operational purposes such as measuring traffic patterns.  
   
 **using the information we collect**  
   
-We use the information we collect to offer and provide our products and services and to carry out various business functions. We may combine or use the services of third party data companies to combine information about you that we collect online, in our stores, through mobile applications and from third party sources.  Examples of how that information is used include:
+We use the information we collect to offer, improve, and provide our products and services and to carry out various business functions. We may combine or use the services of third party companies to combine information about you that we collect online, in our stores, through mobile applications and from third party sources.  Examples of how that information is used include:
 
 **product and service fulfillment**
 
@@ -91,7 +92,7 @@ We use the information we collect to offer and provide our products and services
 **our marketing purposes**
 
   * To send information about our products, services, and promotions, such as direct mail, coupons, mobile text alerts, and emails;
-  * To provide interactive features of our websites and mobile applications, such as product ratings and reviews, share with a friend, find item in store, store ads, and store locator;
+  * To provide interactive features of our websites and mobile applications, such as product ratings and reviews, share with a friend, find item in store, store ads, push notifications, and store locator;
   * To identify product and service preferences, so our customers and visitors can be informed of new or additional products, services and promotions of possible interest; and
   * To administer contests, sweepstakes, promotions, surveys, and focus groups.
 
@@ -119,7 +120,7 @@ We use the information we collect to offer and provide our products and services
 
 **service providers -** We disclose or otherwise make available information we collect with other companies that help with our business operations.  Examples include providers of services related to e-mail communications, mobile marketing, analytics, product fulfillment, web hosting, and fraud detection; payment processors; or entities that help us market our products and services. For example, we share information with our international fulfillment service provider, Borderfree, for the purpose of facilitating the sale and fulfillment of online purchases that our customers choose to ship internationally.  We also provide information to Synchrony Bank and other service providers in connection with the JCPenney credit programs.
 
-**third party marketing -** We may provide information about you to third party companies or organizations.  These entities may use that information to market their products and services to you. To opt-out of such sharing go to the “your choices regarding the use of information we collect” section of this policy.
+**third-party marketing -** We may provide information about you to third party companies or organizations.  These entities may use that information to market their products and services to you. To opt-out of such sharing go to the “your choices regarding the use of information we collect” section of this policy.
 
 **registry partners -** If you create a gift registry, we will share your event information with our gift registry partners, such as The Knot and The Bump, and your event information will be accessible on our websites, through our mobile applications and in our stores.
 
@@ -133,32 +134,30 @@ We use the information we collect to offer and provide our products and services
   
 **our use of cookies and  other technologies**
 
-**cookies -** We and our service providers use "cookies" to collect and analyze information about your browsing and buying activity on our site (whether through the Internet or mobile applications). For instance, the data stored in cookies allows us and our service providers to understand how you clicked to our site and what pages you click on during your visit to our site, as well as how you use our mobile applications. Knowing how you prefer to shop allows us to improve your shopping experience.
+**"web browser" cookies -** A cookie is a small data file stored by your web browser on your computer or device. When you visit our websites, cookies allow us or our service providers to recognize you by an identification number in the cookie. **** We and our service providers use "cookies" to collect and analyze information about your browsing and buying activity on our site (whether through the Internet or mobile applications). For instance, the data stored in cookies allows us and our service providers to understand how you clicked to our site and what pages you click on during your visit to our site, as well as how you use our mobile applications. Knowing how you prefer to shop allows us to improve your shopping experience.
 
-A cookie is a small data file stored by your web browser on your computer or device. When you arrive atour website, cookies allow us or our services providers to recognize you by an identification number in the cookie. 
+If you use the privacy settings on your web browser to disable cookies, you can still browse our websites, but you may not have as exceptional a shopping experience as one that is specifically tailored to your needs. If you disable or block cookies, you will not be able to make purchases on our websites. 
 
-Accepting cookies through your web browser is your personal choice. If you use the privacy settings on your web browser to disable cookies, you can still browse our websites, but you may not have as exceptional a shopping experience as one that is specifically tailored to your needs. However, if you block cookies you will not be able to make a purchase on our websites.
+**pixel tag -  **A "pixel tag" (also called a web beacon or a clear gif) is a tiny graphic image placed on website pages and in emails, advertising and other marketing communications that allows us and our service providers to determine whether you have performed specific actions. When you access those pages or open email messages, or click on advertising, the pixel tags generate a notice of that action to us, or our service providers.  That information is used to analyze what our visitors like to do on our site or mobile applications, and the effectiveness of our features and advertising, as well as interactions with our e-mail and advertising.
 
-**web beacons -**  A “web beacon” (also called a pixel tag or a clear gif) is a tiny graphic image placed on website pages and in emails, advertising and other marketing communications that allows us and our service providers to determine whether you have performed specific actions. When you access those pages or open email messages, or click on advertising, the web beacons generate a notice of that action to us, or our service providers.  That information is used to analyze what our visitors like to do on our site or mobile applications, and the effectiveness of our features and advertising, as well as interactions with our e-mail and advertising.
+**wireless beacons**   \- A wireless beacon is a small device that we may use as part of our in-store experience. Wireless beacons broadcast a signal that can be received by compatible devices, such as a mobile phone or tablet, when those devices are within the proximity of the beacon. We and our service providers may use wireless beacons in conjunction with the JCPenney mobile application to personalize and enhance your in-store shopping experience and to understand your interests so that we can provide relevant notifications, offers, and promotions.
 
-**flash cookies  – **AFlash cookie (also known as a Local Shared Object) is a data file stored on your computer by the websites you visit using Adobe Flash technology, and is persistent (i.e. it does not go away when you exit your browser). We or our serviceproviders may use Flash cookies to enable or control Flash-based content and for other uses similar to those provided by the cookies discussed earlier in this section. Flash cookies are different from browser cookies.  You can manage the use of Flash cookies via the Settings Manager on Adobe’s website at <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.  You may also be able to manage them through your browser, depending on the version of the browser.
+**flash cookies  - **A flash cookie (also known as a Local Shared Object) is a data file stored on your computer by the websites you visit using Adobe Flash technology. Flash cookies are persistent, meaning that they do not go away when you exit your browser. While it may be possible to manage Flash cookies through your browser, depending on your browser version, you may choose to manage the use of Flash cookies via the Settings Manager on Adobe’s website at:  <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.  We and our service providers may use flash cookies to enable or control flash-based content, to detect or prevent fraud, and for other uses similar to those of webbrowser cookies discussed earlier in this section.
 
-**analytics services** - JCPenney uses third party analytics companies, such as IBM Digital Analytics, Google Analytics and Convertro, on its websites and mobile applications. These companies collect and analyze information about how people use the websites and applications, including information about browsing and buying activities. To perform some of these services, they may collect and use information from first- and third-party cookies. In addition, analytics companies, such as Google Analytics and Adobe Analytics, also provide services that analyze information regarding visits to certain portions of jcpenney.com that are operated for JCPenney by third parties, such as our Sports Fan Shop, Bali and Levolor blinds and shades pages, and personalized jewelry pages. They use cookies and web beacons to collect this information
+**analytics services** - JCPenney uses third party analytics companies, such as IBM Digital Analytics and Google Analytics to provide analysis of our customers’ website, mobile application, and in-store experiences. These companies collect and analyze information about how people interact with us through our web-based, mobile, and in-store media, including information about browsing and buying activities. To perform some of these services, they may collect and use information from first- and third-party cookies, from wi-fi, mobile applications, or in-store wireless beacons. In addition, analytics companies, such as Google Analytics and Adobe Analytics also provide services that analyze information collected from cookies and pixel tags (web beacons) regarding visits to certain portions of jcpenney.com that are operated for JCPenney by third parties, such as our Sports Fan Shop, Bali and Levolor blinds and shades pages, and personalized jewelry pages. 
 
   * To learn more about IBM Digital Analytics’ privacy practices, [click here](http://www.ibm.com/software/marketing-solutions/privacy/index.html). You may opt-out of data collection by IBM Digital Analytics on jcpenney.com by clicking on the opt-out choice set forth below.  Please note that this opt-out only applies to data collected on jcpenney.com and not to data that might be collected by IBM Digital Analytics on any other sites.
 
 
 
-_total opt-out_. Your data is not collected by IBM Digital Analytics data collection front-end servers, and consequently is not included in IBM Digital Analytics reporting.To opt-out, [click here](http://www88.jcpenney.com/privacy/privacy_handler.php?dest=http://www88.jcpenney.com/privacy/optout.html&act=opt_out).
+_total opt-out_. Your data is not collected by IBM Digital Analytics data collection front-end servers, and consequently is not included in IBM Digital Analytics reporting. To opt-out, [click here](http://www88.jcpenney.com/privacy/privacy_handler.php?dest=http://www88.jcpenney.com/privacy/optout.html&act=opt_out).
 
 _cancel opt-out_ setting will again allow IBM Digital Analytics to capture all web actions, and includes the data collected in IBM Digital Analytics reporting. To cancel opt-out, [click here](http://www88.jcpenney.com/privacy/privacy_handler.php?dest=http://www88.jcpenney.com/privacy/cancel.html&act=optin).
 
 [Click here to view your current IBM Digital Analytics opt-out status](http://www88.jcpenney.com/privacy/getStatus.php?bg=FFFFFFF&im=)
 
-  * To learn more about Google Analytics’ privacy practices and any opt-out choices it offers, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html).
-  * To learn more about Convertro’s privacy practices and any opt-out choices it offers, [click here](http://www.privacy.aol.com/).
-  
-  * To learn more about Adobe Analytics’ privacy practices or to opt out of cookies set to facilitate reporting by Adobe Analytics, [click here](http://www.omniture.com/en/privacy/policy).
+  * To learn more about Google Analytics’ privacy practices and any opt-out choices it offers, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html).  
+  * To learn more about Adobe Analytics’ privacy practices or to opt- out of cookies set to facilitate reporting by Adobe Analytics, [click here](http://www.omniture.com/en/privacy/policy).
 
 
 
@@ -173,7 +172,7 @@ To learn more about interest-based advertising and how to “opt-out” of inter
 **safeguarding the information we collect**  
 ---  
   
-We have physical, technical and procedural safeguards in place to protect the personal information we collect. Also we use Secure Socket Layering (SSL) technology to encrypt your credit or debit card information, including the account number, while it is transmitted over the Internet from your computer.  SSL is an industry standard technology for secure online transactions.  
+We have physical, technical and procedural safeguards in place to protect the personal information we collect. Also we use Secure Socket Layering (SSL) technology to encrypt your credit or debit card information, including the account number, while it is transmitted over the Internet from your computer.  SSL is an industry standard technology for secure online transactions. We also require service providers to have safeguards in place to protect the personal information that they collect, use, share, and store on our behalf.  
   
 **your choices regarding the use of the information we collect**  
   
@@ -203,7 +202,7 @@ Please note that even if you unsubscribe from promotional email offers and updat
 
 If you are currently receiving marketing text messages from JCPenney, you may tell us to stop sending them by using the opt-out functionality contained in the next marketing text message you receive. After we receive your opt-out, we will send you a final text message to confirm the opt-out.
 
-**sharing with other companiesfor their marketing purposes**
+**sharing with other companies for their marketing purposes**
 
 If you prefer that we:
 
@@ -287,7 +286,7 @@ We do not knowingly collect personally identifiable information from children un
 
 You may link to other sites from our websites.  Those sites have their own policies regarding privacy.  When you provide personal information at one of those sites, you are subject to the site operator’s privacy policy, not the JCPenney privacy policy. We encourage you to read that policy before submitting any personal information. 
 
-Our websites and our mobile applications include social media features, for example the Facebook Like button, and Facebook, Google Plus, Interest, and Twitter widgets. Social media features or widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.  
+Our websites and our mobile applications include social media features, for example the Facebook Like button, and Facebook, Google Plus, Interest, and Twitter widgets. Social media features or widgets are either hosted by a third - party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.  
   
 **international customer privacy**  
   
@@ -310,21 +309,18 @@ Customers shipping internationally should email us at [privacy@jcpenneyeservices
   
 **changes to this policy**  
   
-This policy was last updated on August 1, 2014 and October 8, 2014.
+This policy was last updated on July 24, 2015 and included the following changes:
 
-The August 1, 2014 revision updated the references to GE Capital Retail Bank to use its current name, Synchrony Bank.
-
-The October 8, 2014 revision included the following changes:
-
-  * Revision of the “the information we collect” section to provide more detail, including descriptions of the types of information collected automatically by mobile applications or in-store guest Wi-Fi service, new provisions regarding precise location data and in-store cameras.
-  * Revision of the “using the information we collect” section to improve the examples given. 
-  * Revision of the “information we share with others” section to add clarity as well as a provision regarding sharing with registry partners.
-  * A change in the location of the “cookies and other technologies” section and the addition of information regarding a new analytics service provider – Convertro.
-  * Addition of a provision regarding social media widgets.
+  * Revision of the “the information we collect” section to provide more detail such as: adding  a reference to “consumer research” in place of the term “focus group;” descriptions of the types of information that we or our service providers may collect or collect automatically, such as information about mobile devices and customers’ use of our mobile applications; and to include an additional use of and opt-out instructions related to location information.
+  * Revision of the “using the information we collect” section to include improving products and services and providing location-based and non-location-based notifications as uses for information.  
+  * Revision of the “information we share with others” section to add “location awareness” as a service for which we share information with our service providers.
+  * Revision of the “cookies and other technologies” section to clarify the types of cookies described in this section; to add the definition of and use for “wireless beacon;” and to clarify fraud detection and prevention among the uses for flash cookies; and to remove the reference to Convertro and its opt-out link. 
+  * Updating of the “safeguarding the information we collect” section regarding our service providers’ requirements.
+  * Revisions in hyphenation, text, or formatting to clarify, simplify and enhance the readability of this policy.
 
 
 
-We may change our privacy policy from time to time.  If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policyperiodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy, please:
+We may change our privacy policy from time to time.  If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policy periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy, please:
 
   * write to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX. 75301-7311, Attention: Corporate Customer Relations
   * call us at 1.800.322.1189
