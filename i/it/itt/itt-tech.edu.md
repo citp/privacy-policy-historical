@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the itt-tech.edu privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909144041id_/http%3A//www.itt-tech.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itt-tech.edu privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307224937id_/https%3A//www.itt-tech.edu/privacy.cfm) for the most accurate reproduction.*
 
-# ITT Tech: Privacy Policy
+# ITT Technical Institute | Privacy Policy
 
-The ITT Technical Institutes understand that security and privacy are important issues for visitors to their web site (the "Site") and recognizes their obligations to keep your information secure and confidential. That is why the ITT Technical Institutes maintain the following standards to help protect information that personally identifies you.
+ITT Technical Institute
+
+The ITT Technical Institutes understand that security and privacy are important issues for visitors to its web site (the "Site") and recognizes their obligations to keep your information secure and confidential. That is why the ITT Technical Institutes maintain the following standards to help protect information that personally identifies you.
 
 ## Sites Covered by this Policy
 
@@ -14,7 +16,7 @@ You may be asked to voluntarily provide your name, address, phone number, email 
 
 ## Use of Information
 
-ITT Tech uses your Personal Information for the following purposes: to process your requests; to administer and improve the Site and related services; to notify you of our offerings, services and products that maybe of interest to you; to provide Internet security; and to meet legal requirements. ITT Tech may work with associated businesses which may perform certain functions on our behalf, such as sending email messages, managing data, processing credit card payments or providing services to users. These businesses have access to your Personal Information only to the extent necessary to perform these specific functions and may not use it for any other purpose. We may use third party advertising companies to place ads on the Site and to place our ads on other web sites. If ITT Tech is involved in the sale of a substantial portion of its business assets, Anonymous or Personal Information maybe among the transferred assets.
+ITT Tech uses your Personal Information for the following purposes: to process your requests; to administer and improve the Site and related services; to notify you of our offerings, services and products that may be of interest to you; to provide Internet security; and to meet legal requirements. ITT Tech may work with associated businesses which may perform certain functions on our behalf, such as sending email messages, managing data, processing credit card payments or providing services to users. These businesses have access to your Personal Information only to the extent necessary to perform these specific functions and may not use it for any other purpose. We may use third party advertising companies to place ads on the Site and to place our ads on other web sites. If ITT Tech is involved in the sale of a substantial portion of its business assets, Anonymous or Personal Information may be among the transferred assets.
 
 ## Privacy of Children
 
@@ -50,4 +52,16 @@ We may modify this Policy at any time by posting a revised version of the Policy
 
 If you have any questions or comments about this Policy or wish to update your Personal Information provided to us, please contact us by clicking [here](https://web.archive.org/contact/). Please provide a concise communication with complete information, including your contact information.
 
-Effective 2011
+## California Do Not Track Disclosure
+
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. ITT Tech does not currently respond to these signals. Third parties, including our service providers, may collect information about your online activities over time and across different Web sites, including when you visit our Web site. Please refer to your browser instructions to learn more about how to exercise choice regarding the collection of information about your online activities over time and across third-party Web sites or online services. To learn more about these advertising practices or to opt out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/). 
+
+## Deletion Rights of Minors
+
+If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. Currently, ITT Tech does not publicly post any such content. 
+
+## Your California Privacy Rights
+
+California Civil Code permits customers of a business who are California residents to request that the business not share their personal information to third parties for their direct marketing purposes. Currently, ITT Tech does not share its customers' personal information to third parties for their direct marketing purposes. Please see the Sections entitled "Collection of Information", "Use of Information", "Your Opportunity to Opt-out of Email Advertising", and "Cookies" for additional information.
+
+Effective 2015
