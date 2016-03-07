@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231130949id_/http%3A//www.oanda.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307102352id_/https%3A//www.oanda.com/resources/legal/united-states/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OANDA
 
 ## A. Policy Statement
 
-OANDA Corporation respects customer privacy and is committed to protecting it. Customers can visit most pages on the OANDA website and mobile applications—and use all of the currency tools located on our site—without identifying themselves or providing any personal or financial information. However, if a customer wishes to open an fxTrade account, the law requires the customer to provide OANDA with certain non-public personal and financial information (referred to as “Personal Information”). The purpose of OANDA’s Privacy Policy is to explain OANDA’s privacy policy and practices and how customer Personal Information is collected, used, disclosed and maintained. 
+OANDA Corporation respects customer privacy and is committed to protecting it. Customers can visit most pages on the OANDA website and mobile applications —and use all of the currency tools located on our site—without identifying themselves or providing any personal or financial information. However, if a customer wishes to open an fxTrade account, the law requires the customer to provide OANDA with certain non-public personal and financial information (referred to as “Personal Information”). The purpose of OANDA’s Privacy Policy is to explain OANDA’s privacy policy and practices and how customer Personal Information is collected, used, disclosed and maintained.
 
 ## B. Categories of Personal Information OANDA Collects
 
@@ -32,7 +32,7 @@ OANDA may use Personal Information as necessary to:
 
 
 
-Personal Information collected online may be combined with other information customers provide to OANDA in hard copy or through the OANDA help desk. OANDA will not use or disclose or sell, rent or lease any Personal Information about its customers or former customers to any third parties except as stated in this Policy. Personal Information may be transferred across national borders for the purposes of data consolidation, storage and customer data management. 
+Personal Information collected online may be combined with other information customers provide to OANDA in hard copy or through the OANDA help desk. OANDA will not use or disclose or sell, rent or lease any Personal Information about its customers or former customers to any third parties except as stated in this Policy. Personal Information may be transferred across national borders for the purposes of data consolidation, storage and customer data management.
 
 ## D. Disclosure of Customer Personal Information
 
@@ -80,11 +80,15 @@ OANDA uses cookies and other tracking mechanisms to: (i) facilitate customer use
   
 The OANDA website may provide links to third-party websites for customer convenience and information. If customers decide to access those links, they will leave the OANDA website. OANDA does not control those third-party sites or their privacy practices, which may differ from OANDA's.  OANDA does not endorse or make any representations about third-party websites. Any Personal Information customers choose to give to unrelated third parties is not covered by OANDA’s privacy policy. Customers should review the privacy policy of any third-party website before submitting Personal Information. Some third-party companies may choose to share their personal data with OANDA. That sharing is governed by the disclosing company's privacy policy.
 
-## L. Notification of Privacy Policy and Policy Changes
+## L. Sharing Information with Our Affiliates
+
+_OANDA may share personal information described above with OANDA’s affiliates for business purposes, such as, but not limited to, servicing customer accounts and informing customers about new products and services. OANDA’s affiliates may include companies controlled or owned by us as well as companies that have an ownership interest in OANDA. The information we share with affiliates may include any of the information described above, such as your name, address, trading and account information. OANDA’s affiliates maintain the privacy of your information to the same extent OANDA does in accordance with this Policy._
+
+## M. Notification of Privacy Policy and Policy Changes
 
 _OANDA provides an initial notice of its Privacy Policy to customers at the time it establishes a customer relationship, and at least annually thereafter, and the Privacy Policy is posted on its website. Updates will be posted on the OANDA website, so our customers will always know what information we collect, how we use it, and what choices they have._
 
-## M. Contact Us
+## N. Contact Us
 
 OANDA values its customers’ opinions. If customers have comments or questions about OANDA’s Privacy Policy, they are invited to contact OANDA at:
 
@@ -94,3 +98,5 @@ __Regular Mail: OANDA Privacy Mailbox, 46th Floor, 140 Broadway, New York, NY 10
 
   
 
+
+Trading FX and/or CFDs on margin are high risk and not suitable for everyone. Losses can exceed investment. 
