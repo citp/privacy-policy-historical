@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distance-calculator.co.uk privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801191809id_/http%3A//www.distance-calculator.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distance-calculator.co.uk privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307070621id_/http%3A//www.distance-calculator.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
