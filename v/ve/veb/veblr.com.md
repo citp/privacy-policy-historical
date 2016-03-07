@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veblr.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206165008id_/http%3A//veblr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veblr.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307212627id_/http%3A//veblr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Veblr
 
