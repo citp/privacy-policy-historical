@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fajlami.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127173018id_/http%3A//www.fajlami.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fajlami.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307105202id_/http%3A//www.fajlami.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy- Fajlami Dot Com
+# Privacy Policy | Fajlami
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
