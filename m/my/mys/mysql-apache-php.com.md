@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql-apache-php.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213084402id_/http%3A//www.mysql-apache-php.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql-apache-php.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307204438id_/http%3A//www.mysql-apache-php.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
