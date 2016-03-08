@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostmyshop.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227073128id_/http%3A//www.boostmyshop.com/legal/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostmyshop.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309000848id_/http%3A//www.boostmyshop.com/legal/privacy-policy.pdf) for the most accurate reproduction.*
 
 # BoostMyShop.com Privacy Policy
 
