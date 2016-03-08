@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122125935id_/http%3A//www.covisint.com/enable/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308171956id_/http%3A//www.covisint.com/enable/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Covisint
-
- 
-
-[**Download a printable PDF of the Covisint Privacy Policy**](https://web.archive.org/app/uploads/Covisint_privacy_policy-FINAL-12.10.2014.pdf)
 
 This Privacy Policy (the “Policy”) sets forth Covisint Corporation’s (“Covisint”) policies regarding the collection and use of information relating to any Covisint or Covisint-affiliated web site. Covisint respects your right to privacy and is committed to protecting it. In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Policy is intended to inform you about the type(s) of information we gather and how we use it. The Policy applies to information collected by Covisint.
 
