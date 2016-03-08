@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupli.st privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923200311id_/http%3A//startupli.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupli.st privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308063235id_/http%3A//startupli.st/privacy) for the most accurate reproduction.*
 
 # StartupLi.st • Find. Follow. Recommend startups.
 
