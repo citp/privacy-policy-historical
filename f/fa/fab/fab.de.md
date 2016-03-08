@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fab.de privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908082430id_/http%3A//hem.com/en/privacy-policy/%3Fref%3Dhome.home.ft_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fab.de privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308061837id_/http%3A//hem.com/en/privacy-policy/%3Fref%3Dhome.home.ft_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hem.com
 
