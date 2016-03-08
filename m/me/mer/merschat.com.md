@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merschat.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503022742id_/http%3A//merschat.com/privacy-policy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merschat.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308212721id_/http%3A//merschat.com/privacy-policy.cgi) for the most accurate reproduction.*
 
 # Merschat.com. Privacy Policy
 
