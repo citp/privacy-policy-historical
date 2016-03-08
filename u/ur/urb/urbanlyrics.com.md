@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanlyrics.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226062627id_/http%3A//www.urbanlyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanlyrics.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308193602id_/http%3A//www.urbanlyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Urban Lyrics - Privacy Policy
 
@@ -41,4 +41,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
  **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20151226062627id_/http%3A//www.urbanlyrics.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20160308193602id_/http%3A//www.urbanlyrics.com/contact.html). 
