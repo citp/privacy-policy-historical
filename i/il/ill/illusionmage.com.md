@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illusionmage.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117115821id_/http%3A//www.illusionmage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illusionmage.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308014753id_/http%3A//www.illusionmage.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For IllusionMage
 
@@ -70,4 +70,4 @@ New Zealand
 
 This document may change as our site develops and grows, so please re-visit this page as often as you wish. 
 
-Please note changes to the [privacy policy ](https://web.archive.org/web/20151117115821id_/http%3A//www.illusionmage.com/privacy.htm), [disclaimers ](https://web.archive.org/web/20151117115821id_/http%3A//www.illusionmage.com/disclaimer.htm)or [terms and conditions ](https://web.archive.org/web/20151117115821id_/http%3A//www.illusionmage.com/disclaimer.htm) take effect immeditaly upon posting / become live on this site. Any further use of this website and the content encolsed within by yourself or someone under your direct care/supervision, indicates you have read and accept these complete documents. 
+Please note changes to the [privacy policy ](https://web.archive.org/web/20160308014753id_/http%3A//www.illusionmage.com/privacy.htm), [disclaimers ](https://web.archive.org/web/20160308014753id_/http%3A//www.illusionmage.com/disclaimer.htm)or [terms and conditions ](https://web.archive.org/web/20160308014753id_/http%3A//www.illusionmage.com/disclaimer.htm) take effect immeditaly upon posting / become live on this site. Any further use of this website and the content encolsed within by yourself or someone under your direct care/supervision, indicates you have read and accept these complete documents. 
