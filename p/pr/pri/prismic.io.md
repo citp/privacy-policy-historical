@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prismic.io privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317010551id_/https%3A//prismic.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prismic.io privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308075809id_/https%3A//prismic.io/legal/privacy) for the most accurate reproduction.*
 
 # prismic.io | Privacy Policy
 
