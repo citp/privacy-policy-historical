@@ -1,21 +1,23 @@
-<!--The following is the downloaded HTML source of the fab.de privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908082430id_/http%3A//hem.com/en/privacy-policy/%3Fref%3Dhome.home.ft_privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fab.de privacy policy that was archived on 2016-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160308061837id_/http%3A//hem.com/en/privacy-policy/%3Fref%3Dhome.home.ft_privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
-<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWF7RF&amp;l=__dataLayer"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1e5214472c","applicationID":"5134624","transactionName":"IAxYTEdZWAhcQR9EVQFMRUxUQl0HFkNCWkYCAE9nRVlYDVpK","queueTime":0,"applicationTime":75,"agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwADUFRaGwYBV1VUBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWF7RF&amp;l=__dataLayer"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1e5214472c","applicationID":"5134624","transactionName":"IAxYTEdZWAhcQR9EVQFMRUxUQl0HFkNCWkYCAE9nRVlYDVpK","queueTime":0,"applicationTime":79,"agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwADUFRaGwYBV1VUBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
   <title>Privacy Policy | Hem.com</title>
   <meta name="description" content="Hem’s Privacy Policy">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <meta name="robots" content="">
+  <meta name="robots" content="index, follow">
+
+
 
   <link rel="canonical" href="http://hem.com/en/privacy-policy/">
 
-  <link rel="alternate" hreflang="en-GB" href="http://hem.com/en-gb/privacy-policy/">
-  <link rel="alternate" hreflang="en" href="http://hem.com/en/privacy-policy/">
-  <link rel="alternate" hreflang="de" href="http://hem.com/de/datenschutzbestimmungen/">
-  <link rel="alternate" hreflang="fr" href="http://hem.com/fr/politique-de-confidentialite/">
+    <link rel="alternate" hreflang="en-GB" href="http://hem.com/en-gb/privacy-policy/">
+    <link rel="alternate" hreflang="en" href="http://hem.com/en/privacy-policy/">
+    <link rel="alternate" hreflang="de" href="http://hem.com/de/datenschutzbestimmungen/">
+    <link rel="alternate" hreflang="fr" href="http://hem.com/fr/politique-de-confidentialite/">
 
 
   <!--<link rel="apple-touch-icon" href="touch-icon-iphone.png">-->
@@ -27,13 +29,15 @@
   <link rel="icon" href="//d1w8j6pmwcehqo.cloudfront.net/hem-splash/favicon/favicon_32.png" type="image/png" sizes="32x32">
   <link rel="icon" href="//d1w8j6pmwcehqo.cloudfront.net/hem-splash/favicon/favicon_64.png" type="image/png" sizes="64x64">
 
-  <link debug="true" href="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/application-f29f34baf154d10a39c9924d553d770f.css" media="all" rel="stylesheet">
-  <link href="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/web/static-761f43c8f871cf3482292cce45b5e338.css" media="all" rel="stylesheet">
+  <link debug="true" href="http://dobh2i31sc69j.cloudfront.net/assets/css-js/us/application-04131ccd09199bce50929fd26b6705d0.css" media="all" rel="stylesheet">
+  <link href="http://dobh2i31sc69j.cloudfront.net/assets/css-js/us/web/static-7313535b457c121ae6c042e71a1f0117.css" media="all" rel="stylesheet">
 
   
   <meta content="authenticity_token" name="csrf-param">
-<meta content="dY+skshHuiO1mqCLOxx04AJ2o4sCMX3d+eXiYfpOUw0=" name="csrf-token">
+<meta content="Ofot7NUIHD6PFdM4GsO73xTY9te1MGAiNBWlMpPs0oQ=" name="csrf-token">
   
+
+
 </head>
 <body data-spy="scroll" data-target=".nomad" data-offset="55" class="device-device_info current_lan en">
 <style>
@@ -58,11 +62,15 @@
 <div class="row hem-header">
 
 <!--Invite Header Wrapper Start -->
-    <div class="hidden-xs hidden-sm hidden-md col-lg-64 invite-contain-div">
-        <a href="/en/invite-friends/?ref=stl.privacy_policy.hd_invites" class="invite-friend-link" data-key-name="header.invite_link_text">
-        Invite Friends &amp; Earn Free Design
-        </a>
-    </div>
+
+<div class="free-shiping-container">
+  <div class="hidden-xs hidden-sm col-md-64 col-lg-64 invite-contain-div ">
+    <a href="javascript:void(0)" data-toggle="modal" data-target="#free-shipping-modal" class="free-shiping-site-header invite-friend-link" data-key-name="header.free_shiping_site_text">
+     Free shipping over $75*
+  </a>
+</div>
+</div>
+
 <!--Invite Header Wrapper End-->
 
 <div class="col-xs-offset-0 col-sm-offset-1  col-md-offset-2 col-xs-64 col-sm-10 col-md-8 col-lg-8 col-xl-8">
@@ -72,11 +80,12 @@
       <span style="margin-top: 13px;" class="hem-icon hem-burger"></span>
     </a>
     <div class="text-center">
-      <a itemtype="http://schema.org/Organization" itemprop="url" id="hemHeaderLogo" href="/">
-        <img class="hem-log" alt="Hem.com" src="//d1w8j6pmwcehqo.cloudfront.net/hem-splash/hem_logo_black_small_@2x.png?v=4">
+      <a itemtype="http://schema.org/Organization" itemprop="url" id="hemHeaderLogo" href="/?ref=stl.privacy_policy.mob_subnav_home">
+        <img class="hem-log" alt="Hem.com" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/hem_black_logo-lg.png">
       </a>
             <span class="hidden-sm hidden-md hidden-lg hidden-lg floatRight cartIconXS subnavCart">
               <a href="http://hem.com/en/cart/?ref=stl.privacy_policy.cart_sub">
+                <span class="hem-icon hem-cart-icon green-percent-icon-small hidden"></span>
                 <span class="quantity_update"> Cart</span>
               </a>
             </span>
@@ -93,57 +102,65 @@
     <!-- First Ul Start -->
     <ul class="nav navbar-nav hoverStyling auto-adjust-subnav hidden-md hidden-lg hidden-xl hidden-sm">
       
+  <li class="subnavDropDown dropdown subnavPopular hidden-sm hidden-md hidden-lg hidden-xl">
+    <a class="cus-dropdown-toggle" href="/?ref=stl.privacy_policy.mob_sidenav_home" data-key-name="header.test_sub_nav.home">Home</a>
+  </li>
+
   <li class="subnavDropDown dropdown subnavPopular">
-    <a class="cus-dropdown-toggle" href="/en/popular-products/?ref=stl.privacy_policy.popular_sub"> Recent Purchases
+    <a class="cus-dropdown-toggle" href="/en/popular-products/?ref=stl.privacy_policy.popular_sub" data-key-name="header.test_sub_nav.popular"> Trending
       <b class="caret hidden-xs" style="visibility: hidden"></b>
     </a>
   </li>
 
   <li class="dropdown subnavDropDown subnavFeatured">
-    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFeaturedDropdown">Featured
+    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFeaturedDropdown" data-key-name="header.test_sub_nav.featured">Featured
       <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
     </a>
     <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-      <li><a href="/en/shop/make-room-for-color/?ref=stl.privacy_policy.featured_sub">Summer Colors</a></li>
-      <li><a href="/en/shop/fresh-new-fabrics/?ref=stl.privacy_policy.featured_sub">Fresh New Fabrics</a></li>
-      <li><a href="/en/shop/the-key-tables/?ref=stl.privacy_policy.featured_sub">The Key Tables</a></li>
-      <li><a href="/en/shop/the-bentos/?ref=stl.privacy_policy.featured_sub">The Bentos</a></li>
+           <li><a href="/en/shop/host/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position2.text_to_dispaly">Host</a></li>
+           <li><a href="/en/shop/dine/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position3.text_to_dispaly">Dine</a></li>
+           <li><a href="/en/shop/relax/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position4.text_to_dispaly">Relax</a></li>
+           <li><a href="/en/shop/snuggle-up/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position5.text_to_dispaly">Snuggle Up</a></li>
       <!--<li><a href="/en/shop/rediscover-cork/?ref=stl.privacy_policy.featured_sub">Rediscover Cork</a></li>-->
     </ul>
   </li>
 
     <li class="dropdown subnavDropDown subnavFurniture">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFurnitureDropdown">Furniture
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFurnitureDropdown" data-key-name="header.test_sub_nav.furniture">Furniture
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
         <!--<li><a href="/en/shop/shelves/?ref=stl.privacy_policy.fur_sub">Shelving</a></li>-->
         <!---->
-        <li><a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub">Seating</a></li>
-        <li><a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub">Tables</a></li>
-        <li><a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub">Storage &amp; Shelving</a></li>
-        <li><a href="/en/customize/?ref=stl.privacy_policy.cust_sub">Customize</a></li>
+        <li><a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub" data-key-name="header.header_tray_shop_new.seating">Seating</a></li>
+        <li><a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub" data-key-name="header.header_tray_shop_new.tables">Tables</a></li>
+        <li><a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub" data-key-name="header.header_tray_shop_new.shelving_storage">Storage &amp; Shelving</a></li>
+        <li><a href="/en/shop/furniture/?ref=stl.privacy_policy.cust_sub" data-key-name="header.test_sub_nav_tray_back_link.all_furniture">All Furniture</a></li>
       </ul>
     </li>
 
     <li class="dropdown subnavDropDown subnavLighting">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionLightingDropdown">Lighting
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionLightingDropdown" data-key-name="header.test_sub_nav.lighting">Lighting
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub">Kuu</a></li>
-        <li><a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub">Levels</a></li>
+        <li><a href="/en/shop/alphabeta/?ref=stl.privacy_policy.light_sub" data-key-name="header.header_tray_shop_new.alphabeta_lighting">Alphabeta</a></li>
+        <li><a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub" data-key-name="header.header_tray_shop_new.kuu_lamp">Kuu</a></li>
+        <li><a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub" data-key-name="header.header_tray_shop_new.levels_lamp">Levels</a></li>
+        <li><a href="/en/shop/lighting/?ref=stl.privacy_policy.light_sub" data-key-name="header.test_sub_nav_tray_back_link.all_lighting">All Lighting</a></li>
       </ul>
     </li>
 
     <li class="dropdown subnavDropDown subnavAccessories">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionAccessoriesDropdown">Accessories
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionAccessoriesDropdown" data-key-name="header.test_sub_nav.accessories">Accessories
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub">Pillows &amp; Throws</a></li>
-        <li><a href="/en/shop/home-accents/?ref=stl.privacy_policy.acc_sub">Home Accents</a></li>
-        <li><a href="/en/shop/personal/?ref=stl.privacy_policy.acc_sub">Personal</a></li>
+        <li><a href="/en/shop/living-accessories/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.living">Living</a></li>
+        <li><a href="/en/shop/dining-accessories/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.dining">Dining</a></li>
+        <li><a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.cushions_throws">Pillows &amp; Throws</a></li>
+          <li><a href="/en/shop/bags/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.personal">Bags</a></li>
+        <li><a href="/en/shop/accessories/?ref=stl.privacy_policy.acc_sub" data-key-name="header.test_sub_nav_tray_back_link.all_accessories">All Accessories</a></li>
         <!--<li><a href="/en/shop/design-objects/?ref=stl.privacy_policy.acc_sub">Design Objects</a></li>-->
         <!--<li><a href="/en/shop/organization/?ref=stl.privacy_policy.acc_sub">Organization</a></li>-->
         <!--<li><a href="/en/shop/wall-decor/?ref=stl.privacy_policy.acc_sub">Wall Decor</a></li>-->
@@ -152,21 +169,24 @@
     </li>
 
     <li class="dropdown subnavDropDown subnavRugs">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionRugsDropdown">Rugs
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionRugsDropdown" data-key-name="header.test_sub_nav.rugs">Rugs
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub">Basketweave</a></li>
-        <li><a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub">Bliss Wool</a></li>
-        <li><a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub">Geo Outline</a></li>
+        <li><a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.basketweave">Basketweave</a></li>
+        <li><a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.bliss_wool">Bliss Wool</a></li>
+        <li><a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.geo_outline">Geo Outline</a></li>
+        <li><a href="/en/shop/rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.all_rugs">All Rugs</a></li>
       </ul>
     </li>
 
 
-  <li class="dropdown subnavDropDown subnavCustomize"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionCustomizeDropdown">Customize
+  <li class="dropdown subnavDropDown subnavCustomize hidden"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionCustomizeDropdown" data-key-name="header.test_sub_nav.customize">Customize
     <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span></a>
     <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-      <li><a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub">Storage</a></li>
+      <li><a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub" data-key-name="header.header_tray_customize.caption1">Storage</a></li>
+      <li><a href="/en/alphabeta/?ref=stl.privacy_policy.cust_sub" data-key-name="header.header_tray_shop_new.lighting_custom">Lighting</a></li>
+      <li><a href="/en/customize/?ref=stl.privacy_policy.cust_sub" data-key-name="header.test_sub_nav_tray_back_link.all_custom">Learn More About<br>Hem Custom Furniture</a></li>
     </ul>
   </li>
 
@@ -185,7 +205,7 @@
 
         <!--SM Specific Designer , About , Invite Friends and Retail Partners Start-->
         <li class=" subNavHeaderStyling dropdown  btn-group hidden-xs hidden-md hidden-lg hidden-xl">
-          <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
+          <a href="javascript:void(0)" class="dropdown-toggle nav-dropdown" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
             About
             <b class="caret hidden-xs"></b>
           </a>
@@ -200,11 +220,7 @@
                 Designers
               </a>
             </li>
-            <li>
-              <a href="/en/stores/?ref=stl.privacy_policy.hd_store" class="dropdown_menu_content" data-key-name="header.about_contain.store">
-                Stores
-              </a>
-            </li>
+
 
                 <li>
                   <a href="/en/invite-friends/?ref=stl.privacy_policy.hd_invites" class="dropdown_menu_content" data-key-name="header.about_contain.invite_friends">
@@ -221,6 +237,31 @@
           </ul>
         </li>
         <!--SM Specific Designer , About , Invite Friends and Retail Partners Start-->
+        <li class="hidden-till-ipad subnav-unsaved-design subNavHeaderStyling dropdown">
+          <a id="unsavedDesigns" class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+            <span class="quantity_update" data-key-name="header.user_engagement.saved_design_heading"> Saved Design (1)</span>
+            <b class="caret hidden-xs"></b>
+          </a>
+          <ul class="dropdown-menu unsaved-design-content">
+            <li role="presentation" class="unsaved-product-details jUnsavedProductDetails">
+              <div class="row">
+                <div class="col-sm-20">
+                  <img class="img-responsive jUnsavedImageHolder" src="" alt="product">
+                </div>
+                <div class="col-sm-30 ">
+                  <div class="productName text-3 break-all-word jUnsavedProductName" style="white-space: normal"></div>
+                </div>
+                <div class="productPrices text-3 "><span class="pull-right jUnsavedProductPrice"></span></div>
+              </div>
+            </li>
+            <li class="heading-4 unsaved-product-message" data-key-name="header.user_engagement.description_message"> We saved your last configuration for you so you can continue working on your design. </li>
+            <li>
+                <a href="" class="unsaved-design-continue-button jUnsavedDesignContinue">
+                    <button class="btn btn-default" data-key-name="header.user_engagement.continue_button">Continue</button>
+                </a> 
+            </li>        
+          </ul>
+        </li>
 
         <li class="hidden-xs subNavHeaderStyling dropdown">
                 <a class="sing-in-link" href="/en/signup/?ref=stl.privacy_policy.hd_signup">Sign Up</a>
@@ -228,6 +269,7 @@
 
         <li class="hidden-xs subnavCart subNavHeaderStyling dropdown">
           <a id="cartOnweb" class="dropdown-toggle" data-cart-section="?ref=stl.privacy_policy.cart_sub" data-toggle="dropdown" href="javascript:void(0);">
+            <span class="hem-icon hem-cart-icon  green-percent-icon-small hidden"></span>
             <span class="quantity_update"> Cart</span>
             <b class="caret hidden-xs"></b>
           </a>
@@ -245,12 +287,6 @@
         <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown dropdown subnavDesigner">
           <a class="cus-dropdown-toggle" href="/en/designers/?ref=stl.privacy_policy.des_sub">
             Designers
-          </a>
-        </li>
-
-        <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown dropdown subnavStores">
-          <a class="cus-dropdown-toggle" href="/en/stores/?ref=stl.privacy_policy.hd_store" data-key-name="header.about_contain.store">
-            Stores
           </a>
         </li>
 
@@ -276,57 +312,65 @@
     <div class="auto-adjust-subnav">
       <ul class="nav navbar-nav hoverStyling floatLeft browse_links">
         
+  <li class="subnavDropDown dropdown subnavPopular hidden-sm hidden-md hidden-lg hidden-xl">
+    <a class="cus-dropdown-toggle" href="/?ref=stl.privacy_policy.mob_sidenav_home" data-key-name="header.test_sub_nav.home">Home</a>
+  </li>
+
   <li class="subnavDropDown dropdown subnavPopular">
-    <a class="cus-dropdown-toggle" href="/en/popular-products/?ref=stl.privacy_policy.popular_sub"> Recent Purchases
+    <a class="cus-dropdown-toggle" href="/en/popular-products/?ref=stl.privacy_policy.popular_sub" data-key-name="header.test_sub_nav.popular"> Trending
       <b class="caret hidden-xs" style="visibility: hidden"></b>
     </a>
   </li>
 
   <li class="dropdown subnavDropDown subnavFeatured">
-    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFeaturedDropdown">Featured
+    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFeaturedDropdown" data-key-name="header.test_sub_nav.featured">Featured
       <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
     </a>
     <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-      <li><a href="/en/shop/make-room-for-color/?ref=stl.privacy_policy.featured_sub">Summer Colors</a></li>
-      <li><a href="/en/shop/fresh-new-fabrics/?ref=stl.privacy_policy.featured_sub">Fresh New Fabrics</a></li>
-      <li><a href="/en/shop/the-key-tables/?ref=stl.privacy_policy.featured_sub">The Key Tables</a></li>
-      <li><a href="/en/shop/the-bentos/?ref=stl.privacy_policy.featured_sub">The Bentos</a></li>
+           <li><a href="/en/shop/host/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position2.text_to_dispaly">Host</a></li>
+           <li><a href="/en/shop/dine/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position3.text_to_dispaly">Dine</a></li>
+           <li><a href="/en/shop/relax/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position4.text_to_dispaly">Relax</a></li>
+           <li><a href="/en/shop/snuggle-up/?ref=stl.privacy_policy.featured_sub" data-key-name="featured_navigation.position5.text_to_dispaly">Snuggle Up</a></li>
       <!--<li><a href="/en/shop/rediscover-cork/?ref=stl.privacy_policy.featured_sub">Rediscover Cork</a></li>-->
     </ul>
   </li>
 
     <li class="dropdown subnavDropDown subnavFurniture">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFurnitureDropdown">Furniture
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionFurnitureDropdown" data-key-name="header.test_sub_nav.furniture">Furniture
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
         <!--<li><a href="/en/shop/shelves/?ref=stl.privacy_policy.fur_sub">Shelving</a></li>-->
         <!---->
-        <li><a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub">Seating</a></li>
-        <li><a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub">Tables</a></li>
-        <li><a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub">Storage &amp; Shelving</a></li>
-        <li><a href="/en/customize/?ref=stl.privacy_policy.cust_sub">Customize</a></li>
+        <li><a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub" data-key-name="header.header_tray_shop_new.seating">Seating</a></li>
+        <li><a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub" data-key-name="header.header_tray_shop_new.tables">Tables</a></li>
+        <li><a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub" data-key-name="header.header_tray_shop_new.shelving_storage">Storage &amp; Shelving</a></li>
+        <li><a href="/en/shop/furniture/?ref=stl.privacy_policy.cust_sub" data-key-name="header.test_sub_nav_tray_back_link.all_furniture">All Furniture</a></li>
       </ul>
     </li>
 
     <li class="dropdown subnavDropDown subnavLighting">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionLightingDropdown">Lighting
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionLightingDropdown" data-key-name="header.test_sub_nav.lighting">Lighting
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub">Kuu</a></li>
-        <li><a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub">Levels</a></li>
+        <li><a href="/en/shop/alphabeta/?ref=stl.privacy_policy.light_sub" data-key-name="header.header_tray_shop_new.alphabeta_lighting">Alphabeta</a></li>
+        <li><a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub" data-key-name="header.header_tray_shop_new.kuu_lamp">Kuu</a></li>
+        <li><a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub" data-key-name="header.header_tray_shop_new.levels_lamp">Levels</a></li>
+        <li><a href="/en/shop/lighting/?ref=stl.privacy_policy.light_sub" data-key-name="header.test_sub_nav_tray_back_link.all_lighting">All Lighting</a></li>
       </ul>
     </li>
 
     <li class="dropdown subnavDropDown subnavAccessories">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionAccessoriesDropdown">Accessories
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionAccessoriesDropdown" data-key-name="header.test_sub_nav.accessories">Accessories
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub">Pillows &amp; Throws</a></li>
-        <li><a href="/en/shop/home-accents/?ref=stl.privacy_policy.acc_sub">Home Accents</a></li>
-        <li><a href="/en/shop/personal/?ref=stl.privacy_policy.acc_sub">Personal</a></li>
+        <li><a href="/en/shop/living-accessories/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.living">Living</a></li>
+        <li><a href="/en/shop/dining-accessories/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.dining">Dining</a></li>
+        <li><a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.cushions_throws">Pillows &amp; Throws</a></li>
+          <li><a href="/en/shop/bags/?ref=stl.privacy_policy.acc_sub" data-key-name="header.header_tray_shop_new.personal">Bags</a></li>
+        <li><a href="/en/shop/accessories/?ref=stl.privacy_policy.acc_sub" data-key-name="header.test_sub_nav_tray_back_link.all_accessories">All Accessories</a></li>
         <!--<li><a href="/en/shop/design-objects/?ref=stl.privacy_policy.acc_sub">Design Objects</a></li>-->
         <!--<li><a href="/en/shop/organization/?ref=stl.privacy_policy.acc_sub">Organization</a></li>-->
         <!--<li><a href="/en/shop/wall-decor/?ref=stl.privacy_policy.acc_sub">Wall Decor</a></li>-->
@@ -335,21 +379,24 @@
     </li>
 
     <li class="dropdown subnavDropDown subnavRugs">
-      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionRugsDropdown">Rugs
+      <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionRugsDropdown" data-key-name="header.test_sub_nav.rugs">Rugs
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub">Basketweave</a></li>
-        <li><a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub">Bliss Wool</a></li>
-        <li><a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub">Geo Outline</a></li>
+        <li><a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.basketweave">Basketweave</a></li>
+        <li><a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.bliss_wool">Bliss Wool</a></li>
+        <li><a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.geo_outline">Geo Outline</a></li>
+        <li><a href="/en/shop/rugs/?ref=stl.privacy_policy.rugs_sub" data-key-name="header.header_tray_shop_new.all_rugs">All Rugs</a></li>
       </ul>
     </li>
 
 
-  <li class="dropdown subnavDropDown subnavCustomize"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionCustomizeDropdown">Customize
+  <li class="dropdown subnavDropDown subnavCustomize hidden"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionCustomizeDropdown" data-key-name="header.test_sub_nav.customize">Customize
     <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span></a>
     <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-      <li><a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub">Storage</a></li>
+      <li><a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub" data-key-name="header.header_tray_customize.caption1">Storage</a></li>
+      <li><a href="/en/alphabeta/?ref=stl.privacy_policy.cust_sub" data-key-name="header.header_tray_shop_new.lighting_custom">Lighting</a></li>
+      <li><a href="/en/customize/?ref=stl.privacy_policy.cust_sub" data-key-name="header.test_sub_nav_tray_back_link.all_custom">Learn More About<br>Hem Custom Furniture</a></li>
     </ul>
   </li>
 
@@ -362,7 +409,7 @@
       <ul class="nav navbar-nav hoverStyling floatRight extra_links ">
 
         <li class="subnavDropDown dropdown  btn-group hidden-sm hidden-md hidden-xs">
-          <a href="javascript:void(0)" class="dropdown-toggle" style="padding-right: 0px;" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
+          <a href="javascript:void(0)" class="dropdown-toggle nav-dropdown" style="padding-right: 0px;" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
             About
             <b class="caret hidden-xs"></b></a>
           <ul class="dropdown-menu about">
@@ -374,11 +421,6 @@
             <li>
               <a href="/en/designers/?ref=stl.privacy_policy.des_sub" class="dropdown_menu_content" data-key-name="header.designer_header">
                 Designers
-              </a>
-            </li>
-            <li>
-              <a href="/en/stores/?ref=stl.privacy_policy.hd_store" class="dropdown_menu_content" data-key-name="header.about_contain.store">
-                Stores
               </a>
             </li>
 
@@ -387,7 +429,7 @@
 
         <!--About Section Visible only md break point Start-->
         <li class="subnavDropDown dropdown  btn-group hidden-sm hidden-lg hidden-xl">
-          <a href="javascript:void(0)" class="dropdown-toggle" style="padding-right: 0px;" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
+          <a href="javascript:void(0)" class="dropdown-toggle nav-dropdown" style="padding-right: 0px;" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
             About
             <b class="caret hidden-xs"></b></a>
           <ul class="dropdown-menu about">
@@ -399,11 +441,6 @@
             <li>
               <a href="/en/designers/?ref=stl.privacy_policy.des_sub" class="dropdown_menu_content" data-key-name="header.designer_header">
                 Designers
-              </a>
-            </li>
-            <li>
-              <a href="/en/stores/?ref=stl.privacy_policy.hd_store" class="dropdown_menu_content" data-key-name="header.about_contain.store">
-                Stores
               </a>
             </li>
 
@@ -430,6 +467,7 @@
 <!-- Browser link div end -->
 
 </div>
+  
 </div>
 
 </nav>
@@ -440,122 +478,121 @@
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionFeaturedDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/shop/make-room-for-color/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-spring-colors-xl.png" alt="Spring Colors"> <div>Summer Colors</div> </a>
+    <a href="/en/shop/host/?ref=stl.privacy_policy.featured_sub" title="Host"><img class="img-responsive" data-key-img-url="featured_navigation.position2.image_name" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/nav_featured_host_image_nov_15-lg.png" alt="Host"><div data-key-name="featured_navigation.position2.text_to_dispaly">Host</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/fresh-new-fabrics/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-fresh-fabrics-xl.png" alt="Fresh Fabrics"> <div>Fresh New Fabrics</div> </a>
+    <a href="/en/shop/dine/?ref=stl.privacy_policy.featured_sub" title="Dine"><img class="img-responsive" data-key-img-url="featured_navigation.position3.image_name" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/global_nav_featured_table_ab_image-lg.png" alt="Dine"><div data-key-name="featured_navigation.position3.text_to_dispaly">Dine</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/the-key-tables/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-key-table-xl.png" alt="Key Table"> <div>The Key Tables</div> </a>
+    <a href="/en/shop/relax/?ref=stl.privacy_policy.featured_sub" title="Relax"><img class="img-responsive" data-key-img-url="featured_navigation.position4.image_name" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/global_nav_featured_read_image-lg.png" alt="Relax"><div data-key-name="featured_navigation.position4.text_to_dispaly">Relax</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/the-bentos/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-bento-collection-xl.png" alt="Bento Collection"> <div>The Bentos</div> </a>
+    <a href="/en/shop/snuggle-up/?ref=stl.privacy_policy.featured_sub" title="Snuggle Up"><img class="img-responsive" data-key-img-url="featured_navigation.position5.image_name" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/nav_featured_throws_image_nov_15-lg.png" alt="Snuggle Up"><div data-key-name="featured_navigation.position5.text_to_dispaly">Snuggle Up</div></a>
   </div>
-  <!--<div class="menu-flydown-image">-->
-    <!--<a href="//shop/rediscover-cork/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-rediscover-cork-xl.png" alt="Rediscover Cork" > <div>Rediscover Cork</div> </a>-->
-  <!--</div>-->
 </div>
 <div class="row hem-nav-child menu-flydown-container" id="sectionFurnitureDropdown">
-
-  <!--Shelving and Storage Start-->
-  <!--<div class="menu-flydown-image">
-    <a href="/en/shop/furniture/?ref=stl.privacy_policy.fur_sub" class="heading-8 anchorTest">All Furniture</a>
-    <a href="/en/shop/shelves/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/New-Nav-Tray-Furniture-Shelving-Image-xl.png" alt="Shelving" > <div>Shelving</div> </a>
-  </div>
--->
-  <!--Shelving and Storage End-->
-
   <div class="menu-flydown-image">
-    <a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-seating-jul-8-2015-xl.png" alt="Seating"> <div>Seating</div> </a>
+    <a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub" title="Seating"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/global_nav_furniture_seating_image-lg.png" alt="Seating"> <div data-key-name="header.header_tray_shop_new.seating">Seating</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-tables-xl.png" alt="Tables"> <div>Tables</div> </a>
-  </div>
-  <!--Shelving and Storage Combine attr Start-->
-  <div class="menu-flydown-image">
-    <a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-storage-shelving-xl.png" alt="Shelving-Stroage"> <div>Storage &amp; Shelving</div> </a>
+    <a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub" title="Tables"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/global_nav_furniture_tables_image-lg.png" alt="Tables"> <div data-key-name="header.header_tray_shop_new.tables">Tables</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/customize/?ref=stl.privacy_policy.cust_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-design-your-own-xl.png" alt="Seating"> <div>Customize</div> </a>
+    <a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub" title="Storage &amp; Shelving"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/global_nav_furniture_shelving_image-lg.png" alt="Storage &amp; Shelving"><div data-key-name="header.header_tray_shop_new.shelving_storage">Storage &amp; Shelving</div></a>
+  </div>
+  <div class="menu-flydown-image hidden">
+    <a href="/en/customize/?ref=stl.privacy_policy.cust_sub" title="Customize"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/global_nav_furniture_customise_image-lg.png" alt="Customize"><div data-key-name="header.customize_header">Customize</div></a>
   </div>
   <div class="menu-flydown-image all-section-block">
-    <a href="/en/shop/furniture/?ref=stl.privacy_policy.fur_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Furniture</div></a>
+    <a href="/en/shop/furniture/?ref=stl.privacy_policy.fur_sub" title="All Furniture" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-lg.png" alt="All Furniture"><div class="all-section-block-link-txt" data-key-name="header.test_sub_nav_tray_back_link.all_furniture">All Furniture</div></a>
   </div>
-  <!--Shelving and Storage Combine attr end-->
-
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionLightingDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-kuu-xl.png" alt="Kuu"> <div>Kuu</div> </a>
+    <a href="/en/shop/alphabeta/?ref=stl.privacy_policy.light_sub" title="Alphabeta"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav_lighting_alphabeta-lg.png" alt="Alphabeta"><div data-key-name="header.header_tray_shop_new.alphabeta_lighting">Alphabeta</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-levels-xl.png" alt="Levels"> <div>Levels</div> </a>
+    <a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub" title="Kuu"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-kuu-lg.png" alt="Kuu"><div data-key-name="header.header_tray_shop_new.kuu_lamp">Kuu</div></a>
+  </div>
+  <div class="menu-flydown-image">
+    <a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub" title="Levels"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-levels-lg.png" alt="Levels"><div data-key-name="header.header_tray_shop_new.levels_lamp">Levels</div></a>
   </div>
   <div class="menu-flydown-image all-section-block">
-    <a href="/en/shop/lighting/?ref=stl.privacy_policy.light_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Lighting</div></a>
+    <a href="/en/shop/lighting/?ref=stl.privacy_policy.light_sub" class="heading-8" title="All Lighting"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-lg.png" alt="All Lighting"><div class="all-section-block-link-txt" data-key-name="header.test_sub_nav_tray_back_link.all_lighting">All Lighting</div></a>
   </div>
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionAccessoriesDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"> <div>Pillows &amp; Throws</div> </a>
+    <a href="/en/shop/living-accessories/?ref=stl.privacy_policy.acc_sub" title="Living"><img class="img-responsive " src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-living-lg.png" alt="Living"><div data-key-name="header.header_tray_shop_new.living">Living</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/home-accents/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive " src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-home-accents-xl.png" alt="Home Accents"> <div>Home Accents</div> </a>
+    <a href="/en/shop/dining-accessories/?ref=stl.privacy_policy.acc_sub" title="Dining"><img class="img-responsive " src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-dining-lg.png" alt="Dining"><div data-key-name="header.header_tray_shop_new.dining">Dining</div></a>
   </div>
-  <!--<div class="menu-flydown-image" >-->
-    <!--<a href="/en/shop/design-objects/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-design-objects-xl.png" alt="Design Objects" > <div>Design Objects</div> </a>-->
-  <!--</div>-->
-  <!--<div class="menu-flydown-image">-->
-    <!--<a href="/en/shop/organization/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-organisation-xl.png" alt="Organization" > <div>Organization</div> </a>-->
-  <!--</div>-->
-  <!--<div class="menu-flydown-image">-->
-    <!--<a href="/en/shop/wall-decor/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-wall-decor-xl.png" alt="Wall Decor" >  <div>Wall Decor</div></a>-->
-  <!--</div>-->
   <div class="menu-flydown-image">
-    <a href="/en/shop/personal/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-personal-xl.png" alt="Personal">  <div>Personal</div></a>
+    <a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub" title="Pillows &amp; Throws"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-lg.png" alt="Pillows &amp; Throws"><div data-key-name="header.header_tray_shop_new.cushions_throws">Pillows &amp; Throws</div></a>
   </div>
-  <!--<div class="menu-flydown-image">-->
-  <!--<a href="/en/shop/rugs/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/Nav-Accessories-Rugs-New-1-xl.png" alt="Rugs" > <div>Rugs</div> </a>-->
-  <!--</div>-->
+    <div class="menu-flydown-image">
+      <a href="/en/shop/bags/?ref=stl.privacy_policy.acc_sub" title="Bags"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-personal-lg.png" alt="Bags"><div data-key-name="header.header_tray_shop_new.personal">Bags</div></a>
+    </div>
   <div class="menu-flydown-image all-section-block">
-    <a href="/en/shop/accessories/?ref=stl.privacy_policy.acc_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Accessories</div></a>
+    <a href="/en/shop/accessories/?ref=stl.privacy_policy.acc_sub" title="All Accessories" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-lg.png" alt="All Accessories"><div class="all-section-block-link-txt" data-key-name="header.test_sub_nav_tray_back_link.all_accessories">All Accessories</div></a>
   </div>
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionRugsDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-basketweave-xl.png" alt="Basketweave"> <div>Basketweave</div> </a>
+    <a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub" title="Basketweave"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-basketweave-lg.png" alt="Basketweave"><div data-key-name="header.header_tray_shop_new.basketweave">Basketweave</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-bliss-wool-xl.png" alt="Bliss Wool"> <div>Bliss Wool</div> </a>
+    <a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub" title="Bliss Wool"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-bliss-wool-lg.png" alt="Bliss Wool"><div data-key-name="header.header_tray_shop_new.bliss_wool">Bliss Wool</div></a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-geo-outline-xl.png" alt="Geo Outline"> <div>Geo Outline</div> </a>
+    <a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub" title="Geo Outline"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-geo-outline-lg.png" alt="Geo Outline"><div data-key-name="header.header_tray_shop_new.geo_outline">Geo Outline</div></a>
   </div>
   <div class="menu-flydown-image all-section-block">
-    <a href="/en/shop/rugs/?ref=stl.privacy_policy.rugs_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Rugs</div></a>
+    <a href="/en/shop/rugs/?ref=stl.privacy_policy.rugs_sub" title="All Rugs" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-lg.png" alt="All Rugs"><div class="all-section-block-link-txt" data-key-name="header.header_tray_shop_new.all_rugs">All Rugs</div></a>
   </div>
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionCustomizeDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-customise-shelving-xl.png" alt="Shelving"> <div>Shelving</div> </a>
+    <a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub" title="Shelving"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-customise-shelving-lg.png" alt="Shelving"><div data-key-name="header.header_tray_shop_new.shelving">Shelving</div></a>
+  </div>
+  <div class="menu-flydown-image">
+    <a href="/en/alphabeta/?ref=stl.privacy_policy.cust_sub" title="Lighting"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav_customize_lighting-lg.png" alt="Lighting"><div data-key-name="header.header_tray_shop_new.lighting_custom">Lighting</div></a>
   </div>
   <div class="menu-flydown-image all-section-block">
-    <a href="/en/customize/?ref=stl.privacy_policy.cust_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Custom Furniture</div></a>
+    <a href="/en/customize/?ref=stl.privacy_policy.cust_sub" class="heading-8" title="Learn More About<br>Hem Custom Furniture"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-lg.png" alt="Learn More About<br>Hem Custom Furniture"><div class="all-section-block-link-txt" data-key-name="header.test_sub_nav_tray_back_link.all_custom">Learn More About<br>Hem Custom Furniture</div></a>
   </div>
 </div>
 
 </div>
 
 
+
+<div id="free-shipping-modal" class="modal fade">
+  <div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="free-ship-modal-container">
+        <div class="free-ship-modal-text" data-key-name="header.free_shiping_site_modal_text2">
+          All standard orders over $75 ship free within the 48 contiguous United States via UPS.<br>Some large furniture items require special delivery and are not eligible for free shipping.  These costs will be specified in the cart.
+        </div>
+        <div class="free-shipping-modal-button">
+            <button type="button" class="btn btn-default" data-dismiss="modal" data-key-name="header.free_shiping_modal_button_text">OK</button>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div id="hemWrapper" class="">
   <div class="container-fluid">
   <!--Hero Image Module-->
-<div class="hero-img-sec hero-image">
+<div class="hero-img-sec hero-image row">
   <div class="col-xs-64 visible-only-xs noPadding">
     <!-- <img class="img-responsive"  style="width:100%; position: relative; max-height: 675px;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/browse_page/blank_hero_mobile_gray.jpg" >-->
     <img class="img-responsive" data-key-name="" style="width:100%;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/texthero/Text_Only_Hero_mobile.jpg?v=9" alt="">
@@ -564,7 +601,7 @@
     <!-- <img class="img-responsive" style="width:100% ;position: relative; max-height: 450px;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/browse_page/blank_hero_gray.jpg">-->
     <img class="img-responsive" data-key-name="" style="width:100%; " src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/texthero/Text_Only_Hero.jpg?v=9" alt="">
   </div>
-  <div class="banner-text"><span data-key-name="">Privacy Policy</span></div>
+  <h1 class="banner-text"><span data-key-name="">Privacy Policy</span></h1>
 </div>
 
   <div class="row" style="margin-top: 70px">
@@ -574,7 +611,7 @@
        <p class="text-2 static-pages-text-block" style="margin-top: 20px">We at Hem Design Inc. ("Hem," "we," "us," or "our") know that our users ("you," "your," or "yourself") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.Hem.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our <a href="/en/terms/">Terms of Use</a> section.</p>
     </div>
   </div>
-  <div class="row" style="margin-top: 30px">
+  <div class="row" style="margin-top: 30px" id="cookieInfo">
     <div class="col-xs-offset-4 col-xs-56 col-sm-offset-5 col-sm-54 text-center">
         <span class="heading-3">I. What does this privacy policy cover?</span>
         <p class="text-2 static-pages-text-block">This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Website. We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our <a href="/en/terms/">Terms of Use</a>). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at <a href="mailto:info@hem.com">info@hem.com.</a></p>
@@ -587,14 +624,12 @@
 
       <p class="text-2 static-pages-text-block">We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to, among other things, personalize and improve our services, allow our users to set up a user account and profile, contact users, fulfill your requests for certain products and services, analyze how users utilize the Website, or as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (as described in this Section and in Section III below). We collect the following types of information:</p>
 
-      <p class="heading-4" style="margin-top: 20px">A. Information you provide to us</p>
-      <p class="text-2 static-pages-text-block">We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, username, phone number, credit card and other billing information, email address, shipping address, and your friends’ email addresses (which we will only use in order to invite them to use the Service), and your third-party account credentials (for example, your log-in credentials for Facebook). We may also collect information you supply to us regarding your personal preferences and interests. If you access the Service through Facebook Connect , you understand that some content and/or information in your Facebook account (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features. We may anonymize your Personal Information so that you cannot be individually identified and provide that anonymized information to our partners. For example, we allow advertisers to choose the demographic information of users who will see their advertisements and you agree that we may use any of the information we have collected from you in non-personally identifiable form to allow our advertisers to select the appropriate audience for those advertisements. We might use the fact you have purchased or inquired about a certain brand of apparel, for instance, to show you advertisements for the company that sells that brand, but we will not tell that company who you are.</p>
-
-      <p class="heading-4" style="margin-top: 20px">B. Information collected automatically</p>
-      <p class="text-2 static-pages-text-block">Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or device that allow us to recognize your browser or device and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your computer’s or device’s acceptance of cookies, but doing so may prevent you from taking advantage of our Website’s best features. Our advertising partners may transmit cookies to your computer or device when you click on ads that appear on our site. This Privacy Policy does not cover cookies delivered to you by any of our advertisers. When we collect usage information (such as the numbers and frequency of visitors to the Website and to which pages within the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience. For example, we may place a cookie on your device that records what products you have viewed on our Website, and then provide that information, in non-personally-identifiable form, to a third party website, to allow such website to show you ads for similar products that are available from us or from third parties. We may also deliver a file to you through the Website (known as a "web beacon") from an advertising network we have contracted with. Web beacons allow advertising networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. These beacons may, for example, log that you have viewed a certain product on our Website, and then show you an ad for similar products when you browse to another website. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. Many ad networks participate in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards, and such NAI members may allow you to opt-out of cookies or beacons they deliver. Again, we do not control the policies of any third parties, including advertising networks. We do not honor do-not-track signals from Internet browsers or other consumer choice mechanisms regarding the collection of behavioral tracking data.</p>
-
-      <p class="heading-4" style="margin-top: 20px">C. Email and other communications</p>
-      <p class="text-2 static-pages-text-block">We may contact you, by email or other means. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. Also, we may receive a confirmation when you open an email from us. If you do not want to receive email or other mail from us, please indicate your preference by&nbsp;changing your <a href="/en/account-show">account settings</a> accordingly.</p>
+          <p class="heading-4" style="margin-top: 20px">A. Information you provide to us</p>
+          <p class="text-2 static-pages-text-block">We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, username, phone number, credit card and other billing information, email address, shipping address, and your friends’ email addresses (which we will only use in order to invite them to use the Service), and your third-party account credentials (for example, your log-in credentials for Facebook). We may also collect information you supply to us regarding your personal preferences and interests. If you access the Service through Facebook Connect , you understand that some content and/or information in your Facebook account (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features. We may anonymize your Personal Information so that you cannot be individually identified and provide that anonymized information to our partners. For example, we allow advertisers to choose the demographic information of users who will see their advertisements and you agree that we may use any of the information we have collected from you in non-personally identifiable form to allow our advertisers to select the appropriate audience for those advertisements. We might use the fact you have purchased or inquired about a certain brand of apparel, for instance, to show you advertisements for the company that sells that brand, but we will not tell that company who you are.</p>
+          <p class="heading-4" style="margin-top: 20px">B. Information collected automatically</p>
+          <p class="text-2 static-pages-text-block">Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or device that allow us to recognize your browser or device and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your computer’s or device’s acceptance of cookies, but doing so may prevent you from taking advantage of our Website’s best features. Our advertising partners may transmit cookies to your computer or device when you click on ads that appear on our site. This Privacy Policy does not cover cookies delivered to you by any of our advertisers. When we collect usage information (such as the numbers and frequency of visitors to the Website and to which pages within the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience. For example, we may place a cookie on your device that records what products you have viewed on our Website, and then provide that information, in non-personally-identifiable form, to a third party website, to allow such website to show you ads for similar products that are available from us or from third parties. We may also deliver a file to you through the Website (known as a "web beacon") from an advertising network we have contracted with. Web beacons allow advertising networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. These beacons may, for example, log that you have viewed a certain product on our Website, and then show you an ad for similar products when you browse to another website. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. Many ad networks participate in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards, and such NAI members may allow you to opt-out of cookies or beacons they deliver. Again, we do not control the policies of any third parties, including advertising networks. We do not honor do-not-track signals from Internet browsers or other consumer choice mechanisms regarding the collection of behavioral tracking data.</p>
+          <p class="heading-4" style="margin-top: 20px">C. Email and other communications</p>
+          <p class="text-2 static-pages-text-block">We may contact you, by email or other means. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. Also, we may receive a confirmation when you open an email from us. If you do not want to receive email or other mail from us, please indicate your preference by&nbsp;changing your <a href="/en/account-show">account settings</a> accordingly.</p>
     </div>
   </div>
 
@@ -658,12 +693,16 @@
 
   <div class="row" style="margin-top: 30px">
     <div class="col-xs-offset-4 col-xs-56 col-sm-offset-5 col-sm-54 text-center">
-      <span class="heading-3">VIII. QUESTIONS OR CONCERNS</span>
+      <span class="heading-3" data-key-name="privacy.concerns.head">VIII. QUESTIONS OR CONCERNS</span>
 
       <p class="text-2 static-pages-text-block">If you have any questions or concerns regarding our privacy policies, please send us a detailed message to&nbsp;<a href="mailto:info@hem.com">info@hem.com</a>. We will make every effort to resolve your concerns. Last Updated: December 23, 2013</p>
     </div>
   </div>
+
 </div>
+
+
+
 </div>
     
 <a href="#" id="scrollTotop">
@@ -675,7 +714,7 @@
 <div class="container-fluid " style="margin-top: 40px;">
   <!--Onsite Invite Promotion Start-->
   <!--If in future not required on certain pages than comment out from ROW. -->
-      <div class="row invite-promotion-banner">
+      <div class="row invite-promotion-banner hidden">
         <div class="col-xs-64" style="text-align: center">
            <span class="text-1" data-key-name="footer.onsite_invite_promotion_text">
              Earn $30 for every friend you invite to Hem.
@@ -721,7 +760,7 @@
                   Bulgaria €
                 </option>
                 <option value="Canada" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Canada">
-                  Canada $
+                  Canada C$
                 </option>
                 <option value="Croatia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Croatia">
                   Croatia €
@@ -802,7 +841,7 @@
                   Sweden kr
                 </option>
                 <option value="Switzerland" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Switzerland">
-                  Switzerland Sfr
+                  Switzerland CHF
                 </option>
                 <option value="Turkey" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Turkey">
                   Turkey €
@@ -820,7 +859,7 @@
           <a class="hem-icon facebook-mobile" href="http://www.facebook.com/Hem" target="_blank"></a>
           <a class="hem-icon twitter-mobile" href="http://twitter.com/hem" target="_blank"></a>
           <a class="hem-icon pinterest-mobile" href="http://www.pinterest.com/pinsfromhem/" target="_blank"></a>
-          <a class="hem-icon instagram-mobile" href="http://instagram.com/hemishere" target="_blank"></a>
+          <a class="hem-icon instagram-mobile" href="https://instagram.com/hem" target="_blank"></a>
           <a class="hem-icon houzz-mobile" href="http://www.houzz.com/user/hemdesigner" target="_blank"></a>
         </div>
       </div>
@@ -840,7 +879,6 @@
         <h4 class="parent-link">About Hem</h4>
 
         <h4 class="child-link text-2"><a href="/en/contact/?ref=stl.privacy_policy.ft_offices">Offices</a></h4>
-        <h4 class="child-link text-2"><a href="/en/stores/?ref=stl.privacy_policy.ft_store"> Find A Hem Store</a></h4>
         <h4 class="child-link text-2"><a href="/en/retail-partners/?ref=stl.privacy_policy.ft_retailer">Find A Hem Retailer</a></h4>
         <h4 class="child-link text-2"><a href="/en/careers/?ref=stl.privacy_policy.ft_careers">Careers</a></h4>
         <h4 class="child-link text-2"><a href="/en/press/?ref=stl.privacy_policy.ft_press">Press</a></h4>
@@ -850,7 +888,7 @@
         <h4 class="parent-link"> Partners  </h4>
 
         <h4 class="child-link text-2"><a href="/en/retail-partners/?ref=stl.privacy_policy.ft_wholesale">Wholesale</a></h4>
-        <h4 class="child-link text-2"><a href="/en/business-solutions/?ref=stl.privacy_policy.ft_arch-des">Architects &amp; Designers</a></h4>
+        <h4 class="child-link text-2"><a href="/en/architect-designer-resources/?ref=stl.privacy_policy.ft_arch-des">Architects &amp; Designers</a></h4>
         <h4 class="child-link text-2"><a href="/en/business-solutions/?ref=stl.privacy_policy.ft_bus-sol">Business &amp; Office Solutions</a></h4>
       </div>
       <div class="visible-xs visible-sm clearfix"></div>
@@ -865,11 +903,11 @@
       </div>
       <!-- 4. Shop Section -->
       <div class="col-xs-31 col-sm-32 col-md-10 col-lg-12">
-      <h4 class="parent-link"> Shop </h4>
+        <h4 class="parent-link"> Shop </h4>
         <h4 class="child-link text-2"><a href="/en/shop/furniture/?ref=stl.privacy_policy.ft_furniture">Furniture</a></h4>
         <h4 class="child-link text-2"><a href="/en/shop/lighting/?ref=stl.privacy_policy.ft_lighting">Lighting</a></h4>
         <h4 class="child-link text-2"><a href="/en/shop/accessories/?ref=stl.privacy_policy.ft_accessories">Accessories</a></h4>
-        <h4 class="child-link text-2"><a href="/en/customize/?ref=stl.privacy_policy.ft_cust-fur">Customizable Furniture</a></h4>
+        <h4 class="child-link text-2 hidden" data-key-name="footer.customFurniture"><a href="/en//?ref=stl.privacy_policy.ft_cust-fur">Customizable Furniture</a></h4>
       </div>
       <div class="visible-xs visible-sm clearfix" style="margin: 20px 0;"></div>
 
@@ -894,7 +932,7 @@
     <div class="row visible-xs">
       <div class="col-xs-64 text-center">
         <span style="margin: 0 20px"><a href="/en/terms/?ref=stl.privacy_policy.ft_terms-service">Terms Of Service</a></span>
-        <span style="margin: 0 20px"><a href="/en/privacy-policy/?ref=stl.privacy_policy.ft_privacy-policy"></a></span>
+        <span style="margin: 0 20px"><a href="/en/privacy-policy/?ref=stl.privacy_policy.ft_privacy-policy">Privacy Policy </a></span>
       </div>
     </div>
   </div>
@@ -903,6 +941,7 @@
 <!-- Signup Modals (Conditional)-->
 
 
+<div id="r_p_data"></div>
 <!-- Contact Us Modal Start -->
 <div id="contactUsModal" class="modal fade form-modal" style="-webkit-overflow-scrolling:none">
   <div class="modal-dialog">
@@ -919,7 +958,7 @@
         </div>-->
       </div>
       <form action="/contact-us/submit" method="POST" id="global-contact-us-form" novalidate="">
-        <input type="hidden" name="authenticity_token" value="dY+skshHuiO1mqCLOxx04AJ2o4sCMX3d+eXiYfpOUw0=">
+        <input type="hidden" name="authenticity_token" value="Ofot7NUIHD6PFdM4GsO73xTY9te1MGAiNBWlMpPs0oQ=">
         <div class="modal-body" style="padding-top:12px;">
 
           <div class="form-group">
@@ -934,7 +973,7 @@
                   <option value="press_inquiry"> Press </option>
                   <option value="design_for_hem"> Design For Hem </option>
                   <option value="wholesale_inquiry"> Wholesale </option>
-                  <option value="business_solutions_inquiry"> Business Solutions </option>
+                  <option value="business_solutions_inquiry"> B2B and Contract Sales Enquiries </option>
                   <option value="other"> Other </option>
                 </select>
             </div>
@@ -974,9 +1013,87 @@
   </div>
 </div>
 <!-- Contact Us Modal End -->
+<!--  user engagement modal start-->
 
-<!-- Zip Availability Modal Start -->
-<div id="checkZipAvailbility" class="modal fade form-modal">
+<script type="unknown" id="userEngagementTemplate">
+
+<div id="userEngagementModal" class="user-engagement-container">
+    <div class="user-engagement-content">
+      <div class="user-engagement-header">
+        <button type="button" class="user-engagement-close close">
+          <span aria-hidden="true"><a class="hem-icon user-engagement-close"></a></span>
+          <span class="sr-only">Close</span>
+        </button>
+        <div>
+          <img class="user-engagement-img" src="{{image_url}}">
+        </div>
+      </div>
+      <div class="user-engagement-body">
+          <div class="user-engagement-common-container  section-container">
+            <div class="regular">
+              <span class="heading-4" data-key-name="user_engagement.welcome_back_message"> Welcome Back </span>
+            </div>
+            <div class="user-engagement-error">
+              <span class="heading-4" data-key-name="user_engagement.something_went_wrong" >Something Went Wrong!</span>
+            </div>
+            <div class="user-engagement-message regular">
+              <span class="text-2 text-message" data-key-name="user_engagement.saved_your_changes">We saved your configuration for you. Continue working on it.</span>
+              <span class="text-2 text-message"> {{product_title}} </span>
+            </div>
+            <div class="user-engagement-message user-engagement-err-msg">
+              <span class="text-2 text-message" data-key-name="user_engagement.please_try_again"> Please try again.</span>
+            </div>
+            <div class="user-engagement-button-container ">
+                <button class="btn btn-secondary user-engagement-button jSaveDesignForLater"  data-key-name="user_engagement.save_for_later"> Save For Later</button>
+                <a href="{{design_url}}" class="unsaved-design-continue-button  jUnsavedDesignContinue">
+                    <button class="btn btn-default user-engagement-button" data-key-name="user_engagement.continue" >Continue</button>
+                </a> 
+            </div>
+          </div>
+          <div class="user-engagement-newuser-container section-container">
+            <div class="regular">
+              <span class="heading-4" data-key-name="user_engagement.saved_your_design">Save Your Design</span>
+            </div>
+            <div class="user-engagement-error">
+              <span class="heading-4" data-key-name="user_engagement.something_went_wrong">Something Went Wrong!</span>
+            </div>
+            <div class="user-engagement-message regular">
+              <span class="text-2 text-message" data-key-name="user_engagement.enter_email_message"> Enter you email address below and we will send you a link to access your design</span>
+
+            </div>
+            <div class="user-engagement-message user-engagement-err-msg">
+              <span class="text-2 text-message" data-key-name="user_engagement.please_try_again" > user_engagement.please_try_again</span>
+            </div>
+            <div  class="user-engagement-email-container">
+              <input type="email" id="userEngagementEmail" class="form-control" autocomplete="off" data-key-name="customTools.saveConfiguration.enterEmail" placeholder="Your Email Address"/>
+              <span class="save-design-error" data-key-name="shelves.valid_email.enter_valid_email" >Please enter a valid email address.</span>
+            </div>
+            <button type="button" id="userEngagementSaveDesign" data-key-name="shelves.do_not_leave.save_design_button" class="btn btn-default user-engagement-save-design">Save &amp; send</button>
+            <div class="checkbox user-engagement-email-checkbox">
+                <input  type="checkbox" id="chkUserEngagementEmail" style="display:none" name="email_subscription_status" value="true" />
+                <label for="chkUserEngagementEmail" class="label-user-engagement-email"></label>
+                <label for="chkUserEngagementEmail" class="text-2 text-message" data-key-name="user_engagement.signup_for_newsletter" >Enter your email address below and we will send you a link to access your design</label>
+            </div>
+          </div>
+          <div class="user-engagement-saved-container section-container">
+            <div>
+              <span class="heading-4" data-key-name="user_engagement.saved_and_send">Saved &amp; Sent Successfully</span>
+            </div>
+            <div class="user-engagement-submit">
+              <div class="hem-icon user-engagement-saved-icon"></div>
+            </div>
+          </div>
+      </div>
+    </div>
+</div>
+</script>
+
+<!-- user engagement Modal End -->
+
+
+
+    <!-- Zip Availability Modal Start -->
+    <div id="checkZipAvailbility" class="modal fade form-modal">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -1091,10 +1208,10 @@
 
 
 
-<!-- Zip Availability Modal End -->
+    <!-- Zip Availability Modal End -->
 
-<!-- Zip Availability Modal Start -->
-<div id="signUpWithZipCode" class="modal fade">
+    <!-- Zip Availability Modal Start -->
+    <div id="signUpWithZipCode" class="modal fade">
   <div class="modal-dialog">
     <div class="modal-content">
 
@@ -1104,7 +1221,7 @@
           <span class="sr-only">Close</span>
         </button>
         <div>
-          <img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/4All/us-custom-notify-me-modal-image.jpg">
+          <img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/us-custom-notify-me-modal-image-lg.png">
         </div>
       </div>
 
@@ -1173,7 +1290,7 @@
 </div>
 
 
-<!-- Zip Availability Modal End -->
+    <!-- Zip Availability Modal End -->
 
 <!-- Chat  Box  Start -->
 <!-- Chat  Box End -->
@@ -1186,21 +1303,29 @@
 
 
 
+
 <div id="fb-root"></div>
 
-<script src="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/application-ea4e283a328d1c01e4c664bc4f48cf31.js"></script>
-<script src="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/web/static-ddae1fb17b435d34f66ca33aa1e18005.js"></script>
+<div class="modal fade" id="errorModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title"></h4>
+      </div>
+      <div class="modal-body">
+        <p></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-warning" data-dismiss="modal">OK</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -- errorModal -->
 
+<script src="http://dobh2i31sc69j.cloudfront.net/assets/css-js/us/application-019f67b2966961c12253e3e1e853f402.js"></script>
+<script src="http://dobh2i31sc69j.cloudfront.net/assets/css-js/us/web/static-fb0e2825f0c68511e3a43c3116cdfa8b.js"></script>
 
-<script>
-    (function(){
-        hem.offers.manualoffer.init({
-            offerData: null,
-            loginPath: '/login/?locale=en',
-            isLoggedIn: false
-        });
-    })();
-</script>
 
 <script>
     (function (i, s, o, g, r, a, m) {
@@ -1246,7 +1371,7 @@
 </script>
 
 <script>
-    __dataLayer = [{"pageVersion":1,"pageTestVariation":1,"visitorId":6875401129609524512,"siteType":"web","country":"US","userId":0,"visitorLoginState":false,"pageCategory":"privacy_policy","pageSubCategory":null}];
+    __dataLayer = [{"pageVersion":1,"pageTestVariation":1,"visitorId":-2224557033296353123,"siteType":"web","country":"US","userId":0,"visitorLoginState":false,"pageCategory":"privacy_policy","pageSubCategory":null}];
     __dataLayer.push({'pageTitle': document.title })
 
     window.__trackerDataLayer = {"pageType":"stl","pageName":"privacy_policy"};
@@ -1255,6 +1380,7 @@
 <script>
     hem.tracker.init({
         trackerUrl: "//t.hem.com/pixel.png",
+        trackerErrorUrl: "//t.hem.com/error_pixel.png",
         trackerVersion: 1,
         gidCookieName: "_hem_client_gid",
         trackingSessionCookie: "trackingSession",
@@ -1296,6 +1422,14 @@
 
 
 
+  <script type="text/javascript">
+    $(document).ready(function(){
+      var parseId = "";
+      if(parseId){
+        hem.util.commonUtil.elementScrollToTop($("#"+parseId));
+      }
+    });
+  </script>
     <script type="text/javascript">
         var acceptedZipCodes = ["07010","07020","07022","07024","07026","07031","07057","07070","07071","07072","07073","07074","07075","07401","07407","07410","07417","07423","07430","07432","07436","07446","07450","07451","07452","07458","07463","07481","07495","07601","07602","07603","07604","07605","07606","07607","07608","07620","07621","07624","07626","07627","07628","07630","07631","07632","07640","07641","07642","07643","07644","07645","07646","07647","07648","07649","07650","07652","07653","07656","07657","07660","07661","07662","07663","07666","07670","07675","07676","07677","07699","07003","07004","07006","07007","07009","07017","07018","07019","07021","07028","07039","07040","07041","07042","07043","07044","07050","07051","07052","07068","07078","07079","07101","07102","07103","07104","07105","07106","07107","07108","07109","07110","07111","07112","07114","07175","07182","07184","07188","07189","07191","07192","07193","07194","07195","07198","07199","07002","07029","07030","07032","07047","07086","07087","07093","07094","07096","07097","07099","07302","07303","07304","07305","07306","07307","07308","07309","07310","07311","07395","07399","07830","07831","07865","07979","08530","08551","08556","08557","08559","08801","08802","08803","08804","08809","08822","08825","08826","08827","08829","08833","08834","08848","08858","08867","08868","08870","08885","08887","08888","08889","08520","08525","08534","08540","08541","08542","08543","08544","08550","08560","08561","08601","08602","08603","08604","08605","08606","08607","08608","08609","08610","08611","08618","08619","08620","08625","08628","08629","08638","08645","08646","08647","08648","08650","08666","08690","08691","08695","07001","07008","07064","07067","07077","07080","07095","08512","08536","08810","08816","08817","08818","08820","08824","08828","08830","08831","08832","08837","08840","08846","08850","08852","08854","08855","08857","08859","08861","08862","08863","08871","08872","08879","08882","08884","08899","08901","08902","08903","08904","08905","08906","08922","08933","08988","08989","07701","07702","07703","07704","07709","07710","07711","07712","07715","07716","07717","07718","07719","07720","07721","07722","07723","07724","07726","07727","07728","07730","07731","07732","07733","07734","07735","07737","07738","07739","07740","07746","07747","07748","07750","07751","07752","07753","07754","07755","07756","07757","07758","07760","07762","07763","07764","07765","07799","08501","08510","08514","08526","08535","08555","08720","08730","08736","08750","07005","07034","07035","07045","07046","07054","07058","07082","07405","07435","07438","07440","07444","07457","07801","07802","07803","07806","07828","07834","07836","07842","07845","07847","07849","07850","07852","07853","07856","07857","07866","07869","07870","07876","07878","07885","07926","07927","07928","07930","07932","07933","07935","07936","07940","07945","07946","07950","07960","07961","07962","07963","07970","07976","07980","07981","07983","07999","07011","07012","07013","07014","07015","07055","07403","07420","07421","07424","07442","07456","07465","07470","07474","07477","07480","07501","07502","07503","07504","07505","07506","07507","07508","07509","07510","07511","07512","07513","07514","07522","07524","07533","07538","07543","07544","07059","07069","07920","07921","07924","07931","07934","07938","07939","07977","07978","08502","08504","08528","08553","08558","08805","08807","08812","08821","08823","08835","08836","08844","08853","08869","08873","08875","08876","08880","08890","07416","07418","07419","07422","07428","07439","07460","07461","07462","07821","07822","07826","07827","07837","07839","07843","07848","07851","07855","07860","07871","07874","07875","07877","07879","07881","07890","07016","07023","07027","07033","07036","07060","07061","07062","07063","07065","07066","07076","07081","07083","07088","07090","07091","07092","07201","07202","07203","07204","07205","07206","07207","07208","07901","07902","07922","07974","07820","07823","07825","07829","07832","07833","07838","07840","07844","07846","07863","07880","07882","08808","08865","08886","06404","06440","06468","06470","06482","06484","06491","06497","06601","06602","06604","06605","06606","06607","06608","06610","06611","06612","06614","06615","06650","06673","06699","06784","06801","06804","06807","06810","06811","06812","06813","06814","06816","06817","06820","06824","06825","06828","06829","06830","06831","06832","06836","06838","06840","06842","06850","06851","06852","06853","06854","06855","06856","06857","06858","06859","06860","06870","06875","06876","06877","06878","06879","06880","06881","06883","06888","06889","06890","06896","06897","06901","06902","06903","06904","06905","06906","06907","06910","06911","06912","06913","06914","06920","06921","06922","06925","06926","06927","06928","10451","10452","10453","10454","10455","10456","10457","10458","10459","10460","10461","10462","10463","10464","10465","10466","10467","10468","10469","10470","10471","10472","10473","10474","10475","10499","11201","11202","11203","11204","11205","11206","11207","11208","11209","11210","11211","11212","11213","11214","11215","11216","11217","11218","11219","11220","11221","11222","11223","11224","11225","11226","11228","11229","11230","11231","11232","11233","11234","11235","11236","11237","11238","11239","11240","11241","11242","11243","11244","11245","11247","11248","11249","11251","11252","11254","11255","11256","11001","11003","11010","11020","11021","11022","11023","11024","11025","11026","11027","11030","11040","11041","11042","11043","11044","11050","11051","11052","11053","11054","11055","11096","11099","11501","11507","11509","11510","11514","11516","11518","11520","11530","11531","11535","11536","11542","11545","11547","11548","11549","11550","11551","11552","11553","11554","11555","11556","11557","11558","11559","11560","11561","11563","11565","11566","11568","11569","11570","11571","11572","11575","11576","11577","11579","11580","11581","11582","11590","11592","11594","11595","11596","11597","11598","11599","11709","11710","11714","11732","11735","11736","11737","11753","11756","11758","11762","11765","11771","11773","11774","11783","11791","11793","11797","11801","11802","11803","11804","11815","11819","11853","11854","11855","10001","10002","10003","10004","10005","10006","10007","10008","10009","10010","10011","10012","10013","10014","10015","10016","10017","10018","10019","10020","10021","10022","10023","10024","10025","10026","10027","10028","10029","10030","10031","10032","10033","10034","10035","10036","10037","10038","10039","10040","10041","10043","10044","10045","10046","10047","10048","10055","10060","10065","10069","10072","10075","10079","10080","10081","10082","10087","10090","10094","10095","10096","10098","10099","10101","10102","10103","10104","10105","10106","10107","10108","10109","10110","10111","10112","10113","10114","10115","10116","10117","10118","10119","10120","10121","10122","10123","10124","10125","10126","10128","10129","10130","10131","10132","10133","10138","10149","10150","10151","10152","10153","10154","10155","10156","10157","10158","10159","10160","10161","10162","10163","10164","10165","10166","10167","10168","10169","10170","10171","10172","10173","10174","10175","10176","10177","10178","10179","10184","10185","10196","10197","10199","10203","10211","10212","10213","10242","10249","10256","10257","10258","10259","10260","10261","10265","10268","10269","10270","10271","10272","10273","10274","10275","10276","10277","10278","10279","10280","10281","10282","10285","10286","10292","10509","10512","10516","10524","10537","10541","10542","10579","12563","11002","11004","11005","11101","11102","11103","11104","11105","11106","11109","11120","11351","11352","11354","11355","11356","11357","11358","11359","11360","11361","11362","11363","11364","11365","11366","11367","11368","11369","11370","11371","11372","11373","11374","11375","11377","11378","11379","11380","11381","11385","11386","11390","11405","11411","11412","11413","11414","11415","11416","11417","11418","11419","11420","11421","11422","11423","11424","11425","11426","11427","11428","11429","11430","11431","11432","11433","11434","11435","11436","11439","11451","11499","11690","11691","11692","11693","11694","11695","11697","10301","10302","10303","10304","10305","10306","10307","10308","10309","10310","10311","10312","10313","10314","10901","10911","10913","10920","10923","10927","10931","10952","10954","10956","10960","10962","10964","10965","10968","10970","10974","10976","10977","10980","10982","10983","10984","10986","10989","10993","10994","00544","06390","11701","11702","11703","11704","11705","11706","11707","11708","11713","11715","11716","11717","11718","11719","11720","11721","11722","11724","11725","11726","11727","11729","11730","11731","11733","11738","11739","11740","11741","11742","11743","11746","11747","11749","11750","11751","11752","11754","11755","11757","11760","11763","11764","11766","11767","11768","11769","11770","11772","11775","11776","11777","11778","11779","11780","11782","11784","11786","11787","11788","11789","11790","11792","11794","11795","11796","11798","11901","11930","11931","11932","11933","11934","11935","11937","11939","11940","11941","11942","11944","11946","11947","11948","11949","11950","11951","11952","11953","11954","11955","11956","11957","11958","11959","11960","11961","11962","11963","11964","11965","11967","11968","11969","11970","11971","11972","11973","11975","11976","11977","11978","11980","10501","10502","10503","10504","10505","10506","10507","10510","10511","10514","10517","10518","10519","10520","10521","10522","10523","10526","10527","10528","10530","10532","10533","10535","10536","10538","10540","10543","10545","10546","10547","10548","10549","10550","10551","10552","10553","10557","10558","10560","10562","10566","10567","10570","10571","10572","10573","10576","10577","10578","10580","10583","10587","10588","10589","10590","10591","10594","10595","10596","10597","10598","10601","10602","10603","10604","10605","10606","10607","10610","10701","10702","10703","10704","10705","10706","10707","10708","10709","10710","10801","10802","10803","10804","10805","10910","10912","10914","10915","10916","10917","10918","10919","10921","10922","10924","10925","10926","10928","10930","10932","10933","10940","10941","10943","10949","10950","10953","10958","10959","10963","10969","10973","10975","10979","10981","10985","10987","10988","10990","10992","10996","10997","10998","12518","12520","12543","12549","12550","12551","12552","12553","12555","12575","12577","12584","12586","12729","12746","12771","12780","18001","18002","18003","18010","18013","18014","18015","18016","18017","18018","18020","18025","18031","18032","18034","18035","18036","18037","18038","18040","18042","18043","18044","18045","18046","18049","18050","18051","18052","18053","18055","18058","18059","18060","18062","18063","18064","18065","18066","18067","18068","18069","18072","18078","18079","18080","18083","18085","18086","18087","18088","18091","18092","18098","18099","18101","18102","18103","18104","18105","18106","18109","18175","18195","18301","18302","18320","18321","18322","18323","18326","18327","18330","18331","18332","18333","18334","18335","18341","18342","18343","18344","18346","18347","18348","18349","18350","18351","18352","18353","18354","18355","18356","18357","18360","18370","18372","18466","18610"]
         hem.zipCodeValidtor.init(acceptedZipCodes);
@@ -1318,23 +1452,6 @@
 
 
 
-
-<div class="modal fade" id="errorModal">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title"></h4>
-      </div>
-      <div class="modal-body">
-        <p></p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-warning" data-dismiss="modal">OK</button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -- errorModal -->
 
 
 </body></html>
