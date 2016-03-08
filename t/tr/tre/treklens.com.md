@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the treklens.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711064144id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dtreklens.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treklens.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308175803id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dtreklens.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy Highlights
 
-Internet Brands, Inc. and its subsidiaries and corporate affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20150712035803id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
+Internet Brands, Inc. and its subsidiaries and corporate affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20160409143130id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
 
   * ### Personal Information
 
@@ -27,7 +27,7 @@ We do not sell, rent or provide your personal information to third parties that 
 
   * ### How to Contact Us
 
-    * Use our Privacy [Contact form](https://web.archive.org/web/20150712035803id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+    * Use our Privacy [Contact form](https://web.archive.org/web/20160409143130id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
   
 
     * Privacy Office
