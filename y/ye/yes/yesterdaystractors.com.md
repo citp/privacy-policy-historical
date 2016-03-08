@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206183558id_/http%3A//www.yesterdaystractors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308074826id_/http%3A//www.yesterdaystractors.com/privacy.htm) for the most accurate reproduction.*
 
 # Yesterday's Tractor Co. - Privacy Policy
 
@@ -26,7 +26,7 @@ In some cases, you may voluntarily provide personal information when filling out
 
 [Home](http://www.yesterdaystractors.com/)  |  [Forums](http://forums.yesterdaystractors.com/)
 
-Copyright © 1997-2015 Yesterday's Tractor Co.  
+Copyright © 1997-2016 Yesterday's Tractor Co.  
 All Rights Reserved. Reproduction of any part of this website, including design and content, without written permission is strictly prohibited. Trade Marks and Trade Names contained and used in this Website are those of others, and are used in this Website in a descriptive sense to refer to the products of others. Use of this Web site constitutes acceptance of our [User Agreement](http://www.yesterdaystractors.com/user-agreement.htm) and [Privacy Policy](http://www.yesterdaystractors.com/privacy.htm)
 
 **TRADEMARK DISCLAIMER:** Tradenames and Trademarks referred to within Yesterday's Tractor Co. products and within the Yesterday's Tractor Co. websites are the property of their respective trademark holders. None of these trademark holders are affiliated with Yesterday's Tractor Co., our products, or our website nor are we sponsored by them. John Deere and its logos are the registered trademarks of the John Deere Corporation. Agco, Agco Allis, White, Massey Ferguson and their logos are the registered trademarks of AGCO Corporation. Case, Case-IH, Farmall, International Harvester, New Holland and their logos are registered trademarks of CNH Global N.V. 
