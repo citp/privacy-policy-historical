@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thefuntimesguide.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175650id_/http%3A//thefuntimesguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefuntimesguide.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308031727id_/http%3A//thefuntimesguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fun Times Guide
 
 At TheFunTimesGuide.com, we appreciate your readership, and we place a high value on your personal privacy.
 
-**Personal Information**
+ **Personal Information**
 
   * We will never sell your personal information.
   * We do not store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings.
@@ -17,7 +17,7 @@ At TheFunTimesGuide.com, we appreciate your readership, and we place a high valu
 
 
 
-**Advertising Cookies**
+ **Advertising Cookies**
 
   * To maintain a site that is free of charge, we display advertisements on our website.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
