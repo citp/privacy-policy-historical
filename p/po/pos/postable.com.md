@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907223843id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308071639id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
 
-# Really nice cards, mailed for you. | Postable
+# Privacy Policy | Postable
 
 Postable is committed to protecting your privacy. This Privacy Policy describes the information we collect through our Site, how we use it, and how you can make choices about use of that information. By using our Site you agree to this Privacy Policy. 
 
