@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findgala.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811211755id_/http%3A//findgala.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgala.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308055130id_/http%3A//findgala.com/policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -30,7 +30,7 @@ FINDGALA.COM may update this Privacy Policy from time to time. We may notify you
 
 ### TERMS OF USE:
 
-Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](https://web.archive.org/web/20150811211755id_/http%3A//findgala.com/tou.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. 
+Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](https://web.archive.org/web/20160308055130id_/http%3A//findgala.com/tou.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. 
 
 ### CONTACTING US:
 
