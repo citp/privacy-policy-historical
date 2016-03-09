@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beemtube.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208083416id_/http%3A//beemtube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beemtube.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309234947id_/http%3A//beemtube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy policy - BeemTube.com
 
