@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowish.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025141911id_/http%3A//www.videowish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowish.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309155645id_/http%3A//www.videowish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement • VideoWish
 
@@ -83,7 +83,7 @@ It is Our policy not to use or share the personal information about Browsers or 
 
 ## 7) TRANSMITTALS FROM US
 
-We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by [contacting us](https://web.archive.org/web/20151025141911id_/http%3A//www.videowish.com/contact) or by clicking the opt-out link at the bottom of these emails, if applicable. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. For example, We may send You messages in response to a lost password request, when other members contact You via the Site’s services, or for other reasons associated with the features of the Site.
+We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by [contacting us](https://web.archive.org/web/20160309155645id_/http%3A//www.videowish.com/contact) or by clicking the opt-out link at the bottom of these emails, if applicable. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. For example, We may send You messages in response to a lost password request, when other members contact You via the Site’s services, or for other reasons associated with the features of the Site.
 
 If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
 
@@ -93,8 +93,8 @@ We take various measures to protect the transmission of all sensitive end-User i
 
 ## 9) HOW TO ACCESS OR MODIFY YOUR INFORMATION
 
-We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, [contact](https://web.archive.org/web/20151025141911id_/http%3A//www.videowish.com/contact) Our Customer Service Department. 
+We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, [contact](https://web.archive.org/web/20160309155645id_/http%3A//www.videowish.com/contact) Our Customer Service Department. 
 
 ## 10) WHERE TO DIRECT QUESTIONS ABOUT OUR PRIVACY POLICY
 
-If You have any questions about this Privacy Policy or the practices described herein, You may [contact Us](https://web.archive.org/web/20151025141911id_/http%3A//www.videowish.com/contact)
+If You have any questions about this Privacy Policy or the practices described herein, You may [contact Us](https://web.archive.org/web/20160309155645id_/http%3A//www.videowish.com/contact)
