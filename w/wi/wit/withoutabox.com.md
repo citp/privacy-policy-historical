@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withoutabox.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905090656id_/https%3A//www.withoutabox.com/index.php%3Fcmd%3Dregister.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withoutabox.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309192420id_/https%3A//www.withoutabox.com/index.php%3Fcmd%3Dregister.privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Withoutabox
 
