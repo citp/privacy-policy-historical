@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingblog.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907220308id_/http%3A//www.writerswriteinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingblog.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309194401id_/http%3A//www.writerswriteinc.com/privacy) for the most accurate reproduction.*
 
 # Writers Write, Inc. -- Privacy Policy
 
