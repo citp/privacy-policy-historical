@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211144056id_/http%3A//www.gardenoflife.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309034458id_/http%3A//www.gardenoflife.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # GardenOfLife.com - Empowering Extraordinary Health > Privacy Policy
 
