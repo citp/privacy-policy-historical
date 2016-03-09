@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimsontrace.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207214514id_/https%3A//www.crimsontrace.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsontrace.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309020853id_/https%3A//www.crimsontrace.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
