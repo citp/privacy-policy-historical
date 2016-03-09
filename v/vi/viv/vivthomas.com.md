@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vivthomas.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910094347id_/https%3A//www.vivthomas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivthomas.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309151124id_/https%3A//www.vivthomas.com/privacy) for the most accurate reproduction.*
 
 # Viv Thomas - Privacy
 
-**ICF Technology Privacy Policy**  
+**Company Privacy Policy**  
   
-**Last Changes to Privacy Policy: July 24th, 2013**
+**Last Changes to Privacy Policy: Sept 10, 2015**
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the ICF family of websites located at sexart.com; metart.com; errotica-archives.com; eroticbeauty.com; thelifeerotic.com; metcams.com; live.tv and any other web sites that display this Privacy Policy (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through these websites and post this Privacy Policy (collectively "Website") produced and maintained by ICF Technology, Inc. ("Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the family of websites located at vivthomas.com; metart.com; errotica-archives.com; eroticbeauty.com; thelifeerotic.com; metcams.com; live.tv and any other web sites that display this Privacy Policy (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through these websites and post this Privacy Policy (collectively "Website") produced and maintained by ICF Technology, Inc. ("Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply to information gathered online at our Website and offline through your interactions with us outside of the Website. It does not apply to information collected by websites maintained by other companies or organizations to which we may link.
 
