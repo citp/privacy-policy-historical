@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydonedone.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906041749id_/https%3A//www.getdonedone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydonedone.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309182209id_/https%3A//www.getdonedone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DoneDone
 
