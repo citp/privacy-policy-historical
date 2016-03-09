@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the napower.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211222623id_/http%3A//www.napower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napower.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309203509id_/http%3A//www.napower.com/privacy-policy) for the most accurate reproduction.*
 
 # North American Power - We will be America's most admired retail energy company through exceptional growth, innovation, and customer experiences.
 
 Last Updated: April 9, 2015
 
-## Introduction
+### Introduction
 
-This website, [www.napower.com](http://napower.com/), is owned and operated by, or on behalf of, North American Power and Gas, LLC, and its affiliates (collectively, "NA Power," "we" or "us").
+This website, [www.napower.com](http://www.napower.com/), is owned and operated by, or on behalf of, North American Power and Gas, LLC, and its affiliates (collectively, "NA Power," "we" or "us").
 
 This Privacy Policy explains when and how we collect, use, share and safeguard Personal Information through this website, our affiliated websites (including but not limited to [www.napcustomer.com](https://napcustomer.com/)), as well as our products and services, mobile applications and social networking pages. By using this website, purchasing our products and services, downloading one of our mobile applications or interacting with one of our social networking pages, you are agreeing to the terms of this Privacy Policy.
 
-## How We Collect Information
+### How We Collect Information
 
 As used in this Privacy Policy, "Personal Information" means any information by which a natural person is reasonably identifiable. "Personal Information" includes, for example, a first name or initial and last name; a home or other physical address; an email address or other online contact information; and/or a telephone number. When you make a purchase, we will also collect your credit or debit card account information or other similar payment information ("Payment Information").
 
@@ -38,7 +38,7 @@ Some technologies used on our websites permit our advertising network service pr
 
 We may also use mobile analytics software to allow us to better understand the functionality of our mobile applications on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-## How We Use Your Information
+### How We Use Your Information
 
 We may use Personal Information:
 
@@ -66,7 +66,7 @@ Additionally, to the data uses stated above, we may use the information collecte
 
 We may combine the information we collect with publically available information and information we receive from our parent company affiliates or subsidiaries companies, business partners and other third parties. We may use that combined information to enhance and personalize your experience with us, to communicate with you regarding products, services and events that may be of interest to you, for other promotional purposes and for other purposes described herein.
 
-## Google Analytics
+### Google Analytics
 
 We use a web analytics tool called "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so and what other sites they used prior to coming to this site. We have implemented the Demographics Reporting feature that allows us to use cookies to collect information such as the gender of the individual visiting our site and the age of the individual visiting our site. We use the information we receive from Google Analytics to improve the site and other data uses stated herein. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. [Google Analytics' Terms of Use](http://www.google.com/analytics/terms/us.html) and [Google's Privacy Policy](http://www.google.com/policies/privacy/) restrict Google's ability to use and share information collected by Google Analytics about your visits to this site. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser or [click here](https://tools.google.com/dlpage/gaoptout/) for currently available Google Analytics opt-outs for the web.
 
@@ -78,7 +78,7 @@ Please note that we will release your Personal or Payment Information if require
 
 NA Power reserves the right to transfer any Personal or Payment Information in the event we transfer all or a portion of our business or assets, such as bankruptcy, dissolution, merger or acquisition. If such a transfer should occur, the privacy policy of another company may supplant our Policy. However, we will use commercially reasonable efforts to try to require that the transferee use Personal or Payment Information in a manner that is consistent with our Policy.
 
-## How We Safeguard Your Personal Information
+### How We Safeguard Your Personal Information
 
 The security of your personal information is very important to us. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect, including, without limitation, any Social Security numbers we may receive. We use industry-standard encryption technologies when transferring, receiving and displaying Personal and Payment Information on our website. Only those employees and service providers who need access to your Social Security number in order to perform their duties are authorized to have access to such information. However, we cannot guarantee that all communications between us or information stored on our servers will be free from unauthorized access by third parties such as hackers, and your use of our website, products and services demonstrates your assumption of this risk.
 
@@ -88,24 +88,24 @@ Certain states where we operate have specific requirements regarding the disclos
 
 Under California Civil Code § 1798.83, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please complete and send us the [Privacy Request Form](http://nap-files-general.s3.amazonaws.com/d92087f345255_CaliforniaPrivacyRequestFormNAPGAR.3.27.15.pdf). We will respond to you within 30 days of receiving such a request.
 
-## Third Party Websites/Social Networking Websites
+### Third Party Websites/Social Networking Websites
 
 As a convenience to our visitors, this website may contain links to a number of websites that we believe may offer useful information or services. The policies and procedures we described here do not apply to those websites. We suggest contacting those websites directly for information on their privacy, security, data collection, and distribution policies.
 
 Additionally, we may provide you with access to functionality that permits you to post content to your social media account(s). Please note that any information that you provide through use of this functionality is governed by the applicable third party social network's privacy policy, and not by this Privacy Policy. We have no control over, and shall not be responsible for, any third party's use of information that you provide through use of this functionality. Please remember that anything you post on a social networking website may be visible to the public.
 
-## Modifying Your Personal Information
+### Modifying Your Personal Information
 
 If you would like to modify or amend from our database certain Personal Information stored in your profile, or if you would like to amend your profile, you can do so by calling our customer service number or logging into our website, visiting the "My Account" section, and viewing the options available to you. Within this section, you can edit your information. We will endeavor to implement your changes within ten (10) calendar days.
 
-## Information from Children
+### Information from Children
 
 We have no intention of collecting personal information from children under the age of 13. If we become aware that personal information from a child under 13 has been collected without the verifiable consent of such child's parent or guardian, we will use all reasonable efforts to delete such information from our database.
 
-## Changes to this Policy
+### Changes to this Policy
 
 We reserve the right, at our discretion, to modify our privacy practices and update and make changes to this Privacy Policy at any time. For this reason, we encourage you to refer to this Privacy Policy on an ongoing basis. This Privacy Policy is current as of the "Last Revised" date, which appears at the top of this page. We will treat personal information in a manner consistent with the Privacy Policy under which it was collected, unless we have your consent to treat it differently. By using this website following any Privacy Policy change, you freely and specifically give us your consent to collect, use, transfer and disclose your personal information in the manner specified in such then-current Privacy Policy.
 
-## Contact Us
+### Contact Us
 
 If you have any questions regarding this Privacy Policy, [click here](https://web.archive.org/about-us/contact-us) for more information.
