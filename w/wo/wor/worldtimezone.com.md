@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109135159id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309203637id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
 
 # Web Site Disclaimer and Privacy Statement for WorldTimeZone.com
 
@@ -47,15 +47,6 @@ Our web site has links to other web sites. WorldTimeZone.com is not responsible 
 If you have any questions, please contact us via [Email](https://web.archive.org/index_email.php).  
   
   
-|   
----  
-  
-
-
-Regional Time   
-Zones Maps  
-
-
   
   
   
