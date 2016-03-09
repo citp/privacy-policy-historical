@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierplrmonthly.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218211740id_/http%3A//premierplrmonthly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierplrmonthly.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309212943id_/http%3A//www.premierplrmonthly.com/privacy.php) for the most accurate reproduction.*
 
 # Premier PLR Monthly -
 
