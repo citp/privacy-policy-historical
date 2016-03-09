@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the interesting-station.com privacy policy that was archived on 2014-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141115023448id_/https%3A//interesting-station.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interesting-station.com privacy policy that was archived on 2016-03-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160309114911id_/http%3A//interesting-station.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class=""><head>
 <script type="text/javascript" async="" src="//stats.g.doubleclick.net/dc.js"></script><script>window._t={start:(new Date).getTime()};</script>
 
 <base href="//interesting-station.com">
@@ -13,13 +13,14 @@
 <meta http-equiv="Content-Language" content="en">
 
 <title>
- Likes.com
+ interesting-station
 </title>
-<link type="text/css" rel="stylesheet" href="http://c.likes-media.com/s/5dc5f90b87749db9e11893aa845d9019/theme_citrus.css">
+<link type="text/css" rel="stylesheet" href="//o.mlv-cdn.com/s/88e5745d1ab60eaf2d5b11fedde026be/citrus__custom_theme_arcadia.css">
 
 
-<link href="http://fonts.googleapis.com/css?family=Denk+One" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Denk+One|Alegreya+Sans:700|Fjalla+One|Fjalla+One|Passion+One|Passion+One|Passion+One|Candal|Passion+One" rel="stylesheet" type="text/css">
 
+<link rel="icon" type="image/x-icon" href="/images/favicons/template_favicons/arcadia/citrus.ico">
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -27,9 +28,44 @@ _gaq.push(['_setAccount', 'UA-4983970-4']);
 var _gaq_var_index = 1;
 </script>
 
+<script id="bounce_tracking" type="text/javascript">
+    function supports_localstorage() {
+        try {
+            return 'localStorage' in window && window['localStorage'] !== null;
+        } catch (e) {
+            return false;
+        }
+    }
+
+    function setup_bounce_tracking(ad_doc) {
+        ad_doc = ad_doc || document;
+        if (!ad_doc.querySelectorAll){
+            setTimeout(function(){setup_bounce_tracking(ad_doc)}, 20);
+        }
+        var bounce_ad_slots = ad_doc.querySelectorAll('a[slot_id]');
+        if (bounce_ad_slots.length) {
+            for (var i = 0; i < bounce_ad_slots.length; i++) {
+                bounce_ad_slots[i].addEventListener("click", function(e) {
+                    if (supports_localstorage()) {
+                        localStorage.setItem('back_info_time', "" + Math.round((new Date()).getTime() / 1000));
+                        localStorage.setItem('back_info_pid', "" + this.getAttribute('prid'));
+                        localStorage.setItem('back_info_slot', "" + this.getAttribute('slot_id'));
+                        if (window.likes_tracking) {
+                            localStorage.setItem('back_info_cid', "" + window.likes_tracking.pv_params.click_id);
+                            localStorage.setItem('back_info_p', "" + window.likes_tracking.pv_params.page_type);
+                        }
+                    }
+                });
+            }
+        }
+    }
+
+</script>
+
 <script type="text/javascript">
 var likes_tracking_create = function() {
     var obj = {};
+
 
     obj.pvid = null;
     obj.load_dt = new Date();
@@ -45,8 +81,13 @@ var likes_tracking_create = function() {
     obj.bad_ad_detect_ms = 4000;
     obj.bad_ad_detect_throttle = 100;
     obj.detect_bad_ads = (Math.random()*100 <= obj.bad_ad_detect_throttle);
-    obj.report_pubm_throttle = 1;
+    obj.report_pubm_throttle = 0;
     obj.report_pubm_ads = function() {return (Math.random()*100 <= obj.report_pubm_throttle);}
+    obj.report_appnexus_throttle = 0;
+    obj.report_appnexus_ads = function() {return (Math.random()*100 <= obj.report_appnexus_throttle);}
+    obj.record_event_log_throttle = 0;
+    obj.should_record_event_log = function() {return (Math.random()*100 <= obj.record_event_log_throttle);}
+
 
 
     obj.is_final_network_ad = function(event) {
@@ -78,9 +119,9 @@ var likes_tracking_create = function() {
             if (event.type == 'pagehide' && event.potential_bad_ads.length > 0 && !event.reported) {
                 for (j = 0; j < event.potential_bad_ads.length; j++) {
                     ad = event.potential_bad_ads[j];
-                    report.push({'url': ad.api_response.PubMatic_Bid.landing_page,
-                                'tag': ad.api_response.PubMatic_Bid.creative_tag,
-                                'cpm': ad.api_response.PubMatic_Bid.ecpm,
+                    report.push({'url': ad.ad.PubMatic_Bid.landing_page,
+                                'tag': ad.ad.PubMatic_Bid.creative_tag,
+                                'cpm': ad.ad.PubMatic_Bid.ecpm,
                                 'pos': ad.position,
                                 'loc': '',
                                 'suspect': 1});
@@ -118,12 +159,16 @@ var likes_tracking_create = function() {
     };
 
     obj.track_house_ad = function(ad_slot) {
-        obj.track_event({'network': 'mylikes',
-                         'slot_name': ad_slot.slot_name,
-                         'promo_id': ad_slot.promo_id,
-                         'promo_hash': ad_slot.promo_hash,
-                         'type': 'ad_slot_rendered'
-        });
+        var h_event = {'network': 'mylikes',
+                       'slot_name': ad_slot.slot_name,
+                       'promo_id': ad_slot.promo_id,
+                       'promo_hash': ad_slot.promo_hash,
+
+                       'type': 'ad_slot_rendered'};
+        if (ad_slot.csrc) {
+            h_event.csrc = ad_slot.csrc;
+        }
+        obj.track_event(h_event);
     };
 
     obj.get_new_track_id = function() {
@@ -134,59 +179,122 @@ var likes_tracking_create = function() {
     obj.update_ads_data = function(send_params, event_log) {
         var house_ads = '';
         var network_ads = '';
+        var redis_ads = '';
         obj.network_ads_by_position = new Array();
         var i = 0;
+        js_bundle = window.pass_to_js || window.PageData;
         for (; i < event_log.length; i++) {
             if (event_log[i]['network'] == 'mylikes' && event_log[i]['type'] == 'ad_slot_rendered') {
-                delimeter = '';
-                if (event_log[i]['tracking_infos']) {
-                    tracking_infos = event_log[i]['tracking_infos'];
+                delimiter = '';
+                var event = event_log[i];
+                if (event.rotate_list && event.rotate_list.length){
+                    event = event.rotate_list[event.active_promo];
+                }
+                var process_redis_imp = false;
+                var process_house_ad = true;
+                if (event['tracking_infos']) {
+                    tracking_infos = event['tracking_infos'];
                     house_ads += ',{';
                     if (tracking_infos[0] && tracking_infos[0]['base_slot_name']){
-                        house_ads += '"base_slot_name":"' + tracking_infos[0]['base_slot_name'] + '"';
-                        delimeter = ',';
+                        if (js_bundle && js_bundle.ad_page_slots.indexOf(tracking_infos[0]['base_slot_name']) == -1) {
+                            process_redis_imp = obj.track_redis_imps;
+                            process_house_ad = !obj.skip_house_ad;
+                        }
+                        if (process_house_ad) {
+                            house_ads += '"base_slot_name":"' + tracking_infos[0]['base_slot_name'] + '"';
+                        }
+                        delimiter = ',';
                     }
-                    house_ads += delimeter + '"pairs":' + '[';
-                    for (var j = 0; j < tracking_infos.length; j++) {
-                        if (j != 0) {
-                            house_ads += ','
+                    if (process_house_ad) {
+                        house_ads += delimiter + '"pairs":' + '[';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    var pair_iterator = (event.refresh_count) ? event.promo_list : event.tracking_infos;
+                    for (var j = 0; j < pair_iterator.length; j++) {
+                        if (process_house_ad) {
+                            if (j != 0) {
+                                house_ads += ',';
+                            }
+                            house_ads += '[';
                         }
-                        house_ads += '[';
-                        if (tracking_infos[j]['promo_id']){
-                            house_ads += '"' + tracking_infos[j]['promo_id'] + '"';
+                        if (pair_iterator[j]['promo_id']){
+                            if (process_house_ad) {
+                                house_ads += '"' + pair_iterator[j]['promo_id'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ',' + pair_iterator[j]['promo_id'];
+                            }
                         }
-                        if (tracking_infos[j]['promo_hash']){
-                            house_ads += ',"' + tracking_infos[j]['promo_hash'] + '"';
+                        if (pair_iterator[j]['promo_hash']){
+                            if (process_house_ad) {
+                                house_ads += ',"' + pair_iterator[j]['promo_hash'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ':' + pair_iterator[j]['promo_hash'];
+                            }
                         }
+                        if (process_house_ad) {
+                            house_ads += ']';
+                        }
+                    }
+                    if (process_house_ad) {
                         house_ads += ']';
-                        }
-                    house_ads += ']}';
-                } else {
-                    house_ads += ',{';
-                    if (event_log[i]['position']){
-                        house_ads += '"position":"' + event_log[i]['position'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['promo_id']){
-                        house_ads += delimeter + '"promo_id":"' + event_log[i]['promo_id'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['slot_name']){
-                        house_ads += delimeter + '"slot_name":"' + event_log[i]['slot_name'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['promo_hash']){
-                        house_ads += delimeter + '"promo_hash":"' + event_log[i]['promo_hash'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['slot_id']){
-                        house_ads += delimeter + '"slot_id":"' + event_log[i]['slot_id'] + '"';
                     }
                     house_ads += '}';
+                } else {
+                    if (js_bundle && js_bundle.ad_page_slots.indexOf(event['slot_name']) == -1) {
+                        process_redis_imp = obj.track_redis_imps;
+                        process_house_ad = !obj.skip_house_ad;
+                    }
+                    if (process_house_ad) {
+                        house_ads += ',{';
+                        }
+                    if (event['position'] && process_house_ad){
+                        house_ads += '"position":"' + event['position'] + '"';
+                        delimiter = ',';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    if (event['promo_id']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_id":"' + event['promo_id'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ',' + event['promo_id'];
+                        }
+                    }
+                    if (event['slot_name'] && process_house_ad){
+                        house_ads += delimiter + '"slot_name":"' + event['slot_name'] + '"';
+                        if (event['slot_name'].indexOf('ad_page_') == 0) {
+                            if (event.csrc) {
+                                house_ads += ',"csrc":"' + event.csrc + '"';
+                            }
+                        }
+                        delimiter = ',';
+                    }
+                    if (event['promo_hash']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_hash":"' + event['promo_hash'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ':' + event['promo_hash'];
+                        }
+                    }
+                    if (event['slot_id'] && process_house_ad){
+                        house_ads += delimiter + '"slot_id":"' + event['slot_id'] + '"';
+                    }
+                    if (process_house_ad) {
+                        house_ads += '}';
+                    }
                 }
             } else if (obj.track_network_ads) {
                 if (!event_log[i]['type']
-                    || (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response')
+                    || (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response' && event_log[i]['type'] != 'appnexus_api_response')
                     || !event_log[i]['network']
                     || !event_log[i]['position']) {
                     continue;
@@ -205,7 +313,7 @@ var likes_tracking_create = function() {
                 state += ',{';
                 state += '"' + network + '":';
                 if (cpm != null){
-                    cpm = Math.round(cpm*1000)/1000
+                    cpm = Math.round(cpm*1000)/1000;
                     state += '[';
                     state += event_log[i]['latency_ms'];
                     state += ',' + cpm;
@@ -234,7 +342,30 @@ var likes_tracking_create = function() {
         }
         send_params['house_ads'] = '[' + house_ads + ']';
         send_params['network_ads'] ='[{' + network_ads + '}]';
+        if (redis_ads.length > 0) {
+            send_params['redis_ads'] = redis_ads.substr(2);
+        }
     };
+
+    obj.record_event_log = function() {
+        if (!window.top.likes_tracking.event_log){
+            return;
+        }
+        var event_log = escape(JSON.stringify(window.top.likes_tracking.event_log));
+        var data = {
+            'event_log':event_log,
+            'page_url': window.top.location.href,
+        };
+        if (window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length){
+            data['errors'] = escape(JSON.stringify(window.top.likes_ad_server.rtb_errors));
+            window.top.likes_ad_server.rtb_errors = [];
+        }
+        $.ajax({
+            url: '/api/record_event_log',
+               type: 'POST',
+               data: data,
+        });
+    }
 
     obj.send_events = function(cancel_pending) {
         if (obj.tracking_in_progress || obj.pvid < 0) {
@@ -252,10 +383,16 @@ var likes_tracking_create = function() {
             }
         }
 
-        //
+        try {
+            if ((obj.should_record_event_log() && obj.pvid) || (window.top.likes_ad_server && window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length)){
+                obj.record_event_log();
+            }
+        } catch (e) {}
+
+        /*
         // We only need to send data if we have pending events in the event log
         // or if we have not yet recorded a pageview (pvid == null)
-        //
+        */
         if (obj.sent_index < obj.event_log.length) {
             obj.update_ads_data(send_params, obj.event_log.slice(obj.sent_index));
         } else {
@@ -270,8 +407,22 @@ var likes_tracking_create = function() {
             send_params['pvid'] = obj.pvid;
         }
         var method = obj.pvid ? 'update_pv' : 'track_pv';
-        if (method == 'update_pv' && !obj.track_network_ads) {
-            return;
+        if (method == 'update_pv') {
+            if (!obj.track_network_ads && obj.track_house_ads ) {
+                if (send_params.house_ads == "[]" && !send_params.redis_ads) {
+                    return;
+                } else {
+                    send_params.network_ads = "[{}]";
+                }
+            } else if (obj.track_network_ads && !obj.track_house_ads) {
+                if (send_params.network_ads == "[{}]") {
+                    return;
+                } else {
+                    send_params.house_ads = "[]";
+                }
+            } else if (!obj.track_network_ads && !obj.track_house_ads) {
+                return;
+            }
         }
         $.ajax({
             url: '//' + window.location.host + '/api/' + method,
@@ -309,7 +460,11 @@ var likes_tracking_create = function() {
 
 
 
+
     obj.start_tracking = function(track_id, page_type, page_num, gallery_id) {
+        if (window.top.likes_ad_passbacks){
+            window.top.likes_ad_passbacks.clear_valid_passbacks();
+        }
     };
 
     if (window.top.likes_tracking) {
@@ -353,11 +508,15 @@ try {
     obj.completed = {};
     obj.loops = {};
     obj.load_ts = (new Date).getTime();
+    obj.valid_passbacks = {};
 
+    obj.clear_valid_passbacks = function(){
+        obj.valid_passbacks = {};
+    }
 
     obj.create_iframe = function (width, height, defer_size_ms) {
         var ifrm = document.createElement('iframe');
-        ifrm.setAttribute('margin', '0');
+        ifrm.setAttribute('margin', '0 auto');
         ifrm.setAttribute('padding', '0');
         ifrm.setAttribute('frameBorder', '0');
         if (!defer_size_ms) {
@@ -369,7 +528,10 @@ try {
         }
         ifrm.setAttribute('scrolling','no');
         try {
-            ifrm.style.margin = "0px";
+            if (width == 1 && height == 1) {
+                ifrm.style.float = "left";
+            }
+            ifrm.style.margin = "0px auto";
             ifrm.style.padding = "0px";
             ifrm.style.border = '0px none';
             if (!defer_size_ms) {
@@ -389,12 +551,23 @@ try {
                     ad_div.childNodes[i].style.display = 'none';
                 }
             }
+            if (document.getElementById("bottom_mobile_ad") && document.getElementById("bottom_mobile_ad").classList)
+                document.getElementById("bottom_mobile_ad").parentNode.classList.remove("dummy_ad_wrapper");
         }
         return ad_div;
     };
-    obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms) {
+    obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms, network, position) {
+        if (network && position){
+            obj.valid_passbacks[network + "." + position] = 1;
+        }
         var ad_div = window.likes_ad_passbacks.hide_all_in_div(ad_div_id);
         if (ad_div) {
+            var dummy_ad;
+            if (ad_src.indexOf("dummy_mob_bottomtall") > -1) {
+                width = 0;
+                height = 0;
+                dummy_ad = 1;
+            }
             var ifrm = window.likes_ad_passbacks.create_iframe(width, height, defer_size_ms);
             ad_div.appendChild(ifrm);
             if (!defer_size_ms) {
@@ -407,6 +580,9 @@ try {
                         ifrm.height = height;
                     }, defer_size_ms);
                 };
+            }
+            if (dummy_ad && ad_div_id == "bottom_mobile_ad") {
+                ad_div.parentNode.classList.add("dummy_ad_wrapper");
             }
             if (ad_src) {
                 ifrm.src = ad_src;
@@ -423,6 +599,10 @@ try {
         if (window.top.likes_tracking) {
             window.top.likes_tracking.track_event({'type': 'attempted_passback', 'network': network, 'position': position});
         }
+        if (network == "criteo" && position == "top"){
+            window.likes_ad_passbacks.criteo_top_reload = true;
+        }
+
         if (((network == "openx_lowval") || (network == "fedmedia_passback")) && position == "right") {
             clearTimeout(window._defered_size_timeout);
             obj.hide_all_in_div("ad_slot_right");
@@ -443,7 +623,7 @@ try {
                     window.likes_ad_server.render_any_ad_when_available(position);
                     return true;
                 }
-                if (window.likes_ad_passbacks.render_ad(div_id || p.div_id, p.width, p.height, p.passback_slot_script, p.passback_iframe_src, p.defer_size_ms)) {
+                if (window.likes_ad_passbacks.render_ad(div_id || p.div_id, p.width, p.height, p.passback_slot_script, p.passback_iframe_src, p.defer_size_ms,p.to_network, p.position)) {
                     window.likes_ad_passbacks.completed[key] = 1;
                     return true;
                 }
@@ -472,23 +652,37 @@ try {
 </script>
 
 
+
+
+
+
 </head>
 <!--[if lte IE 9 ]> <body class="ie8  "> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie  "> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie   "> <!--<![endif]-->
 
-<div class="custom_profile_wrapper blog citrus  ">
-<div id="social_site_header">
-<div id="social_site_header_inner">
-<a href="http://interesting-station.com" id="stylized_title">interesting-station</a>
 
-<a class="tab " href="http://interesting-station.com/tagged/funny">funny</a>
-<a class="tab " href="http://interesting-station.com/tagged/weird">weird</a>
-<a class="tab " href="http://interesting-station.com/tagged/art">art</a>
-<a class="tab " href="http://interesting-station.com/tagged/makeup">makeup</a>
-<a class="tab " href="http://interesting-station.com/tagged/photography">photography</a>
-<a class="tab " href="http://interesting-station.com/tagged/fashion">fashion</a>
 
-<div class="clear"></div>
+<div class="custom_profile_wrapper arcadia citrus ">
+    <div id="header_outer" class="no_galls">
+<div id="logo_outer">
+<div id="logo_inner" class="row">
+<a id="logo" href="http://interesting-station.com">interesting-station</a>
+</div>
+</div>
+<div class="logo_nav">
+<a class="nav_sort" href="?sort=shared">Popular</a>
+<a class="nav_sort" href="?sort=trending">Trending</a>
+<a class="nav_sort" href="?sort=homepage_new">New</a>
+</div>
+
+<div class="header_categories">
+<a class="tab first  " href="http://interesting-station.com/?q=funny">funny</a>
+<a class="tab  " href="http://interesting-station.com/?q=weird">weird</a>
+<a class="tab  " href="http://interesting-station.com/?q=photography">photography</a>
+<a class="tab  " href="http://interesting-station.com/?q=art">art</a>
+<a class="tab  " href="http://interesting-station.com/?q=fashion">fashion</a>
+<a class="tab  " href="http://interesting-station.com/?q=celebrity">celebrity</a>
+
 </div>
 </div>
 
@@ -545,7 +739,7 @@ try {
 <a href="/privacy">Privacy Policy</a>
 </div>
 <div class="footer_col floatright textright">
-<p>Copyright © 2014 interesting-station.com,
+<p>Copyright © 2016 interesting-station.com,
 All rights reserved.</p>
 </div>
 <div class="clear"></div>
@@ -556,15 +750,15 @@ All rights reserved.</p>
 <script>window._t.footer=(new Date).getTime();</script>
 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
 
 <script type="text/javascript"><!--
-var pass_to_js = {"feed": {"palette": "citrus", "show_plus": null, "custom_profile": true, "format": "blog"}, "domain_url": "interesting-station.com", "js_url": "http://c.likes-media.com/s/907d735a2f41f4054e75a133a49b38aa/theme_citrus.js", "MOBILE": false, "net_names": {"c_pubmatic": "c_pb", "c_cpxi": "c_ci", "c_dummy": "c_d", "c_valueclick": "c_vc", "c_pm1": "c_p1", "c_pm2": "c_p2", "c_pm3": "c_p3", "dfp": "dp", "aolm": "am", "rubicon": "r", "c_mylikes": "c_ml", "openx": "ox", "c_amazon": "c_az", "adcom": "ac", "amazon": "az", "c_openx": "c_ox", "c_rubicon": "c_r", "pubm_api_1": "pb1", "pubm_api_2": "pb2", "pubm_api_3": "pb3", "pubm_api_4": "pb4", "valueclick": "vc", "pulsepoint": "pp", "c_openx_lowval": "c_oxlv", "c_criteo": "c_c", "c_aolm": "c_am", "c_pubm_api_4": "c_pb4", "criteo": "c", "pubmatic_highval": "pbmh", "pm1": "p1", "pm2": "p2", "pm3": "p3", "c_pubmatic_highval": "c_pbmh", "c_pulsepoint": "c_pp", "dummy": "d", "c_adcom": "c_ac", "openx_lowval": "oxlv", "mylikes": "ml", "c_dfp": "c_dp", "c_pubm_api_1": "c_pb1", "c_pubm_api_2": "c_pb2", "c_pubm_api_3": "c_pb3", "cpxi": "ci", "pubmatic": "pb"}, "page_path": "interestingstation", "css_url": "http://c.likes-media.com/s/5dc5f90b87749db9e11893aa845d9019/theme_citrus.css", "internal_only": false, "subdomain": "interestingstation"};
+var pass_to_js = {"feed": {"palette": "citrus", "custom_profile": true, "format": "arcadia"}, "domain_url": "interesting-station.com", "js_url": "//o.mlv-cdn.com/s/e1890669eb7f7f9b4e87b0dd039af2e5/citrus__custom_theme_arcadia.js", "MOBILE": false, "net_names": {"c_pubmatic": "c_pb", "appnexus_api_premium": "apnap", "c_cpxi": "c_ci", "c_dummy": "c_d", "c_appnexus": "c_apn", "c_valueclick": "c_vc", "c_pm1": "c_p1", "c_pm2": "c_p2", "c_pm3": "c_p3", "dfp": "dp", "aolm": "am", "rubicon": "r", "c_mylikes": "c_ml", "openx": "ox", "ox_resp": "or", "c_amazon": "c_az", "adcom": "ac", "amazon": "az", "amz": "amz", "c_openx": "c_ox", "c_appnexus_api_premium": "c_apnap", "c_rubicon": "c_r", "appnexus": "apn", "pubm_api_1": "pb1", "pubm_api_2": "pb2", "pubm_api_3": "pb3", "pubm_api_4": "pb4", "valueclick": "vc", "pulsepoint": "pp", "google": "g", "c_openx_lowval": "c_oxlv", "appnexus_api": "apna", "c_criteo": "c_c", "c_aolm": "c_am", "c_appnexus_api_highval": "c_apnah", "c_appnexus_api": "c_apna", "c_pubm_api_4": "c_pb4", "criteo": "c", "pubmatic_highval": "pbmh", "pm1": "p1", "pm2": "p2", "pm3": "p3", "c_amz": "c_amz", "ox_api": "oa", "c_pubmatic_highval": "c_pbmh", "c_pulsepoint": "c_pp", "dummy": "d", "c_adcom": "c_ac", "openx_lowval": "oxlv", "mylikes": "ml", "c_dfp": "c_dp", "appnexus_api_highval": "apnah", "c_pubm_api_1": "c_pb1", "c_pubm_api_2": "c_pb2", "c_pubm_api_3": "c_pb3", "cpxi": "ci", "c_google": "c_g", "pubmatic": "pb"}, "page_path": "interestingstation", "css_url": "//o.mlv-cdn.com/s/88e5745d1ab60eaf2d5b11fedde026be/citrus__custom_theme_arcadia.css", "internal_only": false, "subdomain": "interestingstation"};
 //-->
 </script>
-<script src="http://c.likes-media.com/s/907d735a2f41f4054e75a133a49b38aa/theme_citrus.js" type="text/javascript"></script>
+<script src="//o.mlv-cdn.com/s/e1890669eb7f7f9b4e87b0dd039af2e5/citrus__custom_theme_arcadia.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -588,18 +782,16 @@ s.parentNode.insertBefore(ga, s);
 <script>
 window.global_ich_data = window.global_ich_data || {};
 global_ich_data.base_domain = "interesting-station.com";
-global_ich_data.external_host = "likes.com";
+global_ich_data.external_host = "interesting-station.com";
+global_ich_data.product_name = "Likes.com";
 
-global_ich_data.FB_APPID = "338903566195340";
+
 
 ;
-window.enable_user_subdomains = 1;
 if (window.Mustache) {
 Mustache.FILTERS.profile = function(user_name, path) {
 user_name = user_name || '';
-return "//" + user_name.replace(/_/g, '-') + ".interesting-station.com" + (path || '');
-
-
+return '/' + user_name + (path || '');
 };
 if (window.Jasinja) Jasinja.filters.profile = Mustache.FILTERS.profile;
 }
