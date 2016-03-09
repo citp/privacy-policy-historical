@@ -1,218 +1,89 @@
-> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102321id_/https%3A//www.alaskausa.org/service/security/privacynotice.asp%3Ft%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309144350id_/https%3A//www.alaskausa.org/service/security/privacy.asp) for the most accurate reproduction.*
 
-# Alaska USA Privacy Notice
+# Alaska USA Online Information Practices
 
-This privacy notice is sent annually to Alaska USA members, and provided on opening a new account. You may [download a pdf version](https://web.archive.org/service/download.asp#privacy) of this notice.
+## Online information Alaska USA collects?
 
-Rev. 11/12
+### Information you provide
 
-FACTS
+Alaska USA may collect any information you enter on our websites, apps, or email. You may choose to not provide some information, but by doing so you might be unable to use specific products, services, or site features. We use the informaton you provide for servicing your requests, providing products and services, and communicating with you.
 
-| 
+### Automatic data collection
 
-WHAT DOES ALASKA USA FEDERAL CREDIT UNION  
-DO WITH YOUR PERSONAL INFORMATION?  
-  
+Alaska USA automatically collects certain data when you interact with Alaska USA websites, apps, email messages, or advertisements on other websites. Data may be received directly from your device or browser, and through the use of cookies and pixel tags. Alaska USA does not process "Do Not Track" directives your browser may send.
+
+Collected data may include:
+
+  * Data about your computer or mobile device, including operating system, browser version, and device capabilities.
+  * Data about your network connection, such as the IP address and geolocation of your device. Location data is collected to enable online location-based services, including mapping and advertising. Most mobile devices and browsers allow you to disable location sharing. If sharing is disabled, you may still be able to use these services, but will not be able to benefit from location-aware features.
+  * Data about your usage of Alaska USA online systems, include pages visited, length of time spent visiting individual pages, and patterns of site visits.
+  * Data about email interaction, including read-receipts and measurement of click-through in messages.
+
+
+
+## How we use your online information
+
+Alaska USA may use your information for several purposes, including:
+
+**Security** | Maintain a secure session.   
+Authenticate your computer.   
+Detect potentially fraudulent transactions.   
+Verify transactions.  
 ---|---  
+**Site Management** | Customize content displayed on Alaska USA sites and apps.   
+Improving the relevance and usefulness of websites, apps, and email communications  
+**Marketing** | Provide personalized promotional content on Alaska USA websites and apps.   
+Monitor the effectiveness of advertising on Alaska USA and third-party websites.   
+Improving the relevance and usefulness of email communications.  
   
-Why?
+## Cookies and pixel tags
 
-| 
+Cookies refer to data that is stored on your device at the request of a server. Browser cookies are sent by a web server to the browser on your device when you visit a website. When you return to the site, your browser gives this data back to the server. Mobile applications may also use cookies. Pixel tags (also called web beacons) allow a server to know when specific actions are taken on a website, app, or email. 
 
-Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
-  
-What?
+### Session cookies
 
-| 
+Alaska USA uses session cookies to help maintain continuity during an online session, to gather site usage data, to evaluate the success of online promotions, and for information security purposes. Session cookies are automatically deleted each time you close your browser. UltraBranch and online loan applications require that your browser accept session cookies.
 
-The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+### Third party cookies
 
-  * Social Security number and credit history.
-  * Credit scores and credit card or other debt.
-  * Transaction history and payment history.
+Alaska USA websites may provide third party tools and features, such as social media sharing links, online maps, or streaming audio and video. These features may use code and/or cookies hosted by the third party site, such as the social media or streaming platform. These third parties may have access to information about your activity on Alaska USA web pages or apps that host these tools. For questions on how these sites handle data collected through cookies please refer to the host site.
 
+### Blocking cookies
 
+If you configure your browser to reject cookies, site features that depend on them will be affected. In some cases this may mean a loss of customization, in other cases the feature will no longer function. 
 
-When you are no longer our member, we continue to share your information as described in this notice.  
-  
-How?
+## Third party sites
 
-| 
+### Contract service providers
 
-All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Alaska USA Federal Credit Union chooses to share; and whether you can limit this sharing.  
-  
-Reasons we can share your personal information
+Alaska USA uses a number of contract service organizations to provide members online access to financial information or services. These sites may display Alaska USA's logo, but are not part of Alaska USA's domain (website). Security and privacy are controlled by the site's owner and not by Alaska USA, and practices and policies may differ from Alaska USA. Refer to the posted privacy statement and/or user agreements at each site for additional information about how that particular organization manages information. Alaska USA requires all service providers to agree to adhere to the principles in its privacy policy.
 
-| 
+### Social media
 
-Does Alaska USA share?
+Alaska USA may create and maintain a presence on one or more social media sites. These sites enable sharing and collaboration among the site's registered users. Any content you share on these sites, including personal information, pictures, and comments, is subject to the Terms of Use and Privacy Policies of the respective site.
 
-| 
+Alaska USA may use information you post directly on Alaska USA sanctioned social media pages, or that you make publicly available on the relevant social media site, to respond to your comments or posts. The social media site owner may provide Alaska USA access to aggregate data about users that view or post comments on official Alaska USA pages. Alaska USA uses this data to understand and improve the communication with participants on the site.
 
-Can you limit this sharing?  
-  
----|---|---  
-  
-**For our everyday business purposes -**   
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+Public forums and social media sites, (including the Alaska USA Facebook page) are not secure environments. For your protection, please do not share sensitive account information, including social security numbers, account numbers, user IDs, passwords, or specific transaction details.
 
-| 
+### Links to other sites
 
-Yes
+As a convenience to members and prospective members, Alaska USA provides links to third party websites with which Alaska USA has no contractual relationship. Alaska USA is not responsible for the content, security, or privacy practices of sites it does not control. Please refer to the privacy and security policies of these sites to learn more.
 
-| 
+## Online advertising
 
-No  
-  
-**For our marketing purposes -**   
-to offer our products and services to you
+### Third party advertisements
 
-| 
+Alaska USA does not include third party advertisements in its websites or mobile applications.
 
-Yes
+### Advertisements on third-party sites
 
-| 
+Alaska USA may work with advertising companies to promote Alaska USA products and services on third-party sites. Companies may be provided non-personally identifiable criteria to guide the selection of ads that will be displayed on these sites. Alaska USA may collect information about your interaction with ads on other sites.
 
-No  
-  
-**For joint marketing with other financial companies**
+## Children's privacy
 
-| 
+Alaska USA does not knowingly collect personal information from individuals under the age of 13 through any website or mobile app. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov.
 
-No
+## Notice updates and effective date
 
-| 
-
-We don't share  
-  
-**For our affiliates' everyday business purposes -**   
-information about your transactions and experiences
-
-| 
-
-Yes
-
-| 
-
-No  
-  
-**For our affiliates' everyday business purposes -**   
-information about your creditworthiness
-
-| 
-
-No
-
-| 
-
-We don't share  
-  
-**For our affiliates to market to you**
-
-| 
-
-No
-
-| 
-
-We don't share  
-  
-**For nonaffiliates to market to you**
-
-| 
-
-No
-
-| 
-
-We don't share  
-  
-Questions?
-
-| 
-
-Call (800) 525-9094 ext. 2554  
-  
----|---  
-  
-Who we are  
-  
----  
-  
-**Who is providing this notice?**
-
-| 
-
-Alaska USA Federal Credit Union  
-  
-What we do  
-  
----  
-  
-**How does Alaska  USA protect my personal information?**
-
-| 
-
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-  
-**How does Alaska  USA collect my personal information?**
-
-| 
-
-We collect your personal information, for example, when you
-
-  * Open an account or use your credit or debit card.
-  * Apply for financing or give us your income information.
-  * Show your government issued ID.
-
-
-
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
-  
-**Why can't I limit all sharing?**
-
-| 
-
-Federal law gives you the right to limit only
-
-  * Sharing for affiliates' everyday business purposes - information about your creditworthiness.
-  * Affiliates from using your information to market to you.
-  * Sharing for nonaffiliates to market to you.
-
-
-
-State laws and individual companies may give you additional rights to limit sharing.  
-  
-Definitions  
-  
----  
-  
-**Affiliates**
-
-| 
-
-Companies related by common ownership or control. They can be financial and nonfinancial companies.
-
-  * Affiliated companies include Alaska USA Insurance Brokers, Alaska USA Mortgage Company, Alaska USA Title Agency and Alaska USA Trust Company.
-
-  
-  
-**Nonaffiliates**
-
-| 
-
-Companies not related by common ownership or control. They can be financial and nonfinancial companies.
-
-  * Nonaffiliated companies include credit bureaus, credit screening companies, and retirement account administrators
-
-  
-  
-**Joint marketing**
-
-| 
-
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
-
-  * Alaska USA does not share.
-
-
+Alaska USA may update this notice from time to time. When this notice is updated, the updated version will be posted on the site, and the "Effective Date" displayed at the top of this page will be updated. The notice becomes effective when posted on this site.
