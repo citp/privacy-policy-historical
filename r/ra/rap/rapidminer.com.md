@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911223539id_/https%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309211443id_/https%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RapidMiner
 
-Privacy is a major concern for Rapid-I Inc. (dba. RapidMiner) (hereinafter “RapidMiner”, “we” or “us”), because your confidence is important to us. This Privacy Policy (“Policy”) provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check back periodically for changes. Your continued use of the RapidMiner website will signify your acceptance of these changes.
+Privacy is a major concern for RapidMiner (hereinafter “RapidMiner,” “we” or “us”), because your confidence is important to us. This Privacy Policy (“Policy”) provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check back periodically for changes. Your continued use of the RapidMiner website will signify your acceptance of these changes.
 
 This privacy statement applies to this and all web pages that refer to it. There may apply separate privacy policies to our particular business units, websites or components. We therefore recommend you read the privacy statements of the websites you visit carefully.
 
