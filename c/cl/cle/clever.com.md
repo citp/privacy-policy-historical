@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clever.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320011420id_/https%3A//clever.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clever.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309230143id_/https%3A//clever.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Clever | Clever's Commitment to Your Privacy
 
@@ -42,7 +42,7 @@ Clever only shares personal information in a few limited circumstances, describe
 **Who we may share information with:**
 
   * We may share information with those that provide us with technology services (e.g. web hosting and analytics services), but strictly for the purpose of carrying out their work for us. 
-  * We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our [Terms of Use](https://clever.com/about/terms/), or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.
+  * We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our [Terms of Use](https://clever.com/about/terms), or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.
 
 
 
