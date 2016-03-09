@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interesting-station.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115023448id_/https%3A//interesting-station.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-station.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309114911id_/http%3A//interesting-station.com/privacy) for the most accurate reproduction.*
 
-# Likes.com
+# interesting-station
 
 Effective Date: 27 August 2013
 
