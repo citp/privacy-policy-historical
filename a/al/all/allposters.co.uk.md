@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allposters.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207215501id_/http%3A//www.allposters.co.uk/help/guarantee.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allposters.co.uk privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309114245id_/http%3A//www.allposters.co.uk/help/guarantee.html%23privacy) for the most accurate reproduction.*
 
 # Buy Posters, Art Prints and Art Posters at AllPosters.co.uk
 
