@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krazydad.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153140id_/http%3A//krazydad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazydad.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309175116id_/http%3A//krazydad.com/privacy) for the most accurate reproduction.*
 
 # Krazydad Privacy Policy
 
@@ -6,7 +6,7 @@
 
 I collect information from you when you contact me, via the contact form, or donate to the site, via PayPal. 
 
-In both cases you will be asked to enter your name and e-mail address. Paypal asks for additional information which I do not collect. You may, however, visit my site anonymously.
+In both cases I may obtain your name and e-mail address. Paypal asks for additional information which I do not collect. You may, however, visit my site anonymously.
 
 For more information about PayPal's privacy policies, see [Privacy Policy webpage](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US).
 
@@ -21,8 +21,6 @@ I use your name and email solely so that I can contact you back, for example, to
 Paypal implements a variety of security measures to maintain the safety of your personal information when you make a donation.
 
 All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology. For more information about PayPal's privacy policies, see [Privacy Policy webpage](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US). 
-
-Your name and email are deleted from my email, after I have had a chance to send you a thank you note or respond to your messages. 
 
 **Do I use cookies?**
 
@@ -52,8 +50,7 @@ dad@krazydad.com
 
 * * *
 
-Copyright © 2015 by KrazyDad. All Rights Reserved.  
+Copyright © 2016 by KrazyDad. All Rights Reserved.  
 [Privacy Policy](https://web.archive.org/privacy/)  
-  
-[Send Jim a message.](http://krazydad.com/contactme.php)  
+[Contact Krazydad](http://krazydad.com/contactme.php)  
 
