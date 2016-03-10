@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalsecurity.org privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905135346id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalsecurity.org privacy policy that was archived on 2016-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310150045id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/global.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="head" -->
@@ -21,17 +21,53 @@
   <div id="header">
     <div id="adtop"><!-- InstanceBeginEditable name="adtop" --><!-- InstanceEndEditable --></div>
     <div id="logo"><a href="/index.html" title="GlobalSecurity.org"><img src="/images/global-security.gif" alt="GlobalSecurity.org" id="gs"></a></div>
-    <div id="navtop"><ul>
+    <div id="navtop"><style type="text/css">
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #kiosk, #kiosk2 {display: none;}
+}
+</style>
+
+<ul>
+<div id="kiosk">
   <li id="nav-papers"><a href="http://globalsecurity-whitepapers.tradepub.com/" title="White Papers" target="_blank" rel="nofollow">White Papers</a></li>
   <li id="nav-magazines"><a href="http://globalsecurity.tradepub.com/" target="_blank" rel="nofollow">Magazines</a></li>
+</div>
   <li id="nav-subs"><a href="/subscribe/index.html" title="Subscribe Now &amp; Get Unlimited Access to GlobalSecurity.org"><b>&nbsp;Subscribe Now&nbsp;!&nbsp;</b></a></li>
-  <li id="nav-sign"><a onclick="$.pressplus.f.pop('login');" href="#"><b>Sign In</b></a></li>
+<li id="nav-sign">
+    <script>
+        pianoAfterLogin = function(){
+            if (tp.user.isUserValid()){
+                $('#piano-btn-sign-in' ).hide();
+                $('#piano-btn-sign-out' ).show()
+            }
+            else{
+                $('#piano-btn-sign-in' ).show();
+                $('#piano-btn-sign-out' ).hide();
+            }
+        };
+        $(function($){
+            tp = window["tp"] || [];
+            tp.push(['init', function(){
+                pianoAfterLogin();
+            }]);
+        });
+    </script>
+    <a id="piano-btn-sign-in" onclick="tp.user.showLogin({loginSuccess:pianoAfterLogin});" href="#"><b>Sign In</b></a>
+    <a id="piano-btn-sign-out" onclick="tp.user.logout(pianoAfterLogin);" href="#" style="display: none"><b>Sign Out</b></a>
+</li>
+<div id="kiosk2">
   <li id="nav-jobs"><a href="http://www.clearancejobs.com/?action=quick_register&amp;ref=globalsecurity" title="Jobs" target="_blank" rel="nofollow"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Job Opportunities&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></a></li>
+</div>
 </ul>
 <br clear="all">
 <table bgcolor="0000C6" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td><div align="center"><a href="/subscribe/index.html" title="Subscribe for 1 Year to GlobalSecurity.org and Get 2 Months FREE!!"><img src="/_inc/images/gs-sub-header03.gif"></a></div></td></tr>
+<tbody><tr><td><div align="center"><a href="/subscribe/index.html" title="Subscribe for 1 Year to GlobalSecurity.org and Get 2 Months FREE!!"><font size="+2"><b>Subscribe for 1 year - Get 2 months FREE!! &nbsp;&nbsp;&nbsp; <font color="#FF0000">TRY IT NOW</font></b></font></a></div></td></tr>
 </tbody></table>
+<!--
+<table bgcolor="0000C6" cellpadding="0" cellspacing="0" width="100%">
+<tr><td><div align="center"><a href="/subscribe/index.html" title="Subscribe for 1 Year to GlobalSecurity.org and Get 2 Months FREE!!"><img src="/_inc/images/gs-sub-header03.gif"></a></div></td></tr>
+</table>
+-->
 </div>
     <div id="breadcrumbs"><!-- InstanceBeginEditable name="breadcrumbs" --><a href="/index.html">Home</a>&nbsp;::&nbsp;
 <a href="/org/index.html">About GlobalSecurity.org</a>&nbsp;::&nbsp;<!-- InstanceEndEditable --></div>
@@ -53,24 +89,33 @@
     <input type="text" name="q" maxlength="200" placeholder="Enter Search Term…">
 <input type="submit" style="background-color:#000;color:#fff;font-size:12px;padding:2px;font-weight:bold;" value="Search">
 </form></div>
-      <div id="navleft"><nav class="clearfix">
-    <ul class="clearfix">
-      <li><a href="#">Frantic Goat</a></li>
-      <li><a href="#">SITREP</a></li>
-      <li><a href="#">Military</a></li>
-      <li><a href="#">WMD</a></li>
-      <li><a href="#">Intelligence</a></li>
-      <li><a href="#">Homeland Security</a></li>
-      <li><a href="#">Space</a></li>
-      <li><a href="#">Public Eye</a></li>  
-    </ul>
-    <a href="#" id="pull">Menu</a>
-  </nav>
+      <div id="navleft"><style type="text/css">
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #menu {display: none;}
+}
+</style>
+
+<div id="menu">
+
+<ul id="navlist">
+<!--
+  <li><a href="http://franticgoat.globalsecurity.org/" title="Frantic Goat Blog">Frantic Goat</a></li>
+  <li><a href="http://forum.globalsecurity.org/" title="Military Discussion Forum">Forum</a></li>
+-->
+  <li><a href="http://sitrep.globalsecurity.org/">SITREP</a></li>
+  <li><a href="/military/index.html" title="Military Information">Military</a></li>
+  <li><a href="/wmd/index.html" title="WMD Information">WMD</a></li>
+  <li><a href="/intell/index.html" title="Intelligence Information">Intelligence</a></li>
+  <li><a href="/security/index.html" title="Homeland Security Information">Homeland Security</a></li>
+  <li><a href="/space/index.html" title="Space Information">Space</a></li>
+  <li><a href="/eye/index.html" title="Public Eye">Public Eye</a></li>
+</ul>
 <br>
 <div align="center">
 <!-- Begin RSS -->
 <a href="/globalsecurity-org.xml"><img alt="GlobalSecurity.org RSS feed" src="/images/rss_feed.gif"></a>
 <!-- End RSS -->
+</div>
 </div></div>
       <div id="address">  300 N. Washington St.<br>
   Suite B-100<br>
@@ -139,7 +184,7 @@ Opting out of a network does not mean you will no longer receive online advertis
 <a href="/org/interns.htm" title="GlobalSecurity.org Internships">Internships</a> <span class="navsep">|</span>
 <a href="/sitemap.htm" title="GlobalSecurity.org Site Map">Site Map</a> <span class="navsep">|</span>
 <a href="/privacy.htm" title="GlobalSecurity.org Privacy Policy">Privacy</a></div>
-<div id="footer"><a href="http://www.globalsecurity.org/copyright.htm" title="Copyright">Copyright</a> © 2000-2015 GlobalSecurity.org All rights reserved.<br>
+<div id="footer"><a href="http://www.globalsecurity.org/copyright.htm" title="Copyright">Copyright</a> © 2000-2016 GlobalSecurity.org All rights reserved.<br>
   Site maintained by: <a href="http://www.globalsecurity.org/org/staff/pike.htm" title="John Pike">John Pike</a><br>
 
 <!-- start Vibrant Media IntelliTXT script section -->
