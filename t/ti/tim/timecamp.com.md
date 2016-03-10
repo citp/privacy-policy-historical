@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the timecamp.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711203133id_/https%3A//www.timecamp.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timecamp.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310142442id_/https%3A//www.timecamp.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TimeCamp
-
-* * *
 
 This is the TimeCamp privacy statement. In this statement we explain our policy with respect to personal data collected through this website and Application.
 
 **General**
 
-  * TimeCamp does not give, share or sell your private data and personal contact information to  _anyone_. We may share with third parties certain pieces of aggregated, non-personal information, such as localized productivity statistics. Such information does not identify you individually.
+  * TimeCamp does not give, share or sell your private data and personal contact information to _anyone_. We may share with third parties certain pieces of aggregated, non-personal information, such as localized productivity statistics. Such information does not identify you individually.
   * We take the responsibility to protect the confidentiality of your personal information very seriously.
   * We don’t tolerate spam. We will send out emails to customers only in the case of service related announcements.
   * TimeCamp uses “cookies” to store session’s information, and thus will set and access cookies on your computer(s).
@@ -17,7 +15,7 @@ This is the TimeCamp privacy statement. In this statement we explain our policy 
 
 **Dashboard**
 
-  * _No one_  can see any of your data or personal information.
+  * _No one_ can see any of your data or personal information.
   * You can delete any data that you see or cancel your account at any time.
   * We will never look at your individual data unless you are having technical difficulties, it is required by law, or it is necessary to maintain our system.
 
