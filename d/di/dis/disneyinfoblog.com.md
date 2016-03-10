@@ -1,100 +1,74 @@
-> *The following text is extracted and transformed from the disneyinfoblog.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyinfoblog.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310014040id_/http%3A//disneyinfoblog.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy – DisneyinfoBlog.com
 
-**Go Daddy Respects Your Privacy**
+**Privacy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This policy was last updated July 2015.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Personal Information**
 
-**Information Collection and Use**
+Disneyinfoblog Media requires your e-mail address when you subscribe to our newsletters, when you sign up for sweepstakes, and when you take advantage of other services our website offers. To provide you with the best possible service, we also require some basic personal information when you sign up. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic and optional information, to further tailor our content to your interests. Upon request, we will provide you with the information that we maintain about you.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Demographic Information  **
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We may use aggregate data such as income, age and geography to further customize our content and enhance our services. We may share this information with advertisers and the media. Likewise, we may share this information with another company in the event that we merge, are acquired or participate in a joint venture with another company, or if we conclude that we are required by law to share it. All aggregate data will be shared without any personally identifiable information about our individual subscribers.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Cookies  **
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We and some of our partners may make use of cookies (small text files placed on your computer’s hard disk by our server). They are used to collect traffic information such as the number of visits to our site and pages visited. This information will be used to assess how visitors are using our services. This data will also allow us to manage the functionality of the site. You can disable cookies at any time if your browser permits.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Web Site Usage Information**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We and our partners also may make use of pixel tags which also collect traffic information regarding the behaviour and usage patterns of users of our site.   Pixel tags allow us, or a third party who provides the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the Web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that Web page or other document, including the sites the users of that computer visit. The entity that provides the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user’s operating system and browser type, and similar information.  Our partners may use this information to display advertisements and other content that targeted to you.  We may also use other technologies that permit data gathering.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+You may chose not to accept a pixel tag by taking one of the following three actions:
 
-**Security**
+First, you can opt-out using our partner Blue Kai’s opt-out process, which is explained here  <http://www.bluekai.com/optout.html>. Second, you can also opt-out by using the NAI’s opt-out tool, which is explained here <http://www.networkadvertising.org/managing/opt_out.asp>. These two options require you to accept cookies, and they will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, the pixel tag will be installed until an opt-out cookie is reset on that browser. The third way to block pixel tags is to block third-party cookies on your browser.  If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Linked Sites**
 
-**Updating Your Information**
+Although Disneyinfoblog may provide links to third party sites, and advertisements from third parties, we are not responsible for the content that appears on those sites nor do we endorse these sites. Please review each site’s privacy policy to determine their use of information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Social Networking**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with the Service, we may receive personally identifiable information and other information about you and your computer, mobile and other device that you have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by vising those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, share and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Advertisers  **
 
-      iii.      You may call us at: (480) 505-8800
+To support our efforts we sell sponsorships of Disneyinfoblog mailings and on the blog to advertisers who we think you’d like to know about. Collection, use, disclosure and security of information collected by advertisers are subject to the privacy policies of those advertisers.
 
-       iv.      You may fax us at: (480) 505-8844
+**Agents  **
 
-**Sending Emails**
+From time to time, we may use the services of third-party companies to help facilitate our business activities. These include affiliate or incentive program providers, customer service organizations, e-mail and postal mail brokers, and marketing service providers. These companies are subject to confidentiality agreements with us and are prohibited from using the information we provide for any reason except to perform the functions that we have outlined for them.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Third Parties**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Company expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our Website, may have their own privacy and data collection policies and practices.
 
-**Compliance with Laws and Law Enforcement**
+You should also be aware that if you voluntarily disclose information (including personally identifiable information) on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this Privacy Policy.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Company is not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. It follows that the Company accepts no responsibility for events experienced by you if you visit a third party site by clicking through from the Website. Please remember that when you use a link to go from the Website to another website, this Privacy Policy is no longer in effect. User browsing and interaction on any other website, including those that have a link on our Website, is subject to that other website’s own rules and policies. Please read over those rules and policies before proceeding.
 
-**Third Party Service Providers**
+**Third Party Advertisements and Technologies:**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We use third-party advertising companies to serve advertisements when you visit the Website as is explained in detail in the Terms of Use. In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser. This advertising technology uses information derived from your visits to the Website to target advertising within this Website or on other websites. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called “online behavioral advertising” or “interest-based advertising” or “OBA”). We also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this Website, to learn which banner ads bring users to our Website and to deliver more relevant advertising.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Website and other websites. We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites.
 
-**Supplementation of Information**
+**Opt-out / Unsubscribe**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If we ever send you an email that you did not expressly request, we will provide you with an email address by which you may request to receive no future notices.
 
-**Contests/Surveys**
+**Changes to Privacy Policy  **
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Disneyinfoblog may change this privacy policy. Any changes will be reflected on this privacy policy page. If you are concerned about how your information will be used, you should check back at this privacy policy page periodically.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Children’s Privacy**
 
-**Tell-A-Friend**
+Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any personal information to Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@Disneyinfoblog.com
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Contact  **  
+If you should have any questions about our privacy policy, please contact us at Info@Disneyinfoblog.com.
