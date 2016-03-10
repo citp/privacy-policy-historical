@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolnameideas.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429162807id_/http%3A//www.coolnameideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolnameideas.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310073318id_/http%3A//www.coolnameideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cool Name Ideas
 
@@ -238,7 +238,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### (16)    Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info [at] coolnameideas [DOT] com or by post to 17 Haven Avenue, Bridgend, Stonehouse, Gloucestershire GL10 2AS.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email using our [contact form](https://web.archive.org/contact/) or by post to 17 Haven Avenue, Bridgend, Stonehouse, Gloucestershire GL10 2AS.
 
 ### (17)    Data controller
 
