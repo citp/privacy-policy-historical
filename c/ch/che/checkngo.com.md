@@ -1,119 +1,157 @@
-> *The following text is extracted and transformed from the checkngo.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320055156id_/https%3A//www.checkngo.com/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkngo.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310044114id_/https%3A//www.checkngo.com/pdf/online_privacy_policy.pdf) for the most accurate reproduction.*
 
-# FACTS
+# C
 
-                                                                                                                                                   Rev. 04/2012
-                            WHAT DOES CHECK'N GO
-   FACTS                    DO WITH YOUR PERSONAL INFORMATION?
-                            Financial companies choose how they share your personal information. Federal law
-  Why?                      gives consumers the right to limit some but not all sharing. Federal law also requires us to tell
-                            you how we collect, share, and protect your personal information. Please read this notice
-                            carefully to understand what we do.
-                            The types of personal information we collect and share depend on the product or service you
-  What?                     have with us. This information can include:
-                             ■   Social Security number and Income
-                             ■ Payment History and Employment Information
-                             ■ Account Balances and Checking Account Information
-                             All financial companies need to share consumers' personal information to run their everyday
-  How?                       business. In the section below, we list the reasons financial companies can share their
-                             consumers' personal information; the reasons Check 'n Go chooses to share; and whether
-                             you can limit this sharing.
-Reasons we can share your personal information                             Does Check'n Go share?                   Can you limit this sharing?
-For our everyday business purposes-                                                         Yes                                         No
-such as to process your transactions, maintain your
-account(s), respond to court orders and legal
-investigations, or report to credit bureaus
-For our marketing purposes-                                                                 Yes                                         No
-to offer our products and services to you
-For joint marketing with other financial                                                    Yes                                         No
-companies
-For our affiliates' everyday business                                                       Yes                                         No
-purposes-
-information about your transactions and experiences
-For our affiliates' everyday business                                                       Yes                                         Yes
-purposes-
-information about your creditworthiness
-For our affiliates to market to you                                                         Yes                                         Yes
-For nonaffiliates to market to you                                                          Yes                                         Yes
-                            ■ Call N/A           -our menu will prompt you through your choice(s)
-To limit                    ■ Visit us online: N/A
-our sharing                 ■ Mail the form below
-                            Please note:
-                            If you are a new customer, we can begin sharing your information 30 days from the date we
-                            sent this notice. When you are no longer our customer, we continue to share your
-                            information described in this notice.
-                            However, you can contact us at any time to limit our sharing.
-                           Call 888-3PAYDAY or go to comments@checkngo.com
-Questions?
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Mail-in Form
-                           Mark any/all you want to limit:
-                           [_] Do not share information about my creditworthiness with your affiliates for their
-                           everyday business purposes.
-                           [_] Do not allow your affiliates to use my personal information to market to me.
-                           [_] Do not share my personal information with nonaffiliates to market their products
-                           services to me.
-                             Name
-                             Address
-                             City, State, Zip
-Mail To:                   Check 'n Go, Customer Service P.O. Box 36381, Cincinnati, OH 45236-0381
+                                 CHECK 'N GO PRIVACY POLICY
+EFFECTIVE: February 2016
+                 Version 1.2
+This Privacy Policy ("Policy") applies to the use of Check 'n Go (the "Company") online sites
+and any Company affiliate or subsidiary sites. This Policy describes how the Company may
+collect, share, and use personal information about you based on your interaction with our sites
+and the choices you make about how your information is collected and used.
+Please read this Policy carefully. Your continued use of our sites means that you understand and
+consent to the terms of this Policy.
+This Policy is intended to cover only our U.S. customers. If you access our online services or
+visit our U.S. sites, your information may be transferred or processed in the United States.
+WHAT WE COLLECT
+Personal Information
+When you use the Company' online sites, we may collect and share your personal information
+that you provide via forms, applications, surveys, and other online fields. This information can
+include:
+        •        Name, address, and contact information;
+        •        Social Security number and income information;
+        •        Payment history and employment information;
+        •        Financial account details and account balances; or
+        •        Information from identification documentation, such as your driver's license,
+                 passport, or utility bills.
+Non-Personal Information
+In addition to the personal information that we may collect from you, we may also automatically
+gather and store non-personal information about your visit including the IP address from which
+you access our sites; browser information; computer operating system information; the date and
+time you access our sites; the pages, files, and links you visit; and the web address from which
+you linked to our sites.
+We may collect this information from the devices and networks that you use to visit our sites in
+order to help improve the services we provide. We may use this information to analyze trends,
+administer the site, track users' movements, and gather broad demographic information for
+aggregate use or for other business purposes.
 
 
-Page 2
-Who we are
-Who is providing this notice?                                  For a complete list, see the companies listed on page three.
-Whate we do
-How does Check 'n Go                                          To protect your personal information from unauthorized access and
-protect my personal information?                              use, we use security measures that comply with federal law.
-                                                               These measures include computer safeguards and secured files and
-                                                               buildings.
-How does Check 'n Go                                          We collect your personal information, for example, when you
-collect my personal information?
-                                                                ■ Apply for a loan or Give us your contact information
-                                                                ■ Open an account or Give us your income information
-                                                                ■ Provide employment information
-                                                                We also collect your personal information from others, such as credit
-                                                                bureaus, affiliates, or other companies.
-Why can't I limit all sharing?                                Federal law gives you the right to limit only
-                                                              ■ sharing for affiliates' everyday business purposes-information about
-                                                              your creditworthiness
-                                                              ■ affiliates from using your information to market to you
-                                                              ■ sharing for nonaffiliates to market to you
-                                                              State laws and individual companies may give you additional rights to
-                                                              limit sharing.
-What happens when I limit sharing                             Your choices will apply to everyone on your account.
-for an account I hold jointly
-with someone else?
-Definitions
-Affiliates                                                     Companies related by common ownership or control. They can
-                                                               be financial and nonfinancial companies.
-                                                               ■ Our affiliates include companies with a d/b/a of Check 'n Go;
-                                                               financial companies such as Southern Specialty Finance, Inc., d/b/a
-                                                               Check 'n Go, nonfinancial companies such as CNG Holdings, Inc.
-Nonaff iliates                                                 Companies not related by common ownership or control. They can be
-                                                               financial and nonfinancial companies.
-                                                               ■ Nonaffiliates we can share with can include debit card
-                                                               companies,banks, check cashing service companies, and money
-                                                               transfer companies.
-Joint marketing                                                A formal agreement between nonaffiliated financial companies that
-                                                               together market financial products or services to you.
-                                                               ■ Our joint marketing partners include debit card companies, and money
-                                                               transfer companies.
-Other important information
-If applicable state law is more restrictive on us than the information sharing policies described in this Privacy
-Statement, then our information sharing policies will conform to the more restrictive state law.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cookies and Other Tracking Technology
+Company uses cookies and other tracking technology, to monitor website performance. These
+other tracking technologies may include some combination of web beacons, clear GIFs, or pixel
+tags. Cookies and other tracking technology allow us to collect information, such as your
+browser type, the time you spend on our sites, the pages you visited, your language preferences,
+and other anonymous visit data. We may use this information to improve the quality of our sites.
+Company may also contract with third-party companies that use cookies, web beacons, clear
+GIFs, pixel tags, and other tracking technology for our sites' analytics and to advertise our
+products and services on unaffiliated websites and mobile apps. With our approval, these
+companies will have access to your information as needed to perform their functions, but they
+cannot use your information for any other purpose. These companies will not have access to
+information that can personally identify you.
+Most web browsers are initially set up to accept cookies. Many web browsers also allow you to
+refuse cookies, but doing so may degrade your experience on our sites. Please see the
+information about "Your Choices" below.
+Third-Party Analytics
+We have engaged Inspectlet and/or other parties to analyse the activities of visitors to this
+website, and Inspectlet's authorized use of cookies and other tracking technologies enable it to
+have access to Personal Information of visitors to this website. Such access to and use of
+Personal Information by Inspectlet is governed by Inspectlet's Privacy Policy
+https://www.inspectlet.com/legal#privacy.
+HOW WE USE YOUR INFORMATION
+The information we collect is used to increase your service and experience on our sites. We may
+use your information for everyday business purposes including: to process your requests,
+transactions, applications, and inquiries; to verify your identity; to allow access to your online
+accounts; to recognize you when you return to our sites; to prevent fraud and increase security of
+our online services; and to comply with applicable legal requirements.
+We reserve the right to contact you regarding changes to this Policy or any other policies or
+agreements relevant to your use of our sites.
+HOW WE SHARE YOUR INFORMATION
+Company may share your information with our service providers, affiliates, and other third
+parties. Where applicable, we limit sharing your non-public personal information according to
+our financial privacy notice which can be found at: https://www.checkngo.com/pdf/privacy.pdf.
+                                                   2
 
 
-Page 3
-Other important information, cont.
-Check 'n Go complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce
-regarding the collection, use, and retention of personal information from European Union member countries.
-Check 'n Go has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer,
-security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view
-Check 'n Go's certification, please visit http://www.export.gov/safeharbor/
-This notice provided by:
-Axcess Financial Services, Inc., d/b/a Check 'n Go, CNG Holdings, Inc., Check 'n Go of Florida, Inc., d/b/a Check 'n Go,
-Southern Specialty Finance, Inc., d/b/a Check 'n Go, Great Lakes Specialty Finance, Inc., d/b/a/ Check 'n Go, Great
-Plains Specialty Finance, Inc., d/b/a Check 'n Go, Southwestern & Pacific Specialty Finance, Inc., d/b/a Check 'n Go,
-Eastern Specialty Finance, Inc., d/b/a Check 'n Go, Avante TelAdvance, Inc.
+With regard to Social Security Numbers ("SSNs"), the Company takes all reasonable steps to
+protect the confidentiality of SSNs, prohibit unlawful disclosure of SSNs and limit access to
+SSNs.
+Service Providers, Affiliates, or Joint Marketers
+We may disclose certain personal and non-personal information we collect from your use of our
+sites to companies that perform services on our behalf, including those who assist us in
+processing transactions, preparing, and mailing statements (if applicable), and responding to user
+inquiries. In addition, we may disclose that information to service providers that perform
+marketing services for us and to financial institutions outside our corporate family with whom
+we have joint marketing agreements. We further reserve the right to share, rent, sell, or
+otherwise disclose the information we collect with affiliates and third parties for direct marketing
+purposes.
+Non-Affiliated Third Parties
+We may disclose certain non-personal information we collect from your use of our sites to third
+parties outside our corporate family ("Non-Affiliated Third Parties"). Non-Affiliated Third
+Parties may include financial service providers (such as banks or other lenders), nonfinancial
+companies (such as publishers, retailers, and direct marketers), and others. We may disclose
+your personal information to trusted third parties who assist us in operating our website,
+processing transactions, conducting our business, or servicing you, so long as these parties agree
+to keep this information confidential, consistent with this Policy. We may also disclose
+information about you to Non-Affiliated Third Parties as permitted by law, such as to comply
+with a subpoena, respond to inquiries from government authorities, or defend legal actions.
+YOUR CHOICES
+Do Not Track
+Some web browsers may allow you to transmit "do-not-track" or similar signals to the websites
+that you visit. Our website does not respond to web browsers' do-not-track signals.
+First Party Cookies
+We use Google Analytics, CrazyEgg and Optimizely to collect information about your use of our
+site. These analytics services store information about what pages you visit, how long you are on
+the site, how you got here, and what links you visited. This data is not tied to any personal
+information about you.
+To opt-out of this tracking, please use these link:
+https://tools.google.com/dlpage/gaoptout
+https://www.crazyegg.com/opt-out
+http://www.checkngo.com/?optimizely_opt_out=true.
+                                                  3
+
+
+Third Party Cookies
+You can control how your browser accepts these cookies. Please follow the instructions in the
+following link: http://www.aboutcookies.org/default.aspx?page=1.
+Company may use non-personal information we collect as described above to assist advertising
+companies in selecting which of our advertisements and offers may appeal to you. If you prefer
+not to receive targeted or retargeted advertising based on your use of our sites, you can opt out at
+the following addresses:
+http://optout.conversantmedia.com
+http://assets.invitemedia.com/opt-out.html
+http://ib.adnxs.com/optout
+http://www.optoutprescreen.com
+http://assets.invitemedia.com/opt-out.html
+https://www.dataxu.com/about-us/privacy/data-collection-platform/.
+LINKS TO OTHER WEBSITES
+We may provide links to third-party websites from within our sites for your convenience. This
+Policy applies solely to our sites on the www.checkngo.com domain.
+Please be aware that we are not responsible for the privacy practices of other sites. We
+encourage you to be aware when leaving our sites of the privacy policies and the terms and
+conditions that apply when you visit other sites that may collect your information.
+SECURITY
+Company uses security measures consistent with industry standards to protect your information
+collected through our sites. These measures include technical, procedural, monitoring, and
+tracking safeguards to protect your information from misuse, unauthorized access or disclosure,
+loss, alteration, or destruction. Please keep in mind that no data transmission over the Internet is
+ever 100% secure, and any information that you transmit to us is done at your own risk.
+CHILDREN'S PRIVACY
+Company does not knowingly contact or collect personal information from children under 13
+years. Company' sites are not designed or directed to solicit information of any kind from
+children under 13 years.
+COMPLAINTS AND CORRECTIONS
+If you have any questions about this Policy or if you have a complaint with regard to the use of
+your personal information, you may reach us at generalcomplaints@axcess-financial.com.
+For any residents of the United Kingdom, customers of Cheque Centres or customers of Cash
+Generator with an unresolved complaint with regard to Safe Harbor commitments or the use of
+                                                  4
+
+
+personal information collected in the United Kingdom, you also may contact the Information
+Commissioner's Office (ICO) at: https://ico.org.uk/concerns/ if we are not able to resolve your
+complaint.
+POLICY UPDATES
+This Policy is effective as of October 2015. We will notify you of any changes to this Policy by
+posting a notice on our homepage. Any changes will be effective as soon as they are published
+on our sites.
+                                                5
