@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022133114id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310095456id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.*
 
 # Thalamus Privacy Policy
 
-Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates [http://www.thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
+Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates  [http://www.thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at [http://www.thalamus.co/terms](https://web.archive.org/terms)
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at  [http://www.thalamus.co/terms](https://web.archive.org/terms)
 
 ## WHAT INFORMATION DO WE COLLECT?
 
@@ -12,11 +12,13 @@ We use your Personal Information only for providing and improving the Site. By u
 
 We collect information from you when you register on our site.
 
-When registering on our site, as appropriate, you may be asked to enter your: full name, email address, job role, and link to your personal website/LinkedIn profile (“Personal Information”). You may, however, visit our site anonymously.
+When registering on our site, as appropriate, you may be asked to enter your: full name, email address, job role, and link to your personal website/LinkedIn profile, phone number, geographic location, and registration time (“Personal Information”). You may, however, visit our site anonymously.
+
+After you have registered on the site, other information we may collect includes, but is not limited to: search and filter queries performed , content viewed, and links clicked on the Site.
 
 ### Using the Service
 
-Furthermore, we collect information about which keywords you type into the search bar for the Service, but store them only in aggregate. We also collect information about any interactions on the Service, including, but not limited to: ad partner opens, filtering, bookmarks, button clicks, and ad partner edits.
+Furthermore, we collect information about which keywords you type into the search bar for the Service, but store them only in aggregate. We also collect information about any interactions on the Service, including, but not limited to: data viewed, bookmarks made, buttons clicked, search and filter queries performed, and advertising partner data inputted.
 
 ### Log Data
 
@@ -39,10 +41,12 @@ Any of the information we collect from you may be used in one of the following w
   * To improve customer service   
 (your information helps us to more effectively respond to your customer service requests and support needs) 
   * To send periodic emails
+  * To be shared with sponsored advertising partner(s) and/or business partner(s) when there is potential of a mutually beneficial relationship
+  * To be shared with participating advertising partner(s) in their analytics dashboard and/or analytics email notifications
 
 
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+The email address you provide may be used to send you information, respond to inquiries, be sent to Thalamus sponsored advertising partner(s) and/or business partner(s), and/or other requests or questions.
 
 ## HOW DO WE PROTECT YOUR INFORMATION?
 
@@ -52,9 +56,15 @@ With respect to any documents or data you choose to upload/add to Thalamus, we t
 
 ## DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, other than to sponsored advertising partner(s) and/or business partner(s) of whom we have a financial relationship with. We also may share portions of your personally identifiable information, such as your job role, company email domain, first name and last name initial, with participating advertising partner(s) in their analytics dashboard and/or analytics email notifications. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-Thalamus shares anonymous data with Google Analytics, such as browser type, demographics, language settings, page views, time/date, and personal data with Mailchimp, specifically names and email addresses.
+Thalamus shares anonymous data with Google Analytics, such as browser type, demographics, language settings, page views, time/date, and personal data with Sendgrid, specifically names and email addresses. Thalamus may also share your data with sponsored advertising partner(s) and/or business partner(s) of whom we have a financial relationship with. This data may include, but is not limited to, your personally identifiable information such as full name, job role, location, phone number, email address, and also your behaviors on the Site including, but not limited to: search and filter queries performed, content viewed, and links clicked. 
+
+We may also share some basic information with advertising vendors through our proprietary analytics tool(s), but this will only include your job role, geographic location, and email domain, and first name, and last name initial. This proprietary analytics tool(s) may come in the form of a dashboard that an advertising partner can log into, or an email notifying them that certain logged-in users have viewed their advertising partner profile, or have performed certain buyer activities, which may include, but are not limited to: search and filter queries performed, content viewed, and links clicked. 
+
+### Third Party Sponsors
+
+If you have elected to register on the Thalamus Site, we may share your information (including Personally Identifiable Information) with sponsored advertising partner(s) and/or business partner(s) we have a financial relationship with. You agree that these business partner(s) and/or sponsored advertising partner(s) may use your Personally Identifiable Information to contact you, if they choose to provide you additional information regarding their products or services. 
 
 ### Displaying Your Data
 
@@ -100,24 +110,10 @@ By using our site, you consent to our [websites' privacy policy](https://web.arc
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. We urge you to bookmark this Privacy Policy page and check it periodically if you are concerned about how your information is being used.
 
-This policy was last modified on July 26th, 2014
+This policy was last modified on Dec 15, 2015
 
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Thalamus, Inc 2060 Sutter St #406 San Francisco, CA 94115 info [at] [thalamus.co](http://www.thalamus.co/)
-
-  * Please check your email to complete the registration process.   
-If you do not see the confirmation email, please check your spam folder. 
-
-  * Thank you for your review 
-
-  * Thanks for your review. It will be posted once it has been verified by a Thalamus moderator. 
-
-  * Thanks for sharing Thalamus. You have been awarded Kudos! 
-
-  * Sign Up to write ad partner reviews, or to edit capabilities and key contacts. 
-
-
-
+Thalamus, Inc 535 Mission St San Francisco, CA 94105 info [at] [thalamus.co](http://www.thalamus.co/)
