@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516235632id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310180440id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
 
 # Miiduu Privacy Policy
 
@@ -84,7 +84,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Joosee Co., Limited  
-RM1501-C1, Grand Millennium Plaza (Lower Block)  
-181 Queen's Road Central, Hong Kong  
+Shanghai Maidu Network Technology Corp.  
+T3-6A, 2601 XieTu Rd, Jiahui Plaza,  
+Shanghai, China, 200030  
 
