@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crichotline.co privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831153931id_/http%3A//crichotline.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crichotline.co privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310195536id_/http%3A//crichotline.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crichotline
 
