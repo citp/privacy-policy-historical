@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compgroups.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204024112id_/http%3A//compgroups.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compgroups.net privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310110535id_/http%3A//compgroups.net/site%7Eprivacy) for the most accurate reproduction.*
 
 # compgroups Privacy Policy
 
