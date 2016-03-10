@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193338id_/http%3A//www.24-7pressrelease.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310124925id_/http%3A//www.24-7pressrelease.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Press Release Service Privacy Policy - 24-7 Press Release
 
