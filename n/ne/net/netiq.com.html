@@ -1,42 +1,23 @@
-<!--The following is the downloaded HTML source of the netiq.com privacy policy that was archived on 2014-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141028204824id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netiq.com privacy policy that was archived on 2016-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310115711id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js desktop" lang="en" scrolltop="NaN"><!--<![endif]--><head>
-	<title>Privacy Policy | NetIQ</title>
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	
-	<meta charset="utf-8">
+<!DOCTYPE html><html class="no-js desktop" lang="en" scrolltop="NaN"><!--<![endif]--><head><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1582535286294"></script>
+<title>Privacy Policy - Company | Micro Focus</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 
-<link rel="stylesheet" href="/common/inc/css/main.css?v=2">
-
-<!-- LOAD trackjs to track all javascript errors on the site -->
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" id="db_ip_api_ua" src="https://api.demandbase.com/api/v2/ip.json?key=b647973191493042e966cc75ce79fd3d59ddcd2c&amp;callback=Demandbase.Connectors.Google_UniversalAnalytics.track&amp;page=https://web.archive.org/web/20141028204824id_/https://www.netiq.com/company/legal/privacy/&amp;referrer="></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-86RG"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">
-	if (window.location.host == 'www.netiq.com') {
-		document.write("<script type='text/javascript' src='//dl1d2m8ri9v3j.cloudfront.net/releases/1.2.5/tracker.js' data-customer='cfce1b5ae98d448abc87cc32bfef2564'><\/script>");
-	}
-</script>
-
-<script>
-var _prum = [['id', '53a8abc9abe53d642026b059'],
-			 ['mark', 'firstbyte', (new Date()).getTime()]];
-(function() {
-	var s = document.getElementsByTagName('script')[0]
-	, p = document.createElement('script');
-	p.async = 'async';
-	p.src = '//rum-static.pingdom.net/prum.min.js';
-	s.parentNode.insertBefore(p, s);
-})();
-</script>
+<link rel="stylesheet" href="/common/inc/css/main.css?v=10">
 
 <!-- Load JQuery in the header so in-page JS works -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script async="" src="//decibelinsight.net/i/17543/di.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/QfAwkCBK.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-86RG"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='/common/inc/js/libs/jquery-1.7.1.min.js'><\/script>")</script><script src="/common/inc/js/libs/jquery-1.7.1.min.js"></script>
 
 <!-- <script src="/common/inc/js/libs/modernizr-2.5.2.min.js"></script> -->
-<script src="/common/inc/js/core.js?v=8"></script><script type="text/javascript" src="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/util/geophone.php?co=" us"=""></script>
+<script src="/common/inc/js/core.js?v=7"></script><script type="text/javascript" src="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/util/geophone.php?co=" us"=""></script><link rel="stylesheet" href="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/css/responsive.css">
 
 <!-- Typekit -->
 <script type="text/javascript" src="https://use.typekit.com/abb1dbs.js"></script>
@@ -87,6 +68,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	var trackPageViewOnLoad = (typeof trackPageViewOnLoad != "undefined" && trackPageViewOnLoad === false) ? false : true;
 	if(trackPageViewOnLoad) {
 		if(typeof is404Page == "undefined" || is404Page !== true) {
+            // add eloqua email value to custom dimension
+            var emailValue = readCookie('elid');
+            if ( emailValue ) {
+                ga('set', 'dimension13', emailValue);
+            }
+            // add timestamp to custom dimension
+            var timestamp = Math.floor(Date.now() / 1000);
+            ga('set', 'dimension15', timestamp);
+
+            // set bing custom dimension
+            var referrer = document.referrer;
+            if ( referrer !== undefined && referrer.indexOf('bing.com') > -1 && referrer.indexOf('q=') > -1 ) {
+                var query = referrer.replace(/.*q=/, '').replace(/&.*/, '').replace(/\+/, ' ');
+                if ( query !== '' ) {
+                    ga('set', 'dimension16', query);
+                }
+            }
+
+            ga('require', 'displayfeatures'); 
 			ga('send', 'pageview');
 		}
 	}
@@ -95,185 +95,641 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 /////////////////////////////////////////
 //	Demandbase/GA Integration
 // Start Demandbase / Google Analytics Integration -->
-    'use strict'; var Demandbase = window.Demandbase || {}; Demandbase.Connectors = window.Demandbase.Connectors || {};
-    Demandbase.Connectors.Google_UniversalAnalytics = {
-        name: 'Demandbase Universal Analytics Connector', version: '6.1',
-        key: 'b647973191493042e966cc75ce79fd3d59ddcd2c',
-        //fields: {1 : 'audience', 2 : 'company_name', 3 : 'industry', 4 : 'revenue_range', 5 : 'employee_range', 6 : 'sub_industry', 7 : 'fortune_1000', 8 : 'forbes_2000', 9 : 'watch_list_account_type', 10 : 'watch_list_buying_stage'},
-        fields: {1 : 'company_name', 2 : 'industry', 3 : 'audience', 4 : 'employee_range', 5 : 'watch_list_suse_status', 6 : 'watch_list_attachmate_status', 7 : 'watch_list_netiq_status', 8 : 'watch_list_novell_status', 9 : 'employee_count', 10 : 'ip'},
-        pixels: {ad:'YOUR_AdPixelToken',rt:'YOUR_RetargetPixelToken',cn:'YOUR_ConversionPixelToken'},
-        CompanyProfile: null, gType: null, logging: true,
-        track:function(data) { try { var self = Demandbase.Connectors.Google_UniversalAnalytics, dflt = '(Non-Company Visitor)', awDflt = '(Non-AccountWatch Visitor)'; data = self._flatA(data); self._toGtmDl(data); self.CompanyProfile = data; self._detectG(); for (var field in self.fields) { if (self.fields.hasOwnProperty(field)) { var num = field, lbl = self.fields[field], val = data[self.fields[field]] || dflt, isCompany = (data['company_name'] || dflt) !== dflt; if(data[self.fields[field]] === false) { val = 'false'; } if (lbl.indexOf('watch_list_') !== -1 && isCompany) { val = data[self.fields[field]] || awDflt; } self._var(num, lbl, val.toString()); } } self._event(); } catch (e) { this._logE('Integration Error: ' + e) }; },
-        trackConversion:function() { var id = this.pixels['cn']; if (id) { var img = document.createElement('img'), s = document.getElementsByTagName('body')[0]; img.setAttribute('style', 'display:none'); img.setAttribute('alt', 'conversion pixel'); img.id = 'db_cn_pixel'; img.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "a.company-target.com/pixel?type=js&id=" + id; if('undefined' === typeof s || !s) { s = document.getElementsByTagName('head')[0]; } s.appendChild(img); this._logE('Loaded Script ' + img.src); } },
-        load:function(){ try { var pg,db=document.createElement('script'); this.loadPixels(); db.type='text/javascript'; db.async=true; db.id='db_ip_api_ua'; pg=document.URL; if(top !== self) { pg=document.referrer; } db.src=('https:'==document.location.protocol?'https://':'http://')+'api.demandbase.com/api/v2/ip.json?key='+this.key+'&callback=Demandbase.Connectors.Google_UniversalAnalytics.track&page='+pg+'&referrer='+document.referrer; var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(db,s); this._logE('Loaded Script ' + db.src); } catch(e){ this._logE('Script Error: '+e)}; },
-        loadPixels: function() { for (var pixel in this.pixels) { if (this.pixels.hasOwnProperty(pixel)) { var id = this.pixels[pixel]; if (id && pixel !== 'cn') { var img = document.createElement('img'), s = document.getElementsByTagName('body')[0]; img.setAttribute('style', 'display:none'); img.setAttribute('alt', 'pixel'); img.id = 'db_' + pixel; img.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "a.company-target.com/pixel?type=js&id=" + id; if('undefined' === typeof s || !s) { s = document.getElementsByTagName('head')[0]; } s.appendChild(img); this._logE('Loaded Script ' + img.src); } } } },
-        _flatA:function(a){ for(var d in a){ if(typeof a[d]=='object'&&a[d]!==null){ for(var cd in a[d]){a[d+'_'+cd]=a[d][cd]}; delete a[d]; } }; return a; },
-        _logE:function(m){ if(this.logging && typeof(console) !== 'undefined' && window['console'] !== 'undefined') { /*console.log('DB UA: ' + m);*/ } },
-        _var:function(i,k,v){ if(this.gType === 'ga') { this._p('_setCustomVar', i >> 0, k, v, 1); } else { ga('set','dimension'+i,v); } this._logE(i + ' ' + k +' : ' + v); },
-        _event:function(){ if(this.gType === 'ga') { this._p('_trackEvent', 'Demandbase', 'API Resolution', 'IP API', 0, 1); } else { ga("send", "event", { eventCategory: "Demandbase", eventAction: "API Resolution", eventLabel: "IP Address API", nonInteraction: true }); } this._logE('Sent Custom Event: Demandbase/API Resolution/IP Address API'); },
-        _cEvent:function(c,a,l){ if(this.gType === 'ga') { this._p('_trackEvent', c, a, l, 0, 1); } else { ga("send", "event", { eventCategory: c, eventAction: a, eventLabel: l, nonInteraction: true }); } this._logE('Sent Custom Event:'+c+'/'+a+'/'+l); },
-        _p: function(t, v1, v2, v3, v4, v5) { window._gaq.push([t, v1, v2, v3, v4, v5]); },
-        _toGtmDl: function(data) { if (window.google_tag_manager && window.dataLayer) { dataLayer.push(data); dataLayer.push({ event:"Demandbase_Loaded" }); this._logE('Pushed to GTM dataLayer'); } },
-        _detectG: function() { if(typeof window.ga === 'function') { this.gType = 'ua'; } else if(window._gaq) { this.gType = 'ga'; _gaq.push(['_addDevId', 'NE7T9']); } else { if(!window.ga) window.ga = function(){(ga.q=ga.q||[]).push(arguments)}; this.gType = 'ua'; } this._logE('Detected Google version: ' + this.gType); }
-    };
-    Demandbase.Connectors.Google_UniversalAnalytics.load();
+(function(d,b,a,s,e){ var t = b.createElement(a),
+    fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e;
+    t.src=('https:'==document.location.protocol ? 'https://' : 'http://') + s;
+    fs.parentNode.insertBefore(t, fs); })
+(window,document,'script','scripts.demandbase.com/QfAwkCBK.min.js','demandbase_js_lib');
     /* End Demandbase integration */
 // End Demandbase / Google Analytics -->
 
 
-</script><img style="display:none" alt="pixel" id="db_ad" src="https://a.company-target.com/pixel?type=js&amp;id=YOUR_AdPixelToken"><img style="display:none" alt="pixel" id="db_rt" src="https://a.company-target.com/pixel?type=js&amp;id=YOUR_RetargetPixelToken">	
+</script>
+
+<!-- Decibel Insight - www.netiq.com -->
+<script type="text/javascript">
+	// <![CDATA[
+	(function(d,e,c,i,b,el,it) {
+		d._da_=d._da_||[];_da_.oldErr=d.onerror;_da_.err=[];
+		d.onerror=function(er){_da_.err.push(er);_da_.oldErr&&_da_.oldErr(er);};
+		d.DecibelInsight=b;d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments);};
+		el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.parentNode.insertBefore(el,it);
+	})(window,document,'script','//decibelinsight.net/i/17543/di.js','decibelInsight');
+	// ]]>
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/common/inc/js/trial_download.js"></script>
+
+<script type="text/javascript">
+	var demandbase_data_promise = jQuery.ajax({
+		type: 'get',
+		url: '/common/util/demandbase_data.php',
+		data: {},
+		success: function(data) {},
+		complete: function() {},
+		error: function() {},
+		dataType: 'json'
+	});
+</script>
+
+
+<style type="text/css">
+table.table thead th.desc { width: 65px !important; }
+table.table thead th.purpose { width: 120px !important; }
+table.table tbody td { color: #515151 !important; font-size: 12px !important; line-height:16px !important; }
+table.table tbody td { padding: 10px !important; }
+</style>
 </head>
-<body class="en-us" scrolltop="NaN">
-	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-<header>
-	<div class="wrap">
-		<div class="logo"><a href="/">NetIQ</a></div>
-		<div class="header_top" style="padding-right: 120px;">
+<body class="fixedhdr en-us" scrolltop="NaN">
+
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+<header class="main">
+	<div class="header_bottom">
+		<div class="wrap">
+			<div class="logo"><a href="/" onclick="ga('send', 'event', 'header', 'logo', 'main');" id="hdr_logo">NetIQ | Micro Focus</a></div>
+			<nav><div id="mobile_btn_nav">&nbsp;</div>
+				<ul>
+					<li id="nav_solutions" class="large"><a href="/solutions-industries/" onclick="ga('send', 'event', 'header', 'solutions', 'main');" id="hdr_solutions_main"><strong>Solutions</strong><i class="downarrow">&nbsp;</i><i class="arrow"></i></a>
+						<div><div id="solution_identity" class="nav_solution active">  <p><a href="http://www.netiq.com/solutions/identity-access-management/"><i>&nbsp;</i>Identity &amp; Access<br>    Management</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Use integrated identity information to create and manage identities and control access to enterprise resources. We provide identity and access management, single sign–on (SSO), access governance, and more.<br>        <br>        <a href="http://www.netiq.com/solutions/identity-access-management/">Learn more about Identity &amp; Access Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/identity-access-management/secure-access.html">Give users quick and secure access to the resources they need</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/single-sign-on.html">Make passwords secure and simple to remember</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/user-access-control.html">Make it easy to control access to IT resources</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/it-regulatory-compliance.html">Control access for IT regulatory compliances</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/monitor-privileged-users.html">Control and  monitor privileged users</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.netiq.com/promo/identity-and-access-management/forrester-wave-identity-and-access-management-suites.html?utm_campaign=ForresterWaveReportIAM_Q32013&amp;utm_source=IAM&amp;utm_medium=Nav"><img src="http://www.netiq.com/common/img/home/oseats/forrester-pdf-no-hands.png" alt="NetIQ a Leader in The Forrester Wave: Identity and Access Management Suites report"><span> NetIQ a Leader in The Forrester Wave: Identity and Access Management Suites report<br>        <b>Read the paper</b></span></a></li>      <li><a href="http://www.netiq.com/promo/cloud-ready-security/extending-access-control-to-the-cloud.html?utm_campaign=Solutions&amp;utm_source=Identity-Access&amp;utm_medium=Nav"><img src="http://www.netiq.com/solutions/security-management/img/pdf/problem6_asset1.png" alt="Extending Access Control to the Cloud"><span>Extending access control to the cloud<br>        <b>Read the paper</b></span></a></li>    </ul>  </div></div><div id="solution_security" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/security-management/"><i>&nbsp;</i>Security<br>    Management</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Detect and respond to all potential threats quickly and decisively. By monitoring user activities, security events, and critical systems, we provide actionable security intelligence to reduce the risk of data breach.<br>        <br>        <a href="http://www.netiq.com/solutions/security-management/">Learn more about Security Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/security-management/data-breach-threat-detection.html">Detect and disrupt security threats quickly</a></li>        <li><a href="http://www.netiq.com/solutions/security-management/it-compliance.html">Get compliant, stay compliant</a></li>        <li><a href="http://www.netiq.com/solutions/security-management/system-configuration.html">Configure systems to protect against threats</a></li>        <li><a href="http://www.netiq.com/solutions/security-management/data-protection.html">Protect sensitive data</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/monitor-privileged-users.html">Monitor the activity of privileged users</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.netiq.com/f/form/whitepaperrequest.asp?origin=website_cms&amp;ctsource=website_cms&amp;id=3206"><img src="http://www.netiq.com/solutions/security-management/img/pdf/homepage_asset1.png" alt="Sustainable Compliance: How to Align Compliance, Security and Business Goals"><span>Sustainable Compliance: How to align compliance, security and business goals<br>        <b>Read the paper</b></span></a></li>      <li><a href="http://www.netiq.com/promo/security/the-complete-guide-to-log-and-event-management.html?utm_campaign=Solutions&amp;utm_source=Security&amp;utm_medium=Nav"><img src="http://www.netiq.com/solutions/security-management/img/pdf/homepage_asset2.png" alt="The Complete Guide to Log and Event Management"><span>The complete guide to log and event management<br>        <b>Read the paper</b></span></a></li>    </ul>  </div></div><div id="solution_datacenter" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/it-operations-management/"><i>&nbsp;</i>IT Operations<br>    Management</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Get a holistic view of your IT environment and business services. We integrate service management, application management and systems management, to help you improve performance and availability.<br>        <br>        <a href="http://www.netiq.com/solutions/it-operations-management/">Learn more about IT Operations Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/it-operations-management/manage-it-services.html">Understand how IT events impact business</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/it-services-monitoring.html">Troubleshoot and fix IT problems faster</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/automated-it-services.html">Free IT staff from routine, mundane tasks</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/it-services-management.html">Consolidate IT tools into a master view</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/it-data-management.html">Keep IT issues from disrupting service</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.netiq.com/promo/systems-and-application-management/appmanager-and-operations-center.html"><img src="http://www.netiq.com/solutions/it-operations-management/img/creatin-end-to-end-it-service-monitoring-and-business-service%20management-with-netiq.png" alt="Creating End to End IT Service Monitoring and Business Service Management (BSM) with NetIQ"><span>Creating end–to–end IT service monitoring and business service management (BSM) with NetIQ<br>        <b>Read the paper</b></span></a></li>      <li><a href="http://www.netiq.com/promo/systems-and-application-management/app-manager-and-operations-center.html"><img src="http://www.netiq.com/solutions/it-operations-management/img/always-on.png" alt="AppManager Meets Operations Center: Delivering Always On IT Services"><em>&gt;</em><span>AppManager meets operations center: delivering "always on" IT services<br>        <b>Watch now</b></span></a></li>    </ul>  </div></div><div id="solution_disaster" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/disaster-recovery/"><i>&nbsp;</i>Disaster<br>    Recovery</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Get affordable, high-performance disaster recovery.  We protect your workloads and help you meet or exceed RPOs and RTOs of an hour or less, with mirroring-like performance at a price point approaching tape. <br>        <br>        <a href="http://www.netiq.com/solutions/disaster-recovery/">Learn more about Disaster Recovery</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/workload-recovery.html">Recover workloads reliably after an outage</a></li>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/network-recovery.html">Get back to business after an outage</a></li>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/server-failure.html">Protect from site–wide outages</a></li>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/server-backup.html">Protect both physical and virtual servers</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/util/mediagallery_overlay.php?play=1&amp;url=%2Fsave%2Fhttps%3A%2F%2Fcdn.microfocus.com%2Fcached%2Fvideo%2F2012%2Fnetiq%2Fplatespin%2Fhigh_performance_disaster_recovery.mp4&amp;subtitle=High-Performance%20Disaster%20Recovery%3A%20Beat%20your%20RPO%2FRTO%20targets%20for%20less&amp;width=640&amp;height=480&amp;iframe=true" class="media_gallery" data-media="high-performance-disaster-recovery-rpo-rto" data-video_url="/save/https://cdn.microfocus.com/cached/video/2012/netiq/platespin/high_performance_disaster_recovery.mp4" data-video_width="640" data-video_height="480" data-video_title="High-Performance Disaster Recovery: Beat your RPO/RTO targets for less" data-media_path="/media/img/posters/high-performance-disaster-recovery-rpo-rto.jpg" title="High-Performance Disaster Recovery: Beat your RPO/RTO targets for less"> <img src="http://www.netiq.com/solutions/disaster-recovery/img/high_performance_disaster_recovery_beat_your_prorto_for_less.png" alt="High Performance Disaster Recovery: Beat Your RPO/RTO for Less"><em>&gt;</em><span>High–performance disaster recovery: Beat your RPO/RTO targets for less<br>        <b>Watch now</b></span></a></li>      <li><a href="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/util/mediagallery_overlay.php?play=1&amp;url=%2Fsave%2Fhttps%3A%2F%2Fcdn.microfocus.com%2Fcached%2Fvideo%2F2012%2Fnetiq%2Fplatespin%2Fserver_consolidation_disaster_recovery.mp4&amp;subtitle=Server%20Consolidation%20and%20Disaster%20Recovery%20in%20the%20Trenches%3A%20Real-World%20Solutions%20to%20Everyday%20Challenges&amp;width=640&amp;height=480&amp;iframe=true" class="media_gallery" data-media="real-world-solutions-to-everyday-challenges" data-video_url="/save/https://cdn.microfocus.com/cached/video/2012/netiq/platespin/server_consolidation_disaster_recovery.mp4" data-video_width="640" data-video_height="480" data-video_title="Server Consolidation and Disaster Recovery in the Trenches: Real-World Solutions to Everyday Challenges" data-media_path="/media/img/posters/real-world-solutions-to-everyday-challenges.jpg" title="Server Consolidation and Disaster Recovery in the Trenches: Real-World Solutions to Everyday Challenges"> <img src="http://www.netiq.com/solutions/disaster-recovery/img/server-consolidation-and-disaster-recovery.png" alt="Server Consolidation and Disaster Recovery in the Trenches: Real-World Solutions to Everyday Challenges"><em>&gt;</em><span>Server consolidation and disaster recovery in the trenches: Real–world solutions to everyday challenges<br>        <b>Watch now</b></span></a></li>    </ul>  </div></div><div id="solution_workload" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/workload-migration/"><i>&nbsp;</i>Workload<br>    Migration</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Migrate workloads and consolidate servers quickly. We provide upfront analysis and planning, and deliver automatic, unattended high-speed Physical-to-Virtual (P2V) or anywhere-to-anywhere workload migrations.<br>        <br>        <a href="http://www.netiq.com/solutions/workload-migration/">Learn more about Workload Migration</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/workload-migration/migrate-workloads.html">Migrate workloads to new server hardware</a></li>        <li><a href="http://www.netiq.com/solutions/workload-migration/server-migration.html">Virtualize and migrate servers</a></li>        <li><a href="http://www.netiq.com/solutions/workload-migration/data-center-migration.html">Move a data center while it's still running</a></li>        <li><a href="http://www.netiq.com/solutions/workload-migration/server-consolidation.html">Plan efficient server consolidation projects</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="#" class="media_gallery" data-media="new-platespin-migrate-8.1-overview"> <img src="http://www.netiq.com/solutions/workload-migration/img/platespin_migrate_overview_flash_demo.png" alt="PlateSpin Migrate Overview"><em>&gt;</em><span>PlateSpin migrate overview<br>        <b>Watch now</b></span></a></li>      <li><a href="http://www.novell.com/docrep/2010/10/the_importance_of_choosing_the_right_workload_migration_tools.pdf"> <img src="http://www.netiq.com/solutions/workload-migration/img/importance_of_choosing_the_right_workload_migration_tools.png" alt="The Importance of Choosing the Right Workload Migration Tools"><span>The importance of choosing the right Workload Migration tools<br>        <b>Read the paper</b></span></a></li>    </ul>  </div></div><div id="solution_communication" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/unified-communications-voip/"><i>&nbsp;</i>Unified Communications<br>    / VoIP</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p> Ensure high quality of service for your unified communications and VoIP. We provide pre-deployment assessments, UC component monitoring, automated problem diagnostics and analysis for consistent results.<br>        <br>        <a href="http://www.netiq.com/solutions/unified-communications-voip/">Learn more about Unified Communications and VoIP Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/deploy-expand-voip.html">Deploy or expand Voice over IP (VoIP)</a></li>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/voip-quality.html">Improve VoIP quality of service</a></li>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/voip-bandwidth-capacity.html">Maintain VoIP capacity</a></li>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/mixed-unified-communications-management.html">Manage mixed unified communications (UC)</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.novell.com/docrep/2012/06/netiq_pb_unified_comm_voip_solutions.pdf"><img src="http://www.netiq.com/solutions/unified-communications-voip/img/netiq_unifiedcommand_voip_mgmt_solutions.png" alt="NetIQ Unified Communications and VoIP Management Solutions"><span>NetIQ unified communications and VoIP management solutions<br>        <b>Get the PDF</b></span></a></li>      <li><a href="https://www.youtube.com/watch?v=DAQye75aGdQ" class="prettyPhoto"><img src="http://www.netiq.com/solutions/unified-communications-voip/img/bt_delivers_critical_services.png" alt="BT delivers mission-critical voice and data services with help from NetIQ"><em>&gt;</em><span>BT delivers mission–critical voice and data services with help from NetIQ<br>        <b>Watch now</b></span></a></li>    </ul>  </div></div><span class="clearfix"></span></div>
+					</li>
+					<li id="nav_products" class="large"><a href="/products/" onclick="ga('send', 'event', 'header', 'products', 'main');" id="hdr_products_main"><strong>Products</strong><i class="downarrow">&nbsp;</i><i class="arrow"></i></a>
+						<div><p class="section_title">Identity, Security &amp; Governance</p><div class="nav_section nav_iag"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#identity">Identity &amp; Access<br>Governance</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/identity-manager/advanced/">Identity Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/access-governance-suite/">Access Governance Suite</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/directory-resource-administrator/">Directory and Resource Administrator</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/domain-migration-administrator/">Domain Migration Administrator</a></li>--><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/exchange-administrator/">Exchange Administrator</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/exchange-migrator/">Exchange Migrator</a></li>--><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/group-policy-administrator/">Group Policy Administrator</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/ldap-proxy/">LDAP Proxy</a></li>--></ul></div><div class="nav_section nav_am"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#access">Access<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/access-manager/">Access Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/cloudaccess/">CloudAccess</a></li>        <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/socialaccess/">SocialAccess</a></li>        <!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/cloud-security-service/">Cloud Security Service</a></li>--><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/privileged-user-manager/">Privileged User Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/securelogin/">SecureLogin</a></li>        <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/self-service-password-reset/">Self-Service Password Reset</a></li>        </ul></div><div class="nav_section nav_sm last"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#security">Security<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/change-guardian/">Change Guardian</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/secure-configuration-manager/">Secure Configuration Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/iseries/">Security Solutions for iSeries</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/sentinel/">Sentinel</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/sentinel-log-manager/">Sentinel Log Manager</a></li>--><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/vigilent-policy-center/">VigilEnt Policy Center</a></li>--></ul></div><span class="clearfix"></span><p class="section_title">IT Operations Management</p><div class="nav_section nav_sam"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#systems">Systems &amp; Application<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/appmanager/">AppManager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/unified-communications-and-voip-management/">Unified Communications and VoIP Management</a></li></ul></div><div class="nav_section nav_wm"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#workload">Workload<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/cloud-manager/">Cloud Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/forge/">PlateSpin Forge</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/migrate/">PlateSpin Migrate</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/protect/">PlateSpin Protect</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/recon/">PlateSpin Recon</a></li></ul></div><div class="nav_section nav_serm last"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#service">Service<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/aegis/">Aegis</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/operations-center/">Operations Center</a></li></ul></div><span class="clearfix"></span><p class="nav_close"><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/">Close</a></p></div>
+					</li>
+					<li id="nav_industry"><a href="/solutions-industries/#industries" onclick="ga('send', 'event', 'header', 'industries', 'main');" id="hdr_industries_main"><strong>Industries</strong><i class="downarrow">&nbsp;</i><i class="arrow"></i></a>
+						<div><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/industry/federal/">U.S. Federal Government</a></li></ul></div>
+					</li>
+					<li id="nav_service"><a href="/services/" onclick="ga('send', 'event', 'header', 'support', 'main');" id="hdr_support_main"><strong>Support</strong><i class="downarrow">&nbsp;</i><i class="arrow"></i></a>
+						<div><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/support/premium/">Premium Service</a></li>    <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/support/">Technical Support</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/consulting/">Consulting</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/training/">Training</a></li>    <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/services/maintenance.html">Maintenance</a></li></ul></div>
+					</li>
+					<li id="nav_about"><a href="/company/" onclick="ga('send', 'event', 'header', 'about', 'main');" id="hdr_about_main"><strong>About</strong><i class="downarrow">&nbsp;</i><i class="arrow"></i></a>
+						<div><ul><li><a href="http://www.netiq.com/company/">Overview</a></li><li><a href="http://www.netiq.com/company/leadership/">Leadership</a></li><li><a href="http://www.netiq.com/company/recognition/">Industry Recognition</a></li><li><a href="http://www.netiq.com/company/news/">In the News</a></li><li><a href="http://www.netiq.com/events/">Events</a></li><li><a href="http://www.netiq.com/media/">Media Gallery</a></li><li><a href="http://www.netiq.com/company/careers/">Careers</a></li><li><a href="http://www.netiq.com/success/">Customers</a></li><li><a href="http://www.netiq.com/ContactsOffices/contacts_offices.jsp">Contact</a></li></ul></div>
+					</li>
+					<li id="nav_partners"><a href="https://www.partnernetprogram.com" onclick="ga('send', 'event', 'header', 'partners', 'main');" id="hdr_partners_main">Partners<i class="arrow"></i></a></li>
+					<li id="nav_qmunity" class="last"><a href="/communities/" onclick="ga('send', 'event', 'header', 'communities', 'main');" id="hdr_communities_main">Communities<i class="arrow"></i></a></li>
+				</ul>
+				<span class="clearfix"></span>
+			<a href="/company/contact/" onclick="ga('send', 'event', 'header', 'letstalk', 'main');" id="hdr_letstalk_main" class="shrunk_talk"><strong>Let's Talk</strong><i class="downarrow">&nbsp;</i></a></nav>
 			<div class="header_search">
 				<form method="get" action="/SearchUI/query">
 					<label for="q">Search</label>
 					<input type="text" id="q" value="" name="term" autocomplete="off">
-					<input type="submit" id="q_submit" value="" name="submit">
+					<input type="image" id="q_submit" src="/common/img/search_submit.png" name="submit" alt="Submit" onclick="ga('send', 'event', 'header', 'search', 'main');">
+					<span class="search-close">Close</span>
 				</form>
-			</div><div id="search_autocomplete" style="right: 120px;"></div>
-		<ul id="meta"><li id="hdr_login"><a href="https://web.archive.org/web/20140520083021/https://www.netiq.com/f/mynetiq/login.asp">Login</a></li><li id="meta_countrylang" class="last"><a href="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/util/langselect.php?referer=https%3A//web.archive.org/web/20141028204824id_/https%3A//www.netiq.com/company/legal/privacy/">United States, English</a></li></ul></div>
-		<nav>
-			<ul>
-				<li id="nav_solutions" class="large"><a href="/solutions-industries/"><span>Solutions</span></a>
-					<div><div id="solution_identity" class="nav_solution active">  <p><a href="http://www.netiq.com/solutions/identity-access-management/"><i>&nbsp;</i>Identity &amp; Access<br>    Management</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Use integrated identity information to create and manage identities and control access to enterprise resources. We provide identity and access management, single sign–on (SSO), access governance, and more.<br>        <br>        <a href="http://www.netiq.com/solutions/identity-access-management/">Learn more about Identity &amp; Access Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/identity-access-management/secure-access.html">Give users quick and secure access to the resources they need</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/single-sign-on.html">Make passwords secure and simple to remember</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/user-access-control.html">Make it easy to control access to IT resources</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/it-regulatory-compliance.html">Control access for IT regulatory compliances</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/monitor-privileged-users.html">Control and  monitor privileged users</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.netiq.com/promo/identity-and-access-management/forrester-wave-identity-and-access-management-suites.html?utm_campaign=ForresterWaveReportIAM_Q32013&amp;utm_source=IAM&amp;utm_medium=Nav"><img src="http://www.netiq.com/common/img/home/oseats/forrester-pdf-no-hands.png" alt="NetIQ a Leader in The Forrester Wave: Identity and Access Management Suites report"><span> NetIQ a Leader in The Forrester Wave: Identity and Access Management Suites report<br>        <b>Read the paper</b></span></a></li>      <li><a href="http://www.netiq.com/promo/cloud-ready-security/extending-access-control-to-the-cloud.html?utm_campaign=Solutions&amp;utm_source=Identity-Access&amp;utm_medium=Nav"><img src="http://www.netiq.com/solutions/security-management/img/pdf/problem6_asset1.png" alt="Extending Access Control to the Cloud"><span>Extending access control to the cloud<br>        <b>Read the paper</b></span></a></li>    </ul>  </div></div><div id="solution_security" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/security-management/"><i>&nbsp;</i>Security<br>    Management</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Detect and respond to all potential threats quickly and decisively. By monitoring user activities, security events, and critical systems, we provide actionable security intelligence to reduce the risk of data breach.<br>        <br>        <a href="http://www.netiq.com/solutions/security-management/">Learn more about Security Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/security-management/data-breach-threat-detection.html">Detect and disrupt security threats quickly</a></li>        <li><a href="http://www.netiq.com/solutions/security-management/it-compliance.html">Get compliant, stay compliant</a></li>        <li><a href="http://www.netiq.com/solutions/security-management/system-configuration.html">Configure systems to protect against threats</a></li>        <li><a href="http://www.netiq.com/solutions/security-management/data-protection.html">Protect sensitive data</a></li>        <li><a href="http://www.netiq.com/solutions/identity-access-management/monitor-privileged-users.html">Monitor the activity of privileged users</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.netiq.com/f/form/whitepaperrequest.asp?origin=website_cms&amp;ctsource=website_cms&amp;id=3206"><img src="http://www.netiq.com/solutions/security-management/img/pdf/homepage_asset1.png" alt="Sustainable Compliance: How to Align Compliance, Security and Business Goals"><span>Sustainable Compliance: How to align compliance, security and business goals<br>        <b>Read the paper</b></span></a></li>      <li><a href="http://www.netiq.com/promo/security/the-complete-guide-to-log-and-event-management.html?utm_campaign=Solutions&amp;utm_source=Security&amp;utm_medium=Nav"><img src="http://www.netiq.com/solutions/security-management/img/pdf/homepage_asset2.png" alt="The Complete Guide to Log and Event Management"><span>The complete guide to log and event management<br>        <b>Read the paper</b></span></a></li>    </ul>  </div></div><div id="solution_datacenter" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/it-operations-management/"><i>&nbsp;</i>IT Operations<br>    Management</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Get a holistic view of your IT environment and business services. We integrate service management, application management and systems management, to help you improve performance and availability.<br>        <br>        <a href="http://www.netiq.com/solutions/it-operations-management/">Learn more about IT Operations Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/it-operations-management/manage-it-services.html">Understand how IT events impact business</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/it-services-monitoring.html">Troubleshoot and fix IT problems faster</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/automated-it-services.html">Free IT staff from routine, mundane tasks</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/it-services-management.html">Consolidate IT tools into a master view</a></li>        <li><a href="http://www.netiq.com/solutions/it-operations-management/it-data-management.html">Keep IT issues from disrupting service</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.netiq.com/promo/systems-and-application-management/appmanager-and-operations-center.html"><img src="http://www.netiq.com/solutions/it-operations-management/img/creatin-end-to-end-it-service-monitoring-and-business-service%20management-with-netiq.png" alt="Creating End to End IT Service Monitoring and Business Service Management (BSM) with NetIQ"><span>Creating end–to–end IT service monitoring and business service management (BSM) with NetIQ<br>        <b>Read the paper</b></span></a></li>      <li><a href="http://www.netiq.com/promo/systems-and-application-management/app-manager-and-operations-center.html"><img src="http://www.netiq.com/solutions/it-operations-management/img/always-on.png" alt="AppManager Meets Operations Center: Delivering Always On IT Services"><em>&gt;</em><span>AppManager meets operations center: delivering "always on" IT services<br>        <b>Watch now</b></span></a></li>    </ul>  </div></div><div id="solution_disaster" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/disaster-recovery/"><i>&nbsp;</i>Disaster<br>    Recovery</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Get affordable, high-performance disaster recovery.  We protect your workloads and help you meet or exceed RPOs and RTOs of an hour or less, with mirroring-like performance at a price point approaching tape. <br>        <br>        <a href="http://www.netiq.com/solutions/disaster-recovery/">Learn more about Disaster Recovery</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/workload-recovery.html">Recover workloads reliably after an outage</a></li>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/network-recovery.html">Get back to business after an outage</a></li>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/server-failure.html">Protect from site–wide outages</a></li>        <li><a href="http://www.netiq.com/solutions/disaster-recovery/server-backup.html">Protect both physical and virtual servers</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="/common/util/mediagallery_overlay.php?play=1&amp;url=%2Fsave%2Fhttps%3A%2F%2Fcdn.microfocus.com%2Fcached%2Fvideo%2F2012%2Fnetiq%2Fplatespin%2Fhigh_performance_disaster_recovery.mp4&amp;subtitle=High-Performance%20Disaster%20Recovery%3A%20Beat%20your%20RPO%2FRTO%20targets%20for%20less&amp;width=640&amp;height=480&amp;iframe=true" class="media_gallery" data-media="high-performance-disaster-recovery-rpo-rto" data-video_url="/save/https://cdn.microfocus.com/cached/video/2012/netiq/platespin/high_performance_disaster_recovery.mp4" data-video_width="640" data-video_height="480" data-video_title="High-Performance Disaster Recovery: Beat your RPO/RTO targets for less" data-media_path="/media/img/posters/high-performance-disaster-recovery-rpo-rto.jpg" title="High-Performance Disaster Recovery: Beat your RPO/RTO targets for less"> <img src="http://www.netiq.com/solutions/disaster-recovery/img/high_performance_disaster_recovery_beat_your_prorto_for_less.png" alt="High Performance Disaster Recovery: Beat Your RPO/RTO for Less"><em>&gt;</em><span>High–performance disaster recovery: Beat your RPO/RTO targets for less<br>        <b>Watch now</b></span></a></li>      <li><a href="/common/util/mediagallery_overlay.php?play=1&amp;url=%2Fsave%2Fhttps%3A%2F%2Fcdn.microfocus.com%2Fcached%2Fvideo%2F2012%2Fnetiq%2Fplatespin%2Fserver_consolidation_disaster_recovery.mp4&amp;subtitle=Server%20Consolidation%20and%20Disaster%20Recovery%20in%20the%20Trenches%3A%20Real-World%20Solutions%20to%20Everyday%20Challenges&amp;width=640&amp;height=480&amp;iframe=true" class="media_gallery" data-media="real-world-solutions-to-everyday-challenges" data-video_url="/save/https://cdn.microfocus.com/cached/video/2012/netiq/platespin/server_consolidation_disaster_recovery.mp4" data-video_width="640" data-video_height="480" data-video_title="Server Consolidation and Disaster Recovery in the Trenches: Real-World Solutions to Everyday Challenges" data-media_path="/media/img/posters/real-world-solutions-to-everyday-challenges.jpg" title="Server Consolidation and Disaster Recovery in the Trenches: Real-World Solutions to Everyday Challenges"> <img src="http://www.netiq.com/solutions/disaster-recovery/img/server-consolidation-and-disaster-recovery.png" alt="Server Consolidation and Disaster Recovery in the Trenches: Real-World Solutions to Everyday Challenges"><em>&gt;</em><span>Server consolidation and disaster recovery in the trenches: Real–world solutions to everyday challenges<br>        <b>Watch now</b></span></a></li>    </ul>  </div></div><div id="solution_workload" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/workload-migration/"><i>&nbsp;</i>Workload<br>    Migration</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p>Migrate workloads and consolidate servers quickly. We provide upfront analysis and planning, and deliver automatic, unattended high-speed Physical-to-Virtual (P2V) or anywhere-to-anywhere workload migrations.<br>        <br>        <a href="http://www.netiq.com/solutions/workload-migration/">Learn more about Workload Migration</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/workload-migration/migrate-workloads.html">Migrate workloads to new server hardware</a></li>        <li><a href="http://www.netiq.com/solutions/workload-migration/server-migration.html">Virtualize and migrate servers</a></li>        <li><a href="http://www.netiq.com/solutions/workload-migration/data-center-migration.html">Move a data center while it's still running</a></li>        <li><a href="http://www.netiq.com/solutions/workload-migration/server-consolidation.html">Plan efficient server consolidation projects</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="/common/util/mediagallery_overlay.php?play=1&amp;url=%2Fsave%2Fhttps%3A%2F%2Fcdn.microfocus.com%2Fcached%2Fvideo%2F2009%2Fdatacenter%2Fplatespin_migrate_8-1.flv&amp;subtitle=New%20PlateSpin%20Migrate%208.1%20Overview&amp;width=700&amp;height=525&amp;iframe=true" class="media_gallery" data-media="new-platespin-migrate-8.1-overview" data-video_url="/save/https://cdn.microfocus.com/cached/video/2009/datacenter/platespin_migrate_8-1.flv" data-video_width="700" data-video_height="525" data-video_title="New PlateSpin Migrate 8.1 Overview" data-media_path="" title="New PlateSpin Migrate 8.1 Overview"> <img src="http://www.netiq.com/solutions/workload-migration/img/platespin_migrate_overview_flash_demo.png" alt="PlateSpin Migrate Overview"><em>&gt;</em><span>PlateSpin migrate overview<br>        <b>Watch now</b></span></a></li>      <li><a href="http://www.novell.com/docrep/2010/10/the_importance_of_choosing_the_right_workload_migration_tools.pdf"> <img src="http://www.netiq.com/solutions/workload-migration/img/importance_of_choosing_the_right_workload_migration_tools.png" alt="The Importance of Choosing the Right Workload Migration Tools"><span>The importance of choosing the right Workload Migration tools<br>        <b>Read the paper</b></span></a></li>    </ul>  </div></div><div id="solution_communication" class="nav_solution">  <p><a href="http://www.netiq.com/solutions/unified-communications-voip/"><i>&nbsp;</i>Unified Communications<br>    / VoIP</a></p>  <div class="nav_solution_content">    <div class="nav_solution_details">      <p> Ensure high quality of service for your unified communications and VoIP. We provide pre-deployment assessments, UC component monitoring, automated problem diagnostics and analysis for consistent results.<br>        <br>        <a href="http://www.netiq.com/solutions/unified-communications-voip/">Learn more about Unified Communications and VoIP Management</a></p>      <ul>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/deploy-expand-voip.html">Deploy or expand Voice over IP (VoIP)</a></li>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/voip-quality.html">Improve VoIP quality of service</a></li>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/voip-bandwidth-capacity.html">Maintain VoIP capacity</a></li>        <li><a href="http://www.netiq.com/solutions/unified-communications-voip/mixed-unified-communications-management.html">Manage mixed unified communications (UC)</a></li>      </ul>    </div>    <ul class="videos">      <li><a href="http://www.novell.com/docrep/2012/06/netiq_pb_unified_comm_voip_solutions.pdf"><img src="http://www.netiq.com/solutions/unified-communications-voip/img/netiq_unifiedcommand_voip_mgmt_solutions.png" alt="NetIQ Unified Communications and VoIP Management Solutions"><span>NetIQ unified communications and VoIP management solutions<br>        <b>Get the PDF</b></span></a></li>      <li><a href="https://www.youtube.com/watch?v=DAQye75aGdQ" class="prettyPhoto"><img src="http://www.netiq.com/solutions/unified-communications-voip/img/bt_delivers_critical_services.png" alt="BT delivers mission-critical voice and data services with help from NetIQ"><em>&gt;</em><span>BT delivers mission–critical voice and data services with help from NetIQ<br>        <b>Watch now</b></span></a></li>    </ul>  </div></div><span class="clearfix"></span></div>
-				</li>
-				<li id="nav_products" class="large"><a href="/products/"><span>Products</span></a>
-					<div><p class="section_title">Identity, Security &amp; Governance</p><div class="nav_section nav_iag"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#identity">Identity &amp; Access<br>Governance</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/identity-manager/advanced/">Identity Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/access-governance-suite/">Access Governance Suite</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/directory-resource-administrator/">Directory and Resource Administrator</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/domain-migration-administrator/">Domain Migration Administrator</a></li>--><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/exchange-administrator/">Exchange Administrator</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/exchange-migrator/">Exchange Migrator</a></li>--><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/group-policy-administrator/">Group Policy Administrator</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/ldap-proxy/">LDAP Proxy</a></li>--></ul></div><div class="nav_section nav_am"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#access">Access<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/access-manager/">Access Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/cloudaccess/">CloudAccess</a></li>        <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/socialaccess/">SocialAccess</a></li>        <!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/cloud-security-service/">Cloud Security Service</a></li>--><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/privileged-user-manager/">Privileged User Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/securelogin/">SecureLogin</a></li>        <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/self-service-password-reset/">Self-Service Password Reset</a></li>        </ul></div><div class="nav_section nav_sm last"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#security">Security<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/change-guardian/">Change Guardian</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/secure-configuration-manager/">Secure Configuration Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/iseries/">Security Solutions for iSeries</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/sentinel/">Sentinel</a></li><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/sentinel-log-manager/">Sentinel Log Manager</a></li>--><!--<li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/vigilent-policy-center/">VigilEnt Policy Center</a></li>--></ul></div><span class="clearfix"></span><p class="section_title">IT Operations Management</p><div class="nav_section nav_sam"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#systems">Systems &amp; Application<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/appmanager/">AppManager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/unified-communications-and-voip-management/">Unified Communications and VoIP Management</a></li></ul></div><div class="nav_section nav_wm"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#workload">Workload<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/cloud-manager/">Cloud Manager</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/forge/">PlateSpin Forge</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/migrate/">PlateSpin Migrate</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/protect/">PlateSpin Protect</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/recon/">PlateSpin Recon</a></li></ul></div><div class="nav_section nav_serm last"><p><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/#service">Service<br>Management</a></p><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/aegis/">Aegis</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/operations-center/">Operations Center</a></li></ul></div><span class="clearfix"></span><p class="nav_close"><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/products/">Close</a></p></div>
-				</li>
-				<li id="nav_industry"><a href="/solutions-industries/#industries"><span>Industries</span></a>
-					<div><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/industry/federal/">U.S. Federal Government</a></li></ul></div>
-				</li>
-				<li id="nav_about"><a href="/company/"><span>About Us</span></a>
-					<div><ul><li><a href="http://www.netiq.com/company/">Overview</a></li><li><a href="http://www.netiq.com/company/leadership/">Leadership</a></li><li><a href="http://www.netiq.com/company/recognition/">Industry Recognition</a></li><li><a href="http://www.netiq.com/company/news/">In the News</a></li><li><a href="http://www.netiq.com/events/">Events</a></li><li><a href="http://www.netiq.com/media/">Media Gallery</a></li><li><a href="http://www.netiq.com/company/careers/">Careers</a></li><li><a href="http://www.netiq.com/success/">Customers</a></li><li><a href="http://www.netiq.com/ContactsOffices/contacts_offices.jsp">Contact</a></li></ul></div>
-				</li>
-				<li id="nav_service"><a href="/services/"><span>Services &amp; Support</span></a>
-					<div><ul><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/support/premium/">Premium Service</a></li>    <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/support/">Technical Support</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/consulting/">Consulting</a></li><li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/training/">Training</a></li>    <li><a href="https://web.archive.org/web/20130521181627/http://www.netiq.com/services/maintenance.html">Maintenance</a></li></ul></div>
-				</li>
-				<li id="nav_partners"><a href="https://www.partnernetprogram.com">Partners</a></li>
-				<li id="nav_qmunity" class="last"><a href="/communities/">Communities</a></li>
-			</ul>
-			<span class="clearfix"></span>
-		</nav>
-	<div id="lang_select"><div id="lang_select_top"><p id="lang_select_close"><a href="#">Close</a></p></div><div id="lang_select_content"><div id="languages_hdr"></div><div id="countries_hdr"></div><div class="scroll-pane"><div id="languages"></div><div id="countries"></div></div></div></div></div>
-	<div class="header_letstalk">
-		<div class="wrap">
-			<div class="letstalk_content"><iframe frameborder="0" allowtransparency="true" scrolling="no" src="" width="615" height="500" seamless="seamless" name="header_letstalk" id="header_letstalk"></iframe></div>
-			<p class="letstalk_button"><a href="/company/contact/"><span></span><em>Let's Talk</em></a></p>
-		<div id="lang_select"><div id="lang_select_top"><p id="lang_select_close"><a href="#">Close</a></p></div><div id="lang_select_content"><div id="languages_hdr"></div><div id="countries_hdr"></div><div class="scroll-pane"><div id="languages"></div><div id="countries"></div></div></div></div></div>
+				<span class="search-toggle"><em>Search</em></span>
+			</div><div id="search_autocomplete" style="right: 0px;"></div>
+		</div>
 	</div>
-<div class="overlay" style="height: 3743px;"></div></header>
-	<div id="secondary_nav">
+	<div class="header_top">
+		<div class="wrap">
+			<ul id="meta"><li id="hdr_login"><a href="https://web.archive.org/web/20160314025813/https://www.netiq.com/f/mynetiq/login.asp">Login</a></li>
+				<li id="hdr_letstalk" class="last"><a href="/company/contact/" onclick="ga('send', 'event', 'header', 'letstalk', 'main');" id="hdr_letstalk_main"><strong>Let's Talk</strong><i class="downarrow">&nbsp;</i></a></li>
+			</ul>
+		</div>
+	</div>
+<div class="header_letstalk"><div id="mobile_btn_rac">&nbsp;</div><div id="mobile_container_rac">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+<div class="letstalk_wrap">
+	<p class="title">Let's Talk</p>
+
+	<hr>
+
+	<ul class="social_follow">
+		<li class="twitter"><a href="https://web.archive.org/web/20150908082002/http://twitter.com/netiq">Follow us on Twitter</a></li>
+		<li class="facebook"><a href="https://web.archive.org/web/20150908082002/http://facebook.com/NetIQ">Like us on Facebook</a></li>
+	</ul>
+
+	<div class="clearfix"></div>
+
+	<p id="welcome_message">
+		<strong>Welcome <span> ,</span></strong>
+		Want to talk to someone? Call our Sales team or request a call and we'll get right back to you.
+	</p>
+
+	<ul class="phones">
+		<li>Sales: <span class="phone_sales">(888) 323-6768</span></li>
+		<!-- <li>Support: <span class="phone_support">(713) 418-5555</span></li> -->
+	</ul>
+
+	<p>For support information, please visit <a href="/web/20150908082002/https://www.netiq.com/support">Technical Support</a>.</p>
+	<ul class="cta">
+		<li class="cta_call"><a href="#">Request a Call</a></li>
+		<li class="cta_chat" style="width:78px; padding-left:18px; position:relative;">
+			<img src="/web/20150908082002im_/https://www.netiq.com/common/img/icons/cta_chat.png" width="12" height="17" alt="" class="icon" style="left:0px; position:absolute;">
+			<div data-id="d35a96446f" class="livechat_button" style="display: none;"><a href="https://web.archive.org/web/20150908082002/http://www.livechatinc.com/">live chat software</a></div>
+			<div style="clear:both; margin-top:10px;"></div>
+		</li>
+	</ul>
+
+	<div style="clear:both;"></div>
+</div>
+<!--
+     FILE ARCHIVED ON 08:20:02 Sep 08, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:07:59 Feb 24, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  esindex: 0.013
+  exclusion.robots: 0.264
+  exclusion.robots.policy: 0.244
+  RedisCDXSource: 8.614
+  PetaboxLoader3.datanode: 77.809 (4)
+  CDXLines.iter: 22.671 (3)
+  captures_list: 95.348
+  load_resource: 116.1
+  PetaboxLoader3.resolve: 75.235
+  LoadShardBlock: 59.746 (3)
+--></div><div class="wrap"><div class="letstalk_content"><p class="letstalk_close"><a href="#">Close</a></p><iframe frameborder="0" allowtransparency="true" scrolling="no" src="" width="615" height="500" seamless="seamless" name="header_letstalk" id="header_letstalk"></iframe></div></div></div><div class="overlay"></div></header> 
+
+<div id="secondary_nav">
 	<div class="wrap">
-		<h2><a href="/company/legal/privacy/">Privacy Statement</a></h2>
+		<h2><a href="/company/legal/privacy/">Privacy and Cookie Policy</a></h2>
 
 		<div class="clearfix"></div>
 	</div>
 </div>
 
-	<div role="main" id="main" class="product longtail">
-		<div class="wrap">
-			<div class="product_left">
-				
-					<p>This Privacy Statement discloses the privacy practices for NetIQ Corporation ("NetIQ"), and for its web site (www.NetIQ.com) and localized versions of that site, including the type of personal information collected and tracked, how the information is used, and with whom the information is shared. This Privacy Statement is available with one click from most NetIQ.com web pages.</p>
-					<p><strong>NetIQ is committed to protecting your privacy</strong>. Regardless of the nature or source of your personal information in our possession, NetIQ will use that information solely for internal business purposes. We will not sell your personal information. If we share your personal information with third parties performing services for us, or acting on our behalf, we will  contractually require them to protect your information.</p>
-                    <p><strong>Cookies Notice</strong>: This site uses cookies, as described in the Cookies paragraph below. You can control cookies via settings on your systems (details available at: <a href="http://www.aboutcookies.org">www.aboutcookies.org</a>).</p>
 
-				<hr>
-				
-                    <h4>Collection of Personal Information</h4>
-                    <p>In general, you can visit this site without telling us who you are or disclosing personal information about yourself; only the name of the domain from which you access the Internet as well as the Internet address and the date and time you access this web site are logged. The user otherwise remains anonymous. NetIQ uses such non-personal information to analyze trends as well as measure the number of visitors to different parts of this site and how much time they spend there, to help us make the site more useful to visitors. NetIQ recognizes as "personal information" the information that personally identifies you, plus any associated information that allows us to contact you, or that allows us to respond more effectively to a request from you. Your personal information may be known to us because you have licensed products from us. Or we may come into possession of your personal information through a variety of means, both active and passive, of types described below.</p>
-                    <p>We request personal information when you are registering an account with the NetIQ.com site or registering to receive information such as a white paper or newsletter, entering a contest, signing up for an event or training, or downloading or purchasing NetIQ products. Personal information collected through NetIQ.com is generally limited to your name, contact information, job title, and areas of job responsibility, but may include other information when needed to provide a service you requested.</p>
-                    <p>In other cases, certain actions by you will have the effect of providing personal information to NetIQ. For example, you may participate in a NetIQ blog, chat or forum, or send an e-mail message to NetIQ requesting a response. Additionally, your action in response to a NetIQ-initiated contact may allow NetIQ to associate your personal and non-personal information, and that association would also be treated as personal information.</p>
-                    
-                <hr>
-				
-                    <h4>Use of Personal Information</h4>
-                    <p>When you provide personal information or data to NetIQ, you are consenting to the use of that data by NetIQ and its applicable worldwide affiliated companies, as stated in this Privacy Statement. Your information may be stored and processed in the United States or any other country in which NetIQ or its affiliates, contractors, or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country in compliance with applicable law.</p>
-                    <p>NetIQ will primarily use your personal information to:</p>
-                    <ul>
-                    	<li>Provide you with periodic information you agreed to receive about NetIQ products, services, and events</li> 
-                        <li>Allow you to purchase and/or download products and/or receive support or other services for NetIQ products</li> 
-                        <li>Deliver information regarding products or services that you request or purchase</li> 
-                        <li>Gather demographic information about NetIQ web site visitor trends</li> 
-                        <li>Allow you to access limited-entry areas of our site as appropriate</li> 
-                        <li>Insure our Site is relevant to your needs</li> 
-                        <li class="last">Alert you to product upgrades, special offers, updated information and other new services from NetIQ, unless you have opted out of this use.</li>
-                    </ul>
-                    <p>NetIQ may also use personal information  or data as a means of validating your identity when you logon to its affiliated  websites such as Novell.com or SUSE.com.</p>
-                    <p>NetIQ may send out periodic e-mails informing you of a technical service or security issues related to a product or service you have requested or purchased, or confirming your request or purchase of a product or service. You will not be able to choose to unsubscribe from these mailings, as they are considered an essential part of the service you have chosen.</p>
-                    
-          <hr>
-				
-                    <h4>Sharing of Personal Information</h4>
-                    <p>Regardless of the nature or source of your personal information in our possession, NetIQ will use that information solely for internal business purposes. We will not sell your personal information. If we share your information with third parties performing services for us, or acting on our behalf, we will not allow them to use your information for other purposes, and we will contractually require them to protect your information.</p>
-                    <p>Otherwise, NetIQ will not share your personal information unless compelled to do so by exceptional conditions such as the following: NetIQ may be required to share information by law or legal edict; NetIQ may share information in a good-faith belief that such action is necessary to protect the personal safety of NetIQ users, protect and defend the rights or property of NetIQ and its family of web sites, or protect the public; NetIQ may share information if a complaint or legal action arises from your posted content on an NetIQ bulletin board; or the information may pass to another entity in connection with an asset sale of a NetIQ product line, or of substantially all of the business of NetIQ.</p>
-                    
-                <hr>
-				
-                    <h4>Related Subjects</h4>
-                    <p><strong>Correction of Errors</strong>. You may update or correct your contact information online by visiting your <a href="http://www.netiq.com/f/mynetiq/default.asp">myNetIQ Account Management</a> page.</p>
-                    <p><strong>Unsubscribing from Email Communications</strong>. To unsubscribe from marketing emails, change product notification email settings, and/or update user forum email settings, please visit our <a href="http://www.netiq.com/mynetiq/unsubscribe.asp">NetIQ Communication Preferences</a> page.</p>
-                    <p><strong>Data Security</strong>. NetIQ uses restrictive technologies and processes to help ensure against loss, misuse, destruction and unauthorized access of all of its data, including your personal information. Technologies include commercial quality anti-virus software and firewall protection.</p>
-                    <p><strong>Cookies</strong>. Some NetIQ web pages, and some NetIQ e-mail communications, make use of "cookies." A cookie is a small file that a website may send to your browser when you visit a page, or when you open an e-mail or a document; and your browser may store the cookie on your hard drive. Cookie delivery may be triggered by invisible content (such as an image file or "beacon") embedded in web pages or other materials. Cookies help us to collect and aggregate non-personal information about our interactions with visitors, so that we can improve the general operations of our site and the effectiveness of our promotional campaigns. Additionally, by enabling us to observe your use of our site, and your actions in response to materials we send you, cookies help us to tailor our communications to your interests when you return to this site, and when we send materials to you. You can set your browser to reject cookies or to notify you when you receive a cookie, so that you can decide whether to accept it. If you choose to reject cookies from NetIQ, you will not experience a personalized visit and you may not be able to access certain screens or subscribe to certain offerings on the site. Details about controlling and deleting cookies are available at this site: <a href="http://www.aboutcookies.org">www.aboutcookies.org</a>.</p>
-                    <p><strong>Children's data</strong>. No advertising, content, visual or audio content, language, or other characteristics of the NetIQ.com web site are directed to children. NetIQ web sites do not intentionally collect information from children. If you are under the age of 18, do not submit personal information without parental consent. NetIQ understands and follows the applicable laws and requirements of United States' Children's Online Privacy Protection Act (COPPA).</p>
-                    <p><strong>Links on NetIQ.com</strong>. For convenience NetIQ may provide links to other web sites. NetIQ is not responsible for the privacy practices of the owners of those web sites or for any content on those sites. We encourage you to review the privacy policies posted by the web site owner if you choose to visit any of these web sites</p>
-                    <p><strong>Advertising on NetIQ.com</strong>. NetIQ on occasion may allow others to advertise on NetIQ.com. Such advertisers may collect personal information, and may share it with us, and in that case the information we receive will be subject to these NetIQ privacy practices. However, NetIQ is not responsible for the privacy practices of the advertisers. If you wish to restrict an advertiser's use or further disclosure of your personal information, you must visit their web site and follow any steps outlined there for protection of your privacy. </p>
-                    <p><strong>Public Postings</strong>. If you disclose your personal information online in a community area, that information can be collected and used by others in the community. NetIQ has no control over such use of your personal information, even if the community area you used is, or appears to be, associated with NetIQ—for example, a NetIQ bulletin board.</p>
-                    <p><strong>Notification of changes</strong>. NetIQ will occasionally update this privacy statement. When we do, we will change the "last updated" date on this page. You agree to visit this site from time to time to review the current applicable policies.</p>
-                    
-                <hr>
-				
-                    <h4>Questions or Comments</h4>
-                    <p>Questions or comments regarding the NetIQ privacy statement should be directed by email to <a href="mailto:privacy@netiq.com">privacy@netiq.com</a> or by postal mail to:</p>
-                    <p>Legal/ re Internet Privacy Practices<br> 
-                       NetIQ Corporation<br>
-                       515 Post Oak Boulevard, Suite 1200<br>
-                       Houston, Texas 77027</p>
-                    <p>© 2014 NetIQ Corporation and its affiliates.  All Rights Reserved.</p>
-                    <p class="small">This document was last updated January 30, 2013.</p>
-                    
-			</div>
-			<div class="product_right">
-				
-			</div>
-			<div class="clearfix"></div>
+<div role="main" id="main" class="product longtail">
+	<div class="wrap">
+		<div class="product_left">
+			<h3>1. Privacy Policy</h3>
+			<p>This privacy policy describes how Micro Focus International plc and its group companies including Attachmate®, Borland®, NetIQ, Novell® and SUSE® ("Micro Focus") use your personal information. Your right to privacy is very important to Micro Focus. At Micro Focus, we believe that the personal information you provide to us must be kept confidential and used in a responsible fashion. We consistently strive to put our best efforts towards achieving both of these objectives. </p>
+			<h4>What information do we collect?</h4>
+			<p>When you use this Website, please bear in mind that we may record: </p>
+			<ul>
+				<li>the areas of the Website that you visit; and </li>
+				<li class="last">information about your computer, such as which browser you are using, your network location, the type of connection you are using (e.g. broadband, ADSL etc) and your IP address.</li>
+			</ul>
+			<p>We do this by using cookies (although the information we gather through our cookies is protected and remains anonymous so we cannot tell who you are). See our Cookie Policy below.</p>
+			<p>Once you register for membership, log in, or submit information through our Website we will know who you are and your activities on this Website and information about you and/or your company may be recorded on our systems. For example, we may ask for the following information when you sign up for membership of our specialist software support services or email news services, or when you buy products from us or register your products online:</p>
+			<ul>
+				<li>your name; </li>
+				<li>company name; </li>
+				<li>email address; </li>
+				<li>postal address; </li>
+				<li>job function;</li>
+				<li>country where you are based or purchasing/registering our products from;</li>
+				<li>telephone number; </li>
+				<li>your comments/questions; and </li>
+				<li class="last">the products/services you are interested in.</li>
+			</ul>
+			<p>We may also collect personal information from you at trade shows/events, from telephone calls, surveys and/or other correspondence with you. </p>
+			<p>If you make a purchase from us we may also ask for payment information such as the details of the payment card you are using to pay for any products/services. </p>
+			<h4>What do we do with the information we collect?</h4>
+			<p>We use this information for a variety of reasons. The main reason we use this information is to provide you with the Website and our products and services (whether available via the Website or offline). We also use the information for: </p>
+			<ul>
+				<li>internal record keeping; </li>
+				<li>product and service development; </li>
+				<li>developing our Website; </li>
+				<li>answering your queries or complaints; </li>
+				<li>delivery of products or services and/or order fulfillment including through our resellers, distributors and other agents;</li>
+				<li>market research; and </li>
+				<li class="last">marketing our own products and services (including special offers and upgrades) to you. </li>
+			</ul>
+			<h4>Marketing</h4>
+			<p>We may send you information about Micro Focus' products and services or related data by post or email or telephone, unless you have asked us not to do so. </p>
+			<p>If you are a customer of ours or you have previously asked us for information on our products and services, such as subscribing to our email news service, then we may send you information by email. However, in every marketing email message we send you we will give you the opportunity to unsubscribe from our mailings altogether. </p>
+			<p>We do not provide your personal information to external organisations (i.e. outside of Micro Focus) for their own marketing purposes without your explicit consent. </p>
+			<p>If at any time you do not want your information used for direct marketing purposes please contact us at <a href="mailto:compliance@microfocus.com">compliance@microfocus.com</a> and if you decide that you no longer wish to receive marketing emails from us, please follow the unsubscribe link in one of our marketing email messages. </p>
+			<p>However, please note that we may send out periodic emails, including to inform you of a technical service or security issues relating to a product or service you have requested or purchased, or confirming your request or purchase of a product or service. You will not be able to choose to unsubscribe from these communications, as they are considered an essential part of the service you have chosen. </p>
+			<p>You can also easily manage and update your membership information at any time by logging onto your Micro Focus profile on our Website, including controlling whether you wish to receive marketing emails from us.</p>
+			<h4>Who do we share this information with? </h4>
+			<p>Your personal information may be shared across the Micro Focus Group of companies. For example, your personal information may be processed by the relevant Micro Focus group company situated in the country in which you are accessing our Website from and the country in which you are purchasing our products/services, if different. Please bear in mind that the countries to which your personal information is sent/accessed from may have a different standard of data protection than the country in which you are situated. However, we have put in place protections to ensure that your information is safeguarded. To find out more information about the companies within the Micro Focus Group that may handle your personal information please visit <a href="http://www.microfocus.com">www.microfocus.com</a>.</p>
+			<p>We may share your personal information with organisations acting on our behalf and with our manufacturers, agents, distributors or resellers, but they will only use the information to provide our products or services. However, any third party that we may share your information with must act in accordance with our instructions. We may also share your personal information with a purchaser or potential purchaser of our business. </p>
+			<p>In some circumstances, we may have to disclose your personal information to comply with the law/other regulatory purposes, or because we are required to do so by a court, the police, or other regulatory body. </p>
+			<h4>How to get copies of or amend the information we have collected</h4>
+			<p>You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please write to us at <a href="mailto:compliance@microfocus.com">compliance@microfocus.com</a>. </p>
+			<p>If you think any information we have about you is incorrect or incomplete, please email us as soon as possible. We will correct or update any information as soon as we can.</p>
+			<h4>Security</h4>
+			<p>Micro Focus takes security of your personal data seriously and in order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online, including policies on access to information and firewalls. However, despite the measures we take, we cannot guarantee the security of any personal information from third party 'hackers' illegally obtaining this information.</p>
+			<p>If at any point you suspect or become aware of a security incident (i.e. your password is stolen or you receive a suspicious communication from someone holding themselves out to be a Micro Focus employee or from a dupe website claiming to be affiliated with Micro Focus), please forward the communication to us or report the incident by email to <a href="mailto:compliance@microfocus.com">compliance@microfocus.com</a> or in writing to Group Compliance Officer, Micro Focus, The Lawn, 22-30 Old Bath Road, Newbury, Berkshire, RG14 1QN, United Kingdom as soon as possible.</p>
+			<h4>Linking to other websites</h4>
+			<p>Our Website or marketing email messages sometimes include links to other websites which are not within our control. Once you have left our Website/marketing email message, we cannot be held responsible for the content of other websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy statement applicable to the website in question. </p>
+			<h4>Safe Harbor Framework</h4>
+			<p>Micro Focus complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Micro Focus certifies that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Micro Focus's certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+			<hr>
+			
+			<h3>2. Cookie Policy </h3>
+			<p>This Cookie Policy applies to all of our Websites ("Websites").</p>
+			<p style="text-decoration:underline;">By accessing any of our Websites, you agree that this Cookie Policy will apply whenever you access the Websites on any device.</p>
+			<p>Any changes to this policy will be posted here and we reserve the right to vary this policy from time to time and your continued use of our Websites after any such change has been posted will constitute your agreement to any such changes. </p>
+			<h4>Our Use of Cookies</h4>
+			<p>Like many companies, some or all of our Websites may use "cookies". A Cookie is a small file of letters and numbers that is placed on your computer's hard drive when you visit certain websites. We may use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.  For more information on cookies, please see <a href="http://www.whatarecookies.com">www.whatarecookies.com</a>.</p>
+			<p>Most of the cookies we use are "personalisation cookies" which are used to recognise repeat visitors to the Websites and "analytics cookies" which monitor how visitors use our Websites and give us a better understanding of what content visitors are spending most time reading.  The types of cookies used on our Websites are as follows:</p>
+			
+<table cellpadding="0" cellspacing="0" width="100%" class="table">
+						<thead>
+							<tr>
+								<th class="desc first">Cookie Type</th>
+								<th class="last product">Details</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="desc">Strictly Necessary</td>
+								<td class="last">These cookies are essential to enable you to receive a service on a website. For example, cookies to operate online shopping baskets, do your internet banking or to comply with the law (e.g. such as to keep your information safe).</td>
+							</tr>
+							<tr>
+								<td class="desc">Analytics / Performance</td>
+								<td class="last">These cookies are used only to help us to improve our Websites over time, by giving us insights into how the various sections of the Websites are used and how users interact with the Websites, for example which pages visitors go to most often and whether they get error messages from web pages. The information collected is anonymous and statistical.</td>
+							</tr>
+							<tr>
+								<td class="desc">Authentication / Functionality</td>
+								<td class="last">These cookies are used to identify unique visitors to the Websites. If you log in to the Websites, these are the cookies that allow us to remember who you are and what your preferences are so that we can provide you with access to pages personal to you, for example your account pages or your selected font size. These cookies help keep your visit to the site secure. These cookies can also enable enhanced, more personal features and to provide services you have asked for such as watching a video, which is how they are used on our Website. Whilst information collected by "functionality" cookies may or may not be anonymised, the "functionality" cookies on our Website only collect anonymous information.</td>
+							</tr>
+							<tr>
+								<td class="desc">Targeting</td>
+								<td class="last">These cookies collect information about your browsing habits to make advertising relevant to you and your interests. These cookies collect the most information about users.</td>
+							</tr>
+							<tr>
+								<td class="desc">Session</td>
+								<td class="last"><p>These are cookies that are designed to ensure that your visits to the Websites are as smooth as possible. Their main uses are:  </p>
+									<ul>
+										<li>Allowing us to identify your device as you use the Website, so that you are not treated as a new visitor each time you go to another part of the Website;  </li>
+										<li>Ensure that the servers that we use to power the Website each serve an equal number of users, to help make everyone's browsing as swift and responsible as possible;</li>
+										<li class="last"> Noting your browser's capabilities.</li>
+									</ul>								</td>
+							</tr>
+						</tbody>
+					</table>
+<hr>
+				<p>We have listed in the table below the specific cookies that we use and the purposes for which we use them. You will see that we have also identified whether they are session cookies or persistent cookies. 'Session cookie' is a commonly used description for a cookie which stores information about user page activities to allow users to be recognized within a website so any page changes or item or data selection is remembered from page to page; whilst 'persistent cookie' is a commonly used description for a cookie which helps websites remember your information and settings when you visit them in the future.</p>
+				<h4>Type: Strictly Necessary</h4>
+				<table cellpadding="0" cellspacing="0" width="100%" class="table">
+					<thead>
+						<tr>
+							<th class="desc first">Cookie</th>
+							<th class="product">Name</th>
+							<th class="purpose">Purpose</th>
+							<th class="product">Persistent / Session</th>
+							<th class="last product"><span class="last">More Information</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="desc">Java Session</td>
+							<td>JSESSIONID</td>
+							<td>This cookie is essential for the Java programming language to maintain a session with users.</td>
+							<td>Session</td>
+							<td class="last"><a href="http://stackoverflow.com/questions/595872/under-what-conditions-is-a-jsessionid-created">http://stackoverflow.com/<br>
+							questions/595872/<br>
+							under-what-conditions-is-a-jsessionid-created</a></td>
+						</tr>
+						<tr>
+							<td class="desc">PHP Session</td>
+							<td>PHPSESSID</td>
+							<td>This cookie is essential for the PHP programming language to maintain a session with users.</td>
+							<td>Session</td>
+							<td class="last"><p><a href="http://php.net/manual/en/function.session-id.php">http://php.net/manual/en/<br>
+							function.session-id.php</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">Access Manager</td>
+							<td>IPCZQX##########<br>
+								UrnNovellNidpClusterMemberId<br>
+								ZNPCQ003-########<br>
+								lb_esp<br>
+								lb_login<br>
+								lb_netiq<br>
+								lb_novell<br>
+								lb_partnernetprogram<br>
+							lb_suse</td>
+							<td>Access Manager is a Novell product used to manage authentication and security. These cookies are essential for its functionality.</td>
+							<td>Session</td>
+							<td class="last"><a href="http://www.novell.com/support/kb/doc.php?id=7004090">http://www.novell.com/<br>
+							support/kb<br>
+							/doc.php?id=7004090</a></td>
+						</tr>
+						<tr>
+							<td class="desc">Access Manager</td>
+							<td>IPCZQX##########<br>
+								UrnNovellNidpClusterMemberId<br>
+								ZNPCQ003-########<br>
+								lb_esp<br>
+								lb_login<br>
+								lb_netiq<br>
+								lb_novell<br>
+								lb_partnernetprogram<br>
+							lb_suse</td>
+							<td>Access Manager is a Novell product used to manage authentication and security. These cookies are essential for its functionality.</td>
+							<td>Session</td>
+							<td class="last"><a href="http://www.novell.com/support/kb/doc.php?id=7004090">http://www.novell.com/<br>
+							support/kb/<br>
+							doc.php?id=7004090</a></td>
+						</tr>
+						<tr>
+							<td class="desc">MyNetIQ Legacy</td>
+							<td>policytarget<br>
+							TJS</td>
+							<td>Legacy cookies used to manage access to restricted resources.</td>
+							<td>Session Persistent</td>
+							<td class="last">&nbsp;</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>&nbsp;</p>
+				<h4>Type: Analytics / Performance</h4>
+				<table cellpadding="0" cellspacing="0" width="100%" class="table">
+					<thead>
+						<tr>
+							<th class="desc first">Cookie</th>
+							<th class="product">Name</th>
+							<th class="purpose">Purpose</th>
+							<th class="product">Persistent / Session</th>
+							<th class="last product"><span class="last">More Information</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="desc">Google Analytics</td>
+							<td>AID<br>
+								APISID<br>
+								CAL<br>
+								GAPS<br>
+								HSID<br>
+								NID<br>
+								OGP<br>
+								OGPC<br>
+								PREF<br>
+								SAPISID<br>
+								SID<br>
+								SNID<br>
+								SSID<br>
+								__utma<br>
+								__utmb<br>
+								__utmt<br>
+								__utmv<br>
+								__utmx<br>
+								__utmxx<br>
+								__utmz<br>
+								_ga<br>
+								_gat</td>
+							<td>These cookies are used to collect anonymous information about how visitors use our site. We use the information to compile analytical reports which help us improve our Website. The cookies collect information such as the number of visitors to our Website, how they arrived there (e.g. directly from the internet or through linking from another website) and tracking which web pages they visited.</td>
+							<td>Persistent</td>
+							<td class="last"><p><a href="https://support.google.com/analytics/answer/6004245">https://support.google.com<br>
+							/analytics/answer/6004245</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">Eloqua</td>
+							<td>BKUT<br>
+								ELOQUA<br>
+								ELQSTATUS</td>
+							<td>Eloqua Corp. is a marketing automation SaaS company owned by Oracle which developed automated marketing and demand generation software and services for business-to-business marketers.  It is used for many core demand generation activities.</td>
+							<td class="desc">Persistent</td>
+							<td class="last"><p><a href="https://community.oracle.com/community/topliners/do-it/blog/2013/08/14/what-cookies-get-dropped-when-you-browse-to-an-eloqua-tracked-page">https://community.oracle.com<br>
+							/community/topliners<br>
+							/do-it/blog/2013/08/14<br>
+							/what-cookies-get-dropped-when-you-browse-to-an-eloqua-tracked-page</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">Double Click Tracking</td>
+							<td>_drt_<br>
+								id<br>
+								matchcasale<br>
+								matchfbx<br>
+								matchgoogle<br>
+								matchibehavior<br>
+								matchimprovedigital<br>
+								matchopenx<br>
+								matchpubmatic<br>
+								matchspotx<br>
+								matchtwitter<br>
+								wfivefivec</td>
+							<td>DoubleClick is a 3rd party product owned by Google that is used to measure campaign success.</td>
+							<td>Persistent</td>
+							<td class="last"><p><a href="https://www.doubleclickbygoogle.com">https://www.doubleclick<br>
+							bygoogle.com</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">Decibel Insight</td>
+							<td>da_lid<br>
+								da_sid</td>
+							<td>Decibel Insight is a full suite of behavioral analysis tools.</td>
+							<td>Persistent</td>
+							<td class="last"><p><a href="https://www.decibelinsight.com/PrivacyPolicy/">https://www.decibelin<br>
+							sight.com/PrivacyPolicy/</a></p></td>
+						</tr>
+					</tbody>
+				</table>
+				<p>&nbsp;</p>
+				<h4>Type: Authentication / Functionality</h4>
+				<table cellpadding="0" cellspacing="0" width="100%" class="table">
+					<thead>
+						<tr>
+							<th class="desc first">Cookie</th>
+							<th class="product">Name</th>
+							<th class="purpose">Purpose</th>
+							<th class="product">Persistent / Session</th>
+							<th class="last product"><span class="last">More Information</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="desc">Language Preference</td>
+							<td>ag_language<br>
+								novell_language<br>
+								language<br>
+								user_language<br>
+								novell_lang_redirect_refer</td>
+							<td>Language cookie used to display content in users preferred language.</td>
+							<td>Persistent</td>
+							<td class="last"><p>&nbsp;</p></td>
+						</tr>
+						<tr>
+							<td class="desc">Country Preference</td>
+							<td>user_country</td>
+							<td>Country cookie is used to display localized content based on a user's location.</td>
+							<td>Persistent</td>
+							<td class="last"><p>&nbsp;</p></td>
+						</tr>
+						<tr>
+							<td class="desc">Novell Search</td>
+							<td>novell_search_type<br>
+								novell_search_paid_keyword<br>
+								novell_search_landing<br>
+								novell_search_campaign<br>
+								novell_search</td>
+							<td>Preserves search preferences on novell.com search.</td>
+							<td>Persistent</td>
+							<td class="last"><p>&nbsp;</p></td>
+						</tr>
+						<tr>
+							<td class="desc">Home Page Banner Rotation</td>
+							<td>netiq_home_counter</td>
+							<td>This cookie is used to track the banner rotation count on the netiq.com home page.</td>
+							<td>Session</td>
+							<td class="last"><p><a href="https://www.decibelinsight.com/PrivacyPolicy/">https://www.decibelin<br>
+							sight.com/PrivacyPolicy/</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">Vbulletin Forums</td>
+							<td>bb_lastactivity <br>
+								bb_lastvisit</td>
+							<td>VBulletin is a 3rd party product used for forums and it uses these cookies to track visitor activity.</td>
+							<td>Persistent</td>
+							<td class="last"><p><a href="https://www.vbulletin.org/forum/portal.php">https://www.vbulletin.org/<br>
+							forum/portal.php</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">AddThis social sharing widget</td>
+							<td>__atuvc</td>
+							<td>Add This is a content sharing tool that allows users to share content on social media, blogs, websites, etc...</td>
+							<td>Persistent</td>
+							<td class="last"><p><a href="http://www.addthis.com/privacy/privacy-policy">http://www.addthis.com/<br>
+							privacy/privacy-policy</a></p></td>
+						</tr>
+						<tr>
+							<td class="desc">LiveChat</td>
+							<td>__livechat<br>
+								__livechat_chat<br>
+								__livechat_lastvisit<br>
+								__lc<br>
+								visitor_id.#######<br>
+								km_ai<br>
+								km_lv<br>
+								km_uq<br>
+								mp_##############_mixpanel</td>
+							<td class="desc">LiveChat is an online marketing, live support and web analytics application for SMB and large enterprise offered in SaaS (software as a service) model. It is used to offer chat support to visitors of the site.</td>
+							<td>Persistent</td>
+							<td class="last"><p><a href="http://www.livechatinc.com/privacy-policy/">http://www.livechatinc.com/<br>
+							privacy-policy/</a></p></td>
+						</tr>
+					</tbody>
+				</table>
+				<p>&nbsp;</p>
+			<table cellpadding="0" cellspacing="0" width="100%" class="table">
+					<thead>
+						<tr>
+							<th class="desc first">Cookie</th>
+							<th class="product">Name</th>
+							<th class="product">Purpose</th>
+							<th class="product">Persistent / Session</th>
+							<th class="last product"><span class="last">More Information</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="desc">DemandBase</td>
+							<td>s_fid</td>
+							<td>Used to deliver targeted personalization based on a user's location and known information about them.</td>
+							<td>Persistent</td>
+							<td class="last"><p>&nbsp;</p></td>
+						</tr>
+					</tbody>
+			</table>
+			<hr>
+			<p>All information collected through the use of cookies is encrypted and we do not use cookies to collect information such as credit card numbers. </p>
+			<p>Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our Website features. For example, we use a cookie to remember your cookie preferences and so:</p>
+			<ul>
+				<li>If you delete all of your cookies you will have to update your preferences with us again. </li>
+				<li class="last">If you use a different device, computer profile or browser you will have to tell us your preferences again. </li>
+			</ul>
+			<h4>Web Beacons</h4>
+			<p>Certain pages on our Websites may contain "web beacons" (also known as Internet tags, pixel tags or clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the third party.</p>
+			<h4>IP Addresses </h4>
+			<p>An IP address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our Websites, we may view the IP address of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what geographic regions our Website visitors come.  We also may use this information to enhance our Websites. </p>
+			<hr>
+			
+			<h3>3. Further Information and Complaints</h3>
+			<p>Micro Focus takes its users' concerns seriously. If you believe that Micro Focus has not complied with this Privacy and Cookie Policy, or if you have any questions about our privacy practices in general, you may write to the Micro Focus Group Compliance Officer at the address provided below, or by email at: <a href="mailto:compliance@microfocus.com">compliance@microfocus.com</a>.</p>
+			<p>Micro Focus <br>
+				The Lawn <br>
+				22-30 Old Bath Road <br>
+				Newbury <br>
+				Berkshire, RG14 1QN <br>
+				United Kingdom</p>
+			<p>If you have a complaint, please describe in as much detail as possible the ways in which you believe that this Privacy and Cookie Policy has not been complied with. We will investigate your complaint promptly.</p>
+			<p>If you provide Micro Focus with inconsistent preferences (for example, by indicating on one occasion that you consent to our use of cookies and on another by declining cookies), Micro Focus will endeavour to update your privacy preferences in a timely and accurate manner. </p>
+			<p>In accordance with the Data Protection Act 1998, Micro Focus International plc and certain of its other UK group companies are individually registered as a 'Data Controller' on the public Register of Data Controllers as maintained by the UK's Information Commissioner. Micro Focus' overseas group companies process your personal data in accordance with data protection laws in the countries in which they operate. To find out more information about the companies within the Micro Focus group that may handle your personal information, please visit <a href="http://www.microfocus.com">www.microfocus.com</a>.</p>
+			<p>We may change this Privacy and Cookie Policy from time to time by updating this page. Check this page from time to time to learn about any changes.</p>
+			<p><em>This Privacy and Cookie Policy was last updated: 22nd February 2016</em></p>
 		</div>
-		
+		<div class="product_right"> </div>
+		<div class="clearfix"></div>
 	</div>
-	<footer class="small">
+</div>
+
+<footer class="row social">
+	<div class="container">
+		<div class="col">
+			<p><strong>Join the conversation on social media:</strong></p>
+			<ul>
+				<li><a href="http://www.facebook.com/NetIQ" class="icon facebook-icon">Facebook</a></li>
+				<li><a href="http://www.linkedin.com/company/netiq" class="icon linkedin-icon">Linked-In</a></li>
+				<li><a href="https://plus.google.com/u/0/104155365122160260564" class="icon google-icon">Google+</a></li>
+				<li><a href="https://twitter.com/NetIQ" class="icon twitter-icon">Twitter</a></li>
+				<li><a href="http://www.youtube.com/user/netiqTV" class="icon youtube-icon">YouTube</a></li>
+				<li class="last"><a href="http://www.slideshare.net/NetIQ/" class="icon robot-icon">SlideShare</a></li>
+			</ul>
+		</div>
+		<div class="col">
+			<p><strong>Subscribe to our technical newsletter:</strong></p>
+			<form action="https://secure.eloqua.com/e/f2.aspx" method="post" id="ftrSubscribeForm" class="subscribe">
+				<fieldset>
+					<input type="hidden" value="SUBManageSubscriptions-GATE" name="elqFormName">
+					<input type="hidden" value="1163" name="elqSiteID">
+					<input type="hidden" value="NETIQ" name="BU">
+					<input type="hidden" value="" id="Gate_Subject_Line" name="Gate_Subject_Line">
+					<input type="hidden" value="" name="elqCustomerGUID">
+					<input type="hidden" value="0" name="elqCookieWrite">
+					<input type="hidden" value="http://www.netiq.com/company/subscribe/success.php" name="retURL">
+				
+					<input type="text" name="email_address" id="ftrSocialEmail" value="" placeholder="Enter Email Address">
+					<input type="image" name="submit" id="ftrSocialSubmit" src="/common/img/submit_social.png" alt="Submit">
+
+					<script type="text/javascript">
+						if(typeof user_lang != "undefined") {
+							jQuery("#ftrSubscribeForm fieldset").append('<input type="hidden" value="'+user_lang+'" name="Language">');
+						}
+						if(typeof user_country != "undefined") {
+							jQuery("#ftrSubscribeForm fieldset").append('<input type="hidden" value="'+user_country+'" name="country">');
+						}
+					</script><input type="hidden" value="en-us" name="Language"><input type="hidden" value="null" name="country">
+				</fieldset>		
+			</form>			
+
+		</div>
+	</div>
+</footer>
+<footer class="small">
 	<div class="wrap">
 		<div class="letstalk">
 	<p>Let's talk.</p>
-	
 	<ul>
-		<li class="letstalk_call"><a href="#">Request a Call</a></li>
+		<li class="letstalk_call"><a href="#">Request a Call ›</a></li>
 		<!-- <li class="letstalk_chat"><a href="#">Live Chat</a></li> -->
 		<li>Sales: <span class="phone_sales">1-888-323-6768</span></li>
 		<li class="last" style="display: none;">Support: <span class="phone_support">1-713-418-5555</span></li>
 	</ul>
 </div>
 
-<p class="copyright">© 2014 NetIQ Corporation
+<p class="copyright">© <script type="text/javascript">var d = new Date(); document.write(d.getFullYear());</script>2020 Micro Focus
 	<a href="/company/legal/">Legal</a>
 	<a href="/company/legal/privacy/">Privacy</a>
 	<!-- <a href="#" class="feedback">Feedback</a> -->
-<a class="feedback" href="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/inc/feedback_overlay.html?iframe=true">Feedback</a></p>
+<a class="feedback" href="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/feedback_overlay.html?iframe=true">Feedback</a></p>
 <p id="scrolltotop"><a href="#">Scroll to Top</a></p>
 <p id="desktoptoggle">View Desktop Site</p>
 
 	</div>
+	<div class="clearfix"></div>
 </footer>
+ 
 
-	
-<script src="/common/inc/js/plugins.js?v=6"></script>
-<script src="/common/inc/js/main.js?v=6"></script><script type="text/javascript" src="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/inc/include_nav.php?menu=solutions&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/inc/include_nav.php?menu=products&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/inc/include_nav.php?menu=company&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/inc/include_nav.php?menu=industry&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20140520083021/https://www.netiq.com/common/inc/include_nav.php?menu=service&amp;lang=en-us"></script>
-<script src="/common/inc/js/plugins/scroll/jScrollPane.js?v=1"></script>
-<script src="/common/inc/js/plugins/scroll/jquery.mousewheel.js?v=1"></script>
+
+<script src="/common/inc/js/plugins.js?v=7"></script>
+<script src="/common/inc/js/main.js?v=7"></script><script type="text/javascript" src="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/include_nav.php?menu=solutions&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/include_nav.php?menu=products&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/include_nav.php?menu=company&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/include_nav.php?menu=industry&amp;lang=en-us"></script><script type="text/javascript" src="https://web.archive.org/web/20160314025813/https://www.netiq.com/common/inc/include_nav.php?menu=service&amp;lang=en-us"></script>
 
 <script type="text/javascript" src="/common/inc/eloquacheck.js"></script>
 <script type="text/javascript" src="/common/inc/js/elq_tracking-1.0-min.js"></script>
@@ -285,7 +741,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	});
 </script>
 <script src="/common/inc/js/blindformsubmit.js?v=1"></script>
-
 
 <!--VISISTAT SNIPPET//-->
 <script type="text/javascript">
@@ -299,19 +754,190 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 
 <!--VISISTAT SNIPPET//-->
 
-
-
 <script type="text/javascript">
 var __lc = {};
-__lc.license = 3379932;
+__lc.license = 3379932;  
+if (typeof String.prototype.startsWith != 'function') {
+	String.prototype.startsWith = function (str){
+	return this.indexOf(str) == 0;
+	};
+}
+var groups  = {
+	'de-de': 5, // german --
+	'es-es': 4, // spanish --
+	'fr-fr': 8, // french --
+	'pt-br': 3, // portugese --
+	'it-it': 6, // italian --
+	'nl-nl': 9, // dutch --
+	'pl-pl': 10, // polish --
+	'sv-se': 7 // swedish --
+};
 
-(function() {
-	var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-})();
+var identity_access_security_group = {
+'/products/access-governance-suite': '',
+'/products/access-manager': '',
+'/products/access-review': '',
+'/products/advanced-authentication-framework': '',
+'/products/cloudaccess': '',
+'/products/directory-resource-administrator': '',
+'/products/identity-manager/advanced': '',
+'/products/identity-tracking': '',
+'/products/privileged-account-manager': '',
+'/products/securelogin': '',
+'/products/self-service-password-reset': '',
+'/products/socialaccess': '',
+'/products/change-guardian': '',
+'/products/group-policy-administrator': '',
+'/products/secure-configuration-manager': '',
+'/products/sentinel': '',
+'/products/edirectory': '',
+'/products/exchange-administrator': '',
+'/products/ldap-proxy': '',
+'/products/validator': '',
+'/solutions/identity-access-management': '',
+'/solutions/security-management/': ''
+};
+var platespin_voip_operations_group = {
+'/products/forge': '',
+'/products/appmanager': '',
+'/products/cloud-manager': '',
+'/products/operations-center': '',
+'/products/protect': '',
+'/products/recon': '',
+'/products/migrate': '',
+'/products/unified-communications-and-voip-management/features': '',
+'/products/aegis': '',
+'/solutions/it-operations-management': '',
+'/solutions/disaster-recovery': '',
+'/solutions/workload-migration': '',
+'/solutions/unified-communications-voip': ''
+};
+
+// block live chat pages
+var block_live_chat_pages = {
+	'/services': '',
+	'/support': '',
+	'/consulting': ''
+};
+
+
+
+jQuery(document).ready(function() {
+	var pathname = window.top.location.pathname;
+	var hostname = window.top.location.hostname;
+	var in_identity_access_security_group = false;
+	for (var i in identity_access_security_group) {
+		if (pathname.indexOf(i) > -1) {
+			in_identity_access_security_group = true;
+			break;
+		}
+	}
+	var in_platespin_voip_operations_group = false;
+	for (var x in platespin_voip_operations_group) {
+		if (pathname.indexOf(x) > -1) {
+			in_platespin_voip_operations_group = true;
+			break;
+		}
+	}
+	var in_block_live_chat_pages = false;
+	for (var q in block_live_chat_pages) {
+		if (pathname.indexOf(q) > -1) {
+			in_block_live_chat_pages = true;
+			break;
+		}
+	}
+	if (hostname.indexOf('training') != -1) {
+		in_block_live_chat_pages = true;
+	}
+	
+	
+	if ( typeof demandbase_data_promise == 'object' ) {
+		jQuery.when(demandbase_data_promise).done(function(demandbase_ip_data) {
+			var have_country_code = typeof demandbase_ip_data.country == 'string' || typeof demandbase_ip_data.registry_country_code == 'string';
+			
+			var country_code = '';
+			if (have_country_code) {
+				if (typeof demandbase_ip_data.country == 'string') {
+					country_code = demandbase_ip_data.country;
+				}
+				if (typeof demandbase_ip_data.registry_country_code == 'string') {
+					country_code = demandbase_ip_data.registry_country_code;
+				}
+			}
+			
+//			console.log('Jarid=====================================');
+//			console.log(have_country_code);
+//			console.log(country_code);
+//			console.log('Jarid=====================================');
+			
+			
+			if (typeof demandbase_ip_data != 'object' || demandbase_ip_data == null || !have_country_code) {
+				jQuery('.livechat_button').hide();
+				jQuery('.livechat_button.north_a_english').show();
+				__lc.group = 13; // english north america
+
+				(function() {
+					var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+					lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+				})();
+			} else if (country_code != '' && country_code != 'US' && country_code != 'CA') {
+				if (typeof groups[user_lang] == 'number') {
+					__lc.group = groups[user_lang];
+					jQuery('.livechat_button.en-us').hide();
+					jQuery('.livechat_button.' + user_lang).show();
+				} else { // just do below if want to be only emea english
+					jQuery('.livechat_button.en-us').hide();
+					jQuery('.livechat_button.emea_english').show();
+					__lc.group = 14; // default to english (outside US english)
+				}
+
+				(function() {
+					var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+					lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+				})();
+			} else {
+				if (in_block_live_chat_pages == false) {
+					/////////////////////////////////////////
+					// going groupless for now for US
+					jQuery('.livechat_button').hide();
+//					jQuery('.livechat_button.no_group').show();
+					
+					
+					////////////////////////////////////////
+					// non groupless code
+					if (in_identity_access_security_group) {
+						jQuery('.livechat_button.identity-access-security').show();
+						__lc.group = 11;
+					} else if (in_platespin_voip_operations_group) {
+						jQuery('.livechat_button.platespin-voip-operations').show();
+						__lc.group = 12;
+					} else {
+						jQuery('.livechat_button.north_a_english').show();
+						__lc.group = 13; // english north america
+					}
+
+
+					(function() {
+						var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+						lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+					})();
+				}
+			}
+		});
+	} /*else {
+		console.log('came here 1');
+		// this is the demandbase fail case
+		(function() {
+			var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+			lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+		})();
+	}*/
+});
 </script>
-
 
 
 
