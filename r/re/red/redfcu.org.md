@@ -1,42 +1,83 @@
-> *The following text is extracted and transformed from the redfcu.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221182825id_/http%3A//www.redfcu.org/your_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redfcu.org privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310172141id_/https%3A//www.redfcu.org/Assets/uploads/www.redfcu.org/import/www.redfcu.org/pdfs/AnnualPrivacyNotice_web.pdf) for the most accurate reproduction.*
 
-# RFCU's Privacy Statement
+# FACTS
 
-Redstone Federal Credit Union's Privacy Statement
+                                                                                                         rev. June 2015
+                  WHAT DOES REDSTONE FEDERAL CREDIT UNION® DO WITH YOUR PERSONAL
+FACTS             INFORMATION?
+                  Financial companies choose how they share your personal information. Federal law gives consumers the
+Why?              right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and
+                  protect your personal information. Please read this notice carefully to understand what we do.
+                  The types of personal information we collect and share depend on the product or service you have with
+What?             us. This information can include:
+                       •    Social Security number and income
+                       •    Payment history and credit card and other debt
+                       •    Credit history and checking account information
+                  When you are no longer our member, we continue to share your information as described in this notice.
+                  All financial companies need to share members’ personal information to run their everyday business. In
+How?              the section below, we list the reasons financial companies can share their members’ personal
+                  information; the reasons Redstone Federal Credit Union chooses to share; and whether you can limit this
+                  sharing.
+Reasons we can share your personal              Does Redstone Federal Credit Union share?         Can you limit this sharing?
+information
+For our everyday business purposes –                                 Yes                                      No
+such as to process your transactions,
+maintain your account(s), respond to
+court orders and legal investigations, or
+report to credit bureaus
+For our marketing purposes –                                         Yes                                      No
+to offer our products and services to you
+For joint marketing with other financial                             Yes                                      No
+companies
+For our affiliates’ everyday business                                Yes                                      No
+purposes –
+information about your transactions and
+experiences
+For our affiliates’ everyday business                                No                                 We don’t share
+purposes –
+information about your creditworthiness
+For our affiliates to market to you                                  No                                 We don't share
+For nonaffiliates to market to you                                   No                                 We don’t share
+                       Call toll-free 1-800-234-1234 or go to www.redfcu.org
+Questions?
 
-An Important Notice Concerning the Privacy of Your Financial Information
 
-Redstone Federal Credit Union (hereinafter "we," "us" or "our") is committed to protecting the privacy of its members, former members and non-member consumers (hereinafter "you" or "your"). The purpose of this notice is to inform you of our privacy practices. 
-
-In the course of providing products and services to you, we collect information about you. Some of this information is nonpublic personal information. We DO NOT sell or share your nonpublic personal information with anyone, except as required or permitted by law. 
-
-If you have any questions after reading this notice, please contact our Member Connect Center at (256) 722-3640 (locally) or (800) 234-1234 ext. 3640 (long distance only).
-
-We appreciate your continued support and patronage of Redstone Federal Credit Union.
-
-Categories of Information We Collect 
-
-We collect information about you from the following sources:
-
-  * Information we receive from you on applications and other forms (for example, name, address, social security number, assets, and income);
-  * Information about your transactions with us, our affiliates or others including those companies that work closely with us to provide you with diverse financial products and services (for example, your account balance, payment history, parties to transactions and credit card usage);
-  * Information we receive from a credit-reporting agency (for example, your credit worthiness and credit history);
-  * Information obtained when verifying the information you provide on an application or other forms (this may be obtained from your current or past employers, or from other institutions where you conduct financial transactions); and
-  * Information we may obtain from consumer purchasing and census data providers to develop competitive marketing programs for our members.
-
-  
-Categories of Information We Disclose and Parties to Whom We Disclose 
-
-We may disclose all of the information we collect, as previously described. We DO NOT disclose credit reporting agency information to our affiliate. We DO NOT disclose nonpublic personal information about our members, former members or non-member consumers to anyone, except as required or permitted by law.
-
-Service Provider/Joint Marketing
-
-We may disclose all of the above information (See "Categories of Information We Collect," above) we collect, as applicable, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. When we share your nonpublic personal information with these companies or financial institutions, contractual safeguards are incorporated in each agreement to protect the confidentiality of this information. We DO NOT permit these companies to sell or share the information you provide us to anyone else.
-
-We may also disclose nonpublic personal information about you as required or permitted by law. These information sharing practices typically include disclosure of information to process transactions on your behalf that you either initiate or consent to, conduct our operations or protect the security of our financial records.
-
-If you decide to terminate your relationship with us, we will not share information we have collected about you to anyone, except as required or permitted by law. 
-
-Protection of Your Information
-
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+Page 2
+Who we are
+Who is providing this notice?          Redstone Federal Credit Union
+What we do
+How does Redstone Federal Credit Union To protect your personal information from unauthorized access
+protect my personal information?       and use, we use security measures that comply with federal law.
+                                       These measures include computer safeguards and secured files
+                                       and buildings.
+How does Redstone Federal Credit Union We collect your personal information, for example, when you
+collect my personal information?
+                                            •   apply for a loan or open an account
+                                            •   pay your bills or use your debit or credit card
+                                            •   make deposits and withdrawals from your account
+                                       We also collect your personal information from others such as
+                                       credit bureaus, affiliates or other companies
+Why can’t I limit all sharing?         Federal law gives you the right to limit only
+                                            •   sharing for affiliates’ everyday business purposes –
+                                                information about your creditworthiness
+                                            •   affiliates from using your information to market to you
+                                            •   sharing for nonaffiliates to market to you
+                                       State laws and individual companies may give you additional
+                                       rights to limit sharing.
+Definitions
+Affiliates                             Companies related by common ownership or control. They can
+                                       be financial and nonfinancial companies.
+                                            •   Our affiliates include companies with Redstone in their
+                                                name; financial companies such as Redstone Services
+                                                Group, LLC, Redstone Services Group, LLC DBA Redstone
+                                                Insurance Services; and Redstone Title Services, LLC and
+                                                nonfinancial companies such as Redstone Consulting
+                                                Group, LLC.
+Nonaffiliates                          Companies not related by common ownership or control. They
+                                       can be financial and nonfinancial companies.
+                                            •   Redstone Federal Credit Union does not share with
+                                                nonaffiliates so they can market to you.
+Joint marketing                        A formal agreement between nonaffiliated financial companies
+                                       that together market financial products or services to you.
+                                            •   Our joint marketing partners include insurance providers
+                                                and online financial service providers.
