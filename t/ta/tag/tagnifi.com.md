@@ -1,70 +1,63 @@
-> *The following text is extracted and transformed from the tagnifi.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703094956id_/https%3A//www.tagnifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagnifi.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310192110id_/https%3A//www.tagnifi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TagniFi
+# Privacy Policy —
 
-TagniFi, LLC , its subsidiaries and its affiliates (“TagniFi”) is committed to protecting the privacy and security of its clients. TagniFi’s goal is to provide you with a personalized Internet experience that delivers the information, resources and services that are most relevant and helpful to you. In order to achieve this goal, TagniFi sometimes collects information during your visits to understand what differentiates you from other users of TagniFi.com. TagniFi operates under the following set of strict privacy principles:
+We understand your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly. This page explains how the information you provide is collected and used.
 
-  * The only information TagniFi obtains about individual users to its Web site is that supplied voluntarily by users.
-  * In cases when TagniFi may need personal information to provide users with customized content or to inform them about new features or services, users are explicitly asked for that information.
-  * Personally identifiable information provided by users (name, e-mail or home address, etc.) will not be disclosed to anyone unless users indicate that TagniFi may do so, or unless required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
-  * Only statistical information about TagniFi.com users as a group (usage habits, demographics) may be shared with any affiliate, subsidiary, sponsor, advertiser or partner of TagniFi, unless an appropriate confidentiality agreement is in place. TagniFi employs strict security measures to safeguard online transactions. All personal information is stored in a secured database.
+**What Information Do We Collect?**  
+We may collect both personally identifiable information about you and non-personally-identifiable information about your experience when you access the TagniFi website.
 
+The personally identifiable information we collect on our website or through our service consists of information you submit to us, including your name, email address, and other personal information that you willingly provide. Because participation in these activities is voluntary, you have a choice whether or not to disclose such information.
 
+In addition to information that you provide to us through forms, we receive non-personally identifiable information whenever you interact with our websites, including your Internet Protocol (IP) address, browser type and version, geographical region, referral URLs, and other data automatically supplied by common web browsers.
 
-The following discloses TagniFi’s information gathering and dissemination practices for TagniFi.com. Additional terms and conditions, if any, regarding the collection and use of your information may also be provided to you before you sign up for a particular service. Here you will learn what personally identifiable information of yours is collected, how and when TagniFi might use your information, how TagniFi protects your information, who has access to your information, and how you can correct any inaccuracies in the information.
+**What Information Do We Collect from Third-Party Sites?**  
+When you use any TagniFi application associated with a Third-Party Site (“TPS”), including but not limited to social networking sites such as Facebook, we may collect personally identifiable information about you from the profile you have established at the TPS.
 
-**What Information is Collected**  
-TagniFi collects certain information from its users in three ways: (a) from TagniFi Web server logs, (b) with cookies and (c) directly from the user.
+By authorizing TagniFi to access your TPS profile, you are authorizing TagniFi to collect, store, and use in accordance with this Privacy Policy any and all information that your privacy settings at the TPS allow TagniFi to access through the TPS Application Programming Interface (“API”).
 
-**(a) IP Addresses (Server Log Information)**  
-An IP address is a number automatically assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. TagniFi collects IP addresses in order to conduct system administration, report aggregate information to affiliates, subsidiaries, sponsors, advertisers or partners, and to conduct site analysis. TagniFi will also use IP addresses to identify any users who refuse to comply with TagniFi’s Terms of Use Agreement, and to identify users who threaten TagniFi’s service, site, user, clients or others.
+The personally identifiable information TagniFi is allowed to access is affected by the privacy settings you have established at the TPS. Because the linkage between any TPS and TagniFi is completely voluntary, and our ability to access your information at the TPS requires that linkage, you have a choice whether or not to disclose such information.
 
-**(b) Cookies**  
-TagniFi places a text file called a “cookie” in the browser files of your computer. Cookies are pieces of information that a Web site transfers to an individual’s hard disk for record keeping purposes. TagniFi.com uses cookies during your online session to deliver content specific to your interests. Cookies allow TagniFi to avoid showing you the same ad or other message repeatedly. TagniFi Web Site cookies do not contain personal information. They do enable TagniFi to relate your use of the site to information that you have specifically and knowingly provided to TagniFi.com.
+**How Is Your Information Used?**  
+Information about our users is an important part of our business, and we are not in the business of selling it to others. We do not sell, rent, or lease your information to third parties.
 
-**(c) Registration (User-Supplied Information)**  
-TagniFi.com site registration systems require users to give TagniFi contact information such as their name and e-mail address, and demographic information such as a ZIP code, income level, organization and/or role. The user’s contact information is used to contact the user when necessary. Users may choose (opt-in) to receive future mailings; see the choice/opt-in section below. TagniFi uses this data to tailor the user’s experience at TagniFi.com, showing the user content that reflects their stated preferences. This information may be shared with affiliates, subsidiaries, sponsors, advertisers or partners on an aggregate basis, but personally identifiable information will not be disclosed without the user’s prior consent.
+The information we obtain from TagniFi users helps us enhance and refine our service and content. Non-personal information collected about you through your experience and queries is used to better understand the entire population that is utilizing our website and how we might improve our services to improve the collective experience. Except as noted below, we track and record IP addresses that access our website for internal reporting, diagnostic, and analysis purposes only.
 
-**Services  (User-Supplied Information)**  
-If you sign up for a particular service TagniFi may collect personally identifiable information such as contact information (e.g., name, address, telephone number and e-mail address), demographic information (e.g., zip code, organization and/or role), billing information (e.g., credit or debit card numbers), or sensitive information (e.g., social security number).
+If you choose to receive communication from TagniFi directly or via use of any submission forms associated with the website, we may send you an email response as well as notify you of other offers or services that may be of interest. When you send email or other communications to us, we may retain those communications to respond to you and improve our products and services.
 
-We use the information to verify that only authorized users are accessing the respective application; to build your electronic client record or electronic personal health record so that TagniFi may provide you the specific personalized service you have applied for and agreed with; and to contact you when necessary, to communicate helpful tips and advice during your participation to this service.
+Your IP address is used to determine, when possible, your approximate geographical location, which affects such things as your results’ default currency and units of measure, based on what country you are in. Your browser type may be used to fine-tune the results for optimal display, for example on mobile devices or to work around limitations of a particular browser. Referrer URLs may be used to generate usage statistics and analyze usage patterns.
 
-**External Links**  
-In order to provide users with greater value, TagniFi may provide links to various third party Web sites. However, even if a third-party affiliation exists between TagniFi and that destination site, TagniFi exercises no authority over linked sites, each of which maintains independent privacy and data collection policies and procedures. TagniFi assumes no responsibility or liability for these independent methods or actions and is not responsible for the independent policies or procedures of destination sites. Similarly, TagniFi cannot take responsibility for the privacy initiatives or the content of such Web sites. These destination links are provided only for your convenience, and as such, you access them at your own risk. However, TagniFi wishes to ensure the integrity of the TagniFi Web site and its destination links, so any comments pertaining to TagniFi.com or any sites accessed through TagniFi links are greatly appreciated. See the Contacting this Web Site section below.
+**Other Disclosures of Your Information**  
+We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.
 
-**Surveys and Questionnaires**  
-TagniFi.com online surveys and questionnaires may ask users for contact and demographic information. The user’s contact information is used to contact the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-in section below. Demographic and profile data is also collected at TagniFi.com. This information may be shared with affiliates, subsidiaries, sponsors, advertisers or partners on an aggregate basis, but it does not indicate the identity of individual users.
+We may also preserve, use, or disclose your information if necessary to enforce our Terms of Use and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of TagniFi, our users, or others.
 
-**E-Commerce**  
-Some TagniFi.com web site features may use applications to collect data to facilitate an e-commerce transaction, such as registering you for a specific conference. TagniFi will ask your explicit permission to transfer this data to a third party (e.g., conference coordinator) to facilitate this transaction. TagniFi may store this information to verify the transaction for customer service and accounting reasons and may use this information to help personalize your experience on TagniFi.com. TagniFi may also share this information with other third parties on an aggregate basis, but it does not indicate the identity of individual users. See the External Links section above for additional disclaimers regarding third-party Web sites.
+**Cookies**  
+When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please be aware that TagniFi may not have full functionality if your browser refuses cookies. We utilize the following types of cookies:
 
-**Contests**  
-TagniFi may run contests on TagniFi.com in which users are asked for contact and demographic information. The user’s contact information is used to contact the user when necessary. Users may choose to receive future mailings; see the choice/opt-in section below. Demographic and profile data is also collected at TagniFi.com. This information is shared with affiliates, subsidiaries, sponsors, advertisers or partners on an aggregate basis, but it does not indicate the identity of individual users.
+1) Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website.
 
-**Third Party Ad Services**  
-TagniFi may utilize certain third-party advertising services to display advertising for its advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. TagniFi does not share personally identifiable user information with its advertising services.
+2) Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
+
+3) Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
+
+4) Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+
+**Links to Third-Party Websites**  
+From time to time, TagniFi may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from the TagniFi website. This privacy policy applies solely to information collected by TagniFi.
+
+**Accessing TagniFi from Third-Party Sources**  
+TagniFi may additionally be accessed through web widgets or gadgets that are embedded on third-party sites, such as iGoogle. If you choose to access TagniFi via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party’s servers prior to being processed on the TagniFi website.
 
 **Security**  
-TagniFi.com has security measures in place to protect the loss, misuse and alteration of the information under TagniFi’s control. TagniFi employs strict security measures to safeguard online transactions. All personal information is stored in a secured database.
+We take appropriate measures to ensure the security of our website and systems. This includes precautions to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, alteration, disclosure, or destruction of data.
 
-**Children’s Privacy Protection**  
-The Web Site covered by this privacy policy is not designed for or targeted at children. TagniFi will not knowingly collect and maintain personally identifiable information from children 13 years of age or younger.
+Despite our efforts to protect your personal information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet may be intercepted. Your use of the website constitutes an acceptance of such risk.
 
-**Choice/Opt-In; Review/Correct/Update; Contacting the Web Site**  
-TagniFi.com gives users the opportunity to opt-in to receive communications from TagniFi at the point where TagniFi requests information about the user. This site also gives users the options listed below for removing their information from TagniFi’s database in order to stop receiving communications or TagniFi’s service; for reviewing, changing and modifying information previously provided (subject to reasonable frequency limitations, which TagniFi has established as three or fewer requests per year); or should you have any questions about this privacy statement, the practices of this Web site, or your interaction with this Web site:
+**Changes to This Privacy Policy**  
+We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information.
 
-You can send a message by [contacting us](https://web.archive.org/about/contact/ "Contact Us").  
-You can send mail to the following postal address:  
-TagniFi, LLC  
-400 North Ashley Drive  
-Suite 200  
-Tampa, FL 33602  
-Attn: Webmaster  
-You can call the following telephone number: (813) 579-2996
+**Questions and Concerns**  
+If you have any questions or concerns about this Privacy Policy, please contact us at [support@tagnifi.com](mailto:support@tagnifi.com).
 
-As mentioned in the Terms of Use Agreement, ‘Modification of These Terms of Use’ section, TagniFi reserves the right to change the terms, conditions, and notices under which the TagniFi.com Web Site is offered, including but not limited to any changes associated with the use of the TagniFi.com Web Site now or in the future. You are responsible for regularly reviewing these terms and conditions. However, please note that we will give Web users the opportunity to opt-out or prohibit new/unrelated uses of their personal information.
-
-Effective Date: January 1, 2013; Updated August 30, 2013
-
-If you have any questions or comments about our privacy practices, please [contact us](https://web.archive.org/about/contact/ "Contact Us").
+_Last Updated: July 1, 2015._
