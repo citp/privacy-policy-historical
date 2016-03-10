@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907093441id_/https%3A//tictail.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310055753id_/https%3A//tictail.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tictail
 
@@ -76,11 +76,11 @@ The Website may contain links to External Sites. Tictail has no control over the
 
 ## 8\. Children
 
-We do not knowingly collect Personal Information from children under the age of 13 through the Website. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information through the Website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us at [accounts@tictail.com](https://web.archive.org/web/20150907093441id_/https%3A//tictail.com/legal/accounts@tictail.com), and we will endeavor to delete that information from our databases.
+We do not knowingly collect Personal Information from children under the age of 13 through the Website. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information through the Website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us at [accounts@tictail.com](https://web.archive.org/web/20160310055753id_/https%3A//tictail.com/legal/accounts@tictail.com), and we will endeavor to delete that information from our databases.
 
 ## 9\. California Residents
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Tictail may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [legal@tictail.com](https://web.archive.org/web/20150907093441id_/https%3A//tictail.com/legal/legal@tictail.com) with “PRIVACY POLICY” in the subject line.
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with Tictail may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [legal@tictail.com](https://web.archive.org/web/20160310055753id_/https%3A//tictail.com/legal/legal@tictail.com) with “PRIVACY POLICY” in the subject line.
 
 In addition, Tictail does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
 
