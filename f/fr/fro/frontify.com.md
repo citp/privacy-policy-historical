@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontify.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914161841id_/https%3A//frontify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontify.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310130420id_/https%3A//frontify.com/privacy) for the most accurate reproduction.*
 
 # Frontify Privacy Policy
 
