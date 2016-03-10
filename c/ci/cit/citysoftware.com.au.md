@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229172415id_/http%3A//www.csw-it.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310021027id_/https%3A//www.csw-it.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSW-IT
 
-CSW-IT respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. If you have questions or concerns regarding this statement, you should first contact CSW-IT using [this online form](http://www.csw-it.com.au/home/contact) or call us on 1300 761 761.
+CSW-IT respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. If you have questions or concerns regarding this statement, you should first contact CSW-IT using [this online form](https://www.csw-it.com.au/home/contact) or call us on 1300 761 761.
 
 This Privacy Policy protects your privacy by Informing you about:
 
@@ -36,7 +36,7 @@ We use links to some of our suppliers on our website. In the course of providing
 
 ### Information Corrections or Changes
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins on the [Your Account](http://www.csw-it.com.au/account) page. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us by using [this online form](http://www.csw-it.com.au/home/contact) or by calling us on 1300 761 761.[](mailto:sales@csw.com.au)
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins on the [Your Account](https://www.csw-it.com.au/account) page. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us by using [this online form](https://www.csw-it.com.au/home/contact) or by calling us on 1300 761 761.[](mailto:sales@csw.com.au)
 
 ### How We Put Information to Good Use
 
