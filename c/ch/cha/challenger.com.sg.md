@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challenger.com.sg privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192512id_/http%3A//www.challenger.com.sg/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challenger.com.sg privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310072218id_/http%3A//www.challenger.com.sg/products/privacy) for the most accurate reproduction.*
 
 # Challenger Singapore
 
