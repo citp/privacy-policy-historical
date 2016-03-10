@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truesocialmetrics.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910212442id_/https%3A//www.truesocialmetrics.com/privacy%3Fga%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesocialmetrics.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310035711id_/https%3A//www.truesocialmetrics.com/privacy%3Fga%3Dfooter) for the most accurate reproduction.*
 
 # True Social Metrics: Social media analytics
 
