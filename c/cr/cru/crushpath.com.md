@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushpath.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812195903id_/http%3A//crushpath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushpath.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310074334id_/http%3A//crushpath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crushpath
 
@@ -6,7 +6,7 @@
 
 Last Revised: June 12, 2012 
 
-Crushpath LLC ("Company") is committed to protecting your privacy.We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.crushpath.com ("Site") and Services (as defined in the Terms of Service). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service located at [http://www.crushpath.com/terms/index.html](https://web.archive.org/web/20150812195903id_/http%3A//terms/index.html).
+Crushpath LLC ("Company") is committed to protecting your privacy.We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.crushpath.com ("Site") and Services (as defined in the Terms of Service). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service located at [http://www.crushpath.com/terms/index.html](https://web.archive.org/web/20160310074334id_/http%3A//terms/index.html).
 
 **1.) User Consent.** By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
 
