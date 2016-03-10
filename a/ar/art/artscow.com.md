@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025165843id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310020348id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Halloween Sale| ArtsCow
+# Privacy Policy - Personalized Photo Gifts, Photo Books, Photo All Over Print Apparel | ArtsCow
 
 Insert coupon code 35OFFSITE during checkout to get 35% off all items (excluding prints)
 
