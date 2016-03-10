@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029073917id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310024512id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jack Myers
 
@@ -29,63 +29,60 @@ We have established procedures to ensure that every reasonable effort is made to
 
 ##  Commentary Archives
 
+[February 2016](https://web.archive.org/privacy?archive=022016)  
+[January 2016](https://web.archive.org/privacy?archive=012016)  
+[December 2015](https://web.archive.org/privacy?archive=122015)  
+[November 2015](https://web.archive.org/privacy?archive=112015)  
+[October 2015](https://web.archive.org/privacy?archive=102015)  
 [September 2015](https://web.archive.org/privacy?archive=092015)  
 [August 2015](https://web.archive.org/privacy?archive=082015)  
 [July 2015](https://web.archive.org/privacy?archive=072015)  
 [June 2015](https://web.archive.org/privacy?archive=062015)  
 [May 2015](https://web.archive.org/privacy?archive=052015)  
 [April 2015](https://web.archive.org/privacy?archive=042015)  
-[March 2015](https://web.archive.org/privacy?archive=032015)  
-[February 2015](https://web.archive.org/privacy?archive=022015)  
-[January 2015](https://web.archive.org/privacy?archive=012015)  
-[December 2014](https://web.archive.org/privacy?archive=122014)  
-[November 2014](https://web.archive.org/privacy?archive=112014)  
-[October 2014](https://web.archive.org/privacy?archive=102014)
+[March 2015](https://web.archive.org/privacy?archive=032015)
 
 ### [See all Archived Material](https://web.archive.org/privacy?archive=all)
 
 ## MediaVillage.com[](http://feeds.feedburner.com/MediavillageBloggerFeedForMediabizbloggersChannels?format=xml)
 
-[Q&A: The Weather Company on Using Automation to Capture Adspend](https://www.mediavillage.com/article/qa-the-weather-company-on-using-automation-to-capture-adspend/)  
-In the first of a three-part series, Jay Sears, Senior Vice President Marketplace Development of Rubicon Project discusses how to use automation to capture advertising spend from small and medium-sized businesses with Ryan Davis of The Weather Company. The two executives appeared at a program titled “$50B Left Behind: Capturing SMB Spend” during Advertising Week New York.
+[Why Is TV Making Me Sad?](https://www.mediavillage.com/article/why-is-tv-making-me-sad/)  
+If TV is supposed to be so wonderful these days, why is it making me so sad? I’ve got a few ideas.
 
-[Contemporary Common Keys in Advertising](https://www.mediavillage.com/article/contemporary-common-keys-in-advertising/)  
-It has been said that the US and Great Britain are two countries separated by a common language. Despite many similarities, we still misinterpret meaning and context between us while using words derived from the same source. For example if a Brit is in “rude health” it means he or she is in “very good health,” which is not apparent to us American upstarts.
+[Mindshare: Election Season Comes to SXSW](https://www.mediavillage.com/article/mindshare-election-season-comes-to-sxsw/)  
+This week, on Mindshare’s Culture Vulture Live, Jason Maggs, Associate Director of Mindshare’s Invention Studio, previews SXSW Interactive, which starts on March 11. (Click on video above.)
 
-[Ad Blocking? More Like Ad Blockheads](https://www.mediavillage.com/article/ad-blocking-more-like-ad-blockheads/)  
-So here's my take on ad blocking. Isn't it awful that ads for "Truth," the new movie about Dan Rather and his 2004 report about George W. Bush, were blocked by CBS, which refused to run them even though other networks did?
+[Stuart Elliott: Blurred Lines on Madison Avenue](https://www.mediavillage.com/article/stuart-elliott-blurred-lines-on-madison-avenue/)  
+The leaders of the advertising industry are realizing that blurred lines are not just for Robin Thicke anymore.
 
-[On “The Walking Dead,” Is Glenn a Goner?](https://www.mediavillage.com/article/on-the-walking-dead-is-glenn-a-goner/)  
-Any doubts about the continued power of AMC’s “The Walking Dead” or its status as the most popular program on television had to have been eradicated this week in the aftermath of the most shocking television death since that of Will Gardner on CBS’ “The Good Wife.”
+[Political Science--An Interview with Alex Lundry](https://www.mediavillage.com/article/political-science-an-interview-with-alex-lundry/)  
+For our first episode of 2016, TMI: The Media Interview, powered by NCC Media, leans into the rough and tumble world of political advertising. Billions of dollars will be spent by campaigns, parties, PACS and special interest groups to sway American voters in 2016, and we spoke with a man who knows a bit about how it’s being done.
 
-[Newspapers Grow By Delivering Value](https://www.mediavillage.com/article/newspapers-grow-by-delivering-value/)  
-The Standard Media Index (SMI) this week reported findings that really caught the attention of almost everyone in media. A service that tracks spending by 80% of all U.S. agencies, SMI reported that newspaper spend was up 18% in September and 16% for the quarter. Their research is directional as it doesn’t include all agencies and does not reflect spends made by clients direct (i.e. Macy’s) or FSI activity handled by specialty placement shops. That said, the numbers are still impressive and are frankly no surprise to us here at the NNN. We saw similar double digit percentage gains for both periods. In fact, for Q4, we are already pacing ahead of these Q3 industry growth figures. With all of the negative press that the newspaper industry has managed through over the years, the obvious question most people are asking when they read the report is: What is driving this growth, and is it sustainable?
+[A Fond Farewell to The Independent](https://www.mediavillage.com/article/a-fond-farewell-to-the-independent/)  
+The Independent and its sister The Independent on Sunday have announced that they will cease to exist in paper form from later this month. Both will become digital-only titles. The stable’s little sibling The i will be sold to Johnson Press where one imagines it will continue in print form. Meantime, Trinity Mirror has launched a new title, The New Day, which will at least initially be a print-only title.
 
-[If You Own a Cable Net with "Few" Viewers, You Are in Big Trouble!](https://www.mediavillage.com/article/if-you-own-a-cable-net-with-few-viewers-you-are-in-big-trouble/)  
-If you are a subscriber to a Multichannel Video Programming Distributor (MVPD) you’re going to wind up paying more for less … but subscribing to pretty much only what you want to watch if you can afford it all. (And if you are Comcast with all of those cable subs and NBCU, well, just look at both sides of all the equations to come!)
+[How the Magazine Business is Winning. That's Right, Winning!](https://www.mediavillage.com/article/how-the-magazine-business-is-winning-thats-right-winning/)  
+And… Introducing your new favorite TV network: Facebook!
 
-[Cinema Advertising: Break Through Fragmentation with a Bang](https://www.mediavillage.com/article/cinema-advertising-break-through-fragmentation-with-a-bang/)  
-Fourth quarter is always an exciting time in media. Maybe it’s from the old television model, but the season still feels ripe for a premiere. But we’ve seen that model decline, year-over-year, as an abundance of choices and consumer control have fragmented our industry along with our efforts to communicate to consumers. Fragmentation is a funny word to me because everyone sees it as a negative, and I don’t any longer. Perhaps it has something to do with our own premiere this fall, as we welcome a new CEO to Screenvision, but I’m choosing to spend my time embracing the fragmentation knowing that ultimately strong messages on the right platform at the right time will find passionate consumers. We all just have to get better at it.
+[Telenovelas Continue to Heat Up Spanish-Language TV](https://www.mediavillage.com/article/the-charge-and-change-of-the-drama-brigade/)  
+After all the decades U.S. Spanish-language TV networks have existed -- four, beginning with the launch of Univision in 1975, when it was known as Spanish International Network or SIN -- one genre unique to this medium continues to dominate primetime. Year after year, telenovelas running nightly over a four-to-six month span rack up the viewers, the ratings and the advertising revenue.
 
-[TREotM: Monetizing the New Media Mix: Or, That’s Not So Simple](https://www.mediavillage.com/article/treotm-monetizing-the-new-media-mix-r-thats-not-so-simple/)  
-Chapter 13, Part 1
+[The Shareability of OOH](https://www.mediavillage.com/article/The-Shareability-of-OOH/)  
+Out of home (OOH) advertising exists in the real world, and is therefore an ideal way to amplify digital, social, and mobile media. The realness of OOH is why the OOH medium delivers more online activity per ad dollar than television, according to Nielsen.
 
-[Radio Brings Profits to Hyperlocal Apps](https://www.mediavillage.com/article/radio-brings-profits-to-hyper-local-apps/)  
-Hyperlocal apps connect app users with retailers in a mutually beneficial way. For example, an app can notify you that a Dunkin Donuts is a block away offering free coffee for the next 10 minutes. The user gets free coffee. Dunkin Donuts gets valuable consumer data.
+[Long-Term Ad Spending Growth Forecast: +5% Annually](https://www.mediavillage.com/article/long-term-ad-spending-growth-forecast-5-annually/)  
+Total ad spending is forecast to grow an average 5.0% annually through 2020 according to a new report issued today by MyersBizNet, the leading independent forecaster of advertising and marketing investments since 1986.
 
-[Upfront Update: Programmatic (to a Degree) Ahead for NCC](https://www.mediavillage.com/article/upfront-update-programmatic-to-a-degree-ahead-for-ncc/)  
-Late winter and spring represent primetime for the majority of companies presenting Upfront/NewFront showcases in New York City. Not so with NCC Media, the advertising sales rep firm handling local and national spot buys for multichannel distributors. NCC prefers to show off its intentions in mid-fall and did so again last Thursday.
+[Upfront News and Views: Nickelodeon Kicks It Off](https://www.mediavillage.com/article/upfront-news-and-views-nickelodeon-kicks-it-off/)  
+The Upfront and NewFront season has begun! Over the next three months, television networks running over broadcast, basic cable and/or satellite, plus digital services available through smart TV sets and devices smartening up those sets (such as Roku, Chromecast, Apple TV, Amazon Fire TV and Shield), will go public with their future programming strategies. The aim: Win a greater share of the advertising dollars transacted ahead of the 2016-17 TV season, which “begins” in mid-September, even in the age of year-round Peak TV. In what's become an annual MediaVillage tradition, we'll summarize and critique as many of these pubic showcases as possible, awarding coveted Jacks ratings for the overall events and in various categories from news value to the quality of presentations and presenters.
 
-[Why Agencies Can’t Deliver In the Age of Disruption](https://www.mediavillage.com/article/why-agencies-cant-deliver-in-the-age-of-disruption/)  
-Disruption, like a breakout summer hit, is the song playing on every station. At the recent ANA gathering, the Masters of Marketing chorus could be heard singing in three-part harmony: Disruption of media. Disruption of business models. Disruption of agency models. Disruption of the disrupters who disrupted everything in the first place.
+[Upfront News and Views: TV Land and CMT](https://www.mediavillage.com/article/upfront-news-and-views-tv-land-and-cmt/)  
+Viacom kicked off the 2016 Upfront showcase season with Nickelodeon last Wednesday, then followed up the next day with the rest of its key Kids & Family Group channels: Nick@Nite, TV Land and CMT.
 
-[The MediaVillage Articles Club: Autumn Selections](https://www.mediavillage.com/article/the-mediavillage-articles-club-autumn-selections/)  
-Aside from the great company and pizza, one of the best things about our monthly Articles Club meetings is the way in which our discussions often veer from course and we arrive at many a tangent. From an oral history of the Kennedy family to a retelling of respective senior prom nights, we covered a lot of ground this month. Perhaps we should consider publishing a transcript. But for now, I’ve shared below our article selections from the month of October.
+[Adulting is Hard – But Gaming Makes it Easier](https://www.mediavillage.com/article/adulting-is-hard-but-gaming-makes-it-easier/)  
+This week, on Mindshare's Culture Vulture Live, Alexis Fragale explores Barnes & Noble's new game night series. (Watch video above.)
 
-[Advertising Effect: Breaking the (Quant) Cast](https://www.mediavillage.com/article/advertising-effect-breaking-the-quant-cast/)  
-One of my main beefs about the online adtech business is how so many people working within it are so narrow in their knowledge and their thinking about advertising. Too many seem to believe that the end point is the technology and the algorithms, and not helping ensure that each ad works as hard as it can.
-
-[The Power of Audience Intimacy](https://www.mediavillage.com/article/the-power-of-audience-intimacy/)  
-The TV industry is in the midst of an adjustment period. Between the rise of digital and its impact on TV ad revenue, to streaming and “cord-cutting” alternatives, the industry has faced its fair share of challenges. As networks adjust to the new media landscape, some have embraced data as a lead navigator of this somewhat uncertain terrain. Those that have done so successfully are using this information to not only better understand the landscape, but to generate an intimate comprehension of their audience. Acquiring this knowledge is incredibly powerful and has proved a resourceful tactic as traditional television settles into the digital age.
+[MediaBizBuzz: Yahoo, Tribune, Verizon, Vice and Billboards](https://www.mediavillage.com/article/mediabizbuzz-yahoo-tribune-verizon-vice-and-billboards/)  
+A roundup of the week's key news from MediaVillage member companies and the wider media industry. This week, Yahoo readies a fire sale of assets, Tribune Media considers having its own fire sale, Vice launches its TV channel with a promise to revolutionize advertising, Verizon and Hearst want mobile Millennials to watch their new channels and Clear Channel billboards could soon be watching you -- plus much more news to keep an eye on.
 
 [Click Here for Membership Information](https://web.archive.org/subscription-info)
