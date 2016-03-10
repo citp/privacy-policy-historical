@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927031008id_/https%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310075113id_/https%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Derivative TouchDesigner
 
