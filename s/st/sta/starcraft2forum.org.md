@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcraft2forum.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626102708id_/http%3A//www.starcraft2forum.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcraft2forum.org privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310131440id_/http%3A//www.starcraft2forum.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
