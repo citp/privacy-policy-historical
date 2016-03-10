@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftedit.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005632id_/http%3A//shiftedit.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftedit.net privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310153329id_/http%3A//shiftedit.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | ShiftEdit
 
@@ -22,9 +22,7 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For users that are especially concerned with security we recommend they use the [master password feature](https://web.archive.org/blog/master-password) and [SSL](https://web.archive.org/premier) (premier only).
-
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.shiftcreate.com/contact).
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For users that are especially concerned with security we recommend they use the [master password feature](https://web.archive.org/blog/master-password).
 
   
 
