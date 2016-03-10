@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshuffler.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817213423id_/http%3A//gameshuffler.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshuffler.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310224207id_/http%3A//gameshuffler.com/privacy/index.html) for the most accurate reproduction.*
 
 # Attention Users: We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it
 
