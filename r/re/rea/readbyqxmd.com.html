@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the readbyqxmd.com privacy policy that was archived on 2015-09-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150918204040id_/https%3A//www.readbyqxmd.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readbyqxmd.com privacy policy that was archived on 2016-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310042200id_/https%3A//www.readbyqxmd.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//cdn.optimizely.com/js/1771730353.js"></script>
@@ -8,7 +8,8 @@
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta http-equiv="cache-control" content="no-cache">
 		
-		<meta name="apple-itunes-app" content="app-id=574041839, affiliate-data=, app-argument=readbyqxmd://openfeaturedtab">
+		<meta name="smartbanner-itunes-app" content="app-id=574041839, affiliate-data=, app-argument=readbyqxmd://openfeaturedtab">
+		<meta name="google-play-app" content="app-id=com.qxmd.readbyqxmd">
 		<link rel="alternate" href="android-app://com.qxmd.readbyqxmd/http/www.readbyqxmd.com/">
 		<meta property="og:image" content="https://www.readbyqxmd.com/web/read_icon_512.png">
 		<meta name="twitter:card" content="summary">
@@ -28,21 +29,35 @@
 		<meta name="twitter:app:url:googleplay" content="https://www.readbyqxmd.com/">
 		
 		
-		<link rel="stylesheet" href="/web/web.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="/web/web.css?v=3" type="text/css" media="screen">
 		<link rel="stylesheet" href="/web/bootstrap-noconflict.min.css" type="text/css" media="screen">
 		
+		<link rel="stylesheet" href="/web/smart-app-banner.css" type="text/css" media="screen">
 		
 		
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link rel="apple-touch-icon" href="/web/read_icon.png">
+		<link rel="android-touch-icon" href="/web/read_icon.png">
+		
+		
+		
+		
+		
+		
+		
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		
+		<script src="/web/smart-app-banner.js"></script>
+		
 
 		<script type="text/javascript">
 			  var addthis_config = {
 				 data_ga_property: 'UA-42301736-1',
-				 data_ga_social : true
+				 data_ga_social : true,
+				 pubid: 'ra-5124a743183199c8'
 			  }; 
 		</script>
 		
-		<script type="text/javascript" src="/web/web.js"></script>
+		<script type="text/javascript" src="/web/web.js?v=7"></script>
 		
 	</head>
 	<body id="body">
@@ -84,9 +99,11 @@
 				</p>
 			</div>
 			<div>
-			<a href="//itunes.apple.com/app/read-by-qxmd/id574041839?mt=8" target="_blank"><img height="58px" src="/web/button_app_store.png" alt="Available on the App Store" id="app_store_button" class="app_store_right"></a>
+			<a href="//itunes.apple.com/app/read-by-qxmd/id574041839?mt=8" target="_blank"><img style="height:58px;" src="/web/app_store_button_3.png" alt="Available on the App Store" id="app_store_button"></a>
 			<p></p>
-			<a href="//play.google.com/store/apps/details?id=com.qxmd.readbyqxmd" target="_blank"><img height="58px" src="/web/button_google_play_small.png" alt="Available on the Play Store"></a>
+			<a href="//play.google.com/store/apps/details?id=com.qxmd.readbyqxmd" target="_blank"><img style="height:58px;" src="/web/google_play_badge.png" alt="Available on the Play Store"></a>
+			<p></p>
+			<a href="//institutions.readbyqxmd.com" target="_blank"><img style="height:58px;" src="/web/read_institutional_badge.png" alt="Read Institutional Edition"></a>
 			</div>
 		</div>
 			<div id="top">
@@ -122,7 +139,10 @@
 						</div>
 						<div id="searchbox_padding">
 							<div id="searchbox_border">
-								<div><input type="text" id="searchbox" value="Enter a keyword to search" style="color: #aaaaaa;" onfocus="trackEventGA('UserInteraction', 'SearchQuery', 'NewSearch'); ajax_search_activate();" onblur="ajax_search_off();" onkeyup="ajax_search();"></div>
+								<div><input type="text" id="searchbox" placeholder="Enter a keyword to search" onfocus="trackEventGA('UserInteraction', 'SearchQuery', 'NewSearch');" value=""></div>
+								
+								<input id="current_search_term" type="hidden" value="">
+								<input id="current_search_type" type="hidden" value="">
 							</div>
 						</div>
 						<div class="clear-l"></div>
@@ -130,15 +150,15 @@
 				</div>
 				<div id="header">
 					<div id="header_nav">
-						<a class="nav_featured_0" href="https://www.readbyqxmd.com/featured"></a>
-						<a class="nav_journals_0" id="nav_journals" href="https://www.readbyqxmd.com/journals"></a>
-						<a class="nav_collections_0" id="nav_collections" href="https://www.readbyqxmd.com/collections"></a>
-						<a class="nav_keywords_0" id="nav_keywords" href="https://www.readbyqxmd.com/keywords"></a>
+						<a class="topnav_element nav_featured_0" href="https://www.readbyqxmd.com/featured"></a>
+						<a class="topnav_element nav_journals_0" id="nav_journals" href="https://www.readbyqxmd.com/journals"></a>
+						<a class="topnav_element nav_collections_0" id="nav_collections" href="https://www.readbyqxmd.com/collections"></a>
+						<a class="topnav_element nav_keywords_0" id="nav_keywords" href="https://www.readbyqxmd.com/keywords"></a>
 						
 			<div class="navr pointer p20lo p20bo br-l ln12" id="user_status_popup_link">Sign in</div>
 			<a href="https://www.readbyqxmd.com/register?redirect=%2Fprivacy" class="small_cta_button" id="nav_register_cta">Sign Up</a>
 		
-						<a class="nav_favorites_0" href="https://www.readbyqxmd.com/favorites"></a>
+						<a class="topnav_element nav_favorites_0" href="https://www.readbyqxmd.com/favorites"></a>
 						<div class="clear-l clear-r"></div>
 					</div>
 				</div>
@@ -160,7 +180,7 @@
 							<input type="password" class="standard" name="password" value="">
 						</div>
 						<div class="p20bo">
-							<a href="#" onclick="document.form_login_mini.submit();" class="tron">Sign in</a>
+							<a href="#" onclick="document.form_login_mini.submit();return false;" class="tron">Sign in</a>
 							
 							<div style="display: inline; float: right; margin-right: 18px; margin-top: 3px;">
 								<div scope="public_profile,email" onlogin="do_facebook_login();" class="fb-login-button" data-max-rows="1" data-size="large" data-show-faces="false" data-auto-logout-link="false"></div>
@@ -269,8 +289,8 @@
 				
 				<div class="bootstrap">
                     <div class="footer">
-                      <div class="container">
-                        <p style="margin: 6px 0 0 0; padding: 0;" class="txt_999 normal tm">Read by QxMD is copyright © 2015 QxMD Software Inc. All&nbsp;rights&nbsp;reserved. By using this service, you agree to our <a href="https://www.readbyqxmd.com/terms" class="normal">terms of use</a> and <a href="https://www.readbyqxmd.com/privacy" class="normal">privacy policy</a>.</p>
+                      <div>
+                        <p style="margin: 6px 0 0 0; padding: 0;" class="txt_999 normal tm">Read by QxMD is copyright © 2016 QxMD Software Inc. All&nbsp;rights&nbsp;reserved. By using this service, you agree to our <a href="https://www.readbyqxmd.com/terms" class="normal">terms of use</a> and <a href="https://www.readbyqxmd.com/privacy" class="normal">privacy policy</a>.</p>
                       </div>
                     </div>
                 </div>
@@ -288,7 +308,7 @@
 						<div id="qxmd_logo_bar" style="line-height: 1.0; font-size: 24px;" class="float-r">
 							<a href="https://itunes.apple.com/app/read-by-qxmd/id574041839?mt=8" target="_blank"><img src="/web/read_icon.png" style="height: 20px;" alt="Read by QxMD icon"></a> Read
 						</div>
-						<!-- AddThis Button BEGIN -->
+						<!-- AddThis Button BEGIN 
 						<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
 							<a class="addthis_button_preferred_1"></a>
 							<a class="addthis_button_preferred_2"></a>
@@ -296,7 +316,7 @@
 							<a class="addthis_button_preferred_4"></a>
 							<a class="addthis_button_compact"></a>
 							<a class="addthis_counter addthis_bubble_style"></a>
-						</div>
+						</div>-->
 						<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5124a743183199c8"></script>
 						<!-- AddThis Button END -->
 						<div class="small hide"></div>
@@ -314,9 +334,6 @@
 		<div id="popup_search"></div>
 		<div id="popup_search_header">
 			<div id="popup_search_header_top_text"></div>
-			<div id="set_search_sort_preference">
-				<div class="p10">Sort by: <a href="#" class="search_sort_preference b" id="search_sort_relevance" data-pref="0">Relevance</a> • <a href="#" class="search_sort_preference " id="search_sort_date" data-pref="1">Date</a></div>
-			</div>
 		</div>
 		<div id="popup_bg" onclick="close_popup();"></div>
 		<div id="popup_listbox" class="hide"></div>
@@ -376,5 +393,6 @@
 			ga('send', 'pageview');
 				
 		</script>
+		<input id="current_pathname" value="" type="hidden">
 	</div>
 </div></body></html>
