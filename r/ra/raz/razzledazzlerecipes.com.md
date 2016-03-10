@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razzledazzlerecipes.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907053628id_/http%3A//www.razzledazzlerecipes.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razzledazzlerecipes.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310233238id_/http%3A//www.razzledazzlerecipes.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Page Template
 
@@ -68,4 +68,4 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:[ **Email me**](https://web.archive.org/web/20150907053628id_/http%3A//www.razzledazzlerecipes.com/email.htm)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:[ **Email me**](https://web.archive.org/web/20160310233238id_/http%3A//www.razzledazzlerecipes.com/email.htm)
