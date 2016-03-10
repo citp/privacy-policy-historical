@@ -1,134 +1,65 @@
-> *The following text is extracted and transformed from the trippeo.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002135154id_/https%3A//www.trippeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippeo.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310014504id_/https%3A//www.trippeo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Trippeo
+# Trippeo - Privacy Policy
 
-Effective date: August 10, 2014
+Trippeo Technologies Inc. ( **“Company”/“we”/”us”/“our”** ) is committed to protecting your privacy. We make the website, [https://www.trippeo.com](https://www.trippeo.com/) (the **“Website”** ) and the Company mobile application (the **“App”** ) available together with our services as further described in our Terms of Use (the **“Services”** ). This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website, App and Services. 
 
-### Introduction
+**Consent: By using the Website, App or our Services you consent to the use of your Personal Information as described in this Privacy Policy.** Except as set forth in this Privacy Policy, your Personal Information will not be used for any other purpose without your consent. We will not actively collect Personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your Personal Information at any time. However, withdrawing consent may result in your inability to continue using the Website, App and/or the Services. 
 
-Trippeo Technologies, Inc. and its affiliates (“Trippeo”) are committed to protecting the privacy of all individuals who:
+**Collection of Information:** We aim to collect, use and disclose only such information as is required to enable us to manage your account, to provide the Services, to maintain our customer/visitor lists, to respond to your inquiries or provide feedback, for identification and authentication purposes and for service improvement. We will maintain the confidentiality of any contact information you provide to us on signing up for our Services or contacting us with questions or for further information and we will use it only for the purposes for which we have collected it (subject to the exclusions and disclosures we have listed below), unless you agree that we may disclose it to other third parties.
 
-  * visit Trippeo’s website located at trippeo.com, which includes all subdomains, present and future (the “Website”);
-  * use the mobile applications that Trippeo makes available from time to time (the "Applications"); and
-  * use the Trippeo services including web and mobile services.
+Two types of information may be collected through the Website, App and our Services: Personal Information and Non-Personal Information. This Privacy Policy does not extend to the collection, use or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers and electronic address when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).
 
+**"Personal Information"** is personally identifiable information, such as your name, address, e-mail address, credit card information, birth date and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always your choice whether or not to provide Personal Information but if you choose not to provide certain requested Personal Information, in some instances you may not be able to register to use the Website, App or Services or be able to access and them at all. In other instances, your choice not to provide certain other Personal Information may mean that you will not be able to use certain features of the Website, App or Services. We may collect Personal Information in respect of the Website, App or Services through registration processes; communications with you; information downloads; service use; purchases; user support; and surveys.
 
+**"Non-Personal Information"** is information of an anonymous nature, such as an Internet Protocol Address (IP Address), the domain used to access the Website, App or Services, and the type and version of browser or operating system being used by visitors to access the Website, App or Services. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical location of our users), number of visitors, what pages users access or visit, and average time spent on the Website, App or Services is not considered Personal Information. Similarly, business contact information such as the name, title, business address, e-mail address, or telephone number of a business or professional person or an employee of an organization is not considered Personal Information.
 
-To make this policy easier to read, we call the Website, the Applications and the Platforms together the "Services".
+Although the use of certain Non-Personal Information collected, used or disclosed through the Internet as described herein is not restricted (and to the extent that such is the case, the obligations under this Privacy Policy do not apply to such information), we provide information in this Privacy Policy about the collection of such information for the sake of transparency with respect to the operation of the Website, App and Services. Such Non-Personal Information is collected or derived by us in the course of operating this Website, App and our Services. For example, our servers may automatically collect Non-Personal Information that is provided through your browser or stored in a cookie.
 
-It is Trippeo’s policy to respect your privacy and the privacy of all users of the Services. This Privacy Policy has been established to help you understand our commitment to protecting your privacy and personal data, and the steps we take to ensure it. By visiting and/or using any of the Services, you agree to be bound by the terms of the present Privacy Policy (the “Privacy Policy”). Where the present Privacy Policy refers to “Trippeo”, it may refer to the Services or to Trippeo Technologies, Inc., depending on the context.
+**Use of Information:** We collect information for the following purposes:
 
-Trippeo reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at trippeo.com/privacy. Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
+  1. Registration: In order to register for our Services you must provide certain Personal Information to us such as your username and email address. You also have the option to register for an account using your Google and Facebook. If you register using your Google or Facebook credentials, we will also collect and use the Personal Information associated with your Google or Facebook account pursuant to this Privacy Policy. The information we will have access to in respect of your Google or Facebook account will depend on Google's and Facebook’s privacy policy as well as any applicable privacy preferences you may have selected in respect of your Google or Facebook account.
+  2. Account Information: You have the option to provide us with additional account information including photos. We will use such information to provide you with the Services and as otherwise permitted by this Privacy Policy.
+  3. Sharing Features: If you use any third-party platforms that we support such as Facebook or Twitter to share content, such content will be publicly available and searchable on the Internet.
+  4. Metadata: We collect and use various metadata derived from your use of the Service. For example, if you post a comment on Facebook, we also collect the time that such comment was posted. In cases where content is made publicly available such as public comments, the associated metadata may also be made publicly available.
+  5. Location Information: If you enable location services on your computer or mobile device, we will collect and use information about your location by tracking Bluetooth and WiFi signals to deliver certain features of the Services to you
+  6. Transactional Notifications: We provide notifications for certain activities relating to your use of our Services despite your indicated e-mail preferences, for example we may send you notices of any updates to our Terms of Service or Privacy Policy.
+  7. Marketing Communications: If you opt-in to receive marketing communications from us, we will keep you up to date on our products and services. You may withdraw your consent to receiving marketing communications from us at any time by following the opt-out instructions in each communication.
+  8. Statistics: We also collect statistics about use of the Services which we use for analytics including predictive analytics. Aggregate statistics that do not personally identify an individual will be kept by us and such aggregate statistics may be made available to other members or third parties.
+  9. System Logs & Cookies: Cookies are used by us to track content usage and traffic on the Website and App. A cookie is a feature of your web browser that consists of a text file that is placed on your hard disk by a web server. Cookies help us compile aggregate statistics about usage of this Website and App, such as how many users visit the Website, how long users spend viewing the Website, and what pages are viewed most often. This information is used to improve the content of the Website and App. You can set your browser to notify you when you are sent a cookie. This gives you the chance to decide whether or not to accept it. If you disable cookies, you may not be able to take advantage of all the features of the Website, App or Services. 
 
-Trippeo’s Privacy Policy forms part of its wider terms of service. If you are a visitor to the Website or if you are a Trippeo user, these terms of service are available at http://trippeo.com/terms. Both the Terms and the Privacy Policy apply to your use of the Services. Unless otherwise indicated, all defined terms in this Privacy Policy shall have the same meaning as in the Terms.
+Your IP address is reported by your web browser whenever you visit a page on the Website. This information is recorded together with your registration information on our databases. 
 
-### About this Privacy Policy
-
-This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) and other non-identifiable information gathered by Trippeo when you are using or accessing the Services.
-
-### Personal information we may collect and use 
-
-_i) Registration and Logged-in Users_
-
-When you first register for a Trippeo account we collect some personal information about you such as:
-
-  * your full name and email address
-  * your password, in connection with your account and your log-in facility
-  * other optional information as part of your account profile 
-  * information we may receive relating to communications you send us, such as queries or comments concerning our services
-  * information relating to your real time location, but only where you enable your computer or mobile device to send us location information or when posting through the Supported Platforms
+  10. Third-Party Links: The Website and App may contain links to other third-party websites that are not owned or controlled by us. Such third-party websites are governed by the terms and conditions and privacy policies of such third-party providers and we are not involved in any interaction or transaction between you and such third-parties.
 
 
 
-Trippeo uses the collected information for the following general purposes:
+If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled _‘Amendment of this Policy’_.
 
-  * to identify you when you log in to your account
-  * to enable us to provide the Services to you
-  * to verify Trippeo transactions you make and for billing, security, and authentication 
-  * to analyze the Website , Services and our visitors, including research into our user demographics and user behaviour in order to improve our content and Services
-  * to contact you about your account and provide support
-  * to share aggregate (non-identifiable) statistics about users of our Services to prospective advertisers and partners
-  * to keep you informed of information about our Services we think you may find useful or which you have requested from us, provided you have indicated you would like to be contacted for these purposes
+Disclosures & Transfers: We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further Security below). In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further Important Exceptions below).
 
+As at the date of this Privacy Policy, we share Personal Information about you in respect of the Website, App or Services only with our service providers and partners which include website hosting, cloud service providers, analytics providers, email marketing providers and payment processors. Our service providers are located in Canada and the United States and accordingly your Personal Information may be available to Canadian and United States governments under a lawful order, irrespective of the safeguards we have put in place for the protection of your Personal Information. 
 
+From time to time we may employ third parties to help us improve the Website, App and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website, App and/or the Services and they will be subject to contractual restrictions prohibiting them from using the information about our members for any other purpose.
 
-By submitting information to Trippeo when registering, you consent to the use of your information for these purposes. 
+**_Important Exceptions:_** We may disclose your Personal Information to third parties without your consent if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Website or App members, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities. We may disclose Personal Information when we believe in good faith that such disclosure is required by and in accordance with the law. 
 
-_ii) Collection of Personal Information Submitted Voluntarily_
+We may also disclose your Personal Information in connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same, provided that the information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.
 
-Trippeo may gather Personal Information about organizational representatives via various methods (phone, email, online forms, in-person meetings) but only if such Personal Information is submitted voluntarily. Trippeo may use such Personal Information for sales, marketing, and support of the Services. This Personal Information is never shared with third parties. 
+**Security:** The security of your Personal Information is important to us. We use commercially reasonable efforts to store and maintain your Personal Information in a secure environment. We take technical, contractual, administrative, and physical security steps designed to protect Personal Information that you provide to us. We have implemented procedures designed to limit the dissemination of your Personal Information to only such designated staff as are reasonably necessary to carry out the stated purposes we have communicated to you. 
 
-_iii) Credit Card or Bank Card Information_
+In certain areas, such as when you provide credit card or other payment information to us, the Website works to help protect the security of your credit card and other payment information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology. 
 
-Trippeo users have the option to connect their bank or credit cards with Trippeo for the purpose of automatically importing transactions. Trippeo does not store these passwords nor can Trippeo access user bank accounts.
+You are also responsible for helping to protect the security of your Personal Information. For instance, never give out your email account information or your password for the Services to third parties. 
 
-### System and device information
+**Retention:** We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.
 
-Trippeo automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see “Cookies and Related Technologies” below). For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable) (collectively referred to as “traffic data”). We may link this traffic data to your unique account ID to better understand your needs and the needs of users in the aggregate, diagnose problems, analyze trends, provide services, improve the features and usability of our Services, and better understand and market to our customers and website users.
+**Amendment of this Policy:** We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page. Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website or App. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website, App or Services signifies your acceptance of any changes.
 
-Trippeo also makes use of non-identifiable information gathered for statistical purposes to keep track of the number of visits to the Services and Website pages with a view to introducing improvements and improve usability of our Services. We may share this type of statistical data so that our partners also understand how often people use our Services, so that they, too, may provide you with an optimal experience. Your IP address and other relevant non-identifiable information may be used in order to trace any fraudulent or criminal activity or any activity in violation of the Terms. 
+**Access and Accuracy:** You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user. In such circumstances we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.
 
-### Cookies and related technologies 
+We will make every reasonable effort to keep your Personal Information accurate and up-to-date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.
 
-Trippeo uses tracking technology (“cookies”) on the Website, in the Applications, and in the Platforms, including mobile application identifiers and a unique account ID to help us recognize you across different Services. By visiting the Website or using the Services you agree to the use of cookies in your browser and HTML-based emails. Cookies are small text files placed on your device when you visit a web site, in order to track use of the site and to improve your user experience.
+**Contact Us:** You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: [hello@trippeo.com](mailto:hello@trippeo.com).
 
-**Session Cookies**
-
-The Services use “session cookies”, which improve your user experience by storing certain information from your current visit on your device, such as log-in information. These enable us to remember your log-in session so you can move easily within the Website or the Services. Without these cookies, we wouldn’t be able to provide the Services to you. These session cookies have limited functionalities and expirations, and you will be required to re-enter your Trippeo log-in information after a certain period of time has elapsed to protect you against others accidentally accessing your account contents and related Personal Information.
-
-### When we may share Personal Information
-
-Except as provided in the next paragraphs and elsewhere in this Privacy Policy, Trippeo does not divulge any Personal Information gathered via the Services to third parties.
-
-Notwithstanding anything in the Privacy Policy to the contrary, we may share any information we have collected about you or that you have submitted:
-
-  * when you explicitly consent to the disclosure of such information to a third party when connecting to a third-party service that asks you if you consent to such sharing;
-  * where we are legally required to do so, such as in response to court orders or legal process, or to establish, protect, or exercise our legal rights or to defend against legal claims or demands;
-  * if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the rights, property, or personal safety of any person;
-  * if we believe it is necessary to investigate, prevent, or take action regarding situations that involve abuse of the Services infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of the Website infrastructure or the Services generally);
-  * to a parent company, subsidiaries, joint ventures, or other companies under common control with Trippeo;
-  * if we are acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this Privacy Policy or inform you that you are covered by a new privacy policy); and
-  * if this information is not private, is aggregated or is otherwise non-personal information.
-
-
-
-Subject to confidentiality obligations consistent with this Privacy Policy, we may also disclose information to our affiliates, agents, contractors, and service providers in order to facilitate the functioning of the Services or to perform tasks that are integral to the Services, such as processing transactions, fulfilling requests for information, or providing support services or other tasks, from time to time. Information may also be transferred from Trippeo to the third parties in control of the Supported Platforms, but only to the extent required in order for the Services to function properly.
-
-### Children
-
-Protecting the safety of children when they use the Internet is very important to us. Our Services should only be accessed by individuals of Minimum Age. “Minimum Age” may mean different ages in different countries, depending on where the individual accesses the services. For reference, “Minimum Age” shall mean (a) 14 years old for the United States, Canada, Germany, Spain, Australia, and South Korea; and (b) 13 years old for all other countries. However, if applicable law requires that you must be older than such ages in order for Trippeo to lawfully provide the Services to you (including the collection, storage, and use of your information in accordance with this Privacy Policy), then the Minimum Age would be such older age. The Services are not designed nor intended for use by children or anyone else under the age of 13.
-
-### Security
-
-We use industry best practices to keep any information collected and/or transmitted to the Supported Platforms or Third-Party Apps secure. This includes the use of HTTPS with TLS (Transport Layer Security), which encrypts all transmitted data, and OAuth 2.0 protocols for authentication and data transfer.
-
-Certain Personal Information, most notably Trippeo log-in details, is encrypted during transmission using TLS. Once validated within our system, passwords are deleted from our system. In addition, Trippeo uses third-party vendors and hosting partners such as Azure to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. These vendors have been selected for their high standards of both physical and technological security, including ISO and SSAE16 certifications.
-
-When payments are processed via credit card, Trippeo uses third-party vendors that are PCI-DSS Compliant. At no point does Trippeo have access to your credit card information.
-
-You should bear in mind that submission of information over the Internet is never entirely secure. We cannot guarantee the security of information you submit via the Services whilst it is in transit over the Internet and any such submission is at your own risk, and this risk is specifically disclaimed in our Terms.
-
-If you are a Logged-in User, it is advisable that you log out of your account at the end of every session and not leave a logged-in account unattended for any period of time, particularly if you use a shared computer or device.
-
-### Information storage and international transfers
-
-Trippeo aligns itself with the Safe Harbor privacy principles as set forth by the U.S. Department of Commerce regarding the collection, storage, use, transfer and other processing of Personal Data transferred from the European Economic Area (“EEA”) or Switzerland to the United States. While Trippeo itself is not certified by the US Department of Commerce, the information that you submit via the Services is hosted on secure servers by Amazon Web Services located in the United States that are certified under the Safe Harbor Scheme for transfers of Personal Information outside the European Economic Area. Safe Harbor is an EU-recognized program that provides a way for US businesses to demonstrate that they provide adequate protection for personal information transferred to it according to EU data protection standards. Further information on Safe Harbor is available from the US Department of Commerce's website.
-
-### Email preferences
-
-Trippeo uses email as the primary mode of communications with our users. We want to respect your privacy by only sending emails of interest to you. Please let us know if you have communication preferences and we will do our best to make the necessary adjustments.
-
-### Your rights
-
-You can contact us to obtain a copy of the Personal Information held about you by us. This may be subject to a fee not exceeding any prescribed fee permitted by applicable law. You can also ask us to correct and, where relevant, erase that information. Please note that certain Personal Information may need to be retained by Trippeo for a period of time following cancellation of your account where this is necessary for our legitimate business purposes or required by applicable law. As mentioned above you have a right to change your email preferences at any time.
-
-### Contacting us
-
-If you have any questions about this Privacy Policy, please contact:
-
-Trippeo Technologies, Inc.  
-#1111 - 207 W Hastings Street  
-Vancouver, BC V6B 1H7  
-Canada 
-
-© Trippeo Technologies, Inc 2014
+**Last updated: February 21, 2016**
