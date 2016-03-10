@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payzippy.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812041707id_/https%3A//www.payzippy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzippy.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310122412id_/https%3A//www.payzippy.com/privacypolicy) for the most accurate reproduction.*
 
 # PayZippy Privacy Policy
 
@@ -12,7 +12,7 @@ For the purpose of this Privacy Policy, wherever the context so requires 'You' s
 
 By visiting this Services you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Services.
 
-By mere use of the Services, you expressly consent to our use and appropriate disclosure of your personal information in accordance with this Privacy Policy.This Privacy Policy is subject to the ['Terms of Use'](https://web.archive.org/web/20150812041707id_/https%3A//www.payzippy.com/tou), which has been separately made available in this Website. 
+By mere use of the Services, you expressly consent to our use and appropriate disclosure of your personal information in accordance with this Privacy Policy.This Privacy Policy is subject to the ['Terms of Use'](https://web.archive.org/web/20160310122412id_/https%3A//www.payzippy.com/tou), which has been separately made available in this Website. 
 
 1\. Collection of Personally Identifiable Information and other Information
 
