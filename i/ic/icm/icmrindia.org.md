@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icmrindia.org privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822164152id_/http%3A//icmrindia.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmrindia.org privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310165514id_/http%3A//www.icmrindia.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Case Studies | Case Study in Business, Management| Case Volumes | Case Pack
 
