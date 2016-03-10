@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remodelingmyspace.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720121410id_/http%3A//www.remodelingmyspace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelingmyspace.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310103842id_/http%3A//www.remodelingmyspace.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy @ RemodelingMySpace.com
 
