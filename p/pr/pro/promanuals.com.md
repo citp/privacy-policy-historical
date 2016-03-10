@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promanuals.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219163100id_/http%3A//promanuals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promanuals.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310213332id_/http%3A//promanuals.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
