@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905162756id_/http%3A//www.gurneys.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311093008id_/http%3A//www.gurneys.com/privacy_policy) for the most accurate reproduction.*
 
-# Seed Catalog, Garden Seeds, Fruit Trees, Vegetable Seeds, Strawberry plants, Vegetable Plants and More - Gurney's Seed and Nursery
-
-**Our Privacy Policy**
+# Gurney's Seed & Nursery Company's Privacy & Security
 
 **This is the Website of Gurney's Seed & Nursery Co. **
 
@@ -59,3 +57,10 @@ From time to time, it may become necessary for us to change our privacy policy i
 **Your Feedback**
 
 If you would like to give us your feedback regarding our privacy policy and practice, please do so by emailing us or writing to us at Scarlet Tanager Brands, c/o Gurney's Seed & Nursery Co. Marketing Dept., P.O. Box 4178, Greendale, IN 47025. 
+
+* * *
+
+Have another question? Return to the [Customer Service Help](https://web.archive.org/Help) page or send an e-mail directly to [Customer Service](mailto:service@gurneys.com)
+
+  
+
