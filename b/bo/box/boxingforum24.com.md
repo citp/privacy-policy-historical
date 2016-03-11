@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxingforum24.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223938id_/http%3A//www.boxingforum24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxingforum24.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311152710id_/http%3A//www.boxingforum24.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.boxingforum24.com
 
