@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinyshack.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025171901id_/http%3A//www.shinyshack.com/info.php%3Ftopic%3D2307) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinyshack.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311085152id_/http%3A//www.shinyshack.com/info.php%3Ftopic%3D2307) for the most accurate reproduction.*
 
 # Unusual Gifts | Gift Ideas | Unique Gifts | ShinyShack.com UK
 
