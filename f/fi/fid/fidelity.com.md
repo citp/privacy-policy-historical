@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006124729id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311225937id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fidelity Investments
 
@@ -172,5 +172,5 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective June 2015    
-©1998-2015 FMR LLC. All Rights Reserved.
+Effective June 2015     
+©1998-2016 FMR LLC. All Rights Reserved.
