@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003310id_/http%3A//www.mdx.ac.uk/about-us/policies/web-privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311052314id_/http%3A//www.mdx.ac.uk/about-us/policies/web-privacy-and-cookies) for the most accurate reproduction.*
 
 # Web privacy and cookies | Middlesex University London
 
