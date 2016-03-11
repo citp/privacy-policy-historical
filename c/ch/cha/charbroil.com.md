@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008032003id_/http%3A//www.charbroil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311191819id_/http%3A//www.charbroil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Char-Broil
 
@@ -6,7 +6,7 @@
 
 At Char-Broil, LLC, (“Char-Broil”) we respect the privacy of our online users.
 
-We strive to safeguard any personal information you provide to us.  The goal of this Privacy Notice is to inform you about the types of information that we may gather or collect from you in connection with your use of the CharBroil.com website (“Website”).  The Privacy Notice is also intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
+We strive to safeguard any personal information you provide to us.  The goal of this Privacy Notice is to inform you about the types of information that we may gather or collect from you in connection with your use of this website (“Website”).  The Privacy Notice is also intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
 
 Changes to the Privacy Notice are discussed at the end of this document.  Each time you use the Website, however, the current version of this Privacy Notice will apply.  Accordingly, each time you use the Website you should check the date of this Privacy Notice (which appears at the end of the document) and review any changes since the last time you used the site.  Likewise, each time you use the Website you should also check the date of the [Terms of Use](http://www.charbroil.com/terms-of-use) and review any changes in it since the last time you used the site. 
 
@@ -19,7 +19,7 @@ Char-Broil, LLC’s primary goal in collecting personal information is to provid
 In order to interact with the Website, you may be asked to provide certain personally identifiable information to us such as your name, mailing address, e-mail address, and phone number.  Additional information may be required for specific activities such as: 
 
   1. Creating a user account: you will be asked to provide a user id and password
-  2. Registering your Char-Broil® product: you will be asked to provide product information such as model and serial number, purchase date, price, retailer name, and proof of purchase.
+  2. Registering your Char-Broil product: you will be asked to provide product information such as model and serial number, purchase date, price, retailer name, and proof of purchase.
   3. Purchasing from the Website:  you will be asked to provide credit card information along with billing and shipping address information.
 
 
