@@ -1,81 +1,92 @@
-> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123750id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311163643id_/https%3A//www.angloinfo.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy » AngloINFO Worldwide
+# Privacy Policy
 
-AngloINFO takes privacy seriously. Please read the following to learn more about our policies on privacy when related to angloinfo.com.
+### This Privacy Policy covers:
 
-##### This Privacy Policy covers:
+Angloinfo's use of and treatment of personally identifiable information collected by Angloinfo when you are using the Angloinfo website and subsidiaries and when you use services provided by Angloinfo.
 
-  * AngloINFO's use of and treatment of personally identifiable information collected by AngloINFO when you are using the AngloINFO World Wide Web site at angloinfo.com, and when you use services provided by AngloINFO. 
-  * AngloINFO's use of and treatment of any personally identifiable information that AngloINFO's business partners may share with AngloINFO. 
-
-
-
-##### This Privacy Policy does not cover:
-
-  * The practices of companies or individuals that AngloINFO does not own or control. 
+  * Angloinfo's use of and treatment of any personally identifiable information that Angloinfo's business partners may share with Angloinfo.
 
 
 
-##### Information collection
+### This Privacy Policy does not cover:
 
-  * AngloINFO collects personally identifiable information when you register as a member, when you use certain AngloINFO products or services, and when you enter promotions. AngloINFO may also receive personally identifiable information from its business partners. 
-  * When you register for an AngloINFO service, you may be asked for your name, email address and other personal details. Once you have registered, you are no longer anonymous to AngloINFO's systems. 
-  * AngloINFO also automatically receives and may record information on its servers' logs from your browser including your computer's IP address, AngloINFO's cookie information and the identity of any page or pages you request. 
+The practices of companies or individuals that Angloinfo does not own or control.
 
+### Data Gathering
 
-  * Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability only. It is not in any way associated with any individual user or their member account. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else. 
+When you use the Angloinfo site our servers automatically record information that your browser stores and transmits. This may include information such as your:
 
-
-
-##### Information use
-
-AngloINFO uses this information for the following purposes:
-
-  * To customise the content you see on its Web pages. 
-  * To anticipate and fulfil your requests for certain products and services. 
+  * IP address
+  * browser type
+  * search terms you use
+  * websites from which you arrived at ours
+  * your activity on our site
 
 
 
-##### Protecting your personal information
+We do not match your IP address with any other personally identifiable information except in case of violation of our terms of use.
 
-  * We take appropriate physical, electronic and managerial measures to ensure that we keep your information secure, accurate and up to date, and that we only keep it as long as is reasonable and necessary.
-  * Although we use appropriate security measures once we have received your personal information, the transmission of information over the internet is never completely secure. We do our best to protect personal information, but we cannot guarantee the security of information transmitted to our website, so any transmission is at the user’s own risk. 
-  * AngloINFO treats all the information it holds with the utmost care and security.  Payment details are stored on our system in an encrypted format and can only be accessed when you place an order using your user name or email address and password.
-  * Any payment card details (such as credit or debit cards) are passed securely to our payment processing provider according to the Payment Card Industry Security Standards.
-  * AngloINFO do not share credit card information with third parties.
+### Phishing and Fraud
 
+Angloinfo will never ask you to send the following details by email:
 
-
-##### Information sharing and disclosure
-
-AngloINFO will not sell or rent your personally identifiable information to anyone, anywhere.
-
-AngloINFO will send personally identifiable information about you to other companies or individuals when:
-
-  * We have your consent to do so. 
-  * We need to do so in order to provide a product or service that you have requested. 
-  * We respond to subpoenas, court orders or due legal process. 
-  * Your actions on our World Wide Web site violate the law, or any of AngloINFO's usage guidelines for specific products or services. 
+  * Your credit card details
+  * Bank details
+  * Driver's licence details
+  * Your full name
+  * Your address
 
 
 
-You have the right to request exemption from marketing activities by emailing us at **[info@angloinfo.com](mailto:info@angloinfo.com)** , you also have the right to access any data we hold about you.
+If you see an email that looks like it's from us but asks for these details don't reply to it or open any attachments in the email. Delete it and block the sender. We only send emails from two secured domains:
 
-##### Cookies
-
-  * AngloINFO and its advertisers may set and access cookies on your computer. 
-
-
-
-(A cookie is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on AngloINFO's World Wide Web site. For instance, by setting a cookie on AngloINFO's site, you would not have to log in a password more than once, thereby saving time while on the site. If you reject the cookie, you may still use the site. The only drawback to this is that you will be limited in some areas of the site. Cookies can also enable us to track and target the interests of our users to enhance the experience of our site.)
-
-##### Future changes:
-
-  * AngloINFO may edit or alter this Privacy Policy from time to time. Any substantial changes will be notified via a prominent announcement on its World Wide Web site. 
+  * @angloinfo.com
+  * @anglo.email
 
 
 
-##### Questions or Suggestions
+You can trust and add to your contacts if you wish anything that comes from these addresses.
 
-If you have questions or suggestions, send an email to **[privacy@angloinfo.com](mailto:privacy@angloinfo.com)**.
+### Service Providers
+
+Angloinfo uses some reliable third parties to provide services to us and to our users. These services and functions include but are not limited to:
+
+  * Billing
+  * Customer relationship tools (CRM)
+  * Hosting and Maintenance
+  * Database storage and management
+  * Marketing material production
+
+
+
+Angloinfo shares your information with these third parties but only as needed in the normal course of providing services to you and only when these third parties are contractually obliged to uphold the privacy and security of your data.
+
+### Cookies
+
+A 'cookie' is a small data file downloaded from our website to your computer. There are two kinds of cookies: session cookies and persistent cookies. Session cookies are temporary and are deleted when you leave the site or disconnect from the Internet. Persistent cookies stay in your web browser to do things like save your password if you visit the site again. To delete persistent cookies follow the instructions given in your web browser's help section. Most Internet browsers automatically accept cookies but you can instruct your browser not to accept them. We use cookies to collect data on how you use our website and to improve our service to you. We do not use cookies to collect personally identifiable information. Angloinfo may use both session cookies and persistent cookies to better understand how you interact with the site and our services to improve the site and our services and to track aggregate usage by our users and web traffic routing on the site.
+
+### Marketing
+
+We may use your contact information to market to you and/or provide you with information about our products and services and/or the products and services of our partners. If you no longer wish to receive these emails please follow the unsubscribe process in the footer of the emails or contact abuse@angloinfo.com
+
+### Compliance with Laws and Law Enforcement
+
+Angloinfo cooperates with government and law enforcement officials. We reserve the right to share any information we have about you with government or law enforcement officials. The decision to share this information will be at the sole discretion of Angloinfo to protect the property and rights of Angloinfo or a third party the personal safety of any person to prevent or stop any illegal unethical or legally actionable activity or to comply with the law in any other way.
+
+### Security
+
+Angloinfo is very concerned about safeguarding the confidentiality of your personally identifiable information. We take all appropriate physical and electronic measures to ensure that we keep your information secure and that we only keep it as long as is reasonable and necessary. We will make any legally-required disclosures of any breach of the security confidentiality or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on our site in the shortest time possible and without unreasonable delay consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. Although we use appropriate security measures once we have received your personal information the transmission of information over the internet is never completely secure. We do our best to protect personal information but we cannot guarantee the security of information transmitted to our website so any transmission is at the user's own risk. Angloinfo treats all the information it holds with the utmost care and security. Personal details are stored on our system in an encrypted format that can only be accessed when you place an order using your username or email address and password. Any payment card details (such as credit or debit cards) are passed securely to our world-leading payment processing provider Stripe.com and is in accordance to the Payment Card Industry Security Standards.
+
+### Links to Other Websites
+
+Our site contains links to other websites. A link is not an endorsement of that third party website and you use any third party sites at your own risk. Angloinfo encourages you to read the privacy statements of the other websites you visit to become informed of their practices and policies.
+
+### Future changes:
+
+Angloinfo may edit or alter this Privacy Policy from time to time. Any substantial changes will be notified via email or a prominent announcement on our site.
+
+### Questions or Suggestions
+
+If you have questions or suggestions please send an email to privacy@angloinfo.com.
