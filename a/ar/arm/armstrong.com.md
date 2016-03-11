@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005032132id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311113128id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Armstrong Web Privacy Policy
 
-[En Español](https://web.archive.org/web/20151005032132id_/http%3A//www.armstrong.com/corporate/privacy-ea.html)
+[En Español](https://web.archive.org/web/20160311113128id_/http%3A//www.armstrong.com/corporate/privacy-ea.html)
 
 Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest standards of integrity for every online visitor. When you register at the Armstrong Web site, we aim to respect your privacy. This Privacy Policy sets forth how we handle information we obtain from you and learn about you when you visit our Web site, including: 
 
@@ -14,7 +14,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20151005032132id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
+If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20160311113128id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
 
 **NOTICE: Information We Collect and How We Use It**  
 Armstrong collects two types of information about you when you visit our site: personal information (including, by way of example only, your name, address, telephone number and email address) and non-personal, aggregate information (such as information regarding the pages on our site that you have visited and your IP address). 
