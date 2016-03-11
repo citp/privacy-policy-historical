@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebroadcast.com.au privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112112801id_/http%3A//www.ebroadcast.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebroadcast.com.au privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311121625id_/http%3A//www.ebroadcast.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
