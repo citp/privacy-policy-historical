@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the veeble.org privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901115422id_/http%3A//www.veeble.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeble.org privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311020207id_/http%3A//www.veeble.org/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Veeble
-
-### Privacy Policy
+# Legal | Privacy Policy - Veeble
 
 Because Veeble takes privacy issues seriously and wants to protect your rights we have established this Privacy Policy. Please make sure you understand our policy on this matter and feel free to contact us if you have any questions or issues regarding this document.
-
-* * *
 
 Personal Information Usage  
 Veeble will not search to sell, rent, lend, exchange or give your mail address, your zip code or your phone number at a third party without your explicit permission. The information provided by you are protected and can’t be found by a outside person. Veeble will use the customer's personal information only as reasonably necessary to provide contracted services and to collect fees owed.
@@ -28,6 +24,4 @@ Voice Calls
 Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding account verification or other account related information, billing or promotions that we believe may be of interest. Please provide us with your correct phone number.
 
 Questions or Comments  
-For additional questions, please contact our team using our [contact form](https://web.archive.org/web/20140901115422id_/http://www.veeble.org/support/). 
-
-* * *
+For additional questions, please contact our team using our [contact form](https://web.archive.org/web/20160311020207id_/http%3A//support/). 
