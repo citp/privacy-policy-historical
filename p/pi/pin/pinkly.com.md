@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkly.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207124635id_/http%3A//www.pinkly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkly.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311212542id_/http%3A//www.pinkly.com/privacy) for the most accurate reproduction.*
 
 # ★ Pinkly.com - Privacy Policy | Pinkly.com
 
