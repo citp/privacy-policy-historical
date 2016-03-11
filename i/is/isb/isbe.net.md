@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054857id_/http%3A//www.isbe.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311164647id_/http%3A//www.isbe.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,8 +76,8 @@ The ISBE Web site does requires registration to access certain forms requiring d
 
 #### **Our Children's Privacy Policy**
 
-[Student Data Privacy Fact Sheet](https://web.archive.org/web/20150905054857id_/http%3A//www.isbe.net/pdf/StudentDataPrivacy-FactSheet.pdf) _(2014)_  
-[Student Data Privacy - Myth Busters](https://web.archive.org/web/20150905054857id_/http%3A//www.isbe.net/pdf/StudentDataPrivacy-MythBusters.pdf) _(2014)_
+[Student Data Privacy Fact Sheet](https://web.archive.org/web/20160311164647id_/http%3A//www.isbe.net/pdf/StudentDataPrivacy-FactSheet.pdf) _(2014)_  
+[Student Data Privacy - Myth Busters](https://web.archive.org/web/20160311164647id_/http%3A//www.isbe.net/pdf/StudentDataPrivacy-MythBusters.pdf) _(2014)_
 
 ISBE and the State of Illinois are committed to protecting children's privacy and complying fully with the Children's Online Privacy Protection Act of 1998. (COPPA) (15 U.S.C. 6501 et seq.). 
 
