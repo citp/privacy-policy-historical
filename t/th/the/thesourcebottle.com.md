@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesourcebottle.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235119id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcebottle.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312003854id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
 
 # Free publicity for expert sources and PR professionals - connecting journalists, reporters, bloggers and writers with sources.
 
