@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbs2000.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906201422id_/http%3A//www.herbs2000.com/h_menu/2_disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs2000.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312160531id_/http%3A//www.herbs2000.com/h_menu/2_disclaimer.htm) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -14,4 +14,4 @@ Google's use of the DART cookie enables it to serve ads to our users based on th
 
 ## Archived articles
 
-[2012](https://web.archive.org/web/20150906201422id_/http%3A//www.herbs2000.com/articles/2012.htm), [2013](https://web.archive.org/web/20150906201422id_/http%3A//www.herbs2000.com/articles/2013.htm), [2014](https://web.archive.org/web/20150906201422id_/http%3A//www.herbs2000.com/articles/2014.htm)
+[2012](https://web.archive.org/web/20160312160531id_/http%3A//www.herbs2000.com/articles/2012.htm), [2013](https://web.archive.org/web/20160312160531id_/http%3A//www.herbs2000.com/articles/2013.htm), [2014](https://web.archive.org/web/20160312160531id_/http%3A//www.herbs2000.com/articles/2014.htm), [2015](https://web.archive.org/web/20160312160531id_/http%3A//www.herbs2000.com/articles/2015.htm)
