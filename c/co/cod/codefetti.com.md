@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the codefetti.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821024118id_/http%3A//www.codefetti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codefetti.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312172621id_/http%3A//www.codefetti.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy| Codefetti, LLC | Rochester Hills, MI
+# Our Privacy Policy
 
 Privacy Policy for www.codefetti.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](http://www.codefetti.com/contact-us/ "Contact Us")
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](https://www.codefetti.com/contact-us/ "Contact Us")
 
 At www.codefetti.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.codefetti.com and how it is used.
 
