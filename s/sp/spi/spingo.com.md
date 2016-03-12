@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spingo.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114141245id_/https%3A//www.spingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spingo.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312091545id_/https%3A//www.spingo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SpinGo
 
