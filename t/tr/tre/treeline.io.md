@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treeline.io privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927093309id_/https%3A//treeline.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treeline.io privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312104710id_/https%3A//treeline.io/privacy-policy) for the most accurate reproduction.*
 
 # Treeline Privacy Policy
 
