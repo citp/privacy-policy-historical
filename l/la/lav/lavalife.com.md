@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalife.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054740id_/http%3A//www.lavalife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312162619id_/http%3A//www.lavalife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Lavalife.com Online Dating Site & Mobile Apps – Where Singles Click® | Forgot Password
 
@@ -80,7 +80,7 @@ Lavalife.com’s “In Common” feature allows you to see what another user has
 
 **Will other users see my personal contact information?**
 
-No Lavalife.com users will never see your personal contact information, including your real first and last names. All we show is what you include on your public profile. If you choose to share personally identifiable information within private messages (something we generally advise against unless you have decided to meet offline for a date), then that’s up to you. For more information on how we store and use your personal information, please visit our [Privacy Policy](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/privacy-policy.html) page.
+No Lavalife.com users will never see your personal contact information, including your real first and last names. All we show is what you include on your public profile. If you choose to share personally identifiable information within private messages (something we generally advise against unless you have decided to meet offline for a date), then that’s up to you. For more information on how we store and use your personal information, please visit our [Privacy Policy](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/privacy-policy.html) page.
 
 **Can anyone see my photos?**
 
@@ -88,19 +88,19 @@ Any photo that you upload to Lavalife.com is viewable to other Lavalife.com memb
 
 **Do you share my email address or contact information with third parties?**
 
-We don’t rent, trade or sell our members’ or subscribers’ email addresses with any third party. We care deeply about your privacy and ensure it’s respected at every turn. We use StreamSend, a reputable and trusted email service provider, to send relevant, interesting email content to email addresses that have opted into email communication and always maintain complete ownership and control over our own email database. To unsubscribe from email communication, please visit your [Preferences Centre](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/dashboard.html#/account/).
+We don’t rent, trade or sell our members’ or subscribers’ email addresses with any third party. We care deeply about your privacy and ensure it’s respected at every turn. We use StreamSend, a reputable and trusted email service provider, to send relevant, interesting email content to email addresses that have opted into email communication and always maintain complete ownership and control over our own email database. To unsubscribe from email communication, please visit your [Preferences Centre](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/dashboard.html#/account/).
 
 **How do I keep safe while online dating?**
 
-Here at Lavalife.com, your safety is our primary concern. We have an entire section dedicated to online dating safety tips that we strongly encourage all our users to read carefully. Please [click here](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/safety-tips.html) to learn more.
+Here at Lavalife.com, your safety is our primary concern. We have an entire section dedicated to online dating safety tips that we strongly encourage all our users to read carefully. Please [click here](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/safety-tips.html) to learn more.
 
 **Do you have a Code of Conduct?**
 
-Yes, we have a publicly available Code of Ethics that we require all users to abide by in order to keep Lavalife.com a fun and safe environment. Please click here to [learn more](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/code-of-ethics.html).
+Yes, we have a publicly available Code of Ethics that we require all users to abide by in order to keep Lavalife.com a fun and safe environment. Please click here to [learn more](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/code-of-ethics.html).
 
 **Do you monitor all sent and received messages?**
 
-We don’t monitor or screen sent and received private messages. We do, however, read and action any and all messages flagged as inappropriate. For more information on what is and isn’t acceptable on Lavalife.com, please read our [Code of Ethics](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/code-of-ethics.html).
+We don’t monitor or screen sent and received private messages. We do, however, read and action any and all messages flagged as inappropriate. For more information on what is and isn’t acceptable on Lavalife.com, please read our [Code of Ethics](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/code-of-ethics.html).
 
 **How do I know I can trust Lavalife.com?**
 
@@ -110,7 +110,7 @@ Lavalife.com was one of the very first names in the online dating space and cont
 
 **Why do you need my real first and last names?**
 
-Your first and last name will never be revealed to other Lavalife.com members. We require this information for a couple of reasons. First, maintaining accurate and detailed records of all our member is one of the ways we are able to maintain a safe online dating experience. Second, we require this information for all credit card transactions and pre-authorized automatic subscription renewals. You can rest assured that your personal information will never be released on the website or shared with any third party. For more information on our Privacy Policy, [click here](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/privacy-policy.html).
+Your first and last name will never be revealed to other Lavalife.com members. We require this information for a couple of reasons. First, maintaining accurate and detailed records of all our member is one of the ways we are able to maintain a safe online dating experience. Second, we require this information for all credit card transactions and pre-authorized automatic subscription renewals. You can rest assured that your personal information will never be released on the website or shared with any third party. For more information on our Privacy Policy, [click here](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/privacy-policy.html).
 
 **How much does it cost to have a Lavalife.com membership?**
 
@@ -122,11 +122,11 @@ We’ll never charge your credit card without your permission. When you sign up 
 
 **How do I cancel my account?**
 
-For information and instructions on how to cancel your Lavalife.com membership account, please [click here](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/dashboard.html#/account/).
+For information and instructions on how to cancel your Lavalife.com membership account, please [click here](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/dashboard.html#/account/).
 
 **Can I get a refund?**
 
-Due to the nature of monthly subscriptions and the refund policy set forth by Lavalife.com, we are unable to offer refunds on any purchase. We invite you to read more about our company policies and procedures within our [Terms of Use](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/terms-of-use.html).
+Due to the nature of monthly subscriptions and the refund policy set forth by Lavalife.com, we are unable to offer refunds on any purchase. We invite you to read more about our company policies and procedures within our [Terms of Use](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/terms-of-use.html).
 
 ### Miscellaneous
 
@@ -136,7 +136,7 @@ On November 20, 2014, Lavalife.com released a new and updated online dating expe
 
 **I didn’t find an answer to my question in your FAQ. What should I do?**
 
-If you didn’t find an answer to your question in our FAQ, we apologize! Please [contact us](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/contact-us.html) with your question or concern and we’ll get back to you as soon as possible.
+If you didn’t find an answer to your question in our FAQ, we apologize! Please [contact us](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/contact-us.html) with your question or concern and we’ll get back to you as soon as possible.
 
 ## COMING SOON
 
@@ -206,7 +206,7 @@ When you register to become an Associate of our site, you will be asked for cont
 
 **Contacting us for privacy issues ONLY**
 
-_**Please note that this phone number will NOT connect you to a customer service representative.**_
+ _**Please note that this phone number will NOT connect you to a customer service representative.**_
 
 Attn: Privacy Officer 
 
@@ -217,7 +217,7 @@ Etobicoke, Ontario, M8Z 5E3
 Fax: (416) 263-8338  
 Toll Free: 1-888-265-1633
 
-[Click here to send us your question or concern](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/contact-us.html)
+[Click here to send us your question or concern](https://web.archive.org/web/20160311032902id_/http://www.lavalife.com/contact-us.html)
 
 This Agreement is effective April 1, 2011.
 
