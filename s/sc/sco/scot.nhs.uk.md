@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scot.nhs.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906092431id_/http%3A//www.show.scot.nhs.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scot.nhs.uk privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312144307id_/http%3A//www.show.scot.nhs.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | Scotland's Health on the Web
+# Privacy – Scotland's Health on the Web
 
 NHS Scotland fully respects your right to privacy when using our websites. On this page you will find details of our privacy practices in connection with this website and what we do to maintain your right to privacy.
 
@@ -19,8 +19,6 @@ Technical details in connection with visits to this website are logged, collecte
 NHS Scotland will make no attempt to identify individual users. You should be aware, however, that access to web pages will generally create log file entries in the systems of your Internet Service Provider (ISP) or network services provider. These entities may identify the client and device used to access a page. Such monitoring would be done by the provider of network services and is outwith the responsibility or control of NHS Scotland.
 
 Log files are maintained and analysed of all requests for files on SHOW servers. Aggregated analyses of these log files are used to monitor website usage. These analyses are used to allow us to monitor and evaluate the effectiveness of our websites. All log file information collected by NHS Scotland is kept secure and is not provided to any third parties.
-
-For more detailed guidance, read our host’s [Scottish Health On the Web’s privacy policy](http://www.show.scot.nhs.uk/policies/privacy.html "SHOW Privacy Policy").
 
 ## Use of Cookies
 
@@ -62,7 +60,7 @@ Visitors can use this website with no perceived loss of functionality if cookies
 
 This list shows all cookies used by Scotland’s Health on the Web , and what each is used for.
 
-Cookies used by the NHS National Services Scotland website Cookie Name | Purpose | More Information  
+Cookie Name | Purpose | More Information  
 ---|---|---  
 _pk_ref 
 
