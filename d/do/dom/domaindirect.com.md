@@ -1,102 +1,117 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090714id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312083623id_/https%3A//www.hover.com/privacy%3Fsource%3Dfooter) for the most accurate reproduction.*
 
-# Domain Name Registration and Web Hosting from Domain Direct
+# Domains and domain email made simple - Hover
 
-**Security and Privacy Statement**
+## Our Privacy and Data Collection Practices
 
-* * *
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-## Security Policy
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-**Domain Direct** has created a state-of-the-art, real-time transaction system, that uses industry standard Secure Socket Layer (SSL) encryption, as well as private links to international banking networks, to ensure your information is quickly and securely authorized and processed.
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-Your credit card information is protected in two ways. First of all, as a result of the SSL-based encryption, your card number is ALWAYS secure during transmission. A visual means of confirming this is for you to watch the small padlock icon in your browser. While on any page where financial information is to be entered, this icon will change to a locked state, denoting a secure page. This security measure is privately audited by an independent third-party, Geotrust, whose icon you can click on from any secured page to confirm its secure status.
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-Secondly, our private links to banking networks ensure that your sensitive information is ALWAYS secure once we have received it. All the information traveling on our banking network is guaranteed 100% secure - in fact, it's more heavily-encrypted than your private telephone conversations!
+## Account Information
 
-Domain Direct actively works with international banking institutions and law enforcement to discover and prosecute cases of fraudulent credit card use. All connections to, and transactions within Domain Direct are logged and regularly audited. WE USE ALL MEANS AVAILABLE TO US TO PURSUE CRIMINAL PROSECUTION AGAINST PERSONS ATTEMPTING FRAUD OR UNAUTHORIZED ACCESS TO OUR SYSTEMS, IN ALL ICPO/INTERPOL JURISDICTIONS.
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-## Private Information Policy
+Account data includes:
 
-We appreciate that many users do not feel comfortable providing their real address, due to the the high incidence of junk mail we all suffer from. Our privacy guarantee specifically states that we will **NOT** share, barter, sell, or trade your confidential information with ANYONE, under ANY circumstances (except in the case of legal proceedings). From time to time, Domain Direct may use your personal information to contact you by electronic mail concerning our services. These communications are intended to inform you of important information regarding your account, or about general services provided by Domain Direct. If you do not want to receive email from us regarding new services, please click the "unsubscribe" link which is included at the bottom of any email you receive from Domain Direct. However, in order to fulfill our service obligations to you, we will continue to send you emails regarding your account administration, as well as any necessary information, such as renewal instructions. Also, ICANN regulations require that your contact information be included in the publicly-accessible WhoIs database; if it is not included, you can lose your domain. Note that this will not include your credit card information, the contents or location of your Website, or any email address other than your direct contact address. An example of the information which will be displayed is as follows:
+  
 
-**[whois.tucows.com]**
 
-**Registrant:**  
-TUCOWS.com, Inc.  
-96 Mowat Ave.  
-Toronto, ON M6K3M1  
-CA
+• the name of the account holder;
 
-**Domain name:** DOMAINFORWARDING.COM
+• the mailing address of the account holder;
 
-**Administrative Contact:**  
-Domain, Direct [**admin-contact@domaindirect.com**](mailto:admin-contact@domaindirect.com)  
-96 Mowat Ave.  
-Toronto, ON M6K3M1  
-CA  
-+1.4165350123  
-**Technical Contact:**  
-Domain, Direct [**dnstech@domaindirect.com**](mailto:dnstech@domaindirect.com)  
-96 Mowat Avenue  
-Toronto, ON M6K 3M1  
-CA  
-**+1.4165350123 Fax:** +1.4165312516
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
 
-**Registration Service Provider:**  
-Domain Direct  
-1-866-337-8633  
-**http:** //help.domaindirect.com  
-This company may be contacted for domain login/passwords,  
-DNS/Nameserver changes, and general domain support questions.
+• a credit card number, expiry and verification code;
 
-**Registrar of Record:** TUCOWS, INC.  
-Record last updated on 05-Jun-2008.  
-Record expires on 01-Jun-2009.  
-Record created on 02-Jun-1998.
+Registration contact data includes:
 
-**Registrar Domain Name Help Center:**  
-**http:** //domainhelp.tucows.com
+  
 
-**Domain servers in listed order:**  
-NS2.DOMAINDIRECT.COM   
-NS1.DOMAINDIRECT.COM   
-NS3.DOMAINDIRECT.COM 
 
-**Domain status:** clientTransferProhibited  
-clientUpdateProhibited
+• the name of the owner and administrative contact(s)
 
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows  
-for information purposes only, and may be used to assist you in obtaining  
-information about or related to a domain name's registration record.
+• the address of the owner and administrative contact(s)
 
-Tucows makes this information available "as is," and does not guarantee its  
-accuracy.
+• the phone number of the owner and administrative contact(s)
 
-By submitting a WHOIS query, you agree that you will use this data only for  
-**lawful purposes and that, under no circumstances will you use this data to:**  
-a) allow, enable, or otherwise support the transmission by e-mail,  
-telephone, or facsimile of mass, unsolicited, commercial advertising or  
-solicitations to entities other than the data recipient's own existing  
-customers; or (b) enable high volume, automated, electronic processes that  
-send queries or data to the systems of any Registry Operator or  
-ICANN-Accredited registrar, except as reasonably necessary to register  
-domain names or modify existing registrations.
+• the email address for the owner and administrative contact(s)
 
-The compilation, repackaging, dissemination or other use of this Data is  
-expressly prohibited without the prior written consent of Tucows.
+## Our use of your account data
 
-Tucows reserves the right to terminate your access to the Tucows WHOIS  
-database in its sole discretion, including without limitation, for excessive  
-querying of the WHOIS database or for failure to otherwise abide by this  
-policy.
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
 
-Tucows reserves the right to modify these terms at any time.
+We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
 
-By submitting this query, you agree to abide by these terms.
+Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
 
-**NOTE:** THE WHOIS DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN  
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY. 
+Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
 
-|   
----|---
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+
+Hover does not share your account data with any other parties for any other reasons.
+
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## WHOIS
+
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+
+## Domain Search Information
+
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+
+We never sell the search information you provide to us.
+
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
