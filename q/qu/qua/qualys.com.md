@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906031019id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312074210id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Highlights | Qualys, Inc.
 
-Version 2.3 – Effective August 25, 2014
+Version 2.4 – Effective November 9, 2015
 
 [](https://privacy.truste.com/privacy-seal/Qualys,-Inc-/validation?rid=db66dd79-5d1d-4338-9c5e-daf97465efe6 "Validate TRUSTe privacy certification")
 
@@ -10,7 +10,7 @@ This Privacy Statement Highlights provides a high-level summary of Qualys' entir
 
 ## Overview
 
-Qualys®, Inc. (Qualys) is committed to providing you with excellent service for its Qualys services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
+Qualys®, Inc. (Qualys) is committed to providing you with excellent service for its Qualys services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
 
   
 
@@ -87,6 +87,17 @@ We consider the protection of all personal information we receive from Qualys We
 #### EU Safe Harbor
 
 Qualys self-certifies in compliance with the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to personal data about individuals in the EEA that subsidiaries, customers, suppliers and other businesses in the EEA send to Qualys. Read about [Qualys' participation in EU Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
+
+  
+
+
+#### Update on EU Safe Harbor November 2015
+
+On October 6, 2015, the European Court of Justice ("ECJ") has determined that the Safe Harbor Framework does not provide a valid legal basis for transfers of personal data from Europe to the US. In the process of delivering our services, Qualys collects very little Personally Identifiable Information (PII). Despite the ECJ Ruling, Qualys believes that EU-US Safe Harbor Framework and Safe Harbor Principles, established by the European Commission and the U.S. Department of Commerce to facilitate transfers of personal data from the EU, has been an important mechanism for global enterprises to adhere to their privacy compliance requirements. Nevertheless, in an effort to help ensure that Qualys customers can continue to transfer personal data from the EU to the US, when requested, Qualys will include the [Model Contracts](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm) into our existing and future agreements.  
+
+In the meantime, the US Department of Commerce has [advised](http://export.gov/safeharbor/) U.S. companies that they will continue to administer the Safe Harbor Framework while the European Commission and U.S. Department of Commerce negotiate necessary changes and updates to the Safe Harbor Framework ("[Safe Harbor 2.0](https://www.commerce.gov/news/press-releases/2015/10/statement-us-secretary-commerce-penny-pritzker-european-court-justice)").  As a result, Qualys will continue to maintain compliance with the Safe Harbor Principles while these negotiations continue.
+
+Qualys will share any additional information as it becomes available. If you have specific questions not addressed here, please contact your Technical Account Manager.
 
   
 
