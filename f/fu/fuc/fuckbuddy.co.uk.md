@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckbuddy.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208133701id_/http%3A//app.fuckbuddy.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbuddy.co.uk privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313002458id_/http%3A//app.fuckbuddy.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # FuckBuddy.co.uk :: FuckBuddy.co.uk Member Privacy Policy
 
