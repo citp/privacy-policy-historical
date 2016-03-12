@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4wdsupacentre.com.au privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022044913id_/http%3A//www.4wdsupacentre.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wdsupacentre.com.au privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312104922id_/http%3A//www.4wdsupacentre.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy , 4WD & Outdoor Products - Australia
 
 **PRIVACY POLICY** ** **
 
-4WD & Outdoor Supacentre Pty Ltd recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. We are bound by the Australian Privacy Principles in the Privacy Act 1988 (Cth), as amended, in relation to the handling of personal information. Where appropriate we will handle personal information relying on the related bodies corporate exemption and the employee exemption in the Privacy Act. 
+Outdoor Supacentre Pty Ltd recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. We are bound by the Australian Privacy Principles in the Privacy Act 1988 (Cth), as amended, in relation to the handling of personal information. Where appropriate we will handle personal information relying on the related bodies corporate exemption and the employee exemption in the Privacy Act. 
 
 PERSONAL INFORMATION 
 
@@ -16,7 +16,7 @@ We usually collect personal information such as your name, address, telephone nu
 
 We use your information to provide our services to you, to fulfill administrative functions associated with these services, for example for billing purposes, to enter into contracts with you or third parties and for marketing and client relationship purposes. Any information that we collect in relation to your credit or debit card details is not kept by us after we use it. We do pass this information on to our financial institution and to our bill payment systems provider to deal with your credit or debt card in order to process your information for the purposes of payment to us for your advertising. When you make an online transaction to purchase our products we utilize the services of PayPal (& it’s affiliated businesses) and eWAY and your financial information is given to them and not collected by us.
 
-We may share your information with other companies which are related to 4WD & Outdoor Supacentre, within and outside of Australia. We may also use your personally identifiable information to assist us in improving our products and services and we may also be in touch to let you know about goods, services, or promotions that may interest you. 
+We may share your information with other companies which are related to Outdoor Supacentre, within and outside of Australia. We may also use your personally identifiable information to assist us in improving our products and services and we may also be in touch to let you know about goods, services, or promotions that may interest you. 
 
 Generally when we collect your information and it is used for a secondary purpose that use will be related to the primary purpose. We may use or disclose information as is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of , an enforcement body. 
 
@@ -24,15 +24,15 @@ At any time, you may notify us of your preference on this issue by contacting ou
 
 USE BY THIRD PARTIES 
 
-4WD & Outdoor Supacentre may disclose your information to its service providers and contractors from time to time in Australia or overseas to help us to provide and market our goods and services to you. If we do this we generally require these parties to protect your information in the same way we do. 
+Outdoor Supacentre may disclose your information to its service providers and contractors from time to time in Australia or overseas to help us to provide and market our goods and services to you. If we do this we generally require these parties to protect your information in the same way we do. 
 
 USE OF AGGRAGATE DATA 
 
-We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 4WD & Outdoor Supacentre may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by 4WD & Outdoor Supacentre or provided to others as a summary report for marketing, advertising or research purposes.
+We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. Outdoor Supacentre may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by Outdoor Supacentre or provided to others as a summary report for marketing, advertising or research purposes.
 
 SECURITY 
 
-4WD & Outdoor Supacentre strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
+Outdoor Supacentre strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
 
 ACCESS TO PERSONAL INFORMATION 
 
@@ -40,15 +40,15 @@ You have a right to access most personal information we hold about you and if we
 
 POSSIBLE DISCLOSURE TO OVERSEAS RECIPENTS
 
-4WD & Outdoor Supacentre uses several services that are located overseas, principally in the USA, all of which have Privacy Policies that have obligations to protect information in a substantially similar way as Australia and they have mechanisms that you can access to take action to enforce protection. 4WD & Outdoor Supacentre uses Google Data analytics which does not collect your personal information. To learn more about how this works go to: http://www.google.com.au/intl/en_uk/analytics/privacyoverview.html 
+Outdoor Supacentre uses several services that are located overseas, principally in the USA, all of which have Privacy Policies that have obligations to protect information in a substantially similar way as Australia and they have mechanisms that you can access to take action to enforce protection. Outdoor Supacentre uses Google Data analytics which does not collect your personal information. To learn more about how this works go to: http://www.google.com.au/intl/en_uk/analytics/privacyoverview.html 
 
 UNSOLICITED PERSONAL INFORMATION
 
-If 4WD & Outdoor Supacentre receives information which we did not ask for we will determine whether we could have collected this information lawfully. If we determine that it could not then we will destroy it and de-identify it where it is lawful to do so.
+If Outdoor Supacentre receives information which we did not ask for we will determine whether we could have collected this information lawfully. If we determine that it could not then we will destroy it and de-identify it where it is lawful to do so.
 
 PUBLIC INFORMATION
 
-Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While 4WD & Outdoor Supacentre strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While Outdoor Supacentre strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
 
 COOKIES 
 
@@ -56,7 +56,7 @@ Cookies are data that a Web site transfers to an individual's hard drive for rec
 
 ONLINE LINKS TO THIRD PARTY AND CO-BRANDED SITES 
 
-4WD & Outdoor Supacentre may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner. 4WD & Outdoor Supacentre is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by 4WD & Outdoor Supacentre of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
+Outdoor Supacentre may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner. Outdoor Supacentre is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Outdoor Supacentre of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
 
 WHAT YOU SHOULD KNOW ABOUT INTERNET PRIVACY 
 
