@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the socialbro.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905225056id_/http%3A//www.socialbro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbro.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312143019id_/http%3A//www.socialbro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SocialBro
+# Privacy Policy | Audiense
 
-Socialbro Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our[ terms of use](https://www.socialbro.com/tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Socialbro Limited of 9th Floor, 107 Cheapside, London, EC2V 6DN.
+Audiesne Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our[ terms of use](https://audiense.com/tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Audiense Limited of Floor 4th, 22 Upper Ground, London, SE1 9PD.
 
 ### Information we may collect from you
 
-We may collect and process the following data about you: Information that you provide by filling in forms on our site [www.socialbro.com](https://www.socialbro.com/) (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site. If you contact us, we may keep a record of that correspondence. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. Details of transactions you carry out through our site and of the fulfilment of your orders. Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+We may collect and process the following data about you: Information that you provide by filling in forms on our site [audiense.com](https://audiense.com/) (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site. If you contact us, we may keep a record of that correspondence. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. Details of transactions you carry out through our site and of the fulfilment of your orders. Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 ### IP addresses
 
@@ -26,7 +26,7 @@ We use information held about you in the following ways: To ensure that content 
 
 ### Disclosure of your information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may disclose your personal information to third parties: In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. If Socialbro Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://www.socialbro.com/tos) and/or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Socialbro Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may disclose your personal information to third parties: In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. If Audiense Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://audiense.com/tos) and/or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Audiense Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 ### Your rights
 
@@ -42,4 +42,8 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to[info@socialbro.com](mailto:info@socialbro.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to[info@audiense.com](mailto:info@audiense.com).
+
+#### optimize your marketing with social data:
+
+[ see it in action ](https://buy.audiense.com/trial/new)
