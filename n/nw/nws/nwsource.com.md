@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015162203id_/http%3A//company.seattletimes.com/notices/notice2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312110850id_/http%3A//company.seattletimes.com/notices/notice2.html) for the most accurate reproduction.*
 
 # User Notices of The Seattle Times Company: Privacy Statement
 
@@ -214,4 +214,4 @@ California Civil Code Section 1798.83 permits customers of The Seattle Times who
 
 #### Previous The Seattle Times Privacy Policy
 
-Certain Personal Information collected by The Seattle Times prior to the date listed at the top of this privacy policy may be governed by the previous privacy policy of The Seattle Times. To view our previous privacy policy, [click here](https://web.archive.org/web/20151015162203id_/http%3A//company.seattletimes.com/notices/notice2-old.html). 
+Certain Personal Information collected by The Seattle Times prior to the date listed at the top of this privacy policy may be governed by the previous privacy policy of The Seattle Times. To view our previous privacy policy, [click here](https://web.archive.org/web/20160312110850id_/http%3A//company.seattletimes.com/notices/notice2-old.html). 
