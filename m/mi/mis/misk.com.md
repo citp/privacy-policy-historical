@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920220103id_/https%3A//www.misk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312094156id_/https%3A//www.misk.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Misk.com
 
@@ -59,5 +59,5 @@ Contact By Email
   
 Contact By Mail  
 Misk.com, Inc.  
-93 S Jackson St #33544  
-Seattle, WA 98104-2818 
+113 Cherry St #33544  
+Seattle, WA 98104-2205 
