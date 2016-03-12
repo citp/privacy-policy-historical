@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymusictools.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929203238id_/http%3A//www.mymusictools.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymusictools.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312081038id_/http%3A//www.mymusictools.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Free Download Privacy Policy - Privacy Policy
 
