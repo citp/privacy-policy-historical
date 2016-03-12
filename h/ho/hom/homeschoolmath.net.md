@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123091503id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312232157id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
@@ -22,4 +22,4 @@ To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy N
 
 Homeschoolmath.net is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-If you have an enquiry or concern about our privacy policy, please [contact us here](https://web.archive.org/web/20151123091503id_/http%3A//www.homeschoolmath.net/question.php).
+If you have an enquiry or concern about our privacy policy, please [contact us here](https://web.archive.org/web/20160312232157id_/http%3A//www.homeschoolmath.net/question.php).
