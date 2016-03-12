@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcupt20.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054313id_/http%3A//www.worldcupt20.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcupt20.in privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312192127id_/http%3A//www.worldcupt20.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ICC World Cup T20 2016 Tickets Buy Online, Live Match, India Schedule,Teams Squad,Venue Details
 
@@ -28,4 +28,4 @@ worldcupt20.in has the discretion to update this privacy policy at any time. Whe
 **Your Acceptance Of These Terms**  
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-ICC World Cup T20 2016 Tickets Buy Online, Live Match, India Schedule,Teams Squad,Venue Details © 2015 [Frontier Theme](http://ronangelo.com/frontier/)
+ICC World Cup T20 2016 Tickets Buy Online, Live Match, India Schedule,Teams Squad,Venue Details © 2016 [Frontier Theme](http://ronangelo.com/frontier/)
