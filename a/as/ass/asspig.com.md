@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asspig.com privacy policy that was archived on 2015-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150103043328id_/http%3A//www.asspig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asspig.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312012346id_/http%3A//www.asspig.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
