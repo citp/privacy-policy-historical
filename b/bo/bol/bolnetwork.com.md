@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolnetwork.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629022453id_/http%3A//www.bolnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolnetwork.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312072605id_/http%3A//bolnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # BOL - Privacy Policy
 
