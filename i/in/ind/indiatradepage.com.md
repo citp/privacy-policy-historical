@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatradepage.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815190358id_/http%3A//indiatradepage.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatradepage.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312162642id_/http%3A//indiatradepage.com/privacy_policy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY Indiatradepage.com - Indian Exporters, Importers, service providers, Manufacturers directory and Yellow Pages India, India Yellow Pages.
 
