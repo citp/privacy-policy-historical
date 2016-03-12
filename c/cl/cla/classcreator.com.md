@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Class Creator Privacy Policy
 
-**Last modified: November 30, 2012 ([view archived versions](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-archive.cfm))**
+**Last modified: November 30, 2012 ([view archived versions](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy-archive.cfm))**
 
 Our Privacy Policy explains:
 
@@ -12,18 +12,18 @@ Our Privacy Policy explains:
 
 
 
-We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these [key terms](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) first.
+We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these [key terms](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) first.
 
 ## Information We Collect
 
 We collect information in two ways:
 
   * **Information you give us when creating a website, or when joining an existing website.** When you do either of these, we'll ask for personal information, like your name, email address, telephone number and date of birth. We'll then create a Member Profile, which may include your name and photo. The part of your profile containing your email address, physical address, and phone numbers is not visible to anyone except the administrators of the website. The rest of the profile information you supply including birth date is only visible to other persons who are logged into the same website. The only exception to this is City of Residence, which may be seen by a non-logged in viewer in the Where We Live feature. You can override the sharing limitations, but the default settings are the most protective of your privacy. 
-  * **Information we get from your use of our services ([server logs](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm)). We may collect information about the services that you use and how you use them, like when you visit the website, and details of your activity on each page. This information includes:**
+  * **Information we get from your use of our services ([server logs](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm)). We may collect information about the services that you use and how you use them, like when you visit the website, and details of your activity on each page. This information includes:**
     * your hardware model, operating system version, and web browser version.
-    * the [Internet protocol address](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) from which you are connecting to the internet.
+    * the [Internet protocol address](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) from which you are connecting to the internet.
     * event information such as browser type, browser language, the date and time of your request and referral URL.
-    * [cookies](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.
+    * [cookies](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.
 
 
 
@@ -54,7 +54,7 @@ We may share personal information with companies, organizations or individuals i
 
 
 
-We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) publicly. For example, we may share information publicly to show trends about the general use of our services.
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20160312110558id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) publicly. For example, we may share information publicly to show trends about the general use of our services.
 
 If we are involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
