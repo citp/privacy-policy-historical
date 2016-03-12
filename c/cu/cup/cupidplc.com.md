@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupidplc.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014213408id_/http%3A//castlestreetinvestments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupidplc.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312174427id_/http%3A//castlestreetinvestments.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Castle Street Investments
 
