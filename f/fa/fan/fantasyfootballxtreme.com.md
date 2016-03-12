@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballxtreme.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114042414id_/http%3A//www.visiomente.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballxtreme.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312022306id_/http%3A//www.visiomente.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Visiomente Corporation
 
