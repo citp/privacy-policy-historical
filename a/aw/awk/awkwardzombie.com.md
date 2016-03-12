@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awkwardzombie.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810101403id_/http%3A//awkwardzombie.com/index.php%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awkwardzombie.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312184316id_/http%3A//awkwardzombie.com/index.php%3Fpage%3D5) for the most accurate reproduction.*
 
 # AWKWARD ZOMBIE
 
