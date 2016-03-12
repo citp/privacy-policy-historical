@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtm-intl.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227121142id_/http%3A//files.xtm-intl.com/documents/XTM_Website_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtm-intl.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312184710id_/http%3A//files.xtm-intl.com/documents/XTM_Website_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
