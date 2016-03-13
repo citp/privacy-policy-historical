@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enasco.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925103106id_/http%3A//www.enasco.com/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enasco.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313215738id_/https%3A//www.enasco.com/page/policy) for the most accurate reproduction.*
 
 # Nasco | Privacy Policy Statement
 
@@ -8,7 +8,7 @@ Our postal address is:
 Fort Atkinson, WI 53538**
 
 We can be reached via e-mail at [custserv@eNasco.com](mailto:custserv@eNasco.com?subject=eNasco.com:%20Customer%20Response "send an e-mail to Nasco's customer service department.")  
-Or you can reach us by telephone at **920-563-2446**
+Or you can reach us by telephone at **920.563.2446**
 
 The information you provide to Nasco is primarily used to help us better serve you.
 
