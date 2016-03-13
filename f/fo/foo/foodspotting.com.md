@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodspotting.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003232545id_/http%3A//www.foodspotting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodspotting.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313205229id_/http%3A//www.foodspotting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Foodspotting
 
