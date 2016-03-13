@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegoaffiliatenetwork.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124091729id_/http%3A//www.wego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegoaffiliatenetwork.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313140820id_/http%3A//www.wego.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
