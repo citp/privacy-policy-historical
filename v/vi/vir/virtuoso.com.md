@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006215908id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313150445id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Virtuoso - Virtuoso Luxury Travel
+# Virtuoso - Explore the world's No. 1 luxury travel network
 
 **Last Updated** : January 22, 2014
 
