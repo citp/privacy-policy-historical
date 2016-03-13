@@ -1,56 +1,44 @@
-> *The following text is extracted and transformed from the proxyclick.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101090823id_/http%3A//www.proxyclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyclick.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313165731id_/http%3A//www.proxyclick.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy statement
 
-## **Your privacy is  critically important to us.** **The data remains yours after all!**
+Your privacy is critically important to us. The data remains yours after all!
 
 We like to provide you with personalised webservices, which makes it necessary for us to hold and process your personal data. According to the legal definition, personal data is any information relating to an identified or identifiable natural person. It is sufficient that the data allow us to establish a (direct or indirect) link between one or more data-pieces and a natural person.
 
-At Proxyclick, we are committed to making sure that your personal data is kept confidential, and that it is only used for those specific purposes that are in-line with Proxyclick’s mission to assist you with Visitor Management and/or your facility-related service requests (Service Desk). We are convinced that a privacy statement is essential to create confidence, goodwill and stronger relationships with you, our customers. That is why we inform you in the most extensive manner about the collecting and processing of your personal data. Therefore you will always be aware of the type, the extent of, and the purposes for which personal data are collected and used. 
+At Proxyclick, we are committed to making sure that your personal data is kept confidential, and that it is only used for those specific purposes that are in-line with Proxyclick’s mission to assist you with Visitor Management and/or your facility-related service requests (Service Desk). We are convinced that a privacy statement is essential to create confidence, goodwill and stronger relationships with you, our customers. That is why we inform you in the most extensive manner about the collecting and processing of your personal data. Therefore you will always be aware of the type, the extent of, and the purposes for which personal data are collected and used.
 
 By providing you this information we confirm our compliance with the legislative conditions as required by the Belgian data protection legislation, in particular the Act of 8 December 1992 on Privacy Protection in relation to the Processing of Personal Data (Privacy Act), which implemented the EU Data Protection Directive 95/46 EC.
 
 We assume that the user of our applications has taken notice of this Privacy Statement. Be aware that we do occasionally update this Privacy Statement, and that it is your responsibility to examine and take notification of any change made to this document. So please do return and review this Statement on a regular basis. Any substantial change will be clearly communicated.
 
-If you still have any questions or concerns regarding this Privacy Statement, please don’t hesitate to contact us at info@proxyclick.com. We’d love to hear your feedback.
+If you still have any questions or concerns regarding this Privacy Statement, please don’t hesitate to contact us at info@proxyclick.com. We’d love to hear your feedback.
 
-  1. ### **Who is responsible for the data processing?**
-
-
-
+## 1\. Who is responsible for the data processing?
 
 The Privacy Act draws a distinction between a ‘data controller’ and a ‘data processor’. We provide you with a clear notice of this distinction, as this is extremely important to avoid some ambiguity about responsibilities.
 
-**Data controller**
+### Data controller
 
 The data controller is every natural person and/or legal entity that determines the purposes and the means (legal and technical) of the processing of personal data. This determination can be done alone or jointly with others.
 
-The party managing [www.proxyclick.com](https://www.proxyclick.com/) (our website), ‘Visitor Management’ and ‘Service Desk’ is:
+The party managing [www.proxyclick.com](https://web.archive.org/) (our website), ‘Visitor Management’ and ‘Service Desk’ is:
 
-PROXYCLICK sprl
-
-Rue Fernand Bernier 15
-
-B-1060 Brussels
-
-Belgium
-
-Registration Number: BE0863.261.693
-
-Tel: +32 25 43 44 23
-
+Proxyclick sprl  
+Rue Saint-Hubert 17  
+B-1150 Brussels  
+Belgium  
+Registration Number: BE0863.261.693  
+Tel: +32 25 43 44 23  
 Email: [info@proxyclick.com](mailto:info@proxyclick.com)
 
 Be aware that Proxyclick is only the data controller for the processing of personal data for its own purposes, such as the processing of personal data of our (potential) customers in relation to sales, service delivery, invoicing, customer relationship management and direct marketing.
 
 If you are a user of Visitor Management or Service Desk, or if you are a visitor of one of our customers, our customer will be the ‘data controller’ and Proxyclick will be acting on our customer’s behalf and will therefore be acting as our customer’s “data processor”. In such case, our customer is the one assuming responsibility for the processing of personal data through our services.
 
-  2. ### **What information do we collect about you?**
+## 2\. What information do we collect about you?
 
-
-
-
-We may collect, store and use the following kinds of personal data:
+We may collect, store and use the following kinds of personal data.
 
 If you are a visitor of our website or user of our services:
 
@@ -79,10 +67,7 @@ In addition, if you are a visitor registered in our services:
 
 The website also collects data through cookies. To read more about how we use cookies, please read our Cookie Statement.
 
-  3. ### **For what purposes do we process the data?**
-
-
-
+## 3\. For what purposes do we process the data?
 
 We process your personal data for an overarching goal: we want to offer the best-personalised experience when visiting our website and using our applications.
 
@@ -94,10 +79,7 @@ We may also analyse personal data for statistical reporting. If so, we will ensu
 
 If you do not object to it at the time of collection, we may also use your information internally for our own marketing and promotional purposes. For example, we may use it to send you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. Please see below on your right to object in case for direct marketing purposes.
 
-  4. ### **How do we secure your data?**
-
-
-
+## 4\. How do we secure your data?
 
 We take the appropriate technical and organizational measures that are necessary to protect the personal data from accidental or unauthorized destruction, accidental loss, as well as from alteration, access and any other unauthorized processing of the personal data.
 
@@ -105,33 +87,21 @@ We implement a variety of security measures to ensure an appropriate level of se
 
 Currently, we offer amongs others the use of a secure server and all supplied information is transmitted via Secure Socket Layer (SSL) technology to be only accessed by those authorized with special access rights to our systems. We are furthermore always ready to provide additional information on our information security practices and to perform audits on request.
 
-  5. ### **How long will we hold your data?**
-
-
-
+## 5\. How long will we hold your data?
 
 We only process your personal information as long as necessary for the above mentioned purposes. We keep a record of your data as long as your account is active, or as long as your personal data is necessary to offer you a particular service. We promise to delete your personal data as soon as this data is no longer required for the aforementioned purposes. The deletion is comparable to deleting files on your computer using the ‘trash bin’, allowing us to recover the data to a certain extent for some time. In addition, we may need to keep certain personal data due to legal obligations, for example to prove that we have provided you a service or due to tax reasons. Please note that if we are acting as a data processor, we have to act upon our customer’s instructions regarding data retention.
 
-  5. ### **Where do we store your information and those of your visitors?**
-
-
-
+## 5\. Where do we store your information and those of your visitors?
 
 Our primary storage of our systems is located in France, managed by OVH ([http://www.ovh.com](http://www.ovh.com/)).
 
-The secondary backup of our systems is located in the USA, managed by iBackup ([https://www.ibackup.com](https://www.ibackup.com/) ). A full back-up of our practice database files is transferred to iBackup once every 24 hours.
+The secondary backup of our systems is located in the USA, managed by iBackup ([https://www.ibackup.com](https://www.ibackup.com/)). A full back-up of our practice database files is transferred to iBackup once every 24 hours.
 
-  6. ### **Where do we store your information and those of your visitors?**
-
-
-
+## 6\. Where do we store your information and those of your visitors?
 
 Our primary and secondary storage of our systems is located in France, managed by OVH ([http://www.ovh.com](http://www.ovh.com/)).
 
-  7. ### **Do we share your information?**
-
-
-
+## 7\. Do we share your information?
 
 We, at Proxyclick, consider mutual confidence very important. That’s why we would like to ensure you that we process your personal data only for internal use. We neither rent nor sell your personal data or of those of your visitors in a form that allows for the identification of individuals to anyone for use for their own purposes. We may share statistical reporting on the use of our website and services with third parties, however such reporting will not contain information that allows the identification of an individual.
 
@@ -141,7 +111,7 @@ We may transfer your personal data to our trusted and reputable third party proc
 
   * Hosting of our customer relationship management system,
   * Enabling payments,
-  * Enabling user support functionalitities, such as website chat rooms
+  * Enabling user support functionalitities, such as website chat rooms,
   * Enabling visit and usage analytics
 
 
@@ -154,18 +124,15 @@ In order to further develop our business, we may alter the corporate structure o
 
 Proxyclick is a Belgian company, but operates globally. It is therefore possible for the data to be transferred to and stored in countries outside the European Economic Area. Proxyclick will always do so in accordance with this Privacy Policy and applicable laws, if required by making sure that appropriate protective measures are implemented, such as the Safe Harbor cerfitication of the receiving party or the conclusion of an EU model contract with the receiving party.
 
-  8. ### **My rights as a data subject?**
-
-
-
+## 8\. My rights as a data subject?
 
 Each user can be assured that his personal data will be processed in a fair and lawful manner. This means that the data will only be processed for the above explicit and legitimate purposes. Proxyclick also ensures that the personal data are always adequate, relevant and not excessive in relation to the purposes for which they are processed.
 
-**Right to access                 **
+### Right to access
 
-Each individual who proves his identity has a right of access regarding the processing of his personal data by Proxyclick, as defined in the Privacy Act. This implies that you have to right to request us information on whether or not data relating to you is being processed, as well as information regarding the purposes of the processing, the categories of data the processing relates to, and the categories of recipients the data is disclosed to. This Privacy Policy is a first indication. You also have to right to request us to communicate your data being processed in an intelligible form, as wel as to communicate any available source information. You can exercise your right through a signed, written request to Proxyclick, by post or e-mail to info@proxyclick.com. Proxyclick undertakes the appropriate action following a request within 30 days.
+Each individual who proves his identity has a right of access regarding the processing of his personal data by Proxyclick, as defined in the Privacy Act. This implies that you have to right to request us information on whether or not data relating to you is being processed, as well as information regarding the purposes of the processing, the categories of data the processing relates to, and the categories of recipients the data is disclosed to. This Privacy Policy is a first indication. You also have to right to request us to communicate your data being processed in an intelligible form, as wel as to communicate any available source information. You can exercise your right through a signed, written request to Proxyclick, by post or e-mail to [info@proxyclick.com](mailto:info@proxyclick.com). Proxyclick undertakes the appropriate action following a request within 30 days.
 
-**Right to correct**
+### Right to correct
 
 Proxyclick attaches a great importance to an accurate data collection. Inaccurate or incomplete personal data can therefore always be improved or even obliterated.
 
@@ -173,28 +140,22 @@ For it is impossible for us to be on a continuous basis aware of any mistakes, i
 
 If your personal actions seem not enough, feel free to contact us using a signed, written request directed at [info@proxyclick.com](mailto:info@proxyclick.com). Proxyclick performs the necessary actions within 15 days by making additions, correcting or deleting the personal data.
 
-**Right to object**
+### Right to object
 
 Each user can oppose the processing of his personal data. This right to object exists only if there are sufficient legitimate and weighty grounds relating to his particular situation. The exceptions provided in the Privacy Act are also applicable to this right of objection. You may at the time of collection and at any later time, free of charge and without further ado oppose the proposed processing of your personal data if those data were obtained for the purpose of direct marketing.
 
 You are also entitled to obtain the removal and/or the ban on the use of all your personal data which have been obtained and which are incomplete or irrelevant, regarded from the view of the purpose of the processing. This is also applicable to any personal data of which the registration, disclosure, and retention are prohibited, or personal data preserved after expiry of the authorized period. This right can be used at any time, free of charge and without further justification.
 
-You shall exercise this right through a signed, written request to Proxyclick, by post or e-mail to info@proxyclick.com. Proxyclick undertakes the appropriate action following a request within 30 days.
+You shall exercise this right through a signed, written request to Proxyclick, by post or e-mail to [info@proxyclick.com](mailto:info@proxyclick.com). Proxyclick undertakes the appropriate action following a request within 30 days.
 
-  9. ### **Do we use cookies?**
+## Do we use cookies?
 
+Yes, like many websites, we do use cookies. For further clarification around our cookies we kindly refer you to our [Cookie statement](https://web.archive.org/cookies).
 
-
-
-Yes, like many websites, we do use cookies. For further clarification around our cookies we kindly refer you to our Cookie Statement.
-
-  10. ### **Updates to the Privacy Statement**
-
-
-
+## Updates to the privacy statement
 
 The way we offer you the application and its related services remains subject of constant changes as we are continously evolving. We may amend the Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, to satisfy the needs of our customers, users, visitors or service providers or to reflect new innovative features and services. These new developments remain within our original objectives.
 
 Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated.
 
-_**Last update of the Privacy Statement: Tuesday 20 October 2016**_
+_Last update of the Privacy Statement: Tuesday 20 October 2016_
