@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722063430id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313123552id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,5 +60,3 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 If we decide to change our privacy policy, we will post those changes on our homepage.
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
-
-[(Edit)](http://www.zentut.com/wp-admin/post.php?post=988&action=edit)
