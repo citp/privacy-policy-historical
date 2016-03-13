@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mywindowshosting.com privacy policy that was archived on 2015-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151012052157id_/http%3A//www.mywindowshosting.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mywindowshosting.com privacy policy that was archived on 2016-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160313220809id_/http%3A//www.mywindowshosting.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,6 +50,37 @@
   
   
 <script>
+
+
+$( document ).ready(function() {
+
+
+
+olark('api.chat.onOperatorsAvailable', function() {
+
+    // Identify the element, and give it a class name
+    document.getElementById('chat-indicator').className = 'green-icon';
+olark('api.box.show');
+$('#livechattoplink').show();
+});
+
+
+
+olark('api.chat.onOperatorsAway', function() {
+
+    // Identify the element, and give it a class name
+    //document.getElementById('chat-indicator').className = 'red-icon';
+	     olark('api.box.hide');
+	$('#livechattoplink').hide();
+
+});
+
+
+
+});
+</script>
+
+<script>
 	function GenericPopup(e,c,d)
 	{if($.browser.isAndroid){if(d.match(/status=(no|yes)/i)){d=d.replace(/status=(no|yes)/i,"status=yes")
 	}else{d+=",status=yes"}if(d.match(/width=\d*/i)){var f=parseInt(d.match(/width=\d*/i)[0].replace(/width=/i,""));
@@ -58,31 +89,53 @@
 	if(b){b.focus()}}
 </script>
 
+<!--
+<script type="text/javascript" src="https://livechat.smarterasp.net/SightMaxAgentInterface/sightmax.smjs?accountID=1&siteID=3&queueID=2&jquery=True&json=True&v=5&skipsurvey=false"></script>
+-->
 <script>
 	$(document).ready(function(){
 		$("#livechat").click(function(){
-			//GenericPopup('/maintenance', 'AlertsPopup', 'width=600,height=400,resizable=no,scrollbars=no,status=no,toolbar=no');
-					location.href="https://member2.mywindowshosting.com";
-
+			//$("#smChatCtrl").click();
+			//GenericPopup('http://www.mywindowshosting.com/getlivechat', 'chatWindow', 'width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');
 		
-		});
+			olark('api.box.expand');
+			
+			});
 		
-	})
+	})	
 </script>
 
 <script type="text/javascript" src="js/superfish.js"></script><script type="text/javascript" src="js/jquery.mobilemenu.js"></script></head>
 
-<body>
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
 
 
 
  
 
-<div style="position:fixed; bottom:0; right:0; z-index: 9999">
-    <a href="javascript:void()" onclick="$('#livechat').click();"><img src="/images/chatbottombutton.png" style="margin-right:20px;"></a>
-</div>
-	
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('8133-389-10-5171');/*]]>*/</script><noscript><a href="https://www.olark.com/site/8133-389-10-5171/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
+
+
 
 
 
@@ -132,11 +185,14 @@
 
                               </ul>
                             </li>
-                            <li><a href="http://www.mywindowshosting.com/affiliates">Affiliates</a></li>
-                            
+                            <!--<li ><a href="http://www.mywindowshosting.com/affiliates">Affiliates</a></li>
+                            -->
+							                            <li><a href="http://www.mywindowshosting.com/domain">Domains</a></li>
+
+							
                             <li><a href="http://www.mywindowshosting.com/whyus">Why Us</a></li>
                             <li><a href="http://www.mywindowshosting.com/contact">Contacts</a></li>
-                          </ul><select class="select-menu" style="display: inline-block;"><option value="#">Navigate to...</option><option value="http://www.mywindowshosting.com/">Home</option><option value="http://www.mywindowshosting.com/free_trial">Free Trial</option><option value="http://www.mywindowshosting.com/hosting_plans">Plans</option><option value="http://www.mywindowshosting.com/hosting_plans">––Windows Shared Hosting</option><option value="http://www.mywindowshosting.com/semi_dedi">––Semi Dedicated Hosting</option><option value="http://www.mywindowshosting.com/windows_hosting_reseller">––Reseller Hosting</option><option value="http://www.mywindowshosting.com/vps">––VPS Hosting</option><option value="http://www.mywindowshosting.com/affiliates">Affiliates</option><option value="http://www.mywindowshosting.com/whyus">Why Us</option><option value="http://www.mywindowshosting.com/contact">Contacts</option></select>
+                          </ul><select class="select-menu" style="display: inline-block;"><option value="#">Navigate to...</option><option value="http://www.mywindowshosting.com/">Home</option><option value="http://www.mywindowshosting.com/free_trial">Free Trial</option><option value="http://www.mywindowshosting.com/hosting_plans">Plans</option><option value="http://www.mywindowshosting.com/hosting_plans">––Windows Shared Hosting</option><option value="http://www.mywindowshosting.com/semi_dedi">––Semi Dedicated Hosting</option><option value="http://www.mywindowshosting.com/windows_hosting_reseller">––Reseller Hosting</option><option value="http://www.mywindowshosting.com/vps">––VPS Hosting</option><option value="http://www.mywindowshosting.com/domain">Domains</option><option value="http://www.mywindowshosting.com/whyus">Why Us</option><option value="http://www.mywindowshosting.com/contact">Contacts</option></select>
                       </div>
                   </div>
               </div>
@@ -224,8 +280,8 @@ Last Update: July 5, 2012
             <a target="_blank" href="http://www.mywindowshosting.com/support"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Knowledge Base</a><br>
                  <a target="_blank" href="http://helpdesk.mywindowshosting.com/"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Ticket System</a><br>
                  <a href="http://www.mywindowshosting.com/contact"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Contacts</a>                 <br>
-                 <a href="http://www.mywindowshosting.com/affiliates"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Affiliates</a><br>
-                 <a href="http://www.mywindowshosting.com/affiliate_terms"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Affiliate Terms</a><br>
+                 <!--<a href="http://www.mywindowshosting.com/affiliates"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Affiliates</a><BR>
+                 <a href="http://www.mywindowshosting.com/affiliate_terms"><img src="img/li-marker2.gif" style="margin-top:-2px;"> Affiliate Terms</a><BR>-->
 
           </div>
           <div class="span3" style="padding-left:40px; width:250px; font-family: Century Gothic;font-size:15px;">
@@ -241,7 +297,7 @@ Last Update: July 5, 2012
           
         </div>
         <div class="row">
-          <div class="span12"><em><!-- {%FOOTER_LINK} --> myWindowsHosting.com © 2015 All Rights Reserved</em><span>|</span><a href="http://www.mywindowshosting.com/privacy">Privacy policy</a><span>|</span><a href="http://www.mywindowshosting.com/tos">Terms</a></div>
+          <div class="span12"><em><!-- {%FOOTER_LINK} --> myWindowsHosting.com © 2016 All Rights Reserved</em><span>|</span><a href="http://www.mywindowshosting.com/privacy">Privacy policy</a><span>|</span><a href="http://www.mywindowshosting.com/tos">Terms</a></div>
         </div>  
       </div>
     </footer>
