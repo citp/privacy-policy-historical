@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureupload.eu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315065806id_/https%3A//secureupload.eu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureupload.eu privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313144627id_/https%3A//secureupload.eu/privacy-policy.html) for the most accurate reproduction.*
 
 # secureupload.eu - Fast & Secure cloud storage
 
@@ -74,4 +74,4 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 ###### Changes To This Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](https://web.archive.org/web/20150315065806id_/https%3A//secureupload.eu/contact.php).
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](https://web.archive.org/web/20160313144627id_/https%3A//secureupload.eu/contact.php).
