@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906085811id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313153215id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
 
 # Patelco – Security Center
 
@@ -19,10 +19,8 @@ report and prevent any fraudulent activity.
 ---  
   
 **Email Scam**   
-You may have received an email with a subject line similar to "Patelco Credit Union Alert {Credit-$5,000,000.00}." [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Email-Scam)  
-  
-**Security risk for older browsers**   
-Using an Out-of-Date Browser? Find out why it’s important to upgrade now. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Browser-Upgrade/)  
+You may have received an email with a subject line similar to "Patelco Credit Union Alert {Credit-$5,000,000.00}." [  
+Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Email-Scam)  
   
 **Changes to Your User ID**   
 You may have received an email from our Information Security Officer asking you to change your Online/Mobile Banking User ID. [Read more >](https://www.patelco.org/Members/Security/UserId-Update/)  
