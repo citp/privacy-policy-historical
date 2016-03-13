@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000lifehacks.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916102510id_/http%3A//1000lifehacks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000lifehacks.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313151545id_/http%3A//1000lifehacks.com/privacypolicy) for the most accurate reproduction.*
 
 # 1000 Life Hacks
 
@@ -17,7 +17,7 @@ Like many other Web sites, 1000lifehacks.com makes use of log files. The infor
  **DoubleClick DART Cookie**    
 .:: Google, as a third party vendor, uses cookies to serve ads on 1000lifehacks.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to 1000lifehacks.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%C2%A0)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html%25C2%25A0&t=ZjQ0MTgyODI0MWIyZWY1NGNlZmM0YmNmNzMzOTRkY2EzMzgxZTdkMixUbU4zdWpESg%3D%3D)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
