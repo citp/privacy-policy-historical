@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriabestjobs.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319150641id_/http%3A//www.nigeriabestjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriabestjobs.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313172501id_/http%3A//www.nigeriabestjobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigeria Best Jobs: Online Jobsite
 
@@ -24,8 +24,8 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy ](http://www.google.com/privacy/ads/). 
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy ](http://www.google.com/privacy/ads/).
 
 **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to us by sending a mail to admin@nigeriabestjobs.com 
+Concerns or questions about this privacy policy can be directed to us by sending a mail to admin@nigeriabestjobs.com
