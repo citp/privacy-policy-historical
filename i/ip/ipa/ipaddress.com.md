@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050044id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313141634id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
 
 # IPAddress.com Privacy Policy | IPAddress Security Policy | IPAddress.com
+
+  1. [Home](http://ipaddress.com/)
+  2. [Privacy Policy](http://ipaddress.com/privacy.html)
+
+
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](http://ipaddress.com/contact.html). At IPAddress.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by IPAddress.com and how it is used.
 
