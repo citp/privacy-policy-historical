@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionfreax.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921094653id_/http%3A//www.fashionfreax.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfreax.net privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313214439id_/http%3A//www.fashionfreax.net/privacy) for the most accurate reproduction.*
 
-# legal | Fashionfreax | Comunidad de Moda y estilos de la calle | Blog
+# legal | Fashionfreax | Street Style & Social Fashion Community | Blog & forum
 
 "Fashionfreax" constitutes the services set forth in this contract and/or the Empora Group GmbH. This Privacy Policy supplements the "Terms of Use of the Fashionfreax". 
 
