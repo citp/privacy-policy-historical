@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynicespace.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063120id_/http%3A//www.myniceprofile.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynicespace.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313222248id_/http%3A//www.myniceprofile.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy :: MyNiceProfile.com
 
@@ -11,5 +11,7 @@ From time to time, we will use the data that our web server has collected to bet
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you.
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
 
 If you have any questions regarding your privacy please [contact us](http://www.myniceprofile.com/feedback).
