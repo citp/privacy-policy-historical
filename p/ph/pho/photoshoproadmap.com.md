@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshoproadmap.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813174226id_/http%3A//www.development01.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoproadmap.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313110557id_/http%3A//www.development01.com/privacy.html) for the most accurate reproduction.*
 
 # Development 01
 
