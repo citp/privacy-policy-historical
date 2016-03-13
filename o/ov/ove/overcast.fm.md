@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905125026id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313095240id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
 
 # Overcast
 
@@ -6,18 +6,17 @@ This policy applies to all information collected or submitted on Overcast’s we
 
 ## Information we collect
 
-When creating an account, you will be asked to enter an email address and a password.
+When creating an account, you will be asked to enter an optional email address and a password.
 
-We do not send promotional emails. Your email address is only used for:
+We do not send promotional emails. Your email address, if supplied, is only used for:
 
   * Logging in.
   * Resetting your password if you forget it.
-  * Responding to any feedback or support emails you send us.
-  * Notifying you of important account-related matters, such as security or billing problems.
+  * Notifying you of important account-related matters, should they arise. (To date, no email has ever been sent for this reason.)
 
 
 
-We store information about your podcasts, episodes, and listening progress so we can sync this information between the website and any devices where you use the app. We also collect aggregate statistics about podcasts and podcast episodes that people subscribe and listen to.
+We store information about your podcasts, episodes, and listening progress so we can sync this information between the website and any devices where you use the app. We also collect aggregate, anonymous statistics about app and site usage and crashes, and which podcasts are most subscribed and listened to.
 
 If you enable push notifications, we need to store the token your device gives us to send them. We only ever use push notifications to initiate background downloads and notify you of new podcast episodes. We never use push notifications for marketing.
 
@@ -30,6 +29,8 @@ If you connect a Twitter account:
 
 
 
+If you upload files to Overcast, we need to store them until you delete them.
+
 We use cookies on the site and similar tokens in the app to keep you logged in.
 
 Like most websites and apps, we also store information through the use of software that may be transparent to users. For example, we may log your IP address and general information about your browser or device.
@@ -38,7 +39,7 @@ Like most websites and apps, we also store information through the use of softwa
 
 We use the information we collect to operate and improve our website, apps, and customer support.
 
-We do not share your personal information with outside parties except to the extent necessary to accomplish Overcast’s functionality.
+We do not share your personal information with outside parties except to the extent necessary to accomplish Overcast’s functionality, with the exception of [Fabric](https://fabric.io/), which is embedded in Overcast’s iOS app to provide crash reporting and basic analytics to help us improve the app.
 
 We may share anonymous, aggregate statistics with outside parties, such as how many people listen to a particular podcast with Overcast.
 
@@ -80,4 +81,4 @@ If you have questions regarding this privacy policy, you may email [privacy@over
 
 If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.
 
-**This policy was last modified on July 1, 2014.**
+**This policy was last modified on February 26, 2016 to cover the addition of Fabric crash reporting and analytics to the iOS app. Prior to that, there were no modifications since Overcast’s launch in July 2014.**
