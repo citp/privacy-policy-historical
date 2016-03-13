@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailychoice.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429101529id_/http%3A//mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailychoice.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313150015id_/http%3A//www.mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # MyDailyChoice :: Privacy Policy
 
