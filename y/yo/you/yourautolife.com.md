@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the yourautolife.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008062647id_/http%3A//www.yourautolife.com/%3Fpage_id%3D169) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourautolife.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314002233id_/http%3A//www.yourautolife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cars
-
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+# Privacy Policy | Your Auto Life
 
 We will not share any lists of e-mail addresses or other personal information with any third party. In any such e-mail from us, we will provide a way for you to “opt out” or choose to decline to receive promotional e-mail from us. We may occasionally find a third-party offer in which we believe you might be interested and may send you information, but we will not provide your e-mail address to the third party.
 
 We may also offer various surveys on the site. If the survey is a news survey or about service satisfaction, we will not share that information. Certain other surveys and contests are promotional in nature, and are often sponsored by or hosted and run by our advertisers.
 
 In such cases, we disclose that we collect and may share the information you provide to enter the contest or complete the survey with the advertiser. Of course, you will always have the choice of whether to enter the contest or complete such a survey, and therefore you will control the decision about sharing your information.
+
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Note to parents and children:
 
@@ -26,7 +26,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp.
 
 yourautolife.com comment forum rules of conduct
 
@@ -64,5 +64,4 @@ In order to keep these forums enjoyable and interesting for all of our users, we
 
 13\. Commenting on student sports – no comment may identify a player by name at any time. This is to keep student from being targeted for unfair criticism. Comments may be edited or deleted.
 
-14\. Comments to communicate off-topic messages to other users or to the yourautolife.com staff will be deleted.  
-
+14\. Comments to communicate off-topic messages to other users or to the yourautolife.com staff will be deleted.
