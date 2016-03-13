@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rexall.ca privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009094042id_/http%3A//www.rexall.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexall.ca privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313200911id_/http%3A//www.rexall.ca/privacy-policy) for the most accurate reproduction.*
 
 # Rexall.ca | Privacy
 
@@ -200,6 +200,7 @@ BY SUBMITTING PERSONAL INFORMATION TO KATZ, YOU SIGNIFY YOUR ACCEPTANCE OF THIS 
 If you have any questions about the Privacy Statement or the handling of your personal information, please contact Katz Group Canada Ltd. at Toll-free: 1-877-378-4100 or [send](http://www.rexall.ca/contact-us) an email to [privacyofficer@rexall.ca](mailto:privacyofficer@rexall.ca) to contact us. You can also contact us by mail at: 
 
 **Privacy Officer**  
+Mona Sabharwal  
 Katz Group Canada Ltd.  
 5965 Coopers Ave.  
 Mississauga, Ontario  
