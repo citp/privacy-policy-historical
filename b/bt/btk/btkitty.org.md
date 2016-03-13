@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btkitty.org privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204154559id_/http%3A//btkitty.so/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btkitty.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313182827id_/http%3A//btkitty.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of BTKitty - BT Kitty - Professional torrent search engine, Fast and Free Torrent and magenet Downloads
+# Privacy Policy of BTKitty - BT Kitty
 
 ### Your Privacy at BTKitty
 
