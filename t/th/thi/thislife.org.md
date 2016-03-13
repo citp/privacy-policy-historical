@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thislife.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109225720id_/http%3A//chicagopublicmedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thislife.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313121259id_/http%3A//chicagopublicmedia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chicago Public Media
 
 Chicago Public Media has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy throughout our websites. The following discloses our information gathering and dissemination practices for the websites located at the URLs: [www.wbez.org](http://www.wbez.org/), [www.vocalo.org](http://www.vocalo.org/), [www.soundopinions.org](http://www.soundopinions.org/), [www.thisamericanlife.org](http://www.thisamericanlife.org/), [www.asoundfuture.org](http://www.asoundfuture.org/), and services.chicagopublicradio.org.
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our [Terms of Use](https://web.archive.org/web/20151109225720id_/http%3A//chicagopublicmedia.org/content/terms-use). Chicago Public Media reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of:
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our [Terms of Use](https://web.archive.org/web/20160313121259id_/http%3A//chicagopublicmedia.org/content/terms-use). Chicago Public Media reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of:
 
 1\. What personally identifiable information of yours is collected through the Site;  
 2\. Who collects such information;  
