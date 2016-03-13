@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadit.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906090028id_/http%3A//www.spreadit.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadit.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313022718id_/http%3A//www.spreadit.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Breaking Viral News and Opinion on SpreadIt
 
