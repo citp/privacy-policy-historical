@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002174554id_/http%3A//halfbrick.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313125644id_/http%3A//halfbrick.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | Halfbrick Studios
 
 [](http://www.halfbrick.com/)
 
-Last updated on 17th June, 2015
+Last updated on 29th October, 2015
 
   
 
@@ -17,7 +17,7 @@ As an Australian company operating globally, we strictly comply with Australian 
 
 This privacy policy sets out how we handle your privacy. By using our Services you consent to the practices set out in this policy.
 
-**Children:** Remember to be smart and safe online. Never give someone your information without first asking your parent/guardian if it is OK. Unless you have permission, don't give anyone your photo, or tell anyone your name, email, home address, telephone, your school or any other information about you that they could use to contact you either online or in the real world.
+**Children:** Remember to be smart and safe online. Never give someone your information without first asking your parent/guardian if it is OK. Don't give anyone your photo, or tell anyone your name, email, home address, telephone, your school or any other information about you that they could use to contact you either online or in the real world.
 
 If you want to enter one of our competitions, make sure you ask permission from your parent/guardian before you enter.
 
@@ -32,7 +32,7 @@ We receive and store any information you give to us, such as when you:
   * download our games;
   * enter our competitions;
   * are involved in our special events (e.g. focus testing days);
-  * interact with us via social media such as Facebook, Twitter and Google+;
+  * interact with us via social media such as Facebook, Twitter, Twitch, YouTube, Instagram and Google+;
   * enter information on our Website;
   * purchase our merchandise;
   * subscribe to our newsletters or other information feeds;
@@ -47,9 +47,11 @@ We receive and store any information you give to us, such as when you:
 
 We receive and store certain types of information automatically when you interact with us, such as:
 
-  * information about how you use our Services. We use this information to design new Services, improve our games, provide social features and to deliver our Services to you.
-  * when you sign-in to our games with Facebook, Google+, Twitter or other platform providers, we gather from that provider your basic profile information such as name, gender, age-range, your profile photo and friends list;
-  * information about the device you use to access our Services such as its model, operating system, platform, language and other technical information such as cookies. You can disable cookies through your web or phone browser settings but you may find that you are not able to enjoy all of the features of our Services if you do so;
+  * information about how you use our Services. We use this information to design new Services, improve our games, provide social features and to deliver our Services to you;
+  * when you sign-in to our games with Facebook, Google+, Twitter, Game Center or other platform providers, we gather from that provider your basic profile information such as name, gender, age-range, your profile photo and friends list;
+  * information about the device you use to access our Services such as its make & model, operating system version, platform, language and IP address;
+  * cookies: You can disable cookies through your web or phone browser settings but you may find that you are not able to enjoy all of the features of our Services if you do so;
+  * the advertising ID for your device. You can reset the advertising ID at any time through your device settings.
   * your general location location (ie. city/country) based on your IP Address, so we know what language to use and so that we can provide Services that are applicable to your location; and
   * if you "tell a friend," "email this page," or use another similar features, we will collect information to perform this feature for you.
 
@@ -57,11 +59,11 @@ We receive and store certain types of information automatically when you interac
 
 ### 1.3 Information From Third Parties
 
-Sometimes we collect information about you from third parties, such as [Apple, Inc](http://www.apple.com/ "Apple website"), [Facebook](https://www.facebook.com/ "Facebook website"), or [Google, Inc](http://www.google.com/about/ "About Google"). We collect this information so that we can deliver services to you that you have requested. We collect this information:
+Sometimes we collect information about you from third parties, such as [Apple](http://www.apple.com/ "Apple website"), [Amazon](http://www.amazon.com/), [Facebook](https://www.facebook.com/ "Facebook website"), or [Google](http://www.google.com/about/ "About Google"). We collect this information so that we can deliver Services you have requested. We collect this information:
 
-  * when you purchase our Services via the App Store, or Google Play Store, or other Storefront. We receive information about you such as the country you are in;
-  * if you log into our Services through a social media account (such as [Facebook](http://www.facebook.com/)) we will collect your basic profile information such as your current profile picture and your friend list, this lets you interact with your friends who are also using our Services; and
-  * when you use in-app features such Game Center we will collect information such as your user name.
+  * when you purchase our Services via the App Store, Google Play Store, or other Storefront;
+  * if you log into our Services through a social media account (such as [Facebook](http://www.facebook.com/)) we will collect your basic profile information such as your name, current profile picture, age-range, and your friend list, this lets you interact with your friends who are also using our Services; and
+  * when you use in-app features such Game Center we will collect information such as your user name and your gameplay information.
 
 
 
@@ -75,18 +77,20 @@ We use the information we collect about you:
   * to offer our Services to you and to tell you about new Service offerings, updates and other information about our Services that might be relevant to you;
   * to advertise our Services to you;
   * to deliver advertisements for third party products and services to you;
-  * to provide multiplayer gaming, social networking and gaming console services to you. To do this we will exchange your information with third parties (such as Facebook, Google+ or Game Center) for the purpose of delivering these Services; and
-  * to perform our own analytics. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving products and services, personalizing content, providing advertising, and making recommendations.
+  * to provide multiplayer gaming, social networking and gaming console services to you. To do this we will exchange your information with third parties (such as Facebook, Google+ or Game Center) for the purpose of delivering these Services;
+  * to perform our own analytics. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving products and services, personalizing content, providing advertising, and making recommendations; and
   * to verify your compliance with our Terms of Service.
 
 
+
+We may combine information about you that we have collected from multiple sources. 
 
 ### 2.1 When Do We Disclose Information
 
 We may disclose the personal information we hold about you in the following circumstances:
 
   * if we are required or authorised to disclose by law or by a law enforcement agency;
-  * to our business partners in the course of providing our Services to you, or generally in the conduct of our business. This may include organisations who provide services to us, such as payment processors or hosting services. Please see below for more information about third party services; and
+  * to our business partners in the course of providing our Services to you, or generally in the conduct of our business. This may include organisations who provide services to us, such as advertising, payment processors or hosting services. Please see below for more information about third party services; and
   * to avoid, lessen or prevent a serious emergency or crime. If we use or disclose personal information about you in those circumstances we will make a written record of such use or disclosure.
 
 
@@ -111,14 +115,23 @@ We also work with certain business partners, such as other game developers and a
 
 Some of our business partners are outside Australia. Below is a list of some, but not all, business partners that we actively share user information and site usage data with (this list is subject to change):
 
-  * **Vostu**. Developers of Top Farm, and located in Argentina and the United States. [Read their Privacy Policy](http://www.vostu.com/en/#politic_modal "Link to Vostu's Privacy Policy");
+  * **AppLovin.** Located in United States. [Read their Privacy Policy](https://www.applovin.com/privacy);
+  * Campaign Monitor. Based in Australia with servers in United States. [Read their Privacy Policy](http://www.campaignmonitor.com/privacy/);
+  * Chartboost. Located in United States. [Read their Privacy Policy](https://answers.chartboost.com/hc/en-us/articles/200780269-Privacy-Policy);
+  *  **Citrus Joy**. Developers of Yes Chef!, and located in China. [Click here for more information;](http://yeschefgame.com/ "Link to Yes Chef's homepage")
+  *  **Enfeel**. Developers of Birzzle, and located in South Korea. [Read their Privacy Policy;](http://www.enfeel.com/pp.html "Link to Enfeel's Privacy Policy")
+  * HeyZap. Located in the United States. [Read their Privacy Policy](https://www.heyzap.com/legal/privacy);
+  * MediaBrix. Located in United States and the United Kingdom. [Read their Privacy Policy](http://mediabrix.com/ad-services-privacy-policy/);
+  *  **MoPub**. Located in United States. [Read their Privacy Policy;](http://www.mopub.com/legal/privacy/ "Link to MoPub's Privacy Policy")
+  *  **MPForce**. Developers of Top Farm, and located in Argentina and the United States. [Read their Privacy Policy](http://www.mpforce.com/en/#/home "Link to Vostu's Privacy Policy");
   * **Other Levels**. Located in United States and Australia. [Read their Privacy Policy](http://ol-p-manager.s3.amazonaws.com/documents/19/OtherLevels_Privacy_Policy_v1.0.pdf "Link to Other Levels' Privacy Policy");
+  * UnityAds. Headquartered in the United States with offices throughout the Americas, Asia and Europe. [Read their Privacy Policy](https://unity3d.com/legal/privacy-policy);
   * **Upsight**. Located in United States, United Kingdom and Canada. [Read their Privacy Policy](http://www.upsight.com/pricing/privacy-policy/ "Link to Upsight's Privacy Policy"); and
-  * **Campaign Monitor**. Based in Australia with servers in United States. [Read their Privacy Policy](http://www.campaignmonitor.com/privacy/ "Link to Campaign Monitor's Privacy Policy")
-  * **MoPub**. Located in United States. [Read their Privacy Policy](http://www.mopub.com/legal/privacy/ "Link to MoPub's Privacy Policy")
-  * **Vungle**. Located in United States, United Kingdom, Germany and China. [Read their Privacy Policy](http://www.vungle.com/privacy/ "Link to Vungle's Privacy Policy")
-  * **Enfeel**. Developers of Birzzle, and located in South Korea. [Read their Privacy Policy](http://www.enfeel.com/pp.html "Link to Enfeel's Privacy Policy")
-  * **Citrus Joy**. Developers of Yes Chef!, and located in China. [Click here for more information](http://yeschefgame.com/ "Link to Yes Chef's homepage")
+  *  **Vungle**. Located in United States, United Kingdom, Germany and China. [Read their Privacy Policy.](http://www.vungle.com/privacy/ "Link to Vungle's Privacy Policy")
+  * **  
+**
+  * **  
+**
 
 
 
@@ -138,12 +151,12 @@ Ways to opt-out of our Services:
 
   * if we send you an email, there will be an unsubscribe link;
   * if we post updates via [Facebook](http://www.facebook.com/) you can 'unlike' our page and you will no longer get updates;
-  * if you receive one of our tweets you can stop following us on [Twitter](http://twitter.com/); or
+  * if you receive one of our 'tweets' you can stop following us on [Twitter](http://twitter.com/); or
   * if we use another type of social media you can opt-out using that service.
 
 
 
-If you need help opting-out please contact us at [support@halfbrick.com](mailto:support@halfbrick.com).
+If you need help opting-out please contact us at [support@halfbrick.com](mailto:support@halfbrick.com)
 
 ### 2.5 Storage & Security
 
@@ -180,42 +193,28 @@ Our Privacy Officer will respond to your complaint within a reasonable time afte
 
 We will update this Privacy Policy from time to time. These updates, will take effect from the date of issue on our website at [halfbrick.com](http://halfbrick.com/). Please check back regularly for updates.
 
-## 5\. Addendum: Definitions
+## 5. Definitions
 
 Advertising ID
-    A unique ID that is generated for your device to track activity by advertising companies to improve their service in game. This is also known as Interest Based Advertising. You may be able to opt-out of this feature on some platforms.
+    A unique ID that is generated for your device to track activity by advertising companies to improve their service in game. This is also known as Interest Based Advertising. You may be able to opt-out of this feature on some platforms. You may also be able to reset your advertising ID on your device.
 analytics
     Interpretation and interpolation of unidentified data to predict and isolate trends relating to game play and app use.
 Child Safe App
     Fruit Ninja Academy: Math Master
-Device ID
-    A unique identifier which is randomly generated by your device.
-disable
-    Remove and further restrict access provided by our Services by actioning the specific request.
-Game Center
-    A central game hub that retains information regarding game play statistics that is openly shared with the user. This includes high scores, global leader boards, friend’s lists and in-game achievements.
 in-app purchase
     An in-game system that allows exchanging real money for virtual goods or in-game currency.
 IP Address (Internet Protocol Address)
     A unique string of numbers separated by full stops or commas that identifies each computer using the Internet Protocol to communicate over a network. These numbers are usually assigned in geographic blocks.
 Halfbrick ("us")
     Halfbrick Studios Pty Ltd ACN 109 693 227 its assignees, licensees, successors in title and subsidiaries.
-Media Access Control (MAC) address
-    Is a unique identifier assigned to network interfaces for communications on the physical network layer.
 Services
     Services offered by us and includes our games, websites and related services.
-stop following
-    An action provided by Twitter and Facebook that allows a user to remove their name from a persons follower list. As a result, the user will not receive further communication or further tweets from the person they have stopped following.
 Storefront
-    An online business presence for sales. We work with the Apple App Store and Google Play storefronts as their primary storefront for sales but our games are also available on Amazon App Store and Windows Phone Store, among others.
+    An online business presence for sales. We work with Apple's App Store, Google Play and Amazon Appstore storefronts as our primary storefronts for sales but our games are also available on Windows Store, Xbox Marketplace and many others.
 Terms of Service
     Rules and conduct standards that are defined that one must comply with to use the service.
 third party services
-    Services provided by a provider that is not owned or controlled by [Halfbrick](http://halfbrick.com/pp)
-tweets
-    Text based comments provided by users on the [Twitter](http://twitter.com/) platform
-unlike
-    By clicking 'unlike' on [Facebook](http://www.facebook.com/) you are removing your connection with the business, brand or product's page that you had previously liked, you will no longer receive updates from that page and your name will be removed from their list of likes.
+    Services provided by a provider that is not owned or controlled by [Halfbrick.](http://halfbrick.com/pp)
   
 
 
