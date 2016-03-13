@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the appointmentcore.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211112623id_/http%3A//www.appointmentcore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentcore.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313074821id_/https%3A//www.appointmentcore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppointmentCore
 
 Our Sites also contain links to third party sites that are not owned or controlled by Company. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave the Sites and to read the privacy statements of each and every website that collects personally identifiable information. 
 
-  * **No Information From Children Under Age 13.**  If you are under the age of 13, please do not attempt to register with us at the Sites or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will delete that information. If you believe we might have any information from a child under the age of 13, please [Contact Us](http://morriscore.com/contact) or call us at 1.800.892.2491.
-  * **Terms of Use.**  Please note that your use of our Sites is also subject to our [Terms of Use](http://morriscore.com/terms).
+  * **No Information From Children Under Age 13.**  If you are under the age of 13, please do not attempt to register with us at the Sites or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will delete that information. If you believe we might have any information from a child under the age of 13, please [Contact Us](https://web.archive.org/contact-us/) or call us at 1.866.551.2372.
+  * **Terms of Use.**  Please note that your use of our Sites is also subject to our [Terms of Use](https://web.archive.org/terms/).
 
 
 
@@ -32,7 +32,7 @@ Our Sites also contain links to third party sites that are not owned or controll
 
 ## Access to Your Information and Choices
 
-  1. If you have questions about personal information we have about you or need to update your information, you can [Contact Us](http://morriscore.com/contact) or call us at 1.800.892.2491. You can opt-out of receiving marketing and promotional e-mails from Company using the “My Account” page, and by using the opt-out or unsubscribe feature contained in the e-mails.
+  1. If you have questions about personal information we have about you or need to update your information, you can [Contact Us](https://web.archive.org/contact-us/) or call us at 1.866.551.2372. You can opt-out of receiving marketing and promotional e-mails from Company using the “My Account” page, and by using the opt-out or unsubscribe feature contained in the e-mails.
   2. If you close your account, we will no longer use your online account information or share it with third parties. We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud.
 
 
@@ -47,7 +47,7 @@ If we decide to change our Privacy Policy, we will post those changes to the Pri
 
 ## Questions / Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](http://morriscore.com/contact) or call us at 1.800.892.2491. You may also contact us by mail at the following address:  
-Apollo Scheduling, Inc.  
-6103A Shadow Valley Drive  
-Austin, TX 78731
+If you have any questions or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](https://web.archive.org/contact-us/) or call us at 1.866.551.2372. You may also contact us by mail at the following address:  
+AppointmentCore  
+2673 E Atlantic Blvd #18940  
+Pompano Beach, FL 33062
