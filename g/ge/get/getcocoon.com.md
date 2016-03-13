@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcocoon.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910094005id_/https%3A//getcocoon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcocoon.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313073350id_/https%3A//getcocoon.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cocoon
 
@@ -12,7 +12,7 @@ Your personal information:
 Inside Cocoon we do not use cookies or track your browsing history. We do not share your information with any third-parties nor do we allow third-parities to place their tracking technologies within the Cocoon service. 
 
 Advertising within Cocoon:  
-To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads that are shown in Cocoon may be based on the page that you are currently visiting but not on your browsing history, cookies or past behavior. If you do not want your non-personal URL information to be used, then you can subscribe to the Cocoon+ product at [https:getcocoon.com/plans](https://getcocoon.com/plans).
+To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads that are shown in Cocoon may be based on the page that you are currently visiting but not on your browsing history, cookies or past behavior. If you do not want your non-personal URL information to be used, then you can subscribe to the Cocoon+ product at [getcocoon.com/plans](https://getcocoon.com/plans).
 
 If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
 
@@ -27,4 +27,4 @@ Virtual World Computing
 Santa Barbara, CA 93111  
 
 
-[Email](mailto:info@getcocoon.com?subject=Cocoon%20Privacy%20Policy "Click to email us")
+[Email](https://support.getcocoon.com/hc/en-us/requests/new)
