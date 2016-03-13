@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-site-list.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217054851id_/http%3A//www.top-site-list.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-site-list.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313135856id_/http%3A//www.top-site-list.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Site List Planet
 
@@ -34,11 +34,11 @@ Pick a unique URL: top-site-list.com/your-name. Add a custom logo and background
 
 ## Hosting Stats
 
-3,704 Top Site Lists  
-240,059 Members  
-994,203 Listed Websites  
-307,953,288 Total Votes  
-541,346,229 Total Hits  
+3,768 Top Site Lists  
+240,971 Members  
+998,919 Listed Websites  
+309,018,825 Total Votes  
+543,123,144 Total Hits  
 
 
 [__See The Top 100 Lists](https://web.archive.org/top-100)
