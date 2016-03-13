@@ -1,53 +1,161 @@
-> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206203755id_/http%3A//www.coursehero.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313221921id_/https%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
 
-# Course Hero | Privacy Policy
+# Course Hero - Privacy Policy
 
-Course Hero's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Course Hero located at www.CourseHero.com (the "Website").
+__ Last updated August 26, 2015
 
-By using or accessing the Website, you are accepting the practices described in this Privacy Policy.
+This Privacy Policy applies to [www.CourseHero.com](https://web.archive.org/) owned and operated by Course Hero, Inc. Course Hero's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Course Hero located at [www.CourseHero.com](https://web.archive.org/) (the "Website"). 
 
-### Information We Collect
+By using or accessing the Website, you are accepting the practices described in this Privacy Policy. 
 
-When you visit the Website you provide us with two types of information: (i) personal information you knowingly choose to disclose that is collected by us and (ii) use information collected by us as you interact with the Website.
+Course Hero has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through www.CourseHero.com and does not cover information that may be collected through downloadable software. 
 
-When you register with the Website, you provide us with certain personal information, such as your name, your email address, your school, your status, your major, your graduation year, and any other personal or preference information that you provide to us.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
-When you enter the Website, the Website collects your browser type and IP address. This information is gathered for all Website visitors. In addition, the Website stores certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. The Website uses session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, the Website uses a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to the Website. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.
+####  Information We Collect
 
-You post Content (as defined in the Course Hero Terms of Use) on the Website at your own risk. The Website cannot control the actions of other Users with whom you may choose to share your information. Therefore, the Website cannot and does not guarantee that Content you post on the Website will not be viewed by unauthorized persons. The Website is not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other Users have copied or stored your Content.
+When you visit the Website you provide us with two types of information: (i) personal information you knowingly choose to disclose that is collected by us and (ii) use information collected by us as you interact with the Website. 
 
-Any improper collection or misuse of information provided on the Website is a violation of the Website Terms of Use and should be reported to privacy@CourseHero.com.
+When you register with the Website, you provide us with certain personal information, such as your name, your email address, your school, your status, your major, your graduation year, as well as sensitive information such as credit card information and any other personal or preference information that you provide to us. 
 
-By using the Website, you are consenting to have your personal data transferred to and processed in the United States.
+####  Tracking Technologies
 
-### Use of Information Obtained by the Website
+Technologies such as: cookies, beacons, tags and scripts are used by the Website and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-When you register with the Website, you create your own account. Your username and email will be attached to material you upload on the Website. The Website will not provide any of your other personal information to third parties.
+Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited. 
 
-When you select the "I accept Course Hero's Terms of Service" option on the Create Account page, the Website will periodically email your Facebook friends certain information regarding your Website actions. If you wish to deactivate these email notifications, email support@coursehero.com and request that Course Hero deactivate your account.
+####  Log Files
 
-When you disclose your Facebook account email address and password to the Website on the Invite Friends page, the Website will only use such information to (i) add you to the Facebook group named "Course Hero Inc." and (ii) invite your Facebook friends to join the Facebook group named "Course Hero Inc." All such Facebook transmissions using your Facebook password are automatically performed over a secure, encrypted connection. The Website does not store your Facebook password.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or Website functionality. 
 
-### Links
+####  Behavioral Targeting / Re-Targeting
 
-The Website may contain links to other websites. The Website is of course not responsible for the privacy practices of other websites. The Website encourages Users to be aware when they leave the Website to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Website.
+We partner with a third party to either display advertising on our Website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
 
-### Third Party Advertising
+####  Local Storage Objects (HTML5)
 
-Advertisements that appear on the Website are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. The Website does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Website unless you choose to share it with them.
+Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. 
 
-This privacy policy covers the use of cookies by the Website and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
-### Changing or Removing Information
+####  Use of Information Obtained by the Website
 
-Users may modify or remove any of their account information at any time by logging into the My Account page. Information will be updated immediately. Individuals who wish to deactivate their Website account may do so on the My Account page.
+We use this information to: 
 
-### Protecting Information
+  * Fulfill your order 
+  * Send you an order confirmation 
+  * Assess the needs of your business to determine suitable products 
+  * Send you requested product or service information 
+  * Send product updates or warranty information 
+  * Respond to customer service requests 
+  * Administer your account 
+  * Send you periodical email newsletters about joint ventures, significant updates to the Website or marketing communications 
+  * Send you marketing communications 
+
+
+  * Administer contests and sweepstakes you entered, and notify you if you won 
+  * Respond to your questions and concerns 
+  * Improve our Website and marketing efforts 
+  * Conduct research and analysis 
+  * Display content based upon your interests 
+  * Facilitate your transactions with other users 
+  * Enable you to post your resume, search job postings, and contact or be contacted by prospective employers 
+  * List you in our member directory made available only to other members 
+  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). 
+
+
+
+####  Choice/Opt-Out
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). 
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. 
+
+When you register with the Website, you create your own account. Your username and email will be attached to material you upload on the Website. The Website will not provide any of your other personal information to third parties. 
+
+When you disclose your Facebook account email address and password to the Website on the Invite Friends page, the Website will only use such information to (i) add you to the Facebook group named "Course Hero Inc." and (ii) invite your Facebook friends to join the Facebook group named "Course Hero Inc." All such Facebook transmissions using your Facebook password are automatically performed over a secure, encrypted connection. The Website does not store your Facebook password. 
+
+####  Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell, share, rent or trade your personal information to third parties for their promotional purposes. 
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+
+We may also disclose your personal information 
+
+  * as required by law such as to comply with a subpoena, or similar legal process; 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; 
+
+
+  * if Course Hero is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership; or 
+  * to any other third party with your prior consent to do so. 
+
+
+
+We may share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). 
+
+We make your contact information available to other users that you transact with on this Website to help complete the transaction. 
+
+####  Links
+
+The Website may contain links to other websites. The Website is of course not responsible for the privacy practices of other websites. The Website encourages users to be aware when they leave the Website to read the privacy policy of each and every website that collects personal information. This Privacy Policy applies solely to information collected by the Website. 
+
+####  Blog
+
+Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+####  Changing or Removing Information
+
+Users may modify, delete or remove any of their account information at any time by logging into the My Account page. Information will be updated immediately. Individuals who wish to deactivate their Website account may do so on the My Account page. 
+
+####  Protecting Information and Security
 
 The Website takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, the Website requests that you not send private information to us by email. 
 
-### Terms of Use, Notices and Revisions
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-If you choose to visit the Website, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of, and application of law of the state of California. The Website reserves the right to change the Privacy Policy and the Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the Website. If the Website makes changes, the Website will post them and will indicate at the bottom of this page the policy's effective date. The Website therefore encourages you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, the Website's current privacy policy applies to all information that the Website has about you and your account.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). 
 
-Updated: January 18, 2008
+####  Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+####  Referrals
+
+If you choose to use our referral service to tell a friend about our Website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. Course Hero stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+
+Your friend may contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com) to request that we remove this information from our database. 
+
+####  Social Media Widgets
+
+Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our Website. These Features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+####  Single Sign On
+
+You can log in to our Website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Website to your profile page to share with others within your network. 
+
+####  Public Profile
+
+The profile you create on our Website will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. If you wish to request removal of your information from our directory, you can contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). 
+
+####  Unauthorized Profile
+
+To remove unauthorized profiles, please send an email to [privacy@coursehero.com](mailto:privacy@coursehero.com). 
+
+####  Changes in this Privacy Policy
+
+If we decide to change our Privacy Policy, we will alert you to changes by email and/or by placing a notice on our home page and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. 
+
+####  Age restriction
+
+If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Course Hero learns that personal information of persons under 13 years of age has been collected through the Website, then Course Hero will take the appropriate steps to delete this information. 
+
+####  Contact Us
+
+Course Hero, Inc.  
+1400B Seaport Blvd.  
+Redwood City, CA 94063  
+866-634-9397  
+support@coursehero.com 
