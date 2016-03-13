@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065919id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313142638id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # Recipelink.com Privacy Policy
 
@@ -149,39 +149,6 @@ please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
   * Third Party Cookies
   * In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. The Kitchen Link, Inc. is not responsible for the policies or content of sites we link to.  
 We caution you not to disclose e-mail addresses or personal information about yourself or anyone else to visitors on our site. We cannot guarantee the security of any information you disclose online and you do so at your own risk. By using this site, you signify your assent to the Recipelink.com Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of Recipelink.com following the posting of changes to these terms will mean you accept those changes. Revision: June 2009 Thank you.
-
-
-
-Latest Recipes Posted
-
-  * [Dilly Tuna-Zucchini Patties (or salmon patties, broiled)](https://web.archive.org/msgbrd/board_31/2015/SEP/58576.html)
-  * [Calabacitas (squash, corn, chiles and cheese, baked)](https://web.archive.org/msgbrd/board_3/2015/SEP/13043.html)
-  * [Zucchini Parmesan (serves 2)](https://web.archive.org/msgbrd/board_16/2015/SEP/1636.html)
-  * [Baked Zucchini Casserole (using ground beef, peppers and onions)](https://web.archive.org/msgbrd/board_31/2015/SEP/58575.html)
-  * [Vegetable Garden Loaf (no meat, using zucchini, carrots, oats, and cheese)](https://web.archive.org/msgbrd/board_6/2015/SEP/2745.html)
-  * [Fruited Perfection Salad (using Jell-O, pineapple, cabbage and nuts)](https://web.archive.org/msgbrd/board_1/2015/SEP/11272.html)
-  * [Tequila Lime Ice with Shrimp (Sunset magazine, 1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11271.html)
-  * [Shrimp Cocktail Mazatlan-Style (1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11270.html)
-  * [Ceviche (LA Times, 1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11269.html)
-  * [Shrimp Salad Guadalajara with Jalapeno Dressing (with onion, peppers, tomatoes and olives)](https://web.archive.org/msgbrd/board_39/2015/SEP/1285.html)
-  * [Mandarin Barbecued Pork (marinated and roasted, coated with warm honey)](https://web.archive.org/msgbrd/board_31/2015/SEP/58574.html)
-  * [Classic Diner Reuben Sandwiches (grilled)](https://web.archive.org/msgbrd/board_23/2015/SEP/741.html)
-  * [Classic Sweet and Sour Meatballs (using pineapple and bell pepper, 1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11268.html)
-  * [Gingerbread People Cookies (using honey, Arrowhead Mills recipe)](https://web.archive.org/msgbrd/board_2/2015/SEP/26622.html)
-  * [Corn Cups for Chili (mini-size, using cornmeal and cream cheese)](https://web.archive.org/msgbrd/board_31/2015/SEP/58573.html)
-  * [Dinah Shore's Cioppino (make ahead, 1970's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11267.html)
-  * [Mussel, Shrimp and Roasted Red Pepper Paella](https://web.archive.org/msgbrd/board_31/2015/SEP/58571.html)
-  * [Easy Chocolate Delight Pie (using cream cheese, freeze ahead)](https://web.archive.org/msgbrd/board_31/2015/SEP/58572.html)
-  * [The Ultimate Bran Muffins with Variations](https://web.archive.org/msgbrd/board_2/2015/SEP/26621.html)
-  * [Turtle Pecan Pie with Chocolate Crust (using ice cream, no bake)](https://web.archive.org/msgbrd/board_31/2015/SEP/58570.html)
-
-
-
-What's Cooking
-
-  * [](https://web.archive.org/msgbrd/board_31/2015/JAN/57556.html)
-  * [Can-Do Veggie Burger Chili](https://web.archive.org/msgbrd/board_31/2015/JAN/57556.html)
-  * "A can of this and a can of that, combined with crumbled veggie burgers, make this easy chili a favorite with college students." - From: The Vegetarian Chili Cookbook
 
 
 
