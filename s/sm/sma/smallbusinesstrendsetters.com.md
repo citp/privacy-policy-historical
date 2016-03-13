@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusinesstrendsetters.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223075017id_/http%3A//onlinelegalpages.com/backend/l%3Fq%3Ds5rbNU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinesstrendsetters.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313111012id_/http%3A//onlinelegalpages.com/backend/l%3Fq%3Ds5rbNU) for the most accurate reproduction.*
 
 # Online Legal Pages
 
@@ -6,7 +6,7 @@
 
 ### Effective: April 22, 2014
 
-To view previous versions click [here](http://onlinelegalpages.com/backend/o?q=s5rbNU).
+To view previous versions click [here](http://onlinelegalpages.com/backend/o?q=s5rbnu).
 
 The following describes the Privacy Policy for _SmallBusinessTrendsetters.com_.
 
