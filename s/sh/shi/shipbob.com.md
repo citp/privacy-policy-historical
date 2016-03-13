@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shipbob.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319192509id_/http%3A//www.shipbob.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipbob.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313233557id_/http%3A//www.shipbob.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# 'ShipBob | Chicago - Forget Going To FedEx, UPS or USPS
+# ShipBob | Chicago - Forget Going To FedEx, UPS or USPS
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.shipbob.com and ShipBob,Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to ShipBob,Inc. include www.shipbob.com and ShipBob. The ShipBob website is a Packing and Shipping Services site. By using the ShipBob website, you consent to the data practices described in this statement.
 
