@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 7red.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816103353id_/http%3A//www.7red.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7red.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313151639id_/https%3A//www.7red.com/privacy) for the most accurate reproduction.*
 
 # 7Red.com Casino - Privacy Statement
 
 ## 1\. Personal information being collected
 
-When you create an account and browse / perform a gaming action on the site www.7red.com, 7Red will collect personal data about you. The responsible party for the collection of those data is the company Red Trading Curaçao NV, a company registered in Curaçao, whose office is located at Schottegatweg, Oost 10, Unit A1K, Willemstad, Curacao - Co, hereafter known as “7Red”. The responsible party can be contacted by phone at 00 356 22 76 67 81.
+When you create an account and browse / perform a gaming action on the site www.7red.com, 7Red will collect personal data about you. The responsible party for the collection of those data is the company 7Red registered in Curacao, and its offices are located at Dr Hugenholtzset z/n UTS Building, DSF Curacao and can be contacted by phone at 00 356 22 76 67 81.
 
 “Personal data” refers to any data that identifies an individual including name, phone number, date of birth, email address, postal address and any other information that you choose to communicate to 7Red about yourself. Data collection is performed in accordance with both the Electronic Communications Privacy Directive (EC Directive/2002/58/EC) and the Curaçaoan Personal Data Protection Act (PDPA). To fight against fraud, 7Red is also likely to retain information relating to transactions on the site, including a truncated portion of credit card numbers used for such transactions as well as the expiry date.
 
