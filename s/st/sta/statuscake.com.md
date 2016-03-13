@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the statuscake.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912140425id_/https%3A//www.statuscake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statuscake.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313050058id_/https%3A//www.statuscake.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | StatusCake
+# Privacy Policy – StatusCake – Website Monitoring
 
 **StatusCake.com – Privacy Policy**
 
-****The following provides you with all you need to know about our Privacy Policy. At StatusCake.com we take your privacy extremely seriously; and we will only use the Personal Information that we collect from you in accordance with our Privacy Policy.
+The following provides you with all you need to know about our Privacy Policy. At StatusCake.com we take your privacy extremely seriously; and we will only use the Personal Information that we collect from you in accordance with our Privacy Policy.
 
 **StatusCake.com – Who Are We?**
 
-****“ **StatusCake.com** ”, “ **StatusCake** “, “ **Us** ”, “ **us** ”, “ **We** ” or “ **we** ” means the StatusCake website monitoring service (along with other ancillary services) provided by and operated by TrafficCake Limited along with Statuscake.com, TrafficCake.com, AlerterCake.com and SnippetCake.com  (collectively and singularly referred to as the “ **TrafficCake Websites** ”).
+“ **StatusCake.com** ”, “ **StatusCake** “, “ **Us** ”, “ **us** ”, “ **We** ” or “ **we** ” means the StatusCake website monitoring service (along with other ancillary services) provided by and operated by TrafficCake Limited along with Statuscake.com, TrafficCake.com, AlerterCake.com and SnippetCake.com  (collectively and singularly referred to as the “ **TrafficCake Websites** ”).
 
 TrafficCake Limited is a company registered in England and Wales (Company No. 08250233) and whose registered address is 60 Pretoria Avenue, London, England, United Kingdom.
 
@@ -42,7 +42,7 @@ This allows us to automatically bill Your Card on a recurring basis, whether mon
 
 **How Do We Collect Information About You?**
 
-****There are several ways in which you may provide us with Personal Information, including by way of example only, and without limitation, when you register for TrafficCake Services, when you fill in customer surveys, when you fill in your details to request more information or when you when you contact us to make enquiries about TrafficCake Services and our other products and/or services.
+There are several ways in which you may provide us with Personal Information, including by way of example only, and without limitation, when you register for TrafficCake Services, when you fill in customer surveys, when you fill in your details to request more information or when you when you contact us to make enquiries about TrafficCake Services and our other products and/or services.
 
 We may also collect information about you by analysis of customer traffic, which may or may not include the use of Cookies.
 
@@ -56,7 +56,7 @@ We may also use your Personal Information to amongst other things: (a) to person
 
 **How Long Do We Keep Your Information?**
 
-****The length of time we keep your Information will depend on both the nature of the Information we have gathered and the use we make of that Information.
+The length of time we keep your Information will depend on both the nature of the Information we have gathered and the use we make of that Information.
 
 Unless we are required by law to keep your Information for a certain amount of time, we will not ordinarily keep your Information for any longer than is necessary, given the purpose for which that Information was collected by us.
 
@@ -76,7 +76,7 @@ At TrafifcCake we may use Google Analytics (or other similar products and/or too
 
 **What is a Cookie?**
 
-****A cookie is a small text file, which is unique to you and allows the TrafficCake Websites to recognise your computer or any such other device which you may use from time-to-time for browsing the Internet (collectively “ **Your Computer** ”).
+A cookie is a small text file, which is unique to you and allows the TrafficCake Websites to recognise your computer or any such other device which you may use from time-to-time for browsing the Internet (collectively “ **Your Computer** ”).
 
 We may use cookies and other “tags” (sometimes referred to as “ **web-beacons** ” or “ **pixel-tags** ”) (collectively “ **Cookie(s)** ”) to provide you with a more personalised service on the TrafficCake Websites or to aid or track your navigation around our website.
 
