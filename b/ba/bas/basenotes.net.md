@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912002628id_/http%3A//www.basenotes.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313230032id_/http%3A//www.basenotes.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy — Basenotes.net
 
-**Basenotes  **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Basenotes ](http://www.basenotes.net/)
+**Basenotes  **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Basenotes](http://www.basenotes.net/), owned by Grant Osborne.
 
 ## Information Automatically Logged 
 
@@ -42,6 +42,12 @@ Contact information from the contests is used to send prizes, information about 
 
 Users may opt-out of receiving future mailings.
 
+## Your Personal Data
+
+We will not sell, trade or rent your personal data (such as email address, mailing address) to third parties, unless explicitly agreed before hand. We may share non-personal data with third parties and may publicly display aggregate or anonymous information.
+
+We may share your personal data with companies who are acting on our behalf, such as in processing payments or sending email via an external mailing list provider.
+
 ## External Links 
 
 This site contains links to other sites.  **Basenotes  **is not responsible for the privacy practices or the content of such Web sites. 
@@ -53,5 +59,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ## Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](http://www.basenotes.net/sendmessage.php).
+
+Grant Osborne, owner, Basenotes
 
 Updated 15th October 2013  
