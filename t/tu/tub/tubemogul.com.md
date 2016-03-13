@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912035656id_/https%3A//www.tubemogul.com/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313133835id_/https%3A//www.tubemogul.com/compliance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TubeMogul
 
-**Last updated on August 13, 2015**
+**Last updated on December 23, 2015**
 
 TubeMogul provides a platform that is designed to help advertisers place advertisements into videos and other content that you access while online or using mobile applications (apps). Our advertising platform integrates real-time media buying, ad serving, targeting, optimization and measurement to help our clients simplify the delivery and maximize the impact of their advertisements. If you have any questions about this privacy policy, please contact us at [legal@tubemogul.com](mailto:legal@tubemogul.com). 
 
@@ -11,6 +11,14 @@ TubeMogul participates in the following industry self-regulatory organizations a
 ### Ad Targeting and Opt-out
 
 TubeMogul’s advertising platform is designed to value and place bids on individual ad impressions across major inventory suppliers, exchanges, digital publisher sites. We provide ad delivery and reporting for our clients, and we enable our clients to use data segments based on their own proprietary non-personally identifiable information (“Non-PII”) regarding you and other web users, as well as Non-PII data segments supplied by third-party data companies, to help ensure that the ads delivered to you via our platform our relevant to your interests. We describe this process in more detail below under the section entitled “Information Collected and Used by the TubeMogul advertising platform.” If you prefer not to receive targeted ads in your web browser via our platform as described above you can opt out by clicking the link below: 
+
+[](http://www.tubemogul.com/public/set_opt_out_cookie)
+
+You may also opt out of receiving targeted ads on devices such as iPhones, iPads, or phones and tablets using the Android operating system, by using platform level controls enabled through your device settings. You should consult your device settings and instructions provided by your device manufacturer, however we provide the following information solely for informational purposes. 
+
+If you have an Apple device, you can opt out of targeted advertising by updating to iOS 6.0 or higher, and setting “Limit Ad Tracking” to “ON”. You can do this by clicking on Settings -> General -> About -> Advertising and toggling “Limit Ad Tracking” to “ON”. Again, you should consult Apple’s support web pages and instructions for the most current applicable settings. 
+
+If you have an Android device and would like to opt out of our behaviorally targeted advertising services, you may open the Settings app on your device, then select “Accounts” and locate and select the “Google” listing, then select “Ads” and check the box “Opt out of interest-based ads”. Again, however, please consult Google’s settings and instructions for the most current settings information. 
 
 Note that opting out will not prevent you from seeing ads – it will only make ads being served by TubeMogul’s advertising platform less relevant to your interests. Also, if you opt out and later delete your cookies, use a different browser or buy a new computer, you will need to renew your opt-out choice. Additionally, you may [click here](http://www.networkadvertising.org/choices/) to access the opt out page maintained by the NAI, you may [click here](http://www.youronlinechoices.com/uk/your-ad-choices) to access the opt out page maintained by the eDAA, and you may [click here](http://www.youradchoices.ca/choices) to access the opt out page maintained by the DAAC, each of which provides additional information and a mechanism to opt out of interest based advertising from some or all member companies of each organization. 
 
