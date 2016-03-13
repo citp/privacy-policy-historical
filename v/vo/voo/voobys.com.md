@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voobys.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130001646id_/http%3A//www.voobys.com/v/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voobys.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313144504id_/http%3A//www.voobys.com/v/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy voobys.com
 
