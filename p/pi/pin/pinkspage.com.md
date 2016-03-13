@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkspage.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229143321id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkspage.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313213911id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sony Music
 
@@ -72,6 +72,8 @@ We or one of our trusted partners may use this information to:
 
 
 
+To help protect you and others, we monitor use of the Sites, and we use the information we collect, including personal information, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Sites; ensure compliance with the applicable terms of service and this privacy policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of Sony Music, its partners, and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through the Sites. If you do not consent to these conditions, you must discontinue your use of the Sites.
+
 We also automatically collect information about your computer as you browse our Site(s).  Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services.  We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
 **Social Networks/Online Communities**
@@ -141,7 +143,7 @@ Widgets – Our Site(s) may include interactive mini-programs that provide speci
 
 Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
 
-Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://www.sonymusic.com/about/feedback.php) immediately and this information will be removed.
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://sonymusiccom.sme.devel.i.smehost.net/about/feedback.php) immediately and this information will be removed.
 
 For more information on how to protect your children online:
 
@@ -163,6 +165,6 @@ Sony Music Entertainment 550 Madison Avenue, Room 2316
 
 New York, NY 10022
 
-Or you can [click here](http://www.sonymusic.com/about/feedback.php) to submit feedback online.
+Or you can [click here](http://sonymusiccom.sme.devel.i.smehost.net/about/feedback.php) to submit feedback online.
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications.
