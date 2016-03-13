@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralkey.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924052143id_/https%3A//www.referralkey.com/privacypolicypop.php%3F1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralkey.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313064925id_/https%3A//www.referralkey.com/privacypolicypop.php%3F2) for the most accurate reproduction.*
 
 # None
 
