@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairphone.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721125556id_/https%3A//fairphone.zendesk.com/hc/en-us/articles/201359463-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairphone.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313092622id_/https%3A//fairphone.zendesk.com/hc/en-us/articles/201359463-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy (English) – Support
 
@@ -70,7 +70,7 @@ Also, please note that you can address the use of cookies via the settings of yo
 
 Although most changes are likely to be minor, Fairphone may change its Privacy Policy from time to time. Fairphone encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-You can always _contact us_ (LINK TO SUPPORT SECTION) if you'd like more information.
+You can always [_contact us_](http://www.fairphone.com/asksupport) if you'd like more information.
 
 Fairphone
 
