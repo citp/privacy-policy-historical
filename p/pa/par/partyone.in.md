@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the partyone.in privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504063930id_/http%3A//www.partyone.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyone.in privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313201957id_/http%3A//www.partyone.in/privacypolicy.php) for the most accurate reproduction.*
 
-# partyone.in-Privacy Police Of Partyone.in By Partyone Team
-
-## Privacy Policy
+# PartyOne : Privacy Policy
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
