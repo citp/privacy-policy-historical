@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priorityoneemail.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206175950id_/http%3A//www.1shoppingcart.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priorityoneemail.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313075052id_/http%3A//www.1shoppingcart.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 1ShoppingCart.com
 
