@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywindowshosting.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012052157id_/http%3A//www.mywindowshosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywindowshosting.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313220809id_/http%3A//www.mywindowshosting.com/privacy) for the most accurate reproduction.*
 
 # myWindowsHosting.com - Unlimited Windows Hosting
 
