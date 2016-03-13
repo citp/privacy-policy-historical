@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907020810id_/https%3A//www.agriya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313220650id_/https%3A//www.agriya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Agriya
+
+[](https://www.agriya.com/) Agriya establishes its highly remarkable **ABS software** \- **A clone of ZocDoc** [Click Here](http://customers.agriya.com/solutions/zocdoc-clone)
 
 [Home](https://www.agriya.com/ "Home") » Privacy policy
 
