@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318102132id_/https%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313032859id_/https%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheScript at TheTake
 
-_Last updated: May 7, 2014_
+_Last updated: March 8, 2016_
 
 We, Painted Dog Inc., the Operators of this Website (thetake.com), provide it as a public service to our users.
 
@@ -58,6 +58,14 @@ Information you provide on Operators’s membership applications is used to crea
 
 Google Analytics Display Advertising and Demographics and Interest Reporting has been activated on this site. We use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics. Using the [Ads Settings](https://www.google.com/settings/ads), users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
+### Third-Party Automated Collection and Interest-Based Advertising
+
+The Operators participate in interest-based advertising (IBA), also known as Online Behavioral Advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online. The Operator adheres to the Digital Advertising Alliance (DAA) self-regulatory principles for IBA.
+
+We allow third-party companies to collect certain information when you visit our websites or use our mobile applications. This information may be used to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie, web beacon, or other similar tracking technologies to collect this information.
+
+**Our Do Not Track Policy:** Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website](http://www.aboutads.info/choices/). Options you select are browser and device-specific.
+
 ## How We Use Your Information
 
 The Operators may use non-personal data that is aggregated for reporting about the Operators’s web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site.
@@ -65,6 +73,8 @@ The Operators may use non-personal data that is aggregated for reporting about t
 The Operators may use personal information to provide services that support the activities of the Operators’s members and their collaboration on the Operators’s standards and projects. When accessing the Operators’s members-only web pages, your personal user information may be tracked by the Operators in order to support collaboration, ensure authorized access, and enable communication between members.
 
 Credit card information may be collected to facilitate membership applications; or if you purchase a product or service from our website, such information will not be kept longer than necessary for providing the services requested. Credit card numbers are used only for processing payment and are not used for other purposes. Payment processing services may be provided by a third-party payment service, and a management company external to the Operators may provide support for the financial activities of the Operators. the Operators may share your personal information with its partners to facilitate these transactions.
+
+This site uses IP2Location LITE data available from [http://lite.ip2location.com](http://lite.ip2location.com/), to match your IP address to a country code and may display different content depending on your geographic location.
 
 ## Information Sharing
 
