@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mydailychoice.com privacy policy that was archived on 2015-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150429101529id_/http%3A//mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydailychoice.com privacy policy that was archived on 2016-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160313150015id_/http%3A//www.mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "HTML5"><html><head>
 <title>MyDailyChoice :: Privacy Policy</title>
@@ -7,11 +7,14 @@
 <!-- MyDailyChoice is up and running -->
 <link href="//images/favicon.ico" rel="short icon">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-<link rel="stylesheet" href="/htdocs/css/style.css">
+<link rel="stylesheet" href="/htdocs/css/style.css?20160205">
 <link rel="stylesheet" href="/htdocs/css/pure.css">
-<link rel="stylesheet" href="/htdocs/css/anyslider.css">
-<link rel="stylesheet" href="/htdocs/css/corp.css">
+<link rel="stylesheet" href="/htdocs/css/anyslider.css?20160209">
+<link rel="stylesheet" href="/htdocs/css/corp.css?201602080">
+<link rel="stylesheet" href="/htdocs/css/slick.css">
+<link rel="stylesheet" href="/htdocs/css/slick-theme.css">
 <script src="/htdocs/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="/htdocs/js/slick.min.js"></script>
 <script type="text/javascript" src="/htdocs/js/jquery.anyslider.js"></script>
 <script type="text/javascript" src="/htdocs/js/standard.js"></script>
 </head>
@@ -57,12 +60,31 @@ function join(x) {
     <li>\</li>
     <li><a href="/corp/ourCompany">Company</a></li>
     <li>\</li>
-    <li><a href="/corp/products">Products</a></li>
+    <li><a href="#" id="onproduct">Products</a></li>
+<!--    <li>\</li>
+    <li><a href="/corp/testimonials" >Testimonials</a></li>
+-->
     <li>\</li>
     <li><a href="/corp/opportunity">Opportunity</a></li>
     <li>\</li>
     <li><a href="javascript:join()" class="blue">Order</a></li>
    </ul>
+    <div class="dropdown">
+     <div class="droptoparrow">Products</div>
+     <div class="dropdownlink withborder"><a href="/corp/products">Sprays</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/cashBackTravel">Travel</a></div>
+     <div class="dropdownlink"><a href="/corp/dailySaving">Daily Savings</a></div>
+    </div><!-- drop down -->
+    <div class="dropdownSub">
+     <div class="dropdownlink withborder"><a href="/corp/benefits">All Benefits</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/dailySaving">Daily Savings</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/dailyDestinations">Daily Destinations</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/legalProtection">Legal Protection</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/taxShield">Tax Shield</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/idTheft">ID Theft Protection</a></div>
+     <div class="dropdownlink withborder"><a href="/corp/lifeCoaching">Life Coaching</a></div>
+     <div class="dropdownlink"><a href="/corp/financialCoaching">Financial Coaching</a></div>
+    </div><!-- drop down sub -->
   </div><!-- boxy -->
  </div><!-- nav -->
     <div id="contentTop"></div>
@@ -97,7 +119,7 @@ When you are on the MyDailyChoice site and are asked for personal information, y
      <li><a href="javascript:join()" class="blue">Order</a></li>
     </ul>
     <div class="copy">
-     Copyright © 2015 MyDailyChoice All rights reserved<br>
+     Copyright © 2016 MyDailyChoice All rights reserved<br>
      <span>
       <a href="/corp/privacyPolicy">Privacy Policy</a>   
       &nbsp;&nbsp;/&nbsp;&nbsp;    
@@ -120,6 +142,17 @@ setHeight();
 
 
 
+<script type="text/javascript">
+<!--
+    jQuery("#onproduct").click(function () {
+      jQuery(".dropdown").slideToggle();
+    });
+    jQuery("#onbenefits").click(function () {
+      jQuery(".dropdownSub").slideToggle();
+      jQuery("#benefitsLink").toggleClass("dropdownSelected");
+    });
+-->
+</script>
 
 
 </body></html>
