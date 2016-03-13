@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kems.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128025355id_/http%3A//www.kems.net/page.aspx%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kems.net privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313131726id_/http%3A//www.kems.net/page.aspx%3Fid%3D10) for the most accurate reproduction.*
 
 # KEMS : Faster Internet
 
