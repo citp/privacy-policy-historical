@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the foreign-trade.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreign-trade.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statements - Foreign Trade Online
 
   
 **PRIVACY STATEMENT**
 
-Welcome to Foreign Trade Online! We have created this Privacy Statement to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for our web site: foreign-trade.com. Our Privacy Statement is a work in progress. As we expand our services,we will update our Privacy Statement. We welcome your continuous input into this Privacy Statement. Give us your feedback at [Administration](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/contact.cfm?type=admin). 
+Welcome to Foreign Trade Online! We have created this Privacy Statement to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for our web site: foreign-trade.com. Our Privacy Statement is a work in progress. As we expand our services,we will update our Privacy Statement. We welcome your continuous input into this Privacy Statement. Give us your feedback at [Administration](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/contact.cfm?type=admin). 
 
 BY ACCEPTING THE TERMS OF SERVICE AGREEMENT ("AGREEMENT"), YOU EXPRESSLY CONSENT TO OUR USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION IN ACCORDANCE WITH OUR PRIVACY STATEMENT. OUR PRIVACY STATEMENT IS INCORPORATED INTO AND SUBJECT TO THE TERMS OF THE AGREEMENT. 
 
 If you are not at least 18 years of age you are not eligible to use the Service,and we ask that you do not submit any personal information to us. 
 
-**Member ID and Password.** When you register as a member, we require that you select a Member ID, and a Password. Your account is only accessible through the use of your Password. If you lose control of your Password, you may lose control over your personally identifiable information, and may be subject to legally binding actions entered into on your behalf. Therefore,if your Password has been compromised for any reason, you should immediately contact us at [Member Services](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/contact.cfm?type=member). 
+**Member ID and Password.** When you register as a member, we require that you select a Member ID, and a Password. Your account is only accessible through the use of your Password. If you lose control of your Password, you may lose control over your personally identifiable information, and may be subject to legally binding actions entered into on your behalf. Therefore,if your Password has been compromised for any reason, you should immediately contact us at [Member Services](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/contact.cfm?type=member). 
 
 **Registration Information.** When you register as a member, we require that you fill out a registration form. The registration form requires that you provide your full name, street address, country, phone number and email address. In addition, you will be asked to provide your company's address, phone number, and a short description of your company's services or products. You are also provided with the option to fill out additional fields. These fields may include your company's city, province, zip code, facsimile number, home page, and your occupation. We use the registration information for gathering statistics on our membership. We will use these statistics to classify our members by, for example, age, industry and country, to target our registered members for new services and promotions. 
 
-**Registration Information (Email).** We may use your email address to contact you regarding new services and promotions, including but not limited to monthly newsletters, offers and business opportunities from other users and partners of Foreign Trade Online. There is no opt-out email option as this is the only way of communication between FTO and among its members. You may un-subscribe at any time by sending an account removal request to [Member Services](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/contact.cfm?type=member). 
+**Registration Information (Email).** We may use your email address to contact you regarding new services and promotions, including but not limited to monthly newsletters, offers and business opportunities from other users and partners of Foreign Trade Online. There is no opt-out email option as this is the only way of communication between FTO and among its members. You may un-subscribe at any time by sending an account removal request to [Member Services](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/contact.cfm?type=member). 
 
 **Credit Cards.** Credit card processing is handled by a third-party company. We do not collect nor retain any credit card information. 
 
@@ -39,8 +39,8 @@ If you are not at least 18 years of age you are not eligible to use the Service,
 
 **Contacting Us.**
 
-If you have any questions about this Privacy Statement, the practices of Foreign Trade Online, or your dealings with the foreign-trade.com web site, you can contact us at [Administration](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/contact.cfm?type=admin). 
+If you have any questions about this Privacy Statement, the practices of Foreign Trade Online, or your dealings with the foreign-trade.com web site, you can contact us at [Administration](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/contact.cfm?type=admin). 
 
-Copyright © 1999-2015 Foreign Trade On-Line.  
-All rights reserved.   **[Privacy Statement](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/privacy.htm)**  
-Please read important **[copyright notices and disclaimers](https://web.archive.org/web/20151130183011id_/http%3A//www.foreign-trade.com/disclaim.htm)** information. 
+Copyright © 1999-2016 Foreign Trade On-Line.  
+All rights reserved.   **[Privacy Statement](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/privacy.htm)**  
+Please read important **[copyright notices and disclaimers](https://web.archive.org/web/20160313022508id_/http%3A//www.foreign-trade.com/disclaim.htm)** information. 
