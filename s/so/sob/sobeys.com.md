@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919044426id_/https%3A//www.sobeys.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313114422id_/http%3A//www.sobeys.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Sobeys Privacy Commitment | Sobeys Inc.
+# Sobeys Privacy Commitment - Sobeys Inc.
 
 Sobeys Incorporated and its direct and indirect subsidiaries, parents and affiliates (collectively, “Sobeys”) respect the privacy of each customer and prospective customer (“Customer”). The term “Customer” also includes persons who have enrolled, or are applying for enrolment, in any rewards or similar program of which Sobeys is a sponsor or participant, including without limitation Club Sobeys, Club Thrifty Foods and the AIR MILES® Reward Program (each of which is referred to as a “Program”). Sobeys is committed to protecting all personal information collected from Customers.
 
@@ -24,29 +24,30 @@ A Privacy Officer has been appointed by Sobeys to receive, investigate and respo
 
 Sobeys collects, uses and discloses Personal Information for the following purposes (the “Purposes”):
 
-1.                  To operate its businesses and to administer the Programs, including without limitation:
+1\. To operate its businesses and to administer the Programs, including without limitation:  (a) to communicate with Customers regarding any concerns or queries the Customer may have; 
 
-(a)                to communicate with Customers regarding any concerns or queries the Customer may have;
+(b) to communicate with Customers regarding any changes to this Privacy Commitment or to Programs and their operation;
 
-(b)               to communicate with Customers regarding any changes to this Privacy Commitment or to Programs and their operation;
+(c) to ensure Customers are appropriately awarded points or their equivalent in accordance with the rules of the applicable Program and receive reward redemptions in accordance with applicable Program Rules and that rewards records are appropriately maintained;
 
-(c)                to ensure Customers are appropriately awarded points or their equivalent in accordance with the rules of the applicable Program and receive reward redemptions in accordance with applicable Program Rules and that rewards records are appropriately maintained;
+(d) to process information regarding Customer purchases and the collection and redemption of points and rewards;
 
-(d)               to process information regarding Customer purchases and the collection and redemption of points and rewards;
+(e) to provide services, rewards, products and benefits to Customers and to enable them to participate in contests;
 
-(e)                to provide services, rewards, products and benefits to Customers and to enable them to participate in contests;
+(f) to understand and analyze the interests, needs and preferences of Customers;
 
-(f)                to understand and analyze the interests, needs and preferences of Customers;
+(g) to develop, enhance, market and/or provide products and services for Customers, customers and potential customers;
 
-(g)               to develop, enhance, market and/or provide products and services for Customers, customers and potential customers;
+(h) to verify Customers’ identity, when required or desirable for transactional purposes, so as to reduce fraud or errors in transaction processing;
 
-(h)               to verify Customers’ identity, when required or desirable for transactional purposes, so as to reduce fraud or errors in transaction processing;
+(i) to comply with applicable legislation and regulatory requirements; and
 
-(i)                 to comply with applicable legislation and regulatory requirements; and
+(j) for investigation and law enforcement purposes.
 
-(j)                 for investigation and law enforcement purposes.
+2\. To communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as but not limited to products and services under the Programs or available through Partners that may be of interest to the Customers. 
 
-2.                  To communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as but not limited to products and services under the Programs or available through Partners that may be of interest to the Customers.
+
+
 
 Sobeys also collects Personal Information from (A) individuals when they apply for employment through a Sobeys website, in person at a store, or otherwise, and uses this Personal Information for the purpose of processing and responding to such application, and (B) prospective and current franchisees and affiliated merchants and their principals, and uses this Personal Information for the purpose of processing and responding to franchise and affiliated merchant applications and in ongoing dealings with such parties. In this Privacy Commitment, references to “Customers” also apply to the individuals referred to in this paragraph with any changes necessary in the circumstances.
 
@@ -109,11 +110,14 @@ This Policy applies to your personal health information, which we collect in the
 We obtain most of our information directly from you, as needed in order to provide you with the services you request. For example, we ask about any drug allergies you have in order to fill your prescriptions while avoiding the potential for harmful reactions.  
 Here is why we need some of the other information we may ask you to provide –
 
-**Birth Date and Gender** – Your date of birth and gender help us to identify you, serving as a “double check” along with your name and address so that your patient records are accurate and complete. A person’s age can affect the right dose of medication (especially in children and the elderly.)
+**_Birth Date and Gender_** – Your date of birth and gender help us to identify you, serving as a “double check” along with your name and address so that your patient records are accurate and complete. A person’s age can affect the right dose of medication (especially in children and the elderly.) 
 
-**Medical Conditions** – This helps us to make sure that any medications you receive are safe and appropriate for you. It also helps us to provide you with information and advice that is helpful, appropriate, and necessary for your health and safety.
+**_Medical Conditions_** – This helps us to make sure that any medications you receive are safe and appropriate for you. It also helps us to provide you with information and advice that is helpful, appropriate, and necessary for your health and safety.
 
-**Address and Telephone Number** – To contact you if needed to answer your questions, or to provide information about your medication (for example, if a drug that you have been prescribed is recalled or withdrawn).
+**_Address and Telephone Number_** – To contact you if needed to answer your questions, or to provide information about your medication (for example, if a drug that you have been prescribed is recalled or withdrawn).
+
+
+
 
 **Why we collect your personal health information:**  
 We collect your personal health information in order to provide you with quality care and to meet legal and professional requirements, including maintaining a record of medications dispensed and services provided.
@@ -142,7 +146,7 @@ When your personal health information is no longer needed for the purposes expla
 We operate various websites in association with our pharmacy businesses (collectively, “Sites”). In general, you can visit our Sites without revealing any personal information. At times, though, we may need personal information about you in order to process a request for information, or to provide a correct response, such your name, e-mail address and postal code or demographic information (for example, your date of birth). You may choose whether or not to provide such data to us. Please be aware, however, that if you choose not to provide the personal information, you may not be able to use some of the features on the site. If you choose to provide us with personal information, we will use this information in strict adherence with the terms of this Policy. If you ask us not to use this information as a basis for further contact with you, we will respect your request.  
 Our Sites may contain links to other websites. We are not responsible for the privacy practices or the content of sites (other than our own sites) to which we provide links. You should check the privacy policies of these other websites before choosing to provide any personal information.
 
-Questions or concerns:  
+**Questions or concerns:**  
 If you have questions or concerns about our Privacy Policy as it relates to pharmacy matters, you can ask your pharmacist or contact our company’s Privacy Officer at the address provided below.
 
 **Complaints Regarding Non-Compliance**
