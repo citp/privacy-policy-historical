@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnstatefair.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124148id_/http%3A//www.mnstatefair.org/general_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnstatefair.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313200939id_/http%3A//www.mnstatefair.org/general_info/privacy.html) for the most accurate reproduction.*
 
 # Minnesota State Fair | Privacy
 
@@ -30,7 +30,7 @@ We use the information you provide about someone else when entering a competitio
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with our website on our [contact page](http://gopher.mnstatefair.org/contact/) if you would like to receive our e-mail updates. Information you submit on our website will not be used for this purpose unless you fill out the contact form and enable the “I want to receive E-mail updates.” checkbox.
+You can register with our website on our [email sign-up page](http://visitor.r20.constantcontact.com/manage/optin?v=001RmASHJDEZJYkozENwSjXULE0MfpEDuR4_anvOat0LsJmDwadnguXWgL-Jb1KGP3EptnnQa3QOF4HQzsvmvrZUA%3D%3D) if you would like to receive our email updates. Information you submit on our website will not be used for this purpose unless you fill out the contact form and enable the “I want to receive email updates.” checkbox.
 
 We use non-identifying and aggregate information to better design our website and to share with sponsors. For example, we may tell a sponsor that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
@@ -44,4 +44,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ##  How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at (651) 288-4452 or send us an email at [fairinfo@mnstatefair.org](mailto:fairinfo@mnstatefair.org)
+Should you have other questions or concerns about these privacy policies, please send us an email at [fairinfo@mnstatefair.org](mailto:fairinfo@mnstatefair.org?subject=Privacy%20Policy) or see more [contact information](http://www.mnstatefair.org/general_info/contact_us.html).
