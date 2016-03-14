@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215095336id_/http%3A//www.satmetrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314063611id_/http%3A//www.satmetrix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Satmetrix
 
@@ -42,4 +42,4 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=2bae5841-39b8-4fdd-bdbb-3327b2892ad0 "TRUSTe Privacy Certification")
 
-Translation available in [French](https://web.archive.org/web/20151215095336id_/http%3A//privacy-policy/privacy-policy-fr/ "Politique de confidentialité"), [German](https://web.archive.org/web/20151215095336id_/http%3A//privacy-policy/privacy-policy-de/ "Datenschutzrichtlinie"), [Japanese](https://web.archive.org/web/20151215095336id_/http%3A//privacy-policy/privacy-policy-ja/ "プライバシー ポリシー") and [Spanish](https://web.archive.org/web/20151215095336id_/http%3A//privacy-policy/privacy-policy-es/ "Política de privacidad"). 
+Translation available in [French](https://web.archive.org/web/20160314063611id_/http://www.satmetrix.com/privacy-policy/privacy-policy-fr/ "Politique de confidentialité"), [German](https://web.archive.org/web/20160314063611id_/http://www.satmetrix.com/privacy-policy/privacy-policy-de/ "Datenschutzrichtlinie"), [Japanese](https://web.archive.org/web/20160314063611id_/http://www.satmetrix.com/privacy-policy/privacy-policy-ja/ "プライバシー ポリシー") and [Spanish](https://web.archive.org/web/20160314063611id_/http://www.satmetrix.com/privacy-policy/privacy-policy-es/ "Política de privacidad"). 
