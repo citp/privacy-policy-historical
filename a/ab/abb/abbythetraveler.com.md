@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbythetraveler.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034635id_/http%3A//www.abbythetraveler.com/information/personvern.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbythetraveler.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314215408id_/http%3A//www.abbythetraveler.com/information/personvern.asp) for the most accurate reproduction.*
 
 # Retningslinjer for personvern
 
