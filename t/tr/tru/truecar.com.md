@@ -1,101 +1,127 @@
-> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062231id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314081842id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.*
 
 # TrueCar Privacy Policy
 
-TrueCar, Inc. (“TrueCar”, “we”, “our”, or “us”) is an online and mobile automotive information and communications platform (“Service”) for consumers. TrueCar operates the Service on the www.truecar.com and related subdomains, on the TrueCar mobile application(s), and on and/or TrueCar’s partner websites.
+This Privacy Notice has recently changed.  
+Please read below to understand your rights and how we use the information we gather. 
 
-This Privacy Policy describes TrueCar’s collection, use and sharing of your personally identifiable information (“PII”), which may include your first and last name, email address, mailing address (including your city and state), zip code, telephone number, geo-location, your automobile's vehicle identification number (“VIN”) or license plate number, or your vehicle condition, that you voluntarily provide when using the Service through our website, through the TrueCar mobile application(s), or through our partner websites. This Privacy Policy also explains how we collect, use and share information based on your interactions with advertisements on websites and/or applications as a result of your use of the Service.
+**Effective Date: 2/4/2016.**
 
-The Service is hosted in the United States and is not directed towards individuals under the age of thirteen (13). TrueCar does not knowingly collect PII from individuals under thirteen (13) years of age.
+This Privacy Notice (“Notice”) applies to this website or mobile application and the websites or mobile applications of TrueCar, Inc., and its subsidiaries and affiliates (collectively “we”, “us” or “our”) that display this Notice (each a “Site” and collectively, the “Sites”). By visiting the Sites, you are consenting to our collection, use, disclosure, retention, and protection of information about you and devices you use as described in this Notice.
 
-## Collection of Information
+This Notice only applies to the Sites and does not apply to information collected or received by other means. Our Sites are not directed to children under the age of 13. We do not knowingly collect personal information from children under age 13. This Notice does not apply to anonymized or aggregated data that does not allow us or third parties to identify or contact you.
 
-If you browse through our websites or through our partner website pages on which the Service appears or use our mobile application(s) without providing us any PII, we may gather and store information about your visit, such as your IP address, type of browser and operating system used, date and time you accessed the website or application(s), pages you visit, how you used the application(s), and if you linked to these websites from another website, or the address of that website. This information will not identify you, and is therefore considered “Non-PII.”
+* What Information Does TrueCar Gather? 
 
-## Use and Sharing of Information
+**Information You Give Us.** We may collect and retain any information from you or your devices provided to us when you visit a Site, including when you:
 
-The PII we receive from you through your use of the Service may be used or shared by us with third parties, including dealers, automobile manufactures, marketing businesses, lead generation businesses, email service providers, our partners who make the Service available on their web pages, and our corporate affiliates (collectively, “Affiliates”). These third parties are authorized to use the PII we may share only to the extent necessary to provide their respective services.
+  * use our service or mobile application;
+  * register for an account;
+  * communicate with us, such as to provide feedback, request support, or ask for additional information; and
+  * subscribe to content we offer, such as newsletters, alerts, etc.
 
-In addition, there may be instances when TrueCar may access or disclose PII or Non-PII, including under the following circumstances to: (i) protect or defend the legal rights or property of TrueCar and/or its Affiliates; (ii) protect the safety, security, and privacy of users of the Services or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with applicable law or legal process. In addition, if TrueCar sells all or part of its business or sells or transfers all or a material part of its assets, or is otherwise involved in a merger or transfer of all or a material part of its business, we may transfer your PII or Non-PII to the party or parties involved in the transaction as part of that transaction.
 
-## Cookies and Beacons
 
-From time to time, we may place cookies and web beacons on your computer to collect anonymous data related to your use of the Service. This anonymous data provides us with website usage analytics and allows us to provide personalized advertising. We may also use these cookies and web beacons to provide personalized advertising on other websites you visit after using our Service. “Cookies” are small identifiers sent from a web server that are stored on your computer’s hard drive for the purpose of identifying your browser during interaction on websites. Cookies are also used to identify your mobile application(s) and interaction with that application. Cookies may be used to store items such as identifiers and user preferences. A website may set a cookie to the web browser if the web browser's preferences allow it. A web browser only permits a website to access the cookies it has set, and not those set by other websites. “Web beacons” are invisible electronic images, called a single-pixel (1x1) or clear GIF, that can recognize certain types of information on your computer, such as a cookie number, time and date of a page view, and a description of the page where the web beacon is placed.
+We may collect information such as your first and last name, home or other physical address, email address, zip code, telephone number, your automobile’s vehicle identification number (“VIN”), license plate number, or information about your interactions with us or others, or other information.
 
-We may allow third parties to collect the anonymous data received from cookies and web beacons on our behalf, and to retain and use this data themselves; however we do not have access or control over these cookies, and the use of cookies by these third parties is not covered by this Privacy Policy. In addition, we may share this anonymous data with other third parties. To protect your privacy, we do not use cookies or web beacons to store or transmit any PII about you. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. If you choose to decline cookies, certain features of our website or the web pages on our partner websites may not function properly or not at all as a result. You may render some web beacons unusable by rejecting their associated cookies. 
+**Social Media.** You may use social networks or other online services to access our Sites. When you do so, information from those services may be made available to us. By associating a social network account with our Sites, you agree that we may access and retain that information in accordance with the policies of the social network or other online service and this Notice. For example, we may be able to access account or profile information that you have provided to the social network or information about your interactions with the social network to make information available to us (such as when commenting on a blog post or using a sign-on service, such as Facebook Connect).
 
-## Analytics Service Providers
+**Automatically Collected Information.** We may collect information automatically when you visit our Sites or use our mobile application, such as:
 
-We may allow certain third-party analytics service providers to include web beacons within the pages of this website and within the pages of our partner websites on which the Service is available. We may also share portions of our log file data, including IP addresses, with these service providers for analytics purposes. These service providers aggregate information about what you see and interact with on our website and on the pages of our partner websites on which the Service is available.
+  * your IP address;
+  * the type of browser, device and operating system you use;
+  * identifiers associated with the device you use to access our Sites;
+  * the pages you visit, vehicles you view or configure, and the features you use, including dates and times;
+  * if you navigated from or navigate to another website, the address of that website; and
+  * information regarding your internet service provider.
 
-We may also allow certain third-party analytics providers to utilize cookies that identify the TrueCar application that you are using and how you use that application. These third parties help us understand your usage of the different aspects of the application, such as user behavior, effectiveness of the application to allow us to make future improvements to the application, and effectiveness of the promotion channels that are used in the application.
 
-These service providers offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. To obtain a list of these service providers in order to request their privacy policy information, please email us at [privacy@truecar.com](mailto:privacy@truecar.com).
 
-None of the PII that you provide to us when using the Service is shared with our third party analytics service providers or advertisers as part of our analytics programs.
+In addition, we may collect information about your activities on our Sites through the use of cookies, clear GIFs or web beacons, local shared objects or Flash cookies, or through other identifiers or technologies, including similar technologies as they may evolve over time. We refer to these technologies collectively as Metrics Tools.
 
-## Third Party Applications and Widgets
+We may allow third parties to use Metrics Tools on our Sites. The information collected by Metrics Tools may be shared with and used by us, by others acting on our behalf, or by third parties subject to their own privacy policies. Information collected by Metrics Tools may be used on this Site or on other websites or services, including those that may not be operated by us.
 
-We may include third-party applications or widgets on some pages of this website and on some of the pages of our partner websites on which the Service is available that allows interaction or content sharing by users. “Widgets” are mini-programs that provide specific services or content from a third party. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Your interaction with an application or widget typically allows these third parties to collect some information about you through their cookies or through their registration process. In some cases, the third parties may recognize you through their applications, widgets and/or cookies even when you do not interact with the particular application or widget. The third parties providing the applications or widgets may offer controls for you to manage the applications or widgets’ appearance and functionality, and offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. To obtain a list of these third parties in order to request their privacy policy information, please email us at [privacy@truecar.com](mailto:privacy@truecar.com).
+**Email.** We may collect information regarding the effectiveness of our email and other communications with you. For example, we may know if you follow a link in an email we send to you.
 
-## Single Sign-On
+**Mobile.** We may collect session and geolocation information from your mobile device. Geolocation information includes data such as your device’s physical location and may include GPS-based, WiFi-based or cell-based location information.
 
-You can log in to our website, and may in some cases, our partner websites, using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain PII with us such as your name and email address to pre-populate our membership form. Services like Facebook Connect give you the option to post information about your TrueCar activities to your Facebook profile page to share with others within your Facebook network.
+**Information from Other Sources.** We may obtain information about you from affiliates, partners, automobile dealers and other third parties. This information may include information about your use of this Site or our services, your use of other websites, your interactions with or purchases from automobile dealers, your interests and preferences and other information about you or your household. We may combine the information we obtain from third parties with information that we or our affiliates have collected about you.
 
-## Advertisements, Ad Networks and Other Third Parties
+* How Does TrueCar Use Information About Me? 
 
-We may allow certain third-party companies to serve advertisements to you and collect anonymous information regarding your use of this website and your use of the pages of our partner websites on which the Service is available. Typically, these companies are third-party ad servers, ad agencies, technology vendors, providers of sponsored content and research firms, and they may include a web beacon within this website or within the pages of our partner websites on which the Service is available to provide customization, auditing, research and reporting for us, our partners, and/or advertisers. Because your web browser must request these advertisements and/or web beacons from the third-party’s web servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their website directly. These companies may also use these cookies or web beacons to collect information on the website pages we host to deliver you customized content and/or ads on both this and other websites.
+We and others acting on our behalf may use the information that we collect or receive to operate our business, including our Sites, as described below:
 
-We may customize some ads tailored to your interests when you visit certain pages of this website and certain pages of our partner websites on which the Service is available, but we do not provide any PII to an advertiser when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the possibility exists that the advertiser will make the assumption that you are interested in the subject matter of the advertisement.
+**Operate and Support our Sites and Services.** We use the information that we gather in order to operate our Sites and our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Sites or any of our services. If you establish an account with us, we may use information about you to manage or support your account.
 
-While you may have set your browser to Do Not Track, TrueCar’s technology will not respond to that setting at this time. The above third-party companies offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. To obtain a list of these third parties in order to request their privacy policy information, please email us at [privacy@truecar.com](mailto:privacy@truecar.com). You can also learn more about ad serving companies and opt-out from certain of them at the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance website](http://www.aboutads.info/choices/). 
+**Improving and Evolving our Services.** We constantly evaluate and improve our Sites and services, including developing new products or services and use the information we gather to do so.
 
-While you may have set your browser to Do Not Track, TrueCar's technology will not respond to that setting at this time. However, the following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites (click to visit their websites). Please visit each company's respective privacy policy to better understand the controls available to you. You can also learn more about ad serving companies and opt-out from each of them at the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance website](http://www.aboutads.info/choices/).
+**To Allow You to Connect with Dealers.** When you use our service, and after you provide your contact information in order to request offers or information, we may use the information you provide us to allow you to connect with a limited number of automobile dealers. These dealers may provide you with a savings certificate and/or offers for new or used vehicles or other products or services. We may also notify a dealer when you are at the dealer’s location via geolocation information that we collect. When you choose to share your contact information with dealers, your direct interactions with those dealers will not be controlled by this Notice. You should review the applicable notices of those dealers to understand how they may use your information.
 
-Please note this does not opt you out of being served advertising. If you use the Service, you will continue to receive generic advertisements.
+**Advertising and Promotions.** We may use the information we gather to offer, provide, or personalize products and services from us and third parties. For example, we may customize content, advertising, promotions and incentives to reflect your preferences, interests, or prior interactions with us and others.
 
-## Links
+**Other Contacts.** We may contact you through telephone, text, or chat for other purposes, as permitted by law.
 
-The Service may contain links to websites or web pages not operated by TrueCar. The Service may also carry advertisements from third party companies not associated with TrueCar. TrueCar is not responsible for the privacy practices of websites or web pages or other services operated by third parties that are linked to or integrated with the Service, or for the privacy practices of third-party advertising companies. Once you leave the Service via such a link, access a third party application (such as widgets), or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they handle any PII they collect from you.
+  
 
-## Blog/Comments
 
-The blog section of www.truecar.com offers visitors the ability to provide publicly accessible comments to the blogs we post. We require and, therefore, collect your email address and name if you chose to post a comment. The information you provide including the content of your post in this area may be read, collected, and used by others who access them. If you would like to remove a posting you have made, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com).
+This Notice only addresses our own information practices. This Notice does not apply to information you share with third parties, including but not limited to dealers, even if we link to those third parties from a Site. These third parties may have their own privacy policies governing their use of information that you can access from their websites. Our services may be offered through third party websites or mobile applications (“Partner Sites”). This Notice does not apply to Partner Sites, unless otherwise indicated on the Partner Site.
 
-## Security
+Please note that other parties may collect personally identifiable information about your online activities over time and across different websites when you use our Site. 
 
-TrueCar uses commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard PII in our possession against loss, theft and unauthorized use, disclosure, or modification. In addition, TrueCar uses reasonable methods in an effort to ensure that the PII we store about you is consistent with the updated information you provide to us.
+* When Does TrueCar Share Information? 
 
-## User Access and Choice
+We only share information about you as described or permitted by this Notice, unless you consent to other sharing. We may share information about you in the following ways:
 
-You may change or update your personally identifiable information which you have provided us by accessing the “My Account” tab after signing into your account on www.truecar.com. You may also deactivate your account by contacting [privacy@truecar.com](mailto:privacy@truecar.com). If you choose to return to use the Service after deactivating your account, we may utilize some of the information you previously provided us or a partner in order to provide you with the Service.
+**Corporate Affiliates.** We may share information with our corporate affiliates for their everyday business purposes, to provide services or to perform marketing. We may also participate in joint ventures with others and we may share information as part of that joint venture.
 
-## Retention of Information
+**Partner Sites.** We may share the information we gather with Partner Sites (and the owners of those sites). For example, we may share information for the purpose of determining or verifying our economic rights and obligations.
 
-We will retain your information for as long as your account is active, as needed to provide you Services, or pursuant to our document retention policies. We will retain and use your information as necessary to comply with our legal and/or financial obligations, resolve disputes, and enforce our agreements.
+**Service Providers.** We may share information with third party service providers who help us operate our business or provide services on our behalf. These service providers include analytics companies and advertising networks that provide Metrics Tools on our Sites.
 
-## Changes to this Privacy Policy
+**Promotional.** We may share information with third parties to help us promote our products and services, or to help us customize advertisements, offers, or other communications to you.
 
-From time-to-time, TrueCar may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, changes in the features of the Service or technology, and such modifications shall be effective upon posting by TrueCar on this website.
+**Automobile Dealers and Manufacturers.** We may share information with automobile dealers, manufacturers and other providers of automobile related products and services. For example, we may share information with our participating dealers to allow you to communicate with them, and them to communicate with you.
 
-Your continued use of the Service after TrueCar posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, it is important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
+**Business Transfer.** We may share information we have collected from you in connection with the sale or merger of our business or the transfer of assets.
 
-If TrueCar materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was originally collected unless you have been provided notice of, and have not objected to, the change by email (sent to the email address you have provided to us), or by means of notice on this website or the pages of our partner websites on which the Service is available on the effective date of the change(s).
+**Protection of Ourselves and Others.** We may use and share the information we gather to enforce our rights and protect our property and those of our affiliates, customers and members of the public, to comply with applicable law, legal process, legal advice and for preventing fraud, theft, and injury to you, us or others.
 
-Our Privacy Policy was last updated and is effective as of July 10, 2014
+* What Choices Do I Have Regarding My Information? 
 
-## Contact Information and Opt-Out Policy
+You may limit and control the information provided to us in a number of ways. You may not be able to use all features of our Sites if you limit the information you share with us.
 
-If you have any questions or concerns about this Privacy Policy, or you do not wish to receive any information from us, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com) or at:
+For example, you can choose not to access our Sites through your social media account. You may also be able to limit the information provided to us by third party social media providers by altering your privacy settings with those providers. You may unsubscribe from promotional emails from us by following the unsubscribe link included in each such email.
+
+Your browser and your device may provide you the option to limit the use of cookies or other Metrics Tools. You should consult documentation for your browser or device for more information. Your mobile device may have settings that allow you to prevent sharing geolocation information with us. You should consult your mobile device’s settings or help documentation for more information about exercising these options. 
+
+* How Can I Access and Update My Information? 
+
+If you are a registered user on truecar.com, you may access, update and change certain information we have collected about you by accessing the “My Account” tab after signing into your account on www.truecar.com.
+
+* How Does TrueCar Address California Privacy Rights? 
+
+California Civil Code Section 1798.83 entitles California users to request information concerning the disclosure of certain personal information to third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law may contact us as specified in the “How to Contact Us” section below.
+
+As of the Effective Date listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services. 
+
+* How Does TrueCar Handle Privacy Disputes? 
+
+By using this Site, you agree that any dispute arising out of or relating to the Sites, the Sites’ content or the services or materials made available on the Sites, or regarding information collected or shared about you, is subject to the Choice of Law, Venue, and Class Action Waiver provisions in our Terms of Service.
+
+* How Does TrueCar Protect the Security of the Personal Information it Collects? 
+
+We use administrative, technical, and physical security designed to safeguard personal information in our possession. We cannot guarantee the security of the information that we collect and store. If you believe that information about you has been subject to unauthorized disclosure, please let us know by emailing [privacy@truecar.com](mailto:privacy@truecar.com).
+
+* How Does TrueCar Provide Updates to this Notice? 
+
+When we make material changes to this Notice, we will update this web page and change the Effective Date listed above.
+
+* How Can TrueCar be Contacted Regarding Privacy Issues? 
+
+You can contact us with questions or comments about our privacy practices or this Notice by emailing us at [privacy@truecar.com](mailto:privacy@truecar.com) or you can contact us at:
 
 TrueCar, Inc.  
 120 Broadway, Suite 200  
 Santa Monica, CA 90401  
-888-TrueCar  
+(800) 200-2000  
 
-
-## TRUSTe Privacy Seal
-
-TrueCar, Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.truecar.com](https://www.truecar.com/). The TRUSTe program does not cover information collected on any mobile applications.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com). If you are not satisfied with our response, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
