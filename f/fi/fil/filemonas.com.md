@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemonas.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910210400id_/http%3A//filemonas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemonas.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314080422id_/http%3A//filemonas.com/privacy.php) for the most accurate reproduction.*
 
 # FileMonas.com - The URL shortener service that pays you! Earn money for every visitor to your links.
 
@@ -64,4 +64,4 @@ Third party links maybe be discovered on our site. These third party links have 
 
 ### 6\. Contacting us
 
-Please feel free to contact us with any questions or problems related to our Privacy Policy, also feel free to contact us with any questions related to our website via our [contact form](https://web.archive.org/web/20150910210400id_/http%3A//filemonas.com/contact.php) . 
+Please feel free to contact us with any questions or problems related to our Privacy Policy, also feel free to contact us with any questions related to our website via our [contact form](https://web.archive.org/web/20160314080422id_/http%3A//filemonas.com/contact.php) . 
