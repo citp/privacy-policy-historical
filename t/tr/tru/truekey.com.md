@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truekey.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018091656id_/https%3A//www.truekey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truekey.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314212716id_/https%3A//www.truekey.com/privacy) for the most accurate reproduction.*
 
 # True Key | The easier, safer way to unlock your digital world
 
