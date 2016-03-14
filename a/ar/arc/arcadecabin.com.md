@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113130044id_/http%3A//www.arcadecabin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314182911id_/http%3A//www.arcadecabin.com/privacy-policy) for the most accurate reproduction.*
 
 # ArcadeCabin.com Privacy Policy
 
