@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the youcheap.co.uk privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001182934id_/http%3A//www.youcheap.co.uk/cg/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcheap.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314182303id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
 
-# YouCheap.co.uk - Privacy Policy
+# SupaPrice.co.uk - Privacy Policy
 
 ### Privacy Policy
 
-This privacy policy sets out how YouCheap.co.uk uses and protects any information that you give YouCheap.co.uk when you use this website.
+This privacy policy sets out how SupaPrice.co.uk uses and protects any information that you give SupaPrice.co.uk when you use this website.
 
-YouCheap.co.uk is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. YouCheap.co.uk may change this policy from time to time by updating this page.
+SupaPrice.co.uk is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SupaPrice.co.uk may change this policy from time to time by updating this page.
 
 You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 February 2008.
 
@@ -14,12 +14,13 @@ We may collect the following information:
 
   * name and job title 
   * contact information including email address 
-  * Referrer URL (die zuvor besuchte Seite) 
+  * Referrer URL (the page you visited before) 
   * demographic information such as postcode, preferences and interests 
   * other information relevant to customer surveys and/or offers 
 
 
 
+  
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
   * Internal record keeping. 
@@ -47,6 +48,6 @@ Our website may contain links to enable you to visit other websites of interest 
 Controlling your personal information 
 
 You may choose to restrict the collection or use of your personal information in the following ways:   
-Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@youcheap.co.uk 
+Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@supaprice.co.uk 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
