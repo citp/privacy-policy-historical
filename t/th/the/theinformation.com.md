@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theinformation.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926081731id_/https%3A//www.theinformation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinformation.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314213935id_/https%3A//www.theinformation.com/privacy) for the most accurate reproduction.*
 
 # The Information
 
-_Last updated on July 27, 2015._
+_Last updated on March 8, 2016._
 
 TheInformation.com, the website and online services of Lessin Media Company (“Lessin Media,” “we,” “our,” or “us”) understands that privacy is important to our online visitors and users. This Privacy Policy explains how we collect, use, share and protect your personal information that we collect on our website and through our service (the “Service”). Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service (http://www.theinformation.com/terms-of-service).
 
@@ -10,11 +10,11 @@ TheInformation.com, the website and online services of Lessin Media Company (“
 
 The categories of information we collect can include:
 
-  * **Information you provide to us directly:** We may collect personal information such as a username, first and last name, location, phone number, e-mail address, and payment information when you register for a Lessin Media account correspond with us, or otherwise provide us your information. In time, we may permit you to provide additional personal data in your profile.
+  * **Information you provide to us directly:** We may collect personal information such as a username, first and last name, location, phone number, e-mail address, photo, and payment information when you register for a Lessin Media account correspond with us, or otherwise provide us your information. In time, we may permit you to provide additional personal data in your profile.
 
   * **Information we collect from third parties:** We may collect information about you from third party services. For example, we may receive information about you when you interact with our site through various social media, for example, by logging in through or liking us on Facebook or following us on Twitter. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on such third-party websites and services before linking or connecting them to our website.
 
-  * **Sharing Information.** With your permission, we may collect email address or contact information of people you provide to us when you want to share our content or invite your friends and contacts to connect with our Service. We may send invitations or other promotional materials to these contacts.
+  * **Sharing Information.** With your permission, we may collect email address or contact information of people you provide to us when you want to share our content or invite your friends and contacts to connect with our Service. When we invite your friends to join the Service, we will include your name and photo to let them know that you are the person extending the invitation. After sending these invitations, we may also send reminder emails to your invitees on your behalf. We may send invitations or other promotional materials to these contacts.
 
 
 
@@ -40,6 +40,8 @@ We may share your personal information with:
   * Our business partners who offer a service to you jointly with us, or who partner with us to provide our services to you;
 
   * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings; and
+
+  * The public, if you are a Contributor we may share your name, photograph and biography on our website and in promotional material.
 
   * Third parties as required by law or subpoena or to if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to protect the security or integrity of our website; and/or (c) to exercise or protect the rights, property, or personal safety of Lessin Media, our users, or others.
 
