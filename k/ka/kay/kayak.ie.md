@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kayak.ie privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023115324id_/https%3A//www.kayak.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.ie privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314235114id_/https%3A//www.kayak.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – KAYAK
 
-_Effective as of May 14th, 2014_
+_Effective as of December 1, 2015_
 
 Information on Cookies
 
@@ -16,23 +16,25 @@ If you book a travel product via the Platforms, we may need additional informati
 
 If you choose to register, we will collect your email address, password and home airport, and other preference information you provide us. If you choose a third-party service, like Facebook Login, to register or login, you are permitting us to use and store that information related to the account. 
 
-If you use our ["My Trips"](https://web.archive.org/trips) service, we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you forward to us.
+If you make a booking on KAYAK we will automatically create a ["Trips"](https://web.archive.org/trips) account for you and you will have access to our ["Trips"](https://web.archive.org/trips) service, where we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you forward to us.
 
-If you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorisation to provide it to us. 
+When you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorisation to provide it to us. 
 
 ### How we collect your Personal Information
 
 We collect your personal information directly from you. For example, when you provide us your personal information when you register or book travel. 
 
-We also collect your personal information passively. For example, we collect information about you over time, and across different Web sites when you visit this Platform. We also use tracking tools like cookies and beacons. To learn more about these tools and how to control them, click here.
+We also collect your personal information passively. For example, we collect information about you over time and across different Web sites when you visit this Platform. We also use tracking tools like cookies and beacons. To learn more about these tools and how to control them, click here.
 
 We collect your personal information from third parties. This can include when you log in using a third party platform, such as Facebook.
+
+Platform features may make use of your device attributes and settings that will allow us to determine your physical location. Such technologies may include IP address mapping, WiFi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalise your experience and provide you with offers and services that may be of interest to you. For example, we may help you find your closest hotel or send you messages that may be of interest to you based on your current location. KAYAK does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location based features and functionality offered. 
 
 ### Why we use your Personal Information
 
 To provide you and improve our Platforms and services, to better understand the users of our Platforms and services, to protect our property and to prevent damage to them.
 
-To process your bookings. 
+To process your bookings and store your itinerary information where applicable.
 
 To display more relevant advertising and recommendations, or suppress advertising and content that you might find irrelevant. 
 
@@ -41,7 +43,7 @@ To contact you as follows:
   * » To send booking confirmations;
   * » To send alerts and notifications you have subscribed to, including to your mobile device;
   * » To solicit reviews;
-  * » When you send booking confirmations to our [My Trips](https://web.archive.org/trips) service;
+  * » When you send booking confirmations to our [Trips](https://web.archive.org/trips) service;
   * » To get in touch if you contact KAYAK customer service;
   * » To send you information servicing and administrative emails;
   * » To send you marketing emails from a KAYAK address regarding our services or those of our partners, if you have opted-in to receive emails from us or have transacted with us, and as permitted by law. 
@@ -50,19 +52,19 @@ To contact you as follows:
 
 ### Your Choices
 
-You can manage your [communication preferences](https://web.archive.org/account) in your account. Every marketing email has an opt-out URL and you can unsubscribe from such communication at any time. You cannot unsubscribe from servicing emails and administrative messages that are considered part of your account membership, unless you cancel your membership.
+You can manage your [communication preferences](https://web.archive.org/account) in your account. Marketing email has an opt-out URL and you can unsubscribe from such communication at any time. You cannot unsubscribe from servicing emails and administrative messages that are considered part of your account membership, unless you cancel your membership.
 
 ### How we share your Personal Information
 
 We may share your personal information with our corporate affiliates and with third parties for our legitimate business purposes as permitted by law. For example, we may share your personal information with suppliers who perform services on our behalf and have agreed in writing to protect and not further disclose your information.
 
-If you book through the Platforms, we may share your personal information with the payment service providers and the travel vendors you have booked with. This can include online travel agencies, hotels, airlines, car hire companies, and travel insurance providers. These third parties will process your personal information as data controllers in accordance with their own privacy policies.
+If you book through the Platforms, we may share your personal information with the payment service providers and the travel vendors you have booked with. This can include online travel agencies, hotels, airlines, car rental companies, and travel insurance providers. These third parties will process your personal information as data controllers in accordance with their own privacy policies.
 
-We may also share your information as otherwise described to you at the time of collection. For example, if you provide information to enter a sweepstake, we may share your information with the promotional partners.
+We may also share your information as otherwise described to you at the time of collection. For example, if you provide information to enter a sweepstakes, we may share your information with the promotional partners.
 
 If KAYAK itself (or part of its business) is sold or otherwise changes control, our new owners would have access to your personal information for the uses set out herein. 
 
-If you use our [My Trips](https://web.archive.org/trips) Service, you can send or grant access to your itinerary to anyone you choose. Your itinerary may contain enough details (for example, booking reference codes) to allow the recipient to cancel or modify your booking, perform a check-in, etc. You should only share your itinerary with people you trust. Please also read the detailed [My Trips FAQ](https://web.archive.org/help/tripsfaqs). If you choose to display your itinerary on publicly-viewable web pages (Facebook, for instance), that information may be collected and used by others. 
+If you use or have itineraries as part of our [Trips](https://web.archive.org/trips) Service, you can send or grant access to your itinerary to anyone you choose. Your itinerary may contain enough details (for example, booking reference codes) to allow the recipient to cancel or modify your booking, perform a check-in, etc. You should only share your itinerary with people you trust. Please also read the detailed [Trips FAQ](https://web.archive.org/help/tripsfaqs). If you choose to display your itinerary on publicly-viewable web pages (Facebook, for instance), that information may be collected and used by others. 
 
 If you provide us a review of your trip, you authorise us to publish it on all our Platforms under the screen name you provided. You also authorise us to aggregate it with other reviews.
 
@@ -72,9 +74,9 @@ We may also share anonymous aggregated usage information with others.
 
 ### How we store and protect your Personal Information
 
-Our servers and data centers are located in the U.S and in Switzerland, and our service providers may be located there and in other countries. By providing us personal information, you agree that your personal information may be transferred to and stored in these countries. These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protections of your personal information, e.g. by obtaining from the data recipients contractual commitments based on the EU model clauses.
+Our servers and data centres are located in the U.S and in Switzerland, and our service providers may be located there and in other countries. By providing us personal information, you agree that your personal information may be transferred to and stored in these countries. These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protections of your personal information, e.g. by obtaining from the data recipients contractual commitments based on the EU model clauses.
 
-KAYAK has a security program intended to keep the personal information stored in our systems protected from unauthorised access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Personal information may only be accessed by persons within our organisations, or our third party suppliers, who require such access to carry out the uses indicated in this Privacy Policy. 
+KAYAK has a security program intended to keep the personal information stored in our systems protected from unauthorised access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Personal information may only be accessed by persons within our organisations, or our third party vendors to carry out the uses indicated in this Privacy Policy. 
 
 ### Cookies and tracking tools
 
@@ -121,21 +123,21 @@ By using the Platforms, you give us your free, unambiguous and informed consent 
 ### KAYAK uses tracking tools for following purposes
 
   * (i)  To track new visitors to the Platforms.
-  * (ii)  To help us recognize your browser as a previous visitor. This includes saving and remembering any preferences that may have been set while your browser was visiting the Platforms, such as language. 
+  * (ii)  To help us recognise your browser as a previous visitor. This includes saving and remembering any preferences that may have been set while your browser was visiting the Platforms, such as language. 
   * (iii)  To store your username and password if you are registered with us.
-  * (iv) (iv) To work with online advertising companies to display targeted advertising on our Platforms and third party platforms that you visit. This targeting may be based on information you submit on our Platforms or third party platforms. This targeting may also be based on your activities or behaviors on our Platforms or those of third parties. We may also obtain information about your browsing history from our business partners. To learn more about targeted advertising and how you can accept or refuse (opt-out of) this type of advertisements, we recommend that you visit [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+  * (iv) (iv) To work with online advertising companies to display targeted advertising on our Platforms and third party platforms that you visit. This targeting may be based on information you submit on our Platforms or third party platforms. This targeting may also be based on your activities or behaviours on our Platforms or those of third parties. We may also obtain information about your browsing history from our business partners. To learn more about targeted advertising and how you can accept or refuse (opt-out of) this type of advertisements, we recommend that you visit [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
   * (v) (v) To track when you book on partner websites. 
   * (vi) (vi) To help improve our website offering and for capacity planning purposes. We or our third party service providers may set analytics cookies. These allow us to gather aggregated or segmented information about the types of visitors that access our Platforms and the pages and advertisements that they view. We do not use this information to personally identify you. 
 
 
 
-### How you can control tracking tools and opt-out of online behavioral advertising 
+### How you can control tracking tools and opt-out of online behavioural advertising 
 
 Your browser may give you the ability to control cookies. How to do this varies from browser to browser. You should view the Help menu on the browser you use for further information. 
 
-To opt out of having your online behavior tracked for advertising purposes [click here](http://www.aboutads.info/choices/).
+To opt out of having your online behaviour tracked for advertising purposes [click here](http://www.aboutads.info/choices/).
 
-We may also use Google Analytics to collect demographic and interest data about you (such as age, gender, and interests), including through Google Analytics Demographics and Interest Reporting. You can find out more about Google Analytics and how to opt-out by going [here](https://support.google.com/analytics/answer/2799357). Choices you make are browser and device specific. Some aspects of our site use cookies to function. You may not be able to use these features if you set your device to block cookies. If you block or delete cookies or opt out of online behavioral advertising, not all of the tracking that we have described in this policy will stop. 
+We may also use Google Analytics to collect demographic and interest data about you (such as age, gender, and interests), including through Google Analytics Demographics and Interest Reporting. You can find out more about Google Analytics and how to opt-out by going [here](https://support.google.com/analytics/answer/2799357). Choices you make are browser and device specific. Some aspects of our site use cookies to function. You may not be able to use these features if you set your device to block cookies. If you block or delete cookies or opt out of online behavioural advertising, not all of the tracking that we have described in this policy will stop. 
 
 ### How KAYAK responds to “Do Not Track” signals
 
