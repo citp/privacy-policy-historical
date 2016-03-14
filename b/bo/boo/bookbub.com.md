@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905114135id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314161447id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BookBub
 
@@ -16,7 +16,7 @@ We adhere to the principles of the United States/European Union Data Protection 
 
 **WHAT INFORMATION DO WE COLLECT?**
 
-_Information You Provide_
+Information You Provide
 
 We collect personally identifiable information from you, such as your email address (which may contain your first and last name) and password, when you create an account to log in to our Service (“Account”). We may also collect any other information you provide to us during the Account registration process, such as the genres of books you like to read and the country in which you reside, and associate that information with your Account.
 
@@ -24,25 +24,25 @@ If you provide us feedback or contact us via email, we will collect your name an
 
 If you participate in a sweepstakes, contest or giveaway on our Site, we may ask you for your email address and/or home number (to notify you if you win or not). We may also ask for first and last names, and sometimes your post office addresses to verify your identity. In some situations we may need additional information as part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules for each sweepstakes and contest that you enter.
 
-_Information Collected via Technology_
+Information Collected via Technology
 
 Records of individual transactions conducted through the Services by Registered Users may be associated with each Registered User’s individual account profile within the Company system.
 
-_Log Files._ As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs. For example, some of the information may be collected so that when you visit the Site or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically collected data to personal information.
+Log Files. As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs. For example, some of the information may be collected so that when you visit the Site or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically collected data to personal information.
 
-_Cookies._ Like many online services, we use cookies to collect information. “Cookies” are small files placed on a user’s computer by a Web site in order to facilitate use of that Web site. For example, a cookie may contain information about a user’s preferences, so that the Web site automatically complies with those preferences whenever the user visits that Web site. When using the Service, our Site may send cookies to your computer for purposes of facilitating and maintaining your current user session, and may collect personal information using those cookies in order to enable the Company to identify you in connection with the Service and to track use of the Service for purposes consistent with this policy.
+Cookies. Like many online services, we use cookies to collect information. “Cookies” are small files placed on a user’s computer by a Web site in order to facilitate use of that Web site. For example, a cookie may contain information about a user’s preferences, so that the Web site automatically complies with those preferences whenever the user visits that Web site. When using the Service, our Site may send cookies to your computer for purposes of facilitating and maintaining your current user session, and may collect personal information using those cookies in order to enable the Company to identify you in connection with the Service and to track use of the Service for purposes consistent with this policy.
 
-_Google Analytics._ We currently use Google Analytics. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. We may also use Google Analytics to remarket our Site to you by serving ads on our behalf on third party websites. Please see the following links for more information about Google Analytics: http://www.google.com/analytics/, http://www.google.com/privacy.html, and http://www.google.com/analytics/tos.html.
+Google Analytics. We currently use Google Analytics. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. We may also use Google Analytics to remarket our Site to you by serving ads on our behalf on third party websites. Please see the following links for more information about Google Analytics: http://www.google.com/analytics/, http://www.google.com/privacy.html, and http://www.google.com/analytics/tos.html.
 
 **USE AND DISCLOSURE OF COLLECTED INFORMATION**
 
-_How We Use Your Information_
+How We Use Your Information
 
 In general, we use the information we collect to either respond to the requests you make, or to aid us in serving you better. We use your personal information in the following ways: (i) to facilitate the creation of and secure your Account on our network; (ii) identify you as a user in our system; (iii) provide improved administration of our Site and Services; (iv) provide the Services you request; (v) to improve the quality of experience when you interact with our Site and Services; (vi) send you a welcome email; (vii) send you administrative email notifications, such as security or support and maintenance advisories; (viii) respond to your inquiries; and (ix) to send newsletters, surveys, offers and other promotional materials related to our Services and for other marketing purposes of the Company.
 
 We may also create anonymous data from your personal information by excluding information (such as your name) that makes the data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion.
 
-_Information We Share._ We may disclose your personal information as described below and as described elsewhere in this Privacy Policy.
+Information We Share. We may disclose your personal information as described below and as described elsewhere in this Privacy Policy.
 
 We may disclose your information to our third-party service providers: to provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate the creation of accounts; to provide technical support; and/or provide other services to the Company. These third party service providers are required not to use your personal information other than to provide services requested by the Company. The Company requires its service providers to which it discloses personal information and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection Law to either (i) subscribe to the Safe Harbor principles or (ii) contractually agree to provide at least the same level of protection of Personal Data as is required by the relevant Safe Harbor principles.
 
