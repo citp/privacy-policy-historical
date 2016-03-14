@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdad.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127013415id_/http%3A//www.greatdad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdad.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314223201id_/http%3A//www.greatdad.com/privacy-policy) for the most accurate reproduction.*
 
 # GreatDad Privacy Policy - Great Dad
 
@@ -34,4 +34,4 @@ Additionally, you may also opt-out of cookies entirely by setting your browser p
 
 (revised 2009)
 
-All mailing lists and deliveries are opt-in, and any subscriber can opt-out by following the instructions on the appropriate page or by emailing [webmaster@greatdad.com](mailto:webmaster@greatdad.com "mailto:webmaster@greatdad.com").  [GreatDad.com](http://greatdad.com/ "http://greatdad.com/") will comply with all opt-outs within 48 hours of its having been received, and will comply with the terms of this privacy policy.  Unsuccessful attempts at opt-outs should be addressed to:  [Paul@GreatDad.com](mailto:Paul@GreatDad.com "Paul@GreatDad.com")
+All mailing lists and deliveries are opt-in, and any subscriber can opt-out by following the instructions on the appropriate page or by emailing [webmaster@greatdad.com](mailto:webmaster@greatdad.com "mailto:webmaster@greatdad.com").  [GreatDad.com](http://greatdad.com/ "http://greatdad.com/") will comply with all opt-outs within 48 hours of its having been received, and will comply with the terms of this privacy policy.  Unsuccessful attempts at opt-outs should be addressed to:  [@GreatDad.com](mailto:Paul@GreatDad.com "Paul@GreatDad.com")
