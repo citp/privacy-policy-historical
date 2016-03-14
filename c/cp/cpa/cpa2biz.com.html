@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpa2biz.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905055805id_/http%3A//www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpa2biz.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314120007id_/http%3A//www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy</title>
@@ -59,7 +59,7 @@
     
     
     
-<body class="Layout4">
+<body class="Layout4 safari">
 	<div class="TopBg">
     </div>
     <style type="text/css">
@@ -104,215 +104,263 @@
     <div id="OuterBox">
     	
 
-	
+
+
 
 <!--[if IE 8]>
 <style type="text/css">
-#SiteBannerContainer #SiteNav {
-top:2px;
-}
+    #SiteBannerContainer #SiteNav {
+        top:2px;
+    }
 </style>
 <![endif]-->
 
+<link rel="stylesheet" href="/media/styles/global-header-topnav.css">
 
-<script type="text/javascript">
-
-if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x or Firefox x.x (ignoring remaining digits);
- var ffversion=new Number(RegExp.$1) // capture x.x portion and store as a number
- if (ffversion>=3)
- {
-   document.write('<style type="text/css">');
-   document.write('#SiteBannerContainer #SiteNav {');
-   document.write('top:2px;');
-   document.write('}');
-   document.write('</style>');
- }
+<style type="text/css">
+#BoxedContentWhite {
+	/* margin: -215px 0px 0px 0px; */
+	/* *margin:-10px 0px 0px 0px; */
+	
 }
+
+#Footer {
+	clear: none;
+	margin-left: -7px;
+	width: 941px;
+}
+</style>
+
+<script type="text/javascript" src="/media/scripts/jquery-1.8.3.js"></script>
+<script type="text/javascript">
+	//test for Firefox/x.x or Firefox x.x (ignoring remaining digits);
+	if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)) {
+		// capture x.x portion and store as a number
+		var ffversion = new Number(RegExp.$1)
+		if (ffversion >= 3) {
+			document.write('<style type="text/css">');
+			document.write('#SiteBannerContainer #SiteNav {');
+			document.write('top:2px;');
+			document.write('}');
+			document.write('</style>');
+		}
+	}
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#SiteNav li").hover(function() {
+			$(this).addClass("over");
+		}, function() {
+			$(this).removeClass("over");
+		});
+	});
+	$(document).ready(function() {
+		$("#SiteNav a").hover(function() {
+			$(this).addClass("aover");
+		}, function() {
+			$(this).removeClass("aover");
+		});
+	});
+	$(document).ready(function() {
+		$("#SiteNav a span").hover(function() {
+			$(this).addClass("spanover");
+		}, function() {
+			$(this).removeClass("spanover");
+		});
+	});
 </script>
 <script type="text/javascript">
-$(document).ready(function() {
-$("#SiteNav li").hover(
-	 function() { $(this).addClass("over"); },
-	 function() { $(this).removeClass("over");});
-	 
-	 
-});
-$(document).ready(function() {
-$("#SiteNav a").hover(
-	 function() { $(this).addClass("aover"); },
-	 function() { $(this).removeClass("aover"); });
-	 
-});
-$(document).ready(function() {
-$("#SiteNav a span").hover(
-	 function() { $(this).addClass("spanover"); },
-	 function() { $(this).removeClass("spanover"); });
+	$(document)
+			.ready(
+					function() {
+						$("#SiteNav li#TrustedBusinessAdvisor")
+								.mouseover(
+										function() {
+											$("#tmLogo")
+													.attr(
+															{
+																src : "/media/generic_site_content/images/service-mark-color.gif"
+															});
+											$(
+													"#SiteNav li#TrustedBusinessAdvisor a span")
+													.addClass("spanover");
+										});
 
-});
+						$("#SiteNav li#TrustedBusinessAdvisor a span")
+								.mouseout(
+										function() {
+											$("#tmLogo")
+													.attr(
+															{
+																src : "/media/generic_site_content/images/service-mark.gif"
+															});
+											$(
+													"#SiteNav li#TrustedBusinessAdvisor")
+													.removeClass("spanover");
+										});
+					});
 </script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#tmLogo").attr({
+			src : "/media/generic_site_content/images/service-mark.gif"
+		});
+	});
+</script>
+
+<script type="text/javascript" src="/media/scripts/global-header-topnav.js"></script>
+
 <script type="text/javascript">
 $(document).ready(function() {
-$("#SiteNav li#TrustedBusinessAdvisor").mouseover(
-	 function() { $("#tmLogo").attr({src : "/media/generic_site_content/images/service-mark-color.gif"}); 
-$("#SiteNav li#TrustedBusinessAdvisor a span").addClass("spanover");
-    });
-  
-	$("#SiteNav li#TrustedBusinessAdvisor a span").mouseout(
-	 function() { $("#tmLogo").attr({src : "/media/generic_site_content/images/service-mark.gif"}); 
-$("#SiteNav li#TrustedBusinessAdvisor").removeClass("spanover");
-});
-});
-
-</script>
-<script type="text/javascript">
-$(document).ready(function() {
-
-$("#tmLogo").attr({src : "/media/generic_site_content/images/service-mark.gif"});
-
+	if(navigator.userAgent.indexOf('Mac') > 0) {
+		$('body').addClass('mac-os');
+		$('.mac-os .safari .select-wrapper .holder').css('margin-top','-15px');		
+	}	
+	
+	if(navigator.userAgent.indexOf('Safari') > 0)		
+		$('body').addClass('safari');
 });
 </script>
 
 
-    <div id="Div1">
-        
-            <div style="height:60px;width:1000px;background-color:Transparent;">
-            <div id="UtilityContainer">
-                <div id="UtilityControlSet">
-                    
+<!-- GlobalTopNav starts -->
+<div id="GlobalTopNav">
+	<!-- GlobalContainer starts -->
+	<div class="GlobalContainer">
+		<!-- GlobalTabsCartContainer starts -->
+		<div class="GlobalTabsCartContainer">
+			<div id="MainTabs">
+				<ul>
+					<li><a href="http://www.aicpa.org">AICPA.org</a></li>
+					<li><a class="selected" href="http://www.cpa2biz.com/index.jsp?FOLDER%3C%3Efolder_id=2534374302023885&amp;bmUID=ldyaU9N">Store</a></li>
+					<li id="my-account" class="my-account"><a href="http://account.aicpa.org/eWeb">My Account<span class="white-triangle"></span></a>
+						<div class="myaccount-submenu">
+							<ul>
+								<li><a href="http://account.aicpa.org/eWeb">My Profile</a></li>
+								<li><a href="/AST/AICPA_CPA2BiZ_Nav/Top/Order_Online/My_Account.jsp">My Purchases</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div id="LoginInfo">
+				<span class="name"></span>
+			</div>
+			<div class="CartInfo">
+				<a href="https://www.cpa2biz.com/checkout/shopping_cart.jsp?FOLDER%3C%3Efolder_id=2534374302023885&amp;bmUID=ldyaU9M" class="cart-group"> <img src="/media/images/icon_shop-cart.png" title="cart" alt="cart">
+						<span class="cartLabel">Cart:</span> <span class="cartQty">0</span>
+				</a>
+			</div>
+			<div id="NavLinks">
+				<ul>
+					<li>
+						 <a href="https://www.cpa2biz.com/login/signin.jsp?FOLDER%3C%3Efolder_id=2534374302023885&amp;bmUID=ldyaU9L">Sign in</a> 
+					</li>
+					<li><a href="http://www.aicpa.org/Membership/Join/Pages/RegularMember.aspx">Join AICPA</a></li>
+					<li><a href="http://www.aicpa.org/About/Pages/About.aspx">About</a></li>
+					<li><a href="https://aicpa-sco.custhelp.com/app/home/session/L3NpZC82Ym9VaEdRag==/sno/0">Help</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- GlobalTabsCartContainer ends -->
+		<!-- GlobalStoreContainer starts  -->
+		<div id="GlobalStoreContainer">
+			<div id="AICPAStoreLogo">
+				<a href="http://www.cpa2biz.com/index.jsp?FOLDER%3C%3Efolder_id=2534374302023885&amp;bmUID=ldyaU9O">
+					<img src="/media/images/gnav_logo.gif" title="AICPA Store Logo" alt="AICPA Store Logo">
+				</a>
+			</div>
+			<form id="GlobalSearchForm" name="form_search" method="post" action="/search/results.jsp">
+<input type="hidden" name="bmForm" value="form_search">
+<input type="hidden" name="bmFormID" value="ldyaU9Q/15374ff688d">
+<input type="hidden" name="bmUID" value="ldyaU9R">
+<input type="hidden" name="bmIsForm" value="true">
+<input type="hidden" name="bmPrevTemplate" value="/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp">
+				<div id="GlobalSearchContainer">
+					<input type="hidden" name="bmText" value="SEARCH_INPUT<>searchFor"><span class="bm_BlankMarker"></span><input name="SEARCH_INPUT<>searchFor" type="text" tabindex="1" id="GlobalSearchInput" value="Search" maxlength="150" autocomplete="off" placeholder="Search" pattern="^[^<()>]*$">
 					
-	     		        <span class="utilityFolder"><a href="https://www.cpa2biz.com/myaccount/default.jsp?tabName=ONLINE_LEARNING" class="utilityLink" style="">
 					
-    
-                        My Subscriptions
-                        
-                    </a></span>
-                    
-                        <span class="utilityFolder"><img src="/media/generic_site_content/images/gnav_div.gif" alt="divider"></span>
-                    
-               
+					<input type="hidden" name="bmSingle" value="SEARCH_INPUT<>searchSite"><span class="bm_BlankMarker"></span><select size="1" name="SEARCH_INPUT<>searchSite" id="" class="global_select">
+						<option value="0">Entire Site</option>
+						<option value="4294967148">CPE</option>
+						<option value="4294967122">Conferences</option>
+						<option value="4294967176">Publications</option>
+						<option value="4294964478">Web
+							Events</option>
+						<option value="4294967148+4294964615">Online
+							Learning</option>
+						<option value="articles">Articles</option>
+					</select> <input type="hidden" name="bmImage" value="search.x"><input type="hidden" name="bmImage" value="search.y"><input type="hidden" name="bmImage" value="search"><input name="search" alt="Search" title="" type="image" id="GlobalSearch" src="/media/images/btn_go.png" tabindex="2">
+				</div>
+			<input type="hidden" name="bmHidden" value="FOLDER<>folder_id"><input type="hidden" name="FOLDER<>folder_id" value="2534374302023885">
+<input type="hidden" name="bmFields" value="bmText,bmPrevTemplate,bmImage,bmForm,bmIsForm,bmUID,bmHidden,bmFormID,bmSingle">
+<input type="hidden" name="bmHash" value="fec65af364d5e13b162b4b08fd0c9f8285d1837e">
+</form>
+			<!-- <div class="clear"></div> -->
+		</div>
+		<!-- GlobalStoreContainer ends  -->
+		<!-- GlobalTopNavContainer starts  -->
+		<div id="GlobalTopNavContainer">
+			
+			<div id="GlobalTopNavBlueContainer">
+				
+						<ul>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/CPE.jsp"> CPE
+							</a></li>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Conferences.jsp"> Conferences
+							</a></li>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Publications.jsp"> Publications
+							</a></li>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Webcasts.jsp"> Webcasts
+							</a></li>
+							
+							<li class=""><a href="http://www.aicpa.org/Membership/discounts/Pages/discounts.aspx"> Member Benefits
+							</a></li>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/CGMA.jsp"> CGMA
+							</a></li>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Career_Center.jsp"> Career Center
+							</a></li>
+							
+							<li class=""><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Newsletters.jsp"> Newsletters
+							</a></li>
+							
+						</ul>
+					</div>
 					
-	     		        <span class="utilityFolder"><a href="https://www.cpa2biz.com/myaccount/default.jsp?tabName=WEB_EVENTS" class="utilityLink" style="">
+				<div id="GlobalTopNavGrayContainer">
 					
-    
-                        Web Events Login
-                        
-                    </a></span>
-                    
-                        <span class="utilityFolder"><img src="/media/generic_site_content/images/gnav_div.gif" alt="divider"></span>
-                    
-               
+						<ul>
+							
+							<li class=""><a href="http://www.cpa.com"> CPA.com
+							</a></li>
+							
+							<li class=""><a href="http://www.ifrs.com"> IFRS.com
+							</a></li>
+							
+						</ul>
+					</div>
 					
-	     		        <span class="utilityFolder"><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Order_Online/My_Account.jsp" class="utilityLink" style="">
-					
-    
-                        My Account
-                        
-                    </a></span>
-                    
-                        <span class="utilityFolder"><img src="/media/generic_site_content/images/gnav_div.gif" alt="divider"></span>
-                    
-               
-					
-	     		        <span class="utilityFolder"><a href="https://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Order_Online/Sign_In.jsp" class="utilityLink" style="">
-					
-    
-                        Sign In
-                        
-                    </a></span>
-                    
-                        <span class="utilityFolder"><img src="/media/generic_site_content/images/gnav_div.gif" alt="divider"></span>
-                    
-               
-					
-	     		        <span class="utilityFolder"><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Order_Online/About.jsp" class="utilityLink" style="">
-					
-    
-                        About
-                        
-                    </a></span>
-                    
-                        <span class="utilityFolder"><img src="/media/generic_site_content/images/gnav_div.gif" alt="divider"></span>
-                    
-               
-					
-	     		        <span class="utilityFolder"><a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Order_Online/Shopping_Cart.jsp" class="utilityLink" style="color: #ffd308;">
-					
-    
-                        Shopping Cart
-                        <img src="/media/generic_site_content/images/gnav_cart.gif">
-                    </a></span>
-                    
-               
-                    <span id="CartItemCount" class="utilityFolder" style="color: #ffd308; margin-left: 0px;"> :</span><span id="CartValue">
-                        0
-                    </span>
-                </div>
-            </div>
-            </div>
-            <div id="SiteBanner">
-                <script type="text/javascript" src="/media/scripts/inc_top_nav.jsp.js"></script>
-                <div id="SiteBannerContainer">
-	                <div id="AICPALogo">
-	                     <a href="http://www.cpa2biz.com/index.jsp?FOLDER%3C%3Efolder_id=2534374302023885&amp;bmUID=k_lUl80">
-	                         <img alt="AICPA Logo" title="" src="/media/generic_site_content/images/gnav_logo.gif">
-	                     </a>
-	                </div>
-	                   <!--<div id="BETAimg">
-	                    
-	                         <img alt="FP_Beta_Label" title="" src="/media/generic_site_content/images/FP_Beta_Label.gif" />
-	                   
-	                </div>-->
-                    <div id="C2BLogo">
-                    	<a href="http://www.cpa.com/about/index.html" class="ExternalLink">
-                        	<img alt="CPA2Biz Logo" title="" src="/media/generic_site_content/images/hnav_url.gif">
-                        </a>
-                    </div>
-                    <div id="SiteNav">
-                    
-		                   	<div id="PrimaryNavigation" style="float:left;">
-		                   		<ul id="navigation1">
-			                   		
-				                        <li id="CPE"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/CPE.jsp"><span>CPE</span></a></li>
-				                    
-				                        <li id="Conferences"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Conferences.jsp"><span>Conferences</span></a></li>
-				                    
-				                        <li id="Publications"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Publications.jsp"><span>Publications</span></a></li>
-				                    
-				                        <li id="Webcasts"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Webcasts.jsp"><span>Webcasts</span></a></li>
-				                    
-				                        <li id="Member_Benefits"><a class="ExternalLink" href="http://www.aicpa.org/Membership/discounts/Pages/discounts.aspx"><span>Member Discounts</span></a></li>
-				                    
-				                        <li id="CGMA"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/CGMA.jsp"><span>CGMA</span></a></li>
-				                    
-				                        <li id="Career_Center"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Career_Center.jsp"><span>Career Center</span></a></li>
-				                    
-				                        <li id="Newsletters"><a class="" href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Top/Browse/Primary/Newsletters.jsp"><span>Newsletters</span></a></li>
-				                       
-		                      	</ul> 
-		                    </div>
-		                	
-		                   	<div id="PrimaryNavigation" style="float:left;">
-		                   		<ul id="navigation2">
-			                   		
-				                        <li id="TrustedBusinessAdvisor"><a class="ExternalLink" href="http://www.cpa.com/"><span>CPA.com</span></a></li>
-				                    
-				                        <li id="AICPA"><a class="ExternalLink" href="http://www.aicpa.org"><span>AICPA.org</span></a></li>
-				                    
-				                        <li id="IFRS"><a class="ExternalLink" href="http://www.ifrs.com"><span>IFRS.com</span></a></li>
-				                       
-		                      	</ul> 
-		                    </div>
-		                	   
-                 	</div>
-    </div>
-</div>
-
+				</div>
+				<div class="clear"></div>
+				<!--  </form>-->
+			</div>
+			<!-- GlobalContainer ends -->
+		</div>
+		<!-- GlobalTopNav ends -->
     	 
 
 <form name="test" method="post" action="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp">
 <input type="hidden" name="bmForm" value="test">
-<input type="hidden" name="bmFormID" value="k_lUl83/14f9c154f31">
-<input type="hidden" name="bmUID" value="k_lUl84">
+<input type="hidden" name="bmFormID" value="ldyaU9S/15374ff688d">
+<input type="hidden" name="bmUID" value="ldyaU9T">
 <input type="hidden" name="bmIsForm" value="true">
 <input type="hidden" name="bmPrevTemplate" value="/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp">
  <input type="hidden" name="bmHidden" value="defaultvalue"><input type="hidden" id="defaultvalue" name="defaultvalue" value="/media/BusinessFiles/Fullfile.txt">
@@ -324,7 +372,7 @@ $("#tmLogo").attr({src : "/media/generic_site_content/images/service-mark.gif"})
 <input type="hidden" name="bmHidden" value="articlevalue"><input type="hidden" id="articlevalue" name="articlevalue" value="/media/BusinessFiles/Delta_Articles.txt">
 <input type="hidden" name="bmHidden" value="FOLDER<>folder_id"><input type="hidden" name="FOLDER<>folder_id" value="2534374302023885">
 <input type="hidden" name="bmFields" value="bmPrevTemplate,bmForm,bmIsForm,bmUID,bmHidden,bmFormID">
-<input type="hidden" name="bmHash" value="0926a19192c2a0aab5cef7b69ab56e4754db6a34">
+<input type="hidden" name="bmHash" value="5b6c524c233df8679cf318630ffe7bb9870f5353">
 </form>
 <link href="/media/styles/jsonSuggest.css" rel="stylesheet" type="text/css" media="screen">
 
@@ -398,47 +446,7 @@ padding-top:7px;
 </style>
 <![endif]-->
  
-<div id="SearchouterBox">
-	<div id="SearchBox" onmousemove="javascript:HideHoverImage();" style="top:0px; position:relative; float:left; width:551px;background-color:#ffffff;border:#d6d6d6 1px solid;height:38px;margin-top:2px;z-index:1;">
-	    <form name="form_search" method="post" action="/search/results.jsp">
-<input type="hidden" name="bmForm" value="form_search">
-<input type="hidden" name="bmFormID" value="k_lUl85/14f9c154f31">
-<input type="hidden" name="bmUID" value="k_lUl86">
-<input type="hidden" name="bmIsForm" value="true">
-<input type="hidden" name="bmPrevTemplate" value="/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp">
-	    	<div style="float:left;margin-right:4px;">
-		    	<img alt="Search" src="/media/generic_site_content/images/search-image.gif" style="margin-top:5px;">
-		    	</div>
-		    	<div class="search-input">
-		    	<input type="hidden" name="bmText" value="SEARCH_INPUT<>searchFor"><span class="bm_BlankMarker"></span><input name="SEARCH_INPUT<>searchFor" type="text" tabindex="1" id="searchbutton" value="Keyword or Product #" maxlength="150" onfocus="searchboxFocus();" autocomplete="off" style="width:251px;vertical-align:top;margin-right:5px;border:none 0px;z-index:1;" onkeypress="return disableEnterKey(event);" pattern="^[^<()>]*$">
-          </div>
-        
-	       
-			<div style="float:left;">
-				
-				
-				
-				
-			   <input type="hidden" name="bmSingle" value="SEARCH_INPUT<>searchSite"><span class="bm_BlankMarker"></span><select name="SEARCH_INPUT<>searchSite" id="myselectbox" style="position:relative;z-index:1;">
-           <option value="0">Entire Site</option>
-				<option value="4294967148">CPE</option>
-				<option value="4294967122">Conferences</option>
-				<option value="4294967176">Publications</option>
-				<option value="4294964478">Web Events</option>
-				<option value="4294967148+4294964615">Online Learning</option>
-				<option value="articles">Articles</option>
-			    </select>
-			   </div>
-			   <div style="float:left;">
-			    <input type="hidden" name="bmImage" value="search.x"><input type="hidden" name="bmImage" value="search.y"><input type="hidden" name="bmImage" value="search"><input name="search" alt="Search" title="" type="image" src="/media/generic_site_content/images/search.gif" tabindex="2" onclick="inputCheck()" style="position:relative;z-index:1;">
-			</div>
-           
-	    <input type="hidden" name="bmHidden" value="FOLDER<>folder_id"><input type="hidden" name="FOLDER<>folder_id" value="2534374302023885">
-<input type="hidden" name="bmFields" value="bmText,bmPrevTemplate,bmImage,bmForm,bmIsForm,bmUID,bmHidden,bmFormID,bmSingle">
-<input type="hidden" name="bmHash" value="bd54f04ca29b08fc33ea4dbe8ebfc0f0266a39c2">
-</form>
-	</div>
-</div>
+
 
 
 
@@ -453,154 +461,103 @@ padding-top:7px;
 		<div class="Pageheaders" style="margin-bottom:10px;">
 			<h1>Privacy Policy</h1>
 		</div>
+		
       	<div>
-        	<h3><b>AICPA and CPA.com Joint Privacy Policy</b></h3>
+        	<h3><strong>AICPA and CPA.com Joint Privacy Policy</strong></h3>
         </div>
-<div>
-        <h3><b><font color="#000000"><a href="/content/media/PRODUCER_CONTENT/generic_template_content/privacypolicy-CIMA.jsp">CPA.com Privacy Policy for CIMA Users</a></font></b></h3>
-      </div>
-<div>
-            <a id="PrintThisPrivacy">
-                <img alt="Print This Page" title="" src="/media/generic_site_content/images/publications/pubdet_printpage.gif"></a>
+		
+		<div>
+        	<h3><a href="/content/media/PRODUCER_CONTENT/generic_template_content/privacypolicy-CIMA.jsp"><strong>CPA.com Privacy Policy for CIMA Users</strong></a></h3>
+		</div>
+		
+		<div>
+			<img id="PrintThisPrivacy" style="cursor:pointer;" alt="Print This Page" src="/media/generic_site_content/images/publications/pubdet_printpage.gif">
         </div>
+		
         <div id="PageSection1">
-            <div id="VersionNo">
-                Version 2.3 - Updated May 8, 2014</div>
+            <div id="VersionNo">Version 2.4 - Updated 9/21/2015</div>
 				
-            <p><strong>Overview</strong><br>
-The Joint Privacy Policy of the American Institute of Certified Public  Accountants (“AICPA”) and CPA2Biz, Inc. (dba and hereinafter referred to as  “CPA.com”) describes how these organizations and their affiliates (we) collect,  use and share personally identifiable information that you provide via the use  of our websites (the “Sites”) through membership, volunteerism,  conference/webinar attendance, purchases and other interactions in which  information is collected. The term “you” indicates website visitors, AICPA  members, customers, candidates, affiliates, associates, volunteers, authors and  any user of the Sites or anyone doing business with the organizations. “You”  does not include the organizations’ employees, vendors, contractors or persons  in similar business relationships where personally identifiable information may  be provided and used. The AICPA and CPA.com are based in the United States and  as such this policy was developed under the laws of the United States. The  Joint Privacy Policy is subject to change periodically. The Joint Privacy  Policy is posted on the Sites and is effective at the time denoted by its date.  It is recommended that you regularly check the Sites for updates.</p>
-
-<p><strong>Notice</strong><br>
-The use of the Sites and services offered by the organizations constitutes your  acceptance of the Joint Privacy Policy. If you use the Sites, register, login,  post comments, participate in forums, wikis or blogs, register for courses,  exams or other events, purchase products, apply for membership, become a  member, or otherwise submit personally identifiable information in any manner,  you are consenting to the use of such data in accordance with this Joint  Privacy Policy. If you are an international user, the use of any website  covered by this Joint Privacy Policy constitutes consent to this Joint Privacy  Policy and an acknowledgement that use of any website covered by the Joint  Privacy Policy is solely subject to the laws governing the use of data in the  United States and as indicated by this policy.</p>
-
-<p>Additionally, the Sites contain links to other websites managed by  third parties (some of which use of cookies). As a user of links, it is your  responsibility to understand the privacy policies of the websites you visit.  Once you leave our website using links, we have no control over information  that is submitted to, or collected by any third parties and we are not  responsible for activities or practices of those other websites.</p>
-
-<p>The scope of this Joint Privacy Policy does not include websites  that are owned, and/or managed by related entities or third parties unless such  entities or third party links to this policy. Also, it does not include AICPA  program or marketing related websites for the development of interest in the  CPA profession and careers (such as, but not limited to, <a href="http://www.cgma.org" target="_blank">www.cgma.org</a> or <a href="http://www.startheregoplaces.com" target="_blank">www.startheregoplaces.com</a>, which are governed by their own privacy policies).</p>
-
-<p><strong>Collection of Personally Identifiable Information</strong><br>
-We collect and maintain demographic information and personally identifiable  information such as, but not limited to, your name, date of birth, email  address, home and business address (including country), and telephone, cell and  fax numbers. Additionally, we collect credit card, bank account and other  payment information and other business information that you provide for  transactional purposes such as, but not limited to, purchases, conferences,  applications, examinations and membership. We also collect personally  identifiable information from authors, vendors, contractors and from vendors  via purchased or rented lists.</p>
-
-<p>The minimum information you need to provide to complete any specific  transaction or access any particular area of the Sites is detailed on the  Sites’ pages or forms. You will be unable to place an order or complete a  registration without providing minimal information required for the  transaction. In some cases, other optional information is also requested, which  you may elect to provide. This optional information allows us to provide a more  personalized experience for the website user.</p>
-
-<p>Your preferences are collected through information you provide via  your membership and “My Account” submissions, website registration, purchases,  conference/webinar registration/attendance, tradeshows, examinations,  credential registration, participation in committees/special interest groups  and task forces, subscriptions, scholarship and fellowship applications, online  surveys, as well as other information you provide. Some of these functions,  forms or activities provide for opt-outs as to providing information. If  opt-outs are utilized, certain websites, benefits and/or website functionality  may not be available. We also collect and use personally identifiable  information as part of various programs such as, but not limited to, contests,  peer review, ethics inquiries and investigations, award nominations, volunteer  and committee activities and benevolent fund and foundation applications and  donations.</p>
-
-<p><strong>Online Networking Features</strong><br>
-By participation in  networking functions such as, but not limited to, initiating your public  profile, posting your resume, posting a comment or review, participating in a  community activities, discussion forums, blogs, wikis or similar activity, be  advised that information you provided may be publicly viewable when using these  functionalities. This includes information such as, but not limited to,  username or other information you have used as your username (e.g., email  address or your name). This may result in unsolicited messages or communication  beyond our control.</p>
-
-<p><strong>Collection of Passive Information</strong><br>
-Upon any use of the Sites, providing email address, enrolling in programs,  or completing various forms, we collect non-identifying information through the  use of cookies technology and/or Internet Protocol (IP) address tracking/URL  tracking. This technology collects non-personal information such as, but not  limited to, new or returning user, browser information, computer type,  operating system, internet service providers, website usage, referring/exit  pages, platform type, date/time stamp, number of clicks, advertisement viewing,  and performance to personalize the content to better serve you and all website  users. We collect this information to perform effective capacity planning,  administer the Sites, troubleshoot website performance, track aggregate users'  movements, gather aggregate demographics and accurately document transactional  information for business partners.</p>
-
-<p><strong>The Use of Cookies for Advertising</strong><br>
-Our Sites may contain advertisements, whose related cookies may collect data,  but also track your movement and behavior on other sites. These types of  cookies, from third-party advertisers or from links accessed via our Sites, are  not controlled by us.</p>
-
-<p>We utilize our own cookies to track visitor behavior on aicpa.org to optimize  your experience on our site and provide promotional advertising on other sites  for AICPA and CPA.com products or services. To accomplish this, we partner with  various third party vendors, including Google and DoubleClick, who use these  cookies to display relevant ads based on your browsing sessions on aicpa.org.</p>
-
-<p>If you do not want to save site-related cookies on your hard drive, you can  adjust your browser settings to delete and/or not accept cookies. However, if  you adjust your browser in this manner, we cannot guarantee that all  applications on the Sites will function properly for you and your experience  may not be optimized. Additionally, the Network Advertising Initiative (NAI)  provides an “Opt-out Tool” that was developed to allow consumers to "opt  out" of the behavioral advertising delivered by the NAI member companies  such as Google and DoubleClick (<a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices</a>).</p>
-
-<p><strong>Use of Information and Sharing and Disclosure to Third Parties</strong><br>
-We use personally  identifiable information collected for membership, non-member/customer  activity, and account maintenance. We may communicate with you regarding  membership benefits, any program enrollment or special interest group, or  account billing and maintenance and potential membership. We also communicate  with members regarding peer review or ethics inquiries, violations and/or  sanctions. We use and maintain various records regarding interactions such as,  but not limited to, continuing professional education. In addition, we use and  maintain your information as determined by the organizations’ business needs,  or as required or permitted by law. Some member information or customer  transaction email or communications are not available for opt out (see Choice  and Opt Out, below).</p>
-
-<p>Information is used to process transactions/orders, send  conference/webinar information, subscriptions, periodicals and other  information, noting that credit card/banking/payment information is restricted  for the purchase/uses identified. We often facilitate billing and payment of  transactions through the use of third parties responsible for processing credit  card, banking and payment information and invoicing transactions.</p>
-
-<p>We use collected information to build quality and useful services  and user interactions by analyzing user trends and by measuring demographics  and interests. We analyze demographics, user trends, and member and non-member  purchases to develop interest areas for referral listings and to offer  suggestions on specialty membership or product areas. We may use information  you provide or passive information collected to improve and offer additional  services to you and may contact you directly. We often share member information  with state CPA societies so that they may also contact you regarding offerings  or membership in your state. Individual state CPA societies are separate and  distinct entities and are not included in the Joint Privacy Policy. Users  should read and review each state society’s privacy policy and practices and  may need to opt-out under such policies and practices separately.</p>
-
-<p>We personalize various aspects of the Sites by pre-populating  online forms for your convenience and for member validation. We use information  to provide you with prompt and effective services. We may use non-identifying  profile information in the aggregate (such as interest area information) and  disclose such aggregated information to third parties to assist in developing  new features and content, as well as information on trends and usage patterns.</p>
-
-<p>Collected information is used to send newsletters, promotional  messages, product announcements, request for contributions or other  communications that may be of interest to you. We also use information  collected to refer you to our specialty membership areas. We request  participation in online surveys and communicate as defined by the individual  survey. You may opt out of receiving some of these communications (see Choice  and Opt Out below).</p>
-
-<p>We share your information with third parties as permitted or  required by law. Types of disclosures, including but not limited to the  following, may be made without asking for explicit consent from you:</p>
+			<p><strong>Overview</strong><br>
+			The Joint Privacy Policy of the American Institute of Certified Public  Accountants (“AICPA”) and CPA2Biz, Inc. (dba and hereinafter referred to as  “CPA.com”). It describes how these organizations and their affiliates (we)  collect, use and share personally identifiable information that you provide via  the use of our websites (the “Sites). The AICPA and CPA.com are based in the  United States and as such this policy was developed under the laws of the  United States. The Joint Privacy Policy is subject to change periodically. The  Joint Privacy Policy is posted on the Sites and is effective at the time  denoted by its date. It is recommended that you regularly check the Sites for updates.</p>
 			
-			<ul>
-				<li>As necessary pursuant to lawful requests, such  as to respond to subpoenas, warrants, court orders, or other related legal  requests or proceedings and as permitted or required by law; </li>
-				<li>In connection with the sale or transfer of AICPA  or CPA.com or substantially all of their assets; </li>
-				<li>If certain other disclosures, such as, but not  limited to, those connected to AICPA enforcement proceedings, are required or  authorized pursuant to AICPA bylaws and resolutions of AICPA Council. As a  condition of AICPA membership, you have consented to comply with the bylaws and  Code of Professional Conduct, including those relevant to disciplinary actions;  and </li>
-				<li>If you volunteer on an AICPA committee, your  name, committee, and city/state are visible to the public in the Volunteer  section of aicpa.org. </li>
-			</ul>
+			<p><strong>Notice</strong><br>
+			If you use the Sites, register, login, post comments, participate in forums,  wikis or blogs, register for courses, exams or other events, purchase products,  apply for membership, become a member, or otherwise submit personally  identifiable information in any manner, you are consenting to the use of such  data in accordance with this Joint Privacy Policy. If you are an international  user, the use of any website covered by this Joint Privacy Policy constitutes  consent to this Joint Privacy Policy and an acknowledgement that use of any  website covered by the Joint Privacy Policy is solely subject to the laws  governing the use of data in the United States and as indicated by this policy.</p>
 			
-			<p>Additionally, third parties with whom we may share information  include but are not limited to:</p>
+			<p>Additionally, the Sites contain links to other websites managed by  third parties (some of which use of cookies). As a user of links, it is your  responsibility to understand the privacy policies of the websites you visit.  Once you leave our website using links, we have no control over information  that is submitted to, or collected by any third parties and we are not  responsible for activities or practices of those other websites.</p>
 			
-			<ul>
-				<li>All AICPA and CPA.com affiliated organizations; </li>
-				<li>Member Discount Program Partners (e.g., Affinity  Partners, Shared Services, LLC); </li>
-				<li>Networking communities and discussion forums  vendors; </li>
-				<li>Conference attendees, expert panels and fellow  committee members; </li>
-				<li>Mailing and fulfillment houses and third-party  vendors for various communications and orders; </li>
-				<li>Individuals accessing the peer review public  file, firm search, and referral or resume searches; </li>
-				<li>Individuals accessing the specialty member  referral websites; </li>
-				<li>State CPA societies and NASBA (the National  Associations of State Boards of Accountancy); and </li>
-				<li>XBRL International (International consortium  that oversees maintenance of the technical specifications for the eXtensible  Business Reporting Language (XBRL). This also includes XBRL US which advocates  the use of XBRL in the US. </li>
-			</ul>
+			<p><strong>Collection of Personally Identifiable Information</strong><br>
+			We collect and maintain demographic information and personally identifiable  information such as, but not limited to, your name, date of birth, email  address, home and business address (including country), and telephone, cell and  fax numbers. Additionally, we collect credit card, bank account and other  payment information and other business information that you provide for  transactional purposes such as, but not limited to, purchases, conferences,  applications, examinations and membership.</p>
 			
-			<p>Your information may also be shared to:</p>
+			<p>Your preferences are collected through information you provide. If  you choose to opt-out of select features, certain websites, benefits and/or  website functionality may not be available.</p>
 			
-			<ul>
-				<li>Verify that you are a member of the AICPA and  the society of the state in which you are licensed; </li>
-				<li>Complete various internal and external audits; </li>
-				<li>Maintain AICPA membership in the NASBA Quality  Assurance service; </li>
-				<li>Promote you or your firm through a specialty  referral program; and </li>
-				<li>Respond to technical accounting and auditing  questions. </li>
-			</ul>
+			<p><strong>Online Networking Features</strong><br>
+			By participating in  networking functions such as, but not limited to, initiating your public  profile, posting your resume, posting a comment or review, participating in  community activities, discussion forums, blogs, wikis or similar activity, be  advised that information you provided may be publicly viewable when using these  functionalities. This includes information such as, but not limited to, username  or other information you have used as your username (e.g., email address or  your name). This may result in unsolicited messages or communication beyond our  control.</p>
 			
-			<p>Mailing address information may be used for direct mail list  rental, which is managed by CPA.COM and is for one-time limited use for  companies and organizations offering products, services or programs of interest  to CPAs, other accountants and financial executives related to the profession’s  business environment. Third parties are bound by agreements which prohibit use  of information for any purpose outside of the scope of the contracted  activities.</p>
-				
-			<p>CPA.com and the AICPA share email and website usage information  about visitors who have received a targeted email promotional campaign from the  organizations with a third-party email service provider organization (Epsilon  Interactive) for the sole purpose of targeting future email campaigns and  upgrading visitor information used in reporting statistics. For this purpose, CPA.com  and Epsilon Interactive track some of the pages you visit on our website  through the use of pixel tags (also called “clear gifs”). This information is  not shared with any third parties other than Epsilon Interactive.</p>
-				
-			<p>If you are not a member of the AICPA, CPA.com will share with the  AICPA all the information collected in connection with the sale of any product  or use of website. In addition, CPA.com will transmit your username and payment  information to the AICPA so, in the future, if you elect to become a member of  the AICPA, your username on the CPA.com websites will be available to you for  use as a username on the AICPA websites. AICPA shares your information with CPA.com  and other affiliates as outlined within this section.</p>
-				
-			<p>Your personal information may also be used or shared in other than  ways that you either imply or expressly give consent to or instruct us to  undertake.</p>
-	
-	<p><strong>Choice and Opt-Out</strong><br>
-	If you have an AICPA  username, you can opt out of certain communication, including direct mail list  rentals, via “My Account” on aicpa.org, by contacting the Member Service Center  at 1.888.777.7077 (9 am – 6 pm EST, M-F) or by emailing <a href="mailto:service@aicpa.org">service@aicpa.org</a>. If you receive a specific email regarding  products, conferences or other services, you can follow the  "unsubscribe" instructions at the bottom of the specific email. Opt  outs for specific emails do not serve as a global opt out of communications for  all products or for services communications. To perform a global opt out, an  AICPA username is required on aicpa.org, as noted above. It will take 10 days  for your email opt-out selections to take effect and longer for other  communications/mailings. Though a member may opt out of receiving  communications from the AICPA, the AICPA will continue to contact the member  regarding his/her account, membership, or member’s surveys for which he/she  will have the opportunity to elect or decline to participate.</p>
-	
-				<p>In addition, you can opt out of receiving future e-mailed messages  or newsletters from CPA.com by changing your preferences in the “Preference  Center,” which can be accessed from the “My Account” section of the CPA.com  site.</p>
-	
-	<p><strong>Data Accuracy</strong><br>
-	Individuals are  responsible for providing accurate and complete personally identifiable  information, and for contacting the AICPA to correct or update information as  needed. AICPA members and non-members with AICPA usernames may view and update  their account information at any time by logging on to aicpa.org and clicking  Update Personal Information from the My Account screen, or alternatively  contact the Member Service Center at 1.888.777.7077 or <a href="mailto:service@aicpa.org">service@aicpa.org</a> from (9 am – 6 pm EST, M-F) to update their  accounts.</p>
-				
-				<p>CPA.com registered users also can check or verify the information  they have provided to CPA.com by signing in, then clicking on the "My  Profile" page of the "My Account" tab and making any necessary  edits to this information. In certain instances, if a user changes a critical  piece of personal information, such as, but not limited to, name, address,  and/or job function, a service representative may follow up with the user to  confirm the change.</p>
-	
-	<p><strong>Parents and Children</strong><br>
-	We strive to comply with  the provisions of COPPA (the Children’s Online Privacy Protection Act) and do  not knowingly collect personally identifiable information from children under  13. Parents have the right to terminate the registration of a child under 13.  Please contact the Member Service Center at 1.888.777.7077 or <a href="mailto:service@aicpa.org">service@aicpa.org</a> from (9 am – 6 pm EST, M-F) to instruct such  termination.</p>
-	
-	<p><strong>Security and Other</strong><br>
-	We use reasonable measures  to strive to safeguard and secure the personally identifiable information we  collect. Any transmission is at your own risk. Technology, such as, but not  limited to, Secured Socket Layer (SSL), is used to enhance security and reduce  risk of loss. Our security practices, processes or technology do not guarantee  absolute security of your information and you should take all normal personal  precautions such as, but not limited to, not sharing passwords, closing  browsers, and not using public networks (e.g., internet cafes, etc.).</p>
-				
-				<p>Employees of the organizations are advised to treat any personally identifiable  information with care. Internally, we limit access to personally identifiable  information to employees, contractors and agents who need access to the information  to do their jobs or perform services on behalf of the AICPA and CPA.com.</p>
-				
-				<p>Use of these Sites, with respect to privacy, is covered by binding  arbitration. Users of the Sites are encouraged to report any suspected breach  of privacy or site security to our Service Center Operations Team at the  telephone number, e-mail address, or mailing address indicated at the bottom of  this page. All reports of suspected breaches will be investigated by staff  familiar with the related security operations. Any controversy or claim related  to privacy that cannot be settled to your satisfaction shall be settled by  arbitration in New York, New York. Such disputes will be administered by the  American Arbitration Association, <a href="http://www.adr.org/" target="_blank">http://www.adr.org/</a>, 335 Madison Avenue, 10th floor, New York, New York 10017-4605,  (800) 778-7879, in accordance with its arbitration rules, and judgment upon the  award rendered by the arbitrator(s) may be entered in any court having  jurisdiction thereof.</p>
-	
-	<p><strong>Consent to Transfer</strong><br>
-	Some of the uses and  disclosures mentioned in this Joint Privacy Policy may involve the transfer of  your personal information to various countries around the world that may have  different levels of privacy protection than your country. By submitting your  personal information through this Site or otherwise, as described above, you  consent to the collection, processing, use, and transfer to the United States  and other various countries of your personal information for the purposes of and  in accordance with the principles stated in this Joint Privacy Policy.</p>
-	
-	<p><strong>Contact Information</strong><br>
-	Users of these Sites are  encouraged to report any improvements, suggestions, any suspected breach of  privacy or website security to our Service Center Operations Team at the  telephone number, email address, or mailing address indicated as follows:</p>
-
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-		<tbody><tr>
-			<td valign="top" width="50%">American Institute of CPAs<br>
-			220 Leigh Farm Road <br>
-			Durham, NC 27707<br>
-			P: 1.888.777.7077<br>
-			F: 1.800.362.5066<br>
-			Hours of Operation: (9 am – 6 pm, EST, M-F)<br>
-			<a href="mailto:service@aicpa.org">service@aicpa.org</a></td>
+			<p><strong>Collection of Passive Information</strong><br>
+			Upon any use of the Sites, we collect non-identifying information through  the use of cookie technology and/or Internet Protocol (IP) address tracking/URL  tracking. This information is used to perform effective capacity planning,  administer the Sites, troubleshoot website performance, track aggregate users'  movements, gather aggregate demographics and accurately document transactional  information for business partners.</p>
 			
-			<td valign="top" width="50%">CPA.com<br>
-			1211 Avenue of the Americas<br>
-			New York, NY 10036<br>
-			P: 1.888.777.7077<br>
-			F: 1.800.362.5066<br>
-			Hours of Operation: (9 am – 6 pm, EST, M-F)<br>
-			<a href="mailto:suggestions@hq.cpa.com">suggestions@hq.cpa.com</a></td>
-		</tr>
-	</tbody></table>
-	
-	<p><strong>Websites Covered</strong><br>
-	This policy covers AICPA.org, CPA.com, and all other AICPA and CPA.com affiliated sites that link to this policy.</p>
-	
+			<p><strong>The Use of Cookies for Advertising</strong><br>
+			In the course of serving advertisements to this site, our third party  advertiser(s) (including but not limited to Google AdWords, Google Analytics,  and the Google Display Network) may place or recognize a unique cookie on your  browser. If you would like more information about this practice and to know  your choices about not having this information used by this company, please  click here <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices/</a>. Industry standards are  currently evolving and we may not separately respond to or take any action with  respect to a “do not track” configuration set in your internet browser.</p>
+			
+			<p><strong>Use of Information and Sharing and Disclosure to Third Parties</strong><br>
+			We use collected  information to build quality and useful services and user interactions by  analyzing user trends and by measuring demographics and interests. Collected  information is used to send newsletters, promotional messages, product  announcements, request for contributions or other communications that may be of  interest to you. We also use information collected to refer you to our  specialty membership areas. You may opt out of receiving these communications  (see Choice and Opt Out below).</p>
+			
+			<p>We share your information with third parties as permitted or  required by law. Your personal information may also be used or shared in other  ways that you either imply or expressly give consent to or instruct us to  undertake. We use and maintain your information as determined by the  organizations’ business needs, or as required or permitted by law.</p>
+			
+			<p><strong>Choice and Opt-Out</strong><br>
+			If you have an AICPA.org  account, you can opt out of certain communications, including direct mail list  rentals, via “My Account” on aicpa.org, by contacting the Member Service Center  at 1.888.777.7077 (9 am – 6 pm EST, M-F) or by emailing <a href="mailto:service@aicpa.org">service@aicpa.org</a>. If you receive a specific email regarding  products, conferences or other services, you can follow the  "unsubscribe" instructions at the bottom of the specific email.</p>
+			
+			<p>In addition, you can opt out of receiving future e-mailed messages  or newsletters from CPA.com by changing your preferences in the “Preference  Center,” which can be accessed from the “My Account” section of the CPA.com  site.</p>
+			
+			<p><strong>Data Accuracy</strong><br>
+			Individuals are  responsible for providing accurate and complete personally identifiable  information and for contacting the AICPA to correct or update information as  needed. AICPA members and non-members with AICPA.org accounts may view and  update their account information at any time by logging on to aicpa.org and  clicking Update Personal Information from the My Account screen, or alternatively  contact the Member Service Center at 1.888.777.7077 or <a href="mailto:service@aicpa.org">service@aicpa.org</a> from (9 am – 6 pm EST, M-F) to update their  accounts.</p>
+			
+			<p>CPA.com registered users also can check or verify the information  they have provided to CPA.com by signing in, then clicking on the "My  Profile" page of the "My Account" tab and making any necessary  edits to this information.</p>
+			
+			<p><strong>Parents and Children</strong><br>
+			We strive to comply with  the provisions of COPPA (the Children’s Online Privacy Protection Act) and do  not knowingly collect personally identifiable information from children under  13. Parents have the right to terminate the registration of a child under 13.  Please contact the Member Service Center at 1.888.777.7077 or <a href="mailto:service@aicpa.org">service@aicpa.org</a> from (9 am – 6 pm EST, M-F) to instruct such  termination.</p>
+			
+			<p><strong>Security and Other</strong><br>
+			We use reasonable  measures to strive to safeguard and secure the personally identifiable  information we collect. Any transmission is at your own risk. Technology, such  as, but not limited to, Secured Socket Layer (SSL), is used to enhance security  and reduce risk of loss. Employees of the organizations are advised to treat  any personally identifiable information with care.</p>
+			
+			<p>Use of these Sites, with respect to privacy, is covered by binding  arbitration. Users of the Sites are encouraged to report any suspected breach  of privacy or site security to our Service Center Operations Team at the  telephone number, e-mail address, or mailing address indicated at the bottom of  this page.</p>
+			
+			<p><strong>Consent to Transfer</strong><br>
+			Some of the uses and  disclosures mentioned in this Joint Privacy Policy may involve the transfer of  your personal information to various countries around the world that may have  different levels of privacy protection than your country. By submitting your  personal information through this Site or otherwise, as described above, you  consent to the collection, processing, use, and transfer of your personal information  to the United States and other countries for the purposes of and in accordance  with the principles stated in this Joint Privacy Policy.</p>
+			
+			<p><strong>Contact Information</strong><br>
+			Users of these Sites are  encouraged to report any improvements, suggestions, any suspected breach of  privacy or website security to our Service Center Operations Team at the  telephone number, email address, or mailing address indicated as follows:</p>
+						
+			<div style="float:left; width:48%; margin-right:4%;">
+				<strong>American Institute of CPAs</strong><br>
+				220 Leigh Farm Road<br>
+				Durham, NC 27707<br>
+				P: 1.888.777.7077<br>
+				F: 1.800.362.5066<br>
+				Hours of Operation: (9 am – 6 pm, EST, M-F)<br>
+				<a href="mailto:service@aicpa.org">service@aicpa.org</a>
+			</div>
+			
+			<div style="float:left; width:48%;">
+				<strong>CPA.com</strong><br>
+				1211 Avenue of the Americas<br>
+				19th Floor<br>
+				New York, NY 10036<br>
+				P: 1.888.777.7077<br>
+				F: 1.800.362.5066<br>
+				Hours of Operation: (9 am – 6 pm, EST, M-F)<br>
+				<a href="mailto:suggestions@hq.cpa.com">suggestions@hq.cpa.com</a>
+			</div>
+			
+			<div style="clear:both;"></div>
+			
+			<p><strong>Websites Covered</strong><br>
+			This policy covers AICPA.org, CPA.com, and all other AICPA and CPA.com  affiliated sites that link to this policy.</p>
+			
+		</div>
+	</div>
 </div>
-</div>
+
 			
         <script type="text/javascript">
 
@@ -608,8 +565,12 @@ We use personally  identifiable information collected for membership, non-member
 
 </script>
 
-	<script type="text/javascript" src="/media/scripts/acton.js"></script><img src="http://marketing.cpa2biz.com/acton/bn/4055/visitor.gif?ts=1580424464021&amp;ref=">
+	<script type="text/javascript" src="/media/scripts/acton.js"></script><img src="http://marketing.cpa2biz.com/acton/bn/4055/visitor.gif?ts=1580424465740&amp;ref=">
 
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type="text/javascript" src="/media/scripts/qualtrics.js"></script>
+<div id="ZN_9KvpoQd5WjcxUS9"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
 <!-- TODO: Reconcile Enterprise Desktop Content with Footer Links (were pointing to Kegger:7010) -->
 <div id="Footer">
     <div class="Headerbox" style="height: 10px; background-color: #00427b;">
@@ -633,11 +594,11 @@ We use personally  identifiable information collected for membership, non-member
 			    			<a href="https://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/Customer_Service/Track_Your_Order.jsp">Order Tracking and History</a>
 			            </li>	
 			   		
-			    		<li>
-			    			<img alt="" title="" src="/media/generic_site_content/images/footer_arrow.gif" class="FooterArrow">
-			    			<a href="https://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/Customer_Service/Forgot_Password.jsp">Forgot Password</a>
-			            </li>	
-			   		
+			   					<li>
+			    				<img alt="" title="" src="/media/generic_site_content/images/footer_arrow.gif" class="FooterArrow">
+			    				<a href="https://account.aicpa.org/eWeb/DynamicPage.aspx?WebCode=forgotpassword">Forgot Password</a>
+			            		</li>
+			   				
 			    		<li>
 			    			<img alt="" title="" src="/media/generic_site_content/images/footer_arrow.gif" class="FooterArrow">
 			    			<a href="http://www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/Customer_Service/Help.jsp">Help</a>
@@ -693,15 +654,6 @@ We use personally  identifiable information collected for membership, non-member
 	   		</div>
 	   		
 	   	</div>
-      <div class="ScanAlertInfo" style="width:100px;margin-top:-15px;margin-left:-100px;float:left;">
-        <div style="margin-left:25px; margin-right:20px; margin-top:20px;">
-
-          <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.cpa2biz.com">
-            <img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.cpa2biz.com/55.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;">
-          </a>
-
-        </div>
-      </div>
         <div class="Socialbookmark" style="float: right; width: 20%;text-align:right;_width:18%;_text-align:left;">
         
             <span class="FooterHeader"></span>
@@ -723,18 +675,17 @@ We use personally  identifiable information collected for membership, non-member
         margin-top: 25px; padding-bottom: 30px;color:#736d73;">
         <div id="VersionNumber" style="float: right; width: 20%;text-align:right;">
             <b>Current Published Version :
-                526
+                1100
             </b>
         </div>
         <div id="DisclaimerContent" style="float: left; width: 80%;">
-            © 2001-2015 CPA.com All Rights Reserved. CPA.com and the CPA.com logo are trademarks and service marks of CPA.com<br> 1211 Avenue of the Americas, 19th Floor, New York, NY 10036-8775. All other trademarks are the property of their respective owners.<br> To place an order by phone or for other assistance, please call 1-888-777-7077.
+            © 2001-2016 CPA.com All Rights Reserved. CPA.com and the CPA.com logo are trademarks and service marks of CPA.com<br> 1211 Avenue of the Americas, 19th Floor, New York, NY 10036-8775. All other trademarks are the property of their respective owners.<br> To place an order by phone or for other assistance, please call 1-888-777-7077.
         </div>
         <div class="NoColumns">
         </div>
     </div>
 </div>
-
     	<!-- </div> -->
     </div>
 
-</div></div></body></html>
+<script type="text/javascript" src="//web.archive.org/web/20160406154336/http://zn9kvpoqd5wjcxus9-aicpa.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_9KvpoQd5WjcxUS9&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160314120007id_%2Fhttp%253A%2F%2Fwww.cpa2biz.com%2FAST%2FAICPA_CPA2BiZ_Nav%2FFooter%2FGeneral_Site_Information%2FPrivacy_Policy.jsp&amp;t=1580424465763"></script></body></html>
