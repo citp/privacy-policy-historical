@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forzieri.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905055444id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forzieri.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314223416id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 	<meta charset="iso-8859-1">
@@ -12,7 +12,26 @@
 <meta name="fragment" content="!">
 <meta http-equiv="cleartype" content="on">
 
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/favicon/android-icon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/img/favicon/manifest.json">
+<meta name="apple-mobile-web-app-title" content="Forzieri">
+<meta name="application-name" content="Forzieri">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="shortcut icon" href="/img/favicon/favicon.ico">
 
 <title>FORZIERI | Help  | Security &amp; Privacy  | Privacy Policy </title>
 <meta name="description" content="">
@@ -32,12 +51,12 @@
 <link rel="alternate" type="application/rss+xml" title="FORZIERI: ALL THAT SPARKLES" href="http://www.forzieri.com/rss_InfoJewels.asp?l=usa&amp;c=usa">
 <link rel="alternate" type="application/rss+xml" title="FORZIERI: TIES &amp; TIES" href="http://www.forzieri.com/rss_InfoTiesDressShirts.asp?l=usa&amp;c=usa">
 
-<link href="/shared/build_4497/css/site.css" rel="stylesheet">
-<link href="/shared/build_4497/css/common.css" rel="stylesheet">
+<link href="/shared/build_5172/css/site.css" rel="stylesheet">
+<link href="/shared/build_5172/css/common.css" rel="stylesheet">
 
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
 var FZ = window.FZ = {
-	assetDir: '/shared/build_4497',
+	assetDir: '/shared/build_5172',
 	xmlLocale: 'en-US',
 	language: 'usa',
 	currency: 'usa',
@@ -49,13 +68,12 @@ var FZ = window.FZ = {
 	isPrivClub: false,
 	disabledPrivClubOnThisPage: false,
 	disableMobileInterstitial: false,
-	siteArea: '',
-	bannerPromoURL: '/shared/build_4497/ajax/banner.ajax.asp?l=usa&c=usa'
+	siteArea: ''
 };
 </script>
 
-<script src="/shared/build_4497/js/script.min.js"></script>
-<script src="/shared/build_4497/js/app.min.js"></script>
+<script src="/shared/build_5172/js/script.min.js"></script>
+<script src="/shared/build_5172/js/app.min.js"></script>
 
 <script>
 //<![CDATA[
@@ -68,8 +86,8 @@ var FZ = window.FZ = {
 	
 
 
-	$script('/shared/build_4497/js/modules.min.js');
-	$script('/shared/build_4497/js/global-navigation.min.js');
+	$script('/shared/build_5172/js/modules.min.js');
+	$script('/shared/build_5172/js/global-navigation.min.js');
 	
 //]]>
 </script>
@@ -86,7 +104,7 @@ domready(function() {
 		if ( Tools.isMobilePhone() ) {
 			if ( !Cookie.read('FzInterstitial') && !(FZ.disableMobileInterstitial || FZ.disabledPrivClubOnThisPage) ) {
 				setTimeout(function() {
-					$script('/shared/build_4497/js/mobile-interstitial.min.js', function(){
+					$script('/shared/build_5172/js/mobile-interstitial.min.js', function(){
 						window.MobileInterstitial.showMobileInterstitialAsPopup();
 					});
 				}, 3000);
@@ -97,12 +115,9 @@ domready(function() {
 			var privClubCookie = Cookie.read('FzPrivClub');
 			if ( (!privClubCookie || (privClubCookie != 'cancelled' && privClubCookie != 'subscribed')) && !FZ.disabledPrivClubOnThisPage ) {
 				new Request.HTML({
-					url: '/shared/build_4497/ajax/popup.ajax.asp?l=usa&c=usa',
+					url: '/shared/build_5172/ajax/popup.ajax.asp?l=usa&c=usa',
 					method: 'post',
-					update: new Element('div').inject($(document.body)),
-					data: {
-						AID: new URI().getData('AID')
-					}
+					update: new Element('div').inject($(document.body))
 				}).send();
 			}
 		}
@@ -110,6 +125,8 @@ domready(function() {
 });
 //]]>
 </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+
 <script>
 //<![CDATA[
 
@@ -154,16 +171,16 @@ domready(function() {
 	
 //]]>
 </script>
-<link href="/shared/build_4497/css/help.css" rel="stylesheet">
+<link href="/shared/build_5172/css/help.css" rel="stylesheet">
 
 <script>
 //<![CDATA[
 
-$script('/shared/build_4497/js/help.min.js');
+$script('/shared/build_5172/js/help.min.js');
 
 //]]>
 </script><!--[if (lt IE 9) & (!IEMobile)]>
-	<link href="/shared/build_4497/css/ie.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/build_5172/css/ie.css" rel="stylesheet" type="text/css" />
 	<script src="/js/libs/html5shiv.js"></script>
 	<script>
 		$script.ready('mootools', function() {
@@ -172,7 +189,7 @@ $script('/shared/build_4497/js/help.min.js');
 	</script>
 <![endif]-->
 
-<script async="" defer="" src="//sdata.captifymedia.com/194286.js?r=9385988582117252&amp;m=1112&amp;a=194286"></script><script async="" defer="" src="//fp.gdmdigital.com/246040.js?r=1164266982914950&amp;m=992&amp;a=246040"></script><script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/FORZIERI.js"></script></head>
+<script async="" defer="" src="//sdata.captifymedia.com/194286.js?r=9578694470310464&amp;m=1112&amp;a=194286"></script><script async="" defer="" src="//fp.gdmdigital.com/246040.js?r=1755065758987721.8&amp;m=992&amp;a=246040"></script><script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/FORZIERI.js"></script></head>
 <body class="usa help ">
 	
 	<div id="doc">
@@ -182,7 +199,7 @@ $script('/shared/build_4497/js/help.min.js');
 <script>
 //<![CDATA[
 	$script.ready('mootools', function() {
-		$script('/shared/build_4497/js/facebook.min.js', 'facebook', function() {
+		$script('/shared/build_5172/js/facebook.min.js', 'facebook', function() {
 			Facebook = new FacebookLoader('101040659951193');
 		});
 		
@@ -212,6 +229,20 @@ $script('/shared/build_4497/js/help.min.js');
 </div>
 <div id="mobile-drawer" class="closed"></div>
 
+
+
+<script>
+//<![CDATA[
+	$script.ready('mootools', function() {
+		if ( !Tools.isMobilePhone() ) {
+			$$('.sticky-header').dispose().inject($(document.body), 'top');
+		}
+	});
+//]]>
+</script>
+
+
+
 <header class="hd" role="banner">
 	<div class="mobile-main-nav">
 		<a href="#" id="open-drawer"></a>
@@ -220,7 +251,7 @@ $script('/shared/build_4497/js/help.min.js');
 	
 	<div class="branding" itemscope="" itemtype="http://schema.org/Organization">
 		<a itemprop="url" href="http://www.forzieri.com/">
-			<img itemprop="logo" src="/img/site/forzieri_logo.png" alt="Forzieri Firenze - Fashion &amp; Luxury Wordwide">
+			<img itemprop="logo" src="/img/site/forzieri_logo_mobile.png" alt="Forzieri Firenze - Fashion &amp; Luxury Wordwide">
 		</a>
 	</div>
 	
@@ -319,7 +350,7 @@ $script('/shared/build_4497/js/help.min.js');
 			<li><a href="https://secure.forzieri.com/usa/account.asp?l=usa&amp;c=usa">My Account</a></li>
 			<li><a href="http://www.forzieri.com/usa/privclub.asp?l=usa&amp;c=usa" class="subnav_email">Email Updates</a></li>
 			<li><a href="https://secure.forzieri.com/usa/wish_mylist.asp?l=usa&amp;c=usa">Wish List</a></li>
-			<li id="shoppingBag" class="usa"><a href="http://www.forzieri.com/usa/basket.asp?l=usa&amp;c=usa">Shopping Bag <span id="basket_items"></span></a></li>
+			<li><a href="http://www.forzieri.com/usa/basket.asp?l=usa&amp;c=usa">Shopping Bag<span id="basket_items"></span></a></li>
 		</ul>
 
 		
@@ -331,7 +362,7 @@ $script('/shared/build_4497/js/help.min.js');
 	<a class="overlay_trigger countrysite_trigger" href="http://www.forzieri.com/countrysite.asp?l=usa&amp;c=usa" data-overlay-trigger="content:fz_countrysite_menu alignH:left alignV:top">
 		Country&nbsp;<span>United States</span>
 	</a>
-	
+
 	<div id="fz_countrysite_menu" class="overlay overlay_theme_white countrysite_overlay fz_countrysite_scroller fz_scroller" data-fzscroller="height:400 closable:false closed:false theme:white">
 		<ul class="fz_scroller_placeholder">
 <li><a class="selected" href="http://www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp?l=usa&amp;c=usa">United States</a></li>
@@ -523,7 +554,6 @@ $script('/shared/build_4497/js/help.min.js');
 <li><a href="http://www.forzieri.com/usa/help/security-and-privacy/secure-shopping-guarantee.asp?l=usa&amp;c=usa">Secure Shopping Guarantee</a></li>
 <li><a href="http://www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp?l=usa&amp;c=usa">Privacy Policy</a></li>
 <li><a href="http://www.forzieri.com/usa/help/security-and-privacy/terms-and-conditions.asp?l=usa&amp;c=usa">Terms &amp; Conditions</a></li>
-
 </ul>
 
 </div>
@@ -631,25 +661,6 @@ $script('/shared/build_4497/js/help.min.js');
 
 <!-- / Tag/Hurra  -->
 
-<!-- Media31 Google Code for Site Visitors Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1070216071;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "3HCVCKHIpAMQh-eo_gM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070216071/?value=0&amp;label=3HCVCKHIpAMQh-eo_gM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript> 
-<!-- /Media31 -->
 
 <!-- Captify -->
 <script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"":"s")+"data.captifymedia.com/194286.js?r="+Math.random()*1e16+"&m=1112&a=194286"+(iatDev?"&d=1":"")))</script>
@@ -679,27 +690,63 @@ var google_conversion_value = 0;
 </script>
 <!-- SaleCycle -->
 
+<!-- Clickwise Google Remarketing Tag -->
+<script>
+//<![CDATA[
+if ( typeof window.google_trackConversion === 'function' ) {
+	window.google_trackConversion({
+		google_conversion_id: 943680105,
+		google_custom_params: window.google_tag_params,
+		google_remarketing_only: true
+	});
+}
+//]]>
+</script>
+<noscript>
+<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/943680105/?value=0&amp;guid=ON&amp;script=0"/></div>
+</noscript>
+<!-- /Clickwise -->
+
+<!-- Media31 Google Remarketing Tag -->
+<script type="text/javascript">
+//<![CDATA[
+if ( typeof window.google_trackConversion === 'function' ) {
+	window.google_trackConversion({
+		google_conversion_id: 1070216071,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "3HCVCKHIpAMQh-eo_gM",
+		google_conversion_value: 0,
+		google_remarketing_only: true
+	});
+}
+//]]>
+</script>
+<noscript>
+<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1070216071/?value=0&amp;label=3HCVCKHIpAMQh-eo_gM&amp;guid=ON&amp;script=0"/></div>
+</noscript>
+<!-- /Media31 -->
+
 		
 	</div>
 	
 	<div id="balloons">
-	
+
 	<div class="balloon-box" id="callHelp">
 	
 		<h4><strong>Help Desk</strong></h4>
 		<p>Service available Monday through Friday:<br><br>US: 3.30 am to 2 pm US E.S.T.<br>UK: 8.30 am to 7 pm<br>Australia: 5.30 pm to 4 am Sydney Time</p>
 	
-		<p style="color:#910000;"><br>Closing days: offices will be closed on April 25th, May 1st, June 2nd, June 24th, August 15th, December 25th &amp; 26th, January 1st.</p>
+		<p style="color:#910000;"><br></p><h3>Closing days</h3><p>Offices will be closed on April 25th, May 1st, June 2nd, June 24th, August 15th, December 25th &amp; 26th, January 1st, January 6th.</p><p></p>
 	
 	</div>
-	
-	
+
 	<div class="balloon-box" id="privilegesHelp">
 		<h4>Be the first to know</h4>
 		<p>Sign up for insider news and members only specials</p>
 	</div>
-	
-	
+
 	<div class="balloon-box" id="id_infoprod">
 		<p></p>
 	</div>
@@ -707,62 +754,62 @@ var google_conversion_value = 0;
 	<div class="balloon-box" id="id_packagefragrance">
 		<p>To apply fragrance to your chosen gift wrap select one of the Forzieri options on the bar to the right.</p>
 	</div>
-	
+
 	<div class="balloon-box" id="id_cardfragrance">
 		<p>To apply fragrance to your gift card select one of the Forzieri options on the bar to the right.</p>
 	</div>
-	
 
-	
-	
+
+
+
 	<div class="balloon-box" id="i_ReturnNotes">
 		<p>No extra cost will incur on exchanges between discounted sizes (in-stock sizes). In case of exchange between discounted size with full price size (not in stock/order upon request), price difference will apply. See size availability status for details.</p>
 	</div>
 
 
-	
+
 	<div class="balloon-box" id="contestInfo">
 		<p><strong>United States of America</strong><br>
 			<em>(New York, Florida and Puerto Rico excepted)</em></p>
-		<p>&nbsp;</p>
 		<p><strong>European Union</strong><br>
 			Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, <br>
 			Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, <br>
 			Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, <br>
 			Slovenia, Spain, Sweden, United Kingdom.<br>
-			<em>(Italy excepted)</em></p>
+			<em>(Italy excepted)</em>
+		</p>
 	</div>
-	
+
 	<div class="balloon-box" id="freeShippingHelp_2">
 		<h4>Enjoy FREE SHIPPING:</h4>
 		<p>· Enter code <strong>SANTA2010</strong> in your Shopping Bag before checkout<br>· Applies on order over $175.00 shipped via Premim Standard Shipping option<br>· Promotion does not combine with any other offer or discount available on FORZIERI<br>· Available for a limited time only<br>· Valid only for shipping within the United States</p>
 	</div>
-	
+
 	<div class="balloon-box" id="prvInfoInvite">
 		<strong>Invite a new member</strong>
 		<p>quale messaggio devo metter qui?</p>
 	</div>
-	
+
 	<div class="balloon-box" id="infosubscribe">
 		
 	</div>
-	
+
 	<div class="balloon-box" id="i_invite">
 		As a Privé, Member you have the right to invite your friends to become members as well. Every member's first purchase will earn you a $10.00 Value GOLD BAR bonus available to spend in ANY area of the Forzieri boutique (both public or privé)
 	</div>
-	
+
 	<div class="balloon-box balloon_speech" id="GiftWrapInfo">
 		<p>Select Sensorial Gift Wrapping during checkout</p>
 	</div>
-	
+
 	<div class="balloon-box balloon_speech balloon-box-small" id="ProductListItemVariant">
 		<p>View colors</p>
 	</div>
-	
+
 	<div class="balloon-box balloon_speech balloon-box-small" id="ProductListItemWishlist">
 		<p>Add to wishlist</p>
 	</div>
-	
+
 	<div class="balloon-box balloon_speech balloon-box-small" id="ProductListCustomSize">
 		<p>This item can usually be crafted also according to your size request. Please contact our product specialists to find out more.</p>
 	</div>
