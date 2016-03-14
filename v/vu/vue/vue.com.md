@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201055823id_/http%3A//home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314160953id_/https%3A//home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx%23cookies-and-web-beacons) for the most accurate reproduction.*
 
 # Privacy and cookies policy :: Pearson VUE
 
@@ -288,7 +288,7 @@ If you have questions or concerns about this Privacy Policy or how we handle per
 
 If you block cookies or cookies are not enabled on your computer, it will mean that your browsing or shopping experience on our websites will be limited. Some active content, movies and online shopping baskets, for example, may not work correctly.
 
-To turn cookies on or off for all of our websites via your web browser, you can follow the instructions provided by the UK Information Commission Office at [www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx](http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx).
+To turn cookies on or off for all of our websites via your web browser, you can follow the instructions provided by the UK Information Commission Office at [www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies.aspx](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies.aspx).
 
 **_Web Beacons._** Web Beacons are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data. For example, when you visit a page on this Site, the code for the page being visited may be transferred to us. The information transmitted to us is only used internally by us and is not shared with any third parties, except as provided in this Privacy Policy. We use this information for the following purposes:
 
