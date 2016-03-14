@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesforgirls.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080850id_/http%3A//www.gamesforgirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgirls.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314085540id_/http%3A//www.gamesforgirls.com/privacy) for the most accurate reproduction.*
 
 # Games for Girls Privacy Policy
 
