@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogs.it privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231103952id_/http%3A//www.blogs.it/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs.it privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314232641id_/http%3A//www.blog.co.uk/company/privacy.php) for the most accurate reproduction.*
 
-# blogs.it - Privacy Policy
+# blog.co.uk - Privacy Policy
 
 ### blog.de Privacy Notice
 
