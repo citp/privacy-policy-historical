@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912030054id_/http%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314104211id_/http%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice StickerGiant
 
@@ -8,15 +8,15 @@ Our postal address is P.O. Box 301, Hygiene, CO 80533
 
 We can be reached via e-mail at stickers@stickergiant.com or you can reach us by telephone at (866) 774-7900
 
-### EMAIL NEWSLETTER LIST
+## EMAIL NEWSLETTER LIST
 
 Email collected on this site via the order process is automatically included in our newsletter mailing list. Anybody can opt-out or opt-in to our newsletter list at any time by clicking here. We never share your email with anybody outside of this company, ever. 
 
-### CREDIT CARD CHARGES
+## CREDIT CARD CHARGES
 
 The charges made to your credit card will show up as "StickerGiant.com Inc."
 
-### WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?
+## WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?
 
   * **We May Collect Information Needed to Contact You Later.  **If we collect personal contact information (as described below), you may not later be able to access, modify or remove it from our system.
   * **We May Collect Your Name, Address and Phone Number.** When you use our site, we may request your name, street address, telephone number or other "real world" contact information. This information does not inherently reveal and will not be linked to you personally. We use this information to complete and support the immediate activity requested, market things to you in the future (other than by telemarketing), and to comply with any requirements of law. This information may be disclosed to our staff and our immediate agents, and to other organizations adhering to our privacy practices.
@@ -28,7 +28,7 @@ The charges made to your credit card will show up as "StickerGiant.com Inc."
 
 
 
-### ONLINE ADVERTISING WE USE
+## ONLINE ADVERTISING WE USE
 
 StickerGiant uses Google AdWords Remarketing and other third-party vendors to advertise our stickers across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the StickerGiant website you have viewed by placing a “cookie” on your computer or mobile device. **This cookie does not provide your identity or give unauthorized access to your computer or mobile device.** The cookie is used to say: "This person visited this page, so show them ads relating to that page." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you. Cookies from our site can't be read by other sites. Most browsers will accept cookies until you change browser settings to refuse them. We take our customer’s privacy very seriously. We feel that certain personal information should always be kept private, so we’ve developed restrictions around the types of ads where we don’t allow remarketing. When creating remarketing lists, we can’t use any sensitive information about users.
 
@@ -38,28 +38,32 @@ You can also opt out of any third-party vendor's use of cookies by visiting [Net
 
 If you have any other questions about remarketing and cookies, please contact us via email at [Marketing@​StickerGiant​.com](mailto:Marketing@%E2%80%8BStickerGiant%E2%80%8B.com?subject=Question%20About%20Remarketing%20and%20Privacy%20Policy).
 
-### CERTAIN EXCEPTIONAL DISCLOSURES
+## CERTAIN EXCEPTIONAL DISCLOSURES
 
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process.
 
-### HOW DO WE PROTECT INFORMATION WE COLLECT?
+## HOW DO WE PROTECT INFORMATION WE COLLECT?
 
 We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our site reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-### HOW LONG DO WE KEEP USER INFORMATION?
+## HOW LONG DO WE KEEP USER INFORMATION?
 
 We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it.
 
-### YOUR CONSENT TO THIS POLICY
+## TERMS OF USE
+
+When using StickerGiant.com, you certify that you own rights to or have a license to use the designs and images being produced as part of your order. You own all and retain all rights in the artwork that you provide to StickerGiant. You agree to defend, indemnify and hold harmless StickerGiant.com and its affiliates from and against any and all claims, damages, costs and expenses, including attorneys’ fees, arising from or related to your use of our website.
+
+## YOUR CONSENT TO THIS POLICY
 
 By using our site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change it by posting a new version on our site.
 
-### LEGAL DISCLAIMER
+## LEGAL DISCLAIMER
 
-This site operates as-is and as-available. Any warranties of accuracy, quality, title, fitness or merchantability are disclaimed. We are not liable for direct, indirect, incidental or consequential damages, or for events beyong our direct control.
+This site operates as-is and as-available. Any warranties of accuracy, quality, title, fitness or merchantability are disclaimed. We are not liable for direct, indirect, incidental or consequential damages, or for events beyond our direct control.
 
 This Policy is governed by Colorado law, excluding conflicts of law principles. Any provision of this Policy that is illegal or unenforceable shall be deemed automatically conformed to the minimum requirements of law. Any legal actions against us must be commenced in Colorado within one year after the claim arose, or be barred.
 
-### IF YOU HAVE A PRIVACY QUESTION
+## IF YOU HAVE A PRIVACY QUESTION
 
 If you have a privacy question about our site, please write: StickerGiant.com, Attn: Privacy Policy, PO Box 301 Hygiene, CO 80533.
