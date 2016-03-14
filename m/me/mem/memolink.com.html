@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619055647id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314211132id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="stylish-select"><head>
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,12 +15,13 @@
 			<meta name="google-site-verification" content="W0qnfsNagr8iOTdiCpnz8DhzO0xXOvbxjxL8ISQ_yNU">
 			
 
+
 			<link rel="shortcut icon" href="/assets/images/memolinkFavicon.ico">
 
 			<link rel="stylesheet" href="/assets/css/reset.css" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/jquery.autocomplete.css" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/style2.css?v=15.1" type="text/css" media="screen, projection">
-			<link rel="stylesheet" href="/assets/css/slider.css?vs=1" type="text/css" media="screen, projection">
+			<link rel="stylesheet" href="/assets/css/slider.css?vs=5" type="text/css" media="screen, projection">
 
 			
 				<link rel="stylesheet" href="/assets/css/form.css" type="text/css" media="screen, projection">
@@ -189,26 +190,6 @@
 				};
 
 				
-					var toolbarArray = new Array();
-
-					function ToolBarInit(toolbar) {
-						var inArray = false;
-
-						for (i = 0; i < toolbarArray.length; i++) {
-							if (toolbar.UserID == toolbarArray[i].UserID) {
-								inArray = true;
-							};
-						};
-
-						if (!inArray) {
-							toolbarArray.push(toolbar);
-
-							if (toolbar.toolid == 100723) {
-								toolbar.Options.Authenticated("merle2@msn.com", "1", "1", true); toolbar.Reload()
-							};
-						};
-					};
-				
 
 				function freecauseSearch() {
 					// alert("here");
@@ -272,6 +253,28 @@
 					document.getElementById("checklist-mystores").className = "checklist-checked";
 				});
 
+
+				$("#checklist-topRecommendations").click (function() {
+					var date = new Date();
+					var value = "true";
+					var name = "checklist-topRecommendations";
+					var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
+					var expires = "; expires=" + midnight.toGMTString();
+					document.cookie = name+"="+value+expires+"; path=/";
+					
+					document.getElementById("checklist-topRecommendations").className += " is-checked";
+				});
+
+				$("#checklist-search-and-win").click (function() {
+					var date = new Date();
+					var value = "true";
+					var name = "checklist-search-and-win";
+					var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
+					var expires = "; expires=" + midnight.toGMTString();
+					document.cookie = name+"="+value+expires+"; path=/";
+					document.getElementById("checklist-search-and-win").className = "checklist-checked";
+				});
+
 				$("#checklist-easy").click (function() {
 					var date = new Date();
 					var value = "true";
@@ -280,6 +283,16 @@
 					var expires = "; expires=" + midnight.toGMTString();
 					document.cookie = name+"="+value+expires+"; path=/";
 					document.getElementById("checklist-easy").className = "checklist-checked";
+				});
+
+				$("#checklist-click-for-points").click (function() {
+					var date = new Date();
+					var value = "true";
+					var name = "checklist-click-for-points";
+					var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
+					var expires = "; expires=" + midnight.toGMTString();
+					document.cookie = name+"="+value+expires+"; path=/";
+					document.getElementById("checklist-click-for-points").className = "checklist-checked";
 				});
 
 				$("#checklist-memocodes").click (function() {
@@ -343,155 +356,183 @@
 			<ul>
 				
 				<li>
+						<a href="/index.cfm?originID=6" class="noLinkUnderline navBarText">home</a>
+				</li>
+				
+				<li>
 					<a href="/index.cfm/shop.allstores?originID=20&amp;originDetail=11_top-shop" class="noLinkUnderline navBarText">shop</a>
 					<ul>
 						<li>
 							<a href="#"><span class="spanLeft">Shop Categories</span></a>
 							<ul>
 								<li>
-								<a href="/index.cfm/shop.category/60/?originid=20originDetail=11_category-ASOTV"><span class="spanLeft">As Seen on TV</span></a>
+								<a href="/index.cfm/shop.category/category/60/sort/totalFavorited/order/desc/?originid=20originDetail=11_category-ASOTV"><span class="spanLeft">As Seen on TV</span></a>
 								
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/6/?originid=20&amp;originDetail=11_category-Baby"><span class="spanLeft">Baby &amp; Children</span></a>
+									<a href="/index.cfm/shop.category/category/6/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Baby"><span class="spanLeft">Baby &amp; Children</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/17/?originid=20&amp;originDetail=11_category-Baby-Clothing"><span class="spanLeft">Clothing &amp; Accessories</span></a></li>
-										<li><a href="/index.cfm/shop.category/18/?originid=20&amp;originDetail=11_category-Baby-Toys"><span class="spanLeft">Toys &amp; Games</span></a></li>
-										<li><a href="/index.cfm/shop.category/6/?originid=20&amp;originDetail=11_category-Baby-All"><span class="spanLeft">All Baby &amp; Children Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=baby%20and%20children&amp;originid=20&amp;originDetail=11_category-Baby-Coupons"><span class="spanLeft">All Baby &amp; Children Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/17/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Baby-Clothing"><span class="spanLeft">Clothing &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/18/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Baby-Toys"><span class="spanLeft">Toys &amp; Games</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/6/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Baby-All"><span class="spanLeft">All Baby &amp; Children Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=baby and children&amp;originid=20&amp;originDetail=11_category-Baby-Coupons"><span class="spanLeft">All Baby &amp; Children Coupons</span></a></li>
 										
 									</ul>
 								</li>
 
 								<li>
-									<a href="/index.cfm/shop.category/7/?originid=20&amp;originDetail=11_category-Books"><span class="spanLeft">Books &amp; Media</span></a>
+									<a href="/index.cfm/shop.category/category/7/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Books"><span class="spanLeft">Books &amp; Media</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/20/?originid=20&amp;originDetail=11_category-Books-Magazines"><span class="spanLeft">Books &amp; Magazines</span></a></li>
-										<li><a href="/index.cfm/shop.category/21/?originid=20&amp;originDetail=11_category-Books-Movies"><span class="spanLeft">Movies, Music &amp; Gaming</span></a></li>
-										<li><a href="/index.cfm/shop.category/7/?originid=20&amp;originDetail=11_category-Books-All"><span class="spanLeft">All Books &amp; Media Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=books%20and%20media?originid=20&amp;originDetail=11_category-Books-Coupons"><span class="spanLeft">All Books &amp; Media Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/20/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Books-Magazines"><span class="spanLeft">Books &amp; Magazines</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/21/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Books-Movies"><span class="spanLeft">Movies, Music &amp; Gaming</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/7/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Books-All"><span class="spanLeft">All Books &amp; Media Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=BOOKS and MEDIA?originid=20&amp;originDetail=11_category-Books-Coupons"><span class="spanLeft">All Books &amp; Media Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/8/?originid=20&amp;originDetail=11_category-Clothing"><span class="spanLeft">Clothing &amp; Accessories</span></a>
+									<a href="/index.cfm/shop.category/category/8/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing"><span class="spanLeft">Clothing &amp; Accessories</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/23/?originid=20&amp;originDetail=11_category-Clothing-Womens"><span class="spanLeft">Womens Clothes</span></a></li>
-										<li><a href="/index.cfm/shop.category/24/?originid=20&amp;originDetail=11_category-Clothing-Mens"><span class="spanLeft">Mens Clothes</span></a></li>
-										<li><a href="/index.cfm/shop.category/25/?originid=20&amp;originDetail=11_category-Clothing-Shoes"><span class="spanLeft">Shoes &amp; Handbags</span></a></li>
-										<li><a href="/index.cfm/shop.category/26/?originid=20&amp;originDetail=11_category-Clothing-Plus"><span class="spanLeft">Plus Size Clothes</span></a></li>
-										<li><a href="/index.cfm/shop.category/27/?originid=20&amp;originDetail=11_category-Clothing-Jewelry"><span class="spanLeft">Jewelry &amp; Accessories</span></a></li>
-										<li><a href="/index.cfm/shop.category/61/?originid=20&amp;originDetail=11_category-Clothing-Active"><span class="spanLeft">Active Wear</span></a></li>
-										<li><a href="/index.cfm/shop.category/8/?originid=20&amp;originDetail=11_category-Clothing-All"><span class="spanLeft">All Clothing &amp; Accessories Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=clothing%20and%20accessories&amp;originid=20&amp;originDetail=11_category-Clothing-Coupons"><span class="spanLeft">All Clothing &amp; Accessories Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/23/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-Womens"><span class="spanLeft">Womens Clothes</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/24/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-Mens"><span class="spanLeft">Mens Clothes</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/25/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-Shoes"><span class="spanLeft">Shoes &amp; Handbags</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/26/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-Plus"><span class="spanLeft">Plus Size Clothes</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/27/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-Jewelry"><span class="spanLeft">Jewelry &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/61/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-Active"><span class="spanLeft">Active Wear</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/8/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Clothing-All"><span class="spanLeft">All Clothing &amp; Accessories Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=clothing and accessories&amp;originid=20&amp;originDetail=11_category-Clothing-Coupons"><span class="spanLeft">All Clothing &amp; Accessories Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/9/?originid=20&amp;originDetail=11_category-Computers"><span class="spanLeft">Computers &amp; Electronics</span></a>
+									<a href="/index.cfm/shop.category/category/9/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Computers"><span class="spanLeft">Computers &amp; Electronics</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/30/?originid=20&amp;originDetail=11_category-Computers-Accessories"><span class="spanLeft">Computers &amp; Accessories</span></a></li>
-										<li><a href="/index.cfm/shop.category/29/?originid=20&amp;originDetail=11_category-Computers-Camera"><span class="spanLeft">Camera, Photo &amp; Speakers</span></a></li>
-										<li><a href="/index.cfm/shop.category/31/?originid=20&amp;originDetail=11_category-Computers-Cellphone"><span class="spanLeft">Cell Phone &amp; Service</span></a></li>
-										<li><a href="/index.cfm/shop.category/9/?originid=20&amp;originDetail=11_category-Computers-All"><span class="spanLeft">All Computers &amp; Electronics Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=computers%20and%20electronics&amp;originid=20&amp;originDetail=11_category-Computers-Coupons"><span class="spanLeft">All Electronics Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/30/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Computers-Accessories"><span class="spanLeft">Computers &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/29/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Computers-Camera"><span class="spanLeft">Camera, Photo &amp; Speakers</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/31/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Computers-Cellphone"><span class="spanLeft">Cell Phone &amp; Service</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/9/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Computers-All"><span class="spanLeft">All Computers &amp; Electronics Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=computers and electronics&amp;originid=20&amp;originDetail=11_category-Computers-Coupons"><span class="spanLeft">All Electronics Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/62/?originid=20&amp;originDetail=11_category-DailyDeals"><span class="spanLeft">Daily Deals</span></a>
+									<a href="/index.cfm/shop.category/category/62/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-DailyDeals"><span class="spanLeft">Daily Deals</span></a>
 									
 
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/3/?originid=20&amp;originDetail=11_category-DepartmentStores"><span class="spanLeft">Department Stores</span></a>
+									<a href="/index.cfm/shop.category/category/3/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-DepartmentStores"><span class="spanLeft">Department Stores</span></a>
 									
+											<ul class="menuUp">
+											
+														<li>
+													
+
+					<a target="_6350" href="/index.cfm/track.click/merchant/444/offer/38489884/?originID=20&amp;originDetail=11_444"><span class="spanLeft"><span class="aHover">Kohl's</span>,   64 points/$</span></a>
+					<br>
+					<a href="/index.cfm/shop.store/Kohl's/?originID=20&amp;11_444"><span class="spanLeft">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see all</span> <span class="aHover spanLeft">Kohl's coupons</span></a>
+
+				
+													</li>
+												
+												</ul>
+										
 								</li>
 
 								<li>
-									<a href="/index.cfm/shop.category/10/?originid=20&amp;originDetail=11_category-Gifts"><span class="spanLeft">Gifts &amp; Personalization</span></a>
+									<a href="/index.cfm/shop.category/category/10/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Gifts"><span class="spanLeft">Gifts &amp; Personalization</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/33/?originid=20&amp;originDetail=11_category-Gifts-Flowers"><span class="spanLeft">Flowers &amp; Gifts</span></a></li>
-										<li><a href="/index.cfm/shop.category/35/?originid=20&amp;originDetail=11_category-Gifts-Food"><span class="spanLeft">Food, Wine &amp; Coffee</span></a></li>
-										<li><a href="/index.cfm/shop.category/36/?originid=20&amp;originDetail=11_category-Gifts-Cards"><span class="spanLeft">Gift Cards</span></a></li>
-										<li><a href="/index.cfm/shop.category/37/?originid=20&amp;originDetail=11_category-Gifts-Personalized"><span class="spanLeft">Personalized Gifts</span></a></li>
-										<li><a href="/index.cfm/shop.category/10/?originid=20&amp;originDetail=11_category-Gifts-All"><span class="spanLeft">All Gifts &amp; Personalization</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=gifts%20and%20personalization&amp;originid=20&amp;originDetail=11_category-Gifts-Coupons"><span class="spanLeft">All Gifts &amp; Personalization Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/33/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Gifts-Flowers"><span class="spanLeft">Flowers &amp; Gifts</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/35/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Gifts-Food"><span class="spanLeft">Food, Wine &amp; Coffee</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/36/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Gifts-Cards"><span class="spanLeft">Gift Cards</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/37/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Gifts-Personalized"><span class="spanLeft">Personalized Gifts</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/10/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Gifts-All"><span class="spanLeft">All Gifts &amp; Personalization</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=gifts and personalization&amp;originid=20&amp;originDetail=11_category-Gifts-Coupons"><span class="spanLeft">All Gifts &amp; Personalization Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/11/?originid=20&amp;originDetail=11_category-Health"><span class="spanLeft">Health &amp; Beauty</span></a>
+									<a href="/index.cfm/shop.category/category/11/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Health"><span class="spanLeft">Health &amp; Beauty</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/38/?originid=20&amp;originDetail=11_category-Health-Beauty"><span class="spanLeft">Beauty &amp; Fragrances</span></a></li>
-										<li><a href="/index.cfm/shop.category/39/?originid=20&amp;originDetail=11_category-Health-Diet"><span class="spanLeft">Diet &amp; Weight Loss</span></a></li>
-										<li><a href="/index.cfm/shop.category/40/?originid=20&amp;originDetail=11_category-Health-Wellness"><span class="spanLeft">Health &amp; Wellness</span></a></li>
-										<li><a href="/index.cfm/shop.category/11/?originid=20&amp;originDetail=11_category-Health-All"><span class="spanLeft">All Health &amp; Beauty Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=health%20and%20beauty&amp;originid=20&amp;originDetail=11_category-Health-Coupons"><span class="spanLeft">All Health &amp; Beauty Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/38/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Health-Beauty"><span class="spanLeft">Beauty &amp; Fragrances</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/39/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Health-Diet"><span class="spanLeft">Diet &amp; Weight Loss</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/40/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Health-Wellness"><span class="spanLeft">Health &amp; Wellness</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/11/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Health-All"><span class="spanLeft">All Health &amp; Beauty Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=health and beauty&amp;originid=20&amp;originDetail=11_category-Health-Coupons"><span class="spanLeft">All Health &amp; Beauty Coupons</span></a></li>
+										
+													<li class="liBorderTop">
+														
+
+					<a target="_5758" href="/index.cfm/track.click/merchant/888/offer/38412038/?originID=20&amp;originDetail=11_888"><span class="spanLeft"><span class="aHover">Sephora</span>,   80 points/$</span></a>
+					<br>
+					<a href="/index.cfm/shop.store/Sephora/?originID=20&amp;11_888"><span class="spanLeft">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see all</span> <span class="aHover spanLeft">Sephora coupons</span></a>
+
+				
+													</li>
+												
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/category/12/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Home"><span class="spanLeft">Home &amp; Garden</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/category/42/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Home-Auto"><span class="spanLeft">Auto &amp; Tools</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/44/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Home-Garden"><span class="spanLeft">Garden &amp; Outdoors</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/45/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Home-Housewares"><span class="spanLeft">Housewares &amp; Décor</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/12/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Home-All"><span class="spanLeft">All Home &amp; Garden Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=home and%garden&amp;originid=20&amp;originDetail=11_category-Home-Coupons"><span class="spanLeft">All Home &amp; Garden Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/12/?originid=20&amp;originDetail=11_category-Home"><span class="spanLeft">Home &amp; Garden</span></a>
+									<a href="/index.cfm/shop.category/category/99/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Office"><span class="spanLeft">Office</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/42/?originid=20&amp;originDetail=11_category-Home-Auto"><span class="spanLeft">Auto &amp; Tools</span></a></li>
-										<li><a href="/index.cfm/shop.category/44/?originid=20&amp;originDetail=11_category-Home-Garden"><span class="spanLeft">Garden &amp; Outdoors</span></a></li>
-										<li><a href="/index.cfm/shop.category/45/?originid=20&amp;originDetail=11_category-Home-Housewares"><span class="spanLeft">Housewares &amp; Décor</span></a></li>
-										<li><a href="/index.cfm/shop.category/12/?originid=20&amp;originDetail=11_category-Home-All"><span class="spanLeft">All Home &amp; Garden Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=home%20and%garden&amp;originid=20&amp;originDetail=11_category-Home-Coupons"><span class="spanLeft">All Home &amp; Garden Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/116/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Office-Ink"><span class="spanLeft">Ink</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/101/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Office-Supplies"><span class="spanLeft">Office Supplies</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/70/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Office-SmallBusiness"><span class="spanLeft">Small Business</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/99/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Office-All"><span class="spanLeft">All Office Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=99&amp;guideSearchType=2&amp;guide=office&amp;originid=20&amp;originDetail=11_category-Office-Coupons"><span class="spanLeft">All Office Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/99/?originid=20&amp;originDetail=11_category-Office"><span class="spanLeft">Office</span></a>
+									<a href="/index.cfm/shop.category/category/13/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Services"><span class="spanLeft">Services</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/116/?originid=20&amp;originDetail=11_category-Office-Ink"><span class="spanLeft">Ink</span></a></li>
-										<li><a href="/index.cfm/shop.category/101/?originid=20&amp;originDetail=11_category-Office-Supplies"><span class="spanLeft">Office Supplies</span></a></li>
-										<li><a href="/index.cfm/shop.category/70/?originid=20&amp;originDetail=11_category-Office-SmallBusiness"><span class="spanLeft">Small Business</span></a></li>
-										<li><a href="/index.cfm/shop.category/99/?originid=20&amp;originDetail=11_category-Office-All"><span class="spanLeft">All Office Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=99&amp;guideSearchType=2&amp;guide=office&amp;originid=20&amp;originDetail=11_category-Office-Coupons"><span class="spanLeft">All Office Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/47/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Services-Dating"><span class="spanLeft">Dating &amp; Relationships</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/48/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Services-Finance"><span class="spanLeft">Finance</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/13/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Services-All"><span class="spanLeft">All Services Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=13&amp;guideSearchType=2&amp;guide=services&amp;originid=20&amp;originDetail=11_category-Services-Coupons"><span class="spanLeft">All Services Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/13/?originid=20&amp;originDetail=11_category-Services"><span class="spanLeft">Services</span></a>
+									<a href="/index.cfm/shop.category/category/14/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Fitness"><span class="spanLeft">Sports &amp; Fitness</span></a>
 									<ul>
-										<li><a href="/index.cfm/shop.category/47/?originid=20&amp;originDetail=11_category-Services-Dating"><span class="spanLeft">Dating &amp; Relationships</span></a></li>
-										<li><a href="/index.cfm/shop.category/48/?originid=20&amp;originDetail=11_category-Services-Finance"><span class="spanLeft">Finance</span></a></li>
-										<li><a href="/index.cfm/shop.category/13/?originid=20&amp;originDetail=11_category-Services-All"><span class="spanLeft">All Services Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=13&amp;guideSearchType=2&amp;guide=services&amp;originid=20&amp;originDetail=11_category-Services-Coupons"><span class="spanLeft">All Services Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/50/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Fitness-Exercise"><span class="spanLeft">Fitness &amp; Exercise</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/51/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Fitness-SportingGoods"><span class="spanLeft">Sporting Goods</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/14/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Fitness-All"><span class="spanLeft">All Sports &amp; Fitness Stores</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=sports and fitness&amp;originid=20&amp;originDetail=11_category-Fitness-Coupons"><span class="spanLeft">All Sports &amp; Fitness Coupons</span></a></li>
 										
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/14/?originid=20&amp;originDetail=11_category-Fitness"><span class="spanLeft">Sports &amp; Fitness</span></a>
-									<ul>
-										<li><a href="/index.cfm/shop.category/50/?originid=20&amp;originDetail=11_category-Fitness-Exercise"><span class="spanLeft">Fitness &amp; Exercise</span></a></li>
-										<li><a href="/index.cfm/shop.category/51/?originid=20&amp;originDetail=11_category-Fitness-SportingGoods"><span class="spanLeft">Sporting Goods</span></a></li>
-										<li><a href="/index.cfm/shop.category/14/?originid=20&amp;originDetail=11_category-Fitness-All"><span class="spanLeft">All Sports &amp; Fitness Stores</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=sports%20and%20fitness&amp;originid=20&amp;originDetail=11_category-Fitness-Coupons"><span class="spanLeft">All Sports &amp; Fitness Coupons</span></a></li>
-										
-									</ul>
-								</li>
-								<li>
-									<a href="/index.cfm/shop.category/15/?originid=20&amp;originDetail=11_category-Travel"><span class="spanLeft">Travel &amp; Vacation</span></a>
+									<a href="/index.cfm/shop.category/category/15/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Travel"><span class="spanLeft">Travel &amp; Vacation</span></a>
 									<ul class="travelVacation">
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=travel%20and%20vacation&amp;originid=20&amp;originDetail=11_category-Travel-Coupons"><span class="spanLeft">All Travel &amp; Vacation Coupons</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=travel and vacation&amp;originid=20&amp;originDetail=11_category-Travel-Coupons"><span class="spanLeft">All Travel &amp; Vacation Coupons</span></a></li>
 										
-										<li><a href="/index.cfm/shop.category/15/?originid=20&amp;originDetail=11_category-Travel-All"><span class="spanLeft">All Travel &amp; Vacation Stores</span></a></li>
-										<li><a href="/index.cfm/shop.category/117/?originid=20&amp;originDetail=11_category-Travel-Luggage"><span class="spanLeft">Luggage &amp; Accessories</span></a></li>
-										<li><a href="/index.cfm/shop.category/54/?originid=20&amp;originDetail=11_category-Travel-Hotels"><span class="spanLeft">Hotels</span></a></li>
-										<li><a href="/index.cfm/shop.category/74/?originid=20&amp;originDetail=11_category-Travel-CarRental"><span class="spanLeft">Car Rentals</span></a></li>
-										<li><a href="/index.cfm/shop.category/53/?originid=20&amp;originDetail=11_category-Travel-Airfare"><span class="spanLeft">Airfare</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/15/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Travel-All"><span class="spanLeft">All Travel &amp; Vacation Stores</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/117/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Travel-Luggage"><span class="spanLeft">Luggage &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/54/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Travel-Hotels"><span class="spanLeft">Hotels</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/74/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Travel-CarRental"><span class="spanLeft">Car Rentals</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/53/sort/totalFavorited/order/desc/?originid=20&amp;originDetail=11_category-Travel-Airfare"><span class="spanLeft">Airfare</span></a></li>
 									</ul>
 								</li>
 								<li>
-									<a href="/index.cfm/shop.category/16/?originid=20originDetail=11_category-MoreStores"><span class="spanLeft">More Stores</span></a>
+									<a href="/index.cfm/shop.category/category/16/sort/totalFavorited/order/desc/?originid=20originDetail=11_category-MoreStores"><span class="spanLeft">More Stores</span></a>
 									<ul class="moreStores">
-										<li><a href="/index.cfm/shop.category/56/?originid=20originDetail=11_category-MoreStores-Crafts"><span class="spanLeft">Crafts &amp; Hobbies</span></a></li>
-										<li><a href="/index.cfm/shop.category/57/?originid=20originDetail=11_category-MoreStores-Pets"><span class="spanLeft">Pets</span></a></li>
-										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets%20and%20other%20stores&amp;originid=20&amp;originDetail=11_category-MoreStores-Coupons"><span class="spanLeft">Pet &amp; Other Store Coupons</span></a></li>
-										<li><a href="/index.cfm/shop.category/58/?originid=20originDetail=11_category-MoreStores-All"><span class="spanLeft">All Other Stores</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/56/sort/totalFavorited/order/desc/?originid=20originDetail=11_category-MoreStores-Crafts"><span class="spanLeft">Crafts &amp; Hobbies</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/57/sort/totalFavorited/order/desc/?originid=20originDetail=11_category-MoreStores-Pets"><span class="spanLeft">Pets</span></a></li>
+										<li><a href="/index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets and other stores&amp;originid=20&amp;originDetail=11_category-MoreStores-Coupons"><span class="spanLeft">Pet &amp; Other Store Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/category/58/sort/totalFavorited/order/desc/?originid=20originDetail=11_category-MoreStores-All"><span class="spanLeft">All Other Stores</span></a></li>
 										
 									</ul>
 								</li>
@@ -499,161 +540,163 @@
 							</ul>
 						</li>
 						<li><a href="/index.cfm/shop.allstores/?originID=20&amp;originDetail=11_allstores"><span class="spanLeft">Shop All Stores</span></a></li>
-						<li><a href="/index.cfm/shop.category/75/?originID=20&amp;originDetail=11_featured"><span class="spanLeft">Shop Featured Stores</span></a>
+						<li><a href="/index.cfm/shop.myStoresCoupons/?originID=20&amp;originDetail=11_mystores"><span class="spanLeft">My Stores</span></a></li>
+						<li><a href="/index.cfm/shop.category/sort/totalFavorited/order/desc/category/75?originID=20&amp;originDetail=11_featured"><span class="spanLeft">Shop Featured Stores</span></a>
 							
 						</li>
 						
 					<li><a href="#"><span class="spanLeft">Shopping Guides</span></a>
 					<ul>
-											
+					
 						<li><a href="/index.cfm/shopping_baby?originID=20&amp;originDetail=11_guide-Baby"><span class="spanLeft">Baby Shopping Guide</span></a></li>
-											
-						<li><a href="/index.cfm/shop.FathersDayCoupons?originID=20&amp;originDetail=11_guide-Father" s'=""><span class="spanLeft">Father's Day Coupons </span></a></li>
-											
-						<li><a href="/index.cfm/shop.GraduationGifts?originID=20&amp;originDetail=11_guide-Graduation"><span class="spanLeft">Graduation Gift Guide &amp; Coupons</span></a></li>
-											
+					
+						<li><a href="/index.cfm/shop.FreeShipping_SitetoStore?originID=20&amp;originDetail=11_guide-Free"><span class="spanLeft">Free Shipping: Site to Store</span></a></li>
+					
 						<li><a href="/index.cfm/shop.TeamSports?originID=20&amp;originDetail=11_guide-Sports"><span class="spanLeft">Sports Shopping Guide</span></a></li>
-											
+					
+						<li><a href="/index.cfm/shop.TaxGuide?originID=20&amp;originDetail=11_guide-Tax"><span class="spanLeft">Tax Help</span></a></li>
+					
 						<li><a href="/index.cfm/wedding-registries?originID=20&amp;originDetail=11_guide-Wedding"><span class="spanLeft">Wedding Shopping Guide</span></a></li>
 					
+						
 					</ul>
 					</li>
 				
 
 						<li>
-							<a href="/index.cfm/business.category/70/?originID=20&amp;originDetail=11_category-SmallBusiness"><span class="spanLeft">Small Business Center</span></a>
+							<a href="/index.cfm/BusinessCenter?originID=20&amp;originDetail=11_category-SmallBusiness"><span class="spanLeft">Small Business Center</span></a>
 							<ul>
-								<li><a href="/index.cfm/business.category/99/?originID=20&amp;originDetail=11_category-SB-Office"><span class="spanLeft">Office</span></a>
+								<li><a href="/index.cfm/business.category/99/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office"><span class="spanLeft">Office</span></a>
 									<ul class="office">
 										<li>
-											<a href="/index.cfm/business.category/100/?originID=20&amp;originDetail=11_category-SB-Office-AllInOne"><span class="spanLeft">All-In-One Shops</span></a>
+											<a href="/index.cfm/business.category/100/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-AllInOne"><span class="spanLeft">All-In-One Shops</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/101/?originID=20&amp;originDetail=11_category-SB-Office-Supplies"><span class="spanLeft">Office Supplies</span></a>
+											<a href="/index.cfm/business.category/101/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-Supplies"><span class="spanLeft">Office Supplies</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/102/?originID=20&amp;originDetail=11_category-SB-Office-PC"><span class="spanLeft">PC &amp; Accessories</span></a>
+											<a href="/index.cfm/business.category/102/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-PC"><span class="spanLeft">PC &amp; Accessories</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/103/?originID=20&amp;originDetail=11_category-SB-Office-Software"><span class="spanLeft">Software</span></a>
+											<a href="/index.cfm/business.category/103/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-Software"><span class="spanLeft">Software</span></a>
 											
 										</li>
 
 										<li>
-											<a href="/index.cfm/business.category/105/?originID=20&amp;originDetail=11_category-SB-Office-BreakRoom"><span class="spanLeft">Break Room &amp; Cleaning</span></a>
+											<a href="/index.cfm/business.category/105/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-BreakRoom"><span class="spanLeft">Break Room &amp; Cleaning</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/106/?originID=20&amp;originDetail=11_category-SB-Office-Calendar"><span class="spanLeft">Calendar &amp; Planners</span></a>
+											<a href="/index.cfm/business.category/106/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-Calendar"><span class="spanLeft">Calendar &amp; Planners</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/107/?originID=20&amp;originDetail=11_category-SB-Office-Furniture"><span class="spanLeft">Office Furniture</span></a>
+											<a href="/index.cfm/business.category/107/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-Furniture"><span class="spanLeft">Office Furniture</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/108/?originID=20&amp;originDetail=11_category-SB-Office-WholeSale"><span class="spanLeft">Wholesale Merchandise</span></a>
+											<a href="/index.cfm/business.category/108/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Office-WholeSale"><span class="spanLeft">Wholesale Merchandise</span></a>
 											
 										</li>
 
 									</ul>
 								</li>
-								<li><a href="/index.cfm/business.category/94/?originID=20&amp;originDetail=11_category-SB-Printing"><span class="spanLeft">Printing</span></a>
+								<li><a href="/index.cfm/business.category/94/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Printing"><span class="spanLeft">Printing</span></a>
 									<ul class="printing">
 										<li>
-											<a href="/index.cfm/business.category/95/?originID=20&amp;originDetail=11_category-SB-Printing-Copy"><span class="spanLeft">Copy &amp; Print</span></a>
+											<a href="/index.cfm/business.category/95/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Printing-Copy"><span class="spanLeft">Copy &amp; Print</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/96/?originID=20&amp;originDetail=11_category-SB-Printing-Ink"><span class="spanLeft">Ink &amp; Toner</span></a>
+											<a href="/index.cfm/business.category/96/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Printing-Ink"><span class="spanLeft">Ink &amp; Toner</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/97/?originID=20&amp;originDetail=11_category-SB-Printing-Paper"><span class="spanLeft">Paper &amp; Mailings</span></a>
+											<a href="/index.cfm/business.category/97/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Printing-Paper"><span class="spanLeft">Paper &amp; Mailings</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/98/?originID=20&amp;originDetail=11_category-SB-Printing-Promotional"><span class="spanLeft">Promotional Products</span></a>
+											<a href="/index.cfm/business.category/98/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Printing-Promotional"><span class="spanLeft">Promotional Products</span></a>
 											
 										</li>
 										
 									</ul>
 								</li>
-								<li><a href="/index.cfm/business.category/109/?originID=20&amp;originDetail=11_category-SB-Marketing"><span class="spanLeft">Marketing</span></a>
+								<li><a href="/index.cfm/business.category/109/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing"><span class="spanLeft">Marketing</span></a>
 									<ul class="printing">
 										<li>
-											<a href="/index.cfm/business.category/111/?originID=20&amp;originDetail=11_category-SB-Marketing-Design"><span class="spanLeft">Design</span></a>
+											<a href="/index.cfm/business.category/111/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing-Design"><span class="spanLeft">Design</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/110/?originID=20&amp;originDetail=11_category-SB-Marketing-EmailMarketing"><span class="spanLeft">Email Marketing</span></a>
+											<a href="/index.cfm/business.category/110/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing-EmailMarketing"><span class="spanLeft">Email Marketing</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/112/?originID=20&amp;originDetail=11_category-SB-Marketing-OnlineMarketing"><span class="spanLeft">Online Marketing</span></a>
+											<a href="/index.cfm/business.category/112/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing-OnlineMarketing"><span class="spanLeft">Online Marketing</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/113/?originID=20&amp;originDetail=11_category-SB-Marketing-Press"><span class="spanLeft">Press Release Distribution</span></a>
+											<a href="/index.cfm/business.category/113/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing-Press"><span class="spanLeft">Press Release Distribution</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/114/?originID=20&amp;originDetail=11_category-SB-Marketing-SearchEngine"><span class="spanLeft">Search Engine Marketing</span></a>
+											<a href="/index.cfm/business.category/114/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing-SearchEngine"><span class="spanLeft">Search Engine Marketing</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/115/?originID=20&amp;originDetail=11_category-SB-Marketing-SocialMedia"><span class="spanLeft">Social Media Marketing</span></a>
+											<a href="/index.cfm/business.category/115/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Marketing-SocialMedia"><span class="spanLeft">Social Media Marketing</span></a>
 											
 										</li>
 
 										
 									</ul>
 								</li>
-								<li><a href="/index.cfm/business.category/15/?originID=20&amp;originDetail=11_category-SB-BusinessTravel"><span class="spanLeft">Business Travel</span></a>
+								<li><a href="/index.cfm/business.category/15/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-BusinessTravel"><span class="spanLeft">Business Travel</span></a>
 									<ul class="printing">
 										<li>
-											<a href="/index.cfm/business.category/53/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-Airfare"><span class="spanLeft">Airfare</span></a>
+											<a href="/index.cfm/business.category/53/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-Airfare"><span class="spanLeft">Airfare</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/74/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-CarRentals"><span class="spanLeft">Car Rentals</span></a>
+											<a href="/index.cfm/business.category/74/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-CarRentals"><span class="spanLeft">Car Rentals</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/54/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-Hotels"><span class="spanLeft">Hotels</span></a>
+											<a href="/index.cfm/business.category/54/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-Hotels"><span class="spanLeft">Hotels</span></a>
 											
 										</li>
 										
 									</ul>
 								</li>
-								<li><a href="/index.cfm/business.category/13/?originID=20&amp;originDetail=11_category-SB-Services"><span class="spanLeft">Services</span></a>
+								<li><a href="/index.cfm/business.category/13/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Services"><span class="spanLeft">Services</span></a>
 									<ul class="services">
 										<li>
-											<a href="/index.cfm/business.category/88/?originID=20&amp;originDetail=11_category-SB-Services-Data/Cloud"><span class="spanLeft">Data/Cloud Backup</span></a>
+											<a href="/index.cfm/business.category/88/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Services-Data/Cloud"><span class="spanLeft">Data/Cloud Backup</span></a>
 											
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/89/?originID=20&amp;originDetail=11_category-SB-Srvices-FinancialServices"><span class="spanLeft">Financial Services</span></a>
+											<a href="/index.cfm/business.category/89/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Srvices-FinancialServices"><span class="spanLeft">Financial Services</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/90/?originID=20&amp;originDetail=11_category-SB-Services-PhonesInternet"><span class="spanLeft">Phones &amp; Internet</span></a>
+											<a href="/index.cfm/business.category/90/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Services-PhonesInternet"><span class="spanLeft">Phones &amp; Internet</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/91/?originID=20&amp;originDetail=11_category-SB-Services-ProductivityTools"><span class="spanLeft">Productivity Tools</span></a>
+											<a href="/index.cfm/business.category/91/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Services-ProductivityTools"><span class="spanLeft">Productivity Tools</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/92/?originID=20&amp;originDetail=11_category-SB-Services-WebsiteHosting"><span class="spanLeft">Websites/Hosting</span></a>
+											<a href="/index.cfm/business.category/92/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Services-WebsiteHosting"><span class="spanLeft">Websites/Hosting</span></a>
 											
 										</li>
 										<li>
-											<a href="/index.cfm/business.category/93/?originID=20&amp;originDetail=11_category-SB-Services-Other"><span class="spanLeft">Other Business Services</span></a>
+											<a href="/index.cfm/business.category/93/sort/totalFavorited/order/desc/?originID=20&amp;originDetail=11_category-SB-Services-Other"><span class="spanLeft">Other Business Services</span></a>
 											
 										</li>
 										
@@ -664,7 +707,8 @@
 						</li>
 
 						
-						<li><a href="/index.cfm/shop.morePoints?originID=20&amp;originDetail=11_pointincrease"><span class="spanLeft">Stores with Point Increases</span></a></li>
+						
+						<li><a href="/index.cfm/shop.dealaPalooza/?originID=20&amp;originDetail=11_DAP16"><span class="spanLeft">Deal-a-Palooza Increases</span></a></li>
 						
 						
 						<li><a href="/index.cfm/shop.WhatsNew?originID=20&amp;originDetail=11_whatsnew"><span class="spanLeft">What's New</span></a></li>
@@ -674,25 +718,25 @@
 				
 
 				<li>
-					<a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free%20Shipping&amp;originID=20&amp;originDetail=12_top-coupons" class="noLinkUnderline navBarText">coupons</a>
+					<a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free Shipping&amp;originID=20&amp;originDetail=12_top-coupons" class="noLinkUnderline navBarText">coupons</a>
 					<ul>
-						<li><a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free%20Shipping&amp;originID=20&amp;originDetail=12_free"><span class="spanLeft">Free Shipping Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=5&amp;guideSearchType=1&amp;guide=Stores%20with%20Point%20Increases&amp;originID=20&amp;originDetail=12_pointincreasecpn"><span class="spanLeft">Stores with Point Increases</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free Shipping&amp;originID=20&amp;originDetail=12_free"><span class="spanLeft">Free Shipping Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=5&amp;guideSearchType=1&amp;guide=Stores with Point Increases&amp;originID=20&amp;originDetail=12_pointincreasecpn"><span class="spanLeft">Stores with Point Increases</span></a></li>
 						
-						<li><a href="/index.cfm/search.guides/?guidecategory=3&amp;guideSearchType=2&amp;guide=Department%20Stores&amp;originID=20&amp;originDetail=12_dept"><span class="spanLeft">Department Store Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=Baby%20and%20Children&amp;originID=20&amp;originDetail=12_baby"><span class="spanLeft">Baby &amp; Children Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=Books%20and%20Media&amp;originID=20&amp;originDetail=12_books"><span class="spanLeft">Books &amp; Media Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=Clothing%20and%20Accessories&amp;originID=20&amp;originDetail=12_clothing"><span class="spanLeft">Clothing &amp; Accessories Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=Computers%20and%20Electronics&amp;originID=20&amp;originDetail=12_computers"><span class="spanLeft">Computers &amp; Electronics Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=Gifts%20and%20Personalization&amp;originID=20&amp;originDetail=12_gifts"><span class="spanLeft">Gifts &amp; Personalization Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=Health%20and%20Beauty&amp;originID=20&amp;originDetail=12_health"><span class="spanLeft">Health &amp; Beauty Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=Home%20and%20Garden&amp;originID=20&amp;originDetail=12_home"><span class="spanLeft">Home &amp; Garden Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=2&amp;guideSearchType=1&amp;guide=Kids%20and%20Baby&amp;originID=20&amp;originDetail=12_kids"><span class="spanLeft">Kids and Baby Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=3&amp;guideSearchType=2&amp;guide=Department Stores&amp;originID=20&amp;originDetail=12_dept"><span class="spanLeft">Department Store Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=Baby and Children&amp;originID=20&amp;originDetail=12_baby"><span class="spanLeft">Baby &amp; Children Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=Books and Media&amp;originID=20&amp;originDetail=12_books"><span class="spanLeft">Books &amp; Media Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=Clothing and Accessories&amp;originID=20&amp;originDetail=12_clothing"><span class="spanLeft">Clothing &amp; Accessories Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=Computers and Electronics&amp;originID=20&amp;originDetail=12_computers"><span class="spanLeft">Computers &amp; Electronics Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=Gifts and Personalization&amp;originID=20&amp;originDetail=12_gifts"><span class="spanLeft">Gifts &amp; Personalization Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=Health and Beauty&amp;originID=20&amp;originDetail=12_health"><span class="spanLeft">Health &amp; Beauty Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=Home and Garden&amp;originID=20&amp;originDetail=12_home"><span class="spanLeft">Home &amp; Garden Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=2&amp;guideSearchType=1&amp;guide=Kids and Baby&amp;originID=20&amp;originDetail=12_kids"><span class="spanLeft">Kids and Baby Coupons</span></a></li>
 						<li><a href="/index.cfm/search.guides/?guidecategory=99&amp;guideSearchType=2&amp;guide=Office&amp;originID=20&amp;originDetail=12_office"><span class="spanLeft">Office Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets%20and%20other%20stores&amp;originID=20&amp;originDetail=12_pets"><span class="spanLeft">Pets &amp; Other Stores Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets and other stores&amp;originID=20&amp;originDetail=12_pets"><span class="spanLeft">Pets &amp; Other Stores Coupons</span></a></li>
 						<li><a href="/index.cfm/search.guides/?guidecategory=13&amp;guideSearchType=2&amp;guide=Services&amp;originID=20&amp;originDetail=12_services"><span class="spanLeft">Services Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=Sports%20and%20Fitness&amp;originID=20&amp;originDetail=12_sports"><span class="spanLeft">Sports &amp; Fitness Coupons</span></a></li>
-						<li><a href="/index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=Travel%20and%20Vacation&amp;originID=20&amp;originDetail=12_travel"><span class="spanLeft">Travel &amp; Vacation Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=Sports and Fitness&amp;originID=20&amp;originDetail=12_sports"><span class="spanLeft">Sports &amp; Fitness Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=Travel and Vacation&amp;originID=20&amp;originDetail=12_travel"><span class="spanLeft">Travel &amp; Vacation Coupons</span></a></li>
 						<li><a href="/index.cfm/search.guides/?guidecategory=3&amp;guideSearchType=1&amp;guide=Wedding&amp;originID=20&amp;originDetail=12_wedding"><span class="spanLeft">Wedding Coupons</span></a></li>
 					</ul>
 				</li>
@@ -702,14 +746,12 @@
 					<a href="/index.cfm/survey.list/?originID=20&amp;originDetail=13_top-surveys" class="noLinkUnderline navBarText">surveys</a>
 					<ul>
 						<li><a href="/index.cfm/survey.list/?originID=20&amp;originDetail=13_surveylist"><span class="spanLeft">My Survey List</span></a></li>
-						<li><a href="/index.cfm/earn.link/ct/9olnn7d28/userid/1795521?originID=20&amp;originDetail=13_s4info" title="Complete Search for Information for 5 free points every day" target="_blank"><span class="spanLeft">Search for Information</span></a></li>
+						
 						<li class="liPanel">
 							<a href="#"><span class="spanLeft">Panels</span></a>
 							<ul>
 								
-									<li>
-										<a href="/index.cfm/earn.link/ct/9o4ohgqph/userid/1795521&amp;originID=20&amp;originDetail=13_panel" target="_blank"><span class="spanLeft">NPD</span></a>
-									</li>
+									<li><a href="#"><span class="spanLeft">None Available</span></a></li>
 								
 							</ul>
 						</li>
@@ -717,9 +759,10 @@
 				</li>
 				
 				<li>
-					<a href="/index.cfm/earn.easyPoints?originID=20&amp;originDetail=14_top-freebies" class="noLinkUnderline navBarText">freebies</a>
+					<a href="/index.cfm/earn.easyPoints/?originID=20&amp;originDetail=14_top-freebies" class="noLinkUnderline navBarText">freebies</a>
 					<ul>
-						<li><a href="/index.cfm/shop.toolbar?originID=20&amp;originDetail=14_download"><span class="spanLeft">Download Toolbar</span></a></li>
+						<li><a target="_6541" href="/index.cfm/search.searchandwin?originID=20&amp;originDetail=14_searchwin"><span class="spanLeft">Search &amp; Win</span></a></li>
+						<li><a href="/index.cfm/ClickforPoints?originID=20&amp;originDetail=14_clicks"><span class="spanLeft">Watch &amp; Click for Points</span></a></li>
 						<li><a href="/index.cfm/shop.category/79/?originID=20&amp;originDetail=14_freetrial"><span class="spanLeft">Free Trials</span></a></li>
 						<li><a href="/index.cfm/shop.category/77/?originID=20&amp;originDetail=14_games"><span class="spanLeft">Games &amp; Downloads</span></a></li>
 
@@ -730,9 +773,10 @@
 						
 						<li><a href="/index.cfm/shop.category/83/?originID=20&amp;originDetail=14_polls"><span class="spanLeft">Polls and Quizzes</span></a></li>
 						<li><a href="/index.cfm/shop.category/81/?originID=20&amp;originDetail=14_reg"><span class="spanLeft">Registrations</span></a></li>
-						<li><a href=" /index.cfm/shop.store/TossaPaper?sod=TossaPaper/?originID=20&amp;originDetail=14_SOD"><span class="spanLeft">Site of the Day</span></a></li>
+						<li><a href=" /index.cfm/shop.store/HealthGuruVideo?sod=HealthGuruVideo/?originID=20&amp;originDetail=14_SOD"><span class="spanLeft">Site of the Day</span></a></li>
 						<li><a href="/index.cfm/about-memogold?originID=20&amp;originDetail=14_beGOLD"><span class="spanLeft">Become MemolinkGOLD</span></a></li>
-						<li><a target="_1689" href="/index.cfm/track.click/merchant/340/offer/340/?originID=20&amp;originDetail=14_Fbfan"><span class="spanLeft">Become A Facebook Fan</span></a></li>
+						<li><a target="_3165" href="/index.cfm/track.click/merchant/340/offer/340/?originID=20&amp;originDetail=14_Fbfan"><span class="spanLeft">Become A Facebook Fan</span></a></li>
+						
 
 					</ul>
 				</li>
@@ -745,9 +789,9 @@
 						<li><a href="/index.cfm/shop.category/60/?originID=20&amp;originDetail=15_ASOTV"><span class="spanLeft">As Seen on TV</span></a></li>
 						<li><a href="/index.cfm/shop.category/85?originID=20&amp;originDetail=15_grocery"><span class="spanLeft">Grocery Coupons</span></a></li>
 						<li><a href="/index.cfm/track.click/merchant/247/offer/248?originID=20&amp;originDetail=15_peanut"><span class="spanLeft">Peanut Labs</span></a></li>
-						<li><a href="/index.cfm/track.click/merchant/3365/offer/28357622?originID=20&amp;originDetail=15_personaly"><span class="spanLeft">Persona.ly Video &amp; Offers</span></a></li>
+						
 						<li><a href="/index.cfm/shop.category/78/?originID=20&amp;originDetail=15_mloffers"><span class="spanLeft">Top Offers</span></a></li>
-						<li><a href="/index.cfm/track.click/merchant/1297/offer/2484?originID=20&amp;originDetail=15_wallopoints"><span class="spanLeft">Wall o' Points</span></a></li>
+						
 					</ul>
 				</li>
 
@@ -762,8 +806,8 @@
 				</li>
 			</ul>
 
-			<div style="display:inline-block;width:450px;">
-				<div id="tripleDrop" style="margin:12px 10px 10px 80px;float:left;">
+			<div style="display:inline-block;">
+				<div id="tripleDrop" style="margin:12px 10px 10px 50px;float:left;">
 					<div class="formInput">
 						<select id="formActions" name="formActions" onchange="buildForm();" style="font-size:17px;font-weight:none;height:27px;width:120px;">
 							<option value="stores" selected="">Stores</option>
@@ -802,46 +846,18 @@
 						<a href="/" class="noLinkUnderline">
 
 							
-										<img src="/assets/images/memolinkLogoTrademark2.png" height="55" width="176" alt="Memolink" title="Memolink">
-									
+											<img src="/assets/images/memolinkLogoTrademark2.png" height="55" width="176" alt="Memolink" title="Memolink">
+										
 						</a>
 					</div>
 
 					<div style="width:400px; float:right;">
 						<div id="accountInfo">
 							
-								<div id="user">
+								<div id="userNoLine">
+									<span class="username">memolink</span><br>
 									
-										<span class="username">merle2@msn....</span><br>
-									
-									<a href="/index.cfm/profile.verify">profile</a>  |  <a href="/index.cfm/loggedOut.fbConnectLogout">logout</a><br>
-									<span style="color:#666666;">
-										
-										  8,234 Pts
-										
-									</span>
-								</div>
-
-								<div id="cash">
-									<div style="width:10px;">&nbsp;</div>
-									<div>
-										
-										
-
-										<div class="rewardsMeterContainer">
-											<span class="rewardsMeterText">
-												Rewards Meter
-											</span>
-											<div class="rewardsMeterImageContainer">
-												<img src="http://images.memolink.com/creative-pics/meter.gif" title="Rewards Meter" class="rewardsMeterImage" style="background:#e3f1fe url(http://images.memolink.com/creative-pics/rewardBackgroundm2.gif); background-position:57.1145833333%; 0pt">
-											</div>
-											<div class="amounts">
-												<span class="left">$2</span>
-												<span class="left" style="font-weight:bold; width:30px; font-size:13px; margin-left:35px; text-align:center;">$7</span>
-												<span class="right" style="margin-left:5px;">$10</span>
-											</div>
-										</div>
-									</div>
+									<a id="regLightBox8" href="/xhr/gLogin.cfm?campID=19">login</a>
 								</div>
 							
 						</div>
@@ -851,17 +867,35 @@
 
 				<div class="clear"></div>
 				
-						<div>
-							
-								<a href="http://www.memolink.com/index.cfm/shop.morePoints"><img src="/assets/images/TopBanner_Half.png" width="480" height="60" alt="Fathers Day" style="margin-top:8px;"></a><a href="http://www.memolink.com/index.cfm/shop.FathersDayGifts"><img src="/assets/images/FathersDay_TopBanner_Half.png" width="480" height="60" alt="Fathers Day" style="margin-top:8px;"></a>
-							
+					<div id="socialBlueJoinBar">
+						<div id="blueJoinPrivacy">
+							By joining Memolink, you agree to our <a href="/index.cfm/terms-conditions" target="_blank"> <span style="text-decoration:underline; color:white;">terms</span></a> and <a href="/index.cfm/privacy-policy" target="_blank"> <span style="text-decoration:underline;color:white;">privacy</span></a> policy.
 						</div>
-					
+
+						<div>
+							<a id="regLightBox5" href="/xhr/gRegistration.cfm?campID=19"><img src="/assets/images/joinBar/socialJoinLoginBar.png" style="position:absolute; z-index:11;margin:15px 0px 0px 385px;cursor:pointer;"></a>
+						</div>
+
+						
+
+						<div>
+							<a id="regLightBox7" href="/xhr/gLogin.cfm?campID=19"><img src="/assets/images/joinBar/socialLoginJoinBar.png" style="position:absolute; z-index:11;margin:28px 0px 0px 765px;cursor:pointer;"></a>
+						</div>
+
+						<div style="clear:both;"></div>
+
+						<div id="loginBox"></div>
+					</div>
+
+				
 
 				<div id="joinErrors" style="padding-bottom:0px;">
 					
 				</div>
 				<div class="clear"></div>
+				<!-- Start of memolink Zendesk Widget script -->
+				<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","memolink.zendesk.com");/*]]>*/</script>
+				<!-- End of memolink Zendesk Widget script -->
 				
 				<div id="contentWrap"> 
 					<div id="content"> 
@@ -1065,7 +1099,7 @@ Denver, CO 80222<br>
 						<div class="footerContent3of5">
 							<ul>
 								<li>
-									Copyright © 2015
+									Copyright © 2016
 								</li>
 								<li>
 									Memolink.com, LLC
@@ -1083,12 +1117,8 @@ Denver, CO 80222<br>
 								<li>
 									<a href="/index.cfm/onlinedealsites " style="color:white;">how it works</a>
 								</li>
-								<li>
-									<a href="http://www.adperio.com/memolinkpublisherRegistration.cfm" style="color:white;">become an affiliate</a>
-								</li>
-								<li>
-									<a href="/index.cfm/about-us" style="color:white;">about us</a>
-								</li>
+								
+								
 							</ul>
 						</div>
 						<div class="footerContentBorder">
@@ -1097,7 +1127,7 @@ Denver, CO 80222<br>
 						<div class="footerContent4of5">
 							<ul>
 								<li>
-									<a href="/index.cfm/FAQ" style="color:white;">FAQ</a>
+									<a href="https://memolink.zendesk.com/hc/en-us" style="color:white;">FAQ</a>
 								</li>
 								<li>
 									<a href="/index.cfm/terms-conditions" style="color:white;">terms</a>
@@ -1145,33 +1175,11 @@ Denver, CO 80222<br>
 
 			
 			
-				 <img src="http://px.owneriq.net/sp?id%5B%5D=33532294&amp;id%5B%5D=33532189&amp;id%5B%5D=33532299" width="1" height="1" style="display: none;">
+
+			<input type="hidden" id="userID" name="userID" value="0">
 			
-
-			<input type="hidden" id="userID" name="userID" value="1795521">
+				<input type="hidden" id="userKey" name="userKey" value="50A2706E4CDF2DFDC6E44ED95071D0D6">
 			
-				<input type="hidden" id="userKey" name="userKey" value="9D33C94726B27E7B712D8E1A9877CD97">
-			
-
-					
-					<script type="text/javascript" src="http://astatic.peanutlabs.com/js/alert/main.js"></script>
-					<script type="text/javascript">
-
-							try{
-								var args = {
-								userId:"1795521-4558-cc1693202a",
-								iframeURL:"http://www.memolink.com/index.cfm/track.click/merchant/247/offer/248",
-								position_ver:"bottom",
-								position_hor:"right",
-								hideTimer:"true"
-								};
-									peanut.initialize(args);
-								}
-							catch(e){}
-
-					</script>
-
-					
 			<!-- google_rm -->
 			<script type="text/javascript">
 			/* <![CDATA[ */
