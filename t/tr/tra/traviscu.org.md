@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the traviscu.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113214id_/https%3A//www.traviscu.org/KENTICO8BASE/media/documents/disclosures/TravisCU_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traviscu.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315003809id_/https%3A//www.traviscu.org/KENTICO8BASE/media/documents/disclosures/TravisCU_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                                  Rev. 01/15
+                                                                                                                                  Rev. 01/16
   FACTS             WHAT DOES TRAVIS CREDIT UNION (TCU) DO WITH YOUR PERSONAL INFORMATION?
                     Financial companies choose how they share your personal information. Federal law gives consumers
     Why?            the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share,
