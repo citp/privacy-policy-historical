@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120180331id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101015id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
 
 # CIRA Privacy Policy | Canadian Internet Registration Authority (CIRA)
 
@@ -8,7 +8,7 @@ The Canadian Internet Registration Authority (“CIRA”), is committed to prote
 
 ###  **Definitions**
 
-Capitalized terms used in this Policy that are not defined in this Policy have the meanings specified in [By-Law No. 1](https://cira.ca/sites/default/files/bylaw1.pdf) of CIRA.
+Capitalized terms used in this Policy that are not defined in this Policy have the meanings specified in By-Law No. 1 of CIRA.
 
  **.CA** – means the Internet country code top-level domain for Canada.
 
