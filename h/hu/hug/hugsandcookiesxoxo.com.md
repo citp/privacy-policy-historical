@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hugsandcookiesxoxo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206070929id_/http%3A//hugsandcookiesxoxo.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugsandcookiesxoxo.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314104304id_/http%3A//hugsandcookiesxoxo.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure
+# Disclosure - Hugs and Cookies XOXO
 
 This privacy policy sets out how Hugs & Cookies xoxo  uses and protects any information that you give while using www.hugsandcookiesxoxo.com 
 
@@ -75,5 +75,3 @@ Hugs & Cookies XOXO is a participant in the Amazon Services LLC Associates Progr
 #### Copyright
 
 Sharing of my posts is both encouraged and appreciated. Copying and/or pasting of full recipes to ANY social media or blogs is strictly prohibited without written consent. Recipes- including exact wording and photographs- are Copyright of hugsandcookiesxoxo.com. Any unauthorized use of content or photos from hugsandcookiesxoxo.com is a violation of my Copyright.
-
-[](http://www.printfriendly.com/ "Printer Friendly and PDF")
