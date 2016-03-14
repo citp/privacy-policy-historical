@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226013340id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314165444id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
 
-# Rugby World Cup
+# Rugby World Cup 2019
 
 For the purpose of the Irish Data Protection Acts, 1988 & 2003, as amended or re-enacted from time to time (the “Acts”), the data controller is Rugby World Cup Limited having its principal place of business at World Rugby House, 8-10 Pembroke Street Lower, Dublin 2, Ireland. We fully respect your right to privacy, and any personal information which you volunteer to us will be treated with the highest standards of security and confidentiality in accordance with the terms of the Acts.
 
