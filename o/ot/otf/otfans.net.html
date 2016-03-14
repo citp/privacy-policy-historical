@@ -1,16 +1,26 @@
-<!--The following is the downloaded HTML source of the otfans.net privacy policy that was archived on 2012-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223040758id_/http%3A//otfans.net/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the otfans.net privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314101017id_/http%3A//opentibia.net/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58888897-1', 'auto');
+  ga('send', 'pageview');
+</script>
+	
+                <script src="http://opentibia.net/public/style_images/Chestnut/js/jquery.cookie.js"></script>
+                <!---<script type="text/javascript" src="http://opentibia.net/public/style_images/Chestnut/js/snowstorm.js"></script>--->
 		<meta charset="UTF-8">
-		<title>Privacy Policy - OTFans</title>
+		<title>Privacy Policy - OpenTibia</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link rel="shortcut icon" href="http://otfans.net/favicon.ico">
-		<link rel="image_src" href="http://otfans.net/public/style_images/master/meta_image.png">
+		<link rel="shortcut icon" href="http://opentibia.net/favicon.ico">
+		<link rel="image_src" href="http://opentibia.net/public/style_images/Chestnut/meta_image.png">
 		<script type="text/javascript">
 		//<![CDATA[
 			jsDebug			= 0; /* Must come before JS includes */
-			USE_RTE			= 1;
 			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
 			inACP			= false;
 			var isRTL		= false;
@@ -18,6 +28,79 @@
 			var rtlFull		= '';
 		//]]>
 		</script>
+                <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+                <script type="text/javascript">
+    jQuery.noConflict();
+  jQuery(document).ready(function() {  
+        jQuery(window).scroll(function(){
+            if (jQuery(this).backtotop() > 100) {
+                jQuery('.backtotop, .tops, .smoothtop').fadeIn();
+            } else {
+                jQuery('.backtotop, .tops, .smoothtop').fadeOut();
+            }
+        }); 
+ 
+        jQuery('.backtotop, .tops, .smoothtop').click(function(){
+            jQuery("html, body").animate({ scrollTop: 0 }, 600);
+            return false;
+        });
+ 
+    });
+
+jQuery(document).ready(function(e){
+ 
+   jQuery('#dropdown').on('click',function(){
+ 
+      jQuery('.dropdownwrap').slideToggle();
+ 
+   });
+ 
+});
+
+jQuery(document).ready(function(){
+
+   jQuery("body").css("background-image", ipb.Cookie.get('bgimg'));
+
+   var check = ipb.Cookie.get('bgimg');
+   if(!check) {
+      jQuery("body").css("background-image", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac1.jpg)");
+ /*   jQuery('.branding, #header_bar').blurjs({
+       source: 'body',
+       radius: 10,
+       overlay: 'rgba(0, 0, 0, 0.4)',
+    });*/
+}
+
+   jQuery("li.bg1 a").on('click', function(){
+      jQuery("body").css("background-image", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac1.jpg)");
+      ipb.Cookie.set("bgimg", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac1.jpg)", { expires: 180 });
+   });
+ /* 
+   jQuery("li.bg2 a").on('click', function(){
+      jQuery("body").css("background-image", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac2.jpg)");
+      ipb.Cookie.set("bgimg", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac2.jpg)", { expires: 7 });
+   });
+
+   jQuery("li.bg3 a").on('click', function(){
+      jQuery("body").css("background-image", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac3.jpg)");
+      ipb.Cookie.set("bgimg", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac3.jpg)", { expires: 7 });
+   });
+
+   jQuery("li.bg4 a").on('click', function(){
+      jQuery("body").css("background-image", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac4.jpg)");
+      ipb.Cookie.set("bgimg", "url(http://opentibia.net/public/style_images/Chestnut/backgrounds/bac4.jpg)", { expires: 7 });
+   }); *\
+
+   /* jQuery('.branding, #header_bar').blurjs({
+       source: 'body',
+       radius: 10,
+       overlay: 'rgba(0, 0, 0, 0.4)',
+    }); */
+});
+</script>
+                <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+                <script src="http://opentibia.net/public/style_images/Chestnut/js/modernizr-2.6.1.min.js"></script>
+                
 		
 	
 				
@@ -40,12 +123,21 @@
 
 				
 	
+
+				
 	
-		<link rel="stylesheet" type="text/css" media="screen,print" href="http://otfans.net/public/min/index.php?ipbv=ead9a33d9d008d65e66636e0fbdb733b&amp;f=public/style_css/css_1/ipb_codetoolbar.css,public/style_css/css_1/calendar_select.css,public/style_css/css_1/ipb_styles.css,public/style_css/css_1/ipb_ckeditor.css,public/style_css/css_1/ipb_common.css,public/style_css/css_1/ipb_editor.css,public/style_css/css_1/ipb_login_register.css">
+
+				
+	
+
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media="screen,print" href="http://opentibia.net/public/min/index.php?ipbv=598ac4d5e72f358e2881fee2e01924dc&amp;f=public/style_css/css_12/geshi.css,public/style_css/css_12/ipbfangorn_add.css,public/style_css/css_12/ipbf_lean_slider.css,public/style_css/css_12/ipb_codetoolbar.css,public/style_css/css_12/ipb_styles.css,public/style_css/css_12/ipb_common.css,public/style_css/css_12/ipb_ckeditor.css,public/style_css/css_12/ipb_editor.css,public/style_css/css_12/ipb_login_register.css,public/style_css/css_12/calendar_select.css">
 	
 
 <!--[if lte IE 7]>
-	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://otfans.net/public/style_css/css_1/ipb_ie.css" />
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://opentibia.net/public/style_css/css_12/ipb_ie.css" />
 <![endif]-->
 <!--[if lte IE 8]>
 	<style type='text/css'>
@@ -59,33 +151,35 @@
 	</style>
 
 		<meta property="og:title" content="Privacy Policy">
-		<meta property="og:site_name" content="OTFans">
-		<meta property="og:image" content="http://otfans.net/public/style_images/master/meta_image.png">
+		<meta property="og:site_name" content="OpenTibia">
 		<meta property="og:type" content="article">
 		
 	
 		
-			<meta name="identifier-url" content="http://otfans.net/privacypolicy/">
+		
+			<meta name="identifier-url" content="http://opentibia.net/privacypolicy/">
 		
 		
-			<meta property="og:url" content="http://otfans.net/privacypolicy/">
+			<meta property="og:url" content="http://opentibia.net/privacypolicy/">
+		
 		
 		
 	
 
+<meta property="og:image" content="http://opentibia.net/public/style_images/Chestnut/meta_image.png">
 		
 		
 		
-		<script type="text/javascript" src="http://otfans.net/public/min/index.php?ipbv=ead9a33d9d008d65e66636e0fbdb733b&amp;g=js"></script>
+		<script type="text/javascript" src="http://opentibia.net/public/min/index.php?ipbv=598ac4d5e72f358e2881fee2e01924dc&amp;g=js"></script>
 	
-	<script type="text/javascript" src="http://otfans.net/public/min/index.php?ipbv=ead9a33d9d008d65e66636e0fbdb733b&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="UTF-8"></script>
+	<script type="text/javascript" src="http://opentibia.net/public/min/index.php?ipbv=598ac4d5e72f358e2881fee2e01924dc&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="UTF-8"></script>
 
 
 	
 		
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="IP.Gallery Images RSS Feed" href="http://otfans.net/rss/gallery/">
+				<link rel="alternate" type="application/rss+xml" title="Live Streams" href="http://opentibia.net/rss/ccs/3-live-streams/">
 			
 			
 			
@@ -93,7 +187,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Last 10 Submissions RSS Feed" href="http://otfans.net/rss/downloads/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: OpenTibia News" href="http://opentibia.net/rss/ccs/1c16-opentibia-news/">
 			
 			
 			
@@ -101,7 +195,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Community Calendar" href="http://otfans.net/rss/calendar/1-community-calendar/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: Server Design" href="http://opentibia.net/rss/ccs/1c14-server-design/">
 			
 			
 			
@@ -109,7 +203,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Videos" href="http://otfans.net/rss/ccs/2-videos/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: Necronia" href="http://opentibia.net/rss/ccs/1c22-necronia/">
 			
 			
 			
@@ -117,7 +211,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Cipsoft Tibia" href="http://otfans.net/rss/ccs/1c11-cipsoft-tibia/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: Quests" href="http://opentibia.net/rss/ccs/1c17-quests/">
 			
 			
 			
@@ -125,7 +219,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Open Tibia" href="http://otfans.net/rss/ccs/1c18-open-tibia/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: Monster Ideas" href="http://opentibia.net/rss/ccs/1c19-monster-ideas/">
 			
 			
 			
@@ -133,7 +227,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Faloria" href="http://otfans.net/rss/ccs/1c12-faloria/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: Reference Material" href="http://opentibia.net/rss/ccs/1c18-reference-material/">
 			
 			
 			
@@ -141,7 +235,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Articles: News &amp; Updates" href="http://otfans.net/rss/ccs/1c13-news-updates/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: OpenTibia.net News" href="http://opentibia.net/rss/ccs/1c21-opentibianet-news/">
 			
 			
 			
@@ -149,7 +243,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Media" href="http://otfans.net/rss/ccs/1c14-media/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: CIPSOFT Tibia News" href="http://opentibia.net/rss/ccs/1c20-cipsoft-tibia-news/">
 			
 			
 			
@@ -157,7 +251,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Mapping Tutorials" href="http://otfans.net/rss/ccs/1c19-mapping-tutorials/">
+				<link rel="alternate" type="application/rss+xml" title="Articles: Change Log" href="http://opentibia.net/rss/ccs/1c23-change-log/">
 			
 			
 			
@@ -165,23 +259,7 @@
 
 			
 			
-				<link rel="alternate" type="application/rss+xml" title="Videos: Faloria Videos" href="http://otfans.net/rss/ccs/2c15-faloria-videos/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Videos: Cipsoft Tibia" href="http://otfans.net/rss/ccs/2c16-cipsoft-tibia/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Videos: Open Tibia" href="http://otfans.net/rss/ccs/2c17-open-tibia/">
+				<link rel="alternate" type="application/rss+xml" title="Last 10 Submissions RSS Feed" href="http://opentibia.net/rss/downloads/">
 			
 			
 			
@@ -191,29 +269,25 @@
 	
 
 
+	
 
-<!-- Forces topic photo to show without thumb -->
-	<style type="text/css">
-		.ipsUserPhoto_variable { max-width: 164px !important; }
-		
-			.post_body { margin-left: 189px !important; }
-		
-	</style>		
-		<script type="text/javascript">
+
+
+<script type="text/javascript">
 	//<![CDATA[
 		/* ---- URLs ---- */
-		ipb.vars['base_url'] 			= 'http://otfans.net/index.php?s=3a03b3191a56e044ff5e835483952c2a&';
-		ipb.vars['board_url']			= 'http://otfans.net';
-		ipb.vars['img_url'] 			= "http://otfans.net/public/style_images/master";
-		ipb.vars['loading_img'] 		= 'http://otfans.net/public/style_images/master/loading.gif';
+		ipb.vars['base_url'] 			= 'http://opentibia.net/index.php?s=aaa2b1b6db8b884340441b2b260e461a&';
+		ipb.vars['board_url']			= 'http://opentibia.net';
+		ipb.vars['img_url'] 			= "http://opentibia.net/public/style_images/Chestnut";
+		ipb.vars['loading_img'] 		= 'http://opentibia.net/public/style_images/Chestnut/loading.gif';
 		ipb.vars['active_app']			= 'core';
-		ipb.vars['upload_url']			= 'http://otfans.net/uploads';
+		ipb.vars['upload_url']			= 'http://opentibia.net/uploads';
 		/* ---- Member ---- */
 		ipb.vars['member_id']			= parseInt( 0 );
 		ipb.vars['is_supmod']			= parseInt( 0 );
 		ipb.vars['is_admin']			= parseInt( 0 );
 		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= '3a03b3191a56e044ff5e835483952c2a';
+		ipb.vars['session_id']			= 'aaa2b1b6db8b884340441b2b260e461a';
 		ipb.vars['twitter_id']			= 0;
 		ipb.vars['fb_uid']				= 0;
 		ipb.vars['auto_dst']			= parseInt( 0 );
@@ -225,25 +299,27 @@
 		ipb.vars['cookie_domain'] 		= '';
 		ipb.vars['cookie_path']			= '/';
 		/* ---- Rate imgs ---- */
-		ipb.vars['rate_img_on']			= 'http://otfans.net/public/style_images/master/star.png';
-		ipb.vars['rate_img_off']		= 'http://otfans.net/public/style_images/master/star_off.png';
-		ipb.vars['rate_img_rated']		= 'http://otfans.net/public/style_images/master/star_rated.png';
+		ipb.vars['rate_img_on']			= 'http://opentibia.net/public/style_images/Chestnut/star.png';
+		ipb.vars['rate_img_off']		= 'http://opentibia.net/public/style_images/Chestnut/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://opentibia.net/public/style_images/Chestnut/star_rated.png';
 		/* ---- Uploads ---- */
-		ipb.vars['swfupload_swf']		= 'http://otfans.net/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_swf']		= 'http://opentibia.net/public/js/3rd_party/swfupload/swfupload.swf';
 		ipb.vars['swfupload_enabled']	= true;
 		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
 		ipb.vars['swfupload_debug']		= false;
 		/* ---- other ---- */
 		ipb.vars['highlight_color']     = "#ade57a";
 		ipb.vars['charset']				= "UTF-8";
+		ipb.vars['time_offset']			= "8";
+		ipb.vars['hour_format']			= "12";
 		ipb.vars['seo_enabled']			= 1;
 		
-		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"\/page__","varSep":"__"};
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};
 		
 		/* Templates/Language */
 		ipb.templates['inlineMsg']		= "";
-		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://otfans.net/public/style_images/master/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
-		ipb.templates['close_popup']	= "<img src='http://otfans.net/public/style_images/master/close_popup.png' alt='x' />";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://opentibia.net/public/style_images/Chestnut/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://opentibia.net/public/style_images/Chestnut/close_popup.png' alt='x' />";
 		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
 		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
 		
@@ -259,70 +335,289 @@
 	//]]>
 	</script>
 	</head>
-	<body id="ipboard_body">
+<body id="ipboard_body"><div class="dropdownwrap">
+<div class="main_width">
+<ul class="ipbf_backgrounds">
+ <li class="bg1"><a href="#"><img src="http://opentibia.net/public/style_images/Chestnut/backgrounds/bac1.jpg"></a></li>
+</ul>
+</div>
+</div>
+	
 		<p id="content_jump" class="hide"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
 		<div id="ipbwrapper">
 			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
-			<div id="header_bar" class="clearfix">
-				<div class="main_width">
-					
-					<div id="user_navigation" class="not_logged_in">
-							
-							<ul class="ipsList_inline right">
-								<li>
-									<span class="services">
-										
-											<a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook"><img src="http://otfans.net/public/style_images/master/loginmethods/facebook.png" alt="Log in with Facebook"></a>
-										
-										
-										<a href="http://otfans.net/index.php?s=3a03b3191a56e044ff5e835483952c2a&amp;app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_steam=1&amp;auth_key=880ea6a14ea49e853634fbdc5015a024"><img src="http://otfans.net/public/style_extra/signin/login-steam-icon.png" alt="Log In with Steam "></a>
-									</span>
-									&nbsp;&nbsp;&nbsp;&nbsp;
-									<a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in">Sign In</a>&nbsp;&nbsp;&nbsp;
-								</li>
-								<li>
-									<a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="register_link">Create Account</a>
-								</li>
-							</ul>
-						</div>
-				</div>
-			</div>
 			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
-			<div id="branding">
+			<div class="branding">
 				<div class="main_width">
 					<div id="logo">
 						
-							<a href="http://otfans.net" title="Go to community index" rel="home" accesskey="1"><img src="http://otfans.net/public/style_images/master/logo_christmas.png" alt="Logo"></a>
+							<a href="http://opentibia.net" title="Go to community index" rel="home" accesskey="1" <img="</a"><img src="http://opentibia.net/public/style_images/tctc91_pulse/logo.png">
 						
-					</div>
+					</a></div><a href="http://opentibia.net" title="Go to community index" rel="home" accesskey="1" <img="</a">
+					</a><ul class="ipbf_app_menu"><a href="http://opentibia.net" title="Go to community index" rel="home" accesskey="1" <img="</a">
+						
+						
+								
+		
+			
+				
+										
+				
+
+										
+				
+			
+			
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			</a><li id="nav_app_forums" class="left "><a href="http://opentibia.net" title="Go to community index" rel="home" accesskey="1" <img="</a"></a><a href="http://opentibia.net/" title="Go to Forums">Forums</a></li>
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			<li id="nav_app_ccs" class="left "><a href="http://opentibia.net/page/index.html" title="Go to Articles">Articles</a></li>
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			<li id="nav_app_downloads" class="left "><a href="http://opentibia.net/files/" title="Go to Downloads">Downloads</a></li>
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			<li id="nav_app_ipchat" class="left "><a href="http://opentibia.net/chat/" title="Go to Chat">Chat</a></li>
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			
+		
+
+			
+				
+										
+				
+
+										
+				
+			
+			
+		
+	
+	
+		
+						<li id="nav_menu_8" class="left skip_moremenu ">
+					<a id="nav_menu_8_trigger" href="" title="">Partners <span class="dropdownIndicator"></span></a>
+					<div id="nav_menu_8_menucontent" class="submenu_container clearfix boxShadow" style="display: none">
+							<div class="left">
+								<ul class="submenu_links">
+									
+										
+											<li class="submenu_li"><a href="http://otlist.net/?ot" title="Affiliated Service">OTList.net</a></li>
+										
+									
+
+										
+											<li class="submenu_li"><a href="http://necronia.com/?ot" title="Partner Server">Necronia</a></li>
+										
+									
+
+										
+											<li class="submenu_li"><a href="http://reddit.com/r/tibia" title="Partner Community">Tibia Reddit</a></li>
+										
+									
+								</ul>
+							</div>
+						</div>
+						<script type="text/javascript">
+							document.observe("dom:loaded", function(){
+								//$('content').insert( $('nav_menu_8_menucontent').remove() );
+								
+								new ipb.Menu( $('nav_menu_8_trigger'), $('nav_menu_8_menucontent'), { eventType: 'mouseover', closeOnMouseout: 'nav_menu_8' } );
+							});
+						</script>
 					
-						<div id="search" class="right">
-	<form action="http://otfans.net/index.php?app=core&amp;module=search&amp;do=search&amp;fromMainBar=1" method="post" id="search-box">
+				</li>
+		
+
+						<li id="nav_menu_11" class="left skip_moremenu ">
+					<a id="nav_menu_11_trigger" href="" title="">Other <span class="dropdownIndicator"></span></a>
+					<div id="nav_menu_11_menucontent" class="submenu_container clearfix boxShadow" style="display: none">
+							<div class="left">
+								<ul class="submenu_links">
+									
+										
+											<li class="submenu_li"><a href="http://opentibia.net/page/flagcalculator.html" title="">Flags Calculator</a></li>
+										
+									
+
+										
+											<li class="submenu_li"><a href="http://opentibia.net/index.php?app=members" title="">Members</a></li>
+										
+									
+
+										
+											<li class="submenu_li"><a href="http://opentibia.net/index.php?app=groupjoin" title="">Apply</a></li>
+										
+									
+
+										
+											<li class="submenu_li"><a href="http://opentibia.net/store/" title="">Store</a></li>
+										
+									
+								</ul>
+							</div>
+						</div>
+						<script type="text/javascript">
+							document.observe("dom:loaded", function(){
+								//$('content').insert( $('nav_menu_11_menucontent').remove() );
+								
+								new ipb.Menu( $('nav_menu_11_trigger'), $('nav_menu_11_menucontent'), { eventType: 'mouseover', closeOnMouseout: 'nav_menu_11' } );
+							});
+						</script>
+					
+				</li>
+		
+	
+						
+						<li id="nav_other_apps" style="display: none">
+							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://opentibia.net/public/style_images/Chestnut/useropts_arrow.png"></a>
+						</li>
+</ul>
+				</div>
+			</div>
+			<!-- ::: APPLICATION TABS ::: -->
+			<div id="primary_nav" class="clearfix">
+				<div class="main_width">
+				</div>
+			</div>
+
+<div id="content" class="clearfix">
+<div id="board_index" class="ipsLayout ipsLayout_withright ipsLayout_largeright clearfix">
+<div id="categories" class="ipsLayout_content clearfix">
+										<div id="secondary_navigation" class="clearfix">
+<div id="dropdown"></div>
+						<ol class="breadcrumb top ipsList_inline left">
+														<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									<a href="http://opentibia.net/" itemprop="url">
+										<span itemprop="title">OpenTibia</span>
+									</a>
+								</li>
+								
+													</ol>
+					<ul class="ipsList_inline2">
+						
+							<li class="right">
+								<a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=core" rel="quickNavigation" accesskey="9" id="quickNavLaunch" title="Open Quick Navigation"><span>&nbsp;</span></a>
+							</li>
+						</ul>
+					<ul class="ipsList_inline" id="community_app_menu">
+						<li id="nav_explore" class="right">
+							<a href="http://opentibia.net/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums" accesskey="2" title="View New Content">View New Content</a>
+						</li>
+					</ul>
+					</div>
+
+					
+						<div id="search">
+	<form action="http://opentibia.net/index.php?app=core&amp;module=search&amp;do=search&amp;fromMainBar=1" method="post" id="search-box">
 		<fieldset>
 			<label for="main_search" class="hide">Search</label>
-			<a href="http://otfans.net/index.php?app=core&amp;module=search&amp;search_in=core" title="Advanced Search" accesskey="4" rel="search" id="adv_search" class="right">Advanced</a>
-			<span id="search_wrap" class="right">
-				<input type="text" id="main_search" name="search_term" class="inactive" size="17" tabindex="6">
+			<a href="http://opentibia.net/index.php?app=core&amp;module=search&amp;search_in=core" title="Advanced Search" accesskey="4" rel="search" id="adv_search" class="right">Advanced</a>
+			<span id="search_wrap">
+				<input type="text" id="main_search" name="search_term" class="inactive" size="17" tabindex="100">
 				<span class="choice ipbmenu clickable" id="search_options" style="display: none"></span>
 				<ul id="search_options_menucontent" class="ipbmenu_content ipsPad" style="display: none">
 					<li class="title"><strong>Search section:</strong></li>
 					
 					
 					
-					<li class="app"><label for="s_forums" title="Forums"><input type="radio" name="search_app" class="input_radio" id="s_forums" value="forums">Forums</label></li><li class="app"><label for="s_members" title="Members"><input type="radio" name="search_app" class="input_radio" id="s_members" value="members">Members</label></li><li class="app"><label for="s_core" title="Help Files"><input type="radio" name="search_app" class="input_radio" id="s_core" value="core" checked="checked">Help Files</label></li>
+					<li class="app"><label for="s_forums" title="Forums"><input type="radio" name="search_app" class="input_radio" id="s_forums" value="forums">Forums</label></li>
+					<li class="app"><label for="s_members" title="Members"><input type="radio" name="search_app" class="input_radio" id="s_members" value="members">Members</label></li>
+					<li class="app"><label for="s_core" title="Help Files"><input type="radio" name="search_app" class="input_radio" id="s_core" value="core" checked="checked">Help Files</label></li>
+					
 						
 					
 
 						
 					
 
-						<li class="app"><label for="s_gallery" title="Gallery"><input type="radio" name="search_app" class="input_radio" id="s_gallery" value="gallery">Gallery</label></li>
+						<li class="app">
+								<label for="s_ccs" title="Articles">
+									<input type="radio" name="search_app" class="input_radio" id="s_ccs" value="ccs">Articles
+								</label>
+							</li>
 					
 
-						<li class="app"><label for="s_downloads" title="Downloads"><input type="radio" name="search_app" class="input_radio" id="s_downloads" value="downloads">Downloads</label></li>
+						<li class="app">
+								<label for="s_downloads" title="Downloads">
+									<input type="radio" name="search_app" class="input_radio" id="s_downloads" value="downloads">Downloads
+								</label>
+							</li>
 					
 
-						<li class="app"><label for="s_nexus" title="Store"><input type="radio" name="search_app" class="input_radio" id="s_nexus" value="nexus">Store</label></li>
+						<li class="app">
+								<label for="s_nexus" title="Store">
+									<input type="radio" name="search_app" class="input_radio" id="s_nexus" value="nexus">Store
+								</label>
+							</li>
+					
+
+						
 					
 
 						
@@ -331,19 +626,16 @@
 						
 					
 
-						<li class="app"><label for="s_iArcade" title="Arcade"><input type="radio" name="search_app" class="input_radio" id="s_iArcade" value="iArcade">Arcade</label></li>
-					
-
-						<li class="app"><label for="s_calendar" title="Calendar"><input type="radio" name="search_app" class="input_radio" id="s_calendar" value="calendar">Calendar</label></li>
-					
-
 						
 					
 
 						
 					
 
-						<li class="app"><label for="s_ccs" title="Home"><input type="radio" name="search_app" class="input_radio" id="s_ccs" value="ccs">Home</label></li>
+						
+					
+
+						
 					
 
 						
@@ -356,146 +648,40 @@
 	</form>
 </div>
 					
-				</div>
-			</div>
-			<!-- ::: APPLICATION TABS ::: -->
-			<div id="primary_nav" class="clearfix">
-				<div class="main_width">
-					<ul class="ipsList_inline" id="community_app_menu">
-<li><a href="http://otfans.net/page/faloria.html" title="Faloria" style="color: red;"><strong>Faloria</strong></a></li>
-<li><a href="http://otfans.net/forum/50-mcfans/" title="Coming Soon..." style="color: green;"><strong>Coming Soon...</strong></a></li>
-						
-							<li class="right">
-								<a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=core" rel="quickNavigation" accesskey="9" id="quickNavLaunch" title="Open Quick Navigation"><span>&nbsp;</span></a>
-							</li>
-						
-						<li id="nav_explore" class="right">
-							<a href="http://otfans.net/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums" accesskey="2">View New Content</a>
-						</li>
-						
-						
-								
-		
-			
-				
-										
-				
-			
-			
-		
+</div>
 
-			
-				
-										
-				
-			
-			<li id="nav_app_forums" class="left "><a href="http://otfans.net/" title="Go to Forums">Forums</a></li>
-		
 
-			
-				
-										
-				
-			
-			
-		
+<div id="index_stats" class="ipsLayout_right clearfix">
 
-			
-				
-										
-				
-			
-			<li id="nav_app_downloads" class="left "><a href="http://otfans.net/files/" title="Go to Downloads">Downloads</a></li>
-		
-
-			
-				
-																<li id="nav_menu_2" class="left  ">
-							<a id="nav_menu_2_trigger" href="http://otfans.net/index.php?app=ccs&amp;module=pages&amp;section=pages&amp;folder=&amp;id=1" title="">Articles </a>
+                                        <div class="ipbf_user_menu">
+					<div id="user_navigation" class="not_logged_in">
 							
-							
-						</li>
-				
-			
-			<li id="nav_app_nexus" class="left "><a href="http://otfans.net/store/" title="Go to Store">Store</a></li>
-		
-
-			
-				
+							<ul class="ipsList_inline">
+								<li>
+									<span class="services">
 										
-				
-			
-			
-		
-
-			
-				
+											<a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook"><img src="http://opentibia.net/public/style_images/Chestnut/loginmethods/facebook.png" alt="Log in with Facebook"></a>
 										
-				
-			
-			<li id="nav_app_raffles" class="left "><a href="http://otfans.net/raffles/" title="Go to Raffles">Raffles</a></li>
-		
-
-			
-				
 										
-				
-			
-			<li id="nav_app_iArcade" class="left "><a href="http://otfans.net/iArcade/" title="Go to Arcade">Arcade</a></li>
-		
+										<a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_steam=1&amp;auth_key=880ea6a14ea49e853634fbdc5015a024"> <img src="http://opentibia.net/public//style_extra/signin/login-steam-icon.png" alt="Log In with Steam "> </a>
+									</span>
+									
+									<a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in"><img src="http://opentibia.net/public/style_images/Chestnut/logi.png" alt="">&nbsp;Sign In</a>&nbsp;&nbsp;&nbsp;
+								</li>
+								<li>
+									<a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="sign_in">&nbsp;<img src="http://opentibia.net/public/style_images/Chestnut/regi.png" alt="">Create Account</a>
+								</li>
+							</ul>
+						</div>
+                                        </div>	
 
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			
-		
-	
-	
-		
-						
-		
-	
-						
-						<li id="nav_other_apps" style="display: none">
-							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://otfans.net/public/style_images/master/useropts_arrow.png"></a>
-						</li>
-					</ul>
-				</div>
-				<script type="text/javascript">
-					if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
-				</script>
-			</div>	
-			
+</div>
+</div>	
 			<!-- ::: MAIN CONTENT AREA ::: -->
-			<div id="content" class="clearfix">
+			
 				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
-				
+
+					<br>
 				<noscript>
 					<div class='message error'>
 						<strong>Javascript Disabled Detected</strong>
@@ -505,203 +691,207 @@
 				</noscript>
 				<!-- ::: CONTENT ::: -->
 				
-				<h2 class="ipsType_pagetitle">Privacy Policy</h2>
-<div class="row2 ipsPad" style="line-height: 1.6">
-	Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.<br><br>Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.<br><br><strong class="bbc">Our Commitment to Children's Privacy</strong><br>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.<br><br><strong class="bbc">Cookies</strong><br>This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
+				<div class="ipsSideBlock">
+<h3 class="ipsType_pagetitle">Privacy Policy</h3>
+<div class="ipsPad" style="line-height: 1.6">
+	Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.<br>
+<br>
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.<br>
+<br>
+<strong class="bbc">Cookies</strong><br>
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
+</div>
 </div>
 				
-				<ol class="breadcrumb bottom ipsList_inline left clearfix clear">
-					
-						<li>&nbsp;</li>
-					
-					
-					<li class="right ipsType_smaller">
-						<a rel="nofollow" href="http://otfans.net/privacypolicy/">Privacy Policy</a>
-					</li>
-					
-					<li class="right ipsType_smaller">
-							<a href="http://otfans.net/index.php?app=forums&amp;module=extras&amp;section=boardrules">Forum Rules</a> · 
-						</li>	
-				</ol>
-			</div>
+		
 			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
-			<div id="footer_utilities" class="main_width clearfix clear">
-				<a rel="nofollow" href="#top" id="backtotop" title="Go to top"><img src="http://otfans.net/public/style_images/master/top.png" alt=""></a>
+</div>
+
+<div id="content" class="clearfix" style="margin-top: 0;padding-top: 0">
+			<div id="footer_utilities">
 				<ul class="ipsList_inline left">
 					<li>
-						<img src="http://otfans.net/public/style_images/master/feed.png" alt="RSS Feed" id="rss_feed" class="clickable">
+						<div id="rss_feed" class="clickable"><img src="http://opentibia.net/public/style_images/Chestnut/feed.png" alt="RSS Feed" style="margin-top: -2px;margin-right: 4px;"><a href="#">RSS Feed</a></div>
 					</li>
 					
 							
 								<li>
-									<a rel="nofollow" id="new_skin" href="#">Change Theme</a>			
+									<a rel="nofollow" id="new_skin" href="#" title="Change Theme"><img src="http://opentibia.net/public/style_images/Chestnut/change-theme.png" alt="" style="margin-top: -2px;margin-right: 4px;">Change Theme</a>			
 									<ul id="new_skin_menucontent" class="ipbmenu_content with_checks" style="display: none">
 										
 											<li class="selected">
-												<a href="#" data-clicklaunch="changeSkin" data-skinid="1">OTFans</a>
+												<a href="#" data-clicklaunch="changeSkin" data-skinid="12">OpenTibia Chestnut</a>
 											</li>
 										
 
 											<li>
-												<a href="#" data-clicklaunch="changeSkin" data-skinid="2">IP.Board Mobile</a>
-											</li>
-										
-
-											<li>
-												<a href="#" data-clicklaunch="changeSkin" data-skinid="4">Faloria Theme</a>
+												<a href="#" data-clicklaunch="changeSkin" data-skinid="2">Mobile Theme</a>
 											</li>
 										
 									</ul>
 								</li>
 							
 					
-					
 						<li>
-							<a rel="nofollow" id="mark_all_read" href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024" title="Mark all as read">Mark Community Read</a>
-							<ul id="mark_all_read_menucontent" class="ipbmenu_content" style="display: none">
+							<a rel="nofollow" href="#" id="new_language"><img src="http://opentibia.net/public/style_images/Chestnut/language-mini.png" alt="" style="margin-top: -2px;margin-right: 4px;">English (USA)</a>							
+							<ul id="new_language_menucontent" class="ipbmenu_content with_checks" style="display: none">
 								
-									<li>
-										<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=forums&amp;k=880ea6a14ea49e853634fbdc5015a024">Forums</a>
+									<li class="selected">
+										<a href="?k=880ea6a14ea49e853634fbdc5015a024&amp;setlanguage=1&amp;cal_id=&amp;langid=1">English (USA)</a>
 									</li>
 								
 
+									<li>
+										<a href="?k=880ea6a14ea49e853634fbdc5015a024&amp;setlanguage=1&amp;cal_id=&amp;langid=4">Português (Brazil)</a>
+									</li>
+								
+							</ul>
+						</li>
+					
+					
+						<li>
+							<a rel="nofollow" id="mark_all_read" href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024" title="Mark all as read"><img src="http://opentibia.net/public/style_images/Chestnut/mark-mini.png" alt="" style="margin-top: -2px;margin-right: 4px;">Mark Community Read</a>
+							<ul id="mark_all_read_menucontent" class="ipbmenu_content" style="display: none">
+								
 									<li>
 										
 									</li>
 								
 
 									<li>
-										<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=gallery&amp;k=880ea6a14ea49e853634fbdc5015a024">Gallery</a>
+										<a href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=forums&amp;k=880ea6a14ea49e853634fbdc5015a024">Forums</a>
 									</li>
 								
 
 									<li>
-										<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=downloads&amp;k=880ea6a14ea49e853634fbdc5015a024">Downloads</a>
+										<a href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=ccs&amp;k=880ea6a14ea49e853634fbdc5015a024">Articles</a>
 									</li>
 								
 
 									<li>
-										<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=nexus&amp;k=880ea6a14ea49e853634fbdc5015a024">Store</a>
+										<a href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=downloads&amp;k=880ea6a14ea49e853634fbdc5015a024">Downloads</a>
 									</li>
 								
 
 									<li>
-										<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=members&amp;k=880ea6a14ea49e853634fbdc5015a024">Members</a>
+										<a href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=nexus&amp;k=880ea6a14ea49e853634fbdc5015a024">Store</a>
 									</li>
 								
 
 									<li>
-										<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=ccs&amp;k=880ea6a14ea49e853634fbdc5015a024">Home</a>
+										<a href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=members&amp;k=880ea6a14ea49e853634fbdc5015a024">Members</a>
 									</li>
 								
 								<li>
-									<a href="http://otfans.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024"><strong>Mark all as read</strong></a>
+									<a href="http://opentibia.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024"><strong>Mark all as read</strong></a>
 								</li>
 							</ul>
 						</li>
-					<li><a href="http://otfans.net/index.php?s=3a03b3191a56e044ff5e835483952c2a&amp;app=nexus&amp;module=support&amp;section=new">Contact Us</a>
-					</li><li>
-						<a href="http://otfans.net/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6">Help</a>
-					</li>				
+					<li><a href="http://opentibia.net/index.php?s=aaa2b1b6db8b884340441b2b260e461a&amp;app=nexus&amp;module=support&amp;section=new">Contact Us</a></li>
+					<li>
+						<a href="http://opentibia.net/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6"><img src="http://opentibia.net/public/style_images/Chestnut/help-mini.png" alt="" style="margin-top: -2px;margin-right: 4px;">Help</a>
+					</li>	
+					
+					<li>
+						<a rel="nofollow" href="http://opentibia.net/privacypolicy/"><img src="http://opentibia.net/public/style_images/Chestnut/privacy-mini.png" alt="" style="margin-top: -2px;margin-right: 4px;">Privacy Policy</a>
+					</li>                                        
+					
 				</ul>
 				<!-- Copyright Information -->
         				  <p id="copyright">
-        				  	<a href="http://www.invisionpower.com/products/board/" title="Community Forum Software by Invision Power Services">Community Forum Software by IP.Board</a></p>
+        				  	<a href="http://www.invisionpower.com/apps/board/" title="Community Forum Software by Invision Power Services">Community Forum Software by IP.Board</a></p>
 		<!-- / Copyright -->
+                                
 			</div>
-			<!-- Not a known search engine, not tracking. -->
-			<div><img src="http://otfans.net/index.php?s=3a03b3191a56e044ff5e835483952c2a&amp;app=core&amp;module=task" alt="" style="border: 0px;height:1px;width:1px;"></div>
+<!--<div class='made'><a rel="nofollow" href='#' class='backtotop' title='Go to top'><img src='http://opentibia.net/public/style_images/Chestnut/top.png' alt='' /></a>IP.Board theme by <a href='http://www.ipbfangorn.net'>IPBFangorn.net</a>
+</div> -->
+
+			
+			<div><img src="http://opentibia.net/index.php?s=aaa2b1b6db8b884340441b2b260e461a&amp;app=core&amp;module=task" alt="" style="border: 0px;height:1px;width:1px;"></div>
 			
 				<script type="text/javascript">
 					ipb.global.lightBoxIsOff();
 				</script>
-			<div align="center">
-<style type="text/css">
-#stickymsg{
-position: fixed;
-bottom: 10px;
-line-height: 16px;
-right: 10px;
-z-index: 30000;
-opacity: 0.8;
-width: 260px;
-height: auto;
-background: #cf3737;
-color: #fff;
-text-shadow: rgba(0,0,0,0.3) 0px -1px 0px;
-padding: 10px;
-text-decoration: none;
-font-size: 11px;
-font-family: Tahoma;
-border: 1px solid #771b1b;
-box-shadow: rgba(0,0,0,0.3) 0px 1px 4px, inset #f66c6c 0px 1px 0px;
-border-radius: 3px;
-}
-#stickymsg a{ color: #fff; font-weight:bold; text-decoration: none; }
-#stickymsg:hover{ opacity: 1; }
-</style><div id="stickymsg">Welcome<em class="bbc"> </em>guest to our community!<br>Please login or register to use our forum.</div></div>
-			<div id="inline_login_form" style="display: none">
-		<form action="http://otfans.net/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id="login">
-			<input type="hidden" name="auth_key" value="880ea6a14ea49e853634fbdc5015a024">
-			<input type="hidden" name="referer" value="http://otfans.net/privacypolicy/">
-			<h3>Sign In</h3>
-			<div class="ipsBox_notice">
-					<ul class="ipsList_inline">
-						
-							<li><a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook" class="ipsButton_secondary"><img src="http://otfans.net/public/style_images/master/loginmethods/facebook.png" alt="Facebook"> &nbsp; Use Facebook</a></li>
-						
-						
-						<li><a href="http://otfans.net/index.php?s=3a03b3191a56e044ff5e835483952c2a&amp;app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_steam=1&amp;auth_key=880ea6a14ea49e853634fbdc5015a024" class="ipsButton_secondary"><img src="http://otfans.net/public/style_extra/signin/login-steam-icon.png" alt="Steam"> &nbsp; Use Steam</a></li>
-					</ul>
+			
+			<div id="inline_login_form" style="display:none">
+		<form action="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id="login">
+				<input type="hidden" name="auth_key" value="880ea6a14ea49e853634fbdc5015a024">
+				<input type="hidden" name="referer" value="http://opentibia.net/privacypolicy/">
+				<h3>Sign In</h3>
+				<div class="ipsBox_notice">
+						<ul class="ipsList_inline">
+							
+								<li><a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook" class="ipsButton_secondary"><img src="http://opentibia.net/public/style_images/Chestnut/loginmethods/facebook.png" alt="Facebook"> &nbsp; Use Facebook</a></li>
+							
+							
+							
+            <li><a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_steam=1&amp;auth_key=880ea6a14ea49e853634fbdc5015a024" class="ipsButton_secondary"><img src="http://opentibia.net/public//style_extra/signin/login-steam-icon.png" alt="Steam"> &nbsp; Use Steam</a></li>
+
+							
+						</ul>
+					</div>
+				<br>
+				<div class="ipsForm ipsForm_horizontal">
+					<fieldset>
+						<ul>
+							<li class="ipsField">
+								<div class="ipsField_content">
+									Need an account? <a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=register" title="Register now!">Register now!</a>
+								</div>
+							</li>
+							<li class="ipsField ipsField_primary">
+								<label for="ips_username" class="ipsField_title">Username</label>
+								<div class="ipsField_content">
+									<input id="ips_username" type="text" class="input_text" name="ips_username" size="30" tabindex="0">
+								</div>
+							</li>
+							<li class="ipsField ipsField_primary">
+								<label for="ips_password" class="ipsField_title">Password</label>
+								<div class="ipsField_content">
+									<input id="ips_password" type="password" class="input_text" name="ips_password" size="30" tabindex="0"><br>
+									<a href="http://opentibia.net/index.php?app=core&amp;module=global&amp;section=lostpass" title="Retrieve password">I've forgotten my password</a>
+								</div>
+							</li>
+							<li class="ipsField ipsField_checkbox">
+								<input type="checkbox" id="inline_remember" checked="checked" name="rememberMe" value="1" class="input_check" tabindex="0">
+								<div class="ipsField_content">
+									<label for="inline_remember">
+										<strong>Remember me</strong><br>
+										<span class="desc lighter">This is not recommended for shared computers</span>
+									</label>
+								</div>
+							</li>
+							
+								<li class="ipsField ipsField_checkbox">
+									<input type="checkbox" id="inline_invisible" name="anonymous" value="1" class="input_check" tabindex="0">
+									<div class="ipsField_content">
+										<label for="inline_invisible">
+											<strong>Sign in anonymously</strong><br>
+											<span class="desc lighter">Don't add me to the active users list</span>
+										</label>
+									</div>
+								</li>
+							
+							
+							<li class="ipsPad_top ipsForm_center desc ipsType_smaller">
+								<a rel="nofollow" href="http://opentibia.net/privacypolicy/">Privacy Policy</a>
+							</li>
+							
+						</ul>
+					</fieldset>
+					
+					<div class="ipsForm_submit ipsForm_center">
+						<input type="submit" class="ipsButton" value="Sign In" tabindex="0">
+					</div>
 				</div>
-			<br>
-			<div class="ipsForm ipsForm_horizontal">
-				<fieldset>
-					<ul>
-						<li class="ipsField">
-							<div class="ipsField_content">
-								Need an account? <a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=register" title="Register now!">Register now!</a>
-							</div>
-						</li>
-						<li class="ipsField ipsField_primary">
-							<label for="ips_username" class="ipsField_title">Username</label>
-							<div class="ipsField_content">
-								<input id="ips_username" type="text" class="input_text" name="ips_username" size="30">
-							</div>
-						</li>
-						<li class="ipsField ipsField_primary">
-							<label for="ips_password" class="ipsField_title">Password</label>
-							<div class="ipsField_content">
-								<input id="ips_password" type="password" class="input_text" name="ips_password" size="30"><br>
-								<a href="http://otfans.net/index.php?app=core&amp;module=global&amp;section=lostpass" title="Retrieve password">I've forgotten my password</a>
-							</div>
-						</li>
-						<li class="ipsField ipsField_checkbox">
-							<input type="checkbox" id="inline_remember" checked="checked" name="rememberMe" value="1" class="input_check">
-							<div class="ipsField_content">
-								<label for="inline_remember">
-									<strong>Remember me</strong><br>
-									<span class="desc lighter">This is not recommended for shared computers</span>
-								</label>
-							</div>
-						</li>
-						
-						
-						<li class="ipsPad_top ipsForm_center desc ipsType_smaller">
-							<a rel="nofollow" href="http://otfans.net/privacypolicy/">Privacy Policy</a>
-						</li>
-						
-					</ul>
-				</fieldset>
-				
-				<div class="ipsForm_submit ipsForm_center">
-					<input type="submit" class="ipsButton" value="Sign In">
-				</div>
-			</div>
-		</form>
+			</form>
 	</div>
 		</div>
 		
 		
-	
-</body></html>
+		<script type="text/javascript">
+			if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
+		</script>
+			
+
+</div></body></html>
