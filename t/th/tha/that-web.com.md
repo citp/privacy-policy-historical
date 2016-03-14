@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the that-web.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001455id_/http%3A//that-web.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the that-web.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314184759id_/http%3A//www.that-web.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThatWeb.com
 
