@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speaking24.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210232544id_/http%3A//www.speaking24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaking24.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314114400id_/http%3A//www.speaking24.com/privacy.php) for the most accurate reproduction.*
 
 # Speaking24.com Privacy Policy
 
