@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010021432id_/http%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314041131id_/http%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - South Africa News, Stories and Articles
+# Privacy Policy - South Africa News | Read Latest News on BuzzSouthAfrica.com
 
 ## Your Privacy Rights
 
@@ -18,11 +18,11 @@ This Privacy Policy does not apply to the practices of third parties that we do 
 
 The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect, use, share, and/or display some of your Personal Information. We collect the following types of information from our users.
 
-**User Content:**
+ **User Content:**
 
 Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties, as described in this Privacy Policy. What we collect might include:
 
-**Name Email address Website URL**
+ **Name Email address Website URL**
 
 ### How We Use Information
 
