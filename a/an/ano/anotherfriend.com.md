@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917072057id_/https%3A//www.anotherfriend.com/dating-articles-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314223445id_/https%3A//www.anotherfriend.com/dating-articles-privacy) for the most accurate reproduction.*
 
 # AnotherFriend.com - Privacy
 
@@ -103,7 +103,7 @@ It is a good practice to refrain from disclosing your email address or any other
 
 ## 11\. Payment Security
 
-Your Credit Card details are secure. We process all payments through a third party provider; Paypal or Realex Payments Ireland. No credit card details are stored on our servers. All payments are processed on a secure HTTPS payment page.
+Your Credit Card details are secure. We process all payments through a third party provider; Paypal, Realex Payments Ireland or Stripe USA. No credit card details are stored on our servers. All payments are processed on a secure HTTPS payment page.
 
 ## 12\. Choice/Opt out
 
