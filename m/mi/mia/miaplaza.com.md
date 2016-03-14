@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829072721id_/http%3A//always-icecream.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314210555id_/http%3A//always-icecream.com/help/privacy) for the most accurate reproduction.*
 
 # Always Icecream - Privacy Policy
 
