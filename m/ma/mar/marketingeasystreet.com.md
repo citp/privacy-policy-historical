@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeasystreet.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907113241id_/http%3A//marketingeasystreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeasystreet.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314073802id_/http%3A//marketingeasystreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
