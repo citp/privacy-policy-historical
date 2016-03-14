@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nokiapoweruser.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828064226id_/http%3A//www.nokiapoweruser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiapoweruser.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314024947id_/http%3A//www.nokiapoweruser.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | NPU
+# Privacy policy | Nokiapoweruser
 
 This Privacy policy covers  [Nokiapoweruser.com](http://www.nokiapoweruser.com/). We are based out of India. We provide Nokia and competitors related news, reviews and discussion forums. For any more information please write to us at **Contact@nokiapoweruser.com**
 
