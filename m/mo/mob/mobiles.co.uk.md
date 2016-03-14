@@ -1,9 +1,20 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905142822id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314091151id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
 
 
 
+
+[0871 220 3580](tel:08712203580) Speak to our sales team
+
+Calls cost 13p per minute plus your  
+telephone provider's access charge
+
+[Call Us](tel:08712203580)
+
+You can track your order, update your details and claim your cashback all in your account. No need to call us
+
+[My Account](https://www.secure-mobiles.com/customer_login/login?wlcode=mobiles&abTest=mobilesc)
 
 ### Phone Selector
 
