@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030184516id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054945id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
