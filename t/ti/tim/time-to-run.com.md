@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the time-to-run.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415183918id_/http%3A//www.time-to-run.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time-to-run.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314060712id_/http%3A//www.time-to-run.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Time-to-Run
+# Privacy Policy | Time-to-Run
 
 Privacy Policy for www.time-to-run.com
 
