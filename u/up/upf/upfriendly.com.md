@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upfriendly.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224114136id_/http%3A//upfriendly.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upfriendly.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314144219id_/http%3A//upfriendly.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Upfriendly Entertainment
 
@@ -52,6 +52,22 @@ A cookie is a string of information that can be stored on your computer (if your
 ## 4\. Reorganization or Insolvency
 
 Upfriendly.com may also transfer Personal Information to a successor entity upon a merger, consolidation, change of control or other corporate reorganization in which www.upfriendly.com participates, or to a purchaser of all or substantially all of www.upfriendly.com's shares or assets to which the WebSite relates. In the event of a bankruptcy, insolvency or equivalents, www.upfriendly.com may not be able to control how your Personal Information is handled, shared or used.
+
+## 5\. DoubleClick DART Cookie
+
+.:: Google, as a third party vendor, uses cookies to serve ads on www.upfriendly.com .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.upfriendly.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+
+DoubleClick DART Cookie
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.upfriendly.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.upfriendly.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.upfriendly.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 We are not responsible for the practices employed by any websites or services linked to or from www.upfriendly.com, including the information or content contained within them. Please be aware that if you choose to use a link to go from www.upfriendly.com to any third party's website or service, such third party's own rules and privacy policy (and not our Privacy Policy) will apply and govern your activities and any information you disclose while interacting with such third parties. Therefore, We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your Personal Information, and you acknowledge and agree that We are not responsible for any wrongful use or disclosure made by such third parties, and that We do not have control over such third-parties. If you are using a third-party's website or service and you allow them to access your Personal Information and user content you do so at your own risk.
 
