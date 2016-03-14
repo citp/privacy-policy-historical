@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factset.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907191155id_/https%3A//www.factset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factset.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101116id_/https%3A//www.factset.com/privacy) for the most accurate reproduction.*
 
 # FactSet Privacy Policy — FactSet Research Systems
 
@@ -26,7 +26,7 @@ IX. Contact Information.
 
 Questions or comments regarding this Policy should be submitted to FactSet’s compliance officer at the following address:  
 Ali Dolger  
-Assistant General Counsel and Compliance Officer  
+Vice President and Deputy General Counsel  
 601 Merritt 7  
 Norwalk, CT 06851 United States  
 adolger@factset.com
