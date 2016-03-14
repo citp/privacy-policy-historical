@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the layersmagazine.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134938id_/http%3A//layersmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layersmagazine.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314160403id_/http%3A//layersmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Layers Magazine
+# Privacy Policy - Layers Magazine
 
 **OUR PRIVACY PLEDGE**  
 This Privacy Policy applies to and is provided on behalf of Kelby Media Group, Inc. and the Kelby Media Group family of companies (collectively referred to as “We,” “Us,” or “Our”) and describes Our information gathering practices and policies in connection with this Site. We value your (“User,” “You,” or “Your”) privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.
