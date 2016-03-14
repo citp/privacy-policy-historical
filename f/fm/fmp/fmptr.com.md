@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmptr.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918091143id_/http%3A//fmptr.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmptr.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314202258id_/http%3A//fmptr.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FMPTR.com |Fast Money PTR Company|Instant Payouts|Online Advertising Program|Registered Company|Get Paid Money|Make Money With Website|Fast Money Making|Get Paid to Read Emails|Get Paid to Read|Cash Money|Earn Money at Home|Work in Home|Top Money Sites|Top Money|Make Money Online|Make Money|The Best Bux|Bux|Money Expert|Money Mails|Paid Surveys|Get Paid To Play|Instant Payment|Sign up Offers|Paid to Search|Get Paid to Search|Paid to Click|
 
