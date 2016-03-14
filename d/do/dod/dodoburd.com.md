@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodoburd.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229191955id_/http%3A//dodoburd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodoburd.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314022741id_/http%3A//dodoburd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,4 +40,4 @@ Although most changes are likely to be minor, Dodo may change its Privacy Policy
 
 [](http://dodoburd.com/christmas-gifts)
 
-      
+   
