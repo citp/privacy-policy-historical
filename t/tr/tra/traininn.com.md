@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traininn.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221202354id_/http%3A//www.traininn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traininn.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314094339id_/https%3A//www.traininn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
 # traininn Terms & conditions. Online fitness gear and fitness equipment shop
 
