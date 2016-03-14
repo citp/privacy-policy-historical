@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenewcomers.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001136id_/http%3A//www.thenewcomers.co/pages/7/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcomers.co privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314123219id_/http%3A//www.thenewcomers.co/pages/7/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheNewcomers.co
+# Privacy Policy - Welcome To TheNewComers
 
 Your privacy is important to Thenewcommers.co and we take our responsibility seriously to protect your information shared with our site.  Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. Your information (i.e., email address, name, business type, etc.) is NEVER loaned, sold, rented or otherwise given to third parties.
 
