@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922191436id_/https%3A//www.expatistan.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314065339id_/https%3A//www.expatistan.com/tos) for the most accurate reproduction.*
 
 # Cost of Living
 
@@ -29,6 +29,7 @@ You must not:
   * (c) show any material from the website in public;
   * (d) reproduce, duplicate, copy or otherwise exploit material on our website for a commercial purpose; or
   * (e) edit or otherwise modify any material on the website.
+  * (f) conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to our website without our express written consent.
 
 
 
@@ -68,7 +69,7 @@ We may revise this disclaimer from time-to-time. The revised disclaimer will app
 
 ### (9) Entire agreement
 
-This disclaimer, together with our privacy policy and our reports disclaimer (if you have purchased a paid report from us), constitutes the entire agreement between you and us in relation to your use of our website, and supersedes all previous agreements in respect of your use of this website. 
+This disclaimer, together with our privacy policy and our reports disclaimer (if you have purchased a paid report from us) and our International Schools Database (if you have puchased access to the International Schools Database from us), constitutes the entire agreement between you and us in relation to your use of our website, and supersedes all previous agreements in respect of your use of this website. 
 
 ### (10) Law and jurisdiction
 
@@ -114,7 +115,7 @@ We may use your personal information to:
 
   1. administer the website;
   2. improve your browsing experience by personalising the website;
-  3. enable your use of the services available on the website, including contacting third party taxi companies;
+  3. enable your use of the services available on the website;
   4. send you general (non-marketing) commercial communications;
   5. send you email notifications which you have specifically requested;
   6. provide third parties with statistical information about our users – but this information will not be used to identify any individual user; and
