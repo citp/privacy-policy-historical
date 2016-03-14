@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goanimate4schools.com privacy policy that was archived on 2015-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323090807id_/https%3A//goanimate4schools.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goanimate4schools.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314164256id_/https%3A//goanimate4schools.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -18,42 +18,119 @@
 
 
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700">
-<link rel="stylesheet" href="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/school/css/common_combined.css">
+<link rel="stylesheet" href="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/school/css/common_combined.css">
 
+<link rel="stylesheet" href="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/school/css/usage_guidelines.css">
 
-<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580433300000/491659.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
+<script type="text/javascript" async="" src="https://koi-3Q6B8SG59E.marketingautomation.services/client/ss.js?ver=1.1.1"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580433300000/491659.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 var srv_tz_os = -4, view_name = "school", user_cookie_name = "u_info_school";
 var user_country = "US";
 </script>
 
 <!--[if lt IE 9]>
-<script src="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/go/js/lib/html5shiv.js"></script>
+<script src="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/go/js/lib/html5shiv.js"></script>
 <![endif]-->
-<script src="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/school/js/common_combined.js"></script>
-<script type="text/javascript" src="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/go/js/../po/goserver_js-en_US.json"></script>
+<script src="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/school/js/common_combined.js"></script>
+<script type="text/javascript" src="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/go/js/../po/goserver_js-en_US.json"></script>
 <script type="text/javascript">
 var I18N_LANG = 'en_US';
 var GT = new Gettext({'locale_data': json_locale_data});
 </script>
 
-<!-- Google Analytics -->
+
+
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-2516970-15']);
-_gaq.push(['_setDomainName', 'none']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        ga('create', 'UA-2516970-15');
 
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+        ga('send', 'pageview');
+
+ga('require', 'ecommerce');
+
+$(function() {
+    var COOKIE_LAST_URL_LIFETIME = 5,
+        COOKIE_BLOCKER_LIFETIME = 900;
+
+    function setSessionCookie(cookie_name, cookie_value, lifetime) {
+        document.cookie = cookie_name + '=' + escape(cookie_value) + '; path=/; max-age=' + lifetime + ';';
+    }
+    function getSessionCookie(cookie_name) {
+        var results = document.cookie.match('(^|;) ?' + cookie_name + '=([^;]*)(;|$)');
+        if (results) {
+            return (unescape(results[2]));
+        } else {
+            return null;
+        }
+    }
+
+    $(window).on({
+        unload: function() {
+            setSessionCookie('lasturl', window.location.href, COOKIE_LAST_URL_LIFETIME);
+        },
+        onbeforeunload: function() {
+            setSessionCookie('lasturl', window.location.href, COOKIE_LAST_URL_LIFETIME);
+        },
+        load: function() {
+            var http_referrer = document.referrer,
+                blocker = getSessionCookie('gasessid');
+
+            if (http_referrer === '') {
+                http_referrer = getSessionCookie('lasturl');
+            }
+            if ((http_referrer === '') || (blocker === null)) {
+                if (typeof(ga) !== 'undefined') {
+                    var currentDate = new Date(),
+                        sessionId,
+                        clientId;
+
+                    // Assume we only have one tracker
+                    try {
+                        var trackers = ga.getAll();
+                        var currentDate = new Date(),
+                            clientId = trackers[0].get('clientId'),
+                            sessionId = clientId + '.' + currentDate.getTime();
+                        // Set custom dimension (UniqueID).
+                        ga('set', 'dimension1', clientId);
+                        // Set custom dimension (Session ID).
+                        ga('set', 'dimension2', sessionId);
+                        // Set blocker.
+                        setSessionCookie('gasessid', sessionId, COOKIE_BLOCKER_LIFETIME);
+                    } catch(e) {}
+                }
+            }
+        }
+    });
+  });
 </script>
 
+
+
 <script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+<!-- Google Knowledge Graph -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "GoAnimate",
+    "url": "http://goanimate.com",
+    "logo": "http://gawpstorage.s3.amazonaws.com/img/google_knowledge_graph_logo.jpg",
+    "sameAs": [
+        "http://www.facebook.com/GoAnimateInc",
+        "http://twitter.com/GoAnimate",
+        "http://www.linkedin.com/company/goanimate",
+        "http://plus.google.com/+goanimate",
+        "http://www.youtube.com/user/GoAnimate"
+    ]
+}
+</script>
+
 </head>
-<body class="page-action-privacy">
+<body class="page-action-privacy usage-guidelines">
 <script type="text/javascript">
 if (self !== top) {
             jQuery('body').hide();
@@ -70,7 +147,7 @@ if (self !== top) {
                 <span class="icon-bar"></span>
               </button>
             <a class="navbar-brand" href="/" title="GoAnimate for Schools">
-                <img alt="GoAnimate for Schools" src="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/school/img/site/logo4s.png">
+                <img alt="GoAnimate for Schools" src="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/school/img/site/logo4s.png">
             </a>
         </div>
 
@@ -81,7 +158,7 @@ if (self !== top) {
                 <li class="dropdown">
                     <a class="dropdown-toggle" href="#" data-toggle="dropdown">Learning Center <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="http://goanimate4schools.com/teaching-with-video/">Blog</a></li>
+                        <li><a href="http://blog.goanimate4schools.com/">Blog</a></li>
                         <li><a href="/public_faq">FAQ</a></li>
                         <li><a href="https://goanimate4schools.zendesk.com/hc/en-us">Help Center</a></li>
                     </ul>
@@ -90,191 +167,480 @@ if (self !== top) {
         </div>
     </div>
 </nav>
-<div class="container">
 
-<h1>GoAnimate, Inc. Privacy Policy</h1>
-<p>Thank you for visiting this GoAnimate,
-Inc. ("GoAnimate") Internet web site ("Site") located
-at the URL goAnimate4schools.com. This Privacy Policy details certain policies
-implemented throughout GoAnimate governing GoAnimate's use of personally
-identifiable information about users of our Site and users of our services
-(the "Services").   <br></p>
-<p>Your privacy is important to us
-and, as described in this Privacy Policy, we try to protect information
-about you from unauthorized disclosure to others. This Privacy Policy
-explains how we collect, use and, in certain circumstances, share your
-personally identifying information. Please read this Privacy Policy
-carefully, and if you have any questions, feel free to contact us.
- </p>
+<div class="container main-container">
 
-<h4>Privacy Policy Updates</h4>
-<p>Due to the Internet's rapidly
-evolving nature, GoAnimate may need to update this Privacy Policy from
-time to time.  If so, GoAnimate will post its updated Privacy Policy
-on our Site and we may send registered users an email, so you are always
-aware of what personally identifiable information we may collect and
-how we may use this information.  If any modification is unacceptable
-to you, you shall cease using this Site and the Services. If you do
-not cease using this Site and the Services, you will be deemed to have
-accepted the change.</p>
+<h1>
+    GoAnimate, Inc.
+    <br>
+    GoAnimate for Schools COPPA Policy
+</h1>
+<p>
+    <b>Effective Date</b>: 7/20/2015
+</p>
+<p>
+    GoAnimate for Schools, provided by GoAnimate, Inc. (“GoAnimate for Schools”,
+    “we”, “us”, or “our”) recognizes the importance of the privacy of children
+    and of all of its users. This COPPA Privacy Policy (“COPPA Policy”) is
+    designed to comply with the federal Children’s Online Privacy Protection Act
+    (COPPA) and contains important information for teachers, parents, and
+    children about how we collect, use, and disclose the personal information of
+    users of our website
+    <a href="https://goanimate4schools.com/">goanimate4schools.com</a> (the
+    “Site”) and the services available through our Site (collectively, the
+    “Services”), including information from children under thirteen (13) years
+    of age and teachers.
+</p>
+<p>
+    While COPPA only applies to personal information collected from children
+    under thirteen (13), GoAnimate for Schools is designed for use by persons
+    under eighteen (18) years of age. Therefore, for purposes of this COPPA
+    Policy, “student” or “students” means a “child” or “children” under eighteen
+    (18).
+</p>
+<p>
+    At GoAnimate, we provide tools for teachers and students to create animated
+    videos. When a teacher uses our Services in the classroom or an educational
+    setting to sign students up to GoAnimate, the teacher is required to provide
+    consent to the collection, use, and disclosure of personal information from
+    students and is required to affirm to us that they have the authority to do
+    so.
+</p>
+<p>
+    Students’ personal information will be handled as described in this COPPA
+    Policy. Use of our Site or Services, and any dispute over privacy, is
+    subject to this COPPA Policy and our
+    <a href="https://goanimate4schools.com/termsofuse">Terms of Service</a>,
+    including its applicable limitations on damages and the resolution of
+    disputes. Our <a href="https://goanimate4schools.com/termsofuse">Terms of
+    Service</a> are incorporated by reference into this COPPA Policy.
+</p>
+<p>
+    <a href="#information-we-collect">Information We Collect</a>
+    <br>
+    <a href="#how-we-use-information">How We Use Information</a>
+    <br>
+    <a href="#how-we-disclose-information">How We Disclose Information</a>
+    <br>
+    <a href="#cookies-and-other-tracking-mechanisms">
+        Cookies and Other Tracking Mechanisms
+    </a>
+    <br>
+    <a href="#user-generated-content">User-Generated Content</a>
+    <br>
+    <a href="#third-party-links">Third-Party Links</a>
+    <br>
+    <a href="#security">Security</a>
+    <br>
+    Rights to Review, Delete, and Control Our Use of Students’ Personal
+    Information
+    <br>
+    <a href="#users-outside-the-united-states">
+        Users Outside the United States
+    </a>
+    <br>
+    <a href="#contact-us">Contact Us</a>
+    <br>
+    <a href="#changes-to-this-coppa-policy">Changes to this COPPA Policy</a>
+</p>
+<h2 id="information-we-collect">Information We Collect</h2>
+<p>
+    We collect information about students directly from students or from their
+    teachers, as well as automatically through a student’s use of our Site or
+    Services. We will not require a student to disclose more information than is
+    reasonably necessary to use our Services.
+</p>
+<ul>
+    <li>
+        <b>Information We
+        Collect Directly from Students.</b> We collect the login
+        credentials for students provided to us by teachers, which may
+        include a student’s name or email address. If a student chooses to
+        record his/her own voice in an animation or otherwise input
+        information into our Site or Services (e.g., text-to-speech
+        language to help narrate a video), we also collect that student’s
+        voice recording or other information.
+    </li>
+    <li>
+        <b>Information We
+        Collect Directly from Teachers.</b> We collect the login
+        credentials for teachers, which may include the teacher’s name or
+        email address. We will also collect any information that a teacher
+        chooses to provide to us, such as a phone number, school, or title.
+    </li>
+    <li>
+        <b>Information We
+        Collect Automatically.</b> We may automatically collect the
+        following information about our users’ use of our Site through
+        cookies and other technologies: domain name; browser type; browser
+        language; device ID; operating system type; device name and model;
+        pages or screens viewed; links clicked; IP address; when and the
+        length of time a user visits or uses our Services; and the referring
+        URL, or the webpage that led a user to our Site.
+    </li>
+</ul>
+<h2 id="how-we-use-information">How We Use Information</h2>
+<p>
+    We use the information that we gather about our users for the following
+    purposes:
+</p>
+<ul>
+    <li>
+        <b>Providing Our
+        Services. </b> To provide our Services and for other customer
+        service purposes.
+    </li>
+    <li>
+        <b>Communicating
+        with Users.</b> To communicate with our users, including via
+        email, about our Services and to respond to inquiries.
+    </li>
+    <li>
+        <b>Analyzing Use
+        of Our Services.</b> To better understand how our users access
+        and use our Site and Services, both on an aggregated and
+        individualized basis; to respond to user desires and preferences;
+        and for other research and analytical purposes.
+    </li>
+    <li>
+        <b>Complying with
+        the Law.</b> To comply with applicable legal obligations.
+    </li>
+</ul>
+<h2 id="how-we-disclose-information">How We Disclose Information</h2>
+<p>
+    We may disclose the information that we collect about our users with the
+    following entities:
+</p>
+<ul>
+    <li>
+        <b>GoAnimate for
+        Schools Users.</b> Teachers already know the login credentials of
+        their students. Teachers will also have access to student videos and
+        may be able to moderate their creation, editing, or deletion.
+        Students and teachers may also message other students and/or
+        teachers within our Services.
+    </li>
+    <li>
+        <b>Service
+        Providers.</b> We may disclose a teacher’s or student’s
+        information to our vendors, service providers, agents, or others who
+        perform functions on our behalf.
+    </li>
+</ul>
+<p>
+    We may also disclose the information that we collect about students in the
+    following ways:
+</p>
+<ul>
+    <li>
+        <b>Business
+        Transfers.</b> We may disclose a teacher’s or student’s
+        information to another entity if we are acquired by or merged with
+        another company, if substantially all of our assets are transferred
+        to another company, or as part of a bankruptcy proceeding.
+    </li>
+    <li>
+        <b>In Response to
+        Legal Process.</b> We may disclose a teacher’s or student’s
+        information in order to comply with the law, a judicial proceeding,
+        subpoena, court order, or other legal process.
+    </li>
+    <li>
+        <b>To Protect Us
+        and Others.</b> We may disclose a teacher’s or student’s
+        information where we believe it is necessary to investigate,
+        prevent, or take action regarding illegal activities, suspected
+        fraud, situations involving potential threats to the safety of any
+        person, violations of our
+        <a href="https://goanimate4schools.com/termsofuse">Terms of Service
+        </a> or this COPPA Policy, or as evidence in litigation in which we
+        are involved.
+    </li>
+    <li>
+        <b>Aggregate and
+        De-Identified Information.</b> We may disclose aggregate or
+        de-identified information about users for marketing, advertising,
+        research, or similar purposes.
+    </li>
+</ul>
+<h2 id="cookies-and-other-tracking-mechanisms">
+    Cookies and Other Tracking Mechanisms
+</h2>
+<p>
+    We and our service providers use cookies and other tracking mechanisms to
+    track information about our users’ use of our Site or Services. We or our
+    service providers may combine this information with other personal
+    information we collect from our users.
+</p>
+<ul>
+    <li>
+        <b>Do Not Track.
+        </b> Our Site does not respond to Do Not Track signals and we may
+        track a user’s activities once s/he leaves our Site. Users may
+        disable certain tracking as discussed in this section (e.g., by
+        disabling cookies).
+    </li>
+    <li>
+        <b>Cookies.</b>
+        We or our service providers may use cookies to track visitor
+        activity on our Site. A cookie is a text file that a website
+        transfers to a user’s computer’s hard drive for record-keeping
+        purposes. We or our service providers may use cookies to track user
+        activities on our Site, such as the pages visited and time spent on
+        our Site. Most browsers allow users to refuse cookies. The Help
+        portion of the toolbar on most browsers can inform users about how
+        to prevent their computer from accepting new cookies, how to have
+        the browser notify a user upon receipt a new cookie, or how to
+        disable cookies altogether. Users of our Site and Services who
+        disable cookies may not be able to browse certain areas of the Site.
+    </li>
+    <li>
+        <b>Clear GIFs,
+            pixel tags and other technologies.</b> Clear GIFs are tiny
+            graphics with a unique identifier, similar in function to
+            cookies, which are embedded invisibly on web pages. We or our
+            service providers may use clear GIFs (also known as web beacons,
+            web bugs or pixel tags), in connection with our Site to track
+            the activities of our users, help us manage content, and compile
+            statistics about usage of our Site. We or our service providers
+            may also use clear GIFs in HTML emails to our users, to help us
+            track email response rates, identify when our emails are viewed,
+            and track whether our emails are forwarded.
+    </li>
+    <li>
+        <b>Third-Party
+        Analytics.</b> We use third-party service providers, such as
+        Google Analytics and Hubspot, to evaluate the use of our Site and
+        our Services. We or our service providers use automated devices and
+        applications to evaluate use of our Site and Services. We or our
+        service providers use these tools to help us improve our Site,
+        Services, performance, and user experiences. These entities may use
+        cookies and other tracking technologies, such as web beacons or
+        Flash LSO, to perform their services.
+    </li>
+</ul>
+<h2 id="user-generated-content">User-Generated Content</h2>
+<p>
+    Users can create content on our Site or Services, such as by creating videos
+    using the assets we provide and importing their own assets (such as image
+    and audio files) for inclusion in these videos. Teachers control the sharing
+    and distribution settings for the videos created by their students. If a
+    user publishes his/her video on our Site or Services, the video and
+    information contained within will be available to other users to the extent
+    agreed upon between GoAnimate for Schools and the user’s teacher,
+    classmates, school, district, or other similar person or entity. We cannot
+    prevent such information from being used in a manner that may violate this
+    COPPA Policy, the law, or our user’s personal privacy.  If a teacher
+    downloads or exports a video, the resulting video file does not reside on
+    our Site or Services and is no longer governed by this Policy.
+</p>
+<h2 id="third-party-links">Third-Party Links</h2>
+<p>
+    Our Site and Services may contain links to third-party websites. Any access
+    to and use of such linked websites is not governed by this COPPA Policy but
+    instead is governed by the privacy policies of those third-party websites.
+    We are not responsible for the information practices of such third-party
+    websites.
+</p>
+<h2 id="security">Security</h2>
+<p>
+    We have taken steps to help protect the information we collect from loss,
+    misuse, unauthorized access, disclosure, alteration, and destruction.
+    However, no data security measures can guarantee 100% security. Users should
+    take steps to protect against unauthorized access to their accounts by,
+    among other things, choosing a robust password that nobody else knows or can
+    easily guess and keeping their log-in and password private. We are not
+    responsible for any lost, stolen, or compromised passwords or for any
+    activity on an account via unauthorized password activity.
+</p>
+<h2>
+    Rights to Review, Delete, and Control Our Use of Students’ Personal
+    Information
+</h2>
+<p>
+    Teachers have a right to review the personal information we have collected
+    about their students, to delete it, and to tell us to no longer use or
+    disclose it. Teachers can review most of the personal information we collect
+    about their students by logging in to their accounts and reviewing their
+    account information and updating the personal information we maintain about
+    their students. If a teacher does not want us to collect and use his/her
+    student’s personal information anymore, then the teacher may cancel the
+    student’s account and the student’s use of the Services.
+</p>
+<p>
+    Parents may also contact us at schools@goanimate4schools.com to request
+    access to their child’s information or cancellation of their child’s
+    account. After liaising with that child’s teacher, we will endeavor to honor
+    a parent’s request.
+</p>
+<h2 id="users-outside-the-united-states">Users Outside the United States</h2>
+<p>
+    Our computer systems are currently based in the United States, so if a user
+    is outside the United States his/her information will be processed by us in
+    the United States where data protection and privacy regulations may not
+    offer the same level of protection as the user’s jurisdiction. If a user
+    creates a user account with the Site as a visitor from outside the United
+    States, by using the Site s/he agrees to this COPPA Policy and consents to
+    the transfer of all such information to the United States.
+</p>
+<h2 id="contact-us">Contact Us</h2>
+<p>
+    If users have questions about the privacy aspects of our Site or Services,
+    please contact us at:
+</p>
+<p>
+    GoAnimate, Inc.
+    <br>
+    204 East 2nd Avenue, Suite 638
+    <br>
+    San Mateo, CA 94401
+    <br>
+    888-360-9639
+    <br>
+    schools@goanimate4schools.com
+</p>
+<h2 id="changes-to-this-coppa-policy">Changes to this COPPA Policy</h2>
+<p>
+    This COPPA Policy is current as of the Effective Date set forth above. We
+    may change this COPPA Policy from time to time, so please be sure to check
+    back periodically. We will post any changes to this COPPA Policy on our
+    Site. If we make any changes to this COPPA Policy that materially affect our
+    practices with regard to the personal information we have previously
+    collected from users, we will endeavor to provide users with notice in
+    advance of such change by highlighting the change on our Site.
+</p>
 
-<h4>Information Collection and Use</h4>
-<p>You can generally visit our Site
-without revealing any personally identifiable information about yourself.
-However, in certain sections of this Site and when you use our Services,
-we may invite you to register and become a member of GoAnimate.
-When you register, provide us with feedback or contact us, we may collect
-personally identifiable information, such as your name, contact data
-such as your email address, gender and username and password and any
-other personally identifiable information that you voluntarily provide
-to us in your communications that you transmit to us.  We may offer
-you the opportunity to submit other information about yourself (such
-as occupation, hobbies, interests, zip code, etc.), or we may be able
-to collect that information from third party sites on which you have
-installed our Services (in accordance with the terms of use of those
-sites).  </p>
-<p>We also may collect clear gifs
-and web bugs through your use of the Site.  We also may collect
-all of the foregoing personally identifiable information about you from
-third party websites on which you post your animations through application
-programming interfaces and when you request an animation posted or created
-on our Site on a third party site as the animations are hosted on our
-Site.</p>
-<p>In order to provide the best possible
-service and to allow us to make certain internal reports, we collect
-aggregate information about the use of the Services, including information
-about users accessing the site or viewing animations or using our Services
-on other sites, such as internet protocol addresses, browser type, browser
-language, referring / exit pages and URLs, platform type, number of
-clicks, domain names, landing pages, pages viewed and the order of those
-pages, the amount of time spent on particular pages, and the date and
-time. We may also use purpose-built tools provided by third parties to access, monitor, analyze, use and disclose this data.</p>
-<p>We may use your personal information
-to register to use our Site and Services, deliver you certain Services,
-provide you with notices regarding services you have purchased or might
-want to purchase, improve the content and general administration of
-our Site and send you targeted advertising.</p>
-<p>We make your profile and animations
-available to other users according to the control settings you set for
-yourself. If you have elected to make your animations public, then other
-users will be able to see that you posted animations and view your animations.
-We also use your name, email address and other information on our system
-to notify you of new product releases, service notifications, to solicit
-your feedback and input and to determine the type of content that you
-might like to view. In the event that we decide to allow you to submit
-other information about yourself, the availability of that information
-to other users will also be controlled by privacy settings you will
-set for yourself. In the event that you make your animations publicly
-available, or "embed" them on another publicly available web site
-(such as a social networking site), we may include links to those shows
-or web sites or otherwise identify them in our marketing materials as
-places where GoAnimate animations that may interest other users can
-be found.</p>
+<hr>
 
-<h4>Contests, Sweepstakes, and Promotions</h4>
-<p>From time to time you may be able
-to participate in contests, giveaways, sweepstakes or other similar
-promotions we sponsor on this Site. Participation such in contests,
-giveaways, sweepstakes or other similar promotions may require sharing
-your personal information with us or third parties sponsoring the contest,
-giveaway, or promotion, and we will use such personal information in
-accordance with the rules for such contest, giveaway, sweepstakes or
-other promotion.  Therefore, you should check the rules to determine
-how your information will be used and shared with others. If a third
-party administers the contest, your participation may be subject to
-additional terms and conditions and that third party's privacy policy.
-We are not responsible for such third parties. You should carefully
-review these third parties' terms and conditions.</p>
+<h1>
+    GoAnimate, Inc.
+    <br>
+    GoAnimate for Schools Direct Notice to Teachers
+</h1>
+<p>
+    Dear Teacher [Principal, School Administrator, etc.],
+</p>
+<p>
+    You wish to sign your students up to use GoAnimate for Schools, provided by
+    GoAnimate, Inc. (“GoAnimate for Schools”, “we”, “us”, or “our”), which
+    provides tools for teachers and students to create animated videos through
+    our website <a href="https://goanimate4schools.com/">goanimate4schools.com
+    </a> (the “Site”) and the services available through our Site (collectively,
+    the “Services”).
+</p>
+<p>
+    We are required to provide you with this notice (“Direct Notice”) and obtain
+    your consent to the collection, use, and disclosure of your students’
+    personal information pursuant to the Children’s Online Privacy Protection
+    Act (COPPA).
+</p>
+<p>
+    While COPPA only applies to personal information collected from children
+    under thirteen (13), GoAnimate for Schools is designed for use by persons
+    under eighteen (18) years of age.  Therefore, for purposes of this Direct
+    Notice, “student” or “students” means a “child” or “children” under eighteen
+    (18). This Direct Notice applies to the personal information we collect from
+    students and describes how we collect, use, and disclose such information
+    via the GoAnimate for Schools Site and Services.
+</p>
+<h2>Consent Under COPPA</h2>
+<p>
+    Under COPPA, teachers [principals, school administrator, etc.] may consent
+    to the collection, use, and disclosure of personal information from their
+    students who are under thirteen (13) , with respect to online tools that the
+    teacher and students use in a classroom setting or otherwise in the
+    educational context. In order to use the GoAnimate for Schools Site and
+    Services in the classroom, you must:
+</p>
+<ul>
+    <li>
+        Be the teacher [principal, school administrator, etc.] for any
+        student whom you sign up to our Services;
+    </li>
+    <li>
+        Be acting in your capacity as a teacher [principal, school
+        administrator, etc.];
+    </li>
+    <li>
+        Have the authority to consent to the collection of personal
+        information from your students;
+    </li>
+    <li>Affirm all of the above.</li>
+</ul>
+<h2>
+    Rights to Review, Delete, and Control Our Use of Students’ Personal
+    Information
+</h2>
+<p>
+    Teachers have a right to review the personal information we have collected
+    about their students, to delete it, and to tell us to no longer use or
+    disclose it. Teachers can review most of the personal information we collect
+    about their students by logging in to their accounts and reviewing their
+    account information and updating the personal information we maintain about
+    their students. If a teacher does not want us to collect and use his/her
+    student’s personal information anymore, then the teacher may cancel the
+    student’s account and the student’s use of the Services.
+</p>
+<p>
+    Parents may also contact us at schools@goanimate4schools.com to request
+    access to their child’s information or cancellation of their child’s
+    account. After liaising with that child’s teacher, we will endeavor to
+    honor a parent’s request.
+</p>
+<h2>Information We Collect</h2>
+<p>
+    <b>How Information is
+    Collected.</b> We collect information about students directly from
+    students or from their teachers, as well as automatically through a
+    student’s use of our Site or Services. We will not require a student to
+    disclose more information than is reasonably necessary to use our Services.
+</p>
+<p>
+    <b>Information We Collect
+    Directly from Students.</b> We collect the login credentials for students
+    provided to us by teachers, which may include a student’s name or email
+    address. If a student chooses to record his/her own voice in an animation or
+    otherwise input information into our Services (e.g., text-to-speech language
+    to help narrate a video), we also collect that student’s voice recording or
+    other information.
+</p>
+<p>
+    <b>Information We Collect
+    Automatically.</b> We may automatically collect the following information
+    about students’ use of our Site through cookies and other technologies:
+    domain name; browser type; browser language; device ID; operating system
+    type; device name and model; pages or screens viewed; links clicked; IP
+    address; when and the length of time a user visits or uses our Services; and
+    the referring URL, or the webpage that led a user to our Site.
+</p>
+<h2>How We Use Students’ Information</h2>
+<p>
+    We use students’ personal information to provide our Services, communicate
+    with users, analyze use of our service, and to comply with the law.
+</p>
+<h2>How We Disclose Students’ Information </h2>
+<p>
+    We disclose students’ personal information to other GoAnimate for School users (e.g., so students and teachers may message each other on our Site); to service providers who perform functions on our behalf; as part of a business transfer; in response to legal process; to protect us and others; and in the aggregate or in a de-identified format.
+</p>
+<p>
+    To learn more about our privacy practices, please review our COPPA Policy.
+</p>
+<p>
+    For more information about COPPA and your student’s rights to online privacy, visit <a href="http://www.coppa.org/comply.htm">http://www.coppa.org/comply.htm</a>.
+</p>
+<p>Sincerely,</p>
+<p>GoAnimate for Schools</p>
+<p>
+    GoAnimate, Inc.
+    <br>
+    204 East 2nd Avenue, Suite 638
+    <br>
+    San Mateo, CA 94401
+    <br>
+    schools@goanimate4schools.com
+</p>
 
-<h4>Children's Privacy</h4>
-<p>GoAnimate recognizes the privacy
-interests of children and we encourage parents and guardians to take
-an active role in their children's online activities and interests.
-This Site is not intended for children under the age of 13.  GoAnimate
-does not target its Services or this Site to children under 13.
-GoAnimate does not knowingly collect personally identifiable information
-from children under the age of 13.  </p>
-
-<h4>Cookies</h4>
-<p>We may use small text files called
-cookies to improve overall Site experience. A cookie is a piece of data
-stored on the user's hard drive containing information about the user.
-Cookies generally do not permit us to personally identify you.  </p>
-
-<h4>Others' Information</h4>
-<p>You may decide to provide us with
-another person's email address so that person may be invited to join
-GoAnimate. We use this information to contact and, if necessary, remind
-that person that he or she has been invited to join GoAnimate. All invitees
-are provided with the option not to receive further invitations from
-GoAnimate. We may disclose such information if required to do so in
-order to comply with legal process, as described below.</p>
-
-<h4>Disclosure</h4>
-<p>We do not sell or rent your personally
-identifiable information to any third party. We may however provide
-your personally identifiable information and the data generated by cookies
-and the aggregate information to the vendors and service agencies that
-we may engage to assist us.  For example, we may provide your personally
-identifiable information to a marketing, research and/or advertising
-agency to notify you of new product releases, service notifications,
-and to solicit your feedback and input on our behalf.  We will
-disclose your personally identifiable information if we reasonably believe
-we are required to do so by law or regulation or in cooperation with
-any governmental investigation.  We may transfer your personally
-identifiable information to a successor entity upon a merger, consolidation
-or other corporate reorganization in which GoAnimate participates or
-to a purchaser of all or substantially all of GoAnimate's assets to
-which this Site relates.  </p>
-
-<h4>Links to Third Party Sites</h4>
-<p>The Site may provide links to
-other Web sites or resources over which GoAnimate does not have control
-("External Web Sites").  Such links do not constitute
-an endorsement by GoAnimate of those External Web Sites.  You acknowledge
-that GoAnimate is providing these links to you only as a convenience,
-and further agree that GoAnimate is not responsible for the content
-of such External Web Sites.  Your use of External Web Sites is
-subject to the terms of use and privacy policies located on the linked
-to External Web Sites.</p>
-
-<h4>Security</h4>
-<p>We may employ procedural and technological
-security measures that are reasonably designed to help protect your
-personally identifiable information from loss, unauthorized access,
-disclosure, alteration or destruction.  GoAnimate may use secure
-socket layer, firewalls, password protection, and other security measures
-to help prevent unauthorized access to your personally identifiable
-information.  </p>
-<h4>Users Outside of the United States</h4>
-<p>Our computer systems are currently
-based in the United States, so your personal data will be processed
-by us in the United States where data protection and privacy regulations
-may not offer the same level of protection as in other parts of the
-world, such as the European Union.  If you create a user account
-with the Site as a visitor from outside the United States, by using
-the Site you agree to this Privacy Policy and you consent to the transfer
-of all such information to the United States, which may not offer an
-equivalent level of protection of that required in the European Union
-or certain other countries, and to the processing of that information
-as described in this Privacy Policy. </p>
-
-<h4>Correction/Updating Personally Identifiable Information </h4>
-<p>GoAnimate provides you with the
-ability to review, correct and delete your contact information.
-If you wish to review or correct any information you have provided to
-us, you may access your account online.</p>
-<p>If you have any questions regarding
-this Privacy Policy please contact us via email at privacy-support@GoAnimate.com.  </p>
-<p>This Privacy Policy was last updated:
-April 1, 2008</p>
-<p>This Privacy Policy is effective
-as of: April 1, 2008</p>
-
-<br>
-<p>Please send questions to <a href="mailto:support@GoAnimate.com" class="link">support@GoAnimate.com</a></p>
-
-<div style="padding:50px 0;"></div>
 </div>
 
 <footer class="site-footer hidden-print">
@@ -320,7 +686,7 @@ as of: April 1, 2008</p>
                 <div class="site-footer-nav-col">
                     <h5>Getting Help</h5>
                     <ul class="list-unstyled">
-                        <li><a href="http://goanimate4schools.com/teaching-with-video/">Educator Experiences</a></li>
+                        <li><a href="http://blog.goanimate4schools.com/">Educator Experiences</a></li>
                         <li><a href="https://goanimate4schools.zendesk.com/hc/en-us">Help Center</a></li>
                         <li class="hidden-xs">&nbsp;</li>
                         <li class="hidden-xs">&nbsp;</li>
@@ -345,10 +711,12 @@ as of: April 1, 2008</p>
             </div>
             <div class="col-sm-6">
                 <div class="pull-right">
-                    <img src="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/school/img/site/logo_norton.png" alt="Norton Secured">
-                    <img src="https://d2qrjeyl4jwu9j.cloudfront.net/static/c37213d825a55116/school/img/site/logo_amazon.png" alt="AWS Partner Network">
+                    <span class="site-footer-norton">
+                      <script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=goanimate.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+                    </span>
+                    <img src="https://d2qrjeyl4jwu9j.cloudfront.net/static/4cfcee01c84c8d7c/school/img/site/logo_amazon.png" alt="AWS Partner Network">
                     &nbsp;&nbsp;&nbsp;
-                    GoAnimate © 2014
+                    GoAnimate © 2016
                 </div>
             </div>
         </div>
@@ -375,6 +743,23 @@ as of: April 1, 2008</p>
     })(document,"script","hs-analytics",300000);
   </script>
 <!-- End of Async HubSpot Analytics Code -->
+
+<!-- SharpSpring begin -->
+<script type="text/javascript">
+var _ss = _ss || [];
+_ss.push(['_setDomain', 'https://koi-3Q6B8SG59E.marketingautomation.services/net']);
+_ss.push(['_setAccount', 'KOI-1OTR0IV8I']);
+_ss.push(['_trackPageView']);
+(function() {
+    var ss = document.createElement('script');
+    ss.type = 'text/javascript'; ss.async = true;
+
+    ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3Q6B8SG59E.marketingautomation.services/client/ss.js?ver=1.1.1';
+    var scr = document.getElementsByTagName('script')[0];
+    scr.parentNode.insertBefore(ss, scr);
+})();
+</script>
+<!-- SharpSpring end -->
 
 
 
