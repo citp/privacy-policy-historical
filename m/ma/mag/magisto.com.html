@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2015-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113031543id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2016-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315001653id_/https%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
 	
 	<title>Magisto | Privacy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="Content-Language" content="en-us">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQHWFRWGwIBXFVRBQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"12ef8c05cc","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"MQBaYkNWVkMDVRYPWghKfkNfVExZDVhNFVwBDUxTQ1YWRRZfDhUbEgBVRl1WTFVYUgsUUAURZ0JeaExVD0YOB0ED","applicationID":"1184320","errorBeacon":"bam.nr-data.net","applicationTime":31}</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(e,t){function n(){}function r(e){function t(e){return e&&e instanceof n?e:e?a(e,i,o):o()}function s(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,f=0;u>f;f++)a[f].apply(i,r);var s=c[w[n]];return s&&s.push([h,n,r,i]),i}function p(e,t){g[e]=l(e).concat(t)}function l(e){return g[e]||[]}function d(e){return f[e]=f[e]||r(s)}function v(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in c||(c[t]=[])})}var g={},w={},h={on:p,emit:s,get:d,listeners:l,context:t,buffer:v};return h}function o(){return new n}var i="nr@context",a=e("gos"),u=e(1),c={},f={},s=t.exports=r();s.backlog=c},{1:12,gos:"7eSDFh"}],ee:[function(e,t){t.exports=e("QJf3ax")},{}],3:[function(e,t){function n(e,t){return function(){r(e,[(new Date).getTime()].concat(i(arguments)),null,t)}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],c="api-";o(a,function(e,t){newrelic[t]=n(c+t,"api")}),o(u,function(e,t){newrelic[t]=n(c+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),r("err",[e,(new Date).getTime()])}},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,t){t.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,t){function n(e,t,n){if(r.call(e,t))return e[t];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=n},{}],handle:[function(e,t){t.exports=e("D5DuLP")},{}],D5DuLP:[function(e,t){function n(e,t,n,o){r.buffer([e],o),r.emit(e,t,n)}var r=e("ee").get("handle");t.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(e,t){function n(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");t.exports=n},{gos:"7eSDFh"}],id:[function(e,t){t.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,t){function n(){if(!v++){var e=d.info=NREUM.info,t=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){u(p,function(t,n){e[t]||(e[t]=n)});var n="https"===s.split(":")[0]||e.sslForHttp;d.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=d.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=e("handle"),u=e(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),d=t.exports={offset:i(),origin:s,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,t){t.exports=e("G9z0Bl")},{}],12:[function(e,t){function n(e,t){var n=[],o="",i=0;for(o in e)r.call(e,o)&&(n[i]=t(o,e[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;t.exports=n},{}],13:[function(e,t){function n(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=n},{}]},{},["G9z0Bl"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":1,"licenseKey":"12ef8c05cc","agent":"","transactionName":"MQBaYkNWVkMDVRYPWghKfkNfVExZDVhNFVwBDUxTQ1YWRRZfDhUbEgBVRl1WTFVYUgsUUAURZ0JeaExVD0YOB0ED","applicationID":"9930170","errorBeacon":"bam.nr-data.net","applicationTime":22}</script>
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
@@ -18,6 +18,10 @@
 	<meta name="apple-itunes-app" content="app-id=486781045, app-argument=">
 
 	
+
+	
+	<meta name="description" content="Automatically turn videos and photos into beautifully edited movies.">
+		
 
 	
 	<meta property="og:title" content="Magisto - Magical Video Editor">
@@ -34,9 +38,9 @@
 	<meta property="twitter:account_id" content="255003001">
 	
 
-	<link rel="shortcut icon" href="//d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/vnd.microsoft.icon">
-	<link rel="icon" href="//d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="//d1ekrxlws13em5.cloudfront.net/media/images/magisto_ios_icon_large.jpg">
+	<link rel="shortcut icon" href="https://d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/vnd.microsoft.icon">
+	<link rel="icon" href="https://d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="https://d1ekrxlws13em5.cloudfront.net/media/images/magisto_ios_icon_large.jpg">
 	<link rel="canonical" href="http://www.magisto.com/privacy">
 
 	
@@ -114,7 +118,7 @@
 
 	
 
-<link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/a39e1a601edb.css" type="text/css">
+<link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/a2416dfefae8.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/08298c883ac2.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/8e95edcf411f.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/7df82fe00bc1.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/ccce925733c4.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/98a78267c52c.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/03ec10d6c2f6.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/4649c7bb6e49.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/287fc8599b0a.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/908ffd41891c.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/f6fe8d2fe8d6.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/1552859b809d.css" type="text/css">
 
 <!--[if IE 8]>
 <link rel="Stylesheet" href="/media/css/ie8.css" type="text/css" />
@@ -133,77 +137,9 @@ h3{margin-top:25px;margin-bottom:10px;}
 }
 </style>
 
-
-	<script>
-	
-	(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);mixpanel.init("JS_SDK", {"api_host":"http://magisto.alooma.io"});	
-	
-
-	var globals = globals || {};
-	globals.alooma = {
-		track: function(event_name, extra_data) {
-			try {
-
-				var d = new Date(),
-					date_str = (
-						d.getFullYear() + "-" +
-						("00" + (d.getMonth() + 1)).slice(-2) + "-" + 
-						("00" + d.getDate()).slice(-2)
-					),
-					ts_str = (
-						d.getFullYear() + "-" +
-						("00" + (d.getMonth() + 1)).slice(-2) + "-" + 
-						("00" + d.getDate()).slice(-2) + " " +
-						("00" + d.getHours()).slice(-2) + ":" + 
-					    ("00" + d.getMinutes()).slice(-2) + ":" + 
-					    ("00" + d.getSeconds()).slice(-2)
-					);
-
-				var data = {
-					log_type: 'web',
-					origin: 'web',
-					client_date: date_str,
-					client_timestamp: ts_str,
-					device_id: globals.alooma.get_device_id(),
-					debug_mode: false
-				};
-
-				
-
-				
-
-				if (extra_data)
-					$.extend(data, extra_data);
-
-				mixpanel.track(event_name, data);
-				console.log('[al] ' + event_name + ': ' + JSON.stringify(data));
-			}
-			catch(err){
-				console.log('alooma error: ' + err);
-			}
-
-		},
-		get_random_in_range : function(min, max) {
-    		return Math.floor(Math.random() * (max - min + 1)) + min;
-		},
-		get_device_id: function() {
-			var cookie_name = 'vtid',
-                device_id = read_cookie(cookie_name);
-
-            if (device_id && device_id.length) {
-                //
-            }
-            else {
-                device_id = globals.alooma.get_random_in_range(1, 99999) + '' + (new Date).getTime(); // random unique identifier
-                write_cookie(cookie_name, device_id, (24*365*10), '/', '.' + globals.sightera_server);
-            }
-            return device_id;		
-		}
-	};
-</script>
 </head>
 
-<body>
+<body ng-app="magisto">
 	
 	<div id="fb-root"></div>
 
@@ -211,14 +147,14 @@ h3{margin-top:25px;margin-bottom:10px;}
 		
 
 
-<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/f6b6efa7e8dd.js"></script>
+<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/cdd5198016bc.js"></script>
 
 <script type="text/javascript">
 
 	
-	var _static_url = '//d1ekrxlws13em5.cloudfront.net/media/';
+	var _static_url = 'https://d1ekrxlws13em5.cloudfront.net/media/';
 	var _sightera_server = 'www.magisto.com';
-	var _protocol = 'http';
+	var _protocol = 'https';
 	var _secure_protocol = 'https';
 	var _is_debug = false;
 	var _has_https_support = true;
@@ -232,7 +168,7 @@ h3{margin-top:25px;margin-bottom:10px;}
 	var _is_ie = false;
 	var _is_ie8 = false;
 	var _is_ie9 = false;
-	var _prot_and_server = 'http://www.magisto.com';
+	var _prot_and_server = 'https://www.magisto.com';
 
 	var _is_open_albums = true;
 	var _is_timeline_migration = true;
@@ -251,11 +187,11 @@ h3{margin-top:25px;margin-bottom:10px;}
 	globals.is_debug 			= false;
 	globals.is_authenticated 	= false;
 	globals.is_mobile 			= false;
-	globals.static_url 			= '//d1ekrxlws13em5.cloudfront.net/media/';
+	globals.static_url 			= 'https://d1ekrxlws13em5.cloudfront.net/media/';
 	globals.sightera_server 	= 'www.magisto.com';
-	globals.protocol 			= 'http';
+	globals.protocol 			= 'https';
 	globals.has_https_support 	= true;
-	globals.prot_and_server 	= 'http://www.magisto.com';
+	globals.prot_and_server 	= 'https://www.magisto.com';
 
 	
 	if(!(window.console && console.log)) {
@@ -303,7 +239,7 @@ h3{margin-top:25px;margin-bottom:10px;}
 </script>
 
 <!--[if IE]>
-<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/js/placeholder_support.js"></script>
+<script type="text/javascript" src="https://d1ekrxlws13em5.cloudfront.net/media/js/placeholder_support.js"></script>
 <script type="text/javascript">_is_ie=true;</script>
 <![endif]-->
 
@@ -378,9 +314,10 @@ h3{margin-top:25px;margin-bottom:10px;}
 	<div id="ui_container">
 		<div id="footer_wrap">
 			
+	
 
 
-
+	<style type="text/css">.btn{font-family:'ProximaNova';line-height:normal;position:relative;display:inline-block;text-transform:uppercase;font-size:13px;color:#fff;letter-spacing:.5px;font-weight:600;padding:10px 15px;border:solid 1px transparent;cursor:pointer;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;-webkit-font-smoothing:antialiased;outline:none;transition:background .2s ease;-moz-transition:background .2s ease;-webkit-transition:background .2s ease}.btn:active{top:1px}.btn.turq{background:#3cc3d2}.btn.turq:hover{background:#31b5c5}.btn.big{padding:16px 45px;font-size:16px;font-weight:400}.btn.trans{background:none;border:solid 1px #fff}.btn.trans:hover{background:rgba(0,0,0,0.1)}.btn.trans.turq{background:transparent;border:solid 1px #3cc3d2;color:#3cc3d2}.btn.trans.turq:hover{background:transparent;color:#31b5c5;border-color:#31b5c5}.btn.trans.gray{background:transparent;border:solid 1px #505050;color:#505050}.btn.trans.gray:hover{background:transparent;color:#333;border-color:#333}.btn.trans.disabled{border:solid 1px #cecece;color:#adadad;cursor:auto}.btn.trans.disabled:hover{border:solid 1px #cecece!important;color:#adadad!important;background:transparent!important}.btn.linkbtn{border:none;background:none;letter-spacing:normal;text-transform:none}</style>
 
 	<script type="text/javascript">
 	$(function(){
@@ -426,11 +363,17 @@ h3{margin-top:25px;margin-bottom:10px;}
 				<li>
 					<a href="/album/mine" onclick="track_event('Website Header','My Albums','');"><div>My Albums</div></a>
 				</li>
-
-				
 				
 				<li class="nav_pc_app">
 					<a href="http://www.magisto.com/windows?from=magisto-top-menu" onclick="track_event('Website Header','Get PC app','');"><div>PC APP</div></a>
+				</li>
+
+				<li>
+					<a href="http://blog.magisto.com" onclick="track_event('Website Header','Blog','');"><div>Blog</div></a>
+				</li>
+
+				<li>
+					<a href="/business-videos" onclick="track_event('Website Header','Business','');"><div>Business</div></a>
 				</li>
 			</ul>
 			
@@ -440,13 +383,13 @@ h3{margin-top:25px;margin-bottom:10px;}
 	
 	<div class="btn_create_movie">
 		
-		<a class="button button-turquoise txt-shadow" onclick="track_event('Website Header','Create Movie','');" href="/video/upload">Create Movie</a>
+		<a href="/video/upload" onclick="track_event('Website Header','Create Movie','');"><button class="btn turq btn_create_movie">Create Movie</button></a>
 		
 	</div>
 	
 	
 		<div class="top_login_btn">
-			<input type="button" value="Log in">
+			<a href="/connect?login&amp;next=/privacy"><input type="button" value="Log in"></a>
 		</div>
 	
 </div>
@@ -454,13 +397,11 @@ h3{margin-top:25px;margin-bottom:10px;}
 	</div>
 
 	<div class="hdr_mobile">
-		<div class="menu_trigger"><img src="//d1ekrxlws13em5.cloudfront.net/media/images/icon_mobile_handle_min.png" width="22" height="16"></div>
+		<div class="menu_trigger"><img src="https://d1ekrxlws13em5.cloudfront.net/media/images/icon_mobile_handle_min.png" width="22" height="16"></div>
 		
 	</div>
 
 </div>
-
-
 
 
 			<div id="page">
@@ -472,182 +413,251 @@ h3{margin-top:25px;margin-bottom:10px;}
 		<span>Privacy Policy</span>
 	</div>
 
-Last Updated February 2015
-<br><br>
-<p>
-This privacy statement explains the privacy practices of Magisto for users of the Site.&nbsp;If not 
-specifically defined herein, capitalized terms have the meaning given to them in the Magisto Terms of 
-Service, which are available at&nbsp;http://www.magisto.com/tos
-</p>
-<h3>Magisto's Commitment to Privacy</h3>
-<p>
-Magisto respects your right to privacy. Your ability to make informed choices about the uses of your 
-information is important to us. This privacy statement explains Magisto's policy regarding the 
-collection, use, disclosure and protection of Personal Information. The terms of this privacy policy 
-apply to information collected from you unless different terms are specified as part of a special offer 
-or in another form or contract we provide you.
-</p>
-<h3>What is Personal Information?</h3>
-<p>
-"Personal Information" is information that can be directly associated with a specific person or entity 
-such as a customer's name, address, telephone number, e-mail address, credit card number, or 
-information about activities directly linked to that person, such as his or her purchases. Personal 
-Information also includes information that you may choose to provide to us, such as your educational, 
-medical and employment history profile.
-Personal information does not include “aggregate” information. Aggregate information is data we 
-collect about a group or category of products, services or customers, from which individual customer 
-identities have been&nbsp;removed.&nbsp;In other words, information about how you use a service may be 
-collected and combined with information about how others use the same service, but no Personal 
-Information will be included in the resulting data. Likewise, information about the products or services 
-you use or purchase may be collected and combined with information about the products and services 
-used or purchased by others, but no Personal Information will be included in the resulting data. 
-Aggregate data helps understand trends and customer needs so that new products and services can be 
-considered and so existing products and services can be tailored to customer desires.
-</p>
-<h3>Collection of Personal Information</h3>
-<p>
-We collect Personal Information that you provide us, such as when you register to use the Site or 
-Services; post or submit any content on the Site or Services, including any video or audio content; or
-contact&nbsp;us for any reason.
-We may automatically collect some information when you use the Site or Services, such as your 
-computer’s IP address, operating system, the site from which you linked to us, and the time and date 
-of your visit, and activities.&nbsp;We also collect information received from third parties to the extent that 
-they have entered into an agreement with you as a result of your relationship with Magisto.
-</p>
-<h3>Use of Personal Information</h3>
-<p>
-The Personal Information we collect is used to process your requests or transactions, to provide you 
-high quality service, to customize your use of the Site or Services according to your preferences, and 
-to tell you about specific goods or services we believe will be of interest to you.&nbsp;In addition, Magisto 
-may use characteristics of your videos or other material in order to display advertising that Magisto’s 
-believes may be of interest to you.If you prefer not to receive promotional information from us, we 
-make it easy for you to let us know. You can contact us at any time to decline promotional information 
-(see under the heading “Choice” below). We may use subcontractors that are located in countries other 
-than your own, and send them Personal Information (or other information) we receive, including 
-videos or parts thereof. For example, we may send your information, videos or parts thereof to any 
-countries outside the United States, Canada or the European Union for processing or storage. All our 
-subcontractors will be subject to non-disclosure obligations. 
-</p>
-<h3>Sharing of Personal Information</h3>
-<p>
-Magisto does not sell, rent, share, or disclose Personal Information to third parties without your prior 
-consent, except in the limited circumstances described in this statement.
-</p>
-<h3>Videos</h3>
-<p>
-Summaries and edits of video produced by the Site and the Services will be made available to you via an internet link made available to you, including without limitation by email. If you reveal this link or send this email to third parties, such third parties will have full access to such summarized and edited videos as well as any confidential or personal information on such video. As such, you should have no expectation of confidentiality in videos or other material if you have revealed the applicable link to third parties.
-</p>
-<br>
-<p>
-All videos that you create and save using Magisto will be posted automatically to your timeline and be publicly available and searchable unless you choose otherwise. You may choose otherwise by selecting that a video be saved instead to your private album. If a video is made publicly available, you may later choose to make such video private. Notwithstanding such later choice, however, third parties may nevertheless continue to have access to your video via, for example, previously published links.	
-</p>
-<br>
-<p>
-Videos that are publicly available may be posted and made available to the public on Magisto’s application. Magisto may recommend such videos to other end users or categorize such videos according to previously defined topics and interests. If your videos are made publicly available, you should have no expectation of privacy in such videos. If your videos are publicly available, and you include your videos in any Magisto promotion, Magisto may make copies of your videos available to its promotional partners for use in the context of that promotion.
-</p>
-<h3>Communities</h3>
-<p>
-If you use any of the features of the Site or Services, please remember that any information disclosed 
-in these venues may be automatically made public, even without your knowledge or authorization. 
-You should exercise caution when disclosing any information, including Personal Information, in such 
-venues, as you do not know who will access or use such information and for what purposes. Magisto is 
-in no way responsible for the accuracy, use or misuse of any information, including Personal 
-Information, which you disclose in such venues.
-</p>
-<h3>Other Disclosures</h3>
-<p>
-In addition, we may disclose Personal Information in the good faith belief that we are required to do so 
-by law, or that doing so is reasonably necessary to comply with legal process, cooperate with any 
-requests of law enforcement or government security agencies, respond to any claims, or to protect the 
-rights, property, or personal safety of Magisto, our customers, or the public.&nbsp;Information about our 
-customers, including Personal Information, may be disclosed as part of, or during negotiations of, any 
-merger, sale of company assets or acquisition.
-</p>
-<h3>Protection of Personal Information</h3>
-<p>
-Magisto has put into place security measures in an effort to protect personal information from loss, 
-misuse or alteration while it is under our control. Personal information we collect is stored 
-electronically and may be combined with other membership information. We use technical, 
-contractual, administrative and physical measures in an effort to protect against unauthorized access.
-Account information is accessible online only through the use of a password. To protect the 
-confidentiality of personal information, you must keep your password confidential and not disclose it 
-to any other person.&nbsp;If other people have access to your email, they may be able to obtain access to 
-your password and obtain personal information about you (such as your credit card information), or 
-change information about your user profile. You may not want to use an email account operated by an 
-employer because many employers have the legal right to access such email accounts.
-</p>
-<h3>Choice</h3>
-<p>
-By registering you agree to receive promotional messages from Magisto. If at any time you wish to 
-stop receiving promotional information from Magisto, you may opt out by:
-(1)&nbsp;E-Mailing us at&nbsp;support@magisto.com
-(2)&nbsp;Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel
-(3)&nbsp;Accessing your registration information and checking the box that allows you to opt out of 
-receiving promotional emails.
-</p>
-<h3>Aggregate Information</h3>
-<p>
-Magisto appreciates the importance of safeguarding the privacy of your Personal Information that may 
-be provided to us.&nbsp;However, Magisto does use and disclose de-identified aggregate information for the 
-purposes of evaluating and improving our services and tailoring our products. Magisto may choose at 
-its sole discretion to transfer, sell, provide or share such information with third parties, including for to 
-Magisto's business partners for commercial purposes, and by providing any information to Magisto 
-you consent to such provision of de-identified aggregate information to any third party.
-Magisto uses anonymous identifiers in order to allow Google to collect data in order that we may 
-receive reports from Google with demographic and interest data regarding users of our mobile 
-application, as well as general campaign metrics. Google also allows us to isolate and analyze subsets 
-of sessions and users in such reports. Such reports and analyses are provided to us without the 
-identifying information of specific users. These identifiers are used together with third party SDKs 
-such as Google Analytics in order that we may receive such reports. Magisto does not merge this data 
-with Personal Information. Since we only use these identifiers for users of our mobile application, 
-there is currently no way of opting out from such collection of data.
-</p>
-<h3>What Are Cookies and Are You Required to Accept Them?</h3>
-<p>
-Cookies are small files that are stored on your computer. We use cookies to help optimize your use of 
-the Site.&nbsp;For example, we use cookies to customize our home page for you and to better display pages 
-according to your browser type. When you make a purchase cookies allow us to better maintain the 
-status of your account.&nbsp;We do not use cookies to store any personal information about you.
-</p>
-<h3>Use of the Site by Children</h3>
-<p>
-Magisto does not knowingly collect personally identifiable information from children under the age of 
-13, and you must be 13 years of age or older in order to establish an account.&nbsp;Parents are able to set up 
-accounts for their children.&nbsp;In this way verifiable parental consent is required in order to register a 
-child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby 
-represents and warrants that he or she is the parent or legal guardian of such child, and has the 
-authority to provide information and render consents on behalf of such child. In the event you become 
-aware that an individual under the age of 13 has enrolled without parental permission, please advise us 
-immediately.
-</p>
-<h3>Online Links to Other Sites</h3>
-<p>
-Magisto members or users can link to other webs of third parties that provide useful information, or 
-who have agreed to offer goods and services to Magisto members. Any personal information you 
-provide on the linked pages is provided directly to this third-party and is subject to that third party's 
-provider's privacy policy.
-Except as described above, Magisto is not responsible for the content or privacy practices of Web sites 
-to which we link. Links to third party or other sites are provided for your convenience. We encourage 
-you to learn about the privacy practices of each Web site before providing them with personal 
-information.
-</p>
-<h3>Updating, Reviewing or Correcting Personal Information</h3>
-<p>
-You may update, review or correct your on-line account information at any time online by accessing 
-your password-protected registration page. You may also e-mail us at&nbsp;support@magisto.com
-Questions or Concerns
-If you have any questions or concerns about this privacy statement or would like to contact us for any 
-reason, you can do the following:
-1.&nbsp;E-Mailing us at&nbsp;support@magisto.com&nbsp;or
-2.&nbsp;Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel
-</p>
-<h3>Changes to this Statement</h3>
-<p>
-Magisto reserves the right to change this privacy statement at any time, but will alert you that changes 
-have been made by indicating at the top of the privacy statement the date it was last updated. We 
-encourage you to review our privacy statement to make sure you understand how your information 
-will be used.	
-</p>
+	Last Updated December 2015
+	<br><br>
+	<p>
+	Magisto is committed to respecting the privacy rights and concerns of all users of its Services. As 
+	such, we have established and implemented this Privacy Policy to inform visitors to the Site and users 
+	of the Services how we use and protect the information we collect through the Services. By accessing 
+	the Site or using any of the Services, you consent to Magisto’s collection, use, storage, deletion and 
+	disclosure of information relating to you as set forth in this Privacy Policy. If not 
+	specifically defined herein, capitalized terms have the meaning given to them in the Magisto Terms of 
+	Service, which are available at http://www.magisto.com/tos
+	</p>
+	<h3>What is Personal Information?</h3>
+	<p>
+	This Privacy Policy explains Magisto's policy regarding the 
+	collection, use, disclosure and protection of Personal Information. The terms of this privacy policy 
+	apply to information collected from you unless different terms are specified as part of a special offer 
+	or in another form or contract we provide you.
+	</p>
+	<p>
+	"Personal Information" is information that can be directly associated with a specific person or entity 
+	such as a customer's name, address, telephone number, e-mail address, credit card number, or 
+	information about activities directly linked to that person, such as his or her purchases. Personal 
+	Information also includes information that you may choose to provide to us, such as your educational, 
+	medical and employment history profile.
+	Personal information does not include “aggregate” information. Aggregate information is data we 
+	collect about a group or category of products, services or customers, from which individual customer 
+	identities have been removed. In other words, information about how you use a service may be 
+	collected and combined with information about how others use the same service, but no Personal 
+	Information will be included in the resulting data. Likewise, information about the products or services 
+	you use or purchase may be collected and combined with information about the products and services 
+	used or purchased by others, but no Personal Information will be included in the resulting data. 
+	Aggregate data helps understand trends and customer needs so that new products and services can be 
+	considered and so existing products and services can be tailored to customer desires.
+	</p>
+	<h3>Collection of Personal Information</h3>
+	<p>
+	We collect Personal Information that you provide us, such as when you 
+	<br>
+		</p><ul>
+			<li>register to use the Services;</li>
+			<li>participate in other registration forms, feedback forms or surveys;</li>
+			<li> post or submit any content on the Site or Services, including any video or audio content; or
+	contact us for any reason.</li>
+		</ul>
+	<br>
+	We may automatically collect some information when you use the Site or Services, such as your 
+	computer’s IP address, operating system, the site from which you linked to us, and the time and date 
+	of your visit, and activities. We also collect information received from third parties to the extent that 
+	they have entered into an agreement with you as a result of your relationship with Magisto.
+	<p></p>
+	<h3>Use of Personal Information</h3>
+	<p>
+	The personal information you provide to us will allow us to communicate with you and provide the 
+	Services to you, depending on the Services for which you register. This includes alerting you of 
+	new products or services, features, or enhancements to the Services; verifying your identity; handling 
+	your customer service questions or issues; requesting feedback; processing transactions; distributing 
+	newsletters; and notifying you of promotions, updates, or special offers that we think may interest you. 
+	We may also use your email address as part of the Services in sending you messages about the Services and 
+	other general announcements. We keep track of your interactions with us, including but not limited to your 
+	activity within the Services. Except as set forth in this Privacy Policy, or unless we have your consent, 
+	we will not share your personal information with any person or entity other than those affiliated with us, 
+	entities acting on our behalf, and relevant third parties such as those needed to collect and maintain our 
+	information collection servers and perform technology and related services. We will also share the personal 
+	information we collect from you under the following circumstances:
+	<br>
+		</p><ul>
+			<li>Service Providers. We may share your personal information with service providers (including our affiliates that provide services on our behalf) that we engage for the purpose of processing information on our and your behalf. Additionally, we may partner with other companies to process, analyze, or store data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+			</li>
+			<li>
+				Protection of rights. We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce our Terms of Service, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Services, or (iv) such action is appropriate to protect the rights, property or safety of Magisto, its employees, users of the Services or others.
+			</li>
+			<li>
+				Asset transfers. If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Magisto’s assets, user information, including personal information collected from you through your use of the Services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you through email or a prominent notice through the Services.
+			</li>
+		</ul>
+	<p></p>
+
+	<h3>Videos</h3>
+	<p>
+	Summaries and edits of video produced by the Site and the Services will be made available to you via an internet link made available to you, including without limitation by email. If you reveal this link, send this email to third parties, 
+	or otherwise provide access to or distribute the videos, such third parties will have full access to such videos as well as any confidential or personal information on such videos. As such, you should have no expectation of confidentiality in videos or other material if you have revealed them to third parties.
+	</p>
+	<br>
+	<p>
+	All videos that you create and save using Magisto will be posted automatically to your timeline and be publicly available and searchable unless you choose otherwise. You may choose otherwise by selecting that a video be saved instead to your private album. If a video is made publicly available, you may later choose to make such video private. Notwithstanding such later choice, however, third parties may nevertheless continue to have access to your video via, for example, previously published links.	
+	</p>
+	<br>
+	<p>
+	Videos that are publicly available may be posted and made available to the public on Magisto’s application. Magisto may recommend such videos to other end users or categorize such videos according to previously defined topics and interests. If your videos are made publicly available, you should have no expectation of privacy in such videos. If your videos are publicly available, and you include your videos in any Magisto promotion, Magisto may make copies of your videos available to its promotional partners for use in the context of that promotion.
+	</p>
+	<h3>Communities</h3>
+	<p>
+	If you use any of the features of the Site or Services, please remember that any information disclosed 
+	in these venues may be automatically made public, even without your knowledge or authorization. 
+	You should exercise caution when disclosing any information, including Personal Information, in such 
+	venues, as you do not know who will access or use such information and for what purposes. Magisto is 
+	in no way responsible for the accuracy, use or misuse of any information, including Personal 
+	Information, which you disclose in such venues.
+	</p>
+	<h3>Other Disclosures</h3>
+	<p>
+	In addition, we may disclose Personal Information in the good faith belief that we are required to do so 
+	by law, or that doing so is reasonably necessary to comply with legal process, cooperate with any 
+	requests of law enforcement or government security agencies, respond to any claims, or to protect the 
+	rights, property, or personal safety of Magisto, our customers, or the public. Information about our 
+	customers, including Personal Information, may be disclosed as part of, or during negotiations of, any 
+	merger, sale of company assets or acquisition.
+	</p>
+	<h3>Protection of Personal Information</h3>
+	<p>
+	Magisto has put into place security measures in an effort to protect personal information from loss, 
+	misuse or alteration while it is under our control. Personal information we collect is stored 
+	electronically and may be combined with other membership information. We use technical, 
+	contractual, administrative and physical measures in an effort to protect against unauthorized access.
+	Account information is accessible online only through the use of a password. To protect the 
+	confidentiality of personal information, you must keep your password confidential and not disclose it 
+	to any other person. If other people have access to your email, they may be able to obtain access to 
+	your password and obtain personal information about you (such as your credit card information), or 
+	change information about your user profile. You may not want to use an email account operated by an 
+	employer because many employers have the legal right to access such email accounts.
+	</p>
+	<h3>Choice</h3>
+	<p>
+	By registering you agree to receive promotional messages from Magisto. If at any time you wish to 
+	stop receiving promotional information from Magisto, you may opt out by:
+	<br>
+	</p><ol>
+		<li>E-Mailing us at support@magisto.com</li>
+		<li>Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel</li>
+		<li>Accessing your registration information and checking the box that allows you to opt out of 
+	receiving promotional emails.</li>
+	</ol>
+	<p></p>
+	<h3>Aggregate Information</h3>
+	<p>
+	Magisto appreciates the importance of safeguarding the privacy of your Personal Information that may 
+	be provided to us. However, Magisto does use and disclose de-identified aggregate information for the 
+	purposes of evaluating and improving our services and tailoring our products. Magisto may choose at 
+	its sole discretion to transfer, sell, provide or share such information with third parties, including for to 
+	Magisto's business partners for commercial purposes, and by providing any information to Magisto 
+	you consent to such provision of de-identified aggregate information to any third party.
+	Magisto uses anonymous identifiers in order to allow Google to collect data in order that we may 
+	receive reports from Google with demographic and interest data regarding users of our mobile 
+	application, as well as general campaign metrics. Google also allows us to isolate and analyze subsets 
+	of sessions and users in such reports. Such reports and analyses are provided to us without the 
+	identifying information of specific users. These identifiers are used together with third party SDKs 
+	such as Google Analytics in order that we may receive such reports. Magisto does not merge this data 
+	with Personal Information. Since we only use these identifiers for users of our mobile application, 
+	there is currently no way of opting out from such collection of data.
+	</p>
+	<h3>Cookies</h3>
+	<p>
+	Cookies are small files that are stored on your computer. We use cookies to help optimize your use of 
+	the Site. For example, we use cookies to customize our home page for you and to better display pages 
+	according to your browser type. When you make a purchase cookies allow us to better maintain the 
+	status of your account. We do not use cookies to store any personal information about you.
+	</p>
+	<h3>Do Not Track</h3>
+	<p>
+		Some browsers incorporate “Do Not Track” features. Generally, such features when activated send a 
+	signal to web sites indicating that you do not wish to be tracked. “Do Not Track” is a standard that 
+	is under development, and there is not yet a common understanding of how to interpret a “Do Not Track” 
+	signal and, as such, Magisto does not currently respond to the browser “Do Not Track” signals.
+	</p>
+	<h3>Google Analytics</h3>
+	<p>
+		The Service uses Google Analytics and other similar services to help us learn about who visits the Site 
+		and what pages are being viewed.
+	</p>
+	<h3>Use of the Site by Children</h3>
+	<p>
+	Magisto does not knowingly collect personally identifiable information from children under the age of 
+	13, and you must be 13 years of age or older in order to establish an account. Parents are able to set up 
+	accounts for their children. In this way verifiable parental consent is required in order to register a 
+	child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby 
+	represents and warrants that he or she is the parent or legal guardian of such child, and has the 
+	authority to provide information and render consents on behalf of such child. In the event you become 
+	aware that an individual under the age of 13 has enrolled without parental permission, please advise us 
+	immediately.
+	</p>
+	<h3>Online Links to Other Sites</h3>
+	<p>
+	Magisto members or users can link to other webs of third parties that provide useful information, or 
+	who have agreed to offer goods and services to Magisto members. Any personal information you 
+	provide on the linked pages is provided directly to this third-party and is subject to that third party's 
+	provider's privacy policy.
+	Except as described above, Magisto is not responsible for the content or privacy practices of Web sites 
+	to which we link. Links to third party or other sites are provided for your convenience. We encourage 
+	you to learn about the privacy practices of each Web site before providing them with personal 
+	information.
+	</p>
+	<h3>Control of Your Information</h3>
+	<p>
+		You may update or delete your personal information or modify your account preferences for the Services by accessing the account interface provided through the Services. You may also e-mail us at support@magisto.com. Please note that if you disable your account, we will keep your contact information on file, and may retain other account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
+	</p>
+	<h3>Security Measures</h3>
+	<p>
+		The personal information that you provide to us is stored on servers which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to Magisto employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Services. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Services and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
+	</p>
+	<p>
+		In the event that personal information you provide to us is compromised as a result of a breach of security, when appropriate we will take reasonable steps to investigate the situation, notify you and take the necessary steps to comply with any applicable laws and regulations.
+	</p>
+	<h3>European Union and Switzerland Directive on Data Protection - Safe Harbor</h3>
+	<p>
+		Magisto complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. 
+		Department of Commerce regarding the collection, use, and retention of personal information from European Union member 
+		countries and Switzerland. Magisto has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, 
+		onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to 
+		view Magisto’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.
+	</p>
+	<h3>Mediation</h3>
+	<p>
+		You agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy, you and Magisto will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California] with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them.
+	</p>
+
+	<h3>Dispute Resolution for Residents of the European Union</h3>
+	<p>
+		If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction.
+	</p>
+	<p>
+		You and Magisto acknowledge that these Terms are entered into between you and Magisto, and not with Apple Inc. (“Apple”) or Google, Inc. (“Google” and Apple, each an “App Provider” and, collectively, the “App Providers”). The App Providers are not responsible for the Application. You and Magisto acknowledge that no App Provider has any obligation whatsoever to furnish any maintenance and support services with respect to the Application.
+	</p>
+
+
+	<h3>Questions or Concerns</h3>
+	<p>
+	If you have any questions or concerns about this privacy statement or would like to contact us for any 
+	reason, you can do the following:
+	<br>
+	</p><ol>
+		<li>
+	1. E-Mailing us at support@magisto.com or
+	</li>
+	<li>
+	2. Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel
+	</li>
+	</ol>
+	<p></p>
+	<h3>Changes to this Statement</h3>
+	<p>
+	Magisto reserves the right to change this privacy statement at any time, but will alert you that changes 
+	have been made by indicating at the top of the privacy statement the date it was last updated. We 
+	encourage you to review our privacy statement to make sure you understand how your information 
+	will be used.	
+	</p>	
 </div>
 
 	</div>
@@ -681,7 +691,7 @@ will be used.
 		<a class="button button-transparent txt-shadow" onclick="UP.close_overlay();">Close</a>
 	</div>
 	<div class="close reg"><div class="button button-turquoise txt-shadow modal_close_btn">Close</div></div>
-	<div class="alert-loading"><img src="//d1ekrxlws13em5.cloudfront.net/media/images/mobile/ajax-loader.gif" style="margin:0 auto;margin-top:10px;"></div>
+	<div class="alert-loading"><img src="https://d1ekrxlws13em5.cloudfront.net/media/images/mobile/ajax-loader.gif" style="margin:0 auto;margin-top:10px;"></div>
 	
 			</div>
 			
@@ -703,26 +713,24 @@ will be used.
 		</div>
 		
 	
-
-	<div style="clear:both;"></div>
-	<div id="sml_footer">
-		<div id="sml_footer_links">
-			<a href="/how-it-works" onclick="track_event('footer','how-it-works','')">How it works</a>
-	        <a href="/about" onclick="track_event('footer','about','')">About</a>
-			<a href="/faq" onclick="track_event('footer','faq','')">FAQ</a>
-			<a href="http://developers.magisto.com" onclick="track_event('footer','developer','')">Developers</a>
-			
-		    <a href="/support" onclick="track_event('footer','support','');">Support</a>
-	    	<a href="http://itunes.apple.com/us/app/magisto/id486781045?ls=1&amp;mt=8" target="_blank" onclick="track_event('home','appstore','')">iPhone</a>
-			<a href="https://play.google.com/store/apps/details?id=com.magisto" target="_blank" onclick="track_event('home','playstore','')">Android</a>
-			<a href="http://www.amazon.com/gp/mas/dl/android?asin=B00ISS01RS" target="_blank">Amazon</a>
-			<div id="sml_footer_terms">
-				<div style="margin-bottom:5px;">® 2015 Magisto Ltd.</div>
-				<a href="/privacy" onclick="track_event('footer','privacy','')">Privacy</a>&nbsp;&nbsp;<a href="/tos" onclick="track_event('footer','terms','')">Terms of use</a>
+		<div style="clear:both;"></div>
+		<div id="sml_footer">
+			<div id="sml_footer_links">
+				<a href="/how-it-works" onclick="track_event('footer','how-it-works','')">How it works</a>
+		        <a href="/about" onclick="track_event('footer','about','')">About</a>
+				<a href="/faq" onclick="track_event('footer','faq','')">FAQ</a>
+				<a href="http://developers.magisto.com" onclick="track_event('footer','developer','')">Developers</a>
+				
+			    <a href="/support" onclick="track_event('footer','support','');">Support</a>
+		    	<a href="http://itunes.apple.com/us/app/magisto/id486781045?ls=1&amp;mt=8" target="_blank" onclick="track_event('home','appstore','')">iPhone</a>
+				<a href="https://play.google.com/store/apps/details?id=com.magisto" target="_blank" onclick="track_event('home','playstore','')">Android</a>
+				<a href="http://www.amazon.com/gp/mas/dl/android?asin=B00ISS01RS" target="_blank">Amazon</a>
+				<div id="sml_footer_terms">
+					<div style="margin-bottom:5px;">® 2016 Magisto Ltd.</div>
+					<a href="/privacy" onclick="track_event('footer','privacy','')">Privacy</a>&nbsp;&nbsp;<a href="/tos" onclick="track_event('footer','terms','')">Terms of use</a>
+				</div>
 			</div>
-		</div>
-	</div>	
-
+		</div>	
 	
 
 	</div>
@@ -737,8 +745,8 @@ will be used.
 			<div class="friend_name nowrap">${name}</div>
 		</a>
 		<div class="button button-turquoise btn_follow_user {{if following}}following{{/if}}">
-			<span class="not_following"><img src="//drrrhyhe9lfip.cloudfront.net/media/images/follow_btn_plus.png" /> FOLLOW</span>
-			<span class="following"><img src="//drrrhyhe9lfip.cloudfront.net/media/images/follow_btn_v.png" /> FOLLOWING</span>
+			<span class="not_following"><img src="https://drrrhyhe9lfip.cloudfront.net/media/images/follow_btn_plus.png" /> FOLLOW</span>
+			<span class="following"><img src="https://drrrhyhe9lfip.cloudfront.net/media/images/follow_btn_v.png" /> FOLLOWING</span>
 			<div class="small_loader"></div>
 		</div>	
 	</li>
@@ -761,7 +769,7 @@ will be used.
 				<h4>Watch your friends movies!</h4>
 				<p>Connect to Facebook to follow your friends and watch their movies.</p>
 				<div class="button btn_fb_connect">
-					<img src="//drrrhyhe9lfip.cloudfront.net/media/images/btn_fb_icon_white.png">
+					<img src="https://drrrhyhe9lfip.cloudfront.net/media/images/btn_fb_icon_white.png">
 					CONNECT TO FACEBOOK
 				</div>
 				<div class="err"></div>
@@ -873,7 +881,7 @@ will be used.
 		
 
 
-<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/a3ad65231577.js"></script>
+<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/7dd964e75b22.js"></script>
 
 <script type="text/javascript">
 	
@@ -922,38 +930,60 @@ will be used.
 	
 	
 	
-	<script type="text/javascript">
+		<!-- Google Analytics -->
+<script>
+	
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-21702090-1', 'auto');
+
+		// custom dimensions
 		
-			var _gaq = _gaq || [];
-
-			
-			_gaq.push(['_setAccount', 'UA-21702090-1']);
-			
-
-			_gaq.push(['_setDomainName', '.magisto.com']);
-
-			
-
-			var _user_is_guest = _is_authenticated ? 'no' : 'yes';
-			_gaq.push(['_setCustomVar', 2, 'user_is_guest', _user_is_guest, 2]);
-
-			_gaq.push(['_trackPageview']);
-
-			
-			var _ga_src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			if (window.addEventListener)
-				window.addEventListener("load", function(){ _defer_script(_ga_src) }, false);
-			else if (window.attachEvent)
-				window.attachEvent("onload", function(){ _defer_script(_ga_src) });
-			else window.onload = function(){ _defer_script(_ga_src) };
-
-			
-			
-
-			var pageTracker = null;
-			try {_gaq.push(function() {pageTracker = _gat._getTracker();});} catch(err) {}
+		ga('set', 'dimension3', 'logged-out');
 		
-	</script>
+
+		
+
+		ga('send', 'pageview');
+	
+
+	globals = globals || {};
+	globals.ga = {
+		event: function(category, action, label, value, cb) {
+			try{
+				ga('send', 'event', category, action, label, (value || 0), {'nonInteraction': 1});
+				console.log('E: ' + category + ' | ' + action + ' | ' + label);
+			}
+			catch(err) { console.log('g.a ev error: ' + err); }
+
+			if (cb && typeof cb == 'function') {
+				setTimeout(cb, 800);
+			}
+		},
+		pageview: function(page, cb) {
+			try{
+				ga('send', 'pageview', page);
+				console.log('P: ' + page);
+			}
+			catch(err){ console.log('g.a pv error: ' + err) }	
+
+			if (cb && typeof cb == 'function') {
+				setTimeout(cb, 800);
+			}
+		},
+		dimention: function(num, val) {
+			try{
+				ga('set', 'dimension' + num, val);
+				console.log('CD: ' + num + ': ' + val);
+			}
+			catch(err){ console.log('g.a cd error: ' + err) }			
+		}
+	};		
+</script>
+<!-- End Google Analytics -->
 		
 
 	
@@ -979,10 +1009,10 @@ will be used.
 #connect_popup .social_btns > div:active{top:1px;}
 #connect_popup .social_btns .fb{background:#3b5998;margin-right:12px;}
 #connect_popup .social_btns .fb:hover{background:#314b89;}
-#connect_popup .social_btns .fb .i{background-image:url('//d1ekrxlws13em5.cloudfront.net/media/images/play/fb_icon.png');;}
+#connect_popup .social_btns .fb .i{background-image:url('https://d1ekrxlws13em5.cloudfront.net/media/images/play/fb_icon.png');;}
 #connect_popup .social_btns .gplus{background:#e2492a;}
 #connect_popup .social_btns .gplus:hover{background:#dc3d23;}
-#connect_popup .social_btns .gplus .i{background-image:url('//d1ekrxlws13em5.cloudfront.net/media/images/play/gplus_icon.png');}
+#connect_popup .social_btns .gplus .i{background-image:url('https://d1ekrxlws13em5.cloudfront.net/media/images/play/gplus_icon.png');}
 #connect_popup .email_form{border-top:solid 1px #f0f0f0;margin-top:15px;padding-top:10px;}
 #connect_popup .email_form .sign_with{font-weight:800;color:#c0c0c0;font-size:13px;}
 #connect_popup .email_form input[type="text"], #connect_popup .email_form input[type="password"], #connect_popup .email_form input[type="email"]{width:100%;padding:10px;background:#f6f6f6;color:#222222;font-size:16px;margin-top:10px;display:block;}
@@ -1087,7 +1117,8 @@ if($('#cb_send_tips',$form).is(':checked'))
 params['newsl']='on';}
 if(!!globals.alooma)
 params['device_id']=globals.alooma.get_device_id();$.ajax({type:"POST",url:action_url,xhrFields:{withCredentials:true},data:params,success:function(res){track_pageview('/virtual/login/done');if(res.status&&res.status=='OK'){Connect.callback();}
-else{$form.removeClass('loading');popup.show_error(res.error||'General error');$(window).scrollTop(0);}},error:function(res){$form.removeClass('loading');try{res=JSON.parse(res.responseText);if(res.errors){var err_str='';for(var key in res.errors)
+else{$form.removeClass('loading');popup.show_error(res.error||'General error');$(window).scrollTop(0);}},error:function(res){$form.removeClass('loading');try{res=JSON.parse(res.responseText);if(res.errcode&&res.errcode==1110){popup.show_error('Request limit reached');}
+else if(res.errors){var err_str='';for(var key in res.errors)
 err_str=res.errors[key];if(err_str.toLowerCase()=='user already exists')
 err_str='A Magisto user is already associated with this email, please use a different email to create an account';popup.show_error(err_str);}
 else if(res.error){popup.show_error(res.error);}
@@ -1119,6 +1150,147 @@ $(function(){Connect.init();});</script>
 	</script>
 
 	
+		<script>
+	
+	(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);mixpanel.init("JS_SDK", {"api_host":"https://magisto.alooma.io"});	
+	
+
+	var globals = globals || {};
+	globals.appsflyer_app_url = 'http://go.onelink.me/2035844838';
+	globals.alooma = {
+		track: function(event_name, extra_data, cb) {
+
+			if (typeof cb != 'function')
+				cb = function(){};
+
+			try {
+
+				var d = new Date(),
+					date_str = (
+						d.getFullYear() + "-" +
+						("00" + (d.getMonth() + 1)).slice(-2) + "-" + 
+						("00" + d.getDate()).slice(-2)
+					),
+					ts_str = (
+						d.getFullYear() + "-" +
+						("00" + (d.getMonth() + 1)).slice(-2) + "-" + 
+						("00" + d.getDate()).slice(-2) + " " +
+						("00" + d.getHours()).slice(-2) + ":" + 
+					    ("00" + d.getMinutes()).slice(-2) + ":" + 
+					    ("00" + d.getSeconds()).slice(-2)
+					);
+
+				var data = {
+					log_type: 'web',
+					origin: 'web',
+					client_date: date_str,
+					client_timestamp: ts_str,
+					device_id: globals.alooma.get_device_id(),
+					debug_mode: false
+				};
+
+				
+
+				if (extra_data)
+					$.extend(data, extra_data);
+
+				mixpanel.track(event_name, data, cb);
+				setTimeout(cb, 800); // silent fallback
+				console.log('[al] ' + event_name + ': ' + JSON.stringify(data));
+			}
+			catch(err){
+				console.log('alooma error: ' + err);
+				cb();
+			}
+
+		},
+		get_random_in_range : function(min, max) {
+    		return Math.floor(Math.random() * (max - min + 1)) + min;
+		},
+		get_device_id: function() {
+			var cookie_name = 'vtid',
+                device_id = read_cookie(cookie_name);
+
+            if (device_id && device_id.length) {
+                //
+            }
+            else {
+                device_id = globals.alooma.get_random_in_range(1, 99999) + '' + (new Date).getTime(); // random unique identifier
+                write_cookie(cookie_name, device_id, (24*365*10), '/', '.' + globals.sightera_server);
+            }
+            return device_id;		
+		},
+
+		mobile_store_link_track: function(type, pid, campaign, extra_data) {
+
+			var ev;
+			if (type == 'impression')
+				ev = 'getapp_impression';
+			else if (type == 'click')
+				ev = 'getapp_click';
+			else return;
+
+			var url = globals.appsflyer_app_url + '?pid=' + pid + '&c=' + campaign,
+				data = {
+					area: 'movie',
+				};
+
+			if (extra_data)
+				$.extend(data, extra_data);
+
+			globals.alooma.track(ev, data);
+
+			if (data.channel)
+				url += '&af_sub1=' + data.channel;
+
+			if (type == 'click') {
+				(function(_url){
+					setTimeout(function(){
+						console.log('redirecting to ' + _url);
+						window.location.href = _url;
+					}, 500);
+				})(url);
+			}
+		}
+	};
+
+	(function(){
+
+		try{
+			var params = { path: document.location.pathname };
+
+			if (common.get_url_param('utm_campaign'))
+				params.campaign = common.get_url_param('utm_campaign');
+			if (common.get_url_param('utm_term'))
+				params.keyword = common.get_url_param('utm_term');
+			if (common.get_url_param('utm_content'))
+				params.ad_id = common.get_url_param('utm_content');
+			if (common.get_url_param('utm_medium'))
+				params.channel = common.get_url_param('utm_medium');
+			if (common.get_url_param('utm_source'))
+				params.media_source = common.get_url_param('utm_source');
+			if (common.get_url_param('adgroup'))
+				params.adgroup = common.get_url_param('adgroup');
+			if (common.get_url_param('matchtype'))
+				params.matchtype = common.get_url_param('matchtype');
+			if (common.get_url_param('distribution'))
+				params.distribution = common.get_url_param('distribution');
+			if (common.get_url_param('placement'))
+				params.placement = common.get_url_param('placement');
+			if (common.get_url_param('partner'))
+				params.partner = common.get_url_param('partner');
+
+			globals.alooma.track('show_page', params);				
+		}
+		catch(err){
+			console.log('Error auto-tracking pageview with alooma: ' + err);
+		}
+		
+	})();
+</script>
+		
+
+	
 
 <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="text/javascript">twttr.conversion.trackPid('l6kp2', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
@@ -1148,4 +1320,4 @@ window._fbq.push(['track', '6031161298216', {'value':'0.00','currency':'USD'}]);
 
 
 
-<script src="https://ssl.google-analytics.com/ga.js" type="text/javascript" async=""></script></body></html>
+</body></html>
