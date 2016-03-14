@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodlve.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414061805id_/http%3A//www.thecherryshare.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlve.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314104224id_/http%3A//www.thecherryshare.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Cherry Share
 
