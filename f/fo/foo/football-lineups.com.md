@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023161322id_/http%3A//www.football-lineups.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314160423id_/http%3A//www.football-lineups.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
