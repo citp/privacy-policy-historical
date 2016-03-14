@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novaswimwear.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222120838id_/http%3A//www.novaswimwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novaswimwear.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314121748id_/http%3A//www.novaswimwear.com/privacy-policy) for the most accurate reproduction.*
 
-# Nova Swimwear Privacy Policy
+# Privacy Policy
 
 Nova Swimwear understands that privacy is important to you and wants your experience online to be as enjoyable and safe as possible. This policy describes how the company handles your personal information generally and when you use the Site. This privacy policy applies to the company handling of personal information generally and when you use this site. The company is bound by the National Privacy Principles as set out in the Australian Privacy Act (Cth) 1988 as amended and the New Zealand Privacy Act 1993.
 
