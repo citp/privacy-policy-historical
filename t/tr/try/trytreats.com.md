@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trytreats.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226171613id_/http%3A//www.trytreats.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trytreats.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314235325id_/http%3A//www.trytreats.com/privacypolicy) for the most accurate reproduction.*
 
 # Treats - Privacy Policy
 
