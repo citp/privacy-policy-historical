@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wallse.net privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330151447id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallse.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314172708id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.*
 
-# Desktop Wallpaper > Privacy Policy for WALLPAPERS-DIQ.COM
+# Privacy Policy for WALLPAPERS-DIQ.COM < Desktop Wallpaper
+
+Since computer screens are essentially two-dimensional, 3D graphics are just 2D optical illusions that trick your brain into thinking it is seeing a 3D object. A 3D graphics engine works by calculating what 2D shapes a 3D object would project on to the screen. [— petercollingridge.appspot.com](https://petercollingridge.appspot.com/3D-tutorial)
 
 Your privacy on the Internet is of the utmost importance to us. This document outlines the types of information we receive and collect when you use our services and what we do with them.
 
