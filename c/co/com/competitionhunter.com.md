@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitionhunter.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126193934id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitionhunter.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314225331id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Competiton Hunter - Privacy Policy | Competition Hunter
 
@@ -7,28 +7,28 @@
 
 
 
-**Competition Hunter is a brand managed by Accolade Publishing Limited (“Accolade” or “We”).**   
-Accolade takes the issue of personal data and privacy extremely seriously and is registered as a Data Controller with the Information Commissioner’s Office, and as such your information will always be safeguarded through our adherence to the Data Protection Act 1998, and the Privacy and Electronic Communications Regulations (2003) to ensure that the information you provide to us is safe and only used for the purposes stated in the opt-in statement and this Privacy Policy.
+**Competition Hunter is a brand managed by DLG Limited (“DLG” or “We”).**   
+DLG takes the issue of personal data and privacy extremely seriously and is registered as a Data Controller with the Information Commissioner’s Office, and as such your information will always be safeguarded through our adherence to the Data Protection Act 1998, and the Privacy and Electronic Communications Regulations (2003) to ensure that the information you provide to us is safe and only used for the purposes stated in the opt-in statement and this Privacy Policy.
 
 This Privacy Policy (together with our Terms of Use at www.CompetitionHunter.com/static/terms-of-use ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the Data Controller is Accolade Publishing Ltd. We are registered in England Company No. 05228102, our registered office is King’s Buildings, Lydney, Gloucestershire GL15 5HE. Accolade Publishing has several brands within their product portfolio including Competition Hunter, ThePrizeFinder, TheBingoFinder, ThePrizeFinderBingo, Compers News, Compers Update, Compers Weekly.  
+For the purpose of the Data Protection Act 1998 (the “Act”), the Data Controller is DLG Ltd. DLG Ltd. is a subsidiary of DM plc. Registered in England and Company No. 06742075. Registered Office: Green Heys, Walford Road, Ross on Wye, HR9 5DB.  
 **  
 Information we may collect from you  
 **   
-Competition Hunter is keen to ensure that the principals of our opt-in when your data is collected are clearly explained. The information you volunteer to Competition Hunter and that Accolade holds about you, will be shared and used to appropriately target offers and marketing communication from Competition Hunter, from our clients, from our selected third party partners and from Accolade and its other brands. Marketing communication may be through email, mailing, telemarketing and SMS/MMS, depending on which contact channel information you have volunteered. You may also receive marketing calls via automated voice broadcast over the telephone.
+Competition Hunter is keen to ensure that the principals of our opt-in when your data is collected are clearly explained. The information you volunteer to Competition Hunter and that DLG holds about you, will be shared and used to appropriately target offers and marketing communication from Competition Hunter, from our clients, from our selected third party partners and from DLG and its other brands. Marketing communication may be through email, mailing, telemarketing and SMS/MMS, depending on which contact channel information you have volunteered. You may also receive marketing calls via automated voice broadcast over the telephone.
 
 Some questions on our Registration Form and our own competitions are specific to our named sponsors, and by expressing a positive interest in their brand or products you are also agreeing to contact from them. By volunteering your phone number you are agreeing to telephone contact by these named sponsors. You may subsequently need to contact these named sponsor brands directly if in the future you decide to opt-out of further communication from these brands.
 
-By registering on our site and entering competitions promoted by Competition Hunter or other brands within the Accolade portfolio, we may collect and process the data you have provided. This includes information provided at the time of registering to use our site, subscribing to our service, entering Accolade branded competitions, posting material or requesting further services.
+By registering on our site and entering competitions promoted by Competition Hunter or other brands within the DLG portfolio, we may collect and process the data you have provided. This includes information provided at the time of registering to use our site, subscribing to our service, entering DLG branded competitions, posting material or requesting further services.
 
 Your data may be used for analytical purposes. Your data may also be used in conjunction with data we may have received from other sources in order to improve personalised and targeted communications, and we may share information with other companies for the same reason.
 
 Your data may be shared and combined with other companies who hold your personal data, and we may use information from other sources to add to data we already hold. This information may help us to improve our ability to service your needs on a personalised basis, by helping us to learn more about you and your purchasing habits and allowing us to let you know about offers you might be interested in.
 
-Your data may be used for data validation, enhancement, information verification, suppression, tracing and to the extent permitted by law, individual reference or lookup services, by Accolade and third parties.
+Your data may be used for data validation, enhancement, information verification, suppression, tracing and to the extent permitted by law, individual reference or lookup services, by DLG and third parties.
 
-Accolade may also receive information about you when you register on one of our affiliate or partner sites, or when you take part in a special promotion for one of these affiliates or partners. If you have registered with Competition Hunter through one of our third party partner sites, it is possible that the third party site may also retain your data, but only in accordance with the terms and conditions as published by them on their site.
+DLG may also receive information about you when you register on one of our affiliate or partner sites, or when you take part in a special promotion for one of these affiliates or partners. If you have registered with Competition Hunter through one of our third party partner sites, it is possible that the third party site may also retain your data, but only in accordance with the terms and conditions as published by them on their site.
 
 Please Note: Our site contains links to external websites of companies hosting competitions, partners, partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.  
 **  
@@ -66,7 +66,7 @@ We may disclose your personal information to third parties:
 
 • In the event that we sell any business or assets we may disclose your personal data to the prospective buyer of such business or assets.
 
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Accolade, our customers, or others. (This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of DLG, our customers, or others. (This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
 
 ## Your rights
 
@@ -75,19 +75,19 @@ Personal Data
 **   
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by contacting us at:
 
-Accolade Publishing Limited, Compliance Department, Ground Floor, 64 Clarendon Road, Watford, WD17 1DA
+DLG Limited, Compliance Department, Ground Floor, 64 Clarendon Road, Watford, WD17 1DA
 
-Alternatively, you can email consumerdataprotection@accoladepublishing.co.uk  
+Alternatively, you can email consumerdataprotection@dlg.co.uk  
 **  
 Deregistration / Suppression  
 **   
 You can unsubscribe from Competition Hunter email communications at any time by clicking on the link at the foot of any email correspondence. Your details will be suppressed, Competition Hunter will send no further emails and your details will no longer be passed onto any third parties for the uses described in this Privacy Policy. Your details will then be suppressed and Competition Hunter will send no further email communication.
 
-To request suppression from Accolade completely, please write to us at the address above, or email consumerdataprotection@accoladepublishing.co.uk  
+To request suppression from DLG completely, please write to us at the address above, or email consumerdataprotection@dlg.co.uk  
 **  
 Subject Access Request  
 **   
-You can also request to know what personal information Accolade holds about you, by writing in person to us at the address above asking for subject access request (you will need to provide us with the following information: name, address and email address). There is a £10 processing charge to cover the administration costs (please make cheques payable to Accolade Publishing Limited).  
+You can also request to know what personal information DLG holds about you, by writing in person to us at the address above asking for subject access request (you will need to provide us with the following information: name, address and email address). There is a £10 processing charge to cover the administration costs (please make cheques payable to DLG Limited).  
 **  
 Data security  
 **   
@@ -95,7 +95,7 @@ Although we endeavour to ensure the security of all correspondence, the Internet
 **  
 Right of transfer  
 **   
-Should Competition Hunter or Accolade choose to sell or transfer business assets, it is possible that the information we hold may be transferred as part of the transaction. Competition Hunter or Accolade may choose to retain a copy of the information post sale or transfer.
+Should Competition Hunter or DLG choose to sell or transfer business assets, it is possible that the information we hold may be transferred as part of the transaction. Competition Hunter or DLG may choose to retain a copy of the information post sale or transfer.
 
 ## IP addresses and cookies
 
