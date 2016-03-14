@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617023634id_/http%3A//www.musclegainingsecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314193208id_/http%3A//www.musclegainingsecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
