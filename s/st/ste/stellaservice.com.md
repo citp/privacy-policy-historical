@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114232541id_/http%3A//stellaservice.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101821id_/https%3A//stellaservice.com/privacy) for the most accurate reproduction.*
 
 # Privacy - StellaService
 
@@ -75,6 +75,6 @@ Contacting Us
 
 If you have questions about this privacy policy or the practices of this site, please contact:
 
-StellaService 75 Broad Street, Suite 2900 New York, NY 10004 (212) 366-1483
+StellaService 75 Broad Street, Suite 1010 New York, NY 10004 (212) 366-1483
 
 [privacy@stellaservice.com](mailto:privacy@stellaservice.com)
