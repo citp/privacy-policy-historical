@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorebeauty.com.au privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002190131id_/http%3A//www.adorebeauty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorebeauty.com.au privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314183452id_/http%3A//www.adorebeauty.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ We will generally only use the information that you provide us with for the prim
 
 If you have registered as a member, you can change or delete these details at any time by [logging in](https://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](http://www.adorebeauty.com.au/) section.
 
-**If you elect to pay online**  using your credit card, your card details are not viewed by us or by any person except you, at any time during the transaction. These details are necessary to process your order using this payment process.  They are encrypted and passed directly to the Bank through our security provider [Securepay](http://www.securepay.com.au/). You can read more about our payment systems and security in the [Help](http://www.adorebeauty.com.au/%7B%7Bstore%20url=''help-customer-service) section. We do not retain your credit card details.
+**If you elect to pay online**  using your credit card, your card details are not viewed by us or by any person except you, at any time during the transaction. These details are necessary to process your order using this payment process.  They are encrypted and passed directly to the Bank through our security provider [eWay](http://www.eway.com.au/). You can read more about our payment systems and security in the [Help](http://www.adorebeauty.com.au/%7B%7Bstore%20url=''help-customer-service) section. We do not retain your credit card details.
 
 Any other information you provide at the checkout, such as comments or survey responses, is used to better plan future items to add and developments for the web site.
 
