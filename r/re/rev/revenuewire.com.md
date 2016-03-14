@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316062527id_/https%3A//www.revenuewire.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314074138id_/http%3A//www.revenuewire.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy | RevenueWire Inc.
 
-**Effective Date: February 12, 2014**
+**Effective Date: August 28, 2015**
 
-RevenueWire Inc. ("RevenueWire") is committed to protecting the privacy of personal information you may provide to us when using any of our online services. This Privacy Policy describes how we treat information we receive when you transmit data to RevenueWire. Revenuewire, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.revenuewire.com](http://www.revenuewire.com/).
+RevenueWire Inc. ("RevenueWire") is committed to protecting the privacy of personal information you may provide to us when using any of our online services such as when you use our website: www.revenuewire.com. This Privacy Policy describes how we treat information we receive when you transmit data to RevenueWire.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@revenuewire.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
+Revenuewire, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.revenuewire.com](http://www.revenuewire.com/).
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@revenuewire.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ## Information Collection
 
-When you submit information to open an account to either offer your digital download product for sale through the RevenueWire services or you open an account to purchase or promote any products that are being offered by RevenueWire, we may collect personal information including without limitation your name, address, email address, and phone number for the purpose of establishing an account with RevenueWire, the collection of billing information for transaction processing, and recording the transactions when you engage in activities on our web site or through the RevenueWire services. If and when we use a payment processing merchant, we ensure that the same strict privacy criteria are in place. RevenueWire will not collect or store any credit card information.
+When you submit information to open an account to either offer your digital download product for sale through the RevenueWire services or you open an account to purchase or promote any products that are being offered by RevenueWire, we may collect personal information including without limitation your name, address, email address, and phone number for the purpose of establishing an account with RevenueWire, the collection of billing information for transaction processing, and recording the transactions when you engage in activities on our web site or through the RevenueWire services. If and when we use a payment processing merchant, we ensure that the same strict privacy criteria are in place.
 
 When creating an account as an Affiliate or Merchant on our site, if you wish to have payments wired to your bank account, we will ask you to submit Bank Account information to us in order to facilitate these payments. The Bank Account information you submit to us is sensitive information and is therefore protected by us using industry-standard SSL Encryption.
 
-From time to time, and provided that we have your consent, we may also send you electronic mail containing information about product updates, new product offerings and other information that may interest you. At any time, you may opt-out of receiving email from us, either by clicking the Unsubscribe link in the applicable email, or by sending an email with your request to privacy@revenuewire.com, and including 'UNSUBSCRIBE' in the subject line. We respect your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do so by law.
+From time to time, and provided that we have your consent, we may also send you electronic mail containing information about product updates, new product offerings and other information that may interest you. At any time, you may opt-out of receiving email from us, either by clicking the Unsubscribe link in the applicable email, or by sending an email with your request to privacy@revenuewire.com, and including 'UNSUBSCRIBE' in the subject line.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+We respect your privacy and value your trust. We will share your personal information with third parties only in the ways that are described in this privacy policy. We will never sell, rent, lease, or give your information to a third party unless required to do so by law.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 We may also disclose your personal information if RevenueWire is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -51,13 +57,21 @@ Once you have submitted your personal information to our web site, we provide yo
 
 If you did not create a profile on www.revenuewire.com, you may send us an email with your request to access your information at [privacy@revenuewire.com](mailto:privacy@revenuewire.com).
 
-## Cookies
+## Data Retention
 
-Remote cookies are used on the Internet user's computer and the server databases at RevenueWire in order for RevenueWire to store any information collected by users of the RevenueWire services such as Internet users clicking on ad/banner campaigns, viewing a web page, or purchasing a product. A "cookie" is a piece of data and information that is automatically stored on an Internet user's computer hard drive by the RevenueWire servers. Cookies are not viruses or a type of malware designed to erase your hard drive or cause damage to your computer. Cookies are used to track an Internet user's clicks to ensure that they are directed to the correct click-through destination site. RevenueWire also uses cookies as a reporting system to track the effectiveness of an ad/banner campaign as well as the frequency of display, and to track the performance of our business partners to ensure proper payment for their sales and tracking activities relating to their business relationship with RevenueWire. RevenueWire's usage of cookies does not in any way collect any personally identifiable information.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-The use of cookies by our partners and affiliates is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and affiliates use session ID cookies in order for you to use the shopping cart.
+## Tracking Technologies
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
+
+Technologies such as: cookies, beacons, tags and scripts are used by Revenuewire, Inc. and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies for our shopping cart, to remember users’ settings, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+## Behavioral Targeting
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Links
 
@@ -69,7 +83,9 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 ## Security
 
-The personally identifiable information that is collected by RevenueWire is stored in limited access servers. RevenueWire takes reasonable precautions to protect the information that has been collected, and to safeguard the servers where such information is stored. RevenueWire will not collect or store any credit card information and will retain personally identifiable information only as long as necessary to conduct the applicable business or to maintain your account with RevenueWire.
+The personal information that is collected by RevenueWire is stored in limited access servers. RevenueWire takes reasonable precautions to protect the information that has been collected, and to safeguard the servers where such information is stored.
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@revenuewire.com.
 
 ## Policy Modifications
 
