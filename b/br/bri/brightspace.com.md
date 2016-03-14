@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightspace.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110030338id_/http%3A//www.brightspace.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspace.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101321id_/http%3A//www.brightspace.com/legal/privacy) for the most accurate reproduction.*
 
 # D2L Privacy Statement | Brightspace
 
