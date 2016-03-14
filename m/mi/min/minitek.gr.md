@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the minitek.gr privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116065938id_/http%3A//www.minitek.gr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitek.gr privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314100734id_/https%3A//www.minitek.gr/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We collect information from you when you register on our site or when you purchase a subscription. When registering on our site, as appropriate, you are asked to enter your name and email address. When purchasing a product you are asked to enter your first and last name, your address, city, zip or postal code, country, state or province and email. In some payment options you may be asked to enter credit card data. However, this data is handled by [Avangate](http://www.minitek.gr/avangate.com). Avangate provides a secure and reliable platform for selling our software products online. Your private data is 100% safe, as Avangate complies with the latest online security standards.
+We collect information from you when you register on our site or when you purchase a subscription. When registering on our site, as appropriate, you are asked to enter your name and email address. When purchasing a product you are asked to enter your first and last name, your address, city, zip or postal code, country, state or province and email. In some payment options you may be asked to enter credit card data. However, this data is handled by [Avangate](https://www.minitek.gr/avangate.com). Avangate provides a secure and reliable platform for selling our software products online. Your private data is 100% safe, as Avangate complies with the latest online security standards.
 
 Any of the information we collect from you may be used in one of the following ways:
 
