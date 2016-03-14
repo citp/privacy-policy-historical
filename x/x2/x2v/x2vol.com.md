@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the x2vol.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231146id_/https%3A//x2vol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x2vol.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314182950id_/https%3A//x2vol.com/privacy.html) for the most accurate reproduction.*
 
 # x2VOL - Privacy Policy
 
-**Effective 10/26/2012**
+**Effective 01/01/2015**
 
-x2VOL, owned and operated by intelliVOL, is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy applies to the x2VOL web site [www.x2VOL.com](https://www.x2vol.com/), and our x2VOL mobile application (for [iPhone/iPad](https://itunes.com/apps/x2VOL) and [Android](https://play.google.com/store/apps/details?id=com.phonegap.x2vol&hl=en)) and governs data collection and usage. By using the x2VOL web site and mobile application, you consent to the data practices described in this policy.
+x2VOL, owned and operated by intelliVOL, is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy applies to the x2VOL web site [www.x2VOL.com](https://www.x2vol.com/), and our x2VOL mobile application (for [iPhone/iPad](https://itunes.apple.com/us/app/myx2vol/id897794733?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.quicsolv.x2vol)) and governs data collection and usage. By using the x2VOL web site and mobile application, you consent to the data practices described in this policy.
 
 x2VOL has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only the information that may be collected through this web site, [www.x2VOL.com](https://www.x2vol.com/), and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [webmaster@intellivol.com](mailto:webmaster@intellivol.com). If you are not satisfied with our response you can contact [TRUSTe here](https://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -16,7 +16,7 @@ x2VOL collects personal information, such as e-mail address, a parent's e-mail a
 
 As is true of most web sites, we gather certain information automatically and stoore it in log files. This information may include protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you to improve marketing analytics, or site functionality. You may also provide personal information about other people, such as their email address. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. 
 
-x2VOL encourages you to review the privacy policy of web site you choose to link to from x2VOL so that you can understand how those web site collect, use and share your information. x2VOL is not responsible for the privacy policy or other content on web site outside of the x2VOL and x2VOL family of web sites.
+x2VOL encourages you to review the privacy policy of web sites you choose to link to from x2VOL so that you can understand how those web site collect, use and share your information. x2VOL is not responsible for the privacy policy or other content on web site outside of the x2VOL and x2VOL family of web sites.
 
 For organizations, we provide a way to add additional people to your organizations profile, and we will collect name, e-mail address and phone numbers of additional members you wish to add to your profile. We use this information to initiate messages from the system to organization contacts, identify contact and project locations, and facilitate contact between organization managers. Organizations may including both volunteering organizations, which provide opportunities, and sponsoring organizations (such as schools) that monitor, track, and report on the activities of volunteers.
 
@@ -62,11 +62,11 @@ We provide you the opportunity to 'opt-out' of having your personal information 
 
 **Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by intelliVOL and our marketing partners, affiliates, or analytics or service providers [specify type e.g. online customer support provide, etc]. These technologies are used in analyzing trends, administering the site, tracking users' moments around the site and to gather demographic information about our user base as a whole. We may recieve reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for purchasing, to remember users' settings, and for authentication. Users can control the use of cookies at the indivvidual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limied.
+Technologies such as: cookies, beacons, tags and scripts are used by intelliVOL and our marketing partners, affiliates, or analytics or service providers [specify type e.g. online customer support provide, etc]. These technologies are used in analyzing trends, administering the site, tracking users' moments around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for purchasing, to remember users' settings, and for authentication. Users can control the use of cookies at the indivvidual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 **Local Storage Objects (Flash)**
 
-Third parties with whom we artner to provide certain features on out site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs plese click here: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://web.archive.org/web/20150314231146id_/https%3A//x2vol.com/www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+Third parties with whom we artner to provide certain features on out site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs plese click here: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://web.archive.org/web/20160314182950id_/https%3A//x2vol.com/www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
 **Surveys**
 
@@ -100,9 +100,9 @@ x2VOL may change this privacy policy to reflect changes to our information pract
 
 **Contact Information**
 
-x2VOL welcomes your comments regarding this Statement of Policy. If you believe that x2VOL has not adhered to this Policy, please contact x2VOL at [webmaster@intellivol.com](mailto:webmaster@intellivol.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+x2VOL welcomes your comments regarding this Privacy Policy. If you believe that x2VOL has not adhered to this Policy, please contact x2VOL at [webmaster@intellivol.com](mailto:webmaster@intellivol.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 **x2VOL**  
-215 S. Denton Tap Rd, Suite 230  
+P.O. Box 613  
 Coppell, TX 75019  
-(214) 669-2083 
+(866) 906-6400 
