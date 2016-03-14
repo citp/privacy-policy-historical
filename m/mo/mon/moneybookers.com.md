@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209072836id_/https%3A//www.skrill.com/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314105212id_/https%3A//www.skrill.com/en/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skrill
 
-  * ####  [ OPTIMAL PAYMENTS’ PRIVACY POLICY ](https://www.skrill.com/#)
+  * ####  [ PAYSAFE PRIVACY POLICY ](https://www.skrill.com/#)
 
-The Optimal Payments Group are committed to respecting the personal information of all visitors to all websites managed or published by us, and to ensure that any personal information you provide to us will be stored securely, treated with confidentiality and processed in accordance with data protection legislation and/or any other relevant consumer legislation that is in place to protect you. 
+The Paysafe Group are committed to respecting the personal information of all visitors to all websites managed or published by us, and to ensure that any personal information you provide to us will be stored securely, treated with confidentiality and processed in accordance with data protection legislation and/or any other relevant consumer legislation that is in place to protect you. 
 
-All companies within the Optimal Payments Group adhere to a uniform set of standards that can be [found here](https://www.skrill.com/en/footer/privacy-policy/data-protection-standards/). __
+All companies within the Paysafe Group adhere to a uniform set of standards that can be [found here](https://www.skrill.com/en/footer/privacy-policy/data-protection-standards/). __
 
 Individual Websites may have their own privacy policies which are designed to explain in more detail how your personal information will be used for the specific services that they provide.  __
 
   * ####  [ A. Introduction ](https://www.skrill.com/#)
 
-This Privacy Policy relates to Optimal Payments PLC (“us” “our” or “we”), the Parent Company of the Optimal Payments Group 
+This Privacy Policy relates to Paysafe Group PLC (“us” “our” or “we”), the Parent Company of the Paysafe Group 
 
 This Privacy Policy explains how we collect store and use your personal information when you visit this website. It also describes the types of personal information we collect, and how we use this information to ensure we provide relevant and timely services to you, and to improve your experience of the website. It also sets your rights to the control of our use of this information. 
 
@@ -36,7 +36,7 @@ We automatically receive the web address of the site that you came from and the 
 
 **Our Use of "Cookies"**
 
-We use a number of “cookies” on this site and across all Optimal Payments Group websites. "Cookies" are small files of data that reside on your computer and allow us to recognise if you return to this site using the same computer and browser or visit multiple pages in our site during the same session
+We use a number of “cookies” on this site and across all Paysafe Group websites. "Cookies" are small files of data that reside on your computer and allow us to recognise if you return to this site using the same computer and browser or visit multiple pages in our site during the same session
 
 For further information about all the cookies we use, [click here](https://www.skrill.com/en/footer/privacy-policy/).
 
@@ -60,7 +60,7 @@ We will not disclose your personal information to third parties except in the li
     3. We may disclose information to service providers who manage various marketing programs on our behalf. We will only transfer your personal information to service providers that commit to the same principles that we adhere to, and if in another country, we will make sure that the service provider agrees to apply the same levels of data protection as we are required to apply to information held in the EEA.
     4. We may disclose information to carefully selected business partners.
     5. We may use IP addresses, browser types and access times to analyse trends, administer the site, improve site performance, gather broad demographic information for aggregate use, and to prevent fraud.
-    6. If we amalgamate or merge with or are acquired by another company the successor company would have access to the personal information maintained by Optimal but would continue to be bound by this Privacy Policy unless and until it is amended as described in Section C.
+    6. If we amalgamate or merge with or are acquired by another company the successor company would have access to the personal information maintained by Paysafe but would continue to be bound by this Privacy Policy unless and until it is amended as described in Section C.
 
   * ####  [ F. Access to Your Information ](https://www.skrill.com/#)
 
@@ -68,9 +68,11 @@ You have the right to access any personal information that we hold about. Any ac
 
   * ####  [ G. Contacting Us ](https://www.skrill.com/#)
 
-If you have any questions about this privacy policy please email [dataprivacy@optimalpayments.com](mailto:dataprivacy@optimalpayments.com)
+If you have any questions about this privacy policy please email [dataprivacy@paysafe.com](mailto:dataprivacy@paysafe.com)
 
-Optimal is not responsible for the privacy practices or the content of third party referrals, websites or web site links.
+Paysafe is not responsible for the privacy practices or the content of third party referrals, websites or web site links.
+
+This Privacy Policy was last amended on November 9th, 2015
 
   * ####  [ ANNEX A - LIST OF COOKIES BY CATEGORY ](https://www.skrill.com/#)
 
