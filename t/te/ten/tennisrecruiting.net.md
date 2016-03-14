@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054243id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054319id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=leftnav&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)
+[](http://www.tennis-warehouse.com/?from=tenrec)
 
 [](http://www.babolat.com/)
 
@@ -20,9 +20,7 @@
 
 [](http://www.gammasports.com/)
 
-[](http://www.asicsamerica.com/tennis-racquet-bz100)
-
-[](http://www.tennisrecruiting.net/article.asp?id=618)
+[](http://www.tennisrecruiting.net/article.asp?id=618&sessionid=457B146B424A3A7B)
 
 | 
 
@@ -136,30 +134,42 @@ Marietta, GA 30007-1912
 
 | 
 
-| [](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLogo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)|  WTA PRO PLAYER GEAR GALLERY   
+| [](http://www.facebook.com/TennisRecruiting) | BECOME A FAN  
 ---|---  
   
-[
-
-## Sorana Cirstea
-
-](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLarge&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fsorana%2Dcirstea) Click on [Sorana Cirstea](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLarge&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fsorana%2Dcirstea) to view and buy her equipment, apparel, and footwear.  
+  Help build our following.   [Follow us on Facebook](http://www.facebook.com/TennisRecruiting)
 
 RECENT COMMITMENTS 
 
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=logo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com) |  THE LATEST FROM TENNIS EXPRESS  
+[](http://www.tennis-warehouse.com/?from=tenrec)|  ATP GEAR - SHOES   
 ---|---  
   
-   
+[](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec) |   |  **[Lucas Pouille](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec)** [adidas adizero Ubersonic White/Grey/Pink Men's Shoe](http://www.tennis-warehouse.com/adidas_adizero_Ubersonic_White_Grey_Pink_Mens_Shoe/descpageMSADIDAS-AMAUWGP.html?from=tenrec)  
+Was: $125.00   **Now: $119.95**  
+[Review](http://www.tennis-warehouse.com/reviews/AMAUWGP/AMAUWGPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-AMAUWGP.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6EWR23rwghw)  
+---|---|---  
+[](http://www.tennis-warehouse.com/player.html?ccode=DYOUNG&from=tenrec) |   |  **[Donald Young](http://www.tennis-warehouse.com/player.html?ccode=DYOUNG&from=tenrec)** [KSwiss Hypercourt Express Grey/Navy](http://www.tennis-warehouse.com/KSwiss_Hypercourt_Express_Grey_Navy/descpageMSKSWISS-MKHEGN.html?from=tenrec)  
+Was: $110.00   **Now: $104.95**  
+[Review](http://www.tennis-warehouse.com/reviews/MKHEGN/MKHEGNreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-MKHEGN.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2aL7OO_vh1c)  
+[](http://www.tennis-warehouse.com/player.html?ccode=JJANOW&from=tenrec) |   |  **[Jerzy Janowicz](http://www.tennis-warehouse.com/player.html?ccode=JJANOW&from=tenrec)** [Nike Zoom Vapor 9.5 Tour White/Red](http://www.tennis-warehouse.com/Nike_Zoom_Vapor_95_Tour_White_Red/descpageMSNIKE-NMZVTWR.html?from=tenrec)  
+Buy Now: $140.00  
+[Review](http://www.tennis-warehouse.com/reviews/NMZVTWR/NMZVTWRreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-NMZVTWR.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2c9Rh1OMlz8)  
+[](http://www.tennis-warehouse.com/player.html?ccode=JTSONGA&from=tenrec) |   |  **[Jo-Wilfried Tsonga](http://www.tennis-warehouse.com/player.html?ccode=JTSONGA&from=tenrec)** [adidas Barricade 2015 White Men's Shoe](http://www.tennis-warehouse.com/adidas_Barricade_2015_White_Mens_Shoe/descpageMSADIDAS-AMB9WH.html?from=tenrec)  
+Was: $140.00   **Now: $89.95**  
+[Review](http://www.tennis-warehouse.com/reviews/AMB9WH/AMB9WHreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-AMB9WH.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dgw8vsdYLDKk)  
+ 
 
 ITA NEWS
 
-[**GAMMA Glide - Lubricity**](http://www.tennisexpress.com/gamma-glide-hybrid-with-moto-1716g-tennis-string-black-and-crystal-39020)
+ SO. CALIFORNIA TENNIS ACADEMY
 
-See what a little #lubricity can do for your game!
+[**Southern California Tennis Academy Fitness Promo**](https://www.youtube.com/user/SCTennisAcademy)
+
+Southern California Tennis Academy Fitness Promo.
 
  
 
 THE LATEST FROM ZOOTENNIS 
 
+[Colette Lewis](https://web.archive.org/articles/colette.asp) has covered topflight junior events as a freelance journalist for over a decade. Read her [weekly column](https://web.archive.org/articles/colette.asp), follow her on [Twitter](https://twitter.com/zootennis), and and find more of her daily commentary at [ZooTennis](http://tenniskalamazoo.blogspot.com/).  
  
