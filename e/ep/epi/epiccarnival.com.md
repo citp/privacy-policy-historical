@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiccarnival.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053908id_/http%3A//www.epiccarnival.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiccarnival.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314061342id_/http%3A//www.epiccarnival.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Epic Carnival | Where Sports and Pop Culture Collide: Privacy Policy
 
