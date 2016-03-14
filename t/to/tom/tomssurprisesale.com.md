@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tomssurprisesale.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904172001id_/http%3A//www.tomssurprisesale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomssurprisesale.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314073858id_/http%3A//www.tomssurprisesale.com/privacy-policy) for the most accurate reproduction.*
 
 # TOMS : One for One
 
-## Updated: June 23, 2014
+## Updated: January 7, 2016
 
 Welcome to the website of TOMS Shoes Inc. (together with any of its subsidiaries or corporate affiliates, "TOMS®," "we," "us" or "our")! Any person accessing or using the website www.TOMSsurprisesale.com and any associated webpages (collectively, the "Website"), including use of any of our services through a mobile device, mobile application or otherwise, is referred to as "you". Please note that this Website is owned by TOMS® and all data submitted via this Website is received by TOMS®. At TOMS®, our goal is to protect the privacy and security of your personal information.
 
@@ -122,4 +122,4 @@ Attn: Legal Department
 
 Please also visit our [Terms of Use](https://web.archive.org/terms-of-use) that explains other terms and conditions governing your use of this Website.
 
-© TOMS Shoes Inc. 2006-2014, all rights reserved.
+© TOMS Shoes Inc. 2006-2016, all rights reserved.
