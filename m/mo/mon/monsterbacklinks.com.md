@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterbacklinks.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032834id_/http%3A//www.monsterbacklinks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterbacklinks.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314192321id_/https%3A//www.monsterbacklinks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Monster Backlinks
 
