@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021192755id_/http%3A//www.nutrition.org.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314094706id_/https%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - British Nutrition Foundation
-
-**Privacy / Legal Disclaimer**
 
 The British Nutrition Foundation does not capture and store any personal information about individuals who access this web site, except where you voluntarily choose to give us your personal details via email, or by enquiring about or ordering any of our services or publications.
 
@@ -24,7 +22,7 @@ British Nutrition Foundation, High Holborn House, 52-54 High Holborn, London WC1
 
 Tel: 020 7404 6504    Fax: 020 7404 6747     Email: [postbox@nutrition.org.uk](mailto:postbox@nutrition.org.uk)
 
-**Cookie Policy**
+****Cookie Policy****
 
 This website uses cookies, which are small text files that are placed on your computer by websites you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. They cannot be used to get information from your computer about you or read any personal material kept by you on your computer.
 
@@ -34,23 +32,23 @@ The Privacy and Electronic Communications (EC Directive) Regulations 2003 (the R
 
 A list of the cookies we use on the site is below.  You may delete and block all cookies from this site, but parts of the site will not work.
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit[www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>
 
-**Cookie**
-
-| 
-
-**Name**
+****Cookie****
 
 | 
 
-**Purpose**
+****Name****
 
 | 
 
-**More Information**  
+****Purpose****
+
+| 
+
+****More Information****  
   
 ---|---|---|---  
   
@@ -62,9 +60,7 @@ Session cookie
 
 | 
 
-Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.
-
-|   
+Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.  
   
 Javascript enable cookie
 
@@ -74,9 +70,7 @@ Has_js
 
 | 
 
-To check whether the user's browser supports JavaScript. This cookie expires when you close your browser.
-
-|   
+To check whether the user's browser supports JavaScript. This cookie expires when you close your browser.  
   
 Site cookie acceptance
 
@@ -86,9 +80,7 @@ cookiesDirective
 
 | 
 
-Used to prevent cookie popup from being displayed again to the same user.
-
-|   
+Used to prevent cookie popup from being displayed again to the same user.  
   
 Site cookie acceptance
 
@@ -98,9 +90,7 @@ cookiesAcceptance
 
 | 
 
-Used to store the user input on acceptance of cookie popup.
-
-|   
+Used to store the user input on acceptance of cookie popup.  
   
 Google Analytics
 
@@ -128,5 +118,3 @@ Session cookie
 | 
 
 Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.
-
-| 
