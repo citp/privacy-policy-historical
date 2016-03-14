@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurushots.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408150006id_/http%3A//gurushots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurushots.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314155333id_/https%3A//gurushots.com/privacy) for the most accurate reproduction.*
 
 # GuruShots | Live Photo Challenges
 
