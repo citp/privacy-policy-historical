@@ -1,194 +1,1061 @@
-<!--The following is the downloaded HTML source of the couturecandy.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906063408id_/http%3A//www.couturecandy.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couturecandy.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314112819id_/https%3A//www.couturecandy.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>CoutureCandy Security and Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="keywords" content="security, privacy, couturecandy, policy, safe, secure, private">
-	<meta name="description" content="Details of the CoutureCandy privacy and security policy.">
-	<link rel="stylesheet" type="text/css" media="screen" href="http://www.couturecandy.com/cssnew/default_style.css">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.couturecandy.com/cssnew/style.css">
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.couturecandy.com/cssnew/ie7.css" />
-<![endif]-->
-<!--[if IE 8]>
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.couturecandy.com/cssnew/ie8.css" />
-<![endif]-->
+<!DOCTYPE html><html class=" javascript"><head>
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.couturecandy.com/js/jscroll.css">
+    
 
-<script src="http://www.couturecandy.com/js/scroll.js"></script>
-<script src="http://www.couturecandy.com/js/jquery.js"></script>
-<script src="http://www.couturecandy.com/js/jscroll.min.js"></script>
-<script src="http://www.couturecandy.com/js/mousewheel.js"></script>
-<script src="http://www.couturecandy.com/js/wheel.js"></script>
-<script src="http://www.couturecandy.com/js/jquery.tools.min.js"></script>
-<script>
-var ran_once = false;
-$(document).ready(function(){
-	if (navigator.appVersion.indexOf("Win")!=-1) {
-		$(".menu").css({"font-weight":"600"});
-		$(".footer_stripe").css({"font-weight":"600"});
-		$(".tabs").css({"font-size":".8em"});
-	}
-	$("#products li:nth-child(4n+4)").css({"margin-right":"0px"});
-	$("#hltlink").click(function(){
-		$("#choosesize").toggle();
-		return false;
-	});
-	$("#sizepopclose").click(function(){
-		$("#choosesize").slideUp();
-		return false;
-	});
-	
-	var the_subcats = $(".sub_cats");
-	var curr_cat = $(".sub_cats").find(".cat_name").text();
-	$(".category li").each(function(){
-		if ($(this).attr("title") === curr_cat) {
-			$(this).append(the_subcats);
-		}
-	});
-	$("ul.tabs li").live("click", function(){
-		scrollage();
-	});
-});
-$(function() {
-	// setup ul.tabs to work as tabs for each div directly under div.panes
-	$("ul.slider_navigation").tabs("div.slider > div", {
-		effect: 'fade',
-		rotate: true
-	}).slideshow({autoplay: true, interval: 4000,clickable: false});
-	$("ul.tabs").tabs("div.slider_container > div" );
-	scrollage();
-});
-function scrollage() {
-	var sc = $('.scroll');
-	
-	if( $(".category li").hasClass("scroll_to_me")) {
-		//console.log("Hello Test");
-		sc.jScrollPane({showArrows: true});
-		var api = sc.data('jsp');
-		api.scrollToElement(".scroll_to_me",true,false);
-	} else {
-		sc.jScrollPane({showArrows: true});
-	}
-	if (ran_once == true) {
-		$(".jspVerticalBar").css({"margin-left":"-3px","right":"5px"});
-	}
-	ran_once = true;
-}
-</script>
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-81904-1";
-urchinTracker();
-</script>
+    <title>Privacy Policy </title>
 
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    
+    <link rel="canonical" href="https://www.couturecandy.com/privacy-policy/">
+    
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,700" rel="stylesheet" type="text/css">
 
-<!-- otherwise just do this -->
+    <link rel="shortcut icon" href="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/cc-favicon-500-1.ico?t=1448904780">
+    <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no">
 
-	<link href="css/help.css" rel="stylesheet" type="text/css">
-	<style>
-	<!--
-		#righthelp {
-			width: 725px;
-		}
-		#righthelp, #helpnav {
-			margin-bottom: 2em;
-		}
-	-->
-	</style>
-</head>
-
-<body id="privacybody">
-	<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-
-<div class="wrap">
-	<div class="header">
-	    	<a href="http://www.couturecandy.com"><img src="http://www.couturecandy.com/imagesnew/couturecandy-logo.jpg" width="304" height="71" class="logo"></a>
-            <div class="navigation">
-        	<!--Toll Free: 866-399-2263 | --><!--<a href="http://www.couturecandy.com/submit-newsletter.html">Newsletter Signup</a> | --><a href="http://www.couturecandy.com/wishlist.do">Wishlist <!--( items)--></a> |  <a href="http://www.couturecandy.com/account.do">My Account</a>	<form method="get" id="form1" action="search.do"><input type="text" name="query" placeholder="search..." class="search_box"></form>
-        </div><!-- navigation -->
-        <div class="clear"></div><!-- clear -->
-    </div><!-- header -->
-</div><!-- wrap -->
-
-<div class="menu_stripe">
-	<div class="wrap">
-	<!--
-    	<ul class="menu left">
-        	<li  class="active"><a> WOMEN</a></li>
-            <li  ><a href="http://www.couturecandy.com/index.do?Men=t">  MEN</a></li>
-            <li><a>KIDS<sub style="font-size: 0.7em; margin-left:3px;">coming soon</sub></a></li>
-        </ul>
-
-	 -->
-	<!-- menu left -->
-        <ul class="menu left">
-        		        
-	        
-	            <li><a href="http://www.couturecandy.com/designers/1/shop-designer.html">NEW ARRIVALS</a></li>
-	        	<li><a href="http://www.couturecandy.com/designer-directory.html">SHOP BY DESIGNER</a></li>
-	            <li><a href="http://www.couturecandy.com/addictions.htm">SHOP BY CATEGORY</a></li>
-	            <li><a href="http://www.couturecandy.com/dresses/1/catalog.html"> DRESSES </a></li>
-	            <li><a href="http://www.couturecandy.com/denim2/1/catalog.html">DENIM</a></li>
-	            <li><a href="http://www.couturecandy.com/tops-and-tees/1/catalog.html"> TOPS </a></li>
-	            <li class="last"><a href="http://www.couturecandy.com/designers/1/catalog-sale.html"><font color="red">SALE</font></a></li>
-	                </ul><!-- menu right -->
-    </div><!-- wrap -->
-</div><!-- menu_stripe -->
-
-<div class="clear" style="height:10px"></div>
-
-<!--
-<a href=""><img src="http://www.couturecandy.com/images/headnews.gif" width="83" height="12" alt="Newsletter Signup" /></a><a href="http://www.couturecandy.com/wishlist-search.html"><img src="http://www.couturecandy.com/images/headwishlist.gif" width="47" height="12" alt="Wish List" /></a><a href="http://www.couturecandy.com/customer-login.do"><img src="http://www.couturecandy.com/images/headaccount.gif" width="57" height="12" alt="my account" /></a></span>
+    <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript" async="" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/app/assets/js/vendor/bigcommerce/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?3HxbNpxaZY7dNG6d3962h6vIfPadNUK3" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5C3J28"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/Mi5S4G8kBf4HYxRQL5Sq6ZbNhltQ6TH3q8K1oXYW/widget.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    //<![CDATA[
+        (function(){
+            // this happens before external dependencies (and dom ready) to reduce page flicker
+            var node, i;
+            for (i = window.document.childNodes.length; i--;) {
+                node = window.document.childNodes[i];
+                if (node.nodeName == 'HTML') {
+                    node.className += ' javascript';
+                }
+            }
+        })();
+    //]]>
+    </script>
+    
+    
+    <!-- Hidding all CSS and using single cobmined Css only -->
+    
+    <!-- Latest compiled and minified CSS -->
+ <!--   <link rel="stylesheet" href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/animate.css?t=1457024403">
+    <link rel="stylesheet" href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/bootstrap.min.css?t=1457024403">
+    <link rel="stylesheet" href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/font-awesome.css?t=1457024403">
 -->
+    <!-- Optional theme -->
+<!--   <link rel="stylesheet" href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/bootstrap-theme.min.css?t=1457024403">
+    
+    <link href="https://cdn4.bigcommerce.com/r-a695f2735dc41d03e6943cb3231dc475ca858e05/themes/__master/Styles/styles.css" type="text/css" rel="stylesheet" /><link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/styles.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/iselector.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/flexslider.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/slide-show.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/styles-slide-show.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/social.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/light.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/grid.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/savile-row.css?t=1457024403" media="all" type="text/css" rel="stylesheet" />
+<link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/custom.css?t=1457024403" type="text/css" rel="stylesheet" /><link href="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/jquery/plugins/imodal/imodal.css" type="text/css" rel="stylesheet" /><link href="https://cdn4.bigcommerce.com/r-a695f2735dc41d03e6943cb3231dc475ca858e05/themes/__master/Styles/product.attributes.css" type="text/css" rel="stylesheet" /><link href="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/jquery/themes/cupertino/ui.all.css" type="text/css" rel="stylesheet" /><link href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/product.quickview.css?t=1457024403" type="text/css" rel="stylesheet" />
+-->
+    <!-- Tell the browsers about our RSS feeds -->
+    <link rel="alternate" type="application/rss+xml" title="Latest News (RSS 2.0)" href="https://www.couturecandy.com/rss.php?action=newblogs&amp;type=rss">
+<link rel="alternate" type="application/atom+xml" title="Latest News (Atom 0.3)" href="https://www.couturecandy.com/rss.php?action=newblogs&amp;type=atom">
+<link rel="alternate" type="application/rss+xml" title="New Products (RSS 2.0)" href="https://www.couturecandy.com/rss.php?type=rss">
+<link rel="alternate" type="application/atom+xml" title="New Products (Atom 0.3)" href="https://www.couturecandy.com/rss.php?type=atom">
+<link rel="alternate" type="application/rss+xml" title="Popular Products (RSS 2.0)" href="https://www.couturecandy.com/rss.php?action=popularproducts&amp;type=rss">
+<link rel="alternate" type="application/atom+xml" title="Popular Products (Atom 0.3)" href="https://www.couturecandy.com/rss.php?action=popularproducts&amp;type=atom">
 
 
-	<div class="wrap">
+    <!-- Include visitor tracking code (if any) -->
+    <!-- Start Tracking Code for analytics_googleanalytics -->
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-81904-1', 'couturecandy.com');
+    ga('send', 'pageview');
+    ga('require', 'ecommerce', 'ecommerce.js');
+
+    function trackEcommerce() {
+    this._addTrans = addTrans;
+    this._addItem = addItems;
+    this._trackTrans = trackTrans;
+    }
+    function addTrans(orderID,store,total,tax,shipping,city,state,country) {
+    ga('ecommerce:addTransaction', {
+        'id': orderID,
+        'affiliation': store,
+        'revenue': total,
+        'tax': tax,
+        'shipping': shipping,
+        'city': city,
+        'state': state,
+        'country': country
+    });
+    }
+    function addItems(orderID,sku,product,variation,price,qty) {
+    ga('ecommerce:addItem', {
+        'id': orderID,
+        'sku': sku,
+        'name': product,
+        'category': variation,
+        'price': price,
+        'quantity': qty
+    });
+    }
+    function trackTrans() {
+        ga('ecommerce:send');
+    }
+    var pageTracker = new trackEcommerce();
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
+
+
+  <!--   -->
+
+    
+
+<!--   <link rel="stylesheet" href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/owl.carousel.css?t=1457024403">
+ 
+-->
+    
+    <link rel="stylesheet" href="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/Styles/allstyles.css?t=1457024403">
+    
+    <!-- script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53a0ec3a0a9c02ad"></script -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/avenues.js?t=1457024403" defer=""></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/jquery.scrolly.min.js?t=1457024403" defer=""></script>
+    <script src="https://cdn3.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/menudrop.js?" defer=""></script>
+    <script src="https://cdn3.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/iselector.js?" defer=""></script>
+     <script src="https://cdn3.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/jquery/plugins/jquery.flexslider.js"></script>
+    <script src="https://cdn3.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/viewport.js?" defer=""></script>
+
+
+<!-- Theme bespoke js -->
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/matchMedia.js?t=1457024403" defer=""></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/common.js?t=1457024403"></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/jquery.autobox.js?t=1457024403" defer=""></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/init.js?t=1457024403" defer=""></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/jquery.uniform.min.js?t=1457024403" defer=""></script>
+    
+    <!-- <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/main.js?t=1457024403" defer></script> -->
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/main.js?t=1457024403" defer=""></script>
+    <!-- <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/quicksearch.js?t=1457024403" defer></script> -->
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/bootstrap.min.js?t=1457024403" defer=""></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/google-web-font.js?t=1457024403" defer=""></script>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/owl.carousel.min.js?t=1457024403" defer=""></script> 
+
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/jquery-cookie.js?t=1457024403" defer=""></script>
+    <!-- <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/wow.min.js?t=1457024403" defer></script> -->
+    <!-- <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/basic-images-swap-new.js?t=1457024403" defer></script> -->
+
+    
+    <script>
+    //<![CDATA[
+    config.ShopPath = 'https://www.couturecandy.com';
+    config.AppPath = '';
+    config.FastCart = 0;
+    var ThumbImageWidth = 330;
+    var ThumbImageHeight = 400;
+    //]]>
+    </script>
+   
+    
+
+       
+    <!--[if lt IE 9]>
+    <script src="https://cdn4.bigcommerce.com/s-hw6z1b/templates/__custom/js/html5shiv.js?t=1457024403"></script>
+    <![endif]-->
+   
+   
+    <!-- Hotjar Tracking Code for http://www.couturecandy.com 
+    <script>
+    (function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:121649,hjsv:5};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>-->
+    
+ 
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+        
+        fbq('init', '311715418953318');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=311715418953318&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    
+    <!-- yotpo -->
+    
+    <script type="text/javascript">
+          (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,
+              e.src="//staticw2.yotpo.com/Mi5S4G8kBf4HYxRQL5Sq6ZbNhltQ6TH3q8K1oXYW/widget.js";var t=document.getElementsByTagName("script")[0];
+              t.parentNode.insertBefore(e,t)})();
+          </script> 
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5C3J28"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5C3J28');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+    <body>
+                
+<div id="DrawerMenu">
+    <div class="container">
+        <ul class="sf-menu main-menu">
+            <li><a href="/">Home</a></li>
+        </ul>
+        <div class="CategoryList" id="SideCategoryList">
+    <h4>Categories</h4>
+    <div class="BlockContent">
+        <div class="SideCategoryListClassic side-menu">
+            <ul class="category-list">	<li class=""><a href="https://www.couturecandy.com/new-arrivals/">New Arrivals</a>
 	
-		<div class="main_col">
-			<!-- content -->
+	</li>	<li class=""><a href="https://www.couturecandy.com/clothing/">Clothing</a>
+	<ul>	<li class=""><a href="/dresses/">Dresses</a>
+	
+	</li>	<li class=""><a href="/swimwear/">Swimwear</a>
+	
+	</li>	<li class=""><a href="/tops/">Tops</a>
+	
+	</li>	<li class=""><a href="/jeans/">Jeans</a>
+	
+	</li>	<li class=""><a href="/jackets-coats/">Jackets &amp; Coats</a>
+	
+	</li>	<li class=""><a href="/jumpsuits-rompers/">Jumpsuits &amp; Rompers</a>
+	
+	</li>	<li class=""><a href="/pants/">Pants</a>
+	
+	</li>	<li class=""><a href="/shorts/">Shorts</a>
+	
+	</li>	<li class=""><a href="/skirts/">Skirts</a>
+	
+	</li>	<li class=""><a href="/sweaters/">Sweaters</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/accessories/">Accessories</a>
+	<ul>	<li class=""><a href="/belts/">Belts</a>
+	
+	</li>	<li class=""><a href="/jewelry/">Jewelry</a>
+	
+	</li>	<li class=""><a href="/scarves-wraps/">Scarves &amp; Wraps</a>
+	
+	</li>	<li class=""><a href="/sunglasses-eyewear/">Sunglasses &amp; Eyewear</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/handbags/">Handbags</a>
+	<ul>	<li class=""><a href="/black-handbags/">Black Handbags</a>
+	
+	</li>	<li class=""><a href="/bucket-bags/">Bucket Bags</a>
+	
+	</li>	<li class=""><a href="/clutches/">Clutches</a>
+	
+	</li>	<li class=""><a href="/crossbody-bags/">Crossbody Bags</a>
+	
+	</li>	<li class=""><a href="/satchels/">Satchels</a>
+	
+	</li>	<li class=""><a href="/shoulder-bags-hobos/">Shoulder Bags &amp; Hobos</a>
+	
+	</li>	<li class=""><a href="/totes/">Totes</a>
+	
+	</li>	<li class=""><a href="/wallets/">Wallets</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/evening-dresses/">Evening Dresses</a>
+	<ul>	<li class=""><a href="/cocktail-dresses/">Cocktail Dresses</a>
+	
+	</li>	<li class=""><a href="/evening-gowns-1/">Evening Gowns</a>
+	
+	</li>	<li class=""><a href="/prom-dresses-1/">Prom Dresses</a>
+	
+	</li>	<li class=""><a href="/wedding/">Wedding</a>
+	
+	</li>	<li class="LastChild"><a href="/clearance-dresses/">Clearance Dresses</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/sale/">Sale</a>
+	
+	</li></ul>
+            <ul style="margin-left:0;">
+                <li><a href="https://www.couturecandy.com/brands/">DESIGNERS</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+        <ul class="sf-menu topmenu-options" style="display:">
+            <li style="" class="HeaderLiveChat">
+                <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3HxbNpxaZY7dNG6d3962h6vIfPadNUK3";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+            </li>
+            <li style="display:" class="First">
+                <a href="https://www.couturecandy.com/account.php">My Account</a>
+            </li>
+            <li style="display:">
+                <div></div>
+            </li>
+            <li>
+                <a href="tel:">Call us</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+var megamenu = [2,3];
+var imagemenu = [
+    "<img src='https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/megamenu-image-bottom.png?t=1438449684'>",
+    ""];
+var colright = [
+    "<a href='/area-rugs/'><img src='https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/image-menu-1.png?t=1438280495'></a>",
+    ""
+];
+    
+</script> 
+ <script type="text/javascript">
+     
+// Append Images in MegaMenu
+ function hlmegamenu (num_menu,$_Images_Menu,$_ColRightMegamenu){
+     var countLi = jQuery("#SideCategoryList ul.sf-menu:first-child > li:nth-child("+num_menu+") > ul > li").length;
+     jQuery("#SideCategoryList ul.sf-menu:first-child > li:nth-child("+num_menu+")").addClass("HL-HasMegamenu");
+     
+     var $_Dropdownmenu = jQuery("#SideCategoryList ul.sf-menu:first-child > li:nth-child("+num_menu+") > ul").html();
+     var $_Image = "<li class='large-banner'>"+$_ColRightMegamenu+"</li>";
+     var $_Image_Bottom = "<li class='image_bottom'>"+$_Images_Menu+"</li>";
+     
+ 
+    jQuery("#SideCategoryList ul.sf-menu:first-child > li:nth-child("+num_menu+")").append('<ul class="Wrapper-Megamenu"><li class="WrapperCategory"><ul>'+$_Dropdownmenu+"</ul></li>"+$_Image+'</ul>');
+      jQuery("#SideCategoryList ul.sf-menu:first-child > li:nth-child("+num_menu+") .Wrapper-Megamenu > .WrapperCategory > ul").append($_Image_Bottom);
+     
+    
+    }
+jQuery(document).ready(function(){
+    for (var i = 0; i < megamenu.length; i++)
+        hlmegamenu (megamenu[i],imagemenu[i],colright[i]);
+        
+       
+});// End Append Images in MegaMenu]
 
-			<h2 class="bordertop">Privacy Policy</h2>
-			
-			<div id="helpnav">
-<h4>Company &amp; Policies</h4>
-<h5>Customer Service</h5>
-<ul>
-<li><a href="http://www.couturecandy.com/shopping.htm" id="shopping">How to Shop</a></li>
-<li><a href="http://www.couturecandy.com/discounts.htm" id="discounts">Discounts and Promotions</a></li>
-<li><a href="http://www.couturecandy.com/shipping.htm" id="shipping">Shipping Information</a></li>
-<li><a href="http://www.couturecandy.com/returns.htm" id="returns">Returns and Exchanges</a></li>
-<li><a href="http://www.couturecandy.com/gifts.htm" id="pricing">Gifts and Gift Certificates</a></li>
-<li><a href="http://www.couturecandy.com/contact-us.htm" id="contact">Contact Us</a></li>
-<li><a href="http://www.couturecandy.com/wish-list-instructions.htm" id="wishlistnav">Wish List Instructions</a></li>
-<li><a href="http://www.couturecandy.com/newsletters.htm" id="newsletters">Newsletters</a></li>
-</ul>
-<h5>Company Information</h5>
-<ul>
-<li><a href="http://www.couturecandy.com/about-us.htm" id="aboutus">About Us</a></li>
-<li><a href="http://www.couturecandy.com/privacy-policy.htm" id="privacy">Privacy Policy</a></li>
-<li><a href="http://www.couturecandy.com/disclaimer.htm" id="disclaimer">Terms and Conditions</a></li>
-<li><a href="http://www.couturecandy.com/copyright-information.htm" id="copyright">Copyright Information</a></li>
-</ul>
-<h5>Relations</h5>
-<ul>
-<li><a href="https://www.couturecandy.com/vendorLogin.do" id="designers">Boutiques &amp; Designers</a></li>
-<li><a href="http://www.couturecandy.com/affiliates.htm" id="affiliates">Affiliates</a></li>
-<li><a href="http://www.couturecandy.com/advertising.htm" id="advertising">Advertise with Us</a></li>
-</ul>
+jQuery(document).ready(function(){
+jQuery(".large-banner:empty").parents(".sf-menu:first-child > li").addClass('NoColRightMegamenu');
+     // jQuery(".WrapperCategory ul li").parents(".sf-menu > li").addClass('NoCategoryMegamenu1');
+});
+     
+jQuery(document).ready(function(){
+ for (var i = 0; i < megamenu.length; i++) {
+  if(jQuery(" ul.sf-menu:first-child > li:nth-child("+megamenu[i]+") .Wrapper-Megamenu li.WrapperCategory > ul").html() == 'null<li class="image_bottom"></li>'){
+   jQuery(" ul.sf-menu:first-child > li:nth-child("+megamenu[i]+")").addClass('NoCategoryMegamenu');
+  }
+    
+ }
+});
+     jQuery(document).ready(function(){
+ for (var i = 0; i < megamenu.length; i++) {
+  if(jQuery("ul.sf-menu:first-child > li:nth-child("+megamenu[i]+") > ul > li.large-banner").html() == 'undefined' || jQuery("ul.sf-menu:first-child > li:nth-child("+megamenu[i]+") > ul > li.large-banner").html() == ''){
+   jQuery("ul.sf-menu:first-child > li:nth-child("+megamenu[i]+")").addClass('NoColRightMegamenu');
+  }
+ }
+     });
+     </script>
+     <script type="text/javascript">
+ function fixMegaMenuOverflow() {
+    function fix($container, $nav) {
+        var pad = $nav.offset().left + $nav.outerWidth() - ($container.offset().left + $container.outerWidth());
+        var pad2 = $container.offset().left + pad - $nav.offset().left;
+        if (pad2 < 0) pad = pad - pad2;
+        if (pad < 0){
+            $container.css('left', pad+'px');
+        }
+    }
+
+    jQuery('.PageMenu .CategoryList > div > div > ul > li.menu-parent > ul.menu-container-level-1').parent().hover(function() {
+        var $container = jQuery(this).children('ul.menu-container-level-1');
+        if(jQuery(this).hasClass('menu-parent'))
+            $container.css('left',-1);
+        var $nav = jQuery(this).parents('.PageMenu .CategoryList > div > div').first();
+        fix($container, $nav);
+    }, function() {
+        jQuery(this).children('ul.menu-container-level-1').css('left', '');
+    });
+};
+
+    function fixMegaMenuOverflowMega() {
+    function fix($container, $nav) {
+        var pad = $nav.offset().left + $nav.outerWidth() - ($container.offset().left + $container.outerWidth());
+        var pad2 = $container.offset().left + pad - $nav.offset().left;
+        if (pad2 < 0) pad = pad - pad2;
+        if (pad < 0){
+            $container.css('left', pad+'px');
+        }
+    }
+
+    jQuery('.PageMenu .CategoryList > div > div > ul > li.menu-parent > .Wrapper-Megamenu.menu-container-level-1').parent().hover(function() {
+        var $container = jQuery(this).children('ul.Wrapper-Megamenu.menu-container-level-1');
+        if(jQuery(this).hasClass('menu-parent'))
+            $container.css('left',-1);
+        var $nav = jQuery(this).parents('.PageMenu .CategoryList > div > div').first();
+        fix($container, $nav);
+    }, function() {
+        jQuery(this).children('ul.Wrapper-Megamenu.menu-container-level-1').css('left', '');
+    });
+};
+
+jQuery(document).ready(function() {
+    jQuery('.PageMenu .CategoryList > div > div > ul > li').has('ul').addClass('menu-parent');
+    jQuery('.PageMenu .CategoryList > div > div > ul > li').children('ul').addClass('menu-container-level-1');
+});
+
+jQuery(window).load(function(){
+    fixMegaMenuOverflow();
+    fixMegaMenuOverflowMega();
+});
+</script>
+<script>
+//<![CDATA[
+    $(function(){
+
+        //Drawer Subnavigation Accordion
+        $('#DrawerMenu li ul').addClass('drawer-subcat');
+        $('#DrawerMenu .drawer-subcat').prev('a').after('<span class="subcat-expand"></span>');
+        $('#DrawerMenu .subcat-expand').click(function(){
+            $(this).next('.drawer-subcat').toggleClass('expanded');
+            $(this).next('.drawer-subcat').next('.drawer-subcat').toggleClass('expanded');
+            $(this).toggleClass('subcat-expanded');
+        });
+
+    });
+//]]>
+</script>
+
+        <section class="page">
+            <!-- <div class="" id="TopStripMessage">
+    <div class="container" style="position:relative;">
+        <p class="stripmessage">15% OFF on Your First Order! Use Coupon Code <span class="couponCode"> LOVE </span>  at checkout.</p>
+        <p id="closeStrip">X</p>
+    </div>
 </div>
 
-			<div id="righthelp">
-				
-				<h3>Information We Collect</h3>
+<script type="text/javascript">
+$('#closeStrip').click(function(){
+$('#TopStripMessage').hide();
+});
+</script> -->
+
+<div id="serviceStrip">
+    <div class="container">
+        <div class="leftsect">
+            <p><img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/truck-2x.png?t=1448903883" style="height:14px; margin-right:8px; margin-top:-2px;">FREE US SHIPPING OVER $149!</p>
+        </div>
+        <div class="rightsect">
+            <p style="float: left; margin-right: 10px; text-transform:uppercase;"><img style="max-width:14px; margin-right:4px;" src="https://cdn3.bigcommerce.com/s-hw6z1b/templates/__custom/cimgs/icon-phone_2x.png?t=1457024403">Customer Service  (855) 531-3811 <a href="https://www.surveymonkey.com/r/CCANDYFEEDBACK" target="_blank" style="margin-left: 15px; padding-left: 8px; padding-right: 8px;border-left: 1px solid #666;border-right: 1px solid #666; margin-right: 15px;">Feedback</a></p>
+        <div class="customlogin" style="float:left; position:relative;">
+            
+                                <div id="customLinkLogedli">
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+
+var GlobalFname="Guest";
+
+if (GlobalFname!="" && GlobalFname!="Guest")
+{
+    //Customer is Logged On
+    document.writeln('<span id="customer-firstname">Hi, Guest</span>');
+   // document.writeln ('<a href="https://www.couturecandy.com/login.php?action=logout">Sign out</a>');
+   $('#customLinkLogedli').addClass('activeSigned');
+} else {
+    document.writeln ('<a href="https://www.couturecandy.com/login.php">Sign in</a>');
+}
+//]]>
+                                    </script><a href="https://www.couturecandy.com/login.php">Sign in</a>
+
+                                    <div id="LogedInLinks" style="display:none;">
+                                        <a rel="follow" title="" href="https://www.couturecandy.com/account.php">My Account</a>
+                                        <a rel="follow" title="" href="https://www.couturecandy.com/account.php?action=order_status">Order Status</a>
+                                        <a rel="follow" title="" href="https://www.couturecandy.com/wishlist.php">Wish List</a>
+                                        <a rel="follow" title="" href="https://www.couturecandy.com/login.php?action=logout">Sign Out</a>
+                                    </div>
+                                    
+                                </div>
+            
+        </div>
+    </div>
+    </div>
+</div>
+
+<header class="header headertopmargin">
+        
+        
+        
+<div class="TopMenu">
+    <div class="container">
+        <div id="ToggleMenu"> = </div>
+        <div class="customer-area dropdown">
+            <a class="icon-custommer" href="#" data-toggle="dropdown"></a>
+            <ul class="DropdownCustommer dropdown-menu" role="menu">
+                <li><a href="https://www.couturecandy.com" title="Home">Home</a></li>
+                <li style="display:" class="First">
+                    <a href="https://www.couturecandy.com/account.php">My Account</a>
+                </li>
+                <li style="display:"><a href="https://www.couturecandy.com/wishlist.php">Wish Lists</a></li>
+                <li><a href="https://www.couturecandy.com/giftcertificates.php">Gift Certificates</a></li>
+                <!-- li style="display:">
+                    <a href='https://www.couturecandy.com/login.php' onclick=''>Sign in</a> or <a href='https://www.couturecandy.com/login.php?action=create_account' onclick=''>Create an account</a>
+                </li -->
+                <li><a href="/checkout.php" title="Checkout">Checkout</a></li>
+            </ul>
+        </div>
+        <!--ul style="display:">
+            <li class="currency-top"><div class="Block Moveable Panel" id="SideCurrencySelector" style="display:none;"></div></li>            
+            <li >
+                <span class="phoneIcon">(855) 531-3811</span>
+            </li -->
+            <li style="" class="HeaderLiveChat">
+                <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3HxbNpxaZY7dNG6d3962h6vIfPadNUK3";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+            </li>
+            <!-- li style="display:" class="First">
+                <a href="https://www.couturecandy.com/account.php">My Account</a>
+            </li>
+            <li style="display:"><a href="https://www.couturecandy.com/wishlist.php">Wish Lists</a></li>
+            <li><a href="https://www.couturecandy.com/giftcertificates.php">Gift Certificates</a></li>
+            <li class="CustomerLink" style="display:">
+                <a href='https://www.couturecandy.com/login.php' onclick=''>Sign in</a> or <a href='https://www.couturecandy.com/login.php?action=create_account' onclick=''>Create an account</a>
+            </li>
+            <li class="last CartLink" style="display:">
+                               
+                 <div class="DropdownCart" style="display:none"></div>                
+                <i class="icon icon-cart" title="View Cart">&nbsp;</i><a href="javascript:void(0);"title="View Cart" id="ShowDropdownCart">SHOPPING BAG <span id="items-count"></span></a>
+        </li>
+            
+        </ul -->
+    </div>
+</div>
+
+    
+        <div id="Header">
+            <div class="container">
+                <div class="row">   
+                 <div class="topPartLeft">
+                    <div class="header-top col-sm-4 alpha">
+                        <div id="SearchForm" class="cf">
+    
+<!--
+    <form action="https://www.couturecandy.com/search.php" method="get" onsubmit="return check_small_search_form()">
+        <label for="search_query" value="">Search</label>
+        <input type="submit" class="Button" value="" name="Search" title="Search" />
+        <input type="text" name="search_query" id="search_query" class="Textbox autobox" value="Search" />
+    </form>
+-->
+
+    <form action="/search.html" method="get">
+        <label for="search_query" value="">Search</label>
+        <input type="submit" class="Button" value="" title="Search">
+        <input type="text" name="search_query" id="search_query" autocomplete="off" class="Textbox autobox searchspring-query" value="Search">
+    </form>
+    
+    <link rel="stylesheet" type="text/css" href="//cdn.searchspring.net/autocomplete/autocomplete-v2.css">
+    <script type="text/javascript" src="//cdn.searchspring.net/autocomplete/searchspring-autocomplete.min.js"></script>
+    
+    <script type="text/javascript">
+        SearchSpring.Autocomplete.init({
+            siteId: 'wlf8mw',
+            queryClass: 'searchspring-query',
+            offsetY: 12,
+            offsetX: 0
+        });
+    </script>
+    <style>
+        #searchspring-autocomplete_results .ac_term_suggest {
+            font-size: 14px
+        }
+        #searchspring-autocomplete_results {
+            font-family: Arial, sans-serif;
+            border-radius: 0;
+            box-shadow: none;
+        }
+        #searchspring-autocomplete_results .ac_title {
+            background: #000;
+            color: #fff;
+            padding: 5px 10px;
+            font-size: 12px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        #searchspring-autocomplete_results .ac_title:first-of-type {
+            border-radius: 0;
+        }
+        #searchspring-autocomplete_results .ac_powered {
+            display: none;
+        }
+    </style>
+    
+</div>
+
+<!--
+<script type="text/javascript">
+    var QuickSearchAlignment = 'left';
+    var QuickSearchWidth = '370px';
+    lang.EmptySmallSearch = "You forgot to enter some search keywords.";
+    // uniform() is deprecated in Blueprint theme; remove binding below when removing uniform
+    $(document).ajaxComplete(function() {
+        $('input[type=checkbox], select').not('.UniApplied').uniform();
+    });
+</script>
+-->
+
+<script type="text/javascript">
+    
+
+    //$('#search_query').focus(function()
+    //{
+    /*to make this flexible, I'm storing the current width in an attribute*/
+    //  $(this).attr('data-default', $(this).width());
+    //  $(this).animate({ width: 235 }, '300');
+    //}).blur(function()
+    //{
+    /* lookup the original width */
+    // var w = $(this).attr('data-default');
+    //  $(this).animate({ width: 65 }, '300');
+    //});
+
+</script>
+
+
+
+                    </div>
+                 </div> <!-- topPartLeft -->
+                
+                 <div class="topPartCenter">
+                    <div class="header-logo col-sm-4 logoCol">
+                        <a href="https://www.couturecandy.com/"><img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/cc_logo2x_1455902302_95594_min_1457766938__26258.png" border="0" id="LogoImage" alt="Couture Candy"></a>
+
+                    </div>
+                </div><!-- topPartCenter -->
+                
+                <div class="topPartRight">
+                    <div class="TopCart col-sm-4 omega">
+                        <div class="item-cart">
+                            <ul>
+                                <li id="showCartItemn">
+                                
+                                    <div class="last CartLink" style="display:">
+                                <!-- div class="last" style="display:" -->
+                                    
+                                <!-- Pop Cart code for which hide now -->
+                                
+                                    <div class="DropdownCart" style="display:none"></div>
+                                    <!-- please put id="ShowDropdownCart" in the a link below to popup cart -->
+                                    <a href="/cart.php" title="View Cart" id="dropdowncart1"> <p class="headerPriceShow" style="margin:9px 5px 0 0; padding:0; float:left; line-height:6px;">View Cart</p><!--span id="forZeroItem">(0) </span --><i class="icon icon-cart" title="View Cart"><span id="items-count" style=""></span></i></a>
+                                  
+                                <!-- Pop Cart code which is hiden only-->
+ 
+                                    <a href="/cart.php" title="View Cart" id="customCartLink" style="display:none;"> <p class="headerPriceShow" style="margin:9px 5px 0 0; padding:0; float:left; line-height:0px;">$0.00</p><!--span id="forZeroItem">(0) </span --><i class="icon icon-cart" title="View Cart"><span id="items-count" style="">0</span></i></a>
+                                <!-- without Pop Cart link given below -->
+                                <!--a href="/cart.php" title="View Cart" id="customCartLink"><span id="headerPriceShow" style="margin-right:5px;" class="headerPrice">$0.00</span><span id="forZeroItem">(0)</span><i class="icon icon-cart" title="View Cart" style="display:none;"><span id="items-count" style="">0</span></i></a -->
+                                                                
+                            </div>
+                                                                        
+                                </li>
+                                <!-- li><a href="/cart.php" id="CartHeaderPrice"></a></li -->
+                            </ul>                            
+                        </div>
+                                                
+                    </div>
+                    
+                    <script type="text/javascript">
+                        var txt = "";
+                        var newtxt = txt.replace(/\(|\)/g, '');
+                        $('#dropdowncart1 #items-count').html(newtxt);
+                        if(newtxt==""){
+                        $('#dropdowncart1 #items-count').html('0');
+                        }
+                    </script>
+                    
+                    <div style="display:none;" id="showShopResponsive">
+                        <ul>
+                            <li id="showResponsiveFilters">Filter</li>
+                            <li id="showResponsiveShop">Shop By</li>
+                        </ul>
+                    </div>
+              </div> <!-- topPartRight -->
+                                
+                </div>
+            </div>
+        </div>
+    
+        <div class="PageMenu pageMenuMargin" id="pageMenutoTop">
+            <div class="container">
+                <div class="CategoryList" id="SideCategoryList">
+    <h4>Categories</h4>
+    <div class="BlockContent">
+        <div class="SideCategoryListClassic side-menu">
+            <ul class="category-list">	<li class=""><a href="https://www.couturecandy.com/new-arrivals/">New Arrivals</a>
+	
+	</li>	<li class=""><a href="https://www.couturecandy.com/clothing/">Clothing</a>
+	<ul>	<li class=""><a href="/dresses/">Dresses</a>
+	
+	</li>	<li class=""><a href="/swimwear/">Swimwear</a>
+	
+	</li>	<li class=""><a href="/tops/">Tops</a>
+	
+	</li>	<li class=""><a href="/jeans/">Jeans</a>
+	
+	</li>	<li class=""><a href="/jackets-coats/">Jackets &amp; Coats</a>
+	
+	</li>	<li class=""><a href="/jumpsuits-rompers/">Jumpsuits &amp; Rompers</a>
+	
+	</li>	<li class=""><a href="/pants/">Pants</a>
+	
+	</li>	<li class=""><a href="/shorts/">Shorts</a>
+	
+	</li>	<li class=""><a href="/skirts/">Skirts</a>
+	
+	</li>	<li class=""><a href="/sweaters/">Sweaters</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/accessories/">Accessories</a>
+	<ul>	<li class=""><a href="/belts/">Belts</a>
+	
+	</li>	<li class=""><a href="/jewelry/">Jewelry</a>
+	
+	</li>	<li class=""><a href="/scarves-wraps/">Scarves &amp; Wraps</a>
+	
+	</li>	<li class=""><a href="/sunglasses-eyewear/">Sunglasses &amp; Eyewear</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/handbags/">Handbags</a>
+	<ul>	<li class=""><a href="/black-handbags/">Black Handbags</a>
+	
+	</li>	<li class=""><a href="/bucket-bags/">Bucket Bags</a>
+	
+	</li>	<li class=""><a href="/clutches/">Clutches</a>
+	
+	</li>	<li class=""><a href="/crossbody-bags/">Crossbody Bags</a>
+	
+	</li>	<li class=""><a href="/satchels/">Satchels</a>
+	
+	</li>	<li class=""><a href="/shoulder-bags-hobos/">Shoulder Bags &amp; Hobos</a>
+	
+	</li>	<li class=""><a href="/totes/">Totes</a>
+	
+	</li>	<li class=""><a href="/wallets/">Wallets</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/evening-dresses/">Evening Dresses</a>
+	<ul>	<li class=""><a href="/cocktail-dresses/">Cocktail Dresses</a>
+	
+	</li>	<li class=""><a href="/evening-gowns-1/">Evening Gowns</a>
+	
+	</li>	<li class=""><a href="/prom-dresses-1/">Prom Dresses</a>
+	
+	</li>	<li class=""><a href="/wedding/">Wedding</a>
+	
+	</li>	<li class="LastChild"><a href="/clearance-dresses/">Clearance Dresses</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/sale/">Sale</a>
+	
+	</li></ul>
+            <ul style="margin-left:0;">
+                <li><a href="https://www.couturecandy.com/brands/">DESIGNERS</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>    
+    
+    <div class="PageMenu" id="forResponsive" style="display:none">
+            <div class="container">
+                <div class="CategoryList" id="SideCategoryList">
+    <h4>Categories</h4>
+    <div class="BlockContent">
+        <div class="SideCategoryListClassic side-menu">
+            <ul class="category-list">	<li class=""><a href="https://www.couturecandy.com/new-arrivals/">New Arrivals</a>
+	
+	</li>	<li class=""><a href="https://www.couturecandy.com/clothing/">Clothing</a>
+	<ul>	<li class=""><a href="/dresses/">Dresses</a>
+	
+	</li>	<li class=""><a href="/swimwear/">Swimwear</a>
+	
+	</li>	<li class=""><a href="/tops/">Tops</a>
+	
+	</li>	<li class=""><a href="/jeans/">Jeans</a>
+	
+	</li>	<li class=""><a href="/jackets-coats/">Jackets &amp; Coats</a>
+	
+	</li>	<li class=""><a href="/jumpsuits-rompers/">Jumpsuits &amp; Rompers</a>
+	
+	</li>	<li class=""><a href="/pants/">Pants</a>
+	
+	</li>	<li class=""><a href="/shorts/">Shorts</a>
+	
+	</li>	<li class=""><a href="/skirts/">Skirts</a>
+	
+	</li>	<li class=""><a href="/sweaters/">Sweaters</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/accessories/">Accessories</a>
+	<ul>	<li class=""><a href="/belts/">Belts</a>
+	
+	</li>	<li class=""><a href="/jewelry/">Jewelry</a>
+	
+	</li>	<li class=""><a href="/scarves-wraps/">Scarves &amp; Wraps</a>
+	
+	</li>	<li class=""><a href="/sunglasses-eyewear/">Sunglasses &amp; Eyewear</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/handbags/">Handbags</a>
+	<ul>	<li class=""><a href="/black-handbags/">Black Handbags</a>
+	
+	</li>	<li class=""><a href="/bucket-bags/">Bucket Bags</a>
+	
+	</li>	<li class=""><a href="/clutches/">Clutches</a>
+	
+	</li>	<li class=""><a href="/crossbody-bags/">Crossbody Bags</a>
+	
+	</li>	<li class=""><a href="/satchels/">Satchels</a>
+	
+	</li>	<li class=""><a href="/shoulder-bags-hobos/">Shoulder Bags &amp; Hobos</a>
+	
+	</li>	<li class=""><a href="/totes/">Totes</a>
+	
+	</li>	<li class=""><a href="/wallets/">Wallets</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/evening-dresses/">Evening Dresses</a>
+	<ul>	<li class=""><a href="/cocktail-dresses/">Cocktail Dresses</a>
+	
+	</li>	<li class=""><a href="/evening-gowns-1/">Evening Gowns</a>
+	
+	</li>	<li class=""><a href="/prom-dresses-1/">Prom Dresses</a>
+	
+	</li>	<li class=""><a href="/wedding/">Wedding</a>
+	
+	</li>	<li class="LastChild"><a href="/clearance-dresses/">Clearance Dresses</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/sale/">Sale</a>
+	
+	</li></ul>
+            <ul style="margin-left:0;">
+                <li><a href="https://www.couturecandy.com/brands/">DESIGNERS</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>    
+</header>
+
+<script type="text/javascript">
+                                
+    $( ".activeSigned" ).hover(function() {
+          $(this).addClass( "hover" ); $('#LogedInLinks').addClass('showLinked');
+           }, function() {
+        $(this).removeClass( "hover" ); $('#LogedInLinks').removeClass('showLinked');
+       }
+     );
+    
+    $('#showResponsiveShop').click(function(){
+                                                        
+       $('.Left').hide();
+       $('#forResponsive').slideToggle();
+                            
+    });
+    
+    $('#showResponsiveFilters').click(function(){
+    
+       $('#forResponsive').hide();
+       $('.Left').slideToggle();
+    
+    });
+    
+    $('.DesignerItem').hover(function(){
+        $('.DesignerList').hide();
+    });
+    
+</script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+    
+    jQuery('.side-menu .category-list li a:contains("Designers")').closest('.parent').addClass('DesignerItem');
+    
+    jQuery('.side-menu .category-list li.DesignerItem ul').addClass('DesignerList');
+    
+     jQuery('.side-menu .category-list li a:contains("Sale")').addClass('SaleItem');
+    
+    jQuery('ul.DesignerList').append('<li class="LastViewAll"><a href="/designers/">View All Designers</a></li>');
+    
+    });
+            
+</script>
+
+
+
+ <!-- BEGIN: _GUARANTEE Seal -->
+
+<span id="_GUARANTEE_SealSpan"></span>
+
+<script type="text/javascript" src="//nsg.symantec.com/Web/Seal/gjs.aspx?SN=951675509"></script>
+
+<script type="text/javascript">
+
+if(window._GUARANTEE && _GUARANTEE.Loaded) {
+
+_GUARANTEE.Hash = 'OY6D%2B8uD532j4E9rDvBNFywVmAPJ83lHn49eFHTaKCgQ0Pb8HeLd8QT1SrL9hXUB5%2FdM7id6ZB3%2BEZzBY2BGrA%3D%3D';
+
+_GUARANTEE.WriteSeal("_GUARANTEE_SealSpan", "GuaranteedSeal");
+
+}
+
+</script>
+
+<!-- END: _GUARANTEE Seal -->
+
+
+
+
+            <section class="main">
+                <div class="Block Breadcrumb Moveable Panel" id="PageBreadcrumb">
+	<div class="container">
+		<ul>
+			<li><a href="https://www.couturecandy.com/">Home</a></li><li class="Breadcrumbitem" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://www.couturecandy.com/contact-us/"><span itemprop="title">Contact Us</span></a></li>
+<li>Privacy Policy </li>
+		</ul>
+	</div>
+</div>
+                <section class="container">
+                    
+                    
+                    <!-- div class="Left" id="LayoutColumn1">
+                        <div class="Block Moveable Panel" id="SideSubPageList" style="display:none;"></div>
+                        <div class="CategoryList" id="SideCategoryList">
+    <h4>Categories</h4>
+    <div class="BlockContent">
+        <div class="SideCategoryListClassic side-menu">
+            <ul class="category-list">	<li class=""><a href="https://www.couturecandy.com/new-arrivals/">New Arrivals</a>
+	
+	</li>	<li class=""><a href="https://www.couturecandy.com/clothing/">Clothing</a>
+	<ul>	<li class=""><a href="/dresses/">Dresses</a>
+	
+	</li>	<li class=""><a href="/swimwear/">Swimwear</a>
+	
+	</li>	<li class=""><a href="/tops/">Tops</a>
+	
+	</li>	<li class=""><a href="/jeans/">Jeans</a>
+	
+	</li>	<li class=""><a href="/jackets-coats/">Jackets &amp; Coats</a>
+	
+	</li>	<li class=""><a href="/jumpsuits-rompers/">Jumpsuits &amp; Rompers</a>
+	
+	</li>	<li class=""><a href="/pants/">Pants</a>
+	
+	</li>	<li class=""><a href="/shorts/">Shorts</a>
+	
+	</li>	<li class=""><a href="/skirts/">Skirts</a>
+	
+	</li>	<li class=""><a href="/sweaters/">Sweaters</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/accessories/">Accessories</a>
+	<ul>	<li class=""><a href="/belts/">Belts</a>
+	
+	</li>	<li class=""><a href="/jewelry/">Jewelry</a>
+	
+	</li>	<li class=""><a href="/scarves-wraps/">Scarves &amp; Wraps</a>
+	
+	</li>	<li class=""><a href="/sunglasses-eyewear/">Sunglasses &amp; Eyewear</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/handbags/">Handbags</a>
+	<ul>	<li class=""><a href="/black-handbags/">Black Handbags</a>
+	
+	</li>	<li class=""><a href="/bucket-bags/">Bucket Bags</a>
+	
+	</li>	<li class=""><a href="/clutches/">Clutches</a>
+	
+	</li>	<li class=""><a href="/crossbody-bags/">Crossbody Bags</a>
+	
+	</li>	<li class=""><a href="/satchels/">Satchels</a>
+	
+	</li>	<li class=""><a href="/shoulder-bags-hobos/">Shoulder Bags &amp; Hobos</a>
+	
+	</li>	<li class=""><a href="/totes/">Totes</a>
+	
+	</li>	<li class=""><a href="/wallets/">Wallets</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/evening-dresses/">Evening Dresses</a>
+	<ul>	<li class=""><a href="/cocktail-dresses/">Cocktail Dresses</a>
+	
+	</li>	<li class=""><a href="/evening-gowns-1/">Evening Gowns</a>
+	
+	</li>	<li class=""><a href="/prom-dresses-1/">Prom Dresses</a>
+	
+	</li>	<li class=""><a href="/wedding/">Wedding</a>
+	
+	</li>	<li class="LastChild"><a href="/clearance-dresses/">Clearance Dresses</a>
+	
+	</li></ul>
+	</li>	<li class=""><a href="https://www.couturecandy.com/sale/">Sale</a>
+	
+	</li></ul>
+            <ul style="margin-left:0;">
+                <li><a href="https://www.couturecandy.com/brands/">DESIGNERS</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+                        
+                    </div -->
+                    <div class="Content Widest" id="LayoutColumn2">
+                    <h1 class="TitleHeading">Privacy Policy </h1>
+                        <div class="BlockContent PageContent">
+                            
+                            <h3><strong>Information We Collect&nbsp;</strong></h3>
 <p>When you shop with CoutureCandy you must submit the minimal required information necessary to complete your transaction. This information may include your name, address, telephone number, and email address.</p>
-<p>When you use the website in any capacity, such as registering as a customer, participating in one of our promotions or sweepstakes, or purchasing products, we may ask for additional information, including your age, interests, hobbies, product preferences, and favorite designers.  Giving us this information is optional and serves the purpose of us being able to provide the most desirable services and products to our customers.</p>
+<p>When you use the website in any capacity, such as registering as a customer, participating in one of our promotions or sweepstakes, or purchasing products, we may ask for additional information, including your age, interests, hobbies, product preferences, and favorite designers. Giving us this information is optional and serves the purpose of us being able to provide the most desirable services and products to our customers.</p>
 <p>To improve our website, we collect non-personal information about how users navigate through the site. We may share this information with our affiliates or other outside companies.</p>
 <h3>How We Use the Information We Collect</h3>
 <p>We use the information we collect for various purposes, including:</p>
@@ -204,109 +1071,1437 @@ var WRInitTime=(new Date()).getTime();
 <h3>Others with Whom We Share Your Information</h3>
 <p>When a product you have purchased is fulfilled through a vendor, we will send the information necessary to box and ship your product. Personal credit card information is never released to any company outside CoutureCandy.</p>
 <ul class="contentlist redtext">
-<li>Newsletter Emails:  We do not share our newletter email list with anyone.</li>
-<li>We do not re-sell personal information with any company or person. </li>
-<li>We do not share personal information unless necessary to fulfill your order (ie. shipping information).</li>
+<li><span style="color: #ff0000;">Newsletter Emails: We do not share our newletter email list with anyone.</span></li>
+<li><span style="color: #ff0000;">We do not re-sell personal information with any company or person.</span></li>
+<li><span style="color: #ff0000;">We do not share personal information unless necessary to fulfill your order (ie. shipping information).</span></li>
 </ul>
-
 <h3>Secure Ordering</h3>
-<p>Your online credit card transactions are secure with CoutureCandy. We use Secure Socket Layers (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area. </p>
+<p>Your online credit card transactions are secure with CoutureCandy. We use Secure Socket Layers (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area.</p>
 <p>Making a credit card purchase is just as safe on our website as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1-866-399-2263. Our Customer Care Department will gladly assist you.</p>
-
 <h3>Privacy Policy</h3>
 <p>To achieve our goal of providing the highest quality products and services, we may use information from our interactions with you and other parties interacting with CoutureCandy. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.</p>
 <p>As we continue to develop our website and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most updated information.</p>
 <p>This Privacy Policy has been in effect since 6/14/2005.</p>
-
 <h3>Your Choices Regarding Use of the Information We Collect</h3>
-<p>Email and mail is an 'opt-in' offering of CoutureCandy. If you have previously opted into a feature that you no longer wish receive, you can change your preferences in the <a href="customer-login.do">My Account</a> section of CoutureCandy. Alternatively, you can contact customer care and they will be happy to assist you with 'opting-out'. </p>
+<p>Email and mail is an 'opt-in' offering of CoutureCandy. If you have previously opted into a feature that you no longer wish receive, you can change your preferences in the&nbsp;<a href="https://www.couturecandy.com/account.php">My Account</a>&nbsp;section of CoutureCandy. Alternatively, you can contact customer care and they will be happy to assist you with 'opting-out'.</p>
 <p>Please note that some promotions and mailings may be completed in advance of your request to stop sharing information, so you may continue to receive some offers for a short time afterward. We appreciate your patience in giving us time to carry out your request.</p>
-
 <h3>Cookies and How We Use Them</h3>
 <p>A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured server and database.</p>
 <p>We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to CoutureCandy. We use this information to improve our site design, product assortments, customer service, and special promotions.</p>
 <p>We may contract with third parties who use cookies to collect information on our behalf or who provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited by our contract from sharing that information with anyone other than CoutureCandy or our vendors.</p>
-
 <h3>Children's Privacy</h3>
 <p>The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on websites directed at children under 13 that collect information on those children, and on websites that knowingly collect information on children under 13.</p>
 <p>We do not knowingly collect any personal information from children under the age of 13 on our website. Our online sweepstakes are restricted to entrants who are at least 15 years of age.</p>
 <p>No one under the age of 15 should submit any personal information to CoutureCandy without the consent of a parent or guardian.</p>
-
 <h3>Links to Other Sites</h3>
 <p>While visiting CoutureCandy, you may follow links to websites operated by our business partners or other third-parties. A link from CoutureCandy to a third-party site does not mean that we endorse this website. We do not make any representations or warranties about any website you may access from our website; Third party websites are independent from us, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decisions regarding your interactions or communications with any other website.</p>
 <p>If you provide personal information at a third-party website, you are subject to the privacy policy of the operator of that website and not the CoutureCandy privacy policy. We encourage you to read that policy before submitting any personal information.</p>
-
 <h3>Online Account Registration</h3>
 <p>To make online shopping faster and easier, you must register with CoutureCandy. As a registered customer, you only have to enter your shipping addresses and billing information and they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online to add, delete, or change information.</p>
 <p>If you are using a public computer, we strongly encourage you to log out at the conclusion of your session to maintain the integrity of your account. If you log out, your information will still be stored with us but it will not be accessible to anyone else from that computer.</p>
-
 <h3>Emails</h3>
 <p>Each time you receive an email from CoutureCandy, you will be given the opportunity to "opt-out" to stop receiving future emails.</p>
 <p>If you choose to "opt-out," we will stop sending you emails. Please note, however, that some email promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request.</p>
 <p>Please also note, that if you have chosen to "opt-out", you still may receive emails from us, our affiliates, or shipping services, solely related to your online purchases with CoutureCandy.</p>
-
 <h3>Any Questions?</h3>
-<p>We'll be happy to provide additional information or answer any questions. <a href="contact-us.htm">Click here</a> for information on how to contact CoutureCandy.</p>
-			</div>
-
-			<div class="clear"></div>
-
-		</div><!-- .main_col -->
-	</div><!-- .wrap -->
-	<div class="newsletter" style="clear:both;">
-    <div class="wrap">
-    	<span class="text">Subscribe to the CoutureCandy + ADASA Newsletters for New Arrivals + Sale Announcements</span> 
-		<form method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup14537" accept-charset="UTF-8" onsubmit="return verifyRequired14537();">
-<input type="hidden" name="redirect" value="http://www.couturecandy.com">
-<input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html">
-<div id="SignUp">
-        <input type="text" name="fields_email" placeholder="email...">
-    <input type="hidden" name="listid" value="11426">
-    <input type="hidden" name="specialid:11426" value="2VLC">
-    <input type="hidden" name="clientid" value="844149">
-    <input type="hidden" name="formid" value="14537">
-    <input type="hidden" name="reallistid" value="1">
-    <input type="hidden" name="doubleopt" value="0">
-    <input type="submit" name="Submit" value="Subscribe">
+<p>We'll be happy to provide additional information or answer any questions.&nbsp;<a href="http://www.couturecandy.com/contact-us.htm">Click here</a>&nbsp;for information on how to contact CoutureCandy.</p>
+                            
+                        </div>
+                        <div class="Block Moveable Panel" id="PageComments" style="display:none;"></div>
+                        
+                    </div>
+                    <div class="clear"></div>
+                </section>
+            </section>
+            <div style="display:table; width:100%; clear:both;"></div>
+<footer class="footer">        
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="footer-bottom-bottom" style="display:;">
+                    
+                    <div class="footer_center">
+                        
+                        <div class="footer-5col fcol1">
+                            <div class="fcolcenter">
+                                <h4>Help</h4>
+                                <ul class="links">     
+                                    
+                                    <li><a href="/contact-us/">Contact Us</a></li>
+                                     <li><a href="/shopping/">How To Shop</a></li>
+                                     <li><a href="/coupons-and-promotions/">Coupons and Promotions</a></li>
+                                    <li><a href="/shipping-returns/">Shipping, Returns, &amp; Exchanges </a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-5col fcol2 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="fcolcenter">
+                                <h4>Company</h4>
+                                <ul class="links">     
+                                     <li><a href="/about-us/">About</a></li>
+                                    <li><a href="/privacy-policy/">Privacy Policy</a></li> 
+                                    <li><a href="/copyright-information/">Copyright Information</a></li>
+                                    <li><a href="/blog/"> Blog </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-5col fcol3 wow fadeInUp" data-wow-delay="300ms">
+                            <div class="fcolcenter">
+                                <h4>Connect</h4>
+                                <div style="display:table; text-align:left;" id="socialCenterfooter">
+                                    <!-- social_icon -->
+                                        <div id="socnet" class="Block SocialConnect Moveable Panel">
+    <ul>
+        <li><a href="https://www.facebook.com/shopcouturecandy?v=wall" class="icon-social icon-facebook" title="Facebook">Facebook</a></li><li><a href="https://twitter.com/couturecandy1" class="icon-social icon-twitter" title="Twitter">Twitter</a></li><li><a href="http://pinterest.com/couture_candy/" class="icon-social icon-pinterest" title="Pinterest">Pinterest</a></li><li><a href="https://instagram.com/shopcouturecandy/" class="icon-social icon-instagram" title="Instagram">Instagram</a></li>
+        <li><a href="http://couturecandy.polyvore.com/" class="icon-social icon-polyvore" title="Polyvore">Polyvore</a></li>
+    </ul>
 </div>
-</form>
+                                        <br>
+                                   CUSTOMER CARE (855) 531-3811
+                                    <br>
+                                    <a href="https://www.surveymonkey.com/r/CCANDYFEEDBACK" target="_blank" style="margin-left:0px; color:#fff; text-transform:uppercase;">Feedback</a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="footer-5col fcol5 wow fadeInUp" data-wow-delay="400ms">
+                             <div class="fcolcenter">
+                                 <h4>newsletter sign up</h4>
+                                 
+<section class="newsletter-subscription" id="SideNewsletterBox">
+        <div class="innerNewletter">
+            <div class="row">
+            
+            
+            <form action="https://www.couturecandy.com/subscribe.php" method="post" id="subscribe_form" class="subscribe_form col-sm-5" name="subscribe_form">
+                <input type="hidden" name="action" value="subscribe">
+
+                <!--label for="nl_email">newsletter sign up</label-->
+                <div class="inner-form-subscribe">
+                    <input type="hidden" value="Name" id="nl_first_name" name="nl_first_name">
+                    <input class="Textbox autobox" value="email address" id="nl_email" name="nl_email" type="email address">
+                    
+                    <input value="Submit" class="btn" type="submit">
+                </div>
+                
+
+            </form>
+            <div class="footer-top col-sm-7">
+                    <div class="FooterLinkMore">
+                       <!--a href="/" title="Avenues"><span>(1800)-000-avenues </span></a>     
+                        <a href="/about-us/" title="About Us"><span>About Us</span></a>
+                         <a href="/exchange-and-returns/" title="Returns and Exchanges"><span>Returns and Exchanges</span></a>
+                         <a href="/contact-us/" title="Contact Us"><span>Contact Us</span></a -->
+                    </div>                   
+            </div><!-- footer-top END -->
+            </div><!-- row -->
+        </div><!-- innerNewletter -->       
+</section>
 <script type="text/javascript">
-var icpForm14537 = document.getElementById('icpsignup14537');
-if (document.location.protocol === "https:")
-	icpForm14537.action = "https://app.icontact.com/icp/signup.php";
-function verifyRequired14537() {
-  if (icpForm14537["fields_email"].value == "") {
-    icpForm14537["fields_email"].focus();
-    alert("The Email field is required.");
-    return false;
-  }
-return true;
+// <!--
+	$('#subscribe_form').submit(function() {
+		if($('#nl_first_name').val() == '') {
+			alert('You forgot to type in your first name.');
+			$('#nl_first_name').focus();
+			return false;
+		}
+
+		if($('#nl_email').val() == '') {
+			alert('You forgot to type in your email address.');
+			$('#nl_email').focus();
+			return false;
+		}
+
+		if($('#nl_email').val().indexOf('@') == -1 || $('#nl_email').val().indexOf('.') == -1) {
+			alert('Please enter a valid email address, such as john@example.com.');
+			$('#nl_email').focus();
+			$('#nl_email').select();
+			return false;
+		}
+
+		// Set the action of the form to stop spammers
+		$('#subscribe_form').append("<input type=\"hidden\" name=\"check\" value=\"1\" \/>");
+		return true;
+
+	});
+// -->
+</script>
+
+ 
+                                 <br>
+                                 <a target="_blank" title="CoutureCandy.com BBB Business Review" href="https://www.bbb.org/santa-barbara/business-reviews/womens-apparel-retail/couturecandy-com-in-santa-barbara-ca-92000818/#bbbonlineclick"><img alt="CoutureCandy.com BBB Business Review" style="border: 0;" src="https://seal-santabarbara.bbb.org/seals/blue-seal-200-42-whitetxt-couturecandy-com-92000818.png"></a>
+
+
+
+
+                               <!-- webbot  bot="HTMLMarkup" startspan -->
+<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
+                                 <a target="_blank" title="" href="https://smarticon.geotrust.com/smarticonprofile?Referer=https://www.couturecandy.com"><img alt="" style="border: 0;" src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/geotrust.png?t=1453440916"></a>
+<!-- <script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js defer"></script> -->
+
+<!-- yotpo badge                            
+<div id="y-badges" class="yotpo yotpo-badge badge-init">&nbsp;</div>   -->      
+                     
+                                 
+                                 
+           <!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "690901"]);
+  gts.push(["badge_position", "BOTTOM_RIGHT"]);
+  gts.push(["locale", "en_US"]);
+  gts.push(["google_base_offer_id", ""]);
+  gts.push(["google_base_subaccount_id", "108084696"]);
+
+(function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script> 
+
+<!-- END: Google Trusted Stores -->                     
+                                 <br>
+<!-- Norton -->                               
+                              <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications." style="display:none;">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=https://www.couturecandy.com/&amp;size=L&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en" defer=""></script><br>
+<a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</tbody></table>  
+                                 
+                             </div>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="wrapCurrency">                                                     
+                            <div class="Block Moveable Panel" id="SideCurrencySelector" style="display:none;"></div>
+                    </div>                                    
+                </div><!-- footer-bottom-bottom -->               
+                <div class="clear"></div>                          
+                <div class="payment">
+                    <ul>
+                        <li class="pp-1">
+                            <i title="Visa">Visa</i>
+                        </li>
+                        <li class="pp-2">
+                            <i title="American Express">American Express</i>
+                        </li>
+                        <li class="pp-3">
+                            <i title="Master Cart">Master Cart</i>
+                        </li>                        
+                        <li class="pp-4">
+                            <i title="Paypal">Paypal</i>
+                        </li>
+                    </ul>
+                </div><!-- payment END -->
+                
+                <div class="address"></div>
+                            
+                
+            </div>
+         </div> 
+ 
+ <script type="text/javascript">
+   
+    $(document).on("click", ".actionLink a.disBtn", function(){
+    location.reload(true);
+    });  
+     
+     $(document).on("click", "#ModalContainer a.modalClose", function(){
+    location.reload(true);
+    });  
+    
+</script>
+
+</footer>
+
+<!-- HTMLHead files are here due to render-blocking javascript -->
+
+
+<div id="ShippingRetunPopup" class="shippingRpopup">
+<div id="Shipping-Pop" class="shippingPopup" style="display:none;">
+    <div class="shipping-overlay">
+        <div class="shipping-popup-content" style="">
+            <p class="close-shipping-popup" id="Shipping_Return_close">x</p>
+            <div class="center-content">
+                <h3>SHIPPING, RETURNS, &amp; EXCHANGES POLICIES:</h3>
+                
+                <ul id="shippingLinks">
+                    <li><a href="#shippingStart">Shipping Policy</a></li>
+                    <li><a href="#Returnstart">Returns Policy</a></li>
+					<li><a href="#SpecialOccasionPolicy">Special Occasion Dress Policy</a></li>
+                    <li><a href="#Exchangestart">Exchanges Policy</a></li>
+                </ul>
+                
+<h3 id="shippingStart"><strong>Free Ground Shipping on all orders over $149 within the Continental US.</strong></h3>
+<p><span>Every attempt will be made to process and ship your order the day it's received. All US orders are shipped ground via UPS or USPS and should be received within 1-4 business days after processing. Delivery time does not include Saturdays, Sundays or holidays.</span></p>
+<p>Please note that there is a different return policy for Evening Dresses.</p>
+<p>&nbsp;</p>
+<p><strong>PROCESSING GUIDELINES</strong></p>
+<p><span>All orders are processed pending availability and credit card verification. Most orders placed Monday through Friday at 9:00 am PST will begin processing on the same day. Orders placed on Friday after 9:00 am PST and through the weekend will begin processing on the following Monday.</span></p>
+<p><span>CoutureCandy will contact you if it is unable to process and ship your order for any reason, and if additional identification is needed for credit card verification.&nbsp;</span></p>
+<p><span>Most orders are processed within 24 hours. Processing times may be longer for certain items, as referenced on an item's product page.</span></p>
+<p>&nbsp;</p>
+<p><strong>Domestic Shipping Costs and Methods:</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li><span>Free Shipping on US orders over $149<br></span></li>
+<li><span>Shipping fee of $7.95 for order under $149</span></li>
+<li><span>Delivery by Ground Shipping in 1-4 days</span></li>
+<li><span>Within the Continental United States</span></li>
+<li><span>Evening Dresses take 2-5 business days</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Standard Ground Shipping - to Alaska, Hawaii &amp; Canada</strong>&nbsp;</p>
+<ul>
+<li><span>Delivery within in 2-5 business days</span></li>
+<li><span>Hawaii $7.95</span></li>
+<li><span>Alaska $7.95</span></li>
+<li><span>Canada $19.95</span></li>
+<li><span>Allow additional time for order processing (see Processing Guidelines)</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Expedited 2-Day Shipping</strong></p>
+<ul>
+<li><span>Delivery within 2 business days</span></li>
+<li><span>Shipping fee of $24.95 applies</span></li>
+<li><span>Weekend Delivery is not available</span></li>
+<li><span>Allow additional time for order processing (see Processing Guidelines)</span></li>
+<li><span>Shipping to P.O. Box/APO/FPO addresses is based upon confirmation by CoutureCandy Fraud Protection Review.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>International Shipping</strong>&nbsp;</p>
+<ul>
+<li><span>Delivery within in 5-8 business days</span></li>
+<li><span>Generally an International Shipping fee of $39.95 applies to all orders. Some exceptions apply*</span></li>
+<li><span>International shipping charges do not include taxes or duties. Please contact your local customs office to request details of these charges.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span>&nbsp;</span></p>
+<p><strong>International Shipping Policies</strong>&nbsp;</p>
+<p><span>International shipping fees range from $39.95 - $99.95 USD, depending on the country you live in, the shipping service you select, and the weight of your package. If you exchange an item, you will be responsible for shipping charges that apply to the reshipment of the item.</span></p>
+<p><span>International orders are subject to verification upon request. First time international customers may need to submit a copy of their passport to by emailing a scanned copy to cs@couturecandy.com. We apologize for any inconvenience however this is necessary for protection against fraudulent orders.&nbsp;</span></p>
+<p><span>CoutureCandy accepts no risk of merchandise loss due to international shipment. All risk passes to you upon our delivery to the carrier. You may be subject to import duties and taxes once a shipment reaches your country. Additional customs clearance charges must be paid by you; CoutureCandy has no control over these charges and cannot predict what they may be. International orders may be subject to customs clearance procedures which may cause delays beyond original delivery estimates.</span></p>
+<p><span>Customs policies vary widely from country to country; contact your local customs office for more information. When ordering from CoutureCandy, you are considered the "importer of record" and must comply with all laws and regulations of the country in which you are receiving the goods.</span></p>
+<p>&nbsp;</p>
+<p><strong>Refused Shipments</strong></p>
+<p><span>If you choose to refuse your shipments from CoutureCandy, you will be responsible for any duties, taxes and/or customs charges that are incurred on the package, and the cost of returning the package to CoutureCandy. This amount will be deducted from your merchandise refund.</span></p>
+<p>&nbsp;</p>
+
+<p><strong>Privacy</strong>&nbsp;</p>
+<p><span>CoutureCandy takes the utmost of care to ensure your privacy. We would like our international customers to understand that international shipments are subject to opening and inspection by customs authorities. Also, we are required to provide customs authorities with basic shipment and product information.</span></p>
+<p>&nbsp;</p>
+<p><strong><span>Hassle Free Return Policy</span></strong><strong><span>: </span></strong></p>
+<p>We at the CoutureCandy.com want you to be fully satisfied with every item that you purchase. If you are not fully satisfied with an item that you have purchased, you may return the item(s) within 14 days for a full refund of the purchase price, minus the shipping, handling or other charges to the card used to make the purchase.  Some items may have a shorter return period and re-stocking fees, please make sure to check item (s) description first prior to ordering.</p>
+<p class="fst"><span>To return an item (s) please email: <strong>cs@couturecandy.com</strong></span></p>
+<p class="fst"><span>A customer service representative will provide you with a Return Merchandise Authorization (RMA), as well as email a return shipping label to enjoy a hassle free return process. Please note if you chose to use the provided return shipping label the return shipping fees will be deducted from the credit issued to the card used to make your original purchase.</span></p>
+<p><span>If you received a damaged or defective item please contact us immediately by emailing: cs@couturecandy.com</span></p>
+<p><span>Please do not refuse the package or attempt to return it yourself prior to contacting us. We will remedy the situation for you!</span></p>
+<p><span>All item/s must be unworn and unaltered, and all original tags must be attached. Laundered, smoked in, used and worn items will not be accepted.</span></p>
+<p><span>After your request has been submitted and both the RMA and return label electronically received by email, please place the label on the outside of the package in insure safe delivery.  If you chose to use your own shipping carrier make sure to send back via a traceable method having first obtained a return tracking number and RMA from CoutureCandy.com customer service.</span></p>
+<p><span>Returns will not be accepted if you do not first obtain a Return Merchandise Authorization (RMA) from cs@couturecandy.com.</span></p>
+<p>&nbsp;</p><span>---------------------------------------------------------------------</span><p></p>
+
+<h3 id="Returnstart">General Sale Return Policy:</h3>
+<p>CoutureCandy accepts returns for Sale merchandise unless otherwise noted on the specific product page as FINAL SALE.  All item/s must be unworn and unaltered, and all original tags must be attached.  You have 14 days (unless otherwise noted on product page) to return your item (s) for a full refund to the credit card used to make your purchase.</p>
+<p>Any returns which are received after 14 days will be accessed a 10% restocking fee, returns received after 30 days are assessed a 20% restocking fee, and all products received after 60 days will be returned to sender.</p>
+<p><strong>Sale Returns for products with a 30% off discount or more:</strong></p>
+<p>CoutureCandy.com accepts returns which are sold with a discount of 30% or more, however we apply a 10% restocking fee.  This fee will be deducted from the refunded amount and applied to the original form of payment.  Shipping fees, if any, which were applied at purchase are not refunded.</p>
+<p><strong>All Sale Products 70% off or more are Final Sale and will not be refunded:</strong></p>
+
+<p style="text-align: center;" dir="ltr"><span>---------------------------------------------------------------------</span></p>
+
+<h3 id="SpecialOccasionPolicy">Special Occasion / Evening Dress Return Policy</h3>
+
+<p><span>This policy applies to the following brands:</span></p>
+<p dir="ltr"><strong><span>Allure Bridals, Alfred Sung, After Six, Atria, Brit Cameron, BG Haute, Baccio Couture, Cassandra Stone, Dessy, Emma Street, Janique, Jasz Couture, Johnathan Kayne, Jolene &amp; Josh + Jazz, Lara, Lela Rose, Mac Duggal brands, Madison James, MNM Couture, MIGNON, Nicole Bakti, Nina Canacci, 57 Grand, SCALA, Sue Wong, Savee Couture, Sydney's Closet, Tony Bowls.</span></strong></p>
+
+<p>110% PRICE MATCHING GUARANTEE &amp; FREE SHIPPING</p>
+
+<p>Return your evening dress hassle free to us within 3 business days of receiving your package - no questions asked. Upon receipt of your purchase, we will provide the choice of either a Store Credit for the original cost of the item less the freight charges if shipped for free or a Refund to the credit card used to make the purchase less a 10% restocking fee, and any original freight charges. Store credit is valid for one year if chosen. All products must be in original condition, unworn, and with tags attached.</p>
+
+<p dir="ltr"><strong><span>Requesting a Return Authorization (RMA)</span></strong></p>
+<p><span>To return a Evening Dress please contact cs@couturecandy.com for a return authorization number (RMA) and request either Store Credit or Refund. Write the RMA number on the outside of your return package. Our support team will issue you a Return Shipping Label for your convenience usually within one business day of receiving your request and deduct the return shipping amount from your store credit or refund if applicable.</span></p>
+
+<p><span>Packages returned without first obtaining an RMA number will be accepted, but a penalty of 25% percent of the purchase amount will apply so please email our Customer Service team to receive an RA first before returning your package!</span></p>
+
+<p><span>An additional 10% fee will be applied to your Refund or Store Credit if your package is returned after 3 business days of receiving your RMA from cs@couturecandy.com.</span></p>
+
+<p><span>Return Shipping Label (RSL) if used is deducted from your Refund or Store Credit.</span></p>
+
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><strong><span>Store Credit</span></strong></p>
+<p><span>At CoutureCandy.com we want you to be 100% satisfied. Your store credit can be used on any product sitewide without restrictions. Store credits once issued may be redeemed only one time at which point merchandise purchased with a store credit becomes a Final Sale.</span></p>
+<p><span>To use your store credit, simply sign into your account, and checkout as you normally would. At the payment step of checking out, your store credit will automatically be applied.</span></p>
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><strong><span>110% Price Match Guarantee!</span></strong></p>
+<p><span>We offer a price match of 110% on special occasion dresses. If you find the same dress from an authorized retailer we will deduct 10% from your purchase price.</span></p>
+<p><span>To be eligible for a price match, the retailer must be authorized by the designer to sell the item at that price, and they must have the item in stock in that same color and size. This policy excludes sale items.</span></p>
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><strong><span>Return Shipping Labels</span></strong></p>
+<p><span>Return Shipping Labels are issued to US customers only.  All international customers are responsible to pay any and all fees when shipping an item back. (Duties, taxes, etc) - we recommend UPS and select “Free Domicile” when completing the shipping label.</span></p>
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><strong><span>Order Cancellations</span></strong></p>
+<p><span>We understand that you may change your mind about an item selected.  We will gladly cancel any order as long as it has not been processed and shipped. If your selection has been processed and shipped, the order will follow our return policy listed above.</span></p>
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><strong><span>Final Sale</span></strong></p>
+<p><span>Because of the nature of Special Order products, Clearance Dresses, and Bridal Dresses we cannot accommodate any requests for returns or exchanges.</span></p>
+<p><span>Also, all items purchased with an issued store credit become final sale.</span></p>
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><strong><span>Damaged Merchandise</span></strong></p>
+<p><span>If your dress is damaged when you receive it, please contact cs@couturecandy.com the day you receive it for a return label and we will replace it.</span></p>
+<p><span>Your satisfaction is our top priority.  If for any reason you are not satisfied, we will take every measure possible to deliver on our customer promise.  Please use our instant chat, email, or toll free number and our staff will do everything we can to accommodate you.</span>&nbsp;&nbsp;</p>
+<p><span><span>&nbsp;</span></span></p>
+<p style="text-align: center;" dir="ltr"><span>---------------------------------------------------------------------</span></p>
+<p dir="ltr"><strong><span>Swimwear Return Policy</span></strong></p>
+<p dir="ltr"><span>Items must have all original tags and hygienic liners still attached. Please see our fit guides before purchasing from any of our swimwear brands. A complete refund of the purchase price will be applied to your credit card if returned within 14 days of delivery. Any products returned after this period will be accessed a 10% restocking fee.  No refunds to the credit card can be given after 30 days from the date of purchase for swimwear purchases.</span></p>
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr"><strong><span>Price Match Guarantee</span></strong></p>
+<p dir="ltr"><span>CoutureCandy.com agrees to price match up to 110% of the price of a US authorized brand retailers price for all products with the same size, style, and color listed on the CoutureCandy.com site with the "110% Price Match" text ad within the price field of the product.  Not all product are eligible for price matching so please refer to the product page or call Customer Service if you are unsure for qualification.</span></p>
+<p dir="ltr">&nbsp;</p>
+
+<h3 id="Exchangestart">Exchanges:</h3>
+<p dir="ltr"><span>If you want to exchange your item for another size just email cs@couturecandy.com. One of our staff will be happy to place a new order for you and provide a RMA for your previous purchase following our standard return policy.  Please note re-stocking fees may apply, and the shipping cost of returning your original purchase will be deducted from your refunded amount.</span></p>
+<p style="text-align: center;" dir="ltr"><span>---------------------------------------------------------------------</span></p>
+</div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+        $('#Shipping-Pop').hide();
+        
+       $('#show-shipping-popup').click(function(){
+            $('#Shipping-Pop').show();
+        });
+
+        $('#Shipping_Return_close').click(function(){
+           $('#Shipping-Pop').hide();
+        });
+     });
+  </script>
+<div id="SizeChartPopup" class="shippingRpopup">
+<div id="SizeChart-Pop" class="shippingPopup" style="display:none;">
+    <div class="shipping-overlay">
+        <div class="shipping-popup-content" style="">
+            <p class="close-shipping-popup" id="Size_Popup_close">x</p>
+            <div class="center-content">
+                <h2>Size and Fit</h2>
+                <h4 class="BrandName"> Sizing</h4>
+
+                <!-- h4>Standard Sizing</h4 -->
+
+ <div class="ChartSizeBlock StandardChartSizeBlock">
+ <!-- size chart start here.. -->   
+    <ul id="Tabs_New">
+        <li><a href="#USA_Size">USA</a></li>
+        <li><a href="#UK_Size">UK</a></li>
+        <li><a href="#Europe_Size">Europe</a></li>
+        <li><a href="#Russia_Size">Russia</a></li>
+        <li><a href="#China_Size">China</a></li>
+        <li><a href="#Japan_Size">Japan</a></li>
+        <li><a href="#Australia_Size">Australia</a></li>
+        <li><a href="#Brazil_Size">Brazil</a></li>
+        <li><a href="#Korea_Size">Korea</a></li>
+    </ul>
+      
+       <div id="USA_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            <th class="sizeby_country pinit col_us" style="display: table-cell;">USA</th>
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                                <td class="sizeby_country pinit col_us" style="display: table-cell;">0</td>
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                                <td class="sizeby_country pinit col_us" style="display: table-cell;">0 - 2</td>
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                <td class="sizeby_country pinit col_us" style="display: table-cell;">2 - 4</td>
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                <td class="sizeby_country pinit col_us" style="display: table-cell;">6 - 8</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                                <td class="sizeby_country pinit col_us" style="display: table-cell;">8 - 10</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+	<div id="UK_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            <th class="sizeby_country pinit col_gb" "="">UK</th>
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                                <td class="sizeby_country pinit col_uk">4</td>
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                                <td class="sizeby_country pinit col_uk">4 - 6</td>
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                
+                                <td class="sizeby_country pinit col_gb">6 - 8</td>
+                                
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+
+                                <td class="sizeby_country pinit col_uk">10 - 12</td>
+                                
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                                
+                                <td class="sizeby_country pinit col_uk">12 - 14</td>
+                                
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+	     <div id="Europe_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            
+                            <th class="sizeby_country pinit col_eu">Europe</th>
+                            
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                                
+                                <td class="sizeby_country pinit col_eu">32</td>
+                                
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                               
+                                <td class="sizeby_country pinit col_eu">32 - 34</td>
+                                
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                
+                                <td class="sizeby_country pinit col_eu">34 - 36</td>
+                                
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                
+                                <td class="sizeby_country pinit col_eu">38- 40</td>
+                                
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                                
+                                <td class="sizeby_country pinit col_eu">40 - 42</td>
+                                
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+		<div id="Russia_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                           
+                            <th class="sizeby_country pinit col_ru">Russia</th>
+                            
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                                
+                                <td class="sizeby_country pinit col_ru">40</td>
+                                
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                                
+                                
+                                <td class="sizeby_country pinit col_ru">42</td>
+                               
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                               
+                                <td class="sizeby_country pinit col_ru">42 - 44</td>
+                                
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                
+                                <td class="sizeby_country pinit col_ru">46 - 48</td>
+                               
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                                
+                                <td class="sizeby_country pinit col_ru">48 - 50</td>
+                               
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+		<div id="China_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            
+                            <th class="sizeby_country pinit col_cn">China</th>
+                            
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                               
+                                <td class="sizeby_country pinit col_cn">155/76A</td>
+                                
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                                
+                                <td class="sizeby_country pinit col_cn">155/76A - 160/80A</td>
+                                
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                
+                                <td class="sizeby_country pinit col_cn">160/80A - 165/84A</td>
+                                
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                               
+                                <td class="sizeby_country pinit col_cn">170/88A - 175/92A</td>
+                                
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                               
+                                <td class="sizeby_country pinit col_cn">175/92A - 175/95A</td>
+                                
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+		<div id="Japan_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            
+                            <th class="sizeby_country pinit col_jp">Japan</th>
+                            
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                               
+                                <td class="sizeby_country pinit col_jp">3 - 5</td>
+                               
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                               
+                                <td class="sizeby_country pinit col_jp">5 - 7</td>
+                                
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                
+                                <td class="sizeby_country pinit col_jp">7 - 9</td>
+                               
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                
+                                <td class="sizeby_country pinit col_jp">9 - 11</td>
+                               
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                               
+                                <td class="sizeby_country pinit col_jp">11 - 13</td>
+                                
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+		<div id="Australia_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            
+                            <th class="sizeby_country pinit col_au">Australia</th>
+                           
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                                
+                                <td class="sizeby_country pinit col_au">4</td>
+                               
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                                
+                                <td class="sizeby_country pinit col_au">4 - 6</td>
+                               
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                               
+                                <td class="sizeby_country pinit col_au">6 - 8</td>
+                                
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                
+                                <td class="sizeby_country pinit col_au">10 - 12</td>
+                               
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                                
+                                <td class="sizeby_country pinit col_au">12 - 14</td>
+                                
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+		<div id="Brazil_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            
+                            <th class="sizeby_country pinit col_br">Brazil</th>
+                        
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                                
+                                <td class="sizeby_country pinit col_br">34</td>
+                               
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                               
+                                <td class="sizeby_country pinit col_br">34 - 36</td>
+                               
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                
+                                <td class="sizeby_country pinit col_br">36 - 38</td>
+                               
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                
+                                <td class="sizeby_country pinit col_br">40 - 42</td>
+                               
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                              
+                                <td class="sizeby_country pinit col_br">42 - 44</td>
+                              
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+		<div id="Korea_Size" class="tab-section">
+                    <table border="0" cellspacing="0" cellpadding="0" class="sizeguide_table responsive sizeguide_wider_table">
+                        <tbody><tr>
+                            <th class="pinit">Size</th>
+                            
+                            <th class="sizeby_country pinit col_kr">Korea</th>
+                            <th colspan="2">Bust<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Waist<div class="sub">(IN/CM)</div></th>
+                            <th colspan="2">Hips<div class="sub">(IN/CM)</div></th>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XXS</td>
+                               
+                                <td class="sizeby_country pinit col_kr">44</td>
+                                <td>31-32</td>
+                                <td>79-81</td>
+                                <td>24-25</td>
+                                <td>61-63.5</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">XS</td>
+                               
+                                <td class="sizeby_country pinit col_kr">44-55</td>
+                                <td>32.5-33.5</td>
+                                <td>82.5-85</td>
+                                <td>25-26</td>
+                                <td>63.5-66</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">S</td>
+                                
+                                <td class="sizeby_country pinit col_kr">55-66</td>
+                                <td>34-35</td>
+                                <td>86.4-89</td>
+                                <td>26-27</td>
+                                <td>66-68.6</td>
+                                <td>37-38</td>
+                                <td>94-96.5</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">M</td>
+                                
+                                <td class="sizeby_country pinit col_kr">66</td>
+                                <td>35-36</td>
+                                <td>89-91.4</td>
+                                <td>28-29</td>
+                                <td>71-73.7</td>
+                                <td>39-40</td>
+                                <td>99-101.6</td>
+                            </tr>
+                            <tr>
+                                <td class="pinit">L</td>
+                                
+                                <td class="sizeby_country pinit col_kr">77</td>
+                                <td>36-37</td>
+                                <td>91.4-94</td>
+                                <td>29-30</td>
+                                <td>73.7-76.2</td>
+                                <td>40-41</td>
+                                <td>101.6-104</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                      
+ <!-- Standard chart start size End here.. -->  
+            </div> <!--StandardChartSizeBlock-->
+
+
+<div class="ChartSizeBlock ShoesSizeChart" style="display:none;">
+		<h4 class="chart-subtitle">Shoe Sizes</h4>
+		<table class="tbl-shoesChart">
+			<tbody>
+				<tr style="font-weight:bold;"><td style="background:#e4e4e4;">US</td><td style="background:#e4e4e4;">UK</td><td style="background:#e4e4e4;">Europe</td></tr>
+				<tr><td>4</td><td>2</td><td>33.5</td></tr>
+				<tr><td>4.5</td><td>2.5</td><td>34</td></tr>
+				<tr><td>5</td><td>3</td><td>35</td></tr>
+				<tr><td>5.5</td><td>3.5</td><td>35.5</td></tr>
+				<tr><td>6</td><td>4</td><td>36</td></tr>
+				<tr><td>6.5</td><td>4.5</td><td>37</td></tr>
+				<tr><td>7</td><td>5</td><td>37.5</td></tr>
+				<tr><td>7.5</td><td>5.5</td><td>38</td></tr>
+				<tr><td>8</td><td>6</td><td>39</td></tr>
+				<tr><td>8.5</td><td>6.5</td><td>39.5</td></tr>
+				<tr><td>9</td><td>7</td><td>40</td></tr>
+				<tr><td>9.5</td><td>7.5</td><td>41</td></tr>
+				<tr><td>10</td><td>8</td><td>41.5</td></tr>
+				<tr><td>10.5</td><td>8.5</td><td>42</td></tr>
+				<tr><td>11</td><td>9</td><td>43</td></tr>
+				<tr><td>11.5</td><td>10.5</td><td>43.5</td></tr>
+				<tr><td>12</td><td>11</td><td>44</td></tr>
+				<tr><td>12.5</td><td>11.5</td><td></td></tr>
+				<tr><td>13</td><td>12</td><td>45</td></tr>
+			</tbody>
+		</table>
+</div>
+
+
+
+<!-- size chart for Specific Brand start here.. --> 
+
+<!-- Scala Brand --> 
+<div class="ChartSizeBlock ScalaChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/scalachart1.jpg?t=1451214250" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- end Scala Brand Size Section -->
+
+
+<!-- Atria Brand --> 
+<div class="ChartSizeBlock AtriaChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/atriasizechart.jpg?t=1451185039" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+<!-- BG Haute Brand --> 
+<div class="ChartSizeBlock BGHauteChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/bg-haute-size-chart.png?t=1451187075" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+<!-- Johnathan-Kayne Brand --> 
+<div class="ChartSizeBlock JohnathanKayneChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/johnathan-kyne-new-size-chart.png?t=1456460971" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+<!-- Mac Duggal Brand --> 
+<div class="ChartSizeBlock MacDuggalChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/mac-duggal.jpg?t=1451220031" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+<!-- MNM COUTURE Brand --> 
+<div class="ChartSizeBlock MNMCOUTUREChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/mnmcouturesize.jpg?t=1451192888" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+<!-- Nicole Bakti Brand --> 
+<div class="ChartSizeBlock NicoleBaktiChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/nicolebakti.jpg?t=1454078363" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+
+<!-- Corey Lynn Calter Brand --> 
+<div class="ChartSizeBlock CoreyLynnCalterChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/coreylynncalter.png?t=1456459632" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+
+<!-- Jasz Couture Brand --> 
+<div class="ChartSizeBlock JaszcoutureChartSizeBlock" style="display:none;"> 
+       <div style="display:table; width:100%;">
+           <img src="https://cdn3.bigcommerce.com/s-hw6z1b/product_images/uploaded_images/jaszcouture.png?t=1456460035" style="max-width:100%; width:100%;">
+       </div>
+</div> <!-- End  Brand -->
+
+<!-- size chart End here.. --> 
+
+
+          </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+var brandName = '';
+
+switch (brandName) {
+
+case 'SCALA':
+      $('.StandardChartSizeBlock').hide();
+      $('.ScalaChartSizeBlock').show();
+        break;
+    
+case 'Atria':
+      $('.StandardChartSizeBlock').hide();
+      $('.AtriaChartSizeBlock').show();
+       break;
+
+case 'BG Haute':
+      $('.StandardChartSizeBlock').hide();
+      $('.BGHauteChartSizeBlock').show();
+       break;
+
+case 'Johnathan Kayne':
+      $('.StandardChartSizeBlock').hide();
+      $('.JohnathanKayneChartSizeBlock').show();
+       break;
+
+case 'Corey Lynn Calter':
+      $('.StandardChartSizeBlock').hide();
+      $('.CoreyLynnCalterChartSizeBlock').show();
+       break;
+
+case 'Jasz Couture':
+      $('.StandardChartSizeBlock').hide();
+      $('.JaszcoutureChartSizeBlock').show();
+       break;
+
+case 'Nicole Bakti':
+      $('.StandardChartSizeBlock').hide();
+      $('.NicoleBaktiChartSizeBlock').show();
+       break;
+
+case 'Mac Duggal':
+case 'Mac Duggal Couture':
+case 'Mac Duggal Evening Gowns':
+case 'Mac Duggal Plus Size':
+case 'Mac Duggal Prom':
+      $('.StandardChartSizeBlock').hide();
+      $('.MacDuggalChartSizeBlock').show();
+       break;
+
+case 'MNM COUTURE':
+      $('.StandardChartSizeBlock').hide();
+      $('.MNMCOUTUREChartSizeBlock').show();
+       break;
+
+case 'Antelope':
+case 'Dieppa Restrepo':
+case 'Palter DeLiso':
+case 'Martiniano':
+      $('.StandardChartSizeBlock').hide();
+      $('.ShoesSizeChart').show();
+       break;
+
+
+default:
+        $('.StandardChartSizeBlock').show();
+        break;
+}
+
+});
+
+
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+        
+        $('#SizeChart-Pop').hide();
+        
+       $('#SizeChartPopupLink').click(function(){
+            $('#SizeChart-Pop').show();
+        });
+
+        $('#Size_Popup_close').click(function(){
+           $('#SizeChart-Pop').hide();
+        });
+ }); 
+ </script>
+
+<script type="text/javascript">
+$(function(){
+	$('.tab-section').hide();
+	$('#Tabs_New a').bind('click', function(e){
+		$('#Tabs_New a.current').removeClass('current');
+                $('#Tabs_New li').removeClass('selectedList');
+		$('.tab-section:visible').hide();
+		$(this.hash).show();
+		$(this).addClass('current');
+                $(this).parent().addClass('selectedList');
+		e.preventDefault();
+	}).filter(':first').click();
+});
+</script>	;
+<p id="back-top"><a href="#top">Back to Top</a></p>
+
+
+<!-- new javascript files locations -->
+
+<script type="text/javascript">
+    (function(){
+        window.bcanalytics||(window.bcanalytics=[]),window.bcanalytics.methods=["debug","identify","track",
+            "trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group",
+            "on","once","off","initialize"],window.bcanalytics.factory=function(a){return function()
+            {var b=Array.prototype.slice.call(arguments);return b.unshift(a),window.bcanalytics.push(b),
+            window.bcanalytics}};for(var i=0;i<window.bcanalytics.methods.length;i++)
+            {var method=window.bcanalytics.methods[i];window.bcanalytics[method]=window.bcanalytics.factory(method)}
+            window.bcanalytics.load=function(){var a=document.createElement("script");a.type="text/javascript",
+            a.async=!0,a.src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/app/assets/js/vendor/bigcommerce/analytics.min.js";var b=document.getElementsByTagName("script")[0];
+            b.parentNode.insertBefore(a,b)},window.bcanalytics.SNIPPET_VERSION="2.0.8",window.bcanalytics.load();
+        bcanalytics.initialize({"Fornax":{"host":"https:\/\/analytics.bigcommerce.com","cdn":"https:\/\/cdn4.bigcommerce.com\/r-eddaaf95f76dd401420d4c42d5e6151d9b805547\/app\/assets\/js\/vendor\/bigcommerce\/fornax.min.js","defaultEventProperties":{"storeId":871418,"experiments":{"shipping.eldorado.ng-shipment.recharge-postage":"on","shipping.eldorado.label_method":"on","cp2.lightsaber":"on","PMO-439.ng_payments.phase1":"on","PMO-515.ng_payments.phase2":"control","PROJECT-331.pos_manager":"control","PROJECT-632.square_export":"control","PROJECT-756.channel_manager":"control","PROJECT-756.channel_pinterest":"control","PROJECT-756.pinterest_complex_products":"control","PROJECT-783.channel_facebook":"control","PROJECT-783.channel_facebook.disconnect":"control","PROJECT-174.channel_twitter":"control","PROJECT-453.enterprise_apps":"on","PROJECT-885.text-updates":"on","BIG-23634.enable_pricing":"on","CP-78.cp_click_tracking":"control","OMNI-86.products-list":"control","OMNI-86.products-list.channels":"control"}},"defaultContext":{"source":"Bigcommerce Storefront"},"anonymousId":"03e53c42-b93a-4eb5-9655-2845298db175"}});
+    })();
+</script><script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/jquery/plugins/imodal/imodal.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script><script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/jquery/plugins/validate/jquery.validate.js"></script><script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/product.functions.js"></script><script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/product.attributes.js"></script><script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/quickview.js"></script><script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/quickview.initialise.js"></script>
+<script type="text/javascript">
+ShowImageZoomer = false;
+$(document).ready(function() {
+	$(".QuickView").quickview({
+		buttonText: "Quick View",
+		buttonColor: "#f7f7f7",
+		gradientColor: "#dcdbdb",
+		textColor: "#000000"
+	});
+});
+</script><script type="text/javascript">
+    var _user_id = '';
+
+            var _session_id = 'dc82a83f6d6b35844f781b250e45a830';
+
+            var _sift = _sift || [];
+
+            _sift.push(['_setAccount', 'b3186f49de']);
+
+            _sift.push(['_setUserId', _user_id]);
+            _sift.push(['_setSessionId', _session_id]);
+            _sift.push(['_trackPageview']);
+
+            (function() {
+                function ls() {
+                    var e = document.createElement('script');
+                    e.type = 'text/javascript';
+                    e.async = true;
+                    e.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(e, s);
+                }
+                if (window.attachEvent) {
+                    window.attachEvent('onload', ls);
+                } else {
+                    window.addEventListener('load', ls, false);
+                }
+            }());
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+ var gts = gts || [];
+ gts.push(["id", "690901"]);
+ gts.push(["badge_position", "BOTTOM_RIGHT"]);
+ gts.push(["locale", "en_US"]);
+ (function() {
+     var gts = document.createElement("script");
+     gts.type = "text/javascript";
+     gts.async = true;
+     gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+     var s = document.getElementsByTagName("script")[0];
+     s.parentNode.insertBefore(gts, s);
+ })();
+</script>
+<script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/bc_pinstrumentation.min.js"></script>
+<script type="text/javascript" src="https://cdn4.bigcommerce.com/r-eddaaf95f76dd401420d4c42d5e6151d9b805547/javascript/visitor.js"></script>
+
+
+
+<!-- Google Code for Remarketing Tag -->
+<script>
+if(jQuery('#CategoryPagingBottom').length > 0)
+{
+var google_tag_params = {
+ecomm_pagetype: 'category'
+};
 }
 </script>
-        <span class="text"><!--Socialize with usâ€¦--></span> 
-		<a target="_blank" href="http://pinterest.com/couture_candy/"><img src="http://passets-cdn.pinterest.com/images/big-p-button.png" width="24" height="24" alt="Follow Me on Pinterest"></a>
-        <a target="_blank" href="http://www.facebook.com/pages/CoutureCandycom/128351690648?v=wall"><img src="//www.couturecandy.com/imagesnew/facebook.png" width="24" height="24" alt="Facebook"></a> 
-        <a target="_blank" href="http://twitter.com/couturecandy1"><img src="//www.couturecandy.com/imagesnew/twitter.png" width="24" height="24" alt="Twitter"></a> 
-        <div class="clear" style="height:0px; overflow:hidden;"></div>
-    </div>
-    </div><!-- newsletter -->
-    <br>
-<div class="footer_stripe">
-	<div class="wrap">
-    	<ul>
-            <li><a href="http://www.couturecandy.com/certificate.do">GIFT CERTIFICATES</a></li>
-            <li><a href="http://www.couturecandy.com/expertise.jsp">CUSTOMER SERVICE</a></li>
-            <li><a href="http://www.couturecandy.com/returns.jsp">RETURNS &amp; EXCHANGES</a></li>
-            <li><a href="http://www.couturecandy.com/about-us.jsp">ABOUT US</a></li>
-        </ul>
-    </div><!-- wrap -->
-</div><!-- footer_stripe --><br>
-<div class="wrap">
-	<div class="footer">
-    	All Rights Reserved © CoutureCandy 2015 | <a href="http://www.couturecandy.com/privacy-policy.jsp">Privacy Policy</a> | <a href="http://www.couturecandy.com/disclaimer.htm">Conditions of Use</a>
-    </div><!-- footer -->
-</div><!-- wrap -->
-
-
-
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 950821702;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/950821702/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+   
+    
+    <!-- yotpo -->
+    <script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/Mi5S4G8kBf4HYxRQL5Sq6ZbNhltQ6TH3q8K1oXYW/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+</script> 
+    <!-- yotpo End -->
+ 
+   
+</noscript>
+        </section>
+    
 </body></html>
