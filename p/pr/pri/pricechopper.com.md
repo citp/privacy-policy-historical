@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricechopper.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023075537id_/http%3A//www.pricechopper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricechopper.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314062421id_/http%3A//www.pricechopper.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Price Chopper
 
