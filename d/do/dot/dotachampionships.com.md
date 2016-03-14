@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotachampionships.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826212501id_/http%3A//dotachampionships.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotachampionships.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314064220id_/http%3A//dotachampionships.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | DOTA Championships
-
-## Privacy Policy
+# Privacy Policy – DOTA
 
 Posted on [18 July, 2015](http://dotachampionships.com/privacy-policy-2/)
 
