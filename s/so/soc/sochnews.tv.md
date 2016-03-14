@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sochnews.tv privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132843id_/http%3A//www.sochnews.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sochnews.tv privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314190451id_/http%3A//www.sochnews.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Soch News
 
-**Privacy Policy for  [www.sochnews.tv](http://www.sochnewstv.com/)**  
+**Privacy Policy for  www.sochnews.tv**  
 **DMCA:**  
 You can fill online form for  **[DMCA](http://www.sochnews.tv/contact-us/)**  Complaint at  **[Complaint Us](http://www.sochnews.tv/contact-us/)**
 
@@ -12,7 +12,7 @@ Like many other Web sites, http://www.sochnews.tv/ makes use of log files. The i
 we use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to this information. We work with the ad companies: **AdSense** etc. Please check their websites for respective privacy policies.  
 Please note that we strictly do not allow competitive advertisements  
 **Cookies**  
-[http://www.sochnews.tv](http://www.sochnewstv.com/)  does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
+http://www.sochnews.tv  does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
 **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on http://www.sochnews.tv/.  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://www.sochnews.tv/ and other sites on the Internet.  
