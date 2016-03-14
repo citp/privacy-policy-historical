@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forextester.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624212714id_/http%3A//www.forextester.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextester.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314225353id_/http%3A//www.forextester.com/privacy) for the most accurate reproduction.*
 
-# Forex Tester
+# Forex Tester - Privacy Policy
 
 What information do we collect?
 
