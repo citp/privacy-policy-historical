@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontrowshop.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918013922id_/http%3A//www.frontrowshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrowshop.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314013916id_/http%3A//www.frontrowshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Front Row Shop - Home
 
