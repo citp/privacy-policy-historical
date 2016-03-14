@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truckaddons.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210002935id_/http%3A//www.truckaddons.com/orderinfo.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckaddons.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314161505id_/http%3A//www.truckaddons.com/orderinfo.htm%23privacy) for the most accurate reproduction.*
 
 # Ordering Information at TruckAddons.com
 
@@ -26,7 +26,7 @@ Credit card charges will be from _**Truck and Auto Extras**_ , the parent compan
 
 In most cases we will provide you with a tracking number within 3-5 business days of placing your order without having to request it. Most orders are processed and shipped within this time frame.
 
-TruckAddons.com ships from our main warehouse in Lexington Kentucky, but we also ship from multiple warehouses across the country as well as shipping directly from 500+ manufacturers straight to you when needed. This can cause delays in providing the customer a tracking number. Often, customers will receive their order before we are able to supply them their tracking number on drop ship or factory direct orders. If you would like to request a tracking number, please use the [tracking request](https://web.archive.org/web/20151210002935id_/http%3A//www.truckaddons.com/contact/tracking.php) form. 
+TruckAddons.com ships from our main warehouse in Lexington Kentucky, but we also ship from multiple warehouses across the country as well as shipping directly from 500+ manufacturers straight to you when needed. This can cause delays in providing the customer a tracking number. Often, customers will receive their order before we are able to supply them their tracking number on drop ship or factory direct orders. If you would like to request a tracking number, please use the [tracking request](https://web.archive.org/web/20160314161505id_/http%3A//www.truckaddons.com/contact/tracking.php) form. 
 
   
 
@@ -109,7 +109,7 @@ Call Toll Free
   
 
 
-[](https://web.archive.org/web/20151210002935id_/http%3A//www.truckaddons.com/contact/contact.php)
+[](https://web.archive.org/web/20160314161505id_/http%3A//www.truckaddons.com/contact/contact.php)
 
 | 
 
