@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissflow.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407024816id_/https%3A//kissflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissflow.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314152504id_/https%3A//kissflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KiSSFLOW
 
