@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kevkeka.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721123652id_/http%3A//www.kevkeka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kevkeka.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314022911id_/http%3A//www.kevkeka.com/privacy-policy) for the most accurate reproduction.*
 
 # Telugu Movie News | Telugu Movie Reviews | Andhra News & Political Updates - kevkeka.com
 
