@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendyupdates.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811020321id_/http%3A//www.trendyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendyupdates.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314060347id_/http%3A//www.trendyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trendy Updates
 
@@ -19,4 +19,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (Hyperlink this to: http://www.google.com/privacy/ads/
 
-**If you’re using this site then you must agree with Privacy Policy provided above.**
+ **If you’re using this site then you must agree with Privacy Policy provided above.**
