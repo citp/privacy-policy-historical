@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntrainings.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428103955id_/http%3A//www.suntrainings.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntrainings.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054040id_/http%3A//www.suntrainings.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Training courses | Software Online Trainings | BPO | KPO |Bank JOBS Trainings
 
