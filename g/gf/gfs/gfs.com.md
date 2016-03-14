@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920223432id_/https%3A//www.gfs.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314110124id_/https%3A//www.gfs.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gordon Food Service
 
-_Last Modified on June 4, 2014_
+_Last Modified on October 28, 2015_
 
-This Policy explains how we collect, use and protect the information we gather at the GFS.com, siennabakery.com and tradeeastspices.com, websites (collectively "website") that are owned and operated by Gordon Food Service, Inc. and its related companies (collectively, "GFS", "we" or "us").
+This Policy explains how we collect, use and protect the information we gather at the GFS.com, siennabakery.com and tradeeastspices.com, websites (collectively "website") that are owned and operated by Gordon Food Service, Inc. and its subsidiaries and affiliates (collectively, "GFS", "we" or "us").
 
 The website has two sections: a section that is available to the general public, and a section that is restricted to our customers, which we refer to as the Gordon Experience section of the website. While this policy applies generally to both parts of the website, please note that there are sections of this policy that apply only to the Gordon Experience section.
 
