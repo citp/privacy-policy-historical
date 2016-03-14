@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015134634id_/http%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314130526id_/https%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | National Accident Helpline
 
@@ -70,7 +70,7 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 2.3.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
 
-2.3.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.national-accident-helpline.co.uk/terms-conditions](https://web.archive.org/terms-conditions "Home") and other agreements; or to protect the rights, property or safety of National Accident Helpline, our Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
+2.3.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.national-accident-helpline.co.uk/terms-conditions](https://web.archive.org/terms-conditions.html "Home") and other agreements; or to protect the rights, property or safety of National Accident Helpline, our Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
 2.4 We will keep your information for a period of 6 years (or such longer period as we deem reasonably necessary) after which we will take reasonable steps to remove and delete your information from our records and IT systems.
 
