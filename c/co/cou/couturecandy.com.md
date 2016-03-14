@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couturecandy.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906063408id_/http%3A//www.couturecandy.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couturecandy.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314112819id_/https%3A//www.couturecandy.com/privacy-policy) for the most accurate reproduction.*
 
-# CoutureCandy Security and Privacy Policy
+# Privacy Policy
 
-### Information We Collect
+### **Information We Collect  **
 
 When you shop with CoutureCandy you must submit the minimal required information necessary to complete your transaction. This information may include your name, address, telephone number, and email address.
 
@@ -29,14 +29,14 @@ We use the information we collect for various purposes, including:
 When a product you have purchased is fulfilled through a vendor, we will send the information necessary to box and ship your product. Personal credit card information is never released to any company outside CoutureCandy.
 
   * Newsletter Emails: We do not share our newletter email list with anyone.
-  * We do not re-sell personal information with any company or person. 
+  * We do not re-sell personal information with any company or person.
   * We do not share personal information unless necessary to fulfill your order (ie. shipping information).
 
 
 
 ### Secure Ordering
 
-Your online credit card transactions are secure with CoutureCandy. We use Secure Socket Layers (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area. 
+Your online credit card transactions are secure with CoutureCandy. We use Secure Socket Layers (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area.
 
 Making a credit card purchase is just as safe on our website as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1-866-399-2263. Our Customer Care Department will gladly assist you.
 
@@ -50,7 +50,7 @@ This Privacy Policy has been in effect since 6/14/2005.
 
 ### Your Choices Regarding Use of the Information We Collect
 
-Email and mail is an 'opt-in' offering of CoutureCandy. If you have previously opted into a feature that you no longer wish receive, you can change your preferences in the [My Account](https://web.archive.org/web/20150906063408id_/http%3A//www.couturecandy.com/customer-login.do) section of CoutureCandy. Alternatively, you can contact customer care and they will be happy to assist you with 'opting-out'. 
+Email and mail is an 'opt-in' offering of CoutureCandy. If you have previously opted into a feature that you no longer wish receive, you can change your preferences in the [My Account](https://www.couturecandy.com/account.php) section of CoutureCandy. Alternatively, you can contact customer care and they will be happy to assist you with 'opting-out'.
 
 Please note that some promotions and mailings may be completed in advance of your request to stop sharing information, so you may continue to receive some offers for a short time afterward. We appreciate your patience in giving us time to carry out your request.
 
@@ -92,4 +92,4 @@ Please also note, that if you have chosen to "opt-out", you still may receive em
 
 ### Any Questions?
 
-We'll be happy to provide additional information or answer any questions. [Click here](https://web.archive.org/web/20150906063408id_/http%3A//www.couturecandy.com/contact-us.htm) for information on how to contact CoutureCandy.
+We'll be happy to provide additional information or answer any questions. [Click here](http://www.couturecandy.com/contact-us.htm) for information on how to contact CoutureCandy.
