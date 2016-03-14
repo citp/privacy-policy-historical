@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1kad.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007232845id_/http%3A//www.earn1kaday.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1kad.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314150936id_/http%3A//www.earn1kaday.net/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -25,6 +25,8 @@ When you visit a website, you disclose certain information, such as your Interne
 Cookies are pieces of information that are transferred to your computer from a web server. 
 
 We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends.
+
+Additionally, third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads. Users can choose to opt-out of the collection and use of information for ad targeting by going [here](http://www.aboutads.info/choices/).
 
 Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
 
