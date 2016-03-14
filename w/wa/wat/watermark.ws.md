@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908022325id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315003547id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Watermark.ws
 
