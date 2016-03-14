@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearbags.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223092255id_/http%3A//www.clearbags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbags.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314203429id_/http%3A//www.clearbags.com/privacy-policy) for the most accurate reproduction.*
 
 # ClearBags Online Privacy Policy
 
