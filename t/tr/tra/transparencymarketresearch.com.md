@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the transparencymarketresearch.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124023036id_/http%3A//www.transparencymarketresearch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparencymarketresearch.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315002905id_/http%3A//www.transparencymarketresearch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Statement | Transparency Market Research
-
-## Privacy Policy
-
-  
-
 
   * Transparency Market Research is totally committed to keeping client information and personal data secure. We respect your privacy rights and safeguard your personal information at all times. We prevent the use and disclosure of personal information by our employees or any third parties and we require them to maintain security measures similar to ours with respect to such information
   
