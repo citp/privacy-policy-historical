@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebase.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906095815id_/https%3A//www.firebase.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebase.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314170647id_/https%3A//www.firebase.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Firebase
 
@@ -89,7 +89,7 @@ Our Services are not designed for children under 13. If we discover that a child
 
 ### Contact Us
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at support@firebase.com. 
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at firebase-support@google.com. 
 
 ### Changes to this Policy
 
