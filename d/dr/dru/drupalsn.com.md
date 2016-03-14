@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drupalsn.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812125208id_/http%3A//drupalsn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalsn.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314160253id_/http%3A//drupalsn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrupalSN.com
 
 Privacy Policy for [www.drupalsn.com](http://www.drupalsn.com/ "www.drupalsn.com")
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@drupalsn.com](mailto:info%40drupalsn.com). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info [at] drupalsn [dot] com. 
 
 At [www.drupalsn.com](http://www.drupalsn.com/ "www.drupalsn.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.drupalsn.com](http://www.drupalsn.com/ "www.drupalsn.com") and how it is used. 
 
