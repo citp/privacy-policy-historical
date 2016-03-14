@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the brayola.com privacy policy that was archived on 2015-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151012201712id_/http%3A//brayola.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brayola.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314161428id_/http%3A//brayola.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/taB3IiiS5ji8lHFNN4bUCB00ZGHMM3hU1fMk1Jw3/widget.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUCV1NbGwAHXFJTAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+       
 
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUCV1NbGwAHXFJTAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-
-<meta property="og:image" content="http://d158lzw83b9xzs.cloudfront.net/live/static/images/brayola-heart.jpg">         
+    <meta property="og:image" content="http://d158lzw83b9xzs.cloudfront.net/live/static/images/brayola-heart-big.png">         
     
 <!--[if lt IE 9]>
 <script>
@@ -23,42 +23,55 @@ document.createElement('hgroup');
 
 
 <script type="text/javascript">
-    var staticContentHost = "http://d158lzw83b9xzs.cloudfront.net/live";
+    var staticContentHost                           = "http://d158lzw83b9xzs.cloudfront.net/live";
     
-var mydrawer = false;
+var mydrawer                                        = false;
 
 var user = {id: null, connected:false, guest: false};
 
-user.country = '';
-    var live = true;
+user.country = '';var live = true;
 var fbi = {appId: 135735569869732};
 </script>
 
-<link href="http://d158lzw83b9xzs.cloudfront.net/live/static/css/css.css?ver=8.32" media="screen" rel="stylesheet" type="text/css">
-<link href="http://d158lzw83b9xzs.cloudfront.net/live/static/bootstrap/css/bootstrap.css?ver=8.32" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://d158lzw83b9xzs.cloudfront.net/live/static/rcss/bootstrap.min.css" rel="stylesheet">
+    <link href="http://d158lzw83b9xzs.cloudfront.net/live/static/rcss/style.css" rel="stylesheet">
+    <link href="http://d158lzw83b9xzs.cloudfront.net/live/static/rcss/responsive.css" rel="stylesheet">
+    <link href="http://d158lzw83b9xzs.cloudfront.net/live/static/rcss/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://d158lzw83b9xzs.cloudfront.net/live/static/rcss/yamm.css" rel="stylesheet">
+    
+<!--<link href="http://d158lzw83b9xzs.cloudfront.net/live/static/css/css.css?ver=8.72" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://d158lzw83b9xzs.cloudfront.net/live/static/bootstrap/css/bootstrap.css?ver=8.72" media="screen" rel="stylesheet" type="text/css" />-->
 
 <!--[if lt IE 9]>
-<link href="http://d158lzw83b9xzs.cloudfront.net/live/static/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="http://d158lzw83b9xzs.cloudfront.net/live/static/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<title>Privacy policy</title>
+    <title>Privacy policy</title>
 
-<link rel="icon" href="http://d158lzw83b9xzs.cloudfront.net/live/static/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://d158lzw83b9xzs.cloudfront.net/live/static/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://d158lzw83b9xzs.cloudfront.net/live/static/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://d158lzw83b9xzs.cloudfront.net/live/static/favicon.ico" type="image/x-icon">
 
-<script type="text/javascript">var switchTo5x=true;</script>
-<!--<script type="text/javascript">stLight.options({publisher: "31572814-bf37-4981-a217-5ce580ddd1e7"});</script>-->
+    <script type="text/javascript">var switchTo5x=true;</script>
 
-<script type="text/javascript">var version = '?ver=8.32';</script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://d158lzw83b9xzs.cloudfront.net/live/static/general.min.js?ver=8.32"></script>
+    <script type="text/javascript">var version = '?ver=8.72';</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-<link rel="stylesheet" href="http://d158lzw83b9xzs.cloudfront.net/live/static/shop/css/jquery.range.css">
-<script src="http://d158lzw83b9xzs.cloudfront.net/live/static/plugins/jquery.range.min.js"></script>
-
+    <script src="http://d158lzw83b9xzs.cloudfront.net/live/static/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://d158lzw83b9xzs.cloudfront.net/live/static/general.min.js?ver=8.72"></script>
+    
+    <link rel="stylesheet" href="http://d158lzw83b9xzs.cloudfront.net/live/static/shop/css/jquery.range.css">
+    <script src="http://d158lzw83b9xzs.cloudfront.net/live/static/plugins/jquery.range.min.js"></script>
+    
+    <script type="text/javascript">
+        (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/taB3IiiS5ji8lHFNN4bUCB00ZGHMM3hU1fMk1Jw3/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+    </script>
+    
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-    
+    <div id="fb-root"></div>
     
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -92,1307 +105,460 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
     
 <script type="text/javascript">var WRInitTime=(new Date()).getTime();</script>
-<div id="fb-root"></div>
 
-<div class="container">
-    
-    
-    
+
+    <a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up"></i></a>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&version=v2.5";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <header>
+                <nav class="navbar navbar-default yamm navbar-fixed-top">
+            <div class="container-fluid">
+                <section class="col-md-10 hide" id="search">
+                    <form action="http://shop.brayola.com/search" onsubmit="return doValidation()">
+                        <input type="hidden" name="type" value="product">
+                        <label for="search-input"><i class="fa fa-search submit"></i></label>
+                        <input id="search-input" name="q" class="form-control input-lg" placeholder="What are you looking for?" autocomplete="off" spellcheck="false" autocorrect="off" tabindex="1">
+                        <a id="search-clear" href="#" class="fa fa-times"></a>
+                    </form>
+                </section>
+                <section id="main-navigation">
+                    <div class="popup-background"></div>
+                    <div class="navbar-header pull-left">
+                        <button id="mobile-collapse" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div id="navbar" class="navbar-collapse collapse navbar-left">
+                            <div class="nav-container">
+                                <ul class="nav navbar-nav">
+                                    <!--<li class="active"><a href="/">MY BRA SHOP</a></li>-->
+                                    <li class="dropdown yamm-fw no-hover-protect my-brayola">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MY BRAYOLA <span class="caret"></span></a>
+                                        <ul class="dropdown-menu small">
+                                            <li>
+                                                <div class="yamm-content">
+                                                    <ul class="">
+                                                        <li><a href="/addnewbra">my profile</a></li>
+                                                        <li><a href="/addnewbra">my bra shop</a></li>
+                                                        <li><a href="/addnewbra">my wishlist</a></li>
+                                                        <li><a href="/addnewbra">add new bra</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown yamm-fw hover-protect shop">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SHOP <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <div class="yamm-content">
+                                                    <ul class="col-md-2">
+                                                        <li class="header"><a href="http://shop.brayola.com/collections/bras">bras</a></li>
+                                                        <li><a class="pink" href="http://shop.brayola.com/collections/new-arrivals-1">new arrivals</a></li>
+                                                        <li><a href="/sizes">shop by size</a></li>
+                                                        <li><a href="/styles">shop by style</a></li>
+                                                        <li><a href="/brands">shop by brand</a></li>
+                                                        <li><a href="http://shop.brayola.com/collections/bras">best sellers</a></li>
+                                                        <li><a href="/bras-trending-now">bras trending now</a></li>
+                                                    </ul>
+                                                    <ul class="col-md-2">
+                                                        <li class="header"><a href="http://shop.brayola.com/collections/top-rated-bras">top collections</a></li>
+                                                        <li><a href="http://shop.brayola.com/collections/sexy-lingerie">sexy lingerie</a></li>
+                                                        <li><a href="http://shop.brayola.com/collections/bra-and-panty-sets">bra &amp; panty sets</a></li>
+                                                        <li><a href="http://shop.brayola.com/collections/best-wire-free-bras">best wire free</a></li>
+                                                        <li><a class="pink" href="http://shop.brayola.com/collections/clearance">clearance</a></li>
+                                                    </ul>
+                                                    <ul class="col-md-8 categories-images">
+                                                        <div class="hidden-md hidden-lg">
+                                                            <li class="col-md-8">
+                                                                <div class="first-row">
+                                                                    <div class="col-xs-12 col-md-6">
+                                                                        <a href="http://shop.brayola.com/collections/bras">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/bras.png">
+                                                                        </a>
+
+                                                                    </div>
+                                                                    <div class="col-xs-12 col-md-6">
+                                                                        <a href="http://shop.brayola.com/collections/panties">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/panties.png">
+                                                                        </a>
+
+                                                                    </div>
+                                                                </div>
+                                                                <div class="second-row">
+                                                                    <div class="col-xs-12 col-md-6">
+                                                                        <a href="http://shop.brayola.com/collections/bras-on-sale-1">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/sale.png">
+                                                                        </a>
+
+                                                                    </div>
+                                                                    <div class="col-xs-12 col-md-6">
+                                                                        <a href="http://shop.brayola.com/collections/shapewear">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/shapewear.png">
+                                                                        </a>
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li class="col-xs-12 col-md-4">
+                                                                <a href="http://shop.brayola.com/collections/sexy-lingerie">
+                                                                    <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/sexy-lingerie-image.png">
+                                                                </a>
+                                                            </li>
+                                                        </div>
+                                                        <table class="hidden-xs hidden-sm">
+                                                            <tbody>
+                                                                <tr class="images-row">
+                                                                    <td class="left-image">
+                                                                        <a href="http://shop.brayola.com/collections/bras">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/bras.png">
+                                                                        </a> 
+                                                                    </td>
+                                                                    <td class="right-image">
+                                                                        <a href="http://shop.brayola.com/collections/panties">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/panties.png">
+                                                                        </a>
+                                                                    </td>
+                                                                    <td class="big-image" rowspan="2">
+                                                                        <a href="http://shop.brayola.com/collections/sexy-lingerie">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/sexy-lingerie-image.png">
+                                                                        </a>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr class="images-row">
+                                                                    <td class="left-image">
+                                                                        <a href="http://shop.brayola.com/collections/bras-on-sale-1">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/sale.png">
+                                                                        </a>
+                                                                    </td>
+                                                                    <td class="right-image">
+                                                                        <a href="http://shop.brayola.com/collections/shapewear">
+                                                                            <img align="center" alt="" class="kmImage" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/menu/shapewear.png">
+                                                                        </a>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>    
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="fitornot hidden-sm"><a href="/fitornot"><span class="brayola-pink">FIT</span> <span class="brayola-gray">OR</span> NOT</a></li>
+                                </ul>
+                            </div>
+                        </div><!--/.nav-collapse -->
+                    </div>
+                    <div class="navbar-header pull-left">
+                        <a class="navbar-brand" href="/">
+                            <img src="http://d158lzw83b9xzs.cloudfront.net/live/static/fonts/brayola_logo.svg">
+                        </a>
+                    </div>
+                    <div class="navbar-header pull-right right-side-nav">
+                        <ul class="nav navbar-nav pull-right">
+                            <li class="search hidden-xs"><span class="search-icon-container">search</span><i class="search-icon fa fa-search"></i></li>
+
+                            <li><a href="http://shop.brayola.com/cart" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                            
+                                                        <li class="login-signup-container">
+                                <div class="login-signup visible-md-block visible-lg-block"><a href="/addnewbra">JOIN</a> / <a href="/login">LOGIN</a></div>
+                                <div class="login-signup-small dropdown yamm-fw visible-xs-block visible-sm-block">
+                                    <span class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-user"></i></span>
+                                    <ul class="dropdown-menu popup">
+                                        <li>
+                                            <div class="yamm-content">
+                                                <ul class="col-xs-12">
+                                                    <li><a href="/addnewbra">join</a></li>
+                                                    <li><a href="/login">login</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                                        </li>
+                        </ul>
+                    </div>
+                </section>
+            </div>
+            <div class="search-small visible-xs-block">
+                <form action="http://shop.brayola.com/search" onsubmit="return doValidationSmall()">
+                    <input type="hidden" name="type" value="product">
+                    <i class="fa fa-search submit"></i>
+                    <input id="search-input-small" name="q" class="form-control input-lg" placeholder="What are you looking for?" autocomplete="off" spellcheck="false" autocorrect="off" tabindex="1">
+                </form>
+            </div>
+        </nav>
+    </header>
     <div class="bb"></div>
     <div id="current_bra"></div>
-    <header>
-    
-<link href="http://d158lzw83b9xzs.cloudfront.net/live/static/css/navigation.css?ver=8.32" media="screen" rel="stylesheet" type="text/css">
-
-<style>
-
-header{
-  height: 90px;
-  margin-bottom: 0px;
-}
-
-header li {
-  float: left;
-}
-
-</style>
-
-<style>
-    .circle_button{
-        background: url('http://d158lzw83b9xzs.cloudfront.net/live/static/layout/images/circle.png');
-    }
-    .bra_icon{
-        background: url('http://d158lzw83b9xzs.cloudfront.net/live/static/layout/images/bra.png');
-    }
-    .profile_icon{
-        background: url('http://d158lzw83b9xzs.cloudfront.net/live/static/cyd/images/arrow_d.png') bottom center no-repeat;
-    }
-</style>
-
- <div class="first_menu">
-     <div class="log_header"><span class="join_now member" style="font-size:16px;font-weight:normal">Join</span>/<span class="sign_in member" style="font-size:16px;font-weight:normal">Login</span> </div>
-    <div class="fbwrapper" style="float: right;">
-        <fb:like href="https://www.facebook.com/BrayolaCommunity" [^]="" show_faces="false" font="arial" width="90px" data-layout="button_count"></fb:like>
-    </div>
-    <div id="support">
-        <a href="tel: 18889788723">1.888.978.8723</a>&nbsp;<span>(Mon-Fri 9am - 5pm EST)</span>
-    </div>
- <!--    <div id="support">
-        <a href="tel: 18009788723">1 (800) 978-8723</a>
-    </div>-->
-    <div id="search">
-        <form method="get" action="http://shop.brayola.com/search"> 
-            <input type="hidden" name="type" value="product">
-            <input type="submit" id="go" value="go">
-            <input id="searchbra" type="text" name="q" placeholder="Search Bras..." value="" style="">
-        </form>
-    </div>
- </div>
-<div style="clear: both;"></div>
-<div class="second_menu">
-    <div class="menu_holder">
-        <div class="logo_holder_logged"><a href="/" class="logo">brayola logo</a></div>
-        <nav id="menu" style="height: 33px;line-height: 33px;">
-            <ul id="nav" class="navbar">
-                                            <li class="my_d_nl_l"><a href="/">My Bra Matches</a></li>
-                <li class="my_d_nl"><a href="/addnewbra">My Profile</a></li>
-                            
-                <li><a href="/sales">Top Sales</a></li>
-                <li class="dropdown" id="shopby">
-                    <a href="/shop">Shop By</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="/brands">Bra Brands</a></li>
-                        <li><a href="/styles">Bra Styles</a></li>
-                        <li><a href="/bra-sizes">Bra Sizes</a></li>
-                        <li><a href="/bras-trending-now">Bras Trending Now</a></li>
-                    </ul>
-                </li>
-                <li id="fitornot" style="font-weight: bold;"><a href="/fitornot"><span style="color: #ea1d93;">Fit</span> <span style="color: #a8a8a8;">Or</span> <span style="color: #19222b;">Not</span></a></li>
-                <li><a class="wfb" href="/bmodel">bModel</a></li>
-                <li><a class="wfb" href="/rewards">Rewards</a></li>
-                <!--<li><a id="braconverter" href="javascript:void()">Bra Size Converter</a></li>-->
-                <li style="margin-right:0px;">
-                   <a target="_blank" href="http://shop.brayola.com/cart"><span class="checkout">My Cart</span></a>
-                </li>
-            </ul>
-        </nav>
-
-    </div>
-</div>
-    </header>
-    <div class="header_border" style="margin-top: 30px; margin-bottom: 5px;">&nbsp;</div>
-    <style>
-
-    .main {clear: both; width: 988px; margin-left: 155px;}
-    nav.main ul {list-style:square inside none;}
-
-    nav.main ul {margin:0;}
-    nav.main li {margin:0; display:block; float:left;}
-    nav.main li a {margin:0; display:block;}
-    nav.main ul { list-style:none; }
-    /*nav.main {margin-bottom:20px;}*/
-    nav.main li a {padding:5px 25px; font-size: 15px; font-weight: 600; color: #19222b; }
-    nav.main li a:first-child {padding-left: 0;}
-    nav.main li a:hover {text-decoration: underline;}
-    nav.main li {margin:0;}
-    nav.main li a.current, nav li.active a {color:#555555; background:#f8f8f8; }
-    /* dropdown */
-    nav.main li {position:relative; /*z-index:12000 !important;*/}
-    /*nav.main li.dropdownshop { z-index: 99999; }*/
-    nav.main li.dropdownshop > a {padding-right:20px; margin-right:5px; background:url('http://d158lzw83b9xzs.cloudfront.net/live/static/images/nav-dropdown.png') no-repeat 93% 50%;}
-    nav.main li.dropdownshop > a.current { background:#f8f8f8 url('http://d158lzw83b9xzs.cloudfront.net/live/static/images/nav-dropdown.png') no-repeat 93% 50%; color:#555555;}
-    nav.main li ul {z-index:10000 !important; position:absolute; text-align:center; min-width:100%; top:100%; display:none; opacity:0.0; background:url('http://d158lzw83b9xzs.cloudfront.net/live/static/images/details-bg.png') no-repeat 50% 0; padding-top:4px;}
-    nav.main li ul li, nav li ul li a {display:block; margin:0; padding:0; float:none;}
-    nav.main li ul li a {padding:3px 10px; font-style:italic; text-transform:lowercase; font-size:12px; line-height:18px; font-family:"Georgia", serif; color:#fff;}
-    nav.main li ul li a.current {background:none !important; color:#fff !important;}
-    nav.main li ul li a:hover {color:#aaa;}
-    nav.main input[name='q'] {width: 130px; border: 1px solid #d8d8d8; padding: 0px 10px; border-radius: 18px; -moz-border-radius: 18px; -webkit-border-radius: 18px;}
-    nav.main li.cy {float: right;}
-</style>
-
-<script>
-    $(document).ready(function(){
-        $("li.dropdownshop").hover(function(){
-            $(this).children('ul.dropdownshop').show();
-            $(this).children('ul.dropdownshop').stop();
-            $(this).children('ul.dropdownshop').animate({
-              opacity: 1.0
-            }, 200);
-        }, function(){
-            $(this).children('ul.dropdownshop').stop();
-            $(this).children('ul.dropdownshop').animate({
-              opacity: 0.0
-            }, 400, function(){
-              $(this).hide();
-            });
-      });
-    });
-</script>    
-    <div class="third_menu">
-        <nav class="main">
-        <ul class="clearfix">
-          <li><a target="_blank" href="http://shop.brayola.com/collections/new-arrivals-1"><span>NEW</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/collections/25-off-family-friends-1"><span>SALE</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/collections/bras"><span>BRAS ♥</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/collections/bra-and-panty-sets"><span>SETS</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/collections/sexy-lingerie"><span>SEXY LiNGERIE</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/collections/panties"><span>PANTIES</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/collections/shapewear"><span>SHAPEWEAR</span></a>
-<!--            <ul class="dropdownshop">
-                <li><a target="_blank" href="http://shop.brayola.com/collections/full-body">full body</a></li>
-                <li><a target="_blank" href="http://shop.brayola.com/collections/waist-cinchers-fajas-shapewear">WAIST CINCHERS</a></li>
-                <li><a target="_blank" href="http://shop.brayola.com/collections/sexy-shapewear">SEXY & SLIP</a></li>
-                <li><a target="_blank" href="http://shop.brayola.com/collections/high-waist">High Waist</a></li>
-                <li><a target="_blank" href="http://shop.brayola.com/collections/long-leg-shapers">Long Leg</a></li>
-                <li><a target="_blank" href="http://shop.brayola.com/collections/vests-shapers">Vests</a></li>
-            </ul>-->
-          </li>
-          <!--<li><a target="_blank" href="http://shop.brayola.com/collections/swimwear"><span>SWIMWEAR</span></a></li>-->
-          
-          <!--<li><a target="_blank" href="http://shop.brayola.com/collections/activewear"><span>ACTIVEWEAR</span></a></li>-->
-          <!--<li><a target="_blank" href="http://shop.brayola.com/collections/holiday-shop"><span>GIFTS</span></a></li>-->
-          <li><a target="_blank" href="http://shop.brayola.com/collections/clearance-bras"><span>CLEARANCE</span></a></li>
-          <li><a target="_blank" href="http://shop.brayola.com/pages/free-shipping"><span>FREE SHIPPING</span></a></li>
-<!--          <li class="fr cy">
-            <form target="_blank" id="search_form" class="searchform" name="search" action="http://shop.brayola.com/search">
-                <input type="text" class="replace" name="q" placeholder="Search..." value="" />
-            </form>
-          </li>-->
-<!--          <li style="margin-right:0px;">
-            <a target="_blank" href="http://shop.brayola.com/cart"><span class="checkout">My Cart</span></a>
-         </li>-->
-        </ul>
-        </nav>
-    </div>    <div class="header_border">&nbsp;</div>
-    
-    <div id="connectDialog">
-    <div class="content" style="margin-bottom: 10px;">
-        <div class="loginPanel panel">
-            <div class="loginHead">Login to Brayola</div>
-<!--            <div style="text-align: left;margin-bottom: 10px;">
-                not a member yet? <a href="#" class="join_now">join now</a>
-            </div>-->
-            <form id="LoginForm" enctype="application/x-www-form-urlencoded" class="LoginForm" action="/user/account/login" method="post">
-                <p class="error"></p>
+    <main class="main-content" role="main">
+        <div class="sub-menu-container">
+            <div class="blur-indicator"></div>
+            <span class="ellipsis">...</span>
+            <div class="sub-menu">
                 <ul>
-                    <li style="margin:25px 0;font-size: 22px;">Login</li>
-                    <li class="dontshowme"><input type="text" name="dontshowme"></li>
-                    <li class="nickname">
-                        <input type="email" name="email" id="email" class="validate[required]" placeholder="Email / Brayola username">
-                    </li>
+                    <li><a href="http://shop.brayola.com/collections/new-arrivals-1">new</a></li>
+                    <li><a href="http://shop.brayola.com/collections/bras-on-sale-1">sale</a></li>
+                    <li><a href="http://shop.brayola.com/collections/bras">bras</a></li>
+                    <li><a href="http://shop.brayola.com/collections/bra-and-panty-sets">sets</a></li>
+                    <li><a href="http://shop.brayola.com/collections/sexy-lingerie">sexy lingerie</a></li>
+                    <li><a href="http://shop.brayola.com/collections/panties">panties</a></li>
+                    <li><a href="http://shop.brayola.com/collections/shapewear">shapewear</a></li>
+                    <li><a href="http://shop.brayola.com/collections/clearance">clearance</a></li>
+                    <li><a href="http://shop.brayola.com/pages/free-shipping">free shipping</a></li>
+                </ul>
+            </div>
+        </div>
+            
+    <section class="row get-started-area">
+    <div class="col-xs-12">
+        <h1 class="brayola-pink">Brayola Privacy Policy</h1>
+        <section class="col-xs-11 center-block textpage">
+            <p>
+            This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at 
+            <a href="http://brayola.com/terms">brayola.com/terms</a>.
+            </p>
+            <h2>
+                Brayola’s Commitment to Privacy
+            </h2>
+            <p>
+            Brayola respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains Brayola’s policy regarding the collection, use, disclosure and protection of Personal Information. The terms of this privacy policy apply to information collected from you unless different terms are specified as part of a special offer or in another form or contract we provide you.
+            </p>
+            <h2>
+                What is Personal Information?
+            </h2>
+            <p>
+            “Personal Information” is information that can be directly associated with a specific person or entity such as a person’s name, address, telephone number, e-mail address, credit card number, or information about activities directly linked to that person, such as his or her purchases (through affiliate programs). Personal Information also includes information that you may choose to provide to us, such as your educational, medical and employment history profile. 
+            Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed.  In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no Personal Information will be included in the resulting data. Likewise, information about the products or services you use or purchase may be collected and combined with information about the products and services used or purchased by others, but no Personal Information will be included in the resulting data. Aggregate data helps understand trends and customer needs so that new products and services can be considered and so existing products and services can be tailored to customer desires.
+            </p>
+            <h2>
+                Collection of Personal Information
+            </h2>
+            <p>
+            We collect Personal Information that you provide us, such as when you:
+            register to use the Site or Services;
+            post or submit any content on the Site or Services, or any conversation between users;
+            use links to third party websites
+            contact us for any reason.
+            We may automatically collect some information when you use the Site or Services, such as your computer’s IP address, operating system, the site from which you linked to us, and the time and date of your visit, your searching history, the sites to which you were linked thorough the Site, and activities. We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with Brayola. 
+            </p>
+            <h2>
+                Use of Personal Information
+            </h2>
+            <p>
+                The personal information we collect is used to process your requests or transactions, to provide you high quality service, to customize your use of the Site or Services according to your preferences, and to tell you about specific goods or services we believe will be of interest to you.  If you prefer not to receive promotional information from us, we make it easy for you to let us know. You can contact us at any time to decline promotional information (see under the heading “Choice” below). 
+            </p>
+            <h2>
+                Use of Personal Information
+            </h2>
+            <p>
+            Brayola does not sell, rent, share, or disclose Personal Information to third parties without your prior consent, except in the limited circumstances described in this statement. 
+            </p>
+            <h2>
+                Communities
+            </h2>
+            <p>
+            If you use any of the features of the Site or Services, please remember that any information disclosed in these venues may be automatically made public, even without your knowledge or authorization. You should exercise caution when disclosing any information, including Personal Information, in such venues, as you do not know who will access or use such information and for what purposes. Brayola is in no way responsible for the accuracy, use or misuse of any information, including Personal Information, which you disclose in such venues.
+            </p>
+            <h2>
+                Other Disclosures
+            </h2>
+            <p>
+            In addition, we may disclose Personal Information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Brayola, our customers, or the public.  Information about our customers, including Personal Information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
+            </p>
+            <h2>
+                Protection of Personal Information
+            </h2>
+            <p>
+            Brayola has put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorized access.
+            Further, when you enter personal information online, that information is encrypted using a security software called SHA1. SHA1 encrypts all information before it is sent over the Internet, including passwords to Brayola accounts.
+            Account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person.  If other people have access to your email, they may be able to obtain access to your password and obtain personal information about you, or change information about your user profile. You may not want to use an email account operated by an employer because many employers have the legal right to access such email accounts.
+            </p>
+            <h2>
+                Choice
+            </h2>
+            <p>
+            By registering you agree to receive promotional messages from Brayola. If at any time you wish to stop receiving promotional information from Brayola, you may opt out by:
+            E-Mailing us at support@brayola.com; or
+            Accessing your registration information and checking the box that allows you to opt out of receiving promotional emails. 
+            </p>
+            <h2>
+                Aggregate Information
+            </h2>
+            <p>
+            Brayola appreciates the importance of safeguarding the privacy of your personal information that may be provided to us.  However, Brayola does use and disclose de-identified aggregate information for the purposes of evaluating and improving our services and tailoring our products. Brayola may choose at its sole discretion to transfer, sell, provide or share such information with third parties, including with Brayola’s business partners for commercial purposes, and by providing any information to Brayola you consent to such provision of de-identified aggregate information to any third party.
+            </p>
+            <h2>
+                What Are Cookies and Are You Required to Accept Them?
+            </h2>
+            <p>
+            Cookies are small files that are stored on your computer. We use cookies to help optimize your use of the Site.  For example, we use cookies to customize our home page for you and to better display pages according to your browser type. When you make a purchase cookies allow us to better maintain the status of your account.  
+            </p>
+            <h2>
+                Use of the Site by Children
+            </h2>
+            <p>
+                Brayola does not knowingly collect personally identifiable information from children under the age of 13, and you must be 18 years of age or older in order to establish an account.  Parents are able to set up accounts for their children.   In this way verifiable parental consent is required in order to register a child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby represents and warrants that he or she is the parent or legal guardian of such child, and has the authority to provide information and render consents on behalf of such child. In the event you become aware that an individual under the age of 13 has enrolled without parental permission, please advise us immediately. 
+            </p>
+            <h2>
+                Online Links to Other Sites
+            </h2>
+            <p>
+                By searching an item shown on the Site, you may be taken to a site of a third party. In addition, Brayola members or users can link to other webs of third parties that provide useful information, or who have agreed to offer goods and services to Brayola members. Any personal information you provide on the linked pages is provided directly to this third-party and is subject to that third party’s provider’s privacy policy.
+                Except as described above, Brayola is not responsible for the content or privacy practices of Web sites to which we link. Links to third party or other sites are provided for your convenience. We encourage you to learn about the privacy practices of each Web site before providing them with personal information.
+            </p>
+            <h2>
+                Updating, Reviewing or Correcting Personal Information
+            </h2>
+            <p>
+                You may update, review or correct your on-line account information at any time online by accessing your password-protected registration page. You may also e-mail us at support@brayola.com. 
+            </p>
+            <h2>
+                Questions or Concerns
+            </h2>
+            <p>
+                If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can e-mail us at support@brayola.com.
+            </p>
+            <h2>
+                Changes to this Statement
+            </h2>
+            <p>
+                Brayola reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
+            </p>
+        </section>
+    </div>
+</section>
+                <section class="container-fluid like-strip">
+                <p class="row">
+                    <a class="col-xs-4" href="https://shop.brayola.com/pages/free-shipping"><i class="fa fa-truck hidden-xs"></i>Free Shipping</a>
+                    <a class="col-xs-4" href="tel://1.844.443.5021"><i class="fa fa-phone hidden-xs"></i>1.844.443.5021 (Mon-Fri 9am - 5pm EST)</a>
+                    <span class="col-xs-4">
+                        <i class="fa fa-heart hidden-xs"></i>Give Us Some Love&nbsp;<fb:like href="https://www.facebook.com/BrayolaCommunity" [^]="" show_faces="false" font="arial" width="90px" data-layout="button_count"></fb:like>
+                    </span>
+                </p>
+            </section>
+            <section class="social">
+                <div class="row">follow us</div>
+                <div class="row">
+                    <a title="twitter" target="_blank" href="https://twitter.com/brayolashop"><i class="fa fa-twitter"></i></a>
+                    <a title="facebook" target="_blank" href="https://www.facebook.com/BrayolaCommunity"><i class="fa fa-facebook"></i></a>
+                    <a title="instagram" target="_blank" href="https://instagram.com/brayola/"><i class="fa fa-instagram"></i></a>
+                    <a title="google+" target="_blank" href="https://plus.google.com/+BrayolaCommunity/posts"><i class="fa fa-google-plus"></i></a>
+                    <a title="pinterest" target="_blank" href="https://www.pinterest.com/brayola/"><i class="fa fa-pinterest-p"></i></a>
+                </div>
+            </section>
+            <section class="container-fluid testimonial">
+                <div class="row">
+                    <div class="yotpo yotpo-reviews-carousel" data-mode="top_rated" data-type="both" data-count="99" data-show-bottomline="1" data-autoplay-enabled="1" data-autoplay-speed="6000" data-show-navigation="1" data-header-customisation-enabled="1" data-header-customisation-text="Real Reviews From Real Customers" data-header-customisation-font-size="18" data-header-customisation-color="#222" data-header-customisation-alignment="left" data-background-color="#f8f8f8">&nbsp;</div>
+                </div>
+<!--                <blockquote class="col-md-4">
+                    <p class="text">
+                        &#8220;I don't know if there's anything I dislike shopping for as much as bras. Happily, I found Brayola. My order arrived within the week, and the fit is perfect. Thanks for simplifying my life!&#8221;
+                    </p>
+                    <footer>
+                        <div class="avatar avatar-center avatar-image"><img src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/testimonials/Patty.jpg" title="Patty's Testimonial" alt="Patty's Testionial" /></div>
+                        <p>Patty</p>
+                    </footer>
+                </blockquote>
+                <blockquote class="col-md-4">
+                    <p class="text">
+                        &#8220;Thank you Brayola for a pretty well- fitting bra. Shopping with you was easy and convenient. The size suggested by you was spot on. The bra is attractive and extremely comfortable.&#8221;
+                    </p>
+                    <footer>
+                        <div class="avatar blue avatar-center"><i class="fa fa-user"></i></div>
+                        <p>Lynn G</p>
+                    </footer>
+                </blockquote>
+                <blockquote class="col-md-4">
+                    <p class="text">
+                        &#8220;I have a hard time finding bras that fit because my back is small and the Tata's are large!! Thanks Brayola I love my bra and will buy from you again!&#8221;
+                    </p>
+                    <footer>
+                        <div class="avatar avatar-center avatar-image"><img src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/testimonials/Lisa.jpg" title="Lisa's Testimonial" alt="Lisa's Testionial" /></div>
+                        <p>Lisa D</p>
+                    </footer>
+                </blockquote>-->
 
-                    <li class="password">
-                        <input type="password" name="password" id="password" class="validate[required]" placeholder="Password">
-                    </li>
-                        
-                    <li class="rememberme">
-                        <label class="checkbox checked">
-                            <input type="checkbox" id="rememberme" name="rememberme" checked="checked" value="true" style="position: absolute;left: -9999px;">
-                            <div class="box" style="display: block;margin: -3px 5px 0 0;"></div>
-                            <div class="label" style="font-size: 14px;line-height: 15px;font-weight: normal">
-                            Remember Me
+            </section>
+            <footer class="container-fluid">
+                <div class="footer-links col-xs-12">
+                    <div class="col-xs-10 xs-center-block col-sm-6 col-md-3 footer-links-container">
+                        <header>Get to know us</header>
+                        <nav>
+                            <ul class="nav">
+                                <li><a href="/aboutus">About Us</a></li>
+                                <li><a href="/howitworks">How it Works</a></li>
+                                <li><a href="http://blog.brayola.com/">Our Blog</a></li>
+                                <li><a href="/jobs">Jobs</a></li>
+                                <li><a href="/bmodel">See real sizes, on real women</a></li>
+                                <li><a href="/are-you-a-brand-supplier">Are You a Brand or Supplier?</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-xs-10 xs-center-block col-sm-6 col-md-3 footer-links-container">
+                        <header>Things to know</header>
+                        <nav>
+                            <ul class="nav">
+                                <li><a href="http://shop.brayola.com/products/gift-card">Buy a Gift Card</a></li>
+                                <li><a href="/men">From Him to Her</a></li>
+                                <li><a href="/sales">Hot Sales</a></li>
+                                <li><a href="/rewards">Brayola Rewards</a></li>
+                                <li><a href="/brands">Brands We Love</a></li>
+                                <li><a href="/recent-bra-comments">Recent Bra Comments</a></li>
+                                <li><a href="/brasizeconverter">international sizes</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-xs-10 xs-center-block col-sm-6 col-md-3 footer-links-container">
+                        <header>Here to Help</header>
+                        <nav>
+                            <ul class="nav">
+                                <li><a href="http://help.brayola.com/hc/en-us/articles/205170982-How-do-I-contact-you-">Contact Us</a></li>
+                                <li><a href="http://help.brayola.com/hc/en-us/sections/201627322-Returns">Returns</a></li>
+                                <li><a href="https://shop.brayola.com/pages/free-shipping">Shipping &amp; Handling</a></li>
+                                <li><a href="http://help.brayola.com/hc/en-us">FAQ</a></li>
+                                <li><a href="/privacy">Privacy Policy</a></li>
+                                <li><a href="/terms">Terms</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-xs-10 xs-center-block col-sm-6 col-md-3 footer-links-container">
+                        <header>Shop Confidently</header>
+                        <nav>
+                            <div>
+                                <p>We want you to feel safe, secure and confident at Brayola.</p>
+                                <div class="payment-methods-wrapper">
+                                    <img class="col-xs-4" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/amex.png">
+                                    <img class="col-xs-4" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/discover.png">
+                                    <img class="col-xs-4" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/visa.png">
+                                    <img class="col-xs-4" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/mastercard.png">
+                                    <img class="col-xs-4" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/maestro.png">
+                                    <img class="col-xs-4" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/paypa.png">
+                                    <div class="secure-imgs-wrapper">  
+                                        <span id="siteseal">
+                                            <img src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/godaddy-siteseal.gif">
+                                        </span>
+                                        <a href="https://www.shopify.com/?utm_source=secure&amp;utm_medium=shop" title="This online store is secured by Shopify" target="_blank">
+                                            <img class="shopify-secure" src="//cdn.shopify.com/s/images/badges/shopify-secure-badge-light-shadow.png" alt="Shopify secure badge">
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
-                            <a href="#" class="forgotpasslink">I forgot my password</a>
-                        </label>
-                    </li>
-                    <li>
-                        
-
-                        <div class="nbuttonsignin nbutton submit" style="float: left;height: 28px;">Sign In</div>
-                        <div style="float:left; margin-bottom:0px; margin-top: 40px; font-size: 13px;">
-                            Not a member yet? <a href="#" class="join_now">Sign Up</a>
-                        </div>
-                    </li>
-                </ul>
-                <ul>
-                    <li style="margin:25px 0;font-size: 22px;">or Connect with</li>
-                    <li>
-                        <div class="nbutton facebook fbconnect" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important"><span>Connect with Facebook</span><div class="facebookicon"></div></div>
-                </li>
-                <li>
-                    <div class="nbutton google" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important"><span>Connect with Google</span><div class="gborder"></div><div class="gbordercont"></div>
-                </div></li>
-                    <li style="font-size: 13px; width: 235px;margin-top: 10px">
-                            We use social connections for login purposes only. 
-                    </li>
-
-                </ul>
-            </form>
-            
-
-<!--            <div style="float: right; font-size: 11px; text-align: center; font-weight: bold;">girls, only for log in purposes everything remains private</div>-->
-
-        </div>
-        
-        <div class="sign_upPanel panel">
-<!--        <div style="text-align: center; margin-right: 20px;margin-bottom:10px;">step 2 of 2 to get your personal bra shop!</div>-->
-            <div class="zomaar loginHead" style="font-size: 30px;margin-bottom:10px;margin-top:10px"> Create your account to discover perfect bras that fit you </div>
-            <form id="RegisterForm" enctype="application/x-www-form-urlencoded" class="RegisterForm" action="/user/account/register/" method="post">
-                <input style="display: none;" type="hidden" class="preGuest" name="preGuest" value="">
-            <p class="error"></p>    
-            <ul>
-                <li style="margin:25px 0;font-size: 22px;">Sign Up</li>
-                <li class="dontshowme"><input type="text" name="dontshowme"></li>
-                <li class="nickname">
-                    <input type="text" name="nickname" id="anickname" class="validate[required,ajax[userAvailability]]" placeholder="Choose your username">
-                    <div class="nickname_available icon"></div>
-                    <div class="tiny_spinner icon"></div>
-                </li>
-                <li class="email">
-                    <input type="email" name="email" id="aemail" class="validate[required,custom[email],ajax[emailAvailability]]" placeholder="Email@address.com">
-                    <div class="nickname_available icon"></div>
-                    <div class="tiny_spinner icon"></div>
-                </li>
-                <li class="password">
-                    <input type="password" name="password" id="password2" class="validate[required,minSize[6],maxSize[24]]" placeholder="Password">
-                    <div class="tiny_spinner icon"></div>
-                </li>
-                <li>
-                    <div class="nbuttonsignin nbutton submit" style="float: left;height: 28px;margin-top:0px">Join Now</div>
-                    <div style="float: left; margin-bottom: 10px; margin-top: 40px; font-size: 13px;">
-                        Already a member? <a href="#" class="sign_in">Log in</a>
+                        </nav>
                     </div>
-                </li>
-            </ul>
-            <ul>
-                <li style="margin:25px 0;font-size: 22px;">or Connect with</li>
-                <li>
-                    <div class="nbutton facebook fbconnect" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important;"><span>Connect with Facebook</span><div class="facebookicon"></div></div>
-                </li>
-                <li><div class="nbutton google" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important;"><span>Connect with Google</span><div class="gborder"></div><div class="gbordercont"></div></div></li>
-                <li style="font-size: 13px; width: 235px;margin-top: 10px">
-                          We use social connections for login purposes only.  <br><br><b>We don't share your info - only you can share it.</b>
-                </li>
-<!--                <li style="display:none">
-                    <span id="skip"> skip for now </span>
-                </li>-->
-
-            </ul>
-            </form>
-            
-            <div class="suretoclose">
-                <div style="font-weight:bold; margin-top: -10px;margin-right: 20px;margin-bottom: 20px;"> look what you'll <span style="color:#FF13A6;">miss out</span> on if you don't register:</div>
-                <p>
-                    1. Free "Perfect Match" bra suggestions<br>
-                    2. Chat with women just like you<br>
-                    3. Special offers on bras that fit you<br><br>
-                </p>
-                <p>
-                    Have we convinced you to join?<br><br>
-                </p>
-                <div class="dono" style="text-decoration: underline; cursor: pointer; float: left; margin-right: 20px; color: #ff13a6;">yes, I want to register</div>
-                <div class="doyes" style="text-decoration: underline; cursor: pointer; float: left; color: #ff13a6;">no, not interested</div>
-
-<!--                <p style="font-size:15px;margin-bottom: 20px;">
-                    <b>are you sure you don't want to save your drawer?</b><br/>If you don't save your brayola drawer all the bras you've added will be lost
-                </p>
-                <ul>
-                    <li>
-                        <div class="doyes" style="text-decoration: underline; cursor: pointer; float: left; margin-right: 20px; color: #ff13a6;">yes I'm sure</div>
-                        <div class="dono" style="text-decoration: underline; cursor: pointer; float: left; color: #ff13a6;">cancel</div>
-                    </li>
-                </ul>-->
-            </div>
-
-
-        </div>
-
-
-            <div class="youtubePanel" style="margin-top:20px">
-
-            </div>
-
-        <div id="forgotpass" class="panel forgotpassPanel">
-            <div class="content">
-                <form action="/user/account/forgotpassword/">
-                <ul>
-                    <li>
-                        <p style="padding-top: 14px;font-size: 17px">Enter your email and we'll reset your password</p>
-                    </li>
-                    <li class="email">
-                        <p class="error">Invalid email address</p>
-                        <input type="email" id="forgotpassemail" name="email" class="validate[required,custom[email]]" placeholder="Email@address.com">
-                    </li>
-                    <li>
-                        <div style="top:0px;width:92px;height:30px;line-height:30px" class="send nbutton submit">         
-                                Send
-                        </div>
-                    </li>
-                </ul>
-                </form>
-                
-            </div>
-
-            <div class="thankyou">
-                <p style="font-size:15px">An email has been sent to you with a link to reset your password</p>
-            </div>
-            <div class="nouser" style="padding-left:80px">
-                <p style="font-size:15px">The email entered is not registered</p>
-            </div>
-            
-        </div>
-        
-        
-        
-        <div class="cfybPanel panel">
-            <div class="content">
-                <div style="font-weight:bold; margin-bottom: 10px;text-align:center;font-size:17px">Can't find your bra in our list?</div>
-            <form action="/user/drawer/cantfindyourbra/">
-            <ul>
-                <li>
-                    <p style="width:350px;margin-bottom:10px;">Tell us about your bra</p>
-                </li>
-                <li>
-                     <span class="cfyspan">
-                        Brand Name
-                    </span>
-                  <span class="label1"><input type="text" name="cfb_brand_name" id="cfb_brand_name" class="cfyinput" placeholder="eg, Victoria's Secret"></span>
-                </li>
-                <li>
-                    <span class="cfyspan">
-                        Bra Name    
-                    </span>
-                    <span class="label1"><input type="text" name="cfb_bra_name" id="cfb_bra_name" class="cfyinput" placeholder="eg, BombShell / 125422"></span>
-                    
-                </li>
-                <li>
-                     <span class="cfyspan">
-                       Size
-                    </span>
-                   <span class="label1"><input type="text" name="cfb_bra_size" id="cfb_bra_size" class="cfyinput" placeholder="eg, 32D"></span>
-                </li>
-                <li>
-                    <textarea style="width:364px;" name="msg" class="text" rows="1" tabindex="-1" cols="10" placeholder="Any extra info, write here"></textarea>
-                </li>
-                <li>
-                     <span class="cfyspan">
-                       Link To Image
-                    </span>
-                   <span class="label1"><input type="text" name="cfb_bra_image" id="cfb_bra_image" class="cfyinput" placeholder="Link to bra"></span>
-                </li>
-                <li>
-                    <p>
-                        Security Check <br>
-                        <span class="smallerSec">Type the characters you see below</span>
-                    </p>
-                </li>
-                <li>
-                     <img class="captcha" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/captchaSearch.png" alt="captcha">
-                     <div class="captcharefresh"></div>
-                     <img class="small_loader" src="http://d158lzw83b9xzs.cloudfront.net/live/static/drawers/images/form_loader.gif" width="24" height="24" title="" alt="">
-                </li>
-                <li>
-                    <input class="captchaInput" type="text" name="captcha[input]" placeholder="type the code">
-                    <input type="hidden" value="" class="hCaptcha" name="captcha[id]">
-                </li>
-                            <li>
-                    <p class="email" style="clear: both;margin-top: 10px; display: block; ">
-                      
-                    </p>
-                </li>
-                <li class="email">
-                    
-                    <p class="error">Invalid email address</p>
-                    <p style="text-align:left">Enter your email address and we'll get back to you!</p>
-                    <br>
-                        <input style="width:361px" type="email" class="email" name="email" value="" placeholder="email@address.com">
-                </li>
-                            <li>
-                    <div style="float:right;margin-right:9px;top:0px;width:80px;height:30px;line-height:30px" class="send nbutton submit">
-                        send
-                    </div>
-                </li>
-            </ul>
-            </form>
-            </div>
-                
-            <div class="thankyou">
-                <p style="font-size:15px;margin-bottom: 20px; margin-top: 10px;">
-                    Your bra has been added! We'll let you know when you have recommendations in your personal shop!
-                </p>
-            </div>
-                
-        </div>
-        
-         <div class="bylwPanel panel">
-            <div class="content">
-                <div style="font-weight:bold; margin-bottom: 10px;text-align:center;font-size:17px">Can't create a profile?</div>
-            <form action="/user/drawer/donthavebrayoulove/">
-            <ul>
-                <li>
-                    <p style="width:400px;margin-bottom:10px;">
-            If you can't create a profile because you cannot read the label, don't wear a bra, or any other reason, just let us know. We'll help you create a profile.  </p>
-                </li>
-                <li>
-                    <textarea style="width:400px;" name="msg" class="text" rows="1" tabindex="-1" cols="10" placeholder="Write here any description of the bra, where you bought it, size etc."></textarea>
-                </li>
-                <li>
-                    <p>
-                        Security Check <br>
-                        <span class="smallerSec">Type the characters you see below</span>
-                    </p>
-                </li>
-                <li>
-                     <img class="captcha" src="http://d158lzw83b9xzs.cloudfront.net/live/static/images/captchaSearch.png" alt="captcha">
-                     <div class="captcharefresh"></div>
-                     <img class="small_loader" src="http://d158lzw83b9xzs.cloudfront.net/live/static/drawers/images/form_loader.gif" width="24" height="24" title="" alt="">
-                </li>
-                <li>
-                    <input class="captchaInput" type="text" name="captcha[input]" placeholder="type the code">
-                    <input type="hidden" value="" class="hCaptcha" name="captcha[id]">
-                </li>
-                            <li>
-                    <p class="email" style="clear: both;margin-top: 10px; display: block; ">
-                      
-                    </p>
-                </li>
-                <li class="email">
-                    
-                    <p class="error">Invalid email address</p>
-                    <p style="text-align:left">Enter your email address and we'll get back to you!</p>
-                    <br>
-                        <input style="width:400px" type="email" class="email" name="email" value="" placeholder="email@address.com">
-                </li>
-                            <li style="width: 400px">
-                    <div style="float:right;margin-right:9px;top:0px;width:80px;height:30px;line-height:30px" class="send nbutton submit">
-                        send
-                    </div>
-                </li>
-            </ul>
-            </form>
-            </div>
-                
-            <div class="thankyou">
-                <p style="font-size:15px;margin-bottom: 20px; margin-top: 10px;">
-                    Thanks for telling us! One of our experts will email you soon!
-                </p>
-            </div>
-                
-        </div>
-        
-        <div class="pickSecretNamePanel panel">
-            <div class="content">
-                <div style="font-weight:bold; margin-bottom: 10px;">Choose your username</div>
-            <form action="/user/account/picksecretname">
-                <input style="display: none;" type="hidden" class="preGuest" name="preGuestPickName" value="">
-            <ul>
-                <li>
-                    <p class="email" style="clear: both;margin-top: 10px; display: block; ">
-                    <input type="text" name="nickname" id="anickname2" placeholder="Type username here">
-                    </p><div class="nickname_available icon"></div>
-                    <p></p>
-                </li>
-
-                <li>
-                    <div style="top:0px;width:92px;height: 30px;line-height:30px" class="send nbutton submit">
-                        send
-                    </div>
-                </li>
-            </ul>
-            </form>
-            </div>
-                
-                
-        </div>
-
-        <div class="inviteFriendPanel panel">
-            <div id="inviteMessage">
-<!--                <div style="font-weight:bold; margin-bottom: 10px;text-align: center;" class="caption">
-                    want to win a free bra & panty set?<br/>
-                    invite your best friend to join brayola
-                </div>-->
-                <form id="EmailInviteForm" class="EmailInviteForm" action="/user/account/invitefriend" method="post">
-                    <p class="error"></p>
-                    <ul>
-                        <li style="margin-top: 20px; font-size: 20px;">
-                            Want to win a <span style="color: #ff13a6;">free bra &amp; panty set?</span><br>
-                            Invite your <span style="color: #ff13a6;" title="best friend forever">BFF</span> to join brayola<br>
-                        </li>
-                        <li class="nickname" style="width: 450px;">
-                            <div style="float: left; width: 243px; margin-top: 30px; font-size: 14px;">
-                                <input style="width: 100%;" placeholder="Enter your best friend's email" type="email" name="email" id="bffemail" class="validate[required,custom[email]]">
-                                <div class="nbutton submit" style="top:15px;height: 30px; width: 160px;line-height: 30px ;font-size: 18px;">Send Invitation</div>
-                                <div style="clear: both;">&nbsp;</div>
-                            </div>
-                            <img style="float:right;" src="http://d158lzw83b9xzs.cloudfront.net/live/static/index/images/brayola-gifts.png" width="150" height="167" title="" alt="">
-                        </li>
-                        <li>
-                            <span class="cancelFriendInvite">Don't show me this message again</span>
-                        </li>
-                    </ul>
-                </form>
-            </div>
-            <ul class="invitationDone">
-                <li style="font-size: 16px;">
-                    Thanks for inviting your BFF!<br>
-                    You have now been entered into the lucky draw :) 
-                </li>
-                <li>
-                    <div class="inviteDoneClose" style="height: 30px; width: 250px; font-size: 18px;">Continue Shopping</div>
-                </li>
-            </ul>
-        </div>
-        
-        <div id="generalMessage" class="panel generalMessagePanel">
-            <div class="content">
-                <p></p>
-            </div>
-        </div>
-                    
-            <div id="converter" class="panel converterPanel">
-            <div class="content">
-                <ul>
-                                        <li style="text-align: center; width: 90% !important; margin-top: -25px; margin-bottom: 20px; font-size: 22px;">Bra Size Converter</li>
-                    <li style="width: 100% !important;">
-                        <p>
-                            Not sure which size you are? Use our quick and easy international bra size converter, to convert your size to US sizes. 
-                            <br><br>
-                            Some of the brands we sell use UK sizes, so you can find out what size you need here.
-                        </p>
-                    </li>
-                                        <li>
-                        <label for="convertUS">US</label>
-                        <select name="convertUS" id="convertUS" class="doConvert">
-                            <option value="0">30AA</option>
-                            <option value="1">30A</option>
-                            <option value="2">30B</option>
-                            <option value="3">30C</option>
-                            <option value="4">30D</option>
-                            <option value="5">30DD</option>
-                            <option value="6">30DDD/E</option>
-                            <option value="7">30F</option>
-                            <option value="8">30G</option>
-                            <option value="9">30H</option>
-                            <option value="10">30I</option>
-                            <option value="11">32AA</option>
-                            <option value="12">32A</option>
-                            <option value="13">32B</option>
-                            <option value="14">32C</option>
-                            <option value="15">32D</option>
-                            <option value="16">32DD</option>
-                            <option value="17">32DDD/E</option>
-                            <option value="18">32F</option>
-                            <option value="19">32G</option>
-                            <option value="20">32H</option>
-                            <option value="21">32I</option>
-                            <option value="22">34AA</option>
-                            <option value="23">34A</option>
-                            <option value="24">34B</option>
-                            <option value="25">34C</option>
-                            <option value="26">34D</option>
-                            <option value="27">34DD</option>
-                            <option value="28">34DDD/E</option>
-                            <option value="29">34F</option>
-                            <option value="30">34G</option>
-                            <option value="31">34H</option>
-                            <option value="32">34I</option>
-                            <option value="33">36AA</option>
-                            <option value="34">36A</option>
-                            <option value="35">36B</option>
-                            <option value="36">36C</option>
-                            <option value="37">36D</option>
-                            <option value="38">36DD</option>
-                            <option value="39">36DDD/E</option>
-                            <option value="40">36F</option>
-                            <option value="41">36G</option>
-                            <option value="42">36H</option>
-                            <option value="43">36I</option>
-                            <option value="44">38AA</option>
-                            <option value="45">38A</option>
-                            <option value="46">38B</option>
-                            <option value="47">38C</option>
-                            <option value="48">38D</option>
-                            <option value="49">38DD</option>
-                            <option value="50">38DDD/E</option>
-                            <option value="51">38F</option>
-                            <option value="52">38G</option>
-                            <option value="53">38H</option>
-                            <option value="54">38I</option>
-                            <option value="55">40AA</option>
-                            <option value="56">40A</option>
-                            <option value="57">40B</option>
-                            <option value="58">40C</option>
-                            <option value="59">40D</option>
-                            <option value="60">40DD</option>
-                            <option value="61">40DDD/E</option>
-                            <option value="62">40F</option>
-                            <option value="63">40G</option>
-                            <option value="64">40H</option>
-                            <option value="65">40I</option>
-                            <option value="66">42AA</option>
-                            <option value="67">42A</option>
-                            <option value="68">42B</option>
-                            <option value="69">42C</option>
-                            <option value="70">42D</option>
-                            <option value="71">42DD</option>
-                            <option value="72">42DDD/E</option>
-                            <option value="73">42F</option>
-                            <option value="74">42G</option>
-                            <option value="75">42H</option>
-                            <option value="76">42I</option>
-                            <option value="77">44AA</option>
-                            <option value="78">44A</option>
-                            <option value="79">44B</option>
-                            <option value="80">44C</option>
-                            <option value="81">44D</option>
-                            <option value="82">44DD</option>
-                            <option value="83">44DDD/E</option>
-                            <option value="84">44F</option>
-                            <option value="85">44G</option>
-                            <option value="86">44H</option>
-                            <option value="87">44I</option>
-                        </select>
-                    </li>
-                    <li>
-                        <label for="convertUK">UK</label>
-                        <select name="convertUK" id="convertUK" class="doConvert">
-                            <option value="0">30A</option>
-                            <option value="1">30B</option>
-                            <option value="2">30C</option>
-                            <option value="3">30D</option>
-                            <option value="4">30DD</option>
-                            <option value="5">30E</option>
-                            <option value="6">30F</option>
-                            <option value="7">30G</option>
-                            <option value="8">30H</option>
-                            <option value="9">30I</option>
-                            <option value="10">30J</option>
-                            <option value="11">32A</option>
-                            <option value="12">32B</option>
-                            <option value="13">32C</option>
-                            <option value="14">32D</option>
-                            <option value="15">32DD</option>
-                            <option value="16">32E</option>
-                            <option value="17">32F</option>
-                            <option value="18">32G</option>
-                            <option value="19">32H</option>
-                            <option value="20">32I</option>
-                            <option value="21">32J</option>
-                            <option value="22">34A</option>
-                            <option value="23">34B</option>
-                            <option value="24">34C</option>
-                            <option value="25">34D</option>
-                            <option value="26">34DD</option>
-                            <option value="27">34E</option>
-                            <option value="28">34F</option>
-                            <option value="29">34G</option>
-                            <option value="30">34H</option>
-                            <option value="31">34I</option>
-                            <option value="32">34J</option>
-                            <option value="33">36A</option>
-                            <option value="34">36B</option>
-                            <option value="35">36C</option>
-                            <option value="36">36D</option>
-                            <option value="37">36DD</option>
-                            <option value="38">36E</option>
-                            <option value="39">36F</option>
-                            <option value="40">36G</option>
-                            <option value="41">36H</option>
-                            <option value="42">36I</option>
-                            <option value="43">36J</option>
-                            <option value="44">38A</option>
-                            <option value="45">38B</option>
-                            <option value="46">38C</option>
-                            <option value="47">38D</option>
-                            <option value="48">38DD</option>
-                            <option value="49">38E</option>
-                            <option value="50">38F</option>
-                            <option value="51">38G</option>
-                            <option value="52">38H</option>
-                            <option value="53">38I</option>
-                            <option value="54">38J</option>
-                            <option value="55">40A</option>
-                            <option value="56">40B</option>
-                            <option value="57">40C</option>
-                            <option value="58">40D</option>
-                            <option value="59">40DD</option>
-                            <option value="60">40E</option>
-                            <option value="61">40F</option>
-                            <option value="62">40G</option>
-                            <option value="63">40H</option>
-                            <option value="64">40I</option>
-                            <option value="65">40J</option>
-                            <option value="66">42A</option>
-                            <option value="67">42B</option>
-                            <option value="68">42C</option>
-                            <option value="69">42D</option>
-                            <option value="70">42DD</option>
-                            <option value="71">42E</option>
-                            <option value="72">42F</option>
-                            <option value="73">42G</option>
-                            <option value="74">42H</option>
-                            <option value="75">42I</option>
-                            <option value="76">42J</option>
-                            <option value="77">44A</option>
-                            <option value="78">44B</option>
-                            <option value="79">44C</option>
-                            <option value="80">44D</option>
-                            <option value="81">44DD</option>
-                            <option value="82">44E</option>
-                            <option value="83">44F</option>
-                            <option value="84">44G</option>
-                            <option value="85">44H</option>
-                            <option value="86">44I</option>
-                            <option value="87">44J</option>
-                        </select>
-                    </li>
-                    <li>
-                        <label for="convertEU">EU</label>
-                        <select name="convertEU" id="convertEU" class="doConvert">
-                            <option value="0">65A</option>
-                            <option value="1">65B</option>
-                            <option value="2">65C</option>
-                            <option value="3">65D</option>
-                            <option value="4">65E</option>
-                            <option value="5">65F</option>
-                            <option value="6">65G</option>
-                            <option value="7">65H</option>
-                            <option value="8">65I</option>
-                            <option value="9">65J</option>
-                            <option value="10">65K</option>
-                            <option value="11">70A</option>
-                            <option value="12">70B</option>
-                            <option value="13">70C</option>
-                            <option value="14">70D</option>
-                            <option value="15">70E</option>
-                            <option value="16">70F</option>
-                            <option value="17">70G</option>
-                            <option value="18">70H</option>
-                            <option value="19">70I</option>
-                            <option value="20">70J</option>
-                            <option value="21">70K</option>
-                            <option value="22">75A</option>
-                            <option value="23">75B</option>
-                            <option value="24">75C</option>
-                            <option value="25">75D</option>
-                            <option value="26">75E</option>
-                            <option value="27">75F</option>
-                            <option value="28">75G</option>
-                            <option value="29">75H</option>
-                            <option value="30">75I</option>
-                            <option value="31">75J</option>
-                            <option value="32">75K</option>
-                            <option value="33">80A</option>
-                            <option value="34">80B</option>
-                            <option value="35">80C</option>
-                            <option value="36">80D</option>
-                            <option value="37">80E</option>
-                            <option value="38">80F</option>
-                            <option value="39">80G</option>
-                            <option value="40">80H</option>
-                            <option value="41">80I</option>
-                            <option value="42">80J</option>
-                            <option value="43">80K</option>
-                            <option value="44">85A</option>
-                            <option value="45">85B</option>
-                            <option value="46">85C</option>
-                            <option value="47">85D</option>
-                            <option value="48">85E</option>
-                            <option value="49">85F</option>
-                            <option value="50">85G</option>
-                            <option value="51">85H</option>
-                            <option value="52">85I</option>
-                            <option value="53">85J</option>
-                            <option value="54">85K</option>
-                            <option value="55">90A</option>
-                            <option value="56">90B</option>
-                            <option value="57">90C</option>
-                            <option value="58">90D</option>
-                            <option value="59">90E</option>
-                            <option value="60">90F</option>
-                            <option value="61">90G</option>
-                            <option value="62">90H</option>
-                            <option value="63">90I</option>
-                            <option value="64">90J</option>
-                            <option value="65">90K</option>
-                            <option value="66">95A</option>
-                            <option value="67">95B</option>
-                            <option value="68">95C</option>
-                            <option value="69">95D</option>
-                            <option value="70">95E</option>
-                            <option value="71">95F</option>
-                            <option value="72">95G</option>
-                            <option value="73">95H</option>
-                            <option value="74">95I</option>
-                            <option value="75">95J</option>
-                            <option value="76">95K</option>
-                            <option value="77">100A</option>
-                            <option value="78">100B</option>
-                            <option value="79">100C</option>
-                            <option value="80">100D</option>
-                            <option value="81">100E</option>
-                            <option value="82">100F</option>
-                            <option value="83">100G</option>
-                            <option value="84">100H</option>
-                            <option value="85">100I</option>
-                            <option value="86">100J</option>
-                            <option value="87">100K</option>
-                        </select>
-                    </li>
-                    <div class="newset"></div>
-                    <li>
-                        <label for="convertNZ">Australia / NZ</label>
-                        <select name="convertNZ" id="convertNZ" class="doConvert">
-                            <option value="0">8AA</option>
-                            <option value="1">8A</option>
-                            <option value="2">8B</option>
-                            <option value="3">8C</option>
-                            <option value="4">8D</option>
-                            <option value="5">8DD</option>
-                            <option value="6">8E</option>
-                            <option value="7">8F</option>
-                            <option value="8">8G</option>
-                            <option value="9">8H</option>
-                            <option value="10">8I</option>
-                            <option value="11">10AA</option>
-                            <option value="12">10A</option>
-                            <option value="13">10B</option>
-                            <option value="14">10C</option>
-                            <option value="15">10D</option>
-                            <option value="16">10DD</option>
-                            <option value="17">10E</option>
-                            <option value="18">10F</option>
-                            <option value="19">10G</option>
-                            <option value="20">10H</option>
-                            <option value="21">10I</option>
-                            <option value="22">12AA</option>
-                            <option value="23">12A</option>
-                            <option value="24">12B</option>
-                            <option value="25">12C</option>
-                            <option value="26">12D</option>
-                            <option value="27">12DD</option>
-                            <option value="28">12E</option>
-                            <option value="29">12F</option>
-                            <option value="30">12G</option>
-                            <option value="31">12H</option>
-                            <option value="32">12I</option>
-                            <option value="33">14AA</option>
-                            <option value="34">14A</option>
-                            <option value="35">14B</option>
-                            <option value="36">14C</option>
-                            <option value="37">14D</option>
-                            <option value="38">14DD</option>
-                            <option value="39">14E</option>
-                            <option value="40">14F</option>
-                            <option value="41">14G</option>
-                            <option value="42">14H</option>
-                            <option value="43">14I</option>
-                            <option value="44">16AA</option>
-                            <option value="45">16A</option>
-                            <option value="46">16B</option>
-                            <option value="47">16C</option>
-                            <option value="48">16D</option>
-                            <option value="49">16DD</option>
-                            <option value="50">16E</option>
-                            <option value="51">16F</option>
-                            <option value="52">16G</option>
-                            <option value="53">16H</option>
-                            <option value="54">16I</option>
-                            <option value="55">18AA</option>
-                            <option value="56">18A</option>
-                            <option value="57">18B</option>
-                            <option value="58">18C</option>
-                            <option value="59">18D</option>
-                            <option value="60">18DD</option>
-                            <option value="61">18E</option>
-                            <option value="62">18F</option>
-                            <option value="63">18G</option>
-                            <option value="64">18H</option>
-                            <option value="65">18I</option>
-                            <option value="66">20AA</option>
-                            <option value="67">20A</option>
-                            <option value="68">20B</option>
-                            <option value="69">20C</option>
-                            <option value="70">20D</option>
-                            <option value="71">20DD</option>
-                            <option value="72">20E</option>
-                            <option value="73">20F</option>
-                            <option value="74">20G</option>
-                            <option value="75">20H</option>
-                            <option value="76">20I</option>
-                            <option value="77">22AA</option>
-                            <option value="78">22A</option>
-                            <option value="79">22B</option>
-                            <option value="80">22C</option>
-                            <option value="81">22D</option>
-                            <option value="82">22DD</option>
-                            <option value="83">22E</option>
-                            <option value="84">22F</option>
-                            <option value="85">22G</option>
-                            <option value="86">22H</option>
-                            <option value="87">22I</option>
-                        </select>
-                    </li>
-                    <li>
-                        <label for="convertFR">FR / ESP / BE</label>
-                        <select name="convertFR" id="convertFR" class="doConvert">
-                            <option value="0">80A</option>
-                            <option value="1">80B</option>
-                            <option value="2">80C</option>
-                            <option value="3">80D</option>
-                            <option value="4">80E</option>
-                            <option value="5">80F</option>
-                            <option value="6">80G</option>
-                            <option value="7">80H</option>
-                            <option value="8">80I</option>
-                            <option value="9">80J</option>
-                            <option value="10">80K</option>
-                            <option value="11">85A</option>
-                            <option value="12">85B</option>
-                            <option value="13">85C</option>
-                            <option value="14">85D</option>
-                            <option value="15">85E</option>
-                            <option value="16">85F</option>
-                            <option value="17">85G</option>
-                            <option value="18">85H</option>
-                            <option value="19">85I</option>
-                            <option value="20">85J</option>
-                            <option value="21">85K</option>
-                            <option value="22">90A</option>
-                            <option value="23">90B</option>
-                            <option value="24">90C</option>
-                            <option value="25">90D</option>
-                            <option value="26">90E</option>
-                            <option value="27">90F</option>
-                            <option value="28">90G</option>
-                            <option value="29">90H</option>
-                            <option value="30">90I</option>
-                            <option value="31">90J</option>
-                            <option value="32">90K</option>
-                            <option value="33">95A</option>
-                            <option value="34">95B</option>
-                            <option value="35">95C</option>
-                            <option value="36">95D</option>
-                            <option value="37">95E</option>
-                            <option value="38">95F</option>
-                            <option value="39">95G</option>
-                            <option value="40">95H</option>
-                            <option value="41">95I</option>
-                            <option value="42">95J</option>
-                            <option value="43">95K</option>
-                            <option value="44">100A</option>
-                            <option value="45">100B</option>
-                            <option value="46">100C</option>
-                            <option value="47">100D</option>
-                            <option value="48">100E</option>
-                            <option value="49">100F</option>
-                            <option value="50">100G</option>
-                            <option value="51">100H</option>
-                            <option value="52">100I</option>
-                            <option value="53">100J</option>
-                            <option value="54">100K</option>
-                            <option value="55">105A</option>
-                            <option value="56">105B</option>
-                            <option value="57">105C</option>
-                            <option value="58">105D</option>
-                            <option value="59">105E</option>
-                            <option value="60">105F</option>
-                            <option value="61">105G</option>
-                            <option value="62">105H</option>
-                            <option value="63">105I</option>
-                            <option value="64">105J</option>
-                            <option value="65">105K</option>
-                            <option value="66">110A</option>
-                            <option value="67">110B</option>
-                            <option value="68">110C</option>
-                            <option value="69">110D</option>
-                            <option value="70">110E</option>
-                            <option value="71">110F</option>
-                            <option value="72">110G</option>
-                            <option value="73">110H</option>
-                            <option value="74">110I</option>
-                            <option value="75">110J</option>
-                            <option value="76">110K</option>
-                            <option value="77">115A</option>
-                            <option value="78">115B</option>
-                            <option value="79">115C</option>
-                            <option value="80">115D</option>
-                            <option value="81">115E</option>
-                            <option value="82">115F</option>
-                            <option value="83">115G</option>
-                            <option value="84">115H</option>
-                            <option value="85">115I</option>
-                            <option value="86">115J</option>
-                            <option value="87">115K</option>
-                        </select>
-                    </li>
-                    <li>
-                        <label for="convertCZ">CZ</label>
-                        <select name="convertCZ" id="convertCZ" class="doConvert">
-                            <option value="0">0A</option>
-                            <option value="1">0B</option>
-                            <option value="2">0C</option>
-                            <option value="3">0D</option>
-                            <option value="4">0E</option>
-                            <option value="5">0F</option>
-                            <option value="6">0G</option>
-                            <option value="7">0H</option>
-                            <option value="8">0I</option>
-                            <option value="9">0J</option>
-                            <option value="10">0K</option>
-                            <option value="11">1A</option>
-                            <option value="12">1B</option>
-                            <option value="13">1C</option>
-                            <option value="14">1D</option>
-                            <option value="15">1E</option>
-                            <option value="16">1F</option>
-                            <option value="17">1G</option>
-                            <option value="18">1H</option>
-                            <option value="19">1I</option>
-                            <option value="20">1J</option>
-                            <option value="21">1K</option>
-                            <option value="22">2A</option>
-                            <option value="23">2B</option>
-                            <option value="24">2C</option>
-                            <option value="25">2D</option>
-                            <option value="26">2E</option>
-                            <option value="27">2F</option>
-                            <option value="28">2G</option>
-                            <option value="29">2H</option>
-                            <option value="30">2I</option>
-                            <option value="31">2J</option>
-                            <option value="32">2K</option>
-                            <option value="33">3A</option>
-                            <option value="34">3B</option>
-                            <option value="35">3C</option>
-                            <option value="36">3D</option>
-                            <option value="37">3E</option>
-                            <option value="38">3F</option>
-                            <option value="39">3G</option>
-                            <option value="40">3H</option>
-                            <option value="41">3I</option>
-                            <option value="42">3J</option>
-                            <option value="43">3K</option>
-                            <option value="44">4A</option>
-                            <option value="45">4B</option>
-                            <option value="46">4C</option>
-                            <option value="47">4D</option>
-                            <option value="48">4E</option>
-                            <option value="49">4F</option>
-                            <option value="50">4G</option>
-                            <option value="51">4H</option>
-                            <option value="52">4I</option>
-                            <option value="53">4J</option>
-                            <option value="54">4K</option>
-                            <option value="55">5A</option>
-                            <option value="56">5B</option>
-                            <option value="57">5C</option>
-                            <option value="58">5D</option>
-                            <option value="59">5E</option>
-                            <option value="60">5F</option>
-                            <option value="61">5G</option>
-                            <option value="62">5H</option>
-                            <option value="63">5I</option>
-                            <option value="64">5J</option>
-                            <option value="65">5K</option>
-                            <option value="66">6A</option>
-                            <option value="67">6B</option>
-                            <option value="68">6C</option>
-                            <option value="69">6D</option>
-                            <option value="70">6E</option>
-                            <option value="71">6F</option>
-                            <option value="72">6G</option>
-                            <option value="73">6H</option>
-                            <option value="74">6I</option>
-                            <option value="75">6J</option>
-                            <option value="76">6K</option>
-                            <option value="77">7A</option>
-                            <option value="78">7B</option>
-                            <option value="79">7C</option>
-                            <option value="80">7D</option>
-                            <option value="81">7E</option>
-                            <option value="82">7F</option>
-                            <option value="83">7G</option>
-                            <option value="84">7H</option>
-                            <option value="85">7I</option>
-                            <option value="86">7J</option>
-                            <option value="87">7K</option>
-                        </select>
-                    </li>
-                </ul>
-                
-            </div>
-        </div>
-    </div>
-    <div class="overlay">
-        <div class="ui-widget-overlay" style="width: 100%;height: 100%;"></div>
-        <div class="ajax-loader"></div>
-
-    </div>
-</div>
-
- <div class="pages_zigzag">
-    <div id="content_holder" style="width:1008px;margin:0px auto;background:white;padding:10px;padding-bottom: 22px;;display:table;position: relative">
-        <style>
-    
-    h1{
-        text-align: center;
-        font-size: 17px;
-        margin: 20px 0;
-    }
-    
-    p{
-        font-size: 15px;
-    }
-    
-</style>
-
-<h1>
-    Brayola Privacy Policy 
-</h1>
-
-<p>
-This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at 
-<a href="http://brayola.com/terms">brayola.com/terms</a>.
-</p>
-
-
-<h1>
-    Brayola’s Commitment to Privacy
-</h1>
-
-<p>
-Brayola respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains Brayola’s policy regarding the collection, use, disclosure and protection of Personal Information. The terms of this privacy policy apply to information collected from you unless different terms are specified as part of a special offer or in another form or contract we provide you.
-</p>
-
-<h1>
-    What is Personal Information?
-</h1>
-
-<p>
-“Personal Information” is information that can be directly associated with a specific person or entity such as a person’s name, address, telephone number, e-mail address, credit card number, or information about activities directly linked to that person, such as his or her purchases (through affiliate programs). Personal Information also includes information that you may choose to provide to us, such as your educational, medical and employment history profile. 
-Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed.  In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no Personal Information will be included in the resulting data. Likewise, information about the products or services you use or purchase may be collected and combined with information about the products and services used or purchased by others, but no Personal Information will be included in the resulting data. Aggregate data helps understand trends and customer needs so that new products and services can be considered and so existing products and services can be tailored to customer desires.
-</p>
-
-
-
-<h1>
-    Collection of Personal Information
-</h1>
-
-<p>
-We collect Personal Information that you provide us, such as when you:
-register to use the Site or Services;
-post or submit any content on the Site or Services, or any conversation between users;
-use links to third party websites
-contact us for any reason.
-We may automatically collect some information when you use the Site or Services, such as your computer’s IP address, operating system, the site from which you linked to us, and the time and date of your visit, your searching history, the sites to which you were linked thorough the Site, and activities. We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with Brayola. 
-</p>
-
-<h1>
-    Use of Personal Information
-</h1>
-
-The personal information we collect is used to process your requests or transactions, to provide you high quality service, to customize your use of the Site or Services according to your preferences, and to tell you about specific goods or services we believe will be of interest to you.  If you prefer not to receive promotional information from us, we make it easy for you to let us know. You can contact us at any time to decline promotional information (see under the heading “Choice” below). 
-
-
-<h1>
-    Use of Personal Information
-</h1>
-
-<p>
-Brayola does not sell, rent, share, or disclose Personal Information to third parties without your prior consent, except in the limited circumstances described in this statement. 
-</p>
-
-<h1>
-    Communities
-</h1>
-
-<p>
-If you use any of the features of the Site or Services, please remember that any information disclosed in these venues may be automatically made public, even without your knowledge or authorization. You should exercise caution when disclosing any information, including Personal Information, in such venues, as you do not know who will access or use such information and for what purposes. Brayola is in no way responsible for the accuracy, use or misuse of any information, including Personal Information, which you disclose in such venues.
-</p>
-
-<h1>
-    Other Disclosures
-</h1>
-
-<p>
-In addition, we may disclose Personal Information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Brayola, our customers, or the public.  Information about our customers, including Personal Information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
-</p>
-
-<h1>
-    Protection of Personal Information
-</h1>
-
-<p>
-Brayola has put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorized access.
-Further, when you enter personal information online, that information is encrypted using a security software called SHA1. SHA1 encrypts all information before it is sent over the Internet, including passwords to Brayola accounts.
-Account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person.  If other people have access to your email, they may be able to obtain access to your password and obtain personal information about you, or change information about your user profile. You may not want to use an email account operated by an employer because many employers have the legal right to access such email accounts.
-</p>
-
-<h1>
-    Choice
-</h1>
-
-<p>
-By registering you agree to receive promotional messages from Brayola. If at any time you wish to stop receiving promotional information from Brayola, you may opt out by:
-E-Mailing us at support@brayola.com; or
-Accessing your registration information and checking the box that allows you to opt out of receiving promotional emails. 
-</p>
-
-<h1>
-    Aggregate Information
-</h1>
-
-<p>
-Brayola appreciates the importance of safeguarding the privacy of your personal information that may be provided to us.  However, Brayola does use and disclose de-identified aggregate information for the purposes of evaluating and improving our services and tailoring our products. Brayola may choose at its sole discretion to transfer, sell, provide or share such information with third parties, including with Brayola’s business partners for commercial purposes, and by providing any information to Brayola you consent to such provision of de-identified aggregate information to any third party.
-</p>
-
-<h1>
-    What Are Cookies and Are You Required to Accept Them?
-</h1>
-
-<p>
-Cookies are small files that are stored on your computer. We use cookies to help optimize your use of the Site.  For example, we use cookies to customize our home page for you and to better display pages according to your browser type. When you make a purchase cookies allow us to better maintain the status of your account.  
-</p>
-
-<h1>
-    Use of the Site by Children
-</h1>
-
-<p>
-    Brayola does not knowingly collect personally identifiable information from children under the age of 13, and you must be 18 years of age or older in order to establish an account.  Parents are able to set up accounts for their children.   In this way verifiable parental consent is required in order to register a child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby represents and warrants that he or she is the parent or legal guardian of such child, and has the authority to provide information and render consents on behalf of such child. In the event you become aware that an individual under the age of 13 has enrolled without parental permission, please advise us immediately. 
-</p>
-
-<h1>
-    Online Links to Other Sites
-</h1>
-
-<p>
-    By searching an item shown on the Site, you may be taken to a site of a third party. In addition, Brayola members or users can link to other webs of third parties that provide useful information, or who have agreed to offer goods and services to Brayola members. Any personal information you provide on the linked pages is provided directly to this third-party and is subject to that third party’s provider’s privacy policy.
-    Except as described above, Brayola is not responsible for the content or privacy practices of Web sites to which we link. Links to third party or other sites are provided for your convenience. We encourage you to learn about the privacy practices of each Web site before providing them with personal information.
-</p>
-
-
-<h1>
-    Updating, Reviewing or Correcting Personal Information
-</h1>
-
-<p>
-    You may update, review or correct your on-line account information at any time online by accessing your password-protected registration page. You may also e-mail us at support@brayola.com. 
-</p>
-
-<h1>
-    Questions or Concerns
-</h1>
-
-<p>
-    If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can e-mail us at support@brayola.com.
-</p>
-
-<h1>
-    Changes to this Statement
-</h1>
-
-<p>
-    Brayola reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
-</p>    </div>
-</div>
-</div>
-<div class="pages_zigzag_bottom"></div>
-
-<!--    <div id="push">//</div>-->
-
+                </div>
+                <div class="row footer-text">
+                    <a href="/user/account/logout">©</a> 
+                    <span class="cc-info">2016 Brayola.com</span><br>
+                    Discover your perfect bra based on a personal bra fitting. Get a your personal bra shop filled with bras you will love                </div>
+            </footer>
 <!-- Google Code for Visitor Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1410,122 +576,26 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 
-
-
-<footer>
-    <div class="container">
-
-<!--        <div class="row">
-            <div class="span12">
-                <fb:like href="https://www.facebook.com/pages/Brayola-Community/310269675755480" show_faces="true" font="arial" width="960px"></fb:like>
-            </div>
-        </div>-->
-
-<!--        <div class="row" style="margin-bottom: 35px;">
-            <div class="span12">
-                <a href="http://pinterest.com/brayola/" target="_blank" class="button pinterest">Follow us on Pinterest</a>
-            </div>
-        </div>-->
-
-
-        <div class="row">
-            <div class="links">
-                <div class="row">
-                    <div class="w33">
-                            <div>Here to Help</div>
-                            <!--<div><a href="/pinkconnection">pink connection</a></div>-->
-                            <div><a href="https://brayola.zendesk.com/hc/en-us/articles/205170982-How-do-I-contact-you-">Contact Us</a></div>
-                            <div><a href="https://brayola.zendesk.com/hc/en-us">Returns</a></div>
-                            <div><a href="https://shop.brayola.com/pages/free-shipping">Shipping &amp; Handling</a></div>
-                            <div><a href="https://brayola.zendesk.com/hc/en-us">FAQ</a></div>
-                            <div><a href="/privacy">Privacy Policy</a></div>
-                            <div><a href="/terms">Terms</a></div>
-                    </div>
-                    <div class="w33">
-                            <div class="w33s">Get to Know Us</div>
-                            <div><a href="/aboutus">About Us</a></div>
-                            <div><a href="/howitworks">How it Works</a></div>
-                            <div><a href="http://blog.brayola.com" target="_blank">Our Blog</a></div>
-                            <div><a href="/jobs">Jobs</a></div>
-                            <div><a href="/bmodel">See real sizes, on real women!</a></div>
-                            <div><a href="/are-you-a-brand-supplier">Are You A Brand Or Supplier?</a></div>
-                            <div style="margin-top:35px;">
-                                <div class="social_bg">
-                                    <div><a alt="twitter" title="twitter" target="_blank" href="http://twitter.com/brayolaShop"><img alt="twitter" title="twitter" width="45" src="http://d158lzw83b9xzs.cloudfront.net/live/static/index/images/twitter_s.png"></a></div> 
-                                    <div><a alt="pinterest" title="pinterest" target="_blank" href="http://pinterest.com/brayola/"><img alt="pinterest" title="pinterest" width="45" src="http://d158lzw83b9xzs.cloudfront.net/live/static/index/images/pinterest_s.png"></a></div> 
-                                    <div><a alt="facebook" title="facebook" target="_blank" href="http://www.facebook.com/pages/Brayola-Community/310269675755480"><img alt="facebook" title="facebook" width="45" src="http://d158lzw83b9xzs.cloudfront.net/live/static/index/images/facebook_s.png"></a></div> 
-                                    <div><a alt="tumbler" title="tumbler" target="_blank" href="http://brayola.tumblr.com/"><img alt="tumbler" title="tumbler" width="45" src="http://d158lzw83b9xzs.cloudfront.net/live/static/index/images/tumbler_s.png"></a></div> 
-                                </div>
-                            </div>       
-                    </div>
-
-                    <div class="w33">
-                            <div>Things to Know</div>
-                            <div><a href="http://shop.brayola.com/products/gift-card">Buy a Gift Card</a></div>
-                            <div><a href="/sales">Hot Sales</a></div>
-                            <div><a href="/rewards">Brayola Rewards</a></div>
-                            <div><a href="/brands">Brands We Love</a></div>
-<!--                            <div><a href="/styles">Bra Styles</a></div>
-                            <div><a href="/bra-sizes">Bra Sizes</a></div>-->
-                            <div><a href="/recent-bra-comments">Recent Bra Comments</a></div>
-                            <div><a href="/brasizeconverter">Bra Size Converter</a></div>
-                            <div style="margin-top: 30px; margin-left: 25px;">
-                                <span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=PuEq7I0AE50auopE9sFdtvr2cR49B0i41Bp9XbLsms4JZ7EdjOWd06x"></script></span>
-                            </div>
-                            <div style="margin-top: 55px;"><a style="background: none;color:black;padding-left:0px;text-decoration:none" href="/user/account/logout">©</a>
-                                    2015 brayola.com   </div>
-                    </div>
-                    
-                </div>
-                <div style="top: 12px;position: relative;">
-                    <center>
-                        <span style="font-size: 13px;">Discover your perfect bra based on a personal bra fitting. Get a your personal bra shop filled with bras you will love</span>
-                    </center>
-                </div>
-            </div>
-         
-        </div>
-        
-    </div>
-    
-</footer>
-
-
 <script type="text/javascript" src="http://d158lzw83b9xzs.cloudfront.net/live/static/voting/jquery.cookie.js"> </script>
 
-<script type="text/javascript">
 
-$(".get_started , .addbraTop").live("click", function() {
-    openNewCYD();
-});
-
-$(".addbraTopli,.addNewbBra").live("click", function() {
-    openNewCYD();
-});
- 
-</script>
-
-
+            
+            
 <script>
  // Add a script element as a child of the body
 $(document).ready(function(){
     
-    if(location.hash === '#addbra'){
-        doGetStarted();
-
-    }else{
-        $("#allContent").show();
-        $('.links').show();
-    }
-
     var ua = navigator.userAgent.toLowerCase(),
     platform = navigator.platform.toLowerCase();
     platformName = ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android)/) || platform.match(/mac|win|linux/) || ['other'])[0],
     isMobile = /ios|android|webos/.test(platformName);
     
     var jss = null;
-    if ( !isMobile )
-        jss = ["//connect.facebook.net/en_US/all.js", "http://www.googleadservices.com/pagead/conversion.js", "//cdn.zopim.com/?ltJzKD8Qi4MBRnhVtsezbEpU9NgNBYOg"]
+    if ( !isMobile ) {
+        jss = ["//connect.facebook.net/en_US/all.js", "http://www.googleadservices.com/pagead/conversion.js"]
+        
+        /*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","help.brayola.com");/*]]>*/
+    }
     else
         jss = ["//connect.facebook.net/en_US/all.js", "http://www.googleadservices.com/pagead/conversion.js"]
     /*Sid.js(['http://s.clicktale.net/WRc9.js'],function(){if(typeof ClickTale=='function') ClickTale(21522,1,"www02");});*/
@@ -1582,6 +652,6 @@ window.onload = function(){
 }());
 </script>
     <script type="text/javascript" src="//cdn.nmgcdn.com/BR310OUYKA.js"></script>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3c98a704ce","applicationID":"3783170","transactionName":"b1FWYBNWXBZTBkFfDFYbdVcVXl0LHRVAVA9RVxtdD1NXHR0VR18VWVdN","queueTime":0,"applicationTime":56,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+    </main>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3c98a704ce","applicationID":"3783170","transactionName":"b1FWYBNWXBZTBkFfDFYbdVcVXl0LHRVAVA9RVxtdD1NXHR0VR18VWVdN","queueTime":0,"applicationTime":50,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
