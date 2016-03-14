@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914064734id_/https%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314075427id_/https%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | STD Test Express
+# Privacy Policy - STD Test Express
 
 [](https://privacy.truste.com/privacy-seal/Analyte-Media-/validation?rid=c4c7e858-5478-4c4c-95b2-66a5177a7a5b "TRUSTe online privacy certification")
 
@@ -76,7 +76,7 @@ Chicago, IL 60661
 [compliance@analytephysiciansgroup.com](mailto:compliance@analytephysiciansgroup.com)  
 (888) 723.6082 
 
-If you have a question that is medical in nature, about how our process works, or about service-related issues, please call us at (866) 660-2593[(866) 660-2593](tel:\(866\) 660-2593) and speak with a Care Advisor. 
+If you have a question that is medical in nature, about how our process works, or about service-related issues, please call us at [(866) 660-2593](tel:\(866\) 660-2593)(866) 660-2593 and speak with a Care Advisor. 
 
 BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND CONSENT TO OUR PRIVACY PRACTICES AND TO THE USES AND DISCLOSURES OF INFORMATION THAT WE COLLECT ABOUT YOU, AND YOU AGREE TO BE BOUND BY THE Terms and Conditions of Use APPLICABLE TO YOU. 
 
