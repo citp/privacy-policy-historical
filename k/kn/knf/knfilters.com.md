@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226110833id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315005342id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
 
 # K&N Engineering, Inc. Privacy Policy
 
@@ -7,7 +7,7 @@ Personal information obtained by this web site from users that subscribe to prod
  **Authorized Third Parties**   
 We use third-party services to monitor pages of our website for the purpose of reporting website traffic and other statistics as well as to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This website and third parties may use cookies and/or other monitoring technologies to provide anonymous statistics to us about our website visitors. No personally identifiable information is transferred to these third parties.
 
-You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). You can also opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). You can also opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
  **Consent**  
-By using this website, you consent to the collection and use of information by K&N Engineering, Inc. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please [contact](https://web.archive.org/web/20151226110833id_/http%3A//www.knfilters.com/contact.htm) us.
+By using this website, you consent to the collection and use of information by K&N Engineering, Inc. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please [contact](https://web.archive.org/web/20160315005342id_/http%3A//www.knfilters.com/contact.htm) us.
