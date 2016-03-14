@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200911id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314110448id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actian – Take Action on Big Data
 
@@ -24,18 +24,18 @@ With respect to information collected under direction of its Clients, Actian has
 
 We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Actian will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  1. [Sites covered by this Privacy Statement](http://www.actian.com/website/privacy-policy#1)
-  2. [Types of information we collect](http://www.actian.com/website/privacy-policy#2)
-  3. [Use of Tracking Technologies](http://www.actian.com/website/privacy-policy#3)
-  4. [Response to Do Not Track signals](http://www.actian.com/website/privacy-policy#4)
-  5. [Children’s privacy](http://www.actian.com/website/privacy-policy#5)
-  6. [How we use your information](http://www.actian.com/website/privacy-policy#6)
-  7. [Who we share your information with](http://www.actian.com/website/privacy-policy#7)
-  8. [Your choices](http://www.actian.com/website/privacy-policy#8)
-  9. [Access to and accuracy of your information](http://www.actian.com/website/privacy-policy#9)
-  10. [Keeping your information secure](http://www.actian.com/website/privacy-policy#10)
-  11. [Changes to this Statement](http://www.actian.com/website/privacy-policy#11)
-  12. [Contacting us](http://www.actian.com/website/privacy-policy#12)
+  1. Sites covered by this Privacy Statement
+  2. Types of information we collect
+  3. Use of Tracking Technologies
+  4. Response to Do Not Track signals
+  5. Children’s privacy
+  6. How we use your information
+  7. Who we share your information with
+  8. Your choices
+  9. Access to and accuracy of your information
+  10. Keeping your information secure
+  11. Changes to this Statement
+  12. Contacting us
 
 
 
@@ -152,7 +152,7 @@ Actian Corporation
 Attention: Marketing Programs  
 Phone: +1.650.587.5500  
 Email: [privacy@actian.com](mailto:privacy@actian.com)  
-Postal Address: 500 Arguello Street, Suite 200, Redwood City, CA 94063 USA  
+Postal Address: 2300 Geng Rd., Suite 150, Palo Alto, CA 94303 USA  
 Web site URL: [www.actian.com](http://www.actian.com/)
 
 Effective Date:
