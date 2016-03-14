@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakana.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070008id_/http%3A//www.lakana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakana.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314073145id_/http%3A//www.lakana.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LAKANA - Privacy Policy
 
