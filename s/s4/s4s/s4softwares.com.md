@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s4softwares.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113033650id_/http%3A//s4softwares.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s4softwares.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314022213id_/https%3A//s4softwares.com/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
