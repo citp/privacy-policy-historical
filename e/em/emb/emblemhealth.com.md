@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218130551id_/http%3A//www.emblemhealth.com/en/Legal-Information/Privacy-Security-Policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314152024id_/http%3A//www.emblemhealth.com/en/Legal-Information/Privacy-Security-Policies.aspx) for the most accurate reproduction.*
 
 # Privacy Notice and Security Policies
 
@@ -15,17 +15,17 @@ This notice describes how medical information about you may be used and disclose
 
 **EmblemHealth Web Site Privacy Policy**
 
-We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/Legal-Information/Privacy-Security-Policies/Website-Policy.aspx) for more information on how we do this. 
+We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/Website-Policy.aspx) for more information on how we do this. 
 
 **EmblemHealth SMS Text Messaging Help Page**
 
-EmblemHealth Notification Alerts is a service that allows plan members to receive information from EmblemHealth about their health coverage via text messages. For more information please visit our [help page](https://web.archive.org/Legal-Information/Privacy-Security-Policies/EmblemHealth-SMS-Text-Messaging-Help-Page.aspx).
+EmblemHealth Notification Alerts is a service that allows plan members to receive information from EmblemHealth about their health coverage via text messages. For more information please visit our [help page](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/EmblemHealth-SMS-Text-Messaging-Help-Page.aspx).
 
 **EmblemHealth Data Security Policy**
 
 We strive to afford our customers with easy online means of viewing claims data. When you use our Member Online Services or Provider Online Services to view your health care transactions, the data that you view is encrypted for your protection. 
 
-Read our [Data Security Policy.](https://web.archive.org/Legal-Information/Privacy-Security-Policies/Data-Security-Policy.aspx)
+Read our [Data Security Policy.](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/Data-Security-Policy.aspx)
 
 **Managed Care Disclosure for GHI HMO and HIP HMO Members**
 
