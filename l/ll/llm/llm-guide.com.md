@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llm-guide.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906173616id_/http%3A//www.llm-guide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llm-guide.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315002907id_/http%3A//www.llm-guide.com/privacy) for the most accurate reproduction.*
 
 # LLM GUIDE - Privacy
 
@@ -9,6 +9,8 @@ When you register at LLM GUIDE, personal information such as your name and e-mai
 If you choose to send an e-mail to one of the listed institutions at LLM GUIDE by pushing the “Request Information”-button, you consent to receiving information from the chosen institution. The e-mail you send will be identified as coming from your personal e-mail address and not from LLM GUIDE. However, the e-mail will contain an introductory statement indicating that you have sent this e-mail through our website.
 
 When visiting LLM GUIDE, a cookie will be placed on your hard drive. This file allows you to move quickly and easily around our site. It enables us to identify returning users and identify registrants. As a registrant you will have the cookie linked to your e-mail address so that you will not need to login each time you visit. We may also use a cookie to track a user's sessions. We only use this information to find out what site features are most popular so that we can develop LLM GUIDE accordingly. You can delete cookies from your hard drive at any time. However, once the cookie is deleted, any settings such as your stored username and password will have to be re-entered when you log in again.
+
+When you register for a user account on LLM GUIDE, you agree to allow LLM GUIDE to use the e-mail address that you provided to send you regular newsletters, website status updates, advertising for related products and services, and surveys for internal purposes, unless you opt-out of this service by submitting a request to unsubscribe through [LLM GUIDE's Contact page.](https://web.archive.org/contact)
 
 As LLM GUIDE is visited by users from all over the world, the usage of our website involves the transmission of data on an international basis. Thus, by browsing LLM GUIDE and communicating electronically with us, you consent to our processing of personal data in this way.
 
