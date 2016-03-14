@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912195935id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315005731id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
-
-For Regular Cash Promo Codes, Contests and more, follow us on Facebook......
-
-  
-
 
 ### Privacy
 
@@ -26,8 +21,12 @@ If you feel RewardingWays is not following its stated information policy, then t
 Cookies  
 We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions.
 
-You must be logged in to post messages. 
+[](https://web.archive.org/members/register.php)
 
-MEMBERS| 207929  
----|---  
-PAYMENTS| $231,728.30
+### Site Statistics
+
+Current Members = 230649
+
+Total Payments = $289,509.96
+
+Like our facebook page for promo code announcements and more...
