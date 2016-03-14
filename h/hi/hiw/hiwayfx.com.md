@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiwayfx.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052043id_/https%3A//www.hiwayfx.com/hiwayfx-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiwayfx.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314062248id_/https%3A//www.hiwayfx.com/hiwayfx-privacy-policy) for the most accurate reproduction.*
 
 # HiWayFX Privacy Policy | HiWayFX
 
