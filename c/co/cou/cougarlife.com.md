@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906070820id_/https%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314154907id_/https%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cougar Life
 
