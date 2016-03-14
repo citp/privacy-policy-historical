@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dashvapes.com privacy policy that was archived on 2015-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150813231159id_/http%3A//www.dashvapes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dashvapes.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314230701id_/http%3A//www.dashvapes.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 <meta name="alexaVerifyID" content="PwyT7CJAq22--jDaUKuW672IlVo">
 <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="/logo.png">
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=237538632984574&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=237538632984574&amp;version=v2.0"></script><script src="//x.instagramfollowbutton.com/follow.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery-ui.js"></script>
 <script type="application/ld+json">
 { "@context" : "http://schema.org",
@@ -29,6 +29,7 @@ _atrk_opts = { atrk_acct:"/1yVk1a4SBe0Io", domain:"dashvapes.com",dynamic: true}
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=/1yVk1a4SBe0Io" style="display:none" height="1" width="1" alt=""/></noscript>
 <script type="text/javascript">
+
 $().ready(function() {
 $('.loginForm').submit(function() {
 	$('.loginButton').html('<img src="/images/loading.gif" style="margin-top: 10px;" />');
@@ -55,6 +56,8 @@ location.href = '/';
 });
 
 });
+
+
 
 $('.notifyStock').live("click", function() {
 	  var id = $(this).data("index");
@@ -93,6 +96,7 @@ $('.addcart').live("click", function() {
 	var poid = $(this).data("poid");
 	var pgvg = $('.pgvg').val();
 	var qty = $("#qty").val();
+    var bottletype = $('.bottletype').val();
 	if(!qty) {
 		var qty = 1;
 	}
@@ -125,7 +129,7 @@ $('.addcart').live("click", function() {
 	if(error) {
 		alert(error)
 	} else {
-	$.post("/scripts/add_to_cart.php", { pid: pid, poid: poid, pgvg: pgvg, qty: qty, nic: nic, vg: vg, profiles: profiles, rand: Math.random()*99999 }, function(data) {
+	$.post("/scripts/add_to_cart.php", { pid: pid, poid: poid, pgvg: pgvg, bottletype: bottletype, qty: qty, nic: nic, vg: vg, profiles: profiles, rand: Math.random()*99999 }, function(data) {
 	$.trim(data);
 	if(data == 'max_qty') {
 		alert("There isn't enough of this product in stock, or you have the maximum amount of this item in your shopping cart already. Please try a lower quantity.");
@@ -166,6 +170,10 @@ $('.qty_update').keyup(function(e)
 		        // Filter non-digits from input value.
 		        this.value = this.value.replace(/\D/g, '');
 		    }
+});
+$('.closediscounts').click(function() {
+	$.post("/scripts/close_discounts.php");
+$('.discounts').hide();
 });
 $('.cart_options').live("change", function() {
 var poid = $(this).val();
@@ -225,6 +233,16 @@ $('.cart_pgvg').live("change", function() {
 		$('.shopping_cart').load("/scripts/shopping_cart.php?rand="+Math.random()*99999);
 	});
 	});
+
+$('.cart_bottletype').live("change", function() {
+	var bottletype = $(this).val();
+	var id = $(this).data("index");
+	var old = $(this).data("old");
+	$.post("/scripts/update_cart_bottletype.php", { bottletype: bottletype, old: old, id: id, rand: Math.random()*9999999 }, function(data) { 
+		$('#index_cart').load("/scripts/index_cart.php?rand="+ Math.random()*9999999);
+		$('.shopping_cart').load("/scripts/shopping_cart.php?rand="+Math.random()*99999);
+	});
+	});
 	
 	
 setTimeout(function() { 
@@ -268,7 +286,32 @@ $('.hidenotice').click(function() {
 </script>
 </head>
 <body>
-<div class="hiring" style="background-color: #2c539e; text-align: center; padding: 10px; color: #fff; font-weight: bold;">We're hiring at our retail locations and warehouse! <a href="/jobs" style="color: #fff; text-decoration: underline;">Click here for more info!</a> <a class="hidehiring" style="float: right; color: #fff;">[hide]</a></div>
+<div id="dialog2" class="discounts" style="position: fixed; top: 30%; width: 280px; left: 30px;">
+<div id="dialog2_content" style="background-color: #fff; ">
+<div class="popheading" style="font-weight: bold; text-align: center;">
+Keep up with Discounts!
+</div>
+<script>(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src="//x.instagramfollowbutton.com/follow.js";s.parentNode.insertBefore(g,s);}(document,"script"));</script>
+<div style="background-color: #f0f0f0; padding: 10px; font-size: 14px; border-bottom: 2px solid #e2e2e2; text-align: center;">
+Follow our Facebook, Google+, Twitter or Instagram and be the first to know about <b>exclusive deals</b>, <b>free</b> products and insane <b>discounts</b>!
+</div>
+<img src="/images/arrow_left2.png" style="top: 135px; float: left; position: absolute; left: -32px;">
+<div style="padding: 10px; font-size: 14px; border-bottom: 2px solid #e2e2e2; padding-top: 20px; height: 40px;">
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "9c1b7c22-3be0-4f3b-be27-f871b80c8445", doNotHash: false, doNotCopy: false, hashAddressBar: true});</script>
+<div span="" style="float: left; display: block; margin-top: 5px;" class="fb-like" data-href="http://www.facebook.com/dashvapes" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+<span style="float: left; margin-left: 8px;" class="st_instagram_large" displaytext="Instagram Badge" st_username="dashvapes"></span>
+<span style="float: left; margin-left: 8px; margin-top: 16px;" class="st_plusone_large" displaytext="Google +1"></span>
+<span style="float: left; margin-left: 8px; margin-top: 3px;" class="st_twitterfollow_large" displaytext="Twitter Follow" st_username="dashvapes"></span>
+<div style="clear: both;"></div>
+</div>
+<div style="background-color: #f0f0f0; padding: 10px; font-size: 14px; border-bottom: 2px solid #e2e2e2;">
+<a class="button closediscounts" style="margin: auto; width: 100px; margin-left: 70px;">Close</a>
+<div style="clear: both;"></div>
+</div>
+</div>
+</div>
+ 
  
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -339,93 +382,151 @@ $0.00 CAD
 <hr>
 <div id="menu" style="margin-bottom: 0px; border-radius: 0px;">
 <ul id="nav">
-<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/new_arrivals/new">NEW</a></li>
-<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/e-juice/24">E-JUICE</a>
-<ul style="width: 1025px; border: 0px; box-shadow: 0px 5px 10px #000; background-color: #f9f9f9; margin-left: -58px;">
+<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/new_arrivals/new">NEW</a>
+<ul>
+<li style="padding-left: 12px; padding-right: 12px; min-width: 185px;"><a href="/products/new_arrivals/new">New Arrivals</a></li>
+<li style="padding-left: 12px; padding-right: 12px; min-width: 185px;"><a href="/products/preorders/new">Preorders</a></li>
+</ul>
+</li>
+<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/clearance/new">CLEARANCE</a></li>
+<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/8/24">E-JUICE</a>
+<ul style="width: 1025px; border: 0px; box-shadow: 0px 5px 10px #000; background-color: #f9f9f9; margin-left: -162px;">
 <li style="padding-left: 12px; padding-right: 12px; min-width: 1000px; text-align: center; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/e-juice/24">VIEW ALL</a></li>
+<li style="padding-left: 12px; padding-right: 12px; min-width: 1000px; text-align: center; background-color: #396cc3;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/guru">GURU™ - Automated Suggestion Helper</a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_alienvisions">
 AlienVisions
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_blueprint+vapor">
-<img src="/images/blueprintlogo.png" height="25" style="position: relative; top: 7px;" alt="Blueprint Vapor" title="Blueprint Vapor">
+<img src="/images/brands/blueprint_vapor_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Blueprint Vapor" title="Blueprint Vapor">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_boardwalk+vapor">
 Boardwalk Vapor
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_bombies">
-<img src="/images/bombies.png" height="30" style="position: relative; top: 7px;" alt="Bombies" title="Bombies">
+<img src="/images/brands/bombies_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Bombies" title="Bombies">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_breakfast+classics">
+<img src="/images/brands/breakfast_classics_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Breakfast Classics" title="Breakfast Classics">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_broken+bottle">
+<img src="/images/brands/broken_bottle_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Broken Bottle" title="Broken Bottle">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_charlies+chalk+dust">
+<img src="/images/brands/charlies_chalk_dust_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Charlies Chalk Dust" title="Charlies Chalk Dust">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_clancys+vapor">
-<img src="/images/clancy2.png" height="30" style="position: relative; top: 7px;" alt="Clancys Vapor" title="Clancys Vapor">
+<img src="/images/brands/clancys_vapor_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Clancys Vapor" title="Clancys Vapor">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_cloud+kicker+society">
+<img src="/images/brands/cloud_kicker_society_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Cloud Kicker Society" title="Cloud Kicker Society">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_cloud+remedy">
-<img src="/images/cloud-remedy3.png" height="20" style="position: relative; top: 7px;" alt="Cloud Remedy" title="Cloud Remedy">
+Cloud Remedy
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_coil+oil">
+Coil Oil
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_dashpak">
-<img src="/images/dashpak-3.png" height="30" style="position: relative; top: 7px;" alt="DashPak" title="DashPak">
+<img src="/images/brands/dashpak_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="DashPak" title="DashPak">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_dashvapes">
-<img src="/images/dv-small.png" height="30" style="position: relative; top: 7px;" alt="DashVapes" title="DashVapes">
+<img src="/images/brands/dashvapes_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="DashVapes" title="DashVapes">
 </a></li>
-<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_flavourless">
-Flavourless
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_fizz+e-liquids">
+<img src="/images/brands/fizz_e-liquids_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Fizz E-Liquids" title="Fizz E-Liquids">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_flvrs">
+<img src="/images/brands/flvrs_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="FLVRS" title="FLVRS">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_frisco+vapor">
-<img src="/images/frisco.png" height="25" style="position: relative; top: 7px;" alt="Frisco Vapor" title="Frisco Vapor">
+<img src="/images/brands/frisco_vapor_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Frisco Vapor" title="Frisco Vapor">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_g-sauce">
 G-Sauce
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_g2+vapor">
-<img src="/images/g2logo.png" height="30" style="position: relative; top: 7px;" alt="G2 Vapor" title="G2 Vapor">
+<img src="/images/brands/g2_vapor_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="G2 Vapor" title="G2 Vapor">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_glazed">
+<img src="/images/brands/glazed_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Glazed" title="Glazed">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_halcyon+vapor">
-<img src="/images/halcyon.png" height="30" style="position: relative; top: 7px;" alt="Halcyon Vapor" title="Halcyon Vapor">
+<img src="/images/brands/halcyon_vapor_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Halcyon Vapor" title="Halcyon Vapor">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_high+heat+co">
+<img src="/images/brands/high_heat_co_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="High Heat Co" title="High Heat Co">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_jackson+vapor">
-<img src="/images/jacksonlogo.png" height="30" style="position: relative; top: 7px;" alt="Jackson Vapor" title="Jackson Vapor">
+<img src="/images/brands/jackson_vapor_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Jackson Vapor" title="Jackson Vapor">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_jazzy+boba">
+<img src="/images/brands/jazzy_boba_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Jazzy Boba" title="Jazzy Boba">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_kilo+e-liquids">
-<img src="/images/kilo2.png" height="30" style="position: relative; top: 7px;" alt="Kilo E-Liquids" title="Kilo E-Liquids">
+<img src="/images/brands/kilo_e-liquids_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Kilo E-Liquids" title="Kilo E-Liquids">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_kings+crest">
+<img src="/images/brands/kings_crest_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Kings Crest" title="Kings Crest">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_lostart+liquids">
-<img src="/images/lostart.png" height="30" style="position: relative; top: 5px;" alt="LostArt Liquids" title="LostArt Liquids">
+<img src="/images/brands/lostart_liquids_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="LostArt Liquids" title="LostArt Liquids">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_mad+hatter+e-juice">
+<img src="/images/brands/mad_hatter_e-juice_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Mad Hatter E-Juice" title="Mad Hatter E-Juice">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_mtbakervapor">
 MtBakerVapor
 </a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_munchies+e-liquid">
+<img src="/images/brands/munchies_e-liquid_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Munchies E-Liquid" title="Munchies E-Liquid">
+</a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_must+vape">
-<img src="/images/mustvape.png" height="30" style="position: relative; top: 7px;" alt="Must Vape" title="Must Vape">
+<img src="/images/brands/must_vape_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Must Vape" title="Must Vape">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_mystery+box">
-<img src="/images/mystery-box-logo3.png" height="28" style="position: relative; top: 7px;" alt="Mystery Box" title="Mystery Box">
+<img src="/images/brands/mystery_box_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Mystery Box" title="Mystery Box">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_notaclone">
-<img src="/images/notaclone.png" height="20" style="position: relative; top: 7px;" alt="NotAClone" title="NotAClone">
+<img src="/images/brands/notaclone_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="NotAClone" title="NotAClone">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_one+hit+wonder">
-<img src="/images/onehit.png" height="30" style="position: relative; top: 7px;" alt="One Hit Wonder" title="One Hit Wonder">
+<img src="/images/brands/one_hit_wonder_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="One Hit Wonder" title="One Hit Wonder">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_slotter+pops">
+<img src="/images/brands/slotter_pops_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Slotter Pops" title="Slotter Pops">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_slstce">
-<img src="/images/slstce_logo.png" height="30" style="position: relative; top: 7px;" alt="SLSTCE" title="SLSTCE">
+<img src="/images/brands/slstce_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="SLSTCE" title="SLSTCE">
 </a></li>
-<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_the+schwartz">
-<img src="/images/the-schwartz3.png" height="20" style="position: relative; top: 7px;" alt="The Schwartz" title="The Schwartz">
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_super+strudel">
+<img src="/images/brands/super_strudel_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Super Strudel" title="Super Strudel">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_the+standard">
-<img src="/images/standardlogo.png" height="28" style="position: relative; top: 7px;" alt="The Standard" title="The Standard">
+<img src="/images/brands/the_standard_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="The Standard" title="The Standard">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_underground">
 Underground
 </a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_vapelyfe">
+<img src="/images/brands/vapelyfe_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Vapelyfe" title="Vapelyfe">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_vaper+treats">
+<img src="/images/brands/vaper_treats_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Vaper Treats" title="Vaper Treats">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_vapetasia">
+<img src="/images/brands/vapetasia_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Vapetasia" title="Vapetasia">
+</a></li>
+<li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_voyager+vapour">
+<img src="/images/brands/voyager_vapour_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Voyager Vapour" title="Voyager Vapour">
+</a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_wonderlust">
-<img src="/images/wonderlust_small.png" height="20" style="position: relative; top: 7px;" alt="Wonderlust" title="Wonderlust">
+<img src="/images/brands/wonderlust_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="Wonderlust" title="Wonderlust">
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_wyze+e-liquids">
 Wyze E-Liquids
 </a></li>
 <li style="padding-left: 12px; border-right: 1px solid #e2e2e2;  padding-right: 12px; border-bottom: 1px solid #e2e2e2; text-align: center;  width: 103px; font-size: 18px; float: left; "><a style="font-size: 12px;" href="/products/e-juice/24/all_brands_ygrt+e-liquid">
-<img src="/images/ygrt.png" height="30" style="position: relative; top: 7px;" alt="YGRT E-Liquid" title="YGRT E-Liquid">
+<img src="/images/brands/ygrt_e-liquid_small.png?a=k" height="30" style="position: relative; top: 7px;" alt="YGRT E-Liquid" title="YGRT E-Liquid">
 </a></li>
 <div style="clear: both;"></div>
 <li style="padding-left: 12px; padding-right: 12px; border-right: 1px solid #17376d; background-color: #2654a1; width: 121.4px; float: left; text-align: center;"><a style="font-size: 11px;  color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/e-juice/24/31_brands_">Beverage</a></li>
@@ -473,6 +574,7 @@ Wyze E-Liquids
 <li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/products/replacement+coils/29/12_brands_kanger">Kanger Coils</a></li>
 <li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/products/replacement+coils/29/12_brands_joyetech">Joyetech Coils</a></li>
 <li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/products/replacement+coils/29/12_brands_innokin">Innokin Coils</a></li>
+<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/products/replacement+coils/29/12__uwell">Uwell Coils</a></li>
 <li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/products/replacement+coils/29/12_brands_vaporshark">Temperature Control Coils</a></li>
 </ul>
 </li>
@@ -495,19 +597,13 @@ Wyze E-Liquids
 <li style="padding-left: 12px; padding-right: 12px; border-bottom: 2px solid #e2e2e2; width: 225px;"><a style="font-size: 11px;" href="/products/parts+and+accessories/9/24">Bottles &amp; Holders</a></li>
 </ul>
 </li>
-<li style="padding-left: 12px; padding-right: 12px;"><a href="/toronto-vape-shop-e-cigarette-e-liquid-stores">LOCATIONS</a>
-<ul style="margin-left: -115px;">
-<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores#richmondhill">Richmond Hill, Ontario</a></li>
-<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 11px;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores#toronto">Toronto, Ontario</a></li>
-</ul>
-</li>
 <li style="padding-left: 12px; padding-right: 12px;"><a href="/wholesale">WHOLESALE</a></li>
 </ul>
 </div>
 <hr style="margin-bottom: 0px;">
 <div id="noticeMsg" style="width: 300px; margin-left: -150px; z-index: 9999999999;"></div>
-<div id="contain" style="background-color: #fff; ">
-<div style="width: 1024px; ">
+<div id="contain" style="background-color: #fff;">
+<div style="width: 1024px;">
 <div class="box">
 <div class="heading">Privacy Policy</div>
 <hr>
@@ -578,15 +674,24 @@ Please check this privacy policy periodically to inform yourself of any changes.
 <a href="http://www.yelp.ca/biz/dashvapes-toronto-toronto" target="_new"><img style="border: 0px;" alt="Yelp" src="/images/social/yelp.gif"></a>
 <a href="https://foursquare.com/v/dashvapes-toronto/5472206e498e3f6064d5d798" target="_new"><img alt="Foursquare" style="border: 0px;" src="/images/social/fs.gif"></a>
 <div style="clear: both; margin-top: 5px;"></div> </div>
-<a href="http://www.wackedoutecig.ca/dashvapes-com/" style="float: left; margin-top: 15px;"><img src="http://www.wackedoutecig.ca/images/linktous/linktous3.png" alt="Canada E-Cigarette Ecig Forum" width="50" border="0"></a>
-<a style="float: left; margin-top: 8px; margin-left: 5px; display: block;" href="http://www.canadianvapingassociation.org/" target="_blank"><img src="/images/cva.png" alt="Canadian Vaping Association" width="50"></a>
-<div style="clear: both; margin-top: 15px;"></div>
+<div>
+<h3 style="font-weight: bold; margin-bottom: 5px;">Mississauga, ON</h3>
+<a href="https://plus.google.com/b/117963446027283236966/117963446027283236966/posts" target="_new"><img alt="Google+" style="border: 0px;" src="/images/social/g_logo.png"></a>
+<a href="http://www.yelp.ca/biz/dashvapes-mississauga" target="_new"><img style="border: 0px;" alt="Yelp" src="/images/social/yelp.gif"></a>
+<a href="https://foursquare.com/v/dashvapes-mississauga/5606d156498e866db8aaaa0a" target="_new"><img alt="Foursquare" style="border: 0px;" src="/images/social/fs.gif"></a>
+<div style="clear: both; margin-top: 5px;"></div> </div>
+<div>
+<h3 style="font-weight: bold; margin-bottom: 5px;">Markham, ON</h3>
+<a href="https://plus.google.com/b/117939586217296807599/117939586217296807599/posts" target="_new"><img alt="Google+" style="border: 0px;" src="/images/social/g_logo.png"></a>
+<a href="http://www.yelp.ca/biz/dashvapes-markham" target="_new"><img style="border: 0px;" alt="Yelp" src="/images/social/yelp.gif"></a>
+<a href="https://foursquare.com/v/dashvapes-markham/5631c7ca498ec74189a6f871" target="_new"><img alt="Foursquare" style="border: 0px;" src="/images/social/fs.gif"></a>
+<div style="clear: both; margin-top: 5px;"></div> </div>
 </div>
 <div class="paymentIcons" style="float: left; margin-left: 40px; margin-top: 5px; margin-right: 5px;">
 <h2>Contact Information</h2>
 <hr style="margin-top: 10px; margin-bottom: 5px;">
-<div style="font-weight: bold; font-size: 14px; color: #2654a1;"><img src="/images/phone.gif" style="position: relative; top: 8px; margin-right: 10px;" alt="Phone" title="Telephone"> 1 (866) 996-DASH (3274)</div>
-<div style="font-weight: bold; font-size: 14px; color: #2654a1; margin-top: 10px;"><img src="/images/fax.gif" style="position: relative; top: 8px; margin-right: 10px;" alt="Fax" title="Fax"> (905) 237-7973</div>
+<div style="font-weight: bold; font-size: 14px; color: #2654a1;"><img src="/images/phone.gif" style="position: relative; top: 8px; margin-right: 10px;" alt="Phone" title="Toll Free (Canada Only)"> 1 (866) 996-DASH (3274)</div>
+<div style="font-weight: bold; font-size: 14px; color: #2654a1; margin-top: 10px;"><img src="/images/phone.gif" style="position: relative; top: 8px; margin-right: 10px;" alt="Local" title="Local / International"> (416) 226-2775 </div>
 <div style="font-weight: normal; font-size: 14px; color: #2654a1;  margin-top: 10px;"><img src="/images/email.gif" style="position: relative; top: 8px; margin-right: 15px;" alt="Email" title="Email"><a style="color: #2654a1;" href="mailto:sales@dashvapes.com">sales@dashvapes.com</a></div>
 <h2 style="margin-top: 27px;">Store Hours</h2>
 <hr style="margin-top: 10px; margin-bottom: 5px;">
@@ -596,12 +701,18 @@ Please check this privacy policy periodically to inform yourself of any changes.
 <div style="font-size: 14px; margin-top: 5px;">
 <b>Sat ~ Sun:</b> 12:00 PM - 7:00 PM
 </div>
+<div style="margin-top: 10px;">
+<a href="http://www.wackedoutecig.ca/dashvapes-com/" style="float: left; margin-top: 15px;"><img src="http://www.wackedoutecig.ca/images/linktous/linktous3.png" alt="Canada E-Cigarette Ecig Forum" width="90" border="0"></a>
+<a style="float: left; margin-top: 8px; margin-left: 5px; display: block;" href="http://www.canadianvapingassociation.org/" target="_blank"><img src="/images/cva.png" alt="Canadian Vaping Association" width="90"></a>
+<div style="clear: both; margin-top: 15px;"></div>
+</div>
 </div>
 <div style="float: left; margin-left: 40px; margin-top: 5px; margin-right: 5px;">
 <h2>Information</h2>
 <hr style="margin-top: 10px; margin-bottom: 10px;">
 <ul style="margin-left: 20px;">
 <li><a href="/wholesale" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Wholesale</a></li>
+<li><a href="/guru" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">DashVapes Guru™</a></li>
 <li><a href="/contact_us" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Contact Us</a></li>
 <li><a href="/privacy" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Privacy Policy</a></li>
 <li><a href="/terms" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Terms &amp; Conditions</a></li>
@@ -609,7 +720,8 @@ Please check this privacy policy periodically to inform yourself of any changes.
 <li><a href="/account/referrals" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Referral Program</a></li>
 <li><a href="/jobs" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Jobs</a></li>
 <li><a href="/ejuice-testing" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">E-Liquid Testing</a></li>
-<li><a href="/battery-safety" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Battery Information</a></li>
+<li><a href="http://blog.dashvapes.com/2015/09/02/battery-information" target="_new" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Battery Information</a></li>
+<li><a href="http://blog.dashvapes.com/" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">DashVapes Blog</a></li>
 </ul>
 <h2 style="margin-top: 20px;">Shipping &amp; Returns</h2>
 <hr style="margin-top: 10px; margin-bottom: 10px;">
@@ -627,7 +739,7 @@ Please check this privacy policy periodically to inform yourself of any changes.
 <li><a href="/cart" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">View Cart</a></li>
 <li><a href="/contact_us" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Return Items</a></li>
 <li><a href="/products/parts+and+accessories/9/dashvapes+gift+certificate/716" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Buy Gift Certificate</a></li>
-<li><a href="/account/gift_certificates" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Activate Gift Certificate</a></li>
+<li><a href="/account/gift_certificates" style="display: block; fondat-size: 12px; margin-top: 5px; margin-left: 5px;">Activate Gift Certificate</a></li>
 <li><a href="/refill" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">The Refill Solution</a></li>
 </ul>
 <h2 style="margin-top: 20px;">Payment Options</h2>
@@ -638,36 +750,55 @@ Please check this privacy policy periodically to inform yourself of any changes.
 <br>
 <img src="/images/payment/mc.png">
 <img src="/images/payment/disco.png">
-<img src="/images/payment/paypal.png">
 </div>
 <div style="float: left; margin-left: 30px; margin-top: 5px; margin-right: 5px;">
-<h2>Retail Locations</h2>
+<h2><a style="color:#000000;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores">Locations</a></h2>
 <hr style="margin-top: 10px; margin-bottom: 10px;">
 <div itemscope="" itemtype="http://schema.org/Organization">
-<div style="font-weight: bold; font-size: 16px; color: #2654a1; text-decoration: underline;">Richmond Hill, ON</div>
+<a style="font-weight: bold; font-size: 12px; color: #2654a1; text-decoration: underline;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores#richmondhill">Richmond Hill, ON</a>
 <meta itemprop="name" content="DashVapes Richmond Hill">
 <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-<div style="font-size: 12px; margin-top: 10px; color: #000;" itemprop="streetAddress">1285 Elgin Mills RD E</div>
+<div style="font-size: 12px; margin-top: 5px; color: #000;" itemprop="streetAddress">1285 Elgin Mills RD E</div>
 <div style="font-size: 12px; margin-top: 5px; color: #000;"><span itemprop="addressLocality">Richmond Hill</span>, <span itemprop="addressRegion">ON</span>, <span itemprop="postalCode">L4S0B5</span></div>
 </div>
-<div style="font-weight: bold; font-size: 16px; margin-top: 10px; color: #2654a1;  margin-bottom: 10px; ">(905) 884-3274</div>
+<div style="font-weight: bold; font-size: 12px; margin-top: 5px; color: #2654a1;  margin-bottom: 10px; ">(905) 884-3274</div>
 </div>
-<hr style="margin-top: 23px; margin-bottom: 23px;">
+<hr style="margin-top: 10px; margin-bottom: 10px;">
 <div itemscope="" itemtype="http://schema.org/Organization">
-<div style="font-weight: bold; font-size: 16px; margin-top: 10px; color: #2654a1; text-decoration: underline;">Toronto, ON</div>
+<a style="font-weight: bold; font-size: 12px; margin-top: 10px; color: #2654a1; text-decoration: underline;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores#toronto">Toronto, ON</a>
 <meta itemprop="name" content="DashVapes Toronto">
 <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-<div style="font-size: 12px; margin-top: 10px; color: #000;" itemprop="streetAddress">216 Adelaide St W</div>
+<div style="font-size: 12px; margin-top: 5px; color: #000;" itemprop="streetAddress">216 Adelaide St W</div>
 <div style="font-size: 12px; margin-top: 5px; color: #000;"><span itemprop="addressLocality">Toronto</span>, <span itemprop="addressRegion">ON</span>, <span itemprop="postalCode">M5H1W7</span></div>
 </div>
-<div style="font-weight: bold; font-size: 16px; margin-top: 10px; color: #2654a1; margin-bottom: 10px; " itemprop="telephone">(647) 347-3274</div>
+<div style="font-weight: bold; font-size: 12px; margin-top: 5px; color: #2654a1; margin-bottom: 10px; " itemprop="telephone">(647) 347-3274</div>
+</div>
+<hr style="margin-top: 10px; margin-bottom: 10px;">
+<div itemscope="" itemtype="http://schema.org/Organization">
+<a style="font-weight: bold; font-size: 12px; margin-top: 10px; color: #2654a1; text-decoration: underline;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores#mississauga">Mississauga, ON</a>
+<meta itemprop="name" content="DashVapes Mississauga">
+<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+<div style="font-size: 12px; margin-top: 5px; color: #000;" itemprop="streetAddress">6020 Hurontario St</div>
+<div style="font-size: 12px; margin-top: 5px; color: #000;"><span itemprop="addressLocality">Mississauga</span>, <span itemprop="addressRegion">ON</span>, <span itemprop="postalCode">L5R4B3</span></div>
+</div>
+<div style="font-weight: bold; font-size: 12px; margin-top: 5px; color: #2654a1; margin-bottom: 10px; " itemprop="telephone">(905) 507-3274</div>
+</div>
+<hr style="margin-top: 10px; margin-bottom: 10px;">
+<div itemscope="" itemtype="http://schema.org/Organization">
+<a style="font-weight: bold; font-size: 12px; margin-top: 10px; color: #2654a1; text-decoration: underline;" href="/toronto-vape-shop-e-cigarette-e-liquid-stores#markham">Markham, ON</a>
+<meta itemprop="name" content="DashVapes Markham">
+<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+<div style="font-size: 12px; margin-top: 5px; color: #000;" itemprop="streetAddress">30 Shields Court Unit 2</div>
+<div style="font-size: 12px; margin-top: 5px; color: #000;"><span itemprop="addressLocality">Markham</span>, <span itemprop="addressRegion">ON</span>, <span itemprop="postalCode">L3R9T5</span></div>
+</div>
+<div style="font-weight: bold; font-size: 12px; margin-top: 5px; color: #2654a1; margin-bottom: 10px; " itemprop="telephone">(905) 604-3274</div>
 </div>
 </div>
 <div style="clear: both;"></div>
 </div>
 </div>
 <div style="margin-top: 10px; width: 1024px; margin: auto; font-family: Verdana; text-align: center; margin-bottom: 10px; color: #f0f0f0; margin-top: 10px;">
-Copyright © 2015 DashVapes Inc - All Rights Reserved | 1285 Elgin Mills RD E #19, Richmond Hill, ON, L4S0B5, Canada | 216 Adelaide St W, Toronto, ON, M5H1W7
+Copyright © 2016 DashVapes Inc - All Rights Reserved <div style="margin-top: 10px;">1285 Elgin Mills RD E #19, Richmond Hill, ON | 216 Adelaide St W, Toronto, ON | 6020 Hurontario St, Misssissauga, ON | 30 Shields Crt, Markham, ON</div>
 </div>
 
 <script type="text/javascript">
@@ -683,6 +814,255 @@ __lc.params = [
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
 })();
 </script>
+<script>
+$().ready(function() {
+$('.removeBottomBox').live("click", function() {
+   var show ='';
+	
+	$.post("/scripts/hidebottombox.php", { show: show }, function(data) {
+		$('#bottombox').fadeOut();
+	});
+});
+
+setInterval(function(){
+	var cnt = $('.bottomCount').val();
+	var newcnt = parseInt(cnt) + parseInt(1);
+
+	$('.bottombox').hide();
+	$('.bottombox'+ newcnt).fadeIn();
+	$('.bottomCount').val(newcnt);
+	if(newcnt == '20') {
+		$('#bottombox').fadeOut();
+		var newcnt = '1';
+	}
+}, 10000);
+});
+</script>
+<input type="hidden" class="bottomCount" value="1">
+<div style="position: fixed; bottom: 10px; left: 10px; border: 2px solid #e2e2e2; width: 300px;" id="bottombox">
+<a style="float: left; text-decoration: none; margin-top: 15px; font-size: 30px; cursor: pointer;" class="removeBottomBox" title="Close box">✕</a>
+<div class="bottombox bottombox1" style="">
+<a href="/products/e-juice/24/hawk+sauce/107/5777"><img style="float: left;margin-left: 10px;" src="/images/products/24/107/366_1401601691_100x100.gif" width="70" alt="Hawk Sauce"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Mississauga, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/hawk+sauce/107/5777">Hawk Sauce</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox2" style="display: none;">
+<a href="/products/e-juice/24/i+love+cookies/1182/10432"><img style="float: left;margin-left: 10px;" src="/images/products/24/1182/10430_1449685357_100x100.png" width="70" alt="I LOVE Cookies"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Richmond Hill, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mad+hatter+e-juice">Mad Hatter E-Juice</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/i+love+cookies/1182/10432">I LOVE Cookies</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox3" style="display: none;">
+<a href="/products/e-juice/24/hawk+sauce/107/5711"><img style="float: left;margin-left: 10px;" src="/images/products/24/107/366_1401601691_100x100.gif" width="70" alt="Hawk Sauce"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Richmond Hill, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/hawk+sauce/107/5711">Hawk Sauce</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox4" style="display: none;">
+<a href="/products/e-juice/24/candie+flip/1120/9902"><img style="float: left;margin-left: 10px;" src="/images/products/24/1120/9900_1443030242_100x100.png" width="70" alt="Candie Flip"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Mississauga, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_high+heat+co">High Heat Co</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/candie+flip/1120/9902">Candie Flip</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox5" style="display: none;">
+<a href="/products/e-juice/24/candie+flip/1120/9902"><img style="float: left;margin-left: 10px;" src="/images/products/24/1120/9900_1443030242_100x100.png" width="70" alt="Candie Flip"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Mississauga, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_high+heat+co">High Heat Co</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/candie+flip/1120/9902">Candie Flip</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox6" style="display: none;">
+<a href="/products/e-juice/24/thai+boba/1184/10445"><img style="float: left;margin-left: 10px;" src="/images/products/24/1184/10439_1452554575_100x100.gif" width="70" alt="Thai Boba"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Richmond Hill, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_jazzy+boba">Jazzy Boba</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/thai+boba/1184/10445">Thai Boba</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox7" style="display: none;">
+<a href="/products/e-juice/24/green+apple/72/5830"><img style="float: left;margin-left: 10px;" src="/images/products/24/72/115_1401601499_100x100.gif" width="70" alt="Green Apple"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/green+apple/72/5830">Green Apple</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox8" style="display: none;">
+<a href="/products/e-juice/24/peach/75/137"><img style="float: left;margin-left: 10px;" src="/images/products/24/75/133_1401601532_100x100.gif" width="70" alt="Peach"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Richmond Hill, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/peach/75/137">Peach</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox9" style="display: none;">
+<a href="/products/e-juice/24/flavourless/664/4550"><img style="float: left;margin-left: 10px;" src="/images/products/24/664/4546_1415651008_100x100.png" width="70" alt="Flavourless"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/flavourless/664/4550">Flavourless</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox10" style="display: none;">
+<a href="/products/e-juice/24/the+mystery+flavor/855/6955"><img style="float: left;margin-left: 10px;" src="/images/products/24/855/6948_1429212926_100x100.png" width="70" alt="The Mystery Flavor"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Trail, BC</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_lostart+liquids">LostArt Liquids</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/the+mystery+flavor/855/6955">The Mystery Flavor</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox11" style="display: none;">
+<a href="/products/e-juice/24/talon/722/5201"><img style="float: left;margin-left: 10px;" src="/images/products/24/722/5192_1443130832_100x100.png" width="70" alt="Talon"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_wyze+e-liquids">Wyze E-Liquids</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/talon/722/5201">Talon</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox12" style="display: none;">
+<a href="/products/e-juice/24/purple+nurple/939/7518"><img style="float: left;margin-left: 10px;" src="/images/products/24/939/7509_1451499099_100x100.png" width="70" alt="Purple Nurple"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_g2+vapor">G2 Vapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/purple+nurple/939/7518">Purple Nurple</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox13" style="display: none;">
+<a href="/products/e-juice/24/wonderland/275/5556"><img style="float: left;margin-left: 10px;" src="/images/products/24/275/1291_1434321131_100x100.png" width="70" alt="Wonderland"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_dashvapes">DashVapes</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/wonderland/275/5556">Wonderland</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox14" style="display: none;">
+<a href="/products/e-juice/24/glazed+e-juice/1192/10512"><img style="float: left;margin-left: 10px;" src="/images/products/24/1192/10512_1451502781_100x100.png" width="70" alt="Glazed E-Juice"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Mississauga, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_glazed">Glazed</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/glazed+e-juice/1192/10512">Glazed E-Juice</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox15" style="display: none;">
+<a href="/products/e-juice/24/wonderland/275/5571"><img style="float: left;margin-left: 10px;" src="/images/products/24/275/1291_1434321131_100x100.png" width="70" alt="Wonderland"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>St-Hubert, QC</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_dashvapes">DashVapes</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/wonderland/275/5571">Wonderland</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox16" style="display: none;">
+<a href="/products/e-juice/24/thumper/898/7183"><img style="float: left;margin-left: 10px;" src="/images/products/24/898/7179_1444932912_100x100.gif" width="70" alt="Thumper"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_the+standard">The Standard</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/thumper/898/7183">Thumper</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox17" style="display: none;">
+<a href="/products/e-juice/24/strawberry+kiwi/200/3020"><img style="float: left;margin-left: 10px;" src="/images/products/24/200/618_1401602023_100x100.gif" width="70" alt="Strawberry Kiwi"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/strawberry+kiwi/200/3020">Strawberry Kiwi</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox18" style="display: none;">
+<a href="/products/e-juice/24/the+cupcake+man/1262/10911"><img style="float: left;margin-left: 10px;" src="/images/products/24/1262/10910_1457645894_100x100.png" width="70" alt="The Cupcake Man"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Markham, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_vaper+treats">Vaper Treats</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/the+cupcake+man/1262/10911">The Cupcake Man</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox19" style="display: none;">
+<a href="/products/e-juice/24/empire/902/7209"><img style="float: left;margin-left: 10px;" src="/images/products/24/902/7209_1432676169_100x100.png" width="70" alt="Empire"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Toronto , ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_blueprint+vapor">Blueprint Vapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/empire/902/7209">Empire</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="bottombox bottombox20" style="display: none;">
+<a href="/products/e-juice/24/guava/295/2944"><img style="float: left;margin-left: 10px;" src="/images/products/24/295/1549_1401601880_100x100.gif" width="70" alt="Guava"></a>
+<div style="float: left; margin-left: 10px; width: 180px; font-weight: normal; font-size: 12px;">
+Someone in <b>Lanark, ON</b> recently purchased a bottle of
+<div style="margin-top: 5px;">
+<a style=" font-size: 10px; color: #888;" href="/products/e-juice/24/all_brands_mtbakervapor">MtBakerVapor</a>
+<a style=" font-size: 14px; display: block; font-weight: bold;" href="/products/e-juice/24/guava/295/2944">Guava</a>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+
 
 
 </body></html>
