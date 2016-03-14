@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epropertysites.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816002519id_/http%3A//www.epropertysites.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epropertysites.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314015646id_/http%3A//agentmarketing.com/privacy) for the most accurate reproduction.*
 
-# Single Property Websites - Privacy Statement
+# AgentMarketing.com - Privacy Statement
 
 **Basic Confidentiality Policy**
 
