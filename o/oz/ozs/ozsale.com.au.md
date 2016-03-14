@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322114727id_/http%3A//www.ozsale.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314011523id_/http%3A//www.ozsale.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Ozsale.com.au - Privacy
 
