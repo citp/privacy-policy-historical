@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maaco.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709023930id_/http%3A//www.maaco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maaco.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314095154id_/http%3A//www.maaco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Maaco Home](https://web.archive.org/web/20150709023930id_/http%3A//www.maaco.com/index.html) > Privacy Policy
+[Maaco Home](https://web.archive.org/web/20160314095154id_/http%3A//www.maaco.com/index.html) > Privacy Policy
 
 This privacy policy describes how Maaco collects, uses and discloses the information transmitted or submitted to Maaco, whether provided at a Maaco dealership or via a website, email, phone, fax, text or SMS message, postal mail or any other written or oral communication with us.
 
