@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacustomercare.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701201801id_/http%3A//www.indiacustomercare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacustomercare.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314215833id_/http%3A//www.indiacustomercare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Customer Care
 
