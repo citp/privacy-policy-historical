@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceitapps.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022080713id_/https%3A//www.appsorama.com/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceitapps.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314170729id_/https%3A//www.appsorama.com/privacy.html%23privacy) for the most accurate reproduction.*
 
 # Apps-O-Rama | Privacy
 
@@ -140,7 +140,8 @@ Date Last Modified: This Privacy Policy was last modified February 15, 2014.
 
 If you have questions about this Policy, please contact AoR.  
 Apps-O-Rama  
-2184 Sutter Street, #118  
+1849 Geary Blvd.  
+P.O. Box 156461  
 San Francisco, CA 94115  
 You may email questions to [info@appsorama.com](mailto:info@appsorama.com).
 
