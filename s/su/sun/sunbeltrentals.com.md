@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929115050id_/https%3A//www.sunbeltrentals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314102058id_/https%3A//www.sunbeltrentals.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Sunbelt Rentals
 
@@ -38,7 +38,7 @@ _Personal Information_. Gathering Personal Information about our customers allow
 Sunbelt Rentals  
 2341 Deerfield Drive  
 Fort Mill, SC 29715  
-(866)786-2358  
+(800)667-9328  
 [customerservice@sunbeltrentals.com](mailto:customerservice@sunbeltrentals.com)
 
   5. Changes to this Privacy Policy: The Internet is constantly changing, as is the nature of our Internet business operations, so we will likely need to change this Privacy Policy from time to time. You should check this Privacy Policy frequently to review the latest version of the Privacy Policy. Our posting an amended version of the Privacy Policy on the Site will serve as notice to you of that amendment.  
