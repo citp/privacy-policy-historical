@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070344id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314082035id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Footwear
 
 ## Privacy Policy
 
-At Famous Footwear and Famous Footwear Outlet, we want to demonstrate our commitment to your privacy. This privacy policy is effective as of October 16, 2014, and discloses the privacy practices of Famous Footwear and Famous Footwear Outlet. This privacy policy will notify you of:
+At Famous Footwear and Famous Footwear Outlet, we want to demonstrate our commitment to your privacy. This privacy policy is effective as of January 7, 2016, and discloses the privacy practices of Famous Footwear and Famous Footwear Outlet. This privacy policy will notify you of:
 
   1. What personal information or third-party personal information is collected from you through the website. 
   2. Who is collecting the information.
@@ -20,9 +20,9 @@ If you feel that we are not abiding by our posted privacy policy, you should con
 
 #### Information Collection and Use
 
-Famous Footwear is an operating division of Brown Group Retail, Inc., in the United States, and Caleres, Inc. of CANADA, Ltd. in Canada, which are in turn wholly-owned subsidiaries of Caleres, Inc. The famous.com website is operated by the Famous Footwear Division of Brown Group Retail, Inc. Brown Group Retail, Inc., and Caleres, Inc. of Canada, Ltd. are the sole owners of all information collected on this site. This information is collected from users at several different points on the famous.com website. 
+Famous Footwear is an operating division of BG Retail, LLC., in the United States, and Caleres Canada, Inc. in Canada, which are in turn wholly-owned subsidiaries of Caleres, Inc. The famous.com website is operated by the Famous Footwear Division of BG Retail, LLC. BG Retail, LLC., and Caleres Canada, Inc. are the sole owners of all information collected on this site. This information is collected from users at several different points on the famous.com website. 
 
-Personal information collected at or through Famous Footwear retail locations in the U.S. is controlled by Brown Group Retail, Inc. Personal information collected at or through Famous Footwear retail locations in Canada is controlled by Caleres, Inc. of Canada, Ltd. It is our policy that this information will not be shared with, sold or rented to others in ways different from what is disclosed in this policy.
+Personal information collected at or through Famous Footwear retail locations in the U.S. is controlled by BG Retail, LLC. Personal information collected at or through Famous Footwear retail locations in Canada is controlled by Caleres Canada, Inc. It is our policy that this information will not be shared with, sold or rented to others in ways different from what is disclosed in this policy.
 
 #### Rewards Membership
 
@@ -98,4 +98,4 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 #### Contact Information
 
-If you wish to request access to, or correction of, your personal information in the custody or control of Brown Group Retail, Inc. or Caleres, Inc. of Canada, Ltd., if you have any questions or would like to make a complaint, or if you would like to opt-out of receiving promotional materials from Brown Group Retail, Inc. or Caleres, Inc. of Canada Ltd., please use the information below to contact us. Requests for access and correction must be in writing and are subject to applicable legal restrictions.
+If you wish to request access to, or correction of, your personal information in the custody or control of BG Retail, LLC. or Caleres Canada, Inc., if you have any questions or would like to make a complaint, or if you would like to opt-out of receiving promotional materials from BG Retail, LLC. or Caleres Canada, Inc., please use the information below to contact us. Requests for access and correction must be in writing and are subject to applicable legal restrictions.
