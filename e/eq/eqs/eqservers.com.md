@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eqservers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315160047id_/https%3A//www.eqservers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eqservers.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314044152id_/https%3A//www.eqservers.com/privacy.php) for the most accurate reproduction.*
 
-# EqServers LLC Privacy Policy
+# EqServers LLC's Privacy Policy
 
 In an effort to protect our clients' and site visitors privacy and rights, EqServers LLC has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather. This Privacy Policy governs the manner in which EqServers LLC collects, uses, maintains and discloses information collected from users of this Web site (each, a "User"). 
 
