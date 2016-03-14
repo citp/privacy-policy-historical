@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondivas.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912005701id_/http%3A//coupondivas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondivas.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314191710id_/http%3A//coupondivas.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
