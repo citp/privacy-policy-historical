@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundanything.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325023840id_/https%3A//fundanything.desk.com/customer/portal/articles/1081667-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundanything.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314033907id_/https%3A//fundanything.desk.com/customer/portal/articles/1081667-privacy-policy) for the most accurate reproduction.*
 
 # FundAnything | Privacy Policy
 
