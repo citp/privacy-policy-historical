@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912121547id_/http%3A//everythingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314094709id_/http%3A//everythingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EverythingMom
 
