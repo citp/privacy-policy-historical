@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zayconfoods.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913101741id_/https%3A//www.zayconfresh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zayconfoods.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314022658id_/https%3A//www.zayconfresh.com/privacy-policy) for the most accurate reproduction.*
 
 # Zaycon Fresh - Privacy Policy
 
@@ -12,7 +12,7 @@ Zaycon Fresh, LLC is committed to protect your online privacy and believes it is
 
 Our Privacy Policy describes what information we collect online, how we protect it and what choices you have about how that information is used. We encourage you to read this Policy carefully so that you will understand the privacy standards used to ensure the security and confidentiality of your information. Should you have any questions about this policy or our privacy practices, please contact us in the following manner:
 
-  1. Send an e-mail to Melissa Perez at [Melissa@ZayconFresh.com](mailto:melissa@zayconfresh.com?subject=Privacy%20Policy)
+  1. Send an e-mail to Elizabeth Bartch at [ebartch@zayconfresh.com](mailto:ebartch@zayconfresh.com)
   2. Write to us at: Zaycon Fresh attn: Privacy Officer, 16201 E. Indiana Ste 2150, Spokane Valley, WA 99216
 
 
