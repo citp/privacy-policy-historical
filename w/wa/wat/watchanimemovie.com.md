@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchanimemovie.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022226id_/http%3A//www.watchanimemovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchanimemovie.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314102836id_/http%3A//www.watchanimemovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Anime Movies Online
 
