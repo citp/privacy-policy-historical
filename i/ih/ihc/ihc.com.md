@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihc.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906053208id_/https%3A//intermountainhealthcare.org/website-information/privacy-notices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihc.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314064152id_/https%3A//intermountainhealthcare.org/website-information/privacy-notices) for the most accurate reproduction.*
 
 # Privacy Notices | Intermountain Healthcare, Salt Lake City, UT
 
@@ -15,6 +15,12 @@ The online career application privacy statement explaining how certain personal 
 ###  [Patient Privacy Notice](https://web.archive.org/website-information/privacy-notices/patients/)
 
 Privacy Practices Notice describing how medical information about you may be used and disclosed and how you can get access to this information.
+
+[](https://web.archive.org/website-information/privacy-notices/protect-yourself-from-scams/)
+
+###  [Protect Yourself From Scams](https://web.archive.org/website-information/privacy-notices/protect-yourself-from-scams/)
+
+Intermountain Healthcare takes special care to protect your information. Protect yourself from criminal activities and avoid falling victim to scams. 
 
 [](https://web.archive.org/website-information/privacy-notices/website/)
 
