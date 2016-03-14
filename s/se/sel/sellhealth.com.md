@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellhealth.com privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716072632id_/http%3A//www.sellhealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellhealth.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314113232id_/http%3A//www.sellhealth.com/privacy.html) for the most accurate reproduction.*
 
 # SellHealth.com - Your Privacy Rights
 
@@ -50,4 +50,4 @@ or
 >  Victoria, British Columbia  
 >  Canada V9A 6X5 
 
-Copyright ©2015 Leading Edge Marketing. All rights reserved.
+Copyright ©2016 Leading Edge Marketing. All rights reserved.
