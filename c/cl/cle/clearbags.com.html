@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clearbags.com privacy policy that was archived on 2015-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223092255id_/http%3A//www.clearbags.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clearbags.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314203429id_/http%3A//www.clearbags.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,7 +18,7 @@
 </script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://1.cdn.clearbags.us/skin/frontend/clearbags/rwd/css/scaffold-forms.css" media="all">
-<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://3.cdn.clearbags.us/js/prototype/prototype.js"></script>
+<script async="" src="//trackedweb.net/js/_dmptv2.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" src="https://t.trackedlink.net/_dmpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://3.cdn.clearbags.us/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://3.cdn.clearbags.us/js/lib/jquery/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="http://3.cdn.clearbags.us/js/lib/jquery/noconflict.js"></script>
 <script type="text/javascript" src="http://3.cdn.clearbags.us/js/lib/ccard.js"></script>
@@ -80,12 +80,105 @@ ga('send', 'pageview');
         //]]>
         </script>
         <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
-    <script type="text/javascript">//<![CDATA[
+        <script type="text/javascript">
+        (function(){
+            var connector = document.createElement('script');
+            connector.type = 'text/javascript';
+            connector.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't.trackedlink.net/_dmpt.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(connector, s);
+        })();
+    </script>
+
+
+<script type="text/javascript">
+    //Email Capture For Quote
+
+    var emailCapture = Class.create();
+    emailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='billing[email]']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.clearbags.com/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
+                });
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+
+    //Email Capture For Newsletter
+
+    var newsletterEmailCapture = Class.create();
+    newsletterEmailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='email']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.clearbags.com/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
+                });
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+</script><!-- Easy Email Capture For Checkout -->
+
+<!-- Easy Email Capture For Newsletter Field -->
+<script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script><meta name="msapplication-config" content="none">
 <script src="//cdn.optimizely.com/js/2865850571.js"></script>
 <script async="" type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5014796"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5014796&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript></head>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5014796"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5014796&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+    <script>
+        (function(w,d,u,t,o,c){w['dmtrackingobjectname']=o;c=d.createElement(t);c.async=1;c.src=u;t=d.getElementsByTagName
+        (t)[0];t.parentNode.insertBefore(c,t);w[o]=w[o]||function(){(w[o].q=w[o].q||[]).push(arguments);};w[o]('track');
+        })(window, document, '//trackedweb.net/js/_dmptv2.js', 'script', 'dmPt');
+    </script></head>
 <body class=" cms-page-view cms-privacy-policy">
 <div class="widget widget-static-block"></div>
 <div class="wrapper">
@@ -99,7 +192,7 @@ ga('send', 'pageview');
         </div>
     </noscript>
     <div class="page">
-        <script language="JavaScript" type="text/javascript" src="https://www.clearbags.com/webchat/jivelive.jsp"></script>
+        <!--<script language="JavaScript" type="text/javascript" src="https://www.clearbags.com/webchat/jivelive.jsp"></script>-->
 <div class="header-language-background">
     <div class="header-language-container">
         <div class="store-language-container">
@@ -180,7 +273,7 @@ West &nbsp; 800-233-2630    East &nbsp; 800-328-1847  
             
     <nav id="nav">
         <ol class="nav-primary">
-            <li class="level0 nav-1 first parent"><a href="http://www.clearbags.com/bags" class="level0 has-children">Bags</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/bags">View All Bags</a></li><li class="level1 nav-1-1 first"><a href="http://www.clearbags.com/bags/clear-bags" class="level1 ">Crystal Clear Bags ®</a></li><li class="level1 nav-1-2"><a href="http://www.clearbags.com/bags/gusset" class="level1 ">Gusset Bags</a></li><li class="level1 nav-1-3"><a href="http://www.clearbags.com/bags/food" class="level1 ">Food Safe Bags</a></li><li class="level1 nav-1-4"><a href="http://www.clearbags.com/bags/handle" class="level1 ">Handle Bags</a></li><li class="level1 nav-1-5"><a href="http://www.clearbags.com/bags/roll" class="level1 ">Bags On a Roll</a></li><li class="level1 nav-1-6"><a href="http://www.clearbags.com/bags/flat-poly" class="level1 ">Flat Poly Bags</a></li><li class="level1 nav-1-7"><a href="http://www.clearbags.com/bags/cd-dvd" class="level1 ">CD/DVD Sleeves &amp; Bags</a></li><li class="level1 nav-1-8"><a href="http://www.clearbags.com/bags/poly-tubing" class="level1 ">Clear Poly Tubing</a></li><li class="level1 nav-1-9"><a href="http://www.clearbags.com/bags/zip" class="level1 ">Zipper Bags</a></li><li class="level1 nav-1-10"><a href="http://www.clearbags.com/bags/eco" class="level1 ">Eco Clear Compostable Bags</a></li><li class="level1 nav-1-11"><a href="http://www.clearbags.com/bags/door-knob" class="level1 ">Clear Door Knob Bags</a></li><li class="level1 nav-1-12"><a href="http://www.clearbags.com/bags/shield" class="level1 ">Static Shielding Bag</a></li><li class="level1 nav-1-13"><a href="http://www.clearbags.com/bags/barrier" class="level1 ">Barrier Bags</a></li><li class="level1 nav-1-14"><a href="http://www.clearbags.com/bags/album" class="level1 ">Album Sleeves</a></li><li class="level1 nav-1-15 last"><a href="http://www.clearbags.com/bags/newspaper" class="level1 ">Newspaper Bags</a></li></ul></li><li class="level0 nav-2 parent"><a href="http://www.clearbags.com/box" class="level0 has-children">Boxes</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/box">View All Boxes</a></li><li class="level1 nav-2-1 first"><a href="http://www.clearbags.com/box/clear" class="level1 ">Crystal Clear Boxes ®</a></li><li class="level1 nav-2-2"><a href="http://www.clearbags.com/box/food" class="level1 ">Food Safe Boxes</a></li><li class="level1 nav-2-3"><a href="http://www.clearbags.com/box/premium" class="level1 ">Premium Clear Boxes</a></li><li class="level1 nav-2-4"><a href="http://www.clearbags.com/box/pillow" class="level1 ">Pillow Boxes</a></li><li class="level1 nav-2-5"><a href="http://www.clearbags.com/box/paper-boxes" class="level1 ">Paper Boxes</a></li><li class="level1 nav-2-6"><a href="http://www.clearbags.com/box/shipping" class="level1 ">Shipping Boxes</a></li><li class="level1 nav-2-7"><a href="http://www.clearbags.com/box/wine" class="level1 ">Wine Boxes</a></li><li class="level1 nav-2-8"><a href="http://www.clearbags.com/box/tubes" class="level1 ">Tubes</a></li><li class="level1 nav-2-9 last"><a href="http://www.clearbags.com/box/shoe" class="level1 ">Shoe Boxes</a></li></ul></li><li class="level0 nav-3 parent"><a href="http://www.clearbags.com/stationery" class="level0 has-children">Stationery</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/stationery">View All Stationery</a></li><li class="level1 nav-3-1 first"><a href="http://www.clearbags.com/stationery/clear-sleeves" class="level1 ">Crystal Clear Sleeves </a></li><li class="level1 nav-3-2"><a href="http://www.clearbags.com/stationery/card-covers" class="level1 ">Card Jackets and Slip Covers</a></li><li class="level1 nav-3-3"><a href="http://www.clearbags.com/stationery/boxes" class="level1 ">Stationery Boxes</a></li><li class="level1 nav-3-4"><a href="http://www.clearbags.com/stationery/envelopes" class="level1 ">Envelopes</a></li><li class="level1 nav-3-5"><a href="http://www.clearbags.com/stationery/cards" class="level1 ">Cards</a></li><li class="level1 nav-3-6"><a href="http://www.clearbags.com/stationery/frame-cards" class="level1 ">Frame Cards</a></li><li class="level1 nav-3-7"><a href="http://www.clearbags.com/stationery/paper" class="level1 ">Paper</a></li><li class="level1 nav-3-8"><a href="http://www.clearbags.com/stationery/ink-jet-photo-papers" class="level1 ">Ink Jet Photo Papers</a></li><li class="level1 nav-3-9"><a href="http://www.clearbags.com/stationery/sample-packs" class="level1 ">Sample Packs</a></li><li class="level1 nav-3-10 last"><a href="http://www.clearbags.com/stationery/accessories" class="level1 ">Packaging Accessories</a></li></ul></li><li class="level0 nav-4 parent"><a href="http://www.clearbags.com/mats-backing" class="level0 has-children">Mats &amp; Backing</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/mats-backing">View All Mats &amp; Backing</a></li><li class="level1 nav-4-1 first"><a href="http://www.clearbags.com/mats-backing/show-kits" class="level1 ">ClearBags® Show Kits</a></li><li class="level1 nav-4-2"><a href="http://www.clearbags.com/mats-backing/pre-cut" class="level1 ">Crescent Pre-Cut Mats</a></li><li class="level1 nav-4-3"><a href="http://www.clearbags.com/mats-backing/board" class="level1 ">Backing Board</a></li><li class="level1 nav-4-4"><a href="http://www.clearbags.com/mats-backing/foam" class="level1 ">Foam Board</a></li><li class="level1 nav-4-5 last"><a href="http://www.clearbags.com/mats-backing/mounting" class="level1 ">Mounting Accessories</a></li></ul></li><li class="level0 nav-5 parent"><a href="http://www.clearbags.com/spec" class="level0 has-children">Specialty</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/spec">View All Specialty</a></li><li class="level1 nav-5-1 first"><a href="http://www.clearbags.com/spec/photo-mounts" class="level1 ">Crystal Clear Photo Mounts</a></li><li class="level1 nav-5-2"><a href="http://www.clearbags.com/spec/vinyl" class="level1 ">Vinyl Products</a></li><li class="level1 nav-5-3"><a href="http://www.clearbags.com/spec/metal-edge-photo-boxes" class="level1 ">Metal Edge Photo Boxes</a></li><li class="level1 nav-5-4"><a href="http://www.clearbags.com/spec/albums" class="level1 ">Albums and Album Pages</a></li><li class="level1 nav-5-5"><a href="http://www.clearbags.com/spec/page-inserts" class="level1 ">Archival Album Pages</a></li><li class="level1 nav-5-6"><a href="http://www.clearbags.com/spec/wood-frames" class="level1 ">Wood Frames</a></li><li class="level1 nav-5-7"><a href="http://www.clearbags.com/spec/tape-gun" class="level1 ">Tape Gun and Tape</a></li><li class="level1 nav-5-8"><a href="http://www.clearbags.com/spec/hand-sealers" class="level1 ">Hand Sealers</a></li><li class="level1 nav-5-9"><a href="http://www.clearbags.com/spec/media" class="level1 ">Media Sleeves</a></li><li class="level1 nav-5-10"><a href="http://www.clearbags.com/spec/smartsleeves" class="level1 ">SmartSleeves</a></li><li class="level1 nav-5-11"><a href="http://www.clearbags.com/spec/book-covers" class="level1 ">Crystal Clear Book Covers</a></li><li class="level1 nav-5-12"><a href="http://www.clearbags.com/spec/dental" class="level1 ">Dental Packaging</a></li><li class="level1 nav-5-13"><a href="http://www.clearbags.com/spec/photo-booth-sleeves" class="level1 ">Photo Booth Sleeves</a></li><li class="level1 nav-5-14"><a href="http://www.clearbags.com/spec/direct-mail" class="level1 ">Direct Mail</a></li><li class="level1 nav-5-15"><a href="http://www.clearbags.com/spec/cd-dvd-bags" class="level1 ">CD/DVD Bags</a></li><li class="level1 nav-5-16"><a href="http://www.clearbags.com/spec/glassine-sheets" class="level1 ">Glassine Paper Sheets</a></li><li class="level1 nav-5-17 last"><a href="http://www.clearbags.com/spec/fishing-industry-packaging" class="level1 ">Fishing Industry Packaging</a></li></ul></li><li class="level0 nav-6 parent"><a href="http://www.clearbags.com/acc" class="level0 has-children">Accessories</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/acc">View All Accessories</a></li><li class="level1 nav-6-1 first"><a href="http://www.clearbags.com/acc/mounting-tape" class="level1 ">Mounting Tapes</a></li><li class="level1 nav-6-2"><a href="http://www.clearbags.com/acc/mounting-corners" class="level1 ">Mounting Corners</a></li><li class="level1 nav-6-3"><a href="http://www.clearbags.com/acc/organza-ribbon" class="level1 ">Organza Ribbon</a></li><li class="level1 nav-6-4"><a href="http://www.clearbags.com/acc/hang-tabs" class="level1 ">Clear Hang Tabs</a></li><li class="level1 nav-6-5"><a href="http://www.clearbags.com/acc/clear-stickers" class="level1 ">Clear Stickers</a></li><li class="level1 nav-6-6"><a href="http://www.clearbags.com/acc/slick-writers" class="level1 ">Slick Writers</a></li><li class="level1 nav-6-7"><a href="http://www.clearbags.com/acc/stazon-ink" class="level1 ">StazOn Ink</a></li><li class="level1 nav-6-8"><a href="http://www.clearbags.com/acc/misc" class="level1 ">Miscellaneous Items</a></li><li class="level1 nav-6-9"><a href="http://www.clearbags.com/acc/twist-ties" class="level1 ">Twist Ties</a></li><li class="level1 nav-6-10"><a href="http://www.clearbags.com/acc/stretch-loops" class="level1 ">Stretch Loops</a></li><li class="level1 nav-6-11 last"><a href="http://www.clearbags.com/acc/bows" class="level1 ">Pre-Tied Bows</a></li></ul></li><li class="level0 nav-7 parent"><a href="http://www.clearbags.com/sale" class="level0 has-children">Online Sales</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/sale">View All Online Sales</a></li><li class="level1 nav-7-1 first"><a href="http://www.clearbags.com/sale/items" class="level1 ">Sale Items</a></li><li class="level1 nav-7-2 last"><a href="http://www.clearbags.com/sale/clear" class="level1 ">Clearance</a></li></ul></li><li class="level0 nav-8 last"><a href="http://www.clearbags.com/custom-products" class="level0 ">Custom Packaging</a></li>        </ol>
+            <li class="level0 nav-1 first parent"><a href="http://www.clearbags.com/bags" class="level0 has-children">Bags</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/bags">View All Bags</a></li><li class="level1 nav-1-1 first"><a href="http://www.clearbags.com/bags/clear-bags" class="level1 ">Crystal Clear Bags</a></li><li class="level1 nav-1-2"><a href="http://www.clearbags.com/bags/gusset" class="level1 ">Gusset Bags</a></li><li class="level1 nav-1-3"><a href="http://www.clearbags.com/bags/food" class="level1 ">Food Safe Bags</a></li><li class="level1 nav-1-4"><a href="http://www.clearbags.com/bags/handle" class="level1 ">Handle Bags</a></li><li class="level1 nav-1-5"><a href="http://www.clearbags.com/bags/roll" class="level1 ">Bags On a Roll</a></li><li class="level1 nav-1-6"><a href="http://www.clearbags.com/bags/flat-poly" class="level1 ">Flat Poly Bags</a></li><li class="level1 nav-1-7"><a href="http://www.clearbags.com/bags/cd-dvd" class="level1 ">CD/DVD Sleeves &amp; Bags</a></li><li class="level1 nav-1-8"><a href="http://www.clearbags.com/bags/poly-tubing" class="level1 ">Clear Poly Tubing</a></li><li class="level1 nav-1-9"><a href="http://www.clearbags.com/bags/zip" class="level1 ">Zipper Bags</a></li><li class="level1 nav-1-10"><a href="http://www.clearbags.com/bags/eco" class="level1 ">Eco Clear Compostable Bags</a></li><li class="level1 nav-1-11"><a href="http://www.clearbags.com/bags/door-knob" class="level1 ">Clear Door Knob Bags</a></li><li class="level1 nav-1-12"><a href="http://www.clearbags.com/bags/shield" class="level1 ">Static Shielding Bag</a></li><li class="level1 nav-1-13"><a href="http://www.clearbags.com/bags/barrier" class="level1 ">Barrier Bags</a></li><li class="level1 nav-1-14"><a href="http://www.clearbags.com/bags/album" class="level1 ">Album Sleeves</a></li><li class="level1 nav-1-15"><a href="http://www.clearbags.com/bags/newspaper" class="level1 ">Newspaper Bags</a></li><li class="level1 nav-1-16 last"><a href="http://www.clearbags.com/bags/fish" class="level1 ">Tropical Fish Bags</a></li></ul></li><li class="level0 nav-2 parent"><a href="http://www.clearbags.com/box" class="level0 has-children">Boxes</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/box">View All Boxes</a></li><li class="level1 nav-2-1 first"><a href="http://www.clearbags.com/box/clear" class="level1 ">Crystal Clear Boxes ®</a></li><li class="level1 nav-2-2"><a href="http://www.clearbags.com/box/food" class="level1 ">Food Safe Boxes</a></li><li class="level1 nav-2-3"><a href="http://www.clearbags.com/box/premium" class="level1 ">Premium Clear Boxes</a></li><li class="level1 nav-2-4"><a href="http://www.clearbags.com/box/pillow" class="level1 ">Pillow Boxes</a></li><li class="level1 nav-2-5"><a href="http://www.clearbags.com/box/paper-boxes" class="level1 ">Paper Boxes</a></li><li class="level1 nav-2-6"><a href="http://www.clearbags.com/box/shipping" class="level1 ">Shipping Boxes</a></li><li class="level1 nav-2-7"><a href="http://www.clearbags.com/box/wine" class="level1 ">Wine Boxes</a></li><li class="level1 nav-2-8"><a href="http://www.clearbags.com/box/tubes" class="level1 ">Tubes</a></li><li class="level1 nav-2-9"><a href="http://www.clearbags.com/box/shoe" class="level1 ">Shoe Storage Boxes</a></li><li class="level1 nav-2-10 last"><a href="http://www.clearbags.com/box/clamshell" class="level1 ">Clamshell Boxes</a></li></ul></li><li class="level0 nav-3 parent"><a href="http://www.clearbags.com/stationery" class="level0 has-children">Stationery</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/stationery">View All Stationery</a></li><li class="level1 nav-3-1 first"><a href="http://www.clearbags.com/stationery/clear-sleeves" class="level1 ">Crystal Clear Sleeves </a></li><li class="level1 nav-3-2"><a href="http://www.clearbags.com/stationery/card-covers" class="level1 ">Card Jackets and Slip Covers</a></li><li class="level1 nav-3-3"><a href="http://www.clearbags.com/stationery/boxes" class="level1 ">Stationery Boxes</a></li><li class="level1 nav-3-4"><a href="http://www.clearbags.com/stationery/envelopes" class="level1 ">Envelopes</a></li><li class="level1 nav-3-5"><a href="http://www.clearbags.com/stationery/cards" class="level1 ">Cards</a></li><li class="level1 nav-3-6"><a href="http://www.clearbags.com/stationery/frame-cards" class="level1 ">Frame Cards</a></li><li class="level1 nav-3-7"><a href="http://www.clearbags.com/stationery/paper" class="level1 ">Paper</a></li><li class="level1 nav-3-8"><a href="http://www.clearbags.com/stationery/ink-jet-photo-papers" class="level1 ">Ink Jet Photo Papers</a></li><li class="level1 nav-3-9"><a href="http://www.clearbags.com/stationery/sample-packs" class="level1 ">Sample Packs</a></li><li class="level1 nav-3-10 last"><a href="http://www.clearbags.com/stationery/accessories" class="level1 ">Packaging Accessories</a></li></ul></li><li class="level0 nav-4 parent"><a href="http://www.clearbags.com/mats-backing" class="level0 has-children">Mats &amp; Backing</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/mats-backing">View All Mats &amp; Backing</a></li><li class="level1 nav-4-1 first"><a href="http://www.clearbags.com/mats-backing/show-kits" class="level1 ">ClearBags® Show Kits</a></li><li class="level1 nav-4-2"><a href="http://www.clearbags.com/mats-backing/pre-cut" class="level1 ">Crescent Pre-Cut Mats</a></li><li class="level1 nav-4-3"><a href="http://www.clearbags.com/mats-backing/board" class="level1 ">Backing Board</a></li><li class="level1 nav-4-4"><a href="http://www.clearbags.com/mats-backing/foam" class="level1 ">Foam Board</a></li><li class="level1 nav-4-5 last"><a href="http://www.clearbags.com/mats-backing/mounting" class="level1 ">Mounting Accessories</a></li></ul></li><li class="level0 nav-5 parent"><a href="http://www.clearbags.com/spec" class="level0 has-children">Specialty</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/spec">View All Specialty</a></li><li class="level1 nav-5-1 first"><a href="http://www.clearbags.com/spec/photo-mounts" class="level1 ">Crystal Clear Photo Mounts</a></li><li class="level1 nav-5-2"><a href="http://www.clearbags.com/spec/vinyl" class="level1 ">Vinyl Products</a></li><li class="level1 nav-5-3"><a href="http://www.clearbags.com/spec/metal-edge-photo-boxes" class="level1 ">Metal Edge Photo Boxes</a></li><li class="level1 nav-5-4"><a href="http://www.clearbags.com/spec/albums" class="level1 ">Albums and Album Pages</a></li><li class="level1 nav-5-5"><a href="http://www.clearbags.com/spec/page-inserts" class="level1 ">Archival Album Pages</a></li><li class="level1 nav-5-6"><a href="http://www.clearbags.com/spec/wood-frames" class="level1 ">Wood Frames</a></li><li class="level1 nav-5-7"><a href="http://www.clearbags.com/spec/tape-gun" class="level1 ">Tape Gun and Tape</a></li><li class="level1 nav-5-8"><a href="http://www.clearbags.com/spec/hand-sealers" class="level1 ">Hand Sealers</a></li><li class="level1 nav-5-9"><a href="http://www.clearbags.com/spec/media" class="level1 ">Media Sleeves</a></li><li class="level1 nav-5-10"><a href="http://www.clearbags.com/spec/smartsleeves" class="level1 ">SmartSleeves</a></li><li class="level1 nav-5-11"><a href="http://www.clearbags.com/spec/book-covers" class="level1 ">Clear Slip-on Book Covers</a></li><li class="level1 nav-5-12"><a href="http://www.clearbags.com/spec/dental" class="level1 ">Dental Packaging</a></li><li class="level1 nav-5-13"><a href="http://www.clearbags.com/spec/photo-booth-sleeves" class="level1 ">Photo Booth Sleeves</a></li><li class="level1 nav-5-14"><a href="http://www.clearbags.com/spec/direct-mail" class="level1 ">Direct Mail</a></li><li class="level1 nav-5-15"><a href="http://www.clearbags.com/spec/cd-dvd-bags" class="level1 ">CD/DVD Bags</a></li><li class="level1 nav-5-16"><a href="http://www.clearbags.com/spec/glassine-sheets" class="level1 ">Glassine Paper Sheets</a></li><li class="level1 nav-5-17 last"><a href="http://www.clearbags.com/spec/fishing-industry-packaging" class="level1 ">Fishing Industry Packaging</a></li></ul></li><li class="level0 nav-6 parent"><a href="http://www.clearbags.com/acc" class="level0 has-children">Accessories</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/acc">View All Accessories</a></li><li class="level1 nav-6-1 first"><a href="http://www.clearbags.com/acc/mounting-tape" class="level1 ">Mounting Tapes</a></li><li class="level1 nav-6-2"><a href="http://www.clearbags.com/acc/mounting-corners" class="level1 ">Mounting Corners</a></li><li class="level1 nav-6-3"><a href="http://www.clearbags.com/acc/organza-ribbon" class="level1 ">Organza Ribbon</a></li><li class="level1 nav-6-4"><a href="http://www.clearbags.com/acc/hang-tabs" class="level1 ">Clear Hang Tabs</a></li><li class="level1 nav-6-5"><a href="http://www.clearbags.com/acc/clear-stickers" class="level1 ">Clear Stickers</a></li><li class="level1 nav-6-6"><a href="http://www.clearbags.com/acc/slick-writers" class="level1 ">Slick Writers</a></li><li class="level1 nav-6-7"><a href="http://www.clearbags.com/acc/stazon-ink" class="level1 ">StazOn Ink</a></li><li class="level1 nav-6-8"><a href="http://www.clearbags.com/acc/misc" class="level1 ">Miscellaneous Items</a></li><li class="level1 nav-6-9"><a href="http://www.clearbags.com/acc/twist-ties" class="level1 ">Twist Ties</a></li><li class="level1 nav-6-10"><a href="http://www.clearbags.com/acc/stretch-loops" class="level1 ">Stretch Loops</a></li><li class="level1 nav-6-11 last"><a href="http://www.clearbags.com/acc/bows" class="level1 ">Pre-Tied Bows</a></li></ul></li><li class="level0 nav-7 parent"><a href="http://www.clearbags.com/sale" class="level0 has-children">Online Sales</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="http://www.clearbags.com/sale">View All Online Sales</a></li><li class="level1 nav-7-1 first"><a href="http://www.clearbags.com/sale/items" class="level1 ">Sale Items</a></li><li class="level1 nav-7-2 last"><a href="http://www.clearbags.com/sale/clear" class="level1 ">Clearance</a></li></ul></li><li class="level0 nav-8 last"><a href="http://www.clearbags.com/custom-products" class="level0 ">Custom Packaging</a></li>        </ol>
     </nav>
         </div>
 
@@ -413,6 +506,7 @@ West - 800.233.2630;  East - 800.328.1847</p></div>                </div>
     </div>
 </div>
                 
+
 
     </div>
 
