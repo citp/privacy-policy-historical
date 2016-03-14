@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memoryexpress.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915050219id_/http%3A//www.memoryexpress.com/Policies/Security.cm.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoryexpress.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314023415id_/http%3A//www.memoryexpress.com/Policies/Security.cm.aspx) for the most accurate reproduction.*
 
 # Memory Express - Security & Privacy
 
