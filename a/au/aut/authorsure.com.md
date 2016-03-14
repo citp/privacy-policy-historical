@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorsure.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319015525id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorsure.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314071619id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
