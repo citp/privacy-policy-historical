@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715153252id_/http%3A//www.ukessays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315002349id_/http%3A//www.ukessays.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Essays
 
