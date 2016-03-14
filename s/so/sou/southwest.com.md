@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112847id_/https%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101429id_/https%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,14 +35,6 @@ Participation in these surveys or contests is completely voluntary and you there
 
 We may use third party service providers to conduct these surveys or contests. These companies are prohibited from using our users’ personally identifiable information for any other purpose. These third parties are bound by contract to Southwest Airlines to use adequate security measures to protect your personal information.
 
-### DING!
-
-From our web site, you have the option to download our DING! application. If you choose to download this application, you will be notified of exclusive Southwest air fare offers.
-
-You do not have to install DING! to use our web site, and downloading the application is completely voluntary. If you choose to take advantage of this application, you will be asked to provide up to 10 airports for which you are interested in receiving special offers. You will also be asked to provide your Rapid Rewards number, although providing this information is not required to use the application.
-
-For more information on our DING! application, please visit **[southwest.com/ding](https://web.archive.org/ding)**.
-
 ### Forward-to-a-Friend and Refer-a-Friend
 
 You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion. Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
@@ -64,7 +56,7 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 We set a persistent cookie to store certain information, including your account number, so you don't have to enter it each time you want to log-in to your Rapid Rewards, Southwest or SWABIZ® account. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site as well as provide more relevant content in our e-mails. Southwest Airlines has agreed to allow a select group of marketing platforms to place persistent cookies in our web sites, Southwest Airlines emails and Rapid Rewards emails. In addition to use on our web sites, these cookies may be used for targeted online advertising by both Southwest and third party merchants on third party websites. These cookies do not enable a marketing platform to collect personally identifiable information.
 
 **Opt-out  
-** To opt-out from our marketing platform’s persistent cookies click here. (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of the cookies by the marketing platforms is subject to their privacy policies.
+** To opt-out from our marketing platform’s persistent cookies click [here](https://smetrics.southwest.com/optout.html?optout=1&confirm_change=1). (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of the cookies by the marketing platforms is subject to their privacy policies.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited and we may not be able to provide you with the most convenient experience.
 
@@ -124,7 +116,7 @@ Rapid Rewards news and offers for Members only
 
 **SWAMedia and Investor Relations E-mail Alerts  
 ** Southwest Airlines news releases and investor information  
-[Subscribe](http://southwest.investorroom.com/alerts) | [Unsubscribe](http://southwest.investorroom.com/alerts)
+[Subscribe](http://investors.southwest.com/investor-resources/email-alerts) | [Unsubscribe](http://investors.southwest.com/investor-resources/email-alerts)
 
 ### Promotional Mailings
 
@@ -216,3 +208,5 @@ If you have any questions, complaints or suggestions regarding our privacy polic
 This privacy policy is current as of the effective date set forth below. Southwest Airlines Co. reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by publication here. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances.
 
 [Additional Privacy Policy for Mexico](https://web.archive.org/html/about-southwest/terms-and-conditions/mexican-privacy-policy.html)
+
+You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion. Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
