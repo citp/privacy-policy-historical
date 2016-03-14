@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kulespace.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202042218id_/http%3A//www.kulespace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kulespace.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314092054id_/http%3A//kulespace.com/privacy.php) for the most accurate reproduction.*
 
 # kulespace: Privacy
 
