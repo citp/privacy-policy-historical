@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooks-it.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004902id_/https%3A//ebooks-it.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks-it.org privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314095122id_/https%3A//ebooks-it.org/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | eBooks-IT.org
 
@@ -30,4 +30,4 @@ eBooks-IT.org uses third-party advertising companies to serve ads when you visit
 
 * * *
 
-2007 - 2015 © eBooks-IT.org
+2007 - 2016 © eBooks-IT.org
