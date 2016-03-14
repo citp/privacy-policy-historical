@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidslearningstation.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122012id_/http%3A//www.kidslearningstation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidslearningstation.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314074649id_/http%3A//www.kidslearningstation.com/privacy.asp) for the most accurate reproduction.*
 
 # Kids Learning Station | Privacy Policy | Kids Learning Station
 
