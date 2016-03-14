@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airsoftforum.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920085758id_/http%3A//www.airsoftforum.com/board/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftforum.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314121803id_/http%3A//www.airsoftforum.com/board/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Airsoft Forum
 
