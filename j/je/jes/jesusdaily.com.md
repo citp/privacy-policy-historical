@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesusdaily.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814172937id_/http%3A//jesusdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesusdaily.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314172540id_/http%3A//jesusdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jesus Daily
 
@@ -84,10 +84,11 @@ We provide you the opportunity to ‘opt-out’ of having your personally identi
 
 If you no longer wish to receive our newsletter or other promotional communications, please let us know by following the unsubscribe instructions included in each newsletter and communication, or by contacting us at:
 
-Jesus Daily, LLC  
-PO box 669  
-Walkertown, NC 27051  
-info@jesusdaily.com
+Jesus Daily,LLC
+
+PO Box 717,
+
+Walkertown, NC 27051
 
 You will be notified if your personal information is collected by any third party that is not our agent/service provider other than as specified in this policy, so you can make an informed choice as to whether or not to share your information with that party. Although there are no plans to do this presently, if this ever occurs, an opt-out will be provided to you before any personally identifiable information is shared, so it is always your choice when information is provided to a third party.
 
