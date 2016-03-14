@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134648id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314161924id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | asics.co.uk
+# PRIVACY POLICY | ASICS UK
 
 We value the trust that you place in us by sharing your personal data with us. ASICS takes your privacy seriously and is committed to handling your personal data in a way that is fair and worthy of that trust. ASICS will comply with applicable data protection laws and take all reasonable steps to protect your information from misuse and keep it secure.
 
