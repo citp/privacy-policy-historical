@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906232835id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314152101id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonBond
 
-Updated: April 2, 2015
+Updated: December 7, 2015
 
 Notice of California Privacy Rights
 
 ### Introduction
 
-Welcome to CommonBond. This Privacy Statement describes how CommonBond collects, receives and shares information about you from our website and any off-line communications we may have with you, e.g. emails, telephone calls, and personal communication, located at [http://commonbond.co/](https://web.archive.org/). This Privacy Policy, together with our Terms of Use govern your use of our website and our collection and use of your information. How Does CommonBond Work?
+Welcome to CommonBond. This Privacy Statement describes how CommonBond collects, receives and shares information about you from our website and any off-line communications we may have with you, e.g. emails, telephone calls, and personal communication, located at [http://commonbond.co/](https://web.archive.org/). This Privacy Policy, together with our Terms of Use govern your use of our website and our collection and use of your information.
 
-CommonBond does not issue loans directly to students. Students who are interested in joining the CommonBond community apply for student loans issued by our partner bank, who makes all decisions on issuing or denying student loans. CommonBond purchases approved loans from our partner bank on behalf of our investors.
+### How Does CommonBond Work?
+
+Students who are interested in joining the CommonBond community apply for student loans that are either issued by a partner bank, who makes all decisions on issuing or denying such student loans, or originated by CommonBond Lending, LLC.
 
 ### What Information Does CommonBond Collect From Visitors to This Website?
 
@@ -18,9 +20,11 @@ CommonBond collects the following information from students and visitors to our 
 
   * information you provide on our website such as contact information, school affiliation or feedback; and
   * basic traffic information about your visit such as IP address, host name and pages on our site visited.
-  * loan application information such as social security number, income, and assets to be shared with our partner bank for loan decisions
+  * loan application information such as social security number, income, and assets loan decisions. Such information may be shared with a partner bank.
 
 
+
+We use third parties to gather your data from financial institutions. By using our service, you grant our third-party provider the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution according to the terms of our third-party provider's privacy policy.
 
 We do not collect personally identifiable information from website visitors who do not voluntarily submit such information. However, information collected from prior visits could be associated with personally identifiable information if you later submit such information to us.
 
@@ -48,7 +52,7 @@ We use information collected from website visitors to improve the content and br
   * make other marketing offers that we think may be of interest of you;
   * third parties as required by law, such as to comply with a subpoena or similar legal process
   * third parties as we deem necessary, based on our good faith belief, (i) to protect our rights, your safety or the safety of others, (ii) to investigate fraud, or (iii) to respond to a government request; and
-  * third parties in conjunction with a merger, acquisition or sale of CommonBond. If CommonBond is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information. Information obtained about loan applications and decisions from our partner bank may be used to improve our services or offer additional services. Use of information obtained from our partner bank will be used in accordance with the partner bank's privacy policy.
+  * third parties in conjunction with a merger, acquisition or sale of CommonBond. If CommonBond is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information. Information obtained about loan applications and decisions from our partner bank may be used to improve our services or offer additional services. Use of information obtained from a partner bank will be used in accordance with the bank's privacy policy.
 
 
 
@@ -84,21 +88,3 @@ United States of America
 ### Contact Us
 
 If you have any questions about how we collect, store and use your information, you may contact us by e-mailing us at [info@commonbond.co](mailto:info@commonbond.co).
-
-Get in touch with us any time. We're real people, we swear!
-
-### Why CommonBond?
-
-#### We take care of you
-
-Our Care Team makes the process smooth and provides you with the personalized care you deserve.
-
-#### Savings
-
-We can help you save up to $14,000[6](https://web.archive.org/disclaimers#note6) on your student loan payments through lower interest rates. What goals would you achieve with that savings?
-
-#### Social Promise
-
-Your loan will help fund the education of a child abroad through Pencils of Promise. **The first 1-to-1 model in education.**
-
-Thank you for reaching out. We will respond as soon as possible!
