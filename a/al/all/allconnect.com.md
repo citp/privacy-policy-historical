@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071856id_/http%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314120637id_/https%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Allconnect
 
@@ -6,7 +6,7 @@
 
 Allconnect seeks to safeguard your privacy whether you are just browsing our website at <http://www.allconnect.com/corporate/privacy.html> or Allconnect.com (the "website" ) or selecting products and services through our website (the "Services"). We are committed to protecting your information and this privacy policy outlines the limited manner in which we will use your information to provide you Services. By using our website or using our Services, you consent to let us gather and use your information as set forth in our policy then in effect at the time of our use of your information.
 
-The TRUSTe program covers only information that is collected through this Web site, [www.allconnect.com](https://web.archive.org/web/20151226071856id_/http%3A//www.allconnect.com/corporate/www.allconnect.com). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
+The TRUSTe program covers only information that is collected through this Web site, [www.allconnect.com](https://web.archive.org/web/20160314120637id_/https%3A//www.allconnect.com/corporate/www.allconnect.com). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
   * What Are The Important Terms Used Throughout This Privacy Policy?
   * What Types Of Information Do We Collect, How Do We Use it and To Whom Do We Disclose It?
