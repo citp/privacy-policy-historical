@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igennie.net privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927184043id_/http%3A//www.igennie.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igennie.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314212325id_/http%3A//www.igennie.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Windows Help and Support | Computer Support | Microsoft Technical Support | Online Computer Help | Outlook Support
+# Computer Support |Online Computer Help | Outlook Support
 
 This privacy policy discloses the practices for iGennie to protect privacy for users of its "Services". From herein, the "Service" is defined as the user support services owned and operated by "iGennie". Submitting your information on our website constitutes acceptance of this privacy Policy. 
 
@@ -44,7 +44,7 @@ No part of our website is structured to attract anyone under the age of 13. Cons
 
 2) SECURITY
 
-This Web site takes every precaution to protect information of users. When user submits sensitive information via the Web site, user information is protected both on-line and off-line. When our registration form asks User to enter sensitive information (such as credit card number), the information is encrypted and is protected with the best of the encryption software. While on a secure page, such as our registration form, the lock icon on the bottom of Web browsers such as Microsoft® Internet Explorer® becomes locked, as opposed to un-locked, or opens, when User is just ‘surfing’. While we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. 
+This Web site takes every precaution to protect information of users. When user submits sensitive information via the Web site, user information is protected both on-line and off-line. When our registration form asks User to enter sensitive information (such as credit card number), the information is encrypted and is protected with the best of the encryption software. While on a secure page, such as our registration form, the lock icon on the bottom of Web browsers such as Internet Explorer® becomes locked, as opposed to un-locked, or opens, when User is just ‘surfing’. While we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. 
 
 Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. In situations that are required by law, we may disclose some information about our users to law-enforcing officers. 
 
@@ -62,9 +62,11 @@ In order for this toolbar to properly fulfil its obligation to our customers, it
 
 If user has any questions about the privacy Policy at our Web site, user can e-mail user inquiries to [support@igennie.net](mailto:support@igennie.net)
 
-Call iGennie at +1-888-644-7801 for FREE and get Expert Advice
+ **c) Terminating Your Membership** -After you register with us, we save your personally identifiable information until your membership with us is terminated or the service package(s) you purchase has expired, whichever is later. To terminate membership, contact iGennie Technical Services on our contact page. After termination of your membership, your personally identifiable information may remain on our archived database and records for a reasonable time as residual information. We will not use this residual information. Not with standing the above, we will maintain information on users who have been removed for violating any of our agreements. If you have any questions about this Privacy Statement or the practices of this site, you may contact us by using the Contact Us section of this site. 
+
+Call iGennie at +1-800-837-0451 for FREE and get Expert Advice
 
 |   |   |   
 ---|---|---|---  
   
-**Disclaimer:** iGennie is an autonomous online computer support provider through remote access for software, and peripherals. We have expertise in handling issues with a huge array of products of third-party companies and brands. iGennie holds no association or affiliation with any of these brands or third-party companies and solely provide support service for the product issues faced by users. Please contact the related third party in case of queries regarding permitted use and specific warranties in concern to the software, hardware, and peripherals. iGennie bears no responsibility related to any third party Content made available related to the Site and we do not cover the risks the user faces while using such third party Content, products and services. 
+**Disclaimer:** iGennie is an independent provider of technical support services for third party brands. if your product is under warranty the repair service maybe available free from the vendor.Use of name , trademarks is for reference only. 
