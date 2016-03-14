@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovethistrend.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026000850id_/http%3A//lovethistrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovethistrend.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314075228id_/http%3A//lovethistrend.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Love This Trend
+# Privacy Policy – Love This Trend
 
 #### Your Privacy
 
