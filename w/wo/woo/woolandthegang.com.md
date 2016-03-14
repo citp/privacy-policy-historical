@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woolandthegang.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906164648id_/http%3A//www.woolandthegang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolandthegang.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314170851id_/http%3A//www.woolandthegang.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | WOOL AND THE GANG
 
 ## Service
 
