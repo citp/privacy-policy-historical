@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativejobscentral.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906161110id_/http%3A//www.creativejobscentral.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativejobscentral.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314140620id_/http%3A//www.creativejobscentral.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CreativeJobsCentral
 
