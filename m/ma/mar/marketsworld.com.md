@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketsworld.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316181058id_/https%3A//marketsworld.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsworld.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314074754id_/https%3A//www.marketsworld.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | MarketsWorld
 
