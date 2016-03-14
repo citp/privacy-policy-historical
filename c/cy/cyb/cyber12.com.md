@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyber12.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924121354id_/http%3A//www.cyber12.com/page-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyber12.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314233645id_/http%3A//www.cyber12.com/page-Privacy_Policy.html) for the most accurate reproduction.*
 
 # Free Anime Download - Privacy Policy
 
