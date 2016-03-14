@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalmoneytalk.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920153454id_/http%3A//www.digitalmoneytalk.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmoneytalk.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314144558id_/http%3A//www.digitalmoneytalk.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Money Talk Forum - Forex, Ecurrency and Cryptocurrency Forum - Sponsored by Pokeram.com,Ecoininvest.com and Globalprime.com.au
+# Privacy Policy - Digital Money Talk Forum - Forex, Ecurrency exchange and Cryptocurrency Forum
 
-**Welcome to Digital Money Talk Forum - Forex, Ecurrency and Cryptocurrency Forum - Sponsored by Pokeram.com,Ecoininvest.com and Globalprime.com.au**  
+**Welcome to Digital Money Talk Forum - Forex, Ecurrency exchange and Cryptocurrency Forum**  
 Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. If you already have an account, [login here](http://www.digitalmoneytalk.com/index.php?app=core&module=global&section=login) \- otherwise [create an account](http://www.digitalmoneytalk.com/index.php?app=core&module=global&section=register) for free today! 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
