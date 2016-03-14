@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the classicsonline.com privacy policy that was archived on 2014-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008114140id_/http%3A//www.classicsonline.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classicsonline.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314072908id_/http%3A//www.classicsonline.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>ClassicsOnline Privacy Policy</title>
@@ -9,11 +9,55 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
     
     <link media="screen" href="/css/new_main.css" type="text/css" rel="stylesheet">
-    <link media="screen" href="/css/dhtmlwindow.css" type="text/css" rel="stylesheet">    
+    <link media="screen" href="/css/dhtmlwindow.css" type="text/css" rel="stylesheet">  
+    <link type="text/css" href="../css/basic.css" rel="stylesheet">  
     <link href="http://cdn.classicsonline.com/favicon.ico" rel="shortcut icon"><link media="screen" href="/css/menuh.css" type="text/css" rel="stylesheet"><!--[if IE]><style type="text/css" media="screen">#menu{float:none;}  body{behavior:url(/css/csshover.htc); font-size:100%;} #menu ul li{float:left; width:100%;} #menu h2, #menu a{height:1%;} </style><![endif]--><script language="javascript" type="text/javascript" src="/javascript/helperfunctions.js"></script>
     <script src="../jQuery/jquery-1.4.2.min.js" language="javascript" type="text/javascript"></script>
     <script src="../javascript/HRR_ArchiveList.js" type="text/javascript"></script>
     <script src="../javascript/BCR_ArchiveList.js" type="text/javascript"></script>
+
+	<script language="JavaScript">
+		<!--
+		function CorrectEmailaddress(SubscriberForm){
+		if (SubscriberForm.pf_Email.value.length > 255)
+		{
+		alert("Please enter at most 255 characters in the \'Email address\' field.");
+		SubscriberForm.pf_Email.focus();
+		return false;
+		}
+		if (SubscriberForm.pf_Email.value == "")
+		{
+		alert("Please enter a value for the \'Email address\' field.");
+		SubscriberForm.pf_Email.focus();
+		return false; }
+		if (SubscriberForm.pf_Email.value.length < 7)
+		{
+		alert("Please enter at least 7 characters in the \'Email address\' field.");
+		SubscriberForm.pf_Email.focus();
+		return false; }
+		pf_Email=SubscriberForm.pf_Email.value;
+		var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,})$/;
+		if(reg.test(pf_Email) == false) 
+		{
+			  alert('Your email address is not valid. Please try again.');
+						  SubscriberForm.pf_Email.focus();
+						  return false;
+		}
+		var counter = 0;
+		for (i=1; i<=SubscriberForm.pf_CounterMailinglists.value; i++)
+		{
+		var checkBoxName = "pf_MailinglistName" + i;
+		if (document.getElementsByName(checkBoxName)[0].checked || document.getElementsByName(checkBoxName)[0].type == "hidden") counter++; 
+		}
+		if (counter == 0)
+		{
+		alert("One or more mailing lists are required for this form.");
+		return false;
+		}
+		return true;
+		}
+		//-->
+	</script>	
 
 </head>
 
@@ -29,8 +73,10 @@ var WRInitTime=(new Date()).getTime();
         <p id="logo"><a href="/" title="Home of Classical Music Online"><img src="http://cdn.classicsonline.com/images/classicsonline.gif" width="320" height="70" border="0" alt="Home of Classical Music Online"></a></p>
         <p id="logo1">           
             
-                   <span class="white"><br><span style="color:#ffd900;font-size:14px"><a href="/UserLogIn/SignUp.aspx"><b style="color:#ffd900;font-size:14px"><u>REGISTER NOW</u></b></a> AND GET</span></span><br>
-                   <a href="/UserLogIn/SignUp.aspx" class="yellow"><span style="font-size:12px; font-family:arial, helvetica;color:#ffffff">• 5 FREE tracks! • 101 tracks for $9.99</span></a>&nbsp;
+                    <!--
+                   <span class="white"><br/><span style="color:#ffd900;font-size:14px"><a href="/UserLogIn/SignUp.aspx"><b style="color:#ffd900;font-size:14px"><u>REGISTER NOW</u></b></a> AND GET</span></span><br />
+                   <a href="/UserLogIn/SignUp.aspx" class="yellow"><span style="font-size:12px; font-family:arial, helvetica;color:#ffffff">&bull; 5 FREE tracks! &bull; 101 tracks for $9.99</span></a>&nbsp;
+                    -->
                 
         </p>          
            
@@ -65,21 +111,25 @@ var WRInitTime=(new Date()).getTime();
                    <span id="ZH" class="flag"><img src="/images/blank.gif" width="18" height="1" alt=""></span>           
                </div><p class="clr2"></p>
            </div> <p class="clr2"></p>
-            <form id="frmSearchHeader" name="frmSearchHeader" action="/Search/SearchEngine.aspx" method="post" autocomplete="off" style="top:0; margin:0 auto; padding:0; ">                
+		   <!--
+            <form id="frmSearchHeader" name="frmSearchHeader" action="/Search/SearchEngine.aspx"
+                method="post" autocomplete="off" style="top:0; margin:0 auto; padding:0; ">                
                                     
-                <input id="txtPage" type="hidden" name="txtPage" value="1">
-                <input id="txtSearch" type="text" size="30" name="txtSearch">
-                <input type="hidden" id="rdoType1" name="rdoType1" value="">
-                <input onclick="return checkSearch()" type="image" src="/images/EN/header/search_button.gif" name="imageField" width="87" height="24" style="vertical-align: top;">        
+                <input id="txtPage" type="hidden" name="txtPage" value="1"/>
+                <input id="txtSearch" type="text" size="30" name="txtSearch" />
+                <input type="hidden" id="rdoType1" name="rdoType1" value=""/>
+                <input onclick="return checkSearch()" type="image" src="/images/EN/header/search_button.gif"
+                    name="imageField" width="87" height="24" style="vertical-align: top;" />        
             </form>
+			-->
         </div><p class="clr2"></p>       
     </div><p class="clr2"></p>
 
      <div id="menu1">
-        <ul><li class="firstmenuarrow"><h2><a title="Genres" href="#">&nbsp;Genres</a></h2><ul><li><a href="/genre/classical_music.aspx" onclick="javascript:window.location.href='/genre/classical_music.aspx'" class="x" id="0">Classical Music</a><ul><li><a href="#" id="0" class="x">Categories</a><ul><li><a href="/category/classical_ballet.aspx" id="0">Ballet</a></li><li><a href="/category/classical_chamber_music.aspx" id="1">Chamber Music</a></li><li><a href="/category/classical_chinese_music.aspx" id="2">Chinese Music</a></li><li><a href="/category/classical_sacred.aspx" id="3">Choral - Sacred</a></li><li><a href="/category/classical_non_sacred.aspx" id="4">Choral - Secular</a></li><li><a href="/category/classical_concertos.aspx" id="5">Concertos</a></li><li><a href="/category/classical_film.aspx" id="6">Film and TV Music</a></li><li><a href="/category/classical_instrumental.aspx" id="7">Instrumental</a></li><li><a href="/category/classical_musical.aspx" id="8">Musicals</a></li><li><a href="/category/classical_opera.aspx" id="9">Opera / Operetta</a></li><li><a href="/category/classical_orchestral.aspx" id="10">Orchestral</a></li><li><a href="/category/classical_orchestral_backing_tracks.aspx" id="11">Orchestral Backing Tracks</a></li><li><a href="/category/classical_vocal.aspx" id="12">Vocal</a></li></ul></li><li><a href="#" id="1" class="x">Periods</a><ul><li><a href="/period/classical_medieval.aspx?all=0&amp;tab=0" id="0">Medieval (800-1400)</a></li><li><a href="/period/classical_renaissance.aspx?all=0&amp;tab=0" id="1">Renaissance (1400-1600)</a></li><li><a href="/period/classical_baroque.aspx?all=0&amp;tab=0" id="2">Baroque (1600-1750)</a></li><li><a href="/period/classical_classical.aspx?all=0&amp;tab=0" id="3">Classical (1750-1830)</a></li><li><a href="/period/classical_romantic.aspx?all=0&amp;tab=0" id="4">Romantic/19th Century (1830-1900)</a></li><li><a href="/period/classical_20th.aspx?all=0&amp;tab=0" id="5">20th Century</a></li><li><a href="/period/classical_contemporary.aspx?all=0&amp;tab=0" id="6">Contemporary</a></li></ul></li></ul></li><li><a href="/genre/jazz_and_blues.aspx" onclick="javascript:window.location.href='/genre/jazz_and_blues.aspx'" class="x" id="1">Jazz and Blues</a><ul><li><a href="/category/jazz_classic.aspx" class="0">Classic Jazz</a></li><li><a href="/category/jazz_contemporary.aspx" class="1">Contemporary Jazz</a></li></ul></li><li><a href="/genre/nostalgia.aspx" id="2">Nostalgia</a></li><li><a href="/genre/contemporary_instrumental.aspx" id="3">Contemporary Instrumental</a></li><li><a href="/genre/world_and_folk.aspx" id="4">World Music</a></li><li><a href="/genre/audiobooks.aspx" onclick="javascript:window.location.href='/genre/audiobooks.aspx'" class="x" id="5">AudioBooks</a><ul><li><a href="#" id="0" class="x">Fiction</a><ul><li><a href="/category/audiobooks_fiction_classical.aspx" id="0">Classic Fiction</a></li><li><a href="/category/audiobooks_fiction_modern.aspx" id="1">Modern Classics</a></li><li><a href="/category/audiobooks_fiction_contemporary.aspx" id="2">Contemporary</a></li></ul></li><li><a href="#" id="1" class="x">Drama</a><ul><li><a href="/category/audiobooks_drama_shakespeare.aspx" id="0">Shakespeare</a></li><li><a href="/category/audiobooks_drama_others.aspx" id="1">Others</a></li></ul></li><li><a href="#" id="2" class="x">Non Fiction</a><ul><li><a href="/category/audiobooks_nonfiction_artshist.aspx" id="0">Arts-Histories</a></li><li><a href="/category/audiobooks_nonfiction_bio.aspx" id="1">Biographies</a></li><li><a href="/category/audiobooks_nonfiction_history.aspx" id="2">History</a></li><li><a href="/category/audiobooks_nonfiction_music.aspx" id="3">Music</a></li><li><a href="/category/audiobooks_nonfiction_philo.aspx" id="4">Philosophy</a></li><li><a href="/category/audiobooks_nonfiction_religion.aspx" id="5">Religion</a></li><li><a href="/category/audiobooks_nonfiction_various.aspx" id="6">Various</a></li></ul></li><li><a href="/category/audiobooks_poetry.aspx" class="3">Poetry</a></li><li><a href="#" id="4" class="x">Junior Classics</a><ul><li><a href="/category/audiobooks_juniorclassics_fiction.aspx" id="0">Fiction</a></li><li><a href="/category/audiobooks_juniorclassics_nonfiction.aspx" id="1">Non Fiction</a></li></ul></li></ul></li><li><a href="/search/searchResults.aspx?genre=genre&amp;genreid=relaxation_music&amp;all=0&amp;tab=0" id="6">Relaxation Music</a></li></ul></li></ul><ul><li><h2><a title="Artists" href="/artist/A.htm">&nbsp;Artists</a></h2></li></ul><ul><li><h2><a title="Composers" href="/composer/A.htm">&nbsp;Composers</a></h2></li></ul><ul><li><h2><a title="Labels" href="/labelslist.aspx">&nbsp;Labels</a></h2></li></ul><ul><li class="arrow"><h2><a title="Browse" href="#">&nbsp;Browse</a></h2><ul><li><a href="/newrelease.aspx" id="0">New Releases</a></li><li><a href="/promos/audiophile_recordings.html" id="1">Audiophile Recordings in FLAC</a></li><li><a href="/RecentlyAddedProducts.aspx" id="2">Recently Added</a></li><li><a href="/promos/highly_reviewed_recordings.html" id="3">Highly Reviewed</a></li><li><a href="/promos/CustomerReviews.html" id="4">Best Customer Reviews</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Highlights" href="#">&nbsp;Highlights</a></h2><ul><li><a href="/promos/COLExclusiveSamplers.html" id="0">Exclusive Samplers</a></li><li><a href="/promos/Guided-Tours-of-Classical-Music.html" id="1">The Guided Tours of Classical Music Eras</a></li><li><a href="/promos/200NaxosEssentials.html" id="2">200 Naxos Essentials</a></li><li><a href="/mostdownloaded.aspx" id="3">Bestsellers</a></li><li><a href="/promos/newlabels.html" id="4">New Labels</a></li><li><a href="/promos/ClassicsOnlineVirtualBoxSets.html" id="5">Virtual Box Sets</a></li><li><a href="/promos/GiftCertificatePromo.html" id="6">Gift Certificates</a></li><li><a href="/podcasts/podcast.aspx" id="7">Podcasts</a></li><li><a href="/promos/Great_Composers.html" id="8">Listening Guides</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Current Specials" href="#">&nbsp;Current Specials</a></h2><ul><li><a href="/promos/Malipiero-World-Premiere.html" id="0">Malipiero World Premieres</a></li><li><a href="/promos/Fliter-Chopin-Preludes.html" id="1">Ingrid Fliter - Chopin</a></li><li><a href="/promos/Muti-Romeo-Juliet.html" id="2">Romeo and Juliet – CSO, Muti</a></li><li><a href="/promos/Clemency-MacMillan.html" id="3">Clemency: MacMillan; Boston Lyric Opera</a></li><li><a href="/labelslist.aspx" id="4">Featured Label – Steinway &amp; Sons</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Search" href="#">&nbsp;Search</a></h2><ul><li><a href="/search/AdvanceSearch.aspx" id="0">Advanced Search</a></li><li><a href="/music_browser/" id="1">Music Browser</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Help" href="#">&nbsp;Help</a></h2><ul><li><a href="/FAQs.aspx" id="0">FAQs</a></li><li><a href="http://www.classicsonline.com/DownloadManager/UserManual.aspx" id="1">Download Manager</a></li></ul></li></ul><ul><li><h2><a href="#" onclick="document.getElementById('divFloat').style.display=''; DimBody();">&nbsp;Login</a></h2></li></ul>
+        <ul><li class="firstmenuarrow"><h2><a title="Genres" href="#">&nbsp;Genres</a></h2><ul><li><a href="/genre/classical_music.aspx" onclick="javascript:window.location.href='/genre/classical_music.aspx'" class="x" id="0">Classical Music</a><ul><li><a href="#" id="0" class="x">Categories</a><ul><li><a href="/category/classical_ballet.aspx" id="0">Ballet</a></li><li><a href="/category/classical_chamber_music.aspx" id="1">Chamber Music</a></li><li><a href="/category/classical_chinese_music.aspx" id="2">Chinese Music</a></li><li><a href="/category/classical_sacred.aspx" id="3">Choral - Sacred</a></li><li><a href="/category/classical_non_sacred.aspx" id="4">Choral - Secular</a></li><li><a href="/category/classical_concertos.aspx" id="5">Concertos</a></li><li><a href="/category/classical_film.aspx" id="6">Film and TV Music</a></li><li><a href="/category/classical_instrumental.aspx" id="7">Instrumental</a></li><li><a href="/category/classical_musical.aspx" id="8">Musicals</a></li><li><a href="/category/classical_opera.aspx" id="9">Opera / Operetta</a></li><li><a href="/category/classical_orchestral.aspx" id="10">Orchestral</a></li><li><a href="/category/classical_orchestral_backing_tracks.aspx" id="11">Orchestral Backing Tracks</a></li><li><a href="/category/classical_vocal.aspx" id="12">Vocal</a></li></ul></li><li><a href="#" id="1" class="x">Periods</a><ul><li><a href="/period/classical_medieval.aspx?all=0&amp;tab=0" id="0">Medieval (800-1400)</a></li><li><a href="/period/classical_renaissance.aspx?all=0&amp;tab=0" id="1">Renaissance (1400-1600)</a></li><li><a href="/period/classical_baroque.aspx?all=0&amp;tab=0" id="2">Baroque (1600-1750)</a></li><li><a href="/period/classical_classical.aspx?all=0&amp;tab=0" id="3">Classical (1750-1830)</a></li><li><a href="/period/classical_romantic.aspx?all=0&amp;tab=0" id="4">Romantic/19th Century (1830-1900)</a></li><li><a href="/period/classical_20th.aspx?all=0&amp;tab=0" id="5">20th Century</a></li><li><a href="/period/classical_contemporary.aspx?all=0&amp;tab=0" id="6">Contemporary</a></li></ul></li></ul></li><li><a href="/genre/jazz_and_blues.aspx" onclick="javascript:window.location.href='/genre/jazz_and_blues.aspx'" class="x" id="1">Jazz and Blues</a><ul><li><a href="/category/jazz_classic.aspx" class="0">Classic Jazz</a></li><li><a href="/category/jazz_contemporary.aspx" class="1">Contemporary Jazz</a></li></ul></li><li><a href="/genre/nostalgia.aspx" id="2">Nostalgia</a></li><li><a href="/genre/contemporary_instrumental.aspx" id="3">Contemporary Instrumental</a></li><li><a href="/genre/world_and_folk.aspx" id="4">World Music</a></li><li><a href="/genre/audiobooks.aspx" onclick="javascript:window.location.href='/genre/audiobooks.aspx'" class="x" id="5">AudioBooks</a><ul><li><a href="#" id="0" class="x">Fiction</a><ul><li><a href="/category/audiobooks_fiction_classical.aspx" id="0">Classic Fiction</a></li><li><a href="/category/audiobooks_fiction_modern.aspx" id="1">Modern Classics</a></li><li><a href="/category/audiobooks_fiction_contemporary.aspx" id="2">Contemporary</a></li></ul></li><li><a href="#" id="1" class="x">Drama</a><ul><li><a href="/category/audiobooks_drama_shakespeare.aspx" id="0">Shakespeare</a></li><li><a href="/category/audiobooks_drama_others.aspx" id="1">Others</a></li></ul></li><li><a href="#" id="2" class="x">Non Fiction</a><ul><li><a href="/category/audiobooks_nonfiction_artshist.aspx" id="0">Arts-Histories</a></li><li><a href="/category/audiobooks_nonfiction_bio.aspx" id="1">Biographies</a></li><li><a href="/category/audiobooks_nonfiction_history.aspx" id="2">History</a></li><li><a href="/category/audiobooks_nonfiction_music.aspx" id="3">Music</a></li><li><a href="/category/audiobooks_nonfiction_philo.aspx" id="4">Philosophy</a></li><li><a href="/category/audiobooks_nonfiction_religion.aspx" id="5">Religion</a></li><li><a href="/category/audiobooks_nonfiction_various.aspx" id="6">Various</a></li></ul></li><li><a href="/category/audiobooks_poetry.aspx" class="3">Poetry</a></li><li><a href="#" id="4" class="x">Junior Classics</a><ul><li><a href="/category/audiobooks_juniorclassics_fiction.aspx" id="0">Fiction</a></li><li><a href="/category/audiobooks_juniorclassics_nonfiction.aspx" id="1">Non Fiction</a></li></ul></li></ul></li><li><a href="/search/searchResults.aspx?genre=genre&amp;genreid=relaxation_music&amp;all=0&amp;tab=0" id="6">Relaxation Music</a></li></ul></li></ul><ul><li><h2><a title="Artists" href="/artist/A.htm">&nbsp;Artists</a></h2></li></ul><ul><li><h2><a title="Composers" href="/composer/A.htm">&nbsp;Composers</a></h2></li></ul><ul><li><h2><a title="Labels" href="/labelslist.aspx">&nbsp;Labels</a></h2></li></ul><ul><li class="arrow"><h2><a title="Browse" href="#">&nbsp;Browse</a></h2><ul><li><a href="/newrelease.aspx" id="0">New Releases</a></li><li><a href="/promos/audiophile_recordings.html" id="1">Audiophile Recordings in FLAC</a></li><li><a href="/RecentlyAddedProducts.aspx" id="2">Recently Added</a></li><li><a href="/promos/highly_reviewed_recordings.html" id="3">Highly Reviewed</a></li><li><a href="/promos/CustomerReviews.html" id="4">Best Customer Reviews</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Highlights" href="#">&nbsp;Highlights</a></h2><ul><li><a href="/promos/Guided-Tours-of-Classical-Music.html" id="0">The Guided Tours of Classical Music Eras</a></li><li><a href="/promos/200NaxosEssentials.html" id="1">200 Naxos Essentials</a></li><li><a href="/mostdownloaded.aspx" id="2">Bestsellers</a></li><li><a href="/promos/newlabels.html" id="3">New Labels</a></li><li><a href="/promos/ClassicsOnlineVirtualBoxSets.html" id="4">Virtual Box Sets</a></li><li><a href="/podcasts/podcast.aspx" id="5">Podcasts</a></li><li><a href="/promos/Great_Composers.html" id="6">Listening Guides</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Search" href="#">&nbsp;Search</a></h2><ul><li><a href="/search/AdvanceSearch.aspx" id="0">Advanced Search</a></li><li><a href="/music_browser/" id="1">Music Browser</a></li></ul></li></ul><ul><li class="arrow"><h2><a title="Help" href="#">&nbsp;Help</a></h2><ul><li><a href="/FAQs.aspx" id="0">FAQs</a></li><li><a href="http://www.classicsonline.com/DownloadManager/UserManual.aspx" id="1">Download Manager</a></li></ul></li></ul><ul><li><h2><a href="#" onclick="document.getElementById('divFloat').style.display=''; DimBody();">&nbsp;Login</a></h2></li></ul>
         <div style="float:right; margin-right:5px; position:relative; font-weight:bold" class="yregmicrofont">       
-        <span style="float:left; width:50px; text-align:left; position:relative">CDs</span> <span style="width:50px; float:left; position:relative; text-align:right">74,393</span><br>
-        <span style="float:left; width:50px; text-align:left; position:relative">Tracks</span> <span style="width:50px; float:left; position:relative; text-align:right">1,560,840</span>       
+        <span style="float:left; width:50px; text-align:left; position:relative">CDs</span> <span style="width:50px; float:left; position:relative; text-align:right">76,385</span><br>
+        <span style="float:left; width:50px; text-align:left; position:relative">Tracks</span> <span style="width:50px; float:left; position:relative; text-align:right">1,724,967</span>       
         </div><p class="clr2"></p>
     </div>
     <div id="divFloat" style="top:40%; height:140px;  width:340px; right:35%; border:ridge #000000 1px; position:absolute; background-color:#d4caa0; z-index:3000; display:none" class="style1">                               
@@ -100,7 +150,7 @@ var WRInitTime=(new Date()).getTime();
 			        <tr><td colspan="2"><hr></td></tr>
 			        <!--<tr><td><input name="g_objectPageHeader:ml_chkRememberMe1" type="checkbox" id="g_objectPageHeader_ml_chkRememberMe1" /> Remember me </td></tr>-->
 			        <tr><td class="sml"><a href="/userlogin/forgotpassword.aspx">Forgot your password</a></td>
-			        <td class="sml" align="right"><a href="/UserLogIn/SignUp.aspx">Haven't registered yet?</a></td></tr>
+			        <td class="sml" align="right"><a href="/UserLogIn/SignUp.aspx" style="display:none">Haven't registered yet?</a></td></tr>
 		        </tbody></table>
 		        </form>
 		       <p></p>
@@ -118,20 +168,6 @@ var WRInitTime=(new Date()).getTime();
 <p class="clr2"></p>
 <div id="lSidebar_Panel1">
 	<div id="sideBarLeftContainer" xmlns:util="urn:xslUtilities">
-  <div class="leftnavttlbg" style="text-align:left">
-                &nbsp;&nbsp;&nbsp;<span class="headmaroon">This Week's<br>&nbsp;&nbsp;&nbsp;Complimentary Track</span></div>
-  <p class="smallspace">
-  </p>
-  <div class="txt2" style="display:block;">
-    <div style="margin-left:23px; ">
-      <a href="/mpkey/col21_main" class="txt2"></a><a href="/playlist/playlist.aspx?id=15">
-          </a><a href="/catalogue/product.aspx?pid=1201857&amp;trackid=1202076"><img src="http://cdn.classicsonline.com/images/cds/others/8.572427b.gif" width="76" height="76" border="1"></a><br>
-          <br>
-          <a href="/catalogue/product.aspx?pid=1201857&amp;trackid=1202076" class="style1"><b>Track 15</b> II. Larghetto</a>
-    </div>
-  </div>
-  <p class="smallspace">
-  </p>
   <div class="leftnavttlbg" style="text-align:left">
                 &nbsp;&nbsp;&nbsp;<span class="headmaroon">Search Options</span></div>
   <p class="smallspace">
@@ -155,7 +191,7 @@ var WRInitTime=(new Date()).getTime();
   </div>
   <p class="smallspace">
   </p>
-  <div style="width:160px; padding:0; margin:0 auto;" align="center"><form action="http://ClassicsOnline.us1.list-manage.com/subscribe/post?u=f90c0f86995d200098ed6b899&amp;id=d270deb16b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="font: normal 100% Arial;font-size: 12px;"><div id="smallspace"></div><label for="mce-EMAIL" class="style1"><b>Please type in your e-mail address below.</b></label><input type="text" value="" name="EMAIL" class="style1" id="mce-EMAIL" style="padding: .2em .3em; width:85%;z-index: 999;" size="15"><br><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="style1"></form></div>
+  <div style="width:160px; padding:0; margin:0 auto;" align="center"><form name="SubscriberForm" style="text-align:left; font-family: arial, sans-serif; font-size: 12pt;" action="http://www.anpasia.com/public/process-subscription-form.aspx?formId=42415F417841455B43" onsubmit="return CorrectEmailaddress(this);" method="post">	<table>		<tbody><tr>			<td align="center">				<label for="mce-EMAIL" class="style1"><b>Please type in your e-mail address below.</b></label>				<input type="text" name="pf_Email" value="" size="30" class="style1" style="padding: .2em .3em; width:85%;z-index: 999;"><br>				<input type="submit" name="Submit" value="Subscribe" class="style1">			</td>		</tr>	</tbody></table>	<input type="text" name="pf_Demographicfield2" value="" size="30" style="display:none;">	<input type="text" name="pf_Demographicfield3" value="" size="30" style="display:none;">	<input type="text" name="pf_Demographicfield1" value="" size="30" style="display:none;">	<select name="pf_DeliveryFormat" style="display:none;">		<option value="HTML" selected="">HTML</option>		<option value="Text">Text</option>	</select>	<input type="hidden" name="pf_FormType" value="OptInForm">	<input type="hidden" name="pf_OptInMethod" value="SingleOptInMethod">	<input type="hidden" name="pf_CounterDemogrFields" value="3">	<input type="hidden" name="pf_CounterMailinglists" value="1">	<input type="hidden" name="pf_AccountId" value="1550">	<input type="hidden" name="pf_ListById" value="1">	<input type="hidden" name="pf_Version" value="2">	<input type="hidden" name="pf_MailinglistName1" value="67213">	<input type="hidden" name="pf_redir" value="http://www.classicsonline.com/promos/Newsletter-Subscription-Thankyou.html"></form></div>
   <table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
     <tbody><tr height="10px">
       <td>
@@ -193,9 +229,10 @@ var WRInitTime=(new Date()).getTime();
 
 </div>
 	   
-	   <form name="aspnetForm" method="post" action="/privacypolicy.aspx" id="aspnetForm">
+	   <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIzNTA4MDA5ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUkZ19vYmplY3RQYWdlSGVhZGVyOm1sX2Noa1JlbWVtYmVyTWUx30w43GCvkhwvAhyjDwJhcTLeSAs=">
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQL1udTXDgLtkNBvAuzBmdwPAsPYhYIFApa09tgCj4+qUOJx6+jqGk9XopmfXusD+5Y="></form>
 	   <div id="mainside2" class="style1" style="opacity: 1;">
             <p class="smallspace"></p>	      
@@ -272,7 +309,7 @@ var WRInitTime=(new Date()).getTime();
        <div id="g_objectPageFooter_divJS"></div>
     <div id="footer2" class="footerbg"><img src="/images/blank.gif" alt="" onload="AutoResize()" width="1">
 			   <div><p class="smallspace"></p>
-					<span id="g_objectPageFooter_lstFooter" style="display:inline-block;"><span>
+					<span id="g_objectPageFooter_lstFooter" style="display:inline-block;width:98%;"><span>
 			                <a href="/affiliate/affiliatelogin.aspx" class="txt">Affiliates</a>
 		                </span><span>&nbsp;|&nbsp;</span><span>
 			                <a href="/rewardshelp.aspx" class="txt">Classical Points</a>
@@ -281,7 +318,7 @@ var WRInitTime=(new Date()).getTime();
 		                </span><span>&nbsp;|&nbsp;</span><span>
 			                <a href="/AboutUs.aspx" class="txt">About Us</a>
 		                </span><span>&nbsp;|&nbsp;</span><span>
-			                <a href="/contactus.aspx" class="txt">Contact Us</a>
+			                <a href="https://classicsonline.zendesk.com/hc/en-us/requests/new" class="txt">Contact Us</a>
 		                </span><span>&nbsp;|&nbsp;</span><span>
 			                <a href="/terms.aspx" class="txt">Terms of Use</a>
 		                </span><span>&nbsp;|&nbsp;</span><span>
@@ -289,8 +326,8 @@ var WRInitTime=(new Date()).getTime();
 		                </span></span><p class="smallspace"></p>
 					
 					    <p class="smallspace"></p>
-					<div><a href="/Newsletter-Archive/Newsletter-Archive.html" class="style1">ClassicsOnline Newsletter Archive</a></div><p class="smallspace"></p>
-					<div><a href="/promos/monthly_features.html" class="style1">Monthly Features on ClassicsOnline</a></div><p class="smallspace"></p>
+					<div style="display:none"><a href="/Newsletter-Archive/Newsletter-Archive.html" class="style1">ClassicsOnline Newsletter Archive</a></div><p class="smallspace"></p>
+					<div style="display:none"><a href="/promos/monthly_features.html" class="style1">Monthly Features on ClassicsOnline</a></div><p class="smallspace"></p>
 
 					
 					
@@ -299,7 +336,7 @@ var WRInitTime=(new Date()).getTime();
 
 					<div id="Restriction" class="style1">Some titles may not be available in all countries because of possible copyright or licensing restrictions.</div>
 					<p class="smallspace"></p>
-					<div id="g_objectPageFooter_divCopyright" class="style1">Copyright © 2014 Naxos Digital Services Ltd. All rights reserved. <br>Classicsonline.com – Your <a href="http://www.classicsonline.com/classical-music-download/"> Classical Music Download </a> Source <br><font size="1px">7:41:39 PM Wednesday, October 08, 2014 &nbsp;-211-</font></div>				
+					<div id="g_objectPageFooter_divCopyright" class="style1">Copyright © 2016 Naxos Digital Services Ltd. All rights reserved. <br>Classicsonline.com – Your <a href="http://www.classicsonline.com/classical-music-download/"> Classical Music Download </a> Source <br><font size="1px">3:29:08 PM Monday, March 14, 2016 &nbsp;-230-</font></div>				
 		       </div>
 	</div>
 </div>    
@@ -325,6 +362,38 @@ var WRInitTime=(new Date()).getTime();
     if(typeof ClickTale=='function') ClickTale(23500,0.0073,"www02");
     </script>
     <!-- ClickTale end of Bottom part -->
+    
+		<script type="text/javascript">function closeEOL() { document.getElementById("eolbanner").style.display = 'none'; }</script>
+		<div id="eolbanner" style="width: 100%;text-align: center; position: fixed;bottom: 0px;z-index: 1000;margin: 0px auto;" align="center">
+			<div align="center">
+				<table style="max-width:810px; background-color:#000;" cellpadding="5">
+					<tbody><tr>
+						<td style="font-family:helvetica; font-size:9pt; font-weight:bold; color:#f2c800; text-align:center">
+							
+							This site is now closed, but it has been replaced with our exciting new service <a id="basic" href="#" style="color:#fdc52a; font-size:10pt;">ClassicsOnline HD•LL</a>.&nbsp;&nbsp;
+							<a href="#" onclick="closeEOL()" style="font-family:verdana; font-size:12pt; font-weight:bold; color:#575757; text-decoration:none;" title=" close window... ">x</a>
+							<br>
+							Continue to buy your downloads at our new store, which now offers all content in lossless CD quality&nbsp;&nbsp;
+							<br>
+							formats, in addition to MP3, and thousands of high-definition titles. To learn more, <a href="http://www.classicsonline.com/classical-music-download/" style="color:#fdc52a;">click here</a>.&nbsp;&nbsp;
+							<br>
+							Note that previously registered customers may still login to view their accounts until further notice.&nbsp;&nbsp;
+							<br>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+        <!-- Modal Form for RedirectCOLHD -->
+        <div id="basic-modal-content">
+	        <p>ClassicsOnline customers will not be able to use their log in to access the new HD site. Please create a new ClassicsOnline HD•LL account to download albums, subscribe to streaming, create playlists and more!</p>
+	        <br>
+	        <div align="center"><p><a href="http://www.classicsonlinehd.com" class="linkbutton01">OK</a></p></div>
+        </div>   
+        <!-- Load jQuery, SimpleModal and Basic JS files -->
+        <script type="text/javascript" src="../javascript/simplemodal/jquery.js"></script>
+        <script type="text/javascript" src="../javascript/simplemodal/jquery.simplemodal.js"></script>
+        <script type="text/javascript" src="../javascript/simplemodal/basic.js"></script>
 
 
 
