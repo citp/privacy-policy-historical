@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fallensword.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913042734id_/https%3A//www.huntedcow.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallensword.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314070436id_/https%3A//www.huntedcow.com/home/privacy) for the most accurate reproduction.*
 
 # Hunted Cow - Privacy and Cookie Policy
 
 Hunted Cow Studios Limited ("we") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/home/terms?session=nXDebNaQTugIpjvrQoZoMWFfbjSxcDebeDTEwPvPDfNfgQjCypNcRtGLgNmitkdV) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/home/terms?session=fFUyvAjTIgQDxwPmIaZEgwSFVZrqmZNZbUZJeMEmAZUReMbqhelTnbrBYYfbbgbi) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is us of 35 South Street, Elgin, Moray IV30 1JZ.
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the **Act** ), the data control
 
 We may collect and process the following data about you:
 
-Information that you provide by filling in forms on our sites as listed on our [Terms of Website Use](https://web.archive.org/home/terms?session=nXDebNaQTugIpjvrQoZoMWFfbjSxcDebeDTEwPvPDfNfgQjCypNcRtGLgNmitkdV) ( **our sites** ). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our sites.
+Information that you provide by filling in forms on our sites as listed on our [Terms of Website Use](https://web.archive.org/home/terms?session=fFUyvAjTIgQDxwPmIaZEgwSFVZrqmZNZbUZJeMEmAZUReMbqhelTnbrBYYfbbgbi) ( **our sites** ). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our sites.
 
 If you contact us, we may keep a record of that correspondence.
 
@@ -73,7 +73,7 @@ In the event that we sell or buy any business or assets, in which case we may di
 
 If Hunted Cow Studios Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/home/terms?session=nXDebNaQTugIpjvrQoZoMWFfbjSxcDebeDTEwPvPDfNfgQjCypNcRtGLgNmitkdV) and other agreements; or to protect the rights, property, or safety of Hunted Cow Studios Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/home/terms?session=fFUyvAjTIgQDxwPmIaZEgwSFVZrqmZNZbUZJeMEmAZUReMbqhelTnbrBYYfbbgbi) and other agreements; or to protect the rights, property, or safety of Hunted Cow Studios Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 If you have given us express permission to do so.
 
