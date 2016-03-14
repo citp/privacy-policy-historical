@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teleflora.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905055050id_/http%3A//www.teleflora.com/info/securityprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teleflora.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314180252id_/http%3A//www.teleflora.com/info/securityprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,7 +23,21 @@
         <link rel="stylesheet" media="" type="text/css" href="http://assets.teleflora.com/css/modules/flexslider.css">
         <link rel="stylesheet" media="" type="text/css" href="http://assets.teleflora.com/css/modules/modal.css">
         <script type="text/javascript" src="http://assets.teleflora.com/js/lib/modernizr-dev.js"></script>
-        <link rel="stylesheet" media="" type="text/css" href="http://assets.teleflora.com/css/modules/bookmarks-bar/m-bookmarks-bar.css">
+        <script type="text/javascript">    
+         if (Modernizr.oldie) {
+            jquerySrc = 'http://assets.teleflora.com/js/lib/jquery.js';
+          } else {
+            jquerySrc = 'http://assets.teleflora.com/js/lib/jquery-2.0.0.min.js';
+          }
+          //TFD-948
+          var headElement = document.getElementsByTagName('head')[0], 
+          theFirstChild = headElement.firstChild;
+          var script = document.createElement("script");
+          script.type = 'text/javascript';
+          script.src = jquerySrc;
+          headElement.insertBefore(script, theFirstChild);
+    </script>
+    <link rel="stylesheet" media="" type="text/css" href="http://assets.teleflora.com/css/modules/bookmarks-bar/m-bookmarks-bar.css">
         <!--[if lt IE 9]>
         <link rel="stylesheet" type="text/css" media="all" href="http://assets.teleflora.com/css/screen-desktop.css"/>
         <link rel="stylesheet" type="text/css" href="http://assets.teleflora.com/css/fixes/ie.css" />
@@ -41,8 +55,6 @@
         //individual pages ask for this variable to load their individual resources
         var initLoad = false;
 	</script>
-    
-       
     <script>
   //individual pages ask for this variable to load their individual resources
   var initLoad = false;
@@ -71,190 +83,18 @@
     }
   }
 </script>
-<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
 <script type="text/javascript" src="http://assets.teleflora.com/js/Bootstrap.js"></script>
         <meta name="t_omniture_id" content="telefloracom">
     <style media="screen" type="text/css">
 </style>
 <link rel="icon" type="image/png" href="http://assets.teleflora.com/images/favicon.png">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script><link rel="alternate" href="www.teleflora.com" hreflang="en-us">
-<link rel="alternate" href="es1.teleflora.com" hreflang="es-us">
-<link rel="alternate" href="fr1.teleflora.com" hreflang="fr-us"><meta name="google-site-verification" content="hS536fxyCssKZ3IFhtC0eN0sK8i8QLc_aixOKGuHbuU">
-
-
+    <script src="https://teleflora.dynatracesaas.com/dtagent_bootstrap.js"></script><link rel="stylesheet" type="text/css" href="//assets.teleflora.com/css/tf-webproducer.css">
+<meta name="msvalidate.01" content="4B7AE2027FB92A79AD3B52BBABB0B099"><link rel="alternate" hreflang="en-us" href="www.teleflora.com">
+<link rel="alternate" hreflang="fr" href="http://fr.teleflora.com/"><meta name="google-site-verification" content="hS536fxyCssKZ3IFhtC0eN0sK8i8QLc_aixOKGuHbuU">
 <script type="text/javascript" src="//service.maxymiser.net/cdn/teleflora/js/mmcore.js"></script> 
 <script type="text/javascript" src="//nexus.ensighten.com/teleflora2/tfnewprod/Bootstrap.js"></script>
 
-
 <script>
-/* var script = document.createElement( "script" );
-script.type = "text/javascript";
-script.text = '$("#pdpThumbImg img").load(function() {if(!$(this).attr("src").match("^http://lh5.googleusercontent.com")){$(this).css("display","inline");}});';
-                
- $(document).ready(function(){
-   $('head').append('<style type="text/css">#pdpThumbImg img {display:none;}</style>');
-   $('body').append(script);
-
-}); */
-
-
-
-</script>  
-
-<style type="text/css" media="screen">
-   img[src*="googleusercontent"] {display:none !important;}
-.m-homepage-middle-promo-text {padding:0!important; padding-left:1em!important; margin-top:1em!important;}
-
-
-/* Chat radio button fix */
-#yesRadio, #noRadio {width:10px;left:22px!important;}
-
-/* #liveChat {display:none;} */
-</style> 
-<style>
-
-
-
-
-/*************/
-/* ALL PAGES */
-/*************/
-
-
-/*Added by Todd for Top Nav Caleder */
-
-.m-navbar-month {
-    padding-top: 3px!important;
-    color: #FFF;
-    font-size: 1em!important;
-    line-height: 1.2em;
-    background: none repeat scroll 0% 0% #FA3C7A;
-    padding-left: 3px!important;
-    padding-right: 3px!important;
-    padding-bottom: 3px!important;
-}
-
-/* breadcrumbs */
-.m-breadcrumbs { top: -0.3em !important; }
-
-/*************/
-/* MEGA MENU */
-/*************/
-
-/* collections | also more collections on all collections landing page */
-.m-navbar-collection .m-navbar-text {
-	width: auto !important;
-}
-.m-navbar-collection .m-navbar-link {
-    padding: 0.5em 0 0.45em !important;
-}
-.m-navbar-quickshop .m-navbar-link {
-	text-transform: uppercase !important;
-}
-
-
-/************************/
-/* ALL COLLECTIONS PAGE */
-/************************/
-
-/* hero sub-headline */
-.collections_landing .m-promo-title .subtitle {
-    font-family: "Avenir LT W01 65 Medium",Helvetica,sans-serif !important;
-    margin-top: 0 !important;
-}
-
-/*******************************/
-/* INDIVIDUAL COLLECTIONS PAGE */
-/*******************************/
-
-/* hero section */
-.m-featured-collection .m-stretch-bg-container {
-	background:none repeat scroll 0 0 whitesmoke;
-}
-
-/* hero section [MOBILE] */
-.m-featured-title h3.subtitle {
-    margin-top: -0.5em;
-}
-
-/* panel center box */
-.m-collection-description-header, .m-collection-description-text {
-	max-width:380px !important;
-}
-.m-collection-description-header, .m-collection-description-text {
-	max-width:380px !important;
-}
-.m-social-container .m-social.m-social-collection {
-    margin: auto;
-}
-.m-social-container .m-social .m-social-p { /* pinterest icon */
-    width: 18% !important;
-}
-.m-social-container .m-social .m-social-t { /* twitter icon */
-    width: 30% !important;
-}
-.m-social-container .m-social .m-social-g { /* twitter icon */
-    width: 23% !important;
-}
-
-/*******************************/
-/* DOTD PAGE */
-/*******************************/
-
-/* hero section */
-.m-deal-banner-bg .d-grid_12 {
-    display: none;
-}
-
-/*******************************/
-/* PDP PAGE */
-/*******************************/
-
-/* social media icons */
-.m-social-container .m-social .m-social-f {
-    margin-bottom: 10px;
-}
-
-/* tabs - MOBILE */
-.grid_1.pdp-tabs-btn-mobil {
-    height: 4.5em;
-}
-
-/*******************************/
-/* SYMPATHY PAGE */
-/*******************************/
-
-/* hero section */
-@media screen and (max-width: 480px) {
-	.m-sympathy-banner .m-flower-ideas-banner-bg {
-		background-color: white;
-		background-image: none !important;
-	}	
-}
-
-/*******************************/
-/* CONTENT */
-/*******************************/
-
-/* read more */
-.m-subcategory-header-more-text h2,
-.m-subcategory-header-more-text h3,
-.m-subcategory-header-more-text h4,
-.m-subcategory-header-more-text h5 {
-    padding: 0.5em 0px 0px;
-    font-size: 1.5em;
-    font-family: inherit;
-}
-
-/*******************************/
-/* PROMO BANNER TERMS - KA SP#3179-20150902*/
-/*******************************/
-
-ul.pop-up-text{margin:25px;}
-</style><style type="text/css">
-.m-collection-description-left .m-collection-description-image-wrapper img,
-.m-collection-description-right .m-collection-description-image-wrapper img {visibility:hidden;}
-</style><script>
    Modernizr.load({
       load: [
          '//assets.teleflora.com/js/custom/head.js'
@@ -266,7 +106,8 @@ ul.pop-up-text{margin:25px;}
           var cartItemCount = 0;
           var vCartSize = 0;
       </script>
-<div id="wrapper">
+      <!-- Added for  JIRA -1163 -->
+    <div id="wrapper">
         <div id="fb-root"></div>
             <input type="hidden" id="currentSiteId" value="PM-2230">
     <script type="text/javascript">
@@ -298,7 +139,9 @@ ul.pop-up-text{margin:25px;}
         <nav class="m-supernav clearfix bottom-border ">
              <div class="l-wrapper">
      <a href="javascript:void(0);" id="navTrigger" class="m-supernav-navtrigger m-supvernav-icon no-desktop navTrigger">
-            <div class="m-supernav-navtrigger-icon icon-kahuna-burger"></div>
+            <div class="m-supernav-navtrigger-icon icon-kahuna-burger">
+                <div class="nav-tooltip">Menu</div>
+            </div>
         </a> 
            <a href="/" itemprop="url">
             <div class="m-supernav-logo logo" itemprop="brand" itemscope="" itemtype="http://schema.org/Organization" "="">
@@ -326,19 +169,34 @@ ul.pop-up-text{margin:25px;}
                     </div>
             </div>
             <div class="m-supernav-item ">
-                </div>
-            <div class="m-supernav-item m-supernav-account clearfix">
+                <div id="liveChat" class="m-supernav-item no-mobile clearfix liveChat" style="cursor: pointer;">
+                                    <div class="m-supernav-icon icon-ask"></div>
+                                    <div class="m-supernav-content m-supernav-ask-status no-mobile">
+                                        <button type="button" class="button-link" data-toggle="modal" data-target="#liveChatModal">
+                                          Ask an Expert</button> 
+                                    </div>
+                                </div>
+                            </div>
+            <div id="accInfoPopup" class="m-supernav-item m-supernav-account clearfix" style="display: none;">
                     <a class="accountTrigger" id="accountTrigger"> <div class="m-supernav-icon icon-user" style=""></div> <div class="m-supernav-content m-supernav-account-status">
+                                   Log In</div>
+                            </a>
+                </div>
+                <div id="accInfoNoPopup" class="m-supernav-item m-supernav-account clearfix" style="display: block;">
+                    <a href="/account/info.jsp" class="accountTrigger" id="accountTrigger"> <div class="m-supernav-icon icon-user" style=""></div> <div class="m-supernav-content m-supernav-account-status">
                                     Log In</div>
                             </a>
                 </div>
             <div class="m-supernav-item m-supernav-cart clearfix">
-                    <a id="cartTrigger" href="/cart"><div class="icon-cart"></div>
+                    <a id="cartTrigger" href="/cart;jsessionid=6FD2EB206E380FBBE2A8A73EE0ECCA2E"><div class="icon-cart"></div>
                             <div class="m-supernav-content">Cart</div>
                     </a></div>
             </div>
     </div>
-</nav>
+    <script type="text/javascript">
+            var t_profileid = '279152377';
+        </script>
+      </nav>
         </header>
     <div id="SessionTimeOutWarn" class="modal hide fade in" tabindex="1" data-width="460" aria-hidden="false" style="display: none; width: 460px; margin-left: -229px; margin-top: -211px;">
         <div class="m-pdp-modal-header modal-header">
@@ -355,49 +213,41 @@ ul.pop-up-text{margin:25px;}
     </div>
 <nav class="m-navbar position-absolute no-top no-bottom full-height fluid no-top no-left clearfix">
         <div class="l-wrapper">
-            <div id="search" class="m-navbar-search-wrapper m-navbar-item">
-                <div id="atg_store_search" class="m-navbar-search-wrapper m-navbar-item">
-        <form id="searchForm" name="searchForm" action="/browse" class="m-navbar-search-form" onsubmit="return validateSearchForm();"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="4144770824644301525" type="hidden"><input name="Ntt" type="text" id="atg_store_searchInput" title="search" class="m-navbar-search" placeholder="Search" autocomplete="off">
-            <input title="Go" name="search" value="" class="m-navbar-search-btn" type="submit"><input name="_D:search" value=" " type="hidden"><a id="InternalSearchTypeAhead" style="display: none;" class="pdplink" href="/Teleflora/" navlink="Internal Search: Recommend">Internal Search: Recommend </a>
-        <input name="_DARGS" value="/cartridges/SearchBox/SearchBox.jsp.searchForm" type="hidden"></form><script type="text/javascript">
-													var minAutoSuggestInputLength = "3", defaultNavState = "?Nf=sku.activePrice%7CGTEQ+0.0%7C%7Csku.activePrice%7CLTEQ+1000.0&Nr=AND%28product.active%3A1%2COR%28product.catalogId%3Acatalog210019%29%2Cproduct.priceListPair%3Aplist210026%2COR%28product.siteId%3APM-2230%29%29&Nrs=collection%28%29%2Frecord%5B%28product.browseOnly%3D0+and+%28product.startDate%3C%3D1441411200000+or+not%28product.startDate%29%29+and+%28product.endDate%3E%3D1441411200000+or+not%28product.endDate%29%29%29+or+%28product.browseOnly%3D1+and+%28product.browseStartDate%3E1441411200000+or+not%28product.browseStartDate%29%29+or+%28product.browseEndDate%3C1441411200000+or+not%28product.browseEndDate%29%29+and+%28product.startDate%3C%3D1441411200000+or+not%28product.startDate%29%29+and+%28product.endDate%3E%3D1441411200000+or+not%28product.endDate%29%29%29%5D", autoSuggestServiceUrl = '/rest/model/teleflora/autosuggest/AutoSuggestActor/getAutoSuggestResults', collection = "/content/Shared/Auto-Suggest Panels", productUrl = "", containerClass = 'dimSearchSuggContainer', defaultImage = 'http://assets.teleflora.com/images/no_image_auto_suggest.gif'
-												</script>
-        </div>
-</div>
             <div class="container_4 d-container_12">
                 <ul class="m-navbar-toplevel fluid auto-height no-margin no-padding">
                     <li class="m-navbar-pinkline no-desktop"></li>
                 <li class="m-navbar-item m-navbar-item-first"><a class="m-navbar-link pdplink" navlink="TopNav" href="/deal-of-the-day/prod220003">Deal Of The Day</a></li>
+                    <li class="m-navbar-pinkline no-desktop"></li>
+                <li class="m-navbar-item"><a class="m-navbar-link pdplink" navlink="TopNav" href="/birthday-flowers/cat210012">Birthday</a></li>
+                    <li class="m-navbar-pinkline no-desktop"></li>
+                <li class="m-navbar-item"><a class="m-navbar-link pdplink" navlink="TopNav" href="/sympathy-funeral/cat210037">Sympathy</a></li>
                     <li class="m-navbar-item m-navbar-has-subnav"><a class="m-navbar-link m-subnav-trigger" data-subnav="occasions" href="#">Occasions</a> <ul class="m-navbar-secondlevel">
         <li class="m-navbar-item no-desktop"><a class="m-navbar-link m-navbar-escape alt-pink" href="#">Main Menu</a></li>
         <ul class="m-navbar-set m-navbar-set-large">
                 <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">Featured Occasions</span></li>
                 <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/anniversary-flowers/cat440206" data-per="Anniversary Flowers,OCCASION,TopNav">Anniversary</a>
-                                </li>
-                            <li class="m-navbar-item">
                                 <a class="m-navbar-link itemClick" href="/birthday-flowers/cat210012" data-per="Birthday Flowers,OCCASION,TopNav">Birthday</a>
                                 </li>
                             <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/business-gifts/cat210263" data-per="Business Gifts,OCCASION,TopNav">Business Gifts</a>
+                                <a class="m-navbar-link itemClick" href="/new-baby-flowers/cat210097" data-per="New Baby Flowers,OCCASION,TopNav">New Baby</a>
+                                </li>
+                            <li class="m-navbar-item">
+                                <a class="m-navbar-link itemClick" href="/easter-flowers/cat210067" data-per="Easter Flowers,OCCASION,TopNav">Easter</a>
                                 </li>
                             <li class="m-navbar-item">
                                 <a class="m-navbar-link itemClick" href="/congratulations-flowers/cat210066" data-per="Congratulations Flowers,OCCASION,TopNav">Congratulations</a>
                                 </li>
                             <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/get-well-flowers/cat210073" data-per="Get Well Flowers,OCCASION,TopNav">Get Well</a>
-                                </li>
-                            <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/im-sorry-flowers/cat210082" data-per="I'm Sorry Flowers,OCCASION,TopNav">I'm Sorry</a>
-                                </li>
-                            <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/just-because-flowers/cat210085" data-per="Just Because Flowers,OCCASION,TopNav">Just Because</a>
+                                <a class="m-navbar-link itemClick" href="/st-patricks-day-flowers/cat210107" data-per="St. Patrick's Day Flowers,OCCASION,TopNav">St. Patrick's Day</a>
                                 </li>
                             <li class="m-navbar-item">
                                 <a class="m-navbar-link itemClick" href="/love-romance-flowers/cat210087" data-per="Love &amp; Romance Flowers,OCCASION,TopNav">Love &amp; Romance</a>
                                 </li>
                             <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/new-baby-flowers/cat210097" data-per="New Baby Flowers,OCCASION,TopNav">New Baby</a>
+                                <a class="m-navbar-link itemClick" href="/im-sorry-flowers/cat210082" data-per="I'm Sorry Flowers,OCCASION,TopNav">I'm Sorry</a>
+                                </li>
+                            <li class="m-navbar-item">
+                                <a class="m-navbar-link itemClick" href="/thinking-of-you-flowers/cat210115" data-per="Thinking of You Flowers,OCCASION,TopNav">Thinking of You</a>
                                 </li>
                             <li class="m-navbar-item">
                                 <a class="m-navbar-link itemClick" href="/funeral-sympathy-collection" data-per="Sympathy &amp; Funeral,OCCASION,TopNav">Sympathy &amp; Funeral</a>
@@ -406,7 +256,13 @@ ul.pop-up-text{margin:25px;}
                                 <a class="m-navbar-link itemClick" href="/thank-you-flowers/cat210110" data-per="Thank You Flowers,OCCASION,TopNav">Thank You</a>
                                 </li>
                             <li class="m-navbar-item">
-                                <a class="m-navbar-link itemClick" href="/thinking-of-you-flowers/cat210115" data-per="Thinking of You Flowers,OCCASION,TopNav">Thinking of You</a>
+                                <a class="m-navbar-link itemClick" href="/anniversary-flowers/cat440206" data-per="Anniversary Flowers,OCCASION,TopNav">Anniversary</a>
+                                </li>
+                            <li class="m-navbar-item">
+                                <a class="m-navbar-link itemClick" href="/just-because-flowers/cat210085" data-per="Just Because Flowers,OCCASION,TopNav">Just Because</a>
+                                </li>
+                            <li class="m-navbar-item">
+                                <a class="m-navbar-link itemClick" href="/get-well-flowers/cat210073" data-per="Get Well Flowers,OCCASION,TopNav">Get Well</a>
                                 </li>
                             <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link alt-pink pdplink" href="/occasions/cat210050">Shop All Occasions</a></li>
                 </ul>
@@ -414,59 +270,34 @@ ul.pop-up-text{margin:25px;}
                 <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">Upcoming Occasions</span></li>
                 <li class="m-navbar-item m-navbar-upcoming">
                             <div class="m-navbar-cal no-mobile">
-                                <span class="m-navbar-month">Sep</span> <span class="m-navbar-day">07</span>
-                            </div> <a class="m-navbar-link" href="/labor-day-flowers/cat210086">Labor Day</a>
+                                <span class="m-navbar-month">Mar </span> 
+                                 <input type="hidden" value="17" id="holiday-17">
+                                <span class="m-navbar-day">17</span>
+                            </div> <a class="m-navbar-link" href="/st-patricks-day-flowers/cat210107">St. Patrick's Day</a>
+                        </li>
+                    <li class="m-navbar-item m-navbar-upcoming">
+                            <div class="m-navbar-cal no-mobile">
+                                <span class="m-navbar-month">Mar </span> 
+                                 <input type="hidden" value="27" id="holiday-27">
+                                <span class="m-navbar-day">27</span>
+                            </div> <a class="m-navbar-link" href="/easter-flowers/cat210067">Easter</a>
                         </li>
                     </ul>
-        </ul>
-</li>
-            <li class="m-navbar-item m-navbar-has-subnav"><a class="m-navbar-link m-subnav-trigger" data-subnav="occasions" href="#">Collections</a> <ul class="m-navbar-secondlevel">
-    <li class="m-navbar-item no-desktop"><a class="m-navbar-link m-navbar-escape alt-pink" href="#">Main Menu</a></li>
-    <ul class="m-navbar-set">
-                <li class="m-navbar-item m-navbar-collection">
-                    <figure class="fluid">
-                        <img src="http://assets.teleflora.com/images/collections/monetsgarden/TF10870_Mon_Small_Promo_208x248.jpg">
-                    </figure>
-                    <p class="m-navbar-text">Bouquets inspired by the French impressionist.</p> <a navlink="TopNav" href="/monets-garden/cat730013" class="m-navbar-link alt-pink pdplink">Shop Monet's Garden</a>
-                </li>
-            </ul>
-        <ul class="m-navbar-set">
-                <li class="m-navbar-item m-navbar-collection">
-                    <figure class="fluid">
-                        <img src="http://assets.teleflora.com/images/collections/roomswithabloom/TF10870_RWAB_Small_Promo_208x248.jpg">
-                    </figure>
-                    <p class="m-navbar-text">This stunning collection is welcome at any home or office.</p> <a navlink="TopNav" href="/rooms-with-a-bloom/cat220037" class="m-navbar-link alt-pink pdplink">Shop Rooms with a Bloom</a>
-                </li>
-            </ul>
-        <ul class="m-navbar-set">
-                <li class="m-navbar-item m-navbar-collection">
-                    <figure class="fluid">
-                        <img src="http://assets.teleflora.com/images/collections/telefloraexclusives/TF10870_TFE_Small_Promo_208x248.jpg">
-                    </figure>
-                    <p class="m-navbar-text">Bright bouquets in unique vases that you'll only find here.</p> <a navlink="TopNav" href="/teleflora-exclusives/cat210127" class="m-navbar-link alt-pink pdplink">Shop Teleflora Exclusives</a>
-                </li>
-            </ul>
-        <ul class="m-navbar-set">
-                <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">More collections</span></li>
-                <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/ps-i-love-you/cat720019">P.S. I Love You</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/bestofthebunch?categoryId=cat790001">Best Of The Bunch</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/romanceofroses?categoryId=cat730020">Romance of Roses</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link alt-pink pdplink" href="/collections/cat730011">Shop All Collections</a></li>
-                </ul>
         </ul>
 </li>
             <li class="m-navbar-item m-navbar-has-subnav"><a class="m-navbar-link m-subnav-trigger" data-subnav="occasions" href="#">Shop By</a> <ul class="m-navbar-secondlevel">
         <li class="m-navbar-item no-desktop"><a class="m-navbar-link m-navbar-escape alt-pink" href="#">Main Menu</a></li>
         <ul class="m-navbar-set">
                 <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">Favorites</span></li>
-                <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/deal-of-the-day/prod220003">Deal of  the Day</a></li>
+                <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/spring-flowers/cat210195">Spring Flowers</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/deal-of-the-day/prod220003">Deal of  the Day</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/same-day-flower-delivery/cat480085">Same Day Delivery</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/best-sellers/cat480011">Best Sellers</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/whats-new/cat480009">NEW ARRIVALS</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/summer-flowers/cat210192">Summer Flowers</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/whats-new/cat480009">What's New</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/flowers-by-recipient/cat480074">Flowers by recipient</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/back-to-school-flowers/cat210058">Back to School</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/zen-arrangements/cat480010">Zen Arrangements</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/bestselling-plants/cat210183">Shop Plants</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/all-gift-baskets/cat540005">Shop Gift Baskets</a></li>
                     </ul>
         <ul class="m-navbar-set m-navbar-occassions">
                 <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">Color</span></li>
@@ -498,33 +329,50 @@ ul.pop-up-text{margin:25px;}
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/carnations/cat210144">Carnations</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/sunflowers/cat210167">Sunflowers</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/tropical-flowers/cat210169">Tropicals</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/tulips/cat210168">Tulips</a></li>
                     <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link alt-pink pdplink" href="/flower-by-type/cat210139">Shop All Flower Types</a></li>
                 </ul>
         </ul>
 </li>
-            <li class="m-navbar-item m-navbar-has-subnav"><a class="m-navbar-link m-subnav-trigger" data-subnav="occasions" href="#">Plants &amp; Gifts</a> <ul class="m-navbar-secondlevel">
-        <li class="m-navbar-item no-desktop"><a class="m-navbar-link m-navbar-escape alt-pink" href="#">Main Menu</a></li>
+            <li class="m-navbar-item m-navbar-has-subnav"><a class="m-navbar-link m-subnav-trigger" data-subnav="occasions" href="#">Collections</a> <ul class="m-navbar-secondlevel">
+    <li class="m-navbar-item no-desktop"><a class="m-navbar-link m-navbar-escape alt-pink" href="#">Main Menu</a></li>
+    <ul class="m-navbar-set">
+                <li class="m-navbar-item m-navbar-collection">
+                    <figure class="fluid">
+                        <img src="http://assets.teleflora.com/images/collections/birthday/TF13336_All_Collection_208x248.jpg">
+                    </figure>
+                    <p class="m-navbar-text">Make your birthday blooms stand out this season.</p> <a navlink="TopNav" href="/lets-celebrate?categoryId=cat870008" class="m-navbar-link alt-pink pdplink">Shop Let's Celebrate</a>
+                </li>
+            </ul>
         <ul class="m-navbar-set">
-                <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">Plants</span></li>
-                <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/bestselling-plants/cat210183">Bestselling Plants</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/blooming-plants/cat210185">Flowering Plants</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/green-plants/cat210184">Green Plants</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/orchids-tropicals/cat210186">Orchids &amp; Tropicals</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/sympathy-flowers/sympathy-plants/cat210129">Sympathy Plants</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link alt-pink pdplink" href="/all-plants/cat210180">Shop All Plants</a></li>
-                </ul>
+                <li class="m-navbar-item m-navbar-collection">
+                    <figure class="fluid">
+                        <img src="http://assets.teleflora.com/images/collections/telefloraexclusives/TF10870_TFE_Small_Promo_208x248.jpg">
+                    </figure>
+                    <p class="m-navbar-text">Bright bouquets in unique vases that you'll only find here.</p> <a navlink="TopNav" href="/teleflora-exclusives/cat210127" class="m-navbar-link alt-pink pdplink">Shop Teleflora Exclusives</a>
+                </li>
+            </ul>
         <ul class="m-navbar-set">
-                <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">Gifts</span></li>
-                <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/teleflora-keepsakes/cat480012">Keepsake Gifts</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/flower-basket/cat580005">Flower Gift Baskets</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/food-baskets/cat210132">Food Gift Baskets</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/sympathy-flowers/fruit-food/cat210188">Sympathy Gift Baskets</a></li>
-                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link alt-pink pdplink" href="/all-gift-baskets/cat540005">Shop All Gift Baskets</a></li>
+                <li class="m-navbar-item m-navbar-collection">
+                    <figure class="fluid">
+                        <img src="http://assets.teleflora.com/images/collections/gardensoftheworld/TF10870_GOTW_Small_Promo_208x248.jpg">
+                    </figure>
+                    <p class="m-navbar-text">A stunning collection from around the globe.</p> <a navlink="TopNav" href="/gardens-of-the-world/cat730021" class="m-navbar-link alt-pink pdplink">Shop Gardens of the World</a>
+                </li>
+            </ul>
+        <ul class="m-navbar-set">
+                <li class="m-navbar-item m-navbar-divider"><span class="m-navbar-title">More collections</span></li>
+                <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/monets-garden/cat730013">Monet's Garden</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/bestofthebunch?categoryId=cat790001">Best Of The Bunch</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/romanceofroses?categoryId=cat730020">Romance of Roses</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/rooms-with-a-bloom/cat220037">Rooms with a Bloom</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link pdplink" href="/ps-i-love-you/cat720019">P.S. I Love You</a></li>
+                    <li class="m-navbar-item"><a navlink="TopNav" class="m-navbar-link alt-pink pdplink" href="/collections/cat730011">Shop All Collections</a></li>
                 </ul>
         </ul>
 </li>
             <li class="m-navbar-pinkline no-desktop"></li>
-                <li class="m-navbar-item"><a class="m-navbar-link pdplink" navlink="TopNav" href="/same-day-flower-delivery/cat480085">Same Day Delivery</a></li>
+                <li class="m-navbar-item"><a class="m-navbar-link pdplink" navlink="TopNav" href="/same-day-flower-delivery/cat480085">Same Day</a></li>
                     <script>
   var globalURL = "http://www.teleflora.com";
 </script>
@@ -532,16 +380,17 @@ ul.pop-up-text{margin:25px;}
         <ul class="m-navbar-secondlevel m-navbar-short">
             <li class="m-navbar-item no-desktop"><a class="m-navbar-link m-navbar-escape alt-pink" href="#">Main Menu</a></li>
             <li class="m-navbar-item">
-                <span class="no-border no-desktop">Quick Shop</span> <form id="quickForm" name="quickForm" action="/browse"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="4144770824644301525" type="hidden"><input name="contentPath" value="/browse" type="hidden"><input name="_D:contentPath" value=" " type="hidden"><div class="form-field">
-                        <input name="_D:/atg/endeca/assembler/SearchFormHandler.catDimensionId" value=" " type="hidden"><select id="category" name="/atg/endeca/assembler/SearchFormHandler.catDimensionId"><option selected="" value="" disabled="true">Select
-                                                            Occasion</option><option value="102492">Bosses Day Flowers</option><option value="102513">Halloween Flowers</option><option value="102541">Sweetest Day Gifts</option><option value="102544">Thanksgiving Flowers</option><option value="102514">Hanukkah Flowers</option><option value="102493">Christmas Flowers</option><option value="102534">New Year's Eve Flowers</option><option value="102608">Anniversary Flowers</option><option value="102485">Birthday Flowers</option><option value="102591">Business Gifts</option><option value="102515">Housewarming Gifts</option><option value="102516">I'm Sorry Flowers</option><option value="102519">Just Because Flowers</option><option value="102521">Love &amp; Romance Flowers</option><option value="102530">New Baby Flowers</option><option value="102542">Teacher Gifts</option><option value="102543">Thank You Flowers</option><option value="102609">Thinking of You Flowers</option><option value="102500">Congratulations Flowers</option><option value="102536">Passover Flowers</option><option value="102537">Prom Flowers</option><option value="102538">Rosh Hashanah Flowers</option><option value="102621">Veterans Day Tributes</option><option value="102548">Valentine's Day Flowers</option><option value="102522">Memorial Day Flowers</option><option value="102523">Mother's Day Flowers</option><option value="102517">Independence Day Flowers</option><option value="102518">International Women's Day Flowers</option><option value="102511">Graduation Flowers</option><option value="102512">Grandparents Day Flowers</option><option value="102506">Friendship Day Flowers</option><option value="102501">Easter Flowers</option><option value="102505">Father's Day Gifts</option><option value="102520">Labor Day Flowers</option><option value="102499">Cinco de Mayo Flowers</option><option value="102540">St. Patrick's Day Flowers</option><option value="102535">Parents Day Gifts</option><option value="102491">Back to School Flowers</option><option value="102610">Women's Equality Day Flowers</option><option value="102507">Get Well Flowers</option><option value="102539">Admin Professionals</option></select></div>
+                <span class="no-border no-desktop">Quick Shop</span> <form id="quickForm" name="quickForm" action="/browse;jsessionid=6FD2EB206E380FBBE2A8A73EE0ECCA2E"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="-231534086087038039" type="hidden"><input name="contentPath" value="/browse" type="hidden"><input name="_D:contentPath" value=" " type="hidden"><div class="form-field">
+                        <input id="zipQs" placeholder="Recipient Zip Code" title="Recipient Zip Code" maxlength="10" name="zip" value="" type="text"><input name="_D:zip" value=" " type="hidden"></div>
                     <div class="form-field">
-                        <input name="_D:/atg/endeca/assembler/SearchFormHandler.priceRange" value=" " type="hidden"><select id="Nf" name="/atg/endeca/assembler/SearchFormHandler.priceRange"><option selected="" value="" disabled="true">Select Price</option><option value="sku.activePrice|BTWN+0.0+39.99">UNDER $40</option><option value="sku.activePrice|BTWN+40.0+59.99">$40 - $60</option><option value="sku.activePrice|BTWN+60.0+79.99">$60 - $80</option><option value="sku.activePrice|BTWN+80.0+99.99">$80 - $100</option><option value="sku.activePrice|BTWN+100.0+999.99">OVER $100</option></select></div>
+                        <input name="_D:/atg/endeca/assembler/SearchFormHandler.catDimensionId" value=" " type="hidden"><select id="category" name="/atg/endeca/assembler/SearchFormHandler.catDimensionId"><option selected="" value="" disabled="true">Select
+                                                            Occasion</option><option value="102518">International Women's Day Flowers</option><option value="102540">St. Patrick's Day Flowers</option><option value="102501">Easter Flowers</option><option value="102536">Passover Flowers</option><option value="102523">Mother's Day Flowers</option><option value="102539">Admin Professionals</option><option value="102485">Birthday Flowers</option><option value="102608">Anniversary Flowers</option><option value="102519">Just Because Flowers</option><option value="102543">Thank You Flowers</option><option value="102609">Thinking of You Flowers</option><option value="102521">Love &amp; Romance Flowers</option><option value="102516">I'm Sorry Flowers</option><option value="102530">New Baby Flowers</option><option value="102500">Congratulations Flowers</option><option value="102507">Get Well Flowers</option><option value="102542">Teacher Gifts</option><option value="102591">Business Gifts</option><option value="102499">Cinco de Mayo Flowers</option><option value="102515">Housewarming Gifts</option><option value="102522">Memorial Day Flowers</option><option value="102511">Graduation Flowers</option><option value="102537">Prom Flowers</option><option value="102535">Parents Day Gifts</option><option value="102505">Father's Day Gifts</option><option value="102517">Independence Day Flowers</option><option value="102492">Bosses Day Flowers</option><option value="102506">Friendship Day Flowers</option><option value="102520">Labor Day Flowers</option><option value="102491">Back to School Flowers</option><option value="102610">Women's Equality Day Flowers</option><option value="102512">Grandparents Day Flowers</option><option value="102538">Rosh Hashanah Flowers</option><option value="102541">Sweetest Day Gifts</option><option value="102513">Halloween Flowers</option><option value="102621">Veterans Day Tributes</option><option value="102544">Thanksgiving Flowers</option><option value="102514">Hanukkah Flowers</option><option value="102493">Christmas Flowers</option><option value="102534">New Year's Eve Flowers</option><option value="102548">Valentine's Day Flowers</option></select></div>
+                    <div class="form-field">
+                        <input name="_D:/atg/endeca/assembler/SearchFormHandler.priceRange" value=" " type="hidden"><select id="Nf" name="/atg/endeca/assembler/SearchFormHandler.priceRange"><option selected="" value="">Select Price</option><option value="sku.activePrice|BTWN+0.0+39.99&amp;4294966983">UNDER $40</option><option value="sku.activePrice|BTWN+40.0+59.99&amp;4294967012">$40 - $60</option><option value="sku.activePrice|BTWN+60.0+79.99&amp;4294966995">$60 - $80</option><option value="sku.activePrice|BTWN+80.0+99.99&amp;4294966971">$80 - $100</option><option value="sku.activePrice|BTWN+100.0+999.99&amp;4294966959">OVER $100</option></select></div>
                     <div class="form-field">
                         <input name="_D:/atg/endeca/assembler/SearchFormHandler.stypeDimensionId" value=" " type="hidden"><select id="style" name="/atg/endeca/assembler/SearchFormHandler.stypeDimensionId"><option selected="" value="">Select
                             Style</option><option value="4294967278">Cheerful for Him</option><option value="4294967288">Classic for Her</option><option value="4294967260">Classic for Him</option><option value="4294967163">Elegant</option><option value="4294967251">Exotic for Her</option><option value="4294967250">Exotic for Him</option><option value="4294967254">Modern for Her</option><option value="4294967257">Romantic for Her</option><option value="4294967230">Romantic for Him</option><option value="4294967277">Sweet &amp; Cheerful for Her</option><option value="4294967276">Sweet &amp; Cheerful for Kids</option></select></div>
-                    <div class="form-field">
-                        <input id="zipQs" placeholder="Recipient Zip Code" title="Recipient Zip Code" maxlength="10" name="zip" value="" type="text"><input name="_D:zip" value=" " type="hidden"></div>
+                    
                     <div id="deliveryWrap" class="form-field">
                         <input id="deliveryDate" placeholder="Delivery Date" title="Delivery Date" name="deliveryDate" value="" class="delivery_date" type="text"><input name="_D:deliveryDate" value=" " type="hidden"></div>
                     <div class="form-field">
@@ -564,7 +413,7 @@ ul.pop-up-text{margin:25px;}
 <div class="l-wrapper">
     <div class="m-account ">
                 <div class="m-account-arrow"></div>
-                <form id="logInForm" name="logInForm" action="https://www.teleflora.com:443/account/info.jsp?_DARGS=/WEB-INF/fragments/common/header.jsp.logInForm" method="POST" autocomplete="off"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="4144770824644301525" type="hidden"><div class="m-account-signin">
+                <form id="logInForm" name="logInForm" action="https://www.teleflora.com:443/account/info.jsp?_DARGS=/WEB-INF/fragments/common/header.jsp.logInForm" method="POST" autocomplete="off"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="-231534086087038039" type="hidden"><div class="m-account-signin">
                         <div class="form-wrapper">
                             <label>*Email</label>
                             <input id="logInEmail" maxsize="15" maxlength="100" name="email" value="" class="full-width" type="email" autocomplete="on" size="15"><input name="_D:email" value=" " type="hidden"><span class="error">Please enter a vaild email address</span>
@@ -612,7 +461,20 @@ ul.pop-up-text{margin:25px;}
             <div class="modal-footer pdp-modal-footer"></div>
         </div>
     </div>
-    <div>
+    <div class="l-wrapper m-homepage-search">
+                    <br class="no-desktop">
+                    <div id="search" class="m-navbar-search-wrapper m-navbar-item">
+        <input type="hidden" id="skuTypeDimension" value="4294967294">
+    <div id="atg_store_search" class="m-navbar-search-wrapper m-navbar-item">
+        <form id="searchForm" name="searchForm" action="/browse;jsessionid=6FD2EB206E380FBBE2A8A73EE0ECCA2E" class="m-navbar-search-form" onsubmit="return validateSearchForm();"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="-231534086087038039" type="hidden"><input name="Ntt" type="text" id="atg_store_searchInput" title="search" class="m-navbar-search" placeholder="Search" autocomplete="off">
+            <input title="Go" name="search" value="" class="m-navbar-search-btn" type="submit"><input name="_D:search" value=" " type="hidden"><a id="InternalSearchTypeAhead" style="display: none;" class="pdplink" href="/Teleflora/" navlink="Internal Search: Recommend">Internal Search: Recommend </a>
+        <input name="_DARGS" value="/cartridges/SearchBox/SearchBox.jsp.searchForm" type="hidden"></form><script type="text/javascript">
+													var minAutoSuggestInputLength = "3", defaultNavState = "?Nf=sku.activePrice%7CGTEQ+0.0%7C%7Csku.activePrice%7CLTEQ+1000.0&Nr=AND%28product.active%3A1%2COR%28product.catalogId%3Acatalog210019%29%2Cproduct.priceListPair%3Aplist210026%2COR%28product.siteId%3APM-2230%29%29&Nrs=collection%28%29%2Frecord%5B%28product.browseOnly%3D0+and+%28product.startDate%3C%3D1457913600000+or+not%28product.startDate%29%29+and+%28product.endDate%3E%3D1457913600000+or+not%28product.endDate%29%29%29+or+%28product.browseOnly%3D1+and+%28product.browseStartDate%3E1457913600000+or+not%28product.browseStartDate%29%29+or+%28product.browseEndDate%3C1457913600000+or+not%28product.browseEndDate%29%29+and+%28product.startDate%3C%3D1457913600000+or+not%28product.startDate%29%29+and+%28product.endDate%3E%3D1457913600000+or+not%28product.endDate%29%29%29%5D", autoSuggestServiceUrl = '/rest/model/teleflora/autosuggest/AutoSuggestActor/getAutoSuggestResults', collection = "/content/Shared/Auto-Suggest Panels", productUrl = "", containerClass = 'dimSearchSuggContainer', defaultImage = 'http://assets.teleflora.com/images/no_image_auto_suggest.gif', skuTypeDimension = '4294967294'
+												</script>
+        </div>
+</div>
+</div>
+            <div>
         <div>
             <!-- TIMESTAMP 2014-12-01 4:50PM HY -->
 <!-- breadcrumb section of content -->
@@ -853,7 +715,7 @@ ul.pop-up-text{margin:25px;}
 		</div>
 		<!-- How You Can Access and Update Information -->
         <div class="m-about-content-inner" id="how-you-can-access">
-            <h5 class="m-about-content-inner-header font-size-17px">How You Can Access and Update Informationt</h5>
+            <h5 class="m-about-content-inner-header font-size-17px">How You Can Access and Update Information</h5>
             <p>If you have previously provided  any personally identifiable information to us by way of our Web site, you  retain the right to review, correct, update, delete or otherwise modify such  information.</p>
             <p>To access the personally  identifiable information that we have collected about you that we maintain, or  to correct factual errors in such information, simply log into your account  using your e-mail address and password to update your information.  Or you may also contact us at the “Contact”  address, telephone number or e-mail provided below.<br>
             To protect your privacy and  security, we will take reasonable steps to help verify your identity before  granting access or making corrections.</p>
@@ -898,65 +760,6 @@ ul.pop-up-text{margin:25px;}
 </section></div>
     </div>
 <!--   Variables specific to each page are placed here -->
-    <!-- Taking referrer from the document and splitting to get referring domain
-        http://localhost:8080/category/.. will be converted to http://localhost:8080
-     -->
-    <script type="text/javascript">
-    	var enableEnsightenTrackingCall = 'false';
-    // Added a property of starts with for JS
-        if ( typeof String.prototype.startsWith != 'function' ) {
-          String.prototype.startsWith = function( str ) {
-            return this.substring( 0, str.length ) === str;
-          }
-        };
-        if(typeof t_events == 'undefined') {
-            var t_events = "";
-    	}
-        var fromHeader = 'false';
-         if(fromHeader == 'true') {
-            t_events = "event42";
-        } 
-        var referer = "";
-        var t_product_name = "";
-        var splitref = document.referrer.split("/",6);
-        if(splitref[2]) {
-            referer = splitref[0]+"//"+splitref[2];
-        }
-        // This method is to parse and replace the appostory encoded string array with the normal javascript accepted appostropy
-        function replaceEncodedArrayWithApostrophy(t_product_name) {
-            if (!(t_product_name instanceof Array)){
-                t_product_name = t_product_name.replace(/&#039;/g, '\'');
-                t_product_name = t_product_name.replace(/&amp;/g, '\&');
-                return t_product_name;
-                } else {
-                for(var i=0; i < t_product_name.length; i++) {
-                    t_product_name[i] = t_product_name[i].replace(/&#039;/g, '\'');
-                    t_product_name[i] = t_product_name[i].replace(/&amp;/g, '\&');
-                } 
-                return t_product_name;
-            }
-         }
-// Commented out pending clarificaiton
-       function registerEvent8() {
-        var event8Array = [];
-        for(var i=0; i < t_yousaved.length; i++) {
-            if(t_yousaved[i]!= 0 && event8Array.indexOf('event8')<0){
-                event8Array.push('event8');
-            } else {
-            	if(event8Array.indexOf('event8')>0){
-            		event8Array.push(' ');	
-            	}
-            }
-        }
-      		if(t_events != '') {
-                t_events = t_events + ','+ event8Array;
-            } else {
-                t_events = event8Array;
-            }
-        }  
-        var t_service_test = ''
-    </script>
-    <!-- Variables common to multiple pages are placed here  -->
     <footer class="m-footer">
                 <div class="l-wrapper">
                     <input type="hidden" id="globalCurrency" value="$"> <input type="hidden" id="vContextPath" value="">
@@ -964,7 +767,7 @@ ul.pop-up-text{margin:25px;}
         <div class="grid_4 d-grid_4 alpha d-alpha m-footer-border-bottom">
                 <h5>Win Free Flowers</h5>
                 <p>Sign up and win free flowers.</p>
-                <form id="loginfileFormSubscription" name="loginfileForm" action="/account/externalUserSubscriptions.jsp" class="m-login-form" method="GET" autocomplete="off"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="-4873439689713917235" type="hidden"><input id="optinEmailAddress" placeholder="Enter E-Mail Address" maxsize="15" name="optinEmailAddress" value="" class="m-footer-email-input clear-margin-bottom float-left full-height" type="email" autocomplete="on" size="15"><input name="_D:optinEmailAddress" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.createSuccessURL" value="/account/externalUserSubscriptions.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.createSuccessURL" value=" " type="hidden"><input name="errorurl" value="/account/externalUserSubscriptions.jsp" type="hidden"><input name="_D:errorurl" value=" " type="hidden"><input id="emailOptinBtn" name="/atg/userprofiling/ProfileFormHandler.logEmailPreference" value="GO" class="btn btn-light m-footer-email-btn" type="submit"><input name="_D:/atg/userprofiling/ProfileFormHandler.logEmailPreference" value=" " type="hidden"><input name="_DARGS" value="/WEB-INF/fragments/common/footerCommon.jspf.loginfileForm" type="hidden"></form><!--  Open Modal Page -->
+                <form id="loginfileFormSubscription" name="loginfileForm" action="/account/externalUserSubscriptions.jsp;jsessionid=6FD2EB206E380FBBE2A8A73EE0ECCA2E" class="m-login-form" method="GET" autocomplete="off"><input name="_dyncharset" value="UTF-8" type="hidden"><input name="_dynSessConf" value="-231534086087038039" type="hidden"><input id="optinEmailAddress" placeholder="Enter E-Mail Address" maxsize="15" name="optinEmailAddress" value="" class="m-footer-email-input clear-margin-bottom float-left full-height" type="email" autocomplete="on" size="15"><input name="_D:optinEmailAddress" value=" " type="hidden"><input name="/atg/userprofiling/ProfileFormHandler.createSuccessURL" value="/account/externalUserSubscriptions.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.createSuccessURL" value=" " type="hidden"><input name="errorurl" value="/account/externalUserSubscriptions.jsp" type="hidden"><input name="_D:errorurl" value=" " type="hidden"><input id="emailOptinBtn" name="/atg/userprofiling/ProfileFormHandler.logEmailPreference" value="GO" class="btn btn-light m-footer-email-btn" type="submit"><input name="_D:/atg/userprofiling/ProfileFormHandler.logEmailPreference" value=" " type="hidden"><input name="_DARGS" value="/WEB-INF/fragments/common/footerCommon.jspf.loginfileForm" type="hidden"></form><!--  Open Modal Page -->
                 <div id="myEmailModal" class="modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-width="890" style="display: none;">
                     <div class="m-pdp-modal-header modal-header">
                 <h5 class="m-pdp-modal-header-text">
@@ -987,7 +790,12 @@ ul.pop-up-text{margin:25px;}
             <h5>Connect with Teleflora</h5>
                         <p>Get the latest news and offers.</p>
                         <div class="m-footer-c-social-list ">
-                            <a href="http://www.pinterest.com/teleflora/" class="icon-social icon-pintrest" target="_blank"></a> <a href="https://www.facebook.com/teleflora" class="icon-social icon-facebook" target="_blank"></a> <a href="https://plus.google.com/+teleflora" class="icon-social icon-google" target="_blank"></a> <a href="https://twitter.com/teleflora" class="icon-social icon-twitter" target="_blank"></a> <a href="https://www.youtube.com/teleflora/" class="icon-social icon-youtube" target="_blank"></a>
+                            <a href="https://www.facebook.com/teleflora" class="icon-social icon-facebook" target="_blank"></a>
+                            <a href="https://twitter.com/teleflora" class="icon-social icon-twitter" target="_blank"></a>
+                            <a href="https://www.instagram.com/teleflora/" class="icon-social icon-insta" target="_blank"></a>
+                            <a href="http://www.pinterest.com/teleflora/" class="icon-social icon-pintrest" target="_blank"></a>
+                            <a href="https://www.youtube.com/teleflora/" class="icon-social icon-youtube" target="_blank"></a>
+                            <a href="https://plus.google.com/+teleflora" class="icon-social icon-google" target="_blank"></a>
                         </div></div>
         <div class="grid_4 d-grid_4 alpha d-omega m-footer-border-bottom">
                     <h5>Get Rewarded!</h5>
@@ -1072,8 +880,8 @@ ul.pop-up-text{margin:25px;}
 <div class="grid_2 d-grid_3">
   <h5>Flower Guides</h5>
   <ul class="link-list">
-    <li><a href="/blog" target="_blank">Blog</a></li>           
-
+  
+<li><a href="/blog">Blog</a></li>
 <li><a href="/floral-facts">Floral Facts &amp; Inspiration</a></li>
 <li><a href="/gift-giving-ideas">Gift Giving Guides</a></li>
 <li><a href="/funeral-sympathy-collection">Sympathy &amp; Funeral Guide</a></li>
@@ -1115,7 +923,6 @@ ul.pop-up-text{margin:25px;}
                             <label class="m-footer-label">Change Language</label> <select name="languageSelect" id="languageSelect" onchange="redirectToTranslatedURL()">
                                 <option value="www.teleflora.com">English</option>
                                     <option value="fr1.teleflora.com">French</option>
-                                    <option value="es1.teleflora.com">Spanish</option>
                                     </select>
                         </div>
                     </div>
@@ -1145,78 +952,75 @@ ul.pop-up-text{margin:25px;}
           } else if (typeof pdpParm != "undefined" && pdpParm) {
             var PDPlogged = false;
           }
-          if (Modernizr.oldie) {
-            jquerySrc = 'http://assets.teleflora.com/js/lib/jquery.js';
-          } else {
-            jquerySrc = 'http://assets.teleflora.com/js/lib/jquery-2.0.0.min.js';
-          }
+        
           Modernizr.load([ {
             test : Modernizr.webkit,
             nope : [ 'http://assets.teleflora.com/css/fixes/selects.css' ]
-          }]);
-          Modernizr
-              .load([
-                  {
-                    load : jquerySrc
-                  },
-                  {
-                    load : [ 'http://assets.teleflora.com/js/util.js', 'http://assets.teleflora.com/js/lib/hammer.min.js', 'http://assets.teleflora.com/js/lib/jquery.easing.js',
-                        'http://assets.teleflora.com/js/lib/purl.min.js', 'http://assets.teleflora.com/js/lib/underscore-min.js', 'http://assets.teleflora.com/js/lib/backbone-min.js',
-                        'http://assets.teleflora.com/js/lib/waypoints.min.js', 'http://assets.teleflora.com/js/lib/jquery.validate.min.js',
-                        'http://assets.teleflora.com/js/lib/jquery-dateFormat.min.js', 'http://assets.teleflora.com/js/lib/jquery.maskplugin.js',
-                        'http://assets.teleflora.com/js/modules/bootstrap-tooltip.js', 'http://assets.teleflora.com/js/modules/bootstrap-modalmanager.js',
-                        'http://assets.teleflora.com/js/modules/bootstrap-modal.js', 'http://assets.teleflora.com/js/modules/datepicker/picker.js',
-                        'http://assets.teleflora.com/js/modules/datepicker/picker.date.js', 'http://assets.teleflora.com/js/modules/datepicker/legacy.js',
-                        'http://assets.teleflora.com/js/modules/jquery.flexslider.js', 'http://assets.teleflora.com/js/fbLatestBirthday.js',
-
-                        'http://assets.teleflora.com/js/telefloraNew.js',
-
-                        'http://assets.teleflora.com/js/formValidation_new.js',
-
-                        'http://assets.teleflora.com/js/common_mcf.js',
-
-                        'http://assets.teleflora.com/js/fbConnect.js',
-
-                        'http://assets.teleflora.com/js/tfAnalytics.js',
-                        'http://assets.teleflora.com/js/pm.js'
-                        ]
-                  },
-                  {
-                    load : pageSpecipficFiles,
-                    test : Modernizr.oldie,
-                    complete : function() {
-                      initLoad = true;
-                      if ((typeof newUiPram != "undefined" && newUiPram) || (typeof homePageParam != "undefined" && homePageParam)) {
-                        teleflora.modenizernewUiFn();
-                      } else if (typeof sympathyParam != "undefined" && sympathyParam) {
-                        teleflora.modenizerSympothyFn();
-                      } else if ((typeof SubCollSearch != "undefined" && SubCollSearch)) {
-                        teleflora.modenizerSubCollSearchFn();
-                      } else if (typeof checkoutParam != "undefined" && checkoutParam) {
-                        teleflora.modenizerCheckoutFn();
-                      } else if (typeof pdpParm != "undefined" && pdpParm) {
-                        showFlowersInBouquet('');
-                        knowNumFlowers();
-                        teleflora.modenizerPDPFn();
-                      } else if (typeof faqParam != "undefined" && faqParam) {
-                        teleflora.modenizerFAQAboutFn();
-                      } else {
-                        teleflora.modenizerInitFn();
-                      }
-                      teleflora.checkoutVMAvailable = ((typeof deliveryInfo == "undefined" || !deliveryInfo) && (typeof checkoutParam != "undefined" && checkoutParam) && $("#vmeAvailable").val() != "true");
-                      teleflora.shoppingCartVMAvailable = (typeof shoppingCart != "undefined" && shoppingCart) && $("#vmeAvailable").val() != "true";
-
-                      if ((teleflora.checkoutVMAvailable || teleflora.shoppingCartVMAvailable) && (typeof sitesus == "undefined" || sitesus != "true"))
-                        teleflora.onVmeReady();
-                    }
-                  } ]);
-          Modernizr.load([{
+          } ]);
+          Modernizr.load([ {
+            test : Modernizr.hasJquery,
+            nope : jquerySrc,
+            complete: function() {
+                   //TFD-1110 - Fix
+                  Modernizr
+                      .load([
+                           {
+                            load : [ 'http://assets.teleflora.com/js/util.js', 'http://assets.teleflora.com/js/lib/hammer.min.js', 'http://assets.teleflora.com/js/lib/jquery.easing.js',
+                                'http://assets.teleflora.com/js/lib/purl.min.js', 'http://assets.teleflora.com/js/lib/underscore-min.js', 'http://assets.teleflora.com/js/lib/backbone-min.js',
+                                'http://assets.teleflora.com/js/lib/waypoints.min.js', 'http://assets.teleflora.com/js/lib/jquery.validate.min.js',
+                                'http://assets.teleflora.com/js/lib/jquery-dateFormat.min.js', 'http://assets.teleflora.com/js/lib/jquery.maskplugin.js',
+                                'http://assets.teleflora.com/js/modules/bootstrap-tooltip.js', 'http://assets.teleflora.com/js/modules/bootstrap-modalmanager.js',
+                                'http://assets.teleflora.com/js/modules/bootstrap-modal.js', 'http://assets.teleflora.com/js/modules/datepicker/picker.js',
+                                'http://assets.teleflora.com/js/modules/datepicker/picker.date.js', 'http://assets.teleflora.com/js/modules/datepicker/legacy.js',
+                                'http://assets.teleflora.com/js/modules/jquery.flexslider.js', 'http://assets.teleflora.com/js/fbLatestBirthday.js',
+        
+                                'http://assets.teleflora.com/js/telefloraNew.js',
+        
+                                'http://assets.teleflora.com/js/formValidation_new.js',
+        
+                                'http://assets.teleflora.com/js/common_mcf.js',
+        
+                                'http://assets.teleflora.com/js/fbConnect.js',
+        
+                                'http://assets.teleflora.com/js/tfAnalytics.js', 'http://assets.teleflora.com/js/pm.js' ]
+                          },
+                          {
+                            load : pageSpecipficFiles,
+                            test : Modernizr.oldie,
+                            complete : function() {
+                              initLoad = true;
+                              if ((typeof newUiPram != "undefined" && newUiPram) || (typeof homePageParam != "undefined" && homePageParam)) {
+                                teleflora.modenizernewUiFn();
+                              } else if (typeof sympathyParam != "undefined" && sympathyParam) {
+                                teleflora.modenizerSympothyFn();
+                              } else if ((typeof SubCollSearch != "undefined" && SubCollSearch)) {
+                                teleflora.modenizerSubCollSearchFn();
+                              } else if (typeof checkoutParam != "undefined" && checkoutParam) {
+                                teleflora.modenizerCheckoutFn();
+                              } else if (typeof pdpParm != "undefined" && pdpParm) {
+                                showFlowersInBouquet('');
+                                knowNumFlowers();
+                                teleflora.modenizerPDPFn();
+                              } else if (typeof faqParam != "undefined" && faqParam) {
+                                teleflora.modenizerFAQAboutFn();
+                              } else {
+                                teleflora.modenizerInitFn();
+                              }
+                              teleflora.checkoutVMAvailable = ((typeof deliveryInfo == "undefined" || !deliveryInfo) && (typeof checkoutParam != "undefined" && checkoutParam) && $("#vmeAvailable").val() != "true");
+                              teleflora.shoppingCartVMAvailable = (typeof shoppingCart != "undefined" && shoppingCart) && $("#vmeAvailable").val() != "true";
+        
+                              if ((teleflora.checkoutVMAvailable || teleflora.shoppingCartVMAvailable) && (typeof sitesus == "undefined" || sitesus != "true"))
+                                teleflora.onVmeReady();
+                            }
+                          } ]);
+          		}
+          
+          } ]);
+          Modernizr.load([ {
             test : Modernizr.touch,
             yep : [ 'http://assets.teleflora.com/js/lib/fastbutton.js' ]
           } ]);
-          
         </script>
-   
 <div id="bookmarksBar" style="" class="m-bookmarks-bar hide-after-tablet" data-save-limit="20">
         <nav class="m-bookmarks-bar-nav" style="cursor: pointer;">
             <div class="l-wrapper">
@@ -1235,20 +1039,32 @@ ul.pop-up-text{margin:25px;}
         </div>
     </div>
 <script>
-/*removing Mother's Day from DOD Occasions */
-$(document).ready(function(){
-$("#occasion option[value='DM-OCC-18']").remove();
-});
-</script><script>
    Modernizr.load({
       load: [
          '//assets.teleflora.com/js/custom/end.js'
       ]
    });
-</script><script type="text/javascript">
-        var vPageParam = "";
+</script><div id="liveChatModal" class="modal hide fade in" tabindex="1" data-width="540" aria-hidden="false" style="display: none; margin-left: -229px; margin-top: -211px;">
+                                        <div class="m-pdp-modal-header modal-header">
+                <h5 class="m-pdp-modal-header-text">
+                    Live Chat<span>
+                        <!-- <a href="#" data-dismiss="modal"
+						class="pull-right icon-close icon-close-modal"></a> -->
+                        <button type="button" class="pull-right icon-close icon-close-modal" data-dismiss="modal" data-target="#"></button>
+                    </span>
+                </h5>
+            </div>
+            <div class="modal-body">
+                <style> .show { display: none; } .error { border: 1px solid red; } label.error { float: none; color: red; padding-left: .5em; vertical-align: top; font-family: Verdana, Geneva, sans-serif; font-size: 10px; width: 200px; border: 0; } .selOption { font-family: Verdana, Geneva, sans-serif; font-size: 11px; color: #666; } #myForm input[type="text"] { margin-top: .5em; } </style> <form id="myForm" name="myForm"> <div align="left"> <div class="pngPrimaryColor" align="left" style="background-color:#E4376F;"><img src="//assets.teleflora.com/images/teleflora-chatlogo-20120427.png" width="420" style=" display:block;"></div> <div class="text1" style="padding:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; font-size:11px;">Hello, we'd love to get to know you better before we start chatting<br> Since we are going to be chatting it up, it would be a pleasure to know your name first</div> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px; padding-bottom:5px;">First Name <span style="color:red;">*</span> <input type="text" class="required" id="p1" name="p1" width="300"> </div> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px; padding-bottom:5px;">Last Name <span style="color:red;">*</span> <input type="text" class="required" id="p2" name="p2"> </div> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px; padding-bottom:5px;">Email Address <span style="color:red;">*</span> <input type="text" class="required" id="p3" name="p3"> </div> <br> <!-- <div class="basic" style="padding-left:20px!important; font-family:Verdana, Geneva, sans-serif; padding-right:10px!important; padding-top:10px!important;font-size:11px!important; padding-bottom:5px!important;">Are you contacting us about an existing order?<br> <div style="padding-top:10px!important;"><input id="yesRadio" type="radio" name="existingorder" value="yes" style="float:left!important;" /> <span class="basic" style="padding-left:0px!important; font-family:Verdana, Geneva, sans-serif; padding-right:10px!important; padding-top:3px!important;font-size:11px!important; padding-bottom:0px!important; display: block!important; float:left!important;"> <label for="yesRadio" style="float:left!important;">Yes</label></span></div> <div style="clear:both;"></div>--> <div style="padding-top:10px; padding-bottom:20px;"> <input id="noRadio" type="hidden" name="existingorder" value="137375" checked="checked" style="float:left!important;"> <!--<span class="basic" style="padding-left:0px!important; font-family:Verdana, Geneva, sans-serif; padding-right:10px!important; padding-top:3px!important;font-size:11px!important; display: block!important; padding-bottom:0px!important; float:left!important;"> <label for="noRadio" style="float:left!important;">No</label> --> </div> <div style="clear:both;"></div> </div> <div id="yes" class="show"> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px;">Order Number <input type="text" class="input" id="p5" name="p5" value=""> </div> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px; padding-bottom:5px;">Your Phone Number - In Format 1112223333 <span style="color:red;">*</span> <input id="phone" maxlength="14" name="p4" type="text" class="required p4" value=""> </div> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px; padding-bottom:5px;">Your Concern <br> <select id="p6" name="p6" class="selOption"> <option value="224706" class="selOption">Order Inquiry</option> <option value="224707" class="selOption">Order Change</option> <option value="224708" class="selOption">Complaint</option> </select> </div> </div> <div class="basic" style="padding-left:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; padding-top:10px;font-size:11px; padding-bottom:5px; color:red;">* Required field</div> <br> <div class="text1" style="padding:20px; font-family:Verdana, Geneva, sans-serif; padding-right:10px; font-size:11px;">If this is about an existing order please <a href="/aboutUs/order_inquiry.jsp" style="color:red;">Click Here</a></div> <input type="submit" value="Start Chat" class="btn"> </form></div> </div>
+            <div id="forgotPwdMsg" style="display: none">
+                <div class="modal-body"></div>
+                <div class="modal-footer pdp-modal-footer"></div>
+            </div>
+        </div>
+    <script type="text/javascript">
+        var vPageParam = "twoColumn";
     </script>
-      </div>
+      
     
     
     
