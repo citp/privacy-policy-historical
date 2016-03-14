@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robofx.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318035116id_/https%3A//my.robofx.com/files/document/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robofx.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314035909id_/https%3A//my.robofx.com/files/document/privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -11,7 +11,7 @@ PRIVACY POLICY
       ROBOFOREX (CY) LTD
       Soboh House 377, 28th October Street
       Office #1, 3107, Limassol, Cyprus
-                                                           PRIVACY POLICY
+                                                            PRIVACY POLICY
 Client’s Privacy is important, that is why RoboForex (CY) Ltd protects the information Client shares with the
 Company. RoboForex (CY) Ltd uses the shared information only for investment services it is eligible to provide
 according to its License 191/13, grunted by EU regulator - CySEC.
@@ -46,9 +46,9 @@ date. Client can review and update this information at any time at the “Member
 SECURITY
 RoboForex (CY) Ltd has taken strong measures to protect the security of Personal Information. Company takes strong
 precautions to protect Client’s data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
-                   TEL: +357-25-262660 FAX: +357-25-580077        EMAIL: support@robofx.com    WEB: www.robofx.com
-                                AUTHORIZED AND REGULATED BY THE CYPRUS SECURITIES AND EXCHANGE COMISSION
-                                            LICENSE №: 191/13 | REGISTRATION NUMBER: HE310464
+                    TEL: +357-25-262660    FAX: +357-25-580077 EMAIL: support@robofx.com WEB: www.robofx.com
+                                 AUTHORIZED AND REGULATED BY THE CYPRUS SECURITIES AND EXCHANGE COMISSION
+                                             LICENSE №: 191/13 | REGISTRATION NUMBER: HE310464
 
 
        ROBOFOREX (CY) LTD
@@ -61,6 +61,9 @@ Client’s Personal Information is never shared outside the Company without his 
 to STANDARD TERMS OF BUSINESS FOR CLIENTS ROBOFX (CY) LTD. Inside the Company all Client’s data is stored in
 password-controlled systems with limited access. Client’s information may be stored and processed in Cyprus or any
 other country where RoboForex (CY) Ltd, its affiliates, subsidiaries or agents are located.
+In accordance with the current legislation, recording, systematization, collection, storing, update, and acquisition of
+the personal information of the Russian Federation citizens must be performed in the databases located within the
+Russian Federation.
 The Client himself has a significant role in protecting his Personal Information. No one can see or edit his Personal
 Information without knowing his user name and password.
 ENFORCEMENT
@@ -71,6 +74,6 @@ RoboForex (CY) Ltd will disclosure the Client’s Personal Information, without 
 or in the good faith belief that such action is necessary to:
      1. Confirm to the edicts of the law or comply with legal process served on RoboForex (CY) Ltd.
      2. Protect and defend the rights or property of RoboForex (CY) Ltd.
-                    TEL: +357-25-262660 FAX: +357-25-580077        EMAIL: support@robofx.com    WEB: www.robofx.com
-                                 AUTHORIZED AND REGULATED BY THE CYPRUS SECURITIES AND EXCHANGE COMISSION
-                                             LICENSE №: 191/13 | REGISTRATION NUMBER: HE310464
+                     TEL: +357-25-262660    FAX: +357-25-580077 EMAIL: support@robofx.com WEB: www.robofx.com
+                                  AUTHORIZED AND REGULATED BY THE CYPRUS SECURITIES AND EXCHANGE COMISSION
+                                              LICENSE №: 191/13 | REGISTRATION NUMBER: HE310464
