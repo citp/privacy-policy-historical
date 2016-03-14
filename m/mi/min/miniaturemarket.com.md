@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the miniaturemarket.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315191918id_/http%3A//www.miniaturemarket.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniaturemarket.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314015654id_/http%3A//www.miniaturemarket.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
 This privacy policy sets out how Miniature Market uses and protects any information that you give Miniature Market when you use this website. Miniature Market is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Miniature Market may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
