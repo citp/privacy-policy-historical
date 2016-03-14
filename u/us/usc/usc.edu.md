@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220023126id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314123540id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
 
 # Privacy of Personal Information | Policy | USC
 
