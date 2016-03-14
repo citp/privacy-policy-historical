@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061919id_/http%3A//www.gamedev.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314205818id_/http%3A//www.gamedev.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GameDev.net
-
-  
-
-
-**We need your help!**
-
-We need 1 more developer from **Canada** and 12 more from **Australia** to help us complete a research survey.
-
-Support our site by taking a [quick sponsored survey](http://www.gamedev.net/page/survey/survey.html) and win a chance at a **$50 Amazon gift card**. [Click here to get started!](http://www.gamedev.net/page/survey/survey.html)
 
   
 
