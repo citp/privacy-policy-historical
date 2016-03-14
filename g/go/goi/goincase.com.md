@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goincase.com privacy policy that was archived on 2015-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150804182522id_/https%3A//www.goincase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goincase.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314074128id_/https%3A//www.incase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Incase
 
