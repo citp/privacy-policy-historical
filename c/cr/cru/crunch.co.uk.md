@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906042824id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314143529id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-* ####  __**Your Data, Privacy and Cookies**
+####  **Your Data, Privacy and Cookies**
 
 We know that you are concerned with how your personal and financial information is dealt with. This privacy policy sets out the basis on which any personal data we collect from you (or that you provide to us) will be processed and demonstrates our commitment to your privacy.
 
@@ -16,7 +16,7 @@ We confirm that we will comply with the provisions of the Data Protection Act 19
 
 If you have any questions or concerns regarding this policy, please contact us.
 
-* ####  __**Personal Information We Collect From You and How We Use It**
+####  **Personal Information We Collect From You and How We Use It**
 
 When completing a form on our website, when signing up for a Crunch Account, or at times during the course of your subscription with Crunch we ask you to provide information about your business, or the business you intend to form, along with any previous trading information. We may also request other personal details such as your marital status, date of birth, National Insurance No., telephone number, etc.
 
@@ -62,7 +62,7 @@ By using the Services, you agree that Crunch can access, aggregate and use non-p
 
 
 
-* ####  __**Third Party Personal Data You Provide**
+####  **Third Party Personal Data You Provide**
 
 Through your use of the Services we may also collect information from you about someone else. If you provide Crunch with personal information about someone else, you must ensure that you are authorised to disclose that information to Crunch and that, without Crunch taking any further steps required by applicable data protection or privacy laws, Crunch may collect, use and disclose such information for the purposes described in this Policy.
 
@@ -70,7 +70,7 @@ You must therefore take reasonable steps to ensure the individual concerned is a
 
 Where requested to do so, you must assist Crunch with any requests by the individual to access or update the personal information you have collected from them and provided to Crunch in connection with the Services.
 
-* ####  __**Where We Store Your Personal Data**
+####  **Where We Store Your Personal Data**
 
 **All your data is held either within your Crunch Account, our CRM system, or on secure servers.**
 
@@ -78,7 +78,7 @@ If you sign up to the Snap Service your data may be transferred to, and stored a
 
 We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, firewalls, server authentication, user profiles and passwords to protect the security of your data.
 
-* ####  __**Data Within Your Crunch Account**
+####  **Data Within Your Crunch Account**
 
 You are ultimately responsible for administering and safeguarding any passwords or memorable words created to control access to your Crunch Account. You should be careful to log out of your account after you have finished any given session, especially if you are on a public computer.
 
@@ -86,11 +86,11 @@ Crunch accountants do not have editing access to your Crunch Account without you
 
 Read only access to your Crunch Account is available to specific staff members and is strictly controlled by passwords and IP address restrictions. The use of this access is for assisting with the use of your Crunch Account, and offering support when necessary.
 
-* ####  __**Bank Account and Transaction Information**
+####  **Bank Account and Transaction Information**
 
 You will be required to provide information about your business bank account(s) such as the sort-code and account number in order to use your Crunch Account.
 
-* ####  __**Disclosure Of Your Information**
+####  **Disclosure Of Your Information**
 
 In order to carry out the Services of this engagement and for related purposes such as updating and enhancing our client records, analysis for management purposes and statutory returns, legal and regulatory compliance and crime prevention we may obtain, process, use and disclose personal data about you.
 
@@ -100,7 +100,7 @@ To the extent that we are duty bound by any applicable legal or regulatory requi
 
 We may share the information we hold about you with any person, business or other organisation (and their advisers) who might take over our rights or responsibilities under our agreement with you to allow them to prepare for taking these over (after that, we may also allow that person or business to use and share your information on the same basis as us).
 
-* ####  __**Third Parties**
+####  **Third Parties**
 
 Crunch works with third parties to research certain usage and activities on our behalf. No personal information about you is shared, however in the course of conducting this research these third parties may place a unique 'cookie' on your browser.
 
@@ -112,7 +112,7 @@ Crunch has a number of partners who provide complementary services. If you expre
 
 Crunch will never pass your personal information to a third party without your explicit and specific expression of interest in their services.
 
-* ####  __**Telephone, Texts, Call Monitoring and Recording**
+####  **Telephone, Texts, Call Monitoring and Recording**
 
 Sometimes outgoing and incoming telephone calls from and to our advisory or support teams are recorded for training and monitoring purposes. This process helps us to maintain high standards of service, and resolve any issues.
 
@@ -120,7 +120,7 @@ To maintain the platform we may contact you by telephone or SMS text message to 
 
 If you have consented to receive communication or marketing from us by SMS text message, to stop this, please email STOP to [dp@crunch.co.uk](mailto:dp@crunch.co.uk)
 
-* ####  __**Cookies**
+####  **Cookies**
 
 Our public website and Services, along with most other major websites, use cookies. Cookies are pieces of information that a website transfers to the cookie file on your computer's hard disk. Cookies enable users to navigate around the website and (where appropriate) enable us to tailor the content to fit the needs of visitors who have accessed the site.
 
@@ -155,17 +155,19 @@ Information about Google AnalyticsTM can be found at [http://www.google.com/intl
 
 Google Adwords - a third party advertising system that tells us tell a user arrived on our site by clicking on a paid advert. Cookies originating from Adwords also give us power to serve ads on the Google network specifically to people who have already visited our site and not signed up.
 
-You can also opt-out of a number of targeted advertising cookies by visiting these opt-out pages: [National Advertising Initiative](http://www.networkadvertising.org/choices/) and [Google](https://www.google.com/ads/preferences/html/intl/en/plugin/). This opt-out won't stop advertising companies from showing you banner ads, but it will prevent them from personalising their banner ads to you specifically.
+You can also opt-out of a number of targeted advertising cookies by visiting these opt-out pages: [National Advertising Initiative](http://www.networkadvertising.org/choices/) and [Google](http://www.google.com/ads/preferences/?hl=en). This opt-out won't stop advertising companies from showing you banner ads, but it will prevent them from personalising their banner ads to you specifically.
 
 Live Agent - a third party system used to provide the live chat facility on our website.
 
 Visual Website Optimizer - From time to time we like to run tests on our site with a view to improving the user experience. VWO is a suite of testing tools that track a user's activity in a very particular way for the purpose of a test. This may be checking how far a group of users scroll down a page, splitting users into groups to view similar but different pages and so on.
 
-Zendesk - a third party customer support platform, which uses cookies to make it easier for you to navigate our Help section.
+Desk - a third party customer support platform, which uses cookies to make it easier for you to navigate our Help section.
+
+Facebook – a third party social media platform that also supports its own advertising network. Cookies originating from Facebook also give us power to serve ads on the Facebook network specifically to people who have already visited our site and not signed up, as well as users determined by Facebook to be similar to our site’s visitors.
 
 Infinity - a third party service used to deliver unique phone numbers to visitors, which enables on line activity to be associated with any phone calls made.
 
-* ####  __**Social Links**
+####  **Social Links**
 
 On our website we use links to 'social sites' - Twitter, Facebook, Google+, LinkedIn and others.
 
@@ -175,7 +177,7 @@ In some cases these sites will be registering the fact that you are visiting Cru
 
 Crunch is not responsible for the data generated by or processed by such third parties. Therefore, you should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt-out, or delete, such information.
 
-* ####  __**Your Rights**
+####  **Your Rights**
 
 You may always opt not to disclose certain personal information, but that may mean we will be hindered in our ability to provide a service, or may mean you will not be able to access certain services, or parts of your Crunch Account.
 
@@ -189,16 +191,16 @@ You can exercise your right to prevent such processing by following the opt-out 
 
 You can find detailed information about your rights under UK Data Protection legislation on the UK Information Commissioner's website at www.ico.gov.uk.
 
-* ####  __**Cancellation of Service**
+####  **Cancellation of Service**
 
 If you cancel your subscription to your Crunch Account, we maintain your data on our system for accounting purposes, and provide you with an export of your data.
 
-* ####  __**Changes to our Privacy Policy**
+####  **Changes to our Privacy Policy**
 
 Any changes we may make to our Policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
 
-* ####  __**Please read our Terms of Service**
+####  **Please read our Terms of Service**
 
-Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20150906042824id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
+Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20160314143529id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
 
 If you have a question, comment or complaint about the Crunch Privacy Policy please send it to [dp@crunch.co.uk](mailto:dp@crunch.co.uk).
