@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylewe.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915121402id_/https%3A//www.stylewe.com/information/information%3Finformation_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylewe.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314051420id_/https%3A//www.stylewe.com/information/information%3Finformation_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -132,4 +132,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
  **Contacting Us**
 
-If there are any questions regarding thisprivacy policy you may contact us at services@stylewe.com
+If there are any questions regarding this privacy policy you may contact us at services@stylewe.com
