@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905210754id_/https%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314095324id_/https%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	Privacy Statement - MyRegistry.com
 </title><meta name="description" content="This Privacy Statement sets forth the information gathering, use, and dissemination practices of MyRegistry LLC (" myregistry")="" in="" connection="" with="" the="" world="" wide="" web="" site="" located="" at="" www.myregistry.com="" (the="" “site”).="" "=""><link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201508261223452957"></script>
-    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201508261223452957"></script>
-    <script type="text/javascript" src="/Scripts/CheckAuthCookie.js?version=201508261223452957"></script>
-    <link href="/StyleSet/MrMainStyles.css?version=201509051652513574" rel="stylesheet" type="text/css">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201603041645231882"></script>
+    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201603041645231882"></script>
+    <script type="text/javascript" src="/Scripts/CheckAuthCookie.js?version=201603041645231882"></script>
+    <link href="/StyleSet/MrMainStyles.css?version=201603140106003246" rel="stylesheet" type="text/css">
 <script type="text/javascript">
     var _gaq = _gaq || [];
     var GoogleTracking = {
@@ -103,6 +103,7 @@
         });
     </script>
 
+    <link rel="canonical" href="https://www.myregistry.com/Info/Privacy.aspx">
     <script type="text/javascript">
         $(document).ready(function() {
             //googletag.cmd.push(function () { googletag.display('MR_GlobalCenterBanner'); });
@@ -115,6 +116,10 @@
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyMDcxMDExNmRk3CEKil6V+DVyoavyY8SfiguO+Ag=">
 </div>
 
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="89FAF9C6">
+</div>
     <div id="MR_GlobalTopBanner">
         <table style="width: 100%;" cellpadding="0" cellspacing="0">
             <tbody><tr>
@@ -135,10 +140,17 @@
         <div id="MR_GlobalTop">
             
 <div class="mrw_master_header visitor">
+    <div class="menu_small_icon">
+    </div>
+    <a href="tel:2018861000">
+        <div class="phone_header_icon"></div>
+    </a>
+    
     <div class="mr_header">
         <div class="mr_header_elements">
             <a href="/" title="Go to MyRegistry Home">
-                <div class="mr_logo"><i class="hide">MyRegistry Logo</i></div>
+                <div class="mr_logo">
+                    <i class="hide">MyRegistry Logo</i></div>
             </a>
             
             <div class="header_login_button">
@@ -147,7 +159,7 @@
             </div>
             
             <div class="header_login_button">
-                <a id="HomePage_TopMenu_Signup" href="/default.aspx">Sign up</a>
+                <a id="HomePage_TopMenu_Signup" href="/?param=signup">Sign up</a>
             </div>
             
             <div class="chat_system">
@@ -178,12 +190,15 @@
         $(".chatContainer .LPMcontainer").trigger("click");
     }
     $(document).ready(function () {
+        // Extra link to Chat (Mini version)
+        $(".chatContainer .btnChat").on("click", openLivechat);
+        
         // Ads for Chat 
         lpTag.events.bind("ChatAPIV3", "state", function (e) {
             //Tools.DebugInfo.WriteLog(e);
             if (e !== "initialised") return;
             if (typeof (GoogleTag) === "undefined") return;
-                
+
             //Tools.DebugInfo.WriteLog("ads-set");
             var adId = "div-gpt-ad-1436454769243-0";
             if ($("#" + adId).length > 0) return; // Don't add twice;
@@ -205,7 +220,9 @@
 </script>
 
 <div id="LP_DIV_1424886040279" class="chatContainer">
+    <div class="btnChat">CHAT</div>
 </div>
+<div class="cellphone"></div>
 
                     <div class="mr_chat_system_holder">
                         <div style="display: none;" class="mr_chat_call_button">
@@ -218,7 +235,8 @@
                         Find a Registry
                     </span>
                     <div class="searchHolder">
-                        <label for="searchbox" class="hide">Find a Registry</label>
+                        <label for="searchbox" class="hide">
+                            Find a Registry</label>
                         <input type="text" autocomplete="off" id="searchbox" placeholder="Enter First and Last Name" placeholder2="Enter First and Last Name" name="search">
                         <input type="text" autocomplete="off" placeholder="Find a Registry" placeholder2="Find a Registry" id="searchbox_small" name="searchbox_small">
                     </div>
@@ -232,6 +250,43 @@
         </div>
     </div>
     
+<div class="left_bar_menu">
+    <div class="mrw_icon24 close_left_bar_menu">
+    </div>
+    <div class="content_left_bar_menu">
+        <dl>
+            
+            <dt>
+                <a class="lnkSignup" id="HomePage_LeftBar_Signup" href="/?param=signup">
+                    Sign up</a>
+                <a class="lnkLogin" onclick="Authentication.LoginButtonClick(this);">
+                    Login
+                </a></dt>
+            
+            <dt><a href="/find-a-registry.aspx">Find a Registry</a>
+            </dt>
+            <div class="left_bar_menu_line"></div>
+            <dt><a href="/Info/AboutUs.aspx">About Us</a>
+            </dt><dt><a href="/Blog/">Blog</a>
+            </dt><dt><a href="/Info/Faq.aspx">FAQs</a>
+            
+                </dt><dt><a class="mobile_link_left_menu" href="/Info/SmartPhoneApps/">Get the Mobile App</a>
+            
+            <div class="left_bar_menu_title">
+                NEED HELP?
+            </div>
+            </dt><dt>
+            <a href="tel:2018861000">
+                <span class="mrw_icon24 menu_icon_holder blue_phone"></span><span class="menu_text_with_icon">Call Us</span></a>
+            </dt>
+            <dt onclick="openLivechat();">
+                <span class="chat_small_icon"></span><a class="text_with_icon">Chat with Us</a>
+            </dt>
+        </dl>
+        
+    </div>
+</div>
+
 </div>
 
         </div>
@@ -358,102 +413,91 @@
     </div>
     <div id="MR_GlobalBottom">
         
-<div id="bottomMenuCenter" class="mr_bottomMenuCenter">
-    <table id="BottomMenu" class="mr_BottomMenutable">
-        <tbody><tr>
-            <td>
-                <div class="mr_BottomMenuHeader">
-                    Company Info</div>
-                <a href="/Info/AboutUs.aspx">About Us</a>
-                <br>
-                <a href="http://babygifts.myregistry.com">Baby Store</a>
-                <br>
-                <a href="http://kitchenware.myregistry.com">Kitchen &amp; Housewares Store</a>
-                <br>
-                <a href="http://shop.myregistry.com/SearchResults.asp?Cat=100">Bridesmaid Gifts
-                </a>
-                <br>
-                <a href="http://shop.myregistry.com/SearchResults.asp?Cat=200">Groomsmen Gifts </a>
-                <br>
-                <a href="/Info/press.aspx">News and Press Releases</a>
-                <br>
-                <a href="/Info/terms.aspx">Terms and Conditions</a>
-                <br>
-                <a href="/Info/Privacy.aspx">Privacy Statement</a>
-                <br>
-                <a href="/Info/ContactUs.aspx">Contact Us</a>
-            </td>
-            <td>
-                <div class="mr_BottomMenuHeader">
-                    For Members and Guests</div>
-                <a href="/Info/faq.aspx?help=1">Customer Care / FAQs</a>
-                <br>                
-                <a href="/Info/SmartPhoneApps/Default.aspx">Add Gifts with our Mobile Apps</a>
-                <br>                
-                <a href="/Info/CashGifts.aspx">Cash Gift Service</a>
-                <br>
-                <a href="https://www.facebook.com/pages/MyRegistrycom/65021071071" target="_blank">
-                    Facebook</a> &nbsp;/ <a id="a11" href="http://twitter.com/MyRegistry" target="_blank">
-                        Twitter</a>
-                <br>
-                <a href="http://babybumpblogmr.blogspot.com/" target="_blank">Baby Bump Blog</a>
-                <br>
-                <a href="http://onefineweddingday.blogspot.com/" target="_blank">One Fine Wedding Day
-                    Blog</a>
-                <br>
-                <a id="a7" href="/Info/storeswelike.aspx">Pre-Screened Retailers</a>
-                <br>
-                <a href="/Info/WeddingVendors/">Wedding Resources</a>
-                <br>
-                <a href="/Info/BabyVendors/">Baby Vendors</a>
-            </td>
-            <td>
-                <div class="mr_BottomMenuHeader">
-                    Nonprofit / Organizations</div>
-                <a href="/Info/fundraising.aspx">Fundraising</a>
-                <br>
-                <a href="/Info/OrganizationsMKT.aspx">Cash Gift Services</a>
-                <br>
-                <a href="/Info/StoresWeLikeOrg.aspx">Pre-Screened Retailers</a>
-                <br>
-            </td>
-            <td>
-                <div class="mr_BottomMenuHeader">
-                    For Merchants</div>
-                <a href="/registrywidget/default.aspx">Gift Registry Software</a>
-                <br>
-                <!--<a target="_self" href="/Info/KioskApp/">Kiosk for Merchants</a>
-                <br />-->
-                <a href="/registrywidget/login.aspx">Merchant Login</a>
-                <br>
-                <a href="/Merchants/AdvertisewithUs.aspx">Advertise with Us</a>
-                <br>
-                <a href="/RegistryWidget/Login.aspx">Advertiser Login</a>
-                <br>
-                <a href="/Info/WeddingVendors/">Wedding Resources</a>
-                <br>
-                <a href="/Info/BabyVendors/">Baby Vendors</a>
-            </td>
-            <td>
-                <div class="mr_BottomMenuHeader">
-                    For Developers</div>
-                <a href="/registrywidget/default.aspx">Gift Registry Web Widget </a>
-            </td>
-        </tr>
-    </tbody></table>
+<div class="footer">
+    <div class="mr_inner_footer">
+            <span class="mr_footer_category mr_footer_store_link mr_14_geo_regular">Shop: </span>
+            <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="http://shop.myregistry.com/SearchResults.asp?Cat=100">
+                Bridesmaid</a> <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="http://shop.myregistry.com/SearchResults.asp?Cat=200">Groomsmen</a>
+            <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="http://shop.myregistry.com/SearchResults.asp?Cat=300">
+                Wedding Favors</a> <a class="mr_footer_store_link mr_14_geo_regular" target="_blank" href="http://kitchenware.myregistry.com/">Kitchen &amp; Housewares</a> <a class="mr_footer_store_link mr_14_geo_regular" href="http://shop.myregistry.com/SearchResults.asp?Cat=400" target="_blank">Baby
+                        Favors</a> <a class="mr_footer_store_link mr_14_geo_regular" href="http://babygifts.myregistry.com/" target="_blank">Baby Store</a>
+        </div>
+    <div id="cssmenu_footer" style="margin: 3px 0px 0px;">
+        <ul>
+            <li class="active has-sub"><a href="javascript:void(0);"><span>COMPANY INFO</span></a>
+                <ul>
+                    <li><a target="_self" href="/Info/AboutUs.aspx">About Us</a></li>
+                    <li><a target="_blank" href="https://www.myregistry.com/blog/" rel="nofollow"><span>Blog</span></a></li>
+                    <li><a target="_self" href="/Info/ContactUs.aspx">Contact Us</a></li>
+                    <li><a target="_self" href="/Info/press.aspx">News and Press Releases</a></li>
+                    <li><a target="_self" href="/Info/terms.aspx">Terms and Conditions</a></li>
+                    <li><a target="_self" href="/Info/Privacy.aspx">Privacy Statement</a></li>
+                    <li><a target="_self" href="/Info/Careers.aspx">Careers</a></li>
+                </ul>
+            </li>
+            <li class="has-sub"><a href="javascript:void(0);"><span>FOR MEMBERS</span></a>
+                <ul>
+                    <li><a target="_self" href="/Info/faq.aspx?help=1">Customer Care / FAQs</a></li>
+                    <li><a href="/Info/SmartPhoneApps/Default.aspx">Our Mobile Apps</a></li>
+                    <li><a href="/Info/CashGifts.aspx">Cash Gift Service</a></li>
+                    <li><a target="_self" href="/Info/storeswelike.aspx">Pre-Screened Retailers</a></li>
+                    <li><a target="_self" href="/Info/WeddingVendors/">Wedding Resources</a></li>
+                    <li><a target="_self" href="/Info/Babyvendors/">Baby Vendors</a></li>
+                </ul>
+            </li>
+            <li class="has-sub"><a href="javascript:void(0);"><span>FOR GUESTS</span></a>
+                <ul>
+                    <li><a target="_self" href="/Info/RegistryMembers.aspx">Members Directory</a></li>
+                    <li><a target="_self" href="/find-a-registry.aspx">Find Someone's Registry</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li class="has-sub"><a href="javascript:void(0);"><span>NONPROFITS/ORGANIZATIONS</span></a>
+                <ul>
+                    <li><a target="_self" href="/Info/fundraising.aspx">Fundraising</a></li>
+                    <li><a target="_self" href="/Info/OrganizationsMKT.aspx">Cash Gift Services</a></li>
+                    <li><a target="_self" href="/Info/storeswelikeOrg.aspx">Pre-Screened Retailers</a></li>
+                    <li><a target="_self" href="/Info/faq.aspx?categoryname=Organization%2fnonprofit&amp;catid=26">
+                        FAQs</a></li>
+                </ul>
+            </li>
+            <li class="has-sub"><a href="javascript:void(0);"><span>FOR MERCHANTS</span></a>
+                <ul>
+                    <li><a target="_self" href="/gift-registry-software/">Gift Registry Software</a></li>
+                    <li><a target="_self" href="/registrywidget/login.aspx">Merchant Login</a></li>
+                    <li><a href="/Merchants/AdvertisewithUs.aspx"><span>Advertise with Us</span></a></li>
+                    <!--
+                    <li><a target="_self" href="/RegistryWidget/Login.aspx">Advertiser Login</a></li>
+                    <li><a target="_self" href="/Info/WeddingVendors/">Wedding Resources</a></li>
+                    <li><a target="_self" href="/Info/Babyvendors/">Baby Vendors</a></li>-->
+                </ul>
+            </li>
+            <!--<li class="has-sub"><a target="_self" href="/gift-registry-software/"><span>Gift
+                Registry Software</span></a> </li>-->
+        </ul>
+    </div>
+    <div class="mr_connect_wu_holder home">
+        <span class="mr_footer_store_link connect">Connect with us: </span><a href="https://www.facebook.com/myregistryllc" target="_blank" class="mr_connect_sns "><img src="/Images/Home/facebook25x25.png" alt="MyRegistry on Facebook"></a><a href="https://twitter.com/myregistry" target="_blank" class="mr_connect_sns"><img src="/Images/Home/twitter25x25.png" alt="MyRegistry on Twitter"></a><a href="https://www.pinterest.com/MyRegistryPins/" target="_blank" class="mr_connect_sns"><img src="/Images/Home/pinterest25x25.png" alt="MyRegistry on Pinterest"></a>
+            <a href="https://plus.google.com/+MyRegistry" target="_blank" class="mr_connect_sns"><img src="/Images/Home/google25x25.png" alt="MyRegistry on Google+"></a>
+            <a href="https://www.instagram.com/MyRegistry" target="_blank" class="mr_connect_sns"><img src="/Images/Home/instagram25x25.png" alt="MyRegistry on Instagram"></a>
+    </div>
+    <div class="mr_copyright">
+        ©
+        2016
+        All rights reserved - MyRegistry LLC
+        &nbsp;&nbsp;|&nbsp;&nbsp;<a class="mr_sitemap" href="/SiteMap/" target="_blank">Site Map</a>
+    </div>
 </div>
-<div class="mrw_master_footer">
-    <span>© 2015 All rights reserved - MyRegistry LLC</span>
-</div>
-
     </div>
     </form>
     
     <div id="hiddenFields">
-        <input id="WebsiteHost" type="hidden" value="http://www.myregistry.com/">
+        <input id="WebsiteHost" type="hidden" value="https://www.myregistry.com/">
         <input id="RegistryType" type="hidden" value="">
         <input id="isAuthenticated" type="hidden" value="False">
         <input id="IsBeachBodyShow" type="hidden" value="False">
+        <input id="IsNewUser" type="hidden" value="False">
     </div>
     <div id="mrExternalScripts">
         
@@ -461,13 +505,13 @@
 <input id="panelManagerHidden" type="hidden" value="">
 <script type="text/javascript">
     function PanelManager() {
+        this.IsNewUser = $("#IsNewUser").val() || null;
         this.CurrentPanel = null;
         this.ShowPanel = function () {
             this.CurrentPanel = $("#panelManagerHidden").val();
 
             var checkBeforeOpenPanel = null;
-            
-            if (this.CurrentPanel == "" || this.CurrentPanel == null || this.CurrentPanel == "null") {
+            if (this.CurrentPanel == "" || this.CurrentPanel == null || this.CurrentPanel == "null" || this.IsNewUser == "True") {
                 // do not show panel
             } else {
                 var panel = JSON.parse(this.CurrentPanel);
