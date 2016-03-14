@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122084719id_/http%3A//www.unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314134427id_/http%3A//www.unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.*
 
 # UnitedHealth Group - Privacy Policy
 
