@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the aflac.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905075935id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aflac.com privacy policy that was archived on 2016-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314190251id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="segment-individuals js no-touch csstransforms csstransforms3d" lang="EN"><!--<![endif]--><head>
+<!DOCTYPE html><html class=" segment-individuals js no-touch csstransforms csstransforms3d" lang="EN"><!--<![endif]--><head>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta charset="utf-8">
 	 <!-- For iPad with high-resolution Retina display running iOS = 7: -->
@@ -29,7 +29,7 @@
 <title>Aflac Privacy Policy</title>
 <meta name="description" content="Learn more on Aflac's privacy policy.">
 <meta name="site" content="Aflac">
-<meta name="asset_id" content="13694">
+<meta name="asset_id" content="21439">
 <meta name="asset_label" content="Privacy Policy">
 <meta name="template_label" content="SecondaryTertiary Page">
 <meta name="page_language" content="EN"><meta name="page_country" content="US"><meta name="search_show_on_search" content="all">
@@ -118,7 +118,7 @@
 	require.config({waitSeconds: 0});		
 	require(['/_Global-Assets/js/common.js'], function (common) { require(['main-require']); });
 	$('document').ready(function() {
-			aflac.modules = {};
+			aflac.modules = aflac.modules || {};
 			var module = aflac.modules;
 			module.rcc = function (){ 
 				if($("div[class*='rcc']").length > 0 && $("div[class*='step--customize']").length > 0){
@@ -187,7 +187,7 @@
                                         </li>
                                                                                 <li>
                                             <div class="checkbox-holder">
-                                                <label class="checkbox has-orange-fg" data-manual="1"><input name="offering_3" type="checkbox" value="Critical Care and Recovery"> Critical Care &amp; Recovery</label>
+                                                <label class="checkbox has-orange-fg" data-manual="1"><input name="offering_3" type="checkbox" value="Critical Care and Recovery"> Critical Illness</label>
                                             </div>
                                         </li>
                                                                                 <li>
@@ -215,26 +215,27 @@
 										</div>
 										<div class="row">
 											<span class="input-text phone" data-manual="1">
-												<input name="phone" type="text" placeholder="Phone" title="Phone">
+												<input name="phone" type="tel" placeholder="Phone" title="Phone">
 											</span>
 											<span class="input-text zipcode" data-manual="1">
-												<input name="zipcode" type="text" placeholder="ZIP Code" title="ZIP Code">
+												<input name="zipcode" type="tel" placeholder="ZIP Code" title="ZIP Code">
 											</span>
 										</div>
 										<div class="row">
 											<span class="input-text email" data-manual="1">
-												<input name="email" type="text" placeholder="Email" title="Email">
+												<input name="email" type="email" placeholder="Email" title="Email">
 											</span>
 										</div>
 									</div>
-									<p>All fields are required.</p>
+									<p style="margin-bottom: 10px">All fields are required.</p>
+									<p style="font-size: 10px; line-height: 12px;">By hitting submit, I agree to receive autodialed calls from Aflac, an independent contractor Aflac associate, and Sutherland Global Services working at Aflac’s request, at the number provided. Message and data rates may apply. I understand I am not required to provide my consent as a condition of accessing Aflac’s website or purchasing Aflac’s products.</p>
 								</fieldset>
 								<fieldset class="form-step call-time">
 									<div class="legend">Your preferred call time</div>
                             <p class="available">
 									Monday - Friday <strong id="mf-start-time">8:00 AM</strong> to <strong id="mf-end-time">11:00 PM</strong> ET<br>
-										 Saturday <strong id="sat-start-time">10:00 AM</strong> to <strong id="sat-end-time">6:00 PM</strong> ET<br>
-                                         Sunday  <strong id="sat-start-time">12:00 PM</strong> to <strong id="sat-end-time">8:00 PM</strong> ET
+										 Saturday <strong id="sat-start-time">10:00 AM</strong> to <strong id="sat-end-time">8:00 PM</strong> ET<br>
+                                         <!-- Sunday  <strong id="sat-start-time">12:00 PM</strong> to <strong id="sat-end-time">8:00 PM</strong> ET -->
 									</p>
 									<div class="call-options">
 										<ul class="tab-nav">
@@ -344,13 +345,13 @@
 						</div>
 						<div class="row three-part">
 							<span class="input-text zipcode" data-manual="1">
-								<input name="zipcode" type="text" placeholder="ZIP Code*" title="ZIP Code*">
+								<input name="zipcode" type="tel" placeholder="ZIP Code*" title="ZIP Code*">
 							</span>
 							<span class="input-text phone" data-manual="1">
-								<input name="phone" type="text" placeholder="Phone*" title="Phone*">
+								<input name="phone" type="tel" placeholder="Phone*" title="Phone*">
 							</span>
 							<span class="input-text" data-manual="1">
-								<input name="email" type="text" placeholder="Email*" title="Email*">
+								<input name="email" type="email" placeholder="Email*" title="Email*">
 							</span>
 						</div>
 						<div class="row">
@@ -363,7 +364,8 @@
 <option value="M">Career Builder</option>
 <option value="F">Career Fair</option>
 <option value="G">College Campus Recruiting</option>
-<option value="1">Employment Network</option>
+<option value="1">CareerCo</option>
+<option value="JB">Glassdoor</option>
 <option value="K">Google</option>
 <option value="X">Indeed</option>
 <option value="5">Monster</option>
@@ -426,11 +428,11 @@
 		<div class="info-section">
 			<div class="top">
 				<h6 class="has-subtitle">Offer Aflac <br><span class="is-smaller">to your employees</span></h6>
-				<p><strong>Aflac policies are 100% employee-paid.</strong></p>
+				<p><strong>Aflac policies are 100% employee-paid.</strong> </p>
 				<p>Companies choose to make Aflac policies available to increase benefits options without impacting their bottom line. </p>
 			</div>
 			<div class="middle">
-				<p>Fill out our <strong>Contact Form</strong> and we'll call you <em>or</em> Call Us now at <a href="tel:800.992.3522">800.992.3522</a></p>
+				<p>Fill out our <strong>Contact Form</strong> and we'll call you <em>or</em> Call Us now at  <a href="tel:855.502.3522">855.502.3522</a></p>
 			</div>
 			<!--<div class="bottom">
 				<a class="customer-support" href="#">Customer support <br><span class="is-smaller">for existing customers</span></a>
@@ -509,13 +511,13 @@
 								</div>
 								<div class="row two-part">
 									<span class="input-text phone" data-manual="1">
-										<input name="phone" type="text" placeholder="Phone*" title="Phone*">
+										<input name="phone" type="tel" placeholder="Phone*" title="Phone*">
 									</span>
 									<span class="input-text ext" data-manual="1">
-										<input name="ext" type="text" placeholder="Ext." title="Ext.">
+										<input name="ext" type="tel" placeholder="Ext." title="Ext.">
 									</span>
 									<span class="input-text zipcode" data-manual="1">
-										<input name="zipcode" type="text" placeholder="ZIP Code*" title="ZIP Code*">
+										<input name="zipcode" type="tel" placeholder="ZIP Code*" title="ZIP Code*">
 									</span>
 								</div>
 								<div class="row">
@@ -527,13 +529,15 @@
 									<li>
 										<label class="checkbox" data-manual="1"><input name="add" type="checkbox"> I currently offer Aflac and would like to add more policies.</label>
 									</li>
-									<li>
+									<!--<li>
 										<label class="checkbox" data-manual="1"><input name="news" type="checkbox"> I'd like to receive the latest Aflac new and insights.</label>
-									</li>
+									</li>-->
 								</ul>
 							</div>
-							<p class="required-legend">
+							<p class="required-legend" style="margin-bottom: 10px;">
 								*Indicates required field							</p>
+							<p class="required-legend" style="font-size: 10px; line-height: 12px;">
+								By hitting submit, I agree to receive autodialed calls from Aflac, an independent contractor Aflac associate, and Sutherland Global Services working at Aflac’s request, at the number provided. Message and data rates may apply. I understand I am not required to provide my consent as a condition of accessing Aflac’s website or purchasing Aflac’s products.							</p>
 						</form>
 					</div>
 				</div>
@@ -580,7 +584,7 @@
 		<div class="form-section">
 			<a class="close is-grey" href="#">Close</a>
 			<div class="form-panel">
-				<form action="https://snippet.omm.crownpeak.com/p/50dda1d8-799e-45a7-b482-c535c5871707" method="post">
+				<form method="post">
 					<div class="form-fields">
 						<div class="row two-part">
 							<span class="input-text" data-manual="1">
@@ -593,7 +597,7 @@
 						
 						<div class="row">
 							<span class="input-text" data-manual="1">
-								<input name="email_address" type="text" placeholder="Email" title="Email*">
+								<input name="email_address" type="email" placeholder="Email" title="Email*">
 							</span>
 						</div>
 						<!-- <div class="row">
@@ -603,10 +607,10 @@
 						</div> -->
 						<div class="row two-part">
 							<span class="input-text zipcode" data-manual="1">
-                                <input name="zipcode" type="text" placeholder="ZIP Code" title="ZIP Code*">
+                                <input name="zipcode" type="tel" placeholder="ZIP Code" title="ZIP Code*">
 							</span>
 							<span class="input-text phone" data-manual="1">
-                                <input name="phone_number" type="text" placeholder="Phone" title="Phone*">
+                                <input name="phone_number" type="tel" placeholder="Phone" title="Phone*">
 							</span>
 						</div>
 						<!-- Original location of email -->
@@ -829,7 +833,7 @@
     </div>
 </script>
 <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/_Global-Assets/js/common.js" src="/_Global-Assets/js/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main-require" src="/_Global-Assets/js/main-require.js"></script></head>
-<body id="rcc" style=""><script type="text/javascript">
+<body id="rcc"><script type="text/javascript">
 	(function(){
 		aflac.tealium = aflac.tealium || {};
 		aflac.tealium.form_type = "";
@@ -868,12 +872,14 @@
 		        <div class="w_segmenu__top-right">
 			        <ul>
 				        <!--<li>
-                               				        </li>-->
-				        <li> <a href="http://espanol.aflac.com" class="textlink">Español</a></li>
-				        <li> <a href="/agent-locator/default.aspx" class="textlink find-agent is-small"><div class="icon-holder"></div>Find an Agent</a></li>
+											        </li>-->
+													<li>
+								<a href="http://www.aflac.com/es/" class="textlink">Español</a></li>
+							<li> 
+								<a href="/agent-locator/default.aspx" class="textlink find-agent is-small"><div class="icon-holder"></div>Find an Agent</a></li>
  
-				       <!--  </li> -->
-				        <li>
+							<!--</li>-->						
+										        <li>
 					        <label class="textlink login is-small" for="login-register">
                                 <div class="icon-holder"></div>Log In / Register 
 <select name="login-register" id="login-register">
@@ -891,7 +897,7 @@
                 <ul>
 <li>
 <a href="/individuals/default.aspx">
-<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/individuals.jpg" style="background-image: url(&quot;/_global-assets/images/segmentation_menu/individuals.jpg&quot;);">
+<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/individuals.jpg">
 <div class="hover-bg"></div>
 <div class="text-container">
 <h6 class="is-small">Individuals &amp; Families</h6>
@@ -905,7 +911,7 @@
 </li>
 <li>
 <a href="/business/default.aspx">
-<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/employers.jpg" style="background-image: url(&quot;/_global-assets/images/segmentation_menu/employers.jpg&quot;);">
+<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/employers.jpg">
 <div class="hover-bg"></div>
 <div class="text-container">
 <h6 class="is-small">Employers</h6>
@@ -919,7 +925,7 @@
 </li>
 <li>
 <a href="/brokers/default.aspx">
-<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/brokers.jpg" style="background-image: url(&quot;/_global-assets/images/segmentation_menu/brokers.jpg&quot;);">
+<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/brokers.jpg">
 <div class="hover-bg"></div>
 <div class="text-container">
 <h6 class="is-small">Brokers</h6>
@@ -933,7 +939,7 @@
 </li>
 <li>
 <a href="/sales-jobs/default.aspx">
-<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/agents.jpg" style="background-image: url(&quot;/_global-assets/images/segmentation_menu/agents.jpg&quot;);">
+<div class="w_segmenu__item" data-bg="/_global-assets/images/segmentation_menu/agents.jpg">
 <div class="hover-bg"></div>
 <div class="text-container">
 <h6 class="is-small">Agents</h6>
@@ -962,11 +968,11 @@
 		        <div class="content">
 			        <nav class="logo-bar">
                     <a class="logo" alt="Aflac" href="/about-aflac/default.aspx"></a>
-				        <a href="#" class="menu-toggle"></a>
+						<a href="#" class="menu-toggle"></a>
 				        						<div class="contact-trigger">
 					        Request a Quote
 				        </div>
-									        </nav>
+															        </nav>
 			        <div class="menu">
 				        <nav class="main-menu">
 					        <a class="breadcrumb" href="">Homepage</a>
@@ -984,7 +990,7 @@
 <a href="/about-aflac/supplier-information/default.aspx">Suppliers</a>
 </li>
 </ul>
-					        <div class="search">
+					        <div class="search ">
                              <script type="text/javascript">
                                  function submitSearch() {
                                      searchURL = '/individuals/search-results.aspx';
@@ -998,16 +1004,18 @@
                                 
 						        <form name="search-form" onsubmit="submitSearch();return false;">
 							        <label for="search-query" class="sr-only">Search query</label>
-							        <span class="input-text-alt is-empty" data-placeholder="Search"><span class="placeholder">Search</span>
+							        <span class="input-text-alt" data-placeholder="
+									    
+										Search									">
 								        <input id="search-query" type="text">
 							        </span>
 							        <button class="clear" title="clear" type="button">Clear</button>
 							        <button type="submit">Submit</button>
 						        </form>
-					        <div class="activator"></div></div>
+					        </div>
 					        <ul class="secondary-item-list">
 						        <li class="language">
-							        <a href="http://espanol.aflac.com">Español</a>
+							        <a href="http://www.aflac.com/es/">Español</a>
 						        </li>
 						        <li class="locator">
                                 <a href="/agent-locator/default.aspx">Find an Agent</a>
@@ -1015,7 +1023,7 @@
 						        <li class="account">
 							        <a>
                                     Log In / Register 
-<select><option class="logadded" value="#">Select a Login</option>
+<select>
 <option value="https://phs.aflac.com/aflac.phs.app/account/login" target="_blank">Individuals</option>
 <option value="https://my.aflac.com/" target="_blank">Employers</option>
 <option value="https://my.aflac.com/" target="_blank">Brokers</option>
@@ -1121,7 +1129,7 @@ Supplier Information
 <a href="/about-aflac/supplier-information/sustainable-procurement.aspx">Sustainable Procurement</a>
 </li>
 <li>
-<a href="/about-aflac/supplier-information/ethics-and-supplier-registration.aspx">Ethics &amp; Supplier Registration</a>
+<a href="/about-aflac/supplier-information/ethics.aspx">Ethics</a>
 </li>
 </ul>
 </div>
@@ -1140,19 +1148,24 @@ Supplier Information
     <div class="contact-mobile contact-mobile-individuals">
                         <ul class="main-tab-nav">
                             <li><a class="textbutton" href="#">Call Aflac</a></li>
-                            <li><a class="textbutton" href="#">Contact form</a></li>
+                            <li><a class="textbutton" href="#">Request a Quote</a></li>
                         </ul>
                         <div class="main-tabs">
                             <div class="tab call-tab">
                                 <div class="tab-main-content">
-                                    <div class="phone-number"><a href="tel:800.992.3522">800.992.3522</a></div>
-                                    <div>
+                                    <div class="phone-number">
+										<div class="middle bottom-aligned">
+											<p>To request a quote, fill out our <strong>Contact Form</strong> and we'll call you <em>or</em> Call Us now at </p>
+											<a href="tel:800.992.3522">800.992.3522</a>
+										</div>
+										</div>
+									<div>
                                         <div class="availability-title">Business Hours</div>
                                         <p class="availability-text">
                                             Monday thru Friday . 8:00 AM - 8:00 PM EST<br>
                                             <!-- Current Status : <span class="status">available</span> -->
                                         </p>
-                                        <a class="textbutton is-orange call-cta" href="tel:8009923522">Call aflac now</a>
+                                        <a class="textbutton is-orange call-cta" href="tel:8009923522">Request a Quote</a>
                                     </div>
                                 </div>
                                 <div class="tab-secondary-content">
@@ -1164,7 +1177,7 @@ Supplier Information
                                     <div class="form-steps">
                                         <form action="#" method="POST">
                                             <input name="language" type="hidden" value="English">
-                                            <fieldset class="form-step interests" style="display: block;">
+                                            <fieldset class="form-step interests">
                                                 <div class="legend">Please select at least one Aflac insurance product.</div>
                                                 <p>I'm interested in:</p>
                                                 <ul class="interest-list">
@@ -1180,7 +1193,7 @@ Supplier Information
                                                     </li>
                                                                                                         <li>
                                                         <div class="checkbox-holder">
-                                                            <label class="checkbox has-orange-fg" data-manual="1"><input name="offering_3" type="checkbox" value="Critical Care and Recovery"> Critical Care &amp; Recovery</label>
+                                                            <label class="checkbox has-orange-fg" data-manual="1"><input name="offering_3" type="checkbox" value="Critical Care and Recovery"> Critical Illness</label>
                                                         </div>
                                                     </li>
                                                                                                         <li>
@@ -1208,26 +1221,27 @@ Supplier Information
                                                     </div>
                                                     <div class="row">
                                                         <span class="input-text phone" data-manual="1">
-                                                            <input name="phone" type="text" placeholder="Phone" title="Phone">
+                                                            <input name="phone" type="tel" placeholder="Phone" title="Phone">
                                                         </span>
                                                         <span class="input-text zipcode" data-manual="1">
-                                                            <input name="zipcode" type="text" placeholder="ZIP Code" title="ZIP Code">
+                                                            <input name="zipcode" type="tel" placeholder="ZIP Code" title="ZIP Code">
                                                         </span>
                                                     </div>
                                                     <div class="row">
                                                         <span class="input-text email" data-manual="1">
-                                                            <input name="email" type="text" placeholder="Email" title="Email">
+                                                            <input name="email" type="email" placeholder="Email" title="Email">
                                                         </span>
                                                     </div>
                                                 </div>
-                                                <p>All fields are required.</p>
+                                                <p style="margin-bottom: 10px;">All fields are required.</p>
+												<p style="font-size: 10px; line-height: 12px;">By hitting submit, I agree to receive autodialed calls from Aflac, an independent contractor Aflac associate, and Sutherland Global Services working at Aflac’s request, at the number provided. Message and data rates may apply. I understand I am not required to provide my consent as a condition of accessing Aflac’s website or purchasing Aflac’s products.</p>
                                             </fieldset>
                                             <fieldset class="form-step call-time">
                                                 <div class="legend"></div>
 							<p class="available">
 									Monday - Friday <strong id="mf-start-time">8:00 AM</strong> to <strong id="mf-end-time">11:00 PM</strong> ET<br>
-										 Saturday <strong id="sat-start-time">10:00 AM</strong> to <strong id="sat-end-time">6:00 PM</strong> ET<br>
-                                         Sunday  <strong id="sat-start-time">12:00 PM</strong> to <strong id="sat-end-time">8:00 PM</strong> ET
+										 Saturday <strong id="sat-start-time">10:00 AM</strong> to <strong id="sat-end-time">8:00 PM</strong> ET<br>
+                                         <!-- Sunday  <strong id="sat-start-time">12:00 PM</strong> to <strong id="sat-end-time">8:00 PM</strong> ET -->
 									</p>
                                                 <div class="call-options">
                                                     <ul class="tab-nav">
@@ -1273,7 +1287,7 @@ Supplier Information
                                         </form>
                                     </div>
                                     <div class="progress-nav">
-                                        <a class="back" href="#" style="display: none;">Back</a>
+                                        <a class="back" href="#">Back</a>
                                         <a class="next" href="#">Next</a>
                                         <a class="submit" href="#">Submit</a>
                                     </div>
@@ -1316,211 +1330,536 @@ Supplier Information
 	<div class="tertiary_menu">
 		<ul>
 			<li><a href="/about-aflac/privacy-policy.aspx" target="" class="is-active">Privacy Policy</a></li>
-<li><a href="/about-aflac/privacy-notifications.aspx" target="" class="">Privacy Notifications</a></li>
 <li><a href="/about-aflac/privacy-notices.aspx" target="" class="">Privacy Notices</a></li>
+<li><a href="/about-aflac/privacy-notifications.aspx" target="" class="">Privacy Notifications</a></li>
+<li><a href="/about-aflac/careers-privacy-agreement.aspx" target="" class="">Careers Privacy Agreement</a></li>
+<li><a href="/about-aflac/terms-of-use.aspx" target="" class="">Terms of Use</a></li>
+<li><a href="/about-aflac/cookies-and-tracking-technology-policy.aspx" target="" class="">Cookies and Tracking Technology Policy</a></li>
 			</ul>
 			</div>
 	
 		<div class="page_main page_main--top">
 <div class="page_paragraph">
-<p>Last Updated: 12/31/2013</p>
-<h3>Our Commitment to Privacy</h3>
-<p>The Web sites located at the domain aflac.com are operated by Aflac* (referred to herein as Aflac, we, our, or us). Except as set forth below, this Web site Privacy Notice (Privacy Notice) applies to all services and sub-sites available under the domain name aflac.com.</p>
-<p>At Aflac, we are sensitive to individuals’ concerns about their privacy. Our Privacy Notice was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Privacy Notice is designed to assist you (referred to herein as you, your, or user) in understanding how we collect, use, and safeguard the Personal Information you provide to us and to assist you in making informed decisions when using our Web Sites and our products and services.</p>
-<p>PLEASE REVIEW THIS PRIVACY NOTICE CAREFULLY BEFORE PROVIDING ANY PERSONAL INFORMATION THROUGH OUR WEB SITES. YOUR USE OF OUR WEB SITES SIGNIFIES YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY NOTICE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY NOTICE, PLEASE DO NOT USE OUR WEB SITES.</p>
-<h3>Policy Scope</h3>
-<p>This Privacy Notice applies to information collected or gathered through the Web Sites only and does not necessarily reflect practices with respect to information collected or gathered through offline means or through other Web sites operated by associated divisions or affiliates of Aflac.</p>
-<p>The Privacy Notice applies only to information we collect online from certain visitors to the Web Sites. The Privacy Notice does not apply to:</p>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+	$('.page_paragraph a[href^="#"]').on('click touchstart', function(e) {
+		//e.preventDefault();
+        var target = this.hash;
+        $target = $(target);
+		
+		$('html, body').animate({ scrollTop: $target.offset().top - 80}, 800, function () {
+			//window.location.hash = target;
+		}); 
+	});
+	var urlhash = window.location.hash;
+	$urlhash = $(urlhash);
+
+	if ($(urlhash).length > 0) {
+		$('html, body').animate({ scrollTop: $(urlhash).offset().top - 80}, 800); 
+	}
+});
+// ]]></script>
+</p>
+<style><!--
+.page_paragraph ol {
+  counter-reset: list;
+  margin-bottom: 20px;
+}
+
+.page_paragraph ol li {
+  list-style: none;
+}
+
+.page_paragraph ol p {
+  margin: 8px 15px;
+}
+
+.page_paragraph ol li:before {
+  content: counter(list, lower-number) ". ";
+  counter-increment: list;
+  font-weight: 700;
+}
+
+.page_paragraph ol ol li:before {
+  content: "(" counter(list, lower-alpha) ") ";
+  counter-increment: list;
+  font-weight: 700;
+}
+
+.page_paragraph ol ol {
+  text-indent: -22px;
+  margin-left: 40px;
+}
+
+.page_paragraph ol ol ol li:before {
+  content: "(" counter(list, lower-roman) ") ";
+  counter-increment: list;
+  font-weight: 700;
+}
+
+.page_paragraph ol ol ol {
+  text-indent: -17px;
+  margin-left: 20px;
+}
+
+.page_paragraph ul li:before {
+  content: none !important;
+}
+
+.page_paragraph ul li {
+  list-style: disc !important;
+  margin-left: 35px;
+  text-indent: 0;
+}
+
+.page_paragraph .address-container.one {
+  width: 50%;
+  float: left;
+}
+
+.page_paragraph .address-container.one .address-inner {
+  margin-bottom: 70px;
+}
+
+.page_paragraph p.policy-disclaimer {
+  font-size: 10px !important;
+  line-height: 15px !important;
+}
+
+@media screen and (max-width: 919px) {
+  .page_paragraph .address-container.one {
+    width: 100%;
+    float: none;
+  }
+  
+  .page_paragraph .address-container br {
+    display: block;
+  }
+  
+  .page_paragraph .address-container.one .address-inner {
+    margin-bottom: 0px;
+  }
+}
+
+.page_paragraph .policy-legend-item {
+  width: 100%;
+  display: table;
+  margin-bottom: 10px;
+}
+
+.page_paragraph .policy-legend-item.border {
+  border-bottom: dashed 1px #3d3d3d;
+}
+
+.page_paragraph .policy-legend-item.lt-border {
+  border-bottom: dashed 1px #b9b998;
+}
+
+.w_page .page_paragraph .policy-legend-item img {
+  margin: 0 10px !important;
+  width: 35px;
+  float: left;
+}
+
+.page_paragraph .policy-legend-item .i-title {
+  width: 35%;
+  float:left;
+}
+
+.page_paragraph .policy-legend-item .i-title p {
+  text-align: center;
+
+}
+.page_paragraph .policy-legend-item .i-info {
+  width: 55%;
+  float: right;
+}
+
+.w_page .page_main .page_paragraph .policy-legend-item .i-info p {
+  margin-bottom: 10px !important;
+}
+
+@media screen and (max-width: 619px) {
+.w_page .page_paragraph .policy-legend-item img {
+  margin: 0 auto !important;
+}
+.page_paragraph .policy-legend-item .i-title, 
+.page_paragraph .policy-legend-item .i-info {
+  float: none !important;
+  width: 100% !important;
+}
+}
+--></style>
+<p>Effective Date: September 16, 2015</p>
+<p>Welcome! Thank you for visiting an offering of Aflac Incorporated and the Aflac group of insurance companies, including American Family Life Assurance Company of Columbus, its wholly owned subsidiary, American Family Life Assurance Company of New York, and Continental American Insurance Company (“CAIC”) (the Aflac group of insurance companies are collectively, “Aflac,” “we,” our” or “us”). The aforementioned Aflac companies are separate legal entities. To help inform you, we provide this policy explaining our information practices and the choices you can make about the collection and use of information you submit or we collect (1) online through our websites <a href="https://www.aflac.com" target="new">www.aflac.com</a>, <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>, <a href="http://www.aflacgroupinsurance.com" target="new">www.aflacgroupinsurance.com</a>, <a href="http://www.aflacny.com" target="new">www.aflacny.com</a>, and <a href="https://phs.aflac.com/aflac.phs.app/account/login" target="new">https://phs.aflac.com/aflac.phs.app/account/login</a>, our mobile websites, and other applications (the “Site”), and (2) our offline services and tools, including call centers, offline enrollment tools, surveys, and other applications (“Offline Services”). The Site and Offline Services are collectively referred to in this policy as the “Services.” The Services are owned and operated by Aflac.</p>
+<h3 style="text-align: center;"><strong>Contents &amp; Summary</strong></h3>
+<p>A table summarizing the contents of this privacy policy (“Privacy Policy”) appears below, followed by the policy in full. Should there be any discrepancy between the table and the full Privacy Policy, the language of the full Privacy Policy shall govern.</p>
+<div class="policy-legend">
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/scope-and-consent-icon.jpg">
+<div class="i-title">
+<p><strong><a href="#scope-consent">Scope and consent</a></strong></p>
+</div>
+<div class="i-info">
+<p>By using the Services, you expressly consent to our collection, use, disclosure, and retention of your personal information and other information as described in this Privacy Policy. Your use of the Services is also governed by the <a href="/about-aflac/terms-and-conditions.aspx">Terms of Use</a>.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/information-collection.jpg">
+<div class="i-title">
+<p><strong><a href="#information-collection">Information Collection</a></strong></p>
+</div>
+<div class="i-info">
+<p>We collect the following information when you use these Services:</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/registration-enrollment-account-info.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#registration-enrollment">(a) Registration, Enrollment, and Account Information:</a></strong> When you create an account for the Services, you voluntarily give us personal information.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/claims-information.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#claims-information">(b) Claims Information:</a></strong> You may give us your personal information when you submit, change or update a claim.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/information-to-respond.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#information-to-respond">(c) Information to Respond to Your Requests:</a></strong> You may give us your personal information so we can respond to your requests for information, respond to and process applications, and send you newsletters and other communications.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/social-media-information.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#social-media">(d) Social Media Information:</a></strong> When you sign in or engage with our Site through third-party social media sites, you agree to give us on-going access to your personal information.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/video-information.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#video-information">(e) Video Information:</a></strong> We may collect analytical information about the videos you view on the Site. You consent to our collection of video viewing information on the Site and sharing this information with our affiliates and vendors.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/survey-information.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#survey-information">(f) Survey Information:</a></strong> From time to time, we may ask you to complete surveys relating to your experiences with the Services. In connection with same, we may obtain your demographic information (e.g., city, state, account ID, date of birth).</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/information-about-others.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#information-about-others">(g) Information About Others:</a></strong> If you are an employer, Aflac broker or agent, you may submit applications or other information for your employees or clients. If you make a donation on the Site (e.g., <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>), you may also submit information about another person. You confirm that you have obtained the required consent to submit this third party information to us.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/information-from-other-sources.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#information-from-others">(h) Information From Other Sources or Combined by Us:</a></strong> We may, on occasion, combine information from outside sources to customize your experience with the Services.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/registration-enrollment-account-info.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#mobile-information">(i) Mobile Information:</a></strong> We may collect additional information from you if you access our Site through a mobile device (e.g. your unique device identifier, location or GPS/geo-location).</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/techincal-usage-information.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#technical-usage">(j) Technical Usage Information:</a></strong> We use tracking technologies such as cookies and other similar technologies to measure usage. For more information about the use of cookies and similar technologies on our Site, please review our <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx">Cookies and Tracking Technologies Policy</a>.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/geolocation.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#geolocation">(k) Geolocation:</a></strong> By using the site you expressly consent to our use of your geolocation to respond to your requests.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/call-center-information.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#call-center">(l) Call Center Information:</a></strong> When you call our Call Center, we may collect your name, account ID and other information to assist you.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item lt-border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/site-participation-submit.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#site-participation-submit">(m) Information You Submit To Participate in Site Activities:</a></strong> When you visit some of our Sites (e.g., <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>), you may have the opportunity to provide certain Personal Information to participate in an activity. We will collect and store this information to effectuate your choices to participate in an activity.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/shopping-cart.jpg">
+<div class="i-title"></div>
+<div class="i-info">
+<p><strong><a href="#shopping-cart">(n) Information You Submit to Purchase Products:</a></strong> When you visit some of our Sites (e.g., <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>), you may have the opportunity to purchase products and make donations. We collect this information to process your payments.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/links-and-retention.jpg">
+<div class="i-title">
+<p><strong><a href="#uses-retention">Uses and Retention</a></strong></p>
+</div>
+<div class="i-info">
+<p>We use information collected from you to provide our Services and contact you. Your information is retained for as long as we need it for our business and to provide you with the Services you request.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/disclosure.jpg">
+<div class="i-title">
+<p><strong><a href="#disclosure">Disclosures</a></strong></p>
+</div>
+<div class="i-info">
+<p>We may share your personal information and other information we collect with the following entities: (a) Aflac and the rest of our corporate family including company affiliates and subsidiaries; (b) our vendors and service providers; (c) other entities with your consent; (d) legal, regulatory and law enforcement authorities; (e) others if there is a change of control; (f) companies in the mobile app industry; (g) with others who visit our site if you share information on the Site; (h) others in accordance with state insurance and federal laws; and (i) others as required or permitted by law.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/hipaa-notice-of-privacy-practices.jpg">
+<div class="i-title">
+<p><strong><a href="#hipaa-notice">HIPAA Notice of Privacy Practices</a></strong></p>
+</div>
+<div class="i-info">
+<p>Aflac is fully committed to its compliance with the HIPAA Rules, including the Privacy Rule.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/choices.jpg">
+<div class="i-title">
+<p><strong><a href="#your-choices">Your Choices</a></strong></p>
+</div>
+<div class="i-info">
+<p>You can control how and when you want to receive notifications from Aflac by following instructions within the notices or contacting us as indicated in the <a href="#contact-us">Contact Us</a> section below.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/cookies-and-tracking-technology.jpg">
+<div class="i-title">
+<p><strong><a href="#cookies-tracking">Cookies and Tracking Technologies</a></strong></p>
+</div>
+<div class="i-info">
+<p>We use tracking technologies (including cookies) to recognize you, protect your privacy, customize your experience on the Site, and target the content/advertising you see, including providing videos customized to your interests. You consent to our tracking of your video viewing through the Site or third-party social media.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/access-and-review-options.jpg">
+<div class="i-title">
+<p><strong><a href="#access-review-options">Access and Review Options</a></strong></p>
+</div>
+<div class="i-info">
+<p>You can review and edit your personal information by accessing your account on the Site or as otherwise indicated in the <a href="#contact-us">Contact Us</a> section below.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/california-privacy-rights.jpg">
+<div class="i-title">
+<p><strong><a href="#california-privacy">California Privacy Rights</a></strong></p>
+</div>
+<div class="i-info">
+<p>If you are a California resident, you may request information about our practices related to disclosing your personal information and how we respond to Do Not Track signals.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/third-parties.jpg">
+<div class="i-title">
+<p><strong><a href="#third-party">Third-Parties</a></strong></p>
+</div>
+<div class="i-info">
+<p>We are not responsible for the privacy practices of third-party websites that are linked to or from our Site.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/security.jpg">
+<div class="i-title">
+<p><strong><a href="#security">Security</a></strong></p>
+</div>
+<div class="i-info">
+<p>We protect your personal information using security measures.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/childrens-privacy.jpg">
+<div class="i-title">
+<p><strong><a href="#childrens-privacy">Children’s Privacy</a></strong></p>
+</div>
+<div class="i-info">
+<p>Our Services are not intended for minors under the age of 18.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/international-transfer.jpg">
+<div class="i-title">
+<p><strong><a href="#international-transfer">International Transfer</a></strong></p>
+</div>
+<div class="i-info">
+<p>We store and process your personal information on our computers in the United States.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/notification-regarding-updates.jpg">
+<div class="i-title">
+<p><strong><a href="#notification-updates">Notification Regarding Updates</a></strong></p>
+</div>
+<div class="i-info">
+<p>You agree that we may notify you about material changes to this Privacy Policy by posting notices on this Site.</p>
+</div>
+</div>
+<div class="clear"></div>
+<div class="policy-legend-item border"><img style="width: 35px;" alt="item icon" src="/_global-assets/images/policies/icons/contact-us.jpg">
+<div class="i-title">
+<p><strong><a href="#contact-us">Contact Us</a></strong></p>
+</div>
+<div class="i-info">
+<p>For more information about our privacy practices, send an email to <a href="mailto:privacyoffice@aflac.com">privacyoffice@aflac.com</a>. If you are a CAIC account or certificate holder, you may send an email to <a href="mailto:aflacgroupprivacyoffice@aflac.com">aflacgroupprivacyoffice@aflac.com</a>.</p>
+</div>
+</div>
+<div class="clear"></div>
+</div>
 <ol>
-<li>The Aflac Japan Web site, <a href="http://www.aflac.co.jp/" target="_blank">aflac.co.jp</a>, which has its own privacy policy.</li>
-<li>Communicorp, Inc.’s Web sites, which are governed by other privacy policies.</li>
-<li>Visitors to aflac.com who are our agents or job applicants (you may submit a job application via aflac.com, and your information will be treated in accordance with Aflac’s employment application information policies).</li>
-<li>Web sites owned by Aflac agents and sales coordinators, or any other Web sites not owned and operated by Aflac. Also, as a company based in the United States of America, Aflac operates under United States laws and regulations, and information received from international users will be stored and processed in the United States. THE WEB SITES ARE INTENDED ONLY FOR USE IN THE USA AND IN OTHER TERRITORIES REFERENCED IN THE TERMS OF USE. If you are located outside the USA, please note that the information you provide will be transferred to the USA, which may not provide the same level of legal data protection as the country from which you access the Web Sites. By using the Web Sites and submitting information to us, you consent to such transfers and the processing of information by us as described in this Privacy Notice, and you authorize this practice.</li>
-</ol>
-<h3 style="padding-top: 30px;">1. Information we collect or gather</h3>
-<h4>a. Personal Information.</h4>
-<p>At these Web Sites, we collect only Personal Information that you voluntarily provide to us.</p>
-<p><em>Personal Information</em> includes any information that can be used to contact, identify, or locate you. This information may include your name, policy number, PIN, Social Security number, address, phone number, email address, family member information, etc. Personal Information will not be collected from you without your knowledge. You may browse the Web Sites without revealing or providing any Personal Information. Providing Personal Information is always voluntary. We provide various forms that can be submitted at your discretion to request information and conduct transactions via the Web Sites. On each of the forms, we ask for information necessary to provide you with the information or service provided by the form and possibly certain other information that will assist us in providing better products and services to you. Information that is required is indicated on each of the forms by an asterisk (*). In addition to these forms, in the Policyholder Service Center portal, we ask for information necessary to provide you with certain information related to you or your policy. The Policyholder Service Center portal may also be used to make certain changes to your information, as discussed more specifically below.</p>
-<ul>
-<li><strong>Product Information Request Form:</strong> You may submit this form to request information about Aflac’s products and services. You will receive an email confirming your request and may be contacted by an Aflac agent via telephone or email regarding your request.</li>
-<li><strong>Aflac Policy Change/Customer Service Form:</strong> If you are a current Aflac customer, you may submit this form to change information concerning products you have purchased from Aflac. You may be contacted independently via telephone, email, or U.S. mail to verify certain requested changes.</li>
-<li><strong>Media Relations Form:</strong> If you are a member of the news media, you may submit this form to request an interview. You may be contacted via telephone or email in response to such request.</li>
-<li><strong>Benefit Services Form:</strong> You may submit this form to request information about policy benefits. You may be contacted via email or telephone by someone in our Benefit Services department.</li>
-<li><strong>Claims Contact Form:</strong> You may submit this form to our Claims department to request information about claims. You will be contacted via email or telephone by someone in our Claims department.</li>
-<li><strong>Investor Information Request Form:</strong> You may submit this form to request information about investment opportunities. You may be contacted via telephone or email.</li>
-<li><strong>Aflac Business Opportunity Request Form:</strong> You may submit this form to request information about agent sales opportunities with Aflac. You will receive an email confirming your request and will be contacted by Aflac or one of its agents regarding your request.</li>
-<li><strong>Email Alert Service Registration Form: </strong>If you complete the E-Mail Alert Service Registration Form, you will receive email alerts regarding new press releases posted to the Web Site(s).</li>
-<li><strong>Billing and Fulfillment Information Form for Online Purchases (e.g., Duck Gear):</strong> If you would like to purchase Aflac promotional items, you may do so via aflac.com. To purchase promotional items, you may be required to provide us with your name, address, email address, and credit card or debit card information. IN NO EVENT WILL WE STORE YOUR CREDIT CARD OR DEBIT CARD INFORMATION.</li>
-<li><strong>Policyholder Service Center:</strong> You may access this part of the Web Sites to view and edit Personal Information; to create a PIN for your Policyholder Service Center account; to access policy and claim form documents; to view claims status; and/or to request change forms, Aflac handbooks, and manuals.</li>
-<li><strong>Share Your Story:</strong> You may submit this form to tell us about your experience as an Aflac policyholder. We may contact you via email or telephone to request permission to share your story with Aflac employees, other customers, and potential customers, or in response to a regulatory or legislative inquiry.</li>
-</ul>
-<h4>b. Nonpersonal Information.</h4>
-<p>Although Aflac does not collect Personal Information from you at the Web Sites unless you provide it voluntarily, we do collect Nonpersonal Information (information that is compiled in anonymous and aggregate form and is not used to locate, contact, or identify you specifically). Our servers have an activity logging feature, which automatically captures Nonpersonal Information regarding site usage, pages viewed, applications used, files downloaded, browser type, the user’s Internet service provider (ISP), and the user’s type of computer operating system. We use Nonpersonal Information only for the purpose of maintaining and improving the Web Sites.</p>
-<h3>2. Cookies/Tracking Technologies and How the Web Sites Use Them</h3>
-<h4>a. We do not use cookies to collect Personal Information.</h4>
-<ul>
-<li>We want you to know how we use tracking technologies (including <strong>cookies</strong>, <strong>web beacons/GIFs, embedded scripts</strong> as defined in Section 10 below) when you visit our Web Site or receive communications from us. We use tracking technologies/cookies to allow us to identify that the same party is moving within the Web Sites without having departed to another Web Site. Additionally, cookies/tracking technologies allow us to determine the Web Site, if any, which referred you to our Web Sites. The cookies/tracking technologies also allow us to enhance your activity and ascertain your site preferences on our Web Sites. Without cookies/tracking technologies, some multimedia images and graphics may not display properly, you may not be able to view customizable features like stock quotes, and/or you may have more difficulty navigating through the Web Sites.</li>
-<li>We may use cookies/tracking technologies for a variety of purposes, including:<ol>
-<li><strong>Operationally-Necessary</strong>. We may use cookies required for system administration, to prevent fraudulent activity or improve security. We are not required to obtain your consent to cookies that are operationally necessary.</li>
-<li><strong>Performance-Related</strong>. We may use cookies to assess the performance of the Web Sites, including as part of our analytic practices to improve the content offered through the Web Sites.</li>
-<li><strong>Functionality-Related</strong>. We may use cookies to tell us, for example, whether you have visited the Web Sites before or if you are a new visitor and to help us identify the features in which you may have the greatest interest.</li>
-<li><strong>Re-targeting-Related</strong>. Our Advertising, research and analytic partners may use cookies to learn more information about your interests based upon your interaction with our Web Sites and third-party sites. For further information on opt-out choices for some cookies that are available on our Web Sites, go to Section 2(b) of this Privacy Policy.</li>
+<li><strong id="scope-consent">Scope and Consent</strong>
+<p>When you use our Services, you are contracting with Aflac. By using the Services, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy.</p>
+</li>
+<li><strong id="information-collection">Information We Collect</strong><ol>
+<li><strong id="registration-enrollment">Registration, Enrollment, and Account Information:</strong> You can browse the Site without telling us who you are or revealing any personal information (e.g., name, username, password, PIN, email address, physical address, social security number, policy number, financial information, telephone number, mobile telephone number, text messages or email, health and medical information, audio, family and children’s information, date of birth, and photos) about yourself. If you register for an account with us, or enroll online or through a call center, you choose to give us your personal information and are not anonymous to us. When you register an account, enroll online or through a call center, create a profile, purchase Services, or otherwise apply for, request or engage with our Services on our Site or through another enrollment system, you may provide personal information. Personal information is only associated with your account/profile on the Site when you sign in as a registered user. (Please note that online account registration is not currently available for CAIC certificate holders.) Personal information is also collected via Offline Services when you provide it to us, such as applications submitted by you or on your behalf, information about your other transactions with us, and medical exams and tests you take in connection with your application or policy.<ol>
+<li><strong>Career Information:</strong> The Aflac Careers sections of the Site give you the opportunity to create an “Application Account” to search and apply for jobs. To apply for a position, you will need to establish an “Application Account.” In order to do so, you will provide us with your email address, password, first and last name, physical address, phone numbers, and career data (e.g., work experience, education and certifications). Aflac is an equal opportunity employer. Your email and password will allow you to access your account later. You may choose to use third-party login credentials to establish and sign onto an Application Account. See the “<a href="#social-media">Social Media Information</a>” section below for more information on using third-party credentials to access the Site. Also, when you apply for a job or authorize us to obtain a consumer report (e.g., background check), we will collect personal and non-personal information (e.g., name, address, telephone number, resume, employment history, reference information, compensation, compensation history, education, social security number and so on).
+<p>Visit our <a href="/about-aflac/careers-privacy-agreement.aspx">employment application information policies</a> for more information regarding the types of employment application information we collect and how we treat it.</p>
+</li>
 </ol></li>
-<li>By themselves, cookies do not tell us your email address or other personally identifiable information. Only you can provide that information on our Web Sites, if you choose to do so. We do not use cookies to collect, track, or store personally identifiable information. Our cookies will never be used to track your activity on any third-party Web Sites or to send spam.</li>
-<li>You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is received. (Each browser is different, so check the Help menu of your browser to learn how to change your cookie preferences). If you reject all cookies, you may not be able to take full advantage of all offerings of the Web Sites.</li>
-<li>You may encounter cookies from our third party service providers, that we have allowed on our site that assist us with various aspects of our Web Site operations and services, such as Google Analytics (as described in Section 11 below).</li>
+<li><strong id="claims-information">Claims Information:</strong> You may give us your personal information when you submit a claim, or when you make changes to, check on, or update your claim.</li>
+<li><strong id="information-to-respond">Information to Respond to Your Requests:</strong> You may give us your personal information so we can respond to your requests for information, review or process your application, and send you newsletters and other communications. Details of how you can opt-out of receiving any communications from us are detailed in the section headed “<a href="#your-choices">Your Choices</a>” below.</li>
+<li><strong id="social-media">Social Media Information:</strong> We may offer sign-in services that allow you to use third-party login credentials to access the Site. We also may offer Services that allow you to share information with third-party social media websites such as Facebook, Google Plus, Twitter, and others.<br><br> When you link your account or engage with our Site through third-party social media sites, you understand that you may be allowing us to have ongoing access to certain information stored on those social media sites (e.g., your public profile, friend list, people you follow or who follow you, your email address, birthday, work history, education history, interests, current city, religious and political views, website, personal description, and likes, and your friends’ birthdays, education histories, personal descriptions, and likes). We may receive certain information about you which is stored on social media sites if other users of those sites give us access to their profiles and you are one of their friends or connections depending upon your settings on those third-party social networking sites. We may also receive other information (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our Site. The information we have access to from the third-party social media websites varies by website and is controlled by your privacy settings on that website and by your consent. The information that may be passed to analytics providers and advertising partners is via cookies and tracking technologies. Please see our <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx">Cookies and Tracking Technologies Policy</a> page for information including your choices in relation to these technologies. By associating an account managed by a third-party with your Aflac account and authorizing us to have access to this information, you agree that we may collect, use, and store information from these websites in accordance with this Privacy Policy.</li>
+<li><strong id="video-information">Video Information:</strong> You agree that we may collect and share your video viewing with, or obtain information about your video viewing from, analytics service providers, advertising partners and third-party social media sites for two years or until you withdraw consent.</li>
+<li><strong id="survey-information">Survey Information:</strong> You agree that we may collect and share your demographic information (including city, state, and date of birth), claim number, policy holder or certificate holder information, and other information you may provide to conduct policy holder or certificate holder surveys.</li>
+<li><strong id="information-about-others">Information About Others:</strong> Employers, Aflac brokers and agents, and their designees may choose to submit applications for other people, either on the Site or through an affiliate or vendor of ours. The applications for Aflac products and services may contain the applicants’ personal information. When you visit some of our Sites (e.g., <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>), you may have the option to make donations on behalf of another person. We will collect certain Personal Information (e.g., name, email) of the other person to connect them to or notify them of the donation. By submitting information on behalf of someone else to us, you represent and confirm that you have obtained consent from them to do so.</li>
+<li><strong id="information-from-others">Information From Other Sources or Combined by Us:</strong> The information we collect may be combined with information from outside records (e.g., demographic information, navigation information, and/or additional contact information) that we have acquired in accordance with the law. If you are a policyholder or certificateholder of Aflac, personal information that you provide at Sites may be combined with certain other information we have collected about you through our policy application/administration procedures. In reviewing applications, policies, claims or performing our Services, we may collect additional information from you or others, such as from other insurance companies, consumer reporting agencies and credit bureaus as permitted by the Fair Credit Reporting Act, public records, government agencies, and information clearinghouses. In addition, you will have received a Privacy Notice from us explaining how we protect the privacy and security of information you provide (please see <a href="#hipaa-notice">HIPAA Notice of Privacy Practices</a> below in Section 5).</li>
+<li><strong id="mobile-information">Mobile Information:</strong> We may collect additional information from you if you access our Site through a mobile device (e.g., your unique device identifier, location or GPS/geo-location).</li>
+<li><strong id="technical-usage">Technical Usage Information:</strong> When you visit our Site, we collect usage information sent to us by your computer, mobile, or other access device that tells us how you are using the Site (“usage information”). We use tracking technologies (including <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#cookies">cookies</a> (<a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#cookies">including cookies stored in HTML-5</a>), <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#web-beacons">web beacons/GIFs</a>, <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#embedded-script">embedded scripts</a>, <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#unique-device-id">unique device ID</a>, and <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#e-tags">e-tags/cache browsers</a>) to collect usage information.<br> <br> We may also collect password information from you when you log in, as well as computer and/or connection information. During some visits we may use software tools to measure and collect session information, pages viewed, including page response times, files downloaded, download errors, time spent on certain pages, page interaction information, applications used, browser type, the user’s Internet service provider (ISP), and the user’s computer operating system.<br><br> Our goal is to collect and use only that information that we think is required for our legitimate business purposes, in order to better understand your interests and improve the Services. To learn more about how we use tracking technologies and cookies, see <a href="#cookies-tracking">Section 7 of this Privacy Policy</a> and also our full <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx">Cookies and Tracking Technologies Policy</a>.</li>
+<li><strong id="geolocation">Geolocation Information:</strong> When you visit the Site, we may collect geo-location information to provide certain location-based services that you request (e.g., maps) or any of the reasons set forth in <a href="#uses-retention">Section 3</a> of this Privacy Policy. We may disclose the geolocation data in the manner set forth in <a href="#disclosure">Section 4</a> of this Privacy Policy.</li>
+<li><strong id="call-center">Call Center Information:</strong> When you contact our Call Center, we may collect your name, account ID and other information you provide so that we may assist you.</li>
+<li><strong id="site-participation-submit">Information You Submit To Participate in Site Activities:</strong> When you visit some of our Sites (e.g., <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>), you may have the opportunity to provide certain Personal Information (e.g., name, email, address information, and health information) to participate in an activity (e.g., Submit Your Story <a href="http://duckprints.aflac.com/footprints" target="new">duckprints.aflac.com/footprints</a> (“Site Activity”). We will collect and store this information to effectuate your choices to participate in a Site Activity.</li>
+<li><strong id="shopping-cart">Information You Submit to Purchase Products:</strong> When you visit some of our Sites (e.g., <a href="http://duckprints.aflac.com" target="new">duckprints.aflac.com</a>), you may have the opportunity to purchase products (e.g., T-shirts, slippers, plush duck) and make donations. We will collect certain Personal Information (e.g., name, phone, email, address, and payment information) to facilitate the purchases you wish to make. We collect this information to process your payments.</li>
+</ol></li>
+<li><strong id="uses-retention">Uses and Retention</strong><ol>
+<li><strong>Provide Our Services:</strong> We use the information collected to (i) respond to your requests; (ii) allow you to manage your policies and claims; (iii) allow us to service your policies and manage your claims; (iv) give you information about your account; (v) provide customer service (e.g., to resolve disputes, problems with your account/profile or the Services); (vi) personalize your experience by providing content to you that we believe may be of most interest to you; (vii) operate our promotions (e.g., provide you with entries to and information regarding our sweepstakes and contests); (viii) manage, administer and improve our operations and Services, including Services via employers, brokers, agents and enrollment systems; (iv) conduct surveys; and (v) provide you with a safe, efficient, and customized experience.</li>
+<li><strong>Analyze and Aggregate Non-Personal Information:</strong> We use aggregate information about our users and non-personal information to administer, analyze and improve the Services and to analyze user behavior and prepare aggregated reports.</li>
+<li><strong>Prevent Fraud:</strong> We use information we collect to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, and enforce our <a href="/about-aflac/terms-and-conditions.aspx">Terms of Use</a>.</li>
+<li><strong>Communicate With You:</strong> We use your information to contact you to maintain the Services, your account, to comply with your stated communication preferences, to provide other services requested by you, as described at the time when we collect the information from you, to send you marketing communications, to respond to requests related to recruiting brokers, agents and clients or contact you for other purposes authorized by law.</li>
+<li><strong>Mobile Data:</strong> When you access the Site on a mobile device, we may use the information collected for any purpose set forth in this Privacy Policy. For example, we may use this information to provide you with location-based services, such as an agent locator, search results and other personalized content.<br><br> We retain information as long as it is necessary and relevant for our operations, including servicing your account. You consent to our retention of your video viewing tracking data for as long as permissible under applicable law – up to one year after you close your account or otherwise withdraw consent for video tracking.</li>
+</ol></li>
+<li><strong id="disclosure">Disclosure</strong>
+<p>Information collected through the Services may be shared with:</p>
+<ol>
+<li><strong>The Aflac Corporate Family:</strong> We may share the information we collect about you with the Aflac corporate family, including our affiliates and subsidiaries (e.g., Aflac New York, Communicorp, Inc., Continental American Insurance Company), as well as with third-party suppliers. The information may be disclosed to: (i) provide joint content and our services (e.g., registration, transactions, underwriting, setting rates, analytics and customer support); (ii) help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches; and (iii) guide decisions about our, or a third-party’s products, sites, applications, services, tools and communications. Members of our corporate family will use this information to send you communications, including marketing communications, and you will have the opportunity to opt-out in email communications or as otherwise explained in the <a href="#your-choices">Your Choices</a> section of this Privacy Policy.</li>
+<li><strong>Service Providers and Other Third-Parties:</strong> We may disclose your information to service providers under contract who help with our business operations and Services (such as, but not limited to, call centers, application and benefit enrollment services, policyholder or certificateholder claims processors and adjustors, survey providers, fraud investigations, advertising, computer software and hardware, <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#cookies-and-tracking-on-the-aflac-site">site analytics and operations</a>). We require these third parties not to further disclose your personal information to any other third party or use it for any other purpose.</li>
+<li><strong>Other Entities with Your Consent:</strong> Other third-parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). You may have opportunities to express interest in or register for other services. If you do, we will provide information about you to those third-parties, or parties working on their behalf, to implement your request.</li>
+<li><strong>Legal, Regulatory and Law Enforcement:</strong> Law enforcement, governmental agencies, or authorized third-parties, including but not limited to inspections, reviews, and in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other Aflac user to legal liability. In this regard, we may share your information with third parties in response to a subpoena, court order, search warrant, other legal process and/or to others as required or permitted by law. In such events, we may disclose information relevant and necessary to the inspection, investigation or inquiry, such as name, city, state, zip code, telephone number, email address, user ID history, IP address, fraud complaints and anything else we may deem relevant to the investigation. As appropriate, we also may disclose information to persons identified in our records who have a legal or legitimate interest in your policy, such as mortgagees, lessors or lienholders.</li>
+<li><strong>Change of Control – New Owners:</strong> We may share your information with other business entities, should we plan to merge with or be acquired by that business entity. Should such a combination occur, we will make reasonable efforts to request that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information would be used contrary to this policy, we will request that the new owner provide you with prior notice.</li>
+<li><strong>Companies in The Mobile App Industry:</strong> If you access the Services through a mobile device, we may also share your information with carriers, operating systems and platforms.</li>
+<li><strong>Information You Share Through the Services:</strong> When you interact with our Site through social media sites, plug-ins or other applications, depending upon your privacy settings, this information may become public on the Internet. We cannot prevent or control further use of this information. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party sites’ privacy policies and terms of use to learn more about their privacy practices, which we do not control.</li>
+<li><strong>Notices of Information We Share Pursuant to State and Federal Laws:</strong> Under various state laws and the Gramm-Leach-Bliley Act, insurers and agents must describe their information practices in addition to providing a HIPAA Notice of Privacy Practices. If you are a resident of the following, please click the links below to obtain more information:
+<ul class="pdf-icons">
+<li><a title="GLBA Aflac Privacy Practices in California" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-ca.pdf" target="_blank">California</a></li>
+<li><a title="GLBA Aflac Privacy Practices in Delaware" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-de.pdf" target="_blank">Delaware</a></li>
+<li><a title="GLBA Aflac Privacy Practices in Illinois" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-il.pdf" target="_blank">Illinois</a></li>
+<li><a title="GLBA Aflac Privacy Practices in Montana" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-03-mt.pdf" target="_blank">Montana</a></li>
+<li><a title="GLBA Aflac Privacy Practices in New Jersey" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-nj.pdf" target="_blank">New Jersey</a></li>
+<li><a title="GLBA Aflac Privacy Practices in Puerto Rico" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-pr.pdf" target="_blank">Puerto Rico</a></li>
+<li><a title="GLBA Aflac Privacy Practices in Washington" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-wa.pdf" target="_blank">Washington</a></li>
+<li><a title="GLBA Aflac Privacy Practices in all states" href="/docs/about-aflac/glba-aflac-privacy-practices-a90070-all-states.pdf" target="_blank">All other states</a></li>
 </ul>
-<h4>b. Use of Cookies by Our Advertising Partners.</h4>
+</li>
+</ol></li>
+<li><strong id="hipaa-notice">HIPAA Notice of Privacy Practices</strong>
+<p>The Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Rule provides individuals with the right to receive a notice that describes (1) how their individual health information, personal information and other protected health information (“PHI”) may be used and/or disclosed, (2) their privacy rights with respect to their PHI (including their right to access their PHI and other rights), and (3) Aflac’s obligations with respect to that information. Aflac is fully committed to its compliance with the HIPAA Rules, including the Privacy Rule, in safeguarding PHI.<br><br> For its HIPAA-covered insurance policies, Aflac is federally mandated to send a notice (Notice of Privacy Practices) to its insureds and to post the notice on its website. You should be aware that your state law may provide additional access and amendment rights to you which differ from those granted by HIPAA. If you would like additional information concerning the collection and disclosure of PHI and your rights under state law to access and amend such information, it will be furnished upon request. Please e-mail your request to <a href="mailto:privacyoffice@aflac.com">privacyoffice@aflac.com</a>. If you are a CAIC account or certificate holder, please email your request to <a href="mailto:aflacgroupprivacyoffice@aflac.com">aflacgroupprivacyoffice@aflac.com</a>.<br><br> In order to access Aflac’s HIPAA Notice of Privacy Practices, please select the state or U.S. territory where you live:</p>
+<ul class="pdf-icons">
+<li><a title="HIPAA Notice of Privacy Practices in Puerto Rico" href="/docs/about-aflac/hipaa-notice-of-privacy-practices-a90069-pr.pdf" target="_blank">Puerto Rico</a></li>
+<li><a title="HIPAA Notice of Privacy Practices in all states" href="/docs/about-aflac/hipaa-notice-of-privacy-practices-a90069.pdf" target="_blank">All other states</a></li>
+</ul>
+</li>
+<li><strong id="your-choices">Your Choices</strong>
+<p>You can opt-out of notifications from Aflac by following instructions within the notices or emailing your opt-out request to <a href="mailto:webmaster@aflac.com">webmaster@aflac.com</a>. You may not opt-out of administrative emails (for example, emails about your transactions or policy changes) for your registered account. You can opt-out of receiving communications by expressing your preferences to us using one of the mechanisms described in the Contact Us section below.</p>
+</li>
+<li><strong id="cookies-tracking">Cookies and Tracking Technologies</strong>
+<p>When you visit the Site, we and our business partners may use cookies and other tracking technologies for a variety of purposes and to enhance your online experience, for example, by remembering your log-in status and viewing preferences from a previous use of our Site, for when you later return to the Site.<br><br> A few additional important things you should know about our use of tracking technologies (e.g., cookies, unique device ID, HTML-5 stored technologies):</p>
 <ul>
-<li>The advertising networks and / or content providers that deliver our ads to third-party Web Sites may use cookies or other tracking technologies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared on other third-party sites.</li>
-<li>Some of these companies may combine information they collect from our Web Sites with other information they have independently collected relating to your web browser’s activities across their network of web sites. These companies collect and use this information under their own privacy policies.</li>
-<li>Examples of these companies, their privacy policies, and the opt-outs they offer can be found in the table below:
-<div style="padding-top: 15px;" class="table-container">
-<table class="use-of-cookies">
-<thead>
-<tr><th>Network</th><th>Customer Info Page</th><th>Opt-Out Page</th></tr>
-</thead>
-<tbody>
-<tr>
-<td>Google</td>
-<td><a href="http://www.google.com/privacy" target="_blank">http://www.google.com/privacy</a></td>
-<td><a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a></td>
-</tr>
-<tr>
-<td>DoubleClick</td>
-<td><a href="http://www.doubleclick.com/privacy/index.aspx" target="_blank">http://www.doubleclick.com/privacy/index.aspx</a></td>
-<td><a href="http://www.doubleclick.com/privacy/opting_out.aspx" target="_blank">http://www.doubleclick.com/privacy/opting_out.aspx</a></td>
-</tr>
-</tbody>
-</table>
+<li>We offer certain features that are available only through the use of tracking technologies.</li>
+<li>We use both session and persistent tracking technologies. Tracking technologies (e.g., cookies) can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). You are always free to decline tracking technologies if your browser permits, although doing so may interfere with your use of the Site. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling tracking technologies such as cookies.</li>
+<li>We use tracking technologies with your prior consent as obtained through your use of this Site.</li>
+<li>We encode and protect the tracking technologies that Aflac sets, so that only we can interpret the information stored in them.</li>
+<li>You may encounter tracking technologies/cookies from our third-party service providers that we have allowed on our Site that assist us with various aspects of our <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx#cookies-and-tracking-on-the-aflac-site">Site operations and services</a>, such as Google Analytics.</li>
+<li>You also may encounter tracking technologies from third-parties on certain pages of the websites that we do not control and have not authorized. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.)</li>
+<li>We may target and track the videos you view on the Site. You consent to our tracking of your video viewing through the Site or third-party social media for up to two years or as permitted by applicable law or until consent is withdrawn.</li>
+</ul>
+<p>For more information about the use of cookies and similar technology on our Site, please review this Privacy Policy and our <a href="/about-aflac/cookies-and-tracking-technology-policy.aspx">Cookies and Tracking Technologies Policy</a>.</p>
+</li>
+<li><strong id="access-review-options">Accessing, Reviewing, and Changing Your Personal Information</strong>
+<p>Registered members can review and change personal information at any time by accessing their accounts on the Site. You can also call 800.992.3522 to make changes to your personal information or your policy. You should promptly update your personal information if it changes or becomes inaccurate. We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze, or troubleshoot programs, enforce our Terms of Use, administer and manage our operations, comply with regulatory or legal requirements, or take other actions permitted by law. Likewise, if your account or membership is terminated or suspended, we may maintain some information to prevent re-registration.</p>
+</li>
+<li><strong id="california-privacy">Notice to California Residents</strong><ol>
+<li>Residents of the State of California may request a list of all third-parties to which our Site has disclosed certain personal information (as defined by California law) during the preceding year for those third-parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at <a href="mailto:webmaster@aflac.com">webmaster@aflac.com</a>. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.</li>
+<li><strong>How We Respond to Do Not Track Signals for California Residents:</strong> California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how Aflac responds to “Do Not Track” browser settings. Aflac does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.</li>
+</ol></li>
+<li><strong id="third-party">Third-Parties</strong>
+<p>Our Site may contain links to other third-party websites. We are not responsible for the privacy practices or the content of these third-party sites.</p>
+</li>
+<li><strong id="security">Security</strong>
+<p>We store and process your information on our servers located in the United States. We maintain technical, physical, and administrative security measures designed to protect the security of your personal information against loss, misuse, unauthorized access, disclosure, or alteration. Some of the safeguards we use are firewalls, data encryption, physical access controls to our data centers and information access authorization controls. It is your responsibility to make sure that your personal information is accurate and that your password(s) and account registration information are secure and not shared with third-parties. Also, as a reminder, the Internet and email generally are not often/always secure, and they should not be used for sending sensitive personal information, such as your SSN, birthdate or financial information. Emails also can be intercepted and/or read by unintended recipients. If you choose to communicate with us by email, then in order to contact us in a more secure manner, and if applicable, log into your Aflac account on the Site, which has additional safeguards in place.</p>
+</li>
+<li><strong id="childrens-privacy">Children's Privacy</strong>
+<p>The Site is a general audience site and it is not directed to minors under the age of 18. We do not knowingly collect personal information via our Services from users in this age group.</p>
+</li>
+<li><strong id="international-transfer">International Transfer</strong>
+<p>Our computer systems are currently based in the United States, and your personal information may be processed in the U.S., where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create an account/profile, you consent to the collection and/or processing in the United States of your personal information and tracking technologies/cookies as described in this Privacy Policy.</p>
+</li>
+<li><strong id="notification-updates">Notification Regarding Updates</strong>
+<p>From time to time, we may update this Privacy Policy. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on the Site. You should check the Site frequently for updates.</p>
+</li>
+<li><strong id="contact-us">Contact Us</strong>
+<p>If your questions are not answered online through this Policy or websites, you may email us at <a href="mailto:webmaster@aflac.com">webmaster@aflac.com</a>, or contact us as follows:</p>
+<div class="address-container one">
+<div class="address-inner">
+<p><strong>Physical Address</strong></p>
+<p>Aflac Worldwide Headquarters<br> 1932 Wynnton Road<br> Columbus, Georgia 31999<br> 800.992.3522</p>
+</div>
+<div>
+<p>CAIC<br> 2801 Devine Street<br> Columbia, South Carolina 29205<br> 800.433.3036</p>
+</div>
+</div>
+<div class="address-container two">
+<div class="address-inner">
+<p><strong>Mailing and Email Address</strong></p>
+<p>Aflac Worldwide Headquarters<br> Attn: Privacy Office<br> 1932 Wynnton Road<br> Columbus, Georgia 31999<br> 800.992.3522<br> <a href="mailto:privacyoffice@aflac.com">privacyoffice@aflac.com</a></p>
+</div>
+<div>
+<p>CAIC<br> Attn: Privacy Office<br> P.O. Box 427<br> Columbia, South Carolina 29202<br> 800.433.3036<br> <a href="mailto:aflacgroupprivacyoffice@aflac.com">aflacgroupprivacyoffice@aflac.com</a></p>
+</div>
 </div>
 </li>
-<li>You may also opt-out of some of the additional third party advertising networks’ cookies that may be placed while you visit our Web Sites by going to the Network Advertising Initiative’s Website at <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a> and the Digital Advertising Alliance (“DAA”) website at http://www.aboutads.info/choices/ and following the directions there. The effect of opting out of third party advertising networks is explained on each opt-out page. Note that for some sites, the effect of opting out of third party advertising means that customized advertising will not be delivered to you on third-party Web Sites. Information regarding your usage of Web Sites and other online services (e.g., mobile apps) may still be collected for research, analytics or internal operations purposes.</li>
-<li>We are not responsible for the effectiveness of any such opt-out options.</li>
-</ul>
-<h4>c. Notice to California Residents: How We Respond to Browser “Do Not Track” Signals.</h4>
-<p>California Business &amp; Professions Code Section 22575(b)(as amended effective January 1, 2014) provides that California residents are entitled to know how Aflac responds to “Do Not Track” signals. We do not use tracking technologies to track your online activities across third-party Web Sites or online services. Some web browsers incorporate a “Do Not Track” feature that signals to Web Sites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform so a standard technological response has not yet been developed by the policy and technological communities. For this reason, and because we do not track your online activities over time and across third-party Web Sites, we do not respond to Do Not Track signals currently and we await the result of work by the policy community and industry to determine when such a response is appropriate under our circumstances and what form it should take. If you wish not to be tracked by third parties while you are using our Web Sites, please follow the instructions provided in the opt-out section above in Section2(b) of this Privacy Policy.</p>
-<h3>3. Disclosure of your information</h3>
-<p>Disclosure of Personal Information that we collect at the Web Sites is subject to our <a title="Privacy Practices" href="/about-aflac/privacy-practices.aspx">privacy practices</a> and to this Privacy Notice. Accordingly, we will disclose Personal Information to employees, agents, or third parties only as described herein and:</p>
-<ol>
-<li>To fulfill a transaction that you have requested on the Web Sites.</li>
-<li>To service your policy.</li>
-<li>To investigate or handle claims.</li>
-<li>As permitted or required by law by regulatory and law enforcement authorities.</li>
-<li>To enforce or apply our Terms and Conditions of Use and other agreements.</li>
-<li>To protect the rights, property, or safety of Aflac, aflac.com, visitors to the Web Sites, or others.</li>
 </ol>
-<p>Aflac, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf, such as hosting specific portions of the Web Sites. We may provide your Personal Information to vendors, service providers, and other third parties who assist us in providing the Web Sites, as well as the services and activities provided through the Web Sites. We will only provide the specific and particular Personal Information that a third party needs to perform its function. We require these third parties not to further disclose your Personal Information to any other third party or use it for any other purpose. We may provide your Personal Information to our noninsurance subsidiary, Communicorp, Inc., for purposes of fulfilling orders of products (such as duck gear) that you have purchased through the Web Sites and for communicating with you regarding those orders. WE DO NOT SELL YOUR PERSONAL IDENTIFIABLE INFORMATION OR MEDICAL INFORMATION TO ANYONE.</p>
-<p>If you are a policyholder of Aflac, Personal Information that you provide at the Web Sites may be combined with certain other information we have collected about you through our policy application/administration procedures. In addition, you will have received a Privacy Notice from us explaining how we protect the privacy and security of information you provide (please see HIPAA Notice of Privacy Practices below). In addition, you can view a copy of Aflac’s Privacy Practices as they govern information obtained outside the Web Sites here.</p>
-<p>If we sell or transfer certain assets or if Aflac or substantially all of its assets are acquired, Personal Information and Nonpersonal Information gathered at these Web Sites may be one of the transferred assets.</p>
-<h4>Please select your resident state:</h4>
-<ul class="pdf-icons">
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_CA.pdf" target="_blank">California</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_DE.pdf">Delaware</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_2_IL.pdf">Illinois</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_03_MT.pdf" target="_blank">Montana</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_NJ.pdf" target="_blank">New Jersey</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_PR.pdf" target="_blank">Puerto Rico</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_WA.pdf" target="_blank">Washington</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90070_Base.pdf" target="_blank">All other states</a></li>
-</ul>
-<h3>4. HIPAA Notice of Privacy Practices</h3>
-<p>The Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Rule allows members the right to receive a notice that describes how individual health information may be used and/or disclosed and how to acquire access to this information. Aflac is fully committed to its compliance with the Privacy Rule of HIPAA in safeguarding sensitive, Personal Information about insureds, including identifiable health care and demographic data, referred to as Protected Health Information (PHI).</p>
-<p>Aflac is federally mandated to send a notice (Notice of Privacy Practices) to its insureds. You should be aware that your state law may afford additional access and amendment rights to you which differ from those granted by HIPAA. If you would like additional information concerning the collection and disclosure of protected health information and your rights under state law to access and amend such information, it will be furnished upon request. Please email your request to <a href="mailto:webmaster@aflac.com">webmaster@aflac.com</a>.</p>
-<h4>Please select your resident state:</h4>
-<ul class="pdf-icons">
-<li><a title="Puerto Rico" href="http://www.aflac.com/us/en/docs/privacy/A90069_PR.pdf">Puerto Rico</a></li>
-<li><a href="http://www.aflac.com/us/en/docs/privacy/A90069.pdf">All Other States</a></li>
-</ul>
-<h3>5. Security and protection of your information</h3>
-<p>We take the protection of your Personal Information very seriously. We use technology tools and design our business practices to help ensure that the Personal Information of our customers is properly gathered, stored, and processed. We secure your Personal Information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction. We also work to maintain the security of, and internal and external access to, the Personal Information of our customers through the use of technology and our business practices. However, there are no guarantees that unauthorized access will not occur. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Unless stated otherwise, Aflac cannot guarantee the security of any data submitted through the Internet by email.</p>
-<h3>6. Children</h3>
-<p>The Web Sites are considered general audience Web sites and are not intended to be used by children. The Web Sites are not directed toward children under the age of 13, and we do not use these Web Sites to knowingly solicit data from or market to children under the age of 13. The Web Sites do not sell products for purchase by children. In some instances, we may sell children’s products for purchase by adults (e.g., duck gear). No person under 13 years of age should disclose information on these Web Sites. If you are under 18, you may use these Web Sites only with the involvement of a parent or guardian. You may learn more about protecting children’s privacy by visiting ftc.gov/kidzprivacy. We encourage parents and guardians to spend time with their children online to be fully familiar with the Web Sites visited by their children.</p>
-<h3>7. Sites we link to</h3>
-<p>If you choose to use any of the links we provide to other companies, sponsors, and other third-party resources, you will be leaving our Web Sites and going to a new Web site. Protection of your privacy at the other sites will be governed by the privacy policy at those Web Sites. We encourage you to review the privacy policies of those sites as well.</p>
-<h3>8. Changes to this Privacy Notice</h3>
-<p>We reserve the right to modify or amend this Privacy Notice and Aflac’s privacy practices from time to time to update industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. We will incorporate all material changes to this Privacy Notice and the privacy practices on this page and will post a notice of material changes on the Web Sites. We encourage you to review this page periodically for the most recent version. By continuing to use the Web Sites following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Notice as it may be amended from time to time, in whole or in part, please do not continue using these Web Sites.</p>
-<h3>9. How you can access or correct your information</h3>
-<p>You can correct factual errors in your Personal Information by sending us a request (as provided under Section 10 of this Privacy Notice) that clearly shows the error that is to be corrected. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. In addition, you may be prompted at certain times on the Web Sites to update and correct your Personal Information with us. It is your responsibility to keep the information that you provide to us current and accurate.</p>
-<p>At certain places on the Web Sites, we may ask you if you are interested in learning more about Aflac’s products and services. If you elect to receive this information, we may use your email address or mailing address to respond to your inquiry. You may always decline the option of receiving information from us about Aflac products and services. You may opt out of these mailings and other types of communications from us by sending an email to <a href="mailto:webmaster@aflac.com">webmaster@aflac.com</a>. Please note that additional measures may have to be followed to opt out of mailings and other communications received from agents who are not employees of Aflac.</p>
-<p>You will not be able to opt out of receiving all types of communication, such as service announcements and administrative messages, as these types of information are a necessary part of your use of the Web Sites. Please note that modification of your account status or Personal Information will not stop communications generated by or on behalf of Aflac before Aflac can accomplish the modification of the status of your Personal Information. We reserve the right to retain Personal Information reasonably necessary to appropriately document our business activities, and for archival and record retention purposes.</p>
-<h3>10. Definitions</h3>
-<h4>Cookies</h4>
-<p>A cookie is a data file placed on a device when it is used to visit the online service. HTML5 cookies can be programmed through HTML5 local storage. A Flash cookie (or locally shared object) is a data file placed on a device via the Adobe Flash plug-in that may be built into or downloaded by you to your device. Regular cookies may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings. Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard. Also, these tools may not be effective with regard to Flash cookies or HTML5 cookies. Please be aware that if you disable or remove cookies or HTML5 cookies on your device, some parts of Web Sites and online services may not function properly, and that when you revisit our Web Sites your ability to limit cookies is subject to your browser settings and limitations.</p>
-<h4>Web Beacons</h4>
-<p>Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our Web Sites’ pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or email can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including to count visitors to the online service, to monitor how users navigate the online services, to count how many emails we sent that were actually opened, or to count how many particular articles or links were actually viewed.</p>
-<h4>Embedded Scripts</h4>
-<p>An embedded script is programming code that is designed to collect information about your interactions with the online service, such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third-party service provider, is active only while you are connected to the online service, and is deactivated or deleted thereafter.</p>
-<h3>11. Information Regarding Third Parties That May Collect Information on our Web Sites.</h3>
-<p>The following third party that collects information from you on our Web Sites have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:</p>
-<div class="table-container">
-<table class="third-parties">
-<thead>
-<tr><th>Party</th><th>Service</th><th>For More Information</th><th>Use of Tracking Technologies</th><th>Privacy Choices</th></tr>
-</thead>
-<tbody>
-<tr>
-<td>Google</td>
-<td>Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on</td>
-<td>
-<ul>
-<li><a href="http://support.google.com/analytics/bin/answer.py?hl=en&amp;topic=2611283&amp;answer=2700409" target="_blank">Policy requirements for Google Analytics Advertising Features</a></li>
-<li><a href="http://www.google.com/settings/ads?hl=en" target="_blank">Ads Settings</a></li>
-<li><a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">Google Analytics Opt-out Browser Add-on</a></li>
-</ul>
-</td>
-<td>Yes</td>
-<td>See information links in prior column</td>
-</tr>
-<tr>
-<td>AddThis, Inc.</td>
-<td>&nbsp;</td>
-<td><a href="http://www.addthis.com/about" target="_blank">About Us</a><br><a href="http://www.addthis.com" target="_blank">Website</a></td>
-<td>Yes</td>
-<td>See information links in prior column</td>
-</tr>
-<tr>
-<td>Atlas Solutions</td>
-<td>&nbsp;</td>
-<td><a href="http://atlassolutions.com/about-atlas" target="_blank">About Us</a><br><a href="http://atlassolutions.com" target="_blank">Website</a></td>
-<td>Yes</td>
-<td>See information links in prior column</td>
-</tr>
-<tr>
-<td>DoubleClick Floodlight</td>
-<td>&nbsp;</td>
-<td><a href="http://www.google.com/doubleclick" target="_blank">Website</a></td>
-<td>Yes</td>
-<td>See information links in prior column</td>
-</tr>
-<tr>
-<td>Qualtrics</td>
-<td>&nbsp;</td>
-<td><a href="http://www.qualtrics.com/about" target="_blank">About Us</a><br><a href="http://www.qualtrics.com" target="_blank">Website</a></td>
-<td>Yes</td>
-<td>See information links in prior column</td>
-</tr>
-<tr>
-<td>WebTrends</td>
-<td>&nbsp;</td>
-<td><a href="http://webtrends.com/about/company-info/company-overview" target="_blank">About Us</a><br><a href="http://www.webtrends.com" target="_blank">Website</a></td>
-<td>Yes</td>
-<td>See information links in prior column</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices.</p>
-<h3>12. How to contact Aflac with questions or comments</h3>
-<p>If you have questions or comments about our <a title="Privacy Practices" href="/about-aflac/privacy-practices.aspx">privacy practices</a> or this Privacy Notice, please email us at <a href="mailto:webmaster@aflac.com">webmaster@aflac.com</a>, phone us at 800.992.3522, or write to us at Aflac Worldwide Headquarters, ATTN: Privacy Office, 1932 Wynnton Road, Columbus, Georgia 31999.</p>
-<p><em>*Aflac includes American Family Life Assurance Company of Columbus (Aflac) and its wholly owned subsidiary, American Family Life Assurance Company of New York (Aflac New York).</em></p></div>
+<p class="policy-disclaimer"><sup class="size-15">*</sup> <em>Continental American Insurance Company (CAIC), a proud member of the Aflac group of insurers, is a wholly-owned subsidiary of Aflac Incorporated and underwrites group coverage. CAIC is not licensed to solicit business in New York, Guam, Puerto Rico, or the Virgin Islands. For groups sitused in California, coverage is underwritten by CAIC. For groups sitused in New York, coverage is underwritten by American Family Life Assurance Company of New York.</em></p></div>
 </div>
 										
+						
 						
 </div>
 </div>
   <div class="w_share-bar">
-    <div class="w_share standalone" style="margin-left: 533px; display: block;">
+    <div class="w_share standalone attached">
         <a href="#" class="w_share__trigger">
             <div class="icon"></div>
             <p class="is-small text">Share Page</p>
@@ -1529,12 +1868,12 @@ Supplier Information
             <div class="icon">Close</div>
         </a>
         <div class="w_share__services">
-            <a class="service facebook service-1" href="https://web.archive.org/web/20151025222603/https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20150905075935id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx"><div class="icon">Facebook</div></a>
-            <a class="service twitter service-2" href="https://web.archive.org/web/20151025222603/https://twitter.com/home?status=Privacy%20Policy%0APrivacy%20Policy%20page%20description%0Ahttps://web.archive.org/web/20150905075935id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx%0A%40Aflac"><div class="icon">Twitter</div></a>
-            <a class="service googleplus service-3" href="https://web.archive.org/web/20151025222603/https://plus.google.com/share?url=https://web.archive.org/web/20150905075935id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx"><div class="icon">Google+</div></a>
+            <a class="service facebook" href="#"><div class="icon">Facebook</div></a>
+            <a class="service twitter" href="#"><div class="icon">Twitter</div></a>
+            <a class="service googleplus" href="#"><div class="icon">Google+</div></a>
         </div>
     </div>
-</div>	
+</div>
         <div id="root_footer"></div>
     </div>
     <div id="footer">
@@ -1563,13 +1902,13 @@ Supplier Information
                     <ul class="footer-nav has-separator">
 <li><a href="/about-aflac/privacy-policy.aspx" class="textlink ">Privacy Policy &amp; Notifications</a></li>
 <li><a href="/sitemap/default.aspx" class="textlink ">Sitemap</a></li>
-<li><a href="/about-aflac/terms-and-conditions.aspx" class="textlink ">Terms and Conditions</a></li>
+<li><a href="/about-aflac/terms-of-use.aspx" class="textlink ">Terms of Use</a></li>
 </ul>
                 </div>
                 <div class="w_footer_legal">
                     <div class="footer_legal-top">
                         <p class="copyright">
-                        © 2015 AFLAC INCORPORATED                        </p>
+                        © 2016 AFLAC INCORPORATED                        </p>
 				        <a class="legal-link" href="#">VIEW LEGAL</a>
                     </div>
                     <div class="footer_legal-content">
@@ -1580,7 +1919,7 @@ Supplier Information
 <sup class="size-15 zero">†</sup>One Day Pay<sup class="size-15 zero">SM</sup> available for most properly documented, individual claims submitted online through Aflac SmartClaim<sup class="size-15 zero">®</sup> by 3PM ET. Aflac SmartClaim<sup class="size-15 zero">®</sup> not available on the following: Disability, Life, Vision, Dental, Medicare Supplement, Long Term Care/Home Health Care, Aflac Plus Rider, Specified Disease Rider and Group policies. Aflac processes most other claims in about four days. Processing time is based on business days after all required documentation needed to render a decision is received &amp; no further validation and/or research is required. Individual Company Statistic, 2015.
 				        </p>
 				        <p class="copyright">
-                            000
+                            © 2016 000
 				        </p>
 			        </div>
                 </div>
@@ -1627,4 +1966,4 @@ var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_ele
 })();
 // ]]>
 </script>
-<iframe height="0" width="0" src="/widgets/tealium-tracking.aspx"></iframe><script type="text/javascript" src="//zn5sbiq8onusb0vml-aflac.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_5sBiQ8OnUSb0vml&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150905075935id_%2Fhttps%253A%2F%2Fwww.aflac.com%2Fabout-aflac%2Fprivacy-policy.aspx&amp;t=1580485871668"></script></body></html>
+<iframe height="0" width="0" src="/widgets/tealium-tracking.aspx"></iframe></body></html>
