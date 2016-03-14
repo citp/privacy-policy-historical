@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsgal.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316133027id_/http%3A//www.trendsgal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsgal.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314015915id_/http%3A//www.trendsgal.com/privacy-policy) for the most accurate reproduction.*
 
 # Trendsgal.com : Privacy Policy
 
