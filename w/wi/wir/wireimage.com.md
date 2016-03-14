@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wireimage.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141142id_/http%3A//www.wireimage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireimage.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314182827id_/http%3A//www.wireimage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy: WireImage Celebrity Photos
 
@@ -74,11 +74,11 @@ We strive to make this site user-friendly and relevant. Our goal is to deliver m
 
 For this purpose, Getty Images also works with third party partners, who use cookies on our site to:
 
-Measure and analyze aggregate usage and volume statistical information from our users on our site. Information gathered may include, but is not limited to the following: activity of the user browser when the user is visiting the site, the site path of users, general information regarding the visitors internet service provider and host, and the time users come to the site.
+Measure and analyze aggregate usage and volume statistical information from our users on our site. Information gathered may include, but is not limited to the following: activity of the user browser when the user is visiting the site, the site path of users, general information regarding the visitors internet service provider and host, and the time users come to the site.
 
-Remember our users previous search of products and services, and dynamically display more relevant content to them.
+Remember our users previous search of products and services, and dynamically display more relevant content to them.
 
-Record users behavior on our site, such as pages visited, emails clicked, forms completed and products and services purchased to create customized advertisements and communications that better meet your needs.
+Record users behavior on our site, such as pages visited, emails clicked, forms completed and products and services purchased to create customized advertisements and communications that better meet your needs.
 
 Evaluate user traffic and behavior on the site to compile activity reports for our internal use only.
 
