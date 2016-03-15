@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003003402id_/https%3A//www.knownhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316004707id_/https%3A//www.knownhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy For KnownHost - Our Commitment To You - KnownHost.com - Your high quality managed VPS hosting provider
 
