@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abl.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320111152id_/https%3A//abl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abl.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315035126id_/https%3A//www.abl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Allied Bank
 
 ## Privacy Policy
 
-This Privacy Policy outlines how Allied Bank Limited manages its customer’s personal information received through [www.abl.com](http://www.abl.com/ "Allied Bank Limited"). It also describes the sorts of data held, including how it is gathered, maintained, used, and disclosed. 
+This Privacy Policy outlines how Allied Bank Limited manages its customer’s personal information received through [www.abl.com](https://www.abl.com/ "Allied Bank Limited"). It also describes the sorts of data held, including how it is gathered, maintained, used, and disclosed. 
 
 We encourage visitors/clients to check ABL’s corporate website for any updates to the Bank’s Privacy Policy.
 
@@ -12,7 +12,7 @@ We encourage visitors/clients to check ABL’s corporate website for any updates
 
 ABL collects only personal information necessary for the Bank to conduct its business operation. The Bank obtains information from the following sources: 
 
-  * Information received from [Complaints](http://www.abl.com/contact-us/complaints/), [Enquiries](http://www.abl.com/contact-us/enquiries/), [Requests](http://www.abl.com/contact-us/requests/), [Suggestions](http://www.abl.com/contact-us/suggestions/), and [Write to Us](http://www.abl.com/services/customer-support/write-to-us/) forms
+  * Information received from [Complaints](https://www.abl.com/contact-us/complaints/), [Enquiries](https://www.abl.com/contact-us/enquiries/), [Requests](https://www.abl.com/contact-us/requests/), [Suggestions](https://www.abl.com/contact-us/suggestions/), and [Write to Us](https://www.abl.com/services/customer-support/write-to-us/) forms
   * Information received from Job Applications
   * Information authorized by clients to us, to resolve their queries or review their online transactions with us.
 
