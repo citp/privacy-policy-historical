@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntd.tv privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518231035id_/http%3A//www.ntd.tv/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntd.tv privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315105025id_/http%3A//www.ntd.tv/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - New Tang Dynasty Television (NTD TV)
 
