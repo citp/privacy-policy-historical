@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningtree.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208110401id_/http%3A//www.learningtree.com/contact-us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningtree.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315155807id_/https%3A//www.learningtree.com/contact-us/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Info | Learning Tree
 
@@ -86,8 +86,8 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 **Mail:**  
 Learning Tree International  
-1831 Michael Faraday Drive  
-Reston, VA 20190  
+13650 Dulles Technology Dr  
+Suite 400 Herndon, VA 20171  
 USA
 
 **E-mail:**  
