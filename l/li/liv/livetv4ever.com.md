@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016043559id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315121325id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | Rugby World Cup : Argentina vs Namibia | Italy vs Romania | France vs Ireland | USA vs Japan
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | Asia Cup T20 : India vs Pakistan | Rugby 6 Nations : Italy vs Scotland | England vs Ireland | Real Madrid vs Atl.Madrid | Spain LaLiga | EPL | German Bundesliga | Italy Serie-A
 
 **General**
 
