@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ziptt.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223110755id_/http%3A//www.ziptt.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziptt.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315160048id_/http%3A//www.ziptt.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ZIP TT : Privacy Policy
 
-Try your luck at our Sweepstakes by paying only Rs.1 ZipTT Credit. [Click here ](https://web.archive.org/web/20151223110755id_/http%3A//www.ziptt.com/lucky_draw.php) and get a chance to win Rs.30 worth recharge. 
+Try your luck at our Sweepstakes by paying only Rs.1 ZipTT Credit. [Click here ](https://web.archive.org/web/20160315160048id_/http%3A//www.ziptt.com/lucky_draw.php) and get a chance to win Rs.20 worth recharge. 
 
 #### Privacy Policy
 
