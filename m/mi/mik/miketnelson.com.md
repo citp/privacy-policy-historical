@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miketnelson.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812005506id_/http%3A//www.miketnelson.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miketnelson.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315233148id_/http%3A//miketnelson.com/privacy.htm) for the most accurate reproduction.*
 
 # MikeTNelson.com Privacy Notice
 
