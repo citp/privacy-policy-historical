@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ilovefreethings.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702020904id_/http%3A//www.ilovefreethings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefreethings.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315012323id_/http%3A//www.ilovefreethings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Free Things
 
-Updated **04/01/2009**
+Updated **02/07/2016**
 
  **Privacy Notice Table Of Contents:**   
 
@@ -40,7 +40,7 @@ We use the information you provide about yourself when placing an order only to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-We are using [AWeber Systems, Inc.](http://aweber.com/?301041) to manage newsletter and newsletter subscribers. Email addresses and other associated information are held in strict confidence. [AWeber Systems, Inc.](http://aweber.com/?301041) does not contact our subscribers, nor does it sell or share information with any other party.   
+We are using our internal secured system to manage the newsletter and newsletter subscribers. Email addresses and other associated information are held in strict confidence.   
 Each newsletter contains an easy, automated way for you to unsubscribe. If you wish to do this, simply follow the instructions at the end of any newsletter email. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
@@ -49,9 +49,9 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-**Our Commitment To Data Security**
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](https://web.archive.org/web/20160315012323id_/http%3A//www.ilovefreethings.com/www.aboutads.info) or Networking Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Our dedicated web server located in a highly secured facility at [Peak10 Data Center](http://www.peak10.com/jacksonville/default.asp). 
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to [vlad@ilovefreethings.com](mailto:vlad@ilovefreethings.com) and place “California Third Party Disclosure” in the subject line. Please allow up to thirty days for a response. 
 
 **Our Commitment To Children's Privacy:**
 
