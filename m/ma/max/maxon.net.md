@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxon.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905175257id_/http%3A//www.maxon.net/about/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxon.net privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315050103id_/http%3A//www.maxon.net/about/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # MAXON | 3D FOR THE REAL WORLD: Privacy Policy
 
@@ -14,7 +14,7 @@ Object of the privacy protection policy are details regarding personal informati
 
  **Scope of Data Gathering, Storage and Use**
 
-We gather and store your personal information for the purposes of rendering services or as necessary for contractual fulfillment. Your information is used by MAXON to make working with CINEMA 4D and the MAXON website as pleasant and comfortable as possible.
+We gather and store your personal information for the purposes of rendering services or as necessary for contractual fulfillment. Your information is used by MAXON to make working with Cinema 4D and the MAXON website as pleasant and comfortable as possible.
 
 Your personal information will not be given to third parties without your expressed consent unless it is required for providing services or contractual fulfillment. It may, however, be necessary to supply your personal information to certified MAXON partner companies that MAXON implements to provide certain services. These companies have, of course, been expressly informed about adherence to privacy protection with regard to our customers’ personal information.
 
