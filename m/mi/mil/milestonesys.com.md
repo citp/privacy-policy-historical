@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milestonesys.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012232831id_/http%3A//www.milestonesys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milestonesys.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315045837id_/https%3A//www.milestonesys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,11 +9,11 @@ Personal information is data that can be used to uniquely identify or contact a 
 
   
 **What personal information we collect**  
-When you create an Milestone Systems ID, sign up for our free newsletter or participate in an online survey and compititions, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences. When you share your content with family and friends using Milestone Systems or invite others to join you on Milestone Systems forums, Milestone Systems may collect the information you provide about those people such as name, mailing address, email address and phone number.
+When you create an Milestone Systems ID, sign up for our free newsletter or participate in an online survey and competitions, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences. When you share your content with family and friends using Milestone Systems or invite others to join you on Milestone Systems forums, Milestone Systems may collect the information you provide about those people such as name, mailing address, email address and phone number.
 
   
 **How we use your personal information**  
-The personal information we collect allows us to keep you posted on Milestone Systems’s latest announcements. It also helps us to improve our services, content and advertising. If you don’t want to be on our mailing list, you can opt out anytime by updating your preferences. We also use personal information to help us develop and improve our website, services, content, and advertising. From time to time, we may use your personal information to send important notices, such as communications about changes to our terms, conditions and policies. Because this information is important to your interaction with Milestone Systems, you may not opt out of receiving these communications. We may also use personal information for internal purposes such as auditing, data analysis and research to improve Milestone Systems’s website and services. If you enter into a competitions or similar promotion from our partners we may use the information you provide to administer those programs.
+The personal information we collect allows us to keep you posted on Milestone Systems’ latest announcements. It also helps us to improve our services, content and advertising. If you don’t want to be on our mailing list, you can opt out anytime by updating your preferences. We also use personal information to help us develop and improve our website, services, content, and advertising. From time to time, we may use your personal information to send important notices, such as communications about changes to our terms, conditions and policies. Because this information is important to your interaction with Milestone Systems, you may not opt out of receiving these communications. We may also use personal information for internal purposes such as auditing, data analysis and research to improve Milestone Systems’s website and services. If you enter into a competitions or similar promotion from our partners we may use the information you provide to administer those programs.
 
   
 **Collection and use of non-personal information**  
