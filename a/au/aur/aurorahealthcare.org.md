@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132411id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315123241id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy, Aurora Health Care | Aurora Health Care
 
@@ -55,5 +55,5 @@ You may stop AddThis from collecting any information about you for online behavi
 
 **You can also visit the website[http://www.aboutads.info](http://www.aboutads.info/) to change your consumer preferences with respect to certain online ads and to obtain further information about third party ad networks and online behavioral advertising.**
 
-**Do not track**  
+**Do Not Track**  
 We will automatically collect cookies and other non-personally identifying information when you visit this site.  Due to this automatic collection, we do not currently honor do not track requests.
