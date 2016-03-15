@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorpionshoes.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315161159id_/http%3A//www.scorpionshoes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorpionshoes.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315231541id_/http%3A//www.scorpionshoes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
