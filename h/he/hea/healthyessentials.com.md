@@ -1,19 +1,33 @@
-> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223050233id_/http%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315111334id_/https%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | HEALTHY ESSENTIALS®
+# | HEALTHY ESSENTIALS®
 
-Johnson & Johnson Consumer Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the “Site”). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
+* * *
 
-## INFORMATION COLLECTION
+**Last Update** : January 29, 2016
 
-### Information You Provide
+Johnson & Johnson Consumer, Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the “Site”). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
 
+  * Information Collection
+  * Third Party Sites and Services
+  * Security
+  * Choices and Access
+  * Retention Period
+  * Use of Site by Minors
+  * Cross-border Transfer
+  * Sensitive Information
+  * Updates to this Privacy Policy
+  * Contacting Us
+
+
+
+INFORMATION COLLECTION  
+ **Information You Provide**  
 Some areas of the Site may ask you to submit personal information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, or order processing) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed what information is required and what information is optional.
 
-We may combine the information you submit with other information we have collected from you, whether on- or offline, including, for example, your purchase history. We may also combine it with information we receive about you from other sources, such as other companies, divisions, parents, subsidiaries, and affiliated companies of Johnson & Johnson Consumer Inc., publicly available information sources (including information from your publicly available social media profiles), and other third parties.
+We may combine the information you submit with other information we have collected from you, whether on- or offline, including, for example, your purchase history. We may also combine it with information we receive about you from other sources, such as other companies, divisions, parents, subsidiaries, and affiliated companies of Johnson & Johnson Consumer, Inc., publicly available information sources (including information from your publicly available social media profiles), and other third parties.
 
-### Passive Information Collection and Use
-
+**Passive Information Collection and Use**  
 As you navigate around the Site, certain information can be passively collected (that is, gathered without your actively providing the information), using various technologies. We and our third party service providers passively collect and use information in a variety of ways, including:
 
 **Through your browser** : Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version, and Internet browser type and version. We may collect similar information, such as your device type and identifier, if you access the Site through a mobile device.
@@ -32,8 +46,7 @@ You can refuse to accept these cookies by following your browser’s instruction
 
 **Device Information** : We may collect information about your mobile device, such as a unique device identifier.
 
-### How We Use and Disclose Information
-
+**How We Use and Disclose Information**  
 We use and disclose information you provide to us as described to you at the point of collection.
 
 We also use information from or about you:
@@ -46,7 +59,7 @@ We also use information from or about you:
 
 We also disclose information collected through the Site:
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [ http://www.investor.jnj.com/governance/sec-filings.cfm](http://www.investor.jnj.com/governance/sec-filings.cfm) \- click on the link for Form 10K, Exhibit 21, under “SEC Filings”. Johnson & Johnson Consumer Inc. is the party responsible for the management of the jointly-used Personal Information;
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [ http://www.investor.jnj.com/governance/sec-filings.cfm](http://www.investor.jnj.com/governance/sec-filings.cfm) \- click on the link for Form 10K, Exhibit 21, under “SEC Filings”. Johnson & Johnson Consumer, Inc. is the party responsible for the management of the jointly-used Personal Information;
   * to our third party partners with whom we offer a co-branded or co-marketed promotion;
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
@@ -57,9 +70,14 @@ In addition, we use and disclose information collected through the Site as we be
 
 We also use and disclose information we collect passively as described above, under “Passive Information Collection and Use,” and for any other purpose, except where we are required to do otherwise under applicable law (for example, if we are required to treat such information as personal information). In addition, we may use and disclose information that is not in personally identifiable form for any purpose. If we combine information that is not in personally identifiable form with information that is (such as combining your name with your geographical location), we will treat the combined information as personal information as long as it is combined.
 
-## CHOICES AND ACCESS
+**THIRD PARTY SITES AND SERVICES**  
+This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or web property (including, without limitation, any application) that is available through this Site or to which this Site contains a link. The availability of, or inclusion of a link to, any such site or property on the Site does not imply endorsement of it by us or by our affiliates.
 
-### Your choices regarding our use and disclosure of your personal information
+**SECURITY**  
+We use reasonable organizational, technical, and administrative measures to protect personal information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the CONTACTING US section below.
+
+**CHOICES AND ACCESS  
+Your choices regarding our use and disclosure of your personal information**
 
 We give you choices regarding our use and disclosure of your personal information for marketing purposes. You may opt out from:
 
@@ -71,6 +89,36 @@ We give you choices regarding our use and disclosure of your personal informatio
 
 We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your personal information from the databases of our affiliates with which we have already shared your information (i.e., as of the date that we implement your opt-out request). Please also note that if you opt out of receiving marketing-related messages from us, we may still send you important transactional and administrative messages, from which you cannot opt out.
 
-### How you can access, change, or delete your personal information
-
+**How you can access, change, or delete your personal information**  
 If applicable and you would like to review, correct, update, or delete the personal information that you have provided via the Site, please contact us as specified below in the CONTACTING US section. We will try to comply with your request as soon as reasonably practicable. You may also visit the Site to update your online profile.
+
+**RETENTION PERIOD**  
+We retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or allowed by law or to otherwise fulfill a legal obligation.
+
+**USE OF SITE BY MINORS**  
+The Site is not directed to individuals under the age of 13 and we request that these individuals not provide Personal Information through the Site.
+
+**CROSS-BORDER TRANSFER**  
+Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our Site or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules than in your country.
+
+**SENSITIVE INFORMATION**  
+Unless we specifically request or invite it, we ask that you not send us, and you not disclose, any sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us. In those cases where we may request or invite you to provide sensitive information, we will do so with your express consent.
+
+**UPDATES TO THIS PRIVACY POLICY**  
+We may change this Privacy Policy. Please take a look at the Last Update legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+**CONTACTING US**  
+If you have any questions about this Privacy Policy, please contact us via one of these methods:
+
+  * On the Site, via the CONTACT US section, if available
+  * or by phone: For Consumers and Professionals:
+  * If you are in the US, call toll-free 800-361-8068, Monday to Friday, 9am to 7pm ET. If you are outside of the US, click <https://www.ccc-consumercarecenter.com/phone_us> to contact us.
+  * or please write to the following address:  
+Consumer Care Center, 199 Grandview Road, Skillman, NJ 08558
+
+
+
+© Johnson & Johnson Consumer, Inc. 2015.
+
+**Changes to this Privacy Policy  
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.**
