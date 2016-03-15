@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the allfreecasserolerecipes.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216233951id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecasserolerecipes.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315031046id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCasseroleRecipes.com
 
 **Privacy Policy / Your California Privacy Rights**  
-Revised and posted as of November 9, 2015
+Revised and posted as of January 11, 2016
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -66,6 +66,8 @@ We may serve advertisements to you based, in part, on your IP address, the demog
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Company allows firms including [Google](http://www.google.com/), [LiveRamp](http://www.liveramp.com/), [Datonics](http://www.datonics.com/), and [Magnetic](http://www.magnetic.com/) to monitor Company web sites and newsletters for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities. These firms may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Company users.  Users may go to each firm’s site/URL for information on what is being tracked. Users may go to each firm’s site for information on how to opt-in or opt-out of use of their information and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third-party tracking.
+
+EU Residents: By using our website you consent to us sharing a hashed, non-human readable version of your email with our partners who will drop a cookie on your browser and match your email with its marketing file to create a link between your browser and our partner’s record of you; this link shall be shared by our partner globally for the purpose of improving the relevance of online advertising and content by third parties that are unaffiliated with our website. Please [click here](http://www.youronlinechoices.com/uk/) to opt out of your data being used for this purpose. This link will direct you to our partner's opt-out centre.
 
 **Pre-select/Pre-fill Offers**  
 Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.
