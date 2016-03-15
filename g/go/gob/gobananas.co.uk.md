@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012223636id_/http%3A//www.gobananas.co.uk/privacy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315020339id_/http%3A//www.gobananas.com/privacy-a-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies
+# Privacy & Cookies - GoBananas
 
 This Privacy and Cookie Policy explains how HelpMeGo To Limited trading as GoBananas uses personal information we collect and how you can limit our use of that personal data.
 
