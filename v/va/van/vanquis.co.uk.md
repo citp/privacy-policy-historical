@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907100910id_/http%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315220410id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
 # Vanquis - Privacy & Cookies
 
 **4th November 2014**
 
-This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0330 099 3000 ([Please click here for opening hours and call charge information](http://www.vanquis.co.uk/contact-us/telephone-number-and-call-charge-information)) before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions. 
+This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0330 099 3000 ([Please click here for opening hours and call charge information](https://www.vanquis.co.uk/contact-us/telephone-number-and-call-charge-information)) before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions. 
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. “We/our/us” refer to Vanquis Bank Limited (Company number 02558509) whose registered office is at No. 1 Godwin Street, Bradford, West Yorkshire BD1 2SU is a member of the Provident Financial Group (the Group). The Group is a financial services group specialising in the provision of short to medium term retail consumer loans.
 
@@ -386,7 +386,7 @@ ASP.NET_SessionId
 
 This is used to supply images for our news section.  
   
-Criteo
+[Criteo](http://www.criteo.com/privacy/full-privacy-text/)
 
 | 
 
@@ -396,7 +396,7 @@ widget.criteo.com
 
 This is used to provide information about your visit to our websites so we can show you advertising that is relevant to you.  
   
-Criteo
+[Criteo](http://www.criteo.com/privacy/full-privacy-text/)
 
 | 
 
