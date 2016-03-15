@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910122945id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315154150id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - My Pet Chicken
 
@@ -22,7 +22,7 @@ Phone Number
 Etc.  
 
 
-This website uses remarketing service (such as Google AdWords and AdRoll) to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/). 
+This website uses remarketing service (such as Google AdWords, Criteo and AdRoll) to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/). 
 
 This website uses Google Analytics to track general website usage and behvior. No personally identifiable information is collected or linked, but agregate demographic information, based on users' browsing history, may be collected. You can set preferences for the information Google collects at [Google Preferences page](http://www.google.com/settings/ads/onweb/)
 
