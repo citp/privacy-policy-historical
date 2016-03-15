@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the maxmailhq.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516002318id_/https%3A//www.maxmailhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmailhq.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315151029id_/https%3A//www.maxmailhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxmail
 
-This policy sets out the way that Optimizer collects and uses information collected on this website.
+This policy sets out the way that CyberCom Global collects and uses information collected on this website.
 
  **Information Collection**
 
-Optimizer is the sole owner of any information collected.
+CyberCom Global is the sole owner of any information collected.
 
-In order to provide this service to you Optimizer collects information from its users at various points on our website:
+In order to provide this service to you CyberCom Global collects information from its users at various points on our website:
 
   * Account registration: when registering to use the website users are required to provide their name and contact information such as an email address. This is used to verify their identity (by sending a confirmation email) and to contact them about our services for example if we have problems processing a credit card payment.
   * Account activation: in order to activate the account the user must provide valid credit card details including the number and expiry date. This information is used for credit reference enquiries and billing purposes 
@@ -19,11 +19,11 @@ We will not sell, share, or rent your information to third parties.
 
  **Changes to Your Personal Information and Cancelling Your Account**
 
-You can cancel your account, or change or update any of the personal information that you have provided to us by notifying us through the website, emailing us at [customersupport@optimizerhq.com](mailto:customersupport@optimizerhq.com), or by contacting us by phone or post.
+You can cancel your account, or change or update any of the personal information that you have provided to us by notifying us through the website, emailing us at [enquiries@cybercomglobal.com](mailto:enquiries@cybercomglobal.com), or by contacting us by phone or post.
 
 Cancellation of your account is subject to the terms set out in the Service Agreement concerning notice periods and billing.
 
- **Communication from Optimizer**
+ **Communication from CyberCom Global**
 
 You can elect to subscribe to newsletters from us. If you no longer wish to receive these there is a “unsubscribe” option at the bottom of the email which you can select if you want to opt out of receiving newsletters.
 
@@ -31,7 +31,7 @@ From time to time we may need to send you information about our service, which w
 
  **Cookies**
 
-A cookie is a piece of data stored on the your hard drive containing information about the you. By setting a cookie on our site you do not have to log in your password more than once which saves you time while on the site. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once you close your browser, the cookie simply terminates. Optimizer's website automatically logs you out of a secure session after 2 hours of inactivity.
+A cookie is a piece of data stored on the your hard drive containing information about the you. By setting a cookie on our site you do not have to log in your password more than once which saves you time while on the site. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once you close your browser, the cookie simply terminates. CyberCom Global's website automatically logs you out of a secure session after 2 hours of inactivity.
 
  **Log Files**
 
@@ -63,9 +63,9 @@ We retain the personal information you have provided for as long as your account
 
 **Security**
 
-Optimizer employs high levels of security to ensure that your personal information is protected both online and offline. We encrypt sensitive information such as credit card information and secure pages are locked and we ensure that our office environment is secure with restricted access and password protected computers. We place a high emphasis on staff training in privacy and security issues. 
+CyberCom Global employs high levels of security to ensure that your personal information is protected both online and offline. We encrypt sensitive information such as credit card information and secure pages are locked and we ensure that our office environment is secure with restricted access and password protected computers. We place a high emphasis on staff training in privacy and security issues. 
 
-Users should be aware that although Optimizer takes every practicable precaution no data transmission over the internet is ever 100% safe. Use of the Service is entirely at the User’s own risk. 
+Users should be aware that although CyberCom Global takes every practicable precaution no data transmission over the internet is ever 100% safe. Use of the Service is entirely at the User’s own risk. 
 
 **Changes to the Privacy Policy**
 
