@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018093851id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315053758id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - British Gas
 
@@ -42,7 +42,7 @@ If you’re thinking about changing suppliers, we’ll pass your information on 
 
 These organisations may then pass this information on to local authorities to meet building regulations. Or they might contact you to inspect your appliances or systems, recall faulty products, carry out audits or for health and safety reasons. Wherever it’s appropriate, we’ll give you or the property owner (or both) a certificate to show that your appliances and systems meet building regulations.
 
-3.7 We’ll check your details with credit reference and fraud prevention agencies to help us make decisions about whether or not you’re eligible to make payments on our goods and services. There’s a brief guide below on how we’ll use your information with these agencies – but you can find the full version in our terms and conditions. Or phone us on 0800 048 0202 and we’ll send you a leaflet all about it.
+3.7 We’ll check your details with credit reference and fraud prevention agencies to help us make decisions about whether or not you’re eligible to make payments on our goods and services. There’s a brief guide below on how we’ll use your information with these agencies – but you can find the full version in our terms and conditions. Or phone us on [0800 048 0202](tel:08000480202) and we’ll send you a leaflet all about it.
 
 a. We’ll search credit reference and fraud prevention agencies for information about you or the people you’re applying for an account with. (So if you’re filling out a joint application with someone else, make sure they know and agree that we’ll use their information to do this.) If you use information that’s false or wrong, we might suspect fraud. In that case, we’ll pass your details on to credit reference and fraud prevention agencies. Law enforcement agencies (like the police and HM Revenue & Customers) can see and use this information too.
 
@@ -74,7 +74,7 @@ PO Box 491
 Leeds  
 LS3 1WZ
 
-Phone: 0870 060 1414  
+Phone: [0870 060 1414](tel:08700601414)  
 Website: [callcredit.co.uk](http://www.callcredit.co.uk/)
 
 Experian  
@@ -83,7 +83,7 @@ PO Box 8000
 Nottingham  
 NG80 7WF
 
-Phone: 0870 241 6212  
+Phone: [0870 241 6212](tel:08702416212)  
 Website: [experian.co.uk](http://www.experian.co.uk/)
 
 Equifax Plc  
@@ -92,7 +92,7 @@ PO Box 1140
 Bradford  
 BD1 5US
 
-Phone: 0844 335 0550  
+Phone: [0844 335 0550](tel:08443350550)  
 Website: [equifax.co.uk](http://www.equifax.co.uk/)
 
 4\. If you give us information on behalf of someone else, you’re confirming that you’ve given them the information in this policy, and that they’ve agreed for us to use their information in the way we describe in clause 10. If you give us sensitive information about yourself or other people (like health details or details of any criminal convictions) you agree – and confirm the person the information is about has agreed – that we can use this information in the ways set out in this document.
