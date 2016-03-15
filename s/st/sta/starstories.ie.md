@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starstories.ie privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701132416id_/http%3A//www.starstories.ie/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstories.ie privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315191113id_/http%3A//www.starstories.ie/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -45,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140701132416id_/http%3A//www.starstories.ie/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20160315191113id_/http%3A//www.starstories.ie/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
