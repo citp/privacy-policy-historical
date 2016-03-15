@@ -1,65 +1,86 @@
-> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225132900id_/http%3A//www.acecashexpress.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315042015id_/https%3A//www.acecashexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ACE Cash Express, Inc. understands that your privacy is very important to you. We want every customer, associate, and vendor to know how we protect a customer's financial privacy. This policy exists so that everyone can understand what our business practices are in handling the nonpublic personal information that is provided to ACE. ACE has one privacy policy for consumers that applies to all of ACE's brands, locations, companies, and subsidiaries.
+  
+**FACTS** | **WHAT DO THE ACE CASH EXPRESS COMPANIES DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+Why?  | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
+What?  | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-ACE's policy applies to all nonpublic personal information about a customer that is obtained by ACE in connection with providing you with financial products or services. Our policy will continue to cover nonpublic personal information we may collect during the course of the customer relationship with ACE as well as after the relationship has ended.
-
-ACE depends on a variety of sources of information to meet our obligation of providing efficient and appropriate levels of service. We collect information about you from:
-
-  * information you provide us on new customer cards, applications, and account set-up screens, such as your name, address, telephone number, Social Security number and other information you provide to us; and
-  * information about your transactions with us, our affiliates, or other nonaffiliated third parties, including how often you visit our stores, your recent transactions, size of checks, telephone requests, services purchased and other retail transaction information.
-
-
-
-ACE restricts access to nonpublic personal information about you to employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
-
-In order to provide you with the products or services you request or to make you aware of financial products or services that might be of interest to you, we may disclose the information we collect, as described above, to companies that perform administrative or marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. These companies are not permitted to use or share this information for any other purpose. We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law. We want you to know that we do not sell customers' names, addresses, telephone numbers or any other information to telephone solicitors, sales organizations, mailing lists sellers, database marketers or others.
-
-If you have any questions about our privacy policy, you may write to Vice President of Compliance, ACE Cash Express, Inc., 1231 Greenway Drive Suite 600, Irving, TX 75038 or call 1-866-223-2274.
+  * Social Security number and checking account information 
+  * transaction history and income 
+  * credit history and assets 
 
   
+How?  | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons the ACE Cash Express Companies choose to share; and whether you can limit this sharing.   
+Reasons we can share your personal information  | Do the ACE Cash Express Companies share?  | Can you limit this sharing?   
+---|---|---  
+**For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  | Yes  | No   
+**For our marketing purposes** – to offer our products and services to you  | Yes  | No   
+**For joint marketing with other financial companies** | Yes  | No   
+**For our affiliates' everyday business purposes** – information about your transactions and experiences  | Yes  | No   
+**For our affiliates' everyday business purposes** – information about your credit worthiness  | Yes  | Yes   
+**For our affiliates to market to you** | Yes  | Yes   
+**For nonaffiliates to market to you** | Yes  | Yes   
+To limit our sharing  | 
 
+  * Call 800-224-4338 – our menu will prompt you through your choice(s) 
 
-* * *
+**Please note:**   
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. 
 
-Web and E-Marketing Privacy Policy Statement of ACE Cash Express, Inc.
+However, you can contact us at any time to limit our sharing.   
+  
+---|---  
+Who we are   
+---  
+Who is providing this notice?  | Check-cashing, payday advance providers, vehicle secured credit providers, creditors, and financial service providers operating under the ACE Cash Express name as set forth below.   
+What we do   
+---  
+How does ACE Cash Express protect my personal information?  | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.   
+How does ACE Cash Express collect my personal information?  | We collect your personal information, for example, when you 
 
-Our postal address is  
-1231 Greenway Drive, Suite 600  
-Irving, TX 75038  
+  * apply for a loan or make a wire transfer 
+  * apply for insurance or show us your government issued ID 
+  * pay your bills 
 
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+Why can't I limit all sharing?  | Federal law gives you the right to limit only 
+
+  * sharing for affiliates' everyday business purposes – information about your creditworthiness 
+  * affiliates from using your information to market to you 
+  * sharing for non-affiliates to market to you 
+
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
+What happens when I limit sharing for an account I hold jointly with someone else?  | Your choices will apply to everyone on your account.   
+Definitions   
+---  
+Affiliates  | Companies related by common ownership or control. They can be financial and non-financial companies. 
+
+  * Our affiliates include financial companies operating under the ACE or ACE Cash Express name. 
 
   
+Non affiliates  | Companies not related by common ownership or control. They can be financial and non-financial companies. 
 
+  * Non-affiliates we share with can include lenders; banks; collection agencies; check-cashers; tax preparers; brokers; pawnbrokers; rent-to-own, mortgage and insurance companies; and retailers. 
 
-We can be reached via e-mail at [aceonline@acecashexpress.com](mailto:aceonline@acecashexpress.com) or you can reach us by telephone at 888-753-2384
+  
+Joint Marketing  | A formal agreement between non-affiliated financial companies that together market financial products or services to you. 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+  * Our joint marketing partners include lenders; banks; tax preparers; brokers; pawnbrokers; mortgage companies; and retailers. 
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
+  
+Other important information   
+---  
+**Notice to California Residents**  
+Pursuant to state law, we may not share information we collect about you with affiliated or non-affiliated third parties, except in the limited circumstances permitted under state law, or if you give us your permission.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, and used by us to contact consumers for marketing purposes.
+**California Civil Code Section 1798.83, also known as S.B. 27, allows California residents to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at 1-800-224-4338 or ACE Cash Express, Inc., 1231 Greenway Dr., Suite #600, Irving, TX 75038.**
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site.
-
-If you do not want to receive e-mail from us in the future, please let us know by calling us at the above telephone number.
-
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address.
-
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
-
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by calling us at the above telephone number.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-**_LAST UPDATED: April 14, 2008_**
+**Provided by the following companies:** ACE Cash Express, Inc., ACE Credit Services, LLC, ACE Cash Express Insurance Services LLC, ACE Minnesota Corp., ACE Virginia Title Loans LLC, ACE South Carolina LLC, ACE Cash Express Title Loans LLC, ACE Finance Company LLC, ACE Credit Access LLC, and FSH Credit Services LLC.  
+  
+Questions?  | Call 800-224-4338   
+---|---  
+  
+LAST UPDATED: 01/2012 
