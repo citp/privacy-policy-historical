@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202153700id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315045713id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
 
 # NorthCountryNow.com Privacy Notice | NorthCountryNow
 
