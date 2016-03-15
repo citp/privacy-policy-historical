@@ -1,35 +1,114 @@
-<!--The following is the downloaded HTML source of the feedsguru.com privacy policy that was archived on 2015-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122033455id_/http%3A//www.feedsguru.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedsguru.com privacy policy that was archived on 2016-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315211436id_/http%3A//feedsguru.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-	<!--<meta name="robots" content="noindex">-->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="shortcut icon" href="/sites/all/themes/feedsguru/fav.png" type="image/x-icon">
-	<link rel="icon" href="/sites/all/themes/feedsguru/fav.png" type="image/x-icon">
-	<title>Privacy Policy for Feedsguru.com</title>	
-	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,500,700italic" rel="stylesheet" type="text/css">
-		<style type="text/css" media="all">
-@import url("http://www.feedsguru.com/modules/system/system.base.css?ny17k7");
-@import url("http://www.feedsguru.com/modules/system/system.menus.css?ny17k7");
-@import url("http://www.feedsguru.com/modules/system/system.messages.css?ny17k7");
-@import url("http://www.feedsguru.com/modules/system/system.theme.css?ny17k7");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.feedsguru.com/modules/field/theme/field.css?ny17k7");
-@import url("http://www.feedsguru.com/modules/node/node.css?ny17k7");
-@import url("http://www.feedsguru.com/modules/user/user.css?ny17k7");
-@import url("http://www.feedsguru.com/sites/all/modules/contrib/views/css/views.css?ny17k7");
-@import url("http://www.feedsguru.com/sites/all/modules/contrib/ckeditor/css/ckeditor.css?ny17k7");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.feedsguru.com/sites/all/modules/contrib/ctools/css/ctools.css?ny17k7");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.feedsguru.com/sites/all/themes/feedsguru/css/normalize.css?ny17k7");
-@import url("http://www.feedsguru.com/sites/all/themes/feedsguru/css/style.css?ny17k7");
-</style>
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<!DOCTYPE html><html class="js"><head>
+<meta name="robots" content="noindex">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy for Feedsguru.com</title>
+<link rel="shortcut icon" href="/sites/all/themes/feedsguru/img/fav.png" type="image/x-icon">
+<link rel="icon" href="/sites/all/themes/feedsguru/img/fav.png" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="google-site-verification" content="2_cA_u41UCHr-VqRVdpKVrKVobLC6BlNo5KBTCYp1As">
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/geoip"></script>
+<script type="text/javascript">
+		var ads_language = "en";	
+	</script>
+<script type="text/javascript">
+		(function(){    
+			function SCTRACK_init () {
+			  
+			  this.track_name = 'sctrack';
+			  
+			  this.out = {
+				'affs' : (getQbyName('affs').length) ? getQbyName('affs') : null      
+			  };
+			  
+			  this.ex_cookie = readcookie(this.track_name);
+			  
+			  this.ex_storage = readLocalStorage(this.track_name)
+			  
+			  this.saveTrack = function() 
+			  {
+				deletecookie(this.track_name);
+				deleteLocalStorage(this.track_name);     
+				
+				var out = JSON.stringify(this.out);
+				savecookie(this.track_name, out);
+				saveLocalStorage(this.track_name, out);
+			  };
+			  
+			  this.getTrack = function() {
+				var out = readcookie(this.track_name);
+				if (out == null) out = readLocalStorage(this.track_name);
+				
+				if (out != null) {
+				  out = JSON.parse(out);        
+				}
+				
+				return out;
+			  };
+			  
+			}
+			
+			var SCTRACK = new SCTRACK_init();
+			
+			if (getQbyName('affs').length) {
+			  var out = JSON.stringify(SCTRACK.out);
+			  SCTRACK.saveTrack(out);
+			}
+			
+			function getQbyName(name)
+			{
+			  name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+			  var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+				  results = regex.exec(location.search);
+			  return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+			}
+			
+			function savecookie(name, value, days) 
+			{
+			  var date = new Date();
+			  date.setTime(date.getTime() + (((typeof(days) != "undefined") ? days : 3) * 24 * 60 * 60 * 1000));
+			  var expires = "; expires=" + date.toGMTString();
+			  document.cookie = name + "=" + value + expires + "; path=/;domain=" + document.domain;
+			}
+			
+			function readcookie(name) 
+			{
+			  var re = new RegExp("(?:^| )" + name + "=([^;]*)", "i");
+			  var matches = document.cookie.match(re);
+			  return (matches && matches.length == 2) ? matches[1] : null;
+			}
+		  
+			function deletecookie(name) 
+			{
+				savecookie(name, "", -1);
+			}
+			
+			function saveLocalStorage(name, value) 
+			{
+			  if (typeof(Storage) == "undefined") return;
+			  localStorage.setItem(name, value);
+			}
+			
+			function readLocalStorage(name) 
+			{
+			  if (typeof(Storage) == "undefined") return null;
+			  return localStorage.getItem(name);
+			}
+			
+			function deleteLocalStorage(name) 
+			{
+			  if (typeof(Storage) == "undefined") return;
+			  localStorage.removeItem(name);
+			} 
+			
+			window.SCTRACK = SCTRACK;
+		  })();
+	</script>
+<style>@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/zN7GBFwfMP4uA6AR0HCoLQ.ttf) format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:700;src:local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC50EAVxt0G0biEntp43Qt6E.ttf) format('truetype');}</style>
+<style>html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;}body{margin:0;}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block;}audio,canvas,progress,video{display:inline-block;vertical-align:baseline;}audio:not([controls]){display:none;height:0;}[hidden],template{display:none;}a{background-color:transparent;}a:active,a:hover{outline:0;}abbr[title]{border-bottom:1px dotted;}b,strong{font-weight:bold;}dfn{font-style:italic;}h1{font-size:2em;margin:0.35em 0;}mark{background:#ff0;color:#000;}small{font-size:80%;}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}sup{top:-0.5em;}sub{bottom:-0.25em;}img{border:0;}svg:not(:root){overflow:hidden;}figure{margin:1em 40px;}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0;}pre{overflow:auto;}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em;}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0;}button{overflow:visible;}button,select{text-transform:none;}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer;}button[disabled],html input[disabled]{cursor:default;}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}input{line-height:normal;}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto;}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em;}legend{border:0;padding:0;}textarea{overflow:auto;}optgroup{font-weight:bold;}table{border-collapse:collapse;border-spacing:0;}td,th{padding:0;}</style><style>body{font-family:'Roboto',sans-serif;font-size:16px;line-height:24px;font-weight:300;color:#333333;background-color:#FFF;}.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}.element-invisible{position:absolute!important;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);overflow:hidden;height:1px;}.item-list .pager{clear:both;text-align:center;}.tabs{width:auto;position:fixed;z-index:101;bottom:0;left:0;}.tabs ul.primary{border:none;margin:0;}#menu-togle{display:none;}p{margin:0 0 10px 0;}ul{padding:0;margin:0;list-style:none;}.fright{float:right;}.fleft{float:left;}#wrapper{width:100%;margin:0 auto;padding:0;}#wrapper.page404{background:#0987dc;}#page404notfound>img{width:100%;}header{position:fixed;left:0px;top:0px;z-index:100;display:block;height:65px;max-height:65px;width:100%;background:#fff;-webkit-box-shadow:0px 5px 12px -1px rgba(0,0,0,0.3);-moz-box-shadow:0px 5px 12px -1px rgba(0,0,0,0.3);box-shadow:0px 5px 12px -1px rgba(0,0,0,0.3);}footer{width:100%;margin-top:20px;background:#313131;color:#b3b3b3;height:95px;line-height:95px;}footer .inner-footer{position:relative;}#footer-logo{background:url("/sites/all/themes/feedsguru/img/footer_logo.png") no-repeat 0 0 transparent;width:90px;height:75px;position:absolute;top:10px;left:0;}footer ul{margin:0;padding:0;list-style:none;}footer ul li{display:inline-block;margin-right:25px;}footer ul li a{color:#b3b3b3;text-decoration:none;font-size:16px;}#footer-main-menu{float:left;margin-left:115px;}#footer-secondary-menu{float:right;}.admin-menu header{top:21px;}#logo{width:249px;margin-top:6px;display:block;text-decoration:none;height:50px;float:left;}#logo>img{width:100%;}.inner-header,.inner-footer,#main-wrapper{width:1170px;margin:0 auto;}#main-menu{float:right;}#main-menu li{float:left;height:65px;line-height:65px;text-align:center;}#main-menu li.facebookapps{background:#3f51b5;}#main-menu li.feeds{background:#2196f3;}#main-menu li.quizzes{background:#232e6b;}#main-menu a{padding:0 22px 11px 22px;color:#fff;font-size:16px;letter-spacing:1px;text-decoration:none;text-transform:uppercase;font-weight:bold;}#main-wrapper{padding:65px 10px 10px;}main{width:770px;padding:20px 0;margin:0 30px 0 0;float:left;}aside{width:370px;float:left;background:transparent;margin:20px 0 0 0;-webkit-box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);-moz-box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);padding-bottom:40px;}.post-title,h2{font-size:40px;line-height:48px;font-weight:700;margin:0 0 10px 0;color:#2196F3;}.createdandtags{font-family:Tahoma,'Helvetica Neue',Helvetica,sans-serif;color:rgba(0,0,0,0.34);font-size:12px;line-height:10px;}.createdandtags *{display:inline-block;}.createdandtags a{text-decoration:none;border:1px solid rgba(0,0,0,0.18);color:rgba(0,0,0,0.34);padding:4px 7px;border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;margin:0 3px;}#feed img{margin:0 auto;max-width:100%;display:block;height:auto!important;padding-top:15px!important;padding-bottom:15px!important;}#pager{width:100%;}#pager li{float:left;}.feed-pager{width:40%;}.counter{width:20%;}#pager.balagan .feed-pager{width:auto;}#pager.balagan .feed-pager.prev a{float:right;margin-right:10px;}#pager.balagan .counter span{width:auto;margin-left:10px;}#pager.balagan .counter{width:auto;padding-left:10px;color:#0066B2;font-size:18px;}.feed-pager a{width:62px;background-color:#9F9F9F;color:white;height:47px;font-size:16px;font-weight:300;text-align:center;text-decoration:none;display:inline-block;line-height:22px;text-transform:uppercase;transition:all 0.3s;-webkit-transition:all 0.3s;-moz-transition:all 0.3s;-webkit-border-radius:12px;border-radius:12px;text-indent:-99999px;}.feed-pager.prev a{float:right;background:url('/sites/all/themes/feedsguru/img/arrow_prev.png') no-repeat 44% 50% #B3B3B3;}.feed-pager.next a{float:left;background:url('/sites/all/themes/feedsguru/img/arrow_next.png') no-repeat 55% 50% rgba(71,119,167,0.51);}.feed-pager a:hover{background-color:#8699AB;}.counter span{width:100%;display:inline-block;text-align:center;line-height:39px;font-size:24px;color:#747474;}.banner{margin:15px 0;height:auto;width:100%;text-align:center;}.banner.bottom{margin:1px 0;padding-top:10px;padding-bottom:10px;}aside .banner{margin:10px auto;width:100%;height:auto;}#feed{word-break:break-word;}#inner-content.unpublished{background-color:#FFE7E7;}#feeds-hub-view .view-content>div{padding:20px;border-bottom:1px solid #E8E8E8;}#feeds-hub-view .view-content>div:last-child{border:none;}#feeds-hub-view .teaser-img{width:300px;height:168px;float:left;}#feeds-hub-view .teaser-img img{width:100%;height:auto;max-height:168px;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;}#feeds-hub-view .content-holder{float:left;margin-left:20px;width:410px;}#feeds-hub-view .teaser-title,#feeds-hub-view .teaser-body,#feeds-hub-view .createdandtags{width:100%;float:none;}#feeds-hub-view .teaser-title a,#feeds-hub-view .teaser-body a{text-decoration:none;color:#333;}#feeds-hub-view .teaser-body{margin:0 0 10px 0;}#feeds-hub-view .view-content>div:hover{background:#fcfcfc;cursor:pointer;}#feeds-hub-view .view-content>div:hover .teaser-title a,#feeds-hub-view .view-content>div:hover .teaser-body{color:#0050b8;}#feeds-hub-view.view-display-id-apps_view .view-content>div{float:left;border-bottom:none;padding:10px 0;}#feeds-hub-view.view-display-id-apps_view .view-content>div:hover{background:none;cursor:default;}#feeds-hub-view.view-display-id-apps_view .view-content>div.views-row-odd{padding-right:40px;}#feeds-hub-view.view-display-id-apps_view .view-content>div>a{display:block;line-height:0;padding:5px;background:#fff;font-weight:normal;box-shadow:#7a7a7a 1px 1px 9px -3px;-webkit-box-shadow:#7a7a7a 1px 1px 9px -3px;-moz-box-shadow:#7a7a7a 1px 1px 9px -3px;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;position:relative;}#feeds-hub-view.view-display-id-apps_view .view-content>div>a>.startapp{display:none;position:absolute;background:url("/sites/all/themes/feedsguru/img/start_app.jpg") no-repeat 0 0 transparent;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;width:280px;height:200px;}#feeds-hub-view.view-display-id-apps_view .view-content>div>a:hover>.startapp{display:block;}#feeds-hub-view.view-display-id-apps_view .view-content>div>a>img{border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;width:280px;height:200px;}.view-related-articles{width:300px;max-width:300px;margin:0 auto;}.view-related-articles img{margin:0 auto;display:block;width:100%;max-width:300px;height:auto;max-height:168px;border-radius:0px 0px 0 0;-webkit-border-radius:0px 0px 0 0;-moz-border-radius:0px 0px 0 0;}.view-related-articles a{color:#000;text-decoration:none;font-weight:700;font-size:14px;margin:0;padding:0 0 20px 0;display:block;width:100%;border-bottom:1px solid #d0d0d0;}.view-related-articles .views-row-last>a{border:none;}#num-pager{width:auto;float:right;margin-top:10px;}#num-pager li{padding:0;display:inline-block;width:45px;height:45px;line-height:45px;border:1px solid #e0e0e0;font-size:22px;margin:0 8px 8px 0;text-align:center;}#num-pager a{text-decoration:none;color:#000;}#num-pager li.active,#num-pager li:hover{background-color:#3f51b5;}#num-pager li.active a,#num-pager li:hover a{color:#fff;}#face-introduction h1{color:#3F51B5;font-size:40px;font-weight:700;width:85%;margin:0 auto 30px auto;text-align:center;line-height:50px;}#face-introduction .fb-like{width:100%;text-align:center;}#app-intro-text{background:#e9eaed;text-align:center;font-size:16px;font-weight:300;color:#000;padding:20px 0;}#face-introduction #fbLoginBtn,#quiz-intro #fbLoginBtn,#fbReaskPerimssion,.fbShareBtn,#tryAgain{display:none;width:40%;height:28px;margin:20px auto;padding:9px 15px 4px 40px;border:1px solid #00397a;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;background:url("/sites/all/themes/feedsguru/img/fbbtn.png") no-repeat 0px 50% #004fac;color:white;text-align:center;cursor:pointer;}#face-introduction #fbLoginBtn,#quiz-intro #fbLoginBtn{margin:10px auto 5px auto;}.not-front .region.region-content{padding-top:10px;-webkit-box-shadow:0px 0px 0px 0px rgba(0,0,0,0.3);-moz-box-shadow:0px 0px 0px 0px rgba(0,0,0,0.3);box-shadow:0px 0px 0px 0px rgba(0,0,0,0.3);}.not-front.node-type-apps-hub .region.region-content{box-shadow:none;padding-top:0;}#fbReaskPerimssion{display:block;}.fbShareBtn{margin:20px auto;width:50%;font-size:22px;line-height:40px;height:48px;}#tryAgain{background-image:none;background-color:#c7c7c7;display:block;padding:9px 0;border:#fff;width:100%;text-decoration:none;}#face-introduction img{width:90%;height:auto;margin:0 auto 10px auto;display:block;}#face-introduction .banner{width:640px;height:280px;margin:15px auto;}#face-main{width:90%;margin:0 auto;display:none;padding-top:20px;}#face-profiles ul{width:774px;position:absolute;margin:-167px 0 0 -387px;left:50%;top:51%;height:380px;overflow-y:auto;background:#fff;-webkit-box-shadow:0px 0px 17px 6px rgba(0,0,0,0.75);-moz-box-shadow:0px 0px 17px 6px rgba(0,0,0,0.75);box-shadow:0px 0px 17px 6px rgba(0,0,0,0.75);}#face-profiles li{float:left;padding:0;margin:2px;width:80px;height:80px;}#face-profiles li img{width:100%;height:auto;cursor:pointer;transition:all 0.2 ease-in-out;-webkit-transition:all 0.2 ease-in-out;-moz-transition:all 0.2 ease-in-out;}#face-profiles li img:hover,#face-profiles li img.selected{box-shadow:inset 0 0 10px 10px #000;}#face-profiles-search{position:absolute;width:754px;margin:-210px 0 0 -387px;top:50%;left:50%;height:30px;font-size:16px;padding:3px 5px;line-height:30px;border:1px solid #868686;color:#828080;border:1px solid;border-radius:4px;padding-left:13px;-webkit-box-shadow:0px 0px 8px 2px rgba(255,255,255,1);-moz-box-shadow:0px 0px 8px 2px rgba(255,255,255,1);box-shadow:0px 0px 8px 2px rgba(255,255,255,1);}#face-canv{text-align:center;width:100%;}#demo-holder{display:inline-block;position:relative;}#demo-holder .canv{width:100%;}#face-prof-selceted{width:92%;margin:0 auto;position:absolute;top:24.4%;padding:0 3% 0 5%;text-align:center;}.page-simon #face-prof-selceted{width:100%;top:49.5%;padding:0;}.page-simon #face-submiter{display:block;background-image:none;}#simon-tasks{display:none;}#face-prof-selceted>img{width:19.2%;border:10px solid #fff;margin-right:2%;border-radius:7px;-webkit-border-radius:7px;-moz-border-radius:7px;height:auto;}.page-simon #face-prof-selceted>img{width:19.2%;margin-right:26.5%;border:none;border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;}#logintofb.hide{display:none;}#facecontrollers{width:100%;max-width:800px;margin:0 auto;}#facecontrollers li{width:50%;text-align:center;float:left;min-height:5px;}#face-submiter,#faceaddfriend{width:95%;float:right;margin:10px auto;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;text-align:center;height:40px;display:none;color:#FFF;cursor:pointer;line-height:40px;}#face-submiter{border:1px solid #00397a;background:url("/sites/all/themes/feedsguru/img/fbbtn.png") no-repeat 0px 50% #004fac;position:relative;}#face-submiter>span{position:absolute;bottom:-30px;color:#000;width:97%;font-size:9px;font-weight:bold;left:0;}#faceaddfriend{float:left;display:block;background:url("/sites/all/themes/feedsguru/img/addfriend-btn.png") no-repeat 0 50% #63ba00;border:1px solid #4b8c00;}#face-out,#faceProfilesWrapper,#face-pofiles-wrapper,#face-out-tmp{display:none;}#faceresult-wrapper{text-align:center;width:90%;margin:20px auto;}#faceresult-wrapper>img{width:100%;max-width:800px;}#faceresult-wrapper li{text-align:center;}#faceresult-wrapper .fb-like{display:block;padding-top:15px;}#faceresult-wrapper li>strong{line-height:18px;font-size:26px;display:inline-block;width:90%;padding-top:12px;}#totalOver{position:fixed!important;top:0;left:0;width:100%;height:100%;background:rgba(255,255,255,1);display:none;z-index:150;}#totalOver.addfriendpopup{background:rgba(0,0,0,0.66);}#totalOver>div{z-index:200;}#progress-loader{width:100%;height:200px;display:none;top:35%;left:0;position:absolute;margin:-200px 0 0 0;text-align:center;}#progres-desc{text-align:center;font-weight:bold;}#likeus{background:url("/sites/all/themes/feedsguru/img/likeus.png") no-repeat 0 0 transparent;position:fixed;right:0;bottom:0;width:300px;height:165px;display:none;}#likeus .fb-like{position:absolute;bottom:17px;right:40px;}#reask-perms{display:none;font-weight:bold;color:#000;width:90%;margin:20px auto;padding:2%;border:2px solid #FF2727;border-radius:10px;}#progress-banner{text-align:center;width:100%;}.neverpost{display:block;width:100%;text-align:center;font-size:12px;font-weight:bold;color:#000;}#after_content_region{width:100%;margin:40px 0 0 0;}.view-display-id-home_view .views-row,aside .view-id-fb_result_apps .views-row{width:370px;padding:0 0 25px 0;position:relative;}.view-display-id-home_view .views-row>a,aside .view-id-fb_result_apps .views-row>a{display:block;text-decoration:none;line-height:0;}.view-display-id-home_view .views-row img{width:370px;height:250px;}.view-display-id-home_view .views-row.views-row-odd{float:left;}.view-display-id-home_view .views-row.views-row-even{float:right;}.view-display-id-home_view .app-play-now,aside .view-id-fb_result_apps .app-play-now{position:absolute;text-transform:uppercase;color:#fff;font-size:18px;border:1px solid #273581;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;background:#3f51b5;height:50px;line-height:50px;width:200px;text-align:center;top:225px;left:50%;margin:0 0 0 -100px;transition:background 0.2s ease;-webkit-transition:background 0.2s ease;-moz-transition:background 0.2s ease;}.view-display-id-home_view .views-row:hover .app-play-now{background:#5F6FCA;}.view-display-id-home_view .view-app-title,aside .view-id-fb_result_apps .view-app-title{padding:50px 30px 25px 30px;width:310px;text-align:center;-webkit-box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);-moz-box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);font-size:26px;color:#000;text-decoration:none;line-height:30px;font-weight:bold;}aside .view-id-fb_result_apps .view-app-title{box-shadow:none;}aside .view-id-fb_result_apps .view-footer{display:none;}#main-front-title,#aside-front-title{padding:25px;width:720px;color:#FFF;font-size:18px;text-transform:uppercase;background:#3f51b5;margin:0 0 20px 0;-webkit-box-shadow:0px 0px 0px 0px rgba(0,0,0,0.3);-moz-box-shadow:0px 0px 0px 0px rgba(0,0,0,0.3);box-shadow:0px 0px 0px 0px rgba(0,0,0,0.3);}#aside-front-title{background:#2196f3;width:320px;margin-left:-35px;}.sidebar-feed-footer{background:#2196F3;border-radius:0 0 5px 5px;-webkit-border-radius:0 0 5px 5px;-moz-border-radius:0 0 5px 5px;position:relative;height:26px;line-height:26px;}.related-title{font-size:16px;padding:5px 0 0 0;text-decoration:underline;color:#2196F3;text-align:center;}.hotfeed,.sidebar-feed-footer span{background:url('/sites/all/themes/feedsguru/img/is.png') no-repeat transparent;}.hotfeed{background-position:0 0;height:16px;width:16px;top:5px;left:10px;position:absolute;}.sidebar-feed-footer span{display:block;position:absolute;right:10px;bottom:7px;color:#fff;font-size:13px;padding:0 0 0 18px;background-position:-22px 6px;height:20px;}.view-related-articles .view-content>div{margin-bottom:20px;}#front-more-apps,#sidebar-more-link,.contact-us-btn{display:block;text-align:center;color:#FFF;text-decoration:none;background:#3f51b5;border:1px solid #273581;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;padding:25px 0;font-size:26px;text-transform:uppercase;font-weight:bold;}#sidebar-more-link{background:#2196f3;font-size:14px;padding:15px 0;border:none;}.contact-us-btn{max-width:300px;margin:40px auto;}.no-sidebars main{width:100%;}.node-type-apps-hub .view-display-id-home_view .views-row.views-row-odd,.node-type-apps-hub .view-display-id-home_view .views-row.views-row-even,.node-type-feed #after_content_region .view-display-id-home_view .views-row.views-row-odd,.node-type-feed #after_content_region .view-display-id-home_view .views-row.views-row-even{float:left;}.node-type-feed #after_content_region .view-display-id-home_view .views-row.views-row-odd{margin:0;}.node-type-apps-hub .view-display-id-home_view .views-row-2,.node-type-apps-hub .view-display-id-home_view .views-row-5,.node-type-apps-hub .view-display-id-home_view .views-row-8,.node-type-feed #after_content_region .view-display-id-home_view .views-row-2.views-row.views-row-even,.node-type-feed #after_content_region .view-display-id-home_view .views-row-5.views-row.views-row-odd,.node-type-feed #after_content_region .view-display-id-home_view .views-row-8.views-row.views-row-even{margin:0 30px;}.view .item-list .pager{margin:20px 0;}.view .item-list .pager:after{content:".";display:block;height:0;clear:both;visibility:hidden;}.view .item-list .pager li{padding:0;display:inline-block;width:45px;height:45px;line-height:45px;border:1px solid #e0e0e0;font-size:22px;margin:0 10px 0 0;}.view .item-list .pager li.pager-next,.view .item-list .pager li.pager-last,.view .item-list .pager li.pager-first,.view .item-list .pager li.pager-previous{width:auto;padding:0 10px;}.view .item-list .pager li.pager-next,.view .item-list .pager li.pager-last,.view .item-list .pager li.pager-first,.view .item-list .pager li.pager-previous{text-indent:-9999px;background-image:url('/sites/all/themes/feedsguru/img/next-pager.png');background-repeat:no-repeat;background-position:50% 42%;background-color:#535353;border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px;background-size:25%;min-width:80px;cursor:pointer;}.view .item-list .pager li.pager-previous{background-image:url('/sites/all/themes/feedsguru/img/prev-pager.png');}.view .item-list .pager li.pager-last{background-image:url('/sites/all/themes/feedsguru/img/last-pager.png');}.view .item-list .pager li.pager-first{background-image:url('/sites/all/themes/feedsguru/img/first-pager.png');}.view .item-list .pager li a{text-decoration:none;color:#000;}.view .item-list .pager li.pager-next,.view .item-list .pager li.pager-previous{background-size:17%;}.view .pager-current{background-color:#3f51b5;color:#fff;}.node-type-apps-hub .view-display-id-home_view{margin-top:128px;}#app_hub_view_title{position:absolute;left:0;width:100%;top:65px;background-color:#006cb4;color:#fff;text-align:center;line-height:40px;font-size:52px;z-index:2;padding:26px 0;}.admin-menu #app_hub_view_title{top:86px;}#app_hub_view_title span{font-size:26px;}.view-id-fb_result_apps .views-row.views-row-odd,.view-id-fb_result_apps .views-row.views-row-even{float:left;}aside .view-id-fb_result_apps .views-row.views-row-odd,aside .view-id-fb_result_apps .views-row.views-row-even{float:none;}.view-id-fb_result_apps .views-row.views-row-odd{margin:0 30px 0 0;}aside .view-id-fb_result_apps .views-row.views-row-odd{margin:0;}.view-id-fb_result_apps #front-more-apps{width:30%;margin:0 auto;}aside .view-id-fb_result_apps #front-more-apps{width:90%;}.banner.mob{display:none;}#app-layers{display:none;}.page-feeds aside,.page-feeds main,.page-quizzes main{margin-top:120px;padding:20px 0;}.page-feeds aside,.page-quizzes aside{margin-top:140px;}.node-type-feed aside,.node-type-feed main,.contact-us-page main,.node-type-personality-quiz main{margin-top:140px;padding:20px 0;}.node-type-feed aside,.node-type-personality-quiz aside{margin-top:160px;}.node-type-feed.not-front .region.region-content,.node-type-personality-quiz .region.region-content{padding:20px;}.media_embed,.media_embed iframe{width:100%!important;height:auto!important;min-height:250px;}.hub-page-banner{margin:10px auto;width:auto;height:auto;}.sidebar-likebox{width:95%;margin:10px auto;max-width:340px;}#totalOverBlack{position:fixed!important;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);display:none;z-index:150;}#fblikeus{background:#fff;width:95%;margin:0 auto;max-width:500px;text-align:center;padding:0;position:relative;z-index:160;top:30%;}#fblikeus .fblikeus-body .fb-like.fb_iframe_widget{margin:10px auto;}#fblikeus .fblikeus-title{background:#23589a;height:40px;position:relative;}#fblikeus .fblikeus-body{padding:10px 0;}.fblikeus-close{height:21px;width:21px;top:50%;margin:-10px 0 0 0;position:absolute;background:url('/sites/all/themes/feedsguru/img/sprite.png') no-repeat 0 -22px transparent;cursor:pointer;right:10px;}.fblikeus-fbinc{position:absolute;left:10px;height:22px;width:13px;background:url('/sites/all/themes/feedsguru/img/sprite.png') no-repeat 0 0 transparent;top:50%;margin:-11px 0 0 0;}#demo-holder.canvopenfriend{cursor:pointer;}.node-type-basic .region-content{padding:3% 5%;}.fbShareBtn.feeds-share-button{display:block;}.node-type-feed aside .view-id-fb_result_apps.view-display-id-home_view{margin:20px 0;}#progress-app{display:none;width:100%;background:#FFFFFF;padding:20px 0;text-align:center;}#progress-app>img{width:15%;}#app-result-bottom-ads{margin-bottom:30px;}#app-result-bottom-ads>div{width:336px;padding:17px;height:280px;float:left;box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);-webkit-box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);-moz-box-shadow:-1px 5px 18px 0px rgba(0,0,0,0.3);}#app-result-bottom-ads-leftads{margin-right:30px;}#after_content_region .view-related-articles{width:100%;max-width:100%;}#after_content_region .view-related-articles .view-content:after{content:".";display:block;height:0;clear:both;visibility:hidden;}#after_content_region .view-related-articles .view-content>div{float:left;width:370px;}#after_content_region .view-related-articles .view-content>div:nth-child(2),#after_content_region .view-related-articles .view-content>div:nth-child(5),#after_content_region .view-related-articles .view-content>div:nth-child(8){margin:0 30px;}#after_content_region .view-related-articles img{width:100%;max-width:370px;min-height:250px;}#after_content_region .view-related-articles .views-row-last>a{border-bottom:1px solid #d0d0d0;}.applogin-page aside{padding-bottom:0;}#progress-anime img{display:none;width:10%;height:auto;display:inline-block;}#contact-us-section{text-align:center;font-size:24px;padding-top:20px;font-weight:bold;}.contact-us-page footer{position:absolute;left:0;bottom:0;width:100%;}.preload-font{height:1px;}.post-title.quiz-title{color:#414eb4;text-align:center;margin-bottom:20px;}#quiz-wrapper{display:none;}.quiz-question{display:none;}.quiz-question.qq-1{display:block;}#quiz-intro{text-align:center;}#quiz-intro img{max-width:730px;}#quiz-intro #app-intro-text{margin-top:50px;}.quiz-question-header img{width:100%;height:auto;}.quiz-question-header-title{text-align:center;color:#3f51b5;font-size:36px;padding:20px 0 40px 0;font-weight:700;line-height:40px;}.quiz-img-box{border:1px solid #414eb4;cursor:pointer;margin-bottom:20px;width:340px;}.quiz-img-box.odd{float:right;}.quiz-img-box.even{float:left;}.quiz-img-box>img{display:block;}.quiz-img-box>div{border-top:1px solid #414eb4;text-align:center;padding:10px 10px;color:#4051b5;font-weight:bold;transition:all 0.2s ease-in-out;-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;}.quiz-img-box:hover>div{background:#414eb4;color:#FFF;}#quiz-counter{text-align:center;font-weight:700;padding:20px 0;font-size:26px;}.quiz-txt-box{padding:10px 10px;text-align:center;border:1px solid #414eb4;margin-bottom:10px;cursor:pointer;color:#4051b5;font-weight:bold;transition:all 0.2s ease-in-out;-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;}.quiz-txt-box:hover{background:#414eb4;color:#FFF;}#quiz-out,#quiz-loader{display:none;}#quiz-result-description>div{display:none;}#face-introduction #fbLoginBtn.waiting>div,#quiz-intro #fbLoginBtn.waiting>div{display:none;}#face-introduction #fbLoginBtn.waiting>img,#quiz-intro #fbLoginBtn.waiting>img{display:inline-block;height:90%;width:auto;}#quiz-result-description{margin:0 auto;color:#4051b5;font-weight:bold;padding:10px;}#face-introduction #fbLoginBtn,#quiz-intro #fbLoginBtn,.fbShareBtn{display:block;}#face-introduction #fbLoginBtn img,#quiz-intro #fbLoginBtn img{display:none;}#face-introduction #fbLoginBtn>div,#quiz-intro #fbLoginBtn>div{display:block;}.page-quizzes #app_hub_view_title,.node-type-personality-quiz #app_hub_view_title{background:#232e6b;}.node-type-apps-hub #app_hub_view_title{background:#3f51b5;}.page-feeds #app_hub_view_title,.node-type-feed #app_hub_view_title{background:#2196f3;}.quiz-txt-box,.quiz-img-box,.quiz-img-box>div{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;-moz-transition:all 0.1s ease;}.quiz-img-box.wrong,.quiz-txt-box.wrong,.quiz-img-box.wrong:hover,.quiz-txt-box.wrong:hover{border:1px solid #E0486A;}.quiz-txt-box.wrong,.quiz-img-box.wrong>div.quiz-img-box.wrong:hover>div,.quiz-txt-box.wrong:hover{background:#E0486A;color:#fff;}.quiz-img-box.wrong>div.quiz-img-box.wrong:hover>div{border-top:1px solid #E0486A;}.quiz-img-box.right,.quiz-txt-box.right,.quiz-img-box.right:hover,.quiz-txt-box.right:hover{border:1px solid #48E078;}.quiz-txt-box.right,.quiz-img-box.right,.quiz-img-box.right:hover>div,.quiz-txt-box.right:hover{background:#48E078;color:#fff;}.quiz-img-box.right>div.quiz-img-box.right:hover>div{border-top:1px solid #48E078;}@media (max-width: 768px) {header{min-height:0;height:auto;width:100%;}#logo{width:40%;margin-left:2%;height:auto;float:left;margin-top:10px;}#logo img{max-width:125px;}.inner-header,#main-wrapper{width:96%;}#main-menu{position:fixed;top:50px;left:0;width:100%;z-index:5;opacity:0;visibility:hidden;transition:all 0.5s;-webkit-transition:all 0.5s;-moz-transition:all 0.5s;-o-transition:all 0.5s;background:rgba(255,255,255,0.9);margin-top:0;}#main-menu>ul{position:static;}#main-menu li{width:100%;padding:10px 0;}#main-menu a{box-shadow:none;color:#FFF;}#main-menu li a:hover,#main-menu li a.active{padding:0 22px;border:none;}#main-menu #langs-menu li{float:left;}#langs-menu li.active{height:auto;}#menu-togle{display:block;width:28px;height:30px;float:right;margin-right:3%;margin-top:20px;}#menu-togle span:after,#menu-togle span:before{content:"";position:absolute;left:0;top:-9px;}#menu-togle span:after{top:9px;}#menu-togle span{position:relative;display:block;}#menu-togle span,#menu-togle span:after,#menu-togle span:before{width:100%;height:5px;background-color:#3f51b5;transition:all 0.3s;-webkit-transition:all 0.3s;-moz-transition:all 0.3s;backface-visibility:hidden;border-radius:2px;}#main-wrapper{padding:40px 2% 2%;}#menu-togle.on span{background-color:transparent;}#menu-togle.on span:before{transform:rotate(45deg) translate(5px,5px);-webkit-transform:rotate(45deg) translate(5px,5px);-moz-transform:rotate(45deg) translate(5px,5px);}#menu-togle.on span:after{transform:rotate(-45deg) translate(7px,-8px);-webkit-transform:rotate(-45deg) translate(7px,-8px);-moz-transform:rotate(-45deg) translate(7px,-8px);}#main-menu.on{opacity:1;top:50px;visibility:visible;}.front main,.page-taxonomy-term main,.page-feeds main,.page-apps main{width:100%;}main,.facerank-page main{margin:0;padding:2%;float:none;width:96%;}#feeds-hub-view .view-content>div{padding:5%;}#feeds-hub-view .teaser-img{width:100%;text-align:center;height:auto;}#feeds-hub-view .teaser-img img{max-width:370px;max-height:250px;}.front aside,.page-taxonomy-term aside,.page-feeds aside{width:100%;}#feeds-hub-view .teaser-title,#feeds-hub-view .teaser-body,#feeds-hub-view .createdandtags{float:none;width:100%;}aside{width:100%;float:none;text-align:center;padding-top:20px;}#face-main{width:100%;}#face-profiles ul{width:90%;margin:-157px 0 0 -45%;height:315px;overflow-y:auto;}#face-profiles li{width:23.5%;height:auto;}#face-prof-selceted>img{border:2px solid #fff;}.page-simon #face-prof-selceted>img{border:none;}.page-simon #face-prof-selceted{top:48.5%;}#face-profiles-search{width:88%;margin:-194px 0 0 -45%;height:25px;padding:3px 1%;line-height:25px;border:none;}#face-introduction #fbLoginBtn,#fbReaskPerimssion{width:auto;}#face-main>p{text-align:center;}#facecontrollers li{width:100%;}#face-submiter,#faceaddfriend{width:100%;}#faceresult-wrapper li{width:100%;}#faceresult-wrapper li>strong{width:100%;text-align:center;font-size:18px;}#likeus{display:none!important;}#feeds-hub-view.view-display-id-apps_view .view-content>div{width:100%;height:auto;}#feeds-hub-view.view-display-id-apps_view .view-content>div>a>img{width:100%;height:auto;}#feeds-hub-view.view-display-id-apps_view .view-content>div.views-row-odd{padding-right:0;}#feeds-hub-view.view-display-id-apps_view .view-content>div>a:hover>.startapp{display:none;}#after_content_region .view-content>div{width:100%;margin:0 auto;}#main-front-title{width:100%;padding:20px 0;margin:25px 0;text-align:center;}.view-display-id-home_view .views-row{width:100%;}.view-display-id-home_view .views-row img{width:100%;height:auto;}.view-display-id-home_view .view-app-title{height:auto!important;width:90%;padding:20px 5% 66px 5%;text-align:center;}.front main,.page-taxonomy-term main,.page-feeds main,.page-apps main{width:96%;padding:0 2%;}.view-display-id-home_view .app-play-now{bottom:30px;top:auto;}.contact-us-page footer{position:static;}footer,.contact-us-page footer{margin:0;padding:1px 0 10px 0;height:auto;}footer .inner-footer{width:100%;margin:10px auto;padding:1px 0 0 0;}#footer-logo{position:static;margin:0 auto;}#footer-main-menu{float:none;width:100%;margin:10px auto;}footer ul li{display:block;width:100%;margin:0;text-align:center;line-height:50px;}#footer-secondary-menu{float:none;}#aside-front-title{width:100%;padding:20px 0;margin:0 auto 20px auto;}.front aside,.page-taxonomy-term aside,.page-feeds aside{width:96%;padding:20px 2%;}.view-related-articles{width:100%;}#app_hub_view_title{top:50px;font-size:30px;line-height:30px;padding:20px 0;}#app_hub_view_title span{font-size:20px;}.node-type-apps-hub .view-display-id-home_view{margin-top:100px;}.no-sidebars main{width:96%;padding:2%;}.node-type-apps-hub .view-display-id-home_view .views-row-2,.node-type-apps-hub .view-display-id-home_view .views-row-5,.node-type-feed #after_content_region .view-display-id-home_view .views-row-2.views-row.views-row-even,.node-type-feed #after_content_region .view-display-id-home_view .views-row-5.views-row.views-row-odd{margin:0;}#face-introduction .banner{width:100%;height:auto;}.banner.desc{display:none;}.banner.mob{display:block;width:100%;}#face-introduction h1{font-size:26px;line-height:30px;width:90%;margin-top:0;}#face-introduction .fb-like{display:block;margin:0 auto 10px auto;}.view-id-fb_result_apps #front-more-apps{width:90%;}#face-introduction #fbLoginBtn{width:70%;}.view .item-list .pager li.pager-first,.view .item-list .pager li.pager-last{display:none;}.view .item-list .pager li{padding:0 10px;margin:0 5px 0 0;font-size:18px;height:28px;line-height:28px;width:auto;float:left;}.view .item-list .pager li.pager-next,.view .item-list .pager li.pager-previous{font-size:18px;width:auto;padding:0 10px;}#feeds-hub-view .content-holder{float:none;width:100%;margin:0;}#feeds-hub-view #app_hub_view_title span,.node-type-feed #app_hub_view_title span{font-size:18px;}.admin-menu #app_hub_view_title{top:71px;}.page-feeds main,.node-type-feed main,.node-type-personality-quiz main{margin-top:100px;}.node-type-feed main{padding:20px 2%;}.page-feeds aside,.node-type-feed aside{margin-top:0;}.node-type-feed.not-front .region.region-content{padding:10px;}#num-pager li{margin:0 7px 7px 0;}#num-pager{margin-top:0;}.view .item-list .pager li.pager-next,.view .item-list .pager li.pager-last,.view .item-list .pager li.pager-first,.view .item-list .pager li.pager-previous{min-width:42px;}.fbShareBtn{width:80%;}#app-result-bottom-ads{display:none;}aside .view-id-fb_result_apps .view-app-title{padding:50px 0 25px 0;width:95%;margin:0 auto;}aside .view-id-fb_result_apps .views-row>a img{width:100%;max-width:370px}aside .view-id-fb_result_apps .views-row.views-row-odd,aside .view-id-fb_result_apps .views-row.views-row-even{width:98%;margin:0 auto;}#after_content_region .view-related-articles .view-content>div:nth-child(2),#after_content_region .view-related-articles .view-content>div:nth-child(5),#after_content_region .view-related-articles .view-content>div:nth-child(8){margin:0;}#after_content_region .view-related-articles .view-content>div{width:98%;margin:0 auto;padding-top:20px;}.node-type-apps-hub .view-display-id-home_view .views-row-8{margin:0;}#contact-us-section{line-height:35px;}.node-type-personality-quiz .region.region-content{padding:0;}.node-type-personality-quiz main{padding:20px 0;width:100%;}#quiz-intro>img{width:100%;height:auto;}#quiz-intro #fbLoginBtn{width:70%;}.node-type-personality-quiz aside{margin-top:0;}.quiz-img-box{width:47%;}.quiz-img-box>img{width:100%;height:auto;}.quiz-img-box>div,.quiz-txt-box{line-height:18px;font-size:14px;}.quiz-question-header-title{font-size:30px;padding:20px 10px;line-height:30px;}#faceresult-wrapper{width:100%;}#quiz-result-description{padding:10px 0;font-size:18px;}.post-title.quiz-title{font-size:30px;line-height:30px;margin:10px auto 20px auto;}#quiz-loader img{width:90%;height:auto;margin:0 auto;display:block;}.sidebar-feed-footer{max-width:370px;margin:0 auto;}}@media (min-width: 768px) {}</style>
+<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -39,63 +118,129 @@
 		ga('send', 'pageview');
 	  
 	</script>
-	
-	<!-- Hotjar Tracking Code for www.feedsguru.com -->
-	<script>
-		(function(h,o,t,j,a,r){
-			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-			h._hjSettings={hjid:71538,hjsv:5};
-			a=o.getElementsByTagName('head')[0];
-			r=o.createElement('script');r.async=1;
-			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-			a.appendChild(r);
-		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+ 
+<script>
+	   (function(h,o,t,j,a,r){
+		   h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		   h._hjSettings={hjid:71538,hjsv:5};
+		   a=o.getElementsByTagName('head')[0];
+		   r=o.createElement('script');r.async=1;
+		   r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		   a.appendChild(r);
+	   })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 	</script><script async="" src="//static.hotjar.com/c/hotjar-71538.js?sv=5"></script>
+ 
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','//connect.facebook.net/en_US/fbevents.js');
 	
-	<!-- Facebook Conversion Code for Other Website Conversions -->
-	<script>(function() {
-		var _fbq = window._fbq || (window._fbq = []);
-		if (!_fbq.loaded) {
-		var fbds = document.createElement('script');
-		fbds.async = true;
-		fbds.src = '//connect.facebook.net/en_US/fbds.js';
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(fbds, s);
-		_fbq.loaded = true;
+	fbq('init', '1109362925742360');
+	fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1109362925742360&ev=PageView&noscript=1"/></noscript>
+ 
+<script type="text/javascript">
+		/*ADD BANNER
+		*banner{
+		  desc: {slot, style}
+		  mob: {slot, style}
 		}
-		_fbq.push(['addPixelId', '982693675105574']);
-		})();
-		window._fbq = window._fbq || [];
-		window._fbq.push(['track', 'PixelInitialized', {}]);
+		*client
+		*container
+		*/
+	   function addBanner(banner, container) {
+		   //Disable  Adsense units Makedonian
+		   if (ads_language == 'mk') return;
+		   
+		   var ad = document.getElementById('wrapper'),
+		   adWidth = 0,
+		   adContainer = document.getElementById(container);
+		   
+		   if (ad.getBoundingClientRect().width) {
+			   adWidth = ad.getBoundingClientRect().width; // for modern browsers        
+		   } else {
+			   adWidth = ad.offsetWidth; // for old IE 
+		   }
+		   
+		   google_ad_client = "ca-pub-6740992634257584";
+		   
+		   var appended = false;
+		   if (adWidth > 800 && banner.desc) {
+			 google_ad_slot = banner.desc.slot;
+			 adContainer.innerHTML =
+			  '<ins class="adsbygoogle" style="'+banner.desc.style+'"'
+			   + 'data-ad-client="' + google_ad_client + '"'
+			   + 'data-ad-slot="' + google_ad_slot + '"></ins>';
+			   
+			   appended = true;
+		   }
+		   else if(adWidth <= 800 && banner.mob){			
+			 google_ad_slot = banner.mob.slot;
+			 adContainer.innerHTML =
+			  '<ins class="adsbygoogle" style="'+banner.mob.style+'"'
+			   + 'data-ad-client="' + google_ad_client + '"'
+			   + 'data-ad-slot="' + google_ad_slot + '"></ins>';
+			   
+			   appended = true;
+			}
+		   
+			if (appended) {
+				(adsbygoogle = window.adsbygoogle || []).push({});   			
+			}
+		   
+	   }
+	   
+	   //Add script
+	   function addScriptTag(url, device) {
+			if (window.matchMedia("(min-width: 800px)").matches && device == 'desc') {
+				appendStag();
+			}
+			
+			if (!window.matchMedia("(min-width: 800px)").matches && device == 'mob'){				
+				appendStag();
+			}
+			
+			if (device == 'all') {
+                appendStag();
+            }
+			
+			function appendStag() {
+                var head = document.getElementsByTagName("head")[0];
+				var js = document.createElement("script");
+				js.type = "text/javascript";
+				js.src = url;
+				head.appendChild(js);
+            }
+       }
 	</script>
-	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=982693675105574&amp;ev=PixelInitialized" /></noscript>
+<script type="text/javascript" src="//connect.facebook.net/en_US/sdk.js"></script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-132 node-type-basic i18n-en">
-	<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<div id="fb-root"></div>
-		﻿<div id="wrapper">
-	<header>
-		<div class="inner-header clearfix">			
-			<a href="/" id="logo">
-				<img src="/sites/all/themes/feedsguru/img/logo.png">				
-			</a>
-			<div id="menu-togle"><span></span></div>
-			<div id="main-menu" class="clearfix">
-				<ul>
-    <li class="first facebookapps"><a href="/apps" class="">#Facebook Apps</a></li>
-    <li class="feeds"><a href="/feeds" class="">#Feeds</a></li>					
+<script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<div id="fb-root"></div>
+﻿<div id="wrapper">
+<header>
+<div class="inner-header clearfix">
+<a href="/" id="logo">
+<img src="/sites/all/themes/feedsguru/img/logo.png">
+</a>
+<div id="menu-togle"><span></span></div>
+<div id="main-menu" class="clearfix">
+<ul>
+<li class="first quizzes"><a href="/quizzes" class="">Personality Quiz</a></li>
+<li class="facebookapps"><a href="/apps" class="">Facebook Apps</a></li>
+<li class="feeds"><a href="/feeds" class="">Feeds</a></li>
 </ul>
-
-			
-			</div>		
-		</div>		
-	</header>	
-	<div id="main-wrapper" class="clearfix">
-		<div class="tabs"></div>		<div class="main-top-banner desc"></div>	
-	   
-		<main class="clearfix">		
-			  <div class="region region-content">
-    <div class="block"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p class="rtecenter"><strong>Privacy Policy for Feedsguru.com</strong></p>
+</div>
+</div>
+</header>
+<div id="main-wrapper" class="clearfix">
+<div class="tabs"></div> <div class="main-top-banner desc"></div>
+<main class="clearfix">
+<div class="region region-content">
+<div class="block"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p class="rtecenter"><strong>Privacy Policy for Feedsguru.com</strong></p>
 <p><strong>Application Privacy Statement</strong></p>
 <p>This privacy statement ("Privacy Statement") applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application ("Application"). The Application is provided by Feedsguru (and may be provided by Feedsguru on behalf of a Feedsguru licensor or partner ("Application Partner"). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.<br>
 In addition to this Privacy Policy our Terms of Service apply:&nbsp;<a class="link" href="http://growlead.com/">http://growlead.com/</a></p>
@@ -107,7 +252,13 @@ We may receive and store any information you submit to the Application (or other
 <p>We receive and store certain types of usage related information whenever you interact with Application. For example, Testing-Survley may automatically receive and record information regarding your computer's IP address, browser information, Facebook user ID, Facebook Page fan status, and URLs accessed. Such information may be shared in aggregate (non-personally identifiable) form with our partners.</p>
 <p><strong>WILL FEEDSGURU SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</strong></p>
 <p>Personal information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone (with the exception of sharing your information with an applicable Application Partner - see the "Application Partner Treatment" section above). We share your personal information only as described below.</p>
-<p><strong>CONDITIONS OF USE:</strong></p>
+<p><strong>ANALYTICS&nbsp;DEMOGRAPHICS&nbsp;AND&nbsp;INTEREST&nbsp;REPORTING</strong></p>
+<p>We use “Analytics Demographics and Interest Reporting” to collect only Statistical Data</p>
+<p>Information that assist us&nbsp;monitoring and improving service.&nbsp;</p>
+<p>Feedsguru may provide this statistical data to third parties. Under no circumstances will you be able to be identified from this statistical data; you will remain anonymous.</p>
+<p>You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting Google’s&nbsp;<a href="http://tools.google.com/dlpage/gaoptout/" target="_blank">Google Analytics Opt-out Browser Add-on</a>.</p>
+<p>
+<strong>CONDITIONS OF USE:</strong></p>
 <p>f you decide to use or otherwise access the Application, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.</p>
 <p><strong>THIRD PARTY APPLICATIONS/WEBSITES.</strong></p>
 <p>The Application may permit you to link to other applications or websites. Such third party applications/websites are not under Feeds&nbsp;Guru’s control, and such links do not constitute an endorsement by Feeds Guru of those other applications/websites or the services offered through them. The privacy and security practices of such third party application/websites linked to the Application are not covered by this Privacy Statement, and Feeds Guru is not responsible for the privacy or security practices or the content of such websites.</p>
@@ -123,88 +274,83 @@ We may receive and store any information you submit to the Application (or other
 <p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at testing-feedsguru.contactus@gmail.com.<br>
 We will make every effort to resolve your concerns.<br>
 Effective Date: August 24, 2015</p>
-</div></div></div></div>
-
-  </div>
-			<div id="after_content_region">
-							</div>
-		</main>
-				<div class="clearfix"></div>		
-	</div>	
-	<footer>
-        <div class="inner-footer">
-        <div id="footer-logo"></div>
-            <ul id="footer-main-menu">
-                <li><a href="/apps">Facebook Apps</a></li>
-                <li><a href="/feeds">Trending Feeds</a></li>
-            </ul>
-            <ul id="footer-secondary-menu">
-                <li><a href="/privacy-policy">Privacy policy</a></li>
-                <li>© 2015 Feedsguru.com</li>
-            </ul>
-        </div>
-	</footer>	
-</div>		<script type="text/javascript" src="http://www.feedsguru.com/misc/jquery.js?v=1.4.4"></script>
-<script type="text/javascript" src="http://www.feedsguru.com/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="http://www.feedsguru.com/misc/drupal.js?ny17k7"></script>
+</div></div></div><div class="field field-name-field-404-page field-type-list-boolean field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div><div class="field field-name-field-contact-us-page field-type-list-boolean field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div></div>
+</div>
+<div id="after_content_region">
+</div>
+</main>
+<div class="clearfix"></div>
+</div>
+<footer>
+<div class="inner-footer">
+<div id="footer-logo"></div>
+<ul id="footer-main-menu">
+<li><a href="/apps">Facebook Apps</a></li>
+<li><a href="/feeds">Trending Feeds</a></li>
+</ul>
+<ul id="footer-secondary-menu">
+<li><a href="/privacy-policy">Privacy policy</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+<li>© 2015 Feedsguru.com</li>
+</ul>
+</div>
+</footer>
+</div> <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/jquery.once.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var cur_lang = "en";
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.feedsguru.com/sites/all/themes/feedsguru/js/i18n.js?ny17k7"></script>
-<script type="text/javascript" src="http://www.feedsguru.com/sites/all/themes/feedsguru/js/main.js?ny17k7"></script>
+<script type="text/javascript" src="/sites/all/themes/feedsguru/js/main.js"></script>
+<script type="text/javascript" src="/sites/all/themes/feedsguru/js/callstore.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"feedsguru","theme_token":"t17Gbd83wYI1XM3U1E9GYDqeu3YZ1nmJrYBTd0HfRlU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/themes\/feedsguru\/js\/i18n.js":1,"sites\/all\/themes\/feedsguru\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/feedsguru\/css\/normalize.css":1,"sites\/all\/themes\/feedsguru\/css\/style.css":1}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"feedsguru","theme_token":"0Sw_fxzRnLyIfAfAwgAjKrAWgfG0-eRF8spSOOJL3Og","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/themes\/feedsguru\/js\/main.js":1,"sites\/all\/themes\/feedsguru\/js\/callstore.js":1},"css":{"sites\/all\/themes\/feedsguru\/css\/normalize.css":1,"sites\/all\/themes\/feedsguru\/css\/style.css":1}}});
 //--><!]]>
 </script>
-	<script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId : '739277126184512',
-		  cookie: true,
-          xfbml : true,
-		  status: false,
-          version: 'v2.5'
-        });
-		
-		if (typeof showFbControllers == 'function') showFbControllers();
-      };
-     
-	  
-	(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/sdk.js";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-    </script>	
+<script type="text/javascript">		
+		$(function() {
+		  FB.init({
+			appId : '739277126184512',
+			cookie: true,
+			xfbml : true,
+			status: false,		  
+			version: 'v2.5'		  
+		  });		  		  		  
+		  
+		  if (typeof showFbControllers == 'function') showFbControllers();
+		  if (typeof fbAsyncInitCompleted == 'function') fbAsyncInitCompleted();
+		});
+	</script>
 <div id="totalOver">
-		<div id="progress-loader">
-		<div id="progress-banner"></div>
-		<img src="/sites/all/themes/feedsguru/img/loader.gif">
-		<div id="progres-desc">
-			<strong></strong>
-		</div>		
-	</div>
+<div id="face-pofiles-wrapper">
+<input type="text" id="face-profiles-search" placeholder="Search by Facebook profile name">
+<div id="face-profiles"><ul></ul></div>
 </div>
-
+<div id="progress-loader">
+<div id="progress-banner"></div>
+<img src="/sites/all/themes/feedsguru/img/loader.gif">
+<div id="progres-desc">
+<strong></strong>
+</div>
+</div>
+</div>
 <div id="totalOverBlack">
-	<div id="fblikeus">
-		<div class="fblikeus-title">
-			<span class="fblikeus-fbinc"></span>
-			<span class="fblikeus-close"></span>
-		</div>
-		<div class="fblikeus-body">
-			Like our facebook page and see your result<br>
-			<div class="fb-like" data-href="https://facebook.com/FeedsGuru" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
-		</div>
-	</div>
+<div id="fblikeus">
+<div class="fblikeus-title">
+<span class="fblikeus-fbinc"></span>
+<span class="fblikeus-close"></span>
+</div>
+<div class="fblikeus-body">
+Like our facebook page and see your result<br>
+<div class="fb-like" data-href="https://www.facebook.com/FeedsGuru" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false" id="result-popup"></div>
+</div>
+</div>
 </div>
 <div id="likeus">
-	<div class="fb-like" data-href="https://www.facebook.com/FeedsGuru" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+<div class="fb-like" data-href="https://www.facebook.com/FeedsGuru" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false" id="bottom-popup"></div>
 </div>
 
 </body></html>
