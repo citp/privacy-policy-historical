@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2015-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150127032132id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315222315id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dog.com
-
-[](https://web.archive.org/referafriendform.aspx)
-
-  
-
 
 |  [Dog.com](https://web.archive.org/) >
 
@@ -41,5 +36,10 @@ Privacy Policy Administration
 1 Maplewood Drive  
 Hazleton, PA 18202-9798 
 
-|   
+| 
+
+[](https://web.archive.org/donate/help-pets/1/?intid=HPRN315FEB15)
+
+[](https://web.archive.org/dog-articles/auto-ship-faq/2129/?intid=HPFC13FEB04)  
+  
 ---|---|---
