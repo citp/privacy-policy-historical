@@ -1,97 +1,83 @@
-> *The following text is extracted and transformed from the redbullillume.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801224622id_/http%3A//www.redbullillume.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbullillume.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315021657id_/http%3A//www.redbullillume.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policies - Red Bull Illume
+# Privacy Policy - Red Bull Illume
 
-(last updated on 1st December 2012)
+## 1\. Introduction
 
-1\. Introduction  
-Red Bull GmbH, Am Brunnen 1, 5330 Fuschl am See, Austria (hereafter "We", "Us" and "Our") respects Your right to privacy. This Data Protection and Privacy Policy ("Privacy Policy"), explains how We use Your personal information and data collected from the Website and Your rights in respect of such information and data. Personal information provided by You or gathered by Us is controlled primarily by Us as data controller pursuant to the Datenschutzgesetz 2000 ([Data Protection Law Austria,2000](https://www.dsk.gv.at/site/6274/default.aspx)).
+1.1 This Red Bull Privacy Policy (" **Policy** ") sets out how Red Bull GmbH, whose registered offices are at Am Brunnen 1, 5330 Fuschl, Austria, (hereinafter “ **Red Bull** ”, " **we** ", " **us** ", " **our** ") collect and process information about you when you visit our website (" **Website** "). By continuing to use this Website, you consent to your information being processed in accordance with this Policy.
 
-Defined Terms: Words set out in these Terms starting with capital letters have the following meanings:  
-“Content” means all information, material and media, in particular text, data, artwork, graphics, photos, print, footage, software, sounds, music, recordings, videos and other moving and non-moving images and material created or contributed by Us and whether provided in stream, download, electronic data or any other form on or via the Website; 
+## 2\. Personal information we collect and how we use it
 
-“Services” means the services such as the access, software, tools, computer programs (widgets) and Content made available to You via the Website; 
+2.1 **Information you give us.** You may give us information, including information that can identify you (" **personal information** "), when you use our Website, correspond with us, or enter into any of our competitions, promotions or surveys. Where we request information from you, we will collect the information set out in the relevant forms or pages. You may choose to provide additional information to us when you contact us or otherwise interact with us.
 
-“Website” means www.RedBullIllume.com. 
+2.2 If you are a regular user of our Website, you may wish to create an Account (" **Account** ") with us. The information that you provide when setting up your Account may include your name, email address and telephone number. If you register to hold an Account with us, you will also have a unique password which enables you to access your Account.
 
-2\. What information do We collect?
+2.3 If you purchase any games, services, apps or other goods on our Website, we will also collect your delivery address, billing address and payment information. Please note that we will not be storing your payment information, this will be done via a third party payments company. If you subscribe to receive our newsletter, then you will provide us with your name, email address, gender and date of birth.
 
-We collect and process the following information about You:  
-• the information provided by You on registration, such as Your name, phone number, email, address;  
-• information We learn about You from Your use of the Website and Content and Services offered by Us;  
-• details of any transactions You carry out through the Website; and  
-• information You provide when giving Us feedback and Content.
+2.4 The personal information that you provide to us will be used for the purposes of enabling you to use our Website and making purchases via the Website, for administrative and troubleshooting purposes and in order to send you marketing materials (should you opt in to receiving marketing material from us). As explained in Section 2.8 below, we may also use this information for further purposes when combined with other data we collect about you.
 
-3\. For what purposes do We use the information We collect?
+2.5 **Information we collect automatically.** When you visit our Website, we may automatically collect the following information: your IP address, log-in information, location information, browser type and version, browser plug-in types and versions, operating system and platform, information about your visit including the URL clickstream to, through and from our Website, products you viewed or searched for, download errors, length of visits to certain pages and page interaction. We collect information automatically through the use of various technologies, including through "cookies", and this is explained further below.
 
-We use personal information collected from You for the following purposes:  
-• to provide Our Content and Services;  
-• to improve and personalize Website, Content and Services;  
-• to research Our Website, Content and Services;  
-• to ensure that the Services and Content are relevant to You;  
-• to deliver and provide You with Our Content or Services;  
-• to carry out auditing, research and analysis in order to maintain, protect and enhance the Content or the Services We provide; and  
-• to transfer Your details to relevant third parties, public bodies, competent authorities, industry organizations, collection agencies, regulators, assignees as reasonably required for the operation of Our business and in the event of a merger or acquisition.
+2.6 We use the information we collect automatically: (1) to administer our Website for internal operations including troubleshooting purposes; (2) to ensure that content from our Website is presented in the most effective manner for you and your devices; (3) as part of our effort to keep our Website safe and secure; (4) to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and (5) to make suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them.
 
-In order to keep You updated We may send You Our newsletter and other communications regarding Content, Services, offers, promotions and events from Us, Our affiliates and partners via email, SMS, post or any other similar communication channel. You give Us herewith Your consent to this and acknowledge that You may object to this and revoke Your consent at any time via email to info(at)redbullillume.com.
+2.7 **Information we receive from other sources.** We may receive information about you if you use any of the other services we provide on this Website, or from other Red Bull entities and affiliates. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them (including information that is publicly available).
 
-We may also monitor Your usage of the Website, and Content or Services You receive, request or provide when using the Website for the purposes of quality control. 
+2.8 Where permitted by law, we may combine this information we receive from other sources, including from social media websites, with information you give to us and information we collect about you, including cookie information. We may use this information and the combined information for learning more about your preferences as our customer, for enhancing your user experience on our Website and for providing you with information, content and offerings tailored to your needs.
 
-4\. How do We store and when do We transfer Your personal information?
+## 3\. How we share and disclose your information
 
-All personal information that You submit via the Website is sent to and stored on secure servers located in the European Union. Information submitted by You may be disclosed by Us to other companies within the Red Bull Group and/or to the third parties mentioned in the circumstances described below, which may be situated outside the European Union and/or may be processed by staff operating outside the European Union. By submitting information via the Website, You agree to this storing, processing and/or transfer. 
+3.1 We may share your information with our [Red Bull affiliates](http://www.redbull.com/en/affiliates) for the purposes outlined in this Policy and with the third parties listed in this Policy. We may also share your information with third parties when: (1) it is necessary to involve a third party service provider in order to facilitate or extend our services; (2) explicitly requested by you (e.g. with social media networks); (3) required by a court order or any legal or regulatory requirement; (4) in connection with the sale or transfer of a business; (5) to enforce our Terms of Use; (6) to ensure the safety and security of our users, consumers and third parties; and (7) to protect our rights and property and the rights and property of our guests and third parties.
 
-5\. Disclosure of Your information
+## 4\. How to opt in or opt out of direct marketing
 
-We may share the information We collect among Our affiliated companies at home and abroad including Our partners, joint ventures and with any future owners of the Website. 
+4.1 We, and selected third parties, may use the information you give us on our Website for direct marketing purposes to provide updates; newsletters; events; or other communications that we think may interest you. Where required by law, your prior consent will be obtained before sending direct marketing. In any event, we will offer you the option to unsubscribe in every communication sent.
 
-We may from time to time employ other companies and individuals to carry out functions on Our behalf including delivering services, sending mail, providing marketing assistance, analysing data, providing customer service and for accounting and invoicing purposes. In order to carry out their functions these companies and individuals may require access to Your personal information but We shall only disclose such relevant personal information as is needed by them to perform their functions. 
+## 5\. Analysis and Advertising
 
-Where requested to do so, We may co-operate with any court, tribunal, regulatory body, police authority or other similar authority in any investigations or proceedings concerning You or Your use of the Website. This may include disclosing information about communications transmitted via the Services to the authorities where required. 
+5.1 We use third party tools, including the Turn Audience Suite and related tools provided by Turn to make the advertising we show you on our Website and/or our partner websites more relevant and interesting to you. For this purpose, we use cookies, web beacons or similar technologies to collect information about your browsing behaviour (see sections 2.5 and 2.6 above) and deliver interest-based ads to you. For further information about the use of data by Turn please click on the following link: <http://www.turn.com/trust/privacy-guidelines>. You may opt-out at any time from the collection and use of your data by Turn by clicking the following link: <http://www.turn.com/trust/consumer-opt-out>.
 
-Whilst We take measures to safeguard the personal information that You provide to Us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that We cannot guarantee the security of any personal information that You transfer to Us over the Internet. 
+## 6\. Cookies and other technologies
 
-6\. Social Plugins
+6.1 We collect information automatically through the use of "cookies". A cookie is a text file containing small amounts of information that a website can send to your browser, which may then be stored on your computer as a tag that distinguishes your computer but does not name you. Some of our Website pages use cookies to better serve you when you return to the Website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies; however, if you do this, some of our Website may not work properly.
 
-Our Website uses social plugins ("Plugins") from the social networks facebook.com ("Facebook"), and the micro-blogging service twitter.com ("Twitter"). 
+6.2 For information about the specific cookies used on this Website, please refer to our Cookies Policy.
 
-Facebook
+## 7\. Links to other websites and social media
 
-is a social network, operated by Facebook Inc. (1601 S. California Avenue, Palo Alto, CA 94304, USA). When You visit a page of Our Website that contains a Facebook Plugin, Your browser establishes a direct connection to Facebook servers. Facebook directly transfers the Plugin content to Your browser, which embeds the latter into the Website, enabling Facebook to receive information about Your having accessed the respective page of Our Website. We have no influence on the data gathered by the Plugin and inform You according to Our state of knowledge. 
+7.1 Where we provide links to other websites, we do so for information purposes only. The other websites are outside our control and are not covered by this Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-If You are logged into Facebook, Your visit can be assigned to Your Facebook account. If You interact with the Plugins, for example by clicking “Like”, or by entering a comment, the corresponding information is transmitted from Your browser directly to Facebook and stored by it. If You are a Facebook member and do not want Facebook to connect the data concerning Your visit to Our Website with Your member data already stored by Facebook, please log off Facebook before entering Our Website. Even if You are not logged into Facebook, there is possibility that the Plugins transmits Your IP-address to Facebook. For the information on the purpose and scope of data collection and procession by Facebook, as well as Your rights in this respect and settings options for protecting your privacy please visit Facebook's privacy policy: <http://www.facebook.com/policy.php>. Further You can block Facebook Plugins by using add-ons for Your browser, like the “[Facebook Blocker](http://webgraph.com/resources/facebookblocker/)“. 
+7.2 On some pages of our Website, third parties that provide content, applications or plug-ins through our Website may track your use of content, applications and plug-ins or customize content, applications and plug-ins for you.  For example, when you share an article using a social media sharing button on our Website (e.g., Facebook, Twitter, or Google Plus), the social network that has created the button will record that you have done this.  For more information on social media plug-ins on our Website, see our Cookies Policy.
 
-Twitter 
+## 8\. Data Retention
 
-is a micro-blogging service, provided by Twitter Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107, USA).  When You visit a page on Our Website that includes such a Plugin, Your browser connects directly with the servers at Twitter. The content of the Plugin is transferred from Twitter directly to Your browser, which incorporates it into the website. For this reason, We have no influence on the amount of data gathered by Twitter with the aid of this Plugin. We provide this information to the best of Our knowledge, which is that only the IP address of Your connection and the URL of Our Website are transmitted when the Plugin is acquired, but are not used for purposes other than display of the content in the Plugin. 
+8.1 We will not retain your information for longer than is necessary for our business purposes or for legal requirements. However, please be advised that we may retain some information after you have closed your Account with us, for instance if doing so is necessary to meet our legal obligations, such as retaining the information for tax and accounting purposes.
 
-7\. Tracking Software and Cookies – What are they and how do We use them?
+## 9\. Your Rights
 
-We may use Our own and third party tracking software to help Us analyse Your use of the Website, Content and Services. Such analytical tools use cookies which are text files placed on Your computer’s hard drive by the Website that collect certain information and data about You and Your visits to the Website, such as Your IP address, browser type, the time and length of Your visit, the pages of the Website You visit and other clickstream data. Using this information enables Us to tailor Our Services to You and make Your use of the Services more user friendly and efficient.  
-Most internet browsers allow You to erase cookies and tracking software from Your computer’s hard drive, receive a warning before they are stored, or to turn off the cookie or tracking software altogether. If You want to know how to do this please refer to Your browser instructions or help screen, but please be aware that if You refuse cookies or tracking software it may lead to a decreased level of functionality of the Website. 
+9.1 If you wish to obtain a copy of personal information that we hold about you, please contact us at the address below. Before responding to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavour to respond within an appropriate timeframe and, in any event, within any timescales required by law.
 
-Google Analytics
+9.2 If you have chosen to have an Account then you can access the personal information we hold about you via your Account to obtain a copy of it and to correct, amend, or delete information that is inaccurate. You can also close your Account at any time.
 
-is one of the tracking software We use, a web analytics service provided by Google, Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ). Google Analytics also uses “Cookies”. The information generated by the Cookie about Your use of Our Website (including Your IP- address) will usually be transmitted to and stored by Google on servers in the USA. In case of the activation of IP-anonymisation on Our Website though, Your IP-address will be shortened by Google within a member states of the European Union or within other states that are parties to the European Economic Area Agreement. Only in exceptional cases will Your IP-address be fully transferred to a server of Google in the United States and be shortened there. Google will use this information on Our behalf for the purpose of evaluating Your use of the Website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate Your IP-address with any other data held by Google. You may refuse the use of Cookies by selecting the appropriate settings on Your browser, however please note that if You do this You may not be able to use the full functionality of Our Website. You can also prevent the acquisition of the data generated by the Cookie (including Your IP-address) by downloading and installing the browser-plugin available by the following link: [http://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en). You can find further information here: <http://www.google.com/intl/en/analytics/privacyoverview.html>. 
+9.3 It is your responsibility to ensure that you submit true, accurate and complete information to your Account and keep it up to date. You may also update your personal information by contacting us, using the contact details provided below. Please make sure to include your name, username and post code in your initial correspondence; this helps us protect the details and preferences on your Account from unauthorised access.
 
-Webtrends Analytics
+## 10\. Information Security
 
-Is another of the tracking software We use, also a web analytics service provided by Webtrends Inc. (851 SW 6th Ave. Suite 1600, Portland, OR 97204, USA) Webtrends tracks and analyzes non-personally identifiable usage and volume statistical information from Our Users. All data collected by Webtrends on Our behalf is owned and used by Us. For more information about how Webtrends collects data, please read their privacy policy at <https://ondemand.webtrends.com/privacypolicy.asp#PSFV>. 
+10.1 We apply appropriate security measures to protect your personal information that is under our control from unauthorised access, collection, use, disclosure, copying, modification or disposal. All information you provide to us is stored on secure servers.
 
-8\. Your rights
+10.2 Where you have a password, which enables you to access our Website, you are responsible for keeping this password secure and confidential.
 
-You have the right to obtain a copy of processed personal information and data held by Us about You. You also have the right to ask Us to update and correct any out-of-date or incorrect personal information that We hold about YouIf You would like to obtain a copy of Your personal information, notify Us of any inaccuracies in the information We hold about You, or if You have any queries concerning Our Data Protection and Privacy Policy, please write to Us at: Red Bull GmbH, Am Brunnen 1, 5330 Fuschl am See, Austria or send an e-mail to: info(at)redbullillume. For Your own data safety You will need to verify Your identity and specify what information You require. In order to cover Our costs incurred in providing You with a copy of Your information We may charge You a fee. 
+## 11\. Internet-based Transfers
 
-9\. Third Party Sites and Hyperlinks
+11.1 Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. While we generally store all of the personal information that we collect about you through our Website in your region (for example for European visitors, in the European Economic Area), it is possible that your personal information will be transmitted to parties outside your region (where data protection laws may be different).  If such transfer happens, we ensure that it takes place in compliance with contractual or other measures to protect the information.
 
-We sometimes provide hyperlinks and/or advertisements to other websites that are not owned or controlled by Us. Please note that this Privacy Policy only applies to the personal information that We collect through the Website and We cannot be responsible for personal information that third parties collect, store and use through their website. You should always read the privacy policy of each website You visit. 
+## 12\. Use of this Website by Minors
 
-10\. Children 
+12.1 If you are aged 14 or under, please get your parent's/guardian's permission before you provide information to us via our Website. Users without this consent are not allowed to provide us with information and, in the event that they do so, we will cease to process their information as soon as we find out.
 
-In submitting Personal User Data, the User warrants that he or she is not less than sixteen years of age. Red Bull does not intend to collect any personal data from individuals under sixteen years of age, unless the child is at least thirteen and obtains the consent of their parent / guardian beforehand. Where appropriate, We will specifically instruct children not to submit such information on Our websites and/or will take reasonable steps to ensure parental consent to such submission. 
+## 13\. Changes to the Policy
 
-Parents should be aware that Our Privacy Policy will govern its use of personal data, but that information which is voluntarily given by children -- or others -- in comments or the like may be used by other parties to generate unsolicited mail. We encourage all parents to instruct their children in the safe and responsible use of their personal data while using the Internet. 
+13.1 This Policy was last updated on 26.08.2015. A notice will be posted on our Website home page for 30 days whenever this Policy is changed in a material way. By continuing to use our Website you confirm your acceptance of the relevant changes.
 
-11\. Changes to Our Privacy Policy 
+## 14\. Questions about this Policy
 
-We reserve the right to make changes to this Privacy Policy without prior notice. You should continue to check this Privacy Policy for updates and amendments, as You will be deemed to have accepted any changes if You continue to use the Website after they have been posted. 
+14.1 This Website is maintained by Red Bull GmbH. If you have a question, concern or complaint about this Policy or our handling of your information, you can contact us by email on privacy(at)redbull.com.
