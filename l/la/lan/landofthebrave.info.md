@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofthebrave.info privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210064017id_/http%3A//www.landofthebrave.info/colonial-america-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofthebrave.info privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315074304id_/http%3A//www.landofthebrave.info/colonial-america-privacy-statement.htm) for the most accurate reproduction.*
 
 # Colonial America Privacy Statement ***
 
@@ -27,4 +27,4 @@ If you have any questions about this privacy statement, the practices of this si
 The webmaster   
 [webmaster@land-of-the-brave ](mailto:webmaster@land-of-the-brave)
 
-**[Land of the Brave Index](https://web.archive.org/web/20151210064017id_/http%3A//www.landofthebrave.info/index.htm)**
+**[Land of the Brave Index](https://web.archive.org/web/20160315074304id_/http%3A//www.landofthebrave.info/index.htm)**
