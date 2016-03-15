@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920231701id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315154212id_/https%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dev4Press
+
+### Website Visitors
+
+Dev4Press collects non-personally-identifying information browsers and servers typically make available about visitors: browser type and version, language, referring site, date and time of each visit. Purpose in collecting this information is to better understand how website visitors use this website. From time to time, Dev4Press may use non-personally-identifying information in for reports on trends in the usage of the website.
+
+Dev4Press collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users, users leaving comments or using contact form. IP address is not disclosed anywhere on the website for public viewing, only website administrators can see IP addresses.
 
 ### What information do we collect?
 
 We collect information from you when you register on our site. When registering on our site, as appropriate, you may be asked to enter your: name or e-â€‹mail address. You may, however, visit public parts of our site anonymously. Some parts of the website are restricted and require registration. Information we collect:
 
-  * the email addresses of those who post messages to our bulletin board
+  * the email addresses of those who post messages to our support forum
   * the email addresses of those who communicate with us via email
-  * the email addresses of those who make postings to our chat areas
+  * the email addresses of those who subscribe to newsletter
   * information volunteered by the consumer, such as preferences, survey information and/or site registrations
   * information on the profile page entered by the consumer
   * basic payment information such as address or telephone
@@ -27,7 +33,7 @@ Any of the information we collect from you may be used in one of the follow­ing
   * To improve our website (we continually strive to improve our website offer­ings based on the information and feedback we receive from you)
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To administer a contest, promotion, survey or other site feature
-  * To send announcement emails about new features and important releases. Emails are send at most once a month.
+  * To send announcement emails about new features and important releases. Emails are send at most 2 to 3 times a month.
 
 
 
@@ -53,5 +59,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Website: http://www.dev4press.com/  
+Website: https://www.dev4press.com/  
 Email: support@dev4press.com
