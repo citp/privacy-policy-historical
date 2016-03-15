@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429125216id_/http%3A//alibabahost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315145430id_/http%3A//alibabahost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Offshore provider | Offshore hosting | Offshore vps | Offshore dedicated
 
