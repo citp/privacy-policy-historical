@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booky.io privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222073027id_/http%3A//booky.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booky.io privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315030042id_/http%3A//booky.io/privacy) for the most accurate reproduction.*
 
 # booky.io | Online bookmark manager. Your bookmarks available on all devices.
 
@@ -62,6 +62,10 @@ In addition to the above-described uses, the information you provide to Google i
 
 We use social plug-ins from facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plug-ins can be recognized by way of the Facebook logo or the supplement "Facebook Social Plug-in". For example, if you click on the "Like" button or leave a comment, the relevant information is transmitted directly from your browser to Facebook and stored there. Furthermore, Facebook makes your likes public for your Facebook friends. If you are logged into Facebook, it can assign the invocation of our page directly to your Facebook account. Even if you are not logged in or don't have a Facebook account, your browser sends information (e.g. which web pages you have called up, your IP address) which is then stored by Facebook. For details about handling of your personal data by Facebook and your related rights, please refer to the data privacy policy of Facebook: <http://www.facebook.com/policy.php>. If you do not want Facebook to map data collected about you via our Web sites to your Facebook account, you must log out of Facebook before you visit our web pages.
 
+## Social plug-ins from Twitter
+
+With Twitter and its Retweet functions, we use social plug-ins from Twitter.com, operated by Twitter Inc. 795 Folsom St., Suite 600, San Francisco, CA 94107. If you use Retweet, the websites visited by you are announced to third parties and associated with your Twitter account. Details about handling of your data by Twitter as well as your rights and setting options for protecting your personal information can be found in Twitter's data privacy policy: [](http://twitter.com/privacy)
+
 ## Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
@@ -74,7 +78,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
-This policy was last modified on July 11, 2015.
+This policy was last modified on March 13, 2016.
 
 ## Contacting Us
 
