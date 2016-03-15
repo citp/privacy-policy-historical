@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905140634id_/https%3A//www.ubs.com/global/en/legalinfo2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315044929id_/https%3A//www.ubs.com/global/en/legalinfo2/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | UBS Global topics
 
+##  Privacy statement
+
 UBS appreciates your visit to this web site ("UBS Website") and your interest in our services and products. Your privacy is important to us and we want you to feel comfortable visiting our site. We take care to protect your personal data collected, processed and used during visits to the UBS Website.
 
-## By accessing the UBS Website you accept this Privacy Statement ("Statement"). 
+###  By accessing the UBS Website you accept this Privacy Statement ("Statement"). 
 
 If you do not agree to this Statement, do not proceed to further web pages of the UBS Website.
 
 This Statement may be updated from time to time. We therefore ask you to consult it on a regular basis. The last line of this Statement below indicates when the Statement was last updated.
 
-## What are the purpose and the scope of this Statement? 
+###  What are the purpose and the scope of this Statement? 
 
 UBS AG, its subsidiaries and branches ("UBS" or "We") are committed to safeguarding the personal information that we collect from individuals who use the UBS Website. Accordingly, UBS has developed this Statement to describe how and what type of data will be collected from users of the UBS Website and the purposes for which UBS may collect, share or disclose the data. UBS also outlines reasonable precautions which are taken to keep your data secure.
 
@@ -18,7 +20,7 @@ This Statement applies to any information obtained by UBS through your use of th
 
 The terms of this Statement are subject to any additional terms of disclaimers or other contractual terms you have entered into with UBS such as client privacy statements or notices, and any applicable mandatory laws and regulations.
 
-## What information do we collect from you and for what purpose? 
+###  What information do we collect from you and for what purpose? 
 
 When you visit the UBS Website, our web server automatically records details about your visit (for example, your IP address, the web site from which you visit us, the type of browser software used, the UBS Website pages that you actually visit including the date and the duration of your visit).
 
@@ -36,7 +38,7 @@ UBS will use your personal data:
 
 UBS respects applicable laws and regulations in its use of personal data.
 
-## How do we collect and store information from you? 
+###  How do we collect and store information from you? 
 
 UBS uses tracking technology such as cookies or tags to gather information as outlined above (see: "What information do we collect from you and for what purpose?") to understand how visitors use the UBS Website.
 
@@ -50,7 +52,7 @@ In many cases you can also control tracking technologies using your browser. Ple
 
 Refusing, disabling or deactivating of tracking technologies may result in a reduced availability of the services provided by the UBS Website or parts of the UBS Website may no longer function correctly.
 
-## To whom do we disclose your information collected from the UBS Website? 
+###  To whom do we disclose your information collected from the UBS Website? 
 
 UBS may disclose your information to its affiliates and its and their agents and third party providers inside or outside your country of residence to perform services for UBS and for the purposes stated above. Our  affiliates, agents and third party providers who have access to personal data obtained through the UBS Website are obliged to respect privacy.
 
@@ -58,25 +60,25 @@ When transferring personal data internationally we make sure that we comply with
 
 We may also disclose your information to governmental agencies or entities, regulatory authorities, or other persons in line with any applicable law, regulations, court order or official request, or under any and for the purposes of any guidelines issued by regulatory or other authorities, or similar processes as either required or permitted by applicable law.
 
-## What security measures have we implemented to protect your information collected through the UBS Website? 
+###  What security measures have we implemented to protect your information collected through the UBS Website? 
 
 UBS has implemented reasonable technical and organisational security measures to protect your personal data collected by UBS via the UBS Website against unauthorized access, misuse, loss or destruction.
 
-## How do we treat electronic messages sent to and from UBS? 
+###  How do we treat electronic messages sent to and from UBS? 
 
 All electronic messages sent to and from UBS are automatically retained in a distinct journaling system which preserves the evidential weight of the e-mails. They are protected by reasonable technical and organisational measures and may only be accessed in justified cases in line with applicable laws and regulations (e.g. court order, suspicion of criminal conduct, violation of regulatory obligations, material breach of employment contract) to specific persons in defined functions (e.g. Legal, Compliance, Risk). Every step of the process, as well as the search criteria used, are logged in an audit trail. All emails are disposed of after the applicable retention period has expired.
 
-## What should you consider when sending data over the Internet? 
+###  What should you consider when sending data over the Internet? 
 
 The Internet is generally not regarded as a secure environment, and information sent via the Internet (such as to or from the UBS Website or via electronic message) may be accessed by unauthorized third parties, potentially leading to disclosures, changes in content or technical failures. Even if both sender and receiver are located in the same country, information sent via the Internet may be transmitted across international borders and be forwarded to a country with a lower data protection level than exists in your country of residence.
 
 Please note that we accept no responsibility or liability for the security of your information whilst in transit over the Internet to UBS. In order to protect your privacy we would like to remind you that you may choose another means of communication with UBS, where you deem it appropriate.
 
-## How do we deal with information from individuals under the age of 18? 
+###  How do we deal with information from individuals under the age of 18? 
 
 The UBS Website does not seek to collect personal data from individuals under the age of 18.  Individuals under the age of 18 should receive permission from their parent or legal guardian before providing any personal data to UBS on the UBS Website.
 
-## How can you access or review your personal data?  
+###  How can you access or review your personal data?  
 
 
 You may, where permitted by applicable law or regulation:
@@ -97,6 +99,3 @@ Switzerland
 
 
 Last update in July 2013.
-
-The products, services, information and/or materials contained within these web pages may not be available for residents of certain jurisdictions. Please consult the sales restrictions relating to the products or services in question for further information.  
-© UBS 1998 - 2015. All rights reserved.
