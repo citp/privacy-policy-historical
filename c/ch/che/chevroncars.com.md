@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevroncars.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041420id_/http%3A//www.chevron.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevroncars.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315034552id_/http%3A//www.chevron.com/privacystatement) for the most accurate reproduction.*
 
 # Chevron - Privacy Statement
 
