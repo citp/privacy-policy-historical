@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvecreditscorequickly.info privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507095335id_/http%3A//improvecreditscorequickly.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvecreditscorequickly.info privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315233925id_/http%3A//improvecreditscorequickly.info/privacy-policy) for the most accurate reproduction.*
 
 # Improve Credit Score Quickly Privacy Policy | Improve Credit Score Quickly
 
