@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkvisualgames.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708173003id_/http%3A//www.pinkvisualgames.com/index.php%3Fprivacy%26revid%3D1187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkvisualgames.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315032554id_/http%3A//www.pinkvisualgames.com/index.php%3Fprivacy%26revid%3D1187) for the most accurate reproduction.*
 
 # 3D Sex Simulator Games | Pink Visual Games
 
