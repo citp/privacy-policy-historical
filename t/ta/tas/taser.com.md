@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taser.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208080318id_/https%3A//www.taser.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taser.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315094553id_/https%3A//www.taser.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal Information
 
