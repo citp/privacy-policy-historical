@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionphile.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908223009id_/http%3A//www.fashionphile.com/privacy/page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionphile.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315105446id_/http%3A//www.fashionphile.com/privacy/page) for the most accurate reproduction.*
 
 # Fashionphile | Privacy
 
@@ -8,9 +8,7 @@ Thank you for visiting www.Fashionphile.com (the “Website”). This privacy an
 
 #### **What information do we collect and how do we use it?**
 
-Fashionphile.com collects information from our customers for a variety of reasons, including as part of our ongoing efforts to provide unparalleled customer service, improve shopping experience and to communicate about products, services and promotions. We collect information such as email, name, telephone number, postal address and payment information (“Personal Information”) that you provide to us when you register an account on our site, place an order, participate in a promotion, write product reviews, wish lists and other user-generated content.
-
-Information collected online may be utilized by Fashionphile. In addition, we maintain a record of your product interests, purchases and whatever else might enable us to enhance and personalize your shopping experience on Fashionphile’s web site offers, promotions, or information that we believe may be of interest to you.
+Fashionphile.com collects information from our customers for a variety of reasons, including as part of our ongoing efforts to provide unparalleled customer service, improve shopping experience and to communicate about products, services and promotions. We collect information such as email, name, telephone number, postal address and payment information (“Personal Information”) that you provide to us when you register an account on our site, place an order, participate in a promotion, write product reviews, wish lists and other user-generated content.  Information collected online may be utilized by Fashionphile.
 
 We also monitor site use and traffic patterns to improve our web site design and the products and services we offer as well as to determine what offers, promotions or information to send to you. To serve you better, we may combine Personal Information you give us online, via mobile device, in our stores, or through our customer service call center. 
 
@@ -32,7 +30,7 @@ Fashionphile
 1819 Aston Ave #101, Carlsbad, CA 92008 
 
 **Phone:** (866) 468-5893   
-**Hours:** Monday hours 10:00 am–5:00 pm  
+**Hours:** Monday hours 8:00 am–5:00 pm  
 
 Effective Date: July 31, 2013  
 
