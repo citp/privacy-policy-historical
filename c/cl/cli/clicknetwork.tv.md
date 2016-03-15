@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicknetwork.tv privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010111557id_/http%3A//www.clicknetwork.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknetwork.tv privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315205322id_/https%3A//www.clicknetwork.tv/privacy) for the most accurate reproduction.*
 
 # clicknetwork.tv
 
