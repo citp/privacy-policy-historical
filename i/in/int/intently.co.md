@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002415id_/http%3A//intently.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315042605id_/http%3A//intently.co/pages/privacy) for the most accurate reproduction.*
 
 # Request any service with Intently.co
 
@@ -15,7 +15,8 @@ We use the information you provide us for the following purposes:
   * Internal record keeping.
   * Publication of requests on this site, and syndication to other websites (including via our API)
   * Sharing of requests and services with other Intently users and/or external service providers (via our API).
-  * Sharing of information you have provided about youor your company with buyers (or potential buyers) when you act as a supplier (we will show the buyer your visible name, email address, website, phone number, and other information about you or your company).
+  * Sharing of information you have provided about you or your company with buyers (or potential buyers) when you act as a supplier (we will show the buyer your visible name, email address, website, phone number, and other information about you or your company).
+  * Publication of any testimonials or quotes you may have provided regarding Intently.
   * To improve our service.
   * We may periodically send emails to you (using the email address you provided) regarding changes and improvements to our service, special offers or other information which we think you may find interesting. We will always give you the option to unsubscribe from such mailings. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or phone, and again you may request that we do not do this in future.
