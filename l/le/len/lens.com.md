@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112751id_/https%3A//www.lens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315175744id_/https%3A//www.lens.com/privacy-policy) for the most accurate reproduction.*
 
 # Lens.com Ž - Privacy Policy
 
@@ -42,7 +42,7 @@ All your email preferences can be managed from the 'My Account' tab at the top o
 
 [ ](https://www.lens.com/faq/shipping-time-delivery/ "Your Lenses are Ready")
 
-With over 12 Million contact lenses in stock, we immediately fill your order with your exact prescription.
+With over 19 Million contact lenses in stock, we immediately fill your order with your exact prescription.
 
 Over 3 million successful orders delivered!
 
