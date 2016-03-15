@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20jeans.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910013625id_/https%3A//www.dstldjeans.com/customer-care/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20jeans.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315161337id_/https%3A//www.dstldjeans.com/customer-care/privacy) for the most accurate reproduction.*
 
 # Privacy | DSTLD Luxury Jeans & Essentials | No Retail Markup
 
