@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutcheap.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814003252id_/http%3A//www.shoutcheap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutcheap.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315112351id_/http%3A//www.shoutcheap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Radio & Audio Streaming
 
