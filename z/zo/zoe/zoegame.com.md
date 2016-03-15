@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoegame.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318072421id_/http%3A//www.zoegame.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoegame.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315091418id_/http%3A//www.zoegame.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy ZoeGame.com - Zoe Game
 
