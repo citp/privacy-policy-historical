@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrrather.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630142820id_/http%3A//www.rrrather.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrrather.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315131607id_/http%3A//www.rrrather.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
