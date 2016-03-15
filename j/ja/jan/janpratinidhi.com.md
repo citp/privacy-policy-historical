@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janpratinidhi.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906160711id_/http%3A//janpratinidhi.com/Privacy_Policy/39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janpratinidhi.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315043358id_/http%3A//janpratinidhi.com/Privacy_Policy/39) for the most accurate reproduction.*
 
 # Privacy Policy
 
