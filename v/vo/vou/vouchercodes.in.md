@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercodes.in privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025015350id_/http%3A//www.vouchercodes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315201902id_/http%3A//www.vouchercodes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - www.vouchercodes.in
 
