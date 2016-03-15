@@ -1,117 +1,69 @@
-> *The following text is extracted and transformed from the billmelater.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905133000id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmelater.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315034217id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
 
 # Bill Me Later
 
-**Comenity Capital Bank Privacy Policy for the PayPal Credit Payment System**
+Rev. September 2015
 
-rev. July 2015
+FACTS | WHAT DOES COMENITY CAPITAL BANK DO WITH YOUR PERSONAL INFORMATION IN CONNECTION WITH YOUR PAYPAL CREDIT ACCOUNT?   
+---|---  
+Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-Comenity Capital Bank (referred to as “we”, “us” or “our”), is the Lender offering the PayPal Credit Payment System (“PayPal Credit”). This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the BillMeLater.com website and all related sites, applications, services and tools regardless of how you access or use them (collectively “PayPal Credit Websites”). You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively “PayPal Credit Services”). We may amend this policy at any time by posting a revised version on our website or sending you a copy. The revised version will be effective at the time we post it or send it to you.
+  * Social Security number and income
+  * Account balance and transaction history
+  * Credit history and credit scores
 
-#### How we collect information about you
+When you are _no longer_ our customer, we continue to share your information as described in this notice.   
+How? | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Comenity Capital Bank chooses to share; and whether you can limit this sharing.  
+Reasons we can share your personal information | Does Comenity Capital Bank share?  | Can you limit this sharing?   
+---|---|---  
+**For our everyday business purposes –** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  | Yes  | No   
+**For our marketing purposes –** To offer our products and services to you  | Yes  | No   
+**For joint marketing with other financial companies** | Yes  | No   
+**For our affiliates' everyday business purposes -** information about your transactions and experiences  | Yes  | No   
+**For our affiliates' everyday business purposes -** information about your creditworthiness  | No  | No   
+**For our affiliates to market to you** | No  | No   
+**For non-affiliated companies to market to you** | No  | No   
+**Questions?** | Call: 1-866-528-3733. For operator relay assistance, first dial 711.   
+---|---  
+Who we are  
+---  
+Who is providing this notice? | This privacy notice is provided by Comenity Capital Bank and is applicable to all PayPal Credit accounts.   
+What we do  
+---  
+How does Comenity Capital Bank protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.   
+**How does Comenity Capital Bank collect my personal information?** | We collect your personal information, for example, when you: 
 
-When you visit the PayPal Credit Websites or use PayPal Credit Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes data on the pages you access, your computer IP address, device identifiers, the type of operating system youre using, mobile network information, standard web log data and other information. Web log data includes the browser type youre using and traffic to and from our site. When you visit the PayPal Credit Websites or use PayPal Credit Services, we also collect information about your transactions and your activities.
+  * Open a PayPal Credit account or use your PayPal Credit account
+  * Pay your bill or give us your contact information
+  * Provide account information
 
-In addition, if you open a PayPal Credit account or use PayPal Credit Services, we may collect the following types of information:
+We also collect your personal information from others such as credit bureaus, affiliates, and other companies   
+Why can’t I limit all sharing? | Federal law gives you the right to limit only: 
 
-  * Detailed personal information such as your date of birth or social security number.
-  * Contact information, such as your name, address, phone, email, and other similar information. Information about you from third parties such as credit bureaus and identity verification services.
-  * Financial information, such as the full bank account numbers and/or credit card numbers that you link to your PayPal Credit account or give us when you use PayPal Credit Services.
+  * sharing for affiliates’ everyday business purposes – information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for non-affiliated companies to market to you
 
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
+What happens when I limit sharing for an account I hold jointly with someone else? | We do not offer joint accounts.   
+Definitions  
+---  
+Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
+  * _Comenity Capital Bank does not share with affiliates. However, our affiliates include companies with the Comenity name, and other nonfinancial companies, such as Epsilon, Alliance Data and LoyaltyOne._
 
-You may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., Facebook and Twitter). The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your PayPal Credit account and authorizing us to have access to this information, you agree that we may collect, store and use this information in accordance with this Privacy Policy.
+  
+Non-affiliated Companies | Companies not related by common ownership or control. They can be financial and non-financial companies. 
 
-In order to help protect you from fraud and misuse of your personal information, we may collect information about your use and interaction with PayPal Credit Websites or PayPal Credit Services. For example, we may evaluate your computer, mobile phone or other access device to identify any malicious software or activity.
+  * _Comenity Capital Bank does not share with nonaffiliates so they can market to you. Nonaffiliates we share with can include financial service providers – like Bill Me Later, Inc. and PayPal, Inc. – retailers, direct marketers, publishers, and nonprofit organizations._
 
-We may also collect additional information from or about you in other ways, such as through contact with our customer support team or results when you respond to a survey and from interactions with certain third parties that we share information with in accordance with this Privacy Policy.
+  
+Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-#### How we use Cookies
+  * _Our joint marketing partners include financial companies – like PayPal, Inc. – banks, or insurers._
 
-When you access PayPal Credit Websites or use PayPal Credit Services, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, pixel tags, "Flash cookies," or other local storage provided by your browser or associated applications ("Cookies"). We use these technologies to: recognize you as a customer; customize PayPal Credit Services, content, and advertising; measure promotional effectiveness; help ensure that your account security is not compromised; mitigate risk and prevent fraud; and to promote trust and safety across our sites and PayPal Credit Services.
-
-We use both session and persistent Cookies. Session Cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent Cookies remain on your device until you erase them or they expire.
-
-We encode our Cookies so that we can interpret the information stored in them. You are free to decline our Cookies if your browser or browser add-on permits, unless our Cookies are required to prevent fraud or ensure the security of websites we control.  Declining our Cookies may interfere with your use of our websites and PayPal Credit Services. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies.
-
-**Do Not Track:** Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties. We do not currently respond to DNT signals. We do, however, provide you notice of the tracking by advertisers and other third parties in our Privacy Policy.
-
-You may encounter PayPal Credit Cookies on websites that we do not control. For example, if you view a web page created by a third party or use an application developed by a third party, there may be a Cookie placed by the web page or application. Likewise, these third parties may place their own Cookies that are not subject to our control and the PayPal Credit Payment System Privacy Policy does not cover their use.
-
-#### How we protect and store personal information
-
-Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous so that it does not identify a specific user.
-
-We store and process your personal information on our computers. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls.  However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
-
-#### How we use the personal information we collect
-
-Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to:
-
-  * provide PayPal Credit Services and customer support;
-  * process transactions and send notices about your transactions;
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;
-  * customize, measure, and improve PayPal Credit Services and the content, layout, and operation of PayPal Credit Websites;
-  * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences;
-  * contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our Terms and Conditions;
-  * compare information for accuracy and verify it with third parties.
-
-
-
-#### Marketing
-
-We, or a third party acting on our behalf, may use your personal information to send you email offers that may be of special interest to you. If you unsubscribe from these email messages, you will not receive these messages from us via email.  If you do not wish to receive marketing communications from us or participate in our ad-customization programs, you may unsubscribe by following the instructions located at the bottom of the email you received. If you unsubscribe from email solicitations, we will still contact you via email to service and maintain your account relationship.  If you receive emails from third parties on behalf of us, you must unsubscribe through the instructions in the email or contact these third parties directly.
-
-We may also hire third parties to track and report performance of advertising and marketing campaigns to and from us and third party web sites.  We may combine your information with information we collect from third parties and use it to improve and personalize PayPal Credit Services, content, and advertising. 
-
-#### How we share personal information with third parties
-
-We only share your personal information with third parties as described in this policy.
-
-We will not sell or rent any of your personal information to non-affiliated third parties for their marketing purposes, except as disclosed in this policy or unless you have provided consent.
-
-We may share your personal information with:
-
-  * Service providers under contract -- like Bill Me Later, Inc. -- who help with our business operations such as fraud prevention, bill collection, account maintenance, marketing and technology services. 
-  * Financial institutions that we partner with -- like PayPal -- to provide joint marketing of products and services, to help detect and prevent potentially illegal acts and fraud, and to guide decisions about the products, services and communications.
-  * Credit bureaus and collection agencies to report account information, as permitted by law.
-  * Companies that we or Bill Me Later, Inc. plan to merge with or be acquired by. If your personal information could be used contrary to this policy, you will receive prior notice.
-  * Third parties when required by law or valid judicial process, or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms and Conditions.
-  * Other third parties with your consent or direction to do so.
-  * Our affiliate companies for marketing purposes. 
-    * You can limit the sharing of your information with our affiliates for marketing.
-  * Non-affiliates for marketing purposes. 
-    * You can limit the sharing or your information with non-affiliates for marketing.
-  * If you live in Vermont, we will not share information about your creditworthiness with our affiliates for their everyday business purposes, unless you consent to that sharing.
-  * If you live in California, we will not share information about you: (1) with our affiliates for their own purposes, or (2) for joint marketing with other financial companies.
-
-
-
-Bill Me Later, Inc.
-
-  * Bill Me Later, Inc. may share information it receives about your creditworthiness with its affiliate companies to market their products and services to you. Bill Me Later, Inc. affiliates include companies that are related to it by common ownership or control, and they can be financial companies, like PayPal. 
-    * You can limit the sharing of information with Bill Me Later, Inc.’s affiliates.
-
-
-
-If you open a PayPal Credit account directly on a third party website or via a third party application, any information that you enter on that website or application (and not directly on PayPal Credit Websites) will be shared with the owner of the third party website or application. These sites are governed by their own privacy policies and you are encouraged to review their privacy policies before providing them with personal information. We are not responsible for the content or information practices of such third parties.
-
-#### How you can restrict us from sharing your personal information?
-
-Federal law gives you the right to limit the sharing of your personal information only in certain instances.
-
-  * You can limit the sharing of your information with our affiliate companies and with non-affiliates for marketing purposes.  If you choose to opt out of sharing your information, you may not be able to continue using your PayPal Credit account.  To limit our sharing, you can go to <https://www.billmelater.com/your-account/privacy-policy-opt-out.xhtml>.
-  * You can limit our sharing of your information concerning your creditworthiness with Bill Me Later, Inc.s affiliates, as well as our sharing of your information with Bill Me Later, Inc.s affiliates for marketing purposes.  If you choose to opt out of sharing your information, you may not be able to continue using your PayPal Credit account. To limit our sharing, you can go to [https://www.billmelater.com/your-account/privacy-policy-opt-out.xhtml.](https://web.archive.org/your-account/privacy-policy-opt-out.xhtml)
-
-
-
-If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent you this notice for those circumstances where you can limit our sharing.  When you are no longer our customer, we continue to share your information as described in this policy.  However, you can contact us or our service provider, Bill Me Later, Inc., at any time to limit our sharing.
-
-#### How you can access or change your personal information
-
-You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile.
-
-#### How you can contact us about privacy questions
-
-If you have questions or concerns regarding this policy, you can go to [www.billmelater.com/about/privacy-policy.xhtml](http://www.billmelater.com/about/privacy-policy.xhtml) or call us at 866-528-3733.
+  
+Other Important Information  
+---  
+We will also comply with more restrictive state laws to the extent that they apply. For example, if your billing address is in Vermont or California, we will automatically opt you out of sharing your information with nonaffiliates for marketing purposes. 
