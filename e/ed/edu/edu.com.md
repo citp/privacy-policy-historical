@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edu.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212181822id_/http%3A//www.edu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edu.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315025115id_/http%3A//www.edu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edu.com | Browse Top Colleges & Universities
 
