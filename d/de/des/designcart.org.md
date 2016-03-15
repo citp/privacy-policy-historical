@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcart.org privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027192535id_/http%3A//www.designcart.org/p/adsense-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcart.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315161617id_/http%3A//www.designcart.org/p/adsense-privacy-policy.html) for the most accurate reproduction.*
 
 # Adsense Privacy Policy | Design Cart
 
