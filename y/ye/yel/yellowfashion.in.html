@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yellowfashion.in privacy policy that was archived on 2015-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150529083934id_/http%3A//www.yellowfashion.in/pages/yellow-fashion-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowfashion.in privacy policy that was archived on 2016-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315155531id_/http%3A//www.yellowfashion.in/pages/yellow-fashion-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -15,7 +15,7 @@
 <meta name="description" content="Shop online – for New and latest collection of designer sarees, bridal lehngas, cotton, Chiffon, Georgette, Crepe, Jacquard, Satin patta, polyster silk, brocade, bandhej, Readymade &amp; 1 minute sarees. Also find Readymade and unstitched Salwar Kameez (Salwar suits). Free Shipping in India. 7 Day easy return policy. Pay cash on delivery.   Yellow Fashion Privacy PolicyWe value the trust youplace in Yellowfashion.in. That's why we insist upon the highest standards forsecure transactions and customer information privacy. Please read the followingstatement to learn...">
 
   
-    <script type="text/javascript" async="" src="//assets.backinstock.org/widget/334_1391017111.js?v=3&amp;shop=yellowfashion.myshopify.com"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" id="__ss" src="//cdn-jp.gsecondscreen.com/static/ssclient.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script>
+    <script type="text/javascript" async="" src="//assets.backinstock.org/widget/334_1391017111.js?v=3&amp;shop=yellowfashion.myshopify.com"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" id="__ta" src="//cdn-jp.gsecondscreen.com/static/tac.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script>
 //<![CDATA[
       var Shopify = Shopify || {};
       Shopify.shop = "yellowfashion.myshopify.com";
@@ -46,7 +46,7 @@
 </script>
 <script id="__st">
 //<![CDATA[
-var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078fb","pageurl":"www.yellowfashion.in\/pages\/yellow-fashion-privacy-policy","s":"pages-5083872","u":"c0b11de32ca7","p":"page","rtyp":"page","rid":5083872};
+var __st={"a":662652,"offset":19800,"reqid":"3fe3eef1-b556-4b0f-9d4b-387f63b0fdac","pageurl":"www.yellowfashion.in\/pages\/yellow-fashion-privacy-policy","s":"pages-5083872","u":"b260f28ddb71","p":"page","rtyp":"page","rid":5083872};
 //]]>
 </script>
 <script>
@@ -85,18 +85,14 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
 
           var analytics = document.createElement('script');
           var loaded = false;
+          var trekkie_version = 1;
           var onload = function() {
             if (loaded) return;
             loaded = true;
-            window.ShopifyAnalytics.lib = window.analytics.noConflict();
-            window.ShopifyAnalytics.lib.initialize({"Google Analytics":{"trackingId":"UA-21360090-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true}});
-            
-        window.ShopifyAnalytics.lib.page(
-          null,
-          {}
-        );
-      
-            
+            window.ShopifyAnalytics.lib = window.trekkie.noConflict();
+            window.ShopifyAnalytics.lib.initialize(
+              {"Google Analytics":{"trackingId":"UA-21360090-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.01},"Trekkie":{"appName":"storefront","environment":"production","defaultAttributes":{"shopId":662652}}}
+            );
 
             window.ShopifyAnalytics.lib.ready(function() {
               
@@ -112,7 +108,7 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
       function decorate(event) {
         event = event || window.event;
         var target = event.target || event.srcElement;
-        if (target && (target.action || target.href)) {
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
           ga(function (tracker) {
             var linkerParam = tracker.get('linkerParam');
             document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
@@ -121,12 +117,14 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
       }
       addListener(window, 'load', function(){
         for (var i=0; i < document.forms.length; i++) {
-          if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
             addListener(document.forms[i], 'submit', decorate);
           }
         }
         for (var i=0; i < document.links.length; i++) {
-          if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
             addListener(document.links[i], 'click', decorate);
           }
         }
@@ -137,6 +135,14 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
               document.write = customDocumentWrite;
               try {  } catch(e) {};
               document.write = originalDocumentWrite;
+
+              
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {}
+        );
+      
+              
             });
           }
           analytics.onload = onload;
@@ -145,38 +151,48 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
             onload();
           }
           analytics.async = true;
-          analytics.src = "//cdn.shopify.com/s/assets/vendor/analytics-be9ba81d290e8e5e2365cdf5b0159437.js";
+          analytics.src = "https://cdn.shopify.com/s/javascripts/trekkie.storefront.min.js?v=" + trekkie_version;
           document.getElementsByTagName('head')[0].appendChild(analytics);
           
       var eventsListenerScript = document.createElement('script');
       eventsListenerScript.async = true;
-      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-5d1550e4fdae05e1e4c99e6f4b85e825.js";
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-42562f2f1fbae08782550a8da750cb16faca43c65b93366a62e3848a8245fa14.js";
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
     
         })();
-      </script><script async="" src="//cdn.shopify.com/s/assets/vendor/analytics-be9ba81d290e8e5e2365cdf5b0159437.js"></script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-5d1550e4fdae05e1e4c99e6f4b85e825.js"></script>
-    <script type="text/javascript" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-bd0de8f02be4ad110afe9fdaf737084a.js"></script>
+      </script><script async="" src="https://cdn.shopify.com/s/javascripts/trekkie.storefront.min.js?v=1"></script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-42562f2f1fbae08782550a8da750cb16faca43c65b93366a62e3848a8245fa14.js"></script>
+    <script type="text/javascript" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-0826cdefee6590321eb5c0c435eeebf7a8425a5493a9e95059c40e07e069ad52.js"></script>
 
-    <link href="//cdn.shopify.com/s/files/1/0066/2652/assets/screen.css?17509700131999855523" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0066/2652/assets/screen.css?15916629827763099991" rel="stylesheet" type="text/css" media="all">
 
-    <!--[if lte IE 6]><link href="//cdn.shopify.com/s/files/1/0066/2652/assets/ie6.css?17509700131999855523" rel="stylesheet" type="text/css"  media="all"  /><![endif]-->
+    <!--[if lte IE 6]><link href="//cdn.shopify.com/s/files/1/0066/2652/assets/ie6.css?15916629827763099991" rel="stylesheet" type="text/css"  media="all"  /><![endif]-->
 <!-- Added by Lexity. DO NOT REMOVE/EDIT -->
 <meta name="google-site-verification" content="9gwLFPdRvylYOepLwr8QVZMFZlBdPJQZGC53kUJL8Yk">
 <meta name="alexaVerifyID" content="pbl_wcnByIx4hIS-ByHXLQuTN2A">
 <meta property="fb:app_id" content="671648419594069">  
 <meta name="p:domain_verify" content="533798e566e1461337f41d934a1b4d21">
 <meta name="msvalidate.01" content="A44FA0667493CB4E3240491D7B5C2DB5">
-<link rel="icon" type="image/x-icon" href="//cdn.shopify.com/s/files/1/0066/2652/assets/favicon.ico?17509700131999855523">
+<link rel="icon" type="image/x-icon" href="//cdn.shopify.com/s/files/1/0066/2652/assets/favicon.ico?15916629827763099991">
 <!-- End of addition by Lexity. DO NOT REMOVE/EDIT -->
 
-	<link href="//cdn.shopify.com/s/files/1/0066/2652/assets/perfect-promo.css?17509700131999855523" rel="stylesheet" type="text/css" media="all">
+	<link href="//cdn.shopify.com/s/files/1/0066/2652/assets/perfect-promo.css?15916629827763099991" rel="stylesheet" type="text/css" media="all">
 
-<link rel="canonical" href="http://www.yellowfashion.in/pages/yellow-fashion-privacy-policy">
+<script>window.mlvedaShopCurrency = "INR";
+window.supported_currencies = "INR GBP CAD USD AUD EUR JPY";
+</script>
+
+ <link rel="canonical" href="http://www.yellowfashion.in/pages/yellow-fashion-privacy-policy">
 </head>
 
 <body>
   <div class="special_promo">
-    <a href="http://www.yellowfashion.in/pages/saas-bahu-aur-sarees">Our Sarees on TV</a>
+    <span class="label_to_currency">We Ship to 26 Countries. Choose your currency:</span> 
+<span id="currencies">
+  <span data-currency="INR" class="left">₹ INR</span>
+  <span data-currency="LKR">රු LKR</span>
+  <span data-currency="EUR">€ EURO</span>
+  <span data-currency="USD" class="right">$ USD</span>
+</span>
   </div>
     <!-- absolute positioned subscription block -->
     	
@@ -189,7 +205,7 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
                 <p><input type="text" value="First Name..." name="FNAME" id="fname" class="field"></p>
                 <p><input type="text" value="Last Name..." name="LNAME" id="lname" class="field"></p>
                 <p><input type="text" value="Email Address..." name="EMAIL" id="email" class="field"></p>
-                <input type="image" src="//cdn.shopify.com/s/files/1/0066/2652/assets/sign-up-to-yf.png?17509700131999855523" alt="Subscribe">
+                <input type="image" src="//cdn.shopify.com/s/files/1/0066/2652/assets/sign-up-to-yf.png?15916629827763099991" alt="Subscribe">
                 <p class="decla"><a href="#">Yellowfashion.in</a> respects your privacy. We don't rent or sell your personal information to anyone. Ever.</p>
                 <p class="decla_1">Read our <a href="http://www.yellowfashion.in/pages/return-policy">Privacy Policy</a></p>
               </form>
@@ -202,22 +218,22 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
       <!-- START header_main -->
       <div class="header_main_top">
 				
-        <!-- Start logo --><div class="logo"><a href="/"><img src="//cdn.shopify.com/s/files/1/0066/2652/assets/logo.png?17509700131999855523" alt="YellowFashion.in"></a></div><!-- End logo -->
+        <!-- Start logo --><div class="logo"><a href="/"><img src="//cdn.shopify.com/s/files/1/0066/2652/assets/logo.png?15916629827763099991" alt="YellowFashion.in"></a></div><!-- End logo -->
         <!-- Start search --><div class="search">
-          <div class="promo"><img src="//cdn.shopify.com/s/files/1/0066/2652/assets/cc_ico.png?17509700131999855523" alt="" class="vm"> Call 022-30770157 Mon-Sat,10am-7pm </div>
+          <div class="promo"><img src="//cdn.shopify.com/s/files/1/0066/2652/assets/cc_ico.png?15916629827763099991" alt="" class="vm"> Call 022-30770157 Mon-Sat,10am-7pm </div>
 					<form method="get" action="/search">
-						<div class="search_bar"><input type="text" name="q" value="Search..." class="search_txt field"> <input type="image" src="//cdn.shopify.com/s/files/1/0066/2652/assets/go.png?17509700131999855523" class="search" alt="Search"></div>
+						<div class="search_bar"><input type="text" name="q" value="Search..." class="search_txt field"> <input type="image" src="//cdn.shopify.com/s/files/1/0066/2652/assets/go.png?15916629827763099991" class="search" alt="Search"></div>
 					</form>
           <div class="search_tags">SEARCH BY: <a href="/search?q=bridal+saree&amp;x=0&amp;y=0">Bridal Saree</a>, <a href="/search?q=cotton+saree&amp;x=0&amp;y=0">Cotton saree</a>, <a href="/search?q=chiffon+saree&amp;x=0&amp;y=0">Chiffon Saree</a></div>
         </div><!-- End search -->
         <!-- Start user_pane -->
         <div class="user_pane">
-          <div class="user_links"><!--a href="/cart">My Account</a--> <!--| <a href="#">Log In</a>| --> <a href="http://www.yellowfashion.in/pages/about-us">About Us</a> | <a href="http://www.yellowfashion.in/pages/contact-us">Contact Us</a></div>
+          <div class="user_links"><!--a href="/cart">My Account</a--> <!--| <a href="#">Log In</a>| --><a href="http://www.yellowfashion.in/pages/saas-bahu-aur-sarees">Our Sarees on TV</a> | <a href="http://www.yellowfashion.in/pages/about-us">About Us</a> | <a href="http://www.yellowfashion.in/pages/contact-us">Contact Us</a></div>
           <!-- Start promo_n_cart_pane --><div class="promo_n_cart_pane">
             <!-- Start free_shipn --><div class="free_shipn"><p class="large">FREE</p> <p>Shipping</p></div><!-- End free_shipn -->
             <!-- Start return_pol --><div class="return_pol"><p class="large">7 Day</p> <p>Return Policy</p></div><!-- End return_pol -->
             <!-- Start shopping_cart --><div class="shopping_cart">
-              <span class="lt"><a href="/cart"><img src="//cdn.shopify.com/s/files/1/0066/2652/assets/cart.png?17509700131999855523" alt=""></a></span>
+              <span class="lt"><a href="/cart"><img src="//cdn.shopify.com/s/files/1/0066/2652/assets/cart.png?15916629827763099991" alt=""></a></span>
               <span class="rt">
                 <span class="large"><a href="/cart">Cart</a></span>
                 <span><a href="/cart">0 items</a></span>
@@ -233,13 +249,13 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
 				<ul class="nav">
         	<li class="home_sel"><a href="/">Home</a></li>
         	<li class="saree_def"><a href="/collections/sarees">Sarees</a></li>
-        	<li class="prod_var"><a href="/collections/new-arrivals-1">New Arrivals</a></li>
+        	<li class=""><a href="/collections/new-arrivals-1">New Arrival</a></li>
         	<li class="prod_var"><a href="/collections/designer-sarees">Designer</a></li>
-        	<li class=""><a href="/collections/unstitched-salwar-suits">Salwar Suits</a></li>
+        	<li class=""><a href="/collections/designer-lehengas-for-the-wedding-season-fresh-arrivals">Lehenga</a></li>
+        	<li class=""><a href="/collections/designer-gown-for-parties-and-special-occassions-new-launch">Gown</a></li>
+        	<li class=""><a href="/collections/launching-readymade-designer-blouses-new-arrivals">Blouse</a></li>
         	<li class=""><a href="/collections/linen-casual-kurtis-limited-edition">Kurti</a></li>
-        	<li class=""><a href="/collections/fashion-jewellery-earrings-bangles-bracelet-1">Earrings</a></li>
-        	<li class=""><a href="/collections/saris-less-than-rs-1000">&lt; 1000</a></li>
-        	<li class=""><a href="/collections/top-selling-this-week"># Hit</a></li>
+        	<li class=""><a href="/collections/top-selling-this-week">Top 100</a></li>
         </ul>
       </div>
       <!-- START header_main -->
@@ -251,7 +267,8 @@ var __st={"a":662652,"offset":19800,"reqid":"b917483b-c2a9-44de-9abd-f1b50fc078f
 	<!-- END scrollable_area -->
 	<!-- START CONTENT -->
   <div id="content" class="clear">
-		<div class="pages_extra">
+		
+<div class="pages_extra">
 <h1>Yellow Fashion - Privacy Policy</h1>
 <p><b><span>Yellow Fashion Privacy Policy</span></b></p>
 
@@ -396,7 +413,7 @@ support@Yellowfashion.in</span></p>
                 <div class="yf_feature_1">
                 	<div class="yf_feature_icon_1"></div>
                     <div class="yf_feature_details">
-                        <p class="yf_count">68,268 +</p>
+                        <p class="yf_count">110,000 +</p>
                         <p class="yf_feature_txt">Happy Customers</p>
                     </div>
                     <div class="clear"></div>
@@ -406,7 +423,7 @@ support@Yellowfashion.in</span></p>
                 <div class="yf_feature_2">
                 	<div class="yf_feature_icon_2"></div>
                     <div class="yf_feature_details">
-                        <p class="yf_count">2,930 +</p>
+                        <p class="yf_count">5,600 +</p>
                         <p class="yf_feature_txt"><a href="http://www.yellowfashion.in/pages/return-policy?utm_campaign=FTR">Refunds Processed</a></p>
                     </div>
                     <div class="clear"></div>
@@ -416,7 +433,7 @@ support@Yellowfashion.in</span></p>
                 <div class="yf_feature_3">
                 	<div class="yf_feature_icon_3"></div>
                     <div class="yf_feature_details">
-                        <p class="yf_count">108,000 +</p>
+                        <p class="yf_count">205,000 +</p>
                         <p class="yf_feature_txt">Products shipped</p>
                     </div>
                     <div class="clear"></div>
@@ -693,15 +710,15 @@ support@Yellowfashion.in</span></p>
 						
                     	<!--yf_blog_quote-->
                         <div class="yf_blog_quote"><span class="yf_quote_arw"></span>
-                        	<p class="yf_blog_quote_ttl"><a href="/blogs/news/16913460-buy-sarees-in-bulk-wholesale?utm_campaign=FTR" target="_blank">Buy Sarees In Bulk / Wholesale</a></p>
-                            <p class="yf_blog_quote_txt">“A saree is the one ancient Indian apparel that has not lost its charm. It’s accessible in all sort of styles and patterns. Simplicity is the main gem of a lady and... <a href="/blogs/news/16913460-buy-sarees-in-bulk-wholesale?utm_campaign=FTR" class="yf_blog_more" target="_blank">more &gt;</a></p>
+                        	<p class="yf_blog_quote_ttl"><a href="/blogs/news/73375877-saree-from-the-south-konrad-saree?utm_campaign=FTR" target="_blank">Saree from the South. Konrad Saree.</a></p>
+                            <p class="yf_blog_quote_txt">“Sarees are an Indian traditional outfit but the variations found is them seem to be endless. So much of the different sarees from different regions of Indian have we spoken in our... <a href="/blogs/news/73375877-saree-from-the-south-konrad-saree?utm_campaign=FTR" class="yf_blog_more" target="_blank">more &gt;</a></p>
                         </div>
                         <!--yf_blog_quote-->
 						
                     	<!--yf_blog_quote-->
                         <div class="yf_blog_quote"><span class="yf_quote_arw"></span>
-                        	<p class="yf_blog_quote_ttl"><a href="/blogs/news/16133032-wish-to-become-an-entrepreneur-start-your-saree-store?utm_campaign=FTR" target="_blank">Wish to become an entrepreneur. Start your Saree Store.</a></p>
-                            <p class="yf_blog_quote_txt">“Saree is the Indian traditional outfit and the all time favourite attire of women from all over the country and the globe as well. The variation in this outfit is numerous. Women... <a href="/blogs/news/16133032-wish-to-become-an-entrepreneur-start-your-saree-store?utm_campaign=FTR" class="yf_blog_more" target="_blank">more &gt;</a></p>
+                        	<p class="yf_blog_quote_ttl"><a href="/blogs/news/72518853-contest-what-is-the-significance-of-wearing-black-in-sankranti?utm_campaign=FTR" target="_blank">Contest: What is the significance of wearing black in Sankranti?</a></p>
+                            <p class="yf_blog_quote_txt">“The festival of kites is just around the corner and with it, we have come up with one more opportunity for you to win a saree. Simply tell us the significance of... <a href="/blogs/news/72518853-contest-what-is-the-significance-of-wearing-black-in-sankranti?utm_campaign=FTR" class="yf_blog_more" target="_blank">more &gt;</a></p>
                         </div>
                         <!--yf_blog_quote-->
 						
@@ -820,18 +837,25 @@ women. We have started with Designer Sarees and gradually moving to other fashio
         </div>
         <!--yf_about_us-->
 		<!--yf_copyright-->
-		<div class="yf_copyright">© 2015 YellowFashion.in</div>
+		<div class="yf_copyright">© 2016 YellowFashion.in</div>
 		<!--yf_copyright-->
     </div>
 </div>
 <!--footer-->
 		
-    <script src="//cdn.shopify.com/s/files/1/0066/2652/assets/jquery-1-3-1.js?17509700131999855523" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/files/1/0066/2652/assets/jquery-theme-1-0.js?17509700131999855523" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-f09b787c2ca37b1b58fcf1e0bf893179.js" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0066/2652/assets/jquery-1-3-1.js?15916629827763099991" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0066/2652/assets/jquery-theme-1-0.js?15916629827763099991" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-5f52c6aafe08e99b5fd74bc04431f324d961490d08bb70ca69b5e05941aa4323.js" type="text/javascript"></script>
     
 
-              
+ <script type="text/javascript">
+jQuery(document).ready(function() {
+  if (window.location.href.indexOf(".lk") > -1) {
+   jQuery('#currencies').find('span[data-currency=LKR]').trigger('click');
+  }
+});
+</script>
+             
               <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <!-- Begin comScore Tag -->
@@ -853,18 +877,11 @@ women. We have started with Designer Sarees and gradually moving to other fashio
     
           
 <script type="text/javascript">
-    var _ss_track = {};
-  
-    /* your customization options */
-    _ss_track.options = {};
-
-    /* Donot edit below this line */
-    _ss_track.id = "df8d1a46-51eb-4664-a8ac-d2d40a087926";
-    _ss_track.events = []; _ss_track.handlers = []; _ss_track.alarms = [];
+    var _taq = {"id":"df8d1a46-51eb-4664-a8ac-d2d40a087926","events":[],"identify":[],"property":[], "handlers":[]};
     (function() {
-        var ss = document.createElement('script'); ss.type = 'text/javascript'; ss.async = true; ss.id = "__ss";
-        ss.src = '//cdn-jp.gsecondscreen.com/static/ssclient.min.js';
-        var fs = document.getElementsByTagName('script')[0]; fs.parentNode.insertBefore(ss, fs);
+        var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true; ta.id = "__ta";
+        ta.src = '//cdn-jp.gsecondscreen.com/static/tac.min.js';
+        var fs = document.getElementsByTagName('script')[0]; fs.parentNode.insertBefore(ta, fs);
     })();
 </script>
 
@@ -877,30 +894,122 @@ _atrk_opts = { atrk_acct:"dU5if1asZt00U4", domain:"yellowfashion.in",dynamic: tr
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dU5if1asZt00U4" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->  
 
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '572485719561642');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=572485719561642&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->              
+
+<script src="//cdn.shopify.com/s/javascripts/currencies.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0066/2652/assets/jquery.currencies.min.js?15916629827763099991" type="text/javascript"></script>
+
+<script>
+
+// Pick your format here:
+// money_format or money_with_currency_format
+Currency.format = 'money_format';
+
+var shopCurrency = 'INR';
+
+/* Sometimes merchants change their shop currency, let's tell our JavaScript file */
+Currency.moneyFormats[shopCurrency].money_with_currency_format = "\u0026#8377; {{amount_no_decimals}}";
+Currency.moneyFormats[shopCurrency].money_format = "\u0026#8377; {{amount_no_decimals}}";
+
+var cookieCurrency = Currency.cookie.read();
+
+// Fix for customer account pages.
+jQuery('span.money span.money').each(function() {
+  jQuery(this).parents('span.money').removeClass('money');
+});
+
+// Saving the current price.
+jQuery('span.money').each(function() {
+  jQuery(this).attr('data-currency-INR', jQuery(this).html());
+});
+// Saving the current price.
+
+
+// Select all your currencies buttons.
+var buttons = jQuery('#currencies span');
+
+// If there's no cookie or it's the shop currency.
+if (cookieCurrency == null || cookieCurrency === shopCurrency) {
+  buttons.removeClass('selected');
+  jQuery('#currencies span[data-currency=' + shopCurrency + ']').addClass('selected');
+  Currency.currentCurrency = shopCurrency;
+jQuery('span.selected_money').each(function() {
+  jQuery(this).text(shopCurrency);
+});
+ if(shopCurrency == 'INR'){
+   jQuery('.selected_currency_para').hide();
   }
-  _fbq.push(['addPixelId', '572485719561642']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=572485719561642&amp;ev=PixelInitialized" /></noscript>
-<script type="text/javascript">
-(function (d, w) {
-  var x = d.getElementsByTagName('SCRIPT')[0], g = d.createElement('SCRIPT'); 
-  g.type = 'text/javascript';
-  g.async = true;
-  g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  x.parentNode.insertBefore(g, x);
-}(document, window));
+  else {
+   jQuery('.selected_currency_para').show();
+  }
+}
+else {
+  Currency.convertAll(shopCurrency, cookieCurrency);
+  buttons.removeClass('selected');
+  jQuery('#currencies span[data-currency=' + cookieCurrency + ']').addClass('selected');
+jQuery('span.selected_money').each(function() {
+  jQuery(this).text(cookieCurrency);
+});
+ if(cookieCurrency == 'INR'){
+   jQuery('.selected_currency_para').hide();
+  }
+  else {
+   jQuery('.selected_currency_para').show();
+  }
+}
+
+// When customer clicks on a currency button.
+buttons.click(function() {
+  buttons.removeClass('selected');
+  jQuery(this).addClass('selected');
+  var newCurrency =  jQuery(this).attr('data-currency');
+  Currency.convertAll(Currency.currentCurrency, newCurrency);
+ jQuery('span.selected_money').each(function() {
+  jQuery(this).text(newCurrency);
+});
+ if(newCurrency == 'INR'){
+   jQuery('.selected_currency_para').hide();
+  }
+  else {
+   jQuery('.selected_currency_para').show();
+  }
+});
+
+// For options.
+var original_selectCallback = window.selectCallback;
+var selectCallback = function(variant, selector) {
+  original_selectCallback(variant, selector);
+  Currency.convertAll(shopCurrency, jQuery('#currencies span.selected').attr('data-currency'));
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+}
+
+jQuery('body').bind('ajaxCart.afterCartLoad', function(cart) {
+  Currency.convertAll(shopCurrency, jQuery('#currencies span.selected').attr('data-currency'));
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+});
+
+jQuery('.selected-currency').text(Currency.currentCurrency);
+ if(Currency.currentCurrency == 'INR'){
+   jQuery('.selected_currency_para').hide();
+  }
+  else {
+   jQuery('.selected_currency_para').show();
+  }
+jQuery('.selected-currency').text(Currency.currentCurrency);
+
 </script>
 
 </body></html>
