@@ -1,118 +1,110 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403214903id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315071118id_/http%3A//www.123inkjets.com/policy) for the most accurate reproduction.*
 
-# 123inkjets.com - Your Privacy Rights
+# Privacy Policy - 123inkjets
 
-**Version: July 26, 2006**
+## Our Commitment To Privacy
 
-This page set forth the privacy policies and practices of 123inkjets.com and its affiliated companies within the ValueClick E-Commerce Network ("ValueClick Network" "ValueClick" "we" or "us"). 
+Your privacy is important to us. This Privacy Policy (“Policy”) explains how 123Inkjets (referred to hereafter as “we,” “us,” “our,” “123Inkjets.com” or “123Inkjets”) handle your personal information when you use our website (http://www.123Inkjets.com), applications and services (referred to hereafter collectively as “Website”). When you use the Website, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
-Please read this privacy policy carefully since by visiting a ValueClick Network site and sharing information with one our companies you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by ValueClick, Inc. in writing . For more information about the ValueClick Network and other ValueClick companies please visit [www.ValueClick.com ](http://www.valueclick.com/). 
+## 1\. Collection of Personal Information
 
-CALIFORNIA RESIDENTS: YOUR PRIVACY RIGHTS Effective January 1, 2005, companies that collect personally identifiable information (PII) from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your PII not be shared with third parties by sending your request, including your full name, email address and postal address to: 123inkjets.com, Attn: SB 27 Officer, 30699 Russell Ranch Road Suite 250, Westlake Village, CA 91361. 
+We do not automatically collect personal information when you browse the Website. We only collect personally identifiable information, such as your name, address, telephone number, email address, credit card information and date of birth when you specifically and knowingly provide it to us by registering to create an account, placing an order, completing online forms, opting in to receive our newsletter and promotional offers or entering a sweepstakes, contest or drawing. When you use the website to apply for employment opportunities, we may collect additional personal information such as your resume. Information that you furnish to 123Inkjets is used to provide the services available through the Website.
 
-**STATEMENT OF RESPONSIBLE ONLINE MARKETING**
+## 2\. Automatically-Collected Information
 
-The ValueClick Network's information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, the ValueClick Network creates opportunities for advertisers and consumers in revolutionary ways without compromising individual privacy. 
+We automatically collect non-personal information about the computer or devices (including mobile devices) you use to access the Website. For example, we may collect and store information such as your browser type, IP address, language, operating system, location of your wireless device (e.g. latitude and longitude), the state or country from which you accessed the Website, unique device identifier (e.g. a UDID or IDFA on Apple devices), the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting the Website, error logs and other hardware and software information. This automatically collected information does not identify and is not associated with any specific individuals. We may use third party analytics providers and technologies, including cookies and similar tools to assist in collecting this information. We may use this information to formulate statistical models about use of the Website, enhance the services available through the Website for other users, and to provide you with tailored content and advertising.
 
-**I. INFORMATION WE COLLECT: INDIVIDUAL INTERNET CONSUMERS**
+## 3\. Use of Your Information
 
-**A. Personally Identifiable Information (PII).** _  
-_ The ValueClick Network sites are designed to offer Internet consumers with a variety of valuable products. When you place an order with a ValueClick Network site, you will be asked to provide your name, address, zip code, email address and billing information. This information is used to process your order and we cannot do so without it. The ValueClick Network will never request or collect data regarding medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
+We use your information for the purpose for which you provided it, and we may also use your information for other purposes such as to:
 
-The ValueClick Network may use your PII for customer service, to provide you with information that you may request, to customize your experience on the Site, and to contact you when necessary in connection with transactions entered into by you on the Site. We also may use your personal information for internal business purposes, such as analyzing and managing our business or combine the information we have gathered about you with information from other sources. 
+  * Create and maintain your account or registration;
+  * Enhance the user experience;
+  * Perform research and analytics
+  * Customize and personalize the content and advertising that you see on the Website;
+  * Respond to and fulfill your request for services (including processing orders);
+  * Determine your eligibility for certain promotions, contests and services; and
+  * Send you communications related to your account and to alert you of the latest developments and features of the Website.
 
-Unless you tell us not to, we may use your personal information to contact you about offers or promotions from the ValueClick Network and selected third parties we think you would be interested in. 
 
-**B. Non-Personally Identifiable Information (PII).** _  
-_ When you visit a ValueClick Network site, we send a cookie and/or gif file ("Cookies") to assign an anonymous, unique identifier to the end user's Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. For example, Cookies enable ValueClick to track your shopping cart and retrieve your information and preferences when you return to our site. 
 
-For each visitor to our website, our Web server automatically recognizes only the visitor's IP address. We use your IP address to help diagnose problems with our server and to administer our website. Upon visiting our website, we assign each visitor a unique ID that is used to track visitor traffic patterns within our website. We also collect aggregate and user-specific information on what pages visitors access or visit. We reserve the right to retain all website traffic reporting data as long as may be reasonably necessary for accounting and auditing purposes. 
+We use information your provide about someone else when placing an order only to ship the product to that person and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-**II. INFORMATION SHARING**
+## 4\. Disclosure of Your Information to Third Parties
 
-The ValueClick Network may use third party vendors (e.g., credit card processors) to help us operate our business and ValueClick Network sites or administer activities on our behalf. We may share your information with these third parties for those limited purposes. Any third-party vendor so used has agreed to protect the confidentiality of information provided by ValueClick. 
+We use third parties to complete certain services that are provided through the Website, such as a shipping company to fulfill orders, a credit card processing company to bill you for your orders, and an email service provider to send you newsletters in the event you opt-in to receive them. We use Live Chat to assist you if you have questions while using our site or regarding your order and we use an applicant-management database to process employment submissions. We only share your information with these third parties to the extent that it is necessary to provide a particular service. These third parties are prohibited from using your information for other purposes.
 
-The ValueClick Network and/or our marketing partners may enhance and/or merge PII about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information. 
+We may also share your information in the following ways:
 
-The ValueClick Network may share PII (including information that has been enhanced with information from other sources) with advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the ValueClick Network companies. While ValueClick strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy. 
+  * We may make information collected through the Website available to affiliated brands that are under common ownership or control as the Website.
+  * We may share, as allowed by law, information about you with other companies who we believe may have products and services of interest to you. If you would like to opt-out of our sharing of your information with these other companies, please follow the instructions in the “Opting out of Emails and Promotional Communications” section below.
+  * We may share your information with any person or entity where we believe in good faith that such disclosure is necessary to: (a) comply with the law or in response to a subpoena, court order, government request or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) protect the interests, rights, safety or property of 123Inkjets or others; (d) enforce the Terms of Use on the Website; (e) provide users of the Website with the services they request; (f) provide you with special offers or promotions from us; and (g) If 123Inkjets is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms and Conditions ](https://web.archive.org/cs/policies_termsandconditions.html) and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
-**III. CONSUMER CHOICE AND ACCESS**
 
-If at anytime you no longer wish to receive offers from a 123inkjets.com, you may "unsubscribe" through this website or by using the unsubscribe option within any promotional offer. In compliance with the CAN-SPAM Act, you will be removed entirely from our email list and will no longer receive offers from us. If you have registered or submitted PII under more than one email account, you must submit separate unsubscribe requests from each account. 
+## 5\. Use of Cookies and Other Technology
 
-The Cookies we use do not have an "opt-out" option, yet you still have the option of blocking the use of cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We connect the information gathered to our Customers’ or Users’ personally identifiable information.
 
-The ValueClick Network uses software and third-party sources to validate the accuracy of PII provided and/or filter suspicious data. You may change, correct or update your information by email by contacting CustomerSupport@InkBlvd.com. Changing or deleting your information or otherwise opting-out of receipt of communications from the ValueClick Network will change or delete the data only in our database for purposes of transacting future business on our sites and for managing future communications from 123inkjets.com. These changes and deletions will not change or delete information already collected as part of a particular transaction. ****
+## 6\. Tailored Advertising
 
-**IV. SECURITY**
+The Website may include third party tailored ad technology from our ad partners which enables customized ads to be displayed to you through the Website and that manages our advertising on other sites. We do not share personal information with these third parties; however, when you use the Website, we or our third party ad partners operating the ad serving technology may use non-personal information that is collected through cookies, anonymous identifiers, such as an IDA on iOS devices, web beacons, pixels or clear GIFs to ensure that appropriate ads are presented and/or to perform analytics concerning your use of the Website and other websites tracked by our ad partners. These technologies also may control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. To the extent any of this information is collected by third parties, you acknowledge and agree that such collection and use is governed by those third parties’ privacy policies and that 123Inkjets is not responsible for the privacy practices of such third parties. The Website is not designed to respond to “do not track” signals or mechanisms from your web browser.
 
-The ValueClick Network employs industry standard security measures to ensure the security of all data. Any data that is stored on ValueClick's servers is treated as proprietary and confidential and is not available to the public. ValueClick also encrypts sensitive information such as passwords and financial data. ValueClick has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering ValueClick products and services by means of user login and password requirements. The ValueClick Network routinely evaluates its data security practices to identify security threats or opportunities for improvement. 
+If you are interested in more information about tailored ads and your choices to prevent third parties from delivering tailored ads, you may visit the following third party websites: the Network Advertising Initiative Consumer Opt-Out Page by clicking here or the Digital Advertising Alliance’s Consumer Opt-Out Page by clicking [HERE](http://www.aboutads.info/choices/).
 
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ValueClick to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, ValueClick cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a ValueClick Network company. 
+## 7\. User-Initiated Communication
 
-**V. CONSENT AND CHANGES**
+From time to time, portions of the Website may enable you to send emails and other types of messages to us or third parties. All such emails, messages and written communications become our property once you submit them. Whenever you choose to initiate these kinds of communications with us, you may be contacted in return.
 
-The ValueClick Network may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by ValueClick prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out of such proposed change. 
+## 8\. Customer Reviews
 
-**VI. CHILDREN'S PRIVACY AND SPAM**
+We post customer reviews on the Website which may contain personally identifiable information as well as a photo of your product. We will obtain a customer’s consent by email prior to posting their review.
 
-The ValueClick Network is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. ValueClick's web site, products, and services are not developed for or directed at children. Our policy is not to permit anyone under the age of 13 to do business with us. If you believe your child has provided the ValueClick Network with any personally identifiable data by registering at a ValueClick web site, please contact privacy@”.$site_name.”.com to have them removed. 
+## 9\. Opting In and Out of Emails and Promotional Communications.
 
-The ValueClick Network is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" email by ValueClick or any of its marketing partners. 
+To receive newsletters and other promotional communications by email, users may voluntarily sign up on the Website. From time to time, we may send you email notices or news updates alerting you to new features, products, promotions, services pertaining to our offerings, or other topics that may be of interest to you. If you no longer wish to receive promotional materials from us, you may opt out of receiving these communications by following the instructions included in each newsletter or communication or by emailing us at [info@123inkjets.com](mailto:info@123inkjets.com). Please note that these opt-out processes take some time to complete, consistent with applicable law.
 
-Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use. 
+## 10\. Data Security
 
-| 
+We follow generally accepted industry standards to protect the personally identifiable information that we receive from you, while the information is being transmitted and once we receive it. When you provide us with sensitive information (such as credit card information) on our order forms, we encrypt the information using secure socket layer technology, which is commonly referred to as “SSL.” However, despite our best efforts, no method of transmission over the internet, or method of electronic storage is 100% secure. We encourage you to contact us immediately if you believe that any personally identifiable information that you have provided us is being used contrary to this Policy.
 
-_To receive no further emails . . ._
+## 11\. Privacy of Children
 
-| 
+Protecting the privacy of children is especially important to us. We do not knowingly market, collect or maintain any personal information from children under the age of 13. If a parent or guardian believes that we have personal information of a child under the age of 13 in our database, they should contact us immediately at [info@123inkjets.com](malito:info@123inkjets.com) and we will promptly remove such information from our records.
 
-_Opt-Out Mechanism to Use_  
-  
----|---  
-  
-about the advertiser 
+## 12\. Privacy of ChildrenAccessing or Correcting Your Information
 
-| 
+If your personally identifiable information changes, is inaccurate, or if you no longer wish to use the services offered through the Website, you may notify us by emailing our customer support at [info@123inkjets.com](mailto:info@123inkjets.com) or by contacting us by telephone or mail at the contact information listed below. You may request factual errors to be corrected in your personally identifiable information by sending us a request that credibly shows the errors. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
-Advertiser's   
-  
-from the email marketing company 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@123inkjets.com](mailto:info@123inkjets.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-| 
+## 13\. Third Party Links and Services
 
-Marketer's   
-  
-from the advertiser or email marketing company 
+The Website may contain links to third-party websites including social networking websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services to which we link. We do not endorse or make any representations about third-party websites or services. The personal information you choose to provide to such third parties, or that is collected by them, is not covered by this Policy. We strongly encourage you to read such third parties’ privacy policies.
 
-| 
+## 14\. Social Media Features and Widgets
 
-Both   
-  
-**VII. DATA PROCESSING**
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-You acknowledge that 123inkjets.com operates in the United State and agree to (i) permit 123inkjets.com to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by 123inkjets.com shall be subject to the terms and conditions stated in this Privacy Statement and our [Terms and Conditions ](https://web.archive.org/cs/policies_termsandconditions.html). 
+## 15\. Single Sign On
 
-**VIII. NETWORK ADVERTISING INITIATIVE**
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-ValueClick, Inc. is a member of the Network Advertising Initiative ("NAI"). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to http://networkadvertising.org/. 
+## 16\. Contacting Us
 
-**IX. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE **
+If you have any questions about the Policy, contact us by sending an email to [info@123inkjets.com](mailto:info@123inkjets.com). You can also call us at (888) 465-7765 or write to us at:
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS ](https://web.archive.org/cs/policies_termsandconditions.html) (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT 123inkjets.com'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY 123inkjets.com TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. 
+123inkjets  
+2828 Cochran Street, Suite 283  
+Simi Valley, CA 93065  
 
-You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to 123inkjets.com with regard to: (a) the purposes for which such third party's data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
 
-**CONTACT US**
+We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of 123Inkjets’ policies or procedures.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: 
+## 17\. Updates to Policy
 
-123inkjets.com  
-Attn: Privacy Compliance Officer   
-25 E. Easy Street  
-Simi Valley, CA 93065
+We may amend this Policy at any time by posting the changes on this page. Any changes to the Policy will become effective upon posting. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of the Website following any changes means you accept such revisions. You should check the effective date of the Policy below and review any changes since the last time you used the website.
 
-You may also contact us by email at [privacy@123inkjetsmailer.com](mailto:privacy@123inkjetsmailer.com). 
+## 18\. Effective Date
+
+This Policy is effective as of March 3, 2014.
