@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthvocal.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213123039id_/http%3A//youthvocal.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthvocal.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315051336id_/http%3A//youthvocal.com/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Youth Vocal
 
