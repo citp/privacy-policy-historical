@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nordfx.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007024340id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordfx.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315232138id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - NordFX
 
 **The provisions of this notice apply to former clients as well as our current clients.**
 
