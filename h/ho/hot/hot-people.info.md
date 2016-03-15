@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-people.info privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230012711id_/http%3A//www.hot-people.info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-people.info privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315053126id_/http%3A//www.hot-people.info/Privacy.html) for the most accurate reproduction.*
 
 # Hot People
 
