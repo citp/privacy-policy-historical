@@ -1,28 +1,149 @@
-> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213141519id_/http%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315020733id_/http%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting our web site.   
+We know your privacy is important to you and it is important to us as well. We value our relationship with our customers and believe in being transparent about how we manage and protect your data. The details are below, but if you have any questions, feel free to reach out to us.
 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used primarily to fulfill your specific request. 
+**What personal information do we collect from the people that visit our website?**
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-Please NOTE: We sometimes share your postal addresses with other catalogs whose products we think you might like or, with your prior consent, other trusted third party partners. If you do not want us to share your name, please contact us at:  
-GiftsForYouNow.com  
-109 Shore Drive  
-Burr Ridge, IL 60527
+**When do we collect information?**
+
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey or enter information on our site.
+
+**How do we use your information?**
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+      • To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+
+      • To improve our website in order to better serve you.
+
+      • To allow us to better service you in responding to your customer service requests.
+
+      • To administer a contest, promotion, survey or other site feature.
+
+      • To quickly process your transactions.
+
+      • To send periodic emails regarding your order or other products and services.
+
+**How do we protect visitor information?**
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+**Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We use cookies to:
+
+      • Help remember and process the items in the shopping cart.
+
+      • Understand and save user's preferences for future visits.
+
+      • Keep track of advertisements.
+
+      • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders.
+
+**Third Party Disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except in the following situations:
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these organizations for marketing purposes. We may also transfer information as part of sale of all or part of the company.
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+**Third party links**
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-  * By E-Mail: [service@GiftsForYouNow.com](mailto:service@GiftsForYouNow.com)
-  * By Phone: 630-771-0095
+**Google**
 
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
+We have not enabled Google AdSense on our site but we may do so in the future.
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify the users via email
+
+      • Within 1 business day
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+      • Send information, respond to inquiries, and/or other requests or questions.
+
+      • Process orders and to send information and updates pertaining to orders
+
+      • We may also send you additional information related to your product and/or service.
+
+      • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+To be in accordance with CANSPAM we agree to the following:
+
+      • NOT use false, or misleading subjects or email addresses
+
+      • Identify the message as an advertisement in some reasonable way
+
+      • Include the physical address of our business or site headquarters
+
+      • Monitor third party email marketing services for compliance, if one is used.
+
+      • Honor opt-out/unsubscribe requests quickly
+
+      • Allow users to unsubscribe by using the link at the bottom of each email
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at
+
+      • Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from ALL correspondence.
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+giftsforyounow.com
+
+109 Shore Drive
+
+Burr Ridge, IL 60527
+
+United States
+
+[service@GiftsForYouNow.com](mailto:service@GiftsForYouNow.com)
+
+630-771-0098
+
+Last Edited on 2016-01-04
