@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreearticle.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811150342id_/http%3A//www.afreearticle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreearticle.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315124750id_/http%3A//afreearticle.com/privacy.php) for the most accurate reproduction.*
 
 # A Free Article Directory | Privacy Statement
 
