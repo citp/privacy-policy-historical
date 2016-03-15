@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616064742id_/http%3A//www.moneycorp.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315034752id_/https%3A//www.moneycorp.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Moneycorp
 
@@ -54,9 +54,9 @@ Moneycorp Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swis
 
 
 **Personally Identifiable Information  
-** If you reside within a country that is a part of the EU or Switzerland, the following rights related to your Personally Identifiable Information will apply in addition to the above principles of processing your information: ****
+** If you reside within a country that is a part of the EU or Switzerland, the following rights related to your Personally Identifiable Information will apply in addition to the above principles of processing your information: ** **
 
-  * When information is deemed inaccurate or incomplete, you have the right to request an amendment to your identifiable information, except where the burden or expense of providing access would be disproportionate to the risks to the your privacy in the case in question, or where the rights of persons other than you would be violated.
+  * When information is deemed inaccurate or incomplete, you have the right to request an amendment to your identifiable information, except where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of persons other than you would be violated.
   * The right to request a disclosure of all entities with which your personally identifiable information was shared, except where exempted by law.
   * The right to request a restriction of the disclosure of your personally identifiable information.
   * The right to request a restriction of the use of your personally identifiable information if the information is to be used for a purpose under pretenses which differ from those which were communicated when the information was initially collected or authorised by you.
@@ -64,18 +64,18 @@ Moneycorp Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swis
 
 
 **Choice  
-** We will provide individuals with the opportunity to opt out of any disclosure of their Personal Data to any non-agent third party or the use of that data for a purpose other than the purpose for which it was originally collected or subsequently authorised by the individual. ****
+** We will provide individuals with the opportunity to opt out of any disclosure of their Personal Data to any non-agent third party or the use of that data for a purpose other than the purpose for which it was originally collected or subsequently authorised by the individual. ** **
 
 We will not disclose sensitive Personal Data to a non-agent for a purpose other than for which it was originally collected or unless the individual opts in for such information to be disclosed.
 
   
 **Enforcement  
-** We will conduct compliance audits of its relevant privacy practices to verify compliance with the Safe Harbor Principles. ****
+** We will conduct compliance audits of its relevant privacy practices to verify compliance with the Safe Harbor Principles. ** **
 
 Any employee of the Company that we determine has acted in violation of this policy as well as the Safe Harbor Principles will be subject to disciplinary action up to and including termination of employment.
 
 **Dispute resolution** **  
-**Any questions or concerns regarding our use or disclosure of Personal Data should be addressed to the Data Protection Officer. ****
+**Any questions or concerns regarding our use or disclosure of Personal Data should be addressed to the Data Protection Officer. ** **
 
 All requests, complaints, and communications will be evaluated on a case-by-case basis, and will be processed in accordance with all Federal, State, Provincial, and Local laws and regulatory requirements. 
 
@@ -83,7 +83,7 @@ For inquiries regarding personally identifiable information originating in the E
 
   
 **Contacting us about this notice  
-** If you wish to speak to us about anything contained in this notice or you wish to find out more about our data protection policy generally please contact: ****
+** If you wish to speak to us about anything contained in this notice or you wish to find out more about our data protection policy generally please contact: ** **
 
 **Matthew Cook (Head of Legal)**  
  **TTT Moneycorp Limited**  
