@@ -1,33 +1,23 @@
-> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012154id_/http%3A//www.visiondirect.com/la/help/default.asp%3Fcatid%3D148605%26atrx%3Ddps-16%26atrxp1%3D282487%26atrxp2%3D4%26atrxp3%3Dhttp%253A%252F%252Fwww%252Evisiondirect%252Ecom%252Fla%252Fhelp%252Fdefault%252Easp%253Fcatid%253D148605%26atrxp4%3D27087) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315073035id_/http%3A//www.visiondirect.com/la/help/default.asp%3Fcatid%3D148605%26atrx%3Ddps-16%26atrxp1%3D282487%26atrxp2%3D4%26atrxp3%3Dhttp%253A%252F%252Fwww%252Evisiondirect%252Ecom%252Fla%252Fhelp%252Fdefault%252Easp%253Fcatid%253D148605%26atrxp4%3D27087) for the most accurate reproduction.*
 
 # Vision Direct - Contact Lenses: Order Discount Contact Lenses Acuvue, Acuvue 2, Focus, Freshlook Online
 
 |  |  | 
 
-**TRUSTe Licensee**
-
-[ ](https://privacy.truste.com/privacy-seal/Drugstore-com,-Inc-/validation?rid=6b47c335-1c6c-43aa-b48c-a877c39b2e83&atrx=dps-16&atrxp1=148603&atrxp2=0&atrxp3=%2F%2Fprivacy%2Etruste%2Ecom%2Fprivacy%2Dseal%2FDrugstore%2Dcom%2C%2DInc%2D%2Fvalidation%3Frid%3D6b47c335%2D1c6c%2D43aa%2Db48c%2Da877c39b2e83&atrxp4=148605 "TRUSTe online privacy certification")
-
-drugstore.com, inc. wants you to feel secure when visiting [www.VisionDirect.com](http://www.visiondirect.com/?atrx=dps-16&atrxp1=148603&atrxp2=1&atrxp3=http%3A%2F%2Fwww%2EVisionDirect%2Ecom&atrxp4=148605) and is committed to maintaining your privacy when you do so. This privacy policy explains our policies and practices regarding the collection, use, storage, and disclosure of your personal information by Vision Direct Inc., a subsidiary of drugstore.com, inc. (“Vision Direct”, “we”, “us”).
-
-We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. This statement discloses the privacy practices for Vision Direct. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@visiondirect.com](mailto:privacy@visiondirect.com). If you are not satisfied with our response you can contact TRUSTe [here](http://www.truste.org/consumers/watchdog_complaint.php). 
-
 **Information We Collect**   
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our websites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions. 
 
-**Your Account**   
+**Your Account**  
 When you place an order, we will ask you to set up "my account," which includes your name, e-mail address, mailing address, credit card number, and expiration date, as well as certain other information when you order prescriptions. Using your account information, we will send you communications that we believe are relevant to you, including eMedalert™ recall notices, prescription refill and renewal reminders, newsletters, and e-mails. If you prefer not to receive optional e-mails or other communications from us, you may adjust your account to prevent such communications by clicking on "subscriptions" within "my account," by contacting us at [unsubscribe@visiondirect.com](mailto:unsubscribe@visiondirect.com), or by clicking the “Unsubscribe” link included in any of our e-mail messages. 
 
 If you would like to review or revise the information we have in your account, you may access such information by clicking on the "my account" link below or on any screen of our site. 
 
-[https://www.visiondirect.com/la/account/default.asp](https://www.visiondirect.com/la/account/default.asp?atrx=dps-16&atrxp1=148603&atrxp2=6&atrxp3=https%3A%2F%2Fwww%2Evisiondirect%2Ecom%2Fla%2Faccount%2Fdefault%2Easp&atrxp4=148605)
+[https://www.visiondirect.com/la/account/default.asp](https://www.visiondirect.com/la/account/default.asp?atrx=dps-16&atrxp1=148603&atrxp2=1&atrxp3=https%3A%2F%2Fwww%2Evisiondirect%2Ecom%2Fla%2Faccount%2Fdefault%2Easp&atrxp4=148605)
 
-**Customer Reviews**   
+ **Customer Reviews**  
 We are pleased to hear from our customers and welcome your comments regarding our products. We include customer reviews on our website to allow other customers to see what you think about a product. These reviews may contain personally identifiable information, such as your name, should you choose to use your first and/or last name. We also allow you the option of sharing your review anonymously by entering a “nickname” when submitting your review. To request removal of your personal information from these reviews, contact us at [privacy@visiondirect.com](mailto:privacy@visiondirect.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
-**Your Health Information**   
+**Your Health Information**  
 To fill your prescription contact lens order, we collect the following additional information: your date of birth, prescription information, and doctor or clinic information (including name, address, and phone number of your prescriber). 
 
 **Information Automatically Collected**  
@@ -35,10 +25,10 @@ We automatically receive and collect certain types of information whenever you v
 
 If you would like more information about these practices or to learn about your options for not having this information used, please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
-**Information From Third Parties**   
+ **Information From Third Parties**  
 If we receive updated account information from third parties, we may revise your account for you so that we can efficiently process your orders, deliver your packages, or otherwise communicate with you. For example, we may receive customer information from our shippers or from third parties with which we operate co-branded businesses. In addition, we may acquire customer names, e-mail addresses, and mailing addresses for select mailings from third parties. 
 
-**Other Information You Provide**   
+**Other Information You Provide**  
 We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or sweepstakes/contest entry forms, add items to Your List™, sign up for special discounts or coupons, communicate with us by e-mail, phone or otherwise, provide product reviews, or provide alternative delivery addresses.
 
 **Sharing Your Information with Third Parties**
@@ -111,7 +101,7 @@ Bellevue, WA 98004
 
 1-800-847-4663
 
-Last updated: February 07, 2014
+Last updated: June 2, 2015
 
 Copyright © 2020Vision Direct Inc. All rights reserved. 
 
