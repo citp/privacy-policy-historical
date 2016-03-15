@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yellowfashion.in privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529083934id_/http%3A//www.yellowfashion.in/pages/yellow-fashion-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowfashion.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315155531id_/http%3A//www.yellowfashion.in/pages/yellow-fashion-privacy-policy) for the most accurate reproduction.*
 
 # YellowFashion.in — Yellow Fashion - Privacy Policy | New Designer Sarees, Fancy Saris, Bridal Saree, Salwar Suits, Chiffon & Cotton Saris | Free Shipping & 7 Days easy return policy
+
+We Ship to 26 Countries. Choose your currency: ₹ INR රු LKR € EURO $ USD
 
 **Yellow Fashion Privacy Policy**
 
