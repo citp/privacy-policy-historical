@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220020427id_/http%3A//www.herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315055444id_/http%3A//www.herbspro.com/privacy-policy) for the most accurate reproduction.*
 
-# Herbal Medicine for natural health from your HerbsPro
+# Privacy policy
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to HerbsPro.com to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to HerbsPro.com to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
 We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, HerbsPro.com follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
@@ -20,11 +20,11 @@ We believe your business is no one else's. Your privacy is important to you…an
 
 
 
-**CONSENT** If you choose not to register or provide personal information, you can still use most of www.HerbsPro.com. But you will not be able to access areas that require registration. 
+**CONSENT** If you choose not to register or provide personal information, you can still use most of www.HerbsPro.com. But you will not be able to access areas that require registration.
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding HerbsPro.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from HerbsPro.com. 
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding HerbsPro.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from HerbsPro.com.
 
-HerbsPro.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
+HerbsPro.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
 
 **ACCESS** We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
 
@@ -35,13 +35,13 @@ HerbsPro.com occasionally allows other companies to offer our registered custome
 
 
 
-**SECURITY** HerbsPro.com has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+**SECURITY** HerbsPro.com has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
 We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you're utilizing a secure server software SSL, which encrypts your personal information before it's sent over the Internet. SSL is one of the safest encryption technologies available.
 
 In addition, your transactions are guaranteed under the Fair Credit Billing Act. This Act states that your bank cannot hold you liable for more than $50.00 in fraudulent credit card charges. If your bank does hold you liable for $50.00 or less, we'll cover your liability provided the unauthorized, fraudulent use of your credit card resulted through no fault of your own and from purchases made from us over our secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-HerbsPro.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+HerbsPro.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
 Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in USA or any other country where HerbsPro.com, its subsidiaries, affiliates or agents are located.
 
@@ -49,7 +49,7 @@ You also have a significant role in protecting your information. No one can see 
 
 **NOTICE TO PARENTS**
 
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
 
 The HerbsPro.com site does not publish content that is targeted to children. However, if you are concerned about your children providing HerbsPro.com any personal information without your consent, HerbsPro.com offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online. 
 
@@ -69,6 +69,6 @@ When you register, we create your profile, assign a personal identification numb
 
 When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the product(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don't use this information again without your permission.
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+We occasionally contract with third party service partners to provide limited services on our behalf, including packaging, data collection, storage, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose, other than to help us make our site and services more useful to our visitors. Service partners are required to sign confidentiality agreements and will abide by Herbspro.com's privacy policies.
 
-HerbsPro.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on HerbsPro.com or the site; (b) protect and defend the rights or property of HerbsPro.com and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of HerbsPro.com, its Websites, or the public. 
+HerbsPro.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on HerbsPro.com or the site; (b) protect and defend the rights or property of HerbsPro.com and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of HerbsPro.com, its Websites, or the public.
