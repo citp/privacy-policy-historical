@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185121id_/https%3A//www.cff.org/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315155118id_/https%3A//www.cff.org/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | CF Foundation
 
