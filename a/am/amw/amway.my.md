@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the amway.my privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023060801id_/http%3A//www.amway.my/amway-support/policies-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.my privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315082003id_/http%3A//www.amway.my/amway-support/policies-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # AMWAY (MALAYSIA) SDN BHD PRIVACY POLICY
 
-Amway (Malaysia)  Sdn Bhd recognises that your privacy is very important to you and to most people. Our Privacy Policy is detailed below and we suggest that you read it thoroughly. This policy may change from time to time and all changes will be posted on this Web Site so please check back periodically. We collect personal data only if you are or become a Distributor and we use that information mainly to help us understand your needs so that we may better service them.
+Amway (Malaysia)  Sdn Bhd recognises that your privacy is very important to you and to most people. Our Privacy Policy is detailed below and we suggest that you read it thoroughly. This policy may change from time to time and all changes will be posted on this Web Site so please check back periodically. We collect personal data only if you are or become an ABO and we use that information mainly to help us understand your needs so that we may better service them.
 
   
 The Personal Data Protection Act 2010, which applies to all companies and firms established in Malaysia, was introduced by the Government to regulate the processing of personal data in commercial transactions.  The Act requires us to inform you of your rights with regards to your personal data that is collected and processed, and the purpose of such processing.  It also requires us to obtain your consent to the processing of your personal data.
 
 I.          **Objective** : 
 
-The policy aims at identifying the standard requirements on collecting, operating, maintaining, protecting, disclosure, retaining, and archiving and distributing the personal information of AMWAY (Malaysia) Sdn Bhd employees and Distributors.
+The policy aims at identifying the standard requirements on collecting, operating, maintaining, protecting, disclosure, retaining, and archiving and distributing the personal information of AMWAY (Malaysia) Sdn Bhd employees and ABOs.
 
 II.         **Scope** : 
 
-The policy is applicable to those who are AMWAY (Malaysia) Sdn Bhd employees, Distributors and the third parties who process these personal data in the name of AMWAY (Malaysia) Sdn Bhd.
+The policy is applicable to those who are AMWAY (Malaysia) Sdn Bhd employees, ABOs and the third parties who process these personal data in the name of AMWAY (Malaysia) Sdn Bhd.
 
 III.        **Definition** : 
 
@@ -47,7 +47,7 @@ III.        **Definition** :
 
 IV         **Policy Statement**
 
-The **Privacy Policy** says how we respect both our staff and Distributor’s Personal Data interests: 
+The **Privacy Policy** says how we respect both our staff and ABO’s Personal Data interests: 
 
 ·         We provide NOTICE to individuals about how their personal data is used. 
 
@@ -65,7 +65,7 @@ The **Privacy Policy** says how we respect both our staff and Distributor’s Pe
 
 ******How WE COLLECT PERSONAL DatA**
 
-We collect Personal Data from you in various ways and at several different points. We may collect your Personal Data on one of our web sites, by telephone, facsimile, when you complete and submit an application form to become a Distributor.  
+We collect Personal Data from you in various ways and at several different points. We may collect your Personal Data on one of our web sites, by telephone, facsimile, when you complete and submit an application form to become a ABO.  
 Wherever possible we collect Personal Data directly from you. There may, however, be occasions where we collect your Personal Data from someone else. For example, where you make an application in joint names. 
 
 If you provide Personal Data to us about another person, we rely on you to have made, or make them aware that you will, or may, provide their information to us and the kinds of third parties we may provide it to and the relevant purposes we and the third parties will use it for and how they can access it. If you have not done, or will not do these things, you must tell us before you provide the relevant Personal Data. 
@@ -76,9 +76,9 @@ From time to time, we may provide Personal Data in response to court order, subp
 
 Should Amway (Malaysia) Sdn Bhd or its related entities merge with or be acquired by another business entity, or its respective assets be acquired, you should expect that we would share some or all of your Personal Data to companies assuming the role of serving you and other users of our Site.
 
-**2.     ****Distributors**
+**2.     ****ABOs**
 
-If you are a Distributor, you will receive advice and information from your own personal business advisory team and support network consisting of your sponsoring Distributor and upline organisation. To allow such communication, we may share your contact information with your sponsoring Distributor  and upline organisation. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy. In the ordinary course of supporting your business, information about you and your orders might be shared with your sponsoring Distributor  and immediate upline Distributor. You have the opportunity to let us know, however, if you do not want any Personally Identifiable Information shared beyond your immediate upline Distributor.
+If you are a ABO, you will receive advice and information from your own personal business advisory team and support network consisting of your sponsoring ABO and upline organisation. To allow such communication, we may share your contact information with your sponsoring ABO  and upline organisation. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy. In the ordinary course of supporting your business, information about you and your orders might be shared with your sponsoring ABO  and immediate upline ABO. You have the opportunity to let us know, however, if you do not want any Personally Identifiable Information shared beyond your immediate upline ABO.
 
 **3.     ****Your Choices**
 
@@ -102,7 +102,7 @@ If you have any concerns about our use of your Personal Data or wish to access a
 
 Sales Division
 
-(Distributor Records)
+(ABO Records)
 
 AMWAY (Malaysia) Sdn Bhd 
 
