@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistastartmenu.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926071542id_/http%3A//www.vistastartmenu.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistastartmenu.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315020158id_/http%3A//vistastartmenu.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
