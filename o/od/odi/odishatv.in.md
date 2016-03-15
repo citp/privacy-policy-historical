@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odishatv.in privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921002047id_/http%3A//odishatv.in/%3Fpage_id%3D54878) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishatv.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315125027id_/http%3A//odishatv.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Odisha Television Limited
 
