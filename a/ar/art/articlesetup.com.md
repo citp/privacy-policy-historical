@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesetup.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225132124id_/http%3A//articlesetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesetup.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315053157id_/http%3A//articlesetup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ArticleSetup.com
 
