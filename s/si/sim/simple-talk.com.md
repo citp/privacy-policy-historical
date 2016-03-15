@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905110941id_/https%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315030835id_/https%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Simple-Talk.com is a service from Red Gate Software Limited (together "Simple-Ta
 
 Simple-Talk.com respects your privacy and will use any personal information collected from this website (<http://www.simple-talk.com/>) in accordance with the Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website of The Office of the InformationCommissioner ([www.ico.gov.uk](http://www.ico.gov.uk/)). This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us.
 
-Any questions regarding our privacy policy should be directed to Simple-Talk.com's privacy policy manager at [privacy@simple-talk.com](https://web.archive.org/web/20150905110941id_/https%3A//www.simple-talk.com/privacy@simple-talk.com) or alternatively see the section **'your rights'.**
+Any questions regarding our privacy policy should be directed to Simple-Talk.com's privacy policy manager at [privacy@simple-talk.com](https://web.archive.org/web/20160315030835id_/https%3A//www.simple-talk.com/privacy@simple-talk.com) or alternatively see the section **'your rights'.**
 
 **1.3** **What information do we collect and why?**
 
