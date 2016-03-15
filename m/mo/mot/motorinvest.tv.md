@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorinvest.tv privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115040856id_/http%3A//www.motorinvest.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorinvest.tv privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315204522id_/http%3A//www.motorinvest.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MotorInvest
 
