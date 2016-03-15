@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907134028id_/https%3A//www.cheapesttextbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315021657id_/https%3A//www.cheapesttextbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - CheapestTextbooks.com
 
@@ -23,7 +23,7 @@ Notification of Changes
 If we decide to change our privacy policy, we will post those changes to this privacy statement so our users are always aware of what information we collect and how we use it.
 
 Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please [ Contact Us](http://www.cheapesttextbooks.com/contact.html "Questions or Comments? Send us a message to let us know!") using our email submission format.
+If users have any questions or suggestions regarding our privacy policy, please [ Contact Us](https://www.cheapesttextbooks.com/contact.html "Questions or Comments? Send us a message to let us know!") using our email submission format.
 
 Sincerely,  
 CheapestTextbooks.com  
