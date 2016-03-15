@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordictrack.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905172958id_/http%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordictrack.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315230413id_/https%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401) for the most accurate reproduction.*
 
 # Privacy Policy
 
