@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvepresentation.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003053929id_/https%3A//www.improvepresentation.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvepresentation.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315060354id_/https%3A//www.improvepresentation.com/privacy_policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Improve Presentation
 
