@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcade-museum.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122174825id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcade-museum.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315120948id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) for the most accurate reproduction.*
 
 # WebMagic Privacy Policy
 
@@ -107,6 +107,6 @@ Please note that email may be get lost or caught up in spam protection measures.
 
 _**Terms of Use**_
 
-Your use of our web site or other services constitutes an acceptance of our [Privacy Policy](https://web.archive.org/web/20151122174825id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) as well as our [Terms of Use](https://web.archive.org/web/20151122174825id_/http%3A//www.arcade-museum.com/accounts/terms-of-use.php). 
+Your use of our web site or other services constitutes an acceptance of our [Privacy Policy](https://web.archive.org/web/20160315120948id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) as well as our [Terms of Use](https://web.archive.org/web/20160315120948id_/http%3A//www.arcade-museum.com/accounts/terms-of-use.php). 
 
 © 2012 All Rights Reserved.
