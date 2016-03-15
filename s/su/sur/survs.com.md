@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002045224id_/http%3A//survs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316003743id_/http%3A//survs.com/privacy) for the most accurate reproduction.*
 
 # Survs – Privacy Policy
 
