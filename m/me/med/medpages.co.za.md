@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322214617id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315083602id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
 # Medpages - The definitive contact database for healthcare in South Africa.
 
 Privacy Policy | 
 
-[](https://web.archive.org/web/20150322214617id_/http%3A//www.medpages.co.za/index.php?module=home)  
+[](https://web.archive.org/web/20160315083602id_/http%3A//www.medpages.co.za/index.php?module=home)  
   
 ---|---  
   
@@ -106,7 +106,7 @@ We ensure that your personal data, except that published or otherwise made avail
 
 ### How can I see the personal data that may be held about me?
 
-Please read our [Manual](https://web.archive.org/web/20150322214617id_/http%3A//www.medpages.co.za/mphtml/v2/pdf/Medpages_PAIA_Manual.pdf) in terms of Section 51 of the Promotion of Access to Information Act which details the process to follow to request your personal information. 
+Please read our [Manual](https://web.archive.org/web/20160315083602id_/http%3A//www.medpages.co.za/mphtml/v2/pdf/Medpages_PAIA_Manual.pdf) in terms of Section 51 of the Promotion of Access to Information Act which details the process to follow to request your personal information. 
 
 Upon request, we will provide you with a copy of the personal information and we welcome your examination of the information that we hold about you and, where appropriate, you may have the information:
 
@@ -132,6 +132,15 @@ If you choose to visit medpages.co.za, or to purchase and/or make use of a Medpa
 
 If you have an enquiry or concern about our privacy policy, please contact:
 
+Name : | Dr Ian Neuburger  
+---|---  
+Designation : | MD  
+Address : | Cape Town  
+Phone Number : | +27 (0)21 441 9700  
+Fax Number : | +27 (0)21 441 9701  
+Email address : | [ian@medpages.co.za](mailto:ian@medpages.co.za)  
+URL : | [www.medpages.co.za](http://www.medpages.co.za/)  
+  
 **Acknowledgement**
 
 This Privacy Statement is based on that recommended by the Organisation for Economic Co-Operation and Development (OECD) using the OECD Privacy Policy Statement Generator available at [www.oecd.org](http://www.oecd.org/) , October 2001. 
