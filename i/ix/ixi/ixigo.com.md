@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907055419id_/https%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315225907id_/https%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
 
 # ixigo.com - Privacy Policy
 
@@ -74,10 +74,10 @@ If you have any questions about our practices or this privacy policy, please con
 
 Le Travenues Technology Pvt. Ltd.
 
-3rd Floor,
+2nd floor, Veritas Building,
 
-Bestech Center Point,
+Behind Ibis Hotel, Sector 53,
 
-Sushant Lok-I,
+Golf Course Road,
 
 Gurgaon- 122002
