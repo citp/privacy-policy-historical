@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the aurora.org privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905132411id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aurora.org privacy policy that was archived on 2016-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315123241id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TX6G73&amp;v=1.0.0.62"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"541b3ba546","applicationID":"8091559","transactionName":"YFQGMRADXxBTV0RcX1keJQYWC14NHWdZQVVUXhYAIQ1fF0BbXFlVRR4tCwYHSQ==","queueTime":0,"applicationTime":484,"ttGuid":"80525726C6CA659C","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMOV1RTGwsAXVBXAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TX6G73&amp;v=4.0.0.12"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"541b3ba546","applicationID":"12905183","transactionName":"YFQGMRADXxBTV0RcX1keKTMhTWIKRlFTWkJScgsLFhBeD15RQhp5WVUBHQ==","queueTime":0,"applicationTime":205,"ttGuid":"289AD26A47574E2A","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMOV1RTGwICXVFXBgkE"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
 
 
+    
         <meta name="description" content="Website privacy policy, Aurora Health Care
 
 ">
@@ -23,10 +24,10 @@
         <meta property="og:description" content="Website privacy policy, Aurora Health Care
 
 ">
-            <meta property="og:image" content="https://www.aurorahealthcare.org/~/media/upload/ahc-logo">
-        <link rel="shortcut icon" href="/favicon.ico?v=1.0.0.62">
+            <meta property="og:image" content="https://www.aurorahealthcare.org/-/media/upload/ahc-logo">
+        <link rel="shortcut icon" href="/favicon.ico?v=4.0.0.12">
 
-        <script src="//use.typekit.net/fea2qyd.js?v=1.0.0.62"></script>
+        <script src="//use.typekit.net/fea2qyd.js?v=4.0.0.12"></script>
         <script>
             try
             {
@@ -36,24 +37,24 @@
             }
         </script>
     <!--[if lte IE 9]>
-        <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/site_pt_1.css?v=1.0.0.62" />
-        <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/site_pt_2.css?v=1.0.0.62" />
-        <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/ahc-old-ie.css?v=1.0.0.62" />
+        <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/site_pt_1.css?v=4.0.0.12" />
+        <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/site_pt_2.css?v=4.0.0.12" />
+        <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/ahc-old-ie.css?v=4.0.0.12" />
     <![endif]-->
     <!--[if !IE]>-->
-    <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/site.css?v=1.0.0.62">
+    <link rel="stylesheet" href="/Sites/AuroraHealthCareOrg/content/css/site.css?v=4.0.0.12">
     <!--<![endif]-->
-        <link rel="stylesheet" media="print" href="/Sites/AuroraHealthCareOrg/content/css/print-stylesheet.css?v=1.0.0.62">
+        <link rel="stylesheet" media="print" href="/Sites/AuroraHealthCareOrg/content/css/print-stylesheet.css?v=4.0.0.12">
     <!--[if lt IE 9]>
     <script src="//html5shiv-printshiv.googlecode.com/svn/trunk/html5shiv-printshiv.js"></script>
     <![endif]-->
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0Un9fLszYg_Q-8RA3szFtRKXaah9m2ps&amp;v=1.0.0.62"></script>
-    <script src="/Sites/AuroraHealthCareOrg/content/scripts/head-scripts.min.js?v=1.0.0.62"></script>
+    
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnLv6NCXr5jhq3687VNOKn8aypxriqFlQ&amp;v=3&amp;c=4.0.0.12"></script>
+    <script src="/Sites/AuroraHealthCareOrg/content/scripts/head-scripts.min.js?v=4.0.0.12"></script>
 
     <script>
-        window.CACHE_BUSTER = '1.0.0.62';
-        window.CACHE_BUSTER_WITH_QUESTION = '?v=1.0.0.62';
+        window.CACHE_BUSTER = '4.0.0.12';
+        window.CACHE_BUSTER_WITH_QUESTION = '?v=4.0.0.12';
         window.SITECORE_IS_EDITING_MODE = false;
         window.SEARCH_TYPE_STOP_DELAY_MS = 230;
         
@@ -62,13 +63,13 @@
 
     </script>
     
-<meta name="VIcurrentDateTime" content="635770562523123881">
+<meta name="VIcurrentDateTime" content="635936419612266013">
 <script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
 
 </head>
 <body class="contact-us">
         <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX6G73&amp;v=1.0.0.62" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX6G73&amp;v=4.0.0.12" height="0" width="0" style="display: none; visibility: hidden"></iframe>
         </noscript>
         <script>
             (function (w, d, s, l, i)
@@ -84,14 +85,13 @@
                     dl = l != 'dataLayer' ? '&l=' + l : '';
                 j.async = true;
                 j.src =
-                    '//www.googletagmanager.com/gtm.js?id=' + i + dl + '&v=1.0.0.62';
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl + '&v=4.0.0.12';
                 f.parentNode.insertBefore(j, f);
             })(window, document, 'script', 'dataLayer', 'GTM-TX6G73');
         </script>
     
-
     
-    <img src="/~/media/aurorahealthcareorg/brand-aurora/ahc-logo.ashx?v=1.0.0.62" class="aurora-brand__printed visible-print-inline-block">
+    <img src="/~/media/aurorahealthcareorg/brand-aurora/ahc-logo.ashx?v=4.0.0.12" class="aurora-brand__printed visible-print-inline-block">
 
     <!--[if IE]>
     <div class="r r-special-alert r-special-alert-general r-ie-message" style="display:none;">
@@ -111,35 +111,34 @@
         
 
 
-<div class="r r-myaurora-sign-in--secondary resizable hidden-print" style="font-size: 16px;">
-    
-        <div class="container">
+
+<div class="r r-myaurora-sign-in--secondary resizable hidden-print" style="">
+<div class="container">
 
 
-
-<div class="r-myaurora-sign-in__mobile visible-xs visible-sm visible-md" target="_blank" title="">myAurora <a href="https://my.aurorahealthcare.org/ahc/portal/AuroraHealthCare/myAuroraLandingPage" class="r-myaurora-sign-in__link" target="_blank">sign in</a> or <a href="https://my.aurorahealthcare.org/ahc/portal/AuroraHealthCare/public/registration" class="r-myaurora-sign-in__link" target="_blank">register now</a></div>
+<div class="r-myaurora-sign-in__mobile visible-xs visible-sm visible-md" target="_blank" title="">myAurora <a href="https://my.aurorahealthcare.org/myaurora" class="r-myaurora-sign-in__link" target="_blank">sign in</a> or <a href="https://my.aurorahealthcare.org/myaurora/accesscheck.asp" class="r-myaurora-sign-in__link" target="_blank">register now</a></div>
 
 <div class="r-myaurora-sign-in--secondary__wrapper visible-lg">
     <div class="row">
         <div class="col-sm-12">
-            <form role="form" class="form-inline" action="https://my.aurorahealthcare.org/ahc/portal/AuroraHealthCare/myAuroraLandingPage/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vM0Q_0yU9PT03xLy0BSUWZxTu5G_s4Opr4u3qY-hgbOPq7uAeZe4QaGwSbAhVEAhUY4ACOBoT0h-tHoSkJCzQ38PRydfc0D3M3NrAwhyrAY4Ufwr0FGTmWnrqOigBAnzxK/dl4/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_BG3LAA4OEHDQ10AK7COTIE10O5/act/id=0/p=step=preLogin/290447375480/-/" method="post" target="_blank">
+            <form role="form" class="form-inline" action="//my.aurorahealthcare.org/myAurora/logincheck.asp" method="post" target="_blank">
                 <ul class="r-myaurora-sign-in--secondary__navigation">
-                    <li class="r-myaurora-sign-in--secondary__navigation-item"><h2 class="r-myaurora-sign-in__heading">myAurora</h2></li>
+                    <li class="r-myaurora-sign-in--secondary__navigation-item"><img src="/~/media/AuroraHealthCareOrg/brand-aurora/myaurora-logo.png?mw=82&amp;hash=318A1749DF4F7885B971385EAD242C47E5BF593B" class="r-myaurora-sign-in--secondary__logo" alt="myAurora"></li>
                     <li class="r-myaurora-sign-in--secondary__navigation-item">
-                        <p class="r-myaurora-sign-in__text"><span class="r-myaurora-sign-in__text--register">sign in or <a href="https://my.aurorahealthcare.org/ahc/portal/AuroraHealthCare/public/registration" class="r-myaurora-sign-in__link" target="_blank">register now</a>.</span></p>
+                        <p class="r-myaurora-sign-in__text"><span class="r-myaurora-sign-in__text--register">sign in or <a href="https://my.aurorahealthcare.org/myaurora/accesscheck.asp" class="r-myaurora-sign-in__link" target="_blank">register now</a>.</span></p>
                     </li>
                     <li class="r-myaurora-sign-in--secondary__navigation-item r-myaurora-sign-in--secondary__username">
                         <div class="r-myaurora-sign-in__input-group input-group">
                             <label for="username" aria-hidden="true">Username</label>
-                            <input type="text" class="r-myaurora-sign-in__input" name="username" autocomplete="off" placeholder="username">
-                            <a id="forgotUserLink" class="r-myaurora-sign-in__forgot input-group-btn" href="https://my.aurorahealthcare.org/ahc/portal/AuroraHealthCare/public/forgotusername" target="_blank">forgot?</a>
+                            <input type="text" class="r-myaurora-sign-in__input" name="Login" autocomplete="off" placeholder="username">
+                            <a id="forgotUserLink" class="r-myaurora-sign-in__forgot input-group-btn" href="//my.aurorahealthcare.org/myAurora/recoverlogin.asp" target="_blank">forgot?</a>
                         </div>
                     </li>
                     <li class="r-myaurora-sign-in--secondary__navigation-item">
                         <div class="r-myaurora-sign-in__input-group input-group">
                             <label for="password" aria-hidden="true">Password</label>
-                            <input type="password" class="r-myaurora-sign-in__input" name="password" autocomplete="off" placeholder="password">
-                            <a id="forgotPassLink" class="r-myaurora-sign-in__forgot input-group-btn" href="https://my.aurorahealthcare.org/ahc/portal/AuroraHealthCare/public/forgotpassword" target="_blank"> forgot?</a>
+                            <input type="password" class="r-myaurora-sign-in__input" name="Password" autocomplete="off" placeholder="password">
+                            <a id="forgotPassLink" class="r-myaurora-sign-in__forgot input-group-btn" href="//my.aurorahealthcare.org/myAurora/passwordreset.asp" target="_blank"> forgot?</a>
                         </div>
                     </li>
                     <li class="r-myaurora-sign-in--secondary__navigation-item"><button type="submit" class="r-myaurora-sign-in--secondary__button">sign in</button></li>
@@ -158,9 +157,8 @@
 
 
 
-<div class="r r-search-bar resizable hidden-xs hidden-sm hidden-md affix-top" style="font-size: 16px;">
-    
-        <div class="container">
+<div class="r r-search-bar resizable hidden-xs hidden-sm hidden-md" style="">
+<div class="container">
 
 
 <div role="search" class="r-search-bar__modal__nav">
@@ -193,7 +191,6 @@
 
 
 
-
     <div class="r-search-bar__modal fade modal modal-wide" tabindex="-1" role="dialog" aria-labelledby="txtSiteSearch" aria-hidden="true" data-kocontext="siteSearch">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -211,7 +208,6 @@
                 <form action="/search" method="GET" class="r-search-bar__modal__form" accept-charset="UTF-8">
                     <label class="sr-only" for="query">Search the Site</label>
                     <input type="text" required="required" id="searchModalInput" class="txtSiteSearch" name="q" placeholder="type to search" autocomplete="off" data-bind="value: searchQuery, valueUpdate: ['input','afterkeydown']">
-                    
                     <button type="submit" class="r-search-bar__modal__form-submit">
                         <i class="icon icon-search visible-xs visible-sm"></i>
                         <i class="icon icon-search icon-2x visible-md visible-lg"></i>
@@ -222,16 +218,34 @@
                     start typing to search, example: primary care, medical records, dermatology.
                 </div>
 
-                <ul data-bind="foreach: predictiveSearchResults" class="r-search-bar__modal__results"></ul>
+                <ul data-bind="foreach: predictiveSearchResults" class="r-search-bar__modal__results">
+                    <li class="r-search-bar__modal__results-item" data-bind="html: $data, event:{click: $root.submitSync}"></li>
+                </ul>
             </div>
         </div>
     </div>
 
+<script>
+    if (typeof Ahco.prototype.hasPredictiveSearch === 'undefined') {
+        Ahco.prototype.hasPredictiveSearch = true;
+    }
+</script>
+
+<script>
+    if (typeof Ahco.prototype.hasPersistentNav === 'undefined') {
+        Ahco.prototype.hasPersistentNav = true;
+    }
+
+    if (typeof Ahco.prototype.hasSiteSearchResult === 'undefined') {
+        Ahco.prototype.hasSiteSearchResult = true;
+    }
+</script>
+
+
 
 
 <div class="r r-main-navigation hidden-print" style="">
-    
-        <div class="container">
+<div class="container">
 
 
 <nav class="navbar navbar-default">
@@ -250,28 +264,28 @@
     <div id="mainnavbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav" role="navigation">
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 ">
-                        <a href="/doctors" class="nav-find-doc cta-button " target="" title="find a doctor">find a <span class="newline">doctor</span></a>
+                        <a href="/doctors" class="nav-find-doc cta-button" target="" title="find a doctor">find a <span class="newline">doctor</span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 ">
-                        <a href="/locations" class="nav-find-loc cta-button " target="" title="find a location">find a <span class="newline">location</span></a>
+                        <a href="/locations" class="nav-find-loc cta-button" target="" title="find a location">find a <span class="newline">location</span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 ">
-                        <a href="/schedule-appointment" class="nav-myaurora cta-button " target="" title="Schedule an Appointment">schedule an <span class="newline">appointment</span></a>
+                        <a href="/schedule-appointment" class="nav-myaurora cta-button" target="" title="Schedule an Appointment">schedule an <span class="newline">appointment</span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 ">
-                        <a href="/services" class="nav-care-services cta-button " target="" title="care &amp; services">care &amp; <span class="newline">services</span></a>
+                        <a href="/services" class="nav-care-services cta-button" target="" title="care &amp; services">care &amp; <span class="newline">services</span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 ">
-                        <a href="/patients-visitors" class="nav-patients-visitors cta-button " target="" title="patients &amp; visitors">patients &amp; <span class="newline">visitors</span></a>
+                        <a href="/patients-visitors" class="nav-patients-visitors cta-button" target="" title="patients &amp; visitors">patients &amp; <span class="newline">visitors</span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 ">
-                        <a href="http://ahc.aurorahealthcare.org/events/index.asp" class="nav-classes-events cta-button " target="" title="">classes &amp; <span class="newline">events</span></a>
+                        <a href="http://ahc.aurorahealthcare.org/events/index.asp" class="nav-classes-events cta-button" target="" title="">classes &amp; <span class="newline">events</span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 hidden-lg">
-                        <a href="/contact-us" class="contact-us__button cta-button " target="" title="contact us">contact us <span class="newline"></span></a>
+                        <a href="/contact-us" class="contact-us__button cta-button" target="" title="contact us">contact us <span class="newline"></span></a>
                     </li>
                     <li class="r-main-navigation__item col-xs-12 col-lg-2 hidden-lg">
-                        <a href="http://my.aurorahealthcare.org" class="my-aurora__button cta-button " target="_blank" title="">Sign in to MyAurora <span class="newline"></span></a>
+                        <a href="http://my.aurorahealthcare.org" class="my-aurora__button cta-button" target="_blank" title="">Sign in to MyAurora <span class="newline"></span></a>
                     </li>
             </ul>
     </div>
@@ -283,12 +297,23 @@
 </div>
 
 
+<script>
+    if (typeof Ahco.prototype.hasMainNav === 'undefined')
+    {
+        Ahco.prototype.hasMainNav = true;
+    }
+
+    if (typeof Ahco.prototype.hasPersistentNav === 'undefined')
+    {
+        Ahco.prototype.hasPersistentNav = true;
+    }
+</script>
 
 
 
-<div class="r r-breadcrumbs hidden-print resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+<div class="r r-breadcrumbs hidden-print resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -301,7 +326,7 @@
                 </li>
                 <li class="r-breadcrumbs__item">
 internet privacy policy                </li>
-                    </ul>
+                                </ul>
     </div>
 </div>
 
@@ -316,14 +341,14 @@ internet privacy policy                </li>
     
 
 
-<div class="r r-h1-text resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+<div class="r r-h1-text resizable" style="">
+<div class="container">
 
 
 <div class="row">
     <div class="col-xs-12">
-        <h1 class="r-h1-text__text fg-primary-color" style="-ms-word-break:break-all;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto;">internet<span class="r-h1-text__accent fg-secondary-accent-color">privacy policy</span></h1>
+        <h1 class="r-h1-text__text fg-primary-color"><span style="-ms-word-break:break-all;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto;">Internet</span><span class="r-h1-text__accent fg-secondary-accent-color">Privacy Policy</span></h1>
     </div>
 </div>
 
@@ -333,29 +358,40 @@ internet privacy policy                </li>
 </div>
 
 
+<script>
+    if (typeof Ahco.prototype.hasJumpLinks === 'undefined') {
+        Ahco.prototype.hasJumpLinks = true;
+    }
+</script>
 
 
-<div class="r r-html-text resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+
+
+<div class="r r-html-text resizable " style="">
+<div class="container">
+
 
 <div class="row">
     <div class="col-xs-12">
-       <h3 class="fg-primary-color">Effective Date: April 29, 2015</h3>
+        <h3 class="fg-primary-color">Effective Date: April 29, 2015</h3>
 <p>This Privacy Policy describes Aurora Health Care's online data collection practices and how we use and protect your personal information collected online. This Privacy Policy applies only to the information collected on the general website (www.aurorahealthcare.org) and the mobile website (m.aurorahealthcare.org) (collectively "Website"), and does not apply to information that Aurora Health Care obtains about you from other sources.</p>
 <p>Please note any Protected Health Information collected on the Website will be used and disclosed only in accordance with Aurora's <a href="/privacy-policy/notice-of-privacy-practices">Notice of Privacy Practices</a> as further set forth below.</p>
 <p></p>
     </div>
 </div>
+
     </div>
     
 
 </div>
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -363,9 +399,7 @@ internet privacy policy                </li>
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">your consent</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Your Consent</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     <p>By using the Website, you consent to the collection and use of your information in the manner we describe in this Privacy Policy. IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE THIS WEBSITE.</p>
@@ -376,6 +410,7 @@ internet privacy policy                </li>
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -383,9 +418,10 @@ internet privacy policy                </li>
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -393,9 +429,7 @@ internet privacy policy                </li>
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">changes to our policy</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Changes to Our Policy</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     We reserve the right to modify or amend this Privacy Policy at any time. All changes to this Privacy Policy will be effective immediately upon their posting to the Website. We will notify you of material changes to this Privacy Policy by conspicuously posting the changes on the Website. Information collected before changes are made will be treated in accordance with the previous Privacy Policy. Continued use of the Website after the effective date of a modified privacy policy will indicate your agreement to any modified terms. &nbsp;Each version of our Privacy Policy will be prominently marked with an effective date.
@@ -406,6 +440,7 @@ internet privacy policy                </li>
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -413,9 +448,10 @@ internet privacy policy                </li>
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -423,9 +459,7 @@ internet privacy policy                </li>
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">health insurance portability and accountability act of 1996 (HIPAA) and state law</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Health Insurance Portability and Accountability Act of 1996 (HIPAA) &amp; State Law</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     Aurora Health Care's use and disclosure of certain of your information may be subject to the requirements of the Health Insurance Portability and Accountability Act of 1996 and its implementing regulations ("HIPAA") and applicable state law. Any information that you submit to us that constitutes "Protected Health Information," as defined by HIPAA, is subject to HIPAA and applicable state law. The term "<strong>Protected Health Information</strong>" or "<strong>PHI</strong>" refers to individually identifiable health information about your past, present or future physical or mental health or condition, the provision of health care to you or the past, present or future payment for such care. If any information collected on this Website constitutes PHI, then our <a href="/privacy-policy/notice-of-privacy-practices">Notice of Privacy Practices</a> will apply.
@@ -436,6 +470,7 @@ internet privacy policy                </li>
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -443,9 +478,10 @@ internet privacy policy                </li>
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -453,9 +489,7 @@ internet privacy policy                </li>
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">personally identifiable information</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Personally Identifiable Information</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     <strong></strong>
@@ -468,7 +502,7 @@ This information may be collected when you send us emails, voluntarily submit in
 We may use third party service providers to assist us in collecting and maintaining this personally identifiable information. However, we require such service providers to maintain the confidentiality of such information.<br>
 <br>
 For security purposes, we do not keep your credit or payment card data in its entirety. We pass all credit and payment card data through to our payment card processor, PayPal, and maintain only the last 4 digits of your card number, together with the expiration data, your name, your address and the secure transaction identification number for your transaction issued by Verisign in order to help track and confirm any payment you make to us. &nbsp;As a result of PayPal’s services to us, PayPal will capture data necessary to provide the payment processing services requested by Aurora Health Care. &nbsp;Unless otherwise prohibited by applicable law, PayPal may use the data as necessary to (i) perform services for Aurora Health Care, (ii) collect and process data for record keeping, reporting, and analytics, (iii) provide fraud detection, risk modeling, and support services, (iv) compile and disclose data in the aggregate such that an individual is not identifiable, including calculating average transactions by region or industry, and (v) provide data as required by the card associations, law or court order, for purposes of incident investigation, or to defend PayPal’s rights in a legal dispute. &nbsp;PayPal’s privacy policy is located at <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full" target="_blank">https://www.paypal.com/webapps/mpp/ua/privacy-full</a> for further information. &nbsp;
-<br><br><p><strong>How we use Personally Identifiable Information We Collect</strong></p>
+<br><br><p><strong>How We Use Personally Identifiable Information We Collect</strong></p>
 <p>We will use personally identifiable information for: (i) the purpose for which you provide it; (ii) as otherwise may be disclosed at the point of collection; and/or (iii) for the purposes described below. For example, we may use your contact information as provided to us, such as email address, telephone number, and/or mailing address, to contact you regarding administrative notices and communications related to your use of the Website or otherwise as you may request, such as for an employment application. As another example, we may use your financial and insurance information to process payments you request or otherwise adjust your account via “myAurora”. We will not send you promotions or announcements unless you give us permission to do so.<br>
 <br>
 In addition, we may use your personal information in the aggregate in a non-identifiable way in order to better understand the services being provided, how to improve these services and how to improve the Website. We may provide this aggregated information to third parties, but when we do so we do not provide any of your information without your express permission.</p>
@@ -480,6 +514,7 @@ In addition, we may use your personal information in the aggregate in a non-iden
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -487,9 +522,10 @@ In addition, we may use your personal information in the aggregate in a non-iden
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -497,9 +533,7 @@ In addition, we may use your personal information in the aggregate in a non-iden
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">non-personally identifiable information</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Non-personally Identifiable Information</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     <div><strong>Non-Personally Identifiable Information We Collect</strong></div>
@@ -554,7 +588,7 @@ You may stop AddThis from collecting any information about you for online behavi
 <br>
 <strong>You can also visit the website <a href="http://www.aboutads.info" target="_blank">http://www.aboutads.info</a> to change your consumer preferences with respect to certain online ads and to obtain further information about third party ad networks and online behavioral advertising.</strong><br>
 <br>
-<strong>Do not track</strong><br>
+<strong>Do Not Track</strong><br>
 We will automatically collect cookies and other non-personally identifying information when you visit this site. &nbsp;Due to this automatic collection, we do not currently honor do not track requests.</p>
 </div>
                     <div class="row">
@@ -564,6 +598,7 @@ We will automatically collect cookies and other non-personally identifying infor
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -571,9 +606,10 @@ We will automatically collect cookies and other non-personally identifying infor
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -581,9 +617,7 @@ We will automatically collect cookies and other non-personally identifying infor
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">how we disclose the information we collect</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">How We Disclose the Information We Collect</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     Your information may be disclosed to or collected by third-party suppliers and service providers specifically involved in the processing of your information received via the Website and as otherwise necessary to manage our Website and provide the services you request. We may also use third party service providers to host the Website and gather and use on our behalf your personal information as contemplated by this Privacy Policy and applicable law. All such third parties are subject to confidentiality obligations in an attempt to protect your information as much as is commercially reasonable.<br>
@@ -602,6 +636,7 @@ Except as stated in this Privacy Policy, we do not sell, distribute, or release 
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -609,9 +644,10 @@ Except as stated in this Privacy Policy, we do not sell, distribute, or release 
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -619,9 +655,7 @@ Except as stated in this Privacy Policy, we do not sell, distribute, or release 
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">access to your personally identifiable information</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Access to Your Personally Identifiable Information</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     Upon written request and verification of your identity, we will provide you with your personal information in our possession as well as the personal information, if any, that we have disclosed to third parties. Requests for such information should be sent to the contact information below.
@@ -634,6 +668,7 @@ Except as stated in this Privacy Policy, we do not sell, distribute, or release 
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -641,9 +676,10 @@ Except as stated in this Privacy Policy, we do not sell, distribute, or release 
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -651,9 +687,7 @@ Except as stated in this Privacy Policy, we do not sell, distribute, or release 
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">handling of electronic records and backup</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Handling of Electronic Records &amp; Backup</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     In general, we will retain all information collected through the Website for, at a minimum, the length of time permitted by law. However, we will delete any personally identifiable information in our database upon your <a href="mailto:internet@aurora.org">request</a> or as otherwise required by law. We may retain non-personally identifiable information indefinitely.<br>
@@ -666,6 +700,7 @@ We maintain backup files as a protection against natural disasters, equipment fa
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -673,9 +708,10 @@ We maintain backup files as a protection against natural disasters, equipment fa
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -683,9 +719,7 @@ We maintain backup files as a protection against natural disasters, equipment fa
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color" style="-ms-word-break:break-all;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto;">security</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color" style="-ms-word-break:break-all;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto;">Security</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     Communications between your browser and portions of the Website containing personally identifiable information are protected with Secure Socket Layer (SSL) encryption. This encryption is to help protect your information while it is being transmitted. Once we receive your information we strive to maintain the physical and electronic security of your personal information using commercially reasonable efforts.<br>
@@ -698,6 +732,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -705,9 +740,10 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -715,9 +751,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">in the event of a security breech of your personal information</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">In the Event of a Security Breech of Your Personal Information</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     If we determine that your personal information has or may reasonably have been disclosed due to a security breach of our systems, we will notify you in accordance with and to the extent required by applicable state and federal law using the information that we have on file.
@@ -728,6 +762,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -735,9 +770,10 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -745,9 +781,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">third party privacy</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Third Party Privacy</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     This Privacy Policy applies only to the Website as provided by Aurora Health Care. This Website may contain links to other websites, which may be subject to a different privacy policy or are otherwise maintained or provided by a third party. We are not responsible for the privacy practices of any third party website you access from this Website. You should review the privacy policy of every website before using the website or submitting any information to the website.
@@ -758,6 +792,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -765,9 +800,10 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -775,9 +811,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">children under the age of 13</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Children Under the Age of 13</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     <p>No part of the Website, or any services made available through the Website, are designed or intended to attract children under the age of 13. No personal information is knowingly collected from any person under the age of 13.</p>
@@ -788,6 +822,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -795,9 +830,10 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
 
 
 
-<div class="r r-heading-with-side-content resizable" style="font-size: 16px;">
-    
-        <div class="container">
+
+
+<div class="r r-heading-with-side-content resizable" style="">
+<div class="container">
 
 
 <div class="row">
@@ -805,9 +841,7 @@ NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED
         <div class="r-heading-with-side-content__container">
             <div class="row">
                 <div class="col-sm-3">
-                    
-                    <h2 class="r-heading-with-side-content__heading fg-primary-color">contact information</h2>
-
+                    <h3 class="r-heading-with-side-content__heading fg-primary-color">Contact Information</h3>
                 </div>
                 <div class="r-heading-with-side-content__text col-sm-9">
                     If you have any questions or concerns about this Privacy Policy or Aurora Health Care's privacy practice, or access to your personal information, please contact us at the following:<br>
@@ -824,6 +858,7 @@ Milwaukee, WI 53234-1880<br>
         </div>
     </div>
 </div>
+
     </div>
     
 
@@ -833,9 +868,10 @@ Milwaukee, WI 53234-1880<br>
     
 
 
+
 <div class="r r-footer hidden-print" style="">
-    
-        <div class="container">
+<div class="container">
+
 
 <div class="row">
         <div class="r-footer__column col-sm-3">
@@ -843,15 +879,17 @@ Milwaukee, WI 53234-1880<br>
             <ul class="r-footer__list">
                             <li class="r-footer__item">    <a href="/about-aurora" class="" target="" title="About Aurora Health Care">About Aurora Health Care</a>
 </li>
-                            <li class="r-footer__item">    <a href="http://ahc.aurorahealthcare.org/aboutus/community-benefits/index.asp" class="" target="" title="Community Health Needs Assessment Reports">Community Health Needs Assessment Reports</a>
+                            <li class="r-footer__item">    <a href="http://ahc.aurorahealthcare.org/aboutus/community-benefits/index.asp" class="" target="" title="Community Benefits">Community Benefits</a>
 </li>
                             <li class="r-footer__item">    <a href="/about-aurora/investor-relations-financial-information" class="" target="" title="">Investor Relations</a>
 </li>
-                            <li class="r-footer__item">    <a href="https://ahc.aurorahealthcare.org/news-media-center/default.aspx" class="" target="" title="News Media Center">News Media Center</a>
+                            <li class="r-footer__item">    <a href="/media-center" class="" target="" title="News Media Center">News Media Center</a>
 </li>
                             <li class="r-footer__item">    <a href="http://ahc.aurorahealthcare.org/aboutus/volunteer/index.asp" class="" target="" title="Volunteer">Volunteer</a>
 </li>
                             <li class="r-footer__item">    <a href="/contact-us" class="" target="" title="Contact Us">Contact Us</a>
+</li>
+                            <li class="r-footer__item">    <a href="https://give.aurora.org/donate" class="" target="_blank" title="">Donate</a>
 </li>
                             </ul>
         </div>
@@ -859,6 +897,10 @@ Milwaukee, WI 53234-1880<br>
             <h3 class="r-footer__heading">More to Explore</h3>
             <ul class="r-footer__list">
                             <li class="r-footer__item">    <a href="https://www.aurorahealthshare.com" class="" target="" title="Aurora Health Share">Share Your Health Care Insights</a>
+</li>
+                            <li class="r-footer__item">    <a href="/patients-visitors/collection-process" class="" target="" title="Collection Process">Collection Process</a>
+</li>
+                            <li class="r-footer__item">    <a href="/patients-visitors/financial-assistance" class="" target="" title="Financial Assistance">Financial Assistance</a>
 </li>
                             <li class="r-footer__item">    <a href="http://www.aurorahealthcareblog.org" class="" target="" title="myHealth Wellness Blog">myHealth Wellness Blog</a>
 </li>
@@ -901,32 +943,36 @@ Milwaukee, Wisconsin 53234</p>
             </ul>
         </div>
 </div>
+
     </div>
     
 
 </div>
+
+
 
 
 
 <div class="r-footer__copyright" style="">
-    
-        <div class="container">
+<div class="container">
+
 
 <div class="row">
     <div class="col-xs-12">
         <div class="r-footer__copyright-content">
-            © 2015 Copyright Aurora Health Care <span class="r-footer__privacy-terms hidden-print"> | <a class="r-footer__link" href="/privacy-policy">privacy policy</a> | <a class="r-footer__link" href="/terms-of-use">terms of use</a></span>
+            © 2016 Copyright Aurora Health Care <span class="r-footer__privacy-terms hidden-print"> | <a class="r-footer__link" href="/privacy-policy">privacy policy</a> | <a class="r-footer__link" href="/terms-of-use">terms of use</a></span>
         </div>
     </div>
 </div>
+
     </div>
     
 
 </div>
 
 
-    <div class="floating-toolbar hidden-xs hidden-sm hidden-md">
 
+    <div class="floating-toolbar hidden-xs hidden-sm hidden-md">
         <ul class="floating-toolbar__row" aria-role="list">
             <li class="controls__target" aria-role="listitem" aria-haspopup="true">
                 <a class="resize-controls__target--large" aria-label="Expand text-resizing options"><i class="icon icon-ahc-text-resize"></i></a>
@@ -936,7 +982,6 @@ Milwaukee, Wisconsin 53234</p>
                 </ul>
             </li>
         </ul>
-
         <ul class="floating-toolbar__row" aria-role="list">
             <li class="controls__target" aria-role="listitem" aria-haspopup="true">
                 <i class="icon icon-ahc-contrast trigger-high-contrast"></i>
@@ -945,7 +990,6 @@ Milwaukee, Wisconsin 53234</p>
                 </li></ul>
             </li>
         </ul>
-
         <ul class="floating-toolbar__row floating-toolbar-share" aria-role="list">
             <li class="controls__target" aria-role="listitem" aria-haspopup="true">
                 <i class="icon icon-ahc-share"></i>
@@ -960,8 +1004,26 @@ Milwaukee, Wisconsin 53234</p>
         </ul>
     </div>
 
-    <script src="/Sites/AuroraHealthCareOrg/content/scripts/body-scripts.min.js?v=1.0.0.62"></script>
+<script>
+    if (typeof Ahco.prototype.hasHighContrast === 'undefined') {
+        Ahco.prototype.hasHighContrast = true;
+    }
 
+    if (typeof Ahco.prototype.hasResizeFonts === 'undefined') {
+        Ahco.prototype.hasResizeFonts = true;
+    }
+
+    if (typeof Ahco.prototype.hasAddThis === 'undefined') {
+        Ahco.prototype.hasAddThis = true;
+    }
+</script>
+
+    <script src="/Sites/AuroraHealthCareOrg/content/scripts/body-scripts.min.js?v=4.0.0.12"></script>
+    <script>
+        if (typeof Ahco.prototype.hasPersistentNav === 'undefined') {
+            Ahco.prototype.hasPersistentNav = true;
+        }
+    </script>
 
 
 
