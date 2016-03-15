@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technolism.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204194033id_/http%3A//www.technolism.com/about/technolism-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technolism.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315173232id_/http%3A//www.technolism.com/about/technolism-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technolism
+# Privacy Policy for Technolism.com
 
 Technolism (www.technolism.com) is strongly committed to working towards the privacy of its readers and keep your personal information secure. At [Technolism.com](http://www.technolism.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [Technolism](http://www.technolism.com/) and how it is used.
 
