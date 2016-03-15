@@ -1,0 +1,247 @@
+<!--The following is the downloaded HTML source of the hotfrogbiz.com.ar privacy policy that was archived on 2016-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315190345id_/http%3A//www.hotfrogbiz.com.ar/Privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<meta id="ctl00_metaRobots"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-852.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"f0d35ca3ee","applicationID":"326301","transactionName":"YwFUZUoFCkBVBhZZXFpLd2JoSxRBXRMDU0oaBUVBQA==","queueTime":0,"applicationTime":6,"ttGuid":"F11FE3A92CE71BD2","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OUFNACwEGV1FT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("index.html")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><meta name="HandheldFriendly" content="True"><link rel="SHORTCUT ICON" href="favicon.ico"><link href="http://www.hotfrog.com/Content/CSS/BambooCss.css?cb=17566" type="text/css" rel="stylesheet" media="all"><link href="http://www.hotfrog.com/Content/CSS/CommonCssAll.css?cb=17566" type="text/css" rel="stylesheet" media="all">
+  <meta name="robots" content="index,follow">
+
+        <!-- attach country specific css to fix the italics problem -->
+        
+
+    <!--[if IE]>
+        <link href="/Content/css/bamboo-ie.css" media="all" type="text/css" rel="stylesheet" />
+    <![endif]-->
+
+    <style type="text/css">
+        .gig-button-container table {margin:0 auto!important}
+        #divShareBarButtons #___plusone_0 {display:block!important;margin:0 auto!important}
+        #divShareBarButtons .fb_edge_widget_with_comment.fb_iframe_widget {display:block !important;margin: 0 auto !important;width: 45px !important}
+        /* hide SHARE button bubble - "reaction#" is generated in the DOM, must be changed here accordingly! */
+        #divShareBarButtons-reaction0-count {display:none!important}
+    </style>
+ 
+  <script type="text/javascript">
+      function AddLoadEventHandler(handler) {
+          var temp_f;
+          if (window.onload) {
+              temp_f = window.onload;
+          }
+
+          window.onload = function () {
+              if (temp_f) {
+                  temp_f();
+              }
+              handler();
+          }
+      }
+
+  </script>
+    
+  
+<title>
+	Hotfrog Privacy Policy
+</title><meta name="description" content="Hotfrog Privacy Policy"></head>
+<body class=""><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.hotfrog.com",d="cdn-cgi/cl/index.html",e="http://www.hotfrog.com/img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>  
+<form name="aspnetForm" method="post" action="http://www.hotfrog.com/Privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MjE4OTAyODcPZBYCZg9kFghmD2QWAgIDDxYCHgdWaXNpYmxlaGQCAhBkZBYEAgEPZBYEZg9kFghmDxYCHwBoZAIBDw8WBB4EVGV4dAUDSHViHgtOYXZpZ2F0ZVVybAUWaHR0cDovL2hvdGZyb2cuY29tL3NiaGRkAgIPDxYEHwEFBUxvZ2luHwIFIWh0dHA6Ly93d3cuaG90ZnJvZy5jb20vTG9naW4uYXNweBYCHgV0aXRsZQUFTG9naW5kAgMPFgIfAGhkAgEPZBYCZg9kFgJmD2QWAmYPZBYEAgQPDxYEHg9WYWxpZGF0aW9uR3JvdXAFDHNlYXJjaEhlYWRlch4NT25DbGllbnRDbGljawUQaXNQb3N0YmFjaz10cnVlO2RkAgUPDxYEHgxFcnJvck1lc3NhZ2UFJFlvdSBtYXkgaGF2ZSBmb3Jnb3R0ZW4gYSBzZWFyY2ggdGVybR8EBQxzZWFyY2hIZWFkZXJkZAIED2QWGmYPZBYCZg9kFgJmD2QWAmYPZBYEAgQPDxYEHwQFDHNlYXJjaEZvb3Rlch8FBRBpc1Bvc3RiYWNrPXRydWU7ZGQCBQ8PFgQfBgUkWW91IG1heSBoYXZlIGZvcmdvdHRlbiBhIHNlYXJjaCB0ZXJtHwQFDHNlYXJjaEZvb3RlcmRkAgMPFgIfAGcWCAIBDxYEHgRocmVmBSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9Ib3Rmcm9nVVNBHwMFFUZvbGxvdyB1cyBvbiBGYWNlYm9va2QCAg8WBB8HBSJodHRwczovL3R3aXR0ZXIuY29tLyMhL2hvdGZyb2dpbmZvHwMFFEZvbGxvdyB1cyBvbiBUd2l0dGVyZAIDDxYEHwcFSGh0dHA6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvaG90ZnJvZy0tLXRoZS13b3JsZCdzLWJ1c2luZXNzLWRpcmVjdG9yeR8DBRVGb2xsb3cgdXMgb24gTGlua2VkSW5kAgQPFgQfBwUtaHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vMTEzNDgxODIwNDg4MTM0MTMwNDk3HwMFFEZvbGxvdyB1cyBvbiBHb29nbGUrZAIEDxYCHwBnFgJmDxYEHwcFDS9BYm91dFVTLmFzcHgeA3JlbAUIbm9mb2xsb3dkAgUPFgIfAGcWAmYPFgQfBwUWL0hvdGZyb2dQcm9tb3Rpb24uYXNweB8IZWQCBg8WAh8AZxYCZg8WBB8HBRkvQWR2ZXJ0aXNpbmdQYXJ0bmVycy5hc3B4HwhlZAIIDxYCHwBnFgJmDxYEHwcFCy9UZXJtcy5hc3B4HwgFCG5vZm9sbG93ZAIJDxYCHwBnFgJmDxYEHwcFDS9Qcml2YWN5LmFzcHgfCAUIbm9mb2xsb3dkAgwPFgIfAGcWAmYPFgYfBwU5aHR0cDovL3N1cHBvcnQuaG90ZnJvZy5jb20vY3VzdG9tZXIvZW5fdXMvcG9ydGFsL2FydGljbGVzHwgFCG5vZm9sbG93HgZ0YXJnZXQFBl9ibGFua2QCEA8WBh8HBRZodHRwOi8vaG90ZnJvZy5jb20vc2JoHwhlHwBnZAIRDxYCHwBnFgJmDxYEHwcFM2h0dHA6Ly9ob3Rmcm9nLmNvbS9zYmgvY2F0ZWdvcnkvZ3Jvdy15b3VyLWJ1c2luZXNzLx8IZWQCEg8WAh8AZxYCZg8WBB8HBSpodHRwOi8vaG90ZnJvZy5jb20vc2JoL2NhdGVnb3J5L21hcmtldGluZy8fCGVkAhMPFgIfAGcWAmYPFgQfBwVUaHR0cDovL3N1cHBvcnQuaG90ZnJvZy5jb20vY3VzdG9tZXIvZW5fdXMvcG9ydGFsL3RvcGljcy84MDU1NTEtaG90ZnJvZy10aXBzL2FydGljbGVzHwhlZAIVDw8WAh8BBRAxNC4wLjcuMDExIC0gMTE3ZGQCBA8PFgIfAGhkZAIFDw8WAh8AaGRkZDHPUq/W4IBAIzVz4cBxqRyb5uRm">
+</div>
+
+
+<script src="WebResourcee0e7.axd?d=4lP1djPkFUY6kBwq1W5ghyar_s3BdHv2tQL7l-qlbzpsFKIeaQEzV_xfT6a8T5-MSvIk3eb2Cn-Ifsl03YLievtCtKIqsKkptMl8E3HYYQHVzlCL4l3thUwpgVRTA4sEPSANU0lD3R5zr9m7I_cIopJPWgk1&amp;t=635912095200000000" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+</div><div class="maincontent "><div id="header"><div class="user-panel"><ul class="inline-list"><li class="sbh-link"><a id="ctl00_hotFrogHeader_lnkHub" rel="nofollow" href="http://hotfrog.com/sbh" target="_blank">Hub</a></li><li class="loginlogout"><a id="ctl00_hotFrogHeader_lnkLoginLogout" rel="nofollow" title="Login" href="Login.html">Login</a></li></ul></div><div class="header-leftside"><a href="index.html" id="headerHotfrogLogoLink" class="hotfrog-logo"><img alt="Hotfrog US online business directory" src="http://www.hotfrog.com/Content/Images/bamboo/logo/hotfrog-logo-us.gif"></a><img alt="Do business differently" src="http://www.hotfrog.com/Content/Images/bamboo/scrapline/scrapline-us.gif" class="subtitle"></div><div class="header-controls"><table><tbody><tr><td width="90%"><script type="text/javascript">
+AddLoadEventHandler(function() { 
+	$('#ctl00_hotFrogHeader_hotfrogSearch_txtWhere').autocomplete('/GetSuburbStateByPrefix.ashx', { width: 193, matchSubset: 0, delay: 100, selectFirst: false, max: 9 });
+    // that is to replace the watermark function
+    $('#ctl00_hotFrogHeader_hotfrogSearch_fieldSet td').labelInputActions();
+});
+</script><div id="ctl00_hotFrogHeader_hotfrogSearch_pnlLocalSearch">
+	<fieldset id="ctl00_hotFrogHeader_hotfrogSearch_fieldSet" class="header-search"><table><tbody><tr><td class="searchcell"><div><label for="ctl00_hotFrogHeader_hotfrogSearch_txtWhat">What are you looking for?</label><input name="ctl00$hotFrogHeader$hotfrogSearch$txtWhat" type="text" id="ctl00_hotFrogHeader_hotfrogSearch_txtWhat" class="txtinp search-what"></div></td><td class="searchcell"><div><label for="ctl00_hotFrogHeader_hotfrogSearch_txtWhere">Where are you looking?</label><input name="ctl00$hotFrogHeader$hotfrogSearch$txtWhere" type="text" id="ctl00_hotFrogHeader_hotfrogSearch_txtWhere" class="txtinp search-where"></div></td><td class="searchbut"><a onclick="isPostback=true;" id="ctl00_hotFrogHeader_hotfrogSearch_btnSearch" class="btn btn-search" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$hotFrogHeader$hotfrogSearch$btnSearch", "", true, "searchHeader", "", false, true))'><span>Search</span></a></td></tr></tbody></table><p class="searchError"></p></fieldset>
+</div></td><td class="aybbutton" width="10%"><div class="header-ayb"><a id="headerAYBLink" class="btn btn-add" rel="nofollow" href="AddYourBusinessSingle.html" title="Add your business"><span>Add your business</span></a></div></td></tr></tbody></table></div></div>
+
+
+<div id="content">
+  <div class="privacyPolicy">
+
+ <style type="text/css"> 
+  div.privacyPolicy p
+  {
+   margin-top: 10px !important;
+  }
+  div.privacyPolicy h4
+  {
+   margin-top: 20px !important;
+   margin-bottom: 10px !important;
+  }
+  div.privacyPolicy ol
+  {
+   width: auto !important;
+   list-style-type: none !important;
+  }
+  div.privacyPolicy ul
+  {
+   width: auto !important;
+  }
+  div.privacyPolicy a
+  {
+   color:#0066CC !important;
+   font-size:12px !important;
+   font-weight:bold !important;
+   text-decoration:underline !important;  
+  }
+  div.privacyPolicy h3 a
+  {
+   font-size:18px !important;
+  }
+ </style> 
+
+ <br>
+
+ <p>
+  </p><center>
+   <h3>
+   Can’t find an answer to your question or concerns? 
+    <a href="http://support.hotfrog.com/customer/en_us/portal/articles" target="_blank">Contact us</a>, we will respond.
+   </h3>
+   <br><br>
+   <b>Hotfrog Privacy Policy</b>
+   <br><br>
+   <b>Hotfrog Group (an Australian company)</b>
+   <br><br>
+  </center>
+ <p></p>
+ 
+ <br>
+ 
+ <p>This privacy policy applies to all personal information collected by Hotfrog Group via the internet.</p>
+<p>Hotfrog Group recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.  We know that providing personal information is an act of trust and we take that seriously.  Unless you directly give us consent to do otherwise, Hotfrog Group will only collect and use your personal information as set out below.</p><p>
+</p><h4>Collection of information</h4>
+<p>The four main ways we collect personal information about you are:
+</p><ul>
+<li> when information about you is posted on a Hotfrog Group website, either by you or by a third party; </li>
+<li> when you log into a Hotfrog Group website or otherwise submit personal information to Hotfrog Group; </li>
+<li> when you use a Hotfrog Group website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; and</li>
+<li> through the operation of CatchBot, Hotfrog Group's web crawler (described in more detail below).</li></ul><p></p>
+<p>
+The type of information that we collect from you may include the following: your name, phone number, address, email address, company position/title, credit card details, IP address, cookies, personal information that you include in your business listing or personal information that you email/send using email functionality on a Hotfrog Group website.</p>
+<h4>Our use of cookies</h4>
+<p>Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes.  Most web browsers are set to accept cookies.  Hotfrog Group uses cookies to make your use of our website and services as convenient as possible.  Cookies in and of themselves do not personally identify users, although they do identify a user's browser.  Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.
+If you do not wish to receive any cookies you may set your browser to refuse cookies.  This may mean you will not be able to take full advantage of Hotfrog Group's services.</p>
+<p><i>Google cookies </i></p>
+<p>Hotfrog Group uses Google to serve advertisements when you visit a Hotfrog Group website. Google may use cookies in relation to your visits to Hotfrog Group websites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, <a href="http://www.google.com/privacy_ads.html" target="_blank">click here</a>. </p>
+
+<h4>Using and disclosing your personal information</h4>
+<p>Our purpose in collecting information about you is to: 
+</p><ul>
+<li> provide you with a better service experience with content and advertising that is more relevant to your interests; and</li>
+<li> create a business information database for use as part of Hotfrog Group's online business.  Whilst Hotfrog's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.</li></ul><p></p>
+<p>Hotfrog Group will not use or disclose any information about you without your consent, unless:
+</p><ul>
+<li> the use or disclosure is for one of the purposes described above or otherwise permitted by this policy;</li>
+<li> it is required or permitted by law (including by relevant privacy laws);</li>
+<li> we believe it necessary to provide you with a service which you have requested;</li>
+<li> to protect the rights, property or personal safety of another Hotfrog Group website user, any member of the public or Hotfrog Group; or</li>
+<li> any of the assets and/or operations of Hotfrog Group are being transferred to another party.</li></ul><p></p>
+<p>If you do not provide requested information, Hotfrog Group may not be able to provide you with access to or full use of sections of the Hotfrog Group website.</p>
+<h4>Disclosing information</h4>
+<p>Sometimes, the activities described above require us to share your personal information with other organisations.  The types of situations in which Hotfrog Group usually discloses personal information, and the types of organisations to which such disclosure is usually made, include the following:
+</p><ul>
+<li> The business information database is available via the internet to any member of the public.  It is also disclosed in its entirety to Hotfrog Group's related entities and to other entities with whom Hotfrog Group has a business relationship, as part of Hotfrog Group's online business.</li>
+<li> Hotfrog Group discloses personal information to its service providers, advisers and other entities with whom Hotfrog Group has a business relationship, in the course of operating the Hotfrog Group websites and Hotfrog Group online business and in the course of delivering the Hotfrog Group services.</li></ul><p></p>
+<h4>Marketing</h4>
+<p>In seeking to give you the most worthwhile experience of our websites possible, Hotfrog Group may use your personal information to send you information and product updates about Hotfrog Group websites and services, or other products and services, or to permit other parties to send other information about products or services which may be of interest to you.  </p>
+<p>We may contact you at any email or other address or contact point which we have collected or obtained in order to:
+</p><ul><li> contact you about your business listing on a Hotfrog Group website;</li>
+<li> provide you with updated information about Hotfrog Group websites; or</li>
+<li> provide you with other information about other products or services which you may enjoy.</li></ul>
+<p></p>
+<p>If you are receiving promotional information from Hotfrog Group and do not wish to receive this information any longer, you may remove your name from our list by contacting the Hotfrog Group Privacy Officer at <a href="http://support.hotfrog.com/customer/en_us/portal/articles">support.hotfrog.com</a> and asking to be removed from our mailing list.  Please allow 28 days for this request to be processed.  </p>
+<h4>Access to the information we hold</h4>
+<p>You can request access to the personal information we hold about you by making a request to the Hotfrog Group Privacy Officer via <a href="http://support.hotfrog.com/customer/en_us/portal/articles">support.hotfrog.com</a>.  We will provide you with access unless we are legally authorised not to do so.</p>
+<h4>Changing and deleting the information we have about you</h4>
+<p>If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Hotfrog Group Privacy Officer at <a href="http://support.hotfrog.com/customer/en_us/portal/articles">support.hotfrog.com</a>.  If you wish to have your personal information deleted, please let us know in the same manner as referred to above.  
+We will take all reasonable steps to change or delete information in response to such a request.  If there is a reason that we cannot make that change or deletion, we will inform you of that reason.  </p>
+<h4>Storage and security of your personal information</h4>
+<p>Hotfrog Group will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date.  You should note that the internet is not a secure method of transmitting information and, as such, we are not responsible for the security of any information sent or received over the internet.</p>
+<p>Please note that Hotfrog Group may use overseas facilities including but not limited to in the US and Australia, to store, process or back up its information.  As a result, we may transfer your personal information to our overseas facilities.  However, this does not change our commitment to keep your information secure.</p>
+<h4>Third party websites</h4>
+<p>Hotfrog Group websites contain links to websites that are not operated by Hotfrog Group and the contact details for many businesses not operated by Hotfrog Group.  These linked sites and listed businesses are not under the control of Hotfrog Group, and we are not responsible for the conduct of those businesses.  Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. </p>
+<h4>CatchBot</h4>
+<p>CatchBot is the web crawler for Hotfrog Group.  CatchBot investigates websites for publicly available information about companies.  CatchBot is not designed to access or index any personal or other information about individuals.  However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.</p>
+<p>More information about CatchBot is available at <a href="http://www.catchbot.com/" target="_blank">www.catchbot.com</a>.</p>
+<h4>Privacy inquiries</h4>
+<p>If you have any questions about this Privacy Policy or how Hotfrog Group deals with your personal information you can contact:</p>
+
+<p>Hotfrog Group Privacy Officer at <a href="http://support.hotfrog.com/customer/en_us/portal/articles">support.hotfrog.com</a> </p>
+
+<p>All references to Hotfrog Group in this Privacy Policy should be read as references to Hotfrog Group Pty Limited (ABN 29 948 759 786), an Australian company.  </p>
+<h4>Future changes</h4>
+<p>Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.  Because of this, from time to time, our policies will be reviewed and may be revised.  Hotfrog Group reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Hotfrog Group website.  The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.</p>
+
+   
+   
+   
+ <p></p>
+
+ <br>
+ <hr>
+ <br>
+
+</div>
+</div><div id="footer"><div class="footer-head"><a class="hotfrog-logo" href="index.html"><img class="Hotfrog logo" src="http://www.hotfrog.com/Content/Images/bamboo/logo/hotfrog-logo-us.gif" alt="Hotfrog US business directory"></a><img class="subtitle" src="http://www.hotfrog.com/Content/Images/bamboo/scrapline/scrapline-us.gif" alt="Do business differently"></div><div class="footer-content"><div class="footer-search"><script type="text/javascript">
+AddLoadEventHandler(function() { 
+	$('#ctl00_hotFrogFooter_hotfrogSearch_txtWhere').autocomplete('/GetSuburbStateByPrefix.ashx', { width: 193, matchSubset: 0, delay: 100, selectFirst: false, max: 9 });
+    // that is to replace the watermark function
+    $('#ctl00_hotFrogFooter_hotfrogSearch_fieldSet td').labelInputActions();
+});
+</script><div id="ctl00_hotFrogFooter_hotfrogSearch_pnlLocalSearch">
+	<fieldset id="ctl00_hotFrogFooter_hotfrogSearch_fieldSet" class="footer-search"><table><tbody><tr><td class="searchcell"><div><label for="ctl00_hotFrogFooter_hotfrogSearch_txtWhat">What are you looking for?</label><input name="ctl00$hotFrogFooter$hotfrogSearch$txtWhat" type="text" id="ctl00_hotFrogFooter_hotfrogSearch_txtWhat" class="txtinp search-what"></div></td><td class="searchcell"><div><label for="ctl00_hotFrogFooter_hotfrogSearch_txtWhere">Where are you looking?</label><input name="ctl00$hotFrogFooter$hotfrogSearch$txtWhere" type="text" id="ctl00_hotFrogFooter_hotfrogSearch_txtWhere" class="txtinp search-where"></div></td><td class="searchbut"><a onclick="isPostback=true;" id="ctl00_hotFrogFooter_hotfrogSearch_btnSearch" class="btn btn-search" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$hotFrogFooter$hotfrogSearch$btnSearch", "", true, "searchFooter", "", false, true))'><span>Search</span></a></td></tr></tbody></table><p class="searchError"></p></fieldset>
+</div></div><div class="ayb-bar"><p class="footcap">Create your free Hotfrog business profile</p><a rel="nofollow" class="btn btn-add" href="AddYourBusinessSingle.html" title="Add your business"><span>Add your business</span></a></div><div id="ctl00_hotFrogFooter_socialMedia" class="footer-social"><p class="cap-join">Follow Hotfrog on:</p><span class="social-media-icons"><a href="http://www.facebook.com/HotfrogUSA" id="ctl00_hotFrogFooter_facebookUrl" class="facebook" target="_blank" rel="nofollow" title="Follow us on Facebook"></a><a href="https://twitter.com/#!/hotfroginfo" id="ctl00_hotFrogFooter_twitterUrl" class="twitter" target="_blank" rel="nofollow" title="Follow us on Twitter"></a><a href="http://www.linkedin.com/company/hotfrog---the-world's-business-directory" id="ctl00_hotFrogFooter_linkedinUrl" class="linkedin" target="_blank" rel="nofollow" title="Follow us on LinkedIn"></a><a href="https://plus.google.com/113481820488134130497" id="ctl00_hotFrogFooter_googlePlusUrl" class="googleplus" target="_blank" rel="nofollow" title="Follow us on Google+"></a></span><p class="cap-share">Share on:</p><span class="social-media-share-icons"><span class="addthis_toolbox2 addthis_default_style2"><a class="addthis_button_facebook" rel="nofollow"></a><a class="addthis_button_twitter" rel="nofollow"></a><a class="addthis_button_linkedin" rel="nofollow"></a></span></span><hr></div><div class="footer-links"><ul class="inline-list"><li id="ctl00_hotFrogFooter_liAboutUS"><a href="AboutUS.html" id="ctl00_hotFrogFooter_aAboutUs" rel="nofollow">About Hotfrog</a></li><li id="ctl00_hotFrogFooter_liAdvertiseWithUS" class="footer-link-advertise"><a href="HotfrogPromotion.html" id="ctl00_hotFrogFooter_aAdvertiseWithUS" rel="">Advertise with us</a></li><li id="ctl00_hotFrogFooter_liAdvertisingPartners"><a href="AdvertisingPartners.html" id="ctl00_hotFrogFooter_aAdvertisingPartners" rel="">Advertising partners</a></li><li id="ctl00_hotFrogFooter_liTerms"><a href="Terms.html" id="ctl00_hotFrogFooter_aTerms" rel="nofollow">Terms of Use</a></li><li id="ctl00_hotFrogFooter_liPrivacy"><a href="Privacy.html" id="ctl00_hotFrogFooter_aPrivacy" rel="nofollow">Privacy Policy</a></li><li id="ctl00_hotFrogFooter_liSupport"><a href="http://support.hotfrog.com/customer/en_us/portal/articles" id="ctl00_hotFrogFooter_aSupport" rel="nofollow" target="_blank">Support</a></li></ul><hr><div class="hotfrog-sbh"><p class="footsbh"><a href="http://hotfrog.com/sbh" id="ctl00_hotFrogFooter_aSmallBusinessHub" class="underline" rel="">Hotfrog Small Business Hub</a></p><ul class="inline-list"><li id="ctl00_hotFrogFooter_liGrowBusiness"><a href="http://hotfrog.com/sbh/category/grow-your-business/" id="ctl00_hotFrogFooter_aGrowBusiness" rel="">Grow your business</a></li><li id="ctl00_hotFrogFooter_liCaseStudies"><a href="http://hotfrog.com/sbh/category/marketing/" id="ctl00_hotFrogFooter_aCaseStudies" rel="">Marketing</a></li><li id="ctl00_hotFrogFooter_liHowTos" class="last"><a href="http://support.hotfrog.com/customer/en_us/portal/topics/805551-hotfrog-tips/articles" id="ctl00_hotFrogFooter_aHowTos" rel="">Hotfrog tips</a></li></ul><hr></div></div><div class="disclaimer">© Copyright Hotfrog Group Pty Ltd 2015 (v<span id="ctl00_hotFrogFooter_lblVersion" class="version">14.0.7.011 - 117</span>)</div></div></div></div><input name="ctl00$HiddenSocialUID" type="hidden" id="ctl00_HiddenSocialUID">
+<script language="JavaScript">CreateCookie();</script><script type="text/javascript" src="#"></script></form>
+    
+
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  try{
+  var firstTracker = _gat._getTracker('UA-251822-37');
+  firstTracker._initData();
+  firstTracker._trackPageview();
+  firstTracker._trackPageLoadTime();  
+  }catch(err){}
+
+</script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript">
+
+</script><script src="http://www.hotfrog.com/Scripts/CommonScriptsAll.js?cb=17566" type="text/javascript">
+
+</script><script src="http://www.hotfrog.com/Scripts/BambooScripts.js?cb=17566" type="text/javascript">
+
+</script><script src="http://www.hotfrog.com/Scripts/jqjson2.js?cb=17566" type="text/javascript">
+
+</script>
+     <!-- [if IE]>
+	    <script type="text/javascript" src="/Scripts/bamboo/pie.js"></script>
+    <![endif]-->
+    
+    
+<script type="text/javascript">
+    $(function () { $('.btn').FixDefaultButton(); });
+</script>
+<script src="http://www.hotfrog.com/Scripts/ThirdParty/jquery.utility.js" type="text/javascript"></script>
+
+    
+
+
+</body></html>
