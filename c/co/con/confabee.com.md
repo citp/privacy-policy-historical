@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confabee.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151137id_/http%3A//confabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confabee.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315145155id_/http%3A//confabee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,8 +56,7 @@ Kaduna State
 Nigeria  
 Telephone:    062888098-9, 0803 705 (2246)
 
-http://www.confabee.com
-
+http://www.confabee.com  
 Information:     All inquiries can be sent via email( contactus [at] confabee.com ) and will receive 24hr service every day of the week. All phone calls and visits to the office should follow this schedule. Customer Service Hours: Monday – Friday 08:00 – 17:00 hrs GMT+1, Saturday 10:00 – 14:00 hrs GMT+1
 
 Effective 08-08-2008
