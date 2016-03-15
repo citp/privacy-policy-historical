@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kxip.in privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816230159id_/http%3A//kxip.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxip.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315114540id_/http%3A//kxip.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Kings XI Punjab
+# KXIP
 
-**Privacy Policy**
+#### Privacy Policy
 
 At K.P.H. Dream Cricket Pvt. Ltd. and Kings XI Punjab (“KXIP”) we are committed to respecting the privacy rights of our customers and all visitors to our website.
 
@@ -22,13 +22,13 @@ oWhen we may use your details to contact you and
 
 oHow you can be sure the information we hold about you is accurate and current?
 
- **Information Gathered**
+#### Information Gathered
 
 In general, you can visit our website without telling us who you are or revealing any Personal Information about yourself. However, you may not be able to access certain areas or services that require registration or need us to know who you are and/or other information about you.
 
 Information that we collect from you will vary depending upon the activity you seek to engage in and may include without limitation your name, email address, phone number, mobile number, home address, birth date, and credit card information. In addition, we may collect demographic information such as gender, information about your computer, hardware, software, platform, media, Internet Protocol (IP) address and connection, information about online activity such as feature usage and click paths and other data that you may provide in surveys or online profiles. We may combine demographic information with Personal Information to tailor our offerings or web pages to your preferences or interests.
 
- **Personal Information**
+#### Personal Information
 
 Personal Information means any information that may be used to identify you and that is not otherwise publicly available, including, but not limited to, your first and last name, home or other physical address and an email address, phone number or other contact information.
 
@@ -36,7 +36,7 @@ We may collect Personal Information from you when you register for our fan club,
 
 If you choose to use any referral service we provide to ”tell-a-friend” about our products or our website, we will ask you for your friend’s name and email address. We will then send your friend an email on your behalf inviting him or her to visit the site or check out our offering. We will store your friend’s name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose. Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
- **Cookies and Other Tracking Technologies**
+#### Cookies and Other Tracking Technologies
 
 Some of our web pages may also utilise “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about your activity on our website. Some cookies and other technologies may serve to recall Personal Information previously indicated by you. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you may need to re-enter your original user ID and password to gain access to certain parts of our website.
 
@@ -44,17 +44,17 @@ Tracking technologies may automatically record information such as Internet doma
 
 Our use of cookies and other tracking technologies allows us to improve our website and your web experience. We may also analyse information that does not contain Personal Information for trends and statistics.
 
- **Children**
+#### Children
 
 Our services and our website are intended for a general audience. The products or services offered on our website are not intended for purchase directly by children. If you are a child under the age of 18 and desire to use this website or purchase our products or services, please request your parent to register with us and to complete the transaction. Any use of this website or any of its features by a child under the age of 18 must be with parental supervision. We do not contact children under the age of 18 about special offers or for marketing purposes without a parent’s permission. We do not ask a child under age of 18 for more Personal Information, as a condition of participation, than is reasonably necessary to participate in a given activity on our website.
 
- **Uses of Personal Information**
+#### Uses of Personal Information
 
 We may use Personal Information and other information received and collected from you to provide the services you may have requested including creation of a publicly accessible profile on our fan club, services that display customised content to you and to contact you upon your request and when otherwise necessary. We may also use Personal Information for auditing, research and analysis, and to operate and improve our services. In some circumstances, we may share aggregated non-personal information with third parties. When we use third parties to assist us in processing your Personal Information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
 
 Where we propose to use your Personal Information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above.
 
- **Confidentiality and Security**
+#### Confidentiality and Security
 
 We will keep confidential and protect your Personal Information except where disclosure is required or permitted by law.
 
@@ -66,11 +66,11 @@ Third parties provide certain services available on our website and on our behal
 
 If you choose to provide us with your Personal Information, we may transfer that Personal Information from your country or jurisdiction to other countries or jurisdictions around the world. Your Personal information may be collected and stored on servers located in the territory of India and such other countries as we may disclose from time to time.
 
- **Third Party Websites**
+#### Third Party Websites
 
 If you click on a link to a third party site or otherwise leave the KXIP website you will go to a website that is outside our control. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your Personal Information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as we do. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to our website, you should consult that website’s privacy policy before providing any Personal Information.
 
- **Contacting You**
+#### Contacting You
 
 We may contact you using the Personal Information you have given us:
 
@@ -82,17 +82,17 @@ oto invite you to participate in fan contests or surveys about the team or relat
 
 oto provide you information about our team news, team events, partner promotions, sale of team-related products and services, except where you have specifically requested not to receive this.
 
- **Change of Control**
+#### Change of Control
 
 In the event that ownership or control of KXIP was to change, your Personal Information may be transferred. If such a transfer results in a material change in the use of your Personal Information, KXIP will provide notice about the choices you have to decline to permit such a transfer.
 
- **Accuracy**
+#### Accuracy
 
 To the extent that you do provide us with Personal Information, we wish to maintain accurate and current Personal Information. Where we collect Personal Information from you on our website, should you need to update or correct that Personal Information, please contact us and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
 You can obtain the information we currently hold on you by emailing KXIP at [contact@kxip.in](mailto:contact@kxip.in) We will use our best efforts to send you the information within 14 days of receipt of your email.
 
- **Consent; Amendments; Law**
+#### Consent; Amendments; Law
 
 By using this website, you consent to the terms of this Privacy Policy and to our use and management of Personal Information for the purposes and in the manner given above. Should this Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our website for a reasonable period of time.
 
