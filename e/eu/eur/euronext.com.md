@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euronext.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908182502id_/https%3A//euronext.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euronext.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315054637id_/https%3A//www.euronext.com/fr/content/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Euronext
 
