@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207194802id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315093101id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
 
 # Short-Hair-Style.com - Privacy Statement
-
-## Privacy Statement
 
 Short-Hair-Style.com respects your privacy and committed to provide you with a safe online experience. This Online Privacy Statement is made available to you in order to make you aware of how Short-Hair-Style.com collects and uses information of visitors to this website. 
 
@@ -30,13 +28,15 @@ Your browser offers a service called "cookies" which in todays technological adv
 
 Cookies additionally used by reputable advertisers on this website. Google Adsense use Cookies and/or web beacons to collect data in the ad serving process. A web beacon is normally is a small single-pixel image that is used to count users who have visited a specific page on our website. These data are used to enhance visitors experience regarding the type of advertising served. 
 
+You have the ability to accept or decline cookies by modifying settings in your browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. If you do not wish your data to be collected via Google Analytics, you may use their opt-out tool... <https://tools.google.com/dlpage/gaoptout/>
+
 ### Third Party Advertising Vendors
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (NOT including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies [click here](http://www.short-hair-style.com/ad-companies.html). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (NOT including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+  * Users may opt out of the use of the DART/DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
   * Users can also "opt out" of the behavioral advertising delivered by some other member companies. [To opt out of an NAI member's behavioral advertising program](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
@@ -44,5 +44,15 @@ We use third-party advertising companies to serve ads when you visit our website
 ### Childern and Minor
 
 Some of the sections of this website is visited by children under the age of 12 while looking for hairstyles and advice for their look. We are strongly committed to protec the safety and privacy of those children to this website. All our interactive community system are reviewed before approving any post to this website. We do not allow and remove any language, photos or images unsuitable for young children. **This is a family-safe website**. 
+
+### Updates and Changes to Policy
+
+Short-Hair-Style.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the updated privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
+
+### Agreeing to Terms
+
+If you do not agree to monochromeskincare.com's privacy policy as posted here on this website, please do not use this site or any services offered by this site. 
+
+Your use of this site indicates acceptance of this privacy policy. 
 
 If you have any questions about this Privacy Statement, please [contact us here](http://www.short-hair-style.com/contact.html). 
