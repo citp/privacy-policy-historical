@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecofriend.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231075906id_/http%3A//www.ecofriend.com/privacypolicy%2522) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecofriend.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315022215id_/http%3A//www.ecofriend.com/privacypolicy%2522) for the most accurate reproduction.*
 
 # Privacy Policy - Promoting Eco Friendly Lifestyle to Save Enviornment - Ecofriend
 
