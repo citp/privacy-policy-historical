@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906091001id_/http%3A//www.midas.com/AboutMidas/privacypolicy/tabid/168/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315204100id_/https%3A//www.midas.com/aboutmidas/privacypolicy/tabid/168/default.aspx) for the most accurate reproduction.*
 
 # Midas.com: Your Privacy Right
 
