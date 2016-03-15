@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcdtvbuyingguide.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219012705id_/http%3A//www.lcdtvbuyingguide.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcdtvbuyingguide.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315184429id_/https%3A//lcdtvbuyingguide.com/privacy.shtml) for the most accurate reproduction.*
 
 # LCD TV Buying Guide: flat screen tv ordering FAQ & Tips
 
@@ -6,7 +6,7 @@
 
 ## CEAG’s Privacy Notice
 
-By visiting [LCDtvbuyingguide.com](http://lcdtvbuyingguide.com/), [plasmatvbuyingguide.com](http://plasmatvbuyingguide.com/), or [3d-tvbuyingguide.com](http://3d-tvbuyingguide.com/) you agree to accept the practices described in this Privacy Notice. 
+By visiting [LCDtvbuyingguide.com](https://lcdtvbuyingguide.com/), [plasmatvbuyingguide.com](http://plasmatvbuyingguide.com/), or [3d-tvbuyingguide.com](http://3d-tvbuyingguide.com/) you agree to accept the practices described in this Privacy Notice. 
 
 We value your privacy and it is important to us. We strive to provide you with the best reviews possible on current day electronics products – that's CEAG Inc. company group of websites objective. Following is our Privacy Policy to help you feel at ease that your search experience on our websites is secure and private. This policy does not govern information you might provide to us by means other than search or website use. Due to the fact that the Internet is Global in nature, any information you provide to us or that we collect may be held in countries other than the United States and other than that in which you contacted us from. By using our websites, you effectively consent to such use of your information and agree to the terms of this Privacy Policy. 
 
@@ -62,4 +62,4 @@ We may update our Privacy Policy from time to time. We will inform you of such c
 
 ## Questions
 
-Please visit and fill out our [Contact Form](http://lcdtvbuyingguide.com/contact-form.php) should you have any questions. 
+Please visit and fill out our [Contact Form](https://lcdtvbuyingguide.com/contact-form.php) should you have any questions. 
