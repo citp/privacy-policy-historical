@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealshabibi.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813125423id_/https%3A//dealshabibi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealshabibi.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315133630id_/https%3A//dealshabibi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DealsHabibi.com | Deals in Dubai | Best Online Shopping Website | Smartphones Deals in Dubai | Tablets Price in UAE | Cameras Price in Dubai, Sharjah, Abu Dhabi, UAE
 
-PRIVACY POLICY
+**Privacy Policy**
 
 DealsHbaibi respects and protects the personal information you are sharing with us to process your orders or queries with us. We use the latest available technologies and methods to keep the data safely. The below mentioned PRIVACY POLICY lets you know on how we collect  and use your personal information like name, contact numbers, address and how you can control our use of the same.
 
