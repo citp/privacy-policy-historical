@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125080246id_/http%3A//www.opencrm.co.uk/plans-and-pricing/legal-stuff/privacy-and-delivery-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315135854id_/http%3A//www.opencrm.co.uk/plans-and-pricing/legal-stuff/privacy-and-delivery-policy.html) for the most accurate reproduction.*
 
 # OpenCRM Privacy and Delivery Policy - OpenCRM
 
