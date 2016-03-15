@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovrn.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910005132id_/http%3A//www.sovrn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovrn.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315204912id_/http%3A//www.sovrn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sovrn
 
