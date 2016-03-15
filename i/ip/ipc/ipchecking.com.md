@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ipchecking.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629145705id_/http%3A//www.ipchecking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipchecking.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315225217id_/http%3A//www.ipchecking.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# IP Address Lookup, Reverse IP Lookup and RBL Lookup
+
+## Privacy Policy
 
 **What information do we collect?**
 
@@ -34,4 +36,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 By using our site, you consent to our online privacy policy.
 
-If you have any questions about our policies, please feel free to [contact us](https://web.archive.org/contact/).
+If you have any questions about our policies, please feel free to [contact us](https://web.archive.org/contact/). 
