@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcafeestore.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210214702id_/http%3A//www.mcafeestore.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeestore.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315103308id_/http%3A//www.mcafeestore.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
 
-# Legal - Piracy Policy | McAfee
+# Legal - Piracy Policy | McAfee Official Store
 
 McAfee and its family of companies (“McAfee”, “we”, “us”) are wholly owned subsidiaries of Intel Incorporated. We care deeply about your privacy and security and your online safety is a significant part of our essential mission. We appreciate your decision to trust us with helping to protect your digital life from theft, disruption, and unauthorized access.
 
