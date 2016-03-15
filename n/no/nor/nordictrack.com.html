@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the nordictrack.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905172958id_/http%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nordictrack.com privacy policy that was archived on 2016-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315230413id_/https%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://icon.whoson.com/include.js?domain=www.nordictrack.com&amp;_=1580480334511"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://icon.whoson.com/include.js?domain=www.nordictrack.com&amp;_=1580480340000"></script>
 <meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,7 +15,7 @@
 <meta name="CommerceSearch" content="storeId_10301">
 
 <script type="text/javascript">
-	var absoluteURL = "http://www.nordictrack.com";
+	var absoluteURL = "https://www.nordictrack.com";
 	var imageDirectoryPath = "https://img.iconcdn.com/V74/NordicTrack/images/";
 	var styleDirectoryPath = "";
 	var supportPaymentTypePromotions = false;
@@ -184,7 +184,8 @@
 					setTimeout(function(){shopClick = 0}, 500);
 				}
 			});
-			$("body").delegate('#mini-field, #cart-drop-close, #cart-drop-continue','click',function() {
+			//$("body").delegate('#mini-field, #cart-drop-close, #cart-drop-continue','click',function() {
+			$("body").on('click','#mini-field, #cart-drop-close, #cart-drop-continue', function() {
 				$("#mini-cart").animate({top: '-2000px'}, function() {
 					$("#mini-container, #mini-field").remove();
 					updateCartTotal();
@@ -222,7 +223,7 @@
 		var refProduct = $("body").data('product') == undefined ? "" : $("body").data('product');
 		var refDevice = ua.match(/iPhone/i) || ua.match(/Android/i) || ua.match(/Silk/i) || ua.match(/Tablet/i) || ua.match(/Symbian/i) || ua.match(/Mobile/i) || ua.match(/iPad/i) || ua.match(/Blackerry/i) ? "Mobile" : "Desktop";
 		var refUrl = refSite+"|"+refCategory+"|"+refProduct+"|"+refDevice;
-		$("#formConsult, #formEmail, #contactForm, #contactFormPopup").append('<input type="hidden" name="refUrl" value="'+refUrl+'" />');
+		$("#formConsult, #formEmail, #contactFormPopup").append('<input type="hidden" name="refUrl" value="'+refUrl+'" />');
 		var currentUrl = $(".link-me").attr("href");
 		$(".link-me").attr("href", currentUrl + "&refUrl="+refUrl);
 		
@@ -286,8 +287,7 @@
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body>
 		<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-2W2R"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-2W2R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -375,7 +375,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 		</div>
 		<div class="mo-cart absolute">
 			<span id="mo-cart-button">
-				<a href="javascript:void(null);" class="upper bold dark-text no-decoration" id="headerShopCart">
+				<a href="javascript:void(null);" rel="nofollow" class="upper bold dark-text no-decoration" id="headerShopCart">
 					<span class="cart-icon">&nbsp;</span>
 					
 					<span id="mo-cart-item-count"></span>
@@ -383,7 +383,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			</span>
 		</div><!-- /.mo-cart -->
 		<div class="mo-phone-button absolute">
-			<a href="tel:888-308-9616"><span class="phone-icon">&nbsp;</span></a>
+			<a href="tel:888-308-9616" rel="nofollow"><span class="phone-icon">&nbsp;</span></a>
 			
 		</div><!-- mo-phone -->
 		<div class="mo-header-logo left absolute">
@@ -404,43 +404,43 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 				</div>
 			    
 									<li id="n_treadmills" class="nav-top text-right n_treadmills">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Treadmills" title="NordicTrack Treadmills">Treadmills</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Treadmills" title="NordicTrack Treadmills">Treadmills</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_ellipticals" class="nav-top text-right n_ellipticals">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Ellipticals" title="NordicTrack Ellipticals">Ellipticals</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Ellipticals" title="NordicTrack Ellipticals">Ellipticals</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_inclinetrainers" class="nav-top text-right n_inclinetrainers">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/InclineTrainers" title="NordicTrack Incline Trainers">Incline Trainers</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/InclineTrainers" title="NordicTrack Incline Trainers">Incline Trainers</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_freestridetrainers" class="nav-top text-right n_freestridetrainers">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/freestride-trainers" title="NordicTrack FreeStride Trainers">FreeStrider</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/freestride-trainers" title="NordicTrack FreeStride Trainers">FreeStrider</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_bikes" class="nav-top text-right n_bikes">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/ExerciseBikes" title="NordicTrack Exercise Bikes">Exercise Bikes</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/ExerciseBikes" title="NordicTrack Exercise Bikes">Exercise Bikes</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_rowers" class="nav-top text-right n_rowers">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Rowers" title="NordicTrack Rowers">Rowers</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Rowers" title="NordicTrack Rowers">Rowers</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_skier" class="nav-top text-right n_skier">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Skiers" title="NordicTrack Skiers">Skier</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Skiers" title="NordicTrack Skiers">Skier</a>
 									</li>
 								
 									<li id="n_accessories" class="nav-top text-right n_accessories">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Accessories" title="NordicTrack Accessories">Accessories</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Accessories" title="NordicTrack Accessories">Accessories</a>
 									</li>
 								
 									<li id="n_wearables" class="nav-top text-right n_wearables">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Wearables" title="Wearables">Wearables</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Wearables" title="Wearables">Wearables</a>
 										
 									</li><!-- /.nav-top -->
 									<li id="n_ifit" class="nav-top text-right n_ifit">
-										<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/iFit" title="iFit">iFit</a>
+										<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/iFit" title="iFit">iFit</a>
 									</li>
 								
 			</ul>
@@ -448,7 +448,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 
 		<div class="header-search relative">
 			<div class="searchDiv absolute">
-				<a href="#" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;" onmouseover="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseout="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmousedown="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseup="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';">
+				<a href="#" rel="nofollow" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;" onmouseover="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseout="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmousedown="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseup="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';">
 					<img src="https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png" id="search_overlay" alt="Search">
 				</a>
 			</div>
@@ -459,10 +459,63 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			<div class="clear">&nbsp;</div>
 		</div><!-- /#header-search -->
 		<div class="upper light-text text-right">
-			<a class="light-text gothic-book-condensed nav-top no-decoration" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');">ORDER STATUS&nbsp;</a>
-			<a id="whoson_chat_link2" href="https://icon.whoson.com/chat/chatstart.htm?domain=www.nordictrack.com" target="_blank" class="light-text gothic-book-condensed nav-top no-decoration">LIVE CHAT&nbsp;</a>
+			<a rel="nofollow" class="light-text gothic-book-condensed nav-top no-decoration" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');">ORDER STATUS&nbsp;</a>
+			<a rel="nofollow" id="whoson_chat_link2" href="https://icon.whoson.com/chat/chatstart.htm?domain=www.nordictrack.com" target="_blank" class="light-text gothic-book-condensed nav-top no-decoration">LIVE CHAT&nbsp;</a>
 			<a class="light-text gothic-book-condensed nav-top no-decoration" href="http://support.nordictrack.com/" title="Need help? Get support">SUPPORT&nbsp;</a>
-			<a class="light-text gothic-book-condensed nav-top no-decoration" href="tel:18883089616">Sales 1.888.308.9616&nbsp;</a>
+			<a rel="nofollow" class="light-text gothic-book-condensed nav-top no-decoration" href="tel:18883089616">Sales 1.888.308.9616&nbsp;</a>
+			
+			
+			<ul class="country-list">
+				<li>
+					<div class="country">
+						<a href="https://www.nordictrack.com/" rel="nofollow">
+							<div class="country-name">USA</div>
+							<div class="us-flag flag">&nbsp;</div>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="country">
+						<a href="http://www.nordictrack.ca/" rel="nofollow">
+							<div class="country-name">Canada</div>
+							<div class="canada-flag flag">&nbsp;</div>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="country">
+						<a href="http://www.nordictrackfitness.com.au/" rel="nofollow">
+							<div class="country-name">Australia</div>
+							<div class="australia-flag flag">&nbsp;</div>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="country">
+						<a href="http://www.nordictrack.co.uk/" rel="nofollow">
+							<div class="country-name">UK</div>
+							<div class="uk-flag flag">&nbsp;</div>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="country">
+						<a href="http://www.nordictrack.fr/" rel="nofollow">
+							<div class="country-name">France</div>
+							<div class="france-flag flag">&nbsp;</div>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="country">
+						<a href="http://www.nordictrack.it/" rel="nofollow">
+							<div class="country-name">Italy</div>
+							<div class="italy-flag flag">&nbsp;</div>
+						</a>
+					</div>
+				</li>
+			</ul>
+			
 		</div>
 		<div class="clear">&nbsp;</div>
 		
@@ -481,15 +534,15 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 		<!-- search flow is enabled debug -->
 	
 			<div class="header-status upper light-text absolute">
-				<a class="left light-text gothic-book-condensed" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');">ORDER STATUS&nbsp;</a>
+				<a rel="nofollow" class="left light-text gothic-book-condensed" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');">ORDER STATUS&nbsp;</a>
+				<a class="left light-text gothic-book-condensed" href="http://support.nordictrack.com/" title="Need help? Get support">/ Support&nbsp;</a>
+				<span class="left light-text gothic-book-condensed phone-number">/&nbsp;Sales 1.888.308.9616</span>
 				<div class="live-chat left">
 					<a id="whoson_chat_link"></a>
 				</div>
-				<a class="left light-text gothic-book-condensed" href="http://support.nordictrack.com/" title="Need help? Get support">/ Support&nbsp;</a>
-				<span class="left light-text gothic-book-condensed phone-number">/&nbsp;Sales 1.888.308.9616</span>
 			</div>
 			<div class="searchDiv absolute search-btn">
-				<a href="#" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;" onmouseover="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseout="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmousedown="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseup="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';">
+				<a rel="nofollow" href="#" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;" onmouseover="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseout="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmousedown="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';" onmouseup="document.getElementById('search_overlay').src = 'https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png';">
 					<img src="https://img.iconcdn.com/V74/NordicTrack/images/search-btn.png" id="search_overlay" alt="Search">
 				</a>
 			</div>
@@ -527,7 +580,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 					<div id="autoSuggestHistory"></div>
 					<div class="view_all_results">
 						<span class="right">
-							<a href="#" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;">View All Results</a>
+							<a href="#" rel="nofollow" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;">View All Results</a>
 						</span>
 					</div>
 				</div>
@@ -556,7 +609,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			
 			<div id="countries">
 				<div id="countries-link">
-					<a href="http://www.nordictrack.com/">
+					<a href="https://www.nordictrack.com/">
 						<div class="us-flag">&nbsp;</div>
 						<img class="flag-arrow" alt="US" src="https://img.iconcdn.com/V74/NordicTrack/images/buttons/arrow.png">
 					</a>
@@ -564,7 +617,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 				<ul id="country-subnav" style="display:none;">
 					<li>
 						<div class="country">
-							<a href="http://www.nordictrack.com/">
+							<a href="https://www.nordictrack.com/">
 								<div class="country-name">USA</div>
 								<div class="us-flag flag">&nbsp;</div>
 							</a>
@@ -572,7 +625,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 					</li>
 					<li>
 						<div class="country">
-							<a href="http://www.nordictrack.ca/">
+							<a href="http://www.nordictrack.ca/" rel="nofollow">
 								<div class="country-name">Canada</div>
 								<div class="canada-flag flag">&nbsp;</div>
 							</a>
@@ -580,7 +633,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 					</li>
 					<li>
 						<div class="country">
-							<a href="http://www.nordictrackfitness.com.au/">
+							<a href="http://www.nordictrackfitness.com.au/" rel="nofollow">
 								<div class="country-name">Australia</div>
 								<div class="australia-flag flag">&nbsp;</div>
 							</a>
@@ -588,7 +641,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 					</li>
 					<li>
 						<div class="country">
-							<a href="http://www.nordictrack.co.uk/">
+							<a href="http://www.nordictrack.co.uk/" rel="nofollow">
 								<div class="country-name">UK</div>
 								<div class="uk-flag flag">&nbsp;</div>
 							</a>
@@ -596,7 +649,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 					</li>
 					<li>
 						<div class="country">
-							<a href="http://www.nordictrack.fr/">
+							<a href="http://www.nordictrack.fr/" rel="nofollow">
 								<div class="country-name">France</div>
 								<div class="france-flag flag">&nbsp;</div>
 							</a>
@@ -604,7 +657,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 					</li>
 					<li>
 						<div class="country">
-							<a href="http://www.nordictrack.it/">
+							<a href="http://www.nordictrack.it/" rel="nofollow">
 								<div class="country-name">Italy</div>
 								<div class="italy-flag flag">&nbsp;</div>
 							</a>
@@ -623,7 +676,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			
 			<div id="header_links" class="absolute">
 				<span id="headerShopCartLink">
-					<a href="javascript:void(null);" class="upper bold dark-text no-decoration" id="headerShopCart">
+					<a rel="nofollow" href="javascript:void(null);" class="upper bold dark-text no-decoration" id="headerShopCart">
 						<span class="cart-icon">&nbsp;</span>
 						
 						<span id="cart-item-count"></span>
@@ -637,43 +690,43 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			<ul class="nav">
 			     
 										<li id="n_treadmills" class="nav-top text-left n_treadmills">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Treadmills" title="NordicTrack Treadmills">Treadmills</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Treadmills" title="NordicTrack Treadmills">Treadmills</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_ellipticals" class="nav-top text-left n_ellipticals">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Ellipticals" title="NordicTrack Ellipticals">Ellipticals</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Ellipticals" title="NordicTrack Ellipticals">Ellipticals</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_inclinetrainers" class="nav-top text-left n_inclinetrainers">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/InclineTrainers" title="NordicTrack Incline Trainers">Incline Trainers</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/InclineTrainers" title="NordicTrack Incline Trainers">Incline Trainers</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_freestrider" class="nav-top text-left n_freestrider">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/freestride-trainers" title="NordicTrack FreeStride Trainers">FreeStrider</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/freestride-trainers" title="NordicTrack FreeStride Trainers">FreeStrider</a>
 											
 										</li><!-- /.nav-top -->
 											<li id="n_exercisebikes" class="nav-top text-left n_exercisebikes">
-												<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/ExerciseBikes" title="NordicTrack Exercise Bikes">Exercise Bikes</a>
+												<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/ExerciseBikes" title="NordicTrack Exercise Bikes">Exercise Bikes</a>
 											</li>
 										 
 										<li id="n_rowers" class="nav-top text-left n_rowers">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Rowers" title="NordicTrack Rowers">Rowers</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Rowers" title="NordicTrack Rowers">Rowers</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_skier" class="nav-top text-left n_skier">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Skiers" title="NordicTrack Skiers">Skier</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Skiers" title="NordicTrack Skiers">Skier</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_accessories" class="nav-top text-left n_accessories">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Accessories" title="NordicTrack Accessories">Accessories</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Accessories" title="NordicTrack Accessories">Accessories</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_wearables" class="nav-top text-left n_wearables">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/Wearables" title="Wearables">Wearables</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/Wearables" title="Wearables">Wearables</a>
 											
 										</li><!-- /.nav-top --> 
 										<li id="n_ifit" class="nav-top text-left n_ifit">
-											<a class="no-decoration upper gothic-book-compressed navigation" href="http://www.nordictrack.com/fitness/en/NordicTrack/iFit" title="iFit">iFit</a>
+											<a class="no-decoration upper gothic-book-compressed navigation" href="https://www.nordictrack.com/fitness/en/NordicTrack/iFit" title="iFit">iFit</a>
 											
 										</li><!-- /.nav-top -->
 			</ul>
@@ -722,7 +775,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			navOpen = false;
 		});
 		var footOpen = false;
-		$(".footer-links-box-title").click(function() {
+		$(".shomo .footer-links-box-title").click(function() {
 			if(!footOpen) {
 				$(this).siblings().slideDown();
 				footOpen = true;
@@ -753,7 +806,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 	
 	<div class="breadcrumb_links">
 		
-				<a href="http://www.nordictrack.com/fitness/en/NordicTrack" id="WC_BreadCrumbTrailDisplay_link_2">Home</a>
+				<a href="https://www.nordictrack.com/fitness/en/NordicTrack" id="WC_BreadCrumbTrailDisplay_link_2">Home</a>
 
 				|
 			<h1 class="final-crumb"><span class="breadcrumb_current">Privacy Policy</span></h1>
@@ -804,7 +857,7 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 			<div class="e-header" id="ESpotInfo_popupHeader_PrivacyPolicy_AWD">
 				<div class="e-close" id="WC_ESpotInfo_div_3_PrivacyPolicy_AWD">
 					
-					<a id="ESpotInfo_closeLink2_PrivacyPolicy_AWD" href="javascript:hideESpotInfoPopup('ESpotInfo_popup_PrivacyPolicy_AWD');" onkeydown="javaScript:setbackFocus(event);" onmousedown="javaScript:setbackFocus(event);">
+					<a rel="nofollow" id="ESpotInfo_closeLink2_PrivacyPolicy_AWD" href="javascript:hideESpotInfoPopup('ESpotInfo_popup_PrivacyPolicy_AWD');" onkeydown="javaScript:setbackFocus(event);" onmousedown="javaScript:setbackFocus(event);">
 						<span class="icon "></span>
 					</a>
 				</div>
@@ -826,9 +879,9 @@ var _prum = [['id', '551abb2dabe53d576ddedc5b'],
 
 <div class="genericESpot" id="WC_ContentAreaESpot_div_1_225253" data-ems="PrivacyPolicy_AWD" data-emstype="MarketingContent" data-emsid="225253">
 	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_225253">[PrivacyPolicy_AWD]</div>
-	<div class="ESpotInfo" id="WC_ContentAreaESpotInfo_225253"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_PrivacyPolicy_AWD'); return false;"><div class="ESpotInfoIcon"></div></a></div>
+	<div class="ESpotInfo" id="WC_ContentAreaESpotInfo_225253"><a href="#" rel="nofollow" onclick="showESpotInfoPopup('ESpotInfo_popup_PrivacyPolicy_AWD'); return false;"><div class="ESpotInfoIcon"></div></a></div>
 
-            <div class="ad" id="ad_225253">
+            <div class="add" id="add_225253">
         <p>This Privacy Policy governs the manner in which ICON Health &amp; Fitness, Inc. ("we," "us," "our") collect, use, maintain, and disclose information collected from and about you and other users ("you" or "User") while using this website (the "Site"), whether accessed via the Internet, a mobile device, other electronic devices, or by any other means. This privacy policy applies to the Site and all products and services we offer through the Site. We are dedicated to safeguarding Personally Identifiable Information (as defined below) that we collect.</p>
 
 <p>Types of information we collect and when
@@ -855,7 +908,7 @@ Once you have created an account and log in to the Site -- you are not anonymous
 	<li>We may use information we gather about you to display data trends based on different demographics, make offers and discounts available to you, among other things.</li></ul>
             </div>
         
-            <div class="ad" id="ad_225253">
+            <div class="add" id="add_225253">
         <ul>To provide customer service 
 	<li>Your information helps us to more effectively respond to your customer service requests and support needs.</li>
 	<li>When a User submits questions or comments to us, we my use that information to respond to the User.</li>
@@ -883,7 +936,7 @@ Once you have created an account and log in to the Site -- you are not anonymous
 <p>We will disclose information we maintain when required by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to requests from law enforcement agencies or other public agencies if we feel that such disclosure may prevent the instigation of a crime. In addition, we may sell or otherwise disclose to third parties information that does not constitute Personally Identifiable Information. Finally, we may disclose information if there is a transfer of our assets or ownership in connection with a proposed or consummated corporate reorganization, such as a merger or acquisition, to the extent permitted by law.</p>
             </div>
         
-            <div class="ad" id="ad_225253">
+            <div class="add" id="add_225253">
         <h3>Web browser cookies and other technologies used to collect information</h3>
 <p>In addition to the collection of information described above, we use various technologies to collect information from your computer and about your activities on our Site.</p>
 
@@ -899,7 +952,7 @@ Once you have created an account and log in to the Site -- you are not anonymous
 
             </div>
         
-            <div class="ad" id="ad_225253">
+            <div class="add" id="add_225253">
         <h3>Third party websites</h3>
 <p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
 
@@ -920,7 +973,7 @@ privacy@nordictrack.com<br></p>
 
             </div>
         
-            <div class="ad" id="ad_225253">
+            <div class="add" id="add_225253">
         
             </div>
         
@@ -959,7 +1012,7 @@ privacy@nordictrack.com<br></p>
 			<div class="e-header" id="ESpotInfo_popupHeader_DefaultFooter_AWD">
 				<div class="e-close" id="WC_ESpotInfo_div_3_DefaultFooter_AWD">
 					
-					<a id="ESpotInfo_closeLink2_DefaultFooter_AWD" href="javascript:hideESpotInfoPopup('ESpotInfo_popup_DefaultFooter_AWD');" onkeydown="javaScript:setbackFocus(event);" onmousedown="javaScript:setbackFocus(event);">
+					<a rel="nofollow" id="ESpotInfo_closeLink2_DefaultFooter_AWD" href="javascript:hideESpotInfoPopup('ESpotInfo_popup_DefaultFooter_AWD');" onkeydown="javaScript:setbackFocus(event);" onmousedown="javaScript:setbackFocus(event);">
 						<span class="icon "></span>
 					</a>
 				</div>
@@ -981,72 +1034,72 @@ privacy@nordictrack.com<br></p>
 
 <div class="genericESpot" id="WC_ContentAreaESpot_div_1_225252" data-ems="DefaultFooter_AWD" data-emstype="MarketingContent" data-emsid="225252">
 	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_225252">[DefaultFooter_AWD]</div>
-	<div class="ESpotInfo" id="WC_ContentAreaESpotInfo_225252"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_DefaultFooter_AWD'); return false;"><div class="ESpotInfoIcon"></div></a></div>
+	<div class="ESpotInfo" id="WC_ContentAreaESpotInfo_225252"><a href="#" rel="nofollow" onclick="showESpotInfoPopup('ESpotInfo_popup_DefaultFooter_AWD'); return false;"><div class="ESpotInfoIcon"></div></a></div>
 
-            <div class="ad" id="ad_225252">
+            <div class="add" id="add_225252">
         <div class="footer-espot-wrap clearfix nomo">
-	<ul>
-		<li>
-			<div class="free-badge"></div>
-			<div class="footer-espot-text">
-				<h4 class="upper bigger unbold gray">Free</h4>
-				<h3 class="upper large unbold">Shipping</h3>
-				<p class="gray">Your NordicTrack® purchase is shipped to the front of your home for free.</p>
-			</div>
-		</li>
-		<li>
-			<div class="thirty-badge"></div>
-			<div class="footer-espot-text">
-				<h4 class="upper bigger unbold gray">30-DAY Money Back</h4>
-				<h3 class="upper large unbold">Guarantee</h3>
-				<p class="gray">Try your NordicTrack® at home for 30 days. If you're not satisfied, call (866)&nbsp;896-9777 to&nbsp;return&nbsp;it.</p>
-				</div>
-		</li>
-		<li>
-			<div class="easy-badge"></div>
-			<div class="footer-espot-text">
-				<h4 class="upper bigger unbold gray">Take Advantage Of</h4>
-				<div class="bml-large"><img src="https://img.iconcdn.com/V74/NordicTrack/images/paypal_credit_logo.png" alt="PayPal Credit"></div>
-				<p class="gray">No Interest if Paid In Full In 18 Months on Orders Over $1000. Subject To Credit Approval. <a class="light-blue" href="javascript:popWindow('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=GD6315B8&amp;content=/bmlweb/np6mrollingiw.html','775','500','yes','0','20','no','yes');">See Terms.</a></p>
-			</div>
-		</li>
-	</ul>
+  <ul>
+    <li>
+      <div class="free-badge"></div>
+      <div class="footer-espot-text">
+        <h4 class="upper bigger unbold gray">Free</h4>
+        <h3 class="upper large unbold">Shipping</h3>
+        <p class="gray">Your NordicTrack® purchase is shipped to the front of your home for free.</p>
+      </div>
+    </li>
+    <li>
+      <div class="thirty-badge"></div>
+      <div class="footer-espot-text">
+        <h4 class="upper bigger unbold gray">30-DAY Money Back</h4>
+        <h3 class="upper large unbold">Guarantee</h3>
+        <p class="gray">Try your NordicTrack® at home for 30 days. If you're not satisfied, call (866)&nbsp;896-9777 to&nbsp;return&nbsp;it.</p>
+        </div>
+    </li>
+    <li>
+      <div class="easy-badge"></div>
+      <div class="footer-espot-text">
+        <h4 class="upper bigger unbold gray">Take Advantage Of</h4>
+        <div class="bml-large"><img src="https://img.iconcdn.com/V74/NordicTrack/images/paypal_credit_logo.png" alt="PayPal Credit"></div>
+        <p class="gray">No interest if paid in full in 18 months on orders over $1,000. Subject to credit approval. <a class="light-blue" href="javascript:popWindow('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=GD6315B8&amp;content=/bmlweb/np6mrollingiw.html','775','500','yes','0','20','no','yes');">See Terms.</a></p>
+      </div>
+    </li>
+  </ul>
 </div>
 <div class="inner mobile-footer-espot-wrap footer-links clearfix shomo">
-	<div class="footer-links-box">
-		<ul>
-			<li class="footer-links-box-title upper">Free Shipping<span class="right shomo">+</span><span class="clear"></span></li>
-			<li class="blind">
-				<div class="mobile-small-badges small-free-badge"></div>
-				<div class="mobile-footer-espot-text">
-					<p>Your NordicTrack® purchase is shipped to the front of your home for free.</p>
-				</div>
-			</li>
-		</ul>
-	</div>
-	<div class="footer-links-box">
-		<ul>
-			<li class="footer-links-box-title upper">30-DAY Money Back Guarantee<span class="right shomo">+</span><span class="clear"></span></li>
-			<li class="blind">
-				<div class="mobile-small-badges small-thirty-badge"></div>
-				<div class="mobile-footer-espot-text">
-					<p>Try your NordicTrack® at home for 30 days. If you're not satisfied, call (866)&nbsp;896-9777 <br>to return it.</p>
-				</div>
-			</li>
-		</ul>
-	</div>
-	<div class="footer-links-box">
-		<ul>
-			<li class="footer-links-box-title upper">Easy Financing<span class="right shomo">+</span><span class="clear"></span></li>
-			<li class="blind">
-				<div class="mobile-small-badges small-easy-badge"></div>
-				<div class="mobile-footer-espot-text">
-					<div class="bml-large" style="margin: -5px 0 5px 0;"><img src="https://img.iconcdn.com/V74/NordicTrack/images/paypal_credit_white.png" alt="PayPal Credit"></div>
-					<p>No Interest if Paid In Full In 18 Months on Orders Over $1000. Subject To Credit Approval. <a class="light-blue" href="javascript:popWindow('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=GD6315B8&amp;content=/bmlweb/np6mrollingiw.html','775','500','yes','0','20','no','yes');">See Terms.</a></p>
-				</div>
-			</li>
-		</ul>
-	</div>
+  <div class="footer-links-box">
+    <ul>
+      <li class="footer-links-box-title upper">Free Shipping<span class="right shomo">+</span><span class="clear"></span></li>
+      <li class="blind">
+        <div class="mobile-small-badges small-free-badge"></div>
+        <div class="mobile-footer-espot-text">
+          <p>Your NordicTrack® purchase is shipped to the front of your home for free.</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="footer-links-box">
+    <ul>
+      <li class="footer-links-box-title upper">30-DAY Money Back Guarantee<span class="right shomo">+</span><span class="clear"></span></li>
+      <li class="blind">
+        <div class="mobile-small-badges small-thirty-badge"></div>
+        <div class="mobile-footer-espot-text">
+          <p>Try your NordicTrack® at home for 30 days. If you're not satisfied, call (866)&nbsp;896-9777 <br>to return it.</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="footer-links-box">
+    <ul>
+      <li class="footer-links-box-title upper">Easy Financing<span class="right shomo">+</span><span class="clear"></span></li>
+      <li class="blind">
+        <div class="mobile-small-badges small-easy-badge"></div>
+        <div class="mobile-footer-espot-text">
+          <div class="bml-large" style="margin: -5px 0 5px 0;"><img src="https://img.iconcdn.com/V74/NordicTrack/images/paypal_credit_white.png" alt="PayPal Credit"></div>
+          <p>No Interest if Paid In Full In 18 Months on Orders Over $1000. Subject To Credit Approval. <a class="light-blue" href="javascript:popWindow('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=GD6315B8&amp;content=/bmlweb/np6mrollingiw.html','775','500','yes','0','20','no','yes');">See Terms.</a></p>
+        </div>
+      </li>
+    </ul>
+  </div>
 </div>
             </div>
         
@@ -1065,45 +1118,55 @@ privacy@nordictrack.com<br></p>
 		<div class="footer-links-box left light">
 			<ul>
 				<li class="footer-links-box-title upper gothic-demi-compressed">Company Links</li>
-        <li><a class="light gothic-book-compressed" href="http://www.nordictrack.com/fitness/AboutUs_-1_10301_12401">Company</a></li>
-        <li><a class="light" href="http://www.nordictrack.com/fitness/MediaRelationsDisplay?langId=-1&amp;storeId=10301&amp;catalogId=12401">Media Relations</a></li>
-        <li><a class="light" href="http://www.nordictrack.com/fitness/PrivacyView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Privacy Policy</a></li>
+        		<li><a class="light gothic-book-compressed" href="https://www.nordictrack.com/fitness/AboutUs_-1_10301_12401">Company</a></li>
+        		<li><a class="light" href="https://www.nordictrack.com/fitness/MediaRelationsDisplay?langId=-1&amp;storeId=10301&amp;catalogId=12401">Media Relations</a></li>
+        		<li><a class="light" href="https://www.nordictrack.com/fitness/PrivacyView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Privacy Policy</a></li>
 			</ul>
 		</div>
 		<div class="footer-links-box left light">
 			<ul>
 				<li class="footer-links-box-title upper gothic-demi-compressed">Customer Service</li>
 				<li><a class="light" href="http://service.nordictrack.com/CustomerService/contactUs.do?dr=NT">Contact Us</a></li>
-				<li><a class="light" href="http://support.nordictrack.com">Parts &amp; Manuals</a></li>
+				<li><a class="light" href="http://support.nordictrack.com/parts-manuals/">Parts &amp; Manuals</a></li>
 				<li><a class="light" href="http://support.nordictrack.com/?p=592">Return Policy</a></li>
-				<li><a class="light" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');">Order Status</a></li>
+				<li><a class="light" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');" rel="nofollow">Order Status</a></li>
 				<li><a class="light" href="http://support.nordictrack.com/?cat=225">FAQ</a></li>
 			</ul>
 		</div>
 		<div class="footer-links-box left light">
 			<ul>
+				<li class="footer-links-box-title upper gothic-demi-compressed"><a href="https://www.nordictrack.com/learn/" style="color: #fff;font:14px/25px 'ITCFranklinGothicW01-Bk 812650';letter-spacing: 1px;">Learn</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/learn/tags/exercise-equipment/">Exercise-Equipment</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/learn/tags/fitness/">Fitness</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/learn/tags/health/">Health</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/learn/tags/nutrition/">Nutrition</a></li>
+			</ul>
+		</div>
+		<div class="footer-links-box left light">
+			<ul>
 				<li class="footer-links-box-title upper gothic-demi-compressed">Site Links</li>
-				<li><a class="light" href="http://www.nordictrack.com/fitness/en/NordicTrack/Accessories">Fitness Accessories</a></li>
-				<li><a class="light" href="http://www.nordictrack.com/fitness/SiteMapView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Site Map</a></li>
-				<li><a class="light link-me" href="http://www.nordictrack.com/fitness/CRSubscribeView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;refUrl=NordicTrack|||Desktop&amp;refUrl=https://web.archive.org/web/20150905172958id_/http%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401">Sign up for Special Deals</a></li>					
+				<li><a class="light" href="https://www.nordictrack.com/fitness/en/NordicTrack/Accessories">Fitness Accessories</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/fitness/SiteMapView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Site Map</a></li>
+				<li><a class="light link-me" href="https://www.nordictrack.com/fitness/CRSubscribeView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;refUrl=NordicTrack|||Desktop&amp;refUrl=https://web.archive.org/web/20160315230413id_/https%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401">Sign up for Special Deals</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/fitness/en/NordicTrack/Specials/Treadmills-For-Sale">Treadmills For Sale</a></li>					
 			</ul>
 		</div>
 		<div class="footer-links-box left light social-links">
 			<ul>
 				<li class="footer-links-box-title upper gothic-demi-compressed">Follow US</li>
-				<li><a class="light" href="http://twitter.com/NordicTrack" target="_blank"><span class="soc-image twitter-full">&nbsp;</span>Twitter</a></li>
-				<li><a class="light" href="http://www.facebook.com/nordictrack" target="_blank"><span class="soc-image facebook-full">&nbsp;</span>Facebook</a></li>
-				<li><a class="light" href="http://pinterest.com/nordictrack/" target="_blank"><span class="soc-image pinterest-full">&nbsp;</span>Pinterest</a></li>
-				<li><a class="light" href="http://blog.nordictrack.com/" target="_blank"><span class="soc-image blog-full">&nbsp;</span>Blog</a></li>
-				<li><a class="light" href="http://plus.google.com/110547244202959388365/posts" target="_blank"><span class="soc-image google-plus-full">&nbsp;</span>Google+</a></li>
-				<li><a class="light" href="https://www.youtube.com/channel/UCTPIJzRc7NrDl0P5g0_Wexg" target="_blank"><span class="soc-image youtube-full">&nbsp;</span>YouTube</a></li>
+				<li><a class="light" href="http://twitter.com/NordicTrack" target="_blank" rel="nofollow"><span class="soc-image twitter-full">&nbsp;</span>Twitter</a></li>
+				<li><a class="light" href="http://www.facebook.com/nordictrack" target="_blank" rel="nofollow"><span class="soc-image facebook-full">&nbsp;</span>Facebook</a></li>
+				<li><a class="light" href="http://pinterest.com/nordictrack/" target="_blank" rel="nofollow"><span class="soc-image pinterest-full">&nbsp;</span>Pinterest</a></li>
+				<li><a class="light" href="https://www.nordictrack.com/learn/"><span class="soc-image blog-full">&nbsp;</span>Blog</a></li>
+				<li><a class="light" href="http://plus.google.com/110547244202959388365/posts" target="_blank" rel="nofollow"><span class="soc-image google-plus-full">&nbsp;</span>Google+</a></li>
+				<li><a class="light" href="https://www.youtube.com/channel/UCTPIJzRc7NrDl0P5g0_Wexg" target="_blank" rel="nofollow"><span class="soc-image youtube-full">&nbsp;</span>YouTube</a></li>
 			</ul>
 		</div>
 		<div class="clear">&nbsp;</div>
 		<div class="footer-copyright">
 			
-			<span class="left light-text small">Site Last updated: 09-04-15</span>
-			<span class="right light-text small">Copyright&nbsp;©&nbsp;2015 nordictrack.com Pricing valid only within the Continental U.S.</span>
+			<span class="left light-text small">Site Last updated: 03-15-16</span>
+			<span class="right light-text small">Copyright&nbsp;©&nbsp;2016 nordictrack.com Pricing valid only within the Continental U.S.</span>
 			<div class="clear">&nbsp;</div>
 		</div>
 		<div class="clear">&nbsp;</div>
@@ -1115,33 +1178,43 @@ privacy@nordictrack.com<br></p>
 		<div class="footer-links-box left light">
 			<ul>
 				<li class="footer-links-box-title upper gothic-demi-condensed">Company Links<span class="right shomo">+</span><span class="clear"></span></li>
-				<li class="blind"><a class="light" href="http://www.nordictrack.com/fitness/AboutUs_-1_10301_12401">Company</a></li>
-				<li class="blind"><a class="light" href="http://www.nordictrack.com/fitness/MediaRelationsDisplay?langId=-1&amp;storeId=10301&amp;catalogId=12401">Media Relations</a></li>
-				<li class="blind"><a class="light" href="http://www.nordictrack.com/fitness/PrivacyView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Privacy Policy</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/fitness/AboutUs_-1_10301_12401">Company</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/fitness/MediaRelationsDisplay?langId=-1&amp;storeId=10301&amp;catalogId=12401">Media Relations</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/fitness/PrivacyView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Privacy Policy</a></li>
 			</ul>
 		</div>
 		<div class="footer-links-box left light">
 			<ul>
 				<li class="footer-links-box-title upper gothic-demi-condensed">Customer Service<span class="right shomo">+</span><span class="clear"></span></li>
 				<li class="blind"><a class="light" href="http://service.nordictrack.com/CustomerService/contactUs.do?dr=NT">Contact Us</a></li>
-				<li class="blind"><a class="light" href="http://support.nordictrack.com">Parts &amp; Manuals</a></li>
+				<li class="blind"><a class="light" href="http://support.nordictrack.com/parts-manuals/">Parts &amp; Manuals</a></li>
 				<li class="blind"><a class="light" href="http://support.nordictrack.com/?p=592">Return Policy</a></li>
-				<li class="blind"><a class="light" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');">Order Status</a></li>
+				<li class="blind"><a class="light" href="javascript:popWindow('http://www.iconservice.com/CustomerService/orderTracking.do?dr=NT',740,395,'no',20,20,'no','no');" rel="nofollow">Order Status</a></li>
 				<li class="blind"><a class="light" href="http://support.nordictrack.com/?cat=225">FAQ</a></li>
 			</ul>
 		</div>
 		<div class="footer-links-box left light">
 			<ul>
+				<li class="footer-links-box-title upper gothic-demi-condensed">Learn<span class="right shomo">+</span><span class="clear"></span></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/learn/tags/exercise-equipment/">Exercise-Equipment</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/learn/tags/fitness/">Fitness</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/learn/tags/health/">Health</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/learn/tags/nutrition/">Nutrition</a></li>
+			</ul>
+		</div>
+		<div class="footer-links-box left light">
+			<ul>
 				<li class="footer-links-box-title upper gothic-demi-condensed">Site Links<span class="right shomo">+</span><span class="clear"></span></li>
-				<li class="blind"><a class="light accessories-link" href="http://www.nordictrack.com/fitness/en/NordicTrack/Accessories">Fitness Accessories</a></li>
-				<li class="blind"><a class="light" href="http://www.nordictrack.com/fitness/SiteMapView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Site Map</a></li>
-				<li class="blind"><a class="light link-me" href="http://www.nordictrack.com/fitness/CRSubscribeView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;refUrl=NordicTrack|||Desktop&amp;refUrl=https://web.archive.org/web/20150905172958id_/http%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401">Sign up for Special Deals</a></li>					
+				<li class="blind"><a class="light accessories-link" href="https://www.nordictrack.com/fitness/en/NordicTrack/Accessories">Fitness Accessories</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/fitness/SiteMapView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Site Map</a></li>
+				<li class="blind"><a class="light link-me" href="https://www.nordictrack.com/fitness/CRSubscribeView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;refUrl=NordicTrack|||Desktop&amp;refUrl=https://web.archive.org/web/20160315230413id_/https%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401">Sign up for Special Deals</a></li>					
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/fitness/en/NordicTrack/Specials/Treadmills-For-Sale">Treadmills For Sale</a></li>	
 			</ul>
 		</div>
 		<div class="footer-links-box left light">
 			<ul>
 				<li class="footer-links-box-title upper gothic-demi-condensed">International Sites<span class="right shomo">+</span><span class="clear"></span></li>
-				<li class="blind"><a class="light" href="http://www.nordictrack.com/"><span class="us-flag">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/flags/us-flag.png"-->&nbsp;&nbsp;USA</a></li>
+				<li class="blind"><a class="light" href="https://www.nordictrack.com/"><span class="us-flag">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/flags/us-flag.png"-->&nbsp;&nbsp;USA</a></li>
 				<li class="blind"><a class="light" href="http://www.nordictrack.ca/"><span class="canada-flag">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/flags/canada-flag.png" /-->&nbsp;&nbsp;Canada</a></li>
 				<li class="blind"><a class="light" href="http://www.nordictrackfitness.com.au/"><span class="australia-flag">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/flags/au-flag.png" /-->&nbsp;&nbsp;Australia</a></li>
 				<li class="blind"><a class="light" href="http://www.nordictrack.co.uk/"><span class="uk-flag">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/flags/uk-flag.png"-->&nbsp;&nbsp;UK</a></li>
@@ -1152,20 +1225,20 @@ privacy@nordictrack.com<br></p>
 		</div>
 		<div class="footer-links-box left light social-links">
 			<ul class="soc">
-				<li><a class="light soc-top" href="http://twitter.com/NordicTrack" target="_blank"><span class="soc-image-somo twitter-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/twitter.png" alt="Twitter"--></a></li>
-				<li><a class="light soc-top" href="http://www.facebook.com/nordictrack" target="_blank"><span class="soc-image-somo facebook-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/fb.png" alt="Facebook"/--></a></li>
-				<li><a class="light soc-top" href="http://pinterest.com/nordictrack/" target="_blank"><span class="soc-image-somo pinterest-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/pinterest.png" alt="Pinterest"/--></a></li>
-				<li><a class="light soc-top" href="http://blog.nordictrack.com/" target="_blank"><span class="soc-image-somo blog-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/blog.png" alt="Blog"/--></a></li>
-				<li><a class="light soc-top" href="http://plus.google.com/110547244202959388365/posts" target="_blank"><span class="soc-image-somo googleplus-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/googleplus.png" alt="Google+"/--></a></li>
-				<li><a class="light soc-top" href="https://www.youtube.com/channel/UCTPIJzRc7NrDl0P5g0_Wexg" target="_blank"><span class="soc-image-somo youtube-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/youtube.png" alt="YouTube"/--></a></li>
+				<li><a class="light soc-top" href="http://twitter.com/NordicTrack" target="_blank" rel="nofollow"><span class="soc-image-somo twitter-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/twitter.png" alt="Twitter"--></a></li>
+				<li><a class="light soc-top" href="http://www.facebook.com/nordictrack" target="_blank" rel="nofollow"><span class="soc-image-somo facebook-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/fb.png" alt="Facebook"/--></a></li>
+				<li><a class="light soc-top" href="http://pinterest.com/nordictrack/" target="_blank" rel="nofollow"><span class="soc-image-somo pinterest-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/pinterest.png" alt="Pinterest"/--></a></li>
+				<li><a class="light soc-top" href="http://blog.nordictrack.com/" target="_blank" rel="nofollow"><span class="soc-image-somo blog-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/blog.png" alt="Blog"/--></a></li>
+				<li><a class="light soc-top" href="http://plus.google.com/110547244202959388365/posts" target="_blank" rel="nofollow"><span class="soc-image-somo googleplus-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/googleplus.png" alt="Google+"/--></a></li>
+				<li><a class="light soc-top" href="https://www.youtube.com/channel/UCTPIJzRc7NrDl0P5g0_Wexg" target="_blank" rel="nofollow"><span class="soc-image-somo youtube-somo">&nbsp;</span><!--img src="https://img.iconcdn.com/V74/NordicTrack/images/youtube.png" alt="YouTube"/--></a></li>
 			</ul>
 			<div class="clear">&nbsp;</div>
 		</div>
 		<div class="clear">&nbsp;</div>
 	</div>
 	<div class="footer-copyright inner">
-		<span class="light copyright-content">Copyright&nbsp;©&nbsp;2015&nbsp;nordictrack.com All Rights Reserved.&nbsp;<span class="copyright-pricing">Pricing valid only within the Continental U.S.</span></span>
-		<span class="light">Site Last updated:&nbsp;09-04-15</span>
+		<span class="light copyright-content">Copyright&nbsp;©&nbsp;2016&nbsp;nordictrack.com All Rights Reserved.&nbsp;<span class="copyright-pricing">Pricing valid only within the Continental U.S.</span></span>
+		<span class="light">Site Last updated:&nbsp;03-15-16</span>
 	</div>
  	<div class="clear">&nbsp;</div>
 </div>
@@ -1177,7 +1250,9 @@ $.getScript("//icon.whoson.com/include.js?domain=www.nordictrack.com", function(
 		sWOTrackPage();
 	}
 	var t=setTimeout(function() {
+		sWOImageLoaded=function(){};
 		sWOInvite='';
+		sWOResponse='N'; 
 		sWOPage=sWOPage+'%3Ftimer%3Dtrue';
 		sWOTrackPage();
 	}, 30000);
@@ -1191,7 +1266,7 @@ $.getScript("//icon.whoson.com/include.js?domain=www.nordictrack.com", function(
 	// ajax the omniture suckage - page seems to be loading much better, so we should see if omniture is even still working after this
 	$(document).ready(function() {
 		
-			$.getScript('/webapp/wcs/stores/NordicTrack/javascript/tracking/s_code_http.js', function() {
+			$.getScript('/webapp/wcs/stores/NordicTrack/javascript/tracking/s_code_https.js', function() {
 		
 				s.pageName="";
 				s.server="www.nordictrack.com";
@@ -1220,9 +1295,7 @@ $.getScript("//icon.whoson.com/include.js?domain=www.nordictrack.com", function(
 		
 	<script language="JavaScript" type="text/javascript"><!--
 			if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-			//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-			src="https://102.112.2O7.net/b/ss/iconnordic/1/H.17--NS/0"
-			height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/--><!-- End SiteCatalyst code version: H.17. --><!-- End: OmnitureTracking.jsp --><!-- Start: AnalyticsTracking.jsp --><!-- Google Code for Dynamic Remarketing Smart Pixel --><!-- BEGIN One In The Chamber Remarketing Tag USA-19582 -->
+			//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="https://102.112.2O7.net/b/ss/iconnordic/1/H.17--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/--><!-- End SiteCatalyst code version: H.17. --><!-- End: OmnitureTracking.jsp --><!-- Start: AnalyticsTracking.jsp --><!-- Google Code for Dynamic Remarketing Smart Pixel --><!-- BEGIN One In The Chamber Remarketing Tag USA-19582 -->
 <div style="display:none;">
 	<script type="text/javascript">
 		/* <![CDATA[ */
@@ -1234,7 +1307,7 @@ $.getScript("//icon.whoson.com/include.js?domain=www.nordictrack.com", function(
 	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 	<noscript>
 		<div style="display:inline;">
-			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/955887871/?value=0&guid=ON&script=0"/>
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/955887871/?value=0&amp;guid=ON&amp;script=0"/>
 		</div>
 	</noscript>
 </div>
@@ -1331,7 +1404,7 @@ $.getScript("//icon.whoson.com/include.js?domain=www.nordictrack.com", function(
 	<h3>Thank You for<br>Subscribing!</h3>
 	<p>Your first email is waiting<br>in your inbox.</p>
 	<div class="email-submit-inputs">
-		<a href="" class="button closable">CLOSE &gt;</a>
+		<a href="" rel="nofollow" class="button closable">CLOSE &gt;</a>
 	</div>
 </div>
 <!-- </div>-->
