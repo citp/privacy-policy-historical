@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastwebhost.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916084717id_/https%3A//www.fastwebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastwebhost.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315085658id_/https%3A//www.fastwebhost.com/privacy.html) for the most accurate reproduction.*
 
 # FastWebHost.com Privacy Policy
 
