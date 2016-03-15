@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922142622id_/https%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315034241id_/https%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Security and privacy policy at scandinaviandesigncenter.com
 
 Security and privacy policy at scandinaviandesigncenter.com 
+
+Scandinaviandesigncenter.com uses cookies in order to improve our website, services and the user experience for you.  
+Click [ here](https://web.archive.org/CustomerService/CookiePolicy/CookiePolicy) if you want to know more about our Privacy Policy and the cookies we use.  
+
+
+_If you do not make a choice and keep navigating scandinaviandesigncenter.com, you agree to the use of all cookies._
 
 NEW IN THE SHOPPING CART
 
@@ -56,9 +62,10 @@ Purpose: To evaluate the online marketing together with TradeDoubler. This allow
 
 **-Targeting cookies**  
 Cookie: Nosto   
-Purpose: To analyze the viewers behaviour on the homepage and products looked at.This allows us to display relevant product recommendations on the homepage.  
+Purpose: To analyze the viewers behaviour on the homepage and products looked at.This allows us to display relevant product recommendations on the homepage.
+
 Cookie: Social Media: Facebook/Pinterest   
-Purpose: To provide the function to allow customers to like and share products on their social networds.
+Purpose: To provide the function to allow customers to like and share products on their social networks.
 
 Certain cookies may be set at soon as you inter the website. However, you can choose to manage or block the cookies we use through this website in your browser settings. Please note, however, that Scand. Design Online AB cannot guarantee that all information will be correct if you choose to block the access of cookies.
 
