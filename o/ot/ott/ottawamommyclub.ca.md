@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottawamommyclub.ca privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041620id_/http%3A//ottawamommyclub.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottawamommyclub.ca privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315211934id_/http%3A//ottawamommyclub.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ottawa Mommy Club - Moms and Kids Online Magazine : Ottawa Mommy Club – Moms and Kids Online Magazine
 
@@ -35,11 +35,11 @@ We may contact you to inquire about your use of the Ottawa Mommy Club or to requ
 
 _Content:  _The Ottawa Mommy Club provides information about parenting, resources, family related issues, upcoming events and much more! Our goal is to bring out important information to Ottawa Moms. This information will be relevant to Ottawa and help enhance the lives of families residing in the Capital region.
 
-The content of our website is intended for users who are over 18 yrs old.  Those under 18 may only use [www.ottawammmyclub.ca](https://web.archive.org/web/20150912041620id_/http://ottawamommyclub.ca/privacy-policy/www.ottawamommyclub.ca) under the supervision of a parent or guardian and children’s personal information should never be entered on [www.ottawamommyclub.ca](https://web.archive.org/web/20150912041620id_/http://ottawamommyclub.ca/privacy-policy/www.ottawamommyclub.ca).
+The content of our website is intended for users who are over 18 yrs old.  Those under 18 may only use [www.ottawammmyclub.ca](https://web.archive.org/web/20160315211934id_/http://ottawamommyclub.ca/privacy-policy/www.ottawamommyclub.ca) under the supervision of a parent or guardian and children’s personal information should never be entered on [www.ottawamommyclub.ca](https://web.archive.org/web/20160315211934id_/http://ottawamommyclub.ca/privacy-policy/www.ottawamommyclub.ca).
 
 _Policy Changes:_   www.ottawamommyclub.ca may make changes to its privacy and information policies.  When we do, those changes will be posted here.  Please check back to view our current privacy policies.
 
-_Business Transfer:_  We might acquire other companies, which might include information about their customers.  If that happens, all reasonable efforts will be made to comply with the privacy policy of that company.  In the unlikely event that [www.ottawamommyclub.ca ](https://web.archive.org/web/20150912041620id_/http://ottawamommyclub.ca/privacy-policy/www.ottawamommyclub.ca)or its assets are sold, customer information will be one of the assets which is transferred to the new owner.
+_Business Transfer:_  We might acquire other companies, which might include information about their customers.  If that happens, all reasonable efforts will be made to comply with the privacy policy of that company.  In the unlikely event that [www.ottawamommyclub.ca ](https://web.archive.org/web/20160315211934id_/http://ottawamommyclub.ca/privacy-policy/www.ottawamommyclub.ca)or its assets are sold, customer information will be one of the assets which is transferred to the new owner.
 
 ### Editorial Policy
 
