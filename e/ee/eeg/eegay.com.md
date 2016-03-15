@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eegay.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213015913id_/http%3A//eegay.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eegay.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315172415id_/http%3A//eegay.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
