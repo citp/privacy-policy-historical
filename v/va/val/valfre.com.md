@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valfre.com privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716204436id_/http%3A//valfre.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valfre.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315090556id_/http%3A//valfre.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Site Security is Very Important to Us | Valfré
 
@@ -51,9 +51,9 @@ We maintain physical, electronic, and procedural safeguards that are designed to
 
 **Contact Preferences and Accessing Your Personal Information**
 
-****You have choices when it comes to how VALFRE LLC. uses your personal information. When you register online with our Website or sign-up in our stores, you can choose not to receive information about merchandise, services and special promotional offers from us by direct mail and/or email. If you elect not to receive such product marketing information by direct mail or email, VALFRE LLC. may continue to contact you as necessary to service your account and process your transactions. You can change your preferences by following the instructions for opting out at the end of the marketing email, or by following the instructions for Account Information on the Websites or by contacting Customer Service at  [cs@valfre.com](mailto:cs@valfre.com), or calling 1-888-559-9777.
+****You have choices when it comes to how VALFRE LLC. uses your personal information. When you register online with our Website or sign-up in our stores, you can choose not to receive information about merchandise, services and special promotional offers from us by direct mail and/or email. If you elect not to receive such product marketing information by direct mail or email, VALFRE LLC. may continue to contact you as necessary to service your account and process your transactions. You can change your preferences by following the instructions for opting out at the end of the marketing email, or by following the instructions for Account Information on the Websites or by contacting Customer Service at  [cs@valfre.com](mailto:cs@valfre.com). 
 
-Keeping your account information accurate and up to date is very important so we can provide you with excellent service. If your account information is incomplete, inaccurate or not current, please follow the instructions for My Account on our Websites to correct or update your account information online, or you may contact Customer Service at [cs@valfre.com](mailto:cs@valfre.com), or calling 1-888-559-9777.
+Keeping your account information accurate and up to date is very important so we can provide you with excellent service. If your account information is incomplete, inaccurate or not current, please follow the instructions for My Account on our Websites to correct or update your account information online, or you may contact Customer Service at [cs@valfre.com](mailto:cs@valfre.com).
 
 **Mergers, Acquisitions and Bankruptcy**
 
