@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901160930id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315010851id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
 
-# Privacy Policy | David Henry's Marketing Blog
+# Privacy Policy | Online Money Club
 
 This privacy policy sets out how David Henry uses and protects any information that you give David Henry when you use this website.
 
