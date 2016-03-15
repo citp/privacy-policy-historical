@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thechennaisilks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034703id_/http%3A//www.thechennaisilks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechennaisilks.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316004542id_/http%3A//www.thechennaisilks.com/privacy-policy) for the most accurate reproduction.*
 
-# தனியுரிமை கொள்கை
+# Privacy Policy
 
 This privacy policy covers what information we collect from you when you visit www.thechennaisilks.com, how we use it, and under what circumstances we disclose it. By using The Chennai Silks website, you agree with the terms and conditions of this privacy policy and terms of use.
 
@@ -26,5 +26,3 @@ When you submit the feedback form, we ask you to disclose your email address in 
 
 **4\. Your Consent To This Agreement**  
 By using this website you consent to the collection and use of information by us as specified above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-\-->
