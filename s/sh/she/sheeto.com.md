@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheeto.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827142851id_/http%3A//sheeto.com/node/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheeto.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315161220id_/http%3A//sheeto.com/node/21) for the most accurate reproduction.*
 
 # Privacy policy | Sheeto.com
 
