@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkingdeadforums.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917043251id_/http%3A//www.walkingdeadforums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkingdeadforums.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315080358id_/http%3A//www.walkingdeadforums.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,20 +10,20 @@ We recognise the importance of protecting the privacy of information collected a
 
 This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and feedback.
 
- **Affiliate Disclosure**  
+**Affiliate Disclosure**  
 This blog uses various affiliate programs and advertising for monetization, which means when you click on links to some sites that I recommend in my posts and make a purchase, this can result in a commission that is credited to this site.
 
- **Personal Information**  
+**Personal Information**  
 Personal information about visitors to our site is collected or stored only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws.
 
- **Use of Information**  
+**Use of Information**  
 Personal information that visitors submit to our site is used only for the purpose for which it is submitted or for such other secondary purposes that are related to the primary purpose, unless we disclose other uses in this Internet Privacy Policy or at the time of collection. Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only. Information such as email addresses or any other personal information is never sold, traded or given away.
 
- **Advertising**  
+**Advertising**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google’s use of the DART cookie enables it to serve ads based on users’ visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Links to other sites**  
 We provide links to Web sites outside of our web sites, as well as to third party Web sites. The content of these linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked from our website.
 
- **Problems or questions**  
+**Problems or questions**  
 If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](http://www.walkingdeadforums.com/contact-us/).
