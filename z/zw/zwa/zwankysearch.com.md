@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwankysearch.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208134259id_/http%3A//zwankysearch.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwankysearch.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315055932id_/http%3A//zwankysearch.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # ZwankySearch - Privacy Policy
 
