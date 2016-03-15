@@ -1,77 +1,119 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008061522id_/http%3A//ungerboeck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315211902id_/https%3A//ungerboeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ungerboeck Software
 
-**Effective Date: April 25, 2013**
+## Privacy Policy of Ungerboeck Check-In
 
-### Information about our organization and website
+In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
 
-Ungerboeck Systems International, Inc. (USI) is committed to protecting your privacy. We provide this Privacy Statement to inform you about the type of information we collect from you online and how we use that information. This website is governed in accordance with the laws of the State of Missouri and the United States. The courts of the State of Missouri shall have exclusive jurisdiction over any dispute arising out of your use of this website.
+## Data Controller and Owner
 
-The ungerboeck.com ([http://ungerboeck.com](http://ungerboeck.com/)) website is owned by Ungerboeck Systems International, Inc., a Missouri corporation, with principal offices located at 100 Ungerboeck Park, O’Fallon, MO 63368.
+**Types of Data collected**
 
-### Collection of personal information
+The owner does not provide a list of Personal Data types collected.
 
-Personal data is information that could identify a specific individual such as names, addresses, e-mail addresses, and telephone numbers ("Personal Information"). If during your visit to this site you order products or services, enter a competition, or submit other information to us, you may provide us with Personal Information.
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
 
-### Use of personal information
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.
 
-If you choose to provide us with Personal Information it will be used to provide the information, products or services you request or which we think may be of interest to you, to communicate with you for the same purpose or for any other purposes stated at the time at which the data is collected and subject to any preferences indicated by you at the time. Where a fee is payable for a service or product we will also use your information for billing and payment collection purposes.
+Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
 
-### Data retention
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
-Data is held for the lifetime your subscription is active for the purposes of contacting you effectively after which time it is depersonalized and non-identifiable.
+Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
 
-### How your personal information is kept accurate and up to date?
+## Mode and place of processing the Data
 
-We are committed to ensuring that your Personal Information is kept accurate and up to date at all times. However, we can only make changes to your Personal Information if you notify us. It is your responsibility to let us know if there are inaccuracies or changes to your Personal Information at any time. Please notify us at [privacy@ungerboeck.com](mailto:privacy@ungerboeck.com) or by post at the following address, Ungerboeck.com Team, 100 Ungerboeck Park, O’Fallon, MO 63368 if there are any changes to or inaccuracies in your Personal Information providing us with sufficient information to identify you, so that any changes can be made.
+**Methods of processing**
 
-### Security
+The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
-We will ensure that all Personal Information supplied is held securely in accordance with all applicable data protection laws and regulations. We take appropriate security measures to prevent unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction or accidental loss of Personal Information.
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-### Disclosures of and the international transfer of your personal information
+**Place**
 
-USI does not sell or otherwise release your Personal Information to third parties for the purpose of allowing them to market their products and services to you. In order to provide our services we may, however, need to share your Personal Information with other companies within the USI Group, and/or third party suppliers that process data on our behalf.
+The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
-Since USI operates globally, this may mean that we could transfer your data to other countries, including countries outside the European Economic Area (EEA). However, in all circumstances, we will take steps to ensure that your Personal Information receives the same level of protection as within the EEA that it is kept secure and used only in accordance with our instructions and for the purposes we have indicated to you at the time of collection of the data.
+**Retention time**
 
-We also reserve the right to disclose your Personal Information as required by law or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on us. In the event that USI is subject to a takeover or acquisition we may disclose your Personal Information to the new owner of the business.
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
-### Direct marketing
+## Additional information about Data collection and processing
 
-We will send you marketing communications which we think may be of interest to you in line with your previously expressed marketing preferences. If you no longer wish to receive such marketing communications, please contact us at [privacy@ungerboeck.com](mailto:privacy@ungerboeck.com) or by post at the following address, Ungerboeck.com Team, 100 Ungerboeck Park, O’Fallon, MO 63368 at any time to exercise your opt-out rights or follow the instructions contained in each marketing communication.
+**Hosting and backend infrastructure**
 
-### Site traffic information and cookies
+These services have the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
 
-Servers located within USI and hosted by third party service providers outside the European Economic Area automatically log data about your visit to our site based on your IP address. This information does not identify you as an individual, but identifies the computer or other device you use to access the website. This information we collect is used to see where the site is being used in the world to ensure coverage, and for click stream analysis to help better understand site usage.
+**User database management**
 
-During the course of your visit to our website, cookies may be downloaded to your computer or device automatically. Cookies are short text files which store information to help our visitors navigate our website efficiently and perform certain functions. There are two different kinds of cookies: a “session” cookie is deleted the moment you close your browser; a "persistent" cookie remains on your device for a longer period of time, sometimes permanently. Cookies may recognize the individual device or web browser of a user through an IP Address, operating system, browser version and other information. However, a user will not be personally identified through the use of a cookie alone. USI uses cookies to provide you with a better online experience by monitoring website usage and gather information which helps us improve our website.
+These services allow the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.
 
-On most browsers the Help feature will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. In a few cases blocking cookies may reduce the functionality of some sites or prevent access to them depending on your chosen browser options. For further information on cookies, visit www.allaboutcookies.org. This link will take you to another website. USI is not responsible for the content of that website.
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
 
-Ungerboeck.com does not require that you accept cookies. However, some functionality on our website may be disabled if you decline to accept cookies.
+**Legal action**
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). The information gathered through Google Analytics cookies will be transmitted and stored by Google on servers in the United States. Google will use this information for evaluating your use of a website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP address with any other data held by Google.
+The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.
 
-### Internet Advertising
+## Additional information about User's Personal Data
 
-This website uses Google AdWords, Google Analytics, and the Google Display Network together to serve ads to you on other websites after you’ve visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, you can do so here. Basically we, along with third-party vendors, Google and DoubleClick, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
 
-If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the Google Ads Preferences Manager. Also, Google recommends installing the Google Analytics Opt-out Browser Add-on.
+**System Logs and Maintenance**
 
-### Questions about your personal Information
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
 
-If you have any questions relating to this privacy statement or the personal data we hold about you or wish to amend the details we hold about you please email us at [privacy@ungerboeck.com](mailto:privacy@ungerboeck.com) or by post at the following address, Ungerboeck.com Team, 100 Ungerboeck Park, O’Fallon, MO 63368.
+**Information not contained in this policy**
 
-### Children
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
 
-USI does not knowingly collect information from children.
+**The rights of Users**
 
-### Changes to this privacy statement
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
 
-We keep our privacy statement under regular review and reserve the right to modify this privacy statement from time to time. We will place any updates on this webpage. By continuing to use this privacy statement after such changes have been made, you are indicating your acceptance of the changes. This privacy policy was last updated on June 18th, 2012.
+This Application does not support “Do Not Track” requests.
 
-### Hyperlinks
+To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
 
-Our website may contain links to other sites which are outside our control and are not covered by this privacy statement. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read the privacy statements on the other websites you visit.
+**Changes to this privacy policy**
+
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+
+**Information about this privacy policy**
+
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
+
+## Definitions and legal references
+
+**Personal Data (or Data)**
+
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+
+**Usage Data**
+
+Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+
+**User**
+
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
+
+**Data Subject**
+
+The legal or natural person to whom the Personal Data refers.
+
+**Data Processor (or Data Supervisor)**
+
+The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
+
+**Data Controller (or Owner)**
+
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+
+**This Application**
+
+The hardware or software tool by which the Personal Data of the User is collected.
+
+## Legal information
+
+Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+
+This privacy policy relates solely to this Application.
