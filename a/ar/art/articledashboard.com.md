@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articledashboard.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174744id_/http%3A//www.articledashboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledashboard.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315053126id_/http%3A//www.articledashboard.com/privacy.php) for the most accurate reproduction.*
 
 # Article Dashboard Directory | Submit Articles | Search Find Free Content | Author Submission
 
