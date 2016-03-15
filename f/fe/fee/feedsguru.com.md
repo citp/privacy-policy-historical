@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedsguru.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122033455id_/http%3A//www.feedsguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedsguru.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315211436id_/http%3A//feedsguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Feedsguru.com
 
@@ -22,6 +22,16 @@ We receive and store certain types of usage related information whenever you int
 **WILL FEEDSGURU SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
 
 Personal information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone (with the exception of sharing your information with an applicable Application Partner - see the "Application Partner Treatment" section above). We share your personal information only as described below.
+
+**ANALYTICS  DEMOGRAPHICS AND INTEREST REPORTING**
+
+We use “Analytics Demographics and Interest Reporting” to collect only Statistical Data
+
+Information that assist us monitoring and improving service. 
+
+Feedsguru may provide this statistical data to third parties. Under no circumstances will you be able to be identified from this statistical data; you will remain anonymous.
+
+You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting Google’s [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/).
 
 **CONDITIONS OF USE:**
 
