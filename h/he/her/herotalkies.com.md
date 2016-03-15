@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the herotalkies.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316192755id_/https%3A//www.herotalkies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herotalkies.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315161111id_/https%3A//herotalkies.com/privacy) for the most accurate reproduction.*
 
-# Herotalkies - Watch New Tamil Movies Legally and in Full HD online
+# HeroTalkies - Watch New Tamil Movies Legally and in Full HD online
+
+## HeroTalkies.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting HeroTalkies.com, you are accepting the practices described in this Privacy Notice.**
 
 ### Collection of Information
 
