@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928002412id_/http%3A//www.cruise.co.uk/cruise-guides/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315042504id_/http%3A//www.cruise.co.uk/cruise-guides/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | www.CRUISE.co.uk
 
@@ -6,11 +6,11 @@
 
  [www.CRUISE.co.uk](http://www.cruise.co.uk/) ltd ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms & conditions [www.CRUISE.co.uk/cruise-guides/Terms-and-Conditions/](http://www.cruise.co.uk/cruise-guides/Terms-and-Conditions/) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+This policy (together with our terms & conditions [www.CRUISE.co.uk/cruise-guides/Terms-and-Conditions/](https://web.archive.org/cruise-guides/Terms-and-Conditions/) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is [www.CRUISE.co.uk](http://www.cruise.co.uk/) ltd. Our registered office is at Birmingham Road, Henley in Arden, West Midlands, B95 5QA and our company number is 01827977.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is [www.CRUISE.co.uk](https://web.archive.org/) ltd. Our registered office is at Birmingham Road, Henley in Arden, West Midlands, B95 5QA and our company number is 01827977.
 
 This policy only applies to our site. If you leave our site via a link or otherwise you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
 
@@ -40,7 +40,7 @@ We may collect information about your computer without you actively providing it
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site [www.CRUISE.co.uk](http://www.cruise.co.uk/) (our site). This includes information provided at the time of subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site [www.CRUISE.co.uk]() (our site). This includes information provided at the time of subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * Details of your visits to our site and the resources that you access.
 
@@ -76,7 +76,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-When you give us your information you will receive emails from us with product and offer updates.  At any point in time click [here ](http://www.cruise.co.uk/unsubscribe.php)to unsubscribe. 
+When you give us your information you will receive emails from us with product and offer updates.  At any point in time click [here ](https://web.archive.org/unsubscribe.php)to unsubscribe. 
 
 On an annual basis we may check with you that you still want to be unsubscribed from our marketing activity.
 
@@ -95,6 +95,18 @@ Calls may be recorded for training & quality purposes.
 **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [marketing@cruise.co.uk](mailto:marketing@cruise.co.uk)
+
+## Need Help?
+
+Do you have a question about a cruise that you are planning to go on? Ask your question here and visitors to the site, who have real cruise experience, will share their answers with you.
+
+  * Post Your Own Questions
+  * Read Answers From Real Cruisers
+  * Help Other Cruisers With Their Questions
+  * Be Part Of A Real Cruise Community
+  * Expand Your Cruise Knowledge
+
+
 
 Close X
 
