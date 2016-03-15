@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfsr.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909070530id_/http%3A//pdfsr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfsr.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315145902id_/http%3A//pdfsr.com/privacy) for the most accurate reproduction.*
 
 # PdfSR.com Privacy Notice
 
