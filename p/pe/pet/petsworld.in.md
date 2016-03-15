@@ -1,27 +1,43 @@
-> *The following text is extracted and transformed from the petsworld.in privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413071056id_/http%3A//www.petsworld.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsworld.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315213751id_/https%3A//www.petsworld.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pets World | Pet Products & Supplies Store
 
-**  
-       _____________________________________________________________ **
+**Support Centre**
 
-  * Any personal information extended by a pet parent for the purpose of purchase or a general query to the web site will be professionally protected. Confidentiality of customer data is our utmost concern and therefore the respective information will only be used for providing the order related information to concernd users and a bespoke shopping experience. This data is in no way traded or rented to any third party group or advertisers.
+We value the trust which you have for us. For this reason, we have set the highest standards to ensure the security of your information and transactions. Please read the following statements to understand our privacy policy:
 
-
-  * Shoppers and users who wish to subscribe to our Petsworld newsletter / blog   will frequently receive updates on published pet information, our special offers and customized pet services , all users may unsubscribe or re subscribe for receiving such information at any time they wish to.  
- 
-  * In the event of a merger of our website with another business entity, Pets world-India will reserve the right to transfer the data collected from users as part of the merger activity in the implementation of a state law that deems it necessary for user information to be divulged in good faith and belief.
-  * Pet’s world India will reserve the right to reveal client information in order to protect the security and integrity of the website from abusive and unlawful uses, to offer defence against third party allegations and to safeguard the rights and personal property of the website.
-  * In case of user supplying any personal details/ data / image on an open forum  on our website or endorsed by Pets world India, this information will be released largely and is not protected.Petsworld India is not liable to hold or act against any sharing, publishing or duplicacy of such content shared by its' users.
+  * For browsing the website, you don’t need to provide your personal details. You will remain anonymous until and unless you agree to sign up with your personal details. Till you sign up, we can’t identify you.
 
 
-  * Users connecting with Pets world India through company’s official Facebook page and other similar social networking application must understand that any data [text, images and videos] are unprotected. The website is not liable to hold or act against any duplicity of data visible through open forums at large.  
-  
- **_______________________________________________________________  
-**  
- **Please feel free to call** **  us on +91-874-401-2053 for any queries that you may have about our privacy   
-policy, you may also email us at sales@petsworld.in for any assistance that you may require.  
-**  
+  * If you choose to browse our Website, you agree to be bound by the terms and conditions discussed in our Privacy Policy. However, if you don’t agree please do not use or access the Website.
+
+
+  * When you place an order with us, we will collect information like your name, gender, postal address, email address, delivery address (if different), telephone number, fax number, mobile number, payment details, bank account details or payment card details to process your order.
+
+
+  * In order to make delivery of the product, we have to pass on your personal details such as name, mobile number and address to a third party (our shipping partner or supplier).
+
+
+  * The information which you provide to us or our agent should be correct and not misguiding in any manner. You are also supposed to keep us up to date and informed about the changes in your personal details for smooth processing of your orders.
+
+
+  * Understanding the value of your privacy, we don’t sell or share your personal information with any other company or agency for any purpose without your permission. However, Pets World India reserves every right to share your personal data to any third party if we have received a genuine, legally-compliant request for disclosing your personal information from that party.
+
+
+  * To identify problems with our server, we can use your IP address. We also reserve the right to use your IP address to administer our website, to identify you and to collect large demographic data.
+
+
+  * To discover and prevent identity theft, fraud and other potentially unlawful acts, we may disclose your personal information to our other corporate bodies. To ensure that our services are not being misused, we may also correlate multiple or related accounts. We may also offer you joint services to fulfil your request if you are living in an area where such services are offered by more than one business organization. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+
+
+  * You don’t need to accept cookies for accessing this website.
+
+
+  * Standard and certified payment services are used by us. All payment related and other disputes are subject to Noida jurisdiction.
+
+
+  * If we decide to make changes to our privacy policy, the changes will be duly updated on this page to keep you informed.
 
 
 
+If you have any questions regarding our Privacy Policy, feel free to [contact](http://petsworld.tk/) us. 
