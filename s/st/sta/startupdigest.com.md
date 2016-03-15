@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupdigest.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907001450id_/http%3A//www.up.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupdigest.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315103047id_/http%3A//www.up.co/privacy-policy) for the most accurate reproduction.*
 
 # UP Global - Privacy Policy
 
