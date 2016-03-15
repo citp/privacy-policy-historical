@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215064644id_/http%3A//www.weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315025350id_/http%3A//www.weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
 
-# Wedding By Color- Free Wedding Blogs & Brides' Online Community
+# Wedding By Color - Free Wedding Blogs & Brides' Online Community
 
 Your privacy is critically important to us. At Tov Solutions we have a few fundamental principles:
 
