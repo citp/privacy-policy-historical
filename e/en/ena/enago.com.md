@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enago.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910005828id_/http%3A//www.enago.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enago.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315121111id_/http%3A//www.enago.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Enago English Editing: Privacy & Security Policy
 
@@ -30,7 +30,7 @@ CII owns the expertise and technology to safeguard your data integrity by making
 
 It is our mission to ensure the optimum availability of your data. Your data is always available at a required level of performance in situations ranging from normal to disastrous.
 
-If you have any question or concern about the safety of our system, CII encourages you with appreciation to[contact us](https://web.archive.org/web/20150910005828id_/http%3A//www.enago.com/contact-us.htm) to find out more.
+If you have any question or concern about the safety of our system, CII encourages you with appreciation to[contact us](https://web.archive.org/web/20160315121111id_/http%3A//www.enago.com/contact-us.htm) to find out more.
 
 ## What information does CII use?
 
@@ -49,7 +49,7 @@ CII gathers and uses information about you, including (but not limited to) infor
 
 ## How does CII use this information and for what purpose?
 
-The Manuscripts and your Documents are collected for the sole purpose of [Editing in English](https://web.archive.org/web/20150910005828id_/http%3A//www.enago.com/index.htm) and making sure that you receive the best quality. Other information help us in developing services for a safe, smooth, efficient, and customized delivery. We also use the data wherever permitted to
+The Manuscripts and your Documents are collected for the sole purpose of [Editing in English](https://web.archive.org/web/20160315121111id_/http%3A//www.enago.com/index.htm) and making sure that you receive the best quality. Other information help us in developing services for a safe, smooth, efficient, and customized delivery. We also use the data wherever permitted to
 
   * To timely communicate with you when necessary.
   * take, process or deliver orders made via our websites, invoice you or notify you of the status of your order;
@@ -88,7 +88,7 @@ CII may send you alerts by e-mail to notify you of any new service launch. You c
 
 ## Can this privacy policy be modified?
 
-CII reserves the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy at [enago.com/privacy-policy.htm](https://web.archive.org/web/20150910005828id_/http%3A//www.enago.com/privacy-policy.htm). The revised Privacy Policy shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised Policy earlier.
+CII reserves the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy at [enago.com/privacy-policy.htm](https://web.archive.org/web/20160315121111id_/http%3A//www.enago.com/privacy-policy.htm). The revised Privacy Policy shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised Policy earlier.
 
 ## What rights do you have and how can you contact cipl?
 
