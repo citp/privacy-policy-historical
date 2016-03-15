@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053227id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315213330id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # GET ME IN! Buy & Sell Concert Tickets, Theatre Tickets and Sports Tickets.
 
@@ -70,7 +70,7 @@ All personal information you provide to GET ME IN! is transmitted using SSL (Sec
 
 **What other information should I know about my privacy?**
 
-If you are a buyer, GET ME IN! will disclose your name, contact number and address details to sellers for order fulfillment purposes only.  
+If you are a buyer, GET ME IN! will disclose your name, contact number and address details to sellers for order fulfilment purposes only.  
 We use a credit card processing company to bill you for goods and services. We will disclose your name, billing address and credit card information to these credit card companies. But these companies do not retain, share, store or use personally identifiable information for any other purposes other than the billing for good and services. Additionally your contact details may be used by the courier as part of their address label to facilitate delivery and enable them to contact you directly in the event of any delivery issues. If you are a seller GET ME IN! may disclose your registered address _to a buyer_ for the return of _incorrectly delivered_ tickets. This will only happen if the event is within 3 days of the delivery of incorrect tickets. See section 3.6 of the Seller Agreement for further information. 
 
 In addition to the circumstances described above, GET ME IN! may disclose client information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of GET ME IN! or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
