@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511235216id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315122102id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
 
 # Union Bank & Trust - Support - Disclosures & Terms of Use - Privacy Policy
 
