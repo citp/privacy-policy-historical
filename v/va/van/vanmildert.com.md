@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002956id_/http%3A//www.vanmildert.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315083607id_/http%3A//www.vanmildert.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# Van Mildert > CustomerServices > Other Information > Security and Privacy
+# Security and Privacy | Van Mildert
 
 We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
