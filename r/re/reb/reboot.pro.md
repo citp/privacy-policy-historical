@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reboot.pro privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912031948id_/http%3A//reboot.pro/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reboot.pro privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315215123id_/http%3A//reboot.pro/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - reboot.pro
 
