@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prezly.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908034914id_/https%3A//www.prezly.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prezly.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315184127id_/https%3A//www.prezly.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Prezly
 
