@@ -1,95 +1,55 @@
-> *The following text is extracted and transformed from the halfordsautocentres.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621153718id_/http%3A//www.halfordsautocentres.com/en-gb/information/Privacy--Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfordsautocentres.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315021538id_/http%3A//www.halfordsautocentres.com/advice/terms-and-conditions/privacy-and-security) for the most accurate reproduction.*
 
-# Halfords Autocentres| Privacy & Security
+# Privacy Policy | Halfords Autocentre
 
-## Privacy & Security
+Find out more about our privacy policy.
 
-**Effective September 22nd 2005**
+Halfords Group PLC ''Halfords'' is committed to protecting and respecting your privacy. This policy together with our terms of use of any websites which you may visit sets out the basis on which any personal information we (including any member of our group) collect from you, or that you provide to us, will be processed. By visiting any of our websites, you are accepting and consenting to the practices described in this policy.
 
-**Our commitment to privacy  
-** This policy sets out our policy on the privacy of the individual. 
+### A) What Information Will We Hold?
 
-Halfords Autocentre takes your privacy seriously and information will be used in accordance with the Data Protection Act 1998. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-**Who we are  
-** Halfords Autocentre  
-7/9 Richmond Rd   
-Olton Wharf   
-Olton  
-Solihull   
-West Midlands   
-B92 7RN
-
-Tel: 0121 707 5811
-
-**Your consent**  
-Your use of this website signifies your consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Should we choose to change these terms for any reason, the changes will be posted here so that you are always kept informed about the collection and use of your personal information, and when we disclose it.
-
-**How do we collect personal information about you and how is it used?** You may provide personal information when communicating with us.
-
- You may use our services and give your name and e-mail address to make a comment about our services or Web site.
-
-If you enter a competition or promotion we will ask your name, address and e-mail address.
-
-We will collect information about your tastes and preferences, both when you tell us and by analysis of customer traffic, including using "cookies".
-
-It may be that some of the personal information you give us (for example, about your health and age) is sensitive personal data within the meaning of the Data Protection Act 1998. Such information ("sensitive information") will only be disclosed with your express consent.
-
-It may be that you provide us details of credit or debit cards or bank accounts in making payment to us. Any such information (confidential financial information) will be disclosed only in accordance with the disclosure policy below.
-
-We may use personal information collected about you to help us develop the layout of our website to ensure that our site is as useful and enjoyable as possible.
-
-We may use personal information collected about you to let you know about functions on our Web site or changes to our terms and conditions of use. 
-
-**The way we use information**  
-The information we collect is used for the following purposes;
-
-To be able to communicate, by means of electronic mail or otherwise, with you in connection with subscription, competitions, and other interactive offers. 
-
-We will use the information for the provision of products, services, administration, marketing and analysing your transactions. We may need to disclose your information to our agents or other service providers for these purposes. We may share your information with our other group companies and with third parties with whom we have a business relationship.
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-We use non-identifying and aggregate information to better design our website. For example, we are able to understand that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-**Which Information must you provide?**  
-On every occasion you are requested to provide personal information, it will be clear when the information is required for a service and when it is purely voluntary to provide it.
-
-**Disclosure policy**  
-We reserve the right to access and disclose individually identifiable information to enable us to comply with applicable laws and lawful government requests to operate its systems and to protect itself or its users.
-
-**Our Commitment To Data Security**  
-To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**How do we protect your information?**  
-We have strict security procedures covering the storage of your information in order to prevent unauthorised access and to comply with the terms of the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity or for other personal information before we can process your call or enquiry further.
-
-**Cookies**  
-We may use "cookies" for administrative purposes such as cataloging traffic patterns throughout the site and can use a "cookie" to assign a "User ID" for this purpose. Cookies, by themselves, cannot be used to find out the identity of any user. If you have a user ID this will automatically identify your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, we will never know who you are, even if we do assign a cookie to your computer.
-
-Other companies that advertise on our site may also have the ability to assign a different cookie to you in a process that we do not control. However, since cookies aren't useable for identifying individuals, these advertisers will never know who you are - and we will not reveal that information to them.
-
-**How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 0800 037 0800 or send us an email.
-
-If you no longer wish to receive information or advertisements from us please contact us by email. An email address to which you can make such a request is located at the end of information sent to you.
-
-**Summary of terms**  
-Browser  
-Used to locate and display Web pages via a software application. The most popular ones are Netscape Navigator and Microsoft Internet Explorer.
-
-Cookie  
-Message given to a web browser by a web server. The message is then stored by the browser in a text file called cookie.txt. Each time the browser requests a page from the server, this message is sent back. A cookie's main objective is to identify users and personalise their visit by customising web pages for them for example by welcoming them by name next time they visit the same site. A site using cookies will usually invite you to provide personal information such as your name, e-mail address and interests.
-
-IP (Internet Protocol)  
-All networks connected to the internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one host to another and that the messages are understood.
-
-IP address  
-If you are connected to the Internet you have one, for example it may look something like this 198.184.98.9 Web Server Delivers (serves up) web pages to your computer.
-
-This privacy policy only covers the Website at [http://www.halfordsautocentres.com](https://web.archive.org/web/20120621153718id_/http://www.halfordsautocentres.com/). Other links within this site to other websites are not covered by this.  
+  * Information you give us. When filling in forms on our websites or in store, corresponding with us by phone, e-mail or letter, participating in discussion boards or other social media functions on our website or entering a competition, promotion or survey, you may give us information such as your name, address, e-mail address and phone number, financial and credit card information, personal description and/or photographs.
+  * Information we collect about you. Each time you visit one of our websites (even if you do not register with us), we may automatically collect technical information about you such as the Internet Protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, the country and telephone code where your computer is located and information about your visit, including products you viewed or searched for, page response times, download errors and length of visits to certain pages.
+  * Information we receive from other sources. We may also receive information about you from third parties who work closely with us including, for example, business partners, payment and delivery services, advertising networks, search information providers and credit reference agencies.
 
 
-For enquiries please contact [reception@halfordsautocentres.co.uk](mailto:reception@halfordsautocentres.co.uk).
+
+### B) How Will We Use That Information?
+
+Any personal information which we hold is held in accordance with the registration we have with the Information Commissioner's Office. We only use your information for the following purposes:
+
+  * To assist in the processing of your order / to carry out our obligations arising from any contracts entered into between you and us (e.g. packing and delivering of orders, forwarding of order details, order fulfilment processing credit/debit card transactions, fraud prevention, registering warranties). It may be necessary to provide your information to external companies to allow them to assist us in processing your order e.g by providing these services for us. The companies concerned are not permitted to use the information supplied by us for any other purpose.
+  * To enable us to provide you with marketing and customer services. Where you have agreed to be contacted for marketing purposes, we can tell you about new products or services that we think will be of interest to you, or sort out any queries that you may have about using our products, services or websites. We may provide your information to external companies to allow them to assist us in our providing such marketing and customer services to you.
+  * To provide an improved service and ensure that content from our websites is presented in the most effective manner for you and for your computer. This information allows us to update and improve the contents of our websites and to administer our site for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our websites safe and secure.
+  * By tracking customers' movements around our websites, the results of customers' preferences and their use of the sites are analysed en masse. Where they have agreed to be contacted for marketing purposes, certain groups of people may be sent further information about products and services based on that analysis. You have a right not to receive this information and can opt out as set out below. In addition, this information helps us to understand more about the kinds of people who benefit most from using our websites. We think it's important to understand our customers well enough to keep improving our service for them.
+
+
+
+We may share your personal information with any member of our group. However, we will only share your information with selected third parties as set out above or where a) we have your express permission to do so; or b) it is in connection with the transfer of all or substantially all of Halfords assets or stock by way of merger, acquisition, reorganisation or otherwise; or c) it is in connection with our use of cookies as explained below; or d) we are under a legal duty to share that information as set out in the terms of use of any of our websites which you visit.
+
+### C) Where Do We Store This Information?
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers in order to fulfil your order, process your payment or provide other support services. By providing us with your information, you agree to this transfer, storing and/or processing. Whilst we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy, unfortunately, the transmission of information via the internet is not completely secure and we cannot guarantee the security of any information transmitted to our site. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### D) What Are My Rights?
+
+When you register on our website or through a competition or other option you will be asked to confirm whether or not you wish to receive information about our promotions and special offers. Additionally, you may be asked if you are happy to be contacted by us for research purposes and / or if you are happy to be contacted by other reputable companies with related offers. We will never disclose your information to anyone outside of the Halfords group unless you give us permission to do so. If at any time you no longer wish to receive information from us, please email us at [customer.services@halfords.co.uk.](mailto:customer.services@halfords.co.uk)
+
+Under the Data Protection Act 1998 (the ''Act'') you are entitled to a copy of the information we hold about you. If you would like a copy of your information please write to the Legal and Governance Team, Halfords Group PLC, Icknield Street, Washford West, Redditch, Worcestershire B98 0DE. Please note that there may be a charge of £10 for this service, as permitted under the Act.
+
+### E) Cookies
+
+Our websites use cookies for several reasons:
+
+  1. To allow you to carry information across pages of our websites and avoid having to re-enter information when you return to one of our sites;
+  2. To measure our website traffic and analyse how our websites work. This will allow us to make changes to our websites in the future and make them easier to use;
+  3. To deliver more relevant advertisements on other websites by showing you products you might be interested in based on your most recent visit to one of our sites; and 
+  4. To deliver more relevant email marketing by presenting you with products you might be interested in based on your most recent visit to one of our sites.
+
+
+
+You can accept or decline cookies by modifying the settings in your browser. Please note that if you disable all cookies then you may not be able to access many parts of our websites or shop in our online stores. For detailed information on the cookies we use and the purposes for which we use them see the Cookie Policy displayed on each of our websites
+
+### F) General
+
+Data Controller: Halfords Group PLC, Icknield Street Drive, Washford, Redditch, Worcestershire B98 0DE. Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to [customer.services@halfords.co.uk.](mailto:customer.services@halfords.co.uk)
