@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the swedish.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115003558id_/http%3A//www.swedish.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swedish.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315142343id_/http%3A//www.swedish.org/policy) for the most accurate reproduction.*
 
 # Swedish Web Privacy Policy | Swedish Medical Center Seattle and Issaquah
 
 This page describes information collected on this website.
 
-[See  **Notice of Health Information Practices**](https://web.archive.org/patient-visitor-info/medical-records/notice-of-privacy-practices/) ****  
-****[**Unsubscribe** from marketing mailings](https://web.archive.org/forms/unsubscribe/)
+[See  **Notice of Health Information Practices**](https://web.archive.org/patient-visitor-info/medical-records/notice-of-privacy-practices) ****  
+****[**Unsubscribe** from marketing mailings](https://web.archive.org/forms/unsubscribe)
 
 * * *
 
