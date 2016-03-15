@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albumoftheyear.org privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909061116id_/http%3A//www.albumoftheyear.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albumoftheyear.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315123356id_/http%3A//www.albumoftheyear.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Album of The Year
 
