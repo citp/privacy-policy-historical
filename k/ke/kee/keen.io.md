@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919023143id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316064537id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
 # Keen IO - Analytics for Developers
 
@@ -172,3 +172,7 @@ We have no control over the type of data or information that Customers upload on
 ### Contact Us
 
 If you have any questions or feedback regarding this Privacy Policy, please let us know. Please contact us at privacy@keen.io.
+
+So, what are you waiting for? It only takes a few minutes and a few lines of code to start collecting the events that _really_ matter to you. 
+
+[Sign Up Free](https://keen.io/signup)
