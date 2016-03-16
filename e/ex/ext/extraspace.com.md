@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828061238id_/http%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316012906id_/https%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement and Legal Disclaimer for Extra Space Storage
 
-**Last Updated: February 21, 2013**
+**Last Updated: December 1, 2015**
 
 This privacy policy (this " ** _Policy_** ") describes the collection of personal information by Extra Space Storage Inc., a Maryland corporation (" ** _Company_** ," " ** _we_** ," or " ** _us_** ") from users of our Web site at www.extraspace.com (the " ** _Website_** "), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our " ** _Services_** ").  This Policy also describes our use and disclosure of such information.  By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy.  This Policy is incorporated by reference into the Company Terms of Use (available at https://www.extraspace.com/policies/terms.aspx) and subject to the provisions of the Terms of Use.
 
@@ -38,7 +38,7 @@ We may collect
 
 _"cookies"_
 
-from visitors to our site in order to deliver our online advertising through third party vendors, including Google, on a variety of sites on the internet. You may opt out of receiving cookie-based advertising from Google by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/) and/or from other third party vendors by visiting the [Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).   
+from visitors to our site in order to deliver our online advertising through third party vendors, including Google, on a variety of sites on the internet. You may opt out of receiving cookie-based advertising from Google by visiting the [Google advertising opt-out page](https://www.google.com/privacy/ads/) and/or from other third party vendors by visiting the [Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).   
 __  
 Information from Other Sources__
 
@@ -48,7 +48,7 @@ Use of Personal Information**
 
 We use Personal Information to provide services and information that you request; to enhance, improve, operate, and maintain our Services, our programs, services, Web sites, and other systems; to prevent fraudulent use of our Services and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Use or applicable law; to tailor advertisements, content, and other aspects of your experience on and in connection with the Services; to maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
 
-We may also use Personal Information you provide to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest.  We allow you to opt-out from receiving marketing communications from us as described in the "Choice" section below.
+We may also use Personal Information you provide at anytime during your visit to our site to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest. We allow you to opt-out from receiving marketing communications from us as described in the "Choice" section below.
 
 **Disclosure of Personal Information**
 
