@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acklandsgrainger.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011225922id_/https%3A//www.acklandsgrainger.com/agiws/en/content/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acklandsgrainger.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316220342id_/https%3A//www.acklandsgrainger.com/en/content/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
