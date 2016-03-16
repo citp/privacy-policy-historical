@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverfreak.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002025622id_/https%3A//www.web-hosting.net.my/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverfreak.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316192055id_/https%3A//www.web-hosting.net.my/privacy-policy.html) for the most accurate reproduction.*
 
 # ServerFreak Privacy Policy - ServerFreak.my (Malaysia)
 
