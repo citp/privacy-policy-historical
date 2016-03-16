@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtestprep.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020071007id_/https%3A//www.jobtestprep.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtestprep.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316133349id_/https%3A//www.jobtestprep.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Information - JobTestPrep
 
@@ -15,7 +15,7 @@ How is my credit card information used when I make a purchase?
 
 The purpose of this Privacy Policy is to assist you in understanding how we, JobTestPrep, use personal information collected via this website, and the choices you can make about how your personal information is used. By submitting your personal information to this website, you are confirming that you have read and understood JobTestPrep's Privacy Policy and that we may use your personal information described in it. JobTestPrep reserves the right to modify or update this Privacy Policy at any time without prior notice. Any modifications will apply to all information collected by JobTestPrep, including previously collected information.
 
-This privacy policy applies to the website only and does not cover information collected on any third-party sites to which this website links. This privacy policy is part of, and must be read in conjunction with, the website's Terms and Conditions. If you do not agree with the [Terms and Conditions](https://web.archive.org/web/20151020071007id_/https%3A//www.jobtestprep.co.uk/termsconditions.aspx) in their entirety, please do not use this website.
+This privacy policy applies to the website only and does not cover information collected on any third-party sites to which this website links. This privacy policy is part of, and must be read in conjunction with, the website's Terms and Conditions. If you do not agree with the [Terms and Conditions](https://web.archive.org/web/20160316133349id_/https%3A//www.jobtestprep.co.uk/termsconditions.aspx) in their entirety, please do not use this website.
 
 ### Types of information collected on the website 
 
