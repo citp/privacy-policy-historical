@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstimes360.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217172914id_/http%3A//www.newstimes360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes360.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316163459id_/http%3A//www.newstimes360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - News Times 360
 
