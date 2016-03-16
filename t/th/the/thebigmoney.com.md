@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231211047id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316134508id_/http%3A//iscroll-primary.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
 
 # Slate's privacy policy.
 
@@ -118,57 +118,3 @@ You may choose to receive promotional emails, newsletters, and similar communica
 **12.   Contact Us**
 
 If you have any questions about this Privacy Policy, you may contact us at:
-
-[](http://www.slate.com/articles/news_and_politics/crime/2015/12/gun_deaths_map_how_many_people_have_died_or_been_injured_in_shootings_around.html) Crime
-
-Dec. 31 2015 10:04 AM
-
-How Many People Have Been Shot in Your Neighborhood This Year? A map of shootings in America.
-
-[](http://www.slate.com/blogs/business_insider/2015/12/30/uber_just_patented_uber_travel_for_trip_planning.html) Business Insider
-
-Dec. 30 2015 4:02 PM
-
-Uber Might Want to Be Your Next Travel Agent Biz Carson
-
-[](http://www.slate.com/blogs/outward/2015/12/31/a_queer_look_at_tops_bottoms_a_children_s_book_about_gardening.html) Outward
-
-Dec. 31 2015 2:36 PM
-
-Gayest Thing:  _Tops & Bottoms_ J. Bryan Lowder
-
-[](http://www.slate.com/blogs/xx_factor/2015/12/31/the_cosby_case_raises_important_questions_on_how_states_define_sexual_assault.html) The XX Factor
-
-Dec. 31 2015 12:22 PM
-
-The Cosby Case Raises Important Questions on How States Define Sexual Assault Deborah Tuerkheimer
-
-[](http://www.slate.com/articles/news_and_politics/slate_plus/2015/12/what_to_read_from_2015.html?wpsrc=sp_all_native_by-section) Slate Plus
-
-Dec. 31 2015 11:38 AM
-
-Our Favorite Reads of 2015 **_Slate_** writers and editors pick their favorite stories from around the Web.
-
-[](http://www.slate.com/blogs/browbeat/2015/12/31/watch_kendrick_lamar_s_intensely_trippy_video_for_u_and_for_sale.html) Brow Beat
-
-Dec. 31 2015 12:46 PM
-
-Watch Kendrick Lamar’s Intensely Trippy Video for “U” and “For Sale?” L.V. Anderson
-
-[](http://www.slate.com/blogs/future_tense/2015/12/31/rounding_up_the_biggest_hacks_of_2015.html) Future Tense
-
-Dec. 31 2015 12:49 PM
-
-Wow, There Were Just So Many Hacks in 2015 Lily Hay Newman
-
-[](http://www.slate.com/blogs/bad_astronomy/2015/12/31/the_top_space_and_astronomy_stories_of_2015.html) Bad Astronomy
-
-Dec. 31 2015 9:15 AM
-
-The Top Space and Astronomy Stories of 2015 Phil Plait
-
-[](http://www.slate.com/articles/sports/sports_nut/2015/12/dabo_swinney_s_christianity_is_clemson_s_marketing_tool.html) Sports Nut
-
-Dec. 29 2015 1:50 PM
-
-Dabo Swinney’s Master Evangelism Why the Clemson coach’s Christianity is a big part of the Tigers’ success. Michael Weinreb
