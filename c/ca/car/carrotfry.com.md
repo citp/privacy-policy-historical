@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrotfry.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122075221id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotfry.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316150144id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.*
 
 # Carrotfry privacy
 
