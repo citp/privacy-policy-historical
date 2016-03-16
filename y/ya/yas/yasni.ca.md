@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yasni.ca privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006030605id_/http%3A//www.yasni.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yasni.ca privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316065921id_/http%3A//www.yasni.ca/privacy) for the most accurate reproduction.*
 
 # No.1 Free People Search - Yasni.ca
 
