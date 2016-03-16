@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whmnet.org privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723232611id_/http%3A//whmnet.org/about/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whmnet.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316065323id_/http%3A//www.whmnet.org/about/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # World Heritage Memory Net - Privacy Policy
 
