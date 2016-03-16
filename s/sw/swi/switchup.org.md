@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchup.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320174642id_/https%3A//www.switchup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchup.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316022001id_/https%3A//www.switchup.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Bootcamp Reviews
 
