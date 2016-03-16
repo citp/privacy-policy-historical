@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremepie.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326130901id_/https%3A//www.extremepie.com/en-UK/legal/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremepie.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316223232id_/https%3A//www.extremepie.com/en-UK/legal/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -13,7 +13,8 @@ Fusion Way,
 Bolingbroke Road,  
 Fairfield Industrial Estate,  
 Louth,  
-LN11 0WA. UK 
+LN11 0WA,  
+United Kingdom 
 
 We will not collect any information about individuals, except where it is specifically and knowingly provided, for example, at the time of ordering. This data is referred to in this policy as 'personal information'. 
 
