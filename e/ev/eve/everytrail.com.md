@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everytrail.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127135632id_/http%3A//www.everytrail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everytrail.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316110128id_/http%3A//www.everytrail.com/privacy.php) for the most accurate reproduction.*
 
 # EveryTrail - Travel Community, iPhone Guides for Sightseeing, Hiking, Walking Tours and more | EveryTrail
 
