@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110232815id_/http%3A//www.literacyplanet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316145229id_/http%3A//www.literacyplanet.com/privacy_policy) for the most accurate reproduction.*
 
-# LiteracyPlanet - Privacy Policy
+# Privacy Policy - LiteracyPlanet
 
 Intrepica Pty Ltd ACN 44 128 896 980, including its subsidiary companies, (we, us, our or Intrepica) recognises and values the protection of your personal information. We are aware of our obligations under the Australian Privacy Act 1988 (Cth) and relevant [European Union Directives](http://ec.europa.eu/justice/data-protection/law/index_en.htm) ; and we will ensure that we fulfill our obligations under relevant legislation where we operate.
 
@@ -36,28 +36,28 @@ _1\. Types of Information We Collect_
 
 We collect two basic types of information – personal information and anonymous information – and we may use personal and anonymous information to create a third type of information, aggregate information . We collect the following categories of information:
 
-  * Registration information you provide when you create an account, including your first name and surname, the first names and surnames of any children you are signing up to the program, country of residence, email address, username and password. **Under no circumstances** will we request or collect any information from you that may disclose your: 
-    * political, religious or philosophical beliefs or affiliations 
+  * Registration information you provide when you create an account, including your first name and surname, the first names and surnames of any children you are signing up to the program, country of residence, email address, username and password. **Under no circumstances** will we request or collect any information from you that may disclose your:
+    * political, religious or philosophical beliefs or affiliations
     * sexuality
     * racial or ethnic origin
     * criminal convictions.
-  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our partners, including payment information 
+  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our partners, including payment information
   * Information you provide in public forums and our applications
-  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, virtual learning environments or link your profile on a third-party site or platform with your registration account. 
-  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address , where we are permitted by law to process this information. 
-  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send. 
+  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, virtual learning environments or link your profile on a third-party site or platform with your registration account.
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address , where we are permitted by law to process this information.
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send.
 
 
 
 _2\. How We Collect Your Information_
 
-  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications , respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications. 
-  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit Online Tracking and Advertising for further information, including how to disable cookies. 
-  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorise the third party to share your information with us before we can acquire it. 
+  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications , respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit Online Tracking and Advertising for further information, including how to disable cookies.
+  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorise the third party to share your information with us before we can acquire it.
 
 
 
-_3\. Use of Your Information by Intrepica Pty Ltd_
+ _3\. Use of Your Information by Intrepica Pty Ltd_
 
 A member of Intrepica , which includes the LiteracyPlanet and Word Mania brands, will be the data controller for your information.
 
@@ -65,20 +65,20 @@ A member of Intrepica , which includes the LiteracyPlanet and Word Mania brands,
 
 We will not share your personal information outside Intrepica Pty Ltd. except in very limited circumstances, including:
 
-  * when we share personal information with third parties in connection with the sale of a business 
+  * when we share personal information with third parties in connection with the sale of a business
   * to enforce our Terms of Use or rules
-  * to ensure the safety and security of our students and third parties 
-  * to protect our rights and property and the rights and property of our users and third parties 
-  * to comply with legal process or in other cases if we believe in good faith that disclosure is required by law 
+  * to ensure the safety and security of our students and third parties
+  * to protect our rights and property and the rights and property of our users and third parties
+  * to comply with legal process or in other cases if we believe in good faith that disclosure is required by law
 
 
 
-_5\. Your Controls and Choices_
+ _5\. Your Controls and Choices_
 
 We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
 
   * you may correct, update and delete your registration account
-  * you may request access to the personal information we hold about you and that we amend or delete it 
+  * you may request access to the personal information we hold about you and that we amend or delete it
 
 
 
@@ -88,12 +88,12 @@ You may exercise your controls and choices, or request access to your personal i
 
 We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications . When we intend to collect personal information from children, we take additional steps to protect children’s privacy, including:
 
-  * limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity 
-  * giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted 
+  * limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity
+  * giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
 
 
 
-_7\. Data Security and Integrity_
+ _7\. Data Security and Integrity_
 
 The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect user information from unauthorised access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
 
@@ -151,10 +151,10 @@ UK Customers Only: Please click [here](https://web.archive.org/cookies_policy) t
 
 We collect information about your activity on our sites and applications using tracking technologies such as cookies, Flash cookies and Web beacons. Definitions for the tracking technologies listed, as well as information regarding how to disable them, are available below. This tracking data is used for many purposes including, for example, to:
 
-  * Provide useful features to simplify your experience when you return to our sites and applications; for example, remembering your preferences for search filters 
-  * Deliver relevant content based on your preferences, usage patterns and location 
-  * Monitor and evaluate the use and operation of our sites and applications 
-  * Analyze traffic on our sites and on the sites of third parties 
+  * Provide useful features to simplify your experience when you return to our sites and applications; for example, remembering your preferences for search filters
+  * Deliver relevant content based on your preferences, usage patterns and location
+  * Monitor and evaluate the use and operation of our sites and applications
+  * Analyze traffic on our sites and on the sites of third parties
 
 
 
@@ -166,9 +166,9 @@ We use some third party tools to collect data about how users interact with our 
 
 Examples of online tracking technologies include:
 
-  * Cookies . Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your student experience more efficient and some of our services will not function properly. 
-  * Flash cookies . We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118) . If you disable Flash cookies, you won’t have access to many features that make your student experience more efficient and some of our services will not function properly. 
-  * Web beacons . Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you. 
+  * Cookies . Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your student experience more efficient and some of our services will not function properly.
+  * Flash cookies . We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118) . If you disable Flash cookies, you won’t have access to many features that make your student experience more efficient and some of our services will not function properly.
+  * Web beacons . Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
 
 
 
