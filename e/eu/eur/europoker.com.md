@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europoker.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114064104id_/http%3A//www.europoker.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europoker.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316174410id_/http%3A//www.europoker.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Provision & Policy at EuroPoker.com
 
