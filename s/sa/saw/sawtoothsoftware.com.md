@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawtoothsoftware.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204184621id_/http%3A//www.sawtoothsoftware.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawtoothsoftware.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316123547id_/http%3A//www.sawtoothsoftware.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Survey Software & Conjoint Analysis - Privacy Policy
 
