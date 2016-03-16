@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upscportal.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025004946id_/http%3A//iasexamportal.com/civilservices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upscportal.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316083518id_/http%3A//iasexamportal.com/civilservices/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IAS EXAM PORTAL - India's Largest Community for UPSC, Civil Services Exam Aspirants.
+# Privacy Policy | IAS UPSC EXAM PORTAL - India's Largest Community for UPSC, Civil Services Exam Aspirants.
 
 ##  Privacy Policy
 
