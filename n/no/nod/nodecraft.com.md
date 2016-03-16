@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodecraft.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316074035id_/https%3A//nodecraft.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodecraft.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316233743id_/https%3A//nodecraft.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NodeCraft Hosting LLC
 
