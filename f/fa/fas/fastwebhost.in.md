@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fastwebhost.in privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915075034id_/http%3A//www.fastwebhost.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastwebhost.in privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316164613id_/http%3A//www.fastwebhost.in/privacy.html) for the most accurate reproduction.*
 
-# FastWebHost.com Privacy Policy
+# FastWebHost.in Privacy Policy
 
-The Privacy policy below describes how FastWebHost.in (the Company) collects and uses information about its customers and website visitors (The Users)
+**FastWebHost Privacy Policy**
+
+The Privacy policy below describes how FastWebHost (the Company) collects and uses information about its customers and website visitors (The Users)
 
 **What information is collected from the User by the Company?**  
 Different types of personally identifiable information are collected from the user by the Company in order for the company to be able to provide its services. These includes, but is not limited to: name, mailing address, telephone numbers, email addresses, credit card information and other information that may be needed for providing the services requested by the User. All this information is provided voluntarily by the User through various order forms, email messages sent to the Company, submit forms, identification forms of LiveChat, information provided by the telephone etc.
@@ -22,6 +24,6 @@ The Company may also transfer personal information of its Users in connection wi
 **What is done by the Company to prevent loss, misuse or alteration of the User's information?**  
 The company guarantees that it applies strictly all the industry standard security measures to protect the personal information collected from its users. These include but are not limited to: password protected access to the personal information, limited access to the sensitive data, encrypted transfer of sensitive data submitted by the User through the Company's order forms, login forms etc. However, there may be security and privacy limitations which are beyond the Company's control. By choosing to provide personal information to the Company the user understands and agrees that the security, integrity and privacy of his/her information cannot be 100% guaranteed.
 
-The company reserves the right to change the above Privacy Policy at any time. Such changes will become effective and binding after their posting on FastWebHost.in website. The user agrees to regularly review this privacy policy and be aware of the changes made. By continuing to use the Company's services and website after any posted revision, the User agrees to abide by it.
+The company reserves the right to change the above Privacy Policy at any time. Such changes will become effective and binding after their posting on FastWebHost website. The user agrees to regularly review this privacy policy and be aware of the changes made. By continuing to use the Company's services and website after any posted revision, the User agrees to abide by it.
 
-To report an incidence of abuse, please report it to [abuse@fastwebhost.com](mailto:abuse@fastwebhost.com)
+To report an incidence of abuse, please report it to abuse@fastwebhost.com
