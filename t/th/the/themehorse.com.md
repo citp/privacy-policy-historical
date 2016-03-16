@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004074202id_/http%3A//themehorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316225244id_/http%3A//themehorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Horse
 
@@ -8,7 +8,7 @@ The Themehorse.com Privacy Policy is designed to assist you in understanding how
 
 ### 1) What Information Do We Collect?
 
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site. 
+When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
 
 ### 2) Website Use Information
 
@@ -28,7 +28,7 @@ As you use this website, the site uses its cookies to differentiate you from oth
 
 ### 6) Sharing Information with Third Parties
 
-The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances: 
+The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
 
   * We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
   * As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
