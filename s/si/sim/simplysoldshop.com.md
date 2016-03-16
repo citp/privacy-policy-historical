@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplysoldshop.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503081447id_/http%3A//simplysoldshop.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplysoldshop.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316193233id_/http%3A//simplysoldshop.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | simplysoldshop.com
 
