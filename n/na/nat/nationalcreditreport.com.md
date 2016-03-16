@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025044524id_/https%3A//www.nationalcreditreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316010855id_/https%3A//www.nationalcreditreport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # .:: NationalCreditReport ::.
 
