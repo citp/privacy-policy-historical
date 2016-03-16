@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opower.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203171429id_/http%3A//opower.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opower.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316115443id_/https%3A//opower.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Opower
+# Privacy Policy - Opower :Opower
 
 [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.opower.com/seal_m "TRUSTe European Safe Harbor certification")
 
@@ -58,7 +58,7 @@ We may occasionally contact Users to further discuss their interest in Opower, t
 
 We may provide Your Personal Information to third-party service providers who work on behalf of or with us to provide some of the services and features of the Site or Services and to help us communicate with You. Examples of such services may include, but are not limited to, sending emails, analyzing data, providing marketing assistance and conducting surveys. These third-parties are required not to disclose Your Personal Information and not to use Your Personal Information except based on our instructions and in accordance with this Privacy Statement.
 
-In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of Your Personal Information to that entity. Opower will notify You (via a posting on this Site or email (at Opower's discretion)) of such a transfer, and You may choose to modify certain of Your Personal Information at that time. This means if You are concerned about Your Personal Information being transferred to a new owner, You can notify us and requested that Your account not being transferred to the new owner.
+In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of Your Personal Information to that entity. Opower will notify You (via a posting on this Site or email (at Opower’s discretion)) of such a transfer, and You may choose to modify certain of Your Personal Information at that time. This means if You are concerned about Your Personal Information being transferred to a new owner, You can notify us and requested that Your account not being transferred to the new owner.
 
 We may share some or all of Your Personal Information with Your Utility or other third-parties to whom You ask or authorize us to send Your information.  This Privacy Statement does not cover the use of Your personally identifiable information by such third-parties.  Opower does not maintain responsibility for the manner in which third-parties use or further disclose Your personally identifiable information collected from You in accordance with this Privacy Statement, after we have disclosed such information to those third-parties. You agree and acknowledge that by using the Site and Services, You hereby consent to Opower sharing Your Personal Information under the circumstances described herein. If You do not want Opower to use or disclose Personal Information collected about You in the ways identified in this Privacy Statement, we will not be able to provide, and You may not use the Site or Services, and must notify Opower by emailing privacy@opower.com or following any of the other opt-out procedures discussed below in the “Opt-Out Policy” section. Please note that this opt-out will only affect your receipt of reports and emails, and will not affect our use of previously collected information.
 
@@ -68,7 +68,7 @@ If You provide Applicant Information, we may disclose that information in all of
 
 **Third Party Sites** The Site may contain links to other Web sites, including those of Utilities.  Opower is not responsible for the privacy practices or the content of these other websites. This Privacy Statement applies solely to information collected by us through the Site or Services and does not apply to these third party websites.  Users will need to check the privacy policies of these others websites to understand their policies. Users who access a linked site may be disclosing their Personal Information.
 
-**Regarding Children** The Site is not directed to children and children are not eligible to use our Services. We do not collect or maintain Personal Information from people we actually know are under 13 years old, and no part of the Site or Services is designed to attract people under 13 years old.  If we later obtain actual knowledge that a User is under 13 years old, we will take steps to remove that User's Personal Information from our databases.
+**Regarding Children** The Site is not directed to children and children are not eligible to use our Services. We do not collect or maintain Personal Information from people we actually know are under 13 years old, and no part of the Site or Services is designed to attract people under 13 years old.  If we later obtain actual knowledge that a User is under 13 years old, we will take steps to remove that User’s Personal Information from our databases.
 
 **Security** We have put in place reasonable security measures designed to safeguard against the loss, misuse and alteration of Your Personal Information under our control. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the personal information you input.
 
@@ -99,6 +99,6 @@ We may update this privacy statement to reflect changes to our information pract
 If Users have any questions or suggestions regarding our Privacy Statement, please contact us:  
 **Contact:** Opower Privacy  
 **Email:** [privacy@opower.com](mailto:privacy@opower.com)  
-**Address:** 1515 N Courthouse Rd, 8th Floor Arlington, VA 22201 
+**Address:** 1515 N Courthouse Rd, 8th Floor Arlington, VA 22201
 
 **Last updated.**   November 28, 2011
