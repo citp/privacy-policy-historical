@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323064600id_/https%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316162431id_/https%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
 
-# Sales Tracking and Online CRM Privacy & Security Policy for PipelineDeals | PipelineDeals
+# Online CRM-Privacy & Security Policy | PipelineDeals | PipelineDeals
 
 PipelineDeals, Inc. ( "PipelineDeals ") is committed to protecting your privacy. We take privacy very seriously here at PipelineDeals and post this PipelineDeals Privacy & Security Policy ( "Policy ") to explain our policy and what PipelineDeals does with the personal information that we collect from individuals that visit and use our website and the applications and services offered by PipelineDeals (the "Services ").
 
