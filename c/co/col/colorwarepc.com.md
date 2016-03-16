@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorwarepc.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/company.aspx%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorwarepc.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/company.aspx%23privacy-policy) for the most accurate reproduction.*
 
-# ColorWare - About
+# ColorWare About
 
   * welcome
   * contact us
@@ -132,9 +132,28 @@ Not only is the process durable and unique, but each step is completed at the Co
   * Launched two limited edition products including the KitchenAid mixer and Shred Beats Pro headphones
   * Expanded facility and built a state of the art machine shop
   * Fourth "ColorWeek" - 12 colors added
-  * Partnered with Bose and Sennheiser
+  * Partnered with Sennheiser
   * Updated website
   * ColorWare brought back the "Send In" option
+
+
+2014
+    
+
+  * Launched the Now in Color Blog
+  * Added laser engraving to products
+  * Launched ColorWare Limited Sennheiser HD 800 G
+  * Launched ColorWare Limited MacBook Air Retro
+  * Partnership with Bose; launched Bose QC 25 headphones
+
+
+2015
+    
+
+  * Launched ColorWare Limited 24k Gold Controllers
+  * Launched ColorWare Limited Sennheiser HD800 C
+  * Introduced patterns for the iPhone
+  * Launched ColorWare Limited iPhone 6s and iPhone 6s Plus Retro
 
 
 
@@ -156,9 +175,9 @@ In 2012, ColorWare quadrupled the size of their state-of-the-art paint facility.
 
 ColorWare was featured as number 108 on the Inc. 500 list of fastest growing privately held companies in the fall of 2007.
 
-### [Blog—Now In Color](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/nowincolor.aspx)
+### [Blog—Now In Color](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/nowincolor.aspx)
 
-Hello, and welcome to ColorWare’s new [blog—Now In Color](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/nowincolor.aspx). ColorWare is a tech-savvy, fashion-minded brand that offers a unique customization service on a variety of tech products. Because of our intriguing art application processes, high quality photographs and videos, as well as our unique products and services, we designed [Now In Color](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/nowincolor.aspx) with more stimulating content. We have a dedicated team with diverse backgrounds to bring you credible and insightful information. [Now In Color](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/nowincolor.aspx) includes a comprehensive range of culturally relevant content such as tech, art, design, automobiles, sports, fashion and travel. 
+Hello, and welcome to ColorWare’s new [blog—Now In Color](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/nowincolor.aspx). ColorWare is a tech-savvy, fashion-minded brand that offers a unique customization service on a variety of tech products. Because of our intriguing art application processes, high quality photographs and videos, as well as our unique products and services, we designed [Now In Color](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/nowincolor.aspx) with more stimulating content. We have a dedicated team with diverse backgrounds to bring you credible and insightful information. [Now In Color](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/nowincolor.aspx) includes a comprehensive range of culturally relevant content such as tech, art, design, automobiles, sports, fashion and travel. 
 
 [RSS Feed](http://www.colorware.com/rssfeed.aspx?channel=blog)
 
@@ -207,9 +226,9 @@ To achieve this highly durable finish, the X2 coating is applied similarly to th
 
 ### Press
 
-[Press Request Form](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/pressrequest.aspx)
+[Press Request Form](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/pressrequest.aspx)
 
-ColorWare has been featured in a variety of magazines. If you would like more information about featuring a ColorWare product in your magazine, please fill out our [Press Request Form](https://web.archive.org/web/20150826201954id_/http%3A//colorwarepc.com/pressrequest.aspx).
+ColorWare has been featured in a variety of magazines. If you would like more information about featuring a ColorWare product in your magazine, please fill out our [Press Request Form](https://web.archive.org/web/20160316025611id_/http%3A//colorwarepc.com/pressrequest.aspx).
 
   * [](https://dq5eb43zrmc0c.cloudfront.net/images/company/press/martha%20stewart%20weddings/outside-large.jpg)[](https://dq5eb43zrmc0c.cloudfront.net/images/company/press/martha%20stewart%20weddings/inside-large.jpg)
 
