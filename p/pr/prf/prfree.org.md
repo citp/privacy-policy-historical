@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prfree.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230140037id_/http%3A//www.prfree.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfree.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316215650id_/http%3A//www.prfree.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Press Release
 
