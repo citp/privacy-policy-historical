@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoplineapp.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706065232id_/http%3A//shoplineapp.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplineapp.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316021257id_/http%3A//shoplineapp.com/en/about/privacy) for the most accurate reproduction.*
 
-# Shopline
+# Privacy | Shopline
 
 By joining SHOPLINE as a user, you have entrusted us with an important responsibility and we are committed to upholding a high standard when it comes to our privacy practices and how we deal with your personal information. As we value transparency in our practices we have provided a detailed Privacy Policy (the “Privacy Policy”) to explain how we gather, use and protect your information. If you have additional questions, please feel free to send us an email at hello@shoplineapp.com 
 
