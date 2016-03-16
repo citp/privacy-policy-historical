@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advisorinternetmarketing.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706123521id_/http%3A//www.advisorinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorinternetmarketing.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316213517id_/http%3A//www.advisorinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Advisor Internet Marketing
+# Privacy Policy - Advisor Internet Marketing
 
 This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
@@ -35,7 +35,7 @@ If you choose to provide personal information, it will be used for the following
 
 **Section 4: Your Opt-Out Rights**
 
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of the emails we send you, or by sending your request, in writing, via email to: [retire@retirethinktank.com](mailto:admin@retirethinktank.com).
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of the emails we send you, or by sending your request, in writing, via email to: [info@advisorinternetmarketing.com](mailto:info@advisorinternetmarketing.com?utm_source=Advisor%2BInternet%2BMarketing&utm_medium=Page&utm_term=&utm_content=Privacy%2BPolicy&utm_campaign=Advisor%252BInternet%252BMarketing%2B-%2BPrivacy%2BPolicy).
 
 **Section 5: We Do Not Intend to Collect Data from Children**
 
@@ -51,7 +51,7 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 **Section 8: Our Contact Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: [retire@retirethinktank.com](mailto:admin@retirethinktank.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: [info@advisorinternetmarketing.com](mailto:info@advisorinternetmarketing.com?utm_source=Advisor%2BInternet%2BMarketing&utm_medium=Page&utm_term=&utm_content=Privacy%2BPolicy&utm_campaign=Advisor%252BInternet%252BMarketing%2B-%2BPrivacy%2BPolicy).
 
 **Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
@@ -90,4 +90,4 @@ From time to time, AdvisorInternetMarketing.com will enter into an arrangement w
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of Annuity123.com. If you have additional questions or wish to discuss this matter further, please contact us at: [retire@retirethinktank.com](mailto:admin@retirethinktank.com).
+We hope this information satisfies any questions or concerns you may have regarding the email practices of AdvisorInternetMarketing.com. If you have additional questions or wish to discuss this matter further, please contact us at: [info@advisorinternetmarketing.com](mailto:info@advisorinternetmarketing.com?utm_source=Advisor%2BInternet%2BMarketing&utm_medium=Page&utm_term=&utm_content=Privacy%2BPolicy&utm_campaign=Advisor%252BInternet%252BMarketing%2B-%2BPrivacy%2BPolicy).
