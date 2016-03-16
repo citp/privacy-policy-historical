@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stnb.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905131411id_/https%3A//www.1stnb.com/fraudprevention/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stnb.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316040553id_/https%3A//www.1stnb.com/fraudprevention/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy | First National Bank Texas - First Convenience Bank
 
