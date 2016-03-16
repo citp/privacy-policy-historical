@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905081117id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316064102id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
 
 # Keybase
 
@@ -12,7 +12,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SERVICE. It describes
 
 We reserve the right, at our sole discretion, to modify or replace this Privacy Policy at any time in accordance with Section 9 ( **“Changes to this Privacy Policy”** ). Access to the Service is offered to you conditioned on your acceptance without modification of this Privacy Policy.
 
-By using the Service, you consent to the collection, use and disclosure of information in accordance with this Privacy Policy. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT USE THE SERVICE. If you have any questions, please contact us by sending an email to privacy@keybase.io or writing to Keybase, Inc., 157 Columbus Ave., 4th Floor, New York, NY 10023.
+By using the Service, you consent to the collection, use and disclosure of information in accordance with this Privacy Policy. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT USE THE SERVICE. If you have any questions, please contact us by sending an email to privacy@keybase.io or writing to Keybase, Inc., 85 Broad St., 18th Floor - NY, NY 10004.
 
   1. Collection of Information
   2. How We Use and Share Your Information
@@ -35,9 +35,11 @@ Personal Information. We collect and store information that can identify you per
 
 Actions. We also collect information about certain actions that you may take while using the service ( **“Actions”** ), such as your proving you control a certain Twitter username, announcing your public key, editing your biographical information or editing any of your social media usernames.
 
-Password Hash. We collect and store your Keybase password and information about it (your **“password hash”** ) that allows you to prove you know your password is sent to Keybase’s servers.
+Password Hash. We collect and store information about your Keybase password (your **“password hash”** ) that allows you to prove you know your password; that hash is sent to Keybase’s servers.
 
 Files and Data. We collect and store files and information that you transmit to other parties using the Service or that you elect to store on the Service.
+
+Do Not Track. Keybase does not collect personally identifiable information from you to track you across third party websites. As a result, Keybase does not specifically respond to web browser Do Not Track signals.
 
 Information collected automatically:
 
