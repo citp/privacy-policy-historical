@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softarama.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119015352id_/http%3A//softarama.com/Company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softarama.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316185421id_/http%3A//softarama.com/Company/privacy.php) for the most accurate reproduction.*
 
 # Softarama - The web's leading PC tune up utilities
 
