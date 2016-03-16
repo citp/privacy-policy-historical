@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-shop.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307090250id_/http%3A//www.seo-shop.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-shop.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316073524id_/http%3A//www.seo-shop.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,8 +54,6 @@ Whois Privacy Services Pty Ltd ABN 65 133 058 741
 **Our contact details**
 
 |  | 
-
-  * Phone: 07 3007 0070 
 
   * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
 
@@ -250,7 +248,7 @@ We may use personal information:
 
   * to give you information about us and our products, and product offers 
 
-  * for direct marketing â€“ see _Direct marketing_ for details 
+  * for direct marketing – see _Direct marketing_ for details 
 
   * to improve our products, our marketing and our website 
 
@@ -286,7 +284,7 @@ We may disclose personal information as reasonably required:
 
     * market research, sales and marketing 
 
-    * direct marketing â€“ see _Direct marketing_ for details 
+    * direct marketing – see _Direct marketing_ for details 
 
     * identity and fraud checking 
 
@@ -392,4 +390,4 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 |  | 
 
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 3, 1 Buckingham St, Surry Hills, NSW 2010. 
