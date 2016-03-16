@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217105924id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316122154id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -20,7 +20,7 @@ When you are conducting an account transaction or registering to receive the Roa
 
 You can verify our compliance at any time by clicking on the VeriSign logo located on our registration form.
 
-If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768, **New extended hours!** Now open Monday – Friday, 8 a.m. – 9 p.m. ET..
+If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768, **New extended hours!** Now open Monday – Friday, 8 a.m. – 9 p.m. ET. .
 
 **How we use "cookies" information:**
 
@@ -52,9 +52,12 @@ You can also fax us toll-free at
 |  |    
 
 
-[ ](tel:800-454-5768)
+[](http://www.roadscholar.org/n/newwebsite)
 
-[ ](http://www.roadscholar.org//about/pos_page.asp?cm_sp=Plug-_-Boomer-_-Top10)
+  
+
+
+[ ](http://blog.roadscholar.org/post/134874092131/why-solo-travelers-love-road-scholar?cm_sp=Plug-_-solo-_-travel-_-blog)
 
 **I WANT TO LEARN ABOUT ...**   
   
@@ -65,7 +68,9 @@ You can also fax us toll-free at
 
 Add price, activity level and more. 
 
-[](http://www.roadscholar.org/lps/blog_participants.asp#Read_Nancy_s_Blog)
+[ ](http://www.roadscholar.org//about/pos_page.asp?cm_sp=Plug-_-Boomer-_-Top10)
+
+[](http://www.roadscholar.org//lps/blog_participants.asp#Read_Emma_s_Blog)
 
 [ ](http://www.roadscholar.org/lps/blog_help.asp?cm_sp=Plug-_-Boomer-_-HowToBlogB)
 
@@ -74,6 +79,6 @@ Add price, activity level and more.
 [ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
 
 Tell a friend about Road Scholar and this month you could win a [ **$1,000 gift certificate!** ](http://www.roadscholar.org//n/forms/referafriend_form.aspx?src=DEE&cm_sp=Plug-_-Boomer-_-RAF1211B)   
-**Congratulations to our latest winner, Deborah L.**
+**Congratulations to our latest winner, Lynne & Alan B.**
 
-[ ](http://www.roadscholar.org//about/gift_certificate.asp?cm_sp=Plug-_-Boomer-_-GiftCert_Dec15)
+[ ](http://www.roadscholar.org//programs/charter_programs.asp?cm_sp=Plug-_-Charter-_-Feb16)
