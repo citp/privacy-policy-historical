@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115508id_/https%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317003024id_/https%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
