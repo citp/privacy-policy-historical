@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the attitudeisaltitude.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906084234id_/http%3A//www.attitudeisaltitude.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attitudeisaltitude.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316094102id_/https%3A//www.attitudeisaltitude.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Attitude is Altitude
+# Privacy Policy | AIA - Attitude is Altitude
 
 At Attitude is Altitude, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use Attitude is Altitude services, as well as some of the steps we take to safeguard it.
 
