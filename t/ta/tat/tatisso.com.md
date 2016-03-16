@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatisso.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329050304id_/https%3A//tatisso.com/index.php%3Fukey%3Dauxpage_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatisso.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316223123id_/http%3A//tatisso.com/index.php%3Fukey%3Dauxpage_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ― Tatisso
 
