@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rootmydevice.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209110857id_/http%3A//rootmydevice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmydevice.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316062513id_/http%3A//rootmydevice.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Root My Device
+# Privacy Policy – Root My Device
 
 **Root My Device** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
