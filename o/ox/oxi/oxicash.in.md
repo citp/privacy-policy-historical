@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxicash.in privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024213521id_/https%3A//www.oxigenwallet.com/pdf/Oxigen-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxicash.in privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316132534id_/https%3A//oxigenwallet.com/pdf/Oxigen-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -92,11 +92,6 @@ Information Collected
              visiting our Website/ mobile application.
 
 
-        l. Your phone book, email and social media (Facebook, Twitter and
-            WhatsApp) contacts. Please note we do not share your phone or
-            social contacts lists with anyone. We do not post on your social
-            media or send any communication to your contacts without your
-            permission.
 Use and Storage of Information
 1. We use your Information for the following purposes:
         a)To carry out your instructions to make and receive payments and
@@ -119,11 +114,14 @@ Use and Storage of Information
             money laundering and credit checks;
         j) To enhance the security of our services;
     2. Retention of Data.
-Other than the Retained Data, we will delete and destroy all Personal
-Information that we hold about you when you (or we) terminate your Oxigen
-account. We do not store your online banking login PIN, TAN and/or
-password. Please note that we will not store your credit card
-information.
+Oxigen is required under applicable laws to retain certain records for a period
+as suggested by regulatory after closure of your Oxigen account, which will
+include your personal data such as your name, contact details, customer
+number and transaction history, etc. ("Retained Data"). Other than the
+Retained Data, we will delete and destroy all Personal Information that we
+hold about you when you (or we) terminate your Oxigen account. We do not
+store your online banking login PIN, TAN and/or password. Please note
+that we will not store your credit card information.
     3. Please note that we will never ask you to disclose your personal or
         security details by e-mail. If you receive any e-mail purportedly from
         Oxigen requesting your personal or security details, please do not
@@ -136,11 +134,11 @@ service.
 Disclosure of Data / Information:
     1. OSIPL will not share any personal or sensitive data with any external
         organization unless the same is necessary to enable OSIPL to provide
+        services (to customers or business associates ) or to enable
+        completion of a legitimate transaction or for reporting which may be
+        necessary or required pursuant to applicable law or pursuant to the
 
 
-       services (to customers or business associates ) or to enable
-       completion of a legitimate transaction or for reporting which may be
-       necessary or required pursuant to applicable law or pursuant to the
        terms and conditions applicable to such information as agreed to with
        OSIPL.
     2. OSIPL may disclose information about customers and / or business
@@ -181,9 +179,9 @@ Links to Other Sites
 Our site links to other websites that may collect personally identifiable
 information about you. Oxigen is not responsible for the privacy practices or
 the content of those linked websites.
-
-
 Security
+
+
 Oxigen has stringent security measures in place to protect the loss, misuse,
 and alteration of the information under our control. Whenever you change or
 access your account information, we offer the use of a secure server. Once
