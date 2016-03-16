@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cari.co.in privacy policy that was archived on 2015-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150804030244id_/http%3A//www.cari.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.co.in privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316050231id_/http%3A//www.cari.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Find used cars, used motorcycles, homes, jobs and vacancy in India
+# Privacy Policy - Find used cars, used bikes, homes, jobs and vacancies in India
 
 www.cari.co.in has established this Privacy Policy to explain how it protects and manages the personal information collected from you (the customer and or visitors) online.
 
