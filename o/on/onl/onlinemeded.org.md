@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the onlinemeded.org privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318162219id_/https%3A//onlinemeded.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemeded.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316114747id_/https%3A//onlinemeded.org/privacy) for the most accurate reproduction.*
 
 # OnlineMedEd Privacy Policy
-
-  1. [Home  >  ](https://web.archive.org/)
-  2. OnlineMedEd Privacy Policy
-
-
-
-OnlineMedEd Privacy Policy 
-
-  
-
 
 Last modified: 14 November 2014
 
@@ -125,7 +115,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [Terms of Use](https://web.archive.org/web/20150318162219id_/https%3A//onlinemeded.org/terms-of-service) and other agreements, including for billing and collection purposes.
+  * To enforce or apply our [Terms of Use](https://web.archive.org/web/20160316114747id_/https%3A//onlinemeded.org/terms-of-service) and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
