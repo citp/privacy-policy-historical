@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushomeworkforce.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131030722id_/http%3A//ushomeworkforce.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushomeworkforce.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316031612id_/https%3A//ushomeworkforce.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,7 +86,7 @@ ushomeworkforce.com
 Cincinnati, OH 45239  
 United States  
 support@ushomeworkforce.com  
-888-978-7493
+(513) 760-0090
 
  **Privacy Policy Customer Pledge**
 
@@ -97,9 +97,9 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
-
 Respectfully, 
 
-David M. Curtis Director / Speaker   
+David M. Curtis   
+Creator/Owner of  
+US Home Work force  
 http://ushomeworkforce.com 
