@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317112506id_/https%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317003806id_/https%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - HealthWarehouse.com
+
+
+
 
 **HealthWarehouse.com is a[licensed US pharmacy](http://vipps.nabp.net/verify.asp). We offer an industry leading [90-day return policy](http://www.healthwarehouse.com/return-policy) with no restocking fees and only sell products which are FDA approved and legal in the United States. We consistently achieve [high scores in customer satisfaction](http://www.healthwarehouse.com/reviews) and offer some of the best prices on the Internet. We're committed to 100% customer satisfaction. If for any reason, you are dissatisfied with your purchase, our service, or even our website, we will do everything possible to make it right. This is our commitment to you.**
 
 ## Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
