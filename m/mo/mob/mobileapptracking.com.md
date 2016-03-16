@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905220253id_/http%3A//www.tune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316230555id_/https%3A//www.tune.com/privacy-policy) for the most accurate reproduction.*
 
-# TUNE | Privacy Policy and Your Privacy Rights
+# Privacy Policy and Your Privacy Rights | TUNE Marketing Console
 
-#### **Effective Date: May 6, 2015**
+#### **Effective Date: October 15, 2015**
 
 Tune, Inc. (“Tune”, “we”, “us”) is committed to protecting your privacy and the privacy of end users. This policy describes how we collect, use, and disclose information when you visit our website, http://www.tune.com. 
 
-For MAT privacy policy, please [CLICK HERE.](https://www.tune.com/mat-privacy-policy/)   
+For Attribution Analytics privacy policy, please [CLICK HERE.](https://www.tune.com/mat-privacy-policy/)   
 For the MDHQ privacy policy, [CLICK HERE](https://www.mobiledevhq.com/cards/privacy-policy/).   
 For the HasOffers privacy policy, [CLICK HERE](https://www.hasoffers.com/privacy-policy/). 
 
 #### U.S.—E.U. and U.S.—Swiss Safe Harbor
 
 Tune complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Tune has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Tune certification, please visit <http://www.export.gov/safeharbor/>.
+
+**October 2015 update:** Tune is awaiting additional regulatory guidance for compliance for EU to US data transfers, given the European Court of Justice's recent decision on the Safe Harbor. In the meantime, we urge all clients to continue to obtain end user consent for data sharing with Tune, and respect other privacy protections under EU law. You and Tune are compliant during this period of uncertainty so long as you don't upload or share personal data with Tune products (e.g. email addresses that are not hashed or otherwise secured). See section 9.3 of the Tune Master Services Agreement for more details (available at [www.tune.com/msa](https://www.tune.com/msa "TUNE MSA")).
 
 #### Collection of Information
 
