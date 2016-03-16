@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haircolorforwomen.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906012309id_/http%3A//www.esalon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haircolorforwomen.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316021223id_/http%3A//www.esalon.com/privacy) for the most accurate reproduction.*
 
-# eSalon.com | Privacy Policy
+# eSalon - Privacy Policy
 
 **Last updated: May 1, 2015**
 
