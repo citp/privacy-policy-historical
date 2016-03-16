@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924154241id_/https%3A//www.alliedwallet.com/protecting-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316022428id_/https%3A//www.alliedwallet.com/protecting-your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy: We Are Dedicated to Protecting Your Privacy
 
@@ -24,10 +24,6 @@ A Special Note About Children. Children are not eligible to use our service and 
 ##### Required Information
 
 To open an AlliedWallet, LTD account, you must provide your name, address, phone number, and e-mail address. In order to make payments through AlliedWallet, LTD, you must provide credit card, debit card or bank account information (bank account information is required to make payments totaling more than $1,000.00 USD). We also ask you to choose two different security questions to answer (such as your city of birth or your pet’s name) This required information is necessary for us to process transactions, issue a new password if you forget or lose your password, protect you against credit card fraud and checking account fraud, and to contact you should the need arise in administering your account.
-
-##### Transaction Information
-
-When you use AlliedWallet, LTD to send money to someone else or request money from someone else, we ask you to provide information related to each transaction, including the amount of the transaction, the type of transaction (purchase of goods, purchase of services, or simple money transfer (“quasi-cash”)) and the e-mail address or phone number of the third party. We retain this information for each of your transactions through AlliedWallet, LTD. We also collect the Internet address (IP address) of the computer or device you use to access your AlliedWallet, LTD account, in order to help detect possible instances of unauthorized transactions.
 
 ##### Information About You From Third Parties
 
@@ -109,7 +105,7 @@ By entering into our User Agreement, you agree that, with respect to other users
 
 In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another AlliedWallet, LTD user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
 
-AlliedWallet, LTD does not tolerate spam. Therefore, without limiting the foregoing, you may not add a AlliedWallet, LTD user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report AlliedWallet, LTD-related spam to AlliedWallet, LTD, please contact us.
+AlliedWallet, LTD does not tolerate spam. Therefore, without limiting the foregoing, you may not add an AlliedWallet, LTD user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report AlliedWallet, LTD-related spam to AlliedWallet, LTD, please contact us.
 
 #### D. Information Security
 
@@ -119,7 +115,7 @@ AlliedWallet, LTD is committed to handling your customer information with high s
 
 The security of your AlliedWallet, LTD account also relies on your protection of your AlliedWallet, LTD password. You may not share your AlliedWallet, LTD password with anyone. AlliedWallet, LTD will never ask you to send your password or other sensitive information to us in an e-mail, though we may ask you to enter this type of information on the AlliedWallet, LTD website, which will always have a URL beginning with https://www.alliedwallet.com.
 
-Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, or linking to a website with a URL that does not begin with https://www.alliedwallet.com should be treated as unauthorized and suspicious and should be reported to AlliedWallet, LTD immediately. If you do share your AlliedWallet, LTD password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at [null](https://www.alliedwallet.com/) and changing your Profile settings, and also contact us right away as described in Section F below.
+Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, or linking to a website with a URL that does not begin with https://www.alliedwallet.com should be treated as unauthorized and suspicious and should be reported to AlliedWallet, LTD immediately. If you do share your AlliedWallet, LTD password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at [AlliedWallet.com](https://www.alliedwallet.com/) and changing your Profile settings, and also contact us right away as described in Section F below.
 
 ##### E. Accessing and Changing Your Information
 
