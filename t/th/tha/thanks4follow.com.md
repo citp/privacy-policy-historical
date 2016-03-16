@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thanks4follow.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521233644id_/http%3A//www.thanks4follow.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thanks4follow.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316121617id_/http%3A//www.thanks4follow.com/en/policy) for the most accurate reproduction.*
 
 # Thanks4Follow : Thanks4follow Privacy Policy
 
