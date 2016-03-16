@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjshome.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808010148id_/http%3A//tjshome.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjshome.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316012635id_/http%3A//tjshome.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Tjshome.com
 
@@ -14,7 +14,7 @@ Tjshome.com is the sole owner of any information collected on the website, howev
 
 **Email Addresses**
 
-Tjshome does not share with any third parties email addresses collected through the website. We do not currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our [contact form](https://web.archive.org/web/20150808010148id_/http%3A//tjshome.com/mailto.php?to=Privacy&s=Opt+Out). 
+Tjshome does not share with any third parties email addresses collected through the website. We do not currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our [contact form](https://web.archive.org/web/20160316012635id_/http%3A//tjshome.com/mailto.php?to=Privacy&s=Opt+Out). 
 
 **Comments/Message Boards**
 
@@ -52,6 +52,6 @@ Tjshome frequently links to other websites. We are not responsible for the conte
 
 When Tjshome makes changes to this privacy policy we will post those changes here. 
 
-If you have any questions regarding our privacy policy, please [contact us](https://web.archive.org/web/20150808010148id_/http%3A//tjshome.com/mailto.php?to=Privacy&s=RE:+Privacy+Policy). 
+If you have any questions regarding our privacy policy, please [contact us](https://web.archive.org/web/20160316012635id_/http%3A//tjshome.com/mailto.php?to=Privacy&s=RE:+Privacy+Policy). 
 
 _Last modified: 16th December, 2011_
