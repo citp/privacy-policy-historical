@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910135135id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316054810id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
 
 # About MyNetDiary - Online Diet Log and iPhone Calorie Counter | MyNetDiary
 
@@ -99,26 +99,26 @@ You can access the personal information you submit to our web site at any time. 
 You may remove your personally identifiable information from our systems, as well as all MyNetDiary.com communications and promotions by contacting us through one of the following methods: 
     
     
-                            Email:	Send an email to opt-out@mynetdiary.com
-                            
+        Email:	Send an email to opt-out@mynetdiary.com
+        
     
     
-                            Mail:	MyNetDiary Inc.
-                                    Opt-Out List
-                                    811 Church Road, Suite 105
-                                    Cherry Hill, New Jersey 08002
-                            
+        Mail:	MyNetDiary Inc.
+                Opt-Out List
+                811 Church Road, Suite 105
+                Cherry Hill, New Jersey 08002
+        
 
 ## Contacting MyNetDiary.com
 
 If you have a privacy concern or question regarding MyNetDiary.com or this Privacy Policy and if you cannot satisfactorily resolve it through the use of our web site, you should contact us through one of the following methods: 
     
     
-                            Email:	Send an email to support@mynetdiary.com
-                            
+        Email:	Send an email to support@mynetdiary.com
+        
     
     
-                            Mail:	MyNetDiary Inc.
-                                    811 Church Road, Suite 105
-                                    Cherry Hill, New Jersey 08002
-                            
+        Mail:	MyNetDiary Inc.
+                811 Church Road, Suite 105
+                Cherry Hill, New Jersey 08002
+        
