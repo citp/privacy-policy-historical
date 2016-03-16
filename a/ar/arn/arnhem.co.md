@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnhem.co privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910134131id_/http%3A//arnhem.co/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnhem.co privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316070348id_/http%3A//www.arnhem.co/privacy-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 2/71 centennial crt,   
 Byron Bay, NSW 2481  
 Australia  
-[sales@arnhemthelabel.com ](mailto:sales@arnhemthelabel.com) +612 66857894 
+[sales@arnhem.co ](mailto:sales@arnhem.co) +612 66857894 
