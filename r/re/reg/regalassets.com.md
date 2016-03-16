@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regalassets.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912190936id_/https%3A//www.regalassets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalassets.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316235455id_/https%3A//www.regalassets.com/privacy-policy) for the most accurate reproduction.*
 
-# Official Gold IRA Company | Regal Assets
+# Privacy Policy | Regal Assets
 
 Your privacy is important – Regal Assets is dedicated to protecting yours. Any information we collect is used only to provide you with better services to process your purchases, manage your account and increase your benefit for frequenting our site. We take privacy seriously and as such we take precautions to ensure that none of your privacy rights are violated.
 
