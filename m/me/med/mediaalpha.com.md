@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaalpha.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208135036id_/http%3A//mediaalpha.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaalpha.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316181232id_/http%3A//www.mediaalpha.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MediaAlpha | Privacy Policy
 
