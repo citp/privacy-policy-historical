@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmypacket.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717141353id_/http%3A//www.bookmypacket.com/staticpages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmypacket.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316212314id_/http%3A//www.bookmypacket.com/staticpages/policy) for the most accurate reproduction.*
 
 # India's first online courier service for domestics and International
 
