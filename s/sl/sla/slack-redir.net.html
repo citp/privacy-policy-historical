@@ -1,18 +1,145 @@
-<!--The following is the downloaded HTML source of the slack-redir.net privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316002526id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slack-redir.net privacy policy that was archived on 2016-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316202238id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-	<noscript><meta http-equiv="refresh" content="0; URL=/privacy-policy?nojsmode=1" /></noscript>
-<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://slack.global.ssl.fastly.net/dcf8/js/libs/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-window.load_start_ms = new Date().getTime();
-window.load_log = [];
-window.logLoad = function(k) {
-	var ms = new Date().getTime();
-	window.load_log.push({
-		k: k,
-		t: (ms-window.load_start_ms)/1000
-	})
-}
+
+	
+	<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://a.slack-edge.com/dcf8/js/libs/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"></script><script>
+window.ts_endpoint_url = "https:\/\/slack.com\/beacon\/timing";
+
+(function(e) {
+	var n=Date.now?Date.now():+new Date,r=e.performance||{},t=[],a={},i=function(e,n){for(var r=0,a=t.length,i=[];a>r;r++)t[r][e]==n&&i.push(t[r]);return i},o=function(e,n){for(var r,a=t.length;a--;)r=t[a],r.entryType!=e||void 0!==n&&r.name!=n||t.splice(a,1)};r.now||(r.now=r.webkitNow||r.mozNow||r.msNow||function(){return(Date.now?Date.now():+new Date)-n}),r.mark||(r.mark=r.webkitMark||function(e){var n={name:e,entryType:"mark",startTime:r.now(),duration:0};t.push(n),a[e]=n}),r.measure||(r.measure=r.webkitMeasure||function(e,n,r){n=a[n].startTime,r=a[r].startTime,t.push({name:e,entryType:"measure",startTime:n,duration:r-n})}),r.getEntriesByType||(r.getEntriesByType=r.webkitGetEntriesByType||function(e){return i("entryType",e)}),r.getEntriesByName||(r.getEntriesByName=r.webkitGetEntriesByName||function(e){return i("name",e)}),r.clearMarks||(r.clearMarks=r.webkitClearMarks||function(e){o("mark",e)}),r.clearMeasures||(r.clearMeasures=r.webkitClearMeasures||function(e){o("measure",e)}),e.performance=r,"function"==typeof define&&(define.amd||define.ajs)&&define("performance",[],function(){return r}) // eslint-disable-line
+})(window);
+
+</script>
+<script>;(function() {
+
+'use strict';
+
+
+window.TSMark = function(mark_label) {
+	if (!window.performance || !window.performance.mark) return;
+	performance.mark(mark_label);
+};
+window.TSMark('start_load');
+
+
+window.TSMeasureAndBeacon = function(measure_label, start_mark_label) {
+	if (start_mark_label === 'start_nav' && window.performance && window.performance.timing) {
+		window.TSBeacon(measure_label, (new Date()).getTime() - performance.timing.navigationStart);
+		return;
+	}
+	if (!window.performance || !window.performance.mark || !window.performance.measure) return;
+	performance.mark(start_mark_label + '_end');
+	try {
+		performance.measure(measure_label, start_mark_label, start_mark_label + '_end');
+		window.TSBeacon(measure_label, performance.getEntriesByName(measure_label)[0].duration);
+	} catch(e) { return; }
+};
+
+
+window.TSBeacon = function(label, value) {
+	var endpoint_url = window.ts_endpoint_url || 'https://slack.com/beacon/timing';
+	(new Image()).src = endpoint_url + '?data=' + encodeURIComponent(label + ':' + value);
+};
+
+})();
+</script>
+ 
+
+<script>
+window.TSMark('step_load');
+</script>	<noscript><meta http-equiv="refresh" content="0; URL=/privacy-policy?nojsmode=1" /></noscript>
+<script type="text/javascript">
+(function() {
+	var start_time = Date.now();
+	var logs = [];
+	var connecting = true;
+	var ever_connected = false;
+	var log_namespace;
+		
+	var logWorker = function(ob) {
+		var log_str = ob.secs+' start_label:'+ob.start_label+' measure_label:'+ob.measure_label+' description:'+ob.description;
+		
+		if (TS.timing.getLatestMark(ob.start_label)){
+			TS.timing.measure(ob.measure_label, ob.start_label);
+			TS.log(88, log_str);
+			
+			if (ob.do_reset) {
+				window.TSMark(ob.start_label);
+			}
+		} else {
+			TS.maybeWarn(88, 'not timing: '+log_str);
+		}
+	}
+	
+	var log = function(k, description) {
+		var secs = (Date.now()-start_time)/1000;
+
+		logs.push({
+			k: k,
+			d: description,
+			t: secs,
+			c: !!connecting
+		})
+	
+		if (!window.boot_data) return;
+		if (!window.TS) return;
+		if (!TS.timing) return;
+		if (!connecting) return;
+		
+		// lazy assignment
+		log_namespace = log_namespace || (function() {
+			if (boot_data.app == 'client') return 'client';
+			if (boot_data.app == 'space') return 'post';
+			if (boot_data.app == 'api') return 'apisite';
+			if (boot_data.app == 'mobile') return 'mobileweb';
+			if (boot_data.app == 'web' || boot_data.app == 'oauth') return 'web';
+			return 'unknown';
+		})();
+		
+		var modifier = (TS.boot_data.feature_no_rollups) ? '_no_rollups' : '';
+		
+		logWorker({
+			k: k,
+			secs: secs,
+			description: description,
+			start_label: ever_connected ? 'start_reconnect' : 'start_load',
+			measure_label: 'v2_'+log_namespace+modifier+(ever_connected ? '_reconnect__' : '_load__')+k,
+			do_reset: false,
+		});
+	}
+	
+	var setConnecting = function(val) {
+		val = !!val;
+		if (val == connecting) return;
+		
+		if (val) {
+			log('start');
+			if (ever_connected) {
+				// we just started reconnecting, so reset timing
+				window.TSMark('start_reconnect');
+				window.TSMark('step_reconnect');
+				window.TSMark('step_load');
+			}
+		
+			connecting = val;
+			log('start');
+		} else {
+			log('over');
+			ever_connected = true;
+			connecting = val;
+		}
+	}
+	
+	window.TSConnLogger = {
+		log: log,
+		logs: logs,
+		start_time: start_time,
+		setConnecting: setConnecting
+	}
+})();
+
 if(self!==top)window.document.write("\u003Cstyle>body * {display:none !important;}\u003C\/style>\u003Ca href=\"#\" onclick="+
 "\"top.location.href=window.location.href\" style=\"display:block !important;padding:10px\">Go to Slack.com\u003C\/a>");
 </script>
@@ -20,7 +147,7 @@ if(self!==top)window.document.write("\u003Cstyle>body * {display:none !important
 
 <script type="text/javascript">
 window.callSlackAPIUnauthed = function(method, args, callback) {
-	var url = '/api/'+method+'?t='+new Date().getTime();
+	var url = '/api/'+method+'?t='+Date.now();
 	var req = new XMLHttpRequest();
 	
 	req.onreadystatechange = function() {
@@ -57,8 +184,58 @@ window.callSlackAPIUnauthed = function(method, args, callback) {
 	req.send(args2.join('&'));
 }
 </script>
-			<meta name="referrer" content="no-referrer">
-			<meta name="superfish" content="nofish">
+
+				
+	
+		<script>
+			if (window.location.host == 'slack.com' && window.location.search.indexOf('story') < 0) {
+				document.cookie = '__cvo_skip_doc=' + escape(document.URL) + '|' + escape(document.referrer) + ';path=/';
+			}
+		</script>
+	
+
+	
+	<script type="text/javascript">
+
+							(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			Date.now(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer',"GTM-KH2LPK");
+
+	
+		(function(e,c,b,f,d,g,a){e.SlackBeaconObject=d;
+		e[d]=e[d]||function(){(e[d].q=e[d].q||[]).push([1*new Date(),arguments])};
+		e[d].l=1*new Date();g=c.createElement(b);a=c.getElementsByTagName(b)[0];
+		g.async=1;g.src=f;a.parentNode.insertBefore(g,a)
+		})(window,document,"script","https://a.slack-edge.com/dcf8/js/libs/beacon.js","sb");
+		sb('set', 'token', '3307f436963e02d4f9eb85ce5159744c');
+
+				sb('track', 'pageview');
+
+		function track(a){ga('send','event','web',a);sb('track',a);}
+
+	</script>
+
+
+		<script type="text/javascript">
+		
+		(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+		for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+		
+
+		mixpanel.init("12d52d8633a5b432975592d13ebd3f34");
+
+		
+			function mixpanel_track(){if(window.mixpanel)mixpanel.track.apply(mixpanel, arguments);}
+			function mixpanel_track_forms(){if(window.mixpanel)mixpanel.track_forms.apply(mixpanel, arguments);}
+			function mixpanel_track_links(){if(window.mixpanel)mixpanel.track_links.apply(mixpanel, arguments);}
+		
+	</script>
+	
+	<meta name="referrer" content="no-referrer">
+		<meta name="superfish" content="nofish">
+
 	<script type="text/javascript">
 
 
@@ -66,16 +243,31 @@ window.callSlackAPIUnauthed = function(method, args, callback) {
 var TS_last_log_date = null;
 var TSMakeLogDate = function() {
 	var date = new Date();
-	
+
 	var y = date.getFullYear();
 	var mo = date.getMonth()+1;
 	var d = date.getDate();
 
-	var h = date.getHours();
-	var mi = date.getMinutes();
-	var s = date.getSeconds();
-	var ms = date.getMilliseconds();
-	var str = y+'/'+mo+'/'+d+' '+h+':'+mi+':'+s+'.'+ms;
+	var time = {
+	  h: date.getHours(),
+	  mi: date.getMinutes(),
+	  s: date.getSeconds(),
+	  ms: date.getMilliseconds()
+	};
+
+	Object.keys(time).map(function(moment, index) {
+		if (moment == 'ms') {
+			if (time[moment] < 10) {
+				time[moment] = time[moment]+'00';
+			} else if (time[moment] < 100) {
+				time[moment] = time[moment]+'0';
+			}
+		} else if (time[moment] < 10) {
+			time[moment] = '0' + time[moment];
+		}
+	});
+
+	var str = y + '/' + mo + '/' + d + ' ' + time.h + ':' + time.mi + ':' + time.s + '.' + time.ms;
 	if (TS_last_log_date) {
 		var diff = date-TS_last_log_date;
 		//str+= ' ('+diff+'ms)';
@@ -84,100 +276,173 @@ var TSMakeLogDate = function() {
 	return str+' ';
 }
 
-var TSSSB = {
-	
-	
-	call: function() {
-		return false;
-	}
-	
-	
+var parseDeepLinkRequest = function(code) {
+	var m = code.match(/"id":"([CDG][A-Z0-9]{8})"/);
+	var id = m ? m[1] : null;
+
+	m = code.match(/"team":"(T[A-Z0-9]{8})"/);
+	var team = m ? m[1] : null;
+
+	m = code.match(/"message":"([0-9]+\.[0-9]+)"/);
+	var message = m ? m[1] : null;
+
+	return { id: id, team: team, message: message };
 }
 
-</script>	<script type="text/javascript">TSSSB.call('didFinishLoading');</script>
-	    <meta charset="utf-8">
-    <title data-title-suffix="Slack">Privacy Policy | Slack</title>
+if ('rendererEvalAsync' in window) {
+	var origRendererEvalAsync = window.rendererEvalAsync;
+	window.rendererEvalAsync = function(blob) {
+		try {
+			var data = JSON.parse(decodeURIComponent(atob(blob)));
+			if (data.code.match(/handleDeepLink/)) {
+				var request = parseDeepLinkRequest(data.code);
+				if (!request.id || !request.team || !request.message) return;
+
+				request.cmd = 'channel';
+				TSSSB.handleDeepLinkWithArgs(JSON.stringify(request));
+				return;
+			} else {
+				origRendererEvalAsync(blob);
+			}
+		} catch (e) {
+		}
+	}
+}
+</script>
+
+
+
+<script type="text/javascript">
+
+	var TSSSB = {
+		call: function() {
+			return false;
+		}
+	};
+
+</script>
+<script>TSSSB.env = (function() {
+	var v = {
+		win_ssb_version: null,
+		win_ssb_version_minor: null,
+		mac_ssb_version: null,
+		mac_ssb_version_minor: null,
+		mac_ssb_build: null,
+		lin_ssb_version: null,
+		lin_ssb_version_minor: null
+	};
+	
+	var is_win = (navigator.appVersion.indexOf("Windows") !== -1);
+	var is_lin = (navigator.appVersion.indexOf("Linux") !== -1);
+	var is_mac = !!(navigator.userAgent.match(/(OS X)/g));
+
+	if (navigator.userAgent.match(/(Slack_SSB)/g) || navigator.userAgent.match(/(Slack_WINSSB)/g)) {
+		
+		var parts = navigator.userAgent.split('/');
+		var version_str = parts[parts.length-1];
+		var version_float = parseFloat(version_str);
+		var versionA = version_str.split('.');
+		var version_minor = (versionA.length == 3) ? parseInt(versionA[2]) : 0;
+
+		if (navigator.userAgent.match(/(AtomShell)/g)) {
+			
+			if (is_lin) {
+				v.lin_ssb_version = version_float;
+				v.lin_ssb_version_minor = version_minor;
+			} else {
+				v.win_ssb_version = version_float;
+				v.win_ssb_version_minor = version_minor;
+			}
+		} else {
+			
+			v.mac_ssb_version = version_float;
+			v.mac_ssb_version_minor = version_minor;
+			
+			
+			
+			var app_ver = window.macgap && macgap.app && macgap.app.buildVersion && macgap.app.buildVersion();
+			var matches = String(app_ver).match(/(?:\()(.*)(?:\))/);
+			v.mac_ssb_build = (matches && matches.length == 2) ? parseInt(matches[1] || 0) : 0;
+		}
+	}
+
+	return v;
+})();
+</script>
+
+
+	<script type="text/javascript">
+		
+		var was_TS = window.TS;
+		delete window.TS;
+		TSSSB.call('didFinishLoading');
+		if (was_TS) window.TS = was_TS;
+	</script>
+	    <title>Privacy Policy | Slack</title>
     <meta name="author" content="Slack">
 
-							
-															
-    									
+	
 		
-		<!-- output_css "core" -->
-    <link href="https://slack.global.ssl.fastly.net/f2af/style/rollup-plastic.css" rel="stylesheet" type="text/css">
+	
+	
+					
+	
+				
+																
+	
+	
+	
+			<!-- output_css "core" -->
+    <link href="https://a.slack-edge.com/a578e/style/rollup-plastic.css" rel="stylesheet" type="text/css">
+
+		<!-- output_css "before_file_pages" -->
+
+	<!-- output_css "file_pages" -->
 
 	<!-- output_css "regular" -->
-    <link href="https://slack.global.ssl.fastly.net/bb50/style/legal.css" rel="stylesheet" type="text/css">
-    <link href="https://slack.global.ssl.fastly.net/5319/style/libs/lato-1.css" rel="stylesheet" type="text/css">
+    <link href="https://a.slack-edge.com/dd7b/style/legal.css" rel="stylesheet" type="text/css">
+    <link href="https://a.slack-edge.com/f9c2/style/libs/lato-1-compressed.css" rel="stylesheet" type="text/css">
+    <link href="https://a.slack-edge.com/7472/style/sticky_nav.css" rel="stylesheet" type="text/css">
+    <link href="https://a.slack-edge.com/5cf61/style/footer.css" rel="stylesheet" type="text/css">
 
 	
 
 	
 	
 	
-
-	<!--[if lt IE 9]>
-	<script src="https://slack.global.ssl.fastly.net/ef0d/js/libs/html5shiv.js"></script>
-	<![endif]-->
+	
 
 	
-<link id="favicon" rel="shortcut icon" href="https://slack.global.ssl.fastly.net/272a/img/icons/favicon-32.png" sizes="16x16 32x32 48x48" type="image/png">
+<link id="favicon" rel="shortcut icon" href="https://a.slack-edge.com/66f9/img/icons/favicon-32.png" sizes="16x16 32x32 48x48" type="image/png">
 
-<link rel="icon" href="https://slack.global.ssl.fastly.net/ba3c/img/icons/app-256.png" sizes="256x256" type="image/png">
+<link rel="icon" href="https://a.slack-edge.com/0180/img/icons/app-256.png" sizes="256x256" type="image/png">
 
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-152.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-144.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-120.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-72.png">
-<link rel="apple-touch-icon-precomposed" href="https://slack.global.ssl.fastly.net/0dc1/img/icons/ios-57.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://a.slack-edge.com/66f9/img/icons/ios-152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://a.slack-edge.com/66f9/img/icons/ios-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://a.slack-edge.com/66f9/img/icons/ios-120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://a.slack-edge.com/66f9/img/icons/ios-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://a.slack-edge.com/0180/img/icons/ios-72.png">
+<link rel="apple-touch-icon-precomposed" href="https://a.slack-edge.com/66f9/img/icons/ios-57.png">
 
 <meta name="msapplication-TileColor" content="#FFFFFF">
-<meta name="msapplication-TileImage" content="https://slack.global.ssl.fastly.net/272a/img/icons/app-144.png">	<script>
-(function(g){var n=0,h=[];g.onerror=function(a,b,d,f,c){c=c||null;f=f||-1;k?l(a,b,d,f,null,c):h.push([a,b,d,f,null,c])};var k=0,p=function(a){return void 0==a?"":encodeURIComponent(""+a)},s=function(a){var b=[];for(i in a)b.push(i+"="+p(a[i]));var d=new XMLHttpRequest;try{d.open("POST","/jse",1),d.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),d.send(b.join("&"))}catch(f){r.apply(this,a)}},r=function(a){var b;b="/jse?_="+(new Date).getTime();for(var d in a)b+="&"+d+"="+p(a[d]).substr(0,
-255);(new Image).src=b},t=function(a){a=a.stack.split("\n");if(3>a.length)return-2;a=a[1];if(!a)return-3;a=a.split("/");a=a[a.length-1];if(!a)return-4;a=a.split(":");return 3==a.length?parseInt(a[1]):-5},l=function(a,b,d,f,c,e){n++;if(!(10<n)){var h=g.location.href;a.target&&a.type&&(a=a.type);a.indexOf||(a="unknown:"+typeof a);a={e:a,u:b==h?"":b,l:d+(0<=f?", "+f:""),h:h,pl:k};b=e&&e.stack&&g.printStackTrace?printStackTrace({e:e}):e&&e.stack?e.stack:null;!c&&b&&(c="stack: "+b);c&&(a.d=c);g.boot_data&&
-boot_data.version_uid&&(a.v=boot_data.version_uid);g.boot_data&&
-boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==typeof b)try{c=[];for(var m=b.length-1;0<m;m--)b[m]&&c.unshift(b[m]);c.length&&(a.s=c.join("\n"))}catch(l){}1>a.l&&e&&e.stack&&"string"==typeof e.stack&&(a.l=t(e));s(a)}},q=function(){for(var a,b=0;b<h.length;b++)a=h[b],l.apply(this,a);h.length=0;h=null;k=1};g.addEventListener?g.addEventListener("load",q,!1):g.attachEvent("onload",q);g.badtoys||(g.badtoys={log:function(a,b){var d=a&&a.message?a.message:"unknown message";a&&a.name&&
-(d=a.name+": "+d);a.stack&&(b=(b?b+" | ":"")+"stack: "+a.stack);var f=a&&a.fileName?a.fileName:"";!f&&a&&a.sourceURL&&(f=a.sourceURL);var c=0;a&&a.lineNumber&&(c=a.lineNumber);!c&&a&&a.line&&(c=a.line);var e=-1;a&&a.col&&(e=a.col);k?l(d,f,c,e,b,a):h.push([d,f,c,e,b,a])}})})(window);
+<meta name="msapplication-TileImage" content="https://a.slack-edge.com/66f9/img/icons/app-144.png">	<script>
+!function(a,b){function c(a,b){try{if("function"!=typeof a)return a;if(!a.bugsnag){var c=e();a.bugsnag=function(d){if(b&&b.eventHandler&&(u=d),v=c,!y){var e=a.apply(this,arguments);return v=null,e}try{return a.apply(this,arguments)}catch(f){throw l("autoNotify",!0)&&(x.notifyException(f,null,null,"error"),s()),f}finally{v=null}},a.bugsnag.bugsnag=a.bugsnag}return a.bugsnag}catch(d){return a}}function d(){B=!1}function e(){var a=document.currentScript||v;if(!a&&B){var b=document.scripts||document.getElementsByTagName("script");a=b[b.length-1]}return a}function f(a){var b=e();b&&(a.script={src:b.src,content:l("inlineScript",!0)?b.innerHTML:""})}function g(b){var c=l("disableLog"),d=a.console;void 0===d||void 0===d.log||c||d.log("[Bugsnag] "+b)}function h(b,c,d){if(d>=5)return encodeURIComponent(c)+"=[RECURSIVE]";d=d+1||1;try{if(a.Node&&b instanceof a.Node)return encodeURIComponent(c)+"="+encodeURIComponent(r(b));var e=[];for(var f in b)if(b.hasOwnProperty(f)&&null!=f&&null!=b[f]){var g=c?c+"["+f+"]":f,i=b[f];e.push("object"==typeof i?h(i,g,d):encodeURIComponent(g)+"="+encodeURIComponent(i))}return e.join("&")}catch(j){return encodeURIComponent(c)+"="+encodeURIComponent(""+j)}}function i(a,b){if(null==b)return a;a=a||{};for(var c in b)if(b.hasOwnProperty(c))try{a[c]=b[c].constructor===Object?i(a[c],b[c]):b[c]}catch(d){a[c]=b[c]}return a}function j(a,b){a+="?"+h(b)+"&ct=img&cb="+(new Date).getTime();var c=new Image;c.src=a}function k(a){var b={},c=/^data\-([\w\-]+)$/;if(a)for(var d=a.attributes,e=0;e<d.length;e++){var f=d[e];if(c.test(f.nodeName)){var g=f.nodeName.match(c)[1];b[g]=f.value||f.nodeValue}}return b}function l(a,b){C=C||k(J);var c=void 0!==x[a]?x[a]:C[a.toLowerCase()];return"false"===c&&(c=!1),void 0!==c?c:b}function m(a){return a&&a.match(D)?!0:(g("Invalid API key '"+a+"'"),!1)}function n(b,c){var d=l("apiKey");if(m(d)&&A){A-=1;var e=l("releaseStage"),f=l("notifyReleaseStages");if(f){for(var h=!1,k=0;k<f.length;k++)if(e===f[k]){h=!0;break}if(!h)return}var n=[b.name,b.message,b.stacktrace].join("|");if(n!==w){w=n,u&&(c=c||{},c["Last Event"]=q(u));var o={notifierVersion:H,apiKey:d,projectRoot:l("projectRoot")||a.location.protocol+"//"+a.location.host,context:l("context")||a.location.pathname,userId:l("userId"),user:l("user"),metaData:i(i({},l("metaData")),c),releaseStage:e,appVersion:l("appVersion"),url:a.location.href,userAgent:navigator.userAgent,language:navigator.language||navigator.userLanguage,severity:b.severity,name:b.name,message:b.message,stacktrace:b.stacktrace,file:b.file,lineNumber:b.lineNumber,columnNumber:b.columnNumber,payloadVersion:"2"},p=x.beforeNotify;if("function"==typeof p){var r=p(o,o.metaData);if(r===!1)return}return 0===o.lineNumber&&/Script error\.?/.test(o.message)?g("Ignoring cross-domain script error. See https://bugsnag.com/docs/notifiers/js/cors"):(j(l("endpoint")||G,o),void 0)}}}function o(){var a,b,c=10,d="[anonymous]";try{throw new Error("")}catch(e){a="<generated>\n",b=p(e)}if(!b){a="<generated-ie>\n";var f=[];try{for(var h=arguments.callee.caller.caller;h&&f.length<c;){var i=E.test(h.toString())?RegExp.$1||d:d;f.push(i),h=h.caller}}catch(j){g(j)}b=f.join("\n")}return a+b}function p(a){return a.stack||a.backtrace||a.stacktrace}function q(a){var b={millisecondsAgo:new Date-a.timeStamp,type:a.type,which:a.which,target:r(a.target)};return b}function r(a){if(a){var b=a.attributes;if(b){for(var c="<"+a.nodeName.toLowerCase(),d=0;d<b.length;d++)b[d].value&&"null"!=b[d].value.toString()&&(c+=" "+b[d].name+'="'+b[d].value+'"');return c+">"}return a.nodeName}}function s(){z+=1,a.setTimeout(function(){z-=1})}function t(a,b,c){var d=a[b],e=c(d);a[b]=e}var u,v,w,x={},y=!0,z=0,A=10;x.noConflict=function(){return a.Bugsnag=b,x},x.refresh=function(){A=10},x.notifyException=function(a,b,c,d){b&&"string"!=typeof b&&(c=b,b=void 0),c||(c={}),f(c),n({name:b||a.name,message:a.message||a.description,stacktrace:p(a)||o(),file:a.fileName||a.sourceURL,lineNumber:a.lineNumber||a.line,columnNumber:a.columnNumber?a.columnNumber+1:void 0,severity:d||"warning"},c)},x.notify=function(b,c,d,e){n({name:b,message:c,stacktrace:o(),file:a.location.toString(),lineNumber:1,severity:e||"warning"},d)};var B="complete"!==document.readyState;document.addEventListener?(document.addEventListener("DOMContentLoaded",d,!0),a.addEventListener("load",d,!0)):a.attachEvent("onload",d);var C,D=/^[0-9a-f]{32}$/i,E=/function\s*([\w\-$]+)?\s*\(/i,F="https://notify.bugsnag.com/",G=F+"js",H="2.4.7",I=document.getElementsByTagName("script"),J=I[I.length-1];if(a.atob){if(a.ErrorEvent)try{0===new a.ErrorEvent("test").colno&&(y=!1)}catch(K){}}else y=!1;if(l("autoNotify",!0)){t(a,"onerror",function(b){return function(c,d,e,g,h){var i=l("autoNotify",!0),j={};!g&&a.event&&(g=a.event.errorCharacter),f(j),v=null,i&&!z&&n({name:h&&h.name||"window.onerror",message:c,file:d,lineNumber:e,columnNumber:g,stacktrace:h&&p(h)||o(),severity:"error"},j),b&&b(c,d,e,g,h)}});var L=function(a){return function(b,d){if("function"==typeof b){b=c(b);var e=Array.prototype.slice.call(arguments,2);return a(function(){b.apply(this,e)},d)}return a(b,d)}};t(a,"setTimeout",L),t(a,"setInterval",L),a.requestAnimationFrame&&t(a,"requestAnimationFrame",function(a){return function(b){return a(c(b))}}),a.setImmediate&&t(a,"setImmediate",function(a){return function(){var b=Array.prototype.slice.call(arguments);return b[0]=c(b[0]),a.apply(this,b)}}),"EventTarget Window Node ApplicationCache AudioTrackList ChannelMergerNode CryptoOperation EventSource FileReader HTMLUnknownElement IDBDatabase IDBRequest IDBTransaction KeyOperation MediaController MessagePort ModalWindow Notification SVGElementInstance Screen TextTrack TextTrackCue TextTrackList WebSocket WebSocketWorker Worker XMLHttpRequest XMLHttpRequestEventTarget XMLHttpRequestUpload".replace(/\w+/g,function(b){var d=a[b]&&a[b].prototype;d&&d.hasOwnProperty&&d.hasOwnProperty("addEventListener")&&(t(d,"addEventListener",function(a){return function(b,d,e,f){return d&&d.handleEvent&&(d.handleEvent=c(d.handleEvent,{eventHandler:!0})),a.call(this,b,c(d,{eventHandler:!0}),e,f)}}),t(d,"removeEventListener",function(a){return function(b,d,e,f){return a.call(this,b,d,e,f),a.call(this,b,c(d),e,f)}}))})}a.Bugsnag=x,"function"==typeof define&&define.amd?define([],function(){return x}):"object"==typeof module&&"object"==typeof module.exports&&(module.exports=x)}(window,window.Bugsnag);
+Bugsnag.apiKey = "2a86b308af5a81d2c9329fedfb4b30c7";
+Bugsnag.appVersion = "9397c6a7ed85856ee8da90a1855e9abafd6f809c" + '-' + "1458159593";
+Bugsnag.endpoint = "https://errors-webapp.slack-core.com/js";
+Bugsnag.releaseStage = "prod";
+Bugsnag.autoNotify = false;
+Bugsnag.metaData = {};
+Bugsnag.refresh_interval = setInterval(function () { (window.TS && window.TS.client) ? Bugsnag.refresh() : clearInterval(Bugsnag.refresh_interval); }, 15 * 60 * 1000);
 </script>
-			<script type="text/javascript">
-
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-106458-18', 'slack.com');
-	ga('send', 'pageview');
-
-	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-KH2LPK');
-
-	(function(e,c,b,f,d,g,a){e.SlackBeaconObject=d;
-	e[d]=e[d]||function(){(e[d].q=e[d].q||[]).push([1*new Date(),arguments])};
-	e[d].l=1*new Date();g=c.createElement(b);a=c.getElementsByTagName(b)[0];
-	g.async=1;g.src=f;a.parentNode.insertBefore(g,a)
-	})(window,document,"script","https://slack.global.ssl.fastly.net/dcf8/js/libs/beacon.js","sb");
-	sb('set', 'token', '3307f436963e02d4f9eb85ce5159744c');
-	sb('track', 'pageview');
-
-	function track(a){ga('send','event','web',a);sb('track',a);}
-
-
 	
-	(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
-	for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-	
-	mixpanel.init("12d52d8633a5b432975592d13ebd3f34");
+	<!--[if lt IE 9]>
+	<script src="https://a.slack-edge.com/ef0d/js/libs/html5shiv.js"></script>
+	<![endif]-->
 
-	function mixpanel_track(event_name){if(window.mixpanel&&event_name)mixpanel.track(event_name);}
-
-</script>	
 </head>
 
-  <body>
+<body class="		">
 
 		  			<script>
 		
@@ -190,35 +455,55 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	
 
 	
-	<header>
-					<a href="https://slack.com/" id="header_logo"><img src="https://slack.global.ssl.fastly.net/558b/img/slack_logo_240.png"></a>
-			<div class="header_nav">
-															<a href="https://slack.com/signin" class="btn header_btn float_right">Sign in</a>
-										<div class="header_links float_right">
-						<a href="/is">Tour</a>
-						<a href="http://slackhq.com" target="new">Blog</a>
-						<a href="http://twitter.com/@slackhq" target="new">Twitter</a>
-					</div>
-							</div>
-		
-		
-	</header>
+						
 
+
+<nav class="top persistent">
+	<a href="https://slack.com/" class="logo" data-qa="logo" aria-label="Slack homepage"></a>
+
+	
+						<ul>
+				<li><a href="https://slack.com/is" data-qa="product">Product</a></li>
+				<li><a href="https://slack.com/pricing" data-qa="pricing">Pricing</a></li>				<li><a href="https://get.slack.help/hc/en-us" data-qa="support">Support</a></li>
+				<li><a href="http://slackhq.com" data-qa="blog">Blog</a></li>
+				<li class="sign_in"><a href="https://slack.com/signin" class="opt_nav_signin" data-qa="sign_in">Sign in</a></li>
+				<li class="sign_in mobile_btn"><a href="https://slack.com/signin" class="opt_nav_signin" data-qa="sign_in">Sign in</a></li>
+				<li class="create_team">
+					<a href="https://slack.com/create" class="btn_sticky ga_track_signup btn_sticky_filled " data-qa="create_team">Create a new team</a>
+				</li>
+				<li class="mobile_btn mobile_menu_btn">
+					<a href="#" class="btn_sticky">Menu</a>
+				</li>
+			</ul>
+			</nav>
+
+<nav class="mobile_menu loading " aria-hidden="true">
+			<a href="https://slack.com/" class="logo" data-qa="logo" aria-label="Slack homepage"></a>
+			<a href="#" class="close" aria-label="close"><ts-icon class="ts_icon ts_icon_times"></ts-icon></a>
+									<ul>
+					<li><a href="https://slack.com/is">Product</a></li>
+					<li><a href="https://slack.com/pricing">Pricing</a></li>					<li><a href="https://get.slack.help/hc/en-us">Support</a></li>
+					<li><a href="http://slackhq.com">Blog</a></li>
+					<li><a href="https://slack.com/signin" class="opt_nav_signin">Sign in</a></li>
+				</ul>
+				<a href="https://slack.com/create" class="sign_up ga_track_signup ">Create a new team</a>
+						</nav>
+
+	
 	<div id="page">
 
-		<div id="page_contents">
+		<div id="page_contents" class="">
 
 
-<h1>Policies</h1>
+<h1>Privacy Policy</h1>
 
+<p>
+	You can view all of our policy documents, including security and disclosure practices, at <a href="/policies">Policies</a>.
+</p>
 <div class="tab_set on_neutral_grey">
-	<a href="/terms-of-service">Terms of Service</a>
 	<a href="/privacy-policy" class="selected">Privacy Policy</a>
-	<a href="/security">Security Practices</a>
-	<a href="/policy-archives">Archives</a>
-	<a href="/whitehat" class="secondary ">Whitehat</a>
-	<i class="tab_caret fa fa-caret-down"></i>
-	<i class="tab_caret fa fa-caret-up"></i>
+	<i class="tab_caret ts_icon ts_icon_caret_down"></i>
+	<i class="tab_caret ts_icon ts_icon_caret_up"></i>
 </div>
 <div class="tab_pane selected">
 
@@ -229,7 +514,7 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	<ul>
 		<li>The most fundamental privacy principle we follow is that by default, anything you post to Slack is private to your team. That is, viewing the messages and files shared within a specific team requires authentication as a member of that team.</li>
 		<li>Slack is the custodian of data on behalf of the teams that use Slack. We don’t own team communication data. Teams own their data. They like it that way and so do we.</li>
-		<li>At Slack we believe that more transparency is better than less. We try to make our product easy to use, with settings and options that are easy to find and understand. This is good for privacy, good for the product, and good for Slack customers and users.</li>
+		<li>At Slack we believe that more transparency is better than less. We try to make our product easy to use, with settings and options that are easy to find and understand. This is good for privacy, good for the product, and good for Slack customers and users. To foster greater transparency, we have published a <a href="/transparency-report">Transparency Report</a>, which is our summary of government and law enforcement requests for user data and content removal from Slack, and our <a href="/user-data-request-policy">User Data Request Policy</a> explaining our policy requests regarding user data and content removal requests.</li>
 		<li>We think that having more information be easily accessible and searchable wherever you go, whatever device you have, is better than having less. So this is how we built Slack. Teams can select their own data retention policies (depending on their level of service) but our defaults show our bias. Administrators and owners can change these settings but we want you to know where we stand.</li>
 		<li>Privacy goes hand in glove with <a href="/security" target="_blank">security</a> and confidentiality. We see these things being the three legs that keep the stool balanced and upright. Each is as important as the other and if one is missing the stool won’t stand. They are all very important to us and we take them very seriously.</li>
 	</ul>
@@ -238,7 +523,7 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 
 	<h1>Slack Privacy Policy</h1>
 
-	<p>Updated: March 11, 2015</p>
+	<p>Updated: November 3, 2015</p>
 
 	<p>
 		This privacy policy is here to help you understand what information we collect at Slack, how we use it, and what choices you have. When we talk about Slack in this policy, we are talking about Slack Technologies, Inc., the company, Slack, the downloadable application, and the Slack website at <a href="https://www.slack.com">www.slack.com</a>. Slack is available for use via a web browser or applications specific to your desktop or mobile device.
@@ -249,9 +534,10 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	</p>
 
 	<p>
-		In this policy we talk about various roles within a Slack team and the privileges that come with each. It’s helpful to understand these roles and the relationships between them. Here’s the breakdown: primary owner &gt; team owner &gt; team administrator &gt; team member. Primary owners have the most control over their team’s settings on Slack, followed by team owners and then team administrators.The person who establishes the Slack team is considered the primary owner with the most control over the team (which is why it’s not a good idea for this person to be a contractor or temp employee). Teams can have more than one owner, but only one can be the primary owner. Primary ownership can be transferred to another user after the team is created (see prior note about temp workers and flaky people). All team owners are administrators, and all owners and administrators are also team members. 
+		In this policy we talk about various roles within a Slack team and the privileges that come with each. It’s helpful to understand these roles and the relationships between them. Here’s the breakdown: primary owner &gt; team owner &gt; team administrator &gt; team member. Primary owners have the most control over their team’s settings on Slack, followed by team owners and then team administrators. The person who establishes the Slack team is considered the primary owner with the most control over the team (which is why it’s not a good idea for this person to be a contractor or temp employee). Teams can have more than one owner, but only one can be the primary owner. Primary ownership can be transferred to another member after the team is created (see prior note about temp workers and flaky people). All team owners are administrators, and all owners and administrators are also team members.
+	</p>
 
-	</p><h2>Information we collect and receive</h2>
+	<h2>Information we collect and receive</h2>
 
 	<p>
 		We collect different kinds of information. Some of it is personally identifiable and some is non-identifying or aggregated. Here are the types of information we collect or receive:
@@ -262,13 +548,13 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 			<b>Team information.</b> When you create a team on Slack, we collect your email address (as the team owner), your team name, Slack domain (ex: your-team-name.slack.com), your user name that appears in your Slack team, and password. Optionally, you can provide an email domain to allow people on that domain to sign up for your team without an invitation or individually add email addresses for people you’d like to invite to your team.
 		</li>
 		<li>
-			<b>Account and profile information.</b> The only information we require to create your Slack account is an email address and password. Optional information you can enter into your profile includes information such as your first and last name, what you do, your Skype username, and your phone number. Any information you add to your profile is visible to other people on your team as described on your profile management page.
+			<b>Account and profile information.</b> The only information we require to create your Slack account is an email address and password. Optional information you can enter into your profile includes information such as your first and last name, what you do, your Skype username, and your phone number. Your team owner(s)/administrator(s) may request you to provide additional information about yourself in your profile, and Slack has no control over such additional information collected. Any information you add to your profile is visible to other people on your team as described on your profile management page.
 		</li>
 		<li>
-			<b>Billing information.</b> We collect billing address and credit card information if you purchase a premium version of Slack. Credit card information is securely passed to our payment processing partner and is not stored at Slack.
+			<b>Billing information.</b> If you purchase a premium version of Slack, our third party payment processors will collect and store your billing address and credit card information.
 		</li>
 		<li>
-			<b>Log data.</b> When you use Slack, our servers automatically record information including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming to Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and cookie data.
+			<b>Log data.</b> When you use Slack, our servers automatically record information, including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming to Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and cookie data. Log data does not contain message content and is not routinely deleted.
 		</li>
 		<li>
 			<b>Device information.</b> In addition to log data, we may also collect information about the device you’re using Slack on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings.
@@ -277,22 +563,22 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 			 <b>Geo-location information.</b> Precise GPS from mobile devices is collected only with your permission. WiFi and IP addresses received from your browser or device may be used to determine approximate location.
 		</li>
 		<li>
-			<b>Slack usage information.</b> This is information about which teams, channels, groups, people, features, content, and links you interact with within Slack and what integrations with related services you use.
+			<b>Slack usage information.</b> This is information about which teams, channels, people, features, content, and links you interact with within Slack and what integrations with related services you use.
 		</li>
 		<li>
-			<b>Service integrations.</b> If you <a href="/integrations">integrate with a service</a> on Slack we will connect that service to ours. 
+			<b>Service integrations.</b> If you <a href="/integrations">integrate with a service</a> on Slack we will connect that service to ours.
 			<ul>
-				<li>Depending on team settings, team members may be able to add integrations to a channel, private group, or direct message conversation. Those integrations are viewable and editable by the administrator.</li>
+				<li>Depending on team settings, team members may be able to add integrations to a channel or direct message conversation. Those integrations are viewable and maybe removable by the administrators, owners, or designated users.</li>
 				<li>We do not receive or store your passwords for any of these services.</li>
-				<li>You can remove an integration at any time which unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from them and indexed within Slack. That content must be deleted manually.
-	</li>
+				<li>If you add an integration, the third party provider of the integration may share certain information about your account with Slack.  Slack is not responsible for how teams may use and collect data through integrations.</li>
+				<li>An integration can be removed at any time.  Removing an integration unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from the integration and indexed within Slack. That content must be deleted manually.</li>
 			</ul>
 		</li>
 		<li>
 			<b>Communication content that you send and receive within Slack.</b> This includes:
 			<ul>
 				<li>The message content itself. This content can include messages, pictures, files and video among other types of files.</li>
-				<li>When messages or files were sent and by whom, when or if they were seen by you, and where you received them (in a channel, private group, or direct message, for example).</li>
+				<li>When messages or files were sent and by whom, when or if they were seen by you, and where you received them (in a channel or direct message, for example).</li>
 			</ul>
 		</li>
 		<li>
@@ -303,7 +589,7 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	<h2>Our Cookie Policy</h2>
 
 	<p>
-		Slack uses cookies, or similar technologies like single-pixel gifs and web beacons, to record log data. We use both session-based and persistent cookies. 
+		Slack uses cookies, or similar technologies like single-pixel gifs and web beacons, to record log data. We use both session-based and persistent cookies.
 	</p>
 
 	<p>
@@ -311,7 +597,7 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	</p>
 
 	<p>
-		Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Slack account but are unique and allow us to do site analytics and customization, among other things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Slack.
+		Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Slack account but are unique and allow us to do site analytics and customization, among other similar things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Slack.
 	</p>
 
 	<p>
@@ -344,10 +630,10 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 					<b>Solving your problems and responding to your requests.</b> If you contact us with a problem or question, we will use your information to respond to that request and address your problems or concerns.
 				</li>
 				<li>
-					<b>In-product communications.</b> We may use the information your provide to contact you through Slack using Slackbot or other in-product messaging tools. For example, if, after, a few weeks of using Slack we notice that your notification setting is set to notify you of all messages, we may send you a Slackbot message that suggests you change this in case you are getting too many notifications. This is just one example of how we use information about your usage of the product to make suggestions to you.
+					<b>In-product communications.</b> We may use the information you provide to contact you through Slack using Slackbot or other in-product messaging tools. For example, if, after, a few weeks of using Slack we notice that your notification setting is set to notify you of all messages, we may send you a Slackbot message that suggests you change this in case you are getting too many notifications. This is just one example of how we use information about your usage of the product to make suggestions to you.
 				</li>
 				<li>
-					<b>Email messages.</b> We may send you service and administrative emails, such as when we notice that you are nearing a message or integration limit. We may also contact you to inform you about changes in our services, or our service offerings. These messages are considered part of the service and you may not opt-out of them. In addition, we  sometimes send emails to Slack users about new product features or other news about Slack. You can opt-out of these at any time.
+					<b>Email messages.</b> We may send you service and administrative emails, such as when we notice that you are nearing a message or integration limit. We may also contact you to inform you about changes in our services, our service offerings and important service related notices, such as changes to this policy or security and fraud notices. These messages are considered part of the service and you may not opt-out of them. In addition, we sometimes send emails to Slack users about new product features or other news about Slack. You can opt-out of these at any time.
 				</li>
 			</ul>
 		</li>
@@ -357,14 +643,14 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	<h2>Your choices</h2>
 
 	<p>
-		When you use Slack, you have control over a number of things with respect to your own privacy and choices about how your content is visible to others or not. If you are a Slack team owner or administrator, you have additional choices that impact your team’s privacy.  Some users will not have access to all of the same choices that their team owner(s) or administrator(s) do. That is because Slack is set up to be team-oriented, and provides team owners with the maximum ability to control their teams.
+		When you use Slack, you have control over a number of things with respect to your own privacy and choices about how your content is visible to others or not. If you are a Slack team owner or administrator, you have additional choices that impact your team’s privacy. Some members will not have access to all of the same choices that their team owner(s) or administrator(s) do. That is because Slack is set up to be team-oriented, and provides team owners with the maximum ability to control their teams.
 	</p>
 
 	<!-- p + bold? -->
 	<h3>Message Retention Settings and Export Options</h3>
 
 	<p>
-		Slack offers different options for message retention and export to team owners and administrators, depending on the level of service they have signed up for. These service levels are likely to change so please see our pricing page to learn more about which features are associated with which level of service. We describe the feature variations here.
+		Slack offers different options for message retention and export to team owners and administrators, depending on the level of service they have signed up for. These service levels are likely to change so please see our <a href="/pricing" target="_blank">pricing page</a> to learn more about which features are associated with which level of service.
 	</p>
 
 	<ul>
@@ -372,10 +658,16 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 			<b>Message Retention Settings</b>
 			<ul>
 				<li>
-					The default message retention settings retain all channel, private group, and direct messages of all team members for as long as the team exists. If a message is edited, only the last edited version of the message is retained. If a message is deleted, it is removed from the archive. Note that administrators can manage editing and deletion settings as well to limit or prevent editing and deletion of messages in the first place. 
+					Message retention setting options vary by service level from very general to very specific. The default for all teams, both free and premium, is that messages are retained for as long as the team exists unless they are deleted by the user or administrators, and that users can edit and delete their own messages at any time.
 				</li>
 				<li>
-					Once a team has moved to a premium, paid version of Slack, administrators can manage message retention settings in a much more granular way. They can reduce the message retention setting duration for all channel, private group, and direct messages. They can also increase the scope of message retention by retaining all copies of edited and deleted messages for channels, private groups, and direct messages for the duration of time allocated. Administrators can manage retention settings across all channels uniformly, or on a per-channel basis. This capability does not allow administrators to see the names or members of private groups. 
+					Premium level teams can modify their team settings to shorten the duration of retention, make very specific retention setting modifications on a per-channel basis, and change settings to store all message edits and to retain messages that users have deleted.
+				</li>
+				<li>
+					Please see our <a href="https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-Privacy-Policy" target="_blank">FAQ</a> for more specific information about what options exist for different team service levels.
+				</li>
+				<li>
+					You can view your team’s message retention settings at any time via <a href="https://my.slack.com/admin/settings" target="_blank">Your Team Settings</a>.
 				</li>
 			</ul>
 		</li>
@@ -383,7 +675,13 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 			<b>Message Exports</b>
 			<ul>
 				<li>
-					Only owners for teams who have the appropriate level of Slack service and have enabled Compliance Exports can export their team’s private group messages and direct messages.
+					Administrators of all teams, both free and premium, can export their team’s messages and files that are shared in channels. Message history for private channels and direct messages is not included in this.
+				</li>
+				<li>
+					Only owners for teams who have signed up for the appropriate level of Slack service and have enabled Compliance Exports can export their team’s private channel's messages, private channel's shared files and direct messages. Compliance Exports may include message edit and deletion history.
+				</li>
+				<li>
+					For more information about your team's export options, please visit <a href="https://my.slack.com/admin/settings" target="_blank">Your Team Settings</a>
 				</li>
 			</ul>
 		</li>
@@ -393,13 +691,16 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 
 	<ul>
 		<li>
-			Depending on your team settings, you may have the ability to delete some or all of your messages and to deactivate your account. Deactivating your account, however, will not remove messages you posted before you initiated deactivation as those messages will still be valuable to your team.
+			If you are a member of a free team, you may deactivate your account. Deactivation of an account disables your access to the Slack team associated with that account but does not delete your profile or content, which are considered part of your team’s data.
 		</li>
 		<li>
-			You can view your team’s message retention settings at any time via <a href="https://my.slack.com/account/team" target="_blank">Your Team Settings</a>. You can update your profile information at any time and modify your email settings. You can also change your user name from time to time.
+			Whether you can delete your message content depends on your <a href="https://slack.zendesk.com/hc/en-us/sections/200320067-Team-Settings" target="_blank">team’s settings</a>. In addition, a record of edits and deletions may be retained by your team, depending on the service level of your team and your team’s settings. Please see our <a href="https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-Privacy-Policy" target="_blank">FAQ</a> for more detail.
 		</li>
 		<li>
-			When you upload a document or a file on Slack, you can decide where to share it and with whom. You can also share documents with your entire team, or in private groups. You can also share them externally by creating a public link if you choose.
+			While you cannot completely delete a profile once it is created, you can update your profile information at any time and modify your email settings. You can also change your user name from time to time.
+		</li>
+		<li>
+			When you upload a document or a file on Slack, you can decide where to share it and with whom. You can also share documents with your entire team or in a private channel. You can also share them externally by creating a public link if you choose. Files are not subject to message retention settings but can be deleted at any time by the person who uploaded the file or by team administrators.
 		</li>
 	</ul>
 
@@ -407,13 +708,13 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 
 	<ul>
 		<li>
-			Administrators have the ability to manage and change most of the team settings including message retention settings and can modify whether or when team members can edit or delete messages. Administrators can also disable member accounts for their team.
+			Administrators have the ability to manage and change most of the team settings, including message retention settings, and can modify whether or when team members can edit or delete messages. Administrators can also deactivate member accounts for their team.
 		</li>
 		<li>
-			Only a primary owner can delete a team.
+			Only a primary owner can deactivate or delete a team.
 		</li>
 		<li>
-			For more about these privileges, choices, and permissions, see our <a href="https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack" target="_blank">FAQ page</a>.
+			For more about these privileges, choices, and permissions, see our <a href="https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack" target="_blank">FAQ</a>.
 		</li>
 	</ul>
 
@@ -426,6 +727,9 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 		<li>
 			Your mobile device may provide you with choices around how and whether location or other data is shared with us.
 		</li>
+		<li>
+			Slack does not control these choices, or default settings, which are offered by makers of your browser or mobile device.
+		</li>
 	</ul>
 
 	<h3>Sharing and Disclosure</h3>
@@ -437,10 +741,13 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	<ul>
 		<li>
 			<b>With consent, to comply with legal process, or to protect Slack and our users.</b>
-			When we have your consent or if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Slack; or to detect, prevent, or otherwise address fraud, security or technical issues. If we receive a legal or law enforcement request for information we will do our best to notify the subject of the request if we are able.
+			When we have your consent or if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Slack; or to detect, prevent, or otherwise address fraud, security or technical issues. If we receive a law enforcement or other third party request for information we will provide prior notice to the subject of the request where we are legally permitted to do so.  For more information on Slack’s policies for responding to requests for user data, please see our <a href="/user-data-request-policy" target="_blank">User Data Request Policy</a>.
 		</li>
 		<li>
-			<b>With third parties and agents.</b> We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at preventing unauthorized access or with an email vendor to send messages on our behalf.  We may also share data with hosting providers, payment processors, marketing vendors, and other consultants who work on our behalf and under contractual promises of confidentiality.
+			<b>With third party service providers and agents.</b> We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at preventing unauthorized access or with an email vendor to send messages on our behalf. We may also share data with hosting providers, payment processors, marketing vendors, and other consultants who work on our behalf.
+		</li>
+		<li>
+			<b>Integrations.</b> If you add an integration, Slack may share information about you or your team with the provider of the integration.  Slack is not responsible for how the provider of the integration may collect and use your data.
 		</li>
 		<li>
 			<b>About you with your organization or team administrator(s).</b>
@@ -451,30 +758,33 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 				<li>
 					In addition, there may be times when you contact Slack to help resolve an issue specific to a team you are a member of. In order to help resolve the issue, we may need to share your concern with your administrator. When possible, we will try to mask or remove any identifying information before sharing these communications.
 				</li>
+				<li>
+					As described above in the Message Retention Settings and Export Option section, team owners and administrators have certain rights to export their team's messages and files.
+				</li>
+				<li>
+					If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of Slack's assets financing, acquisition of all or a portion of our business, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy.
+				</li>
+				<li>
+					We may also share aggregated or de-identified information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data.
+				</li>
 			</ul>
-		</li>
-		<li>
-			<b>In the event of a merger or sale.</b> If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy.
-		</li>
-		<li>
-			<b>That is aggregated and non-identifiable.</b> We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data.
 		</li>
 	</ul>
 
 	<h3>Security</h3>
 
 	<p>
-		Slack takes reasonable steps to protect information you provide to us as part of your use of the Slack service from loss, misuse, and unauthorized access or disclosure. When you enter sensitive information (such as sign-in credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. However, no electronic or email transmission or digital storage mechanism is ever fully secure or error free. 
+		Slack takes reasonable steps to protect information you provide to us as part of your use of the Slack service from loss, misuse, and unauthorized access or disclosure. These steps take into account the sensitivity of the information we collect, process and store and the current state of technology. When you enter sensitive information (such as sign-in credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. However, no electronic or email transmission or digital storage mechanism is ever fully secure or error free.
 	</p>
 
 	<p>
 		To learn more about current practices and policies regarding security and confidentiality, please see our <a href="https://slack.com/security" target="_blank">Security Practices</a>; we keep that document updated as these practices evolve over time.
 	</p>
-	
+
 	<h3>Children’s information</h3>
 
 	<p>
-		Slack is not directed to children under 13. If you learn that a minor child has provided us with personal information without your consent, please contact us.
+		Slack is not directed to children under 13. If you learn that a minor child has provided us with personal information without your consent, please <a href="mailto:feedback@slack.com">contact us</a>.
 	</p>
 
 	<h3>Changes to this Privacy Policy</h3>
@@ -486,7 +796,7 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 	<h3>EU Safe Harbor</h3>
 
 	<p>
-		Slack Technologies complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Slack Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Slack Technologies’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
+		Slack complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Slack has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Slack’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
 	</p>
 
 	<h3>Contacting Slack</h3>
@@ -497,9 +807,9 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 
 	<p>
 		Slack Technologies<br>
-		680 Folsom Street, Suite 145<br>
+		155 5th Street, 6th Floor<br>
 		San Francisco, CA<br>
-		94107
+		94103
 	</p>
 
 	<div class="clear_both"></div>
@@ -512,27 +822,101 @@ boot_data.version_ts&&(a.vt=boot_data.version_ts);if(b&&b.length&&"object"==type
 </div>
 
 
+	<footer data-qa="footer">
+	<section class="links">
+		<div class="grid">
+			<div class="col span_1_of_4 nav_col">
+				<ul>
+					<li class="cat_1">Using Slack</li>
+					<li><a href="/is" data-qa="product_footer">Product</a></li>
+					<li><a href="/pricing" data-qa="pricing_footer">Pricing</a></li>
+					<li><a href="https://get.slack.help/hc/en-us" data-qa="support_footer">Support</a></li>
+					<li><a href="/getting-started" data-qa="getting_started">Getting Started</a></li>
+					<li><a href="/videoguides" data-qa="video_guides">Video Guides</a></li>
+					<li><a href="/apps" data-qa="app_directory">App Directory</a></li>
+					<li><a href="https://api.slack.com/" data-qa="api">API</a></li>
+				</ul>
+			</div>
+			<div class="col span_1_of_4 nav_col">
+				<ul>
+					<li class="cat_2">Slack <ts-icon class="ts_icon_heart"></ts-icon></li>
+					<li><a href="/jobs" data-qa="jobs">Jobs</a></li>
+					<li><a href="/customers" data-qa="customers">Customers</a></li>
+					<li><a href="/events" data-qa="events">Events</a></li>
+					<li><a href="http://slackhq.com/" data-qa="blog_footer">Blog</a></li>
+					<li><a href="/varietypack" data-qa="podcast">Podcast</a></li>
+					<li><a href="https://slack-shop.myshopify.com" data-qa="slack_shop">Slack Shop</a></li>
+				</ul>
+			</div>
+			<div class="col span_1_of_4 nav_col">
+				<ul>
+					<li class="cat_3">Legal</li>
+					<li><a href="/privacy-policy" data-qa="privacy">Privacy</a></li>
+					<li><a href="/security" data-qa="security">Security</a></li>
+					<li><a href="/terms-of-service" data-qa="tos">Terms of Service</a></li>
+					<li><a href="/policies" data-qa="policies">Policies</a></li>
+				</ul>
+			</div>
+			<div class="col span_1_of_4 nav_col">
+				<ul>
+					<li class="cat_4">Handy Links</li>
+					<li><a href="/downloads" data-qa="downloads">Download desktop app</a></li>
+					<li><a href="/downloads" data-qa="downloads_mobile">Download mobile app</a></li>
+					<li><a href="/brand-guidelines" data-qa="brand_guidelines">Brand Guidelines</a></li>
+					<li><a href="http://slackatwork.com" data-qa="slack_at_work">Slack at Work</a></li>
+					<li><a href="https://status.slack.com/" data-qa="status">Status</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<div class="footnote">
+		<section>
+			<a href="https://slack.com" aria-label="Slack homepage"><ts-icon class="ts_icon_slack_pillow" aria-hidden="true"></ts-icon></a>
+			<ul>
+				<li>
+					<a href="/help/contact" data-qa="contact_us">Contact Us</a>
+				</li>
+				<li>
+					<a href="https://twitter.com/SlackHQ" data-qa="slack_twitter" aria-label="Slack on Twitter"><ts-icon class="ts_icon_twitter" aria-hidden="true"></ts-icon></a>
+				</li>
+				<li class="yt">
+					<a href="https://www.youtube.com/channel/UCY3YECgeBcLCzIrFLP4gblw" data-qa="slack_youtube" aria-label="Slack on YouTube"><ts-icon class="ts_icon_youtube" aria-hidden="true"></ts-icon></a>
+				</li>
+			</ul>
+		</section>
+	</div>
+</footer>
+
 
 
 <script type="text/javascript">
-var cdn_url = 'https://slack.global.ssl.fastly.net';
+var cdn_url = "https:\/\/slack.global.ssl.fastly.net";
+var inc_js_setup_data = {
+	emoji_sheets: {
+		apple: 'https://a.slack-edge.com/d4bf/img/emoji_2015_2/sheet_apple_64_indexed_256colors.png',
+		google: 'https://a.slack-edge.com/93405/img/emoji_2016_02_06/sheet_google_64_indexed_128colors.png',
+		twitter: 'https://a.slack-edge.com/93405/img/emoji_2016_02_06/sheet_twitter_64_indexed_128colors.png',
+		emojione: 'https://a.slack-edge.com/d4bf/img/emoji_2015_2/sheet_emojione_64_indexed_128colors.png',
+	},
+};
 </script>
 
-		
+	
 	<!-- output_js "core" -->
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/1852/js/libs/jquery-2.1.3.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/c212/js/libs/bootstrap_plastic.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/f66c/js/libs/flash_detect.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/bf3b/js/libs/fastclick.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/8556/js/libs/headroom.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://slack.global.ssl.fastly.net/8827/js/plastic.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://a.slack-edge.com/0fed/js/libs/jquery.js" crossorigin="anonymous"></script>
 
-			<!-- output_js "secondary" -->
+	<!-- output_js "core_web" -->
+<script type="text/javascript" src="https://a.slack-edge.com/32de7/js/rollup-core_web.js" crossorigin="anonymous"></script>
 
-		<!-- output_js "regular" -->
+	<!-- output_js "secondary" -->
+
+			<!-- output_js "regular" -->
+<script type="text/javascript" src="https://a.slack-edge.com/d2d4/js/sticky_nav.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://a.slack-edge.com/723d/js/footer.js" crossorigin="anonymous"></script>
 
 	
-	<!-- slack-www344 / 2015-03-15 17:25:27 / v75a8ebbca614882c75418542c75e7d54579ad8cd -->
-
+	<!-- slack-www492 / 2016-03-16 13:22:39 / v9397c6a7ed85856ee8da90a1855e9abafd6f809c -->
+<style>.color_9f69e7:not(.nuc) {color:#9F69E7;}.color_4bbe2e:not(.nuc) {color:#4BBE2E;}.color_e7392d:not(.nuc) {color:#E7392D;}.color_3c989f:not(.nuc) {color:#3C989F;}.color_674b1b:not(.nuc) {color:#674B1B;}.color_e96699:not(.nuc) {color:#E96699;}.color_e0a729:not(.nuc) {color:#E0A729;}.color_684b6c:not(.nuc) {color:#684B6C;}.color_5b89d5:not(.nuc) {color:#5B89D5;}.color_2b6836:not(.nuc) {color:#2B6836;}.color_99a949:not(.nuc) {color:#99A949;}.color_df3dc0:not(.nuc) {color:#DF3DC0;}.color_4cc091:not(.nuc) {color:#4CC091;}.color_9b3b45:not(.nuc) {color:#9B3B45;}.color_d58247:not(.nuc) {color:#D58247;}.color_bb86b7:not(.nuc) {color:#BB86B7;}.color_5a4592:not(.nuc) {color:#5A4592;}.color_db3150:not(.nuc) {color:#DB3150;}.color_235e5b:not(.nuc) {color:#235E5B;}.color_9e3997:not(.nuc) {color:#9E3997;}.color_53b759:not(.nuc) {color:#53B759;}.color_c386df:not(.nuc) {color:#C386DF;}.color_385a86:not(.nuc) {color:#385A86;}.color_a63024:not(.nuc) {color:#A63024;}.color_5870dd:not(.nuc) {color:#5870DD;}.color_ea2977:not(.nuc) {color:#EA2977;}.color_50a0cf:not(.nuc) {color:#50A0CF;}.color_d55aef:not(.nuc) {color:#D55AEF;}.color_d1707d:not(.nuc) {color:#D1707D;}.color_43761b:not(.nuc) {color:#43761B;}.color_e06b56:not(.nuc) {color:#E06B56;}.color_8f4a2b:not(.nuc) {color:#8F4A2B;}.color_902d59:not(.nuc) {color:#902D59;}.color_de5f24:not(.nuc) {color:#DE5F24;}.color_a2a5dc:not(.nuc) {color:#A2A5DC;}.color_827327:not(.nuc) {color:#827327;}.color_3c8c69:not(.nuc) {color:#3C8C69;}.color_8d4b84:not(.nuc) {color:#8D4B84;}.color_84b22f:not(.nuc) {color:#84B22F;}.color_4ec0d6:not(.nuc) {color:#4EC0D6;}.color_e23f99:not(.nuc) {color:#E23F99;}.color_e475df:not(.nuc) {color:#E475DF;}.color_619a4f:not(.nuc) {color:#619A4F;}.color_a72f79:not(.nuc) {color:#A72F79;}.color_7d414c:not(.nuc) {color:#7D414C;}.color_aba727:not(.nuc) {color:#ABA727;}.color_965d1b:not(.nuc) {color:#965D1B;}.color_4d5e26:not(.nuc) {color:#4D5E26;}.color_dd8527:not(.nuc) {color:#DD8527;}.color_bd9336:not(.nuc) {color:#BD9336;}.color_e85d72:not(.nuc) {color:#E85D72;}.color_dc7dbb:not(.nuc) {color:#DC7DBB;}.color_bc3663:not(.nuc) {color:#BC3663;}.color_9d8eee:not(.nuc) {color:#9D8EEE;}.color_8469bc:not(.nuc) {color:#8469BC;}.color_73769d:not(.nuc) {color:#73769D;}.color_b14cbc:not(.nuc) {color:#B14CBC;}</style>
 
 </body></html>
