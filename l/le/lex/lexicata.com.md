@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lexicata.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906000831id_/https%3A//lexicata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexicata.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316132415id_/https%3A//lexicata.com/privacy) for the most accurate reproduction.*
 
-# Lexicata
+# Lexicata | Law Firm CRM & Client Intake Software
 
 ### **Lexicata Privacy Policy**
 
