@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the modernman.com privacy policy that was archived on 2015-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151124073215id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modernman.com privacy policy that was archived on 2016-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316064309id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -35,7 +35,7 @@
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='bones-ie-only-css'  href='//www.modernman.com/wp-content/themes/modernman_v2/library/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" async="" src="https://clicks.hashtagads.com/pixel?cid=1467&amp;t=0&amp;aid=5481&amp;b=1"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//cdn.spoutable.com/c42d567d-147e-4702-8fb1-951c812086b2/spoutable.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//www.modernman.com/wp-includes/js/jquery/jquery.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//cdn.spoutable.com/c42d567d-147e-4702-8fb1-951c812086b2/spoutable.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//www.modernman.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="//www.modernman.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="//www.modernman.com/wp-content/plugins/break-quiz/js/script.js"></script>
 <script type="text/javascript" src="//www.modernman.com/wp-content/themes/modernman_v2/library/js/libs/modernizr.custom.min.js"></script>
@@ -44,6 +44,34 @@
 <style type="text/css" id="shiftnav-dynamic-css">#shiftnav-toggle-main{background:#000000;}@media only screen and (min-width:960px){#shiftnav-toggle-main{display:none;}.shiftnav-wrap{padding-top:0!important;}}@media only screen and (max-width:959px){.header{display:none!important;}}</style>
  
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+<script type="text/javascript">
+        function ybWidth(){
+            var w = window,
+                    d = document,
+                    e = d.documentElement,
+                    x = Math.max(e.scrollWidth,e.offsetWidth,e.clientWidth);
+            return x;
+        }
+</script>
+ 
+<script type="text/javascript" src="//cdn.yldbt.com/js/yieldbot.intent.js"></script>
+<script>
+        if(ybWidth()>=481){
+                    yieldbot.pub('877d');//desktop
+                    yieldbot.defineSlot('leaderboard');
+                    yieldbot.defineSlot('SB');
+                    yieldbot.defineSlot('sky');
+                }else{
+                    yieldbot.pub('2801');//mobile
+                    yieldbot.defineSlot('mobrec');
+                    yieldbot.defineSlot('SB_mobile', {sizes: [
+                        [300, 250],
+                        [300, 600]
+                      ]});
+                }
+                
+                yieldbot.go();
+</script>
 <script type="text/javascript">
 
 		    // Cookie for first view impressions
@@ -85,8 +113,8 @@
     googletag.defineSlot('/329659631/002', [728, 90], 'div-gpt-ad-1424282697689-1').addService(googletag.pubads());
     googletag.defineSlot('/329659631/006', [[970, 90], [970, 250]], 'div-gpt-ad-1424282697689-3').addService(googletag.pubads());
   }
-  googletag.defineSlot('/329659631/005', [[300, 250], [300, 600]], 'div-gpt-ad-1424282697689-0').addService(googletag.pubads());
-  googletag.defineSlot('/329659631/004', [[300, 250], [300, 600]], 'div-gpt-ad-1424282697689-5').addService(googletag.pubads());
+  googletag.defineSlot('/329659631/004', [[300, 250], [300, 600]], 'div-gpt-ad-1424282697689-0').addService(googletag.pubads());
+  googletag.defineSlot('/329659631/005', [[300, 250], [300, 600]], 'div-gpt-ad-1424282697689-5').addService(googletag.pubads());
   googletag.defineSlot('/329659631/007', [1, 1], 'div-gpt-ad-1424282697689-2').addService(googletag.pubads());
   googletag.defineSlot('/329659631/003', [160, 600], 'div-gpt-ad-1424282697689-4').addService(googletag.pubads());
   googletag.defineSlot('/329659631/8', [1, 1], 'div-gpt-ad-1424282697689-6').addService(googletag.pubads());
@@ -96,11 +124,14 @@
   googletag.pubads().setTargeting("env","mm-live");
   googletag.pubads().setTargeting("url","/privacy-policy/");
   googletag.pubads().setTargeting("userViews",userViews);
+  try{
+    googletag.pubads().setTargeting("ybot",yieldbot.getPageCriteria());
+  }catch(e){/*ignore*/}
   //googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 </script>
-<style type="text/css">.mobile_ad_block{display:none;}@media only screen and (max-device-width: 480px) {.mobile_ad_block{display:block;}#container{padding-top:8px;}}</style>
+<style type="text/css">.mobile_ad_block{display:none;}@media only screen and (max-device-width: 480px) {.mobile_ad_block{display:block;width:300px;height:250px;margin-right:auto;margin-left:auto;margin-top:50px;}#container{padding-top:8px;}}</style>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-19201505-1']);
@@ -301,7 +332,7 @@ At ModernMan.com, a website operated by Modern Man Media, LLC, (“MMM”) we ar
   googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-0'); });
   </script>
 </div></div>
-<div id="rcjsload_6472ec"><script id="rc_810" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=8073&amp;t=rc_810&amp;c=1580501817896&amp;width=800" async=""></script></div>
+<div id="rcjsload_6472ec"><script id="rc_201" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=8073&amp;t=rc_201&amp;c=1580501818192&amp;width=800" async=""></script></div>
 <script type="text/javascript">
 (function() {
 var rcel = document.createElement("script");
@@ -328,19 +359,7 @@ var rcds = document.getElementById("rcjsload_6472ec"); rcds.appendChild(rcel);
 </li>
 </ul>
 </div></div>
-</div><div id="text-5" class="widget widget_text"><h4 class="widgettitle">More Cool Stuff! </h4> <div class="textwidget"><script type="text/javascript" language="javascript">
-  amzn_assoc_ad_type = "contextual";
-  amzn_assoc_tracking_id = "mode0cd-20";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_placement = "D62HLHGHZQQ7LXGM";
-  amzn_assoc_linkid = "D62HLHGHZQQ7LXGM";
-  amzn_assoc_emphasize_categories = "";
-  amzn_assoc_fallback_products = "";
-  amzn_assoc_width = "300";
-  amzn_assoc_height = "250";
-</script>
-<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetScript&amp;ID=OneJS&amp;WS=1&amp;MarketPlace=US&amp;source=ac"></script></div>
+</div><div id="text-5" class="widget widget_text"><h4 class="widgettitle">Advertisement</h4> <div class="textwidget"></div>
 </div>
 <div class="adunit right size300_600"> 
 <div id="div-gpt-ad-1424282697689-5">
@@ -416,7 +435,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-5');
 </div>
 </div>
 <div id="outer-footer" class="wrap cf">
-<p class="source-org copyright">© 2015 Modern Man Media LLC. All Rights Reserved.
+<p class="source-org copyright">© 2016 Modern Man Media LLC. All Rights Reserved.
 </p>
 <ul class="footer_nav">
 <li><a href="/about-us/">About Us</a></li>
@@ -465,7 +484,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-5');
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64492 shiftnav-depth-1"><a class="shiftnav-target" href="http://www.modernman.com/style/accessories/">Accessories</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64493 shiftnav-depth-1"><a class="shiftnav-target" href="http://www.modernman.com/style/apparel/">Apparel</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64494 shiftnav-depth-1"><a class="shiftnav-target" href="http://www.modernman.com/style/living/">Living</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
 </li></ul></nav> </div> 
 </div> 
+ 
 <script type="text/javascript">
+
+		   var infolink_pid =2466680;
+		   var infolink_wsid = 0;
+		   var infolinks_plugin_version = "WP_3.1";
+
+		</script>
+<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+<script type="text/javascript">
+							jQuery(document).ready(function(){ 
+							jQuery('.description').before('<span><!--INFOLINKS_OFF--></span>');jQuery('.description').after('<span><!--INFOLINKS_ON--></span>');jQuery('#headerimg').before('<span><!--INFOLINKS_OFF--></span>');jQuery('#headerimg').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');	
+								});
+						</script>
+ <script type="text/javascript">
 /* <![CDATA[ */
 var shiftnav_data = {"shift_body":"on","lock_body":"on","lock_body_x":"off","swipe_close":"on","swipe_open":"off","swipe_tolerance_x":"150","swipe_tolerance_y":"60","swipe_edge_proximity":"80","open_current":"on","collapse_accordions":"on","scroll_panel":"off"};
 /* ]]> */
@@ -478,23 +511,6 @@ var shiftnav_data = {"shift_body":"on","lock_body":"on","lock_body_x":"off","swi
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-2'); });
 </script>
 </div>
-/*
-<script type="text/javascript">
-var zflag_parent="zedo_container";
-var zflag_nid="3032"; 
-var zflag_cid="1"; 
-var zflag_sid="1";
-var zflag_sz="85";
-var zflag_vast_domain="http://xp1.zedo.com/";
-var zflag_width="1";
-var zflag_height="1";
-var zflag_bchan="3";
-</script>
-<script type="text/javascript" src="//c5.zedo.com/jsc/c5/frd.js"></script>
-<script type="text/javascript">
-  console.log('End of Javascript');
-</script>
-*/
 <script type="text/javascript">ggv2id='ecb4d92b';</script>
 <script type="text/javascript" src="//g2.gumgum.com/javascripts/ggv2.js"></script>
  
@@ -529,14 +545,8 @@ qacct:"p-typJ-urCYm5Tc"
 </div>
 </noscript>
  
-<script type="text/javascript">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://":"http://")+"clicks.hashtagads.com/pixel?cid=1467&t=0&aid=5481&b=1";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);})();</script><noscript><img height=1 width=1 border=0 style="display:none;" src="//clicks.hashtagads.com/pixel?cid=1467&noscript=1&aid=5481"></noscript>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-  
  
  
-</body></html>
+ 
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+  </body></html>
