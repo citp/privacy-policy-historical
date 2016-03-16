@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the logmeinrescue.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231233343id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logmeinrescue.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316200231id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
 
 # LogMeIn - Privacy Policy
 
-Last Updated: August 2015 
+Last Updated: December 2015 
 
 LogMeIn, Inc. and its subsidiaries (together hereinafter referred to as "LogMeIn," "we," "us" or "our"), are committed to protecting the privacy of those individuals who visit our websites (the "Websites") and register to use our applications and services ("Services"). This policy describes our privacy practices and how we use and collect the personal information that you share with us when browsing our Website(s) and/or registering an account with us.
+
+## International Use & Safe Harbor Statement
+
+LogMeIn is headquartered in the United States of America. Therefore, personal information that we collect and maintain may be transferred to or controlled and processed in the United States of America and/or other countries around the world. By providing us with personal information and by using our Website(s) and Services, you consent to this transfer. We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored, however you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts, law enforcement and/or regulatory agencies of the United States who have valid jurisdiction over LogMeIn to obtain disclosure of your personal information subject to a valid subpoena, court order or similar official request. 
+
+LogMeIn continues to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. LogMeIn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LogMeIn's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## How and When Information is Collected
 
@@ -23,7 +29,7 @@ We may also receive personal information from our business partners and vendors 
 
 LogMeIn uses cookies to help us track and analyze user traffic patterns. A "Cookie" is a small data file that certain websites write to your hard drive when you visit them. Cookies cannot be used to run programs or deliver viruses to your computer. A cookie file can contain information such as a unique user ID that a website uses to track the pages you've visited, but the only personal information a cookie can contain is information you elect to supply yourself. A cookie can't read data off your hard disk or read cookie files created by other websites. Cookies can help save you time, for example, if you personalize a web page, or navigate within a website, a cookie recalls your specific information for future visits.
 
-In addition to cookies, our Website(s) use a variety of other methods and tools for tracking purposes, including Internet tags and web beacons, which are small pieces of data that are embedded in images and pages of our Websites. While most web browsers automatically accept cookies, many browsers allow you to modify your browser setting to decline cookies and/or "opt-out" of tracking technologies. Please note however, if a visitor turns off cookies such visitor may find some of the functionality of our website and/or our services and Apps, to be reduced or impaired.
+In addition to cookies, our Website(s) use a variety of other methods and tools for tracking purposes, including Internet tags and web beacons, which are small pieces of data that are embedded in images and pages of our Websites. While most web browsers automatically accept cookies, many browsers allow you to modify your browser setting to decline cookies and/or "opt-out" of tracking technologies. Please note however, if a visitor turns off cookies such visitor may find some of the functionality of our website and/or our services and Apps, to be reduced or impired.
 
 We also utilize both proprietary and third party analytics tools, such as Google Analytics, to gather information designed to help us gain insight into how visitors interact with and use our Websites and Services. You can prevent your data from being collected by Google Analytics on our Websites by installing the Google Analytics opt-out browser add-on, which is available [here](https://tools.google.com/dlpage/gaoptout). We may also use certain Google Analytics Advertising features which provide interest-based ads based on your visit to our Websites or other websites. You can manage the Google ads you see and opt-out of interest-based ads through Google's Ad Settings [here](https://www.google.com/settings/u/0/ads/authenticated).
 
@@ -42,7 +48,7 @@ In addition, we may share non-identifiable aggregate information about our users
 
 ## Choice/Opt-Out
 
-Unless you take affirmative action to "opt-out" of receiving marketing and promotional materials at the point of data collection, we assume that you have given us your consent to collect and use your information in accordance with this Policy. The "opt-out" checkbox is the means by which you give us, or decline to give us, your consent to use your personal information for the purpose(s) covered by the applicable opt-out choice. You may indicate your desire to "opt-out": (i) at the point of data collection when your personal information is entered by using the "opt-out" checkbox, (ii) when you receive marketing and promotional communications from us by clicking the "unsubscribe" hyperlink and following the instructions, or (iii) at any time by sending an email request to [support@logmein.com](mailto:support@logmein.com) (please indicate "Opt-Out" in the subject line) or by sending a written request to our address as provided below ("Contact Us").
+Unless you take affirmative action to "opt-out" of receiving marketing and promotional materials at the point of data collection, we assume that you have given us your consent to collect and use your information in accordance with this Policy. The "opt-out" checkbox is the means by which you give us, or decline to give us, your consent to use your personal information for the purpose(s) covered by the applicable opt-out choice. You may indicate your desire to "opt-out": (i) at the point of data collection when your personal information is entered by using the "opt-out" checkbox, (ii) when you receive marketing and promotional communications from us by clicking the "unsubscribe" hyperlink and following the instructions, or (iii) at any time by sending an email request to support@logmein.com (please indicate "Opt-Out" in the subject line) or by sending a written request to our address as provided below ("Contact Us").
 
 In certain cases, we will provide you with the opportunity to "opt-in". This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted. You may also stop the collection of personally identifiable information in connection with your use of our Services by stopping your use of them.
 
@@ -66,13 +72,9 @@ LogMeIn may amend this policy from time to time. If we make any substantial chan
 
 Our website is a general audience site that does not target and is not intended for children under the age of 13. LogMeIn does not knowingly solicit or maintain personal information pertaining to children under the age of 13.
 
-## Safe Harbor Statement
-
-LogMeIn is headquartered in the United States of America. Therefore, personal information that we maintain may be transferred to or controlled and processed in the United States of America and/or other countries. By providing us with personal information, you consent to this transfer. LogMeIn complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. LogMeIn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LogMeIn's certification, please visit <http://www.export.gov/safeharbor/>.
-
 ## Contact Us
 
-LogMeIn welcomes your comments regarding this privacy statement and our privacy practices. If you have reason to believe that LogMeIn has not adhered to this privacy statement, please contact us electronically at [legal@logmein.com](mailto:legal@logmein.com) or at the address provided below
+LogMeIn welcomes your comments regarding this privacy statement and our privacy practices. If you have reason to believe that LogMeIn has not adhered to this privacy statement, please contact us electronically at legal@logmein.com or at the address provided below:
 
 LogMeIn, Inc.
 
@@ -80,5 +82,4 @@ Attention: General Counsel
 
 320 Summer Street Suite 100  
 Boston, MA 02210  
-U.S.A.  
-781-638-9050 
+U.S.A. 
