@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rightster.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910055932id_/http%3A//help.rightster.com/customer/portal/articles/1814435-rightster-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightster.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316150211id_/http%3A//help.rightster.com/customer/portal/articles/1814435-rightster-privacy-policy) for the most accurate reproduction.*
 
-# Rightster Help - Rightster Privacy Policy
+# Rightster Help - Rightster Privacy and Cookie Policy
 
 **INTRODUCTION**
 
 Rightster Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting rightster.com, support.rightster.com, corp.rightster.com and/or vds.rightster.com ( **our sites** ) you are accepting and consenting to the practices described in this policy.
+This policy (together with our [Terms of Use](http://help.rightster.com/customer/en/portal/articles/1814437-rightster-terms-of-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting rightster.com, support.rightster.com, corp.rightster.com and/or vds.rightster.com ( **our sites** ) you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Rightster Limited of 1 Neal Street, London, England WC2H 9QL. 
 
