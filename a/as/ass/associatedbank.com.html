@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905061322id_/https%3A//www.associatedbank.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2016-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316102316id_/https%3A//www.associatedbank.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=9;IE=10">
 <meta charset="utf-8">
-<title></title>
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Privacy</title>
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="Associated Bank Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<link rel="canonical" ref="https://www.associatedbank.com:443/privacy">
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-<meta id="ogImage" property="og:image" content="">
+<meta id="ogImage" property="og:image" content="https://www.associatedbank.com:443/content/image/AssociatedbankLogo?blobnocache=false">
+<meta name="twitter:image" content="https://www.associatedbank.com:443/content/image/AssociatedbankLogo?blobnocache=false">
+<meta property="og:description" content="">
 <style type="text/css">
 .greenfix{
 max-height:71px;
@@ -23,7 +27,7 @@ margin-right:40px !important;
 margin-right:55px !important;
 }
 </style>
-<script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 var ua = navigator.userAgent;
 var tridentVer = 0;
 if (ua.indexOf("Trident") != -1) {
@@ -60,17 +64,187 @@ window.location.href("/cs/Satellite?pagename=AssociatedBank%2FIELowerVersionPage
 <script src="/AB/bower_components/jquery-placeholder/jquery.placeholder.js"></script>
 <script src="/AB/bower_components/typeahead.js/dist/typeahead.jquery.min.js"></script>
 <script src="/AB/bower_components/slick-carousel/slick/slick.min.js"></script>
-<style type="text/css">
-.ui-widget-header {
-border: 1px solid #008000 !important;
-border-top-color:solid #008000 !important;
-border-right-color:solid #008000 !important;
-border-left-color:solid #008000 !important;
-border-bottom-color:solid #008000 !important;
+<style>
+.ab-phone#pages_pages_product_detail_large #tempFix .slick-slide{width:100% !important;}
+.ab-phone#pages_pages_product_detail_large #tempFix .ab-module-q-tall{margin-right:0px;}
+.ab-phone .ab-share-container,
+.ab-phone.ab-account-fix .curr_depo_fix{margin-right:0px !important;}
+@media screen and (max-width:750px){
+#dlgbox1{
+width:290px;
+left:5%;
+top:20%;
+}
+}
+@media screen and (min-width:750px){
+#dlgbox1{
+width:480px;
+left:30%;
+top:32%;
+}
+}
+#white-background{
+display:none;
+width:100%;
+height:100%;
+position:fixed;
+top:0px;
+left:0px;
+background-color:#fefefe;
+opacity:0.7;
+z-index:9999;
+}
+#dlgbox{
+display:none;
+width:480px;
+position:fixed;
+background-color:beige;
+z-index:9999;
+}
+#dlgbox1{
+display:none;
+/*width:480px;*/
+position:fixed;
+background-color:beige;
+z-index:9999;
+}
+#dlg-header{
+/*background-color: #6d8d64; */
+color: black;
+font-size: 20px;
+padding: 10px;
+margin: 10px 10px 10px 10px;
+border-bottom: 1px solid;
+}
+#dlg-bodymwc{
+/*background-color:white;*/
+color:black;
+font-size:14px;
+padding:10px;
+margin:0px 0px 0px 10px;
+}
+#dlg-bodymnc{
+/*background-color:white;*/
+color:black;
+font-size:14px;
+padding:10px;
+margin:0px 0px 0px 10px;
+}
+#dlg-footer{
+/*background-color:#f2f2f2;*/
+text-align:center;
+padding:10px;
+margin:0px 10px 10px 10px;
+}
+#dlg-footer button{
+background-color: green;
+color: white;
+/* padding: 5px; */
+border: 0px;
+/*margin-right: 215px;*/
+}
+#close{
+/* float: right; */
+border-radius: 0.5em;
+background-color: green;
+color: white;
+margin-right: 15px;
 }
 </style>
+</head><body id="pages_pages_resource_center_filtered"><div id="white-background"></div>
+<div id="dlgbox">
+<div id="dlg-header">
+<button id="close" onclick="dlgCross()">x</button>
+Important Message
+</div>
+<div id="dlg-bodymwc"></div>
+<div id="dlg-footer">
+<button onclick="dlglogin()" id="interceptOk1">OK</button>
+</div>
+</div>
+<div id="dlgbox1">
+<div id="dlg-header">
+<button id="close" onclick="dlgCross()">x</button>
+Important Message</div>
+<div id="dlg-bodymnc"></div>
+<div id="dlg-footer">
+<button onclick="dlglogin1()" id="interceptOk">OK</button>
+</div>
+</div>
+<!-- Intercept Message starts -->
+<script>
+function messageWithContinue(msg){
+showDialogmwc();
+document.getElementById('dlg-bodymwc').innerHTML=msg;
+}
+function messageNoContinue(msg){
+showDialogmnc();
+document.getElementById('dlg-bodymnc').innerHTML=msg;
+}
+</script>
+<script>
+function dlgCross1(){
+document.getElementById('dlgbox1').style.display='none';
+document.getElementById('dlgbox').style.display='none';
+document.getElementById('white-background').style.display='none';
+if (document.getElementById('userid')) {
+var input = document.getElementById('userid');
+input.value = "";
+}
+}
+</script>
+<script>
+function dlglogin(){
+var whitebg=document.getElementById('white-background');
+var dlg=document.getElementById('dlgbox');
+whitebg.style.display="none";
+dlg.style.display="none";
+$("#login1").submit();
+}
+function dlglogin1(){
+var whitebg=document.getElementById('white-background');
+var dlg=document.getElementById('dlgbox1');
+whitebg.style.display="none";
+dlg.style.display="none";
+//$("#login1").submit();
+dlgCross();
+}
+function dlgCross(){
+document.getElementById('dlgbox').style.display='none';
+document.getElementById('dlgbox1').style.display='none';
+document.getElementById('white-background').style.display='none';
+if (document.getElementById('userid')) {
+var input = document.getElementById('userid');
+input.value = "";
+}
+}
+function showDialogmwc(){
+var whitebg=document.getElementById('white-background');
+var dlg=document.getElementById('dlgbox');
+whitebg.style.display="block";
+dlg.style.display="block";
+var winWidth=window.innerWidth;
+var winHeight=window.innerHeight;
+dlg.style.left= (winWidth/2) - 480/2 + "px";
+dlg.style.top="150px";
+$('#interceptOk1').focus();
+}
+function showDialogmnc(){
+var whitebg=document.getElementById('white-background');
+var dlg=document.getElementById('dlgbox1');
+whitebg.style.display="block";
+dlg.style.display="block";
+var winWidth=window.innerWidth;
+var winHeight=window.innerHeight;
+$('#interceptOk').focus();
+//dlg.style.left= (winWidth/2) - 480/2 + "px";
+//dlg.style.top="150px";
+}
+</script>
+<!-- Intercept Message ends... -->
 <!-- AB Source JS -->
-<script>var AB = {};</script>
+<script>var AB = {};
+</script>
 <script type="text/javascript" src="https://www.associatedbank.com:443/ABMedia/JavaScript/phone.js?blobheader=text/javascript&amp;blobnocache=false"></script>
 <script type="text/javascript" src="https://www.associatedbank.com:443/ABMedia/JavaScript/tablet.js?blobheader=text/javascript&amp;blobnocache=false"></script>
 <script type="text/javascript" src="https://www.associatedbank.com:443/ABMedia/JavaScript/desktop.js?blobheader=text/javascript&amp;blobnocache=false"></script>
@@ -148,10 +322,10 @@ window.open("https://webchat.associatedbank.com/?csk=WC_VST_Proactive_Chat_sk&cb
 }
 </script>
 <!-- Current server datetime -->
-<script>var day = 7;</script>
-<script>var hour = 1;</script>
+<script>var day = 4;</script>
+<script>var hour = 5;</script>
 <!-- Current server Year -->
-<script>var year = 2015;</script>
+<script>var year = 2016;</script>
 <script type="text/javascript" src="https://www.associatedbank.com:443/ABMedia/JavaScript/zipcode.js?blobheader=text/javascript&amp;blobnocache=false"></script>
 <script type="text/javascript">
 var canAccessPage = false;
@@ -415,15 +589,16 @@ s.parentNode.insertBefore(b, s);
 .ab-tablet#pages_pages_resource_center_filtered .ab-tablet-wd video {width:100% !important; margin:auto;}
 .ab-phone#pages_pages_resource_center_filtered .ab-tablet-wd video {width:100% !important; margin:auto;}
 </style>
-</head>
-<body id="pages_pages_resource_center_filtered">
+
+
+<h1 class="ab-head-hidden-tag"> Privacy</h1>
 <div class="ab-header" style="padding-right:3px;">
 <div class="ab-inner-container">
 <div class="pure-g">
 <div class="pure-u-1-2 pure-u-md-1-3">
 <a href="/cs/AB/index.html" class="ab-icon ab-icon-menu ab-hide-desktop ab-hide-tablet ab-logo-custom"></a>
 <a href="/cs/AB/index.html" class="ab-hide-phone-nav ab-logo-custom">
-<img class="ab-logo" src="/AB/images/logo.png">
+<img class="ab-logo" src="/AB/images/logo.png" alt="AB-Logo">
 </a>
 </div>
 <div class="pure-u-1-2 pure-u-md-2-3 ab-hide-phone-nav">
@@ -494,7 +669,7 @@ s.parentNode.insertBefore(b, s);
 <div class="pure-u-2-3" style="float: left;">
 <div style="padding-right: 10px;">
 <label style=" display:none" for="userid">User ID</label>
-<input class="ab-signin-input ab-stretch" id="userid" placeholder="User ID" style="visibility: visible; line-height:100%; vertical-align:middle;" type="text" aria-labelledby="User ID"> </div>
+<input class="ab-signin-input ab-stretch" id="userid" placeholder="User ID" style="visibility: visible; line-height:100%; vertical-align:middle;" type="text" aria-labelledby="User ID" maxlength="32"> </div>
 </div>
 <div class="pure-u-1-3 ab-align-c">
 <button class="ab-stretch pure-button ab-sign-in-submit sign-btn-fix" id="button-signin" title="Sign In" onclick="Validation_Signin(); return false;" style="padding: 0px; min-width: 80px;">Sign In</button>
@@ -503,7 +678,7 @@ s.parentNode.insertBefore(b, s);
 </div>
 <div class="ab-signin-body" id="ab-signin-body1" style="height:115px;">
 <label class="ab-signin-label" for="business">Go To:</label>
-<select class="leavingAlert ab-linkab-stretch" id="business">
+<select class="leavingAlert ab-stretch ab-linkab-stretch" id="business">
 <option value="OB">Online Banking</option>
 <option value="AC">Associated Connect</option>
 <option value="RP">Retirement Plans</option>
@@ -631,7 +806,7 @@ Home
 </a>
 </li>
 <li class="ab-main-nav-item">
-<a class="ab-link ab-main-nav-link" href="https://www.associatedbank.com:443/personal">Personal</a>
+<a class="ab-link ab-main-nav-link" id="topNav" href="https://www.associatedbank.com:443/personal">Personal</a>
 <span class="ab-arrow-top-navigation">&nbsp;</span>
 <div class="ab-secondary-nav-container ab-semibold">
 <ul class="ab-secondary-nav" style="padding-left: 83.1167px;">
@@ -639,44 +814,23 @@ Home
 <a href="#" class="ab-link ab-secondary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/personal/personal-checking">Checking</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/personal-checking">Checking</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/checking/all-checking-accounts/advantage-checking">Associated Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/personal-checking/checking-comparison-chart">Checking Comparison Chart</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/checking/all-checking-accounts/platinum-advantage-checking">Associated Elite Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/checking/all-checking-accounts/advantage-checking">Associated Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/bank/credit-debit-gift-cards/personal-debit-cards">Debit Cards</a>
-<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quaternary-nav">
-<li class="ab-quaternary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/packers">Packers Debit MasterCard®</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/badgers">Badgers™ Debit MasterCard® </a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/brewers">Brewers™ Debit MasterCard® </a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-credit/MasterPass">MasterPass</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/bank/credit-debit-gift-cards/personal-debit-cards/travel-notification">Travel Notification</a>
-</li>
-</ul>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/checking/all-checking-accounts/platinum-advantage-checking">Associated Elite Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/checking/personal-checking-benefits">Checking Benefits</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/checking/personal-checking-benefits">Checking Benefits</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -705,23 +859,23 @@ Home
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/savings-accounts">Savings &amp; Investing</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/savings-and-investing/savings-accounts">Savings</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/save/savings-accounts/basic-savings-accounts">Associated Savings</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/save/savings-accounts/basic-savings-accounts">Associated Savings</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/save/savings-accounts/minor-savings-account">Minor Savings</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/save/savings-accounts/minor-savings-account">Minor Savings</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/all-money-market-accounts/associated-advantage-money-market">Associated Advantage Money Market</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/savings-and-investing/all-money-market-accounts/associated-advantage-money-market">Associated Advantage Money Market</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/certificate-of-deposit">Certificates of Deposit</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/savings-and-investing/certificate-of-deposit">Certificates of Deposit</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -754,6 +908,9 @@ Home
 </li>
 <li class="ab-quinary-nav-item" id="quinaryFix">
 <a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/certificate-of-deposit/fixed-rate-certificate-of-deposit/36-month-cd">36 Month CD</a>
+</li>
+<li class="ab-quinary-nav-item" id="quinaryFix">
+<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/certificate-of-deposit/fixed-rate-certificate-of-deposit/30-month-cd">30 Month CD</a>
 </li>
 <li class="ab-quinary-nav-item" id="quinaryFix">
 <a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/certificate-of-deposit/fixed-rate-certificate-of-deposit/48-month-cd">48 Month CD</a>
@@ -796,7 +953,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/savings-and-investing/health-savings-accounts">Health Savings Accounts</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/savings-and-investing/health-savings-accounts">Health Savings Accounts</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -817,7 +974,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/savings-and-investing/retirement-savings-accounts">Retirement Savings Accounts</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/savings-and-investing/retirement-savings-accounts">Retirement Savings Accounts</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -885,29 +1042,17 @@ Home
 </li>
 </ul>
 </li>
-<li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/invest/associated-investment-services-online">Associated Investment Services Online</a>
-<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quaternary-nav">
-<li class="ab-quaternary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/invest/associated-investment-services-online/disclosures">Additional Disclosure Information </a>
-</li>
-</ul>
-</li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards">Lending &amp; Cards</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/lending-and-cards">Lending</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/mortgage-options">Mortgage Options</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/lending-and-cards/mortgage-options">Mortgage Options</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -944,37 +1089,19 @@ Home
 <a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/mortgages/mortgage-purchase/jumbo-mortgage-loans">Jumbo Mortgage Loans</a>
 </li>
 <li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/mortgages/mortgage-purchase/signature-mortgage">Signature Mortgage</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
 <a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/mortgage-options/assist-program">ASSIST Program</a>
 </li>
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/credit-gift-cards/credit-cards">Credit Cards</a>
-<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quaternary-nav">
-<li class="ab-quaternary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/credit-cards/credit-card-comparison-chart">Credit Card Comparison</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/credit-and-gift-cards/gift-cards">MasterCard® Gift Card </a>
-</li>
-</ul>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/lending-and-cards/loans-and-lines-of-credit/home-equity-lines-of-credit">Home Equity Line of Credit</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/loans-and-lines-of-credit">Loans &amp; Lines of Credit</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/lending-and-cards/loans-and-lines-of-credit">Other Loans</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/loans-and-lines-of-credit/home-equity-lines-of-credit">Home Equity Lines of Credit</a>
 </li>
 <li class="ab-quaternary-nav-item" id="quaternaryFix">
 <a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/loans-and-lines-of-credit/personal-loans">Personal Loans</a>
@@ -987,14 +1114,92 @@ Home
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking">Online &amp; Mobile Banking</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/cards-and-payments">Cards &amp; Payments</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/online-banking-and-bill-pay">Online Banking &amp; Bill Pay</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/lending-and-cards/credit-and-gift-cards">Credit Cards</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/credit-cards/credit-card-comparison-chart">Credit Card Comparison</a>
+</li>
+</ul>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/bank/credit-debit-gift-cards/personal-debit-cards">Debit Cards</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/packers">Packers Debit MasterCard®</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/wild">Wild™ Debit MasterCard® </a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/badgers">"Let's Go Red" Debit MasterCard® </a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/checking/debit-cards/brewers">Brewers™ Debit MasterCard® </a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-cards/credit-and-gift-cards/gift-cards">MasterCard® Gift Card </a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/bank/credit-debit-gift-cards/personal-debit-cards/travel-notification">Travel Notification</a>
+</li>
+</ul>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/cards-and-payments/digital-payments">Digital Payments</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/mobile-and-text-banking/apple-pay">Apple Pay™</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/cards-and-payments/digital-payments/samsung-pay">Samsung Pay</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/lending-and-credit/MasterPass">MasterPass</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/ChipCard">EMV Chip Cards</a>
+<span class="ab-arrow-quaternary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quinary-nav">
+<li class="ab-quinary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quinary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quinary-nav-item" id="quinaryFix">
+<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/ChipCard/faq">Chip Card FAQ</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="ab-secondary-nav-item" id="secondaryFix2">
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking">Online &amp; Mobile Banking</a>
+<span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-tertiary-nav">
+<li class="ab-tertiary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/online-banking-and-bill-pay">Online Banking &amp; Bill Pay</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1024,7 +1229,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/mobile-banking">Mobile &amp; Text Banking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/mobile-banking">Mobile &amp; Text Banking</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1046,30 +1251,27 @@ Home
 <a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/mobile-and-text-banking/deposit-checks">Deposit Checks</a>
 </li>
 <li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/mobile-and-text-banking/apple-pay">Apple Pay™</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
 <a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/bank/mobile-banking/comparison-chart">Associated Mobile Banking Comparison Chart</a>
 </li>
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/online-security-guarantee">Online &amp; Mobile Banking Security Guarantee</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/online-security-guarantee">Online &amp; Mobile Banking Security Guarantee</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/online-banking-and-bill-pay/frequently-asked-questions">Frequently Asked Questions</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/online-and-mobile-banking/online-banking-and-bill-pay/frequently-asked-questions">Frequently Asked Questions</a>
 </li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/personal/insurance">Insurance</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/insurance">Insurance</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/insurance/life-insurance">Life Insurance</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/insurance/life-insurance">Life Insurance</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1084,16 +1286,16 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/insurance/long-term-care-and-disability-insurance">Long-Term Care</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/insurance/long-term-care-and-disability-insurance">Long-Term Care</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/insurance/life-insurance/mortgage-credit-insurance">Mortgage Credit Insurance</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/insurance/life-insurance/mortgage-credit-insurance">Mortgage Credit Insurance</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/insurance/health-insurance">Health Insurance</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/insurance/health-insurance">Health Insurance</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/insurance/home-insurance">Property and Casualty Insurance</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/insurance/home-insurance">Property and Casualty Insurance</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1107,17 +1309,29 @@ Home
 </li>
 </ul>
 </li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/invest/associated-investment-services-online">Associated Investment Services Online</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/personal/invest/associated-investment-services-online/disclosures">Additional Disclosure Information </a>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/personal/private-client-services/our-services">Private Client</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/personal/private-client-services/our-services">Private Client</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/private-client-services/private-banking">Private Banking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/private-client-services/private-banking">Private Banking</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1129,16 +1343,16 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/private-client-services/investment-management">Investment Management</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/private-client-services/investment-management">Investment Management</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/private-client/trust-and-estate-planning">Trust and Estate Planning</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/private-client/trust-and-estate-planning">Trust and Estate Planning</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/private-client-services/risk-management">Risk Management</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/private-client-services/risk-management">Risk Management</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/personal/private-client-services/professional-service-firms">Professional Service Firms</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/personal/private-client-services/professional-service-firms">Professional Service Firms</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1158,7 +1372,7 @@ Home
 </div>
 </li>
 <li class="ab-main-nav-item">
-<a class="ab-link ab-main-nav-link" href="https://www.associatedbank.com:443/business">Business</a>
+<a class="ab-link ab-main-nav-link" id="topNav" href="https://www.associatedbank.com:443/business">Business</a>
 <span class="ab-arrow-top-navigation">&nbsp;</span>
 <div class="ab-secondary-nav-container ab-semibold">
 <ul class="ab-secondary-nav" style="padding-left: 83.1167px;">
@@ -1166,77 +1380,77 @@ Home
 <a href="#" class="ab-link ab-secondary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/business/business-checking-accounts">Business Checking </a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/business/business-checking-accounts">Business Checking </a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/business-checking/business-checking-comparison-chart">Business Checking Comparison Chart</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/business-checking/business-checking-comparison-chart">Business Checking Comparison Chart</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-choice-max-checking">Business Relationship Max Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-choice-max-checking">Business Relationship Max Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-choice-plus-checking">Business Relationship Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-choice-plus-checking">Business Relationship Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-choice-checking">Business Basic Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-choice-checking">Business Basic Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/business-checking/community-public-funds-choice-max-checking">Community / Public Funds Choice Max Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/business-checking/community-public-funds-choice-max-checking">Community / Public Funds Choice Max Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/nonprofit-checking-accounts/public-funds-choice-plus">Community / Public Funds Choice Plus Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/nonprofit-checking-accounts/public-funds-choice-plus">Community / Public Funds Choice Plus Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-analyzed-checking">Business Analyzed Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/business-analyzed-checking">Business Analyzed Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/specialty-checking-accounts">Specialty Checking Accounts: IOLTA &amp; IBRETA</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/specialty-checking-accounts">Specialty Checking Accounts: IOLTA &amp; IBRETA</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/estate-choice-checking">Estate Choice Checking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/estate-choice-checking">Estate Choice Checking</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/business-credit-cards-debit-cards-gift-cards/business-debit-cards">Business Debit Cards</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/business-credit-cards-debit-cards-gift-cards/business-debit-cards">Business Debit Cards</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/overdraft-protection-transfer-service">Overdraft Protection Transfer Service</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/checking-accounts/overdraft-protection-transfer-service">Overdraft Protection Transfer Service</a>
 </li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/business/save-and-invest">Save &amp; Invest</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/business/save-and-invest">Save &amp; Invest</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/save-and-invest/certificates-of-deposit">Certificates of Deposit</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/save-and-invest/certificates-of-deposit">Certificates of Deposit</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/save-and-invest/business-savings-accounts">Savings Accounts</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/save-and-invest/business-savings-accounts">Savings Accounts</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/banking-essentials/save-and-invest/business-money-market-account">Money Market Accounts</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/banking-essentials/save-and-invest/business-money-market-account">Money Market Accounts</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/save-and-invest/investment-services">Investment Services</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/save-and-invest/investment-services">Investment Services</a>
 </li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/business/cash-management">Cash Management</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/business/cash-management">Cash Management</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/cash-management/business-online-banking">Business Online Banking</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/cash-management/business-online-banking">Business Online Banking</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1248,7 +1462,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/cash-management/receivables">Receivables</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/cash-management/receivables">Receivables</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1269,7 +1483,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/cash-management/payables">Payables</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/cash-management/payables">Payables</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1293,7 +1507,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/cash-management/information-management">Information Management</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/cash-management/information-management">Information Management</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1314,7 +1528,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/cash-management/fraud-control">Fraud Control</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/cash-management/fraud-control">Fraud Control</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1331,23 +1545,23 @@ Home
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/business/credit-and-lending">Credit &amp; Lending</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/business/credit-and-lending">Credit &amp; Lending</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/credit-and-lending/business-credit-debit-and-gift-cards/business-credit-cards">Business Credit Cards</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/credit-and-lending/business-credit-debit-and-gift-cards/business-credit-cards">Business Credit Cards</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/credit-and-lending/bulk-gift-cards">Bulk Gift Cards</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/credit-and-lending/bulk-gift-cards">Bulk Gift Cards</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/finance-solutions/business-lines-of-credit">Lines of Credit</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/finance-solutions/business-lines-of-credit">Lines of Credit</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business/finance-solutions/government-guaranteed-loans">Government Guaranteed Loans</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business/finance-solutions/government-guaranteed-loans">Government Guaranteed Loans</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1385,14 +1599,14 @@ Home
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/business/insurance">Insurance</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/business/insurance">Insurance</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/business-insurance">Business Insurance</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/business-insurance">Business Insurance</a>
 </li>
 </ul>
 </li>
@@ -1400,7 +1614,7 @@ Home
 </div>
 </li>
 <li class="ab-main-nav-item">
-<a class="ab-link ab-main-nav-link" href="https://www.associatedbank.com:443/commercial">Commercial</a>
+<a class="ab-link ab-main-nav-link" id="topNav" href="https://www.associatedbank.com:443/commercial">Commercial</a>
 <span class="ab-arrow-top-navigation">&nbsp;</span>
 <div class="ab-secondary-nav-container ab-semibold">
 <ul class="ab-secondary-nav" style="padding-left: 83.1167px;">
@@ -1408,14 +1622,14 @@ Home
 <a href="#" class="ab-link ab-secondary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/commercial/treasury-management">Treasury Management</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/commercial/treasury-management">Treasury Management</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/treasury-management/receivables">Receivables</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/treasury-management/receivables">Receivables</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1448,7 +1662,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/treasury-management/payables">Payables</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/treasury-management/payables">Payables</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1490,7 +1704,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/treasury-management/information-and-control">Information &amp; Control</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/treasury-management/information-and-control">Information &amp; Control</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1537,83 +1751,14 @@ Home
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/customized-lending-solutions">Financing</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/customized-lending-solutions">Financing</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing">Specialized Financing</a>
-<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quaternary-nav">
-<li class="ab-quaternary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/financial-institutions">Financial Institutions</a>
-<span class="ab-arrow-quaternary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quinary-nav">
-<li class="ab-quinary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quinary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quinary-nav-item" id="quinaryFix">
-<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/financial-institutions/operational-services">Operational Services</a>
-</li>
-<li class="ab-quinary-nav-item" id="quinaryFix">
-<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/financial-institutions/lending-solutions">Lending Solutions</a>
-</li>
-</ul>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/insurance">Insurance</a>
-<span class="ab-arrow-quaternary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quinary-nav">
-<li class="ab-quinary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quinary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quinary-nav-item" id="quinaryFix">
-<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/insurance/clients">Our Clients</a>
-</li>
-<li class="ab-quinary-nav-item" id="quinaryFix">
-<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/insurance/resources">Resources</a>
-</li>
-</ul>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/healthcare">Healthcare</a>
-<span class="ab-arrow-quaternary ab-arrow-navigation">&nbsp;</span>
-<ul class="ab-quinary-nav">
-<li class="ab-quinary-nav-item ab-item-back">
-<a href="#" class="ab-link ab-quinary-nav-link ab-link-back">Back</a>
-</li>
-<li class="ab-quinary-nav-item" id="quinaryFix">
-<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/healthcare/clients">Our Clients</a>
-</li>
-<li class="ab-quinary-nav-item" id="quinaryFix">
-<a class="ab-link ab-quinary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/healthcare/resources">Healthcare Resources</a>
-</li>
-</ul>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/public-funds">Public Funds</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/power-and-utilities">Power &amp; Utilities</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/professional-services">Professional Services</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/oil-and-gas">Oil and Gas</a>
-</li>
-<li class="ab-quaternary-nav-item" id="quaternaryFix">
-<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/specialized-financing-contacts">Specialized Financing Contact Us</a>
-</li>
-</ul>
-</li>
-<li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/commercial-real-estate-services">Commercial Real Estate Solutions</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/commercial-real-estate-services">Commercial Real Estate Solutions</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1625,7 +1770,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/asset-based-lending">Asset-Based Lending</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/asset-based-lending">Asset-Based Lending</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1640,7 +1785,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/equipment-lease-financing">Equipment Lease Financing</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/equipment-lease-financing">Equipment Lease Financing</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1658,22 +1803,91 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/employee-stock-ownership-plan-lending">Employee Stock Ownership Plan (ESOP) Lending</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/employee-stock-ownership-plan-lending">Employee Stock Ownership Plan (ESOP) Lending</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/trade-financing">Trade Financing</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/trade-financing">Trade Financing</a>
 </li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/commercial/employee-benefits">Employee Benefits</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing">Specialized Industries</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/employee-benefits/health-and-voluntary">Health &amp; Voluntary</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/financial-institutions">Financial Institutions</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/financial-institutions/operational-services">Operational Services</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/financial-institutions/lending-solutions">Lending Solutions</a>
+</li>
+</ul>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/insurance">Insurance</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/insurance/clients">Our Clients</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/insurance/resources">Resources</a>
+</li>
+</ul>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/healthcare">Healthcare</a>
+<span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-quaternary-nav">
+<li class="ab-quaternary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-quaternary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/healthcare/clients">Our Clients</a>
+</li>
+<li class="ab-quaternary-nav-item" id="quaternaryFix">
+<a class="ab-link ab-quaternary-nav-link" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/healthcare/resources">Healthcare Resources</a>
+</li>
+</ul>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/public-funds">Government Banking</a>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/power-and-utilities">Power &amp; Utilities</a>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/professional-services">Professional Services</a>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/industry-financing-solutions/oil-and-gas">Oil and Gas</a>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/financing/specialized-financing/specialized-financing-contacts">Specialized Industries Contacts</a>
+</li>
+</ul>
+</li>
+<li class="ab-secondary-nav-item" id="secondaryFix2">
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/commercial/employee-benefits">Employee Benefits</a>
+<span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
+<ul class="ab-tertiary-nav">
+<li class="ab-tertiary-nav-item ab-item-back">
+<a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
+</li>
+<li class="ab-tertiary-nav-item" id="tertiaryFix">
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/employee-benefits/health-and-voluntary">Health &amp; Voluntary</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1724,7 +1938,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/employee-benefits/human-resources">Human Resources</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/employee-benefits/human-resources">Human Resources</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1745,7 +1959,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/employee-benefits/retirement-plans">Retirement Plans</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/employee-benefits/retirement-plans">Retirement Plans</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1763,10 +1977,10 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/executive-wealth-management">Executive Wealth Management</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/executive-wealth-management">Executive Wealth Management</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/employee-benefits/payroll-services">Payroll Services</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/employee-benefits/payroll-services">Payroll Services</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1783,14 +1997,14 @@ Home
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/commercial/capital-markets">Capital Markets</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/commercial/capital-markets">Capital Markets</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/capital-markets/foreign-exchange">Foreign Exchange</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/capital-markets/foreign-exchange">Foreign Exchange</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1802,7 +2016,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/capital-markets/interest-rate-derivatives">Interest Rate Derivatives</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/capital-markets/interest-rate-derivatives">Interest Rate Derivatives</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1826,7 +2040,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/capital-markets/international-banking-services">International Banking Services</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/capital-markets/international-banking-services">International Banking Services</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1856,22 +2070,22 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/capital-markets/loan-syndications">Loan Syndications</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/capital-markets/loan-syndications">Loan Syndications</a>
 </li>
 </ul>
 </li>
 <li class="ab-secondary-nav-item" id="secondaryFix2">
-<a class="ab-link ab-secondary-nav-link" href="https://www.associatedbank.com:443/commercial/trust-and-investing">Trust &amp; Investing</a>
+<a class="ab-link ab-secondary-nav-link" id="secondaryNav" href="https://www.associatedbank.com:443/commercial/trust-and-investing">Trust &amp; Investing</a>
 <span class="ab-arrow-secondary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-tertiary-nav">
 <li class="ab-tertiary-nav-item ab-item-back">
 <a href="#" class="ab-link ab-tertiary-nav-link ab-link-back">Back</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/corporate-trust-and-institutional-investing/asset-management">Institutional Asset Management</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/corporate-trust-and-institutional-investing/asset-management">Institutional Asset Management</a>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/trust-and-investing/corporate-trust-services">Corporate Trust Services</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/trust-and-investing/corporate-trust-services">Corporate Trust Services</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1895,7 +2109,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/corporate-trust-and-institutional-investing/institutional-trust-and-custody-services">Institutional Trust Services</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/corporate-trust-and-institutional-investing/institutional-trust-and-custody-services">Institutional Trust Services</a>
 <span class="ab-arrow-tertiary ab-arrow-navigation">&nbsp;</span>
 <ul class="ab-quaternary-nav">
 <li class="ab-quaternary-nav-item ab-item-back">
@@ -1916,7 +2130,7 @@ Home
 </ul>
 </li>
 <li class="ab-tertiary-nav-item" id="tertiaryFix">
-<a class="ab-link ab-tertiary-nav-link" href="https://www.associatedbank.com:443/commercial/trust-and-investing/retirement-plan-services">Retirement Plan Services</a>
+<a class="ab-link ab-tertiary-nav-link" id="tertiaryNav" href="https://www.associatedbank.com:443/commercial/trust-and-investing/retirement-plan-services">Retirement Plan Services</a>
 </li>
 </ul>
 </li>
@@ -1940,18 +2154,23 @@ Search
 <div class="ab-share-container ab-align-c" style=" margin:10px 0px 10px 0px; border-top:1px solid #ccc;  border-bottom:1px solid #ccc;">
 </div>
 </div>
-<div class="pure-u-lg-1-5 ab-hide-phone ab-hide-tablet">
+<div class="pure-u-lg-1-5 ab-hide-phone ab-hide-tablet ab-share-left">
 <script>
 function changeUp(arg){
 var e = "#fix"+arg;
+console.log("e"+e);
 var element = $(e).next();
+console.log("element"+element);
 var el = $(element).next();
+console.log("el"+el);
 if( $(element).hasClass("ab-arrow-up")){
+console.log("in if"+element);
 $(element).removeClass("ab-arrow-up");
 $(element).addClass("ab-arrow-down");
 $(el).css("display","none");
 }
 else if($(element).hasClass("ab-arrow-down")){
+console.log("in else"+element);
 $(element).removeClass("ab-arrow-down");
 $(element).addClass("ab-arrow-up");
 $(el).css("display","block");
@@ -2395,18 +2614,38 @@ CONTACT US
 <a class="ab-icon ab-icon-social-youtube" href="window.location.href='http://www.youtube.com/user/AssociatedBankNA'">&nbsp;</a></li>
 <li class="ab-social-nav-item">
 <a class="ab-icon ab-icon-social-pinterest" href="window.location.href='http://www.pinterest.com/associatedbank'">&nbsp;</a></li>
+<li class="ab-social-nav-item">
+<a class="ab-icon ab-icon-social-instagram" href="window.location.href='https://www.instagram.com/associatedbank'">&nbsp;</a></li>
 </ul>
 <p class="ab-footer-text">
 Deposit and loan products are offered by Associated Bank, N.A., Member FDIC, Equal Opportunity Lender and Equal Housing Lender. Loans subject to credit review. Associated Banc-Corp and its affiliates do not give tax or legal advice. Consult with your tax and/or legal advisor for information specific to your situation.</p>
 <p class="ab-footer-text">
 Non-deposit investment products, insurance, and securities are NOT deposits or obligations of, insured or guaranteed by Associated Bank, N.A. or any bank or affiliate, are NOT insured by the FDIC or any agency of the United States, and involve INVESTMENT RISK, including POSSIBLE LOSS OF VALUE.</p>
 <p class="ab-footer-text">
-Associated Bank has over 200 locations throughout Illinois, Minnesota and Wisconsin. Find a location near you. Have a question? Contact Customer Care seven days a week, 24 hours a day, 365 days a year at 800-236-8866. Commercial Banking clients can call our dedicated customer care line at 800-728-3501.</p>
+Associated Bank has over 200 locations throughout Illinois, Minnesota and Wisconsin. Find a location near you. Have a question? Contact Customer Care seven days a week, 24 hours a day, 365 days a year at <a class="ab-link ab-hide-desktop ab-hide-tablet" href="tel:800-236-8866">800-236-8866</a><span class="ab-hide-phone">800-236-8866</span>. Commercial Banking clients can call our dedicated customer care line at <a class="ab-link ab-hide-desktop ab-hide-tablet" href="tel:800-728-3501">800-728-3501</a><span class="ab-hide-phone">800-728-3501</span>.</p>
 <p class="ab-footer-text">© <script type="text/javascript">
 document.write(new Date().getFullYear());
 </script>2020 Associated Banc-Corp All Rights Reserved.</p>
 </div>
 </div>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1482494618712942');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1482494618712942&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
 
 
+<!-- Intercept Message starts -->
+<script>
+var msgs=[];
+</script>
+<div id="innerHt"></div>
+<!-- Intercept Message ends -->
 </body></html>
