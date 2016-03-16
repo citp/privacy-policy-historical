@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slack.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115247id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slack.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316202238id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slack
 
@@ -18,7 +18,7 @@ If you read nothing else, please read this:
 
 You can see past versions of our Privacy Policy, Terms of Service and other policies in our [Policy Archive](https://web.archive.org/policy-archives).
 
-Updated: May 1, 2015
+Updated: November 3, 2015
 
 This privacy policy is here to help you understand what information we collect at Slack, how we use it, and what choices you have. When we talk about Slack in this policy, we are talking about Slack Technologies, Inc., the company, Slack, the downloadable application, and the Slack website at [www.slack.com](https://www.slack.com/). Slack is available for use via a web browser or applications specific to your desktop or mobile device. 
 
@@ -31,19 +31,20 @@ In this policy we talk about various roles within a Slack team and the privilege
 We collect different kinds of information. Some of it is personally identifiable and some is non-identifying or aggregated. Here are the types of information we collect or receive: 
 
   * **Team information.** When you create a team on Slack, we collect your email address (as the team owner), your team name, Slack domain (ex: your-team-name.slack.com), your user name that appears in your Slack team, and password. Optionally, you can provide an email domain to allow people on that domain to sign up for your team without an invitation or individually add email addresses for people you’d like to invite to your team. 
-  * **Account and profile information.** The only information we require to create your Slack account is an email address and password. Optional information you can enter into your profile includes information such as your first and last name, what you do, your Skype username, and your phone number. Any information you add to your profile is visible to other people on your team as described on your profile management page. 
-  * **Billing information.** We collect billing address and credit card information if you purchase a premium version of Slack. Credit card information is securely passed to our payment processing partner and is not stored at Slack. 
+  * **Account and profile information.** The only information we require to create your Slack account is an email address and password. Optional information you can enter into your profile includes information such as your first and last name, what you do, your Skype username, and your phone number. Your team owner(s)/administrator(s) may request you to provide additional information about yourself in your profile, and Slack has no control over such additional information collected. Any information you add to your profile is visible to other people on your team as described on your profile management page. 
+  * **Billing information.** If you purchase a premium version of Slack, our third party payment processors will collect and store your billing address and credit card information. 
   * **Log data.** When you use Slack, our servers automatically record information, including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web page you visited before coming to Slack, your browser type and settings, the date and time of your request, information about your browser configuration and plug-ins, language preferences, and cookie data. Log data does not contain message content and is not routinely deleted. 
   * **Device information.** In addition to log data, we may also collect information about the device you’re using Slack on, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. 
   * **Geo-location information.** Precise GPS from mobile devices is collected only with your permission. WiFi and IP addresses received from your browser or device may be used to determine approximate location. 
-  * **Slack usage information.** This is information about which teams, channels, groups, people, features, content, and links you interact with within Slack and what integrations with related services you use. 
+  * **Slack usage information.** This is information about which teams, channels, people, features, content, and links you interact with within Slack and what integrations with related services you use. 
   * **Service integrations.** If you [integrate with a service](https://web.archive.org/integrations) on Slack we will connect that service to ours. 
-    * Depending on team settings, team members may be able to add integrations to a channel, private group, or direct message conversation. Those integrations are viewable and editable by the administrator.
+    * Depending on team settings, team members may be able to add integrations to a channel or direct message conversation. Those integrations are viewable and maybe removable by the administrators, owners, or designated users.
     * We do not receive or store your passwords for any of these services.
-    * You can remove an integration at any time which unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from them and indexed within Slack. That content must be deleted manually.
+    * If you add an integration, the third party provider of the integration may share certain information about your account with Slack. Slack is not responsible for how teams may use and collect data through integrations.
+    * An integration can be removed at any time. Removing an integration unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from the integration and indexed within Slack. That content must be deleted manually.
   * **Communication content that you send and receive within Slack.** This includes: 
     * The message content itself. This content can include messages, pictures, files and video among other types of files.
-    * When messages or files were sent and by whom, when or if they were seen by you, and where you received them (in a channel, private group, or direct message, for example).
+    * When messages or files were sent and by whom, when or if they were seen by you, and where you received them (in a channel or direct message, for example).
   * **Information from partners or other 3rd parties.** Slack may receive information from partners or others that we could use to make our own information better or more useful. This might be aggregate level information about which IP addresses go with which zip codes or it might be more specific information about how well an online marketing or email campaign performed. 
 
 
@@ -54,7 +55,7 @@ Slack uses cookies, or similar technologies like single-pixel gifs and web beaco
 
 Cookies are small text files sent by us to your computer and from your computer to us, each time you visit our website. They are unique to your Slack account or your browser. Session-based cookies last only while your browser is open and are automatically deleted when you close your browser. Persistent cookies last until you or your browser delete them or until they expire. 
 
-Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Slack account but are unique and allow us to do site analytics and customization, among other things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Slack. 
+Some cookies are associated with your Slack account and personal information in order to remember that you are logged in and which teams you are logged into. Other cookies are not tied to your Slack account but are unique and allow us to do site analytics and customization, among other similar things. If you access Slack through your browser, you can manage your cookie settings there but if you disable all cookies you may not be able to use Slack. 
 
 Slack sets and accesses our own cookies on our company-owned domains. In addition, we use 3rd parties like Google Analytics and Mixpanel for website analytics. You may opt-out of third party cookies from [Google Analytics](https://tools.google.com/dlpage/gaoptout) and [Mixpanel](https://mixpanel.com/optout/) on their respective websites. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance. 
 
@@ -68,7 +69,7 @@ We use your information for the following:
   * **Communicating with you**
     * **Solving your problems and responding to your requests.** If you contact us with a problem or question, we will use your information to respond to that request and address your problems or concerns. 
     * **In-product communications.** We may use the information you provide to contact you through Slack using Slackbot or other in-product messaging tools. For example, if, after, a few weeks of using Slack we notice that your notification setting is set to notify you of all messages, we may send you a Slackbot message that suggests you change this in case you are getting too many notifications. This is just one example of how we use information about your usage of the product to make suggestions to you. 
-    * **Email messages.** We may send you service and administrative emails, such as when we notice that you are nearing a message or integration limit. We may also contact you to inform you about changes in our services, or our service offerings. These messages are considered part of the service and you may not opt-out of them. In addition, we sometimes send emails to Slack users about new product features or other news about Slack. You can opt-out of these at any time. 
+    * **Email messages.** We may send you service and administrative emails, such as when we notice that you are nearing a message or integration limit. We may also contact you to inform you about changes in our services, our service offerings and important service related notices, such as changes to this policy or security and fraud notices. These messages are considered part of the service and you may not opt-out of them. In addition, we sometimes send emails to Slack users about new product features or other news about Slack. You can opt-out of these at any time. 
 
 
 
@@ -86,17 +87,18 @@ Slack offers different options for message retention and export to team owners a
     * Please see our [FAQ](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-Privacy-Policy) for more specific information about what options exist for different team service levels. 
     * You can view your team’s message retention settings at any time via [Your Team Settings](https://my.slack.com/admin/settings). 
   * **Message Exports**
-    * Administrators of all teams, both free and premium, can export their team’s message content that is shared in channels. Message history for private groups and direct messages is not included in this. 
-    * Only owners for teams who have signed up for the appropriate level of Slack service and have enabled Compliance Exports can export their team’s private group messages and direct messages. 
+    * Administrators of all teams, both free and premium, can export their team’s messages and files that are shared in channels. Message history for private channels and direct messages is not included in this. 
+    * Only owners for teams who have signed up for the appropriate level of Slack service and have enabled Compliance Exports can export their team’s private channel's messages, private channel's shared files and direct messages. Compliance Exports may include message edit and deletion history. 
+    * For more information about your team's export options, please visit [Your Team Settings](https://my.slack.com/admin/settings)
 
 
 
 ### Choices for Team Members
 
   * If you are a member of a free team, you may deactivate your account. Deactivation of an account disables your access to the Slack team associated with that account but does not delete your profile or content, which are considered part of your team’s data. 
-  * Whether you can delete your message content depends on your [team’s settings](https://my.slack.com/account/team). In addition, a record of edits and deletions may be retained by your team, depending on the service level of your team and your team’s settings. Please see our [FAQ](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-Privacy-Policy) for more detail. 
+  * Whether you can delete your message content depends on your [team’s settings](https://slack.zendesk.com/hc/en-us/sections/200320067-Team-Settings). In addition, a record of edits and deletions may be retained by your team, depending on the service level of your team and your team’s settings. Please see our [FAQ](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-Privacy-Policy) for more detail. 
   * While you cannot completely delete a profile once it is created, you can update your profile information at any time and modify your email settings. You can also change your user name from time to time. 
-  * When you upload a document or a file on Slack, you can decide where to share it and with whom. You can also share documents with your entire team, or in private groups. You can also share them externally by creating a public link if you choose. [Files](https://my.slack.com/files) are not subject to message retention settings but can be deleted at any time by the person who uploaded the file or by team administrators. 
+  * When you upload a document or a file on Slack, you can decide where to share it and with whom. You can also share documents with your entire team or in a private channel. You can also share them externally by creating a public link if you choose. Files are not subject to message retention settings but can be deleted at any time by the person who uploaded the file or by team administrators. 
 
 
 
@@ -112,6 +114,7 @@ Slack offers different options for message retention and export to team owners a
 
   * The browser you use may provide you with the ability to control cookies or other types of local data storage. 
   * Your mobile device may provide you with choices around how and whether location or other data is shared with us. 
+  * Slack does not control these choices, or default settings, which are offered by makers of your browser or mobile device. 
 
 
 
@@ -120,18 +123,20 @@ Slack offers different options for message retention and export to team owners a
 There are times when communications and related content and other user information may be shared by Slack. This section discusses only how Slack may share user information. Organizations that use Slack may have their own policies for sharing and disclosure of information they can access through Slack. Slack may share information: 
 
   * **With consent, to comply with legal process, or to protect Slack and our users.** When we have your consent or if we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Slack; or to detect, prevent, or otherwise address fraud, security or technical issues. If we receive a law enforcement or other third party request for information we will provide prior notice to the subject of the request where we are legally permitted to do so. For more information on Slack’s policies for responding to requests for user data, please see our [User Data Request Policy](https://web.archive.org/user-data-request-policy). 
-  * **With third parties and agents.** We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at preventing unauthorized access or with an email vendor to send messages on our behalf. We may also share data with hosting providers, payment processors, marketing vendors, and other consultants who work on our behalf and under contractual promises of confidentiality. 
+  * **With third party service providers and agents.** We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at preventing unauthorized access or with an email vendor to send messages on our behalf. We may also share data with hosting providers, payment processors, marketing vendors, and other consultants who work on our behalf. 
+  * **Integrations.** If you add an integration, Slack may share information about you or your team with the provider of the integration. Slack is not responsible for how the provider of the integration may collect and use your data. 
   * **About you with your organization or team administrator(s).**
     * We may share your email address and team name with your organization. If the email address under which you've registered your account belongs to or is controlled by an organization (to be clear, we’re not talking about free web-based email providers like Gmail, Hotmail or Yahoo! Mail) we may disclose that email address and associated team names to that organization in order to help it understand who associated with that organization uses Slack, and to assist the organization with its enterprise accounts. Please do not use a work email address for our services unless you are authorized to do so, and are therefore comfortable with this kind of sharing. 
     * In addition, there may be times when you contact Slack to help resolve an issue specific to a team you are a member of. In order to help resolve the issue, we may need to share your concern with your administrator. When possible, we will try to mask or remove any identifying information before sharing these communications. 
-  * **In the event of a merger or sale.** If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy. 
-  * **That is aggregated and non-identifiable.** We may also share aggregated or non-personally identifiable information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data. 
+    * As described above in the Message Retention Settings and Export Option section, team owners and administrators have certain rights to export their team's messages and files. 
+    * If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of Slack's assets financing, acquisition of all or a portion of our business, or similar transaction or proceeding that involves the transfer of the information described in this Privacy Policy. 
+    * We may also share aggregated or de-identified information with our partners or others for business or research purposes. For example, we may tell a prospective Slack customer the average number of messages sent within a Slack team in a day or may partner with research firm or academics to explore interesting questions about workplace communications. Again, this policy is not intended to prohibit the disclosure and use of aggregated or de-identified data. 
 
 
 
 ### Security
 
-Slack takes reasonable steps to protect information you provide to us as part of your use of the Slack service from loss, misuse, and unauthorized access or disclosure. When you enter sensitive information (such as sign-in credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. However, no electronic or email transmission or digital storage mechanism is ever fully secure or error free. 
+Slack takes reasonable steps to protect information you provide to us as part of your use of the Slack service from loss, misuse, and unauthorized access or disclosure. These steps take into account the sensitivity of the information we collect, process and store and the current state of technology. When you enter sensitive information (such as sign-in credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. However, no electronic or email transmission or digital storage mechanism is ever fully secure or error free. 
 
 To learn more about current practices and policies regarding security and confidentiality, please see our [Security Practices](https://slack.com/security); we keep that document updated as these practices evolve over time. 
 
