@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caesarscasino.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231554id_/https%3A//www.caesarscasino.com/en/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caesarscasino.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316210548id_/https%3A//www.caesarscasino.com/en/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CaesarsCasino.com | Policies | Privacy Policy
 
 Corporate Privacy Policy  
 Special Provisions for CaesarsCasino.com  
