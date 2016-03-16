@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828123237id_/http%3A//www.thehomepage.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316055629id_/http%3A//www.thehomepage.com.au/page/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -185,9 +185,9 @@ Dog No. 7’s Privacy Officer’s contact details are:
 
 Address: Privacy Officer
 
-Unit 4, 37 Langridge Street,
+Level 1, 221 Drummond Street,
 
-COLLINGWOOD VIC 3006
+CARLTON VIC 3053
 
 Telephone: 1300 377 037
 
