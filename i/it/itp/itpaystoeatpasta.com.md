@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the itpaystoeatpasta.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913194858id_/http%3A//www.newworldpasta.com/pasta_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itpaystoeatpasta.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316074802id_/http%3A//www.newworldpasta.com/privacy-policy) for the most accurate reproduction.*
 
-# New World Pasta
+# Privacy Policy - New World Pasta
 
-##  Privacy Policy 
-
-### New World Pasta's Privacy Statement
+### New World Pasta’s Privacy Statement
 
 New World Pasta has created this privacy statement in order to demonstrate our firm commitment to privacy. Personal and demographic information gathered on this website remain confidential from any entities outside of New World Pasta and any New World Pasta affiliate with whom we have a Special Relationship as defined herein. The following discloses the information gathering and dissemination practices for New World Pasta.
 
@@ -30,7 +28,7 @@ This site contains links to other sites. New World Pasta is not responsible for 
 
 ### Special Relationships
 
-All of the consumer-specific information gathered through this site is the sole property of New World Pasta. Any third parties that have a business relationship with New World Pasta have signed an agreement that they shall keep the New World Pasta Information strictly confidential and secret, and and shall not divulge, communicate or transmit the New World Pasta Information to any other parties and shall not use, employ or exploit the New World Pasta Information in any commercial manner without New World Pasta's written consent.
+All of the consumer-specific information gathered through this site is the sole property of New World Pasta. Any third parties that have a business relationship with New World Pasta have signed an agreement that they shall keep the New World Pasta Information strictly confidential and secret, and and shall not divulge, communicate or transmit the New World Pasta Information to any other parties and shall not use, employ or exploit the New World Pasta Information in any commercial manner without New World Pasta’s written consent.
 
 ### Contacting the Web Site
 
