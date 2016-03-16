@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marvelheroes.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907004648id_/https%3A//marvelheroes.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelheroes.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316145810id_/http%3A//www.marvelheroes.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MarvelHeroes2015.com
+# Privacy Policy | MarvelHeroes2016.com
 
 **Effective as of: September 3, 2013**
 
