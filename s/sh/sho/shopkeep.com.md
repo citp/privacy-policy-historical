@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906133935id_/http%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316234109id_/http%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
 
 # iPad POS | Privacy Policy
 
@@ -72,4 +72,4 @@ Please contact us if you have any questions about our privacy policy or informat
 
 Alternatively, please feel free to write to us at (in the US) ShopKeep.com, Inc. 143 Varick Street, New York, NY 10013 or (in Europe) at ShopKeep.com Limited, 17A Ormeau Avenue, Belfast BT2 8HD Northern Ireland.
 
-DISCLAIMER: SHOPKEEP MAKES NOT REPRESENTATION OR WARRANTIES, EXPRESS OR IMPLIED WITH RESPECT TO ANY PRODUCTS OR SERVICES PAID FOR USING THE SHOPKEEP PLATFORM OR PURCHASED FROM SHOPKEEP AFFILIATED MERCHANTS. 
+DISCLAIMER: SHOPKEEP MAKES NOT REPRESENTATION OR WARRANTIES, EXPRESS OR IMPLIED WITH RESPECT TO ANY PRODUCTS OR SERVICES PAID FOR USING THE SHOPKEEP PLATFORM OR PURCHASED FROM SHOPKEEP AFFILIATED MERCHANTS.
