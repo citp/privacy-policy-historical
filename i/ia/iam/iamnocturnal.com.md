@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamnocturnal.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814011602id_/http%3A//iampowerful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamnocturnal.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316013745id_/http%3A//iampowerful.com/privacy) for the most accurate reproduction.*
 
-# I Am Powerful – Privacy Policy
+# Privacy Policy | Positive Affirmation Domain Names
 
 Positive Affirmation Domains, LLC dba IAmPowerful.com is committed to respecting the privacy and rights of our customers and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to ensure that none of your privacy rights are ever violated. Your information stays with us, will never be sold and is only used to better serve you in the future.
 
