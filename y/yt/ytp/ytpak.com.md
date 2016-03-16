@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytpak.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101172655id_/http%3A//www.ytpak.com/%3Fcomponent%3Darticles%26task%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytpak.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316174731id_/https%3A//www.ytpak.com/%3Fcomponent%3Darticles%26task%3Dprivacy_policy) for the most accurate reproduction.*
 
 # YTPak.com
 
