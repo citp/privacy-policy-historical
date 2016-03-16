@@ -1,330 +1,96 @@
-> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505104442id_/http%3A//www.comf5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316121212id_/https%3A//myalphaloop.com/static/privacy_and_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Alpha Loop - Privacy And Policy
 
-Privacy Policy
-   v.6 — 06-01-2011
+## ALPHALOOP - OUR COMMITMENT TO PRIVACY
 
+Thank you for visiting [www.myalphaloop.com](http://www.myalphaloop.com/ "MyAlphaLoop") or an authorized replicated AlphaLoop site (the “Site”). Your privacy is very important to us at Alphaloop, and we are committed to protecting and safeguarding your privacy. It is our policy to keep your personal information confidential. Please take a moment to read the following Policy to learn how we handle your personal information.
 
-	                	  
-At ComF5, LLC. ("comF5®" or "Service Provider"), we respect our Users'
-and Clients' right to privacy with regards to the use of their email and our
-Web sites. We have adopted a privacy policy ("Privacy Policy") that we
-hope provides the greatest possible privacy to our Users and Clients,
-assuming they are not using our services to conduct unlawful activities.
-Our Privacy Policy makes the following commitments:
-WE WILL NOT USE CLIENT OR USER INFORMATION FOR ANY
-PURPOSES OTHER THAN TO PROVIDE THE BEST POSSIBLE
-HOSTED EMAIL, EMAIL MARKETING, ON DEMAND STREAMING
-MEDIA AND RELATED SERVICES. MORE SPECIFICALLY, WE WILL
-NOT SHARE USER OR CLIENT INFORMATION WITH THIRD PARTIES
-IN WAYS OTHER THAN DISCLOSED IN THIS POLICY. ADDITIONALLY,
-WE WILL NOT EMPLOY TECHNOLOGY TO READ EMAIL MESSAGES
-IN ORDER TO TARGET, DISPLAY OR SEND MARKETING ADS BASED
-ON THE CONTENT OF THOSE EMAIL MESSAGES.
-This Privacy Policy discloses the types of personal information collected
-and stored by Service Provider and how that information is used to provide
-the email services and related sales and support services ("Email
-Services"). Client acknowledges and agrees to the collection and use of its
-personal information as set forth in this Privacy Policy.
-Website Information
-Service Provider collects statistical information about how people ("Users")
-locate and navigate its Web sites. This information, sent by normal Web
-browsers, usually includes the browser type, Internet Protocol (IP) address
-and referring URL. This information is used to improve the usefulness of
-the Web sites and to enhance the positioning of Web sites within Internet
-search engines. Users remain anonymous unless they voluntarily contact
-Service Provider by filling out an online form, at which point this data may
-be linked with Users in order to provide the best possible service.
-                                                                                 comF5®
-                                                        7469 W. Lake Mead Blvd. Suite 100
-                                                                    Las Vegas, NV 89128
-                                                                     Phone: 702.938.9300
-                                                                       Fax: 888.566.3314
-                                                                  Email: info@comF5.com
-                                                                   Web: www.comF5.com
+Alphaloop does not collect Personal Information about individuals who visit our site except when the information is specifically provided on a voluntary basis.
+
+##  INFORMATION WE COLLECT
+
+We may collect Personal Information (including name, address, telephone number, email address and, when necessary, credit card information) when you:
+
+  * Place an order from our Web site
+  * Return an item or make an exchange
+  * Inquire about our products and services
+  * Enroll as an Independent Alphaloop Representative
 
 
-	                	  
-Demonstration Email Accounts
-Web site Users may request a fully functional demo account by filling out
-an online form. This form requires a valid email address and phone
-number so that Service Provider can contact User by email or phone to
-confirm potential fit of the email solution and to provide User with the demo
-account password. Service Provider does not use submitted demo request
-form data for any purpose other than to contact Users regarding the demo.
-Contact Information
-When Users fill out an online form to contact Service Provider, Service
-Provider collects some personal information, including but not limited to
-name, company name, phone number, email address, and reason for
-contact. This information is used to respond to the customer's initial
-contact in a timely manner.
-Affiliate Information
-When Users fill out an online form to apply for the Service Provider's
-affiliate program, Service Provider collects some personal information,
-including but not limited to name, company name, title, phone number,
-address, email address and tax ID number. This information is used to
-help Service Provider determine whether or not Users qualify for entry into
-the program.
-Cookies
-A cookie is a small piece of information that a Web server can store
-temporarily with a Web browser. Cookies are useful for having a browser
-remember specific information that the Web server can later retrieve.
-When Users visit Service Provider owned Web sites, a cookie is set on
-their browser for the purpose of gathering statistical data about how the
-Service Provider Web sites are being used. The use of cookies improves
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
 
+In addition, you may voluntarily provide Personal Information (such as name, address, email address, and telephone number) to be forwarded to an Alphaloop Independent Representative for the purpose of contacting you with details regarding the Alphaloop opportunity, including contact by email. In this case, we will keep a record of the contact, including the Personal Information. We use this information to provide better service in the event that you contact us again.
 
-	                  	  
-the quality of the Web sites, however if Users prefer, they may configure
-their browser not to accept cookies. Web browsers that do not accept
-cookies will still be able to access some of the Service Provider sites.
-Cookies are tied to Users' personal information only when a purchase is
-made, a demo is requested, or a contact form is filled out.
-Third Party Cookies
-Some of the businesses we advertise with use cookies on our Web site to
-help us determine the effectiveness of our Web site content and
-advertising. We have no control over third party cookies. This Privacy
-Policy covers the use of cookies by comF5, and does not cover the use of
-cookies by any advertisers. The information that these companies collect
-and share through this technology is not personally identifiable. This sub-
-section on Third Party Cookies only applies to the Web Site Information
-section of this Privacy Policy and DOES NOT APPLY TO THE CLIENT
-ACCOUNT INFORMATION section. More specifically, we do not use Third
-Party Cookies when providing Email Services to Clients.
-Clear Gifs (a.k.a. Web Beacons/Web Bugs)
-Some of the businesses we advertise with employ a software technology
-called clear gifs (i.e. Web Beacons/Web Bugs) to help us determine the
-effectiveness of our Web site content and advertising. Clear gifs are tiny
-graphics with a unique identifier, similar in function to cookies, and are
-used to track the online movements of Users. In contrast to cookies, which
-are stored on Users' computer hard drives, clear gifs are embedded
-invisibly on Web pages and are about the size of the period at the end of
-this sentence. We do not tie the information gathered by clear gifs to our
-customers' personally identifiable information. This sub-section on Clear
-Gifs (a.k.a. Web Beacons/Web Bugs) only applies to the Web Site
-Information section of this Privacy Policy and DOES NOT APPLY TO THE
-CLIENT ACCOUNT INFORMATION section. More specifically, we do not
-use Clear Gifs (a.k.a. Web Beacons/Web Bugs) when providing Services
-to Clients.
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
+## ALPHALOOP INDEPENDENT REPRESENTATIVE (REPRESENTATIVE)
 
+When you decide to become an authorized Alphaloop Independent Representative, or when you register to shop online as a Customer, we will collect Personal Information (such as name, address, email address, telephone number, and in the case of Representatives, tax identification number). This Personal Information is securely stored. You will be assigned an identification number and you will select a password which will be necessary to gain entrance to the website and to access your Personal Information.
 
-	                 	  
-Choice/Opt-Out
-Prior to signing up for our services, we collect personally identifiable
-information when creating a demonstration account, when contacting our
-staff, when requesting customer support and when applying for our affiliate
-program. We only collect personally identifiable information that is
-voluntarily submitted via our online Web site forms. WE WILL ONLY
-CONTACT USERS WHEN A REQUEST FOR CONTACT OR A FULLY
-FUNCTIONAL DEMO ACCOUNT HAS BEEN MADE. Users have the
-option of opting out of future communications by informing the company
-representative that contacts them, by emailing support@comF5.com, or by
-postal mail at the address listed below.
-Client and User Account Information
-When people sign up and pay for Services ("Clients"), Service Provider
-collects some personal information, including but not limited to name,
-phone number, billing address, payment information and password. A
-secret question and answer may also be asked in order to verify the
-identity of Clients if their account password is lost.
-Information Safeguards
-WE WILL NOT USE CLIENT INFORMATION FOR ANY PURPOSES
-OTHER THAN TO PROVIDE THE BEST POSSIBLE HOSTED EMAIL,
-EMAIL MARKETING, ON DEMAND STREAMING MEDIA AND RELATED
-SERVICES. MORE SPECIFICALLY, WE WILL NOT SHARE CLIENT
-INFORMATION WITH THIRD PARTIES IN WAYS OTHER THAN
-DISCLOSED IN THIS POLICY. ADDITIONALLY, WE WILL NOT EMPLOY
-TECHNOLOGY TO READ EMAIL MESSAGES IN ORDER TO TARGET,
-DISPLAY OR SEND MARKETING ADS BASED ON THE CONTENT OF
-THOSE EMAIL MESSAGES.
-                                                                                comF5®
-                                                       7469 W. Lake Mead Blvd. Suite 100
-                                                                   Las Vegas, NV 89128
-                                                                    Phone: 702.938.9300
-                                                                      Fax: 888.566.3314
-                                                                 Email: info@comF5.com
-                                                                  Web: www.comF5.com
+We may also collect non-personally identifiable information from you when you visit the Site (e.g., your IP address, browser type, domain name, etc.). This information is collected and analyzed in the aggregate in order to improve the function and content of the Site.
 
+##  USE OF INFORMATION
 
-	                 	  
-Support Information
-When Clients fill out an online form to make a request for customer
-support, Service Provider collects some personal information, including but
-not limited to name, company name, phone number, email address,
-domain name and description of the inquiry. This information is used to
-open a trouble ticket so that Service Provider can remedy the issue as
-quickly as possible.
-Cookies. When Clients use Service Provider comF5 services, a cookie is
-set on their browser for security authentication purposes. Client sensitive
-information IS NOT stored within these cookies, unless Clients specifically
-select the "Remember my info" check box on the comF5 login page
-located at www.comF5.com. If Clients prefer, they may configure their
-browser not to accept cookies. When browsers are configured not to
-accept cookies, Email Services will still be available via POP3 and IMAP4
-standard protocols, however, for security reasons the comF5 applications
-will not be available.
-Email Contents
-The contents of Clients' email accounts are stored on Service Provider
-servers in order to provide the Email Services. This information is stored
-on secure servers, which process the information in order to provide
-Clients with authenticated access to their mailbox receive and transmit
-email messages and prevent unsolicited bulk email ("Spam"). Email
-contents are backed up to separate storage systems daily for the purpose
-of recovery from errors or system failure. Copies of email messages may
-remain on the backup storage systems for approximately two (2) weeks,
-even after Clients delete the emails from their mailbox or after termination
-of Email Services. Service Provider employees do not access the content
-of any mailboxes unless Clients specifically request them to do so (e.g.,
-when Clients report difficulties using their account), or if required to do so
-by law, or if Service Provider in good faith believes that such action is
-                                                                                 comF5®
-                                                        7469 W. Lake Mead Blvd. Suite 100
-                                                                    Las Vegas, NV 89128
-                                                                     Phone: 702.938.9300
-                                                                       Fax: 888.566.3314
-                                                                  Email: info@comF5.com
-                                                                   Web: www.comF5.com
+Personal Information will not be sold or otherwise transferred to unaffiliated third parties without the approval of the website user at the time of collection. Further, Alphaloop reserves the right to contact a customer or Representative regarding account status, changes to the Representative Agreement and other matters relevant to the underlying service and/or the information collected.
 
+We use the information that is collected about you for a variety of purposes, such as confirming and fulfilling orders, adding you to our email subscription list, providing your name to an Alphaloop Independent Representative in connection with potential interest in Alphaloop products or the business opportunity. We also use the information in analyzing trends and statistics, enhancing the operation of the website.
 
-	                  	  
-necessary to protect, maintain and defend the rights and property of
-Service Provider, its Clients or the public.
-Special Email Addresses
-All domains on the Internet are required to have a "postmaster" and
-"abuse" mailbox pursuant to certain industry regulations, specifically RFC
-2821 and RFC 2142. To help Clients comply with this regulation, Service
-Provider automatically accepts mail for the following addresses within all
-domains hosted on the Service Provider Network:
-abuse@example.com - delivers to abuse@comF5.us
-postmaster@example.com - delivers to root@example.com
-root@example.com - delivers to an unmonitored mailbox
-These special email addresses must always exist, however Clients may
-request to have these addresses forward to alternate mailboxes within
-their domain. Service Provider employees monitor the emails that arrive to
-abuse@comF5.com solely for the purpose of following up on abuse related
-complaints from Internet users and ISPs.
-Log Information
-Clients are provided with detailed usage statistics regarding their Email,
-Email Marketing and Streaming Services. To provide this information, and
-to facilitate troubleshooting of problems, Service Provider collects certain
-information relating to the usage of the Services. This information is stored
-in server logs and includes, but is not limited to, usage of SMTP, POP3,
-IMAP, comF5, AttainMail, Spam Filtering and Virus Scanning. This
-information is also aggregated in order to generate system wide usage
-totals, which are used to effectively scale the system infrastructure and
-improve the quality of the Services.
-                                                                                 comF5®
-                                                        7469 W. Lake Mead Blvd. Suite 100
-                                                                    Las Vegas, NV 89128
-                                                                     Phone: 702.938.9300
-                                                                       Fax: 888.566.3314
-                                                                  Email: info@comF5.com
-                                                                   Web: www.comF5.com
+From time to time you may voluntarily provide Personal Information to complete questionnaires or to participate in contests, polls or personalized assessments. We use this information to improve our products and services. We may also use your Personal Information to provide you newsletters and other marketing information we think would be of particular interest to you concerning things such as new products or website features. But you always have the opportunity to let us know if you do not wish to receive unsolicited promotional materials from us, and we will make every reasonable effort to honor such requests.
 
+Your mentoring sales organization acts as a support network, providing advice, assistance and information to assist you in building and maintaining a successful Alphaloop business. Therefore, Alphaloop will share limited Personal Information with your upline sales organization. They have agreed that such information is confidential, and not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy.
 
-	                 	  
-Agents
-We use an outside credit card processing company to bill Clients for
-Services. These companies do not retain share, store or use personally
-identifiable information for any other purposes. These third parties are
-prohibited from using your personally identifiable information for any other
-purpose.
-Business Transitions
-In the event that Service Provider goes through a business transition, such
-as a merger, acquisition by another company, or sale of all or a portion of
-its assets, your personally identifiable information will likely be among the
-assets transferred. You will be notified via email as well as through a
-prominent notice on our Web site and control panel of any such change in
-ownership or control of your personal information for at least thirty (30)
-days.
-Access to Personally Identifiable Information
-If your personally identifiable information changes, or if you no longer
-desire our Services, you may correct, update, delete or deactivate your
-account in our control panel, by emailing support@comF5.com, by calling
-or by postal mail at the address listed below.
-Security
-Service Provider has put in place physical, electronic and managerial
-procedures to safeguard the information that is collected. Various security
-technologies have been implemented to ensure that external parties
-cannot access or modify Clients' personal information on the Service
-Provider Network. Specifically, Secure Sockets Layer (SSL) encryption is
-used on specific Web pages to safeguard online purchase transactions.
-SSL technology is the industry standard protocol for secure, Web-based
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
+We may share Personal Information you provide online with other Alphaloop-affiliated entities and/or trusted business partners with whom we collaborate. We may develop business relationships in the future with business partners. In these instances, we may share or otherwise allow access to information that is collected about you that will enable our business partners to contact you regarding products and services that may be of interest. We may employ third party vendors to perform functions on our behalf. Examples may include delivering packages, fulfilling orders, e-mail administrative functions, processing credit card payments, and providing customer service. These vendors will be under bound by contract to use confidential data only for those purposes for which they are hired.
 
+Alphaloop may disclose Personal Information to a third party in the event that Alphaloop sells all or part of its assets to such third party or merges with or is acquired by the third party.
 
-	                 	  
-communications. SSL is used by e-commerce Web sites on the Internet to
-enable secure transactions between customers and suppliers. A limited
-number of employees are authorized to access Clients' information when
-the need to do so arises, and those employees undergo thorough
-background checks and are trained on the importance of maintaining
-Clients' privacy.
-Children's Privacy
-comF5 is committed to protecting the privacy needs of children and we
-encourage parents and guardians to take an active role in their children's
-online activities and interests. comF5 does not knowingly collect
-information from children under the age of 13 and does not target its Web
-sites or Services to children under the age of 13.
-Release of Personal Information in Extraordinary
-Circumstances
-Except as provided for in this Privacy Policy, Service Provider will never
-share Clients' personal information with third parties without Clients'
-express permission unless extraordinary circumstances apply. With
-respect to the release of personal information, extraordinary circumstances
-may exist when the disclosure of such information is legally required or
-requested by a governmental entity, or when Service Provider, acting in
-good faith, believes that the disclosure of such information is necessary to
-conform to legal requirements or comply with legal process, protect the
-rights of Service Provider, prevent a crime or protect national security, or
-protect the personal safety of its Clients or the public.
-Privacy Policy Changes
-If we decide to change our Privacy Policy, we will post those changes to
-this Privacy Policy, our Web site, and other places we deem appropriate so
-that you are aware of what information we collect, how we use it, and
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
+We may disclose the information that we collect about you when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, to us or to others. At times we may be required by law or legal process to disclose your personal information, and we may also disclose information when we believe the law requires it. We may also disclose information about you if we believe that disclosure is necessary for the public interest.
 
+Users may always “opt out” of further promotional contacts at any time. Also, upon request, Alphaloop will take reasonable efforts to delete a user’s personal information from its database. It may be impossible to delete a user’s entry without some residual information because of backups and records of deletions.
 
-	               	  
-under what circumstances, if any, we disclose it. We reserve the right to
-modify this Privacy Policy at any time, so please review it frequently. If we
-make material changes to this Policy, we will notify you here, by email, or
-by means of a notice on our home page.
-We value your opinions and feedback. If you have comments or questions
-about our Privacy Policy, please email HQ@comF5.com or send them to:
-ComF5, LLC.
-7469 West Lake Mead
+If you are visiting the Website from outside the United States and provide Alphaloop with personal information, please note that your personal information will be transferred, stored and processed within the United States and other facility locations selected by Alphaloop. The data protection laws in the United States may not be as comprehensive as those in your country. By doing business or interacting with Alphaloop, you are consenting to the transfer of your personal information to facilities located in the United States and other facility locations selected by Alphaloop and to the application of United States law regarding the collection, transfer and maintenance of your personal information.
+
+##  SPECIAL NOTE FOR RESIDENTS OF CALIFORNIA
+
+Under California Civil Code § 1798.83, we are required to disclose to consumers the following information upon written request: (1) the categories of personal information that we have disclosed to third parties within the prior year, if that information was subsequently used for marketing purposes; and (2) the names and addresses of all such third parties to whom such the personal information was disclosed. We hereby disclose that we have not disclosed any such personal information regarding any California resident during the one-year period prior to the effective date of this Privacy and Information Security Policy. California residents seeking additional information on this requirement or our privacy practices in general may write to us at [support@alphaloopcorp.com](mailto:support@alphaloopcorp.com "Support") with the headline “PRIVACY REQUEST” in the message line. They may also send paper mail to:
+
+Alphaloop Corp.  
+7469 W. Lake Mead Blvd. Suite 100  
 Las Vegas, NV 89128
-                                                                               comF5®
-                                                      7469 W. Lake Mead Blvd. Suite 100
-                                                                  Las Vegas, NV 89128
-                                                                   Phone: 702.938.9300
-                                                                     Fax: 888.566.3314
-                                                                Email: info@comF5.com
-                                                                 Web: www.comF5.com
+
+Please write “Attention: PRIVACY” in the address.
+
+##  COOKIES
+
+Like many websites, the Alphaloop website uses “cookie” technology. A “cookie” is a small data file transferred to your computer’s hard drive that allows a website to respond to you as an individual, gathering and remembering information about your preferences. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.
+
+## DATA SECURITY
+
+It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. However, no data transmission over the Internet can be guaranteed to be 100% secure and while we strive to protect your personal information, we cannot guarantee or warrant complete security. We use a variety of current technologies and processes for protection of data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities. When you make a purchase on our Web site, your transactional information is transmitted in a safe, encrypted format.
+
+Every user that has an account on the Website is responsible for (i) keeping his or her account password confidential and secured, (ii) avoiding unauthorized access to his or her computer; and (iii) keeping the e-mail address associated with that account current (you acknowledge that it is important to keep the e-mail address associated with that account current because although you may be able to log into your Alphaloop account using an old e-mail address, you will not receive messages from Alphaloop about your orders and inquiries or other matters).
+
+You shall be responsible for protecting the confidentiality of your password(s). You acknowledge that, although the Internet is often a secure environment, sometimes there are interruptions in service or events that are beyond the control of Alphaloop, and Alphaloop shall not be responsible for any data lost while transmitting or receiving information on the Internet.
+
+##  THIRD PARTY WEBSITES
+
+The Site may provide hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document, to another document altogether, or to other web sites not controlled by Alphaloop. These hyperlinked web sites may contain privacy provisions that are different from those provided herein. Alphaloop is not responsible for the collection, use, or disclosure of information collected through these web sites or links, and Alphaloop expressly disclaims any and all liability related to such collection, use, or disclosure.
+
+## PROTECTION OF CHILDREN’S PRIVACY
+
+The Site is a general audience web site that is not specifically designed or targeted at children. If you are under 18, you may use the Site only with involvement of a parent or guardian. We abide by the requirements of the Children’s Online Privacy Protection Act (COPPA) and other relevant laws. We do not knowingly collect, use or disseminate any personally identifiable information from children under the age of 13. If, however, we become aware that personally identifiable information regarding a child under the age of 13 has been collected at the Site, we will delete such information from our records.
+
+##  HOW TO ACCESS OR CORRECT YOUR INFORMATION
+
+If you identify any inaccuracy in your personal information, or you need to make a change or would like to verify such information, please contact us so that we may update our records or you may go online to Alphaloop’s web site and update your own information. Alphaloop contact information is set forth below. We will use commercially reasonable efforts to accommodate all such requests.
+
+##  MODIFICATIONS TO POLICY
+
+The foregoing policies are effective as of August 1, 2014. Alphaloop reserves the right to change this policy at any time and will notify users of the existence of a new Privacy Policy via e-mail or by posting the latest version on our Site. Any changes to this Policy will be effective immediately upon notice. Use of the Site after notice of changes will be deemed acceptance of such changes. Be sure to review this Privacy Policy periodically to ensure that you are familiar with the most current version. This statement and the policies outlined here are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+##  HOW TO CONTACT US
+
+If you have any concerns about our use of your information or about this Privacy Policy, please send mail to:
+
+Alphaloop Corp.  
+7469 W. Lake Mead Blvd. Suite 100  
+Las Vegas, NV 89128
+
+Or, send an email to [support@alphaloopcorp.com](mailto:support@alphaloopcorp.com "Support"). We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention. 
