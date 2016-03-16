@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ontolo.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020165335id_/http%3A//ontolo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontolo.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316205049id_/https%3A//ontolo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ontolo
+# ontolo Privacy Policy – ontolo
 
 **What information do we collect?**
 
@@ -9,7 +9,7 @@ We collect information from you when you register on our site, place an order, s
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
@@ -62,9 +62,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children’s Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
 
@@ -73,7 +73,7 @@ This online privacy policy applies only to information collected through our web
 **Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at  
-<http://ontolo.com/legal/terms>
+<http://ontolo.com/tos/>
 
 **Your Consent**
 
@@ -87,7 +87,4 @@ This policy was last modified on 03/21/2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-<http://ontolo.zendesk.com/>  
-[support@ontolo.com](mailto:support@ontolo.com)
+If there are any questions regarding this privacy policy you may contact us at [support@ontolo.com](mailto:support@ontolo.com)
