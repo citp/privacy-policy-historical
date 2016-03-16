@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tissotshop.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630073007id_/http%3A//us.tissotshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tissotshop.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316091052id_/http%3A//us.tissotshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**TISSOTSHOP.COM Privacy Statement**
 
 Tissot (a division of The Swatch Group (U.S.) Inc.) (hereafter, “Tissot”, “we”, “our” or “us”) values the trust you have placed in us. As part of our relationship, we recognize and respect your privacy. That is why Tissot is committed to protecting your privacy and using the information you share with us responsibly.
 
@@ -10,7 +8,7 @@ Tissot (a division of The Swatch Group (U.S.) Inc.) (hereafter, “Tissot”, �
 
  This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. When we make changes, we will post them here. If we make material changes to this Privacy Statement we will place a notice on our website or we may send a notice to the e-mail address you provided to us. You may wish to check this section of our website from time to time, because by visiting our website, you agree to accept any such changes to this Privacy Statement. Except as otherwise mentioned herein, this Privacy Statement only addresses the use and disclosure of information we collect from you on our website.
 
-This Privacy Statement is incorporated into, and part of our [Terms of Use](https://web.archive.org/web/20150630073007id_/http%3A//us.tissotshop.com/Terms), which governs your access to and use of our website in general. This Privacy Statement shall be interpreted under the laws of the United States, regardless of the location, residence or nationality of individual users.
+This Privacy Statement is incorporated into, and part of our [Terms of Use](https://web.archive.org/web/20160316091052id_/http%3A//us.tissotshop.com/Terms), which governs your access to and use of our website in general. This Privacy Statement shall be interpreted under the laws of the United States, regardless of the location, residence or nationality of individual users.
 
  We updated our Privacy Statement on July 18, 2011 which is this Privacy Statement’s effective date.
 
@@ -52,7 +50,7 @@ Tissot uses the information we collect from you for the following purposes:
 
 • To comply with our legal obligations, policies and procedures.
 
-• As otherwise indicated in our [Terms of Use](https://web.archive.org/web/20150630073007id_/http%3A//us.tissotshop.com/Terms).
+• As otherwise indicated in our [Terms of Use](https://web.archive.org/web/20160316091052id_/http%3A//us.tissotshop.com/Terms).
 
 Please note that if you use the share feature on our website to share any products with a friend, we will use your friend's name and email address to send the forwarding email. Your friend's information will not be saved in our customer or marketing databases. On occasion, we may combine information you provide with other demographic information available to us. In addition, when you provide personal information to us, we may share that information with other brands owned or licensed by Tissot, The Swatch Group (US) Inc., its ultimate corporate parent and each of its/their respective affiliates and subsidiaries’ (collectively, starting with the term “Tissot”, “The Swatch Group”), such as BALMAIN, BLANCPAIN, BREGUET, CERTINA, CK, FILK FLAK, GLASHUTTE ORIGINAL, HAMILTON, JAQUET DROZ, LEON HATOT, LONGINES, MIDO, OMEGA, RADO, SWATCH and UNION GLASHUTTE.
 
