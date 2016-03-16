@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055205id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316093159id_/https%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Koozai
 
@@ -61,6 +61,8 @@ This website uses the following cookies:
 
  **Google AdWords** : Using Google AdWords code we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget.
 
+ **Facebook Advertising** : We use Facebook advertising conversion tracking and re-targeting pixels, which allows us to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target advertising.
+
  **DoubleClick** : We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
  **Website Optimiser** : Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results.
@@ -98,6 +100,10 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held then please write to us.
 
 If you believe that any information we are holding about you is incorrect or incomplete, please write to or email us as soon as possible at the address detailed below. We will promptly correct any information found to be incorrect.
+
+## How to opt out of cookies
+
+To opt out of a third-party vendor’s use of cookies, visit the [Network Advertising Initiative opt out page. ](http://www.networkadvertising.org/choices/)You can opt out of Google’s use of cookies by visiting Google’s Ads Settings [here. ](https://www.google.com/settings/u/0/ads/authenticated#display_optout)Opt out of DoubleClick’s use of cookies by visiting the DoubleClick opt-out page [here.](https://www.google.com/settings/u/0/ads/authenticated#display_optout) If you want to opt out of our e-mails, fill in the contact form on our [website](https://www.koozai.com/contact/).
 
 ## Variations to the Policy
 
