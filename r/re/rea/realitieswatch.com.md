@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitieswatch.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630133855id_/http%3A//realitieswatch.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitieswatch.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316060818id_/http%3A//realitieswatch.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer - Realities Watch
 
@@ -31,6 +31,10 @@ From time to time data cookies will be set. At no time is any personally identif
 ##  **Third Party Cookies**
 
 Advertising networks that serve advertising on the Websites may write their own cookies for the purposes of determining advertising frequency and relevance, and to match ads against your interests based on aggregate non-personally identifiable information learned about your Internet browsing. We have performed reasonable diligence on all advertising networks authorised to serve ads on our websites to ensure that their data cookies are for this purpose and nothing more. Many of the providers serving display ads on the Websites provide users with the ability to [opt-out](http://www.google.com/ads/preferences/html/opt-out.html) of these third-party cookies. Below is a non-exhaustive list of the networks which may, from time to time, deliver ads to our users (many may only occasionally deliver ads). For more information about these and other companies, and your options for restricting the use of your data, visit [Google Adsense](http://www.google.co.uk/policies/technologies/ads/), [Google Analytics](http://www.google.co.uk/intl/en_uk/analytics/privacyoverview.html), [Tynt](http://www.tynt.com/privacy_policy.php), [content.ad](https://www.content.ad/privacy.aspx) and [WordPress](http://codex.wordpress.org/WordPress_Cookies).
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ##  **Data Mining**
 
