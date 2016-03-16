@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406062101id_/http%3A//www.ebizautos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316160250id_/http%3A//www.ebizautos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eBizAutos
 
@@ -123,5 +123,3 @@ LooksLike, Inc.
 Las Vegas, Nevada 89148
 
 * When applicable, We may request that You provide Us with Your credit card number. However, We will only collect this number from You in written form and will not ask You to provide it to Us electronically. Moreover, once You provide Us with Your credit card number, it is kept confidential and securely stored in accord with Our company policies.
-
-**DATE LAST MODIFIED: March 20, 2014**
