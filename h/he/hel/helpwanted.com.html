@@ -1,25 +1,20 @@
-<!--The following is the downloaded HTML source of the helpwanted.com privacy policy that was archived on 2015-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150912041603id_/https%3A//www.helpwanted.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the helpwanted.com privacy policy that was archived on 2016-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316025653id_/https%3A//www.helpwanted.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="Head1">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://gdc.indeed.com/ads/apiresults.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://gdc.indeed.com/ads/apiresults.js"></script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
 Privacy Policy
 </title>
 <meta name="google-site-verification" content="MAh_Tm_ukyVMZIAvAnkXoEzATpbf9iLzgWKGfR7uzDE">
 <meta name="msvalidate.01" content=" 98D3AE79167DCDBE972827F4B5F4452B">
 <meta name="y_key" content="49167790ad1c42de">
-<meta name="description" content="Search Automotive jobs in Michigan. HelpWanted.com provides the best Michigan Automotive job Listings. Find employers and Automotive Jobs in Michigan from Michigan's Help Wanted community.">
+<meta name="description" content="">
  
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://www.helpwanted.com/job-css/bootstrap.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/font-awesome.min.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/flexslider.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/style.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/responsive.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/bootstrap-model.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/wcss.css">
-<link rel="stylesheet" href="https://www.helpwanted.com/job-css/bootstrap-dialog.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.helpwanted.com/job-css/All-min.css">
 <!--[if IE 9]>
 		<script src="//https://www.helpwanted.com/job-js/media.match.min.js"></script>
 	<![endif]-->
@@ -178,13 +173,13 @@ Career Centers
         var KeywordMap = $("#qryid").val();
         if (KeywordMap == "~0") { KeywordMap = ""; }
         var SearchBy = $("#btnSearchType").html();
-        //alert("{'Application_Id':'11','Keyword_Srch':'" + $("#JobSearchBox_tskeyword").val() + "','Keyword_Map':'" + KeywordMap + "','Location_Srch':'" + $("#JobSearchBox_tstlocation").val() + "','Location_Map':'" + $("#locid").val() + "','Logged_User_Id':'','Session_Id':'0','IP_Address':'207.241.237.221'}");
+        //alert("{'Application_Id':'11','Keyword_Srch':'" + $("#JobSearchBox_tskeyword").val() + "','Keyword_Map':'" + KeywordMap + "','Location_Srch':'" + $("#JobSearchBox_tstlocation").val() + "','Location_Map':'" + $("#locid").val() + "','Logged_User_Id':'','Session_Id':'0','IP_Address':'207.241.237.225'}");
         if (SearchBy == "Company") {
             $.ajax({
                 type: "POST",
                 contentType: "application/json; charset=utf-8",
                 url: "https://www.helpwanted.com/applicationlib.asmx/getEncryptedScriptForCompanySearch",
-                data: "{'Application_Id':'11','Keyword_Srch':'" + $("#JobSearchBox_tskeyword").val() + "','Keyword_Map':'" + KeywordMap + "','Location_Srch':'" + $("#JobSearchBox_tstlocation").val() + "','Location_Map':'" + $("#locid").val() + "','Logged_User_Id':'','Session_Id':'0','IP_Address':'207.241.237.221'}",
+                data: "{'Application_Id':'11','Keyword_Srch':'" + $("#JobSearchBox_tskeyword").val() + "','Keyword_Map':'" + KeywordMap + "','Location_Srch':'" + $("#JobSearchBox_tstlocation").val() + "','Location_Map':'" + $("#locid").val() + "','Logged_User_Id':'','Session_Id':'0','IP_Address':'207.241.237.225'}",
                 //       Application_Id,                                          Keyword_Srch                             Keyword_Map,                              Location_Srch                             Location_Map                               User_Id                                   IAddress
                 dataType: "json",
                 success: function (data) {
@@ -203,7 +198,7 @@ Career Centers
                 type: "POST",
                 contentType: "application/json; charset=utf-8",
                 url: "https://www.helpwanted.com/applicationlib.asmx/getEncryptedScriptForJobSearch",
-                data: "{'Application_Id':'11','Keyword_Srch':'" + $("#JobSearchBox_tskeyword").val() + "','Keyword_Map':'" + KeywordMap + "','Location_Srch':'" + $("#JobSearchBox_tstlocation").val() + "','Location_Map':'" + $("#locid").val() + "','Logged_User_Id':'','Session_Id':'0','IP_Address':'207.241.237.221'}",
+                data: "{'Application_Id':'11','Keyword_Srch':'" + $("#JobSearchBox_tskeyword").val() + "','Keyword_Map':'" + KeywordMap + "','Location_Srch':'" + $("#JobSearchBox_tstlocation").val() + "','Location_Map':'" + $("#locid").val() + "','Logged_User_Id':'','Session_Id':'0','IP_Address':'207.241.237.225'}",
                 //       Application_Id,                                          Keyword_Srch                             Keyword_Map,                              Location_Srch                             Location_Map                               User_Id                                   IAddress
                 dataType: "json",
                 success: function (data) {
@@ -273,7 +268,7 @@ Career Centers
         UserId = '';
         LoggedUserId = '';
         SessionId = '0';
-        IPAddress = '207.241.237.221';
+        IPAddress = '207.241.237.225';
         UserTypeId = '100';
 
         var Message = DefaultMsg;
@@ -351,15 +346,15 @@ Career Centers
 <li><a href="javascript://void(0)" onclick="GetSearchType(2);">Company</a></li>
 </ul>
 </div> 
-<input name="ctl00$JobSearchBox$tskeyword" type="text" value="Automotive" id="JobSearchBox_tskeyword" class="form-control" placeholder="Enter Keyword for job search">
-<input type="hidden" value="~53" name="qryid" id="qryid">
+<input name="ctl00$JobSearchBox$tskeyword" type="text" id="JobSearchBox_tskeyword" class="form-control" placeholder="Enter Keyword for job search">
+<input type="hidden" value="" name="qryid" id="qryid">
 </div> 
 </div>
 <div class="hsb-text-1">in</div>
 <div class="hsb-container">
 <div class="hsb-input-2">
-<input name="ctl00$JobSearchBox$tstlocation" type="text" value="Michigan" id="JobSearchBox_tstlocation" class="form-control" placeholder="city, state or zip code">
-<input type="hidden" value="840~840026~0~0-5" name="locid" id="locid">
+<input name="ctl00$JobSearchBox$tstlocation" type="text" value="San Francisco, CA" id="JobSearchBox_tstlocation" class="form-control" placeholder="city, state or zip code">
+<input type="hidden" value="840~840006~84002638~0-8" name="locid" id="locid">
 </div>
 </div>
 <div class="hsb-submit">
@@ -512,7 +507,7 @@ You may encounter cookies from third parties on certain pages of the Site that w
 </div>
 <div class="copyright">
 <div class="container">
-<p>© Copyright 2015 <a href="https://www.helpwanted.com">HelpWanted.com</a>&nbsp; | &nbsp;All Rights Reserved </p>
+<p>© Copyright 2016 <a href="https://www.helpwanted.com">HelpWanted.com</a>&nbsp; | &nbsp;All Rights Reserved </p>
 <ul class="footer-social">
 <li><a class="fa fa-facebook" title="Facebook" href="http://www.facebook.com/HelpWantedCom" target="_blank"></a></li>
 <li><a class="fa fa-twitter" title="Tweet" href="http://www.twitter.com/HelpWantedCom" target="_blank"></a></li>
@@ -531,46 +526,18 @@ You may encounter cookies from third parties on certain pages of the Site that w
 <div class="Post-Buttons-like">
 <div class="Post-But-Like">
 <div class="tab-like">
-<div class="fb-like" data-href="https://www.facebook.com/HelpWantedCom" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+<a id="fblike" href="http://www.facebook.com/HelpWantedCom" target="_blank"><img src="https://www.helpwanted.com/job-img/f-like.png"></a>
 </div>
 <div class="tab-like">
-<a href="https://twitter.com/HelpWantedCom" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @HelpWantedCom</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</div>
-<div class="tab-like">
- 
-<div class="g-plusone" data-size="medium">
-</div>
- 
-<script type="text/javascript">
-                            (function () {
-                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                po.src = 'https://apis.google.com/js/platform.js';
-                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                            })();
-                        </script>
+<a id="twlike" href="https://twitter.com/intent/follow?original_referer=https://web.archive.org/web/20160316025653id_/https%3A//www.helpwanted.com/privacypolicy&amp;region=follow_link&amp;screen_name=HelpWantedCom&amp;tw_p=followbutton" target="_blank"><img src="https://www.helpwanted.com/job-img/follow.png"></a>
 </div>
 </div>
 <div class="Post-But-Share">
 <div class="tab-like">
-<div class="fb-share-button" data-href="https://www.facebook.com/HelpWantedCom" data-type="button"></div>
+<a id="fbshare" href="https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160316025653id_/https%3A//www.helpwanted.com/privacypolicy&amp;title=Privacy Policy" target="_blank"><img src="https://www.helpwanted.com/job-img/f-share.png"></a>
 </div>
 <div class="tab-like">
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="HelpWantedCom" data-count="none">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</div>
-<div class="tab-like">
- 
-<div class="g-plus" data-action="share" data-annotation="none">
-</div>
- 
-<script type="text/javascript">
-                            (function () {
-                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                po.src = 'https://apis.google.com/js/platform.js';
-                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                            })();
-                        </script>
+<a id="twshare" href="https://twitter.com/intent/tweet?text=Privacy Policy&amp;url=https://web.archive.org/web/20160316025653id_/https%3A//www.helpwanted.com/privacypolicy&amp;via=HelpWantedCom" target="_blank"><img src="https://www.helpwanted.com/job-img/tweet.png"></a>
 </div>
 <div class="tab-like">
 <a href="mailto:?Subject=HelpWanted.com&amp;body=https://www.helpwanted.com/privacypolicy" target="_top"><i class="fa fa-envelope"></i> Email</a>
@@ -579,6 +546,39 @@ You may encounter cookies from third parties on certain pages of the Site that w
 <div class="clr">
 </div>
 </div>
+<script type="text/javascript">
+
+    window.onload = function () {        
+        var PageTitle = document.title;
+        var PageURL = window.location.href;
+        var FBSF="Y";
+        if(FBSF =="Y")
+        {
+            var FBShare = document.getElementById("fbshare").href;
+            document.getElementById("fbshare").href = FBShare.replace("$PageTitle$", PageTitle).replace("$PageURL$", PageURL);
+        }
+       
+        var TWSF="Y";
+        if (TWSF == "Y") {
+            var TwitterShare = document.getElementById("twshare").href;
+            document.getElementById("twshare").href = TwitterShare.replace("$PageTitle$", PageTitle).replace("$PageURL$", PageURL);
+        }
+
+        var TWLF="Y";
+        if (TWLF == "Y") {
+            var TwitterLike = document.getElementById("twlike").href;
+            document.getElementById("twlike").href = TwitterLike.replace("$PageURL$", PageURL);
+        }
+        var GLSF = "N";
+        if (GLSF == "Y") {
+            var GooglePlusShare = document.getElementById("glshare").href;
+            document.getElementById("glshare").href = GooglePlusShare.replace("$PageTitle$", PageTitle).replace("$PageURL$", PageURL);
+        }
+    };
+
+   
+   
+</script>
  
 </div>  
  
@@ -594,6 +594,7 @@ You may encounter cookies from third parties on certain pages of the Site that w
 <script src="https://www.helpwanted.com/job-js/bootstrap-dialog.min.js"></script>
 <script src="https://www.helpwanted.com/job-js/comman.js"></script>
 <script src="https://www.helpwanted.com/job-js/bootstrap-d.js"></script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <div id="fb-root">
 </div>
 <script>        (function (d, s, id) {
@@ -603,12 +604,6 @@ You may encounter cookies from third parties on certain pages of the Site that w
             js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
-<script type="text/javascript">
-
-        $(document).ready(function () {
-            $('[data-toggle="tooltip"]').tooltip();
-        })
-        </script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.add_init(function() {
@@ -620,11 +615,6 @@ Sys.Application.add_init(function() {
 //]]>
 </script>
 </form>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
