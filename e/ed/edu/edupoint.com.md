@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103022750id_/http%3A//www.edupoint.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316162428id_/http%3A//www.edupoint.com/Privacy) for the most accurate reproduction.*
 
-# Edupoint > Privacy Statement
+# Edupoint.com
 
 Edupoint is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Edupoint Web site and governs data collection and usage. By using the Edupoint website, you consent to the data practices described in this statement.
 
