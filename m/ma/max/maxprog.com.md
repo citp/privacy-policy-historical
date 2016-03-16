@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxprog.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205144922id_/http%3A//www.maxprog.com/site/misc/privacy_us.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxprog.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316120032id_/http%3A//www.maxprog.com/site/misc/privacy_us.php) for the most accurate reproduction.*
 
 # Maxprog | Software development for Macintosh and Windows
 
