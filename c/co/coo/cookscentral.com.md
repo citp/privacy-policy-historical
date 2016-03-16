@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookscentral.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908090855id_/http%3A//cookscentral.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookscentral.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316180152id_/http%3A//cookscentral.com/privacy.aspx) for the most accurate reproduction.*
 
 # CooksCentral.com
 
@@ -8,7 +8,7 @@ PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE JANUARY 1, 2014.
 
 This **"Privacy Policy"** applies to the Websites controlled by CooksCentral.com and/or its subsidiary and affiliated entities ( **"CooksCentral"** , **"us"** , **"we"** , or **"our"** ) where the Privacy Policy is posted. **"Websites"** include sites hosted by one or more web servers {however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, "Computer")} and other interactive features, applications or downloads that are operated by us and that are available through, or interact with, Websites where this Privacy Policy is posted. This Privacy Policy does not apply to our collection of information from other sources (unless specifically stated). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)). 
 
-We have adopted this Privacy Policy to explain what information may be collected on our Websites, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy, together with the [Terms of Use](https://web.archive.org/web/20150908090855id_/http%3A//cookscentral.com/terms.aspx) posted on our Websites, sets forth the general rules and policies governing your use of our Websites. Depending on your activities when visiting our Websites, you may be required to agree to additional terms and conditions. 
+We have adopted this Privacy Policy to explain what information may be collected on our Websites, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy, together with the [Terms of Use](https://web.archive.org/web/20160316180152id_/http%3A//cookscentral.com/terms.aspx) posted on our Websites, sets forth the general rules and policies governing your use of our Websites. Depending on your activities when visiting our Websites, you may be required to agree to additional terms and conditions. 
 
   
 _INDEMNITY BY MEMBER_
