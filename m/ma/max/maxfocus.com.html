@@ -1,0 +1,624 @@
+<!--The following is the downloaded HTML source of the maxfocus.com privacy policy that was archived on 2016-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316075856id_/https%3A//www.maxfocus.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M897H7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYBVlVRGwYJUVVTDgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//netdna.bootstrapcdn.com">
+<link http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//cdn.maxfocus.com">
+<!--[if IE 9]>
+<link rel="prefetch" href="//cdn.maxfocus.com" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="https://cdn.maxfocus.com/max/s3fs-public/maxfocus_favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.maxfocus.com/privacy-policy">
+<link rel="shortlink" href="https://www.maxfocus.com/node/219">
+  <title>Privacy Policy | MAXfocus</title>
+  <link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__YZMmyCjxADNsxWJVyzxskiYBiPsGboww8DDJoAv1iVA__PqGVjSeXe3e-YM4xspxCavDlyydtEB28TRpZPTEwV5I__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__lZIRNp1zrPA5edR8tBARE7QpwfW8j7QPVrOal6a7wlE__wZgIrew4D8U5VEGWlwKhRtpwbSUOZ3fxeuehWbAiKGo__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__j1G2KUXMRMK6U_KvCi9-5awYIkJKtO1p7K71po_0gyc__TUo9Mv_NYjK3hnPhdYYCgMhxSYMgi7y-CuoR5Hkzl4o__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="screen">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__9Y1yQxqO1Pvh6YYlfN4tyLj7tvBXXk-_1Jn4_xQ6A18__Ew1FB-shL5439o9tm7mg6ZhUq5kzhIdZ7-O5tahiICE__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__Ypx2Ri6FqzZ6RNkxoMdt1nFiUafwTQHVFTXV8Fyhmm8__x01xAbw1jaBHWD5PW9jTG2SNxc51oJDaNABHSaEtrwU__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__uYUlbITQ_L06jO0Ux5Lb8qlgJQDxnN4cSIEa1EK7EEE__i64Os2Rrte40WHJOF6ceGxfqErljuADgVimSdJgmN_A__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__lh2cWx4Wzw1b7pIbMs_yoGhjLgylpzcmihs_TtxAjQM__PLnfCy8kMx3pmaFylyvn5zcE7i-0xPvRn05gmciUHuA__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__TNLnkfi2ejv2yExDoIvoZ55TGa08G421Dy68H4Ay5tA__Whubzdv9zyTyeqdpEpouWE1QVQ0tGlMpbn3eJpTuHog__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="print">
+<link type="text/css" rel="stylesheet" href="//cdn.maxfocus.com/s3fs-css/advagg_css/css__kTawMGgk4MTFS3ytLiFCAwnkITCMn44Xy6hUVHBktRc__aDjgJ07okmgIBqya3Fay6RwHnt02_a2Cy5BXvHWu4-A__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.css" media="all">
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/profiles/panopoly/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/profiles/panopoly/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdn.maxfocus.com/s3fs-js/advagg_js/js__2o6SjiayOO-sWCW70ePSvS58rqARht9NMW0_eNnA90c__atm0ZqosLaJ40NuxLUbalaIHyyeXtVynmk0aQaqFXPQ__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.js"></script>
+<script type="text/javascript" src="//cdn.maxfocus.com/s3fs-js/advagg_js/js__2X4HkLiyNO-iA4kRngYacUQVH4Lf5IowUrxqxy8ymLc__yxbhd4IUx0-iAiBE2WOeXHMmB6S4JHhzJYYfeBZcxGw__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.js"></script>
+<script type="text/javascript" src="//cdn.maxfocus.com/s3fs-js/advagg_js/js__eoYQ90EezKXrCX8vvcWv0VB8KKC36jv2dMWGJu8R1ac__zHwTMrnwwlPKnTcmYqZYX-huxC9w1jyAeP0RDGR3nQI__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.js"></script>
+<script type="text/javascript" src="//cdn.maxfocus.com/s3fs-js/advagg_js/js__mkTuS_fbbmiuwePX6lw-VJkdQNpihc85DerWu_klS1E__CgjPWRGCA8dhmr_BhOijgj3TOKAeuTNojKQDP4P58VI__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.js"></script>
+<script type="text/javascript" src="//cdn.maxfocus.com/s3fs-js/advagg_js/js__la9vYONf2XY-hAIINoCIeh91JdP7MoQhqOVyWl6O6eY__5ccndRc-Hesx3650UNfCwi3rm9NKMU2H5SjDnoYr-Bo__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"max","theme_token":"BpeGXZEJZTnIkjXWpgpDStz0kcsrtLXG2Xd4llu32bk","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/libraries\/msdropdown\/css\/msdropdown\/dd.css":1,"modules\/aggregator\/aggregator.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-modal.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/panopoly\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/logic_base\/panels\/layouts\/maxstandard\/maxstandard.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/lang_dropdown\/msdropdown\/css\/msdropdown\/ldsSkin.css":1,"sites\/all\/themes\/radix\/assets\/stylesheets\/radix-style.css":1,"sites\/all\/themes\/logic_base\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/logic_base\/assets\/stylesheets\/screen_overrides.css":1,"sites\/max\/themes\/max\/assets\/stylesheets\/max-screen.css":1,"sites\/max\/themes\/max\/assets\/stylesheets\/max-temp.css":1,"sites\/all\/themes\/radix\/assets\/stylesheets\/radix-print.css":1,"sites\/all\/themes\/logic_base\/assets\/stylesheets\/print.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1},"js":{"sites\/all\/modules\/custom\/logic_embed_video\/js\/logic_embed_video.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/max\/themes\/max\/assets\/javascripts\/dough.min.js":1,"sites\/max\/themes\/max\/assets\/javascripts\/dough_script.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/fancybox\/lib\/jquery.mousewheel-3.0.6.pack.js":1,"sites\/all\/modules\/custom\/logic_helper\/media\/js\/logic_helper.js":1,"sites\/all\/modules\/custom\/logic_helper\/media\/js\/logic_helper_menu_mobile.js":1,"profiles\/panopoly\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.js":1,"sites\/max\/modules\/custom\/max_geo_ip_phone_number\/js\/script.js":1,"https:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"sites\/all\/libraries\/msdropdown\/js\/msdropdown\/jquery.dd.min.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/logic_base\/assets\/javascripts\/script.js":1,"sites\/max\/themes\/max\/assets\/javascripts\/max_script.js":1}},"fancybox":{"options":{"height":450}},"jcarousel":{"ajaxPath":"https:\/\/www.maxfocus.com\/jcarousel\/ajax\/views"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"manual"},"viewsSlideshow":{"awards-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"awards-block_1":{"top":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_awards-block_1":{"num_divs":10,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"awards-block_1","effect":"scrollLeft","transition_advanced":1,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":0,"pause_on_click":0,"action_advanced":1,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":0,"items_per_slide":4,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"urlIsAjaxTrusted":{"https:\/\/www.maxfocus.com\/search\/node":true,"\/privacy-policy":true},"lang_dropdown":{"language_content":{"jsWidget":{"widget":"msdropdown","visibleRows":"20","roundedCorner":0,"animStyle":"slideDown","event":"click","mainCSS":"ldsSkin"}}}});
+//--><!]]>
+</script>
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+      <script src="/sites/all/libraries/html5shiv/html5shiv.js"></script>
+      <script src="/sites/all/libraries/respondjs/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-219 node-type-standard-page region-content i18n-en" data-spy="scroll" data-target="#scrolling-tabs" data-offset="500">
+  <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M897H7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M897H7');</script>
+  <!-- End Google Tag Manager -->
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<header id="header" class="header" role="header">
+	<div class="inner" data-spy="affix" data-offset-top="0" data-offset-bottom="0">
+		
+		<div class="sub-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+													<div id="search">
+								<button id="search-button" type="button" data-toggle="button" data-target="#search-pop"> <i class="fa fa-search"></i><span class="sr-only">search</span></button>
+								<div id="search-pop" class="hidden">
+									<form class="search-form navbar-form navbar-right" action="https://www.maxfocus.com/search/node" method="post" id="search-form" accept-charset="UTF-8" role="form"><div><div class="container-inline form-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys form-group">
+  <label class="element-invisible" for="edit-keys">Search </label>
+ <input placeholder="Search" class="form-control form-text" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255">
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit btn btn-default btn-primary"></div><input type="hidden" name="form_build_id" value="form-fyq3Gb_4gSoyM1rhxDb6KAfudG_hdZYWcf2PMDKHU3c">
+<input type="hidden" name="form_id" value="search_form">
+</div></form>								</div>
+							</div>
+												<div class="menu-block-wrapper menu-block-1 menu-name-menu-sub-header-menu parent-mlid-0 menu-level-1">
+  <ul class="sub-header-menu"><li class="first leaf menu-mlid-6836 menu-link-contact-us"><a href="https://www.maxfocus.com/contact-us">Contact Us</a></li>
+<li class="leaf menu-mlid-2354 menu-link-service-status"><a href="http://status.maxfocus.com/">Service Status</a></li>
+<li class="expanded menu-mlid-2355 dropdown menu-link-support"><a href="https://www.maxfocus.com/support" class="dropdown-toggle" data-toggle="dropdown radix-dropdown-processed" data-target="#">Support<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3717 menu-link-hipaa"><a href="https://www.maxfocus.com/node/142/">HIPAA</a></li>
+<li class="last leaf menu-mlid-14068 menu-link-pci-dss"><a href="https://www.maxfocus.com/pci-dss">PCI DSS</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2357 menu-link-webinars"><a href="https://www.maxfocus.com/webinars">Webinars</a></li>
+<li class="expanded menu-mlid-2358 dropdown menu-link-login"><a href="https://www.maxfocus.com/" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Login<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-12583 menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management/login">MAX RemoteManagement</a></li>
+<li class="last leaf menu-mlid-13394 menu-link-max-mail"><a href="https://www.maxfocus.com/dashboard/mail">MAX Mail</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-13401 menu-link-community"><a href="https://connect.maxfocus.com">Community</a></li>
+</ul></div>
+						<form class="lang_dropdown_form language_content" id="lang_dropdown_form_language_content" action="/privacy-policy" method="post" accept-charset="UTF-8" role="form"><div><div class="form-item form-type-select form-item-lang-dropdown-select form-group">
+ <select style="width:165px" class="lang-dropdown-select-element form-control form-select" id="lang-dropdown-select-language_content" name="lang_dropdown_select"><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="de">Deutsch</option><option value="it">Italiano</option><option value="es">Español</option><option value="pt-br">Português</option><option value="nl">Nederlands</option></select>
+</div>
+<input type="hidden" name="en" value="https://www.maxfocus.com/privacy-policy?multilink=switch">
+<input type="hidden" name="fr" value="https://www.maxfocus.fr/politique-mondiale-de-confidentialite?multilink=switch">
+<input type="hidden" name="de" value="https://www.maxfocus.de/globale-datenschutzrichtlinie?multilink=switch">
+<input type="hidden" name="it" value="https://www.maxfocus.it/norme-globali-sulla-privacy?multilink=switch">
+<input type="hidden" name="es" value="https://www.maxfocus.es/politica-global-de-privacidad?multilink=switch">
+<input type="hidden" name="pt-br" value="https://www.maxfocus.com.br/politica-de-privacidade-global?multilink=switch">
+<input type="hidden" name="nl" value="https://nl.maxfocus.com/wereldwijd-privacybeleid?multilink=switch">
+<noscript><div>
+<input type="submit" id="edit-submit--2" name="op" value="Go" class="form-submit btn btn-default btn-primary" />
+</div></noscript><input type="hidden" name="form_build_id" value="form-DbO72l_kALjE1cLTLZH2HQjNj3oRv0kWwa4ryEEbs9M">
+<input type="hidden" name="form_id" value="lang_dropdown_form">
+</div></form>
+              <div class="region region-phone-number">
+    <div id="block-max-geo-ip-phone-number-max-geo-ip-phone-number" class="block block-max-geo-ip-phone-number">
+
+    
+  <div class="content">
+    <h2></h2><span>+</span><span class="sales_phone_number"></span>  </div>
+</div>
+  </div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-menu-branding">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<nav class="navbar navbar-default" role="navigation">
+							<!-- Brand and toggle get grouped for better mobile display -->
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+							</div> <!-- /.navbar-header -->
+				
+							<!-- Collect the nav links, forms, and other content for toggling -->
+							<div class="collapse navbar-collapse" id="navbar-collapse">
+																	<ul id="main-menu" class="menu nav navbar-nav">
+										<li class="first expanded dropdown menu-link-products"><a href="https://www.maxfocus.com/products" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Products<span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded dropdown-submenu menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX RemoteManagement</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features">Features</a></li>
+<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/remote-management/pricing">Pricing</a></li>
+<li class="last leaf menu-link-support"><a href="https://www.maxfocus.com/support">Support</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu menu-link-max-backup"><a href="https://www.maxfocus.com/backup" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX Backup</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features#bu">Features</a></li>
+<li class="leaf menu-link-success-stories"><a href="https://www.maxfocus.com/backup/success-stories">Success Stories</a></li>
+<li class="leaf menu-link-backup-academy"><a href="https://www.maxfocus.com/backup/academy">Backup Academy</a></li>
+<li class="leaf menu-link-data-centre-locations"><a href="https://www.maxfocus.com/backup/data-centers">Data Centre Locations</a></li>
+<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/backup/pricing">Pricing</a></li>
+<li class="leaf menu-link-support"><a href="https://www.maxfocus.com/support">Support</a></li>
+<li class="leaf menu-link-downloads"><a href="https://www.maxfocus.com/backup/downloads" target="_blank">Downloads</a></li>
+<li class="last leaf menu-link-request-a-proposal"><a href="http://trials.maxfocus.com/request-a-backup-proposal" target="_blank">Request a proposal</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu menu-link-max-mail"><a href="https://www.maxfocus.com/mail" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX Mail</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features#mail">Features</a></li>
+<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/mail/pricing">Pricing</a></li>
+<li class="last leaf menu-link-support"><a href="https://www.maxfocus.com/support">Support</a></li>
+</ul></li>
+<li class="last expanded dropdown-submenu menu-link-max-servicedesk"><a href="https://www.maxfocus.com/service-desk" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX ServiceDesk</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features#sd">Features</a></li>
+<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/service-desk/pricing">Pricing</a></li>
+<li class="leaf menu-link-support"><a href="https://www.maxfocus.com/support">Support</a></li>
+<li class="last leaf menu-link-training"><a href="https://attendee.gototraining.com/rt/4085839457713708033">Training</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf menu-link-grow"><a href="https://www.maxfocus.com/grow">Grow</a></li>
+<li class="expanded dropdown menu-link-resources"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Resources<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-whitepapers"><a href="https://www.maxfocus.com/whitepapers">Whitepapers</a></li>
+<li class="leaf menu-link-webinars"><a href="https://www.maxfocus.com/webinars">Webinars</a></li>
+<li class="leaf menu-link-max-backup-playbook"><a href="http://trials.maxfocus.com/playbook" target="_blank">MAX Backup Playbook</a></li>
+<li class="leaf menu-link-backup-academy"><a href="https://www.maxfocus.com/backup/academy">Backup Academy</a></li>
+<li class="leaf menu-link-hipaa-guides"><a href="https://www.maxfocus.com/hipaa">HIPAA Guides</a></li>
+<li class="leaf menu-link-max-iq-blog"><a href="https://www.maxfocus.com/blog/" target="_blank">MAX IQ Blog</a></li>
+<li class="last leaf menu-link-service-desk-training"><a href="https://attendee.gototraining.com/rt/4085839457713708033">Service Desk Training</a></li>
+</ul></li>
+<li class="expanded dropdown menu-link-why-max"><a href="https://www.maxfocus.com/why-max" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Why Max<span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-link-logiccards"><a href="https://www.maxfocus.com/why-max/logiccards">LOGICcards</a></li>
+</ul></li>
+<li class="expanded dropdown menu-link-about"><a href="https://www.maxfocus.com/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-news"><a href="https://www.maxfocus.com/news">News</a></li>
+<li class="leaf menu-link-careers"><a href="http://www.logicnow.com/careers" target="_blank">Careers</a></li>
+<li class="leaf menu-link-support"><a href="https://www.maxfocus.com/support">Support</a></li>
+<li class="leaf menu-link-connect-with-us"><a href="https://www.maxfocus.com/connect-us">Connect with Us</a></li>
+<li class="last leaf menu-link-conferences"><a href="http://conferences.maxfocus.com/" target="_blank">Conferences</a></li>
+</ul></li>
+<li class="last expanded dropdown menu-link-free-trials"><a href="https://www.maxfocus.com/trials" class="max-orange dropdown-toggle" data-toggle="dropdown" data-target="#">Free Trials<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management/trial">MAX RemoteManagement</a></li>
+<li class="leaf menu-link-max-backup"><a href="https://www.maxfocus.com/backup/trial">MAX Backup</a></li>
+<li class="last leaf menu-link-max-mail"><a href="https://www.maxfocus.com/mail/trial">MAX Mail</a></li>
+</ul></li>
+<div class="menu-block-wrapper menu-block-1 menu-name-menu-sub-header-menu parent-mlid-0 menu-level-1">
+  <ul class="sub-header-menu"><li class="first leaf menu-mlid-6836 menu-link-contact-us"><a href="https://www.maxfocus.com/contact-us">Contact Us</a></li>
+<li class="leaf menu-mlid-2354 menu-link-service-status"><a href="http://status.maxfocus.com/">Service Status</a></li>
+<li class="expanded menu-mlid-2355 dropdown menu-link-support"><a href="https://www.maxfocus.com/support" class="dropdown-toggle" data-toggle="dropdown radix-dropdown-processed" data-target="#">Support<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3717 menu-link-hipaa"><a href="https://www.maxfocus.com/node/142/">HIPAA</a></li>
+<li class="last leaf menu-mlid-14068 menu-link-pci-dss"><a href="https://www.maxfocus.com/pci-dss">PCI DSS</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2357 menu-link-webinars"><a href="https://www.maxfocus.com/webinars">Webinars</a></li>
+<li class="expanded menu-mlid-2358 dropdown menu-link-login"><a href="https://www.maxfocus.com/" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Login<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-12583 menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management/login">MAX RemoteManagement</a></li>
+<li class="last leaf menu-mlid-13394 menu-link-max-mail"><a href="https://www.maxfocus.com/dashboard/mail">MAX Mail</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-13401 menu-link-community"><a href="https://connect.maxfocus.com">Community</a></li>
+</ul></div>
+									</ul>
+															</div><!-- /.navbar-collapse -->
+						</nav><!-- /.navbar -->
+						<a href="https://www.maxfocus.com/" title="MAXfocus" rel="home" id="logo" class="navbar-brand">
+							<img src="https://cdn.maxfocus.com/max/s3fs-public/maxfocus-hybrid.png" alt="MAXfocus">
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+					</div> <!-- /.container -->
+	</div>
+</header>
+
+<div id="main-wrapper" class="maxfocus">
+	<div id="main" class="main">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+											<div id="breadcrumb" class="visible-desktop">
+							<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="https://www.maxfocus.com/">Home</a> » <span>Privacy Policy</span></div>						</div>
+									</div>
+			</div>
+		</div>
+		<div id="content" class="">
+			  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<div class="node-standard-page view-mode-full">
+        
+<div class="panel-display maxhome clearfix ">
+
+	<div class="container-fluid maxstandard-container maxstandard-jumbotron clearfix panel-panel">
+		<div class="row">
+			<div class="col-xs-12 no-pad">
+				<div class="inner">
+					<div class="panel-pane pane-entity-view pane-node">
+  
+      
+  
+  <div class="pane-content">
+    
+	<section class="poster-standard max-blue">
+		<div class="inner">
+			<div class="container">
+				<div class="row">
+											<div class="col-xs-12 col-md-offset-2 col-md-8 copy cen-copy">
+															<span class="huge-headline inverted dark text-center">Privacy  Policy</span>
+							
+																<div>
+										<h1 class="standard-poster-txt text-center">LogicNow - Global Privacy Policy</h1>
+									</div>
+								
+													</div>
+									</div>
+			</div>
+		</div>
+	</section>
+  </div>
+
+  
+  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container maxstandard-container clearfix panel-panel">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8">
+				<div class="inner content">
+					<div class="panel-pane pane-entity-view pane-node">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="node node-standard-page clearfix">
+		
+  <div class="field field-name-field-content field-type-text-long field-label-hidden">
+    <h2>LogicNow - Global Privacy Policy</h2><p>Last modified: October 2015</p><p><strong>At LogicNow it is one of our most fundamental values to deliver the best customer experience possible. Based on this philosophy, we want you to always feel informed and comfortable with how we collect, use, and disclose information. </strong></p><p><strong>&nbsp;</strong></p><p><strong>LogicNow respects your personal privacy. </strong></p><p><strong>&nbsp;</strong></p><p><strong>We are making a commitment to you that any personal information collected during visits to our website or provided to us in connection with our services, software applications or social media sites is processed in accordance with applicable data protection laws. LogicNow protects your information using state-of-the-art safeguard procedures. </strong></p><p><strong>&nbsp;</strong></p><p><strong>Introduction</strong></p><p>LogicNow and its affiliated companies and subsidiaries ("we/us") respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Privacy Policy”). This Privacy Policy (together with our terms of use and any other documents referred to in it) describes the type of information that we collect from you through the use of our products and/or services (“Products”), or the use of this website <a href="http://www.maxfocus.com">www.maxfocus.com</a> (our "Website"), how that information may be used or disclosed by us and the safeguards we use to protect it.</p><p>&nbsp;</p><p>Our Website and Products may contain links to third party websites that are not covered by this Privacy Policy. LogicNow encourages you to review the privacy statements of other websites and applications to understand their information practices.</p><p>&nbsp;</p><p>We have drafted this Privacy Policy to be as clear and concise as possible. Please read it carefully to understand our policies regarding your information and how we will treat it. By using or accessing our Website or the Products, you agree to the collection, use and disclosure of information in accordance with this Privacy Policy. This Privacy Policy may change from time to time and your continued use of the Website or the Products is deemed to be acceptance of such changes, so please check periodically for updates.</p><p>&nbsp;</p><p><strong>Information you voluntarily provide to us</strong></p><p>We collect personal information that you voluntarily provide to us yourself on our Website, through social media or through the use of the Products including but not limited to your name, address, email address, telephone number or financial information, in the following circumstances:</p><p><strong>&nbsp;</strong></p><ul class="ul1"><li><strong>Accounts</strong>&nbsp;– when you register for an account or subscribe to use the Products or our Website</li><li><strong>Support&nbsp;</strong>– when you request support, services or information about the Products or our Website</li><li><strong>Contests and Promotions</strong>&nbsp;– when you participate in a contest, promotion or survey</li><li><strong>Correspondence</strong>&nbsp;– when you contact us &nbsp;</li><li><strong>Transactions and Orders</strong>&nbsp;– when you carry out transactions through our Website or purchase the Products including on a trial basis or any upgrades</li></ul><p>&nbsp;</p><p>If you choose not to provide the personal information we request, you can still visit most areas of the Website, but you may be unable to access certain options and services that involve interaction. You have the final decision on whether to proceed with any activity that requests personal information.</p><p>&nbsp;</p><p><strong>Information we may collect</strong></p><p>We may use various common internet technologies to automatically collect statistical or aggregate non-personal information about your interaction with our Website or the Products. This may include usage information about your computer, laptop, mobile phone or other electronic device such as internet protocol (IP) addresses, location,&nbsp;browser type, internet service provider (ISP), pages that you access, referring/exit pages, operating system, date/time stamp and other interactions with our Website or the Products. We analyse this information in order to understand our customers’ requirements and based on these, to continually improve our Website and Products.</p><p>&nbsp;</p><p>If we link or associate any information gathered with personal information we treat the combined information as personal information. Otherwise we only use and disclose non-personal or anonymized information collected solely by passive means in aggregate form or in a non-personally or anonymized form. Where, according to local law, IP addresses and the like are considered personal information, then we treat them as such. &nbsp;</p><p>&nbsp;</p><p><strong>Cookies -</strong> LogicNow uses cookies to track visitor preferences and to improve our Website and Products. Further information about cookies is available <a href="https://www.maxfocus.com/cookie-policy">here</a>.</p><p>&nbsp;</p><p><strong>Web Beacons -</strong>&nbsp;Web beacons also known as pixel tags are electronic images, contained on a website that permit us to count users who have visited those pages and for other related website statistics. Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.</p><p><strong>&nbsp;</strong></p><p><strong>Web Analytics -&nbsp;</strong>We also collect some non-personally identifiable information (ourselves or using third party services) using web analytic tools. We use&nbsp;third-party services&nbsp;that use tracking technologies to capture aggregate usage and volume statistics about interactions on our Website and Products.</p><p><strong>&nbsp;</strong></p><p><strong>Third Party Advertising Technologies -</strong>&nbsp;In addition, we may use third party vendors such as Google or AdRoll to perform display advertising or remarketing services on our Website. These services collect and use data which can help us tailor advertising that we think may be of interest to you, based on your use of our Website and/or Products. Third-party vendors may use or place cookies and web beacons on your web browsers to collect non-personal information about your activities on our Website to provide you with targeted ads.</p><p>&nbsp;</p><p>As always, we respect your privacy and do not collect any personally identifiable information through the use of Google or any other third party services. Any information collected is used only for remarketing purposes and will not be used by third-party marketing vendors for any other purpose. To opt out of Remarketing and Advertising&nbsp;<a href="https://www.google.com/settings/ads">click here</a>. To find out more about how Google uses any data it collects please visit<strong>&nbsp;</strong><a href="http://www.google.com/privacy_ads.html">here</a>. You may also opt-out of third-party advertisement networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites <a href="http://www.networkadvertising.org/optout_nonppii.asp(NAI)">here</a> for NAI and <a href="http://www.aboutads.info/choices/">here</a> for DAA.</p><p>&nbsp;</p><p>Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p><p><strong>How we use the information</strong></p><p>We process and use your personal information only in connection with services related to our Products and Website in the following ways:</p><p>&nbsp;</p><ul class="ul1"><li>To administer, operate and improve the Products, services and our Website;</li><li>To provide you with information or newsletters about our Products or services that you request from us;</li><li>To notify you about any changes or provide you with support;</li><li>To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us such as communications related to payments and changes to our terms, conditions and policies;</li><li>To allow you to purchase and download Products and participate in interactive features of our services, when you choose to do so;</li><li>For billing and accounting purposes;</li><li>For internal purposes such as performing research and analysis and to provide anonymous reporting internally or externally;</li><li>For marketing and promotional purposes so as to provide you with information about Products or services we think you might like. You may opt-out of receiving these communications by following the steps described below;</li><li>For any other purposes that we may disclose to you at the point at which we request your personal information and pursuant to your consent; or</li><li>To prevent or take action against activities that are or may be in violation of the Product end-user license agreement, the Website Terms of Use or applicable law.</li></ul><p>&nbsp;</p><p>Once you have registered for the Products we reserve the right to send you certain communications relating to the Products, such as service announcements and administrative messages that are considered part of the Product. Please be aware that you may not opt out of receiving these mandatory communications related to the Products.</p><p>&nbsp;</p><p><strong>Disclosure of your information</strong></p><p>Except as described in this Privacy Policy, we will not disclose your personal information to third parties without your consent. We may disclose personal information that you provide to us when necessary to the following third parties:</p><p>&nbsp;</p><ul class="ul1"><li>Authorised partners, distributors and resellers to fulfil any terms under your licensing and service relationship with us and to provide you with local technical and customer support;</li><li>In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of LogicNow’s assets, in which case personal information held by us about you and our customers will be among the assets transferred to the (prospective) buyer;</li><li>Direct or indirect contractors and service providers we occasionally use to support our business as may be required for example, to fulfil orders, conduct billing/credit card processing, provide you with services or perform statistical analysis of the Products and our Website. Those service providers will be permitted to obtain only the personal information they need to deliver the service in accordance with our policies under confidentiality agreements and not for their own purposes;</li><li>To comply with a law, court order or other legal obligation;</li><li>To a member of our group – holding company and its subsidiaries and affiliates. This information helps us make your customer experience more seamless and efficient;</li><li>To enforce or apply our terms of use or terms of license or sale and other agreements; or</li><li>To protect the rights, property, or safety of LogicNow, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li></ul><p>&nbsp;</p><p>We may disclose non-personal information that doesn’t identify you, to our partners or other third parties about how our customers, collectively, use our Website and the Products but we do not sell or share any information at the individual level.</p><p>&nbsp;</p><p><strong>Your choices and opt-out &nbsp;</strong></p><p>We would like to tell you about our Products and those of our partners. You decide whether or not you would like to be contacted by us. You may elect to opt-out of receiving direct marketing or market research information from us.</p><p><strong>&nbsp;</strong></p><p><strong>Promotional Offers </strong>- If you do not wish us to share your personal information with other LogicNow companies or affiliated third parties for promotional purposes, you can opt-out by checking the relevant box located on the applicable registration form on which we collect your data. You can also simply log into your account on the Website and adjust your user preferences or by sending us an e-mail stating your request to&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Unsubscribing -</strong>&nbsp;In every marketing or promotional e-mail that we send to you, there is an ‘unsubscribe’ hyperlink, which you may use if you wish to ‘opt-out’ and stop receiving promotional email communications from us. Alternatively, you may send an e-mail to <a href="mailto:unsubscribe@maxfocus.com"><strong>unsubscribe@maxfocus.com</strong></a>&nbsp;with your request, stating ‘Unsubscribe’ as the subject and indicate which e-mail addresses you would like to be removed from our mailing list.</p><p>&nbsp;</p><p>We shall ensure that your e-mail address is unsubscribed and shall no longer receive any promotional communications from us. Please note it may take up to ten business days for us to process your opt-out request and you may receive commercial e-mail from us during that period.</p><p>&nbsp;</p><p><strong>User Contributions</strong></p><p>You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website or through social media (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view or use your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Website Terms of Use and known or suspected violations should be reported to&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Accessing and correcting your personal information</strong></p><p>If requested, LogicNow will confirm whether we store personal data about you and what this data is. You can review or update your personal information by logging into your account and making changes. If you have forgotten your password, you can click on the "Forgot your password?" link and submit your e-mail address. Your user name and password will be e-mailed to you. Alternatively, you can also contact us at&nbsp;<a href="mailto:legal@logicnow.com">legal@logicnow.com</a>&nbsp;if you wish to exercise these rights. While we will strive to accommodate your requests, we may reject requests which risk the privacy of others, are unreasonable or repetitive, require disproportionate technical effort or would be extremely impractical.</p><p>&nbsp;</p><p>If you request that we delete your account we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.</p><p><strong>&nbsp;</strong></p><p><strong>Where we store your personal data</strong></p><p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</p><p>&nbsp;</p><p>With respect to data transfers from the EEA to the United States or to other countries outside the EEA, we have taken steps to ensure adequate protection for such data transfers in accordance with European data protection legislation. We have entered into appropriate data transfer agreements based on the standard contractual clauses specifically approved by the European Commission for the purpose of providing adequate protection for data transfers between LogicNow entities outside the EEA, as necessary.</p><p><strong>&nbsp;</strong></p><p><strong>Children under the age of 13</strong></p><p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at&nbsp;<a href="mailto:legal@logicnow.com">legal@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Data security</strong></p><p>We have implemented industry-standard administrative, technical and physical security measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls and strictly controlled. Any payment transactions are encrypted using SSL technology.</p><p>&nbsp;</p><p>Where we have given you (or where you have chosen) a password for access to certain parts of our Website or Products, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.</p><p>&nbsp;</p><p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website or through your use of our Products and any transmission is at your own risk.</p><p>&nbsp;</p><p><strong>Your California privacy rights</strong></p><p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. To make such a request, please send an e-mail to&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Changes to our Privacy Policy</strong></p><p>It is our policy to post any changes we make to our Privacy Policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our Products shall be deemed to be your consent to such changes.</p><p>&nbsp;</p><p>The date the Privacy Policy was last revised is identified at the top of the page.</p><p>&nbsp;</p><p><strong>Contact information</strong></p><p>To ask questions or comment about this privacy policy and our privacy practices, contact us at:&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a></p><p>&nbsp;</p><p>Corporate address</p><p>LogicNow Ltd</p><p>The Vision Building<br> 20 Greenmarket<br> Dundee<br> DD1 4QB</p><p>UK</p><p><strong>Email:</strong>&nbsp;<a href="mailto:legal@logicnow.com">legal@logicnow.com</a></p><p>&nbsp;</p>  </div>
+</div>  </div>
+
+  
+  </div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4">
+				<div class="inner sidebar">
+									</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="section-assets">
+		<div class="container maxstandard-container maxstandard-section-heading-assets clearfix panel-panel">
+			<div class="row">
+				<div class="col-xs-12 col-md-8 col-md-offset-2">
+									</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-md-4">
+									</div>
+				<div class="col-xs-12 col-md-4">
+									</div>
+				<div class="col-xs-12 col-md-4">
+									</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="section-bottom">
+		<div class="container-fluid maxstandard-container maxstandard-section-bottom clearfix panel-panel">
+			<div class="row">
+				<div class="col-xs-12">
+									</div>
+			</div>
+		</div>
+	</div>
+
+
+</div><!-- /.maxhome -->
+</div>  </div>
+</div>
+  </div>
+		</div>
+	</div> <!-- /#main -->
+</div> <!-- /#main-wrapper -->
+	<div id="footertop1">
+	<div id="footertop1-region" class="container"><div class="row section">
+		  <div class="region region-footertop1">
+    <div id="block-block-5" class="block block-block">
+
+    
+  <div class="content">
+    <section class="max-in-numbers en">
+	<aside class="col-xs-12 col-sm-4 a">
+		<h2>260 million</h2>
+		<p>remote monitoring checks<br>
+		run every day</p>
+	</aside>
+	<aside class="col-xs-12 col-sm-4 a">
+		<h2>8 billion</h2>
+		<p>spam messages  stopped by<br>
+		MAX in the past year</p>
+	</aside>
+	<aside class="col-xs-12 col-sm-4 a">
+		<h2>1 million</h2>
+		<p>quarantined threats by<br>
+		MAX every month</p>
+	</aside>
+</section>  </div>
+</div>
+  </div>
+	</div></div></div> <!-- footertop1 -->
+	<div id="footertop2">
+	<div id="footertop2-region" class="container"><div class="row section">
+		  <div class="region region-footertop2">
+    
+<aside class="product-divider">
+  <img src="https://cdn.maxfocus.com/cdn/farfuture/q049Nn95ghNETjK5KP-H8Ik1EcNW8esEb9CYRULFrzM/mtime:1457617893/sites/max/themes/max/assets/images/signatures/en.png" alt="Signature">
+  <span class="free-trial">
+    Take a free 30 day trial now...  </span>
+  <div class="cta-group">
+    <a href="/trials" class="cta cta-learn-more">FREE TRIAL      <span class="fa fa-caret-right">
+      </span>
+    </a>
+  </div>
+</aside>  </div>
+	</div></div></div> <!-- footertop2 -->
+	<div id="footertop3">
+	<div id="footertop3-region" class="container"><div class="row section">
+		  <div class="region region-footertop3">
+    <div id="block-block-4" class="block block-block col-xs-12">
+
+    
+  <div class="content">
+    <aside class="ticks footer">
+	<ul>
+		<li><i class="fa fa-check"></i>Try all MAXfocus products FREE</li>
+		<li><i class="fa fa-check"></i>Start earning recurring revenue</li>
+		<li><i class="fa fa-check"></i>Just 10 minutes to get started</li>
+	</ul>
+</aside>  </div>
+</div>
+  </div>
+	</div></div></div> <!-- footertop3 -->
+ <div id="footertop4">
+	<div id="footertop4-region" class="container"><div class="row section">
+		  <div class="region region-footertop4">
+    <div id="block-block-3" class="block block-block col-xs-12">
+
+    
+  <div class="content">
+    <aside class="connect-with-us">
+	<h2>Connect With Us</h2>
+	<p>There are a number of ways to keep up to date with what is happening at MAX and to ensure you have full details on company and product news, our sales &amp; marketing and technical webinars - plus access to free resources like white papers and our blog.</p>
+	<ul class="social-icons">
+		<li class="tw"><a href="https://twitter.com/MAXfocus"><i class="fa fa-twitter"></i></a></li>
+		<li class="gplus"><a href="https://plus.google.com/112779368795700237830/"><i class="fa fa-google-plus"></i></a></li>
+		<li class="yt"><a href="https://www.youtube.com/channel/UCIyv4sD9Hdp9xnafcBXisDg/"><i class="fa fa-youtube"></i></a></li>
+		<li class="lin"><a href="https://www.linkedin.com/groups?mostRecent=&amp;gid=1986499"><i class="fa fa-linkedin"></i></a></li>
+	</ul>
+</aside>  </div>
+</div>
+  </div>
+	</div></div></div> <!-- footertop4 -->
+ <div id="footertop5">
+	<div id="footertop5-region" class="container"><div class="row section">
+		  <div class="region region-footertop5">
+    <div id="block-views-awards-block-1" class="block block-views col-xs-12">
+
+    
+  <div class="content">
+    <div class="view view-awards view-id-awards view-display-id-block_1 container view-dom-id-40f283f101a5a054de1ac8b70d3901a4">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+          <div class="views-slideshow-controls-top clearfix">
+        <div id="views_slideshow_controls_text_awards-block_1" class="views-slideshow-controls-text views_slideshow_controls_text">
+  <span id="views_slideshow_controls_text_previous_awards-block_1" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous"><a href="#">Previous</a></span>
+  <span id="views_slideshow_controls_text_pause_awards-block_1" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
+  <span id="views_slideshow_controls_text_next_awards-block_1" class="views-slideshow-controls-text-next views_slideshow_controls_text_next"><a href="#">Next</a></span>
+</div>
+      </div>
+    
+    <div id="views_slideshow_cycle_main_awards-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_awards-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_awards-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/2015-miami-best-of-show_0.jpg" width="122" height="55">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/2015-miami-best-of-show.jpg" width="122" height="55">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/award-autotask-best-technology-integration.png" width="122" height="80">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/award-ascii-best-in-show_0.png" width="122" height="80">  </div>
+</div>
+<div id="views_slideshow_cycle_div_awards-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/awards-chpro-bpc-2014.jpg" width="122" height="80" alt="Channelpro Best Partner Community" title="Channelpro Best Partner Community">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/awards-ascii-brg-2014.jpg" width="122" height="80" alt="Best revenue generator 2014" title="Best revenue generator 2014">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/awards-ascii-bcs-2014.jpg" width="122" height="80" alt="Best cloud solution 2014" title="Best cloud solution 2014">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/awards-bs-bcv-2014.jpg" width="122" height="80" alt="Business Solutions Best Channel Vendor 2014" title="Business Solutions Best Channel Vendor 2014">  </div>
+</div>
+<div id="views_slideshow_cycle_div_awards-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/awards-ascii-customersupport-2013.jpg" width="122" height="80" alt="Winner Customer Support 2013" title="Winner Customer Support 2013">  </div>
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd award-icon">
+    
+          <img src="https://cdn.maxfocus.com/max/s3fs-public/awards/awards-ng-svoty-2013.jpg" width="122" height="80" alt="Network Group - Special Vendor of the Year 2013" title="Network Group - Special Vendor of the Year 2013">  </div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+	</div></div></div> <!-- footertop5 -->
+
+<footer id="footer" class="footer" role="footer">
+	<div id="foot">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-4">
+											<section class="foot-phone">
+							  <div class="region region-footer-main-col-a">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://www.maxfocus.com">MAXfocus</a> is a brand name of LogicNow.</p><p><a href="https://www.logicnow.com">LogicNow</a> is the world’s leading integrated IT Service Management platform provider, helping thousands of  IT professionals across the world.</p><p><span>Email: <a href="mailto:info@maxfocus.com">info@maxfocus.com</a></span></p>  </div>
+</div>
+  </div>
+						</section>
+									</div>
+				<div class="col-xs-12 col-sm-2">
+											<section class="foot-menu">
+							  <div class="region region-footer-main-col-b">
+    <div id="block-menu-block-2" class="block block-menu-block">
+
+    <h2>Company</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-company parent-mlid-0 menu-level-1">
+  <ul class="sub-header-menu"><li class="first leaf menu-mlid-2799 menu-link-about"><a href="https://www.maxfocus.com/about">About</a></li>
+<li class="leaf menu-mlid-2797 menu-link-grow"><a href="https://www.maxfocus.com/grow">Grow</a></li>
+<li class="leaf menu-mlid-2796 menu-link-products"><a href="https://www.maxfocus.com/products">Products</a></li>
+<li class="last leaf menu-mlid-13346 menu-link-careers"><a href="https://www.logicnow.com/careers">Careers</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+						</section>
+									</div>
+				<div class="col-xs-6 col-sm-2">
+											<section class="foot-menu">
+							  <div class="region region-footer-main-col-c">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h2>Community</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-community parent-mlid-0 menu-level-1">
+  <ul class="sub-header-menu"><li class="first leaf menu-mlid-2801 menu-link-blog"><a href="https://www.maxfocus.com/blog/" target="_blank">Blog</a></li>
+<li class="leaf menu-mlid-2954 menu-link-forum"><a href="http://forums.maxfocus.com/" target="_blank">Forum</a></li>
+<li class="last leaf menu-mlid-2955 menu-link-linkedin-group"><a href="https://www.linkedin.com/groups?mostRecent=&amp;gid=1986499&amp;trk=my_groups-tile-flipgrp" target="_blank">LinkedIn Group</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+						</section>
+									</div>
+				<div class="col-xs-12 col-sm-4">
+											<section class="from-blog">
+                                                    <h2><span class="em">from the</span> BLOG</h2>
+							  <div class="region region-footer-main-col-d">
+    <div id="block-views-blog-aggregator-max-iq" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-blog-aggregator view-id-blog_aggregator view-display-id-max_iq view-dom-id-153430ff0b9f3fe9324aeb66c3b8c9db">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><article class="blog-post">
+<h3><a href="https://www.maxfocus.com/blog/insurance-and-security-audits/">Helping your clients with insurance and security audits</a></h3>
+<span class="timestamp">March 15, 2016</span>
+</article></span>  </div>  </div>
+  <div>
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><article class="blog-post">
+<h3><a href="https://www.maxfocus.com/blog/nothing-personal-persuading-your-client-to-use-your-service-desk-not-your-call-phone/">Nothing personal: Persuading your client to use your Service Desk not your cell phone</a></h3>
+<span class="timestamp">March 10, 2016</span>
+</article></span>  </div>  </div>
+  <div>
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><article class="blog-post">
+<h3><a href="https://www.maxfocus.com/blog/open-hours-set-boundaries-customers-can-call/">Open all hours? How to set boundaries to when your customers can call you</a></h3>
+<span class="timestamp">March 9, 2016</span>
+</article></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+						</section>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div id="subfoot">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-md-3">
+					<span class="copyright">Copyright © 2016 LogicNow Ltd.</span>
+				</div>
+				<div class="col-sm-9 col-md-7">
+					<section class="subfooter-menu">
+						<div class="menu-block-wrapper menu-block-4 menu-name-menu-sub-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="sub-header-menu"><li class="first leaf menu-mlid-6155 menu-link-sitemap"><a href="https://www.maxfocus.com/sitemap">Sitemap</a></li>
+<li class="leaf active menu-mlid-3093 active menu-link-privacy-policy"><a href="https://www.maxfocus.com/privacy-policy" class="active">Privacy Policy</a></li>
+<li class="leaf menu-mlid-5897 menu-link-cookie-policy"><a href="https://www.maxfocus.com/cookie-policy">Cookie Policy</a></li>
+<li class="leaf menu-mlid-3094 menu-link-copyright-notice"><a href="https://www.maxfocus.com/copyright-notice">Copyright Notice</a></li>
+<li class="last leaf menu-mlid-3095 menu-link-terms-of-use"><a href="https://www.maxfocus.com/website-terms-use">Terms of Use</a></li>
+</ul></div>
+					</section>
+				</div>
+				<div class="col-sm-3 col-md-2">
+					<ul class="social-icons">
+						<li class="social-fb"><a href="https://plus.google.com/112779368795700237830/" target="_blank"><span class="sr-only">Google plus</span><i class="fa fa-google-plus"></i></a></li>
+						<li class="social-tw"><a href="https://twitter.com/MAXfocus" target="_blank"><span class="sr-only">Twitter</span><i class="fa fa-twitter"></i></a></li>
+						<li class="social-li"><a href="https://www.linkedin.com/groups?mostRecent=&amp;gid=1986499" target="_blank"><span class="sr-only">LinkedIn</span><i class="fa fa-linkedin"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<div id="admin-stuff">
+	<div class="container">
+		<div class="row">
+			<div id="page-header col-xs-12">
+															</div>
+		</div>
+	</div>
+</div>  <script type="text/javascript" src="//cdn.maxfocus.com/s3fs-js/advagg_js/js__JBJNpLoX2SQAZNLVav9JPpURhDNa-e9sjCGTMb3iZJw__DNMWLxLzldayckFXb6k4i0XNrEEQDTPLzvvQJ3ROsMQ__MZEnkcIgvWLld59m1KmLGFD_tqcMFrOOhFXkwO9U59Q.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b82b6ee573","applicationID":"5954195,5954092,5951516","transactionName":"YgRXNhNZWURTBUdZW1tOYBAIF15ZVgNLHkRdEQ==","queueTime":0,"applicationTime":49,"atts":"TkNUQFtDSko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
