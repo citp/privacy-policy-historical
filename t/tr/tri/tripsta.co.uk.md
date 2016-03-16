@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204220131id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316162139id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tripsta.co.uk
 
@@ -46,7 +46,7 @@ K. Other Information You Should Know
 
 We have developed a privacy policy to keep you informed of what information capable of identifying you as a particular individual (hereinafter referred to as "personal information") we may collect from you, what this information will be used for, with whom such information will be shared, and the security procedures we have implemented to protect your privacy. This includes information that can be linked to a specific individual, such as name, address, phone number or email address, transactions with us and credit card information.
 
-Information collected by us is controlled by Travelplanet24 S.A. Travel Agency (trading as tripsta.co.uk, hereinafter referred to as  **‘we’** , and  **‘us’** ) with its registered office at Athens, Greece, Karagiorgi Servias Str. 4, P.O 10562 Syntagma.
+Information collected by us is controlled by Tripsta S.A. Travel Agency (trading as tripsta.co.uk, hereinafter referred to as  **‘we’** , and  **‘us’** ) with its registered office at Athens, Greece, Karagiorgi Servias Str. 4, P.O 10562 Syntagma.
 
 ##  A.   Personal Information we collect and how we collect it
 
@@ -69,18 +69,18 @@ We may collect personal information about you in the following circumstances:
 ##    
 B. Cookies policy
 
-In compliance with EU Directive 2009/136/CE, we would like to advise you that our website accepts the use of “cookies”, to determine how users reach our website and to track general usage patterns once a user is on our website. Cookies are messages that web servers pass to your web browser when you visit Internet sites. Your browser stores each message in a small file, which will give us information about your last visit to our web page. This information is collected and analyzed in the aggregate in order to improve the function, content, overall appearance, and capability of our website.
+In compliance with EU Directive 2009/136/CE, we would like to inform you that our website accepts the use of “cookies”, to determine how users reach our website and to track general usage patterns once a user is on our website. Cookies are messages that web servers pass to your web browser when you visit Internet sites. Your browser stores each message in a small file, which will give us information about your last visit to our web page. This information is collected and analyzed in the aggregate in order to improve the function, content, overall appearance, and capability of our website.
 
-Most of Internet browsers accept the use of cookies automatically, but you can always choose not to accept a cookie by changing your computer preferences to refuse cookies or to prompt you to accept each cookie, but doing so will limit the range of features available to you on the Web site.
+Most of Internet browsers accept the use of cookies automatically, but you can always choose not to accept a cookie by changing your computer settings to refuse cookies or to prompt you to accept each cookie, but doing so will limit the range of features available to you on the Web site.
 
 Specifically, we use the following cookies:
 
-  1. Analytical cookies \- Allow us to see how visitors move around the website and to record which content viewers view and are interested in. This helps us to improve the service which we offer to you by helping us make sure our users are finding the information they are looking for.
-  2. Social cookies \- Are necessary for Social Networks (Facebook, Google and Twitter). Its function is to control the interaction with Social Widgets on the page. Such Cookies are used in the domains: "facebook.com", "google.com" and "twitter.com".
+  1. Analytics cookies \- Allow us to see how visitors move around the website and to record which content viewers view and are interested in. This helps us to improve the service which we offer to you by helping us make sure our users are finding the information they are looking for.
+  2. Social media cookies \- Are necessary for Social Networks (Facebook, Google and Twitter). Its function is to control the interaction with Social Widgets on the page. Such Cookies are used in the domains: "facebook.com", "google.com" and "twitter.com".
   3. Affiliated cookies \- Allow us to track visits from other Web Sites which we have an affiliation agreement. Such cookies are used in the domain “mixmarket.com”, "zanox.com"," linkwise.com" and “optivo.com”.
   4. Behavioral and advertising cookies \- These collect information about your preferences and choices in this website. They target advertising networks, who then use them to show customized ads on other websites.
-  5. Technical cookies \- These are strictly for the use of this Website.
-  6. Functional cookies \- These are strictly necessary to provide the services requested by users on this Website. Such cookies are used in the site: "tripsta.co.uk".
+  5. Technical cookies \- These are strictly necessary for the use of this Website.
+  6. Functionality cookies \- These are strictly necessary to provide the services requested by users on this Website. Such cookies are used in the site: "tripsta.co.uk".
   7. New Relic - We use New Relic analytics to monitor the performance of our website, its underlying systems and architecture. With this information we can make changes to make the site perform more efficiently.  
  
 
@@ -102,7 +102,7 @@ Our website uses social plugins ("plugins") from the social networking site face
 
 In case you access a webpage of our website using such a plugin, your browser will contact the Facebook server and load the visual presentation of the plugin as well as present it to you. During this exercise, the Facebook server receives information concerning your visit of the website of our internet presence as well as further data like your IP address.
 
-By clicking on the plugins, your browser connects directly to Facebook's servers. Facebook transmits the content of the then visible plugin directly to your browser and integrates it into the page on our website. We therefore have no influence on the amount of data that Facebook is able to collect using these plugins. Information concerning the subject matter is made available by Facebook‘ data protection policy. If you are logged in to Facebook at the time, it can associate your visit to the page to your Facebook account. If you interact with the plugins, for example by clicking the 'Like’ button or by posting a comment, the information you give is then sent directly to Facebook and saved there. If you do not have a Facebook account, it is still possible for Facebook to identify and store your IP address after you have clicked the Facebook note.
+When the plugin is loaded, Facebook transmits the content of the then visible plugin directly to your browser and integrates it into the page on our website. We therefore have no influence on the amount of data that Facebook is able to collect using these plugins. Information concerning the subject matter is made available by Facebook‘ data protection policy. If you are logged in to Facebook at the time, it can associate your visit to the page to your Facebook account. If you interact with the plugins, for example by clicking the 'Like’ button or by posting a comment, the information you give is then sent directly to Facebook and saved there. If you do not have a Facebook account, it is still possible for Facebook to identify and store your IP address after you have clicked the Facebook note.
 
 To find out more about the reasons why and the extent to which Facebook collects data, how the data is further processed and used, your rights in the matter, and settings options you can choose that protect your privacy, please see [Facebook´s data use policy](https://www.facebook.com/about/privacy/). 
 
@@ -118,7 +118,7 @@ When you open a tripsta webpage, which contains such a Google plugin, your brows
 
 According to Google, no personal information is collected without clicking on the "+1" symbol. Personal data is only collected and processed for people who are logged in to Google+. Further information can be found at <https://developers.google.com/+/web/buttons-policy>. 
 
-Tripsta has no influence on the data collection and processing for which Google is solely responsible.
+Tripsta S.A. has no influence on the data collection and processing for which Google is solely responsible.
 
 C. How we use the information we collect and with whom it is shared  
  
@@ -144,7 +144,7 @@ These service providers will disclose information about your traveller profile t
 
 Although no personal information is collected, we monitor users’ navigation of our Web site in order to better understand and serve our customers. We may provide anonymous statistical information based on this data to carefully selected third party partners and providers as necessary for business administration, customer delivery, marketing and operational, analytical, quality assurance and, though only in relation to anonymised data, marketing assistance (for example, to explore consumer trends) or other purposes as set out below. Except with your expressly given consent, we will only share your personal information as described in this Privacy Policy. To the extent that any third party has access to your personal information to provide functions on our behalf, their use of this information will be limited solely to providing those functions and for no other purpose.
 
-We may disclose your personal information to third parties, such as official bodies and our professional advisers, as far as we believe it is necessary (i) to comply with relevant laws, orders or regulations; (ii) to enforce our customer terms and conditions of use or other contractual agreements; and (iii) to protect the property and other rights of tripsta.co.uk, its group companies, customers and others (for example, in any way relating to protection against fraudulent activities in respect of tripsta.co.uk).
+We may disclose your personal information to third parties, such as official bodies and our professional advisers, as far as we believe it is necessary (i) to comply with relevant laws, orders or regulations; (ii) to enforce our customer terms and conditions of use or other contractual agreements; and (iii) to protect the property and other rights of Tripsta S.A., its group companies, customers and others (for example, in any way relating to protection against fraudulent activities in respect of tripsta.co.uk).
 
 When you make a booking or purchase products or services offered on our website, due to our security-protection and fraud-detection processes, we may pass certain personal information which you provide to us (for example, your name, credit card, billing address details) to third party credit reference agencies, payment processors or other third parties for the specific purpose of verifying that information. If your personal information cannot be satisfactorily verified (for example, your stated billing address does not match your credit card details), we will contact you to notify you that your purchase request has not been confirmed and to request corrected details, if they can be provided, before we can process your order.
 
@@ -202,10 +202,10 @@ Unauthorized use of any of our services in connection with the transmission of u
 J. Questions, Comments, or Concerns
 
 If you have questions or comments about this privacy policy, or if you are concerned that we have not followed the principles set forth in this privacy policy, please send an email to us at [privacy@tripsta.net](mailto:privacy@tripsta.net) or write us at:  
-Travelplanet24 (mother company of Tripsta), 4, Karageorgi Servias street, 105 62, Athens Greece.
+Tripsta S.A., 4, Karageorgi Servias street, 105 62, Athens Greece.
 
 We are receptive to your comments or questions.
 
 K. Other Information You Should Know
 
-This Privacy Policy was revised and posted on tripsta.co.uk on September 13, 2013. We may, in our sole discretion, revise this privacy policy at any time and all such revisions shall be effective when posted, so be sure to check back periodically. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy, as well as to existing information held by us. Use of the Website after such changes are posted, or as otherwise set forth in our email to you on this subject, shall constitute acceptance of such changes.
+This Privacy Policy was revised and posted on Tripsta S.A. on **11/12/2015**. We may, in our sole discretion, revise this privacy policy at any time and all such revisions shall be effective when posted, so be sure to check back periodically. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy, as well as to existing information held by us. Use of the Website after such changes are posted, or as otherwise set forth in our email to you on this subject, shall constitute acceptance of such changes.
