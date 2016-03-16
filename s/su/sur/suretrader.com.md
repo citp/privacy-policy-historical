@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suretrader.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208145438id_/http%3A//suretrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suretrader.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317004548id_/https%3A//suretrader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Stock Trading | SureTrader Day TradingOnline Stock Trading | SureTrader Day Trading
 
