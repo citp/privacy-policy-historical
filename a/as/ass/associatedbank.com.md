@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061322id_/https%3A//www.associatedbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316102316id_/https%3A//www.associatedbank.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy
 
 **FACTS** |  **WHAT DOES ASSOCIATED BANC-CORP DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
