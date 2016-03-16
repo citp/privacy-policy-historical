@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payitforwardtraffic.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109042711id_/http%3A//payitforwardtraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payitforwardtraffic.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316052258id_/http%3A//payitforwardtraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Pay It Forward Traffic
 
