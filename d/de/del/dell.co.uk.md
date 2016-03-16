@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.co.uk privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102143646id_/http%3A//www.dell.com/learn/uk/en/ukcorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.co.uk privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316024522id_/http%3A//www.dell.com/learn/uk/en/ukcorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell UK
 
