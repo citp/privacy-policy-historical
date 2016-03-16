@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sense-lang.org privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007140519id_/http%3A//www.sense-lang.org/teachers/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sense-lang.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316223025id_/http%3A//sense-lang.org/teachers/Privacy_Policy.html) for the most accurate reproduction.*
 
 # TERMS OF USE
 
-25/1/11
+29/2/16
 
 **Privacy Policy**
 
@@ -73,3 +73,60 @@ Please remember that when you use a link to go from our Web site to another Web 
 Your Consent
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+**According to CalOPPA we agree to the following:**  
+Users can visit our site anonymously  
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:  
+       **•**  On our Privacy Policy Page  
+Users are able to change their personal information:  
+       **•**  By logging in to their account
+
+**How does our site handle do not track signals?**  
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third party behavioral tracking?**  
+It's also important to note that we do not allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
+We do not specifically market to children under 13. 
+
+**What type of information is collected from the students?**  
+1) First Name  
+2) Last Name  
+3) Email (optional)
+
+According to COPPA regulation, schools are allowed to provide consent on behalf of the student parent. The school may consider providing parents with a notice of Sense-lang online service personal information collection.
+
+**How does Sense-lang use this personal information?**  
+The student personal information is essential to support internal operations and account personalization solely for the use and benefit of the school, and for no other commercial purpose.
+
+**Does Sense-lang use or share personal information for commercial purposes not related to the provision of the online services requested by the school?   **  
+No. The students personal information is stored solely for the use and benefit of the school.
+
+**Does Sense-lang enable the school to review and delete the personal information collected from their students?**  
+Yes. The teacher management tools allow the school to review, modify or delete the collected personal information.
+
+**What measures does Sense-lang take to protect the security, confidentiality, and integrity of the collected personal information?  **  
+We follow accepted industry standards to protect any provided personal information. Each student (and teacher) account has personalized credentials (unique username and password chosen by the school or student). The teacher account holds the credentials of all students' accounts. 
+
+**What are Sense-lang data retention and deletion policies for children’s personal information?**
+
+Student accounts can be removed only by the teacher. From time to time, Sense-lang reserves the right to remove teacher accounts (along with student accounts) with no activity for at least 6 months. 
+
+**CONTACT US**
+
+MINDKIT LTD is the operator of this Site and questions regarding this Privacy Policy and use of Personal Information should be directed to Sense-lang.org through any of the following methods:  
+Mailing address: 41 Themistokli Dervi, Hawaii Nicosia Tower, Nicosia, Cyprus  
+Email: senselang.support@gmail.com  
+Phone: +1 (646) 517-3853
+
+Note that the phone number is only for questions regarding this Privacy Policy.
