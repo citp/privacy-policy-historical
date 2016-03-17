@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enjoyengland.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907000519id_/https%3A//www.visitengland.com/visitengland-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoyengland.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317091118id_/https%3A//www.visitengland.com/visitengland-privacy-policy) for the most accurate reproduction.*
 
-# VisitEngland privacy policy | Visit England
+# VisitEngland privacy policy | VisitEngland
 
 VisitEngland* is committed to protecting your privacy as a user of our website www.visitengland.com , and the confidentiality of any personal information that you may provide us with during your visit to the Site.
 
