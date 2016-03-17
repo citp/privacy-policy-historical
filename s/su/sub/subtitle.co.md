@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subtitle.co privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316221046id_/http%3A//www.subtitle.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subtitle.co privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317230719id_/http%3A//www.subtitle.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Subtitle.co
 
