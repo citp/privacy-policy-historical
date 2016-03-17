@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010030524id_/http%3A//www.alertra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317071603id_/https%3A//www.alertra.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Alertra, Inc.
+# Privacy Statement | Alertra
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
 
 **Registration Forms**  
-Our site’s registration form requires users to give us their e-mail address, other contact information, and optionally credit card billing information.
+Our site's registration form requires users to give us their e-mail address, other contact information, and optionally credit card billing information.
 
 Your account e-mail address will be used in the following ways: 1) To notify you of changes in device status; 2) To notify you of system changes or problems with your account that may affect your service; and 3) To send you a weekly device summary report.
 
@@ -22,10 +22,10 @@ This site has security measures in place to protect the loss, misuse, and altera
 This site gives users the option of changing and modifying information previously provided. You can change account settings on your account information form.
 
 **Information Automatically Logged**  
-We log your IP address while you are visiting our site so we can understand how to improve our site’s navigation, etc. If you log into a user account on our site, we save your IP address with your user record to help protect ourselves from fraudulent use.
+We log your IP address while you are visiting our site so we can understand how to improve our site's navigation, etc. If you log into a user account on our site, we save your IP address with your user record to help protect ourselves from fraudulent use.
 
 **Cookies**  
-When you log in to your account we send your browser one cookie containing a session key. The session key is used for no other purpose than to allow you to navigate our site, and to automatically log you in when you return. The cookie expires when you click “Logout” on the menu. We will delete the corresponding session record from our server if you leave it active without visiting for more than 30 days.
+When you log in to your account we send your browser one cookie containing a session key. The session key is used for no other purpose than to allow you to navigate our site, and to automatically log you in when you return. The cookie expires when you click "Logout" on the menu. We will delete the corresponding session record from our server if you leave it active without visiting for more than 30 days.
 
 **External Links**  
 This site contains links to other sites. Alertra, Inc. is not responsible for the privacy practices or the content of such web sites.
