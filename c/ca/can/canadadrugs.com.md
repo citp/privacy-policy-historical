@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002023553id_/https%3A//www.canadadrugs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317094101id_/https%3A//www.canadadrugs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Canadian Pharmacy Online Policies - Canada Drugs
 
@@ -49,8 +49,6 @@ There are some situations where we are legally permitted to disclose personal in
 We sometimes contract outside organizations to perform specialized services. Our trusted service suppliers may at times be responsible for processing and handling some of the personal information we have received from you. 
 
 When you visit our website, information is not collected that could identify you personally unless you choose to provide it voluntarily. You are welcome to browse our website at any time anonymously and privately without revealing any personal information about yourself. 
-
-We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this behavioral advertising practice or to opt-out of this use of your anonymous information, you can visit www.networkadvertising.org 
 
 Security Measures 
 
