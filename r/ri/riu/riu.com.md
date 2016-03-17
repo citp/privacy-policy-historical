@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riu.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008013434id_/http%3A//www.riu.com/en/PaginasFinales/rwd_politicas.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riu.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317022405id_/http%3A//www.riu.com/en/PaginasFinales/rwd_politicas.jsp) for the most accurate reproduction.*
 
 # 
 
