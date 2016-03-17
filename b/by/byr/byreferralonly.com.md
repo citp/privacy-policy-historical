@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byreferralonly.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503071513id_/http%3A//www.byreferralonly.com/AboutUs/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byreferralonly.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317033452id_/http%3A//www.byreferralonly.com/AboutUs/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
 
 # 
 
