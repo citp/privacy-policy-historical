@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metrilo.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316200951id_/https%3A//www.metrilo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrilo.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317091825id_/https%3A//www.metrilo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - eCommerce Analytics by Metrilo
+# Privacy Policy - eCommerce Customer Intelligence by Metrilo
 
 **Last updated: October 17, 2014**
 
