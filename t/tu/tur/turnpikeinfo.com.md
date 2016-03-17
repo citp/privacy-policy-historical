@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318023254id_/https%3A//turnpikeinfo.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317210355id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
 
-# TurnpikeInfo.com Privacy Policy
+# PRIVACY POLICY FOR TURNPIKEINFO.COM
 
-## Privacy Policy: Updated June 28, 2012
+## Privacy Policy
 
-Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/web/20150318023254id_/https%3A//turnpikeinfo.com/terms/terms-of-use.php) and our [Refund Policy](https://web.archive.org/web/20150318023254id_/https%3A//turnpikeinfo.com/terms/refunds.php). 
+## Privacy Policy: Updated July 17, 2015
+
+[VIEW THE PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20160317210355id_/https%3A//turnpikeinfo.com/legal/privacy-2012-06-28.php)
+
+Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/legal/terms.php) and our [Refund Policy](https://web.archive.org/legal/refunds.php). 
 
 These conditions may be modified at any time, without prior notice to the user. It is your responsibility to check for modifications. By utilizing this website or ordering any products or services, you agree to the conditions outlined on these pages; if you do not agree to these conditions, you may not use this website.
 
@@ -16,13 +20,17 @@ We take your right to privacy seriously, and we want you to feel comfortable usi
 
 In common with other websites, log files are stored on a web server saving details such as the visitor's IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website.
 
-Where email forms or puchase forms are used, the visitor's email and a username will be stored on a third-party web server, which is leased by RODAN, as well as a a private system owned and operated by RODAN. This information will never be sold or otherwise conveyed to any third party in any manner, whatsoever, except as may be required to consummate your purchase of goods and services or to comply with local, state or federal laws.
+Where email forms or puchase forms are used, the visitor's email and a username will be stored on a third-party web server leased by RODAN, as well as a a private system owned and operated by RODAN. Information contained on the any forms submitted through this website will be retained by RODAN and TURNPIKE, in perpetuity, for internal use and to consummate any purchase of goods or services.
 
-This site does not gather any credit card information from its users for any products or services purchased. All information regarding payment for products and services is gathered by our third-party payment processors, and only when necessary to consummate a purchase. Please refer to the privacy policies of our third-party affiliates and vendors for further information about how your credit card information is handled.
+This information we save does not include any payment information on the part of the user, even when a purchase is made. All payment information is encrypted and sent to our payment processors, either Stripe, Paypal or other third-party vendor as may be used, from time to time.
+
+This site does not RETAIN any credit card information from its users for any products or services purchased. All information regarding payment for products and services is gathered by our third-party payment processors, and _only_ when necessary to consummate a purchase. Please refer to the privacy policies of our third-party affiliates and vendors for further information about how your credit card information is handled.
+
+No information provided by the user will ever be sold or otherwise conveyed to any third party in any manner, whatsoever, except as may be required to consummate your purchase of goods and services or to comply with local, state or federal laws. 
 
 **EMAIL AND COMMUNICATION**
 
-At any time you initiate communication with TURNPIKE or RODAN, including for the purchase of any goods or services, we may send email to you, directly, in resonse to your email to us. We may further send emails to you to inform you of news of our services or offers by us or our affiliates, only when you have previously sent communications to us. At any time you wish to opt-out of receiving emails from TURNPIKE or RODAN, simply reply to our communications with "REMOVE" or "UNSUBSCRIBE" in the subject line, and you will be taken off our list email recipients.
+At any time you initiate communication with TURNPIKE or RODAN, including for the purchase of any goods or services, we may send email to you, directly, in resonse to your email to us. We may further send emails to you to inform you of news of our services or offers by us or our affiliates, only when you have previously sent communications to us. At any time you wish to opt-out of receiving emails from TURNPIKE or RODAN, simply reply to our communications with "REMOVE" or "UNSUBSCRIBE" in the subject line, and you will be taken off our list email recipients. 
 
 Even under conditions where an request to opt-out has been received, any further communication by you or a purchase of a product or service by you, through this website, may result in new communications from us.
 
@@ -36,13 +44,13 @@ The information gathered on this website is used to enhance the vistor's experie
 
 **COOKIES**
 
-Cookies are digital signature files that are stored by your web browser to allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. You may be able to block cookies via your browser settings, but this may prevent you from access to certain features of the website.
+Cookies are digital signature files that are stored by your web browser to allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. You may be able to block cookies via your browser settings, but this may prevent you from access to certain features of the website. 
 
 Third-party advertising companies and analytics sites may also use cookies for tracking purposes.
 
 **CONTACT INFORMATION**
 
-If you have any questions regarding the policies and terms on this website, please contact the duly appointed registered agent of RODAN at [rodan@rodanmedia.net](mailto:rodan@rodanmedia.net).
+If you have any questions regarding the policies and terms on this website, please contact the duly appointed registered agent of RODAN at [rodan@rodanmedia.net](mailto:rodan@rodanmedia.net). 
 
 You may also send written communications to the following address:
 
