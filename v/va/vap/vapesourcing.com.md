@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vapesourcing.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021071315id_/http%3A//vapesourcing.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapesourcing.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317114508id_/http%3A//vapesourcing.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | VapeSourcing
+
+[](http://vapesourcing.com/member-discount "how to get 10% discount off in vapesourcing")
 
 Vapesourcing is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information.
 
