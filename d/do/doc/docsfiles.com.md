@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docsfiles.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812164637id_/http%3A//docsfiles.com/page.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docsfiles.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318001320id_/http%3A//docsfiles.com/page.php%3Fid%3D2) for the most accurate reproduction.*
 
 # Privacy Policy
 
