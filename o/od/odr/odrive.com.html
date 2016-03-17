@@ -1,0 +1,497 @@
+<!--The following is the downloaded HTML source of the odrive.com privacy policy that was archived on 2016-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160317054430id_/https%3A//www.odrive.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=""><head>
+
+    <!-- Basic Page Needs
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>odrive | Privacy Policy</title>
+
+    
+  <meta name="description" content="Combine all your apps and storage with odrive">
+  <meta name="author" content="odrive">
+
+
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+     <!-- If it's Dev - don't index 
+     ------------------------------------------------- -->
+    
+    
+
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Lato:100,200,300,400,700,900,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="/stylesheets/convincer/normalize.css">
+    <link rel="stylesheet" href="/stylesheets/convincer/skeleton.css">
+    <link rel="stylesheet" href="/stylesheets/convincer/menu.css">
+    <link rel="stylesheet" href="/stylesheets/convincer/odrive.css">
+    
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+    
+    
+    <!-- Google analytics code -->
+	  <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	   ga('create', 'UA-226182-33', 'auto');
+	   ga('send', 'pageview');
+
+	 </script>
+	 <!-- end Google analytics -->
+
+    <script src="/js/react.js"></script>
+
+    <!-- Cookie handling -->
+    <script src="/vendor/cookies/docCookies.js"></script>
+
+    
+  <!-- Scripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="/js/jquery-latest.min.js"></script>
+
+  <!-- Fancybox Javascript -->
+  <!-- Add mousewheel plugin (this is optional) -->
+  <script type="text/javascript" src="/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+  <!-- Add fancyBox -->
+  <link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+  <script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  <!-- Optionally add helpers - button, thumbnail and/or media -->
+  <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen">
+  <script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+  <script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+  <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen">
+  <script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+  <!-- Accoridon -->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+  <!-- Recurly -->
+  <script src="https://js.recurly.com/v3/recurly.js"></script>
+
+  <!-- CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/convincer/marketingpages-old.css">
+  <link rel="stylesheet" href="/stylesheets/convincer/marketingpages.css">
+
+
+
+    <script>
+        getOdriveCookie = function (cname) {
+            return docCookies.getItem(cname);
+        };
+
+        setOdriveCookie = function (cname, value) {
+            return docCookies.setItem(cname, value, false, '/', '.odrive.com'); // Set to '' for localhost testing
+        };
+
+        removeOdriveCookie = function (cname) {
+            return docCookies.removeItem(cname, '/');
+        };
+
+        /* Sidebar logic:
+           The side bar will show on each page if it is opened.
+           The open or close state is controlled by 'menucookie'.  Depending on it's state, it will show
+           the menu or not when the page is loaded.  The cookie state is set, and from then on the 'toggle' function
+           the user activates when the hamburger is clicked will read cookie state and invert the cookie state and
+           menu display.
+           The menucookie is used at the server to set the Jinja template to draw the menu open or closed.
+        */
+
+        function showMenu() {
+            $('#menu-wrapper').removeClass('menu-hidden');
+
+            /* Set cookie for menu state */
+            setOdriveCookie("menucookie", "on");
+        }
+
+        function hideMenu() {
+            $('#menu-wrapper').addClass('menu-hidden');
+
+            /* Set cookie for menu state */
+            setOdriveCookie("menucookie", "off");
+        }
+
+        function toggleMenu() {
+            /* Add back in the transition when the user clicks */
+            $('#menu-container-element').removeClass('menu-transition-off');
+            $('#menu-container-element').addClass('menu-transition-on');
+            $('#content-element').removeClass('menu-transition-off');
+            $('#content-element').addClass('menu-transition-on');
+            $('#menubar-element').removeClass('menu-transition-off');
+            $('#menubar-element').addClass('menu-transition-on');
+
+            /* Use cookie for menu state */
+            var menuCookie = getOdriveCookie("menucookie");
+            if (!menuCookie || menuCookie == 'off') {
+                showMenu();
+            } else {
+                hideMenu();
+            }
+        }
+
+        function forceMenuOff(showMenuWidth) {
+            var windowWidth = $(window).width();
+            if (windowWidth < showMenuWidth ) {
+                var menuCookie = getOdriveCookie("menucookie");
+                if (menuCookie == 'on' ) {
+                    toggleMenu();
+                }
+            }
+        }
+
+        /* This is used rather then the jquery .ready() as this waits for all resources to be rendered. */
+        document.onreadystatechange = function() {
+            if (document.readyState == 'complete') {
+                hideMenu();
+            }
+        };
+
+        get_product_name = function () {
+            return ("");
+        };
+
+        get_product_plan_code = function () {
+            return ("");
+        };
+
+        get_product_price = function () {
+            return ("");
+        };
+
+        get_product_term = function () {
+            return ("");
+        };
+
+        get_has_purchasing_account = function () {
+            var rv = "" == "False" ? false : true;
+            return (rv);
+        };
+
+        get_product_page = function () {
+            return ("");
+        };
+
+        get_product_manage_page = function () {
+            return ("");
+        };
+
+    </script>
+
+    
+
+
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+
+<body>
+   
+   <div id="menu-wrapper" class="clearfix menu-wrapper menu-hidden">
+   
+	       
+    <div id="menu-container-element" class="menu-container"> <!--Add menu-hidden to collapse -->
+      <div class="menu-scroller">
+        <div class="close pull-right" onclick="toggleMenu()">×</div>
+ 	    <a href="/account/myodrive">
+            <div class="home-icon-holder" style="">
+              <div id="menu-indicator-home">
+                <img class="indicator-img" src="/images/menu-indicator-circle.png">
+              </div>
+                  <div class="homeimg" style="margin-left: 9px; width:18px; height:20px;"></div>
+            </div>
+		</a>
+        <nav class="menu">
+            <a href="/links">
+              <div class="item">
+                <div id="menu-indicator-links"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+                <span class="menu-indicator-spacer">Links</span>
+              </div>
+            </a>
+            <a href="/add-ons">
+			  <div class="item">
+				<div id="menu-indicator-addons"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+				<span class="menu-indicator-spacer">Add-ons</span>
+			  </div>
+            </a>
+            <div style="padding-bottom:40px;"></div>
+
+			<a href="https://forum.odrive.com">
+			  <div class="item">
+				<div id="menu-indicator-blog"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+				<span class="menu-indicator-spacer">User Forum</span>
+			  </div>
+		    </a>
+			<a href="http://blog.odrive.com">
+			  <div class="item">
+				<div id="menu-indicator-blog"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+				<span class="menu-indicator-spacer">Blog</span>
+			  </div>
+		    </a>
+			<a href="/customerservice">
+			  <div class="item">
+				<div id="menu-indicator-customerservice"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+				<span class="menu-indicator-spacer">Customer Service</span>
+			  </div>
+            </a>
+            <a href="#">
+			  <div class="item" id="hideme1">
+				<div id="menu-indicator-sharing">&nbsp;&nbsp;</div>
+				<span class="menu-indicator-spacer">Resources</span>
+			  </div>
+            </a>
+            <a href="#">
+			 <div class="item" id="hideme2">
+			   <div id="menu-indicator-sharing">&nbsp;&nbsp;</div>
+			   <span class="menu-indicator-spacer">Community</span>
+			 </div>
+            </a>
+          <!-- Begin accordionCommunity -->  
+          <div id="accordionCommunity" style="">
+			<a>
+			  <div class="item" style="font-size:1.4rem;">
+				<div id="menu-indicator-resources" style="visibility: visible;"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+				<span class="menu-indicator-spacer">Resources</span>
+			  </div>
+			</a>
+			<div style="">
+			  <a href="/faq"><span class="subitem"><div id="menu-indicator-faq"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>FAQ</span></a>
+			  <a href="/terms"><span class="subitem"><div id="menu-indicator-terms"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>Terms</span></a>
+			  <a href="/privacy_policy"><span class="subitem"><div id="menu-indicator-privacypolicy" style="visibility: visible;"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>Privacy Policy</span></a>
+			  <a href="http://www.facebook.com/odrivesync" target="_blank"><span class="subitem"><div id="menu-indicator-none"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>Facebook</span></a>
+			  <a href="http://www.twitter.com/odrive" target="_blank"><span class="subitem"><div id="menu-indicator-none"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>Twitter</span></a>
+			</div>
+		  </div><!-- End accordionCommunity -->
+            <a href="/about">
+			  <div class="item">
+				<div id="menu-indicator-about"><img class="indicator-img" src="/images/menu-indicator-circle.png"></div>
+				<span class="menu-indicator-spacer">About</span>
+			  </div>
+            </a>
+        </nav>
+      </div>
+    </div>   
+    
+	   <div class="clearfix">
+		   <div id="content-element" class="m-content">
+			   <div id="menubar-element" class="menubar menu-visible">
+			     
+				 <a href="/"><div class="menubar-brand" style=""></div></a>
+				 
+				 <div id="removeSignin1" class="menubar-menu-button" onclick="toggleMenu()"></div>
+					 
+					 <div id="removeSignin2" class="menubar-item-out">
+					   <a href="/login/start?redirectUrl=/login/websuccess">SIGN IN</a>
+					   <div id="accordionAccount" style="display:none;"></div>
+					 </div>
+				   
+
+	   </div>
+			   
+<div id="odrive">
+  
+ 
+<!-- Hero Panel -->
+  <div class="section panel">
+    <div class="container" style="padding:0 20px;">
+      <div class="row topbump30">
+        <div class="off-set-by one columns hiddenline" style=""></div>
+        <div class="ten columns" style="">
+        
+		  <div class="maintitle" style="padding-bottom:20px; width:100%; clear:both;">Privacy Policy</div>
+		  <div id="terms" style="padding-top:40px;">
+            <p>
+                At odrive, we recognize that privacy is important. In order to deliver odrive to you, we may collect the following types of information:
+            </p>
+            <p>
+                <u>Cookies or tokens</u>
+                <br>
+                When you use odrive, we send a small file containing a string of characters to your computer or other device that uniquely identifies your browser. This is called
+                a “cookie” when you are visiting a website such as odrive.com. This is called a “token” when accessing a service at the desktop or mobile device. We use cookies and
+                tokens to improve the quality of our service, including for storing user preferences. You can choose to disable all cookies or tokens, but odrive may not function
+                properly if you disable them. <br>
+            </p>
+            <p>
+                <u>Log information</u>
+                <br>
+                When you access odrive, our servers automatically record information such as your web request, Internet Protocol address, browser type, and the date and time of your request.<br>
+            </p>
+            <p>
+                <u>User communications</u>
+                <br>
+                When you send email or other communications to odrive, we may retain those communications in order to process your inquiries and respond to your requests. <br>
+            </p>
+            <p>
+                <u>Affiliated odrive sites</u>
+                <br>
+                We may offer odrive on or through other web sites. Personal information that you provide to those sites may be sent to odrive in order to deliver an improved experience. We
+                process such information under this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. <br>
+            </p>
+            <p>
+                Other Third Party Sources – The privacy policy of any Third Party Sources does not apply to your use of odrive.
+            </p>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </div>
+
+<div id="bottomspace" style=""></div>
+
+<script>
+	$( document ).ready(function() {
+	  document.getElementById("menu-indicator-resources").style.visibility = "visible";
+	  document.getElementById("menu-indicator-privacypolicy").style.visibility = "visible";
+	});
+  </script>
+
+ 
+
+	   <div id="footer">
+  <div id="footer-holder">
+      <div class="row" style="">
+        <ul>
+          <li class="footer-item-header">main</li>
+          <a href="/"><li class="footer-item" style="">home</li></a>
+          <a href="/links"><li class="footer-item" style="">links</li></a>
+          <a href="/add-ons"><li class="footer-item" style="">add-ons</li></a>
+          <a href="https://forum.odrive.com"><li class="footer-item" style="">user forum</li></a>
+          <a href="http://blog.odrive.com"><li class="footer-item" style="">blog</li></a>
+        </ul>
+      </div>
+      <div class="row" style="">
+        <ul>
+          <li class="footer-item-header">links</li>
+          <a href="/links/4shared"><li class="footer-item" style="">4shared</li></a>
+          <a href="/links/adrive"><li class="footer-item" style="">adrive</li></a>
+          <a href="/links/amazon"><li class="footer-item" style="">amazon cloud drive</li></a>
+          <a href="/links/s3"><li class="footer-item" style="">amazon s3</li></a>
+          <a href="/links/b2cloudstorage"><li class="footer-item" style="">B2 Cloud Storage</li></a>
+          <a href="/links/box"><li class="footer-item" style="">box</li></a>
+          <a href="/links/copy"><li class="footer-item" style="">copy</li></a>
+          <a href="/links/dropbox"><li class="footer-item" style="">dropbox</li></a>
+          <a href="/links/facebook"><li class="footer-item" style="">facebook</li></a>
+          <a href="/links/fileserver"><li class="footer-item" style="">file server</li></a>
+          <a href="/links/ftp"><li class="footer-item" style="">ftp</li></a>
+          <a href="/links/gmail"><li class="footer-item" style="">gmail</li></a>
+          <a href="/links/googlecloudstorage"><li class="footer-item" style="">google cloud storage</li></a>
+          <a href="/links/googledrive"><li class="footer-item" style="">google drive</li></a>
+          <a href="/links/hidrive"><li class="footer-item" style="">hidrive</li></a>
+          <a href="/links/hipchat"><li class="footer-item" style="">hipchat</li></a>
+          <a href="/links/instagram"><li class="footer-item" style="">instagram</li></a>
+          <a href="/links/onedrive"><li class="footer-item" style="">onedrive</li></a>
+          <a href="/links/onedriveforbusiness"><li class="footer-item" style="">onedrive for business</li></a>
+          <a href="/links/opendrive"><li class="footer-item" style="">opendrive</li></a>
+          <a href="/links/oracledocuments"><li class="footer-item" style="">oracle documents</li></a>
+          <a href="/links/oxygencloud"><li class="footer-item" style="">oxygen cloud</li></a>
+          <a href="/links/sftp"><li class="footer-item" style="">sftp</li></a>
+          <a href="/links/slack"><li class="footer-item" style="">slack</li></a>
+          <a href="/links/webdav"><li class="footer-item" style="">webdav</li></a>
+          <a href="/links/yandexdisk"><li class="footer-item" style="">yandex disk</li></a>
+        </ul>
+      </div>
+      <div class="row" style="">
+        <ul>
+          <li class="footer-item-header">add-ons</li>
+          <a href="/add-ons/sync"><li class="footer-item" style="">sync</li></a>
+          <a href="/add-ons/unsync"><li class="footer-item" style="">unsync</li></a>
+          <a href="/add-ons/encryption"><li class="footer-item" style="">encryption</li></a>
+          <a href="/add-ons/pro"><li class="footer-item" style="">pro</li></a>
+          <a href="/add-ons/spaces"><li class="footer-item" style="">spaces</li></a>
+          <a href="/add-ons/sharing"><li class="footer-item" style="">sharing</li></a>
+        </ul>
+      </div>
+      <div class="row mobiletop" style="">
+        <ul>
+          <li class="footer-item-header">resources</li>
+          <a href="/customerservice"><li class="footer-item" style="">customer service</li></a>
+          <a href="/about"><li class="footer-item" style="">about</li></a>
+          <a href="/faq"><li class="footer-item" style="">faq</li></a>
+          <a href="/terms"><li class="footer-item" style="">terms</li></a>
+          <a href="/privacy_policy"><li class="footer-item" style="">privacy</li></a>
+          <a href="http://www.facebook.com/odrivesync" target="_blank"><li class="footer-item" style="">facebook</li></a>
+          <a href="http://www.twitter.com/odrive" target="_blank"><li class="footer-item" style="">twitter</li></a>
+        </ul>
+      </div>
+      <div class="row mobiletop" style="">
+        <ul>
+          <li class="footer-item-header">account</li>
+          <a href="/account/myodrive"><li class="footer-item" style=""><img class="" style="width:10px; padding-right:3px;" src="/images/homeimg-large-blue.png">my odrive</li></a>
+          <a href="/account/profile"><li class="footer-item" style="">profile</li></a>
+          <a href="/account/subscriptions"><li class="footer-item" style="">subscriptions</li></a>
+          <a href="/account/billing"><li class="footer-item" style="">billing</li></a>
+          <a href="/logout"><li class="footer-item" style="">sign out</li></a>
+        </ul>
+      </div>
+  </div>
+</div>
+
+</div>    
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox({
+              openEffect	: 'Fade',
+              closeEffect	: 'Fade',
+              beforeShow : function() {
+                  var alt = this.element.find('img').attr('alt');
+                  this.inner.find('img').attr('alt', alt);
+                  this.title = alt;
+              }});
+        });
+    </script>
+
+    <script>
+      $(function() {
+        $( "#accordion" ).accordion({
+          collapsible: true,
+          active: false,
+          heightStyle: "content"
+        });
+      });
+    </script>
+
+
+
+		   </div>
+	   </div>
+   </div>
+   
+   <script>
+		 $(function() {
+		   $( "#accordionCommunity" ).accordion({
+			 collapsible: true,
+			 active: false,
+			 heightStyle: "content",
+			 animate: 0
+		   });
+		 });
+		 $(function() {
+		   $( "#accordionAccount" ).accordion({
+			 collapsible: true,
+			 active: false,
+			 heightStyle: "content",
+			 animate: 0
+		   });
+		 });
+		 $( document ).ready(function() {
+			 document.getElementById("accordionAccount").style.display = "block";
+			 document.getElementById("hideme1").style.display = "none";		
+			 document.getElementById("hideme2").style.display = "none";
+			 document.getElementById("accordionCommunity").style.display = "block";
+		 });
+	   </script>
+   
+
+
+</body></html>
