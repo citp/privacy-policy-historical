@@ -1,21 +1,94 @@
-> *The following text is extracted and transformed from the jazzylove.com privacy policy that was archived on 2008-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080217210718id_/http%3A//jazzylove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzylove.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317073005id_/http%3A//jazzylove.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy » Jazzy Love (Powered by phpFoX)
 
-**JazzyLove.com** is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website.
+**Privacy Policy**
 
-The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information. We will notify all advertisers via email of any change to this Privacy Statement, unless you have opted-out of receiving email from us. From time to time, changes to this Privacy Statement will also be communicated on this site.
+ ****  
+This privacy policy sets out how JazzyLove.com uses and protects any information that you provide, whilst using JazzyLove.com products and services. This includes, but is not limited to, JazzyLove.com and any associated websites and sub-domains.   
 
-We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site and identify problems with our server. Your IP address does not disclose any personally revealing information about you. We do use cookies to identify traffic that comes through advertising and to facilitate a more user-friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your enjoyment of our site won't be affected if you have set your browser to reject cookies.
 
-By establishing an Ad Profile on **JazzyLove.com** you will be asked for some general identifying information which will enable us to provide you with this individualized service. We gather contact information (like your email address), and demographic information (like your city of residence or age). We may share some of this information for our own research purposes with our professional advisors or consultants and third party partners; however the information shared will be limited to non-personally identifying demographic information shared under cover of a confidentiality agreement. If you choose to become an Advertiser, we collect financial information (like your credit card number and expiry date). We will only use this information in the course of providing our service to you.
+JazzyLove.com is committed to ensuring that your privacy is protected. Any information provided by you to JazzyLove.com, by which you can be identified, will only be used in accordance with this privacy policy.   
 
-Once you have created an Ad Profile, you will be given the option of creating a pseudonymous profile (nickname and personal description) where your gender is applicable. Depending on where you place your Ad Profile, you will be asked for some personal but non-identifying information to complete your profile (e.g., height, body type, race, religion, whether you smoke, etc). This information is not linked in any way to your personally identifiable information, for other members to see. Obviously, if you provide us with a photograph some of your information may become personally identifiable information.
 
-We may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to receive different types of communications from us.
+JazzyLove.com may change this policy as and when necessary. It is your responsibility to check this privacy policy periodically to ensure you agree with any changes. 
 
-Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search, to compose your personal profile - which is associated with a pseudonymous identity you have created - and to deliver targeted advertising and promotional offers to you from external companies that are of the highest relevance to your demographic profile. Other than your mail Box, your contact information is never available to other members or organizations. In the event that you decide to establish an Ad Profile on JazzyLove.com, members will be asked for financial information (like credit card number if paying by credit card) which cannot be read by others when you initiate your order through a secured system. The personally identifiable information we collect from you is used for internet review and to improve the content and functionality of our web server or customize the layout of our pages for each individual member. The specific information we collect is not shared with other organizations and we will never release your personally identifiable information to any third party or external organization without your prior consent except for the purposes of validating credit information and collecting debts, or unless we reasonably believe we are required to do so by operation of law.
+**What information we collect**   
 
-We keep the information you have given us for as long as your Ad Profile stays active or hidden.
 
-Our clients communicate with each other through onsite message mail and Instant Messaging. While we do not, as a rule, moderate or monitor advertisers' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our terms of use or Privacy Statement. Submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
+When using any products and services provided by JazzyLove.com, we may require some or all of the following information:   
+
+
+  * name
+  * address
+  * telephone number
+  * email address
+  * information related to any financial transactions which may be carried out
+  * personal preferences and interests
+
+
+
+Additionally, whilst using the JazzyLove.com website, any associated websites and sub-domains, some or all of the following information may be collected:   
+
+
+  * Internet Protocol (IP) address
+  * geographical location
+  * browser type and version
+  * operating system
+  * referral source
+  * length of visit, page views, website navigation and any other related browsing activity
+
+
+
+ **What we do with the information we collect**   
+
+
+The information you provide to JazzyLove.com is required for, but not limited to, the following reasons:   
+
+
+  * internal record keeping
+  * access to the JazzyLove.com website, associated websites and sub-domains
+  * account management
+  * purchase confirmation and account reset
+  * confirmation of email address
+  * sending notices of product upgrades, security alerts and patches, and other relevant communications
+
+
+
+  
+**Security**   
+
+
+We are committed to ensuring that any information you provide to JazzyLove.com is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect.   
+
+
+  
+**How we use cookies and IP addresses**   
+
+
+JazzyLove.com, any associated websites and sub-domains, use small text files, called cookies, to store information in your web browser. The information stored may include preferences, session identification, HTTP information, and IP address.   
+
+
+You can set your browser to not receive cookies, but this may limit your ability to use JazzyLove.com and any associated websites and sub-domains.
+
+IP addresses of computers used to visit JazzyLove.com and any associated websites and sub-domains are stored in our database. This includes when first registering for an account, managing your account details, writing a private or public message or performing any other transaction which results in data being transferred to or from your computer and the website in question.   
+Your IP address is not visible to the public at any time. 
+
+**Links to other websites**   
+
+
+JazzyLove.com, any associated websites and sub-domains, may contain links to other websites. These websites may or may not be affiliated with JazzyLove.com.   
+
+
+JazzyLove.com has no control over any external websites therefore clicking any link which results in you visiting an external website will result in this privacy policy no longer applying and JazzyLove.com cannot be held responsible for the protection and privacy of any information which you provide whilst visiting such sites. 
+
+**Controlling your personal information**   
+
+
+When using the JazzyLove.com forum, you may choose to limit public viewing of applicable personal information through the settings located in the Privacy section of your account.   
+
+
+JazzyLove.com will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to JazzyLove.com, or your account.   
+
+
+If you discover any of the information JazzyLove.com holds for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made.
