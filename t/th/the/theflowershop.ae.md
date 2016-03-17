@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821090515id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317182925id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy,
 
