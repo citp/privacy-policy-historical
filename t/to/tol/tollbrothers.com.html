@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the tollbrothers.com privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908100040id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tollbrothers.com privacy policy that was archived on 2016-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160317111429id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js wf-loading"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
         <title class="notranslate">Toll Brothers - Privacy Policy</title>
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-9KJW"></script><script src="//use.typekit.net/xtq3uze.js" type="text/javascript" async=""></script><script src="//cdn.optimizely.com/js/248236446.js"></script>
-<meta charset="utf-8">
-<meta name="robots" content="noydir,index,follow">
+        <meta charset="utf-8">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5QHS5H"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/248236446.js"></script><meta name="robots" content="noydir,noodp,index,follow">
 <meta name="keywords" content="New homes, luxury homes, home builder, new home builders, new home, luxury home, home builders, new home builder">
 <meta name="description" content="Find your new luxury home with Toll Brothers, an award winning new home builder.  As the nation's leading builder of luxury homes, Toll Brothers offers value and quality with our new homes."><meta name="author" content="Toll Brothers, Inc. Internal Web Department">
 <meta name="verify-v1" content="m+k+sdDBK1uHaOWIEwnf4HlTqrs2FClXX/QfNW9isCM=">
@@ -13,11 +12,12 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-itunes-app" content="app-id=951855153">
-<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<link rel="search" type="application/opensearchdescription+xml" href="/meta/opensearch.xml" title="Toll Brothers">
 <link rel="shortcut icon" href="https://cdn.tollbrothers.com/tb/images/favicon.ico">
-<link rel="stylesheet" href="https://cdn.tollbrothers.com/tb/css/css_newsite_concat.min.css?20158201320">
-<link rel="stylesheet" href="https://cdn.tollbrothers.com/tb/css/toll.print.min.css?20158201320" media="print">
-<script src="//assets.adobedtm.com/60e35bfb3c4cd6b22fc041682ec931fdf26b76a3/satelliteLib-d027c7b28aad4071da66beb9200b4166e5aa5f8b.js"></script>
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/768968/785168/css/fonts.css">
+<link rel="stylesheet" href="https://cdn.tollbrothers.com/tb/css/main.min.css?2016381249">
+<script src="//assets.adobedtm.com/60e35bfb3c4cd6b22fc041682ec931fdf26b76a3/satelliteLib-5026bd6bc49a46e2778c8d038e084cb29657f0d7.js"></script>
 <script>
     var toll = {};
     toll.device = {};
@@ -31,12 +31,15 @@
     toll.domain.localOrCDN = toll.domain.CDN;
     if (!toll.inProd) toll.domain.localOrCDN = "";
     
-    
+    toll['pointerEvent'] = 'tap';
+
     
     toll['loadGoogleMapsApi'] = function() {
     
-        var url = "https://maps.googleapis.com/maps/api/js?v=3.18&client=gme-tollbrothersincorporated&sensor=false&callback=mapsLoaded";
-
+        //var url = "https://maps.googleapis.com/maps/api/js?v=3.21&client=gme-tollbrothersincorporated&sensor=false&callback=mapsLoaded";
+        //Free version:
+        var url = "https://maps.googleapis.com/maps/api/js?v=3.21&key=AIzaSyC6BgkfHSn04LjLI3ZXV7ukuRp1vMcYPLs&sensor=false&callback=mapsLoaded";
+        
         if (typeof google !== 'object' || typeof google.maps !== 'object') {
             var class_name = 'js-google-maps-api';
             $('.' + class_name).remove();
@@ -50,41 +53,75 @@
     
     }
     
-    toll.page = {};</script>
+    toll['googleMapsCustomPois'] = [
+        {
+            featureType: "administrative.neighborhood",
+            stylers: [
+                {visibility: "off"}
+            ]
+        },
+        {
+            featureType: "poi",
+            stylers: [
+                {visibility: "off"}
+            ]
+        },
+        {
+            featureType: "poi.park",
+            stylers: [
+                {visibility: "on"}
+            ]
+        },
+        {
+            featureType: "poi.school",
+            stylers: [
+                {visibility: "on"}
+            ]
+        },
+        {
+            featureType: "poi.attraction",
+            stylers: [
+                {visibility: "on"}
+            ]
+        },
+        {
+            featureType: "poi.government",
+            stylers: [
+                {visibility: "on"}
+            ]
+        },
+        {
+            featureType: "poi.medical",
+            stylers: [
+                {visibility: "on"}
+            ]
+        },
+        {
+            featureType: "poi.sports_complex",
+            stylers: [
+                {visibility: "on"}
+            ]
+        }
+    ];
+    
+    toll['viewport'] = function() {
 
-<script type="text/javascript">
-if(!toll.device.isMobile){
-    (function() {
-    var config = {
-        kitId: 'xtq3uze',
-        scriptTimeout: 3000
-    };
-    var h = document.getElementsByTagName('html')[0];
-    h.className += ' wf-loading';
-    var t = setTimeout(function() {
-        h.className = h.className.replace(/(\s|^)wf-loading(\s|$)/g, ' ');
-        h.className += ' wf-inactive';
-    }, config.scriptTimeout);
+        var vlw = 768;
+        var e = window, a = 'inner';
+        if (!('innerWidth' in window )) {
+            a = 'client';
+            e = document.documentElement || document.body;
+        }
+        
+        ivl = false;
+        if (e[ a+'Width' ] < vlw) {
+            ivl = true;
+        }
 
-    var d = false;
-    var tk = document.createElement('script');
-    tk.src = '//use.typekit.net/' + config.kitId + '.js';
-    tk.type = 'text/javascript';
-    tk.async = 'true';
-    tk.onload = tk.onreadystatechange = function() {
-        var rs = this.readyState;
-        if (d || rs && rs != 'complete' && rs != 'loaded') return;
-        d = true;
-        clearTimeout(t);
-        try { Typekit.load(config); } catch (e) {}
-    };
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(tk, s);
-    })
-    ();
+        return { width : e[ a+'Width' ] , height : e[ a+'Height' ], verticalLayoutWidth: vlw, isVerticalLayout: ivl };
     }
-</script>
-
+    
+    toll.page = {};</script>
 <link rel="author" href="/humans.txt">
 <script src="https://cdn.tollbrothers.com/common/js/modernizr/modernizr_2_6_2_shiv.min.js"></script>
 <script type="text/javascript">
@@ -95,6 +132,7 @@ if(!toll.device.isMobile){
     sc_prop8 = "";
     sc_eVar55 = "";
     sc_prop41 = "";
+    sc_eVar45 = "";
 </script>
 <script>  
     if(typeof(console) === 'undefined') {
@@ -115,688 +153,182 @@ if(!toll.device.isMobile){
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.tollbrothers.com/tb/images/ipad.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.tollbrothers.com/tb/images/iphone2x.png">
 <!--<![endif]-->
-</head>
+<link rel="stylesheet" href="https://cdn.tollbrothers.com/tb/css/pages/misc_page.min.css?2016381249">
+        </head>
     <body class="desktop">
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-9KJW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  dataLayer = [];
+
+
+    
+            ga('create', 'UA-66895939-1', 'auto');
+            
+
+  
+  
+  ga('send', 'pageview');
+
+</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QHS5H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-9KJW');</script>
+})(window,document,'script','dataLayer','GTM-5QHS5H');</script>
 
+<script>var isQdh=false;</script><div class="mobile-menu-wrapper js-mobile-menu">
+    <div class="mobile-menu-overlay js-mobile-menu-overlay"></div>
+    <aside class="mobile-menu">
+        <section class="mobile-menu-content">
+            <header>
+                <form class="mobile-menu-search-form js-mobile-menu-search-form" action="/luxury-homes" autocomplete="off">
+                    <input type="text" class="js-omni-search" placeholder="Enter a location or community" name="search" value="" tabindex="-1">
+                    <span class="mobile-menu-search-magnifying js-mobile-menu-search-submit js-header-search-ignore"></span>
+                </form>
+                <span class="mobile-menu-close js-mobile-menu-close"></span>
+            </header>
 
-<!-- ClickTale Top part -->
-<script type="text/javascript">var WRInitTime=(new Date()).getTime();</script>
-<!-- ClickTale end of Top part -->
+            <div class="mobile-menu-content-container">
+                <div class="mobile-menu-content-scroll">
+                    <nav class="mobile-menu-breadcrumb">
+                        <ul>
+                            </ul>
+                    </nav>
 
-
-<script>var isQdh=false;</script><div id="container">
-    <div id="containerinner">
-        <header role="banner">
-            <div class="container container_16" id="headerIE">
-                <h1><a href="/"><span class="notranslate">Toll Brothers </span> - America's Luxury Home Builder</a></h1>
-                
-                <nav role="navigation">
-                    <ul>
-                        <li><a href="/about">About <span class="notranslate">Toll Brothers</span></a></li>
-                        <li><a href="/design_center" class="dcOpti">Design Center</a></li>
-                        <li><a href="/my_favorites">My Favorites</a></li>
-                        <li class="js-header-search header-search-container js-header-search-ignore">
-                            <a class="header-find js-header-search-ignore">Find Your New Home</a><span class="header-search-magnifying js-header-search-submit js-header-search-ignore"></span>
-                            <form class="header-search-form js-header-search-form" action="/search" autocomplete="off">
-                                <input type="text" class="js-omni-search js-header-search-ignore" placeholder="Type city state zip or community" name="city" value="" tabindex="-1">
-                            </form> 
-                        </li>
-
-                    </ul>
-                </nav>
-
-                <div class="displayNone">
-                    <div id="searchLightbox">
-                        <h4><span class="notranslate">Toll Brothers </span> Search Results</h4>
-                        <p>Your Search for "<span id="searchTxt"></span>" returned the following <span id="resultsNumText"></span> results.</p>
-                        <div style="display:none">
-                            <div id="mysite_thumbnail">
-                                <div data-if="Vars.thumbnail" class="gs-image-box gs-web-image-box">
-                                    <a class="gs-image" data-attr="{href:url, target:target}">
-                                        <img class="gs-image" data-attr="{src:thumbnail.src, width:100, height: 59}" src="/tb/images/blankImg.gif" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div id="mysite_webResult">
-                                <div class="gs-webResult gs-result" data-vars="{longUrl:function() {
-                                     var i = unescapedUrl.indexOf(visibleUrl);
-                                     return i < 1 ? visibleUrl : unescapedUrl.substring(i);}}">
-                                    <table>
-                                        <tbody><tr>
-                                            <td style="vertical-align:top;">
-                                                <div data-if="Vars.richSnippet" data-attr="0" data-body="render('thumbnail',richSnippet,{url:unescapedUrl,target:target})"></div>
-                                            </td>
-                                            <td style="vertical-align:top;">
-                                                <div class="gs-title"><a class="gs-title" data-attr="{href:unescapedUrl,target:target}" data-body="html(title)"></a></div>
-                                                <div class="gs-snippet" data-body="html(content)"></div>
-                                                <div class="gs-visibleUrl gs-visibleUrl-short" data-body="longUrl()"></div>
-                                                <div style="color:#676767" data-if="Vars.richSnippet &amp;&amp; Vars.richSnippet.document">
-                                                </div>
-                                                <div data-if="Vars.richSnippet &amp;&amp; Vars.richSnippet.action" class="gs-actions" data-body="render('action',richSnippet,{url:unescapedUrl,target:target})"></div>
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="cse"></div>
-                        <div class="researchGoogle2">
-                            <input type="text" tabindex="1" id="searchBarinputAgain" value="Search Again Here">
-                            <button id="searchBarinputAgainbtn" class="mainBlue">Search</button>
-                        </div>
-                        <div class="clearfix"></div>
-                        <p>Not finding what you're looking for?  Instead try our
-                            <a class="footerFindTrig underlineLink _forceSimpleSearch" title="Quick Community Search Tool"> quick community search</a>,
-                            <a class="advTrig underlineLink" title="Advanced Community Search Tool">advanced community search</a>,
-                            <a class="underlineLink" href="/design_center/home_design_tours" title="Home Design Search Tool">find a home design</a>, or
-                            <a href="" class="underlineLink" title="Decorated Model Home Search Tool">locate a decorated model home</a> search tools.</p>
-                    </div>
+                    <nav class="mobile-menu-bottom">
+                        <ul>
+                            <li><a class="mobile-menu-bottom-item" href="/">Home</a></li>
+                            <li><a class="mobile-menu-bottom-item" href="/about">About <span class="notranslate">Toll Brothers</span></a></li>
+                            <li><a class="mobile-menu-bottom-item" href="/design-center">Design Center</a></li>
+                            <li><a class="mobile-menu-bottom-item" href="/my-favorites">My Favorites</a></li>
+                        </ul>
+                    </nav>
                 </div>
-
-
-                <div class="clearfix"></div>
-                <div id="google_translate_element"></div>
-                <div class="clearfix"></div>
-</div></header><div class="underHead clearfix">
-    <div class="container container_16">
-        <ul id="breadcrumbs" class="grid_16 firstlast">
-    <li class="bcHome"><a href="/">Home</a></li>
-    <li><a class="bcActive"></a></li>
-</ul>
-
-<div class="clearfix"></div></div>
+            </div>
+        </section>
+    </aside>
 </div>
-<section role="main" class=" container container_16 paddingtoptwenty">
-            <article class="padContain container whiteContainer whiteContainer_padded">
-                <h1>Privacy Policy</h1>
-                <hr>
-                <p>At <span class="notranslate">Toll Brothers</span>, we understand that the privacy of the information provided to us is very important to you. We use the data gathered only to provide you with more information about our quality products and services. This information will NOT be sold/distributed to any unaffiliated third parties without your prior consent.</p>
+<div id="container">
+    <header class="main-header" role="banner">
+        <div class="main-header-container page-margins">
+            <a class="main-header-logo" href="/"><span class="notranslate">Toll Brothers </span> - America's Luxury Home Builder</a>
+
+        <nav class="main-header-nav js-main-header-nav" role="navigation">
+                <ul>
+                    <li><a class="main-header-nav-item" href="/about">About <span class="notranslate">Toll Brothers</span></a></li>
+                    <li><a class="main-header-nav-item" href="/design-center">Design Center</a></li>
+                    <li><a class="main-header-nav-item" href="/my-favorites">My Favorites</a></li>
+                    <li class="main-header-search js-header-search js-header-search-ignore">
+                        <a class="main-header-nav-item header-find js-header-search js-header-search-ignore">Find Your New Home</a><span class="main-header-search-magnifying js-header-search-submit js-header-search-ignore"></span>
+                        <form class="header-search-form js-header-search-form" action="/luxury-homes" autocomplete="off">
+                            <input type="text" class="js-omni-search js-header-search-ignore" placeholder="Enter a location or community" name="search" value="" tabindex="-1">
+                        </form> 
+                    </li>
+                    <li class="header-mobile-menu"><a class="main-header-nav-item header-mobile-menu-trigger js-hamburger-menu-trig"></a></li>
+                </ul>
+            </nav>
+        <div id="google_translate_element"></div>
+        </div>       
+    </header>
+    
+    <nav class="bread-crumb-nav">
+    <ul class="page-margins">
+        <li><a href="/">Home</a></li>
+
+        <li><a href="">Privacy Policy</a></li>
+                </ul>
+</nav><main role="main">
+            <section class="misc-page">
+                <div class="misc-page-container page-margins">
+                    <h1>Privacy Policy</h1>
+                    <hr>
+                    <p>At <span class="notranslate">Toll Brothers</span>, we understand that the privacy of the information provided to us is very important to you. We use the data gathered only to provide you with more information about our quality products and services. This information will NOT be sold/distributed to any unaffiliated third parties without your prior consent.</p>
 
 <p><strong>Information We Automatically Collect</strong><br>
     We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on your Internet provider. Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us maximize our Internet exposure, and it helps us understand our users' interests. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not individual reports that identify you personally.</p>
 <p>We also place a small text file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us, however, a cookie contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies to help us understand how visitors use our site, and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer.</p>
 <p>We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web bugs to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web bugs is to provide an independent accounting of how many people have visited a particular Web site. Web bugs are also used to gather statistics about Web browser usage at different places on the Internet.</p>
 <p>We may use third-party ad servers (or ad networks) to deliver ads to you on our behalf. These third-party ad servers may collect and use non-personally identifiable information about your visits to our site in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <a href="https://www.networkadvertising.org/managing/opt_out.asp" target="_blank">https://www.networkadvertising.org/managing/opt_out.asp.</a></p>
-
+<hr>
 <p><strong>Statement of Forward-looking Information</strong></p>
-<p>Information presented herein for the second quarter ended July 31, 2015 is subject to finalization of the Company's regulatory filings, related financial and accounting reporting procedures and external auditor procedures.</p>
+<p>Information presented herein for the fourth quarter ended October 31, 2015 is subject to finalization of the Company's regulatory filings, related financial and accounting reporting procedures and external auditor procedures.</p>
 <p>Certain information included in this website is forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, information related to: anticipated operating results; anticipated financial performance, resources and condition; selling communities; home deliveries; average home prices; consumer demand and confidence; contract pricing; business and investment opportunities; and market and industry trends.</p>
-<p>Such forward-looking information involves important risks and uncertainties that could significantly affect actual results and cause them to differ materially from expectations expressed herein and in other Company reports, SEC filings, statements and presentations.&nbsp;These risks and uncertainties include, among others: local, regional, national and international economic conditions; fluctuating consumer demand and confidence; interest and unemployment rates; changes in sales conditions, including home prices, in the markets where we build homes; conditions in our newly entered markets and newly acquired operations; the competitive environment in which we operate; the availability and cost of land for future growth; conditions that could result in inventory write-downs or write-downs associated with investments in unconsolidated entities; the ability to recover our deferred tax assets; the availability of capital; uncertainties in the capital and securities markets; liquidity in the credit markets; changes in tax laws and their interpretation; effects of governmental legislation and regulation; the outcome of various legal proceedings; the availability of adequate insurance at reasonable cost; the impact of construction defect, product liability and home warranty claims, including the adequacy of self-insurance accruals, and the applicability and sufficiency of our insurance coverage; the ability of customers to obtain financing for the purchase of homes; the ability of home buyers to sell their existing homes; the ability of the participants in various joint ventures to honor their commitments; the availability and cost of labor and building and construction materials; the cost of raw materials; construction delays; domestic and international political events; and weather conditions. For a more detailed discussion of these factors, see the information under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our most recent annual report on Form 10-K and our subsequent quarterly reports on Form 10-Q filed with the Securities and Exchange Commission.</p>
-<p>Any or all of the forward-looking statements included in this website are not guarantees of future performance and may turn out to be inaccurate.&nbsp;Forward-looking statements speak only as of the date they are made.&nbsp;The Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise.</p>
+<p>Such forward-looking information involves important risks and uncertainties that could significantly affect actual results and cause them to differ materially from expectations expressed herein and in other Company reports, SEC filings, statements and presentations. These risks and uncertainties include, among others: local, regional, national and international economic conditions; fluctuating consumer demand and confidence; interest and unemployment rates; changes in sales conditions, including home prices, in the markets where we build homes; conditions in our newly entered markets and newly acquired operations; the competitive environment in which we operate; the availability and cost of land for future growth; conditions that could result in inventory write-downs or write-downs associated with investments in unconsolidated entities; the ability to recover our deferred tax assets; the availability of capital; uncertainties in the capital and securities markets; liquidity in the credit markets; changes in tax laws and their interpretation; effects of governmental legislation and regulation; the outcome of various legal proceedings; the availability of adequate insurance at reasonable cost; the impact of construction defect, product liability and home warranty claims, including the adequacy of self-insurance accruals, and the applicability and sufficiency of our insurance coverage; the ability of customers to obtain financing for the purchase of homes; the ability of home buyers to sell their existing homes; the ability of the participants in various joint ventures to honor their commitments; the availability and cost of labor and building and construction materials; the cost of raw materials; construction delays; domestic and international political events; and weather conditions. For a more detailed discussion of these factors, see the information under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our most recent annual report on Form 10-K and our subsequent quarterly reports on Form 10-Q filed with the Securities and Exchange Commission.</p>
+<p>Any or all of the forward-looking statements included in this website are not guarantees of future performance and may turn out to be inaccurate. Forward-looking statements speak only as of the date they are made. The Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise.</p>
 <hr>
 <p><strong>Unsubscribing from Emails</strong><br>
-    If you are currently receiving emails from <span>Toll Brothers</span>, and wish to be removed from our mailing list, <a href="https://www.tollbrothers.com/my_favorites/unsubscribe" target="_blank">click here to remove yourself from our database.</a></p>
-<p><strong>Linking to <span class="notranslate">Toll Brothers</span> Websites</strong><br>
-    If you have a web site and would like to link to any <span class="notranslate">Toll Brothers </span> web site or web page, please download the appropriate PDF file below for instructions.</p>
-<hr>
-<p><img style="display:inline-block;vertical-align:middle;" src="https://www.tollbrothers.com/tb/images/investors/icon_adobepdf.gif" alt="PDF" class="imageleft">  
-    <a href="https://www.tollbrothers.com/pdfs/WLARealEsateAgents7_05.pdf" target="_blank" class="imageleft topten">Real Estate Agent Linking Agreement</a>
-</p>
-<hr>
-<p><img style="display:inline-block;vertical-align:middle;" src="https://www.tollbrothers.com/tb/images/investors/icon_adobepdf.gif" alt="PDF" class="imageleft">
-    <a href="https://www.tollbrothers.com/pdfs/WLAVendors7_05.pdf" target="_blank" class="imageleft topten"> Vendor Linking Agreement</a>
-</p>
-<hr>
-<div class="clearfix"></div>
-            </article></section><div class="clearfix"></div>
-</div> </div> <script>
-window.ClickTaleSettings = {XHRWrapper: {Enable: true, MaxResponseSize: 1000000}};
-document.write(unescape("%3Cscript%20src='" +
-(document.location.protocol == 'https:' ?
-'https://clicktalecdn.sslcs.cdngc.net/www/' :
-'http://cdn.clicktale.net/www/') + "XHRWrapper.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktalecdn.sslcs.cdngc.net/www/XHRWrapper.js" type="text/javascript"></script>
-<footer>
-    <section class="container container_16 fit">
-        <div class="grid_8 firstlast">
-            <nav>
-                <ul>
+    If you are currently receiving emails from <span class="notranslate">Toll Brothers</span>, and wish to be removed from our mailing list, <a href="https://www.tollbrothers.com/my-favorites/unsubscribe" target="_blank">click here to remove yourself from our database.</a></p>
+</div>
+            </section>
+        </main>
+        <footer class="main-footer" role="contentinfo">
+<section class="main-footer-top page-margins">
+        <nav class="group">
+            <div class="quad-columns-divider">
+                <ul class="quad-columns col first-quad">
                     <li><a href="/about" title="About Toll Brothers">About Toll Brothers</a></li>
-                    <li><a href="/agent" title="For Agents">Agent Center</a></li>
                     <li><a href="/ExternalURLClick?redirect=http://www.tollcareercenter.com/" title="Career Center" target="_blank">Career Center</a></li>
+                    <li><a href="/investor-relations" title="Investor Relations">Investor Relations</a></li>
                     <li><a href="/contact" title="Contact Us">Contact Us</a></li>
-                    <li><a href="/design_center" title="Design Center" class="dcOpti">Design Center</a></li>
-                        <li><a href="/ExternalURLClick?redirect=http://www.designyourownhome.com" title="Design Your Own Home" target="_blank">Design Your Own Home</a></li>
-                        <li><a href="javascript:" title="Find Your New Home" class="footerFindTrig">Find Your New Home</a></li>
-                    
-                    <li><a href="/investor_relations" title="Investor Relations">Investor Relations</a></li>
-                    <li><a href="/design_center/home_design_tours" title="Locate a Home Design">Locate a Home Design</a></li>
-                    <li><a href="/qdh" title="Quick Delivery Homes">Quick Delivery Homes</a></li>
-                    <li><a class="notranslate" href="/ExternalURLClick?redirect=http://www.tbimortgage.com" target="_blank" title="TBI Mortgage">TBI Mortgage</a></li>
-                    <li><a href="/ExternalURLClick?redirect=http://tolltalks.tollbrothers.com" target="_blank" title="Toll Talks Blog">Toll Talks Blog</a></li>
+                    </ul>
+                <ul class="quad-columns col second-quad">
+                    <li><a href="/about/experience" title="The Home Buying Experience">The Home Buying Experience</a></li>
+                    <li><a href="/about/advantage" title="The Toll Brothers Advantage">The Toll Brothers Advantage</a></li>
+                    <li><a href="/design-center" title="Design Center">Design Center</a></li>
+                    <li><a href="/design-center/home-design-tours" title="Locate a Home Design">Locate a Home Design</a></li>
                 </ul>
-            </nav>
-            <div class="clearfix"></div>
-        </div><div class="grid_8 firstlast">
-
-            <ul class="dropmenu">
-                <li><a class="footerbutton"><span></span> &nbsp; Quick Links &nbsp;</a>
-                            <div class="drop_8 dropup">
-                        <ul class="grid_3 firstcol colborder">
-                            <li><a href="/about/giving_back" title="Charities">Charities</a></li>
-                            <li><a href="/ExternalURLClick?redirect=https://cdn.tollbrothers.com/pdfs/US%20Marketing%20Brochure%202011_Chinese_Final.pdf" title="Chinese National Brochure" target="_blank">Chinese National Brochure</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.citylivingbytollbrothers.com" title="City Living By Toll Brothers" target="_blank">City Living By Toll Brothers</a></li>
-                            <li><a href="" title="Corporate Video">Corporate Video</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersdesignstudio.com/" title="Design Studio" target="_blank">Design Studio</a></li>
-                                <li><a href="/ExternalURLClick?redirect=http://designyourownhome.com" title="Design Your Own Home" target="_blank">Design Your Own Home</a></li>
-                                <li><a href="/ExternalURLClick?redirect=http://www.gibraltarcapital.net/" title="Gibraltar Capital" target="_blank">Gibraltar Capital</a></li>
-                            <li><a href="/investor_relations" title="Investor Relations">Investor Relations</a></li>
-                            <li><a href="" title="Model Homes">Model Homes</a></li>
-                            <li><a href="/about/experience/our_customers_speak" title="Our Customers Speak">Our Customers Speak</a></li>
-                            <li><a href="/qdh" title="Quick Delivery Homes">Quick Delivery Homes</a></li>
-                        </ul>
-
-                        <ul class="grid_3 colborder">
-                            <li><a class="notranslate" href="/ExternalURLClick?redirect=http://www.tbimortgage.com" title="TBI Mortgage" target="_blank">TBI Mortgage</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollagent.com/index.jsp" title="Toll Agent" target="_blank">Toll Agent</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollarchitecture.com/" title="Toll Architecture" target="_blank">Toll Architecture</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollbid.com/vip/servlet/Tollbid" title="Toll Bid" target="_blank">Toll Bid</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersactiveliving.com/" title="Toll Brothers Active Living" target="_blank">Toll Brothers Active Living</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersapartmentliving.com/" title="Toll Brothers Apartment Living" target="_blank">Toll Brothers Apartment Living</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersflyandbuy.com/" title="Toll Brothers Fly and Buy" target="_blank">Toll Brothers Fly and Buy</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollcareercenter.com/" title="Toll Career Center" target="_blank">Toll Career Center</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollcommercial.com/" title="Toll Commercial" target="_blank">Toll Commercial</a></li>
-                            <li><a href="/ExternalURLClick?redirect=https://mytollhome.tollbrothersinc.com" title="Toll Customer Care" target="_blank">Toll Customer Care</a></li>
-                        </ul>
-
-                        <ul class="grid_2 lastcol">
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollgolf.com/" title="Toll Golf" target="_blank">Toll Golf</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollgreen.com/" title="Toll Green" target="_blank">Toll Green</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tisbuildingsolutions.com/" title="Toll Integrated Systems" target="_blank">Toll Integrated Systems</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersinternational.com/" title="Toll International" target="_blank">Toll International</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tollkohler.com/" title="Toll Kohler" target="_blank">Toll Kohler</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tolllandscape.com/" title="Toll Landscape" target="_blank">Toll Landscape</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.tolllifestyletv.com/" title="Toll Lifestyle TV" target="_blank">Toll Lifestyle TV</a></li>
-                            <li><a href="/contact/land_inquiries" title="Toll Seeking Land">Toll Seeking Land</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.westminsterinsurance.com/" title="Westminster Insurance" target="_blank">Westminster Insurance</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://www.westminstersecurity.com/" title="Westminster Security" target="_blank">Westminster Security</a></li>
-                        </ul>
-                    </div>
-                    </li>
-                <li><a class="footerbutton"><span></span> &nbsp; Our Other Websites &nbsp;</a>
-                            <div class="drop_3b dropup2">
-                        <ul>
-<li class="headingState "><a href="/AZ">Arizona</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.windgateranchscottsdale.com" target="_blank">Windgate Ranch Scottsdale</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/CA">California</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.liveatbakerranch.com" target="_blank">Baker Ranch</a></li>
-<li><a href="/ExternalURLClick?redirect=http://liveatporterranch.com" target="_blank">Porter Ranch</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/CT">Connecticut</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.regencyatprospect.com" target="_blank">Regency at Prospect</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.rivingtonbytollbrothers.com" target="_blank">Rivington by Toll Brothers</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.thesummitatbethel.com" target="_blank">The Summit at Bethel</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/DC">District of Columbia</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.parcriverside.com" target="_blank">Parc Riverside</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/FL">Florida</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.coastaloaksatnocatee.com" target="_blank">Coastal Oaks at Nocatee</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.jupitercountryclub.com" target="_blank">Jupiter Country Club</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.liveatparklandgcc.com" target="_blank">Parkland Golf and Country Club</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.royalpalmpolo.com" target="_blank">Royal Palm Polo by Toll Brothers</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/IL">Illinois</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.bowescreekcountryclub.com" target="_blank">Bowes Creek Country Club</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/MD">Maryland</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.arundelforest.com" target="_blank">Arundel Forest</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.hampdenrow.com" target="_blank">Hampden Row</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.marlbororidge.com" target="_blank">Marlboro Ridge</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/NC">North Carolina</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.briercreekcountryclub.com" target="_blank">Brier Creek Country Club - Cottages Collection</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.hasentree.com" target="_blank">Hasentree</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.regencyatpalisades.com" target="_blank">Regency at Palisades</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/NJ">New Jersey</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.hudsontea.com" target="_blank">Hudson Tea</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.maxwellplace.com" target="_blank">Maxwell Place on the Hudson</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.regencyatmonroe.com" target="_blank">Regency at Monroe</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.themewsatprincetonjunction.com" target="_blank">The Mews at Princeton Junction</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.livethemorgan.com" target="_blank">The Morgan at Provost Square</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/NY">New York</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.1110parkave.com" target="_blank">1110 Park Ave</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.400pas.com" target="_blank">400 Park Avenue South</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.pierhouseny.com" target="_blank">Pierhouse at Brooklyn Bridge Park</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.thesuttonnyc.com" target="_blank">The Sutton</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/PA">Pennsylvania</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.410societyhill.com" target="_blank">410 at Society Hill</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.huntingdonplace.com" target="_blank">Huntingdon Place</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.liseter.com" target="_blank">Liseter</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.parcplymouthmeeting.com" target="_blank">Parc Plymouth Meeting</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.regencyatyardley.com" target="_blank">Regency at Yardley</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/TX">Texas</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.woodsonsreserve.com" target="_blank">Woodson's Reserve</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/VA">Virginia</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.dominionvalley.com" target="_blank">Dominion Valley Country Club</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.dullesgreene.com" target="_blank">Dulles Greene</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.lenah-mill.com" target="_blank">Lenah Mill</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.loudoun-valley.com" target="_blank">Loudoun Valley</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.regencyatchancellorsville.com" target="_blank">Regency at Chancellorsville</a></li>
-<li><a href="/ExternalURLClick?redirect=http://www.regencydominionvalley.com" target="_blank">Regency at Dominion Valley - Greenbrier Collection</a></li>
-</ul>
-</li>
-
-</ul>
-</div>
-                </li><li><a class="footerbutton"><span></span> &nbsp; Search by State &nbsp;</a>
-                            <div class="drop_1 dropup2">
-                        <ul>
-                            <li><a href="/AZ">Arizona</a></li>
-<li><a href="/CA">California</a></li>
-<li><a href="/CO">Colorado</a></li>
-<li><a href="/CT">Connecticut</a></li>
-<li><a href="/DE">Delaware</a></li>
-<li><a href="/DC">District of Columbia</a></li>
-<li><a href="/FL">Florida</a></li>
-<li><a href="/IL">Illinois</a></li>
-<li><a href="/MD">Maryland</a></li>
-<li><a href="/MA">Massachusetts</a></li>
-<li><a href="/MI">Michigan</a></li>
-<li><a href="/MN">Minnesota</a></li>
-<li><a href="/NV">Nevada</a></li>
-<li><a href="/NJ">New Jersey</a></li>
-<li><a href="/NY">New York</a></li>
-<li><a href="/NC">North Carolina</a></li>
-<li><a href="/PA">Pennsylvania</a></li>
-<li><a href="/TX">Texas</a></li>
-<li><a href="/VA">Virginia</a></li>
-<li><a href="/WA">Washington</a></li>
-</ul>
-                    </div>
-                </li><li id="socialBucket"><a class="footerbutton"><span></span></a>
-                    <div id="socialBucketList">
-                        <ul>
-                            <li><a class="normalListLink external" href="/ExternalURLClick?redirect=http://tolltalks.tollbrothers.com/" target="_blank">Read our Toll Talks Blog</a></li>
-                            <li><a href="/ExternalURLClick?redirect=https://www.facebook.com/TollBrothersInc" target="_blank" class="external facebook" rel="nofollow">Like us on Facebook</a> <a class="facebookshare external">Share page on Facebook</a></li>
-                            <li><a href="/ExternalURLClick?redirect=https://twitter.com/TollBrothersInc" target="_blank" class="external twitter" rel="nofollow">Tweet us on Twitter</a> <a class="twittershare external">Share page on Twitter</a></li>
-                            <li><a href="/ExternalURLClick?redirect=https://pinterest.com/tollbrothers" target="_blank" class="external pinterest" rel="nofollow">Discover us on Pinterest</a> <a class="pinterestshare external" data-pin-config="none" data-pin-do="buttonBookmark" href="//pinterest.com/pin/create/button/" rel="nofollow">Pin images on Pinterest</a></li>
-                            <li><a class="normalListLink external youTube" href="/ExternalURLClick?redirect=https://youtube.com/tollbrothers" target="_blank" rel="nofollow">Watch us on YouTube</a></li>
-                            <li><a class="normalListLink external" href="/ExternalURLClick?redirect=https://www.linkedin.com/company/toll-brothers" target="_blank" rel="nofollow">Follow us on LinkedIn</a></li>
-                            <li><a class="normalListLink external" href="/ExternalURLClick?redirect=https://instagram.com/tollbrothers/" target="_blank" rel="nofollow">See us on Instagram</a></li>
-                            <li><a class="emailtoFriend">Email this page to a Friend</a></li>
-                        </ul>
-                        <div class="emaildiv">
-                            <div class="darkLoader"></div>
-                            <span class="emailToClose"></span>
-                            <div class="insides">
-                                <p><strong>Email this page to a friend</strong></p>
-                                <p class="disclaimer">Fill out the form below to send an email to a friend or colleague. Fields marked with an (*) are required.</p>
-                                <form id="email_a_friend" name="email_a_friend" method="post" action="/contact/eaf_submit">
-                                    <input type="hidden" name="challenge" value="779D2A86BFCCE56BAD421BF7C9709234">
-                                    <label for="eaf_to">Email Address:</label>
-                                    <input name="eaf_to" type="text" id="eaf_to" value="">
-                                    <label for="eaf_from">Your Email:</label>
-                                    <input name="eaf_from" type="text" id="eaf_from" value="">
-                                    <label for="comments">Additional Message:</label>
-                                    <textarea name="comments" id="comments" cols="32" rows="4"></textarea>
-                                    <input id="send_to_a_friend" class="mainBlue" type="submit" value="Send to Friend">
-                                </form>
-                            </div>
-                            <div class="clearfix"></div>
-                            <p class="disclaimer">Email addresses are not saved by <span class="notranslate">Toll Brothers. </span> All information is kept private.</p>
-                        </div>
-                    </div>
-                </li>
-            </ul></div>
-        <div class="clearfix"></div>
+            </div>
+            <div class="quad-columns-divider">
+                <ul class="quad-columns col">
+                    <li><a href="/about/experience/our-customers-speak" title="Our Customers Speak">Our Customers Speak</a></li>
+                    <li><a href="/about/lifestyle#socialMedia" title="Toll Brothers Social Media">Toll Brothers Social Media</a></li>
+                    <li><a href="/ExternalURLClick?redirect=http://tolltalks.tollbrothers.com" target="_blank" title="Toll Talks Blog">Toll Talks Blog</a></li>
+                    <li><a href="/ExternalURLClick?redirect=http://www.tolllifestyletv.com" target="_blank" title="Toll Lifestyle TV">Toll Lifestyle TV</a></li>
+                </ul>
+                <ul class="quad-columns col last-quad">
+                    <li><a href="/family-of-home-brands" title="Family of Home Brands">Family of Home Brands</a></li>
+                    <li><a href="/community-specific-websites" title="Community Specific Websites">Community Specific Websites</a></li>
+                    <li><a href="/additional-toll-services" title="Additional Toll Services">Additional Toll Services</a></li>
+                    <li><a href="/ExternalURLClick?redirect=https://mytollhome.tollbrothersinc.com/" target="_blank" title="My Toll Home">My Toll Home</a></li>
+                </ul>
+            </div>
+        </nav>
     </section>
-    <div class="footHold">
-        <section class="container container_16">
-            <div class="firstlast tblogo fLeft"></div>
-
-            <p><span class="notranslate">250 Gibraltar Road, Horsham, PA 19044</span> - 855-897-8655 - <a href="/sitemap">Site Map</a> - <a href="/legal">Legal</a> - <a href="/privacy">Privacy</a></p>
-            <div class="clearfix"></div>
-        </section>
-    </div>
-    <div class="clearfix"></div>
+<section class="main-footer-bottom page-margins group">
+        
+            <div class="main-footer-bottom-logo col"></div>
+            <ul class="main-footer-bottom-nav col">
+                <li class="no-bullet"><a href="/sitemap">Site Map</a></li>
+                <li><a href="/legal">Legal</a></li>
+                <li><a href="/privacy">Privacy</a></li>
+            </ul>
+     
+    </section>
 </footer>
-<div class="displayNone">
-    <div id="findYourHome">
-        <p class="findYourHomeH2">Home Search</p>
-        <p class="findYourHomeH4"></p>
-        <article id="findsimple" class="tab_content2 js-form-anchor">
-            <div class="grid_4 firstlast formLeftLight">
-                <form id="findLightBox" action="/search">
-                    <input type="hidden" id="lightbox_simple_zip" name="zip" value="">
-                    <input type="hidden" name="LB" value="y">
-                    
-                    <div class="purchaseGroup">
-                        <span class="purchaseLabel">I am interested in:</span>   
-                        <input id="buying-simple" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-buying" type="checkbox" checked="">                         
-                        <label class="checkLabel" for="buying-simple">Buying</label>
-                        <input id="renting-simple" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-rental" type="checkbox">
-                        <label class="checkLabel" for="renting-simple">Renting</label>
-
-                        <input type="hidden" class="js-rental-param-simple" name="" value="">
-                        <input type="hidden" class="js-rental-param-student-simple" name="" value="">
-
-                    </div>
-                    
-                    <label class="ziplabel" for="lightbox_simple_city">City or Zip:</label>
-                    <input type="text" name="city" id="lightbox_simple_city" placeholder="Enter city or zip">
-                    <label for="lightbox_simple_state">State:</label>
-                    <select id="lightbox_simple_state" class="state" name="state">
-                        <option value="">Select a State</option>
-                        <option class="notranslate" value="AZ">Arizona</option>
-<option class="notranslate" value="CA">California</option>
-<option class="notranslate" value="CO">Colorado</option>
-<option class="notranslate" value="CT">Connecticut</option>
-<option class="notranslate" value="DE">Delaware</option>
-<option class="notranslate" value="DC">District of Columbia</option>
-<option class="notranslate" value="FL">Florida</option>
-<option class="notranslate" value="IL">Illinois</option>
-<option class="notranslate" value="MD">Maryland</option>
-<option class="notranslate" value="MA">Massachusetts</option>
-<option class="notranslate" value="MI">Michigan</option>
-<option class="notranslate" value="MN">Minnesota</option>
-<option class="notranslate" value="NV">Nevada</option>
-<option class="notranslate" value="NJ">New Jersey</option>
-<option class="notranslate" value="NY">New York</option>
-<option class="notranslate" value="NC">North Carolina</option>
-<option class="notranslate" value="PA">Pennsylvania</option>
-<option class="notranslate" value="TX">Texas</option>
-<option class="notranslate" value="VA">Virginia</option>
-<option class="notranslate" value="WA">Washington</option>
-<option value="any">Any State</option>
-                    </select>
-                       
-                    <input type="hidden" id="lightbox_simple_dummy_state" name="s_state" value="">
-                    <!--
-                    <label for="lightbox_simple_county">County:</label>
-                    <select id="lightbox_simple_county" class="county" name="county">
-                        <option value="">Select a State</option>
-                    </select>
-                    -->
-                    <button class="mainBlue" id="findSubmitLight">Find Your Home Now</button>
-                </form>
-                <span class="defaultGrey advancedBtn _advancedSearch" tabindex="0">Switch to Advanced Search</span>
-            </div>
-            <div class="grid_4_map" id="searchMap2">
-                <div id="interactiveMapLight">
-                    <div class="map_home js-search-map"><a href=""></a></div>
-                </div>
-            </div>
-            </article>
-        <article id="findAdvanced" class="tab_content2 js-form-anchor">
-            <form name="refusemapine_results" id="lightbox_refine_results" action="/search">
-                <fieldset class="grid_4">
-                    <div class="clearfix full">
-                        <label class="ziplabel" for="lightbox_city">City or Zip</label>
-                        <input type="text" id="lightbox_city" placeholder="Enter city or zip" name="city" value="">
-                        <input type="hidden" id="lightbox_zip" name="zip" value="">
-                        <input type="hidden" name="LB" value="y">
-                        <input type="hidden" id="lightbox_dummy_state" name="s_state" value="">
-                    </div>
-                    <label for="lightbox_distance_from_zip">Distance</label>
-                    <select id="lightbox_distance_from_zip" name="radius">
-                        <option value="" selected="selected">Select a Distance</option>
-                        <option value="5">5 miles</option>
-                        <option value="10">10 miles</option>
-                        <option value="25">25 miles</option>
-                        <option value="50">50 miles</option>
-                        <option value="75">75 miles</option>
-                        <option value="100">100 miles</option>
-                    </select>
-                    <br>
-                    <label for="lightbox_state">State</label>
-                    <select id="lightbox_state" name="state">
-                        <option value="" selected="selected">Select a State</option>
-                        <option class="notranslate" value="AZ">Arizona</option>
-<option class="notranslate" value="CA">California</option>
-<option class="notranslate" value="CO">Colorado</option>
-<option class="notranslate" value="CT">Connecticut</option>
-<option class="notranslate" value="DE">Delaware</option>
-<option class="notranslate" value="DC">District of Columbia</option>
-<option class="notranslate" value="FL">Florida</option>
-<option class="notranslate" value="IL">Illinois</option>
-<option class="notranslate" value="MD">Maryland</option>
-<option class="notranslate" value="MA">Massachusetts</option>
-<option class="notranslate" value="MI">Michigan</option>
-<option class="notranslate" value="MN">Minnesota</option>
-<option class="notranslate" value="NV">Nevada</option>
-<option class="notranslate" value="NJ">New Jersey</option>
-<option class="notranslate" value="NY">New York</option>
-<option class="notranslate" value="NC">North Carolina</option>
-<option class="notranslate" value="PA">Pennsylvania</option>
-<option class="notranslate" value="TX">Texas</option>
-<option class="notranslate" value="VA">Virginia</option>
-<option class="notranslate" value="WA">Washington</option>
-<option value="any">Any State</option>
-                    </select>
-                    <br>
-                    <label for="lightbox_county">County</label>
-                    <select id="lightbox_county" name="county">
-                        <option value="" selected="selected">First Select a State</option>
-                    </select>
-                    <br>
-                    <label for="lightbox_school_district">School District</label>
-                    <select id="lightbox_school_district" name="schoolDist">
-                        <option value="" selected="selected">Select a School District</option>
-                    </select>
-                </fieldset>
-
-                <fieldset id="lightbox_community_types" class="grid_4 leftforty">
-                    <legend>Community Type</legend>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_active_adult" name="c_type" value="Active Adult">
-                        <label for="lightbox_active_adult" class="community_type">Active Adult</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_active_living" name="c_type" value="Active Life">
-                        <label for="lightbox_active_living" class="community_type">Active Living</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_resort" name="c_type" value="Resort">
-                        <label for="lightbox_resort" class="community_type">Amenities / Resort</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_urban_living" name="c_type" value="Urban">
-                        <label for="lightbox_urban_living" class="community_type">City Living</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_future" name="c_type" value="Future">
-                        <label for="lightbox_future" class="community_type">Future</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_golf" name="c_type" value="Golf">
-                        <label for="lightbox_golf" class="community_type">Golf</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_mconly" name="mconly" value="y">
-                        <label for="lightbox_mconly" class="community_type">Master Plan</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_waterfront" name="c_type" value="Waterfront">
-                        <label for="lightbox_waterfront" class="community_type">Waterfront</label>
-                    </div>
-                </fieldset>
-                <fieldset id="lightbox_home_types" class="grid_5">
-                    <legend>Home Type</legend>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_apartment" name="h_type" value="Apartment">
-                        <label for="lightbox_apartment" class="home_type">Apartment</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_carriage" name="h_type" value="Carriage">
-                        <label for="lightbox_carriage" class="home_type">Carriage</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_condominium" name="h_type" value="Condo">
-                        <label for="lightbox_condominium" class="home_type">Condo</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_patio" name="h_type" value="Patio">
-                        <label for="lightbox_patio" class="home_type">Patio</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_single_family" name="h_type" value="Single Family">
-                        <label for="lightbox_single_family" class="home_type">Single Family</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_townhome" name="h_type" value="Townhome">
-                        <label for="lightbox_townhome" class="home_type">Townhome</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_villa" name="h_type" value="Villa">
-                        <label for="lightbox_villa" class="home_type">Villa</label>
-                    </div>
-                </fieldset>
-                <div class="clearfix"></div>
-                <fieldset id="lightbox_home_details" class="grid_4">
-                    <div class="clearfix full">
-                        <label for="lightbox_bed">Bedrooms</label>
-                        <select id="lightbox_bed" name="bed">
-                            <option value="" selected="selected">Any</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label for="lightbox_mbed">Master Bedroom</label>
-                        <select id="lightbox_mbed" name="mbed">
-                            <option value="" selected="selected">Any</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label for="lightbox_bath">Baths</label>
-                        <select id="lightbox_bath" name="bath">
-                            <option value="" selected="selected">Any</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label for="lightbox_hbath">Half Baths</label>
-                        <select id="lightbox_hbath" name="hbath">
-                            <option value="" selected="selected">Any</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label for="lightbox_sqft">Square Feet</label>
-                        <select id="lightbox_sqft" name="sqft">
-                            <option value="" selected="selected">Any</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label for="lightbox_garage"># of Garages</label>
-                        <select id="lightbox_garage" name="garage">
-                            <option value="" selected="selected">Any</option>
-                        </select>
-                    </div>
-                </fieldset>
-                <div class="grid_5 firstlast leftforty">
-                    <fieldset id="lightbox_price_range" class="grid_4">
-                        <legend>Price Range</legend>
-                        <div>
-                            <label for="lightbox_p_min">Minimum</label>
-                            <select id="lightbox_p_min" name="p_min" class="price_range">
-                                <option value="" selected="selected">Any</option>
-                            </select>
-                        </div>
-                        <div>
-                            <label for="lightbox_p_max">Maximum</label>
-                            <select id="lightbox_p_max" name="p_max" class="price_range">
-                                <option value="" selected="selected">Any</option>
-                            </select>
-                        </div>
-                    </fieldset>
-                    <br>
-                    <br>
-                    <fieldset id="lightbox_results_type" class="grid_5">
-                        <legend>Results Type</legend>
-                        <input id="lightbox_bts" type="hidden" name="bts" value="y">
-                        <input id="lightbox_qdh_hidden" type="hidden" name="qdh" value="y">
-                        <input id="lightbox_incPlan" type="hidden" name="incPlan" value="n">
-                        <div class="checkHolder">
-                            <input id="lightbox_qdh" type="checkbox">
-                            <label id="lightbox_qdh_label" for="lightbox_qdh">Only Quick Delivery Homes</label>
-                        </div>
-                        
-                        <div class="purchaseGroup">
-                            <span class="purchaseLabel">I am interested in:</span>   
-                            <input id="buying-adv" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-buying" type="checkbox" checked="">                         
-                            <label class="checkLabel" for="buying-adv">Buying</label>
-                            <input id="renting-adv" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-rental" type="checkbox">
-                            <label class="checkLabel" for="renting-adv">Renting</label>
-
-                            <input type="hidden" class="js-rental-param-adv" name="" value="">
-                            <input type="hidden" class="js-rental-param-student-adv" name="" value="">
-                        </div>
-                        
-                    </fieldset>
-                </div>
-                <div class="clearfix"></div>
-                <div class="container_16 toptwenty">
-                    <div class="grid_8">
-                        <button class="mainBlue" id="findSubmitLightADV">Find Your Home Now</button>
-                        <span class="defaultGrey simpleBtn" tabindex="0">Switch to Quick Search</span>
-                    </div>
-                </div>
-            </form>
-        </article>
-    </div></div><script>window.nseCMPID = '';</script>
-<div class="displayNone">
-    <div id="usaLightboxMap">
-        <h3>Select a city or metro area to find your Toll Brothers dream home.</h3>
+</div> <script>window.nseCMPID = '';</script>
+<div class="is-hidden">
+    <div id="metro-map">
+        <header class="js-metro-map-header">
+            <h3>Select a city or metro area to find your Toll Brothers dream home.</h3>
+        </header>
         <div id="metro-map-canvas" class=""></div>
-        <div class="clearfix"></div>
     </div>
 </div>
-<script src="https://cdn.tollbrothers.com/common/js/jquery/jquery-1.8.3.min.js?20158201320"></script>
-
+<script src="https://cdn.tollbrothers.com/common/js/jquery/jquery-1.11.3.min.js?2016381249"></script>
 <script>
     var useProdScripts = true;
     var files;
-    var checkLimit = 10;
+    var checkLimit = 20;
 
     function safeToLoad() {
         if (!useProdScripts){
-            yepnope('/tb/js/toll.footer.js');
+            yepnope('/tb/js/toll.header.js');
         }
         if (typeof postponeJS === 'function'){
             postponeJS(useProdScripts);
@@ -804,7 +336,7 @@ document.write(unescape("%3Cscript%20src='" +
     }
 
     
-            files = ['https://cdn.tollbrothers.com/tb/js/js_footer_concat.min.js?20158201320'];
+            files = ['https://cdn.tollbrothers.com/tb/js/js_footer_concat.min.js?2016381249'];
       
          
         yepnope([
@@ -812,7 +344,7 @@ document.write(unescape("%3Cscript%20src='" +
                 load: files,
                 complete: function() {
                     function checkForRequired() {
-                        if (jQuery.uniform && jQuery.colorbox && jQuery.ui && jQuery.fn.touchwipe && jQuery.fn.noUiSlider && toll.searchForms && toll.loaded) {
+                        if (jQuery.colorbox && jQuery.ui && jQuery.fn.touchwipe && jQuery.fn.noUiSlider && toll.searchForms && toll.helpers_loaded) {
                             safeToLoad();
                         } else {
                             if (checkLimit > 0) {
@@ -828,23 +360,15 @@ document.write(unescape("%3Cscript%20src='" +
             }
         ]);
 </script>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
 
-<!--[if lt IE 7 ]>
-    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-<![endif]-->
+
+<script async="" src="//www.google.com/jsapi" type="text/javascript"></script>
+<script async="" type="text/javascript" src="//go.tollbrothers.com/GenericWebLead/conversion.js"></script>
+
 <div class="displayNone" style="width:0px; height:0px;">
     <noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="//tollbrothersinc.122.2o7.net/b/ss/tbrostollbrothers/1/H.16--NS/0" alt="" style="width:0px; height:0px;" /></a></noscript>
     <a href="https://plus.google.com/113566032308799299571" rel="publisher"></a>
     </div>
-<script type="text/javascript" src="//go.tollbrothers.com/GenericWebLead/conversion.js"></script>
-<script type="text/javascript">
-document.write(unescape("%3Cscript%20src='"+
-(document.location.protocol=='https:'?
-"https://cdnssl.clicktale.net/www08/ptc/a23a0f84-35eb-4dda-baa0-ce00b4646b8c.js":
-"http://cdn.clicktale.net/www08/ptc/a23a0f84-35eb-4dda-baa0-ce00b4646b8c.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://cdnssl.clicktale.net/www08/ptc/a23a0f84-35eb-4dda-baa0-ce00b4646b8c.js" type="text/javascript"></script>
 <script type="text/javascript">_satellite.pageBottom();</script>
 
 </body></html>
