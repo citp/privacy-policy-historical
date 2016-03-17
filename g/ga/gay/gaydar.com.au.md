@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208060201id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.com.au privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317104107id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
 
 # Gaydar - What you want, when you want it
 
