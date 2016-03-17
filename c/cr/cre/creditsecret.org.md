@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsecret.org privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822120156id_/http%3A//www.creditsecret.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsecret.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317114606id_/http%3A//creditsecret.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
