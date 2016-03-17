@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920113926id_/https%3A//www.voices.com/company/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317020541id_/https%3A//www.voices.com/company/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Voices.com
 
@@ -46,5 +46,8 @@ Voices.com is the leading voice marketplace. We thank you for your business and 
   * [Privacy Policy](https://web.archive.org/company/legal/privacy_policy)
   * [Anti-Money Laundering Policy](https://web.archive.org/company/legal/anti_money_laundering_policy)
   * [Community Guidelines](https://web.archive.org/company/legal/community_guidelines)
+  * [Accessibility: Standards](https://web.archive.org/company/legal/accessibility)
+  * [Accessibility: Multi-year Plan](https://web.archive.org/company/legal/accessibility-multi-year-plan)
+  * [Accessibility: Customer Service Policy](https://web.archive.org/company/legal/accessibility-customer-service-policy)
 
 
