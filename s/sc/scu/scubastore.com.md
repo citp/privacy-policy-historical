@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubastore.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209015503id_/http%3A//www.scubastore.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubastore.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317174315id_/https%3A//www.scubastore.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
 # scubastore Terms & conditions. Online dive gear and dive equipment shop
 
@@ -172,7 +172,7 @@ For United Kingdom: Maestro - Local Bank Transfer Account
 
 The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 14 days beginning the day after the day on which you received the goods (a "cooling off period").
 
-You must notify us of your cancellation in writing or in another durable medium by e-mail to our contact page using the following link: [CONTACT](http://www.scubastore.com/?idioma=eng&action=contacto&uam=) or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
+You must notify us of your cancellation in writing or in another durable medium by e-mail to our [contact page](http://www.scubastore.com/?action=contacto&idioma=eng&uam= "Contact page") or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
 
 9.2. Cancellation consequences:
 
