@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeinn.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211025239id_/http%3A//www.bikeinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeinn.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318002646id_/http%3A//www.bikeinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
 # bikeinn Terms & conditions. Online bike gear and bike equipment shop
 
@@ -8,7 +8,7 @@ Welcome to Tradeinn.com, the first network of online store specialized in sellin
 
 C/ Pirineus, 9,   
 17460 Celrà (Girona), Spain.   
-Tel.: +34 902 104 550 
+Tel.: 718-709-5401 
 
 [www.tradeinn.com](http://www.tradeinn.com/ "tradeinn")
 
@@ -172,7 +172,7 @@ For United Kingdom: Maestro - Local Bank Transfer Account
 
 The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 14 days beginning the day after the day on which you received the goods (a "cooling off period").
 
-You must notify us of your cancellation in writing or in another durable medium by e-mail to our contact page using the following link: [CONTACT](http://www.bikeinn.com/?idioma=eng&action=contacto&uam=) or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
+You must notify us of your cancellation in writing or in another durable medium by e-mail to our [contact page](http://www.bikeinn.com/?action=contacto&idioma=eng&uam= "Contact page") or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
 
 9.2. Cancellation consequences:
 
