@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolute-snow.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080323id_/http%3A//www.absolute-snow.co.uk/services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute-snow.co.uk privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317214628id_/https%3A//www.absolute-snow.co.uk/services/privacy-security) for the most accurate reproduction.*
 
 # The Absoute-Snow Privacy Policy
 
