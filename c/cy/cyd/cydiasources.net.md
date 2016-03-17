@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cydiasources.net privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826141827id_/http%3A//www.cydiasources.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydiasources.net privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317145143id_/http%3A//www.cydiasources.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cydia Sources, Repos, Tweaks for iOS 8.4 - iOS 9
+# Privacy Policy | CydiaSources.NET
 
 This Privacy Policy governs the manner in which CydiaSources collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.CydiaSources.net website (“Site”). This privacy policy applies to the Site and all products and services offered by CydiaSources.
 
@@ -13,10 +13,6 @@ We may collect personal identification information from Users in a variety of wa
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
  **Web browser cookies**
-
->  **Get Latest Jailbreak & Cydia Apps for Free**
-> 
-> Email Updates Powered by Google FeedBurner
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
@@ -36,6 +32,10 @@ We may use the email address to respond to their inquiries, questions, and/or ot
  **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+>  **Get Latest Jailbreak & Cydia Apps for Free**
+> 
+> Email Updates Powered by Google FeedBurner
 
  **Sharing your personal information**
 
