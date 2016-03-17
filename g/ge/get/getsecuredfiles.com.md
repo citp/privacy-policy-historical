@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsecuredfiles.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822210254id_/http%3A//www.getsecuredfiles.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsecuredfiles.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317075351id_/http%3A//getportal.net/privacy.jsp) for the most accurate reproduction.*
 
 # GetPortal CDN Network - Privacy Policy
 
