@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023135827id_/http%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317025550id_/https%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
 
 # REFOG Privacy Policy
 
@@ -19,7 +19,7 @@ Upon reading this privacy statement, you will be informed regarding the followin
 (7) how you can access and correct any inaccuracies in the information collected about you.  
 Questions regarding this statement should be directed to privacy@refog.com
 
-If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this privacy statement, please submit a report to: http://support.refog.com/hc/en-us
+If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this privacy statement, please submit a report to: https://support.refog.com/hc/en-us
 
 ### Word from REFOG
 
