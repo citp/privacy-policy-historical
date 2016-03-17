@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020111id_/http%3A//pos.toasttab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317053725id_/https%3A//pos.toasttab.com/privacy) for the most accurate reproduction.*
 
-# Toast Privacy Policy
+# Toast Privacy Policy | Toast Restaurant POS
 
 ### Our Policy
 
@@ -14,7 +14,7 @@ When you interact with us through our Site or Products, we may collect Personal 
 
 We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, purchase a Product, register your Product or otherwise use certain Products.  In addition, when you access or use a Product we may collect metrics on your activities, such as web pages visited, length of visit, and which features of our product you use.  Wherever Toast collects Personal Data we make an effort to provide a link to this Privacy Policy. 
 
-**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us through the Site or in connection with any Product, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Toast and the authorized third parties referred to herein located in the United States.**
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us through the Site or in connection with any Product or Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Toast and the authorized third parties referred to herein located in the United States.
 
 #### Other Information
 
