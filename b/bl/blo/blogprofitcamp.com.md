@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogprofitcamp.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026033102id_/http%3A//www.blogprofitcamp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogprofitcamp.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317135654id_/http%3A//www.blogprofitcamp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
