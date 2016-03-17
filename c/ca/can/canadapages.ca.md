@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209125021id_/http%3A//www.canadapages.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317163400id_/http%3A//www.canadapages.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Your Privacy is Important to us, Read our Privacy Policy - Canada Pages
 
