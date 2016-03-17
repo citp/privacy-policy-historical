@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeeto.io privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101124719id_/http%3A//www.zeeto.io/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeto.io privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317125859id_/http%3A//zeeto.io/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zeeto
 
