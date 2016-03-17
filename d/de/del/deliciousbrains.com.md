@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012005022id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318001938id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Delicious Brains
 
