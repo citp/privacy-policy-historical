@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyiliving.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103015804id_/http%3A//fyiliving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyiliving.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317094802id_/http%3A//fyiliving.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FYI Living
 
