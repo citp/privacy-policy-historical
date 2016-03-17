@@ -1,82 +1,119 @@
-> *The following text is extracted and transformed from the divxlink.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523143517id_/http%3A//www.divxlink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divxlink.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317120324id_/http%3A//www.bluecam.com/privacy) for the most accurate reproduction.*
 
-# Divxlink.com - Watch Videos Online - Watch Divx Videos
+# Privacy Policy - BlueCams
 
-### Privacy Policy
+Effective Date: March 4, 2014
 
-At Divxlink.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Divxlink.com or its subsidiaries or affiliated companies (collectively, Divxlink.com's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information. 
+Last Modified: March 4, 2014
 
-Divxlink.com adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. 
+This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“BlueCams,” “we,” “our”). By using our Services and/or registering with BlueCams, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as BlueCams adheres to the standards set forth more clearly below.
 
-If you have any questions about this Policy, please feel free to contact us through our website. 
+We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the BlueCams website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-Information we collect and how we use it: 
+If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Divxlink.com Search. In order to provide our full range of services, we may collect the following types of information: 
+**Information Collected**
 
-* Information you provide - When you sign up for a Divxlink.com Account or other Divxlink.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other Divxlink.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
+In order to provide our full range of Services, we may collect the following types of information:
 
-* Divxlink.com cookies - When you visit Divxlink.com, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Divxlink.com features and services may not function properly if your cookies are disabled. 
+Information you provide. When you register for a username, we ask you for personal information (such as your email address, username, and an account password). In order to improve the quality of our Services and to provide you with a better user experience, we may combine the information you submit with information provided by third parties.
 
-* Log information - When you use Divxlink.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+Financial Data. Some portions of the BlueCams website are provided as paid services. Accordingly, our payment processor may collect billing information from you to facilitate your purchase of Services from us. Such information may include a credit card number, the associated card’s expiration date, and a billing address. WE DO NOT HAVE ACCESS TO YOUR FINANCIAL DATA, WHICH IS COLLECTED BY OUR PAYMENT PROCESSOR. Financial data that is collected by our payment processor will only be used as necessary to initiate and complete any orders placed by your account. Credit card purchases for the pay services offered on the BlueCams site are processed via industry standard encryption through third-party processors, which processors only use your information the purpose of processing order placed by your account. Financial Data is considered private information and will not be shared with us, or with third parties, except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third parties. Financial or other data provided by you to any companies or websites advertising on our website are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy.
 
-* User communications - When you send email or other communication to Divxlink.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+Demographic Information. Each time you access our Services, our servers may automatically record in their server logs information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol or “IP” address, the date and time of your request, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser. Additionally, we may collect other available demographic information, such as zip code, search history, browsing history, and user history. Aggregate, non-individual membership demographic information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
 
-* Affiliated sites - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Divxlink.com in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+Links. We may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of our advertising and customized content, as well as the organization and layout of our website.
 
-* Links - Divxlink.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising. 
+Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service. BlueCams uses what are known as "evercookies" which may appear on your system despite certain settings and software to block standard cookies. Therefore, the evercookie works to ensure that you do not inadvertently clear your cookies and lose your preferences and ability to use BlueCams as you have selected and to ensure that we keep people who breach our rules off of BlueCams for the well-being of the BlueCams community.
 
-* Other sites - This Privacy Policy applies to web sites and services that are owned and operated by Divxlink.com. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+User communications. We may retain communications that you send to BlueCams by email or otherwise, in order to process your inquiries, respond to your requests, and improve our Services.
 
-Divxlink.com only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include: 
+Affiliated BlueCams Services on other sites. From time to time, we may offer some of our Services on or through other websites. In the event that we do offer such services, it is possible that personal information you provide to those sites may be sent to BlueCams to facilitate delivery of those services. We will process such information under this Privacy Policy as if the information had been submitted directly from you to BlueCams. Any affiliated site through which our Services are offered will likely have its own privacy policy, which may be very different from ours. It is very important for you to review the privacy policies for such affiliated sites before submitting personal information to them.
 
-* Providing our products and services to users, including the display of customized content and advertising; * Auditing, research and analysis in order to maintain, protect and improve our services; * Ensuring the technical functioning of our network; and * Developing new services. 
+Other sites. This Privacy Policy only applies to Services offered by BlueCams. We are not able to exercise control over sites that are linked to from within our various Services. These other sites may collect data, set their own cookies in your browser, or ask you to provide personal information.
 
-You can find more information about how we process personal information by referring to the privacy notices for particular services. 
+**Use of Personal Information**
 
-Divxlink.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
+BlueCams processes personal information only for the purposes described in this Privacy Policy. In addition to the reasons set forth above, such purposes also include:
 
-Choices for personal information 
+Providing our Services (which includes displaying customized advertising and other content);
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+Auditing, research, and analysis (to maintain, protect, and improve our Services);
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
+Technical diagnostics (to ensure our network is functioning as expected);
 
-You can decline to submit personal information to any of our services, in which case Divxlink.com may not be able to provide those services to you. 
+Protecting the rights or property of BlueCams or our users, or third parties;
 
-Information sharing 
+To comply with applicable law, to cooperate with law enforcement and the court system;
 
-Divxlink.com only shares personal information with other companies or individuals outside of Divxlink.com in the following limited circumstances: 
+Creating new Services; and
 
-* We have your consent. We require opt-in consent for the sharing of any sensitive personal information. * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) detect, prevent, or otherwise address fraud, security or technical issues, or (c) protect against imminent harm to the rights, property or safety of Divxlink.com, its users or the public as required or permitted by law. 
+Marketing and sales of advertising.
 
-If Divxlink.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
+We process personal information on our servers, which are located in the United States of America and in other countries. As a result, there exists the possibility that we may process your personal information on a server that is not located in your home country. In some cases, we may process personal information at the request of third parties and according to their instructions, such as our advertising partners. We will treat all personal information processed at the request of a third party exactly as if we had collected the processed personal information ourselves.
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
+**Information Communicated via Video Chat**
 
-Please contact us at here for any additional questions about the management or use of personal data. 
+As the BlueCams website features interactive video chat services, it is possible for you to communicate identifying information about yourself to other users who are viewing a live video stream from your computer. You should be aware that any such communication is made directly to those users viewing the live video stream, and not to BlueCams. We are not responsible for the privacy of personal identifying information that you communicate via video chat to users who are viewing a live video stream from your computer. Accordingly, you should refrain from sharing personal information via live video stream to other users of BlueCams services.
 
-Information security 
+**California Residents**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support@chaturbate.com](mailto:%20support@chaturbate.com).
 
-We restrict access to personal information to Divxlink.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+**Privacy Principle: Choice**
 
-Data integrity 
+Use of our Services requires registering for a username. When you sign up for our Services, we ask you to provide personal information, such as your email address. We will ask for your consent prior to using any provided personal information in any way that is different from the stated purpose for which that information was collected.
 
-Divxlink.com processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
+In the event that we develop a new use for personal information that is not described in this Privacy Policy, you will be given the opportunity to opt out of such use. We will not collect or use sensitive information, such as racial or ethnic origins, sexuality, politics, religion, or medical information, for any purpose not described herein.
 
-Accessing and updating personal information 
+Use of our Service may require you to configure your browser settings to allow cookies to be stored on your computer or other browsing device. You should be aware that the Services might not function properly without cookies enabled.
 
-When you use Divxlink.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
+**Privacy Principle: Onward Transfer**
 
-Enforcement 
+BlueCams may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of BlueCams, we will only do so in the following circumstances:
 
-Divxlink.com regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Divxlink.com's treatment of personal information by contacting us through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Divxlink.com and an individual. 
+  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so.
+  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith.
+  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of BlueCams, its users, or the public.
 
-Changes to this policy 
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). 
 
-Copyright © 2009 Divxlink.com, All Rights Reserved.  
-Divxlink.com Is not affiliated with Divx.com 
+This Privacy Policy may be superseded by an acquiring party’s policies in the event that BlueCams becomes involved in a merger, acquisition, or any form of sale of some or all of its assets.
+
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who viewed a certain page in our website, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+**Privacy Principle: Security**
+
+Appropriate security measures are taken to protect your personal information against unauthorized access to or unauthorized alteration, disclosure, or destruction. These measures include internal reviews of our data collection, storage, and processing practices. Physical security measures are also taken to prevent unauthorized access to systems where your personal information is stored.
+
+Your personal information is revealed to our employees, contractors, and agents on a need-to-know basis in operating, developing, or improving our Services. As a condition of their employment or association with BlueCams, these individuals are bound by confidentiality obligations. If they fail to maintain the confidentiality of your personal information, they may be subject to discipline, including termination and criminal prosecution.
+
+**Privacy Principle: Data Integrity**
+
+BlueCams processes personal information only for the purposes described in this Privacy Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process only that personal information which is needed to provide or improve our Services or as otherwise permitted hereunder. Although we depend on our users to keep their own personal information up to date, we also perform reasonable actions to ensure that the personal information we process is accurate, complete, and current.
+
+**Privacy Principle: Access**
+
+We make good-faith efforts to provide you with access to your personal information that we have collected. In the event that such information is inaccurate, we will endeavor to provide facilities that allow you to either correct this data or to delete it, provided we are not otherwise required to retain such data by law or for legitimate business purposes. Before processing requests to access, delete, or alter such data, we ask individual users to identify themselves and the information requested to be accessed, deleted, or corrected. We may refuse to process requests: (i) that require disproportionate technical effort; (ii) that are unreasonably repetitive or systematic; (iii) that would be extremely impractical (for instance, requests concerning information residing on backup tapes); (iv) that jeopardize the privacy of others; or (v) for which access is not otherwise required. Unless providing access and correction service would involve a disproportionate effort, we will perform it free of charge.
+
+**Privacy Principle: Enforcement**
+
+We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [support@chaturbate.com](mailto:%20support@chaturbate.com).
+
+It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between BlueCams and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
+
+**Email Communications**
+
+By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+
+While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
+
+From the "MY PROFILE" page, click on the "Settings & Privacy" tab.
+
+Delete your email address from the "E-mail address" input box under the "Personal Data" heading
+
+Click on the "Update Settings" button link near the bottom of the "MY PROFILE" page.
+
+After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
