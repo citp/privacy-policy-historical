@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephones.pk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221162518id_/http%3A//mobilephones.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephones.pk privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317060945id_/http%3A//mobilephones.pk/privacy.php) for the most accurate reproduction.*
 
 # Mobilephones.pk
 
