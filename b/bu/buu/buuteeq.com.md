@@ -1,130 +1,124 @@
-> *The following text is extracted and transformed from the buuteeq.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621014841id_/http%3A//www.buuteeq.com/legal-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buuteeq.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317040953id_/http%3A//suite.booking.com/privacy-policy) for the most accurate reproduction.*
 
-# legal-term - buuteeq - Hotel Internet Marketing
+# Privacy Statement » BookingSuite
 
-buuteeq, Inc. (“buuteeq”, “our”, “us” or “we”) is a SaaS/digital marketing company that provides an online platform called BackOffice™ to our customers (“Customers”) for hotel and lodging-related marketing, social media, reservation collection and online advertising purposes (collectively, “Services”). This privacy policy describes how buuteeq collects and uses the information you provide on the Site and through our Services. It also describes the choices available to you regarding our use of your information and how you can access and update this information. The use of information collected through our Site and Services shall be limited to the purpose of providing the Services for which our Customers have engaged buuteeq. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
+**Effective Date: 09/03/2016**
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+This privacy statement applies to the services provided by BookingSuite B.V., Herengracht 597, 1017 CE Amsterdam, the Netherlands, (“ **BookingSuite** “) and describes how BookingSuite collects and uses the personal information you provide on our website [http://suite.booking.com](http://suite.booking.com/) (“ **Site** ”) or via the online registration and an account facility (the “ **Backoffice** ”). The Site and the Backoffice are jointly referred to as the “ **Services** “. An accommodation website provided through BookingSuite is referred to as an “ **Accommodation Site** ”. It also describes the rights and choices you have regarding our processing of your personal information.
 
-**U.S.—E.U. Safe Harbor**
+We may amend this privacy statement from time to time, we will notify you by email (sent to the email address specified in the Backoffice) or by means of a notice on this website prior to the change becoming effective so please visit this page regularly to keep abreast of the updates.
 
-buuteeq complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. buuteeq has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view buuteeq’s certification, please visit <http://www.export.gov/safeharbor/>
+The TRUSTe program covers only information that is collected through this website, [http://suite.booking.com](http://suite.booking.com/), and the Backoffice. The use of information collected through our Services shall be limited to the purpose of providing the Services for which you have engaged BookingSuite. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-**Information Collection and Use**
+**Information Related to Data Collected through an accommodation site**
 
-In the course of your use of the Site and the Services, we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (“Personal Information”). Personal Information includes, but is not limited to:
+We collect information of the properties registered with BookingSuite (“ **Clients** ”); if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.
 
-  * Contact information such as name, email address, mailing address, and phone number
-  * Information about your business such as company name, company size, and business type
+BookingSuite may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this privacy statement regarding notice and choice and the service agreements with our Clients.
 
+We have teamed up with Booking.com B.V., located at Herengracht 597, 1017 CE Amsterdam, The Netherlands (www.booking.com) (hereafter Booking.com) to offer the customers of our Clients online reservation services. The reservations made by the customers of our Clients are processed through Booking.com. The information the customers of our Clients entered into on an Accommodation Site will therefore also be shared with Booking.com (as a data controller) and its affiliates. This may include personal information such as the customer’s name, contact details, payment details, the names of guests traveling with the customer and any customer preferences specified when making a booking. To find out more about the Booking.com corporate family, visit [About Booking.com](http://www.booking.com/content/about.html). Booking.com may process the customer’s personal information for the purposes set out in the [Booking.com privacy policy](http://www.booking.com/content/privacy.en-gb.html).
 
+If you have questions about the processing of personal information by Booking.com, please contact privacy@booking.com. A customer of a Client who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to our Client (data controller) and/or Booking.com (the data controller) via an email to customer.service@booking.com.
 
-We use this information to:
+BookingSuite will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. BookingSuite will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  * Assess the needs of your business to determine suitable products
-  * Send you requested information regarding our Site and Services
-  * Send you updates about our Site and Services
-  * Respond to your Customer service requests, questions and concerns
-  * Administer your account
-  * Send you our newsletter and marketing communications
-  * Improve our Site and marketing efforts
-  * Conduct research and analysis
+**What kind of personal information does BookingSuite collect?**
 
+When entering the Site, BookingSuite automatically collects data using cookies, such as IP addresses, browser types, operating systems, application versions, language settings and page visits. To register your property and to grant you access to the Backoffice, BookingSuite requests the following information: contact details (name, email address, mailing address and phone number) and billing information (bank account or payment card information).
 
+Please make sure that the personal information we process about you is correct, relevant and up to date.
 
-**Testimonials**
+In addition, your personal information may be processed if you have been registered by someone in your organization as an authorized user of the Backoffice or if your personal information has been provided to us through our referral mechanism because someone believes that you may be interested in the services of BookingSuite. If we have received your personal information via our referral mechanism, we will process your personal information only to contact you once and to track the success of our referral program.
 
-We display personal testimonials of satisfied Customers on our Site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below.
+You may contact us at [customer.service@booking.com](mailto:customer.service@booking.com) to request that we remove your information from our database.
 
-**Additional Users**
+**Why does BookingSuite collect, use and share personal information?**
 
-Customers who use the Services offered on the Site may submit the Personal Information of other individuals at their organization to register them as authorized users. It is the Customer’s obligation to inform its authorized users about the purposes for which Personal Information about them is collected and that such Personal Information may be used on the Site and in connection with providing the Services. Authorized users can update or remove their account information at any time by logging into the Site and editing their account information or by contacting their administrator.
+_For internal use._ We use your personal information internally for the following purposes:
 
-**Referrals**
-
-We provide a referral mechanism for Customers using our Services through which they can send us information about other individuals or companies that may be interested in buuteeq. We will contact these referrals one time only using the information provided to us. buuteeq stores this information for the sole purpose of contacting the referral and tracking the success of our referral program. Referrals may contact us using the information below to request that we remove this information from our database.
-
-**Information Sharing**
-
-We will share your Personal Information with third parties only in the ways that are described in this Privacy Policy. We do not sell, rent or otherwise distribute your Personal Information to third parties.
-
-**Service Providers**
-
-buuteeq may transfer Personal Information to other companies and individuals that help us provide our Services. Without limitation, we may employ third party companies and individuals to provide the Services on our behalf, and to perform, without limitation, maintenance services, database management, payment processing, and web analytics. These third parties have access to Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-**Information Shared with Third Parties**
-
-buuteeq may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other purposes, including any such information collected from End Users.
-
-**Legal Disclaimer**
-
-We may also disclose your Personal Information:
-
-  * As required by law, such as to comply with a subpoena, or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * If buuteeq is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information,
-  * To any other third party with your prior consent to do so
+  * **Registration and account administration.** We use personal information to register your property and to allow you and BookingSuite to administer and manage the Backoffice. If you haven’t finalized the online registration, we may send a reminder to continue with the registration. We believe that this additional service is useful to you and allows you to continue with the registration without having to fill in all the registration details from scratch. Reminder emails contain an unsubscribe option that you can use if you don’t want us to send messages.
+  * **Marketing/Communications** : We use personal information to provide you with requested information, to send our newsletter and marketing communications, and updates about the Services. You may opt-out at any time from our newsletter and other marketing communications by following the unsubscribe instructions included in these emails, accessing the email preferences in the Backoffice, or by contacting us at customer.service@booking.com.
+  * **Customer Service**. We use personal information to respond to your requests, questions and concerns.
+  * **Analytics, improvements and research.** We use personal information to conduct research and analysis. We may involve a third party to do this on our behalf. We may share or disclose the results of such research, including to third-parties and our Affiliates, in anonymous, aggregated form. We also use personal information to assess the needs of your business to determine suitable services and to improve our Services and marketing efforts. We may inform you about possible improvements that can be made to your property’s presentation and use of the Backoffice. We may invite you to take part in surveys, such as market research, and to analyze how to improve your experience, and the functionality and quality of our Backoffice, property presentation and our services.
+  * **Fraud detection and prevention.** We use personal information in order to prevent fraud and other illegal or violating activities. We also use this information to investigate and detect fraud and to facilitate prosecution where necessary. For this purpose personal information may be shared with third parties, such as law enforcement authorities and external advisors.
 
 
 
-**Partners**
+_Sharing With Affiliates_. We share your personal information with members of the Priceline Group (www.pricelinegroup.com) (“ **Affiliates** ”) as permitted by law, such as with Booking.com B.V. for analytical purposes. If required by law, we shall first ask your consent before our Affiliates may use your personal information for other purposes such as marketing communications.
 
-buuteeq may use 3rd party partners (“Partners”) to sell, distribute and support our Site and Services. These Partners have access to your Personal Information solely to perform these tasks on our behalf and to help you use our Site and Services, and are obligated not to disclose or use it for any other purpose. buuteeq is not responsible for any newsletters or marketing communications sent by our Partners. Please contact them directly if you would like to cease receiving any communications from any Partner.
+_Sharing With Third-Parties._ We may share your personal information with third parties as permitted by law and as described below. We do not sell or rent your personal information.
 
-**User Access and Choice**
+  * **Service Providers.** We may share personal information with third party service providers to provide our services and/or maintain the Site or conduct business on our behalf.
+  * **Compelled Disclosure.** When legally required, strictly necessary for the performance of the services or to protect our rights, or the rights of our Affiliates or users, we may disclose your personal information to law enforcement authorities, investigative organizations, affiliates such as Priceline.com or in legal proceedings.
+  * **Sale or Merger.** We may share your personal data in the event of a merger, acquisition, or sale of all or a portion of our assets. Of course, we shall notify you via email and/or a prominent notice on our Site and inform you of your rights.
 
-If your Personal Information changes, you may correct, update, amend, or remove it, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at help@buuteeq.com or by contacting us by telephone or postal mail at the contact information listed below. If you no longer desire to use our Services, you may deactivate/delete your account from the account settings page, or contact us directly. We will respond to your request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you with our Services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Opt-out Preferences**
+_Sharing and Disclosure of Aggregate Data_. We may share data in aggregate form and/or in a form which does not enable the recipient of such data to identify you, with third parties, for example for industry analysis and demographic profiling.
 
-If you wish to subscribe to our newsletter(s) or blog updates, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at help@buuteeq.com
+**Retention of personal information**
 
-**Tracking Technologies / Cookies**
+We will retain your personal information for as long as we deem it necessary to provide services to you, comply with applicable laws (including those regarding document retention), resolve disputes with any parties and otherwise as necessary to allow us to conduct our business. All personal information we retain will be subject to this privacy statement **.**
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to our Site. Second, we utilize session ID cookies to enable certain features of our Site and Services, to better understand how you interact with the Site and to monitor aggregate usage by and web traffic routing on our Site. Unlike persistent cookies, session cookies are deleted from your computer when you close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of our Site.
+**Cookies**
 
-**Analytics / Log Files**
+Like most websites, we use cookies to recognize you as a user of our Services, to learn about you and to remember your preferences. Cookies are small text files stored on your computer (of mobile device) by your browser. Through cookies, certain information may be collected, such as IP addresses, browser types, operating systems, application versions, language settings, visited or shown pages, anonymous standard log information and device-specific settings and characteristics. Generally, data collected by cookies does not personally identify you, however, some data may be considered personal information under applicable law.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Site, to track users’ movements around the Site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to Personal Information.
+**How does BookingSuite use cookies?**
 
-**3rd Party Tracking**
+We try to offer you advanced and user-friendly Services. To achieve this, we use the following types of cookies. We don’t list every single cookie used by name to keep this document clear and comprehensive, but you can contact us for detailed information:
 
-The use of tracking technologies by our service providers or technology partners on the Site is not covered by our Privacy Policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our Site. We do not have access to or control over these technologies. We do not tie the information gathered to our Customers’ Personal Information.
+  * **Technical cookies** : We use technical cookies to perform the Services, for example so that you can create an account and sign in. These cookies are absolutely necessary for the Services to function properly.
+  * **Functional cookies** : We use functional cookies to remember preferences and to help you use the Services efficiently and effectively, for example by remembering your preferred language. These cookies enhance your experience.
+  * **Analytics cookies** : We use analytics cookies to gain insight into how the Services are used, for example to find out what works and what doesn’t, to optimize and improve our website and mobile platforms, and to ensure we continue to be interesting and relevant for you. Data collected using analytic cookies include: which webpages are viewed, which referring/exit pages are entered and left from, which platform type is used, date and time stamp information and details such as the number of times one clicks on a given page, data on mouse movements and scrolling activity and  text typed while using the Services.
 
-**Behavioral Targeting / Re-Targeting**
 
-We partner with a third party ad network to display advertising on our Site. Our ad network partner uses cookies and Web beacons to collect non-Personal Information about your activities on this Site to provide you targeted advertising based upon your interests. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by Web beacons to our Customers’ Personal Information. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  * **Local Storage Objects:** Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+
+
+The data we collect via the cookies may be shared with our Affiliates.
+
+**Does BookingSuite use third-party cookies?**
+
+Yes, we partner with third parties to either display advertising on our Site or to manage our advertising on other sites. We use third party tracking technologies, such as cookies, beacons, tags and scripts, for analytical purposes. Although data collected by these technologies does not always personally identify you, some data may be considered personal information under applicable law. We use this data for marketing and advertising purposes, customer relationship management, and business intelligence systems. These technologies are used in analyzing trends, administering the Services, tracking movements around the Services and to gather demographic information about our user base as a whole. Data collected using such cookies may be shared with the third party. We may receive reports based on the use of these technologies by these third parties on an individual as well as aggregated basis. Please see an overview of the cookies the Cookies we use here: <http://bsv.preview.buuteeq.com/cookie-policy/cookie-policy.htm>. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking  _here_  (or if located in the European Union click _here_ ). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+The third parties we use are committed to establishing responsible business and data-management practices and standards.
+
+**How long do BookingSuite cookies stay active?**
+
+The cookies we use have varying lifespans. If data collected via a cookie contains personal information, we will not keep this data in an identifiable form longer than necessary to fulfill the purposes for which the personal information has been collected.
+
+**How can cookie preferences be managed?**
+
+You can control the settings of your browser to erase cookies or prevent automatic acceptance if you prefer at any time. The browser settings can be found via the “Help” function. To remove our cookies, you can also use this link: <http://booking.com/purge_cookies>. Mind you, if you choose not to accept certain cookies, you may not be able to use some functions of our Services.
 
 **Security**
 
-The security of your Personal Information is important to us. When you enter sensitive information (such as a credit card number or log-in information) on our Site, we encrypt the transmission of that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems. We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us using the information below.
-
-**TRUSTe Privacy Seal**
-
-buuteeq has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements and the TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through our Site and the Services. It does not cover information that may be collected through mobile applications, devices or any third party sites or affiliates.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at help@buuteeq.com. If you are not satisfied with our response you can contact TRUSTe here.
+We secure your personal information. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security measures, you can contact us at [customer.service@booking.com](mailto:customer.service@booking.com) _._
 
 **Additional Information**
 
-**Links to 3rd Party Sites**
+_Links to Third Party Sites._ Our Site includes links to other websites whose privacy practices may differ from ours. If you click on these links, visit those sites or submit personal information to any of those sites, the processing of your personal information is governed by their privacy policies. Please carefully read the privacy statement of any site you visit.
 
-Our Site includes links to other websites whose privacy practices may differ from those of buuteeq. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
+_Blog / Forum._ Our Site offers a publicly accessible blog. Any information you provide on the blog may be read, collected and used by others who access such information, so please do not to post any personal information. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access to, or control over the information posted to the blog. Please review the applicable privacy statement and contact the third party application to have personal information, post or comments removed.
 
-**Blog / Forum**
+_Testimonials._ We display endorsements and personal testimonials of satisfied customers on our Site. With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us [askbookingsuite@booking.com](mailto:askbookingsuite@booking.com).
 
-Our Site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected and used by others who access such information. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access to, or control over the information posted to the blog. You will need to contact or login into the third party application if you want the Personal Information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+_Single Sign-on_. You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
-**Social Media Widgets**
+_Social Media Widget._ Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
-Our Site includes social media features, such as the Facebook ‘Like’ button, links to our various social media pages and widgets, such as the ‘Share’ this button or interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it, whether we or a third party is hosting such social media features or widget.
+**Your rights**
 
-**Changes To This Policy**
+At all times you have the right of access the personal information we process about you. If your personal information is incorrect, out-of-date or not relevant anymore for the purposes collected, please let us know via [customer.service@booking.com](mailto:customer.service@booking.com) and we will update or remove it. We will respond to your request within 30 days, however, we may need to retain certain information for legal or administrative purposes. Please write “Request personal information” in the subject line of your email.
 
-Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Site or through the Services or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
+**Contact Information**
 
-**Contact Us**
+BookingSuite B.V. 
 
-If you have any questions about this Privacy Policy, please contact us at help@buuteeq.com or at: 1455 NW Leary Way, Seattle, WA 98107.
+Herengracht 597 
+
+1017 CE AMSTERDAM 
+
+[customer.service@booking.com](mailto:customer.service@booking.com)
