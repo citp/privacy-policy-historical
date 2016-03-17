@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalreport.org privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526073504id_/http%3A//globalreport.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalreport.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317222702id_/http%3A//www.globalreport.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalReport.org
 
