@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkplace.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315042402id_/http%3A//www.bookmarkplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkplace.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317223444id_/http%3A//www.bookmarkplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmarks | Bookmark | Christian Bookmarks | BookmarkPlace.com
 
