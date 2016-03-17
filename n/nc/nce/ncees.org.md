@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910213722id_/http%3A//ncees.org/supplemental-pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317021111id_/http%3A//ncees.org/supplemental-pages/privacy-statement) for the most accurate reproduction.*
 
 # NCEES: Privacy statement
 
@@ -53,5 +53,4 @@ If you have any questions regarding this privacy statement, the practices of thi
 NCEES  
 P.O. Box 1686  
 Clemson, S.C. 29633  
-800-250-3196  
-[email](https://ncees.org/supplemental-pages/contact-us/)
+800-250-3196
