@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010140031id_/https%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318205337id_/https%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Corporate Limo Service and Ground Transportation
 
@@ -29,6 +29,8 @@ Information about our customers is an important part of our business and we are 
 **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
 **Promotional Offers:** Sometimes we send offers to selected groups of GroundLink.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences.
+
+**GroundLink Corporate Accounts:** If you are an employee on your employer's GroundLink Corporate Account then upon your employer's request your ride information, ride history and ride data may be shared with your employer.  In addition, ride information and your user profile can be viewed by the Administrators on your employer's GroundLink Corporate Account as well as by those Travel Arrangers who book rides on your behalf.  No other employees may view your ride information or profile.
 
 **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that GroundLink.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
