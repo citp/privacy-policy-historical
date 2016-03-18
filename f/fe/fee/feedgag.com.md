@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the feedgag.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122093151id_/http%3A//feedgag.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedgag.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318213912id_/http%3A//likesnews.com/pages/Privacy%2520policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | LikesNews
 
-This Privacy Policy governs the manner in which feedgag collects, uses, maintains and discloses information collected from users (each, a "User") of the www.feedgag.com website ("feedgag"). This privacy policy applies to the Site and all products and services offered by feedgag.  
+This Privacy Policy governs the manner in which feedgag collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.likesnews.com](http://www.likesnews.com/) website ("LikesNews"). This privacy policy applies to the Site and all products and services offered by LikesNews .  
  **Personal identification information**
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
@@ -17,7 +17,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
  **How we use collected information**
 
-feedgag may collect and use Users personal information for the following purposes:
+LikesNews may collect and use Users personal information for the following purposes:
 
   *  _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -50,15 +50,15 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at<http://www.google.com/privacy_ads.html>
 
-**Compliance with children's online privacy protection act**
+ **Compliance with children's online privacy protection act**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
  **Changes to this privacy policy**
 
-feedgag has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+feedgag has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -67,4 +67,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-info@feedgag.com
+info@LikesNews.com
