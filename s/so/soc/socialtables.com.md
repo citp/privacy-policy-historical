@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the socialtables.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927193352id_/https%3A//www.socialtables.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtables.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318192459id_/https%3A//www.socialtables.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Social Tables
+# Privacy Policy - Social Tables
 
-This Privacy Policy governs the manner in which Social Tables collects, uses, maintains and discloses information collected from users (each, a "User") of the <https://www.socialtables.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Social Tables. 
+This Privacy Policy governs the manner in which Social Tables collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.socialtables.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Tables.
 
 #### Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 #### Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 #### Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 #### How we use collected information
 
-Social Tables may collect and use Users personal information for the following purposes: 
+Social Tables may collect and use Users personal information for the following purposes:
 
-\- To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently. 
+– To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+– To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-\- To improve our Site. We may use feedback you provide to improve our products and services.
+– To improve our Site. We may use feedback you provide to improve our products and services.
 
-\- To run a promotion, contest, survey or other Site feature
+– To run a promotion, contest, survey or other Site feature
 
-\- To send Users information they agreed to receive about topics we think will be of interest to them.
+– To send Users information they agreed to receive about topics we think will be of interest to them.
 
-\- To send periodic emails. We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+– To send periodic emails. We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 #### How we protect your information
 
@@ -44,7 +44,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 #### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 Social Tables works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us. No personally identifiable information about you is collected or shared by AdRoll with Social Tables. You can opt-out of AdRoll and their partners by visiting [this link.](http://www.adroll.com/about/privacy)
 
@@ -58,9 +58,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
-Social Tables   
-https://www.socialtables.com/   
-Social Tables 700 6th St., NW, Suite 420, Washington, DC 20001   
-+1 (877) 973-2863   
-support@socialtables.com 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Social Tables  
+https://www.socialtables.com/  
+Social Tables 700 6th St., NW, Suite 420, Washington, DC 20001  
++1 (877) 973-2863  
+support@socialtables.com
