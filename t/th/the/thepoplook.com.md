@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepoplook.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184649id_/http%3A//poplook.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoplook.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318073249id_/http%3A//poplook.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poplook.com
 
@@ -64,6 +64,6 @@ If you require further information about our Privacy Policy, please go to the Cu
 
 ## **Personal Data Protection Notice**
 
-In compliance with the Personal Data Protection Act 2010 and its regulations, this Notice is issued to all our valued customers and/or prospective customers. This Notice explains how [theponys](http://www.theponys.com/ "theponys") collect and handle your personal information in accordance with the Malaysian Personal Data Protection Act 2010.
+In compliance with the Personal Data Protection Act 2010 and its regulations, this Notice is issued to all our valued customers and/or prospective customers. This Notice explains how POPLOOK collect and handle your personal information in accordance with the Malaysian Personal Data Protection Act 2010.
 
-Please check [here](https://web.archive.org/web/20150607184649id_/http%3A//poplook.com/content/15-personal-data-protection) for more information on the Personal Data Protection Notice.
+Please check [here](https://web.archive.org/web/20160318073249id_/http%3A//poplook.com/content/15-personal-data-protection) for more information on the Personal Data Protection Notice.
