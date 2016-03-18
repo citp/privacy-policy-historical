@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thanksmatrix.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517102001id_/http%3A//www.thanksmatrix.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thanksmatrix.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318102027id_/http%3A//www.thanksmatrix.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Thanks Matrix | United States
+# ThanksMatrix | Esolutions in Business and Personal Management
 
 |  Last Modified: March 1, 2015
 
