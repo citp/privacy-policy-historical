@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004200013id_/http%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318213249id_/http%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
 
 # MoneyAM - Free Share Prices, Stock Quotes, Charts, News, Level2
 
@@ -8,7 +8,7 @@ MoneyAM Limited is committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which your personal data will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated by us. 
 
-For the purpose of the Data Protection Act 1998 (�the Act�) the data controller is MoneyAM limited of Thames House, 18 Park Street, London, SE1 9ER, England. 
+For the purpose of the Data Protection Act 1998 (�the Act�) the data controller is MoneyAM limited of Trafford House, Chester Rd, Stretford, Manchester M32 0RS. 
 
 **1\. Information we may collect from you**
 
@@ -80,7 +80,7 @@ We do not disclose individual information to our advertisers, but we may provide
 
 **5\. Your rights**
 
-You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at: MoneyAM Limited, Thames House, 18 Park Street, London, SE1 9ER, England or email support@moneyam.com 
+You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at: MoneyAM Limited, Trafford House, Chester Rd, Stretford, Manchester M32 0RS or email support@moneyam.com 
 
 Our site contains links to and from our advertisers�, partners� and affiliates� websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that MoneyAM Limited does not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these sites. 
 
@@ -88,4 +88,4 @@ Our site contains links to and from our advertisers�, partners� and affiliat
 
 The Act gives you various rights including the right to access information held about you. Your right to access can be exercised in accordance with the Act. 
 
-Questions about this privacy policy can be addressed to Michael Boydell at: MoneyAM Limited, Thames House, 18 Park Street, London, SE1 9ER, England. 
+Questions about this privacy policy can be addressed to Michael Boydell at: MoneyAM Limited, Trafford House, Chester Rd, Stretford, Manchester M32 0RS. 
