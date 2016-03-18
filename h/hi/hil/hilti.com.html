@@ -1,48 +1,45 @@
-<!--The following is the downloaded HTML source of the hilti.com privacy policy that was archived on 2015-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919031829id_/https%3A//www.hilti.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hilti.com privacy policy that was archived on 2016-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160318151153id_/http%3A//www.hilti.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 
 <link rel="alternate" hreflang="en" href="https://www.hilti.com">
-
-<title>Hilti - Privacy policy</title>
+	<title>Privacy policy - Hilti Corporation</title>
 	
 
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 
-<meta name="csrf-token" content="4f1bef37-3b0a-4752-afd6-c833443eb0f4">
+<meta name="csrf-token" content="066f8499-6241-479c-ba09-55d8d13b2e47">
 
 <link rel="shortcut icon" href="/_ui/desktop/css/img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/_ui/desktop/css/img/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global_part_1.min.css?93">
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global_part_2.min.css?93">
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/chosen.min.css?93">
+
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global_part_1.min.css?20160219">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global_part_2.min.css?20160219">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/chosen.min.css?20160219">
 <link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/jquery-ui-1.8.21.custom.min.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/hilti.min.css?93">
-<!--[if lt IE 9]><link rel="stylesheet" href="/_ui/desktop/css/ie8.min.css?93"><![endif]-->
-<!--[if lt IE 8]><link rel="stylesheet" href="/_ui/desktop/css/ie7.min.css?93"><![endif]-->
-<link rel="stylesheet" href="/_ui/desktop/css/jquery-ui-1.8.21.custom.min.css?93">
-<link rel="stylesheet" type="text/css" media="print" href="/_ui/desktop/css/print.min.css?93">
-<link rel="stylesheet" type="text/css" href="/_ui/desktop/css/make-it-fit.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZCTB6"></script><script type="text/javascript" src="/_ui/desktop/js/modernizr.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/json2.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery-1.7.2.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.upload-1.0.2.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/hilti.min.js?93"></script>
-	
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablednd.0.7.min.js?93"></script>
-	
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/hilti.min.css?20160219">
+<!--[if lt IE 9]><link rel="stylesheet" href="/_ui/desktop/css/ie8.min.css?20160219"><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" href="/_ui/desktop/css/ie7.min.css?20160219"><![endif]-->
+<link rel="stylesheet" href="/_ui/desktop/css/jquery-ui-1.8.21.custom.min.css?20160219">
+<link rel="stylesheet" type="text/css" media="print" href="/_ui/desktop/css/print.min.css?20160219">
+<link rel="stylesheet" type="text/css" href="/_ui/desktop/css/make-it-fit.min.css?20160219">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZCTB6"></script><script type="text/javascript" src="/_ui/desktop/js/modernizr.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery-1.7.2.min.js?20160219"></script>
+ 	<script type="text/javascript" src="/_ui/desktop/livesupportsdk/web/consumer/assist.js"></script>	
 	
     <!--[if (gte IE 6)&(lte IE 8)]>
-	<script type="text/javascript" src="/_ui/desktop/js/selectivizr-min.js?93" charset="utf-8"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/selectivizr-min.js?20160219" charset="utf-8"></script>
     <![endif]-->
 	<script type="text/javascript">
+		
 		var hilti = hilti ? hilti : {};
 		hilti.resourcePathBase = '/_ui/desktop';
 		hilti.country = 'Liechtenstein/Headquarters';
@@ -64,9 +61,21 @@
 		
 		$(document).ready(function() {
 			setCSRFToken($('meta[name="csrf-token"]').attr('content'));
+			$('#selectaccount .close').on('click',function(){
+				$('.select-account-Overlay').remove();
+				$('#loginoverlay').toggle(0);
+			});
+			$('.dimmer').on('click', function(){
+				if($(this).next().attr('id') == 'selectaccount'){
+					$('.select-account-Overlay').remove();
+					$('#loginoverlay').toggle(0);
+				}
+			});
 		});
+
 	</script>
 </head>
+
 <body class="home  en" style="" id="editorials">
 <script>
 		dataLayer = [{'logged': 'false'
@@ -84,7 +93,22 @@
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-TZCTB6');</script>
 	<!-- End Google Tag Manager -->
-<div id="main">
+<div id="cookiebanner">
+			<div class="cookiebanner__container">
+                <div class="cookiebanner__text">
+					<p>We have placed cookies on your computer to help make this website better. You can <a href="#">change your cookie settings</a> at any time. Otherwise, we'll assume you're OK to continue.</p>
+				</div>
+				<div class="hidebanner">
+				    <a class="button button-small gradient-gray accept" href="#">Don't show this again</a>
+				</div>
+			</div>
+			<script type="text/javascript">
+                 if(!navigator.cookieEnabled) {
+                     document.getElementById('cookiebanner').style.display = 'none';
+                 }
+            </script>
+		</div>
+		<div id="main">
 			<!-- editorialPageLayout -->
 	<header id="head">
 		<div id="header-static">
@@ -117,13 +141,13 @@
 	<a class="langbutton " href="#de">DE</a>
 	<form id="lang-form" action="/_s/language" method="post"><input type="hidden" name="code" id="lang-selector">
 		<input type="hidden" id="productHierarchyReferer" name="productHierarchyReferer" value="">
-	<input type="hidden" name="CSRFToken" value="4f1bef37-3b0a-4752-afd6-c833443eb0f4">
+	<input type="hidden" name="CSRFToken" value="066f8499-6241-479c-ba09-55d8d13b2e47">
 </form></div>
 
 
 	<div id="search">
 		<div id="contactlink">
-			<a href="#">Contact</a>
+			<a href="#" class="comContactLink">Contact</a>
 		</div>
 		<form action="/editorial-search">
 			<input type="text" placeholder="Search" class="text" id="searchfield" name="text" maxlength="255"> 
@@ -131,7 +155,10 @@
 		</form>
 	</div>
 
-	<div id="usersection">	
+	<div id="usersection">
+		<div id="geolocationLink">
+				<a href="/country-selector" class="select-country-link"> <i class="icon icon-select-country-white"></i>Select your Country</a>
+			</div>
 		
 
 
@@ -149,84 +176,235 @@
 
 
 
-
-
-
 <div id="contactoverlay" class="worldwide">
-      <div class="dimmer"></div>
-      <div id="contactoverlay-inner">
-        <h3> <span class="close">Close</span><br><strong></strong></h3>
-        <div class="folders">
-          <div class="folders-navigation clearfix">
-            <ul class="clearfix">
-              <li class="active"><a href="#folder-feedback"><span>Contact/Feedback</span></a></li>
-            </ul>
-          </div>
-          <div class="folders-content">
-            
+ <div class="dimmer"></div>
+	<div id="contactoverlay-inner">
+		<div class="h3">
+			<span class="close">Close</span><br>
+			<strong>Tell us how we can help you.</strong>
+		</div>
+		<div class="folders">
+			<div class="folders-content">
+				<form id="folder-feedback" class="folder-content form-wrapper contactoverlay__form grid" action="/contact/handlehilticomfeedback.ajax" method="post"><div class="notification error grid__col grid__col--full" style="display: none;">
+		<strong>Please fill in required information.</strong>
+	</div>
+	<div class="grid__col grid__col--half grid__col--padding-right">
+		<div>
+			<label style="margin-top: 0;" for="reason">You want to …&nbsp;*</label>
+			<select class="searchable" id="reasonCode" name="reasonCode" data-placeholder="Please select reason" style="display: none;">
+				<option value="">Please select reason...</option>
+				<option value="FEEDBACK">Provide Feedback / Complaint</option>
+				  <option value="COMPLAINT">Share a Complaint</option>
+				  <option value="INFORMATION_REQUEST">Request Information</option>
+				  <option value="CATALOG_REQUEST">Request a Catalog, Technical or Firestop Guide</option>
+				  </select> 
+			<span id="reasonCodeText" class="error-text"></span>
+		</div>
+		<div>
+			<label for="requestDetails">Request details: *</label>
+			<textarea id="requestDetails" name="requestDetails" placeholder="Please try to give a specific description." rows="23" cols="5"></textarea><span id="requestDetailsText" class="error-text"></span>
+		</div>
+	</div>
+	<div class="grid__col grid__col--half grid__col--padding-left form__dotted-border">
+		<h3>Your contact information</h3>
 
+		<div>
+			<label for="contact_company">Company: *</label> 
+			<input id="companyName" name="companyName" class="text" type="text" value="" maxlength="100"><span id="companyNameText" class="error-text"></span>
+		</div>
 
+		<div>
+			<label for="firstName">First name: *</label> 
+			<input id="firstName" name="firstName" class="text" type="text" value="" maxlength="100"><span id="firstNameText" class="error-text"></span>
+		</div>
 
+		<div>
+			<label for="lastName">Last name: *</label> 
+			<input id="lastName" name="lastName" class="text" type="text" value="" maxlength="100"><span id="lastNameText" class="error-text"></span>
+		</div>
 
+		<div>
+			<label for="emailAddress">e-mail: *</label> 
+			 <input id="emailAddress" name="emailAddress" class="text" type="text" value="" maxlength="100"><span id="emailAddressText" class="error-text"></span>
+		</div>
 
+		<div>
+			<label for="country">Country: *</label> 
+			<select class="js-select--country select-element" id="country" name="country" data-placeholder="Please select" style="display: none;">
+				<option value="">Please select&nbsp;...</option>
+				<option value="AF">Afghanistan</option>
+				<option value="AL">Albania</option>
+				<option value="DZ">Algeria</option>
+				<option value="AO">Angola</option>
+				<option value="AR">Argentina</option>
+				<option value="AM">Armenia</option>
+				<option value="AW">Aruba</option>
+				<option value="AU">Australia</option>
+				<option value="AT">Austria</option>
+				<option value="AZ">Azerbaijan</option>
+				<option value="BH">Bahrain</option>
+				<option value="BD">Bangladesh</option>
+				<option value="BB">Barbados</option>
+				<option value="BY">Belarus</option>
+				<option value="BE">Belgium</option>
+				<option value="BZ">Belize</option>
+				<option value="BJ">Benin</option>
+				<option value="BT">Bhutan</option>
+				<option value="BO">Bolivia</option>
+				<option value="BA">Bosnia and Herzegovina</option>
+				<option value="BW">Botswana</option>
+				<option value="BR">Brazil</option>
+				<option value="BG">Bulgaria</option>
+				<option value="BF">Burkina Faso</option>
+				<option value="CM">Cameroon</option>
+				<option value="CA">Canada</option>
+				<option value="CL">Chile</option>
+				<option value="CN">China</option>
+				<option value="CO">Colombia</option>
+				<option value="CG">Congo (Brazzaville)</option>
+				<option value="CD">Congo (Kinshasa)</option>
+				<option value="CR">Costa Rica</option>
+				<option value="HR">Croatia</option>
+				<option value="CY">Cyprus</option>
+				<option value="CZ">Czech Republic</option>
+				<option value="DK">Denmark</option>
+				<option value="DJ">Djibouti</option>
+				<option value="DO">Dominican Rep.</option>
+				<option value="EC">Ecuador</option>
+				<option value="EG">Egypt</option>
+				<option value="SV">El Salvador</option>
+				<option value="EE">Estonia</option>
+				<option value="ET">Ethiopia</option>
+				<option value="FI">Finland</option>
+				<option value="FR">France</option>
+				<option value="GA">Gabon</option>
+				<option value="GE">Georgia</option>
+				<option value="DE">Germany</option>
+				<option value="GH">Ghana</option>
+				<option value="GR">Greece</option>
+				<option value="GT">Guatemala</option>
+				<option value="GQ">Guinea Equatorial</option>
+				<option value="GY">Guyana</option>
+				<option value="HN">Honduras</option>
+				<option value="HK">Hong Kong</option>
+				<option value="HU">Hungaria</option>
+				<option value="IS">Iceland</option>
+				<option value="IN">India</option>
+				<option value="ID">Indonesia</option>
+				<option value="IR">Iran</option>
+				<option value="IQ">Iraq</option>
+				<option value="IE">Ireland</option>
+				<option value="IT">Italy</option>
+				<option value="CI">Ivory Coast</option>
+				<option value="JP">Japan</option>
+				<option value="JO">Jordan</option>
+				<option value="KZ">Kazakhstan</option>
+				<option value="KE">Kenya</option>
+				<option value="KW">Kuwait</option>
+				<option value="KG">Kyrgyzstan</option>
+				<option value="LV">Latvia</option>
+				<option value="LB">Lebanon</option>
+				<option value="LY">Libya</option>
+				<option value="LI">Liechtenstein</option>
+				<option value="LT">Lithuania</option>
+				<option value="LU">Luxembourg</option>
+				<option value="MK">Macedonia</option>
+				<option value="MG">Madagascar</option>
+				<option value="MY">Malaysia</option>
+				<option value="MT">Malta</option>
+				<option value="MU">Mauritius</option>
+				<option value="MX">Mexico</option>
+				<option value="MID-EAS">Middle-East</option>
+				<option value="MD">Moldova</option>
+				<option value="MN">Mongolia</option>
+				<option value="MA">Morocco</option>
+				<option value="MZ">Mozambique</option>
+				<option value="NA">Namibia</option>
+				<option value="NP">Nepal</option>
+				<option value="NL">Netherlands</option>
+				<option value="NZ">New Zealand</option>
+				<option value="NE">Niger</option>
+				<option value="NG">Nigeria</option>
+				<option value="NO">Norway</option>
+				<option value="OM">Oman</option>
+				<option value="PK">Pakistan</option>
+				<option value="PS">Palestine</option>
+				<option value="PE">Peru</option>
+				<option value="PH">Philippines</option>
+				<option value="PL">Poland</option>
+				<option value="PT">Portugal</option>
+				<option value="QA">Qatar</option>
+				<option value="RO">Romania</option>
+				<option value="RU">Russia</option>
+				<option value="SA">Saudi Arabia</option>
+				<option value="SN">Senegal</option>
+				<option value="RS">Serbia</option>
+				<option value="SC">Seychelles</option>
+				<option value="SG">Singapore</option>
+				<option value="SK">Slovakia</option>
+				<option value="SI">Slovenia</option>
+				<option value="ZA">South Africa</option>
+				<option value="KR">South Korea</option>
+				<option value="ES">Spain</option>
+				<option value="LC">St. Lucia</option>
+				<option value="SX">St. Maarten, N.A.</option>
+				<option value="SD">Sudan</option>
+				<option value="SE">Sweden</option>
+				<option value="CH">Switzerland</option>
+				<option value="SY">Syria</option>
+				<option value="ST">São Tomé &amp; Principe</option>
+				<option value="TW">Taiwan</option>
+				<option value="TZ">Tanzania</option>
+				<option value="TH">Thailand</option>
+				<option value="TT">Trinidad and Tobago</option>
+				<option value="TN">Tunisia</option>
+				<option value="TR">Turkey</option>
+				<option value="TM">Turkmenistan</option>
+				<option value="UG">Uganda</option>
+				<option value="UA">Ukraine</option>
+				<option value="AE">United Arab Emirates</option>
+				<option value="GB">United Kingdom</option>
+				<option value="US">United States</option>
+				<option value="UZ">Uzbekistan</option>
+				<option value="VE">Venezuela</option>
+				<option value="YE">Yemen</option>
+				<option value="ZW">Zimbabwe</option>
+				</select>
+			<span id="countryText" class="error-text"></span>
+		</div>
 
+		<div>
+			<label for="phone">Phone:</label> 
+			<input id="phone" name="phone" class="text" placeholder="Example: 0021535674" type="text" value="" maxlength="14"></div>
+	</div>
 
-
-
-
-
-
-
-
-<script type="text/javascript">
-var eglvchathandle = null;
-var openWindow = function(url) {
+	<div class="grid__col grid__col--full">
+			<div class="submit">
+				<input id="hilticomContactFormSubmit" type="submit" class="form__submit" value="Submit">
+			</div>
 	
-	try {
-		if (eglvchathandle != null && eglvchathandle.closed == false) {
-			eglvchathandle.focus();
-			return;
-		}
-	} catch (err) {
-	}
-	var refererName = "";
-	refererName = encodeURIComponent(refererName);
-	var refererurl = encodeURIComponent(document.location.href);
-	var hashIndex = refererurl.lastIndexOf('#');
-	if (hashIndex != -1) {
-		refererurl = refererurl.substring(0, hashIndex);
-	}
-	var w = 630, h = 440;
-	var t = 0, l = 0;
-	if (window.screen) {
-		if (window.screen.availWidth == 800)
-			w = window.screen.availWidth * 41 / 100;
-		else {
-			w = window.screen.availWidth * 31 / 100;
-		}
-		h = window.screen.availHeight * 95 / 100;
-		l = (window.screen.availWidth - w) * 98 / 100;
-	}
-	var params = "width=" + w + ",height=" + h + ",left=" + l + ",top=" + t
-			+ ",resizable=no,scrollbars=yes,toolbar=no";
-	/* HOL-7606 Change webchat and call me back script */
-	eglvchathandle = window.open(url, '', params); /* + 'referer=' + refererurl + '&eglvrefname=' + refererName , '', params );*/
-}
-</script>
-
-
-<div id="folder-feedback" class="folder-content ">	
-	<span id="contact-form-box"></span>
-</div>
-
-          </div>
-        </div>
-        <address>
-        	<strong>Hilti AG</strong>
-          	<div>Feldkircherstrasse 100.<br>Schaan<br>FL, 9494</div>
-			<div>: <span></span><br>: <span></span></div>
-        </address>
-      </div>
+			<div class="form-options margin-top-none">
+				<p>*&nbsp;required fields</p>
+			</div>
+	</div>
+	<input type="hidden" name="CSRFToken" value="066f8499-6241-479c-ba09-55d8d13b2e47">
+</form><div class="contactoverlay__thanks">
+		<div class="h2">Thank you.</div>
+		<p>An e-mail has been sent to our Customer Service team for follow-up. You will receive a copy for your records.</p>
+		<p>
+			<a href="#" class="contactoverlay__thanks__back js-contactoverlay__thanks__back">Back</a>
+		</p>
+	</div>
+			</div>
+		</div>
+		<address>
+			<strong>Hilti AG</strong>
+			<div>Feldkircherstrasse 100.<br>Schaan<br>FL, 9494</div>
+			<div>:
+				<span></span><br>: <span></span>
+			</div>
+		</address>
+	</div>
 </div>
 </div>
 	
@@ -362,35 +540,10 @@ var openWindow = function(url) {
 			            </a>
 					</li>
 					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div><div class="awards-innovations">
+				<div class="awards-innovations">
 	              		<a href="#awardsfoldout" class="link-to-stage2">New Products, Awards and Innovations</a>
 	           		</div>
-           		<div class="makeitfit">
-	              <a href="#makeitfitfoldout">
-	                <img width="30" alt="Make it Fit" src="/_ui/desktop/css/img/makeitfit_large.png">
-	                <strong>Make it Fit</strong><br>
-	                The configurator for individual sets</a>
-            	</div>              		
-			</div>
+           		</div>
 <div id="servicenode_foldout" class="foldoutcontent">
 		<ul class="companylist clearfix">
 			<li>
@@ -404,15 +557,15 @@ var openWindow = function(url) {
 			<li>
 					<div class="h5"><a>Trainings and Advice                  </a></div><ul>
 					<li><a href="/Services/Trainings-and-Advice-/product-and-application-advice"><span>Product and application advice</span></a></li>
-						<li><a href="/Services/Trainings-and-Advice-/product-application-training"><span>Product and application trainings</span></a></li>
+						<li><a href="/Services/Trainings-and-Advice-/product-application-trainings"><span>Product and application trainings</span></a></li>
 						<li><a href="/Services/Trainings-and-Advice-/hse-training-advice"><span>Health and safety trainings and advice</span></a></li>
 						<li><a href="/Services/Trainings-and-Advice-/environmental-advice"><span>Environmental advice</span></a></li>
-						<li><a href="/Services/Trainings-and-Advice-/software-training"><span>Software training</span></a></li>
+						<li><a href="/Services/Trainings-and-Advice-/software-trainings"><span>Software trainings</span></a></li>
 						</ul>
 				</li>
 			<li>
 					<div class="h5"><a>Tool Services</a></div><ul>
-					<li><a href="/Services/Tool-Services/fleet"><span>Fleet management</span></a></li>
+					<li><a href="/Services/Tool-Services/fleetmanagement"><span>Fleet management</span></a></li>
 						<li><a href="/Services/Tool-Services/lifetime-services"><span>Lifetime services</span></a></li>
 						<li><a href="/Services/Tool-Services/repair-maintenance-and-calibration-services"><span>Repair, maintenance and calibration services</span></a></li>
 						<li><a href="/Services/Tool-Services/safety-with-hilti-tools"><span>Safety with Hilti tools</span></a></li>
@@ -420,7 +573,7 @@ var openWindow = function(url) {
 				</li>
 			<li>
 					<div class="h5"><a>Logistics and Administration</a></div><ul>
-					<li><a href="/Services/Logistics-and-Administration/financial-services"><span>Financial administration</span></a></li>
+					<li><a href="/Services/Logistics-and-Administration/financial-services"><span>Financial services</span></a></li>
 						<li><a href="/Services/Logistics-and-Administration/hilti-logistics"><span>Logistics at Hilti</span></a></li>
 						<li><a href="/Services/Logistics-and-Administration/logistics-services"><span>Logistics services</span></a></li>
 						<li><a href="/Services/Logistics-and-Administration/e-procurement"><span>eProcurement</span></a></li>
@@ -529,26 +682,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -556,26 +690,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -583,26 +698,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -610,26 +706,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -637,26 +714,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -664,26 +722,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -691,26 +730,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -718,26 +738,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -745,26 +746,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -772,26 +754,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -799,26 +762,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -826,26 +770,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -853,26 +778,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="_foldout" class="foldoutcontent">
 				<div class="h4">
@@ -880,26 +786,7 @@ var openWindow = function(url) {
 				</div>
 				<ul class="productlist clearfix">
 				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+				</div>
 
 			<div id="awardsfoldout" class="foldoutcontent">
 				<div class="h4">
@@ -907,30 +794,6 @@ var openWindow = function(url) {
 				</div>
 				<ul class="teaserlist clearfix">
 					<li>
-							<a href="/media-release-30june2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h9e/h72/9155684270110.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Tough, reliable award winner</span>
-								<span>The PR 30-HVS Rotatin Laser<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/media-release-march2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									New Hilti breaker wins gold</span>
-								<span></span>
-							</a>
-						</li>
-					<li>
 							<a href="/company-report-awards">
 								<span class="prodpic">
 									<span><span>
@@ -967,56 +830,13 @@ var openWindow = function(url) {
 							</a>
 						</li>
 					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+			</div>
 		<div id="awardsfoldout" class="foldoutcontent">
 				<div class="h4">
 					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
 				</div>
 				<ul class="teaserlist clearfix">
 					<li>
-							<a href="/media-release-30june2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h9e/h72/9155684270110.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Tough, reliable award winner</span>
-								<span>The PR 30-HVS Rotatin Laser<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/media-release-march2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									New Hilti breaker wins gold</span>
-								<span></span>
-							</a>
-						</li>
-					<li>
 							<a href="/company-report-awards">
 								<span class="prodpic">
 									<span><span>
@@ -1053,56 +873,13 @@ var openWindow = function(url) {
 							</a>
 						</li>
 					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+			</div>
 		<div id="awardsfoldout" class="foldoutcontent">
 				<div class="h4">
 					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
 				</div>
 				<ul class="teaserlist clearfix">
 					<li>
-							<a href="/media-release-30june2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h9e/h72/9155684270110.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Tough, reliable award winner</span>
-								<span>The PR 30-HVS Rotatin Laser<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/media-release-march2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									New Hilti breaker wins gold</span>
-								<span></span>
-							</a>
-						</li>
-					<li>
 							<a href="/company-report-awards">
 								<span class="prodpic">
 									<span><span>
@@ -1139,26 +916,7 @@ var openWindow = function(url) {
 							</a>
 						</li>
 					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<div class="h5"> </div>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
+			</div>
 		<div class="slide-up"><a href="#">Close menu</a></div>
 </div>
 
@@ -1169,9 +927,19 @@ $(document).ready(function() {
 	});
 });
 </script><div id="breadcrumb">
-	<a href="/" class="arrow">Home</a>
-	<span>Privacy policy</span>
-			</div></header>
+	<ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+		<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+			<a itemprop="item" href="/" class="arrow">
+				<span itemprop="name">Home</span>
+			</a>
+			<meta itemprop="position" content="1">
+		</li>
+		<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<span itemprop="name">Privacy policy</span>
+						<meta itemprop="position" content="2"> 
+						</li>
+				</ol>
+</div></header>
 	<!-- _start__index__mark_ --> 
 	<div id="content" class="editorials">
 		<div class="clearfix">
@@ -1232,7 +1000,6 @@ $(document).ready(function() {
 		<div>
 		<div class="h3">Media relations</div>
 		<ul>
-			<li><a id="linkto-MediaReleases-2" href="/Company/media-relations/media" title="Media releases">Media releases</a></li>
 			<li><a id="linkto-MediaReleasesArchive-2" href="/Company/media-relations/media-releases-archive" title="Media releases archive">Media releases archive</a></li>
 			<li><a id="linkto-Publications-2" href="/Company/media-relations/publications" title="Publications">Publications</a></li>
 			<li><a id="PressPhotos-link" href="/Company/media-relations/press-photos" title="Press photos">Press photos</a></li>
@@ -1263,15 +1030,141 @@ $(document).ready(function() {
 <div id="totop">
 	<a href="#head" class="scrollto">Return to top</a>
 </div></footer>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablesorter.min.js?93"></script>
-    <script type="text/javascript" src="/_ui/desktop/js/chosen.jquery.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery-ui-1.8.21.custom.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.cycle.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/hyjack.select.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.onload.min.js?93"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.cookie.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablesorter.min.js?20160219"></script>
+    <script type="text/javascript" src="/_ui/desktop/js/chosen.jquery.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery-ui-1.8.21.custom.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.cycle.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/hyjack.select.min.js?20160219"></script>
+    <script type="text/javascript" src="/_ui/desktop/js/jquery.cookie.min.js?20160219"></script>
+    <script type="text/javascript" src="/_ui/desktop/js/jquery.slick.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.onload.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/json2.min.js?20160219"></script>
+	
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.upload-1.0.2.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/hilti.min.js?20160219"></script>
+	
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablednd.0.7.min.js?20160219"></script>
+	<script type="text/javascript" src="/_ui/desktop/../shared/js/autologout.js?20160219"></script>
 </div>
-	<div class="dimmer" style="display:none"></div>
+		
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function(){
+	$('#callMeBackForm').submit(function(e) {
+	    e.preventDefault();
+	    var url = $('#callMeBackFormUrl').val()
+	    + "&fieldname_1=" + escape($('#callMeBackFormName').val()) 
+	    + "&fieldname_2=" + escape($('#callMeBackFormPhone').val());
+	    if($('#chatOverlayFormAccountNumber').val()!=''){
+	    	url = url + "&fieldname_3=" + escape($('#callMeBackFormAccountNumber').val());
+	    }
+	    if($('#callMeBackFormSapContactId').val()!=''){
+	    	url = url +  "&fieldname_4=" + escape($('#callMeBackFormSapContactId').val());
+	    }
+	    openPopup(url);
+	    $('#closeSpanCallBack').click();
+	    return false;		
+	});
+});
+</script>
+
+
+<div id="callbackoverlay">
+	<div class="dimmer"></div>
+	<div id="callbackoverlay-inner">
+		<div class="h3">
+			Call back<span class="close" id="closeSpanCallBack">Close</span>
+		</div>
+		<form id="callMeBackForm" name="" action="" type="" class="clearfix">
+			<input type="hidden" name="url" id="callMeBackFormUrl" value="">
+			<label for="name"> Name: </label>
+			<input type="text" id="callMeBackFormName" name="" class="text" value="">
+			<label for="phone"> Phone Number: </label>
+			<input type="text" id="callMeBackFormPhone" name="" class="text" value="">
+			<input type="submit" class="button-medium gradient-red" value="Submit">
+			<input type="hidden" id="callMeBackFormAccountNumber" name="fieldname_4" class="text" value="">
+			<input type="hidden" id="callMeBackFormSapContactId" name="fieldname_5" class="text" value="">
+		</form>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function(){
+	$('#chatOverlayForm').submit(function(e) {
+	    e.preventDefault();
+	    return false;
+	});
+	
+	$('#chatOverlaySubmit').click(function(e) {
+	    
+		var systemUrl = window.location.href;
+	    if (systemUrl.length > 400){
+	    	systemUrl = systemUrl.slice(0,400)
+	    }
+
+	    var url = ''
+	    + "&fieldname_1=" + escape($('#chatOverlayFormName').val()) 
+	    + "&fieldname_2=" + escape($('#chatOverlayFormEmail').val()) 
+	    + "&fieldname_3=" + escape($('#chatOverlayFormQuestion').val())
+	    + "&fieldname_4=" + escape(systemUrl);
+	    
+	    
+	    if($('#chatOverlayFormAccountNumber').val()!=''){
+	    	url= url + "&fieldname_5=" + escape($('#chatOverlayFormAccountNumber').val());
+		}
+	    if($('#chatOverlayFormSapContactId').val()!=''){
+	    	url= url  + "&fieldname_6=" + escape($('#chatOverlayFormSapContactId').val());
+	    }
+
+	    openPopup(url);
+	    $('#closeSpan').click();
+	    return false;		
+	});
+});
+</script>
+
+<div id="chatoverlay">
+	<div class="dimmer"></div>
+	<div id="chatoverlay-inner">
+		<div class="h3">
+			Chat <span class="close" id="closeSpan">Close</span>
+		</div>
+		<form id="chatOverlayForm" action="#" class="clearfix">
+			<label for="name"> Name: </label>
+			<input type="text" id="chatOverlayFormName" name="name" class="text" value="" maxlength="200">
+			<label for="email"> Email: </label>
+			<input type="text" id="chatOverlayFormEmail" name="email" class="text" value="" maxlength="200">
+			<div>
+				<label for="question"> Your Question: </label>
+				<textarea id="chatOverlayFormQuestion" name="chatOverlayFormQuestion" maxlength="200"></textarea>
+			</div>
+			<input type="submit" class="button-medium gradient-red" id="chatOverlaySubmit" value="Submit">
+			<input type="hidden" id="chatOverlayFormAccountNumber" name="fieldname_4" class="text" value="">
+			<input type="hidden" id="chatOverlayFormSapContactId" name="fieldname_5" class="text" value="">
+		</form>
+	</div>
+</div>
+
+
+ 
+
+<div class="dimmer" style="display:none"></div>
 	<div id="messageContainer">
 		<h2></h2>
 		<p></p>
@@ -1279,23 +1172,40 @@ $(document).ready(function() {
 	</div>
 	<div id="preloadlayer" style="display: none">
 		<div class="dimmer"></div>
-		<div id="preloader"><h2 id="preloader-text">Loading</h2></div>
+		<div id="preloader"><div class="h2" id="preloader-text">Loading</div></div>
 	</div>
-	<div id="cookiebanner">
-		<div>
-			<div>
-				<p>We have placed cookies on your computer to help make this website better. You can <a href="#">change your cookie settings</a> at any time. Otherwise, we'll assume you're OK to continue.</p>
-			</div>
-			<div class="hidebanner">
-				<a href="#">Don't show this message again</a>
-			</div>
-		</div>
-		<script type="text/javascript">
-			$(document).ready(function() {
-				if(!navigator.cookieEnabled) {
-					$('#cookiebanner').hide();
-				}
-			});
-		</script>
-	</div>
-</body></html>
+	<div class="preloader__image"></div>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#autologout--executed .login').on('click', function(){
+		$(document).find('#selectaccount').parent().remove();
+	});
+	$('#autologout--executed .dimmer, #autologout--executed .close').on('click', function(){
+		jQuery( location ).attr('href',"/");
+	});
+});
+</script>
+<div class="autologout-overlay commonoverlay" id="autologout--executed">
+    <div class="dimmer"></div>
+
+    <div class="autologout-overlay__inner">
+        <div class="h3">Automatic log out<span class="close"></span></div>
+        <div class="overlay-content">
+              <p>Your session was inactive for <span class="auto-logout__time-elapsed">30</span> minutes and you were automatically logged out.</p>
+              <div class="button-container">
+                           <a href="/" class="button gradient-gray">OK</a>
+                           <a href="/login" id="autoLogout" class="button login gradient-red">Login</a>
+              </div>
+        </div>
+    </div>
+</div></body></html>
