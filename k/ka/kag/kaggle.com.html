@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the kaggle.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407084500id_/http%3A//www.kaggle.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaggle.com privacy policy that was archived on 2016-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160318174717id_/https%3A//www.kaggle.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
     <link href="//fonts.googleapis.com/css?family=Merriweather:400,700|Open+Sans:300,400italic,700italic,400,700" rel="stylesheet" type="text/css"> 
+
+    
+    <link rel="stylesheet" href="/content/v/1fb55cec3f8f/shared/css/font-awesome.min.css">
 
     
     
@@ -12,14 +15,14 @@
     <link href="/content/v/4e3f994e938b/kaggle/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
     
-        <meta name="keywords" content="Kaggle, data science, big analytics, data mining, forecasting, statistics, prediction, bioinformatics, competitions, contests, crowdsourced analytics">
-            <meta name="description" content="Kaggle is a platform for data prediction competitions. Companies, organizations and researchers post their data and have it scrutinized by the world's best statisticians.">
+        <meta name="keywords" content="Kaggle, data science, datasets, public data, crowdsourced analytics, competitions, tutorials, scripts, Python, R, InClass, jobs board">
+            <meta name="description" content="Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world class machine learning challenges.">
 
-            <link rel="stylesheet" href="/content/v/caffc864ed84/shared/css/base.less" type="text/css">
-        <link rel="stylesheet" href="/content/v/4b4de64aa988/kaggle/css/kaggle-site.less" type="text/css">
+            <link rel="stylesheet" href="/content/v/1fc20364f0a7/shared/css/base.less" type="text/css">
+        <link rel="stylesheet" href="/content/v/e1cd6968c0d2/kaggle/css/kaggle-site.less" type="text/css">
 
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/content/v/d72fcb8924d1/shared/js/jquery-1.7.2.min.js"></script>
-            <script type="text/javascript" src="/content/v/d33d868eda15/shared/js/jquery-ui-1.9.2.min.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/content/v/47b68dce8cb6/shared/js/jquery-1.7.2.min.js"></script>
+            <script type="text/javascript" src="/content/v/7846b5904b60/shared/js/jquery-ui-1.9.2.min.js"></script>
 
     
         <script type="text/javascript" src="/content/v/a60ecf3c5c7d/shared/js/kaggle.min.js"></script>
@@ -30,13 +33,13 @@
 
     
     <!--[if (gte IE 6)&(lte IE 8)]>
-        <script type="text/javascript" src="/content/v/25d27cd7f061/shared/js/ie/selectivizr.min.js"></script>
+        <script type="text/javascript" src="/content/v/f1f17fea7cee/shared/js/ie/selectivizr.min.js"></script>
     <![endif]-->
 
     
                                         
-                                                                <script type="text/javascript" src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/js/bootstrap.min.js"></script>
-    
+                                                                                <script type="text/javascript" src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/js/bootstrap.min.js"></script>
+
                     <link rel="apple-touch-icon" href="/content/v/1e4cdaa83f46/kaggle/img/apple-touch-icon.png">
 
 
@@ -44,14 +47,23 @@
     <!--[if lt IE 9]>
         <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    
+    
+    
+
 </head>
-<body class="logged-out    kaggle  ">
+<body class="logged-out    kaggle">
+    <div id="watermark1" class=""></div>
+    <div id="watermark2" class=""></div>
+    
     <div id="wrap"><!-- needed for sticky footer -->
+
+
 <div id="menu-open-overlay"></div>
 
-<div id="header2">
-    <div id="header2-inside">    
-        <a id="logo" href="/"><img alt="Kaggle" height="86" src="/content/v/d6801c936e94/kaggle/img/site-logo.png" width="240"></a>
+<div id="header2" class="">
+    <div id="header2-inside" class="">
+        <a id="logo" href="/"><img alt="Kaggle" height="86" src="/content/v/9da25a3f126b/kaggle/img/site-logo.png" width="240"></a>
 
             <ul id="header-ul">
                 <li>
@@ -61,6 +73,12 @@
   <a href="/competitions">Competitions</a>
 </li>
 <li>
+  <a href="/datasets">Datasets</a>
+</li>
+<li>
+  <a href="/scripts">Scripts</a>
+</li>
+<li>
   <a href="/jobs">Jobs</a>
 </li>
 <li>
@@ -68,7 +86,6 @@
 <ul>
   <li><a href="/users">User Rankings</a></li>
   <li><a href="/forums">Forum</a></li>
-  <!--<li><a href="/jobs">Jobs Board</a></li>-->
   <li><a href="http://blog.kaggle.com" target="_blank">Blog</a></li>
   <li><a href="/Wiki">Wiki</a></li>
 </ul>
@@ -83,15 +100,15 @@
 
         <script>
             jQuery(function () {
-                jQuery('#header-ul li:has(ul) > a').click(function(e) {
+                jQuery('#header-ul li:has(ul) > a').click(function (e) {
                     e.preventDefault();
-                    
+
                     jQuery('#header-ul li').not(jQuery(this).parent()).find('ul').removeClass('open');
                     jQuery(this).parent().find('ul').toggleClass('open');
                     jQuery('#menu-open-overlay').show();
                 });
 
-                jQuery('#menu-open-overlay').click( function() {
+                jQuery('#menu-open-overlay').click(function () {
                     jQuery('#header-ul ul').removeClass('open');
                     jQuery('#top-bar-signin').hide();
                     jQuery(this).hide();
@@ -99,23 +116,23 @@
 
             });
         </script>
-    
+
         <ul id="header-control">
-                <li id="header-signup"><a href="/account/register"><strong><text>Sign up</text></strong></a></li>  
+                <li id="header-signup"><a href="/account/register"><strong><text>Sign up</text></strong></a></li>
                 <li id="header-login">
                     <a href="/account/login?returnUrl=%2Fabout%2Fprivacy" class="login-link">Login</a>
-                </li>      
+                </li>
         </ul>
-            <div id="top-bar-signin">    
+            <div id="top-bar-signin">
                 <div id="social-authentication-top">
     <div id="social-authentication-top-head">
         Log in<br>
         with —
     </div>
     <div id="social-authentication-top-buttons">
-        <a href="/account/authenticate/facebook?js=1" class="socialSignIn facebook" title="Log in with Facebook"><img src="/content/v/f5274345ad7a/shared/img/auth-facebook.png" width="36" height="36" alt="Sign up with Facebook" title="Sign up with Facebook"></a>
-        <a href="/account/authenticate/google?js=1" class="socialSignIn google" title="Log in with Google"><img src="/content/v/d6df56991e32/shared/img/auth-google.png" width="36" height="36" alt="Sign up with Google" title="Sign up with Google"></a>
-        <a href="/account/authenticate/yahoo?js=1" class="socialSignIn yahoo" title="Log in with Yahoo"><img src="/content/v/ca50427b37b7/shared/img/auth-yahoo.png" width="36" height="36" alt="Sign up with Yahoo" title="Sign up with Yahoo"></a>
+        <a href="/account/authenticate/facebook?js=1" class="socialSignIn facebook" title="Log in with Facebook"><img src="/content/v/368347303d78/shared/img/auth-facebook.png" width="36" height="36" alt="Sign up with Facebook" title="Sign up with Facebook"></a>
+        <a href="/account/authenticate/google?js=1" class="socialSignIn google" title="Log in with Google"><img src="/content/v/ace060e512d3/shared/img/auth-google.png" width="36" height="36" alt="Sign up with Google" title="Sign up with Google"></a>
+        <a href="/account/authenticate/yahoo?js=1" class="socialSignIn yahoo" title="Log in with Yahoo"><img src="/content/v/2ff11e08ba40/shared/img/auth-yahoo.png" width="36" height="36" alt="Sign up with Yahoo" title="Sign up with Yahoo"></a>
     </div>
     
     <script type="text/javascript">
@@ -131,12 +148,12 @@
 </div>
     
 
-<form action="https://www.kaggle.com/account/login" id="signin" method="post"><input id="returnUrl" name="returnUrl" type="hidden" value="http://www.kaggle.com/about/privacy"><input data-val="true" data-val-length="The field User name must be a string with a minimum length of 2 and a maximum length of 255." data-val-length-max="255" data-val-length-min="2" data-val-required="The User name field is required." id="UserName" name="UserName" placeholder="Email / username" type="text" value=""><span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span><input data-val="true" data-val-length="The field Password must be a string with a minimum length of 1 and a maximum length of 255." data-val-length-max="255" data-val-length-min="1" data-val-required="The Password field is required." id="Password" name="Password" placeholder="Password" type="password"><span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>    <div id="remember-me">
+<form action="/account/login" id="signin" method="post"><input id="returnUrl" name="returnUrl" type="hidden" value="https://www.kaggle.com/about/privacy"><input data-val="true" data-val-length="The field User name must be a string with a minimum length of 2 and a maximum length of 255." data-val-length-max="255" data-val-length-min="2" data-val-required="The User name field is required." id="UserName" name="UserName" placeholder="Email / username" type="text" value=""><span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span><input data-val="true" data-val-length="The field Password must be a string with a minimum length of 1 and a maximum length of 255." data-val-length-max="255" data-val-length-min="1" data-val-required="The Password field is required." id="Password" name="Password" placeholder="Password" type="password"><span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>    <div id="remember-me">
         <input data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">            
         <label for="RememberMe">Remember me?</label>
     </div>   
     <input type="submit" value="Login">
-<input name="__RequestVerificationToken" type="hidden" value="Qwt6llumu2ekhKk7G3H5_apGoYPQs61FrQ2SLOwBMwklV4cRUAaUfNmQd-_-KbRz3ZDyMIlP5hsDdE7Y86OONn_hAb81">    <input id="signinjs" type="hidden" name="JavaScriptEnabled" value="true">    
+<input name="__RequestVerificationToken" type="hidden" value="uIP5tG_j2-s_U8411itXleos9Q3xip-wAsanz9bVANMyycKH7xP2-ogNHLgjsPcorOieu4EaOlDgIymatYr27Qq2Ry81">    <input id="signinjs" type="hidden" name="JavaScriptEnabled" value="true">    
 </form>
 <script type="text/javascript">
     $('#signinjs').attr('value', 'true');
@@ -164,6 +181,8 @@
             </script>
     </div>
 </div>
+
+
 
 
 
@@ -273,33 +292,32 @@ Privacy Policy        </h1>
 
 
     </div> <!-- wrap -->
-    <div id="footer">
-        <div id="footer-inside">
-            <div id="footer-social">
-                    <div id="social-links">
+    
+        <div id="footer">
+            <div id="footer-inside">
+                <div id="footer-social">
+                        <div id="social-links">
             <a class="twitter" href="http://www.twitter.com/kaggle" title="Follow Kaggle on Twitter"></a>     
                     <a class="facebook" href="http://www.facebook.com/kaggle" title="Follow Kaggle on Facebook"></a>           
                     <a class="linkedin" href="http://www.linkedin.com/companies/kaggle" title="Follow Kaggle on LinkedIn"></a>        
     </div><!-- social-links -->
 
-            </div>
-            <div id="footer-copyright">
-                
+                </div>
+                <div id="footer-copyright">
+                    
 
 
-© 2015 Kaggle Inc            </div>
-            <div id="footer-links">
-                <a href="/about">About</a>
-<a href="/team">Our Team</a>
+© 2016 Kaggle Inc                </div>
+                <div id="footer-links">
+                    <a href="/team">Our Team</a>
 <a href="/careers">Careers</a>
 <a href="/terms">Terms</a>
 <a href="/privacy">Privacy</a> 
 <!--<a href="/Home/ContactPress">Press</a>-->
-<a href="/papers">Papers</a>
 <a href="/Home/contact">Contact/Support</a>
-            </div> <!-- footer-links -->
-        </div> <!-- footer-inside -->
-    </div> <!--footer-->
+                </div> <!-- footer-links -->
+            </div> <!-- footer-inside -->
+        </div> <!--footer-->
 
         
         <script type="text/javascript">
@@ -315,24 +333,25 @@ Privacy Policy        </h1>
             })();
         </script>
         <script type="text/javascript">
-        /**
+            /**
         * Function that tracks a click on an outbound link in Google Analytics.
         * This function takes a valid URL string as an argument, and uses that URL string
         * as the event label.
         * See: https://support.google.com/analytics/answer/1136920?hl=en
         */
-        var trackOutboundLink = function(url) {
-            ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
-              function () {
-                  document.location = url;
-              }
-            });
-        }
+            var trackOutboundLink = function(url) {
+                ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+                        function () {
+                            document.location = url;
+                        }
+                });
+            }
         </script>
+
 
     
 
-    <!-- Hiya 204.236.226.210! Cheers, RD00155D48653Ap -->
+    <!-- Cheers, RD00155D487470p. -->
 
 
 </body></html>
