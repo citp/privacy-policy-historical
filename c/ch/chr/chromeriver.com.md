@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908023658id_/https%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318024645id_/https%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Travel Expense Management
 
 Thank you for visiting the Chrome River website and reviewing our privacy policy. This privacy policy applies to [www.chromeriver.com](https://www.chromeriver.com/), which is owned and operated by Chrome River Technologies. This privacy policy describes how Chrome River Technologies (“Chrome River”, “We”, “Us” or “Our”) collects and uses the personal information you provide on our website: [www.chromeriver.com](https://www.chromeriver.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Our privacy policy is clear: we will collect no personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to our website:
 
-Chrome River Technologies has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website [www.chromeriver.com](https://www.chromeriver.com/), mobile website and our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Chrome River Technologies.
+Our relationship with TRUSTe is viewable on the validation page by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website [www.chromeriver.com](https://www.chromeriver.com/) and our service platform and does not cover information that may be collected through our Chrome River MOBILE application. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Chrome River Technologies.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). Chrome River Technologies complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Chrome River Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Chrome River Technologies’ certification, please visit [www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+
+Chrome River Technologies complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Chrome River Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Chrome River Technologies’ certification, please visit [www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/).
 
 ### Internet Security Policy
 
@@ -18,7 +20,9 @@ When you visit our website, we may collect your personal information such as you
 
   * The Internet domain (for example, chromeriver.com) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
   * The type of browser and operating system used to access our site;
+  * The internet service provider (ISP);
   * The date and time you access our site;
+  * The clickstream data;
   * The pages you visit; and
   * If you link to this website from another website, the address of that website.
 
@@ -45,7 +49,7 @@ We may also disclose your personal information:
 
 ### User Access and Choice
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete/remove or request to deactivate it by emailing our Customer Support at support@chromeriver.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete/remove or request to deactivate it by emailing our Customer Support at support@chromeriver.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ###### **Opt-out Preferences**
 
@@ -95,6 +99,12 @@ Our website includes Social Media Features, such as the Facebook Like button and
 
 ### Information Related to Data Collected through the Chrome River Service
 
+###### **Information Related to Data Collected for our Clients**
+
+  * Chrome River Technologies collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+
+
+
 ###### **Access and Retention of Data Controlled by our Clients**
 
   * Chrome River Technologies has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Chrome River Technologies’ Client (the data controller). If requested to remove data we will respond within 30 days.
@@ -113,5 +123,5 @@ If you have any questions or concerns regarding this privacy policy, the practic
 Chrome River Technologies  
 Museum Square  
 5757 Wilshire Boulevard, Suite 270  
-Los Angeles CA 90036  
+Los Angeles, CA 90036  
 E-mail: info@chromeriver.com
