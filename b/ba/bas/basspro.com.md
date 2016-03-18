@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210153314id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5261) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318235607id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5261) for the most accurate reproduction.*
 
 # Privacy Policy Summary - from Bass Pro Shops
 
@@ -78,7 +78,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is [privacy@basspro.com](mailto:privacy@basspro.com)
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is [californiaprivacy@basspro.com](mailto:californiaprivacy@basspro.com)
 
 ## Personal Information We Do Not Share Back to top
 
