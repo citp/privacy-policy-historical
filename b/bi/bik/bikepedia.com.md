@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikepedia.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315104406id_/http%3A//bikepedia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikepedia.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318234943id_/http%3A//www.bikepedia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BikePedia
 
