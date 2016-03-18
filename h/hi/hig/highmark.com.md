@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highmark.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227092421id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highmark.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318015112id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
