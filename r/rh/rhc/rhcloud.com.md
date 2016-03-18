@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rhcloud.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007043739id_/https%3A//www.openshift.com/legal/openshift_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhcloud.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318043446id_/https%3A//www.openshift.com/legal/privacy.html) for the most accurate reproduction.*
 
-# OpenShift Privacy Statement | OpenShift by Red Hat
+# OpenShift Privacy Statement
 
-The Red Hat, Inc. Privacy Statement set forth at <http://www.redhat.com/legal/privacy_statement.html> (the “Red Hat Policy”) describes how Red Hat treats personal information when you use our products and services, including information collected when you use OpenShift. By using OpenShift, you are accepting the practices described in the Red Hat Policy, as well as the following privacy practices that are specific to OpenShift:
+The Red Hat, Inc. Privacy Statement set forth at [http://www.redhat.com/legal/privacy_statement.html](https://www.redhat.com/legal/privacy_statement.html) (the “Red Hat Policy”) describes how Red Hat treats personal information when you use our products and services, including information collected when you use OpenShift. By using OpenShift, you are accepting the practices described in the Red Hat Policy, as well as the following privacy practices that are specific to OpenShift:
 
 ## Information We Collect and How We Use It
 
@@ -24,7 +24,7 @@ Red Hat takes reasonable security measures to protect against unauthorized acces
 
 ## More Information
 
-For more information about Red Hat's use of your personal information and the information contained in your OpenShift account please review Red Hat’s Policy at <http://www.redhat.com/legal/privacy_statement.html>. If you have further questions please feel free to contact us at [customerservice@redhat.com](mailto:customerservice@redhat.com) or by mail at:  
+For more information about Red Hat's use of your personal information and the information contained in your OpenShift account please review Red Hat’s Policy at [http://www.redhat.com/legal/privacy_statement.html](https://www.redhat.com/legal/privacy_statement.html). If you have further questions please feel free to contact us at [customerservice@redhat.com](mailto:customerservice@redhat.com) or by mail at:  
 Red Hat, Inc.  
 Legal Affairs  
 100 E. Davie Street   
@@ -32,6 +32,6 @@ Raleigh, NC 27601
 
 ## Changes to this Privacy Notice
 
-Red Hat reserves the right to change this OpenShift Privacy Notice from time to time. If we do make changes, the revised OpenShift Privacy Notice will be posted on this site. A notice will be posted on the [https://www.openshift.com](https://www.openshift.com/ "https://www.openshift.com") homepage for 30 days whenever this Privacy Notice is changed in a material way.
+Red Hat reserves the right to change this OpenShift Privacy Notice from time to time. If we do make changes, the revised OpenShift Privacy Notice will be posted on this site. A notice will be posted on the [https://www.openshift.com](https://www.openshift.com/) homepage for 30 days whenever this Privacy Notice is changed in a material way.
 
 This Privacy Notice was last amended on May 21, 2014.
