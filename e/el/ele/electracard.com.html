@@ -1,1332 +1,808 @@
-<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2015-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150508001502id_/http%3A//www.electracard.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2016-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160318080314id_/http%3A//www.mastercard.com/in/consumer/global-privacy-notice.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-
-
-
-
-
-<title>ECS</title>
-
-<meta name="description" content="ECS">
-
-<meta name="keywords" content="ECS">
-
-<link rel="shortcut icon" type="image/x-icon" href="http://www.electracard.com/favicon.ico">
-
-
-
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
-
-var THEME_PATH = 'http://www.electracard.com/bonfire/themes/ecs/';
-
-</script>
-
-<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-1.4.2.min.js" language="javascript" type="text/javascript"></script>
-
-<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery.js"></script>
-
-<script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery.validate.js"></script>
-
-<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
-
-<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/sliderman.1.3.6.js" language="javascript" type="text/javascript"></script>
-
-<script src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery.bxSlider.js" language="javascript" type="text/javascript"></script>
-
-<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery_002.js"></script>
-
-<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/easypaginate.js"></script>
-
-<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/common.js"></script><!--Precedent HA-CHECK -->
-
-<script type="text/javascript" src="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-ui-1.8.4.custom.min.js"></script>
-
-<script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery_load_tab.js"></script>
-
-
-
-<link rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
-
-<script type="text/javascript">    var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-4832739-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();  </script>
-<script type="text/javascript">
-
- $(document).ready( function(){	
-
- 
-
- $(".btn-slide").click(function(){
-
-		$("#panel").slideToggle("slow");
-
-		$(this).toggleClass("active"); return false;
-
-	});
-
- });
-
-function getLookingList(v)
-{
-	var cct = $("input[name=mycsrftoken]").val();
-	var name = v;
-	var ajaxPath = "http://www.electracard.com/"+"home/loadLooking";
-	$.post(ajaxPath,{"i_id":v,"mycsrftoken":cct},function(data)
-	{		
-		var print = '<select name="looking" class="xxl" onchange="window.location.href=this.options [this.selectedIndex].value" ><option selected value="">Looking For</option>';
-		if(data)
-		{
-			$('#select_looking').html(data);
-		}
-	});	
-}
-</script><script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery.lightbox-0.5.js"></script><script type="text/javascript" src="http://www.electracard.com/bonfire/themes/ecs/scripts/easySlider1.7.js"></script><link type="text/css" href="http://www.electracard.com/bonfire/themes/ecs/scripts/jquery.lightbox-0.5.css" rel="stylesheet"><link type="text/css" href="http://www.electracard.com/bonfire/themes/ecs/scripts/screen.css" rel="stylesheet"></head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<body class="bg">
-
-	<div class="bg-home">
-
-		<div class="header"> 
-
-			<link href="http://www.electracard.com//bonfire/themes/ecs/scripts/global.css" rel="stylesheet" type="text/css">
-<link type="text/css" href="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-ui-1.8.4.custom.css" rel="stylesheet">
-<link type="text/css" media="screen" rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/layout.css">
-<link rel="shortcut icon" type="image/x-icon" href="/ecsopus/favicon.ico">
-<script language="JavaScript">
-    if (document.images)
-    {
-      preload_image_object = new Image();
-      image_url = new Array();
-      image_url[0] = "http://www.electracard.com/bonfire/themes/ecs/images/print-hr.png";
-      image_url[1] = "http://www.electracard.com/bonfire/themes/ecs/images/pdf-hr.png";
-      image_url[2] = "http://www.electracard.com/bonfire/themes/ecs/images/msg-hr.png";
-      image_url[3] = "http://www.electracard.com/bonfire/themes/ecs/images/rate-hr.png";
-	  image_url[4] = "http://www.electracard.com/bonfire/themes/ecs/images/online-banking-management-system-hr.png";
-	  image_url[5] = "http://www.electracard.com/bonfire/themes/ecs/images/banking-transaction-system-hr.png";
-	  image_url[6] = "http://www.electracard.com/bonfire/themes/ecs/images/cash-management-service-hr.png";
-	  image_url[7] = "http://www.electracard.com/bonfire/themes/ecs/images/electronic-commerce-and-banking-hr.png";
-       var i = 0;
-       for(i=0; i<=6; i++) 
-         preload_image_object.src = image_url[i];
-    }
-
-    </script>
-<div id="header">
-<div class="logo"><a href="http://www.electracard.com/home"><img src="http://www.electracard.com//bonfire/themes/ecs/images/electracard-services.png" alt=""></a></div>
-<div class="right-box">
- <div class="right-right">
-			<a href="http://www.electracard.com/partners">Partners</a> 
-				&nbsp;|&nbsp; 
-			<a href="http://www.electracard.com/careers">Careers</a> 
-				&nbsp;|&nbsp; 
-			<a href="http://www.electracard.com/news/ecs-news">News &amp; Events</a> 
-				&nbsp;|&nbsp; 
-			<a href="http://www.electracard.com/knowledge-center/articles">Knowledge Center</a> 
-				&nbsp;|&nbsp; 
-			<a href="http://www.electracard.com/contact-us">Contact Us</a> 
-		 </div>
-<div class="clear"></div>
-<!--<div style="position:absolute; left:0px; top:28px; z-index:5000;">
-<div id="nav">
--->	
-<div style="position:absolute; left:0px; top:27px; z-index:5000;float:right;width:620px;">
-<div id="nav">
-
-	<ul class="menu">
-					<!-- -----------Print Main(First Level) Menu------ -->
-			<li class=""><a href="http://www.electracard.com/about-us">About Us</a>					
-				
-				<!-- ---------------- Check Second Level Menu Existance -------------- -->
-										<!-- ------------ If Exist ---------- -->
-						<ul class="level_1">				
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/why-ecs-about">Why ECS</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/leadership"> Leadership</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/customer">Customers</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/infrastructure">Infrastructure</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/innovation"> Innovation &amp; Awards</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/social-responsibility">Social Responsibility</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/about-us/indrustry-analyst-reports">Industry Analyst Reports</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-												</ul>
-				 
-					
-			</li>
-					
-					<!-- -----------Print Main(First Level) Menu------ -->
-			<li class=""><a href="http://www.electracard.com/platform-technology">Technology</a>					
-				
-				<!-- ---------------- Check Second Level Menu Existance -------------- -->
-				 
-					
-			</li>
-					
-					<!-- -----------Print Main(First Level) Menu------ -->
-			<li class=""><a href="http://www.electracard.com/products">Products</a>					
-				
-				<!-- ---------------- Check Second Level Menu Existance -------------- -->
-										<!-- ------------ If Exist ---------- -->
-						<ul class="level_1">				
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																	
-									<!-- ------ If exist print right side image on mouse click ------ -->
-									<li class=""><span><a href="http://www.electracard.com/products/acquiring-solutions">Acquiring Solutions</a></span>
-								
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																				<ul class="level_2">				
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/eft-switching-solution"><i><b>EFT Switching Solution</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/e-commerce-payment-gateway-solution"><i><b>E-Commerce Payment Gateway Solution</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/merchant-management-solution"><i><b>Merchant Management Solution</b></i></a></li>
-													
-																													
-											</ul>				
-										
-																</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																	
-									<!-- ------ If exist print right side image on mouse click ------ -->
-									<li class=""><span><a href="http://www.electracard.com/products/issuing-solutions"> Issuing Solutions</a></span>
-								
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																				<ul class="level_2">				
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/credit-card-management-solution"><i><b>Credit Card Management Solution</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/prepaid-card-management-solution"><i><b>Prepaid Card Management Solution</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/debit-card-management-solution"><i><b>Debit Card Management Solution </b></i></a></li>
-													
-																													
-											</ul>				
-										
-																</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																	
-									<!-- ------ If exist print right side image on mouse click ------ -->
-									<li class=""><span><a href="http://www.electracard.com/products/risk-fraud-management-solutions"> Risk &amp; Fraud Management Solutions</a></span>
-								
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																				<ul class="level_2">				
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/verified-by-visa-mastercard-securecode-solution"><i><b>Verified by VISA/MasterCard SecureCode Solution</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/fraud-management-solution"><i><b>Fraud Management Solution</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/products/collection-management-solution"><i><b>Collection Management Solution</b></i></a></li>
-													
-																													
-											</ul>				
-										
-																</li>
-												</ul>
-				 
-					
-			</li>
-					
-					<!-- -----------Print Main(First Level) Menu------ -->
-			<li class=""><a href="http://www.electracard.com/services">Services</a>					
-				
-				<!-- ---------------- Check Second Level Menu Existance -------------- -->
-										<!-- ------------ If Exist ---------- -->
-						<ul class="level_1">				
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																	
-									<!-- ------ If exist print right side image on mouse click ------ -->
-									<li class=""><span><a href="http://www.electracard.com/services/processing-services">Processing Services</a></span>
-								
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																				<ul class="level_2">				
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/services/atm-driving-and-pos-acquiring-services"><i><b>ATM Driving and POS Acquiring Services</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/services/credit-card-processing-services"><i><b>Credit Card Processing Services</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/services/prepaid-processing-services"><i><b>Prepaid Processing Services</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/services/debit-card-processing-services "><i><b>Debit Card Processing Services</b></i></a></li>
-													
-																
-														<!-- ------------------- If exist Print -------------- -->
-														<li><a href="http://www.electracard.com/services/e-commerce-processing-services"><i><b>E-commerce Processing Services</b></i></a></li>
-													
-																													
-											</ul>				
-										
-																</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/services/professional-services">Professional Services</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/services/support-services">Support Services</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-												</ul>
-				 
-					
-			</li>
-					
-					<!-- -----------Print Main(First Level) Menu------ -->
-			<li class=""><a href="http://www.electracard.com/industry">Industry</a>					
-				
-				<!-- ---------------- Check Second Level Menu Existance -------------- -->
-										<!-- ------------ If Exist ---------- -->
-						<ul class="level_1">				
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/industry/financial-institutions">Financial Institutions</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/industry/government">Government</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/industry/processors">Processors</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/industry/telecom">Telecom</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-														
-								<!-- --------- Check Third Level Menu existance for Right side image on <span> mouse over ------- -->
-																		<!-- ------------ Print simple Second level menu ---------- -->
-										<li class=""><a href="http://www.electracard.com/industry/retailers">Retailers</a>
-									   <!-- -------------- Check Whether Third level menu is exist or not ---------- -->
-																	</li>
-												</ul>
-				 
-					
-			</li>
-					
-					<!-- -----------Print Main(First Level) Menu------ -->
-			<li class=""><a href="http://www.electracard.com/connect">ECS Connect</a>					
-				
-				<!-- ---------------- Check Second Level Menu Existance -------------- -->
-				 
-					
-			</li>
-					
-												
-	</ul>
-</div>
-</div>
-
-<form action="http://www.electracard.com/search" name="search_from" method="post">
-<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
-<div class="right-search"><input name="search_key" id="search_key" type="text" placeholder="Search..."></div>
-</form>
-
-</div>
-
-</div>
-</div>
-<div class="clear"></div>
-
-</div>
-<div class="clear"></div>	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" class="chrome linux"><head>
+		<title>Global Privacy Notice | MasterCard®</title>
+		<meta name="description" content="MasterCard Full FAQs">
+		<meta name="keywords" content="mastercard, full, faqs">
+		<meta name="type" content="page">
+		<meta name="treebranch" content="Support">
+		<meta name="treename" content="Full FAQs">
+		<meta name="original" content="consumer/global-privacy-notice.html">
+		<link rel="canonical" href="global-privacy-notice.html">
 		
-
-	
-
-	
-
-
-		<div style="background-image: url(http://www.electracard.com/bonfire/themes/ecs/images/1e5c4-background.jpg); background-repeat: no-repeat; background-position: center bottom; height:265px; padding:92px 0 0 0; width:100%;">
-
-	
-
-	<div style="position:relative; width:990px; margin:0px auto;">
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	<div class="center-align">
-
-	<div class="" style="width:630px; padding:10px; text-align:left; background-image: url(http://www.electracard.com/bonfire/themes/ecs/images/77939-header-bg.png); background-repeat: repeat; background-position: left top; color:#000; position:absolute; top:170px; left:-5px;">
-
-	<h2>Privacy</h2>
-<p><br><br></p>
-	</div>
-
-	</div>
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-<div style=" position:absolute; z-index:2000; right:10px; top:0px;">
-
-<div id="panel">
-
-<div style="float:left;">
-<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
-<select name="i_am" class="xxl" onchange="getLookingList(this.value);">	
-
-		<option value="" selected=""> I am a </option>
-
+<!-- INICIO DEL INCLUDE header.mcb -->
 		
-			<option value="1">Merchant</option>
-
+<!-- INICIO DEL INCLUDE header.mcb -->
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		
-			<option value="2">Bank</option>
-
-		
-			<option value="3">Analyst</option>
-
-		
-			<option value="4">Financial Institution </option>
-
-		
-		
-
-</select>
-
-</div>
-
-<div id="select_looking" style="float:left;">
-
-<select name="looking" class="xxl" id="looking" disabled="disabled">
-
-		<option value="0" selected=""> Looking for </option>
-
-		<option value="12" onclick=" window.location.href = 'http://www.electracard.com/products';"> electra Merchant </option>
-
-</select>
-
-</div>
-
-
-
-</div>
-
-
-
-<p class="slide"><a href="#" class="btn-slide">Solution Finder&nbsp;&nbsp;&nbsp;</a></p>
-
-</div>
-
-
-<script type="text/javascript">
-function sovan(page)
-{
-	window.location.href = 'http://www.electracard.com/'+page; 
-}
-</script>
-</div>
-
-			
-
-		</div>
-
-
-	<div class="wrapper">
-
-
-
-	<div id="mid-container">
-
-		<div class="clear"></div>
-
-			
-		<div class="container-wide" id="print_content">
-
-			<link href="http://www.electracard.com//bonfire/themes/ecs/scripts/global.css" rel="stylesheet" type="text/css">
-
-			<link type="text/css" href="http://www.electracard.com//bonfire/themes/ecs/scripts/jquery-ui-1.8.4.custom.css" rel="stylesheet">
-
-			<link type="text/css" media="screen" rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/layout.css">
-
-			<link rel="stylesheet" href="http://www.electracard.com//bonfire/themes/ecs/scripts/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
-<div class="icon">
-	<script language="javascript">
-function Clickheretoprint()
-{ 
-  var disp_setting="toolbar=yes,location=no,directories=yes,menubar=yes,"; 
-      disp_setting+="scrollbars=yes,width=650, height=600, left=100, top=25"; 
-  var content_vlue = document.getElementById("print_content").innerHTML; 
-  
-  var docprint=window.open("","",disp_setting); 
-   docprint.document.open(); 
-   docprint.document.write('<html><head><title>Inel Power System</title>'); 
-   docprint.document.write('</head><body onLoad="self.print()"><center>');          
-   docprint.document.write(content_vlue);          
-   docprint.document.write('</center>'); 
-   docprint.document.close(); 
-   docprint.focus(); 
-}
-</script>
-
-<div id="ContactUs" style="display:none">
-<script type="text/javascript">
-function changeCaptchaPage() {	
-	var url = "http://www.electracard.com/captcha";
-	$.ajax({
-	   type: "POST",
-	   url: url,
-	   data: '',
-	   success: function(data){
-			if(data)
-			{
-				/*var captcha = data.split("<>") ;
-				var word = captcha[0];
-				var image = captcha[1];
-				document.getElementById('cap_image_page').innerHTML=image;
-				document.getElementById('captcha-word-page').value=word;*/
-				var image = data;
-				document.getElementById('cap_image_page').innerHTML=image;
-			}		 
-		}
-	});	
-}
-function callContactForm()
-{
-changeCaptchaPage();
-document.getElementById('ContactUs').style.display='block';
-
-}
-</script>
-
-<form id="contactus" name="contactus" action="http://www.electracard.com/email-this-page" method="post" accept-charset="UTF-8">
-<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
-<div id="LoginPannel" class="PopUp" style="z-index:100000">
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" height="100%">
-  <tbody><tr>
-    <td id="BoxTopLeft" height="35"></td>
-    <td id="BoxTopMiddle" valign="top">
-	Email this Page<a href="javascript:void(0)" onclick="document.getElementById('ContactUs').style.display='none'" style="float:right"><img src="http://www.electracard.com//bonfire/themes/ecs/images/close.png"></a>
-	</td>
-    <td id="BoxTopRight"></td>
-  </tr>
-  <tr>
-
-    <td id="BoxMiddleLeft">&nbsp;</td>
-    <td bgcolor="#ececec" valign="top" style="padding:20px 0;">
-	
-	<div id="fg_server_errors" class="error"></div><table cellpadding="5" cellspacing="5" border="0" align="center" width="90%">
-		<tbody><tr>			
-			<td id="fg_form_InnerContainer"><strong>To*</strong></td>
-			<td>:</td>
-			<td><input type="" name="to" id="to" size="48"></td>
-		</tr>
-		<tr>
-			<td><strong>Bcc</strong></td>
-			<td>:</td>
-			<td><input type="" name="bcc" id="bcc" size="48"></td>
-		</tr>
-		<tr>
-			<td><strong>Subject*</strong></td>
-			<td>:</td>
-			<td><input type="" name="subject" id="subject" size="48"></td>
-			</tr>
-		<tr>
-			<td><strong>Your Email*</strong></td>
-			<td>:</td>
-			<td><input type="" name="email" id="email" size="48"></td>
-		</tr>
-		<tr>
-			<td valign="top"><strong>Message</strong></td>
-			<td valign="top">:</td>
-			<td><textarea cols="41" rows="6" name="message" id="message"></textarea></td>
-		</tr>
-		<tr>
-			<td valign="top"><strong>Captcha*</strong></td>
-			<td valign="top">:</td>
-			<td valign="top">
-				<table width="220" border="0" style="float:left; margin-left:12px">
-					  <tbody><tr>
-						<td width="40%"><span id="cap_image_page" style="vertical-align:middle;"></span></td>
-						<td width="60%" valign="top">
-						<input type="hidden" id="captcha-word-page" name="captcha-word-page">
-						<input type="text" name="captcha-code-page" id="captcha-code-page" size="10" style="border-color:#6E6E6E;">
-					<a href="javascript:void(0)" onclick="changeCaptchaPage();"> <img src="http://www.electracard.com/bonfire/themes/ecs/images/refresh_icon.png"></a></td>
-					  </tr>
-					</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2"></td>
-			
-		</tr>
-		<tr>
-			<td colspan="2"></td>
-			<td><input type="hidden" value="http://www.electracard.com/privacy" name="Callback"><input type="button" class="submit-btn" onclick="validate_submit();" name="send" value="Send"></td>
-		</tr>
-	</tbody></table>
-	</td>
-    <td id="BoxMiddleRight">&nbsp;</td>
-  </tr>
-  <tr>
-    <td id="BoxBottomleft"></td>
-    <td id="BoxBottomMiddle">&nbsp;</td>
-    <td id="BoxBottomRight"></td>
-  </tr>
-</tbody></table>
-</div>
-</form>
-<script type="text/javascript">
-function validate_submit()
-{
-	var flag = 0;
-	var to = document.getElementById('to').value;
-	var atpos=to.indexOf("@");
-	var dotpos=to.lastIndexOf(".");
-	if (atpos<1 || dotpos<atpos+2 || dotpos+2>=to.length)
-	{
-		document.getElementById('to').style.borderColor='red';
-		flag = 1;
-	}
-	var email = document.getElementById('email').value;
-	var atpos=email.indexOf("@");
-	var dotpos=email.lastIndexOf(".");
-	if (atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length)
-	{
-		//alert('Please Enter Correct Emai Address.');
-		document.getElementById('email').style.borderColor='red';
-		flag = 1;
-	}
-	
-	var bcc = document.getElementById('bcc').value;
-	if(bcc != "") {
-		var atposbcc = bcc.indexOf("@");
-		var dotposbcc = bcc.lastIndexOf(".");	
-		if (atposbcc<1 || dotposbcc<atposbcc+2 || dotposbcc+2>=bcc.length)
-		{
-			document.getElementById('bcc').style.borderColor='red';
-			flag = 1;
-		}
-	}
-	
-	var subject = document.getElementById('subject').value;
-	if(subject=='')
-	{
-		document.getElementById('subject').style.borderColor='red'
-		flag = 1;
-	}
-	
-	var message = document.getElementById('message').value;
-	if(message=='')
-	{
-		document.getElementById('message').style.borderColor='red'
-		flag = 1;
-	}
-	
-//	var captcha_word = document.getElementById('captcha-word-page').value;
-	var captcha_code = document.getElementById('captcha-code-page').value;
-	
-	
-	if(captcha_code!='')
-	{
-		//document.getElementById('captcha-code-page').style.borderColor='red';
-		var url = "http://www.electracard.com/check-captcha?cc="+captcha_code;
-		$.ajax({
-		   type: "POST",
-		   url: url,
-		   data: '',
-		   success: function(data){
-				if(data)
-				{
-					//alert(data); return false;
-					if(data == "error"){
-						document.getElementById('captcha-code-page').style.borderColor='red';
-						flag = 1;
-					} else {
-						if(flag == 1)
-						{
-							return false;
-						}
-						else
-						{
-							document.forms['contactus'].submit();
-						}
-					}
-				}		 
+		<style type="text/css">
+			@import url("http://fast.fonts.com/t/1.css?apiType=css&projectid=e0a5a547-56e1-4572-813c-8731ea1be19e");
+			@font-face{
+				font-family: "Frutiger Neue W01 Light";
+				src: url("_globalAssets/fonts/12d6929b-8b96-4898-b413-6bd6d0e2d0fb-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "Frutiger Neue W01 Light";
+				src: url("_globalAssets/fonts/12d6929b-8b96-4898-b413-6bd6d0e2d0fb-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/a2afa464-03b1-4a6c-b5cb-3521a1cf94ba.woff") format("woff"), url("_globalAssets/fonts/9aa255d9-7d3d-420a-bb79-2f91c4aed10f.ttf") format("truetype"), url("_globalAssets/fonts/b755ea1d-fab9-4588-b7a8-31350efb38f9.svg#b755ea1d-fab9-4588-b7a8-31350efb38f9") format("svg");
 			}
-		});	
-	}
-	return false;
-}
-
-</script>
-
-<div id="LoginPannelBG" class="PopUpBG"></div>
-
-</div>
-<div id="rating" style="display:none">
-<form id="rating" accept-charset="UTF-8" method="post" action="http://www.electracard.com/rating">
-<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
-<div id="LoginPannel" class="PopUp" style="z-index:100000">
-<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody>
-<tr>
-<td id="BoxTopLeft" height="35"></td>
-<td id="BoxTopMiddle" valign="top">
-Rate this Page
-<a style="float:right" onclick="document.getElementById('rating').style.display='none'" href="javascript:void(0)">
-<img src="http://www.electracard.com/bonfire/themes/ecs/images/close.png">
-</a>
-</td>
-<td id="BoxTopRight"></td>
-</tr>
-<tr>
-<td id="BoxMiddleLeft"> </td>
-<td valign="top" bgcolor="#ececec" style="padding:10px 0;">
-	<table width="90%" cellspacing="3" cellpadding="3" border="0" align="center">
-	<tbody>
-	<tr>
-	<td style="border-bottom:solid 1px #ccc;" colspan="2" align="left">
-	<img alt="" src="http://www.electracard.com/bonfire/themes/ecs/images/electracard-services.png">
-	</td>
-	</tr>
-	<tr>
-	<td colspan="2"> </td>
-	</tr>
-	<tr>
-	<td colspan="2" align="left">
-	<strong>The Content of this page was usefull to me.</strong>
-	</td>
-	</tr>
-	<tr>
-	<td width="1%">
-	<input type="radio" name="rating" value="5" checked="checked">
-	</td>
-	<td width="99%" align="left">Strongly Agree</td>
-	</tr>
-	<tr>
-	<td>
-	<input type="radio" name="rating" value="4">
-	</td>
-	<td align="left">Agree</td>
-	</tr>
-	<tr>
-	<td>
-	<input type="radio" name="rating" value="3">
-	</td>
-	<td align="left">Neutral</td>
-	</tr>
-	<tr>
-	<td>
-	<input type="radio" name="rating" value="2">
-	</td>
-	<td align="left">Disagree</td>
-	</tr>
-	<tr>
-	<td>
-	<input type="radio" name="rating" value="1">
-	<input type="hidden" name="callBack" value="www.electracard.com/privacy">
-		<input type="hidden" name="pageName" value="privacy">
-	</td>
-	<td align="left">Strongly Disagree</td>
-	</tr>
-	<tr>
-	<td colspan="2"> </td>
-	</tr>
-	<tr>
-	<td></td>
-	<td>
-	<input class="submit-btn" type="submit" value="Submit" name="send">
-	<input class="submit-btn" type="button" onclick="document.getElementById('rating').style.display='none'" value="Cancel" name="send">
-	</td>
-	</tr>
-	</tbody>
-	</table>
-</td>
-<td id="BoxMiddleRight"> </td>
-</tr>
-<tr>
-<td id="BoxBottomleft">&nbsp;</td>
-<td id="BoxBottomMiddle">&nbsp;</td>
-<td id="BoxBottomRight">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</form>
-
-<div id="LoginPannelBG" class="PopUpBG"></div></div>
-
-
-	<a href="javascript:Clickheretoprint()" onmouseover="document.MyImage.src='http://www.electracard.com//bonfire/themes/ecs/images/print-hr.png';" onmouseout="document.MyImage.src='http://www.electracard.com//bonfire/themes/ecs/images/print.png';"> 
-<img src="http://www.electracard.com//bonfire/themes/ecs/images/print.png" alt="Print this page" title="Print this page" name="MyImage"></a> 
-    
-    
-<!--	<a href="javascript:Clickheretoprint()" onMouseOver="document.MyImage1.src='http://www.electracard.com//bonfire/themes/ecs/images/pdf-hr.png';" onMouseOut="document.MyImage1.src='http://www.electracard.com//bonfire/themes/ecs/images/pdf.png';"> 
-<img src="http://www.electracard.com//bonfire/themes/ecs/images/pdf.png" alt="PDF" title="PDF" name="MyImage1"></a> 
--->
-
-	<a href="javascript:void(0)" onclick="callContactForm();" onmouseover="document.MyImage2.src='http://www.electracard.com//bonfire/themes/ecs/images/msg-hr.png';" onmouseout="document.MyImage2.src='http://www.electracard.com//bonfire/themes/ecs/images/msg.png';"> 
-<img src="http://www.electracard.com//bonfire/themes/ecs/images/msg.png" title="Email this page" alt="Email this page" name="MyImage2"></a> 
-
-
-<a href="javascript:void(0)" onclick="document.getElementById('rating').style.display='block'" onmouseover="document.MyImage3.src='http://www.electracard.com//bonfire/themes/ecs/images/rate-hr.png';" onmouseout="document.MyImage3.src='http://www.electracard.com//bonfire/themes/ecs/images/rate.png';"> 
-<img src="http://www.electracard.com//bonfire/themes/ecs/images/rate.png" alt="Rate this page" title="Rate this page" name="MyImage3"></a>
-
-
-
-</div>
-
-
-
-			<div id="print_content1"><div class="breadcrum"><a href="http://www.electracard.com/home">Home</a> 
-&nbsp;
-			<img src="http://www.electracard.com//bonfire/themes/ecs/images/breadcrum-arrow.png" class="v-mid" alt="">&nbsp; 
-			<a href="http://www.electracard.com/privacy" class="active">Privacy</a> 
-			</div>
-<div class="clear"></div>
-<p>Respecting and protecting customer privacy has been vital to the success of our business. Keeping your information secure is one of our most important responsibilities. We value your trust and handle your information with care.<br><br>We always limit our collection of information and do not share your personal information, including your e-mail address, with other parties. Neither do we send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it.<br><br><strong>Protecting Online Applications</strong><br><br>When you apply online for services or products offered by our web site, your sensitive information is only accessible to authorized representatives.<br><br>We do not sell nonpublic information to anyone and do not disclose nonpublic information about our customers or former customers to anyone, except as permitted by law. In no circumstance, will we provide customer account information to third parties for marketing purposes.<br><br><strong>Links to Other Sites</strong><br><br>This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites.<br><br><strong>Keeping up-to-date with the ECS Privacy Policy.</strong><br><br>This policy may change from time to time without notice, but you can always contact us by clicking here to request our most current copy.</p><script type="text/javascript"> 
-function show(val, nos)
-{
-	for(var i=1; i<=nos; i++)
-	{
-		document.getElementById('TABData'+i).style.display="none";
-		$('#TABLinks'+i).removeClass( "TABActive" );
-	}
-	document.getElementById('TABData'+val).style.display="block";
-	$('#TABLinks'+val).addClass( "TABActive" );
-}
-</script>
-</div>			
-
-		</div>
-
-		
-
-	</div>
-
-	<div class="clear"></div>
-
-</div>
-
-
-
-
-<div id="footer">
-
-<div class="clear"></div>
-
-<div class="btm-link">
-
-
-
-<div class="clear"></div>
-
-
-	<div class="btm-box">
-
-		<h2><a href="http://www.electracard.com/about-us">About Us</a></h2>
-
-		<ul>
-
-			
-			
-
-					<li><a href="http://www.electracard.com/about-us/why-ecs-about"> Why ECS</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/about-us">Overview</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/about-us/leadership">Leadership</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/about-us/customer">Customers</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/partners"> Partners</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/about-us/indrustry-analyst-reports">Industry Analyst Reports</a></li>
-
-			
-
-			
-		</ul>
-
-	</div>
-
-
-	<div class="btm-box">
-
-		<h2><a href="http://www.electracard.com/products">Products</a></h2>
-
-		<ul>
-
-			
-			
-
-					<li><a href="http://www.electracard.com/products/acquiring-solutions">Acquiring Solutions</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/products/issuing-solutions"> Issuing Solutions</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/products/risk-fraud-management-solutions"> Risk &amp; Fraud Management Solutions</a></li>
-
-			
-
-			
-		</ul>
-
-	</div>
-
-
-	<div class="btm-box">
-
-		<h2><a href="http://www.electracard.com/services">Services</a></h2>
-
-		<ul>
-
-			
-			
-
-					<li><a href="http://www.electracard.com/services/processing-services">Processing Services</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/services/professional-services">Professional Services</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/services/support-services">Support Services</a></li>
-
-			
-
-			
-		</ul>
-
-	</div>
-
-
-	<div class="btm-box">
-
-		<h2><a href="http://www.electracard.com/news/ecs-news">News &amp; Events</a></h2>
-
-		<ul>
-
-			
-			
-
-					<li><a href="http://www.electracard.com/news/ecs-news">ECS News</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/news/press-releases">Press Releases</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/news/events">Events</a></li>
-
-			
-
-			
-		</ul>
-
-	</div>
-
-
-	<div class="btm-box">
-
-		<h2><a href="http://www.electracard.com/connect">Connect with ECS</a></h2>
-
-		<ul>
-
-			
-			
-
-					<li><a href="http://www.electracard.com/contact-us">Contact Us</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/usergroup">User Group</a></li>
-
-			
-
-			
-			
-
-					<li><a href="http://www.electracard.com/careers">Careers</a></li>
-
-			
-
-			
-		</ul>
-
-	</div>
-
-
-
-
-<div class="social-box">
-
-
-
-
-
-
-
-<script type="text/javascript">
-
-
-
-function validateEmail()
-{	
-	var reply = $("#ecsNewSubFrm").validate({
-		errorElement:'div',						
-		rules: {				
-				user_email : 
-				{
-					required: true,
-					email : true
-				}
-		},
-		messages: {		
-				user_email : 
-				{
-					required: '<div style="font-weight:normal;">Email address required</div>',
-					email : '<div style="font-weight:normal;">Please enter a valid email address</div>'
-				}
-		},
-		success: function(label) 
-		{
-			label.hide();
-		},	 
-		submitHandler: function(form) 
-		{				
-			submitInfo();		
-        }
-	})
-}
-
-
-
-function submitInfo()  
-
-{
-
-
-
-var SITEROOT = 'http://www.electracard.com/';
-
-
-
-	$("div.error").hide();	
-
-	var ajaxurl = SITEROOT+'home/NewsSubscribe';
-
-	
-
-	var frm = document.ecsNewSubFrm; 
-
-	var user_email = frm.user_email.value;	
-
-	var cct = $("input[name=mycsrftoken]").val();
-
-	$.ajax({
-
-		   type: "POST",
-
-		   url: ajaxurl,
-
-		   async: false,
-
-		   data: "user_email="+user_email+"&mycsrftoken="+cct,
-
-		   success: function(data)
-
-			{ 
-
-				if(data == 1)
-
-				{
-
-				$("#content_data").html("<div class='success'>Thank you for subscribing to our newsletter.</div>");
-
-				}
-
-				else
-
-				{
-
-				$("#content_data").html("You are already subscribed to our newsletter");
-
-				}
-
+			@font-face{
+				font-family: "Frutiger Neue W01 Md";
+				src: url("_globalAssets/fonts/979450a2-8d59-4cc2-9937-94255a4f3923-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "Frutiger Neue W01 Md";
+				src: url("_globalAssets/fonts/979450a2-8d59-4cc2-9937-94255a4f3923-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/4748e3d8-1b23-420a-a419-d7a367ea1076.woff") format("woff"), url("_globalAssets/fonts/11f76f62-1d4f-4327-bce7-1eee2aba08bf.ttf") format("truetype"), url("_globalAssets/fonts/ce4a6e96-f298-4ab1-a2ac-bdbbbc1467d6.svg#ce4a6e96-f298-4ab1-a2ac-bdbbbc1467d6") format("svg");
 			}
-
+			@font-face{
+				font-family: "FrutigerNeueW01-Regular";
+				src: url("_globalAssets/fonts/e2e74e1c-9e18-4127-adfd-feb8f6a9ceaf-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "FrutigerNeueW01-Regular";
+				src: url("_globalAssets/fonts/e2e74e1c-9e18-4127-adfd-feb8f6a9ceaf-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/aa94077e-cdcd-4e33-abe0-ddcfe27e3485.woff") format("woff"), url("_globalAssets/fonts/22dfb43f-26df-46f9-aa0f-30038f8da834.ttf") format("truetype"), url("_globalAssets/fonts/36ad2de1-95ea-4eb3-a836-29c86179a248.svg#36ad2de1-95ea-4eb3-a836-29c86179a248") format("svg");
+			}
+			@font-face{
+				font-family: "DIN Next W01 Light";
+				src: url("_globalAssets/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "DIN Next W01 Light";
+				src: url("_globalAssets/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff") format("woff"), url("_globalAssets/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf") format("truetype"), url("_globalAssets/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg#d1b1e866-a411-42ba-8f75-72bf28e23694") format("svg");
+			}
+			@font-face{
+				font-family: "DIN Next W01 Medium";
+				src: url("_globalAssets/fonts/324dee78-6585-4c13-8ca3-5817cc600d84-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "DIN Next W01 Medium";
+				src: url("_globalAssets/fonts/324dee78-6585-4c13-8ca3-5817cc600d84-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/4bf0ead4-e61b-4992-832b-6ff05828d99f.woff") format("woff"), url("_globalAssets/fonts/73713a0b-8f6a-4c4e-b8a8-7cf238e632f6.ttf") format("truetype"), url("_globalAssets/fonts/b90b6bdf-15e2-4544-9fe0-92c79fff0ecd.svg#b90b6bdf-15e2-4544-9fe0-92c79fff0ecd") format("svg");
+			}
+			@font-face{
+				font-family: "DIN Next W01 Regular";
+				src: url("_globalAssets/fonts/da088ecc-a53c-4831-a95b-6fd81b5b338a-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "DIN Next W01 Regular";
+				src: url("_globalAssets/fonts/da088ecc-a53c-4831-a95b-6fd81b5b338a-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/c5a7f89e-15b6-49a9-8259-5ea665e72191.woff") format("woff"), url("_globalAssets/fonts/868c94b5-ca49-46b7-b62b-297f8d861125.ttf") format("truetype"), url("_globalAssets/fonts/e3145f65-29b5-4f7f-8c6e-2dc135021b6a.svg#e3145f65-29b5-4f7f-8c6e-2dc135021b6a") format("svg");
+			}
+			@font-face{
+				font-family: "DIN Next W02 Bold";
+				src: url("_globalAssets/fonts/50d13d4e-96c6-4412-a8fa-baa4814c5332-iefix.eot?iefix") format("eot");}
+			@font-face{
+				font-family: "DIN Next W02 Bold";
+				src: url("_globalAssets/fonts/50d13d4e-96c6-4412-a8fa-baa4814c5332-iefix.eot?iefix");
+				src: url("http://") format("no404"), url("_globalAssets/fonts/109143ca-57fb-459c-9814-3a68f0245ac3.woff") format("woff"), url("_globalAssets/fonts/c9fa50e2-c243-451a-b91b-ee74f341d7a8.ttf") format("truetype"), url("_globalAssets/fonts/1201bd6f-15f5-4b51-9c6f-c5c4b35d31f5.svg#1201bd6f-15f5-4b51-9c6f-c5c4b35d31f5") format("svg");
+			}
+		</style>
+		
+		<link rel="stylesheet" type="text/css" href="_globalAssets/css/global.css">
+		<!--[if lt IE 10]>
+		<link rel="stylesheet" type="text/css" href="_globalAssets/css/ie_base.css" />
+		<![endif]-->
+		<!--[if lt IE 8]>
+		<link rel="stylesheet" type="text/css" href="_globalAssets/css/ie.css" />
+		<![endif]-->
+		<!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="_globalAssets/css/ie6.css" />
+		<![endif]-->
+		
+		<style type="text/css">
+			.arrow-end {
+				background-position:right 4px !important;
+				background:url(_globalAssets/img/global/arrows.png) no-repeat scroll 0 0px transparent;
+				text-decoration:none !important;
+				padding:0 15px 0 0;
+			}
+		</style>
+<!-- FIN DEL INCLUDE header.mcb -->	
+<!-- FIN DEL INCLUDE header.mcb -->	</head>
+	
+	<body class="support personal category caphead">
+<!-- INICIO DEL INCLUDE nav.mcb -->
+	﻿<!-- INICIO DEL INCLUDE nav.mcb --> 
+		<div id="audienceMenu" class="clear usertype default">
+			<ul>
+				<li><span>Select a section:</span></li>
+				<li id="user-personal"><a href="index.html">Consumer</a></li>
+				<li id="user-smallbusiness"><a href="../business/index.html">Business</a></li>
+				<li id="user-payments"><a href="../payments/payment-processing.html">Payments</a></li>
+				
+				
+			</ul>
+		</div>
+		<div id="mcGlobalNav" class="light">
+			<ul class="primary">
+				<li id="nav-logo" class="first"><a class="level-1" href="index.html"><img src="_globalAssets/img/nav/navl_logo_mastercardcom.png"></a></li>				
+				<li id="nav-products"><a class="level-1" href="products.html">Products</a>
+					<div class="menu module col-3">
+						<div class="mod-content col-3 first">
+							<div class="heading">Products</div>
+							<ul class="col-3">
+								<li><a href="credit-cards.html" class="heading">Credit Card</a></li>
+								<li><a href="debit-cards.html" class="heading">Debit Card</a></li>
+								<li><a href="request_a_card.html" class="heading">Request a Card</a></li>
+							</ul>
+							
+																			
+						</div>						
+						<div class="mod-content cta clear">
+							<a href="products.html">See All Products</a>
+						</div>						
 						
+					</div>
+				</li>				
+				<li id="nav-services"><a class="level-1" href="cardholderindex.html">Services</a>
+					<div class="menu module col-3">
+						<div class="mod-content col-3 first">
+							<div class="heading">SERVICES</div>
+							<ul class="col-3">
+								<li><a href="emergency-services.html">Emergency Services</a><br></li>							
+							    <!--<li><a href="atm-locator.html">Atm Locator</a></li>-->
+							    <li><a href="money-send.html">Money Send</a></li>
+							    <li><a href="participating_partners.html">Participating Partners</a></li>
+								
+								
+							</ul>
+						</div>
+						<div class="mod-content cta clear">
+							<a href="cardholderindex.html">See All Services</a>
+						</div>						
+					</div>
+				</li>				
+				<li id="nav-resources"><a class="level-1" href="education.html" style="padding:35px 2px 0 10px !important;">Education</a>
+					<div class="menu module col-6">
+						<div class="mod-content col-3 first">
+							<div class="heading">Education</div>
+							<ul class="col-3">
+								<li><a href="learning_center.html">Learning Center</a></li>
+								<li><a href="understanding_credit.html">Understanding Credit</a></li>
+								<li><a href="choosing_a_card.html">Choosing a card</a></li>
+								<li><a href="using_your_card.html">Using your card</a></li>
+								<li><a href="benefits_accepting.html">Accepting Benefits</a></li>
+								<li><a href="mc_brands.html">MC Brand</a></li>
+							</ul>
+						</div>
+						<div class="mod-content col-3">
+							<div class="heading">&nbsp;</div>
+							<ul class="col-3">
+								<li><a href="fraud_protection.html">Fraud Protection</a></li>
+								<li><a href="glossary.html">Glossary</a></li> 
+								<li><a href="bugeting.html">Budgeting</a></li>
+								<li><a href="zero_liability.html">Zero Liability</a></li>
+								<li><a href="paypass.html">Paypass</a></li>
+								<li><a href="securecode.html">Securecode</a></li>	
+							</ul>
+						</div>
+						<div class="mod-content cta clear">
+							<a href="education.html">See All Education</a>
+						</div>
+					</div>
+				</li>				
+						
+				 	<li id="nav-services"><a class="level-1" href="faq_apply.html">Support</a>
+					<div class="menu module col-3">
+						<div class="mod-content col-3 first">
+							<div class="heading">SUPPORT</div>
+							<ul class="col-3">
+								<!--<li><a href="creditwise_faqs.html">Creditwise FAQ</a><br /></li>-->							
+								<li><a href="faq_apply.html">FAQ</a><br></li>
+								<li><a href="money-send_faq.html">MoneySend FAQ</a><br></li>
+								<li><a href="faq_current_cardholders.html">Cardholder FAQ</a><br></li>
+								<li><a href="accepting_benefits_faq.html" class="heading">Accepting Benefits FAQs</a></li>
+								<li><a href="when_fraud_happens_index.html">When Fraud Happens</a></li>
+								<li><a href="press_media.html">Press Media</a></li>						
+							</ul>
+						</div>
+						<div class="mod-content cta clear">
+							<a href="faq_apply.html">See All Support</a>
+						</div>						
+					</div>
+				</li>		
+			</ul>			
+			<div class="secondary">
+				<div class="wrap">
+					<div id="locale">
+						<select id="localeChoice" name="locale">
+							<option>India</option>
+							<!-- AFRICA -->
+							<optgroup label="Africa and Middle East">
+								<option rel="en_dz" value="/global/">Algeria</option>
+								<option rel="en_ao" value="/global/">Angola</option>
+								<option rel="en_aq" value="/global/">Antarctica</option>
+								<option rel="ar_bh" value="/mel/">Bahrain: العربية</option>
+								<option rel="en_bh" value="/mel/en/">Bahrain: English</option>
+								<option rel="en_bj" value="/global/">Benin</option>
+								<option rel="en_bw" value="/global/">Botswana</option>
+								<option rel="en_bf" value="/global/">Burkina Faso</option>
+								<option rel="en_bi" value="/global/">Burundi</option>
+								<option rel="en_cm" value="/global/">Cameroon</option>
+								<option rel="en_cv" value="/global/">Cape Verde</option>
+								<option rel="en_cf" value="/global/">Central African Republic</option>
+								<option rel="en_td" value="/global/">Chad</option>
+								<option rel="en_km" value="/global/">Comoros</option>
+								<option rel="en_cd" value="/global/">Congo, Democratic Republic of the</option>
+								<option rel="en_cg" value="/global/">Congo, Republic of the</option>
+								<option rel="en_ci" value="/global/">Cote D'Ivoire</option>
+								<option rel="en_dj" value="/global/">Djibouti</option>
+								<option rel="en_tl" value="/global/">East Timor</option>
+								<option rel="ar_eg" value="/mel/">Egypt: العربية</option>
+								<option rel="en_eg" value="/mel/en/">Egypt: English</option>
+								<option rel="en_gq" value="/global/">Equatorial Guinea</option>							
+								<option rel="en_er" value="/global/">Eritrea</option>
+								<option rel="en_et" value="/global/">Ethiopia</option>
+								<option rel="en_ga" value="/global/">Gabon</option>
+								<option rel="en_gm" value="/global/">Gambia, The</option>
+								<option rel="en_gh" value="/global/">Ghana</option>
+								<option rel="en_gn" value="/global/">Guinea</option>
+								<option rel="en_gw" value="/global/">Guinea-Bissau</option>
+								<option rel="ar_iq" value="/mel/">Iraq: العربية</option>
+								<option rel="en_iq" value="/mel/en/">Iraq: English</option>
+								<option rel="ar_jo" value="/mel/">Jordan: العربية</option>
+								<option rel="en_jo" value="/mel/en/">Jordan: English</option>
+								<option rel="en_ke" value="/global/">Kenya</option>
+								<option rel="en_ki" value="/global/">Kiribati</option>
+								<option rel="ar_kw" value="/mel/">Kuwait: العربية</option>
+								<option rel="en_kw" value="/mel/en/">Kuwait: English</option>
+								<option rel="ar_lb" value="/mel/">Lebanon: العربية</option>
+								<option rel="en_lb" value="/mel/en/">Lebanon: English</option>
+								<option rel="en_ls" value="/global/">Lesotho</option>
+								<option rel="en_lr" value="/global/">Liberia</option>
+								<option rel="en_ly" value="/global/">Libya</option>
+								<option rel="en_mg" value="/global/">Madagascar</option>
+								<option rel="en_mw" value="/global/">Malawi</option>
+								<option rel="en_ml" value="/global/">Mali</option>
+								<option rel="en_mr" value="/global/">Mauritania</option>
+								<option rel="en_mu" value="/global/">Mauritius</option>
+								<option rel="en_yt" value="/global/">Mayotte</option>
+								<option rel="en_ma" value="/global/">Morocco</option>
+								<option rel="en_mz" value="/global/">Mozambique</option>
+								<option rel="en_na" value="/global/">Namibia</option>
+								<option rel="en_nr" value="/global/">Nauru</option>
+								<option rel="en_rn" value="/global/">Niger</option>
+								<option rel="en_ng" value="/global/">Nigeria</option>
+								<option rel="ar_om" value="/mel/">Oman: العربية</option>
+								<option rel="en_om" value="/mel/en/">Oman: English</option>
+								<option rel="ar_pk" value="/mel/">Pakistan: العربية</option>
+								<option rel="en_pk" value="/mel/en/">Pakistan: English</option>
+								<option rel="ar_qa" value="/mel/">Qatar: العربية</option>
+								<option rel="en_qa" value="/mel/en/">Qatar: English</option>
+								<option rel="en_re" value="/global/">Reunion</option>
+								<option rel="en_rw" value="/global/">Rwanda</option>
+								<option rel="en_sh" value="/global/">Saint Helena</option>
+								<option rel="en_st" value="/global/">Sao Tome and Principe</option>
+								<option rel="ar_sa" value="/mel/">Saudi Arabia: العربية</option>
+								<option rel="en_sa" value="/mel/en/">Saudi Arabia: English</option>
+								<option rel="en_sn" value="/global/">Senegal</option>
+								<option rel="en_sc" value="/global/">Seychelles</option>
+								<option rel="en_sl" value="/global/">Sierra Leone</option>
+								<option rel="en_so" value="/global/">Somalia</option>
+								<option rel="en_za" value="/za/">South Africa</option>
+								<option rel="en_sd" value="/global/">Sudan</option>
+								<option rel="en_sz" value="/global/">Swaziland</option>
+								<option rel="ar_sy" value="/mel/">Syria: العربية</option>
+								<option rel="en_sy" value="/mel/en/">Syria: English</option>
+								<option rel="en_tz" value="/global/">Tanzania</option>
+								<option rel="en_tg" value="/global/">Togo</option>
+								<option rel="en_tn" value="/global/">Tunisia</option>
+								<option rel="en_ug" value="/global/">Uganda</option>
+								<option rel="ar_ae" value="/mel/">United Arab Emirates: العربية</option>
+								<option rel="en_ae" value="/mel/en/">United Arab Emirates: English</option>
+								<option rel="en_eh" value="/global/">Western Sahara</option>
+								<option rel="ar_ye" value="/mel/">Yemen: العربية</option>
+								<option rel="en_ye" value="/mel/en/">Yemen: English</option>
+								<option rel="en_zm" value="/global/">Zambia</option>
+								<option rel="en_zw" value="/global/">Zimbabwe</option>
+							</optgroup>
+							
+							<!-- Asia -->
+							<optgroup label="Asia/Pacific">
+								<option rel="en_af" value="/global/">Afghanistan</option>
+								<option rel="en_as" value="/global/">American Samoa</option>
+								<option rel="en_aq" value="/global/">Antarctica</option>
+								<option rel="en_au" value="/au/">Australia</option>
+								<option rel="en_bd" value="/global/">Bangladesh</option>
+								<option rel="en_bt" value="/global/">Bhutan</option>
+								<option rel="en_bn" value="/global/">Brunei</option>
+								<option rel="en_mm" value="/global/">Burma</option>
+								<option rel="en_kh" value="/global/">Cambodia</option>
+								<option rel="zh_cn" value="/cn/">China: 简体中文</option>
+								<option rel="en_cx" value="/global/">Christmas Island</option>
+								<option rel="en_cc" value="/global/">Cocos (Keeling) Islands</option>
+								<option rel="en_ck" value="/global/">Cook Islands</option>
+								<option rel="en_fj" value="/global/">Fiji</option>
+								<option rel="en_pf" value="/global/">French Polynesia</option>
+								<option rel="en_gu" value="/global/">Guam</option>
+								<option rel="en_hk" value="/hk/">Hong Kong: English</option>
+								<option rel="zh_hk" value="/hkc/">Hong Kong: 繁體中文</option>
+								<option rel="en_howland" value="/global/">Howland Island</option>
+								<option rel="en_in" value="/in/">India</option>
+								<option rel="en_id" value="/sea/">Indonesia</option>
+								<option rel="en_il" value="/global/">Israel</option>
+								<option rel="ja_jp" value="/jp/">Japan: 日本語</option>
+								<option rel="en_kz" value="/global/">Kazakhstan</option>
+								<option rel="ko_kr" value="/kr/">Korea: 한국의</option>
+								<option rel="en_kg" value="/global/">Kyrgyzstan</option>
+								<option rel="en_la" value="/global/">Laos</option>
+								<option rel="en_mo" value="/global/">Macau</option>
+								<option rel="en_mk" value="/global/">Macedonia</option>
+								<option rel="en_my" value="/sea/">Malaysia</option>
+								<option rel="en_mv" value="/global/">Maldives</option>
+								<option rel="en_mh" value="/global/">Marshall Islands</option>
+								<option rel="en_fm" value="/global/">Micronesia, Federated States of</option>
+								<option rel="en_mq" value="/global/">Midway Islands</option>
+								<option rel="en_mn" value="/global/">Mongolia</option>
+								<option rel="en_np" value="/global/">Nepal</option>
+								<option rel="en_nc" value="/global/">New Caledonia</option>
+								<option rel="en_nz" value="/nz/">New Zealand</option>
+								<option rel="en_nu" value="/global/">Niue</option>
+								<option rel="en_nf" value="/global/">Norfolk Island</option>
+								<option rel="en_mp" value="/global/">Northern Mariana Islands</option>
+								<option rel="en_pw" value="/global/">Palau</option>
+								<option rel="en_pg" value="/global/">Papua New Guinea</option>
+								<option rel="en_ph" value="/sea/">Philippines</option>
+								<option rel="ru_ru" value="/ru/">Russia: Русский</option>
+								<option rel="en_ws" value="/global/">Samoa</option>
+								<option rel="en_sg" value="/sea/">Singapore</option>
+								<option rel="en_sb" value="/global/">Solomon Islands</option>
+								<option rel="en_lk" value="/global/">Sri Lanka</option>
+								<option rel="zh_tw" value="/tw/">Taiwan: 繁體中文</option>
+								<option rel="en_tj" value="/global/">Tajikistan</option>
+								<option rel="en_th" value="/sea/">Thailand</option>
+								<option rel="en_tk" value="/global/">Tokelau</option>
+								<option rel="en_to" value="/global/">Tonga</option>
+								<option rel="tr_tv" value="/global/">Tuvalu</option>
+								<option rel="en_uz" value="/global/">Uzbekistan</option>
+								<option rel="en_vu" value="/global/">Vanuatu</option>
+								<option rel="en_vn" value="/sea/">Vietnam</option>
+								<option rel="en_wq" value="/global/">Wake Island</option>
+								<option rel="en_wf" value="/global/">Wallis and Futuna</option>
+							</optgroup>
+							
+							<!-- EUROPE -->
+							<optgroup label="Europe">
+								<option rel="en_al" class="prompt" value="/global/">Albania</option>
+								<option rel="en_ad" class="prompt" value="/global/index.html?Country=Andorra">Andorra</option>
+								<option rel="en_am" class="prompt" value="/global/">Armenia</option>
+								<option rel="de_at" class="prompt" value="/at/">Austria: Deutsch</option>
+								<option rel="en_az" value="/global/">Azerbaijan</option>
+								<option rel="en_by" class="prompt" value="/global/">Belarus</option>
+								<option rel="en_be" class="prompt" value="/be/">Belgium: English</option>
+								<option rel="fr_be" class="prompt" value="/be/personal/fr/">Belgium: Français</option>
+								<option rel="nl_be" class="prompt" value="/be/personal/nl/">Belgium: Deutsch</option>
+								<option rel="en_ba" class="prompt" value="/global/">Bosnia and Herzegovnia</option>
+								<option rel="bg_bg" class="prompt" value="/bg/">Bulgaria: Български</option>
+								<option rel="en_hr" class="prompt" value="/hr/">Croatia</option>
+								<option rel="en_cy" value="/global/index.html?Country=Cyprus">Cyprus</option>
+								<option rel="cs_cz" class="prompt" value="/cz/">Czech Republic: Český</option>
+								<option rel="da_dk" class="prompt" value="/dk/">Denmark: Danske</option>
+								<option rel="et_ee" class="prompt" value="/ee/">Estonia: Eesti</option>
+								<option rel="ru_ee" class="prompt" value="/ee/ru">Estonia: Pусский</option>
+								<option rel="en_fo" class="prompt" value="/global/">Faroe Islands</option>
+								<option rel="fi_fi" class="prompt" value="/fi/">Finland: Suomi</option>
+								<option rel="fr_fr" class="prompt" value="/fr/">France: Français</option>
+								<option rel="en_ge" value="/global/">Georgia</option>
+								<option rel="de_de" class="prompt" value="/de/">Germany: Deutsch</option>
+								<option rel="en_gi" class="prompt" value="/global/">Gibraltar</option>
+								<option rel="el_gr" class="prompt" value="/gr/">Greece: Ελληνικά</option>
+								<option rel="en_gg" class="prompt" value="/global/">Guernsey</option>
+								<option rel="en_va" class="prompt" value="/global/index.html?Country=Vatican">Holy See (Vatican City)</option>
+								<option rel="hu_hu" class="prompt" value="/hu/">Hungary: Magyar</option>
+								<option rel="en_is" class="prompt" value="/global/index.html?Country=Iceland">Iceland</option>
+								<option rel="en_ie" class="prompt" value="/ie/">Ireland</option>
+								<option rel="it_it" class="prompt" value="/it/">Italy: Italiano</option>
+								<option rel="en_je" class="prompt" value="/global/">Jersey</option>
+								<option rel="en_yu" class="prompt" value="/global/">Kosovo</option>
+								<option rel="lv_lv" class="prompt" value="/lv/">Latvia: Latviski</option>
+								<option rel="ru_lv" class="prompt" value="/lv/ru/">Latvia: Pусский</option>
+								<option rel="en_li" class="prompt" value="/global/index.html?Country=Liechtenstein">Liechtenstein</option>
+								<option rel="lt_lt" class="prompt" value="/lt/">Lithuania: Lietuviškai</option>
+								<option rel="en_lu" class="prompt" value="/global/index.html?Country=Luxemburg">Luxembourg</option>
+								<option rel="en_mk" class="prompt" value="/global/">Macedonia</option>
+								<option rel="en_mt" class="prompt" value="/global/index.html?Country=Malta">Malta</option>
+								<option rel="en_im" class="prompt" value="/global/">Isle of Man</option>
+								<option rel="en_md" class="prompt" value="/global/">Moldova</option>
+								<option rel="en_mc" class="prompt" value="/global/index.html?Country=Monaco">Monaco</option>
+								<option rel="nl_nl" class="prompt" value="/nl/">Netherlands: Nederland</option>
+								<option rel="nn_no" class="prompt" value="/global/">Norway: Norsk</option>
+								<option rel="pl_pl" class="prompt" value="/plp/">Poland: Polski</option>
+								<option rel="en_pt" class="prompt" value="/global/index.html?Country=Portugal">Portugal</option>
+								<option rel="ro_ro" class="prompt" value="/ro/">Romania: Română</option>
+								<option rel="ru_ru" class="prompt" value="/ru/">Russia: Русский</option>
+								<option rel="en_sm" class="prompt" value="/global/index.html?Country=SanMarino">San Marino</option>
+								<option rel="en_rs" class="prompt" value="/rs/">Serbia and Montenegro</option>
+								<option rel="sl_sk" class="prompt" value="//www.mastercard.sk/">Slovakia: Slovenský</option>
+								<option rel="en_si" class="prompt" value="/si/">Slovenia</option>
+								<option rel="es_es" class="prompt" value="/es/">Spain: Español</option>
+								<option rel="sv_se" class="prompt" value="/se/">Sweden: Svenska</option>
+								<option rel="de_ch" class="prompt" value="/chd/">Switzerland: Deutsch</option>
+								<option rel="fr_ch" class="prompt" value="/chf/">Switzerland: Français</option>
+								<option rel="tr_tr" value="/tr/">Turkey: Türkçe</option>
+								<option rel="uk_ua" class="prompt" value="/ua/">Ukraine: Український</option>
+								<!--<option rel="ru_ua" class="prompt" value="/ua/personal/ru/">Ukraine: <span lang="ru">Русский</span></option>-->
+								<option rel="en_gb" class="prompt" value="/uk/">United Kingdom</option>
+							</optgroup>
+							
+							<!-- LATIN AMERICA -->
+							<optgroup label="Latin America">
+								<option rel="en_ai" value="/global/">Anguilla</option>
+								<option rel="en_aq" value="/global/">Antarctica</option>
+								<option rel="en_ag" value="/global/">Antigua and Barbuda</option>
+								<option rel="es_ar" value="/ar/">Argentina: Español</option>
+								<option rel="en_aw" value="/global/">Aruba</option>
+								<option rel="en_bs" value="/global/">Bahamas, The</option>
+								<option rel="en_bb" value="/global/">Barbados</option>
+								<option rel="en_bz" value="/global/">Belize</option>
+								<option rel="en_bo" value="/us/personal/es/">Bolivia</option>
+								<option rel="pt_br" value="/br/">Brazil: Português</option>
+								<option rel="en_vg" value="/global/">British Virgin Islands</option>
+								<option rel="en_ky" value="/global/">Cayman Islands</option>
+								<option rel="es_cl" value="/cl/">Chile: Español</option>
+								<option rel="es_co" value="/co/">Colombia: Español</option>
+								<option rel="en_cr" value="/global/">Costa Rica</option>
+								<option rel="en_cu" value="/us/personal/es/">Cuba</option>
+								<option rel="en_dm" value="/global/">Dominica</option>
+								<option rel="es_do" value="/do/">Dominican Republic: Español</option>
+								<option rel="en_ec" value="/ec/gateway.html">Ecuador</option>
+								<option rel="en_sv" value="/us/personal/es/">El Salvador</option>
+								<option rel="en_fk" value="/global/">Falkland Islands (Islas Malvinas)</option>
+								<option rel="en_gf" value="/global/">French Guiana</option>
+								<option rel="en_gd" value="/global/">Grenada</option>
+								<option rel="en_gp" value="/global/">Guadeloupe</option>
+								<option rel="en_gt" value="/global/">Guatemala</option>
+								<option rel="en_gy" value="/global/">Guyana</option>
+								<option rel="en_ht" value="/global/">Haiti</option>
+								<option rel="en_hn" value="/us/personal/es/">Honduras</option>
+								<option rel="en_jm" value="/global/">Jamaica</option>
+								<option rel="en_mq" value="/global/">Martinique</option>
+								<option rel="es_mx" value="/mx/">Mexico: Español</option>
+								<option rel="en_ms" value="/global/">Montserrat</option>
+								<option rel="en_navassa" value="/global/">Navassa Island</option>
+								<option rel="en_an" value="/global/">Netherlands Antilles</option>
+								<option rel="en_ni" value="/us/personal/es/">Nicaragua</option>
+								<option rel="en_pa" value="/pa/">Panama</option>
+								<option rel="en_py" value="/us/personal/es/">Paraguay</option>
+								<option rel="es_pe" value="/pe/">Peru: Español</option>
+								<option rel="es_pr" value="/pr/">Puerto Rico: Español</option>
+								<option rel="en_kn" value="/global/">Saint Kitts and Nevis</option>
+								<option rel="en_lc" value="/global/">Saint Lucia</option>
+								<option rel="en_pm" value="/global/">Saint Pierre and Miquelon</option>
+								<option rel="en_vc" value="/global/">Saint Vincent and the Grenadines</option>
+								<option rel="en_sr" value="/global/">Suriname</option>
+								<option rel="en_tt" value="/tt/">Trinidad and Tobago</option>
+								<option rel="en_tc" value="/global/">Turks and Caicos Islands</option>
+								<option rel="en_vi" value="/global/">United States Virgin Islands</option>
+								<option rel="es_uy" value="/uy/">Uruguay: Español</option>
+								<option rel="es_ve" value="/ve/">Venezuela: Español</option>
+								<option rel="en_vi" value="/global/">Virgin Islands</option>
+							</optgroup>
+							
+							<!-- NORTH AMERICA -->
+							<optgroup label="North America">
+								<option rel="en_bm" value="/global/">Bermuda</option>
+								<option rel="en_ca" value="/ca/">Canada: English</option>
+								<option rel="fr_ca" value="/ca/gateway/fr/index.html">Canada: Français</option>
+								<option rel="en_gl" value="/global/">Greenland</option>
+								<option rel="es_mx" value="/mx/">Mexico: Español</option>
+								<option rel="en_us" value="//www.mastercard.us">United States: English</option>
+								<option rel="es_us" value="/us/personal/es/">United States: Español</option>
+							</optgroup>
+						</select>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- FIN DEL INCLUDE nav.mcb -->	
+<!-- FIN DEL INCLUDE nav.mcb --><!-- START MAIN CONTENT -->
 
-		});
-
-	
-
-}
-
-</script>
-
-
-
-<form id="ecsNewSubFrm" name="ecsNewSubFrm" method="POST" action="">
-
-
-
-<div class="subscribe" style="margin-top:0px;"><div style="width:100%; float:left; padding:0 0 5px 0;">Subscribe to Newsletter</div> 
-
-<div class="clear"></div><div class="mail-bg">
-
-<input onblur="javascript : return validateEmail();" onkeypress="if(event.keyCode == 13){ 
-
-javascript : return validateEmail();
-
-return false; }document.getElementById('content_data').innerHTML=''" placeholder="Enter email address" type="text" name="user_email" value="" id="user_email">
-
-<!--<input type="submit" value="register" onclick="javascript : return validateEmail();"/>-->
-
-
-
-<div id="content_data" style="color:red; float:right; text-align:right; width:300px; font-weight:normal"></div>
-
-</div></div></form>
-
-
-
-<div class="clear"></div>
-
-
-
-
-
-
-
-
-
-<table width="100%" style="padding:15px 0 0 0;" border="0" cellspacing="0" cellpadding="0">
-
-  <tbody><tr>
-
-    <td width="34%" align="left" valign="bottom"><h2>Follow Us On :</h2></td>
-
-    <td width="1%">&nbsp;</td>
-
-    <td width="65%" align="left" valign="top">
-
-	
-		<a href="https://www.facebook.com/MastercardIndia?fref=ts" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/28ce4-cash-management-service-hr.png"></a> 
-
+		<style type="text/css">
+			.cardholder b {
+				margin-left: 7px;
+			}
+		</style>
 		
-		<a href="https://twitter.com/MasterCard" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/2aa54-banking-transaction-system-hr.png"></a> 
-
+		<div id="hero" class="module">
+<div style="background-image: url(_assets/global_privacy.jpg);" class="clear panel active marquee">
+			
+				<div class="wrap">
+					<div class="mod-content col-8">
+						<div id="breadcrumb">
+							<p><a href="index.html">Home</a><a href="faq_apply.html">Support</a>Global Privacy Notice</p>
+						</div>
+										  <div class="eyebrow highlight">MasterCard</div>
+	        <h1 class="heading highlight">Global Privacy Notice</h1>
+			<h2 class="subhead col-6 highlight">Effective Date:  June 2<sup>nd</sup>, 2015</h2>
+	    </div>
+					</div>
+				</div>
+			</div>
+ 		
+ 		
+			<div id="content">
+			<div class="general content module full head-top">
+			  <div class="mod-content mod-heading clear">
+					<h3 class="heading">MasterCard Worldwide - Global Privacy Notice</h3>
+				</div>
+			<div id="tab-contact" class="tab-content active" title="Overview">
+					<div class="wrap">
+						<div id="privacy-policy" class="resultsfilter fl sidebar">
+					<div class="mod-content" style="width:275px;">
+						<ul class="filter tab-control">
+							<li class="privacy-policy"><a href="global-privacy-notice.html">Global Privacy Notice</a></li>
+							<li class="web-optout"><a href="web-analytics-opt-out.html">Web Analytics Opt-Out</a></li>
+							<li class="email-optout"><a href="marketing-e-mail-opt-out.html">Marketing E-mail Opt-Out</a></li>
+							<li class="data-optout"><a href="data-analytics-opt-out.html">Data Analytics Opt-Out</a></li>
+							<li class="cookie-optout"><a href="contact-us.html">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>
+			<div class="article fr major">
+                    <div class="innerWrap clear">
+	<div class="mod-content">
 		
-		<a href="http://www.linkedin.com/company/electracard-services?trk=cp_followed_name_electracard-services" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/201e9-online-banking-management-system-hr.png"></a> 
-
 		
-		<a href="https://www.youtube.com/MasterCard" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/04c4b-electronic-commerce-and-banking-hr.png"></a> 
+		<p><a name="top"></a>MasterCard International Incorporated (doing business as MasterCard Worldwide) and its affiliates (collectively, "MasterCard") respect your privacy. This Global Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.</p> 
 
+		<p>MasterCard entities responsible for the collection and use of your personal information for the purposes described in this Global Privacy Notice are indicated in the How to Contact Us section of this document.</p> 
+		<p>Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.</p>
+
+
+		<p><span class="bold">Click on one of the links below to jump to the listed section:</span></p>
+
+		<ul class="bullets">
+			<li><a href="#Collect">Personal Information We Collect</a></li>
+			<li><a href="#Use">How We Use Personal Information We Collect</a></li>
+			<li><a href="#Share">Personal Information We Share</a></li>
+			<li><a href="#Rights">Your Rights And Choices</a></li>
+			<li><a href="#Transfer">Data Transfers</a></li>
+			<li><a href="#Personal">How We Hold And Protect Personal Information</a></li>
+			<li><a href="#Sites">Links To Other Websites</a></li>
+			<li><a href="#Updates">Updates To Our Global Privacy Notice</a></li>
+			<li><a href="#Contact">How To Contact Us</a></li></ul>
 		
-		
+		<p><a name="Collect" id="Collect"></a><span class="bold">Personal Information We Collect</span></p>
+		<p>MasterCard may obtain information about you from various sources.</p>
 
-  
+		<p>As a processor of payment transactions and provider of related services, we obtain a limited amount of personal information about you from financial institutions, merchants and other entities in connection with your payment transactions. </p>
+		<p>In this context, we receive the card account number, the merchant name and location, the date and the total amount of transaction. Importantly, we do not need the cardholder's name or other contact information to process payment transactions.</p>
+		<p>We also may obtain information about you from companies that use or facilitate the use of other MasterCard products or services and from publicly available information systems.</p>
 
-		
+		<p>In addition, you may choose to submit information directly to us via several methods, including: (i) on our websites, (ii) in response to marketing or other communications, (iii) through social media, (iv) by signing up for a MasterCard product or service, (v) through participation in an offer, program or promotion, or (vi) in connection with an actual or potential business or employment relationship with us.  You may also choose to consent to third parties disclosing information about you to us that those third parties have collected.</p>
 
-		
+			
+			<p>The types of personal information we may obtain or you may choose to provide include:</p>
+		<ul class="bullets">
+			<li>Contact information (such as name, postal or e-mail address, and phone number)</li>
+			<li>Business contact information (such as job title, department and name of organization)</li>
+			<li>Username and password</li>
+			<li>Payment account information</li>
+			<li>Contact information for friends or other people you would like us to contact</li>
+			<li>Content you provide (such as photographs, articles and comments)</li>
+			<li>Content you make available through social media accounts or memberships with third parties</li>
+			<li>Mobile device unique identifier</li>
+			<li>Geo-location data</li>
+			<li>Other information (such as shopping behavior and preferences, language preference, age, date of birth, gender and family status)</li>
+		</ul>
+		<p>We, our service providers and partners collect certain information by using automated means, such as cookies and web beacons, when you interact with our advertisements, mobile applications, or visit our websites, pages or other digital assets.  The information we collect in this manner may include: IP address, browser type, operating system, referring URLs and information on actions taken or interaction with our digital assets.  A "cookie" is a text file placed on a computer's hard drive by a web server.  A "web beacon," also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. </p>
+		 <p>We may use third-party web analytics services on our websites and mobile apps, such as those of Adobe Omniture.  The analytics providers that administer these services use technologies such as cookies and web beacons to help us analyze how visitors use our websites and apps. </p>
+		<p>We, our service providers and our partners may also collect information about your activities on our websites and apps for use in providing you with content and advertising tailored to your individual interests.  The information collected for these purposes may include details about things like the particular pages or advertisements you view on our websites and the actions you take on our websites and apps.  Please see the "Your Rights and Choices" section of this Global Privacy Notice to learn about your ability, at any time, to opt out or limit the use of your browsing behavior for online behavioral advertising purposes.</p>
+		<a href="#top">Back to top</a>
+		<p></p>
+		<p><a name="Use" id="Use"></a><span class="bold">How We Use Personal Information We Collect</span></p>
 
-	</td>
+		<p>We may use the personal information we obtain about you to:</p>
+		<ul class="bullets">
+<li>Process your payment transactions (including authorization, clearing, chargebacks and other related dispute resolution activities) </li>
+<li>Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and franchise quality with respect to the integrity and security of our payments network</li>
+<li>Create and manage any accounts you may have with us and respond to your inquiries</li>
+<li>Provide, administer and communicate with you about products, services, offers, programs and promotions of MasterCard, its issuers, acquirers, merchants and partners (including contests, sweepstakes and any other marketing activities)</li>
+<li>Publish business directories (which may include business contact information)</li>
+<li>Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of and optimizing our advertising; analyzing our products, services, websites, mobile applications and any other digital assets; facilitating the functionality of our websites, mobile applications and any other digital assets; and performing accounting, auditing, billing, reconciliation and collection activities)</li>
+<li>Anonymizing personal information and preparing and furnishing aggregated data reports showing anonymized information, (including, but not limited to, the following: compilations, analyses, analytical and predictive models and rules, and other aggregated reports) for the purpose of advising our issuing and acquiring institutions, merchants and other customers and partners regarding past and potential future patterns of spending, fraud, and other insights that may be extracted from this data</li>
+<li>Evaluate your interest in employment and contact you regarding possible employment with MasterCard</li>
+<li>Enforce our Terms of Use or other legal rights</li>
+<li>As may be required by applicable laws and regulations or requested by any judicial process or governmental agency having or claiming jurisdiction over MasterCard or MasterCard's affiliate</li>
+<li>Comply with industry standards and our policies</li></ul>
+		<p>We also may use the information in other ways for which we provide specific notice at the time of collection.</p>
+		<a href="#top">Back to top</a>
+		<p></p>
 
-  </tr>
+		<p><a name="Share" id="Share"></a><span class="bold">Personal Information We Share</span></p>
+<p>We do not sell or otherwise disclose personal information we collect about you, except as described in this Global Privacy Notice or as we disclose to you at the time the data is collected.</p>
+<p>We may share personal information we collect with our affiliates, financial institutions and other entities that issue payment cards or process payment transactions and merchants.  We share personal information to process payment transactions and perform other activities that you request. We also may share personal information with entities that assist with payment card fraud prevention, to protect payment transactions against fraud, and to ensure the security of the transaction and our payment processing system.  For example, in this context we provide card issuers with information about their cardholders' transactions that MasterCard processes. </p>
+<p>In addition, we may share personal information with other third parties with your consent.  When MasterCard acts as a service provider for third parties we may provide them with personal information we collected on their behalf.</p>
+<p>We also may share the information with our service providers who perform services on our behalf.  We authorize these service providers to use or disclose the information only as necessary to perform services on our behalf or comply with legal requirements.  We require these service providers by contract to safeguard the privacy and security of personal information they process on our behalf.</p>
 
-</tbody></table>
+<p>MasterCard transfers personal information within the MasterCard group of affiliated companies subject to the terms of this Global Privacy Notice or otherwise as we disclose to you at the time the data is collected (e.g. via program specific privacy notice).</p>
+<p>On our websites, you may choose to use certain features that can be accessed through, or for which we partner with, other entities that are not otherwise affiliated with MasterCard.  These features, which include social networking and geo-location tools, are operated by third parties, including social networks, and are clearly identified as such.  These third parties may use or share personal information in accordance with their own privacy policies.  We strongly suggest you review the third parties' privacy policies if you use the relevant features.</p>
+<p>We may disclose information about you (i) if we are required to do so by law or legal process, (ii) when we believe disclosure is necessary to prevent harm or financial loss, or (iii) in connection with an investigation of suspected or actual fraudulent or illegal activity.</p>
+<p>We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets.  Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Global Privacy Notice.  Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.</p>
 
 
 
 
+<a href="#top">Back to top</a>
+		<p></p>
 
-</div> 
+		<p><a name="Rights" id="Rights"></a><span class="bold">Your Rights And Choices</span></p>
+<p>You have certain rights regarding the personal information we maintain about you.  We also offer you certain choices about what personal information we collect from you, how we use that information, and how we communicate with you.</p>
 
-<div class="clear"></div>
+<p>You can choose not to provide personal information to MasterCard by refraining from conducting payment transactions.  You also may refrain from submitting information directly to us. However, if you do not provide personal information when requested, you may not be able to benefit from the full range of MasterCard products and services, and we may not be able to provide you with information about products, services and promotions.</p>
+<p>You can opt out of the collection and use of certain information, which we collect about you by automated means, when you visit our websites. In certain jurisdictions, you can exercise your choice via the Cookie Consent tool displayed in the bottom right corner of MasterCard websites. Your browser may tell you how to be notified and opt out of receiving certain types of cookies. In addition, on certain MasterCard websites, we may provide you with other choices regarding the use of cookies. Please note, however, that without cookies you may not be able to use all of the features of our websites or online services.  </p>
 
+<p>You can opt out of certain uses of information, which we collect about you by automated means, when you visit third-party websites and interact with our ads. We may use service providers to serve ads on those third-party websites. These ads may be customized and served based on the use of data we (and our partners) have collected on our websites and apps.  In addition, some of our service providers and partners may collect information about your online activities over time and across third-party websites to customize and serve these ads.  MasterCard advertisements are sometimes delivered with icons that help consumers (i) learn more about how their data is being used and (ii) exercise choices they may have regarding the use of their data.  Please 
+
+<a href="http://www.adobe.com/privacy/opt-out.html" target="_blank">click here</a> or, where applicable, on the icon in our targeted advertisements to learn about your ability to opt out or limit the use of your browsing behavior for online behavioral advertising purposes.</p>
+
+<p>You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below.  You also may opt out of receiving marketing e-mails from MasterCard by 
+<a href="marketing-e-mail-opt-out.html">clicking here</a>.</p>
+<p>As indicated above, we may anonymize personal information to perform data analyses.  To opt-out of such anonymization, <a href="data-analytics-opt-out.html">click here</a>.</p>
+
+<p>If your employer provides your personal information to MasterCard, you may have certain choices with respect to MasterCard's use or disclosure of the information.  Please contact your employer to learn about and to exercise your choices.</p>
+
+<p>To the extent provided by applicable law, you may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information.  We will apply your preferences going forward.  In some circumstances, withdrawing your consent to MasterCard's use or disclosure of your personal information will mean that you cannot take advantage of certain MasterCard products or services.</p>
+<p>Subject to applicable law, you may have the right to: obtain confirmation that we hold personal information about you, request access to and receive information about the personal information we maintain about you, receive copies of the personal information we maintain about you, update and correct inaccuracies in your personal information, object to the processing of your personal information, and have the information blocked, anonymized or deleted, as appropriate.  The right to access personal information may be limited in some circumstances by local law requirements. To exercise these rights, please contact us as set forth below.</p>
+<p>To update your preferences, ask us to remove your information from our mailing lists or submit a request to access, update, correct or delete your personal information, please contact us as specified below.</p>
+<p>If we fall short of your expectations in processing your personal information or you wish to make a complaint about our privacy practices, please tell us because it gives us an opportunity to fix the problem.  You may contact us by using the contact details provided in the "How To Contact Us" section below. To assist us in responding to your request, please give full details of the issue. We attempt to review and respond to all complaints within a reasonable time.</p>
+<p>If you provide us with any information or material relating to another individual, you should make sure that the sharing with us and our further use as described to you from time to time is in line with applicable laws, so for example you should duly inform that individual on the processing of her/his personal data and obtain her/his consent, as may be necessary under applicable laws.</p>
+
+
+		<a href="#top">Back to top</a>
+		<p></p>
+		<p><a name="Transfer" id="Transfer"></a><span class="bold">Data Transfers</span></p>
+<p>We may transfer personal information to countries other than the country in which the data was originally collected.  These countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your personal information to other countries, we will protect that information as described in this Privacy Notice.</p>
+
+<p>MasterCard is a global business.  To offer our services, we may need to transfer your personal information among several countries, including the United States, where we are headquartered. We comply with applicable legal requirements providing adequate safeguards for the transfer of personal information to countries outside of the European Economic Area or Switzerland.</p>
+
+		<a href="#top">Back to top</a>
+		<p></p>
+		<p><a name="Personal" id="Personal"></a><span class="bold">How We Hold And Protect Personal Information</span></p>
+<p>The security of your personal information is important to MasterCard. We are committed to protecting the information we collect. We maintain administrative, technical and physical safeguards designed to protect the personal information you provide or we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  We use SSL encryption on a number of our websites from which we transfer certain personal information.</p>
+<p>MasterCard stores personal information only for as long as it is necessary for the fulfillment of the purpose for which the personal information was collected, unless otherwise required or authorized by applicable law. We take measures to destroy or permanently de-identify personal information if required by law or if the personal information is no longer required for the purpose for which we collected it.</p>
+
+
+
+		<a href="#top">Back to top</a>
+		<p></p>
+
+
+		<p><a name="Sites" id="Sites"></a><span class="bold">Links To Other Websites</span></p>
+
+		<p>Our websites may provide links to other websites for your convenience and information.  These websites may operate independently from MasterCard.  Linked websites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites.  To the extent any linked websites you visit are not owned or controlled by MasterCard, we are not responsible for the websites' content, any use of the websites, or the privacy practices of the websites.</p>
+
+		<a href="#top">Back to top</a>
+		<p></p>
+
+
+		<p><a name="Updates" id="Updates"></a><span class="bold">Updates To Our Global Privacy Notice</span></p>
+
+		<p>This Global Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  We will post a prominent notice on relevant websites to notify you of any significant changes to our Global Privacy Notice and indicate at the top of the Notice when it was most recently updated. If we update our Global Privacy Notice, in certain circumstances, we may seek your consent.  </p>
+		<a href="#top">Back to top</a>
+		<p></p>
+
+		<p><a name="Contact" id="Contact"></a><span class="bold">How To Contact Us</span></p>
+
+		<p>If you have any questions or comments about this Global Privacy Notice, MasterCard's privacy practices or if you would like us to update information or preferences you provided to us, please <a href="contact-us.html">click here</a>. You also may e-mail us at: <a href="mailto:privacyanddatausage@mastercard.com">privacyanddatausage@mastercard.com</a>; or write to us at:</p>
+
+		<p style="padding: 20px;">Global Privacy Officer<br>
+		<b>MasterCard Worldwide</b><br>
+		2000 Purchase Street<br> 
+		Purchase, New York 10577<br> 
+		USA</p>
+<p>To assist us in responding to your request, please give full details of the issue. We try to review and respond to all complaints within a reasonable time.  If you are not satisfied with how we respond, to the extent permitted by applicable law, you may take your complaint to the applicable regulator in your jurisdiction. </p>
+
+
+		<a href="#top">Back to top</a>
+    </div>
 </div>
+                </div>
+				</div>
+				 </div>
+				</div>
+			</div>
 
 
+<!-- END MAIN CONTENT -->
+<!-- INICIO DEL INCLUDE footer.mcb -->
+    <div style="margin: 0px 0px 10px 10px;">
+    <div class="addthis_toolbox addthis_default_style">
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_twitter"></a>
+    <a class="addthis_button_google_plusone_share"></a>
+    <a class="addthis_button_email"></a>
+    <a class="addthis_button_compact"></a>
+    <a class="addthis_counter addthis_bubble_style"></a>
+    </div>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fb0def80395918f"></script>
+    </div>
+		<div id="pageFooter">
+			<div class="grid">
+				<div class="module head-top col-8">
+					<div class="mod-content mod-heading clear">
+						<h4 class="heading">Support</h4>
+					</div>
+					
+					<div class="mod-content col-4">					
+						<div class="wrap">
+						<h5 class="heading">Lost or Stolen Card?</h5>
+							<p>In India, the Toll-free number for assistance is 000-800-100-1087.<br><br>
 
-<div class="clear"></div>
+Alternatively, place an international call from anywhere in the world to 1-636-722-7111.</p>
 
-
-
-<div class="footer">
-
-<div class="footer-text">
-
-<a href="http://www.electracard.com/privacy">Privacy Policy</a>   |   <a href="http://www.electracard.com/disclaimer">Disclaimer</a><br>
-
-
-
-© Copyright  2015 ElectraCard Services, a MasterCard company. All Rights Reserved  </div>
-
-<div class="clear"></div>
-
-</div>
-
-</div>
-
-
-
-
-
+							
+						</div>
+					</div>
+					<div class="mod-content col-4">
+						<div class="wrap">
+						<h5 class="heading">Ask MasterCard</h5>
+							<ul class="highlight">
+							<li><a href="../consumer/request_a_card.html">How can I get a MasterCard card?</a></li>
+							
+							<li><a href="../consumer/securecode.html">About MasterCard SecureCode</a></li>
+							
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="module head-top col-4 social">
+					<div class="mod-content social-feed clear"></div>
+					<div id="mc-yt" class="mod-content social-feed yt-feed feedthumb clear"><a class="logo" target="_blank" href="http://youtube.com/mastercard"></a><div class="wrap"><h5 class="heading">Priceless Commercials</h5><div class="feed-content"><p><a href="http://youtube.com/mastercard">Visits us on YouTube</a></p></div></div></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="globalFooter">
+			<div class="grid">
+				<ul class="primary">
+					<li><a href="http://www.mastercard.com/us/company/en/index.html" target="_blank">About MasterCard</a></li>
+					<li class="policy"><a href="../consumer/global-privacy-notice.html">Global Privacy Notice</a></li>
+					<li><a href="../consumer/copyright.html">Copyright</a></li>
+					<li><a href="../consumer/sitemap.html">Site Map</a></li>
+					
+					<li><a href="../consumer/contact-us.html">Contact Us</a></li> 
+					
+				</ul>
+				<ul class="secondary">
+					<li>© 1994-<span id="currentYear">2020</span> MasterCard.</li>
+				</ul>
+			</div>
+		</div>
+		<script type="text/javascript">
+			(function(){
+				document.getElementById("currentYear").innerHTML = new Date().getFullYear();
+			}());
+		</script>
+		
+		<script src="_globalAssets/js/jquery-1.4.4.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi?Client=gme-mcardintl&amp;sensor=true"></script>
+		
+		<script type="text/javascript" src="_globalAssets/js/addons.js"></script>
+		<script type="text/javascript" src="_globalAssets/js/core.js"></script>
+		<!-- social scripts -->
+		<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+		<!--[if IE 6]>
+		<script type="text/javascript" src="_globalAssets/js/addons/jquery.pngFix.js"></script>
+		<script>
+			$(function(){$(document).pngFix();});
+		</script>
+		<![endif]-->
+		<script type="text/javascript" src="_assets/js/main.js"></script>
+		<script type="text/javascript">
+			mc.os.config.locale = {country: "in", language: "en", url: false};
+		</script>
+		<script type="text/javascript" src="_globalAssets/js/gallery.js"></script>
+		<script type="text/javascript" src="_globalAssets/js/director.js"></script>
+		
+		<script language="javascript">
+			var dynamicTagURL= document.location.protocol + "//www.mastercard.com/common/inc/loader.js";
+			document.write("<scr"+"ipt language='javascript' src='"+dynamicTagURL+"'></scr"+"ipt>");
+		</script><script language="javascript" src="https://www.mastercard.com/common/inc/loader.js"></script>
+ 
+		<noscript><img src=https://smetrics.mastercard.com/b/ss/mastercie,mastercglobal/5/38814 width="5" height="5" border="0" alt="" /></noscript>
+		
+		
+<!-- FIN DEL INCLUDE footer.mcb -->	
 </body></html>
