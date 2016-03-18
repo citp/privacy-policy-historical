@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviddeangelo.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912014704id_/http%3A//doubleyourdating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviddeangelo.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318223357id_/http%3A//daviddeangelo.com/privacy) for the most accurate reproduction.*
 
 # Double Your Dating | Your Privacy
 
@@ -6,11 +6,11 @@ Read very carefully:
 
 #### Who do we contact?
 
-David DeAngelo Marketing Inc (DDMI) only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products.
+Double Your Dating LLC. only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products.
 
 #### What information do we collect?
 
-DDMI collects information in two categories:
+Double Your Dating LLC. collects information in two categories:
 
 **1\. Personally Identifiable Information (PII)**
 
@@ -74,17 +74,17 @@ Clear GIFs can “work with” existing cookies on a computer if they are both f
 
 Your email information (email address, first name) is stored at the list server that delivers DDMI newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive DDMI’s newsletters.
 
-All of the newsletters that are sent to you by DDMI include an unsubscribe link in them. You can remove yourself at any time from our newsletters by unsubscribing here.
+All of the newsletters that are sent to you by Double Your Dating LLC. include an unsubscribe link in them. You can remove yourself at any time from our newsletters by unsubscribing here.
 
 If you have purchased any of my programs, you will continue to receive mailings related to your purchase. If you are an affiliate partner, then you will continue to receive mailings related to our affiliate program. If you would like to be removed from any of these mailings, please contact my support team and they can assist you.
 
 #### Disclaimer
 
-This policy may be changed at any time at DDMI’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 19, 2011.
+This policy may be changed at any time at Double Your Dating LLC. discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 19, 2011.
 
 If you have any questions or concerns regarding our privacy policy please send us your question by going here. You may also send a letter to:
 
-David DeAngelo Marketing Inc  
+Double Your Dating LLC.  
 3960 Howard Hughes Pkwy.  
 5th Floor  
 Las Vegas, NV 89169
