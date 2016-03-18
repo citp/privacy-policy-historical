@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtubecams.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611164848id_/http%3A//www.xtubecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtubecams.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318171918id_/http%3A//www.xtubecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # XTubeCams - Privacy Policy
 
