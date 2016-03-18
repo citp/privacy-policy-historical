@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907215616id_/https%3A//www.gild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318171935id_/https%3A//www.gild.com/privacy-policy) for the most accurate reproduction.*
 
 # Private Policy | Gild
 
