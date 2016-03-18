@@ -1,64 +1,144 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162130id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318024316id_/https%3A//www.bluebunny.com/privacy-policy) for the most accurate reproduction.*
 
-# BlueBunny.com Privacy Policy
+# Privacy Policy • Blue Bunny
 
-  * WWW.BLUEBUNNY.COM  
-PRIVACY POLICY
+Thank you for visiting http://www.bluebunny.com (this “Site”), which is owned by Wells Enterprises, Inc. (“Wells,” “we,” “us,” or “our”).
+
+This online privacy policy (this “Policy”) describes the information we collect from or about you through this Site. It also describes how we use and share that information and some of the steps we take to protect your privacy.
+
+#### Effective Date
+
+March 1, 2016
+
+#### Table of Contents
+
+  * Scope of This Policy
+  * Your Consent
+  * This Policy is Part of Our Terms of Use
+  * Types of Information We Collect
+  * Information About Third-Party Cookies
+  * How We Use Information Collected Through This Site
+  * Your Choices
+  * How to Access, Update or Correct Your Information
+  * Steps We Take to Safeguard your Information
+  * How We Share Information With Others
+  * Children Under the Age of Thirteen
+  * Links to Other Sites
+  * This Policy May Change
+  * Contact Us
 
 
 
-Wells Enterprises, Inc. is a family owned business and we respect your privacy. Any personally identifiable information such as your name, address, telephone number, or e-mail address that you give to us via the WWW.BLUEBUNNY.COM website or by other methods such as email, phone call or US Mail is kept in strict confidence.
+#### Scope of This Policy
 
-Wells Enterprises, Inc., and WWW.BLUEBUNNY.COM (collectively “we” or “our”) do not knowingly collect any information whatsoever from anyone under the age of 18. For those 18 and older, we do not collect personally identifiable information on this website or otherwise unless you choose to give it to us via email, an online registration form, a phone call, or by US Mail. Even when you choose to give us personally identifiable information, we keep it confidential.
+This Policy applies only to information collected through this Site. It does not apply to third-party sites or to other websites owned by Wells. It also does not apply to information collected through other channels, such as over the phone or in person.
 
-We do not sell, rent, share, or otherwise disclose mailing lists or other personally identifiable information, except as follows:
+Some of the information we collect through this Site may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as information collected by cookies.
 
-  * We may disclose such information to third-parties who work on our behalf under confidentiality agreements. These third-parties may use this information solely to communicate with you about offers, sweepstakes, surveys and information from WWW.BLUEBUNNY.COM or our marketing partners.
-  * We may also disclose such information if we believe that we are required to do so in order to comply with applicable law including, without limitation, subpoenas, search warrants, or court orders. We may also disclose such information if disclosing this information is necessary to protect the safety and security of our customers and others users of this site, the safety and security of our employees or our websites, or the safety and security of the general public.
+#### Your Consent
+
+Please take a few minutes to review this Policy before using this Site. By using this Site, you are consenting to the collection, use and disclosure of your information as set forth in this Policy. If you do not agree to be bound by this Policy, you may not access or use this Site.
+
+#### This Policy is Part of Our Terms of Use
+
+This Policy is part of the [Terms of Use](https://web.archive.org/terms-of-use) that govern your use of this Site. A link to our [Terms of Use](https://web.archive.org/terms-of-use) is provided at the bottom of each page of this Site.
+
+#### Types of Information We Collect
+
+_Information You Manually Provide._ Wells collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use this Site. For example, we collect the information you provide when you join our iScream Team, contact us with questions, or otherwise interact with this Site. Some of the information you manually provide may be personal information, such as your name and contact information.
+
+_Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance your profile on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform.
+
+_Information from your browser or device._ Wells collects information that is sent to us automatically by your web browser or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings.
+
+_The information we receive from your web browser and device is not, in and of itself, personally identifiable._ However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you. We may also review our server logs for security purposes—for example, to detect intrusions into our network—and we might share our server logs, which contain visitors’ IP addresses, with the appropriate investigative authorities who could use that information to trace and identify you.
+
+_Information Collected by Cookies and Other Technologies._ A “cookie” is a small file placed on your device when you visit a site that can be understood by the site that issued the cookie. We use cookies and other technologies to collect information and support certain features of this Site. For example, we may use these technologies to:
+
+  * collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page;
+  * support the features and functionality of this Site—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;
+  * personalize your experience when you use this Site; and
+  * improve our marketing efforts, including through use of targeted advertising.
 
 
 
-Persons who supply us with their telephone numbers, may receive telephone contact from us.
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies.
 
-  
+#### Information About Third-Party Cookies
+
+In addition to the cookies Wells delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we may use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here](https://support.google.com/analytics/answer/6004245). Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted advertisements either on this Site or on other websites.
+
+You have choices about the collection of information by third parties on this Site. For example, if you don’t want information about your visit to this Site sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here](https://tools.google.com/dlpage/gaoptout). Please note that the Add-on does not prevent information from being sent to Wells.
+
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here](http://www.aboutads.info/choices/). You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
+
+Please note that the industry-developed opt-out mechanism described above is device specific. If you wish to opt-out from having interest-based information collected by participating entities across all devices, you need to visit the opt-out page from each device.
+
+#### How We Use Information Collected Through This Site
+
+Generally, we use the information we collect through this Site
+
+  * to provide the information, products and services you request;
+  * for security, credit or fraud prevention purposes;
+  * to provide you with effective customer service;
+  * to provide you with a personalized experience when you use this Site;
+  * to contact you with information and notices related to your use of this Site;
+  * to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * to invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us);
+  * to better understand your needs and interests;
+  * to improve the content, functionality and usability of this Site;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts; and
+  * for any other purpose identified in an applicable privacy notice, click-through agreement or other agreement between you and us.
 
 
-### USE OF COOKIES
 
-When you view our website, we may store a small amount of information on your computer. This information will be in the form of a “cookie” and will help us in many ways. Cookies allow us to tailor the site to better match your interests and preferences. This technology is used only to improve your on-line experience.
+Please see below for information about the choices you have about the ways we use your information.
 
-### iScream Team
+#### Your Choices
 
-You must be 18 years of age or older to register for the iScream Team or any sweepstakes that require membership in the iScream Team.
+_In General._ We respect your right to make choices about the ways we collect, use, and disclose the information you provide on or through this Site. We strive to provide choices to you at a meaningful time and in a meaningful place. This Notice describes some of your other choices, such as your choice to opt out of receiving “cookies.”
 
-### ACCEPTANCE OF PRIVACY TERMS & CONDITIONS
+_Do Not Track Mechanisms._ Your browser may deliver a “Do-Not-Track (‘DNT’) signal” to this Site. Because of the changing state of technology and indecision within the technology and marketing industries regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
 
-Your access to and use of the WWW.BLUEBUNNY.COM website is subject to these privacy terms and conditions and all applicable laws. By accessing and browsing the WWW.BLUEBUNNY.COM website you accept without limitation or qualification, these terms and conditions. We may, at any time, change these privacy terms and conditions. Please check back regularly to this site to review any changes.
+_Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use information you provide on or through this Site. For example, if you have provided your contact information and receive periodic emails from us, you may decide to stop receiving those emails by clicking the “unsubscribe” link in an email’s footer. You may be able to change other preferences through an account you create on this Site. Otherwise, please contact us using the information provided below.
 
-### NOTIFICATION OF CHANGES
+#### How to Access, Update or Correct Your Information
 
-Any material changes to these privacy terms and conditions will be posted on our site at least one week prior to their taking effect. For iScream Team members, we may also notify you of any such changes via the e-mail address we currently have on record.
+If you have created a profile on this Site, you may be able to access, update or correct your information through your account settings. Otherwise, you may need our help. Please contact us using the information provided below. We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identity.
 
-### PRIVACY POLICY EFFECTIVE DATE: 4/20/2007
+#### Steps We Take to Safeguard your Information
 
-### NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
+We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of personal information you submit on or through this Site. Unfortunately, no website, server or database is completely secure or “hacker proof.” We therefore cannot guarantee that your personal information will not be disclosed, misused or lost by accident or by the unauthorized acts of others. Further, we cannot control dissemination of personal information you post on or through this Site using any social networking tools we may provide, and you should have no expectation of privacy in such information.
 
-Pursuant to the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”), notifications of claimed copyright infringement should be sent to our Designated Agent at the address provided below:
+_With Third–Party Vendors._ Wells shares information collected through this Site with third-party vendors who act on our behalf. For example, we may use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their obligations. Typically, they are required by contract to keep your information confidential and to use it only to provide services on our behalf; however, as described below, we may allow them to use aggregate or de-identified data for their own purposes or to market the products and services of their other clients.
 
-Associate General Counsel  
-One Blue Bunny Drive, Le Mars, IA 51031  
-Wells Enterprises, Inc. f/k/a Wells Dairy, Inc.  
-(712) 546-4000  
-Fax: (712) 548-3008  
-dmca@BlueBunny.com
+_Within the Wells Corporate Family._ The owner and operator of this Site may share information collected through this Site with other companies in the Wells corporate structure. These affiliate companies are permitted to use your information for their own marketing purposes and in a manner otherwise consistent with this Policy.
 
-To be effective, the notification must be a written communication that includes the following: 
+_In Aggregate or De-Identified Form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so we and they can better understand our user base. We may also share with third parties information about how particular individuals use this Site, but only on a de-identified basis (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively. We may provide basic demographic information (gender and age) in conjunction with providing Individualized Data. Third parties typically use this information for analytical purposes and to market their own products and services or the products and services of their clients.
 
-a. an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;  
-b. a description of the copyrighted work or other intellectual property that you claim has been infringed  
-c. a description of where the material that you claim is infringing is located, with enough detail that we may find it;  
-d. your address, telephone number, and email address;  
-e. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law;  
-f. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+_With Other, Carefully Selected Business Partners._ From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law.
 
-Any notification by a copyright owner or a person authorized to act on its behalf that fails to comply with requirements of the DMCA shall not be considered sufficient notice and shall not be deemed to confer upon us actual knowledge of facts or circumstances from which infringing material or acts are evident.
+_As Part of a Business Transfer._ Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization if we merge with or are acquired by another organization, or if we liquidate our assets. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Policy and the privacy preferences you have expressed to us.
+
+_To Comply With Laws and Protection of Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://web.archive.org/terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+
+#### Children Under the Age of Thirteen
+
+We are proud of this Site and we strive to ensure that it doesn’t offend people of any age. However, this Site is not intended for children or minors under the age of thirteen years without the permission of a parent or guardian. If you believe that a child has submitted personal information on or through this Site without the consent and supervision of a parent or guardian, please contact us using the information provided below so that we can take appropriate action.
+
+#### Links to Other Sites
+
+This Site may provide links to other websites operated by third parties, including in some cases our third-party vendors. Wells does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information.
+
+#### This Policy May Change
+
+We are continually improving and adding to the features and functionality of this Site and the services we offer through this Site. As a result of these changes (or changes in the law), we may need to update or revise this Policy. Accordingly, we reserve the right to update or modify this Policy at any time, without prior notice, by posting the revised version of this Policy behind the link marked “Privacy Policy” at the bottom of each page of this Site. Your continued use of this Site after we have posted the revised Policy constitutes your agreement to be bound by the revised Policy. However, we will honor the terms that were in effect when we gathered data from you.
+
+For your convenience, whenever this Policy is changed, we will update the “effective date” at the top of this page. Be sure you check the effective date to see if this Policy has been revised since your last visit.
+
+You may access the current version of this Policy at any time by clicking the link marked “Privacy Policy” at the bottom of each page of this Site.
+
+#### Contact Us
+
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/connect).
