@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120073811id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318230907id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Nigeria
 
@@ -98,13 +98,13 @@ We use cookies to learn more about the way you interact with our content and hel
 
 Cookies remember the type of browser you use and which additional browser software you have installed. They also remember your preferences, such as language and region, which remain as your default settings when you revisit the website. Cookies also allow you to rate pages and fill in comment forms.
 
-Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please read our [cookie policy](https://web.archive.org/about-our-website/privacy-policy/cookie-policy.html).
+Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please read our [cookie policy](https://web.archive.org/content/shell/countries/nga/en/about-our-website/privacy-policy/cookie-policy.html).
 
   * **How are third party cookies used?**
 
 
 
-For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on [cookie types](https://web.archive.org/about-our-website/privacy-policy/cookie-policy/cookie-type.html).
+For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on [cookie types](https://web.archive.org/content/shell/countries/nga/en/about-our-website/privacy-policy/cookie-policy/cookie-type.html).
 
   * **How do I reject and delete cookies?**
 
