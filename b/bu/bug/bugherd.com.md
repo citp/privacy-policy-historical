@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128022111id_/http%3A//bugherd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318171546id_/https%3A//bugherd.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | BugHerd
+
+## Privacy and Security Policy
 
 When accessing our Website, Macropod Software Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -41,6 +43,6 @@ Credit card processing is handled by [DPS](http://www.paymentexpress.com/). To e
 
 ### Requesting your personal information:
 
-You may request access to personal information we hold about you or submit a complaint about a breach of the Australian Privacy Principles. To help us deal with requests appropriately, we ask that all such requests be made via email to support@bugherd.com. Please provide as much detail as you can as this will help us to retrieve the information. It is our policy to process your request within a reasonable time. In some circumstances, there may be reason why we will not act on a request, such as where it would have an unreasonable impact on the privacy of others or we may not be permitted to do so by law.
+You may request access to personal information we hold about you or submit a complaint about a breach of the Australian Privacy Principles. To help us deal with requests appropriately, we ask that all such requests be made via email to [support@bugherd.com](mailto:support@bugherd.com). Please provide as much detail as you can as this will help us to retrieve the information. It is our policy to process your request within a reasonable time. In some circumstances, there may be reason why we will not act on a request, such as where it would have an unreasonable impact on the privacy of others or we may not be permitted to do so by law.
 
 Notifying us promptly when any of your personal details change or where you realise that any information we are holding about you is incorrect will assist us in ensuring the information we hold is as accurate as possible.
