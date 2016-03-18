@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210162459id_/https%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318213602id_/https%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
