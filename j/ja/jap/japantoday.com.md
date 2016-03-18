@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japantoday.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906171137id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantoday.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318155705id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy ‹ Japan Today: Japan News and Discussion
 
