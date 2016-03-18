@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203182916id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318202704id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
 
 # Help
 
@@ -83,7 +83,7 @@ One Way Furniture does not collect any personal information on our blog and only
 
  _ **Access to Personally Identifiable Information**_
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete your personally identifiable information by opening a [Customer Support](about:ticket-submit.html "Customer Support") help ticket on our site. You can also call us at 1-855-996-3929 . You can update or change your account information by contacting our Customer Support or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete your personally identifiable information by opening a [Customer Support](about:ticket-submit.html "Customer Support") help ticket on our site. You can also call us at 1-888-592-0577 . You can update or change your account information by contacting our Customer Support or by contacting us by telephone or postal mail at the contact information listed below.
 
  ** _Changes To This Privacy Statement_**
 
@@ -94,4 +94,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 One Way Furniture  
 535 Broadhollow Rd - Ste A7 (Not for returns)   
 Melville, N.Y 11747  
-1-855-996-3929
+1-888-592-0577
