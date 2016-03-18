@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909233629id_/https%3A//www.travelrepublic.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318144930id_/https%3A//www.travelrepublic.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Travel Republic Privacy Policy
 
