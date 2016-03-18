@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sibers.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913175508id_/http%3A//www.sibers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sibers.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318230213id_/http%3A//www.sibers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Sibers
 
@@ -6,7 +6,7 @@ We've created this privacy statement in order to demonstrate our company's commi
 
 ### Email Information — and take all possible measures
 
-We at Sibers.com, HireRussians.com and Key-Soft.net are aware of the growing concern of users regarding the widespread distribution of their personal information, and taking measures to protect our customer's and visitor's privacy. We do not sell or redistribute any e-mail addresses to third parties or spammers.
+We at Sibers.com, HireRussians.com, Ixobit.com and Key-Soft.net are aware of the growing concern of users regarding the widespread distribution of their personal information, and taking measures to protect our customer's and visitor's privacy. We do not sell or redistribute any e-mail addresses to third parties or spammers.
 
 ### Information related to any project development
 
