@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingtip.org privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910095420id_/http%3A//www.marketingtip.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtip.org privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318034357id_/http%3A//marketbold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,7 +73,7 @@ Under California Law SB 27, California residents have the right to receive, once
 year, information about third parties with whom we have shared information about you  
 or your family for their marketing purposes during the previous calendar year, if any, and a  
 description of the categories of personal information shared. To make such a request,  
-please send an email to [ Privacy@PrivacyRequest.com](mailto:Privacy@PrivacyRequest.com) and please include the phrase  
+please send an email to privacy@marketbold.com and please include the phrase  
 “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name,  address and email address. We will respond to you within thirty days of receiving  such a request.
 
 “Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
