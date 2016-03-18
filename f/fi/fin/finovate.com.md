@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finovate.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812065616id_/http%3A//finovate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finovate.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318010404id_/http%3A//finovate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finovate
 
@@ -13,9 +13,9 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 Any of the information we collect from you may be used in one of the following ways:
 
   * **To improve our website**  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+(We continually strive to improve our website offerings based on the information and feedback we receive from you.)
   * **To improve customer service**  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+(Your information helps us to more effectively respond to your customer service requests and support needs.)
   * **To process transactions**  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * **To administer a contest, promotion, survey or other site feature**
@@ -29,13 +29,13 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 ## Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes — cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -61,7 +61,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 ## Analytics and Display Advertising
 
-We may use google analytics to support display advertising (e.g., Re-marketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting as well as other third party display advertising). These services help us understand our visitors and provide useful products, services, events or advertisements for them. By visiting https://www.google.com/settings/ads visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also find currently available opt outs for the web by visiting: https://tools.google.com/dlpage/gaoptout/ Further, you can opt out of all interest-based advertising here: http://www.networkadvertising.org/choices/
+We may use Google analytics to support display advertising (e.g., Re-marketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting as well as other third party display advertising). These services help us understand our visitors and provide useful products, services, events or advertisements for them. By visiting https://www.google.com/settings/ads visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also find currently available opt outs for the web by visiting: https://tools.google.com/dlpage/gaoptout/. Further, you can opt out of all interest-based advertising here: http://www.networkadvertising.org/choices/.
 
 ## Your Consent
 
@@ -77,7 +77,7 @@ This policy was last modified on 2014-01-09.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-The Finovate Group  
+The Finovate Group, Inc.  
 4739 University Way NE, Suite 1002  
 Seattle, WA 98105  
 USA [info@finovate.com](mailto:info@finovate.com)
