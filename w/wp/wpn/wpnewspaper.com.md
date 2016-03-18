@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpnewspaper.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513021354id_/http%3A//wpnewspaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpnewspaper.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318143026id_/http%3A//wpnewspaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Newspaper
 
