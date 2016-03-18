@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908025012id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318090146id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Westminster City Council
 
@@ -43,7 +43,7 @@ Other Cookies - we use Google Analytics on our site in order to know what is of 
 Some independent information about cookies is available below: 
 
   * [All about cookies](http://www.allaboutcookies.org/)
-  * [About cookies](http://www.aboutcookies.org/)
+  * [_About cookies_](http://www.aboutcookies.org/)
 
 
 
