@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2015-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151025170605id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2016-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160318041628id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -67,9 +67,17 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 
 
-
 <!-- JQuery Setup -->
-<script src="/js/jquery-1.11.0-pre.min.js"></script>
+
+<!--[if lt IE 9]>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script>if (!window.jQuery) {document.write('<script src="/js/jquery-1.11.3.min.js"><\/script>');}</script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script>if (!window.jQuery) {document.write('<script src="/js/jquery-2.1.4.min.js"><\/script>');}</script><script src="/js/jquery-2.1.4.min.js"></script>
+<!--<![endif]-->
 
 
 <!-- Simple Modal Lightbox -->
@@ -226,8 +234,8 @@ function NumbersOnly(e, decimal_allowed, space_allowed) {
 <table cellpadding="0" cellspacing="0" border="0" width="960" height="150" align="center">
 <tbody><tr>
 <td width="600" rowspan="2">
-<a border="0" href="http://www.interparcel.com">
-</a><h1><a border="0" href="http://www.interparcel.com"><img src="/images_new/main_layout/interparcel_logo.png" style="position:relative; top:-12px" alt="Interparcel"></a></h1>
+
+<h1><a border="0" href="http://www.interparcel.com"><img src="/images_new/main_layout/interparcel_logo.png" style="position:relative; top:-12px" alt="Interparcel"></a></h1>
 </td>
 
 <td align="right" height="90" colspan="2">
@@ -248,13 +256,14 @@ function NumbersOnly(e, decimal_allowed, space_allowed) {
 
 </tr>
 
-<form action="/tracking.php"></form>
-<input type="hidden" name="action" value="track">
+
 
 <tr>
 <td align="right" valign="top" height="60" width="300">
-
-<input type="text" class="modern" name="trackno" id="trackno" style="border-color: #888; line-height: 34px; padding-left: 10px; width:220px; height:34px; -webkit-border-radius: 2px 0px 0px 2px; -moz-border-radius: 2px 0px 0px 2px; border-radius: 2px 0px 0px 2px; border-right: none;" value="Enter your tracking number..." onfocus="enter_trackbox();" onblur="leave_trackbox();"></td>
+<form action="/tracking.php">
+<input type="hidden" name="action" value="track">
+<input type="text" class="modern" name="trackno" id="trackno" style="border-color: #888; line-height: 34px; padding-left: 10px; width:220px; height:34px; -webkit-border-radius: 2px 0px 0px 2px; -moz-border-radius: 2px 0px 0px 2px; border-radius: 2px 0px 0px 2px; border-right: none;" value="Enter your tracking number..." onfocus="enter_trackbox();" onblur="leave_trackbox();">
+</form></td>
 
 <td valign="top" width="60"><input type="submit" class="orange_button" name="Track" value="Track" style="border:1px solid #888; border-left: none; font-weight: bold; font-size:12px; height:36px; width:60px; -webkit-border-radius: 0px 2px 2px 0px; -moz-border-radius: 0px 2px 2px 0px; border-radius: 0px 2px 2px 0px;">
 </td>
@@ -636,7 +645,7 @@ function moveoff_loginform () {
 
 <tbody><tr>
 <td valign="middle" height="50">
-&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2015&nbsp;&nbsp;&nbsp;:
+&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2016&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/privacy.php" alt="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/terms.php" alt="Terms Of Use">Terms Of Use</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/site-map/index.php" alt="Site Map">Site Map</a>
@@ -651,7 +660,7 @@ function moveoff_loginform () {
 
 <tr>
 <td valign="top" height="30" style="color: #998866">&nbsp;
-Web Server 1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Rendered in 0.000941 seconds</td>
+Web Server 2&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Rendered in 0.002102 seconds</td>
 </tr>
 </tbody></table> 
 <!---------------------------- FOOTER END----------------------------->
