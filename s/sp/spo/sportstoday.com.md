@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportstoday.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901171258id_/http%3A//www.shop.musictoday.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportstoday.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318151124id_/http%3A//www.shop.musictoday.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Musictoday Privacy Policy
 
@@ -71,7 +71,7 @@ Our Site, whether accessed on a computer or a mobile device, is not at this time
 
 ### **E. Children**
 
-The features, programs, promotions and other aspects of this Site requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [merchandise@musictoday.com](mailto:merchandise@musictoday.com). A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof. 
+The features, programs, promotions and other aspects of this Site requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [storesupport@deliveryagent.com](mailto:storesupport@deliveryagent.com). A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof. 
 
 ### **F. International Transfer of Information**
 
@@ -96,7 +96,7 @@ This statement applies solely to information collected on the Site. The Site may
 
 ### **J. Access to Your Information/Choices**
 
-We provide you with an opportunity to access your personal information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at [merchandise@musictoday.com](mailto:merchandise@musictoday.com). If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request. 
+We provide you with an opportunity to access your personal information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at [storesupport@deliveryagent.com](mailto:storesupport@deliveryagent.com). If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request. 
 
 ### **K. Assignment**
 
@@ -112,7 +112,7 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 ### **N. Contacting Us**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at [merchandise@musictoday.com](mailto:merchandise@musictoday.com). All information you provide in any written communication will also be covered by this policy. 
+If you have any questions about this privacy policy or our privacy practices, please contact us at [storesupport@deliveryagent.com](mailto:storesupport@deliveryagent.com). All information you provide in any written communication will also be covered by this policy. 
 
 ### **YOUR CALIFORNIA PRIVACY RIGHTS**
 
