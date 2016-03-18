@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317060135id_/http%3A//www.condecosoftware.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318065838id_/http%3A//www.condecosoftware.com/todo/misc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Condeco
+# Privacy Policy - Condeco Software US
+
+## Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -9,8 +11,6 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 We may collect, store and use the following kinds of personal information.
 
   * Information that you provide to us for the purpose of registering with us (including Names, Job Title, Company Name, Email Address, Telephone Number, Country, Interests).
-
-
   * Any other information that you choose to send to us.
 
 
@@ -34,11 +34,7 @@ Personal information submitted to us via this website will be used for the purpo
 We may use your personal information for the following purposes.
 
   * To enable your use of the services available on the website.
-
-
   * To send to you marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications).
-
-
   * To deal with enquiries and complaints made by or about you relating to the website.
 
 
@@ -49,11 +45,7 @@ We may disclose information about you to any of our employees and subcontractors
 In addition, we may disclose your personal information in the following circumstances.
 
   * To the extent that we are required to disclose information by law.
-
-
   * In connection with any legal proceedings or prospective legal proceedings.
-
-
   * In order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
 
@@ -77,8 +69,6 @@ We may update this privacy policy from time-to-time by posting a new version on 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
   * the payment of a fee (fixed by law at the date of writing at GBP 10.00); and
-
-
   * the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
 
