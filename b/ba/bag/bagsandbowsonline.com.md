@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bagsandbowsonline.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910001535id_/https%3A//www.bagsandbowsonline.com/retail-packaging/common/privacyPolicy.jsp%3Fpscid%3DBB%3AFTR_CorpInfo_Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsandbowsonline.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318040813id_/https%3A//www.bagsandbowsonline.com/retail-packaging/common/privacyPolicy.jsp%3Fpscid%3DBB%3AFTR_CorpInfo_Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bags & Bows
-
-## Bags and Bows Privacy Policy
 
 Information Collection & Use   
 
