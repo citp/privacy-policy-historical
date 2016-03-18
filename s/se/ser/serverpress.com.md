@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverpress.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919070343id_/https%3A//serverpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverpress.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318114220id_/https%3A//serverpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • ServerPress, LLC.
 
@@ -6,7 +6,7 @@ At ServerPress, LLC., we believe you have a right to know what type of informati
 
 While ServerPress, LLC. does not generally require that you provide us with personally identifiable information (for example, in order to visit and use the site “www.serverpress.com”), please note that in order to participate in some activities, it will be necessary for you to provide this information. If you choose not to provide it for those activities, you may not be able to participate in them.
 
-[Notice to California Residents – Your California Privacy Rights: If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom ServerPress, LLC. may have disclosed, within the past year, personal information pertaining to you and your family for that company’s direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [info@ServerPress.com](mailto:info@ServerPress.com).] 
+[Notice to California Residents – Your California Privacy Rights: If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom ServerPress, LLC. may have disclosed, within the past year, personal information pertaining to you and your family for that company’s direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [info@ServerPress.com](mailto:info@ServerPress.com).]
 
 ### Collection of Information:
 
