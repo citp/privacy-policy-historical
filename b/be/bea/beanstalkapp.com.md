@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810232022id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318025249id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Beanstalk — Privacy Policy
 
@@ -27,3 +27,9 @@ Wildbit, LLC will notify customers by email about any significant changes in thi
 ## Privacy Questions / Feedback
 
 If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com) or 20 N. 3rd Street, Unit 701, Philadelphia, PA, 19106.
+
+## Terms Applicable to International Users
+
+We’re in Philadelphia, and as you can see from these Terms and our Privacy Policy, we’re committed to following the rules when it comes to your data. But we can’t do it alone, especially if you are located outside of the United States. You are responsible for complying with all local rules where you reside or your organization is located regarding online activities, email and the Service, including but not limited to laws governing the transmission of data to or from the United States and to or from the country in which You reside. The Service is controlled and operated by Wildbit from our offices within the United States, and we make no representation that the it is appropriate for use in other locations. Those who use the Service from other locations do so at their own risk, and are responsible for compliance with all applicable laws.
+
+For the purposes of European Directive 95/46/EC, and with respect to Your subscribers’ or customers’ personal data, You acknowledge and agree that You are the data controller, and Wildbit is the data processor. You are therefore responsible for complying with all obligations of a data controller under applicable law. Wildbit will process your subscribers’ or customers’ data on Your behalf in accordance with Your instructions, as set out in this these Terms and pursuant to the Standard Contractual Clauses in European Commission Decision C(2010)593, including the Illustrative Indemnification Clause therein, all of which is adopted and incorporated by reference. Wildbit has taken and will continue to take adequate technical and organizational measures against unauthorized or unlawful processing of, accidental loss or destruction of, or damage to, Your subscribers' or customers' personal data, as more fully described in our Privacy Policy. If you have any questions, don’t hesitate to contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com).
