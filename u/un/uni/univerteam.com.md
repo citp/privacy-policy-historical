@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the univerteam.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528163252id_/http%3A//univerteam.com/wp-content/uploads/2014/10/Univerteam-Privacy-Policy-2.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univerteam.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318123016id_/http%3A//univerteam.com/wp-content/uploads/2014/10/Univerteam-Privacy-Policy-2.pdf) for the most accurate reproduction.*
 
 # Univerteam Limited -
 
