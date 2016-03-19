@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215185633id_/http%3A//www.eurocheapo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319175053id_/http%3A//www.eurocheapo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: EuroCheapo's Guide to Cheap Hotels in Europe
 
@@ -23,3 +23,9 @@ We set temporary cookies in order to make certain features (like "Last Visited H
 **More information:**
 
 Please [contact us](mailto:comments@eurocheapo.com?subject=Privacy) with any security or privacy concerns.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Website.   
+These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.   
+If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [this page](http://www.networkadvertising.org/managing/opt_out.asp).
