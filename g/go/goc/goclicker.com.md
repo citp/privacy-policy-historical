@@ -1,316 +1,101 @@
-> *The following text is extracted and transformed from the goclicker.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706100823id_/http%3A//socialsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goclicker.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319164854id_/http%3A//buzzour.com/privacy) for the most accurate reproduction.*
 
-# SocialSearch | Search Your Favorite Social Media & More!
+# Buzzour Privacy
 
-THE FOLLOWING PRIVACY STATEMENT DETAILS THE SOCIALSEARCH.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE. Any questions in regards to SocialSearch.com privacy practices should be sent via email to [info@socialsearch.com](mailto:info@socialsearch.com).
+THE FOLLOWING PRIVACY POLICY DETAILS THE MONETIZE.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE.
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit http://info.trovi.com/Privacy , and the search provider's privacy policy, as applicable.
+Effective Date: January 19, 2015
 
-What type of information does SocialSearch.com collect?
+This privacy policy describes how Monetize.com, Inc. ("Monetize.com") collects and uses the personal information you provide on our website, Buzzour.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-SocialSearch.com utilizes the cookie feature of your browser. Cookies, on their own, cannot be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.  
-Your IP address helps SocialSearch.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize SocialSearch.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+### What type of information does Monetize.com collect?
 
-## Information Socialsearch Collects and Receives
+Monetize.com only collects data to enhance and personally tailor Buzzour.com to meet your needs. The information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Monetize.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
 
-When you Use the Software & Services, we automatically collect and store the following types of information: 
+Your IP address helps Monetize.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Monetize.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
 
-  1. __Technical Information.__ Certain technical information regarding your device, and your Use of the Software & Services and other third party software and applications installed on your device (the **“Other Software”** ), including the type, name and version of the operating system and Other Software including, without limitation, their interactions with the Software & Services, ISP ( _Internet Service Provider_ ), location, Internet protocol (IP) address, anonymous user identifiers, device configuration and identifiers (IDFA (Identifier for Advertisers used in IOS), Advertising ID (Identifier for Advertisers used in Android) and the like), version of the Software & Services, and your configuration and settings of the Software & Services;
-  2. __Usage Information.__ Certain usage related information regarding your use and interaction with your device, including the Software & Services and Other Software, such as when and how you Use the Software & Services and Other Software, how you use your internet browser and internet search related applications, the web pages you visit and the content you see, access and utilize on such web pages; for example, offerings and advertisements that you view, use and access, how you use them and your response to them, how frequently you use them, your search queries and the time and date of your searches;
-  3. __Social Networks.__ Your interactions on social networks through the Software & Services;
-  4. __Registration Related Information.__ Information you provide when you register for the Software & Services (if applicable), such as name, home or work addresses, email address, telephone and fax numbers, birth date and gender; and
-  5. __Support Related Information.__ If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request). Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software & Services, including, any individual User ID (as defined below) generated or collected by us.
+We collect the following personal information from you if ONLY you choose to be a Buzzour Publisher:
 
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information
 
 
-When you Use the Software & Services, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software & Services (the **"User ID"** ) and may be combined with any of the above information.
 
-While it is not our intention to collect any personally identifiable information (“ **PII** ”) (except for registration and user support purposes as set forth in this Privacy Policy), the data collected may include PII. As part of our privacy measures, we implement certain rules designed to avoid the unintentional collection of PII such as email addresses, social security numbers, credit card numbers, login information, etc. Such rules are based on known field types, parameters, values and algorithms but they are not foolproof and hence the Software & Services may sometimes, unintentionally, collect unwanted information. We regularly examine and update these rules. 
+### What does Monetize.com do with my data?
 
-## What does SocialSearch.com do with my data?
+If you do provide us your email address during the Buzzour Publisher sign up process, we may use this to offer inform you of new features, allow you to register for special offers, newsletters considered to be for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email info@Buzzour.com.
 
-SocialSearch.com only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
+Also note that your email address helps Monetize.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-IP addresses help us diagnose server issues and help us administer SocialSearch.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.  
-Every email sent to SocialSearch.com users is to meet your needs. We offer website updates, inform you of new features, allow you to for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply on the link provided to opt out.
+We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. The personal information that you enter is owned by Monetize.com.
 
-Also note that your email address helps SocialSearch.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
+We may also disclose your personal information
 
-## Sharing Information with Third Parties.
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * to any other third party with your prior consent to do so.
+  * if Monetize.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
 
-We may share with third parties the information collected in any of the following events: ** __**
 
-  * If we are required by law to disclose your information, we may share your information with law enforcement or other competent authorities and any third party, as may be required (e.g., to detect, prevent or otherwise address fraud, security, or technical issues; to respond to claims or satisfy any legal process, subpoena, or governmental request; or to protect the rights, property, or personal safety of Socialsearch’s users, its partners, or the general public);
-  * In the event Socialsearch goes through a business transition such as a merger or acquisition by another company, consolidation, change of control, reorganization, or sale of all or a portion of its assets, your information will be among the assets transferred;
-  * We may share your information with certain third parties (including, without limitation, search engines, content providers, and advertising networks and platforms) that provide various services (such as advertising, marketing, analysis, content, and search) in connection with the Software & Services. We take appropriate measures to ensure that no user can be individually identified from the disclosure of such information, and we require these third parties (i) to keep the data secured, (ii) not to use the data for any purpose other than to provide us with services, and (iii) to use the data solely in compliance with this Privacy Policy; and
-  * We may also share PII and non-personally identifiable information with our subsidiaries, affiliated and parent companies, but their use of such information must comply with this Privacy Policy.
 
+### Cookies
 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-In any case other than the above, we will not share your PII with third parties without your prior consent. ****
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-## Third-Party Content
+We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-Certain Software & Services may include and/or enable you to add Content to them. The Content may be in the form of apps, buttons, gadgets, links to third-party advertisements, websites, products and services (including search services) as well as additional means that are provided to you by third parties (collectively, **"Third Party Content and Services"** ). The use of such Third Party Content and Services is subject to their privacy policies. In addition, Socialsearch provides such third parties with a large number of tools to enable them to create interesting and unique apps, buttons, and gadgets using the Socialsearch platform. Some of these tools may give these third parties the ability to access, collect, store, and/or share your information – both your PII and non-personally identifiable information. In order to clarify, we do not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third-Party Content and Services and your access to any Third-Party Content and Services is at your own risk. We are not responsible for the information contained and/or made available through, the practices of, or your use or inability to use such Third-Party Content and Services. You expressly relieve us from any and all liability arising from your use of such Third-Party Content and Services. We recommended that you read the terms, conditions and privacy policies of such Third-Party Content and Services before using or accessing any of them. 
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited.
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable.
+### Third Party Cookies
 
-## Social Networks
+The use of cookies by third parties is not covered by our Privacy Policy. We do not have access or control over these cookies.
 
-You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks directly from the Software & Services. During such activation, you will be asked to grant Socialsearch permission to compile certain information from such social networks. This information may include friends or contact lists, notes, updates, and photos, and may be used by Socialsearch to customize the Content available to you through the Software & Services, suggest new features and Content that may be relevant to you, or provide Socialsearch with data for statistical purposes. The information you allow Socialsearch to access is that which is presented to you when you choose to activate these features. Please see your social network provider policies for any questions or concerns. You may opt not to grant Socialsearch access to your social network account(s) at any time by changing your social network settings or by not authorizing Socialsearch’s access thereto. 
+### Clear Gifs (Web Beacons/Web Bugs)
 
-## Cookies and Other Technologies
+We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows Monetize.com a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual.
 
-We may collect or allow third parties to collect, through blocks of code called “pixels” or “web beacons”, certain information about you and send it to our servers and our partners. We or our partners package all or part of this information into small text files called Cookies and send the Cookie to your computer. For example, Cookies may store search queries made through the Software & Services, the web pages you accessed, your interaction with advertisements presented to you via the Software & Services, features you used, your session duration and your configurations and preferences of the Software & Services.
+### Security
 
-Such Cookies and other technologies allow us and our partners to recognize you on your next use of, access or visit to the Software & Services, or on your visits or access to our partner’s network (i.e., sites and services outside of Socialsearch).  
-Socialsearch and/or its partners use Cookies and other tracking technologies to:
+The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our online forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-  * facilitate and enhance your interaction and activities with the Software & Services;
-  * help Socialsearch learn how you Use the Software & Services, what parts are most attractive and interesting to you, and what kind of offers you like to see;
-  * provide you with personalized content which may include interest-based information, online ads or other marketing materials on or through the Software & Services and on third party websites and properties;
-  * analyze the information collected from you and help manage and optimize the Software & Services;
-  * track and measure various performance and demographic parameters of advertising campaigns including, without limitation, analyzing which ads your browser has loaded, which site pages you may have been viewing when the ads were delivered or accessed, and your interaction with the ad.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at copyright@Monetize.com.com.
 
+### Public Forums
 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at copyright@Monetize.com.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Most browsers are initially set up to accept Cookies but you can reset your browser to refuse all Cookies or to indicate when a Cookie is sent. However, some functions of the Software & Services may not function properly if your Cookies are disabled. By using the Software & Services, you affirmatively consent to the collection of information and Cookies as described above. 
+### Who else gets to see my personal information?
 
-## Children under 13
+When you request services from our business partners Monetize.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a Monetize.com business partner, you may contact them directly. Monetize.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Monetize.com owned businesses.
 
-The Software & Services are not intended for users under the age of 13 and you hereby represent that you are at least 13 years old. We do not knowingly collect, use, share or disclose any personal information from children under the age of 13. We reserve the right to request proof of age at any stage, so that we can verify that minors under the age of 13 are not using the Software & Services.
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-We advise parents and guardians to regularly monitor their children's use of email and other online communications and activities. Control tools that create a safer online environment for children are available from third-party online services and software providers.  
-In the event that it comes to our knowledge that a person under the age of 13 is using the Socialsearch Software, we will prohibit and block such a user from accessing the Software & Services, and will make all efforts to promptly delete any PII with regard to such user, as applicable.
+### How do I delete my information from Buzzour?
 
-If you are a parent or guardian who has discovered that your child has submitted his or her PII without your consent, please contact us as provided in this Privacy Policy and we will take the necessary steps to remove that information from our database.
+If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing copyright@Monetize.com.com or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at info@Buzzour.com.
 
-## Access
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Buzzour.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-You may send us a request to access the PII that we collect through your use of the Software & Services. In such case, we may require that you provide us with additional information to verify your identity.
+At this current time it is not possible to completely delete all of the user information from the Monetize.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
 
-## Data Retention
+### Will I be notified of a security breach?
 
-We retain the information we collect as described in this Privacy Policy for as long as necessary to fulfill our business and/or operational purposes or comply with a legal request. We may also choose to anonymize parts of the information we collect so that it can no longer be identifiable or attributable to any person if we want to keep it for longer periods of time.
+Monetize.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
 
-**Transfer of Data Outside Your Territory**
+### Do linked sites honor your policy?
 
-The Software & Services work over the Internet. We may store and process information in various locations throughout the globe. If you are a resident of a European Union Member State or another jurisdiction where transfer of your PII to another jurisdiction requires your consent, then you hereby provide us with your express consent to such transfer of your data. 
+Linked sites are not run or controlled by Monetize.com. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. Monetize.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
 
-## Information Security
+### Monetize.com will notify you of changes
 
-We implement measures to secure your PII that we collect in order to minimize the risks of damage, loss of information, and unauthorized access or use of information. However, these measures are unable to provide absolute information security. Therefore, although we make efforts to secure your PII, we cannot guarantee and you cannot reasonably expect that the Software & Services and its databases are immune from any wrongdoings, malfunctions, unauthorized interceptions, access, or other kinds of abuse and misuse.
-
-## Do Not Track
-
-Do Not Track is a privacy preference that can be configured in certain web browsers (the **"DNT Feature"** ); the DNT Feature, when enabled on a web browser, signals the websites you visit that you do not want certain information about the websites visited collected. As the Internet industry is in the process of defining how to interpret signals sent by the DNT Feature, Socialsearch does not currently respond or recognize DNT Feature signals. 
-
-## **Who else gets to see my personal information?**
-
-When you request services from our partners SocialSearch.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a SocialSearch.com business partner, you may contact them directly. SocialSearch.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with SocialSearch.com owned businesses.
-
-Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it. It is our obligation to protect any rights or property of SocialSearch.com and others associated with our company and website.  
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
-
-SocialSearch shares user information to the following partners. Please visit each company's privacy policy to better understand the controls available to you.
-
-  * Accuen Media
-  * Acxiom
-  * Ad Gear
-  * Ad Ready
-  * Adap.TV
-  * AdConion
-  * AddThis
-  * AdExpert (Microsoft)
-  * Adform
-  * AdJuggler, Inc.
-  * AdKeeper
-  * AdMedia
-  * Admotion S.R.L.
-  * Adobe
-  * Adometry
-  * AdRoll
-  * AdShuffle
-  * AdTech Inc.
-  * Advanse
-  * Advertising.com, Inc. (an AOL company)
-  * Aggregate Knowledge
-  * AKQA
-  * Alena/Performance Marketing Group (Intermix)
-  * Altitude Digital
-  * American Express (uses Omniture services)
-  * AppNexus
-  * Aranet Online
-  * Atlas DMT
-  * Bloomreach
-  * Blue Kai
-  * Brand.net
-  * Bridgetrack
-  * Brightroll
-  * BuySight
-  * C3 Metrics
-  * Caraytech S.A. (aka E-Planning)
-  * Casale
-  * Celtra
-  * Chango
-  * Cnet
-  * Cognitive Match
-  * Collective Media
-  * Comcast
-  * Compete
-  * comScore
-  * Connexity
-  * Convertro
-  * Conviva
-  * Coremetrics, Inc.
-  * Cossette Media
-  * Cox Digital Solutions (formerly Adify)
-  * Cox Enterprises
-  * Crisp Wireless
-  * Criteo Media
-  * Crowd Science
-  * DataXu
-  * Datran
-  * Diligant
-
-
-
-  * Dotomi
-  * DoubleClick, Inc.
-  * Dynamic Logic
-  * Epsilon
-  * Evidon
-  * eyeReturn Marketing
-  * EyeView Digital
-  * EyeWonder, Inc.
-  * Facilitate
-  * Fastclick (Valueclick)
-  * FatText
-  * Flash Talking
-  * Flite
-  * Forbes
-  * Foresee
-  * FreeWheel Media, Inc.
-  * GFK
-  * GoldSpot Media
-  * Google AdSense
-  * HipCricket
-  * Hotwire
-  * Innovation Interactive (NetMining)
-  * Innovid
-  * InsightExpress
-  * Intermix (Demand Media)
-  * Interpolls
-  * Invite Media
-  * Jivox
-  * Korrelate
-  * Legolas Media
-  * LinkStorm
-  * Liquidus Marketing
-  * Locked On Media
-  * Lucid Media
-  * Markit On Demand
-  * Media6Degrees
-  * Mediaglu (formerly known as MLN Advertising)
-  * Mediamath
-  * Mediamind
-  * Mediaplex
-  * Microsoft
-  * Mixpo
-  * Moat
-  * MobileFuse
-  * Mochila
-  * Music Interactive
-  * myThings
-  * Netseer
-  * NewsRight, LLC
-  * NexTag
-  * Nielsen
-  * Optaros, Inc
-  * OsAdsPro (GroovingAds)
-  * PaperG, Inc.
-  * PayPal
-  * Perion
-  * Phluant
-
-
-
-  * Pictela
-  * Planning Group International
-  * Pointdexter Systems
-  * PointRoll
-  * Predicta
-  * Pricegrabber (pgcdn.com)
-  * Procter&Gamble
-  * Pulse 360
-  * Quinstreet
-  * RadiumOne
-  * Real Media Group
-  * Rich Relevance
-  * Rocket Fuel Inc.
-  * Rovion
-  * Safecount
-  * Simpli.fi
-  * SiteScout Inc.
-  * Skenzo (Media.net)
-  * Snap
-  * Specific Media
-  * SpeedShift Media
-  * Sponge Cell
-  * Symphony Advanced Media (formerly Factor TG)
-  * Tag-Man
-  * TapAd
-  * Telemetry
-  * Teracent
-  * The Trade Desk
-  * Tidal TV/Videology
-  * TNS Customer Research Inc.
-  * TradeDoubler
-  * Tribal Fusion
-  * TruEffect
-  * TRUSTe
-  * TubeMogul
-  * Tumri
-  * Turn Inc.
-  * Undertone
-  * Unicast (Viewpoint)
-  * ValueClick Media
-  * VideoHub
-  * Vindico
-  * Visible Measures
-  * Vizu
-  * Webapps LLC dba Hitpath
-  * WebTrends
-  * Widgetbox d/b/a ClickTurn
-  * X+1 Technologies
-  * Xaxis (Media Innovation Group - mookie)
-  * Yabuka
-  * Ybrant Digital
-  * YuMe
-  * Zedo
-
-
-
-## How do I delete my information from SocialSearch.com?
-
-At this current time it is not possible to completely delete your user information from the SocialSearch.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
-
-## Will I be notified of a security breach?
-
-SocialSearch.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified immediately.
-
-## Do linked sites honor your policy?
-
-Linked sites are not run or controlled by SocialSearch.com. The website does contain many linked sites, so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. SocialSearch.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
-
-## Will your policy always remain intact?
-
-We cannot guarantee that this policy will always be honored. In the event that SocialSearch.com is bought, or our assets are acquired by another company, user information may be transferred to new ownership. SocialSearch.com will suggest this policy be adapted, but we cannot guarantee it.
-
-## SocialSearch.com will notify you of changes
-
-SocialSearch.com is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with SocialSearch.com policies, so check this site often for information on your privacy.
-
-## Contacting SocialSearch.com
-
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [info@socialsearch.com](mailto:info@socialsearch.com).
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Contacting Monetize.com
+
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives by email at copyright@Monetize.com.com. Alternatively, you may contact via phone at (818) 333-4000 or if you prefer to contact us by mail, please do so at the following address:
+
+Monetize.com Inc.  
+701 S Carson St. Ste 200  
+Carson City, NV 89701
