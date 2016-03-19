@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playkissing.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427020557id_/http%3A//www.playkissing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkissing.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319090756id_/http%3A//www.playkissing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
