@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebtricity.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319070921id_/http%3A//www.celebtricity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebtricity.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319074153id_/http%3A//www.celebtricity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CelebTriCity
 
