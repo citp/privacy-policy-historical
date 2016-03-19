@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the park-resorts.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911023357id_/https%3A//www.park-resorts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the park-resorts.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319024038id_/https%3A//www.park-resorts.com/privacy) for the most accurate reproduction.*
 
 # UK Holidays | Privacy Policy, Protecting your data - Park Resorts
 
@@ -42,9 +42,8 @@ Facebook Social Plugins | S, locale, csm, datr, lu, c_user, xs, act, sub, p, wd 
 Google +1 | GALX, GAPS, Google Accounts Locale_session | This cookie is used to allow you to "+1" a page on Google +1 and then let us remember that you have done this successfully. | [More info](http://www.google.com/policies/privacy/)  
 Google Adwords | Conversion | This cookie allows us to track bookings generated from the Google Adwords network. | [More info](http://www.google.com/policies/privacy/ads/)  
 Google Analytics | __utma, __utmb, __utmz, UserLocale, PREF, NID, SNID | These cookies are used to track visitor behaviour on the Park Resorts site. | [More info](http://www.google.com/analytics/learn/privacy.html)  
-Microsoft Bing | MUID, ANON, CC, Microsoft Account Authentification, NAP, MH, ACH01, TOptOut | These cookies are used to track bookings which were generated through search activity on Bing. | [More info](http://www.microsoft.com/privacystatement/en-gb/bing/default.aspx)  
+Microsoft Bing | MUID, ANON, CC, Microsoft Account Authentification, NAP, MH, ACH01, TOptOut | These cookies are used to track bookings which were generated through search activity on Bing. | [More info](https://www.microsoft.com/en-us/privacystatement/)  
 Park Resorts | bespoke_tracking_all, bespoke_tracking_time, BespokeTracking, __utmv, LastReferMethod | The bespoke_tracking and LastReferMethod cookies allow us to see the most popular websites before visitors arrive at ours.  |   
-Quantcast | mc, d | These cookies are used to track bookings which were made as a result of our advertising on the Quantcast network.  | [More info](http://www.quantcast.com/docs/display/legal/Privacy+Policy)  
 Rocket Fuel Inc | Rocketfuel | Third party provider of targeted online ad network. | [More info](http://rocketfuel.com/privacy-policy)  
 the Rubicon Project inc | Rubiconproject | Yield Optimization technology | [More info](http://www.rubiconproject.com/privacy-policy)  
 Share This | _stid, _uset | Online advertising platform Park Resorts use for Social Audience targeting. | [More info](http://www.sharethis.com/privacy)  
