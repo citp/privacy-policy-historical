@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpreserving.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226141035id_/http%3A//www.freshpreserving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpreserving.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319054712id_/http%3A//www.freshpreserving.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
