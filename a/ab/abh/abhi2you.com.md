@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030002335id_/http%3A//www.abhi2you.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319122419id_/http%3A//www.abhi2you.com/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - India's Loot Hub - Free Recharges, Loot Tricks & Best Deals - October 2015
+# A2Y | Free Recharge Tricks, Loot Deals & Coupons - March 2016: Privacy Policy
 
 _**  Privacy Policy**_
 
