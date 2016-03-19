@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcuniverseonline.eu privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908181729id_/https%3A//www.daybreakgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcuniverseonline.eu privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319190926id_/https%3A//www.daybreakgames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daybreak Game Company
 
@@ -168,9 +168,9 @@ If you believe that we have unintentionally collected personal information about
 
 Email: [accounts@daybreakgames.com](mailto:accounts@daybreakgames.com)
 
-Mail: Daybreak Games Privacy Officer, 8928 Terman Court, San Diego, CA 92121
+Mail: Daybreak Games Privacy Officer, 15051 Avenue of Science, San Diego, CA 92128
 
-Phone: 858-577-3100 (ask for the Privacy Officer)
+Phone: 858-239-0500 (ask for the Privacy Officer)
 
 Back to top
 
@@ -210,9 +210,9 @@ Questions, comments, and requests regarding this Privacy Policy are welcomed and
 
 Email: [accounts@daybreakgames.com](mailto:accounts@daybreakgames.com)
 
-Mail: Daybreak Games Privacy Officer, 8928 Terman Court, San Diego, CA 92121
+Mail: Daybreak Games Privacy Officer, 15051 Avenue of Science, San Diego, CA 92128
 
-Phone: 858-577-3100 (ask for the Privacy Officer)
+Phone: 858-239-0500 (ask for the Privacy Officer)
 
 If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <https://www.esrb.org/privacy/contact.jsp>, or 420 Lexington Avenue, Suite 2024, New York, NY 10170.
 
