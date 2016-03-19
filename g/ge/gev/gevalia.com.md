@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054658id_/http%3A//www.gevalia.com/mPage%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319134359id_/http%3A//www.gevalia.com/mPage%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Gevalia Coffee Privacy Policy
 
