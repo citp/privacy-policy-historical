@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactradius.co.uk privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702005807id_/http%3A//www.impactradius.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.co.uk privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319032334id_/http%3A//www.impactradius.co.uk/privacy) for the most accurate reproduction.*
 
 # Impact Radius | Privacy - Impact Radius
 
@@ -116,6 +116,6 @@ This privacy policy is subject to change. If we make any material or substantive
 **12\. More Information**  
 If you have further questions or concerns relating to this Website’s privacy practices, please email [privacy@impactradius.com](mailto:privacy@impactradius.com).
 
-© Copyright 2013 - 2015 Impact Radius All Rights Reserved. [Terms](https://web.archive.org/terms) & [Privacy](https://web.archive.org/privacy)
+© Copyright 2013 - 2016 Impact Radius All Rights Reserved. [Terms](https://web.archive.org/terms) & [Privacy](https://web.archive.org/privacy)
 
 
