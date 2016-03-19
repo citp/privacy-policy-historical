@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minter.io privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319034509id_/https%3A//minter.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minter.io privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319143942id_/https%3A//minter.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | minter.io
 
