@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysocialpilot.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328103616id_/http%3A//surveysocialpilot.com/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysocialpilot.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319125820id_/http%3A//surveysocialpilot.com/members/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
