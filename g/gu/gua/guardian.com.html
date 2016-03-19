@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the guardian.com privacy policy that was archived on 2015-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150913110110id_/http%3A//www.guardian.com/AboutGuardian/PrivacyPolicy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guardian.com privacy policy that was archived on 2016-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160319014603id_/http%3A//www.guardian.com/AboutGuardian/PrivacyPolicy/index.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" vp978 vpgt320 vpgt480 vpgt720 vpgt978"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" defer="" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" vp978 vpgt320 vpgt480 vpgt720 vpgt978"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" defer="" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=017157547167928654941:z5heomcitxs"></script><script type="text/javascript">
    var _U = "undefined";
    var g_HttpRelativeWebRoot = "/cs/";
    var SSContributor = false;
@@ -407,7 +407,6 @@
 <!-- ShowerGuard Validator Script -->
 <script src="/cs/groups/public/documents/web_assets/gi_006858.js" type="text/javascript"></script>
 
-
 <!-- Google Analytics -->
 <script type="text/javascript">
   var gaaccount = "UA-244013-10";
@@ -446,13 +445,17 @@ else if (window.attachEvent) // Microsoft
 
 jQuery(function() {  
     jQuery("a[href^=http]").not('a[href*="www.guardian.com"]').click(function() {  
-        _gaq.push(['_trackEvent', 'outgoing', 'Links' ,"'" + this.href + ":LOADED FROM:" + window.location + "'"]);  
-    });  
+        _gaq.push(['_trackEvent', 'outgoing', 'Links' ,"'" + this.href + ":LOADED FROM:" + window.location + "'"]);
+    }); 
+	$.ready(function(){
+		$('.gsc-search-button').on('click', function(){
+			_gaq.push(['_trackEvent', 'Search', 'Keyword' , $('#gsc-i-id1').val() ]); 	
+		});
+	});    
 });  
 
 </script>
 <!-- End Google Analytics Code -->
-
 <!-- Hotjar Tracking Code for www.guardian.com -->
 <script>
     (function(h,o,t,j,a,r){
@@ -1014,7 +1017,63 @@ $().ready(function(){
 		<!--SS_BEGIN_ELEMENT(region100_element3)--><!--SS_END_ELEMENT(region100_element3)-->
 		<!--SS_BEGIN_ELEMENT(region100_element5)--><!--SS_END_ELEMENT(region100_element5)-->
 		<!--SS_BEGIN_ELEMENT(region100_element6)--><!--SS_END_ELEMENT(region100_element6)-->
-		<!-- SS_BEGIN_SNIPPET(fragment12,Presentation)-->				<div id="allnav">
+		<!-- SS_BEGIN_SNIPPET(fragment12,Presentation)-->				<style>
+.gsc-search-box{
+  display: none;
+}
+.gsc-adBlock{
+  height: 0 !important;
+  display:none !important;
+
+}
+#___gcse_0{
+	height: 0;
+}
+</style>
+<div id="GoogleSearch" name="GoogleSearch">
+	<script type="text/javascript">
+		// Initialize the search engine as Guardian.com
+		var cx = '017157547167928654941:z5heomcitxs';
+		
+		(function(){
+			// Change the Google search URL based on the siteId
+			if ('guardian.com' == 'GuardianEuropePl'){
+				cx = '017157547167928654941:heiel_oh0ua';
+			}else if('guardian.com' == 'GuardianEurope'){
+				cx = '017157547167928654941:o46wnawzmg8';
+			}else if('guardian.com' == 'GuardianEuropeFr'){
+				cx = '017157547167928654941:mpgqh7u7yjo';
+			}else if('guardian.com' == 'GuardianEuropeDe'){
+				cx = '017157547167928654941:er1cpriqc3g';
+			}else if('guardian.com' == 'GuardianEuropeIt'){
+				cx = '017157547167928654941:vnvvz4a1tww';
+			}
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				'//cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		})();
+		
+		
+		function performSearch() {		
+			try{
+				var q = $('#searchbox').val();
+				$('#gsc-i-id1').val(q);
+				//_gaq.push(['_trackEvent', 'Search', 'Keyword' , q ]);
+				$('input.gsc-search-button').click();
+			}catch(err){
+				alert('an error occured');
+			}finally{
+				return false;
+			}
+		}
+	</script>
+	<gcse:search></gcse:search>
+</div>
+<div id="allnav">
 	<div class="div-wrapper">
 		<div id="mainlogo">
 			<a href="/"><img src="/cs/groups/guardiandotcom/documents/web_content/web_072347.jpg" alt="Guardian.com Guardian logo 2015"></a>
@@ -1759,13 +1818,14 @@ $().ready(function(){
 			
 			
 			
+			
+			
 					<li class="searchBar">
 						<div id="search">
-    						<form id="searchform" name="searchform" method="post" action="/search/index.htm">
-								<script type="text/javascript"></script>
-								<input value="" name="q" type="text" class="searchbox" id="searchbox">
-								<input type="submit" name="searchsubmit" id="searchsubmit" value="" class="searchsubmit">
-    						</form>
+						
+							<form id="gsearch" name="gsearch" onsubmit="return performSearch();">
+									<input id="searchbox" type="text" class="searchbox" placeholder="Search...">
+								</form>
 						</div>
 					</li>
 						</ul>
@@ -1773,6 +1833,8 @@ $().ready(function(){
 					</div>
 				</div>	
 			<div class="clearfloat"></div>
+			
+			
 				
 			<!-- SS_END_SNIPPET(fragment12,Presentation)-->
 		<!-- SS_BEGIN_CLOSEREGIONMARKER(region100)--><!-- SS_END_CLOSEREGIONMARKER(region100)-->  
