@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727063249id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319034621id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | groovyPost
+# Privacy Policy
 
 ### General groovyPost.com Privacy Policy
 
