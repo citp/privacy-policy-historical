@@ -1,0 +1,71 @@
+> *The following text is extracted and transformed from the oompfh.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319061604id_/https%3A//oompfh.com/privacy) for the most accurate reproduction.*
+
+# Create professional resumes online for free | Builder | CV creator | Maker | Recruitment | Support
+
+Here we would like to bring you an efficient social platform for youth and graduates. We want to make clear about our privacy policy and make you understand how we use your information.
+
+#### Collect and Introduction
+
+Initially we would like to provide a detail description how we collect and use your data. We collect the following types of information about you.
+
+Needed personal information: We would need some information such as your username, full name, family name, date of birth, phone and email when you register for our Oompfh account. After completing the registration we would like take more required information for building your profile in an efficient way. For example Work experience, Education, Skills and certification etc. All these information provided by you is used to generate your resume automatically, which is one of important product of our Oompfh. In order to make you resume the best we would need all the information. This information also helps us to track and show you the relevant content, jobs add. A complete and perfect resume gains more weight age than the one with limited information. A complete resume appears more frequently on search engines, thus making your resume available to more number of employers’.
+
+#### Information through Third parties
+
+We could say this as a shortcut way for providing your information through third parties. You can register by using facebook and LinkedIn. From third parties we get certain basic information that requires for building your profile. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates when they are register in Oompfh. You may also non-fulfillment your third party account from the Service by adjusting your settings.
+
+#### Inviting or Refer a friend to use Oompfh
+
+Oompfh has a feature to invite your friends by using facebook, LinkedIn or Gmail. It even has some other features such as refer job to your friend who are in Oompfh or on other social sites. We do not ask to import your contacts list for the service and also we do not believe in retaining the information contained in your contacts list. You understand that by inviting a friend to Oompfh through the “Invite friends” feature, you are directly sending a text or an email from your personal accounts. “Finding your friends”, this feature allows you to locate your friends with Oompfh account. You can find friends by using third parties such as facebook, LinkedIn, Twitter and Gmail. You can even search friends in Oompfh. If you choose to find your friends through social media sites, then you understand that the information these sites provide to use to conduct this type of search is governed by their privacy policies and your account settings on those sites. If you choose to find your friends through a search of names or user names, then simply type a name to search and see if that name or username appears on our Service. Note that we do not retain any information contained in your contacts list, or information from social media sites about your contacts, and we do not use such information for any purpose other than to help you find your friends on Oompfh.
+
+#### Analytics information
+
+We may directly collect analytics data, or use third-party analytics tools and services, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+
+#### Cookies information
+
+Full details can be found on our Cookie Policy. When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Oompfh help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may use by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. Full details can be found on our Cookie Policy.
+
+#### Log files information
+
+Your browser or mobile device, each time you access the Oompfh, automatically reports log file information. When you use our Services, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+
+#### Clear gifs/web beacons information
+
+When you use the Service, we may employ clear gifs (also known as web beacons) that are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track, which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service.
+
+#### Device identifiers
+
+When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Oompfh. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+
+#### Location data
+
+When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.
+
+#### Commercial and marketing communications
+
+We use the information we collect or receive, such as your email address, to communicate directly with you. We may send you e-mails’ containing newsletters, promotions, and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
+
+#### Use of certain service type information we collect about you
+
+We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the Oompfh application on your mobile devices.
+
+#### Links to Other Websites and Services
+
+We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook, Google groups, or an IRC chat room ) and you allow such a third-party access to you User Content you do so at your own risk. We shall not in any manner accountable and / or liable in any manner whatsoever, for any damage, loss or inconvenience etc of any sort caused to you, as a result of such third-party website or service. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
+
+#### Ads on Oompfh
+
+We may also share certain information such as your location, browser, and cookie data and other data relating to your use of our Service with our Oompfh servers to deliver advertisements (“ads”) that may be of interest to you. How We Store and Protect Your Information
+
+**Storage and Processing:** In order to protect both the personal information and the general information that we receive from you through your use of the Oompfh, we have implemented various security measures. We also follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+
+**Keeping your information safe:** We may release personal information when we believe, in good faith that release is necessary to comply with any law, enforce or apply our terms of use and other agreements, or protect the rights, property, or safety of Oompfh employees, our customers, or others. We may disclose personal or general information upon receipt of a court order or subpoena, or to co-operate with a law enforcement investigation, which may include responding to requests and court orders from jurisdictions outside the India. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful, as determined in our sole discretion.
+
+**Your choices about your information:** You control your account information and settings: You may update your account information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by modifying your preferences
+
+**Opting out of; collection of your information for Tracking / Advertising:** Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Oompfh or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly.
+
+**How long we keep your private profile information:** Following termination of your User account, Oompfh may retain your private profile information for a commercially reasonable time for backup, archival, or audit purposes. For the avoidance of doubt, any information that you choose to make public on the service may not be removable.
+
+**Children’s Privacy:** Oompfh does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child who is under 13yrs, do contact us. In any case, we shall not be rendered liable for any consequences arising out of unauthorized you of our website by a child under age of 13.
