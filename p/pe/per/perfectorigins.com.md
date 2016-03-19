@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013000912id_/http%3A//perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319060710id_/http%3A//www.perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Perfect Origins :: About Us
 
