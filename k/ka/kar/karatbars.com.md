@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karatbars.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318082254id_/https%3A//www.karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karatbars.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319031514id_/https%3A//karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Gold - Karatbars International
 
@@ -34,4 +34,4 @@ Your personal information is safe with us! They are encrypted and transmitted to
 
 **To provide information & Withdrawal:**
 
-They receive at any time without giving reasons for free information about your stored data. You can always place your lock us in correcting the data collected, or deleted. You can always granted us permission for data collection and use without giving any reason revoked. Apply this to support@karatbars.com 
+They receive at any time without giving reasons for free information about your stored data. You can always place your lock us in correcting the data collected, or deleted. You can always granted us permission for data collection and use without giving any reason revoked. Apply this to support@karatbars.com
