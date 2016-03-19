@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c3directory.info privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112132848id_/http%3A//www.c3directory.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c3directory.info privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319221750id_/http%3A//www.c3directory.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
