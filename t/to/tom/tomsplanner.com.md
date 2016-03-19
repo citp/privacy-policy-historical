@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomsplanner.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815071310id_/http%3A//www.tomsplanner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomsplanner.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319230130id_/http%3A//www.tomsplanner.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
