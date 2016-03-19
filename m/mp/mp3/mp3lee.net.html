@@ -1,0 +1,366 @@
+<!--The following is the downloaded HTML source of the mp3lee.net privacy policy that was archived on 2016-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160319021809id_/http%3A//mp3lee.net/en/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="en">
+<meta http-equiv="content-style-type" content="text/css">
+<title></title>
+
+<link rel="alternate" hreflang="en" href="http://mp3lee.net/en/privacy.php">
+<link rel="alternate" hreflang="tr" href="http://mp3lee.net/tr/privacy.php">
+<link rel="alternate" hreflang="es" href="http://mp3lee.net/es/privacy.php">
+<link rel="alternate" hreflang="nl" href="http://mp3lee.net/nl/privacy.php">
+<link rel="alternate" hreflang="ar" href="http://mp3lee.net/ar/privacy.php">
+<link rel="alternate" hreflang="pt" href="http://mp3lee.net/pt/privacy.php">
+<link rel="alternate" hreflang="hi" href="http://mp3lee.net/hi/privacy.php">
+<link rel="alternate" hreflang="id" href="http://mp3lee.net/id/privacy.php">
+<link rel="alternate" hreflang="fr" href="http://mp3lee.net/fr/privacy.php">
+<link rel="alternate" hreflang="it" href="http://mp3lee.net/it/privacy.php">
+<link rel="alternate" hreflang="de" href="http://mp3lee.net/de/privacy.php">
+
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="http://mp3lee.net/en/themes/default/main.css" type="text/css">
+
+
+<style>
+			</style>
+
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DWPFW"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script src="http://cn6.mp3li.org/js/mp3_links.js?346547647457" type="text/javascript"></script>
+<script src="http://cn6.mp3li.org/js/djtrace.js?346547647457" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+    function jumpNoLink( $request ){
+        $("#searchbox").val($request);
+        $("#searchform").submit();
+        //document.location.href = "/?q="+$request;
+    }
+function getURLParameter(name) {
+  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
+}
+
+var md_url = "http://mp3lee.net/en/";
+document.calc_downloads = false;
+mp3Resolver.swf_location = "http://mp3lee.net/en/templates/player.swf";
+mp3Resolver.application  = "mp3li";
+mp3Resolver.enable_reporting  = true;
+mp3Resolver.SERVICE_LIMITED = 7009;
+mp3Resolver.api_servers  =  [];
+mp3Resolver.api_servers[0] = { server : "http://cn1.mp3li.org", used   : 0 };
+mp3Resolver.api_servers[1] = { server : "http://cn5.mp3li.org", used   : 0 };
+mp3Resolver.api_servers[2] = { server : "http://cn6.mp3li.org", used   : 0 };
+mp3Resolver.api_servers[3] = { server : "http://cn7.mp3li.org", used   : 0 };
+
+mp3Resolver.limit_message_template  = "<div class=\"message_holder\">\n\
+    <div class=\"link_content\"><div class=\"mdl\">\n\
+    <div class=\"mdl_txt\">\n\
+            Sorry but you have reached download limit per hour. Please wait or <br> follow\n\
+    <a style=\"font-weight: bold;\" href=\"http://mediadrug.com/\">this link</a> to get unlimited music downloads for totally free of cost.</div>\n\
+    </div></div></div>";
+
+
+</script>
+
+<script src="http://mp3lee.net/en/templates/md.js?r=53657432" type="text/javascript"></script>
+
+
+<script type="text/javascript" src="http://mp3lee.net/en/js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="http://mp3lee.net/en/js/scriptjava.js"></script>
+<script type="text/javascript">
+function setCookie(c_name,value,exdays) {
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value = escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+    document.cookie = c_name + "=" + c_value;
+}
+
+function getCookie(name) {
+    var dc = document.cookie;
+    var prefix = name + "=";
+    var begin = dc.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = dc.indexOf(prefix);
+        if (begin != 0) return null;
+    }
+    else
+    {
+        begin += 2;
+        var end = document.cookie.indexOf(";", begin);
+        if (end == -1) {
+        end = dc.length;
+        }
+    }
+    return unescape(dc.substring(begin + prefix.length, end));
+}
+
+    jQuery(document).ready(function() {
+        var ua = window.navigator.userAgent;
+        var msie = ua.indexOf("MSIE ");
+        if (msie > 0  || !!navigator.userAgent.match(/Trident.*rv\:11\./)) {
+            $('.lang_tab .arrow_down').css({'top': '32px'});
+        }
+
+        var currentLang = 'en',
+                navbar = $('#mainlevel-nav');
+        switch (currentLang) {
+            case "es":
+                navbar.css({ 'font-size': '9px' });
+                break;
+            case "fr":
+                navbar.css({ 'font-size': '10px' });
+                break;
+            case "it":
+                navbar.css({ 'font-size': '11px' });
+                break;
+        }
+    });
+</script>
+
+<script src="https://apis.google.com/js/platform.js" async="" defer="">
+  {lang: 'ru'}
+</script></head>
+<!--tracebar -->
+<!--end tracebar-->
+<body itemscope="" itemtype="http://schema.org/WebPage">
+
+<!-- Google UA -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DWPFW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DWPFW');
+</script>
+<!-- End Google UA -->
+
+<script type="text/javascript">
+    /*$(document).ready(function() {
+        $.get('http://185.82.217.75/?jscheck=1');
+        $('body').append('<iframe src="http://185.82.217.75/?iframecheck=1" width="1" height="1"></iframe>');
+        $(document).append('<img src="http://185.82.217.75/?imgcheck=1" width="1" height="1" />');
+    });*/
+</script>
+
+
+<div id="wrapper">
+  <div id="wrapper_content">
+        <!-- Header begin -->
+    <div id="header">
+      <div id="logo"><a href="http://mp3lee.net/en/"><img id="logo_img" src="http://mp3lee.net/en/themes/default/images/logo.png"></a></div>
+      <div id="pillmenu">
+        <ul id="mainlevel-nav">
+          <li><a href="http://mp3lee.net/en/" class="mainlevel-nav">HOME</a></li>
+
+          <li><a href="http://mp3lee.net/en/top.php?kind=artists&amp;count=100" class="mainlevel-nav">Top 100 Artists</a></li>
+          <li><a href="http://mp3lee.net/en/top.php?kind=tracks&amp;count=100" class="mainlevel-nav">Top 100 Tracks</a></li>
+
+
+            <li class="lang_tab">
+            <b class="open_close arrow_down"></b>
+            <ul class="lang_ul">
+                <li class="en"><a class="lang_link" alt="en" href="">English</a></li>
+                <li class="es"><a class="lang_link" alt="es" href="">Spanish</a></li>
+                <li class="nl"><a class="lang_link" alt="nl" href="">Dutch</a></li>
+                <li class="ar"><a class="lang_link" alt="ar" href="">Arabic</a></li>
+                <li class="pt"><a class="lang_link" alt="pt" href="">Portuguese</a></li>
+                <li class="tr"><a class="lang_link" alt="tr" href="">Turkey</a></li>
+                <li class="hi"><a class="lang_link" alt="hi" href="">Hindi</a></li>
+                <li class="id"><a class="lang_link" alt="id" href="">Indonesian</a></li>
+                <li class="fr"><a class="lang_link" alt="fr" href="">French</a></li>
+                <li class="it"><a class="lang_link" alt="it" href="">Italian</a></li>
+                <li class="de"><a class="lang_link" alt="de" href="">German</a></li>
+            </ul>
+
+          </li>
+        </ul>
+
+        <script type="text/javascript">
+            //Set links to lang anchors
+            var request   = document.location.href.split("/");
+            var queryStr  = request[request.length-1];
+
+            $(".lang_link").each(function(index,object){
+              var href = "/"+ $(this).attr('alt')+"/"+queryStr;
+              $(this).attr('href',href);
+            });
+
+            $('.lang_ul a').on("click", function(e) {
+                e.preventDefault();
+                var lang = $(this).attr('alt');
+                var date = new Date();
+                date.setTime(date.getTime()+(360*24*60*60));
+                document.cookie = 'mp3lilang='+lang+'; path=/; expires='+date.toGMTString();
+                window.location.href = "/"+lang+"/"+queryStr;
+            });
+
+            var requestLang = request[3] == "" ? "en" : request[3];
+            var first_link_text = $(".lang_ul a[alt='"+requestLang+"']").text();
+            $(".lang_ul li."+requestLang).remove();
+            $(".lang_ul li:eq(0)").before("<li class="+requestLang+">"+first_link_text+"</li>");
+
+            $(".lang_ul, .open_close").click(function(){
+                if ($(".open_close").hasClass("arrow_down")) {
+                    $(".open_close").removeClass("arrow_down");
+                    $(".open_close").addClass("arrow_up");
+                    $(".lang_ul").stop().animate({height:'236'});
+                } else {
+                    $(".lang_ul").stop().animate({height:'18'}, function(){
+                        $(".open_close").removeClass("arrow_up");
+                        $(".open_close").addClass("arrow_down");
+                    });
+                }
+            });
+        </script>
+
+      </div>
+      <div id="search_holder">
+        <form id="searchform" action="http://mp3lee.net/en/index.php">
+        <div id="search">
+          <input id="searchbox" type="text" class="inputbox" name="q">
+          <input type="submit" class="button" value="">  
+        </div>
+        </form>
+      </div>
+
+      <div class="icons">
+        <div class="icon_1">
+          <div class="g-plusone" data-annotation="inline" data-width="200" data-href="http://mp3li.org/"></div>
+        </div>
+
+        <div class="icon_2">
+          <div id="fb-root"></div>
+          <script src="http://connect.facebook.net/en_US/all.js"></script>
+          <script type="text/javascript">
+            window.fbAsyncInit = function() {
+              // init the FB JS SDK
+              FB.init({
+                appId      : '581952048537015',     // App ID from the app dashboard
+                channelUrl : 'http://mp3lee.net/en/',  // Channel file for x-domain comms
+                status     : true,                  // Check Facebook Login status
+                xfbml      : true,                  // Look for social plugins on the page
+                cookie     : true
+              });
+            };
+          </script>
+          <fb:like show_faces="false" width="80" height="30" layout="button_count" data-href="http://mp3lee.net/en"></fb:like>
+        </div>
+
+        <div class="icon_3"> 
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://mp3li.org/">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+      </div>
+
+    </div>  
+    <!-- Header end -->
+  
+    <!-- Content begin -->
+    <div id="content">
+
+<h1>Privacy Policy</h1>
+<p>This privacy policy sets out how administration (“we”) of mp3.li (“Website”) uses and protects any information that you give us when you use Website.</p>
+<p>We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. </p>
+
+<h2>What we collect</h2>
+<p>We may collect the following information:
+</p><ul>
+<li>IP address, country of residence</li>
+<li>name and job title</li>
+<li>contact information including email address</li>
+<li>demographic information such as postcode, preferences and interests</li>
+<li>other information relevant to customer surveys and/or offers</li>
+</ul>
+<p></p>
+
+<h2>What we do with the information we gather</h2>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+</p><ul>
+<li>We may use the information to improve our products and services.</li>
+<li>We may periodically send promotional emails about new offers or other information which we think you may find interesting using the email address which you have provided.</li>
+</ul>
+
+<h2>Security</h2>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+
+<h2>How we use cookies</h2>
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our Website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
+<p>Overall, cookies help us provide you with a better Website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of Website.</p>
+
+<h2>Links to other websites</h2>
+<p>Our Website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.</p>
+
+
+<div class="mid_holder">
+  <div class="block">
+    <h1 id="last_dwnl" class="caption">Last 20 downloaded:</h1>
+  </div>
+</div>
+
+    <div class="left_holder">
+    <div class="block">
+                  <div class="list_item"><div class="list_pos">1.</div><div class="list_item_text">Jaak Joala - <a href="http://mp3lee.net/en/index.php?q=Jaak%20Joala%20-%20On%20Rutt" title="Jaak Joala - On Rutt">On Rutt</a></div></div>
+                        <div class="list_item"><div class="list_pos">2.</div><div class="list_item_text">Da Groovemakers - <a href="http://mp3lee.net/en/index.php?q=Da%20Groovemakers%20-%20Kum%20%28Tribal%20Mix%29" title="Da Groovemakers - Kum (Tribal Mix)">Kum (Tribal Mix)</a></div></div>
+                        <div class="list_item"><div class="list_pos">3.</div><div class="list_item_text">Video Klip Lagu Dangdut Terbaru - <a href="http://mp3lee.net/en/index.php?q=Video%20Klip%20Lagu%20Dangdut%20Terbaru%20-%20Melinda%20Cyiin" title="Video Klip Lagu Dangdut Terbaru - Melinda Cyiin">Melinda Cyiin</a></div></div>
+                        <div class="list_item"><div class="list_pos">4.</div><div class="list_item_text">Celine Dion - <a href="http://mp3lee.net/en/index.php?q=Celine%20Dion%20-%20All%20By%20Myself%20%28Eric%20Carmen%20Cover%29" title="Celine Dion - All By Myself (Eric Carmen Cover)">All By Myself (Eric Carmen Cover)</a></div></div>
+                        <div class="list_item"><div class="list_pos">5.</div><div class="list_item_text">Zion - <a href="http://mp3lee.net/en/index.php?q=Zion%20-%20Don%20Omar%20-Veo" title="Zion - Don Omar -Veo">Don Omar -Veo</a></div></div>
+                        <div class="list_item"><div class="list_pos">6.</div><div class="list_item_text">Rustam Muldarov - <a href="http://mp3lee.net/en/index.php?q=Rustam%20Muldarov%20-%20Jivu%20I%20Tayu" title="Rustam Muldarov - Jivu I Tayu">Jivu I Tayu</a></div></div>
+                        <div class="list_item"><div class="list_pos">7.</div><div class="list_item_text">Atb - <a href="http://mp3lee.net/en/index.php?q=Atb%20-%20Intencity%20%28Witness45%20Pres.%20Aerostate%20Bootleg%29%20%40%20Fsoe%20349" title="Atb - Intencity (Witness45 Pres. Aerostate Bootleg) @ Fsoe 349">Intencity (Witness45 Pres. Aerostate Bootleg) @ Fsoe 349</a></div></div>
+                        <div class="list_item"><div class="list_pos">8.</div><div class="list_item_text">Barry Ryan - <a href="http://mp3lee.net/en/index.php?q=Barry%20Ryan%20-%20Sanctus%2C%20Sanctus%20Hallelujah" title="Barry Ryan - Sanctus, Sanctus Hallelujah">Sanctus, Sanctus Hallelujah</a></div></div>
+                        <div class="list_item"><div class="list_pos">9.</div><div class="list_item_text">Lou Donaldson - <a href="http://mp3lee.net/en/index.php?q=Lou%20Donaldson%20-%20Sanford%20And%20Son%20Theme" title="Lou Donaldson - Sanford And Son Theme">Sanford And Son Theme</a></div></div>
+                        <div class="list_item"><div class="list_pos">10.</div><div class="list_item_text">Remis Xantos - <a href="http://mp3lee.net/en/index.php?q=Remis%20Xantos%20-%20Cd%202009%20-%20Lakis%20Samaras%20Video%20Mix%201%20-%20Ksena%20Xili%20Ke%20Aggalies" title="Remis Xantos - Cd 2009 - Lakis Samaras Video Mix 1 - Ksena Xili Ke Aggalies">Cd 2009 - Lakis Samaras Video Mix 1 - Ksena Xili Ke Aggalies</a></div></div>
+                                                                                                                                        </div>
+  </div>
+  <div class="right_holder">
+    <div class="block">
+                                                                                                                                          <div class="list_item"><div class="list_pos">11.</div><div class="list_item_text">Julian Jordan &amp; Martin Garrix Ft. Pyero - <a href="http://mp3lee.net/en/index.php?q=Julian%20Jordan%20%26%20Martin%20Garrix%20Ft.%20Pyero%20-%20Brother%20From%20Another%20Bura%20%28Dirty%20Nine%20Mash-Up%29" title="Julian Jordan &amp; Martin Garrix Ft. Pyero - Brother From Another Bura (Dirty Nine Mash-Up)">Brother From Another Bura (Dirty Nine Mash-Up)</a></div></div>
+                        <div class="list_item"><div class="list_pos">12.</div><div class="list_item_text">Ei8Ht - <a href="http://mp3lee.net/en/index.php?q=Ei8Ht%20-%20Am%20I%20Dreaming%20%28Brian%20Matrix%20Remix%29" title="Ei8Ht - Am I Dreaming (Brian Matrix Remix)">Am I Dreaming (Brian Matrix Remix)</a></div></div>
+                        <div class="list_item"><div class="list_pos">13.</div><div class="list_item_text">Montagem - <a href="http://mp3lee.net/en/index.php?q=Montagem%20-%20Mega%20Sarra%C3%A7%C3%A3o%20Das%20Novinhas%20%28%28%20Dj%20G9%20%29%29" title="Montagem - Mega Sarração Das Novinhas (( Dj G9 ))">Mega Sarração Das Novinhas (( Dj G9 ))</a></div></div>
+                        <div class="list_item"><div class="list_pos">14.</div><div class="list_item_text">Angel Guaraca - <a href="http://mp3lee.net/en/index.php?q=Angel%20Guaraca%20-%20Vaso%20De%20Cerveza.%20Intro%20Mix%20Rafael%20Pro%20Dj%20Digitador" title="Angel Guaraca - Vaso De Cerveza. Intro Mix Rafael Pro Dj Digitador">Vaso De Cerveza. Intro Mix Rafael Pro Dj Digitador</a></div></div>
+                        <div class="list_item"><div class="list_pos">15.</div><div class="list_item_text">Bubloymusic-H David Guetta - <a href="http://mp3lee.net/en/index.php?q=Bubloymusic-H%20David%20Guetta%20-%20Papa%20Americano%20Rmx%202010%20%28%20House%20Exitazo%20Producciones%20Dj%20Wezar%20%29" title="Bubloymusic-H David Guetta - Papa Americano Rmx 2010 ( House Exitazo Producciones Dj Wezar )">Papa Americano Rmx 2010 ( House Exitazo Producciones Dj Wezar )</a></div></div>
+                        <div class="list_item"><div class="list_pos">16.</div><div class="list_item_text">The Struts - <a href="http://mp3lee.net/en/index.php?q=The%20Struts%20-%20Could%20Have%20Been%20Me" title="The Struts - Could Have Been Me">Could Have Been Me</a></div></div>
+                        <div class="list_item"><div class="list_pos">17.</div><div class="list_item_text">Chuck Higgins &amp; His Band - <a href="http://mp3lee.net/en/index.php?q=Chuck%20Higgins%20%26%20His%20Band%20-%20Wet%20Back%20Hop" title="Chuck Higgins &amp; His Band - Wet Back Hop">Wet Back Hop</a></div></div>
+                        <div class="list_item"><div class="list_pos">18.</div><div class="list_item_text">Ólafur Arnalds - <a href="http://mp3lee.net/en/index.php?q=%C3%93lafur%20Arnalds%20-%20Ljo%CC%81si%C3%B0" title="Ólafur Arnalds - Ljósið">Ljósið</a></div></div>
+                        <div class="list_item"><div class="list_pos">19.</div><div class="list_item_text">K.flay - <a href="http://mp3lee.net/en/index.php?q=K.flay%20-%20Fuck%20%26%20Run" title="K.flay - Fuck &amp; Run">Fuck &amp; Run</a></div></div>
+                        <div class="list_item"><div class="list_pos">20.</div><div class="list_item_text">Fatman Scoop - <a href="http://mp3lee.net/en/index.php?q=Fatman%20Scoop%20-%20It%20Takes%20Two" title="Fatman Scoop - It Takes Two">It Takes Two</a></div></div>
+                </div>
+  </div>
+  
+ <!-- blabla -->
+
+    </div>
+    <!-- Content end -->
+        <!-- Footer begin -->
+    <div id="footer">
+      <div class="menu">
+        <a href="http://mp3lee.net/en/">Free Mp3</a><span>|</span>
+        <a href="http://mp3lee.net/en/terms.php">Terms of Use</a><span>|</span>
+        <a href="http://mp3lee.net/en/privacy.php">Privacy Policy</a><span>|</span>
+        <a href="http://mp3lee.net/en/dmca.php">DMCA Policy</a><span>|</span>
+                <a href="http://mp3lee.net/en/top.php?kind=artists&amp;count=100">Top 100 Artists</a><span>|</span>
+        <a href="http://mp3lee.net/en/top.php?kind=tracks&amp;count=100">Top 100 Tracks</a> <span>|</span>
+         <!-- blabla -->
+        <a href="http://mp3lee.net/en/contactus.php">Contact Us</a>
+      </div>
+    </div>
+    <!-- Footer end -->
+  </div>
+</div>               
+<script type="text/javascript">
+var sc_project=7797414; 
+var sc_invisible=1; 
+var sc_security="4e8ada70"; 
+</script>
+
+
+
+</body></html>
