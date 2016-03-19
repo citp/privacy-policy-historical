@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elitesingles.co.za privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214181533id_/http%3A//www.elitesingles.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.co.za privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319114458id_/https%3A//www.elitesingles.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ELITESINGLES
 
-**_Privacy Policy_** **_*(Last updated on 15 April 2014)_**
+**_Privacy Policy_** **_*(Last updated on 29 January 2016)_**
 
 To find a suitable partner for you requires collecting personal information to process and use. As a reputable dating service we at ELITESINGLES place a great emphasis on the responsible use and protection of your personal information against loss and unauthorized access. Therefore, we have established a comprehensive system of technical and organisational measures that help provide maximum personal information security:
 
@@ -137,7 +137,7 @@ Our personality test follows after registration. First, we ask for the following
 
 
 
-During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members.
+During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data, which is subject to increased legal protection and protected by us with increased technological care. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members.
 
 (bb) If you purchase an ELITESINGLES Paid Membership, the following personal
 
@@ -152,6 +152,8 @@ information is collected during the payment process:
   * Home address
 
 
+
+Your payment data is processed by our payment service provider Adyen GmbH, Hackescher Markt 4, 10178 Berlin, Germany ("Adyen"). To facilitate payment processing your payment information is stored and made available when making further orders of premium memberships. The payment data is available only after the initial payment is completed, and is shown shortened for your protection. Of course you can add new payment methods for checkout. For questions or concerns, and to enforce the Clause 5 rights listed, please call the number below Clause 5. The provided EliteSingles contact information.
 
 (cc) To log in on ELITESINGLES you use your specified e-mail address and your
 
@@ -174,7 +176,7 @@ chosen password. During every visit to the ELITESINGLES service, utilisation inf
 
 
 
-These information will be evaluated anonymously by us for statistical purposes.
+These information will be evaluated anonymously by us for statistical purposes. We hereby notify you that we carry out statistical analysis on opening and viewing behaviour of our emails. This is done with the help of small graphics that are embedded in the messages (called pixels). If you do not wish to have your viewing behaviour analyzed, you can disable graphics by default in your email client. For more information, please see instructions offered in your email client, i.e. Microsoft Outlook or Mozilla Thunderbird. Once images are deactivated, the messages are not displayed in full, and message functionality may be limited.
 
 (dd) The use of personal information for the provision of the ELITESINGLES
 
@@ -246,11 +248,11 @@ ELITESINGLES uses session cookies, partner and affiliate cookies and permanent c
 
 **(e) Use of Analysis Programs and Remarketing**
 
-ELITESINGLES analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc. ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
+ELITESINGLES analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
 
 The information generated by the cookie about your use of the website (including your IP address) will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing others with website and internet related services. Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of this website in this case. By using this site, you agree to the processing of data about you by Google in the manner described above and for the aforementioned purpose.
 
-You can object to the collection and analysis of your use of the Service (Google) Universal Analytics. Please use the browser add-on to disable (Google) Universal Analytics.
+You can object to the collection and analysis of your use of the Service Google Universal Analytics. Please use the browser add-on to disable Google Universal Analytics.
 
 For more information on Terms of Use and Privacy Policy can be found at:
 
