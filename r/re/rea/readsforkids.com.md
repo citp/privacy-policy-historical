@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readsforkids.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214025140id_/https%3A//readsforkids.com/index.php%3Fukey%3Dauxpage_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readsforkids.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319043544id_/http%3A//readsforkids.com/index.php%3Fukey%3Dauxpage_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ― Read for Kids Online Book Store
 
