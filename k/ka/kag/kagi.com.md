@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kagi.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223093018id_/http%3A//shop.kagi.com/help/47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kagi.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319070921id_/http%3A//shop.kagi.com/help/47) for the most accurate reproduction.*
 
 # Kagi Marketplace: Index
 
