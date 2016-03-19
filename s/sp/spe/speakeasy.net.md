@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakeasy.net privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709221850id_/http%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakeasy.net privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319102512id_/https%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
 
 # 
 
