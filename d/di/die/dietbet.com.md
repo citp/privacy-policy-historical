@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietbet.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409001326id_/http%3A//www.dietbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietbet.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319093123id_/https%3A//www.dietbet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DietBet
 
@@ -32,7 +32,7 @@ Use of information by DietBet. DietBet uses your information to contact you abou
 ### Email Communications
 
   1. We will send you welcome emails after you have registered with DietBet based upon the personally identifiable information that you provide us. DietBet also sends out emails to respond to your inquiries and sometimes to your message board posts, to manage your account, and to facilitate the actions described above in the "Information You Provide to Us" section. You may receive notification emails from DietBet, which inform you of actions performed on the site (e.g., activity posts and notifications). Unless you opt out, we also send motivational newsletters and messages to people playing in our games (e.g., our Daily Carrot newsletter, coaching messages). 
-  2. If you do not want to receive email from us, email [unsubscribe@dietbetter.com](mailto:unsubscribe@dietbetter.com) from the email address you want to take off our lists. However, please note that in all cases you will continue to receive certain system emails (e.g. regarding forgotten user passwords or related to success and failure in on-going games you have engaged in) and legal notices (e.g. updates to our policies) from us. If you wish to stop receiving these emails you may deactivate or suspend your account. 
+  2. If you do not want to receive email from us, email [unsubscribe@dietbet.com](mailto:unsubscribe@dietbet.com) from the email address you want to take off our lists. However, please note that in all cases you will continue to receive certain system emails (e.g. regarding forgotten user passwords or related to success and failure in on-going games you have engaged in) and legal notices (e.g. updates to our policies) from us. If you wish to stop receiving these emails you may deactivate or suspend your account. 
   3. If you have provided us information to invite a third party, we will automatically send that third party email inviting him or her to visit the site. Your friend may contact us or click through the link on the bottom of the email to request that we remove their information from our database. 
 
 
@@ -76,7 +76,7 @@ DietBet enables people to discover and share information with one another, and i
 
   1. You can always opt not to disclose information, but then you may be unable to use certain features on our website. 
   2. By visiting your User Profile, you can correct, amend, add, or delete personally identifiable information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records as part of our normal back-up procedures and so that we can comply with any future requests for such information in conjunction with future legal proceedings. 
-  3. If you wish to remain a user of DietBet, but do not wish to receive certain email from us or other DietBet users, please email [unsubscribe@dietbetter.com](mailto:unsubscribe@dietbetter.com). However, please note that you will continue to receive all system emails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
+  3. If you wish to remain a user of DietBet, but do not wish to receive certain email from us or other DietBet users, please email [unsubscribe@dietbet.com](mailto:unsubscribe@dietbet.com). However, please note that you will continue to receive all system emails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
   4. You may request access to any Personal Information that we have collected that is not available on your User Profile page so that you may correct any inaccuracies or request deletion of that information; we will respond to your request within 15 business days. 
   5. You may also request deletion of your DietBet account by contacting us. We will respond to requests within 15 business days. 
 
