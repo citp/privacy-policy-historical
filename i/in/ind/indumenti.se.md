@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217210217id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319030612id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Swedish Mens Shirts and Suits At indumenti
 
