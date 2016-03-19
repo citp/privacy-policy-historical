@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcompressor.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815000448id_/http%3A//htmlcompressor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcompressor.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319093806id_/http%3A//htmlcompressor.com/privacy) for the most accurate reproduction.*
 
 # HTML Compressor - Privacy.
 
