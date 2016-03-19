@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnybodycare.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205132457id_/http%3A//skinnybodycare.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnybodycare.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319075916id_/http%3A//www.skinnybodycare.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # SkinnyBodyCare :: Privacy Policy
 
