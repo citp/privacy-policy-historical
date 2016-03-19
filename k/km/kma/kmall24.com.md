@@ -1,33 +1,58 @@
-> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430054051id_/http%3A//www.kmall24.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319203219id_/http%3A//www.kmall24.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# privacy-policy
 
-' **Kmall24**  ' (hereinafter referred to as the 'Company' takes care of the personal information of our customers and complies with the Law related to the ‘Stimulation of Use of Information and Communication Network & Information Protection”. The Company notifies our customers how the personal information provided by them in terms of the purpose and the way of use, and which measures are taken for the protection of the personal information through our Privacy Policy. In the event of any modification on the Privacy Policy, the Company will announce it through the notice on our Website (or individual notification).
+This privacy policy sets out how Kmall24 uses and protects any information that you give Kmall24 when you use this website. Kmall24 is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement and the site Terms and Conditions. Kmall24 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-\- This Policy shall be implemented from June 30, 2008.
+## WHAT WE COLLECT
 
-■ **Personal Information To Be Collected**
+We may obtain personal information about you from various sources, including this and other Kmall24 websites, mobile applications, when you email us or communicate with us through social media, or when you participate in events or other promotions. 
 
-The Company collects the following personal information for membership, consultation, application for service, et cetera.
+  * Contact information (including name and email address)
+  * Shipping information (including the shipping address and phone number)
+  * Information you provide by interacting with us through social media, including photographs
+  * Payment details (including payment card number, security code, expiration date, cardholder name and billing address)
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
-\- Items: Name, Date of Birth, Log-in ID, Password, Q&A for Password, Home Number, Home Address, Mobile Phone Number, Email, Credit Card Information, Bank Account Information, Service Use History, Access Log, Cookie, Access IP Information, Payment Record
 
-\- Method of Collection of Personal Information: Website (Membership Subscription)
 
-■ **Purpose of Collection & Use of Personal Information**
+## WHAT WE DO WITH THE INFORMATION WE GATHER
 
-The Company makes use of the personal information collected for the following purposes.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-\- Implementation of contract for the provision of services and provision of contents for fees calculation in accordance with the provision of services, purchase and payment, goods delivery or sending to destinations, identification for financial transactions and other financial services, collection of fees
+  * Process a transaction.
+  * Provide products or services you request.
+  * Improve our website and stores
+  * Marketing and promotional purposes.
+  * Enhance your shopping experience and so on.
 
-\- Identification in accordance with the use of membership services, personal identification, prevention of abuse of bad users and unauthorized use, confirmation of intent of membership subscription, age confirmation, complaints management, notification
 
-■ **Period of Possession & Use of Personal Information**
 
-As a rule, the personal information collected shall be destroyed without any delay once the purpose of its use is achieved. Notwithstanding the foregoing, the following information shall be preserved for the period with the cause mentioned below.
+We may share your information within KITA and third parties with whom we have a relationship for better customer services  
+(ex. Logistics, Payment, etc.) 
 
-- Items for Preservation: Name, Log-in ID, Password, Q&A for Password, Home Number, Home Address, Mobile Phone Number, Email
+## SECURITY
 
-- Cause of Preservation: Internal policy of the Company
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-- Period of Preservation: By the time of withdrawal of membership
+## HOW WE USE COOKIES
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+## CONTROLLING YOUR PERSONAL INFORMATION
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at privacy@kmall24.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
