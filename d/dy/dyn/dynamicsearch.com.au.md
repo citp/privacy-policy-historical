@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicsearch.com.au privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920085730id_/http%3A//dynamicsearch.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicsearch.com.au privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319153936id_/http%3A//dynamicsearch.com.au/privacypolicy) for the most accurate reproduction.*
 
 # » Privacy Policy - Australian Local Business Directory
 
