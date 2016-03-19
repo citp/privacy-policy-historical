@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethemefoundry.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062701id_/https%3A//thethemefoundry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethemefoundry.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320005359id_/https%3A//thethemefoundry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — The Theme Foundry
 
