@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913110110id_/http%3A//www.guardian.com/AboutGuardian/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319014603id_/http%3A//www.guardian.com/AboutGuardian/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Guardian Industries
 
