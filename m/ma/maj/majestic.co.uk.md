@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906063757id_/https%3A//www.majestic.co.uk/information/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319124759id_/https%3A//www.majestic.co.uk/information/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Information - Majestic Wine
 
@@ -54,44 +54,47 @@ You can change the settings in your web browser to allow or deny different websi
 
 'Session' cookies are temporary and are deleted when you close your web browser.
 
-Cookie name| Privacy Rating| Cookie details  
+Cookie name | Privacy Rating | Cookie details  
 ---|---|---  
 33cms_session  
 33cms_csrf_cookie_name  
 HBR_SITE_SESSID  
 hidden  
 PHPSESSID | Strictly Necessary | These cookies are used only by our Careers website ([careers.majestic.co.uk](http://careers.majestic.co.uk/)) to store essential information for tracking your job applications.  
-sid | Strictly Necessary | Used to store essential information for tracking your shopping trolley and distributing requests across our various web servers.  
+AODSESSION  
+X-Mapping-gbooldlg | Strictly Necessary | Used to store essential information for tracking your shopping trolley and distributing requests across our various web servers.  
 s_cc  
 s_sq  
 s_evar8 | Performance | These cookies are used by Adobe SiteCatalyst, which is software we use to track the performance of our website by measuring such things as how many visitors we receive, whether they have responded to some of our advertising, which pages are most requested, and which products are purchased. We use this data to identify issues and improve our website. No personally identifiable information is included. The data generated is only available to selected Majestic and Adobe staff.  
 __utmc | Performance | This cookies is used by Google Analytics, which is software we use to track the performance of our website by measuring such things as how many visitors we receive, whether they have responded to some of our advertising, which pages are most requested, and which products are purchased. We use this data to identify issues and improve our website. No personally identifiable information is included. The data generated is only available to selected Majestic and Google staff.  
+chosen-view | Functionality | Used to remember your preferred type of display for product listings (list or grid).  
+popover | Functionality | Used to remember if we have shown you a 'popover' message during this visit to the website.  
+maj-bstrip-closed | Functionality | Used to remember if we have shown you a message asking where you would like delivery or collection.  
   
 #### Majestic.co.uk persistent cookies
 
 'Persistent' cookies are not deleted when you close your web browser; they are saved and used across multiple browsing sessions.
 
-Cookie name| Privacy Rating| Cookie details  
+Cookie name | Privacy Rating | Cookie details  
 ---|---|---  
 33cms_csrf_cookie_name | Strictly Necessary | This cookie is used only by our Careers website ([careers.majestic.co.uk](http://careers.majestic.co.uk/)) to provide security to protect us against hacking attacks.  
 cookie-check | Strictly Necessary | This cookie is used to remember that you have confirmed our warning about the use of cookies.  
 gpv_p10  
 s_vi | Performance | These cookies are used by Adobe SiteCatalyst, which is software we use to track the performance of our website by measuring such things as how many visitors we receive, whether they have responded to some of our advertising, which pages are most requested, and which products are purchased. We use this data to identify issues and improve our website. No personally identifiable information is included. The data generated is only available to selected Majestic and Adobe staff.  
-predictiveintent-ips | Performance | This cookie is used by Predictive Intent, which is software we use to display recommended alternative products on our product pages and the trolley page. No personally identifiable information is included. The data generated is only available to selected Majestic and Predictive Intent staff.  
+mbox | Performance | This cookie is used by Adobe Recommendations, which is software we use to display recommended alternative products on our product pages and the trolley page. No personally identifiable information is included. The data generated is only available to selected Majestic and Adobe staff.  
 __utma  
 __utmb  
 __utmz | Performance | These cookies are used by Google Analytics, which is software we use to track the performance of our website by measuring such things as how many visitors we receive, whether they have responded to some of our advertising, which pages are most requested, and which products are purchased. We use this data to identify issues and improve our website. No personally identifiable information is included. The data generated is only available to selected Majestic and Google staff.  
-prefS | Functionality | Used to store some information we use to personalise your experience each time you visit our site, such as your local store.  
-custID | Functionality | Used to remember your customer ID once you're logged in.  
+maj-welcomed | Functionality | Used to record that certain events have occurred, such as the fact that we have shown you our "New to Majestic?" content, so that we can tailor the content we show you accordingly.  
+MSID | Functionality | Used to store some information we use to personalise your experience each time you visit our site, such as your local store.  
   
 #### Third-party cookies
 
 As you browse our website, we sometimes include content that comes from websites other than Majestic. For example, the Facebook 'Like' button is displayed by Facebook's servers, not Majestic's. On these occasions, that website may read or set their own cookies on your browser. We are working to reduce the amount of third-party cookies set as you browse our website to a minimum.
 
-Third-party site| Privacy Rating| Details  
+Third-party site | Privacy Rating | Details  
 ---|---|---  
 datacash.com | Strictly necessary | The payment form on our checkout is hosted by our payment service provider, DataCash. This avoids the need for us to capture your card details and submit them separately to DataCash, improving the security of your online shopping. The JSESSIONID cookie that is set during this process is used solely to ensure that if the form has to re-display (such as when there is an error in your payment details) DataCash can identify your browsing session, and is deleted when you close your web browser. Your card details are never stored in the cookie.  
-intershop.com | Strictly necessary | Our website uses a content management system provided by our web hosts. Some content is served directly from this system, and a cookie may be set to help distribute requests across their various servers.  
 awin1.com | Targeting | Affiliate Window are an affiliate network. Affiliates display advertising for companies and are rewarded when customers visit or shop on the advertiser's website. Our order confirmation page notifies Affiliate Window of transactions so that they can determine whether the order should be credited to a particular affiliate. No personally identifiable information is stored in the cookie. Affiliate Window have their own [privacy policy](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf).  
 bizrate.com | Targeting | Bizrate is owned by Yahoo! Our order confirmation page notifies BizRate of transactions so that we can track the effectiveness of our advertising on the Yahoo! search marketing network. Yahoo! Search Marketing has its own [privacy policy](http://info.yahoo.com/privacy/uk/yahoo/searchmarketing/details.html).  
 doubleclick.net | Targeting | DoubleClick is owned by Google. Our order confirmation page also notifies Google of transactions so that we can monitor the effectiveness of our advertising on Google. Google has its own [privacy policy](http://www.google.co.uk/intl/en-GB/policies/).  
@@ -108,6 +111,10 @@ wordpress.com | Targeting | Our blog at [blog.majestic.co.uk](http://www.blog.ma
 yahoo.com | Targeting | Our order confirmation page notifies Yahoo! of transactions so that we can monitor the effectiveness of our advertising on the Yahoo! search marketing network. Yahoo! Search Marketing has its own [privacy policy](http://info.yahoo.com/privacy/uk/yahoo/searchmarketing/details.html).  
 youtube.com  
 ytimg.com | Targeting | We may embed videos into our website from YouTube. By using cookies YouTube is able to detect if you are a logged-in YouTube user. YouTube is owned by Google and is covered by Google's [privacy policy](http://www.google.co.uk/intl/en-GB/policies/).  
+Fast Thinking  
+| Targeting | Fast Thinking delivers more relevant advertising experiences by retargeting website visitors with different adverts according to the content viewed or the products bought. No personally identifiable data is stored by Fast Thinking  
+Digilant  
+| Targeting | Fast Thinking use an advertising buying platform called Digilant in order to retarget advertising to visitors to our website. No personally identifiable data is stored by Digilant  
   
 ### Email Tracking
 
