@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themillionaireinpjs.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911050300id_/http%3A//themillionaireinpjs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionaireinpjs.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319224505id_/http%3A//www.themillionaireinpjs.com/privacy-policy) for the most accurate reproduction.*
 
 # TheMillionaireInPJs
 
