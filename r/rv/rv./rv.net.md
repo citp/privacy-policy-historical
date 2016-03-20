@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905230535id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320104900id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.Net : Privacy Policy
 
@@ -11,8 +11,6 @@ PO Box 6888
 Englewood, CO 80155-6888  
 800-234-3450  
 [info@goodsamfamily.com](mailto:info@goodsamfamily.com)
-
-## Privacy Policy Contents
 
 ### Types of information we collect and how we collect it
 
