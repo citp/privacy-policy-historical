@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119090054id_/http%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320060218id_/http%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The New Daily
 
@@ -8,7 +8,7 @@ The privacy of your personal information is afforded the highest level of import
 
 We uphold the principles of the Privacy Act 1988 (Cth) (Act) regarding the manner in which we handle your personal information and how we respond to your requests to access and correct it. While we take careful measures to protect the confidentiality of information provided to us, we have adopted this Privacy Policy to reflect the intentions of the Act. This document sets out our information handling procedures and the rights and obligations that both you and we have in relation to your personal information. We will uphold all relevant legislative requirements. However, in the event of any inconsistency, the legislative requirements will override the provisions of this document.
 
-This document reflects our Privacy Policy as at March 2014. We reserve the right to amend our Privacy Policy at any time without notice to you. The date of this Privacy Policy will inform you as to whether there have been updates since your last visit.
+This document reflects our Privacy Policy as at March 2016. We reserve the right to amend our Privacy Policy at any time without notice to you. The date of this Privacy Policy will inform you as to whether there have been updates since your last visit.
 
 **Collection of Information**
 
