@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornbunny.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218005955id_/http%3A//hornbunny.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornbunny.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320204447id_/http%3A//hornbunny.com/privacy.php) for the most accurate reproduction.*
 
 # Terms Of Service at HornBunny - Watch free porn videos
 
