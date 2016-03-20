@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksfree4u.tk privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120002318id_/http%3A//booksfree4u.tk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksfree4u.tk privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320180606id_/http%3A//booksfree4u.tk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UFES
 
@@ -134,8 +134,4 @@ and we will promptly remove you from ALL correspondence.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 **Universal Free E-Book Store**  
-Kadapa  
-Andhra Pradesh  
-PIN: 516001  
-India  
 admin@booksfree4u.tk
