@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photobiz.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210170207id_/http%3A//www.photobiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobiz.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320205845id_/http%3A//www.photobiz.com/privacy) for the most accurate reproduction.*
 
-# Get Online With Website Templates for Creatives | PhotoBiz.com
+# Privacy Policy | PhotoBiz
 
 PhotoBiz® Privacy Policy   
 Effective June 3, 2014
