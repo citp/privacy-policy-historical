@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleroptions.com privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713095630id_/http%3A//www.simpleroptions.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleroptions.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320135556id_/http%3A//www.simpleroptions.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
