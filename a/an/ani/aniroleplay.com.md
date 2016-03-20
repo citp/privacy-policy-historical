@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aniroleplay.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124501id_/http%3A//www.aniroleplay.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aniroleplay.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320113412id_/http%3A//www.aniroleplay.com/privacy_policy.php) for the most accurate reproduction.*
 
 # AniRoleplay.com | A Social Network for Anime Roleplayers
 
