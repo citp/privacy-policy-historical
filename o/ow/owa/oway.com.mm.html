@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oway.com.mm privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208055410id_/http%3A//oway.com.mm/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oway.com.mm privacy policy that was archived on 2016-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160321004807id_/http%3A//oway.com.mm/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta content="IE=10.000" http-equiv="X-UA-Compatible">
@@ -81,8 +81,9 @@
         }).done(function() {
             location.reload();
         })
-    })
-    $('.selectnationsality a').click(function() {      
+    });
+    
+/*    $('.selectnationsality a').click(function() {
         var val = "ntid="+$(this).attr('rel');
         
           $.ajax({
@@ -98,8 +99,14 @@
             location.reload();
         })
     });
+*/
+
     $('.selectlanguage a').click(function() {
-        var val = "ntid="+$(this).attr('rel');
+        var string = $(this).attr('rel');
+        var arr = string.split(',');
+        //alert(arr[0]);
+        //alert(arr[1]);
+        var val = "langid="+arr[0]+"&ntid="+arr[1];
           $.ajax({
                 type:'POST',                    
                 url: location.protocol + "//" + location.host + '/includes/update-language.php',
@@ -168,7 +175,50 @@ $(".myfooterlinks li a").click(function (){
 
     });
 </script>
+
+<style>
+.dropbtn,.dropbtn2 {
+    background-color: #fff;
+    color: #000;
+    padding:0 20px 0 0;
+    border: none;
+    cursor: pointer;
+    background:url(/images/down-btn.png)no-repeat center right;
+}
+
+.dropbtn:hover, .dropbtn:focus,.dropbtn2:hover, .dropbtn2:focus {
+    background-color: #fff;
+}
+
+.dropdown,.dropdown2 {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content,.dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin-top: 15px;
+}
+
+.dropdown-content a,.dropdown-content2 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover ,.dropdown2 a:hover {background-color: #f1f1f1}
+
+.show ,.show2{display:block;}
+</style>
 <script type="text/javascript">
+
 $(document).ready(function () {
     $('.menu ul li a').click(function (ev) {
         $('.menu ul li a').removeClass('active2');
@@ -185,68 +235,104 @@ $(document).ready(function () {
 					 <h1 class="logo navbar-brand">
                         <a href="/" title="Oway - home">                            
                             <img alt="Book Online Myanmar (Burma) Hotels, Flights, Buses, Car Rentals, Tours &amp; Visa | Oway Privacy Notice" src="http://oway.com.mm/images/logo.jpg">
-                                    </a>
+                        </a>
                     </h1>
 				</div>
 				<div class="top_info" style="margin-top:-35px;">
-					 <a rel="nofollow" href="mailto:support@owaytrip.com"> <img alt="Oway Contact Support Email" src="http://oway.com.mm/images/mail-icon.jpg" width="16px" style="float: left; margin-right: 5px; margin-top: -2px;"> support@owaytrip.com	</a><b>|</b>
+					 <a rel="nofollow" href="mailto:support@owaytrip.com"> <img alt="Oway Contact Support Email" src="http://oway.com.mm/images/mail-icon.jpg" width="16px" style=" margin-top: -5px;float:left;"> support@owaytrip.com	</a><b>|</b>
 						 <div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
 								<span class="tel"><img alt="Oway Contact Phone Number" src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;"> Call (+95)01 230 4201<i class="triangle_down"></i></span>
 								<ul class="tel_show top_sel_list">
-									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95)01 230 4201 </a></li>
-									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95)01 230 4202 </a></li>
+									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95) 9 450 450 601</a></li>
+									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95) 9 450 450 602</a></li>
+									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95) 1 505 970</a></li>
+									<li><a href="javascript:void(0)" rel="nofollow" rate="1.000000000" divtype="" currency="MMD"><img src="http://oway.com.mm/images/ph-icon.jpg" style=" margin-top: -5px;float:left;">(+95) 1 230 4201</a></li>
                             </ul>
 						</div><b>|</b>
 							<a rel="nofollow" href="/faq">FAQs</a><b>|</b>
-						 <div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
-                    <span class="tel">US Dollars<i class="triangle_down"></i></span>
-                    <ul class="tel_show top_sel_list setcurrency">
-                        <li><a rel="4" href="javascript:void(0)" rate="1.000000000" divtype="" currency="MMK">MMK - Myanmar</a></li>
-                        <li><a rel="1" href="javascript:void(0)" rate="6.208700000" divtype="" currency="USD">USD - United States Dollar</a></li>
-</ul>
-        </div>
-							<b>|</b>
-						<div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
-								  <span class="tel">Language : <i class="icon ico_en"></i> English<i class="triangle_down"></i></span>
-								<ul class="tel_show top_sel_list selectlanguage">
-									<li><a rel="en" href="javascript:void(0)"><i class="icon ico_en"></i> English</a></li>                                                                        
-									<li><a rel="my" href="javascript:void(0)"><i class="icon ico_es"></i> Myanmar</a></li>                                                                        
-								</ul>
-      </div>
-							<b>|</b>
-						<div class="fare t_tel_box"><div onmouseout="this.className='t_tel_box'" onmouseover="this.className='t_tel_box tel_open'" class="t_tel_box">
-        <span class="tel">International Fare<i class="triangle_down"></i></span>
-								 <ul class="tel_show top_sel_list selectnationsality">
-                        <li><a rel="ntl" href="javascript:void(0)" rate="1.000000000" divtype="" currency="CNY">Local Fare </a></li>
-                        <li><a rel="ntf" href="javascript:void(0)" rate="6.208700000" divtype="" currency="USD">International Fare</a></li>                                                                                                                                
-								</ul>
-    </div></div>
-  </div>
-</div>
-                            </div>
+						 <!-- Htoo Language & Currency Dropdown Update Starts -->
+						<div class="dropdown">
+							<img src="/images/en-icon.jpg" onclick="myFunction()" class="dropbtn">
+							  <div id="myDropdown" class="dropdown-content selectlanguage">
+								<a rel="en,ntf" href="javascript:void(0)" title="Change to English Language for International Clients"><i class="icon ico_en"></i> English</a>
+								<a rel="my,ntl" href="javascript:void(0)" title="Change to Myanmar Language for Local Clients"><i class="icon ico_es"></i> Myanmar</a>
+							   
+							  </div>
+							</div>
+						<b>|</b>
+						<div class="dropdown">
+							<div onclick="usdFunction()" class="dropbtn2">US Dollars</div>
+							  <div id="myDropdown2" class="dropdown-content2 setcurrency">
+							   <a rel="4" href="javascript:void(0)" rate="1.000000000" currency="MMK" title="Change to Myanmar Kyat">MMK - Myanmar</a>
+							   <a rel="1" href="javascript:void(0)" rate="6.208700000" currency="USD" title="Change to US Dollar">USD - United States Dollar</a>
+							  </div>
+							</div>
+						<!-- Htoo Language & Currency Dropdown Update Ends -->
+						
+				</div>
+         </div>
+            </div>
 			<div class="main-header">
 				<a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">Mobile Menu Toggle</a>
 				<div class="container">
 				<div class="menu">					<ul>
 						<li><a href="/" class="">Hotels</a></li>
 						<li><a href="/#flight" class="">Flights</a></li>
+                    	<li><a href="/#car" class="">Car Rental</a></li>
 						<li><a href="/#bus" class="">Express Bus</a></li>
 						<li><a href="/#tour" class="">Featured Tours</a></li>
 						<li><a href="/#visa" class="">Visa</a></li>
-                </ul>
+					</ul>
 					<div class="login-box">
 						<div>
 							<a href="#" class="acc-img"><img alt="Oway Member Icon" src="http://oway.com.mm/images/login.jpg"></a>
 							<div class="account">
-                    
+								
 							<div class="register" style="margin-top: 10px;"><a style="padding:0 5px;" href="/sign-in">Login </a> | <a style="padding:0 5px;" href="/register">Register</a></div>
-                            </div>
-    </div>
+															</div>	
+						</div>
 					</div>
 				</div>    
         </div>
 		</div>
-</header>
+	</header>
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+function usdFunction() {
+    document.getElementById("myDropdown2").classList.toggle("show2");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+
+   if (!event.target.matches('.dropbtn2')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content2");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show2')) {
+        openDropdown.classList.remove('show2');
+      }
+    }
+  }
+}
+</script>
         <!--HEader Ends Here-->
         <section class="inner-body-content ">
             <div class="wrapper">
@@ -443,6 +529,7 @@ $(document).ready(function () {
                         <li><a href="/our-partners">Our Partners</a></li>
                         <li><a href="/testimonials">Testimonials</a></li>
                         <li><a href="/faq">FAQs</a></li>
+                        <li><a href="/agent-sign-in" title="Travel Agent Login | Oway Travel &amp; Tours">Agent Login</a></li>
                 </ul>
 					</div>
                 <div class="footer-menu">
@@ -509,7 +596,7 @@ $(document).ready(function () {
 							<a href="https://www.bbc.co.uk/podcasts/series/worldbiz" target="_blank"><div class="bbc-img"></div></a>
 							<a href="https://www.washingtontimes.com/news/2014/may/1/myanmar-returnees-bet-on-frontier-economys-future/?page=all" target="_blank"><div class="wns-img"></div></a>
 				</div>
-							<div class="copy-right">Copyright©2015 oway.com.mm <a id="back-to-top" href="#" class="animated" data-animation-type="bounce"><i class="soap-icon-longarrow-up circle"></i></a></div>							                       
+							<div class="copy-right">Copyright©2016 oway.com.mm <a id="back-to-top" href="#" class="animated" data-animation-type="bounce"><i class="soap-icon-longarrow-up circle"></i></a></div>							                       
 		   </div>
 			</div><!--end future-footer-->
 		</div><!--end footer-->		  		   
