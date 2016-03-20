@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128062836id_/https%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320090508id_/https%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Intralinks®
 
@@ -62,7 +62,7 @@ You can change or update your business contact information at any time, regardle
 
 You may request that we remove your business contact information from our global directory. However, by doing so, you will automatically lose all access rights to the Service. You may have your business contact information removed from the Intralinks global directory by calling us at +1 888 546 5383. Please note that your business contact information may be re-added to the global directory in the future if you are asked to participate in another Exchange, as described above. 
 
-You also may decline to receive mail or email from us that does not relate directly to your access to or use of the Service or a particular Exchange. If you wish to be added to our “support-only” contact list at any time, please call us at +1 888 546 5383. Top
+You also may decline to receive mail or email from us that does not relate directly to your access to or use of the Service or a particular Exchange. If you wish to be added to our “support-only” contact list at any time, please call us at +1 888 546 5383. If you wish to stop receiving marketing emails, you may click on the unsubscribe link provided in the footer of our emails. Top
 
 ##  Does Intralinks use "cookies"? 
 
@@ -91,8 +91,7 @@ You can find more information about the individual cookies we use and the purpos
 |  _UTMA: Used to distinguish users and sessions. The cookie is created when the JavaScript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
 _UTMB: Used to determine new sessions/visits. The cookie is created when the JavaScript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
 _UTMC: Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
-_UTMZ: Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the JavaScript library executes and is updated every time data is sent to Google Analytics. 
-
+_UTMZ: Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the JavaScript library executes and is updated every time data is sent to Google Analytics.  
 Google Analytics Advertising Features* implemented include: 
 
   * Remarketing with Google Analytics 
@@ -166,6 +165,11 @@ For information on the cookies themselves, please read <http://support.sharethis
 
 For Salesforce’s Privacy Policy, please read: <http://www.salesforce.com/company/privacy/full_privacy.jsp>.   
   
+****Cookie** : **intra0
+
+ ** **Name** :** Cookie Setting 
+
+|  Intra0 (or whatever the cookie is titled) is a random unique identifier not tied to any personally identifiable information as part of the Escap0 campaign, used to identify an ad campaign to which a user was exposed previously; but no personally identifiable information is stored by DoubleClick in the cookie.   
 ****Cookie** : **cookie-agreed-en
 
  ** **Name** :** Cookie Setting 
@@ -186,7 +190,9 @@ We will update this Privacy Policy if we change our policies for collecting and 
 
 ##  How can I contact Intralinks with questions about this Privacy Policy? 
 
-If you have questions about this Privacy Policy, please contact us by email at [privacy@intralinks.com](mailto:privacy@intralinks.com "Mail Privacy"). Top
+If you have questions about this Privacy Policy, please contact us by email at [privacy@intralinks.com](mailto:privacy@intralinks.com "Mail Privacy") or contact us: 
+
+ Top
 
 ##  Does Intralinks participate in the Safe Harbor European Union Privacy Framework? 
 
@@ -198,4 +204,4 @@ If a complaint that cannot be resolved through our internal processes, we agree 
 
 ##  How do the Safe Harbor principles apply to information posted by Intralinks’ clients in a Workspace? 
 
-We adhere to the applicable Safe Harbor principles in connection with information uploaded to our Service by Intralinks clients and maintained in an Exchange. Our Service provides Intralinks clients with a central location where they can post information and make it accessible to any party they authorize. We do not undertake to know, and Intralinks clients have no obligation to inform us, whether the information contained in an Exchange includes personal data. We are not responsible for the content of the information posted in an Exchange nor do we decide who has access to such information. We perform limited processing of information for Intralinks clients and accordingly not all of the Safe Harbor principles are applicable to our Service. For more information, please visit <http://www.export.gov/safeharbor/>.Top 
+We adhere to the applicable Safe Harbor principles in connection with information uploaded to our Service by Intralinks clients and maintained in an Exchange. Our Service provides Intralinks clients with a central location where they can post information and make it accessible to any party they authorize. We do not undertake to know, and Intralinks clients have no obligation to inform us, whether the information contained in an Exchange includes personal data. We are not responsible for the content of the information posted in an Exchange nor do we decide who has access to such information. We perform limited processing of information for Intralinks clients and accordingly not all of the Safe Harbor principles are applicable to our Service. For more information, please visit <http://www.export.gov/safeharbor/>.Top
