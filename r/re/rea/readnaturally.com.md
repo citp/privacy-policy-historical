@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readnaturally.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020045438id_/http%3A//www.readnaturally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readnaturally.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320183608id_/http%3A//www.readnaturally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Read Naturally, Inc.
 
