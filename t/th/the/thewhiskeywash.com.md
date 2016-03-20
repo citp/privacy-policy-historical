@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912021559id_/http%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321001245id_/http%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Whiskey Wash
 
@@ -35,6 +35,16 @@ The Whiskey Wash website may use “cookies” to help you personalize your onli
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Whiskey Wash pages, or register with Whiskey Wash site or services, a cookie helps Whiskey Wash to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Whiskey Wash website, the information you previously provided can be retrieved, so you can easily use the Whiskey Wash features that you customized.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Whiskey Wash services or websites you visit.
+
+**Cookie Opt Out**
+
+Should you want to opt out of cookies, here are a few options:
+
+  * You can opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
+<http://www.networkadvertising.org/choices/>
+  * You can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+
+
 
 **Security of your Personal Information**
 
