@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthinstitute.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816060317id_/http%3A//growthinstitute.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthinstitute.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320210410id_/https%3A//growthinstitute.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Gazelles Growth Institute
 
