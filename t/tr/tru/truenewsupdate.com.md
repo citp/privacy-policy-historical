@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truenewsupdate.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020062017id_/http%3A//truenewsupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenewsupdate.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320105040id_/http%3A//truenewsupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday News Update
 
