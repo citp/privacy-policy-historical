@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the buyanyseat.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106192236id_/https%3A//buyanyseat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyanyseat.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320194527id_/http%3A//buyanyseat.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | BuyAnySeat
-
-**Privacy Policy**
 
 **What information do we collect?**  
 
@@ -73,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
 
-[//buyanyseat.com/terms.php](https://buyanyseat.com/terms.php)
+[https://buyanyseat.com/terms-and-conditions.php](https://web.archive.org/terms-and-conditions.php)
 
 **Your Consent**  
 
