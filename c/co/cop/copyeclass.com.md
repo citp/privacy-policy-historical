@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyeclass.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118232245id_/http%3A//copyeclass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyeclass.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320194816id_/http%3A//copyeclass.com/privacy.php) for the most accurate reproduction.*
 
 # copyeclass.com Privacy Policy
 
