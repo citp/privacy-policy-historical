@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogvault.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919134734id_/https%3A//blogvault.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogvault.net privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320140944id_/https%3A//blogvault.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Complete WordPress Backup Service
 
