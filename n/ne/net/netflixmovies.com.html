@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netflixmovies.com privacy policy that was archived on 2015-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151119180259id_/http%3A//netflixmovies.com/i/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netflixmovies.com privacy policy that was archived on 2016-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160320090730id_/http%3A//www.netflixmovies.com/i/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -12,14 +12,32 @@
     <link media="all" rel="stylesheet" href="//netflixmovies.com/css/hint.min.css">
     <link rel="icon" type="image/ico" href="/favicon.ico">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//i1.netflixmovies.com/js/full.min.js?v=1.1.3"></script>
-    <!--[if IE]><script type="text/javascript" src="//i2.netflixmovies.com/js/ie.js" async></script><![endif]-->
-    <script type="text/javascript" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="6965bf879da91eac0edc432b83443621" data-cfasync="false" async="async"></script>
+    <script type="text/javascript" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="6965bf879da91eac0edc432b83443621" data-cfasync="false"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            setHeight();
+
+        }, false);
+        function setHeight()
+        {
+            if(document.getElementById('parentRatting') != null) {
+                parent = document.getElementById('parentRatting')
+                child = document.getElementById('childRatting')
+                parentHeight = parent.offsetHeight
+                childHeight = child.offsetHeight
+                child.style.marginTop = (parseInt(parentHeight) - parseInt(childHeight))/2 + "px";
+            }
+        }
+    </script>
+    <!--[if IE]><script type="text/javascript" src="//i2.netflixmovies.com/js/ie.js"></script><![endif]-->
 </head>
-<body class="inner">
+<body class="inner" onload="setHeight()">
 <div id="wrapper">
     <header id="header">
+    <div class="logo-holder-center">
         <div class="logo" itemscope="" itemtype="http://schema.org/Organization">
             <a href="/"><img src="//i1.netflixmovies.com/images/logo.png" alt="Netflix Movies" width="216" height="59"></a>
+        </div>
         </div>
         <ul class="social-networks">
             <li><a href="https://twitter.com/netflixmov" class="twitter" target="_blank">Twitter</a></li>
@@ -33,13 +51,10 @@
                 <nav id="nav" style="display:none;">
                     <span class="title">BROWSE</span>
                     <ul>
-                        <li><a href="/s/title/all" class="list">Alphabetically</a></li>
+                        <li><a href="/s/title/all" class="list">From A to Z</a></li>
                         <li><a href="/s/genre/all" class="categories">By Genre</a></li>
-                        <li><a href="/s/year/all" class="select-year">By Release Date</a></li>
-                        <li><a href="/s/rating/top" class="top-rated">Top Rated</a></li>
-                        <li><a href="/s/trending/top" class="most-popular">Trending</a></li>
-                        <li><a href="/s/popular/top" class="most-popular">Most Popular</a></li>
-                        <li><a href="/s/releasedate/newest" class="new-release">New Releases</a></li>
+                        <li><a href="/s/year/all" class="select-year">By Release Year</a></li>
+                        <li><a href="/s/trending/top" class="most-popular">Popular Movies</a></li>
                         <li><a href="/s/added/newest" class="recently-added">Recently Added</a></li>
                     </ul>
                 </nav>
@@ -349,7 +364,7 @@
         <li><a href="/i/terms">Terms of Use</a></li>
         <li><a href="/i/privacy">Privacy Policy</a></li>
     </ul>
-    <span class="copyright"><a href="/">Netflix Movies</a> © 2015</span>
+    <span class="copyright"><a href="/">Netflix Movies</a> © 2016</span>
 </footer>
 </div>
 <div class="popup-holder">
