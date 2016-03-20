@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebestgame.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322152015id_/http%3A//www.freebestgame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebestgame.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320010702id_/http%3A//www.freebestgame.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
