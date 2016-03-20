@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814004118id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320201504id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
 
-# | Short Term Business Loans |Unique Project Financing|Equipment Leasing| 303-521-7622
+# | Tough Business Loan Solutions
 
 We have created this privacy statement for EquiLease One in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [EquiLease One](http://equileaseone.com/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
-**What Information Do We Collect?** ****
+**What Information Do We Collect?**
 
 When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
@@ -84,12 +84,11 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Policy Modifications**
 
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.  
 **Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-Copyright 2008 – 2014 **EquiLeaseOne.com** , All rights reserved.
+Copyright 2008 – 2016 **EquiLeaseOne.com** , All rights reserved.
 
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited 
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited
