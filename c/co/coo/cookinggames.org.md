@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cookinggames.org privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420134657id_/http%3A//www.cookinggames.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinggames.org privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320235350id_/http%3A//www.cookinggames.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CookingGames.org
+# TEST
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@cookinggames.org. 
 
