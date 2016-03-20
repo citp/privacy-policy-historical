@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330082859id_/https%3A//netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320090151id_/https%3A//netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netrider - Australia's Best Motorcycle Community
 
 [ ](https://netrider.net.au/)
 
-[__](https://web.archive.org/web/20150330082859id_/https://netrider.net.au/help/privacy-policy/misc/quick-navigation-menu "Open quick navigation")
+__
+
+### Welcome to Netrider ... Connecting Riders!
+
+Interested in talking motorbikes with a terrific community of riders?  
+Signup (it's quick and free) to join the discussions and access the full suite of tools and information that Netrider has to offer.
+
+[__](https://web.archive.org/web/20160320090151id_/https://netrider.net.au/help/privacy-policy/misc/quick-navigation-menu "Open quick navigation")
 
 **Netrider - Australia's Best Motorcycle Community**
 
-[__](https://netrider.net.au/)__ [Help](https://web.archive.org/web/20150330082859id_/https://netrider.net.au/help/privacy-policy/help/) __
+[__](https://netrider.net.au/)__ [Help](https://web.archive.org/web/20160320090151id_/https://netrider.net.au/help/privacy-policy/help/) __
 
 This privacy policy sets out how Netrider Pty Ltd uses and protects any information that you provide, whilst using Netrider Pty Ltd products and services. This includes, but is not limited to, netrider.net.au and any associated websites and sub-domains.
 
@@ -57,15 +64,13 @@ The information you provide to Netrider Pty Ltd is required for, but not limited
 
 We are committed to ensuring that any information you provide to Netrider Pty Ltd is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect.
 
-### How we use cookies and IP addresses
+### Cookies and IP addresses
 
 netrider.net.au, any associated websites and sub-domains, use small text files, called cookies, to store information in your web browser. The information stored may include preferences, session identification, HTTP information, and IP address.
 
 You can set your browser to not receive cookies, but this may limit your ability to use netrider.net.au and any associated websites and sub-domains.
 
 IP addresses of computers used to visit netrider.net.au and any associated websites and sub-domains are stored in our database. This includes when first registering for an account, managing your account details, writing a private or public message or performing any other transaction which results in data being transferred to or from your computer and the website in question.
-
-Your IP address is not visible to the public at any time.
 
 ### Links to other websites
 
@@ -80,3 +85,9 @@ When using the netrider.net.au community, you may choose to limit public viewing
 Netrider Pty Ltd will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to Netrider Pty Ltd, or your account.
 
 If you discover any of the information Netrider Pty Ltd holds for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made.
+
+### Advertising
+
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to Netrider. Their cookies enable them and their partners to serve ads to you based on your visit to Netrider and/or other sites on the internet.
+
+Netrider utilises third-party vendors and ad networks to serve advertising on our site. These vendors include [Google](https://www.google.com.au/ads/) and/or [BuySellAds](https://buysellads.com/). You may visit those vendors to opt out of the use of cookies for interest-based advertising. Alternatively, you may visit [aboutads.info](http://aboutads.info/) for further information about opting out.
