@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tillys.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023214910id_/http%3A//www.tillys.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tillys.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320140003id_/https%3A//www.tillys.com/static/privacy) for the most accurate reproduction.*
 
 # Tilly's Privacy Policy - Clothing Shoes Accessories
 
@@ -56,7 +56,7 @@ From time to time, we may contract with other businesses whom we believe trustwo
 
 Advertising
 
-We may allow third-party companies to serve ads or collect certain anonymous information when you visit the Web Site. These companies may use browsing information (e.g., click stream information, Web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to the Web Site and other web sites in order to provide advertisements about products and services likely to be of interest to you. These companies typically use a cookie or other technology to collect this information. Our systems do not recognize Do Not Track signals from browsers. However, many third party services that collect this type of information permit you to opt out through a separate system. To learn more about this behavioral advertising practice or to opt-out of this type of advertising from participating third parties providers, you can visit _http://www.networkadvertising.org/_. In addition, please see the Your Information Choices section to learn how to manage what marketing or other information you receive directly from us.
+We may allow third-party companies to serve ads or collect certain anonymous information when you visit the Web Site. These companies may use browsing information (e.g., click stream information, Web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to the Web Site and other web sites in order to provide advertisements about products and services likely to be of interest to you. These companies typically use a cookie or other technology to collect this information. Our systems do not recognize Do Not Track signals from browsers. However, many third party services that collect this type of information permit you to opt out through a separate system. To learn more about this behavioral advertising practice or to opt-out of this type of advertising from participating third parties providers, you can visit <http://www.networkadvertising.org/>. In addition, please see the Your Information Choices section to learn how to manage what marketing or other information you receive directly from us.
 
 Other Transfers
 
