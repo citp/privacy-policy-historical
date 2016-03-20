@@ -1,61 +1,101 @@
-> *The following text is extracted and transformed from the azrul.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331114317id_/http%3A//www.azrul.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azrul.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320040538id_/http%3A//azrul.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Maideasy
 
-##  [ Privacy Policy](http://www.azrul.com/privacy-policy.html)
+In compliance with the Personal Data Protection Act 2010 and its regulations, this notice is circulated to all our customers and/ or potential customers. This Notice will inform you of your rights regarding your personal data that has been and/ or will be, received and processed by us.
 
-Tuesday, 17 June 2008 10:46 
+### 1\. Collection and processing of personal data
 
-This site is owned and operated by Azrul.com. Your privacy on the Internet is of the utmost importance to us. At Azrul.com, we want to make your experience online satisfying and safe.
+We have collected and will collect your personal data to be processed by us and/ or on your behalf in the course of your present or future dealings with Maideasy Sdn Bhd (Company No. 988889-V), its associated company(ies), its joint venture partners, including of all of its shareholder(s), its director(s), its employee(s), its supplier(s), its contractor(s) and/ or its permitted person(s) (“we”, “our”, “us” or “Company”). Your personal data enables us to achieve the Purpose in clause 3 herein that are in connection with our business.
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+### 2\. Description of personal data
 
-## **1\. Collection of Data**
+Personal Data means information about you, from which you are identifiable, including but not limited to your name, identification card number, birth certificate number, passport number, nationality, address, telephone number, fax number, bank details, credit card details, race, gender, date of birth, marital status, resident status, education background, financial background, personal interests, email address, your occupation, your designation in Maideasy , the industry in which you work in, any information about you which you have provided to Maideasy in registration forms, application forms or any other similar forms and/or any information about you that has been or may be collected, stored, used and processed by Maideasy from time to time and includes sensitive personal data such as data relating to health, religious or other similar beliefs.
 
-We do not track, collect or distribute personal information about visitors of our website. We only tracks information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. However, if you decided to register on our website, forum and purchase any of our products your personal information required by register process will be added to our user database. If at any time you change your mind and would like to be removed from our user database we shall delete all your personal data.
+The provision of your Personal Data is voluntary. However, if you do not provide Maideasy your Personal Data, Maideasy will not be able to process your Personal Data for the Purposes and Additional Purposes outlined below.
 
-## **2\. Use of Data**
+If you are an agent, vendor, supplier or service provider, provision of your Personal Data is mandatory and failure to provide your Personal Data, may be a breach of laws or regulatory requirements, and may cause Maideasy to be unable to engage you to provide services or products or issue payments to you for products or services provided.
 
-We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
+### 3\. Purpose
 
-## 3. **No Release/Share/Sell of Information**
+The collection and processing of personal data include but not limited to the following purposes:
 
- Your personal information will not be released to third parties and shared among other users except to further the purpose for which you had provided the information, such as making specific requests for information, or if you request that your email be forwarded. There are no other circumstances under which we will provide or sell personal information to third parties.
+#### a. Agreements & Arrangements
 
-## **4.No Sell of User List**  
+  * Entry into necessary agreements, contracts, memorandum, and/or
+  * Credit assessments and other background checks as deemed necessary
+  * Collection of outstanding payments from our clients under the Delivery of notice, documents, forms, and other documents under the
+  * Necessary performance of other obligations under the agreements,
 
 
-We do not sell user list of our users to any third party company for any further purposes. All information about our users are stored in the password protected database installed in secure server hosting machine.
 
-## **5\. Cookies**
+#### b. Services & Products
 
-Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
+  * By providing us with the information discussed above, you consent for us to use that information in the following ways:
+  * To implement and monitor any Maideasy bookings which you make using our Services;
+  * To share your Personal Data with Maideasy 's partners in order to carry out your Maideasy bookings using our services
+  * To ensure that content from our services is presented in the most effective manner for you
+  * To provide you with information, products or services that you request from us or which we feel may interest you
+  * To carry out our obligations arising from any contracts between you and us
+  * To notify you about changes to our services;
+  * To improve or modify the services, for example, to calculate conversion rates and other elements of services' performance; and
+  * For marketing purposes
 
-## **6\. Children**
 
-We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact our webmaster.
 
-## **7\. Editing or Deleting Your Account Information**
+###  4\. Sources
 
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our Terms of Use for more information.
+In addition to the Personal Data you provide to Maideasy directly, Maideasy may collect your Personal Data from a variety of sources such as:
 
-## **8\. Changes to this Privacy Policy**
+  * Fill up application or registration forms or other similar forms;
+  * From publicly available sources such as directories,
+  * From Maideasy ’s social media pages, if you follow, like or are a fan of such pages;
+  * From credit reporting agencies;
+  * When you interact and communicate with Maideasy at any events or activities;
+  * When you enter contests organized by Maideasy ,
+  *  From various entities or divisions under Maideasy ; or
+  * By using Maideasy websites, which includes all websites operated by Maideasy and under the names of its respective brands (“Websites”). Your personal data may also be collected from cookies used on the Websites.
 
-We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
 
-## **9\. No guarantees.**
 
-While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
+### 5\. Class of Third Parties
 
-## **10\. Google Analytics.**
+Generally, your personal data will be kept confidential. You hereby consent and authorize us to disclose your personal data to the following categories of third parties:
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. Google. Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website including your IP address will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Googles behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+  *  our business partners including online business affiliates, retailers,
+  * our auditors, business consultants, accountants, lawyers or other
+  * our sub-contractors or third party service or product providers as we deem necessary
+  * any person to whom we are compelled to or required under law or in distributors, agents, merchant that provide, supply, distribute or deal in general with our services or products in connection with our business and in relation to our programs; professional advisors and/or consultants as we deem necessary and appropriate; necessary or appropriate, including third party marketing companies or entities; response to a local or state or federal authority, industry regulator, enforcement agency, statutory authority, court of laws, tribunal, arbitration centre, commission or council or association legally authorized by law.
 
-## **YOUR CONSENT**
 
-By using this site, you consent to the collection and use of this information by Azrul.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-**Questions or comments**
+### 6\. Your Obligations
 
-  
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at  [support@azrul.com](mailto:support@azrul.com) .
+It is obligatory for you to supply your personal data to us in the most accurate manner. Failing which, we are unable to process your personal data on your behalf and for the Purpose stated in clause 3 herein and all relationships created or to be created between us shall then be terminated and ceased to be in effect immediately.
+
+### 7\. Your Rights
+
+a. Right to request access to personal data
+
+You are entitled to request access to your personal data that is processed by us with reasonable notice.
+
+b. Right to request correction of personal data
+
+You are entitled to request the correction of your personal data that is held by us with reasonable notice. With respect to this, you may
+
+  * Request correction and / or update of your personal data that is inaccurate, incomplete or out-of-date; and
+  * Request retention of your personal data only as long as necessary for the fulfillment of the Purpose stated in clause 3 herein.
+
+
+
+c. Rights to limit processing of your personal data
+
+You are entitled to limit our processing of your personal data by expressly withdrawing in full, your consent given previously, in each case, including for direct marketing purposes subject to any applicable legal restrictions, contractual conditions and within a reasonable time period.
+
+### 8\. Contact to make inquiries and complaints regarding personal data
+
+If you intend to exercise your rights in clause 7 or to make inquiries or complaints regarding your personal data, our policies, procedures in relation to processing your personal data, you may contact the relevant department as follows:
+
+E-mail address: support@maideasy.my
+
+Postal address: A 03-06, Pantai Business Park, Jalan Pantai Baharu, Bangsar 59100, Kuala Lumpur
