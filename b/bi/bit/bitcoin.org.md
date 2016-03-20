@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoin.org privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201224122id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoin.org privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321003917id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitcoin
 
