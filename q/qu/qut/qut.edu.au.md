@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101250id_/https%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320062832id_/https%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
 
 # QUT - Privacy
 
@@ -61,6 +61,12 @@ When you visit QUT's website, we make a record of your visit using "single pixel
   * the referring page (ie last page visited before entering the QUT site).
 
 
+
+### Social media sign-on (Alumni Net)
+
+We may collect personal information when you access the QUT [Alumni Net](https://alumninet.qut.edu.au/) website through social media accounts like Facebook, LinkedIn or Google. We'll only ever use the information we collect to improve and personalise our services to you as a QUT alumnus. Your personal information will be used and protected according to our QUT privacy policy and will not be disclosed to any external parties.
+
+We won't use your social media information to contact you unless you expressly consent to use social media contact details for communication with QUT.
 
 ## Privacy for students
 
