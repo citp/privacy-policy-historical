@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consultingtycoon.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702010135id_/http%3A//www.consultingtycoon.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consultingtycoon.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320062716id_/http%3A//www.consultingtycoon.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
