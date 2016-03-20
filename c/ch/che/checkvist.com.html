@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the checkvist.com privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908052855id_/https%3A//checkvist.com/auth/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the checkvist.com privacy policy that was archived on 2016-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160320043931id_/https%3A//checkvist.com/auth/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -16,49 +16,54 @@
     <link rel="fluid-icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
     <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
     <meta content="authenticity_token" name="csrf-param">
-<meta content="0lZM4qOKmmf4Bgpk+GCaqXC1YgQ7BEllkhdkQc9Y9XM=" name="csrf-token">
+<meta content="sqS8cCgYqhxrBJQF4kL2K5NYJBSjJPu4x4OiAjkfY+I=" name="csrf-token">
 
     <title>Checkvist: Privacy policy</title>
 
-    <link href="https://d13kjy65myknzs.cloudfront.net/assets/layoutSite-4151d9307f2fd864343c40a9b2faff02.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://d13kjy65myknzs.cloudfront.net/assets/layoutSite-742b5f8bff2627093033038f23a75855.css" media="screen" rel="stylesheet" type="text/css">
     
 
     <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0002/9585.js?439005" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-    (function() {
+  function redirect_to_widget() {
+    var prepare_add_on = function(widget_param) {
+      var add_on;
+      if (document.location.href.match(/\?/)) {
+        add_on = "&" + widget_param;
+      }
+      else {
+        add_on = "?" + widget_param;
+      }
+      return add_on;
+    };
 
-        var prepare_add_on = function(widget_param) {
-            var add_on;
-            if (document.location.href.match(/\?/)) {
-                add_on = "&" + widget_param;
-            }
-            else {
-                add_on = "?" + widget_param;
-            }
-            return add_on;
-        };
-
-        var redirect_with_widget_parameter = function () {
-            var add_on = prepare_add_on(widget_param);
-            if (document.location.href.match(/#/)) {
-                document.location.href = document.location.href.replace(/#/, add_on + "#");
-            }
-            else {
-                document.location.href += add_on;
-            }
-        };
+    var redirect_with_widget_parameter = function () {
+      var add_on = prepare_add_on(widget_param);
+      if (document.location.href.match(/#/)) {
+        document.location.href = document.location.href.replace(/#/, add_on + "#");
+      }
+      else {
+        document.location.href += add_on;
+      }
+    };
 
 
-        var from_frame = parent && parent != window;
-        var widget_param = "widget=true";
-        var has_widget_param = document.location.href.match(new RegExp(widget_param));
-        var has_no_widget_param = document.location.href.match('no_widget');
+    var widget_param = "widget=true";
+    var has_widget_param = document.location.href.match(new RegExp(widget_param));
+    var has_no_widget_param = document.location.href.match('no_widget');
 
-        if (from_frame && !has_widget_param && !has_no_widget_param) {
-            redirect_with_widget_parameter();
-        }
-    })();
+    if (!has_widget_param && !has_no_widget_param) {
+      redirect_with_widget_parameter();
+    }
+  }
+
+  (function() {
+    // Always use widget mode when shown in iFrame
+    if (parent && parent != window) {
+        redirect_to_widget()
+      }
+  })();
 </script>
-    <script src="https://d13kjy65myknzs.cloudfront.net/assets/maxkir/layoutCore-60ee642b8d6431bc4fa3d2438775dc50.js" type="text/javascript"></script>
+    <script src="https://d13kjy65myknzs.cloudfront.net/assets/maxkir/layoutCore-946f70d51c0d3978b138d9cb6f2cd3d0.js" type="text/javascript"></script>
     
 
     <script>
@@ -80,6 +85,7 @@
 
     maxkir.ga_event = function(event, action, label, options) {
         ga('send', 'event', event, action, label, options);
+      maxkir.info(event + ': ' + action + " " + (label || ''));
     };
     
     maxkir.ga_state_change = function(action, label) {
