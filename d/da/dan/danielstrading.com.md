@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810095241id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320072200id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
@@ -46,12 +46,14 @@ We endeavor to keep our customer files complete and accurate. We will give you r
 
 You may opt-out of promotional communications via the following methods:
 
-  * Visit <http://www.danielstrading.com/unsubscribe/> to unsubscribe from E-mail lists.
-  * Send an E-mail to: [optout@danielstrading.com](mailto:optout@danielstrading.com)
-  * Send a letter to:  
+  * Visit [http://www.danielstrading.com/unsubscribe/](https://web.archive.org/unsubscribe/) to unsubscribe from E-mail lists.
+  * Send an email to: [optout@danielstrading.com](mailto:optout@danielstrading.com).
+  * Send a letter to: 
+
 Daniels Trading – OPT-OUT  
 100 South Wacker Drive  
 Suite 1225  
 Chicago, IL 60606
+
 
 
