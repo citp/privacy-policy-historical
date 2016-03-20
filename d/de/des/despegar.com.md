@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the despegar.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221113505id_/http%3A//comercial.despegar.com/us-en/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the despegar.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320152245id_/http%3A//comercial.despegar.com/intl-en/confidentiality/%3Fl%3Den) for the most accurate reproduction.*
 
-# Privacy policy | USA
+# Privacy policy | International-English
 
 Despegar.com (hereinafter, “Despegar” or “Us”) takes deep care of its users and it is committed to protect their confidentiality. To pursue such aim, Despegar has developed this privacy policy (hereinafter, the “Privacy Policy” or “Policy”) which describes Despegar’s policies and practices in connection with gathering, use and disclosure of personal information obtained from its users. When visiting, using and/or registering in this Website (hereinafter, the “Website”), you, as user (hereinafter, “You”), accept the practices described below. This Policy includes privacy policies of Despegar’s Website, in compliance with applicable laws.
 
