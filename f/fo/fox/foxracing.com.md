@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074853id_/http%3A//www.foxhead.com/us/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320154154id_/http%3A//www.foxhead.com/us/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fox Racing - Foxhead.com
 
