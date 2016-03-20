@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rechargeoverload.in privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116095251id_/http%3A//www.rechargeoverload.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rechargeoverload.in privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320140100id_/http%3A//www.rechargeoverload.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ RechargeOverload - Free Recharge Tricks, Apps & Offers 2015
+# Privacy Policy ~ Free Recharge Tricks & Offer 2016 | RechargeOverload
 
 **Privacy Policy for www.rechargeoverload.in**  
   
