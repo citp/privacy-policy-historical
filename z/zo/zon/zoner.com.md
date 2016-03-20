@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoner.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910033416id_/https%3A//www.zoner.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoner.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320213838id_/https%3A//www.zoner.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-## Privacy And Personal Data Protection Policy of ZONER software a.s. ("ZONER")
+## Privacy And Personal Data Protection Policy of ZONER, Inc. ("ZONER")
 
 **This policy applies for the web pages in the ZONER domain, registered to and administered by ZONER.** ZONER is not responsible for the behavior of operators of web pages that have the same name or domain, but which are not registered to ZONER.
 
@@ -72,7 +72,7 @@ Name, surname, address, postal code, city country, and e-mail. For buyers that a
 
 #### Why Do We Store It?
 
-We store this data to ensure error-free delivery of goods and, after this, for license code retrieval at the user’s request and for marketing purposes.
+We store this data to ensure error-free delivery of goods and, after this, for license retrieval at the user’s request and for marketing purposes.
 
 #### Where Is It Stored?
 
@@ -90,7 +90,7 @@ We store the user’s email address and the password for access to their Zoner A
 
 #### Why Do We Store It?
 
-We store this data to ensure error-free delivery of goods and, after this, for license code retrieval at the user’s request and for marketing purposes.
+We store this data to ensure error-free delivery of goods and, after this, for license retrieval at the user’s request and for marketing purposes.
 
 #### Where Is It Stored?
 
