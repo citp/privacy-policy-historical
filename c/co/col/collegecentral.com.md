@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907185311id_/https%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320085752id_/https%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
 
 # College Central Network - Privacy Policy
 
