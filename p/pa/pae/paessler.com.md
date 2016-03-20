@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911134848id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321004346id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG's Privacy Policy
 
@@ -69,6 +69,16 @@ The consent to use your email address for the forwarding of our newsletter can b
 The consent to store your personal data can be revoked at any time after the storage period required by German law.
 
 We do not provide your data to any third parties.
+
+### Trial and Freeware Installation
+
+During the operation of the trial and freeware of the software we collect and process personal data (the e-mail address) in order to offer e.g. technical support or other services provided by Paessler AG. 
+
+The consent to store your e-mail address is processed at the successful completion of a download. 
+
+The consent to use your e-mail address for the forwarding of our newsletter can be revoked at any time by using the "Unsubscribe" link at the end of any newsletter. 
+
+We do not provide your data to any third parties. 
 
 ### Email Newsletter Registration
 
