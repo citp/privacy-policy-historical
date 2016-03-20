@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oncamforyou.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201162540id_/http%3A//www.oncamforyou.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oncamforyou.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320060723id_/http%3A//www.oncamforyou.com/privacy.html%3F) for the most accurate reproduction.*
 
 # OnCamForYou - Privacy Policy
 
