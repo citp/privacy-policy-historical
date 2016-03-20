@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costadelhome.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229052327id_/http%3A//media.costadelhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costadelhome.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320034421id_/http%3A//media.costadelhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Costa del Home
 
