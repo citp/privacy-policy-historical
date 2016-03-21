@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120012337id_/http%3A//www.eenews.net/eep/learn_more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321045132id_/http%3A//www.eenews.net/eep/learn_more/privacy_policy) for the most accurate reproduction.*
 
 # E&E Publishing -- Privacy Policy
+
+View in mobile mode searchtext sizeSettings
+
+
+
 
 E&E Publishing wants you to use [www.eenews.net](http://www.eenews.net/) and our related Web sites with the knowledge that we have taken steps to implement fair information practices designed to protect your privacy. The following explains what information we collect about you and how we use it. 
 
