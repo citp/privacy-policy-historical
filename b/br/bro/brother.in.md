@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brother.in privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010204505id_/http%3A//www.brother.in/in-en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother.in privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321133352id_/http%3A//www.brother.in/in-en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brother
 
