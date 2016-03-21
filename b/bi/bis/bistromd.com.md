@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025171925id_/http%3A//www.bistromd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321092053id_/http%3A//www.bistromd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bistroMD
+
+### BISTROMD® Privacy Policy
 
 Bistro MD, LLC ("BistroMD") respects the privacy of every individual and is committed to protecting your privacy. This Privacy Policy provides information on the manner in which your personal information obtained through your use of www.bistromd.com or related sites (together, the "Website") is processed and used on this Website. BistroMD uses your personal information only in ways that are compatible with this Privacy Policy. In addition to reviewing this Privacy Policy, please read our Terms and Conditions of Use. Your use of the Website constitutes agreement to its terms and conditions. This Privacy Policy does not cover information collected on sites linked to from the Website.
 
