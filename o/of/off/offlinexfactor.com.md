@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlinexfactor.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827192903id_/http%3A//onlinexfactor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlinexfactor.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321112649id_/http%3A//onlinexfactor.com/privacy.php) for the most accurate reproduction.*
 
 # onlinexfactor.com Privacy Policy
 
