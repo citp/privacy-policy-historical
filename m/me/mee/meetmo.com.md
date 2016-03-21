@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetmo.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209111514id_/https%3A//www.foreigngirlfriend.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetmo.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321021858id_/https%3A//www.foreigngirlfriend.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual Dating at ForeignGirlFriend
 
