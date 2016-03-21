@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207063046id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321163110id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-[](http://www.templatemonster.com/joomla-templates/53576.html?utm_source=ari-soft&utm_medium=banner&utm_campaign=wegy "Wegy Joomla! template")
+[](http://www.templatemonster.com/joomla-templates.php?utm_source=ari-soft&utm_medium=referral&utm_campaign=bannerjoomla "Joomla! templates")
 
-  * 27/11/2015 Black Friday and Cyber Monday
+  * 14/02/2016 Saint Valentine's Day SALE
 
-Black Friday and cyber Monday sale. Hurry up. We offer 35% discount for all our Joomla! extensions till 30 November. Use **BF2015** coupon code.
+Happy Saint Valentine's Day from ARI Soft. Use **VALENTINE** coupon code to get 30% discount for any of our Joomla! extensions till 17 February.
 
-  * 25/11/2015 "ARI Image Before After" extension
+  * 30/12/2015 New Year SALE is prolonged
 
-Compare images on your Joomla! sites with help of "ARI Image Before After" extension. It creates an awesome slider to compare two photos. Demo is [here](http://www.demo2.ari-soft.com/joomla-images-compare.html "ARI Image Before After demo")
+A New Year is a time of surprises and we extend New Year's SALE for our Joomla! products till 7 January. Do not miss your chance to get quality Joomla! extensions for the best price. Use **NY2016** coupon code and get 30% discount.
 
 
   
