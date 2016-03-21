@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the o2wifi.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030014648id_/https%3A//www.o2wifi.co.uk/signup/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2wifi.co.uk privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321044701id_/http%3A//www.o2wifi.co.uk/signup/terms%23privacy) for the most accurate reproduction.*
 
 # O2 Wifi
 
