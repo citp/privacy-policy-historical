@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193324id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321221543id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,7 +102,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ##  Access to Information
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10, which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
-Key Care Solutions Ltd, 5 Newton Court, Bampton, Devon EX16 9LG.
+Key Care Solutions Ltd, Flook House, Belvedere Road, Taunton, Somerset, TA1 1BT
 
 ##  Contact Us
 
