@@ -1,57 +1,58 @@
-> *The following text is extracted and transformed from the pnbhousing.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916231611id_/http%3A//www.pnbhousing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnbhousing.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321035809id_/http%3A//www.pnbhousing.com/privacy) for the most accurate reproduction.*
 
-# PNB Housing Loan
+# PNB Housing Finance Limited : Privacy
 
-**Why pnbhousing?**
+This Privacy Policy governs the manner in which PNBHFL collects, uses, maintains and discloses information collected from users (each, a “User”) of the instantloan.pnbhousing.com website (“Site”). This privacy policy applies to the Site and all products and services offered by PNBHFL.
 
-pnbhousing.com services provided by Indiadeals firm. Indiadeals firm respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Indiadeals you agree to the collection and use of your data by Indiadeals in the manner provided in this Privacy Policy.  
-By registering yourself at [pnbhousing.com](http://www.pnbhousing.com/ "pnbhousing.com") you are authorizing us & our associate partners to give you a call to offer you their services for the product you have opted for, imparting product knowledge, offering promotional offers running on website & offers offered by the associated third parties. And Irrespective of the fact if also you have registered yourself under DND or DNC service still you authorize us to give you a call from the pnbhousing.com & associate partners for the above mentioned purposes till 45 days of your registration with us. Also based on your active opt-in you are open to receive promotional offers from advertiser/partnering website hence there is no DNC check required there forth
+**Personal identification information**
 
-By accepting our “[Terms and Conditions](http://pnbhousing.com/terms-and-conditions)“ you authorize our partners to run a Cibil/Satyam check for your profile.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
 
-This Privacy Policy covers pnbhousing.com treatment of personally identifiable information that pnbhousing.com collects when you are on the pnbhousing.com site, and when you use pnbhousing.com services. This policy also covers pnbhousing.com treatment of any personally identifiable information that pnbhousing.com business partners share with pnbhousing.com. This policy does not apply to the practices of companies that pnbhousing.com does not own or control or to people that pnbhousing.com does not employ or manage.
+**Non-personal identification information**
 
-pnbhousing.com collects personally identifiable information when you register for an pnbhousing.com account, when you use certain pnbhousing.com products or services, when you visit pnbhousing.com pages, and when you enter promotions or sweepstakes. pnbhousing.com may also receive personally identifiable information from our business partners.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-When you register with pnbhousing.com, we ask for your first name, last name, time zone, zip/postal code, country, state, city, email, birth date, and gender. Once you register with pnbhousing.com and sign in to our services, you are not anonymous to us.
+**Web browser cookies**
 
-Also during registration, you will be requested to register your mobile phone and email id, pager, or other device to receive text messages, notifications, and other services to your wireless device. By registration you authorize us to send sms/email alerts to you for your login details and alerts on bidder’s requests or some advertising messages/emails from us.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-If at any time you wish to stop these sms/email alerts all you have to do is write an email to us info@pnbhousing.com with your mobile numbers and your mobile number will be deleted from the alerts list.
+**How we use collected information**
 
-**Information Sharing and Disclosure**
+PNBHFL may collect and use Users personal information for the following purposes:
 
-pnbhousing.com will not sell or rent your personally identifiable information to anyone other than as specifically noted herein. Notwithstanding the foregoing, pnbhousing.com may sell and/or transfer your personally identifiable information to an affiliate and to any successor-in-interest as a result of a sale of any part of pnbhousing.com business or upon the merger, reorganization or consolidation of pnbhousing.com with another entity on a basis that pnbhousing.com is not the surviving entity. For the purposes of this paragraph, “affiliate” means any person directly, or indirectly through one or more intermediaries, that controls, is controlled by or is under common control with pnbhousing.com The term “control,” as used in the immediately preceding sentence, shall mean with respect to any person, the possession, directly or indirectly, of the power, through the exercise of voting rights, contractual rights or otherwise, to direct or cause the direction of the management or policies of the controlled person. As used in this Privacy Policy, the term “person” includes any natural person, corporation, partnership, limited liability Company, trust, unincorporated association or any other entity.
+  * To improve customer service  
+Information you provide helps us respond to your service requests and support your needs more efficiently.
+  * To process payments
+  * We may use the email address to respond to their inquiries, questions, and/or other requests.
 
-**Third Party Advertising  
-**  
-We may use third-party advertising companies and/or ad agencies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-**Privacy Policy Changes**
 
-pnbhousing.com may amend this policy from time to time, at our discretion. If we make any substantial changes in the way we use your personal information we will notify you by posting the changes here on these Privacy Policy pages.
+**How we protect your information**
 
-**Security**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-Your account information is password-protected for your privacy and security
+**Sharing your personal information**
 
-**Why we collect the information?**
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-We use your personal information to:
+**Changes to this privacy policy**
 
-to get in touch with you when necessary
+PNBHFL has the sole discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-to provide the services requested by you
+**Your acceptance of these terms**
 
-to preserve social history as governed by existing law or policy
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-We use contact information internally to:
+**Contact us**
 
-Direct our efforts for product improvement
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Contact you as a survey respondent
-
-Send you promotional materials from our contest sponsors or advertisers
-
-The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own,  
-Manage or control.
+PNB Housing Finance Ltd.  
+Address: 9th Floor, Antriksh Bhavan,  
+22 Kasturba Gandhi Marg,  
+Near Connaught Place,  
+New Delhi 110001  
+Phone Number : 1800 120 8800  
+Email Address:[ loans@pnbhfl.com](mailto:loans@pnbhfl.com)  
+This document was last updated on March 28, 2013
