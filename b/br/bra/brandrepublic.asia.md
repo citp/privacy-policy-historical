@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandrepublic.asia privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523172727id_/http%3A//www.campaignasia.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandrepublic.asia privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321173820id_/http%3A//www.campaignasia.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Campaign Asia
 
