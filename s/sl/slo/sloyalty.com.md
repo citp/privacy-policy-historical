@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sloyalty.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702214048id_/http%3A//www.sloyalty.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sloyalty.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321142736id_/http%3A//www.sloyalty.com/static/privacy.html) for the most accurate reproduction.*
 
 # S Loyalty | Loyalty Software, Rewards Program, Referral Program Software
 
