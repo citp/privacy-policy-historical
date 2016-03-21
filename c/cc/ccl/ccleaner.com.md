@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccleaner.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926172250id_/https%3A//www.ccleaner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccleaner.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321151404id_/https%3A//www.ccleaner.com/privacypolicy) for the most accurate reproduction.*
 
 # CCleaner Cloud | Privacy policy
 
@@ -55,3 +55,20 @@ By installing CCleaner Cloud, you are agreeing to the Terms and Conditions in ou
 
 **6\. Changes to this Privacy Policy**  
 We may change this privacy policy in the future. For example, if we offer a new type of product or service that collects different types of information, we might outline our use of that information here. As a result, please check this page regularly for changes. 
+
+**7\. Contact us**  
+If you want to find out more about the information we collect, you can contact us at:  
+
+
+Mail: | 
+
+The Data Protection Officer  
+Piriform Software Ltd  
+One Euston Square  
+40 Melton Street  
+London  
+NW1 2FD  
+  
+---|---  
+Telephone: | 1-800-816-9004 FREE  
+Email: | info@piriform.com
