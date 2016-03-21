@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the bluehornet.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920100027id_/http%3A//www.bluehornet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluehornet.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321180502id_/http%3A//www.bluehornet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueHornet
 
-## Privacy Policy
+THIS POLICY HAS LAST BEEN UPDATED AS OF OCTOBER 29, 2015.
 
-This statement is effective as of November 21, 2007. For the most current version of the BlueHornet Networks, Inc. Privacy Statement, please visit [www.BlueHornet.com](http://www.bluehornet.com/).
+This is the Privacy Policy of BlueHornet Networks, Inc. (“BlueHornet”). The most recent changes to this Privacy Policy relate to a change in the governing law from Minnesota to California and also to reflect changes in the ownership structure of BlueHornet.
 
 ## Overview
 
 At BlueHornet, we respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered by BlueHornet and how that information is used.
 
-BlueHornet works to ensure the highest degree of protection for consumers and businesses. We will continue to work to comply with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the BlueHornet Privacy Statement, please contact us via email at [privacy@BlueHornet.com](mailto:privacy@BlueHornet.com).
+BlueHornet works to ensure the highest degree of protection for consumers and businesses. We will continue to work to comply with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the BlueHornet Privacy Statement, please contact us via email at [**_privacy@bluehornet.com_**](mailto:privacy@bluehornet.com).
 
 ## Collection and Use of Information by BlueHornet
 
 Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products. Your personal information may also be transferred to us from another Company in order to send you emails that you have requested. Financial information that is collected is used to verify your identity, to pay for a product or service, or to bill either you or your company for products and services, as applicable. Demographic and profile data collected by BlueHornet is used to optimize our Website or any requested email communications, and to display information that is more relevant to you.
 
-Your email address is used to send you information that you have requested. As part of your use of any BlueHornet product, BlueHornet allows you to elect to receive, or not receive, certain information from BlueHornet. BlueHornet adheres strictly to permission-based email policy. BlueHornet will not send you unsolicited email information, commercial offers or advertisements. All emails that you have requested, other than transactional emails, will include an option to unsubscribe. Unsubscribe requests are fulfilled promptly and no further communications will be sent to users who have stated that they do not wish to receive the specified information.
+Your email address is used to send you information that you have requested. As part of your use of any BlueHornet product, BlueHornet allows you to elect to receive, or not receive, certain information from BlueHornet. BlueHornet adheres strictly to permission-based email policy.
+
+BlueHornet will not send you unsolicited email information, commercial offers or advertisements. All emails that you have requested, other than transactional emails, will include an option to unsubscribe. Unsubscribe requests are fulfilled promptly and no further communications will be sent to users who have stated that they do not wish to receive the specified information.
 
 ## Cookies and Web Beacons
 
@@ -60,7 +62,7 @@ There are other limited circumstances in which we may share the personal informa
 
 ### In Connection With Corporate Events.
 
-We may transfer your personal information to another company (either an affiliate of BlueHornet or an unrelated third party) that has acquired the stock or assets of BlueHornet, one of our affiliates, or one of our operating divisions, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, any applicable Privacy Notices, and the privacy preferences you have expressed to us Contact Lists, Campaign Content and Campaign Reports. BlueHornet is currently owned by Digital River, Inc.
+We may transfer your personal information to another company (either an affiliate of BlueHornet or an unrelated third party) that has acquired the stock or assets of BlueHornet, one of our affiliates, or one of our operating divisions, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, any applicable Privacy Notices, and the privacy preferences you have expressed to us Contact Lists, Campaign Content and Campaign Reports.
 
 BlueHornet ensures that all contact lists, email content and reports remain private and confidential. Any use of BlueHornet systems must be in compliance with our Acceptable Use Policy – to protect against inappropriate use (illegal, abusive, obscene, threatening, etc.).
 
@@ -70,7 +72,7 @@ BlueHornet ensures that all contact lists, email content and reports remain priv
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. We generally do not charge for this service, however, we reserve the right to charge a fee as permitted by applicable law.
 
-If you would like to review, correct or challenge your personal information, please contact us by e-mail at [privacy@BlueHornet.com](mailto:privacy@BlueHornet.com).
+If you would like to review, correct or challenge your personal information, please contact us by e-mail at [**_privacy@bluehornet.com_**](mailto:privacy@bluehornet.com).
 
 We will respond to reasonable requests within the time limits established by applicable law or within a reasonable time if no time limit is established by applicable law. For your protection, we may ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if: 1) the disclosure may harm the life, the body, the property and the rights of third parties, 2) the disclosure may lead to a breach of applicable law and regulation, or 3) where you have failed to provide sufficient evidence to verify your identity.
 
@@ -84,7 +86,7 @@ To alert you to these changes, we will update the effective date of this Privacy
 
 Our Web site and emails are not directed at nor targeted to children. No one who has not reached the age of majority in his or her country may use this Web site unless supervised by an adult.
 
-We do not use our Web site to knowingly solicit personal information from or market to anyone under the age of majority in his or her country. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States and other applicable laws or regulations. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by email at [privacy@BlueHornet.com](mailto:privacy@BlueHornet.com), and we will take reasonable steps to remove that information from our databases.
+We do not use our Web site to knowingly solicit personal information from or market to anyone under the age of majority in his or her country. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States and other applicable laws or regulations. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by email at [**_privacy@bluehornet.com_**](mailto:privacy@bluehornet.com), and we will take reasonable steps to remove that information from our databases.
 
 ## Information Exchanges and Transactions
 
@@ -96,8 +98,8 @@ BlueHornet allows you to purchase email marketing services in a variety of ways.
 
 ## Governing Law
 
-This Privacy Policy and our Privacy Notices are governed by the laws of the State of Minnesota, United States of America, without regard to its conflict of law principles.
+This Privacy Policy and our Privacy Notices are governed by the laws of the State of California, United States of America, without regard to its conflict of law principles.
 
 ## The Bottom Line
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [privacy@BlueHornet.com](mailto:privacy@BlueHornet.com).
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [**_privacy@bluehornet.com_**](mailto:privacy@bluehornet.com).
