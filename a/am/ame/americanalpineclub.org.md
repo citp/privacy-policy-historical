@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanalpineclub.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025728id_/http%3A//www.americanalpineclub.org/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanalpineclub.org privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321163742id_/http%3A//www.americanalpineclub.org/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Alpine Club
 
