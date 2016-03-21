@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpiano.net privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024062939id_/http%3A//virtualpiano.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpiano.net privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321084605id_/http%3A//virtualpiano.net/privacy) for the most accurate reproduction.*
 
 # Privacy and Information | Virtual Piano
 
