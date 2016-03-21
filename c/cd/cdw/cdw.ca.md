@@ -1,107 +1,100 @@
-> *The following text is extracted and transformed from the cdw.ca privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402154409id_/https%3A//www.cdw.ca/content/terms-conditions/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdw.ca privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321015056id_/https%3A//www.cdw.ca/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Terms and Conditions - Privacy Policy
 
-|    
+### At CDW, we understand that your privacy is an important part of the trust you place in us. This privacy policy ("Policy") explains how personal information of CDW customers is collected, used, disclosed and otherwise managed by CDW Canada Corp. ("CDW" or "we"), whenever you interact with CDW including on our websites such as CDW.ca and CDW’s mobile applications (collectively, "our Sites") and offline.
 
+Except for CDW’s own online activities on third-party websites and online services where we post our Policy, this Policy does not apply to, and CDW is not responsible for, any other data practices of third-party websites and online services or the practices of other third parties. To learn about third-party data practices, please visit their respective privacy policies. This Policy also does not apply to CDW websites or online services that display or link to different privacy statements.
 
-CDW Canada Inc. ("CDW CANADA") is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Website. In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and "we" and "us" means CDW CANADA as well as its affiliated companies.
+**INFORMATION COLLECTED**
 
-We will periodically review the appropriateness of this privacy policy and may make, in our discretion, such changes as are necessary. If we decide to change this privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. You should visit our Website periodically to review any changes. 
+We collect information about you in various ways, including the following:
 
-  *     * What personal and account information does CDW CANADA collect?
-    * When you browse our Website
-    * When you make purchases through our Website
-    * When you create an E-Account on our Website
-    * When you e-mail product information to a friend or colleague through our Website
-    * When you communicate with us through our Website
-    * When you enter contests, participate in surveys, or register for other activities on our Website
-  *     * Is my personal or account information used for any other purpose?
-    * Will my personal and account information be disclosed to any other party?
-    * How do you protect my personal and account information?
-    * How can I give you feedback or contact you?
-    * How can I correct inaccurate information?
-    * Acceptance
+**Information You Provide**
 
+We collect information from you in various circumstances, such as when you use our Sites, create an account with us, participate in an event, contest or survey, or contact our customer service. For example, we may collect your name, email address, postal address, phone number, fax number, demographics, and other information you provide us when you register or make a purchase. We also collect credit card numbers and other forms of payment information if you purchase or return products or services.
 
+**Information from Other Sources**
 
-**What personal and account information does CDW CANADA collect?**  
-The amount and type of personal and account information we collect from you depends on your activities and use of our Website. Below, we explain what information we collect. 
+We may also obtain information from other sources and combine that with information we have about you. As examples, we may obtain demographic data from third-party data providers to better market to you, and we may purchase or lease lists from list brokers to correct or supplement the data we have about you.
 
-**When you browse our Website**  
+**Information Automatically Collected**
 
+When you visit our Sites, some information about your visit is automatically collected by CDW’s systems. For example, when you visit our Sites your computer's or mobile device’s operating system, application software, Internet Protocol (IP) address, access times, browser type and language, peripherals, and the website you visited immediately before and after our Sites are logged automatically. We also collect information about your usage and activity on our Sites including information about your orders, purchases, and cart activity.
 
-  * IP address:  We collect your IP address to measure our Website traffic and to help provide a relevant shopping experience.
-  * Referral Website:  If you come to our Website via a link, we collect the location of the link that referred you.
-  * Browser type:  We collect information about the browser you are using to help optimize our Website for visitors.
-  * Movements through our Website:  We keep track of pages you visit to help provide you with a more personalized shopping experience.
+  * **Cookies and other technologies.** We automatically collect information using "cookies" on our websites. Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. As examples, we use cookies to see which areas and features are popular, to count visits to our Sites and to deliver personalized ads. 
+  * **Web Beacons.** We also collect information using Web beacons on our websites. Web beacons are electronic images used on our Sites and in our emails. We use Web beacons to read or set cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
 
 
-**When you make purchases through our Website**  
+**Online Tracking by Third Parties**
 
+Other third parties may collect information about you through our Sites, including personally identifiable information about your online activities over time and across different websites when you use our Sites. Some third parties provide us with analytics services and automatically collect the type of information described above. Some third parties collect information on behalf of CDW and others for online advertising purposes described below.
 
-  * We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone.
-  * We collect information contained in "cookies," such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart.
+**ONLINE ADVERTISEMENTS**
 
+Certain third-party ad services may automatically collect information about your visits to this and other websites, such as your IP address, your ISP, the browser you use to visit our Sites, the web pages you visit and your response to ads. They do this using their own cookies, Web beacons or other technologies. Information collected may be used to deliver advertising on our Sites and on other websites (including social networking websites) relevant to your interests. This policy does not apply to third-party cookies or Web beacons. If you would like more information about the practices of many common ad services and how to opt-out, [click here](http://youradchoices.ca/choices). If you would like more information about the practices of social networking services you use where CDW ads are displayed, please visit the respective privacy policies of those services.
 
+**USE OF INFORMATION WE COLLECT**
 
-**When you create an[E-Account](https://web.archive.org/shop/eaccount/signup.aspx?target=/inside/inside/privacy.asp) on our Website**  
+We use personal information collected for purposes described in this Policy, as required or permitted by applicable law, or as otherwise disclosed to you on our Sites or in connection with our services. For example, we may use information that you provide or about you to: 
 
-
-  * We collect your user name, password, e-mail address, secret question, and answer to your secret question to protect your E-Account. We use your secret question and answer to identify you as the account user if you have forgotten your password. You can help us ensure your privacy by not sharing your user name or password.
-
-
-
-**When you e-mail product information to a friend or colleague through our Website**  
-
-
-  * We collect your e-mail address and the e-mail address of the person to whom you are sending the product information.
-
-
-
-**When you communicate with us through our Website**  
-
-
-  * We collect your e-mail address and the other information that you provide in order to respond to your communication.
+  * provide and deliver products and services you request;
+  * administer your account with us;
+  * send you transaction related information, including confirmations, invoices, technical notices, product and services information, updates, security alerts, and support and administrative messages;
+  * respond to your comments and questions and provide customer service;
+  * operate and improve our Sites, products and services;
+  * facilitate the provision of software updates, product support, and other services related to our mobile applications;
+  * process and deliver contest entries and rewards;
+  * ask you to take part in research and surveys used to measure our performance and improve our products, services and customer experience;
+  * send you catalogs and communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by CDW and our selected partners; and
+  * link or combine with other personal information we get from third parties, to help understand your needs, customize our offerings to those needs and provide you with better service.
 
 
 
-**When you enter contests, participate in surveys, or register for other activities on our Website**  
+**SHARING OF PERSONAL INFORMATION**
+
+Ways we may share your personal information with third parties include the following: 
+
+  * with your consent;
+  * with trusted third parties for their own marketing purposes in compliance with applicable laws and subject to their separate privacy policies;
+  * with third-party vendors, consultants and other service providers who work for us and need access to your information to do that work;
+  * with suppliers and distributors to CDW for their internal purposes including administrative purposes; to improve performance, products and services; and for purposes relating to proposed or completed transactions facilitated by CDW; 
+  * to (i) comply with applicable laws or to respond to a search warrant, court order, lawful request or legal process, (ii) to protect the rights and property of CDW, our agents, customers, and others including to enforce our agreements, policies and terms of use; (iii) to detect, suppress or prevent fraud; (iv) collect debts owed to CDW, or (v) in an emergency to protect the personal safety of CDW, its customers, or any person;
+  * for the establishment, exercise or defence of legal claims;
+  * in connection with or during negotiation of any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company, or as part of a corporate reorganization, stock sale or other change in corporate control;
+  * as otherwise permitted by applicable law.
 
 
-  * We collect your name, e-mail address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity.
 
+We may also share aggregated or anonymized information in a form that does not directly identify you. 
 
+**LOCATION OF PERSONAL INFORMATION**
 
-**Is my personal or account information used for any other purpose?**  
+Your personal information may be stored and processed by our affiliates and third-party service providers in the United States, Canada and other countries. When in these jurisdictions, we or our service providers may disclose your personal information in accordance with applicable US, Canadian or other law, or to foreign law enforcement authorities, courts and other government officials based on a lawful disclosure request.
 
+**SECURITY OF YOUR PERSONAL INFORMATION**
 
-We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.
+CDW takes reasonable technical, physical and administrative steps to help protect your personal information in our custody or control from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by following the instructions in the e-mail communication or contacting your account manager.
+We have personal information retention processes designed to retain personal information for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
 
-We may also analyze and act upon your personal and account information as part of our standard business practices. We occasionally purchase from third parties commercial information such as company size, number of employees and annual sales of other companies. We may use this commercial information along with your personal and account information to customize our offerings to you, as well as for our internal use.
+**YOUR INFORMATION CHOICES AND CHANGES**
 
-In addition, in order to measure how we are doing and to better understand how we can improve our product offerings, we or one of our service providers or strategic partners may contact you by telephone or e-mail and solicit your participation in research.
+**Email Choices**
 
-If you become our customer, we may send you updates on important information about our company and services.
+You may opt-out of receiving promotional emails from CDW by following the instructions in those emails. To manage your email subscription, [click here](http://pages.cdwemail.com/cdwcawebunsubscribe/). To manage your Catalog subscription, [click here](https://www.cdw.ca/shop/tools/surveys/Survey.aspx?SurveyKey=845174B02C034E50B0EDBEEB71529146). You may also make requests about your contact preferences and changes to your information by contacting your account manager. If you do not know your account manager, simply [click here](https://www.cdw.ca/content/contact-us/customer-relations.aspx). If you opt-out of promotional emails, we may still send you non-promotional emails, such as emails regarding your account, business transactions and operational matters.
 
-**Will my personal and account information be provided to any other party?**  
-We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Only authorized personnel are permitted to see your E-Account password. Your other personal and account information may be disclosed to third parties in limited circumstances. For example, we may share your personal and account information with our service providers and strategic partners and with suppliers and other entities involved in transactions you have initiated. We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company. 
+**Access and Change Requests**
 
-**How do you protect my personal and account information?**  
-We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal and account information is required. Our Website is certified by [VeriSign](http://www.verisign.com/), which verifies that our Website is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Website security information will appear.
+You may correct some personal and account information maintained in your E-Account through your E-Account. To request access to, or the correction or removal of any other information about you or content you post on our Sites, please contact your account manager. If you do not know your account manager, simply [click here](https://www.cdw.ca/content/contact-us/customer-relations.aspx?cm_sp=Footer-_-HowWeCanHelp-_-Customer+Relations) or call 866.782.4239. We reserve the right to decline requests unless required by applicable law.
 
-In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you may choose unencrypted processing. 
+**CHANGES TO THIS POLICY**
 
-**How can I give you feedback or contact you?**  
-Simply [click here.](https://web.archive.org/shop/tools/composeemail/sendcorporate.asp?mailboxID=19) Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. 
+CDW may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date below.
 
-**How can I correct inaccurate information?**  
-You may correct some personal and account information maintained in your E-Account through your E-Account. To correct other information, or for any other enquiries relating to your personal and account information, please contact your account manager. 
+**QUESTIONS**
 
-**Acceptance**  
-By using our Website you consent to the collection, use and disclosure of your personal and account information as provided in this privacy policy. 
+If you have any questions about this Policy, please contact us by [clicking here](mailto:CDWWay@cdw.com). 
 
-Version Date: 04/01/04
+Version Date: 10/14/2015
