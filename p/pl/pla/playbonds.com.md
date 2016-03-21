@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the playbonds.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530091417id_/http%3A//en.playbonds.com/institutional/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbonds.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321073317id_/http%3A//en.playbonds.com/institutional/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy [SEO-Title-Home-]
+# Privacy Policy Playbonds – Play Video Bingo and Casino on the most exciting website!
+
+Privacy Policy
 
 PRIVACY POLICY
 
