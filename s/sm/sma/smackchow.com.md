@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smackchow.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116062117id_/http%3A//smackchow.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackchow.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321024453id_/http%3A//smackchow.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy |
 
