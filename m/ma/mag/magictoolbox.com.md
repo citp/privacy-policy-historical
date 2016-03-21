@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018235503id_/https%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322002058id_/https%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
 
-# Magic Toolbox - Privacy Policy
+# Privacy Policy - Magic Toolbox
 
 Magic Toolbox takes your privacy seriously. This Privacy Policy explains what we do with the information collected through your use of this website.
 
