@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the shutterstock.co.in privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629011639id_/http%3A//shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.co.in privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321104521id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
 # Shutterstock: Privacy Statement for Shutterstock Images
 
-[](https://privacy.truste.com/privacy-seal/Shutterstock-Inc/validation?rid=ad1f4a6f-60f3-4b02-a799-2cf8246f5d4a "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=e932cd1f-9988-40e9-a66f-d71c21cd57f5 "TRUSTe Privacy Certification")
 
 **Privacy Statement for Shutterstock, Inc.**
 
-Last updated on March 30, 2015. 
+Last updated on January 25, 2016. 
 
 Please note that the practices of Shutterstock, Inc. ("Shutterstock"), with respect to personal information, are now governed by this Privacy Policy as same may be amended from time to time. We encourage visitors to and users of our site to regularly review our Privacy Policy. To update your information and preferences, see the section entitled "Updating/Deleting Your Personal Information and Privacy Preferences."
 
-**Shutterstock, Inc.** has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, **www.shutterstock.com** and does not cover information that may be collected through our mobile applications and downloadable software. 
+The TRUSTe certification applies only to the English version of the [http://www.shutterstock.com](http://www.shutterstock.com/) website. 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at [privacy@shutterstock.com](mailto:privacy@shutterstock.com). If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
 Shutterstock complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. Shutterstock has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Shutterstock’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
@@ -28,7 +28,7 @@ Personal Information on this Site is collected by Shutterstock, Inc., Empire Sta
 
 **Updating Your Personal Information and Privacy Preferences**
 
-You have the right to access and correct, or delete your Personal Information and privacy preferences at any time. This may be accomplished by clicking on the link, ["My Account"](http://www.shutterstock.com/account.mhtml), where you can view and make changes to most of your Personal Information immediately. If you are a contributor, you can change your profile [here](http://submit.shutterstock.com/admin.mhtml). For security purposes, certain Personal Information can only be changed by contacting support by email. 
+You have the right to access and correct, or delete your Personal Information and privacy preferences at any time. This may be accomplished by clicking on the link, ["My Account"](http://www.shutterstock.com/account.mhtml), where you can view and make changes to most of your Personal Information immediately. If you are a contributor, you can change your profile [here](http://submit.shutterstock.com/admin.mhtml). For security purposes, certain Personal Information can only be changed by contacting support by email. We will respond to your request within a reasonable timeframe. 
 
 **Collection of Personal Information**
 
@@ -118,12 +118,10 @@ We may combine this automatically collected log information with other informati
 Technologies such as: cookies, beacons, tags and scripts are used by Shutterstock and our affiliates, analytics services and service to provide site features and functionality. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
   * A cookie is a small, unique text file that a website can send to your computer when you visit a site. We may use session cookies, which terminate when a user closes his or her browser, and/or persistent cookies, which remain on the user's computer until manually deleted. Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you do not want us to deploy cookies to your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie on your computer. Rejecting cookies may affect your ability to use the Site.
-  * We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity may use LSOs such as HTML 5 or Flash to collect and store information. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+  * We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity may use LSOs such as HTML 5 or Flash to collect and store information. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
   * We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/))  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 
-
-**Online Community**
 
 We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. Any information you post to a public bulletin board or chat room, such as the Forum For Contributors (the "Forums"), is available to all persons accessing that location. To request removal of your personal information from our blog or community forum, contact us at [privacy@shutterstock.com](mailto:privacy@shutterstock.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application. 
 
