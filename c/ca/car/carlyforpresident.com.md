@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlyforpresident.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910105343id_/https%3A//www.carlyforpresident.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlyforpresident.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321080153id_/https%3A//www.carlyforpresident.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Carly Fiorina for President 2016
 
@@ -32,9 +32,9 @@ Carly for President also may disclose an individual's personal information:
 
 
   * to a person who in our reasonable judgment is seeking the information as an agent of the individual; 
-  * in situations where sharing or disclosing your information is required in order to offer you products or services you desire; 
-  * to a third party or parties, where disclosure is required or permitted by law; and 
-  * if, in our reasonable judgment, it is necessary enforce compliance with our internal policies or the Terms of Use or to protect our Site, supporters, or others. 
+  * in situations where sharing or disclosing your information is required in order to offer you products or services you desire;
+  * to a third party or parties, where disclosure is required or permitted by law; and
+  * if, in our reasonable judgment, it is necessary enforce compliance with our internal policies or the Terms of Use or to protect our Site, supporters, or others.
 
 
 
