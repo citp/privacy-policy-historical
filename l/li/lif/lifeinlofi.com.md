@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeinlofi.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210142607id_/http%3A//lifeinlofi.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinlofi.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321123223id_/http%3A//lifeinlofi.com/more/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Life In LoFi: iPhoneography
+# Privacy Policy
 
 #### Privacy Policy for LifeInLoFi.com
 
