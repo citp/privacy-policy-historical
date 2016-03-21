@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipidy.net privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304120604id_/http%3A//zipidy.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipidy.net privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322003906id_/http%3A//zipidy.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zipidy
 
