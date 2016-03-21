@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130062757id_/http%3A//www.rent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321162754id_/http%3A//www.rent.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - rent.com.au
 
