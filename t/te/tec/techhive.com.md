@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techhive.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016152728id_/http%3A//www.idgcsmb.com/techhive-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhive.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321190200id_/http%3A//www.idgcsmb.com/techhive-online-privacy-policy) for the most accurate reproduction.*
 
 # TechHive Online Privacy Policy - IDG Consumer & SMB | Covering All Aspects of Tech Life.
 
