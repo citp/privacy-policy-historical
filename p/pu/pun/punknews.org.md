@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punknews.org privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005075457id_/http%3A//www.punknews.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punknews.org privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321044415id_/https%3A//www.punknews.org/privacy) for the most accurate reproduction.*
 
 # Punknews.org
 
