@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soobest.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210160110id_/http%3A//www.soobest.com/help_article/about-us/privacy-policy-32.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soobest.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321085332id_/http%3A//www.soobest.com/help_article/about-us/privacy-policy-32.html) for the most accurate reproduction.*
 
 # Privacy Policy_SooBEST.com - Buy Fashion Clothing, Fashion Jewelry, Digital Electronics at Wholesale Price
 
