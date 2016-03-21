@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercemobilecontent.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905225230id_/http%3A//www.fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercemobilecontent.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321185412id_/http%3A//www.fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FierceMarkets
 
@@ -10,7 +10,9 @@ While our websites use “cookies,” we do not link them to any personally iden
 
 #### Email Publications
 
-As part of the subscription process for our email publications, we collect basic information such as your name, email address, company, and job function. We never sell or give away this information. However, we do occasionally send reader surveys and other special notes from the publisher. We also send regular email promotions from our sponsors. These special promotions allow us to provide you the newsletters free of charge. In sending them, we do everything we can to respect your privacy and time:
+As part of the subscription process for our email publications, we collect basic information such as your name, email address, company, and job function. We never sell or give away this information.
+
+However, we do occasionally send reader surveys and other special notes from the publisher. We also send regular email promotions from our sponsors. In each case we carefully screen promotions for relevance based on your affiliation with a specific FierceMarkets publication, demonstrated interests, and/or professional status. These special promotions allow us to provide you the newsletters free of charge. In sending them, we do everything we can to respect your privacy and time:
 
   * We carefully screen every email promotion for relevance;
   * We typically send no more than one extra email per week;
