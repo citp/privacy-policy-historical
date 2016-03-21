@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321194042id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321214023id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,13 +23,13 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
-### New Impressions decks
+### Over 30,000 decks sold
 
-The new Impressions decks by MPC using our new high gloss production method. [**Now available to order »**](https://web.archive.org/web/20150321194042id_/http%3A//promotional/mpc-playing-cards.html). 
+MPC revolutionary high gloss printed decks previously released on Kickstarter. [Now available for sale](https://web.archive.org/web/20160321214023id_/http%3A//promotional/mpc-impressions-decks.html).
 
-[](https://web.archive.org/web/20150321194042id_/http%3A//promotional/mpc-playing-cards.html)See our [Kickstarter project](https://www.kickstarter.com/projects/makeplayingcards/impressions-playing-cards?ref=card).
+[](https://web.archive.org/web/20160321214023id_/http%3A//impressions-by-mpc.aspx)
 
-* * *
+See our [other projects](http://www.makeplayingcards.com/kickstarter-projects.aspx).
 
 ### Contact us
 
@@ -37,8 +37,6 @@ If you have an enquiry on making your cards, we're here to help. [Contact us her
 
 **Other needs?**  
 Are you developing a game? We also do complete custom decks (e.g. card sizes, hot & foil stamping, embossing, spot UV, etc) and [board game development & packaging](http://www.makeplayingcards.com/custom-board-games.aspx). _Chances are, if you need it, we can do it! Speak to our team today!_
-
-* * *
 
 ### Consumer trust
 
