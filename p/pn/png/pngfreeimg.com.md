@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngfreeimg.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903003633id_/http%3A//pngfreeimg.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngfreeimg.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321094100id_/http%3A//pngfreeimg.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PNGFreeImg.com
 
