@@ -1,17 +1,29 @@
-> *The following text is extracted and transformed from the lionbank.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073156id_/https%3A//www.lionbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionbank.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321050604id_/https%3A//www.lionbank.com/documents/customer-protection-and-education/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Security | Fidelity Bank
+# Fidelity Bank - Privacy Policy
 
-Fidelity Bank cares about protecting our customers, especially your privacy.
+What does Fidelity Southern Corporation and Fidelity Bank do with your personal information?  
+ 
 
-Protecting your privacy is important to Fidelity Southern Corporation, Fidelity Bank and our employees. We want you to understand what information we collect and how we use it. The following policy serves as a standard for all Fidelity Southern Corporation and Fidelity Bank employees for collection, use, retention and security of nonpublic personal information.
+### Why?
 
-[Click here to view our Privacy Policy](https://web.archive.org/sites/default/files/2014%20Privacy%20Notice.pdf)
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read our [Privacy Policy](https://web.archive.org/getattachment/Documents/Customer-Protection-and-Education/Privacy-Policy/2016-Privacy-Notice.pdf) carefully to understand what we do.  
+ 
 
-###  Our Security Procedures
+### What?
 
-We also take steps to safeguard customer information. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
+The types of personal information we collect and share depends on the product or service you have with us. This information can include:
 
-###  At Fidelity Bank, We Care About Your Privacy
+  * Social Security number and income
+  * Account balances and payment history
+  * Credit history and credit scores
 
-If you have any questions or if you need more information, please call us at 404.248.LION (5466) or toll free at 888.248.LION (5466) or email us at [customersupport@lionbank.com](mailto:customersupport@lionbank.com).
+
+
+When you are no longer our customer, we continue to share your information as described in this notice. 
+
+### How?
+
+All financial companies need to share customers’ personal information to run their everyday business. In our [Privacy Policy](https://web.archive.org/getattachment/Documents/Customer-Protection-and-Education/Privacy-Policy/2016-Privacy-Notice.pdf), we list the reasons financial companies can share their customers’ personal information; the reasons Fidelity Bank chooses to share; and whether you can limit this sharing.
+
+[Click here to view our Privacy Policy](https://web.archive.org/getattachment/Documents/Customer-Protection-and-Education/Privacy-Policy/2016-Privacy-Notice.pdf).
