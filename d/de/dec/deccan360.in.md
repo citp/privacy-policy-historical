@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deccan360.in privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422012136id_/http%3A//www.deccan360.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccan360.in privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321113146id_/http%3A//www.deccan360.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Deccan 360
 
