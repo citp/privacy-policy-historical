@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924142833id_/http%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321192849id_/http%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
 
 # www.ezvid.com | Privacy Policy
 
@@ -55,4 +55,4 @@ Ezvid Inc.
 Los Angeles CA 90068  
 info@ezvid.com
 
-Copyright © 2015 Ezvid, Inc. All Rights Reserved.
+Copyright © 2016 Ezvid, Inc. All Rights Reserved.
