@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theindiantalks.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220163731id_/http%3A//www.theindiantalks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindiantalks.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321172014id_/http%3A//www.theindiantalks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Indian Talks -Latest Political News & Trending Stories
+# Privacy Policy - The Indian Talks
 
 Your privacy is of utmost importance to us here at The Indian Talks . Rest assured that any information you provide will only be used in accordance with this privacy statement. We only share your information with the trusted companies and our advertisers.
 
