@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrineofapple.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229155426id_/http%3A//shrineofapple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrineofapple.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321180600id_/http%3A//shrineofapple.com/privacy) for the most accurate reproduction.*
 
 # Shrine Of Apple: Our Privacy Policy
 
