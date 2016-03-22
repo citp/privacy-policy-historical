@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spainexpoonline.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212153347id_/http%3A//spainexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spainexpoonline.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322191554id_/http%3A//www.spainexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
