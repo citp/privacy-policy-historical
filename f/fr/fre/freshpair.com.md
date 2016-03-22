@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpair.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060931id_/http%3A//www.freshpair.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpair.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322221207id_/http%3A//www.freshpair.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Security at Freshpair.com
 
