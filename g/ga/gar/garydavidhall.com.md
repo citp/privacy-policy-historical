@@ -1,60 +1,47 @@
-> *The following text is extracted and transformed from the garydavidhall.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114113406id_/http%3A//garydavidhall.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garydavidhall.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322132746id_/http%3A//garydavidhall.com/all-things-real-estate-crm/terms-of-use-disclaimer) for the most accurate reproduction.*
 
-# What information do we collect
+# Terms of Use & Privacy Policy - Gary David Hall
 
-**What information do we collect?**
+**Terms of Use**
 
-We collect information from you when you subscribe to our newsletter or fill out a form. 
+All use of GaryDavidHall.Com and RealEstateCRM.Guru World Wide Web pages is subject to the terms and conditions set forth below. Any use of such Web pages constitutes the user’s agreement to abide by the following terms and conditions.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
+All information provided by GaryDavidHall.Com and RealEstateCRM.Guru is owned by or licensed to GaryDavidHall.Com and RealEstateCRM.Guru. GaryDavidHall.Com and RealEstateCRM.Guru and its licensors retain all proprietary rights to the information. GaryDavidHall.Com and RealEstateCRM.Guru has the
 
- **What do we use your information for?**
+ right to use all material entered into these Web pages (other than third-party material transmitted through private electronic mail) in any of GaryDavidHall.Com and RealEstateCRM.Guru’s print or electronic publications. Except for making one hard copy print of limited portions of the information on an ad hoc basis, or downloading as expressly authorized by REACT,LLC. REACT, LLC information may not be reproduced, transmitted or distributed without GaryDavidHall.Com and RealEstateCRM.Guru’s permission.
 
-Any of the information we collect from you may be used in one of the following ways: 
+REACT,LLC makes no guarantees or warranties as to the accuracy or completeness of or results to be obtained from accessing and using the information. Neither GaryDavidHall.Com and RealEstateCRM.Guru nor its affiliates shall be liable to any user or anyone else for any inaccuracy, error or omission, regardless of cause, in the information or for any damages resulting there from.
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Users entering materials on any of these Web pages are responsible for the content of that material. GaryDavidHall.Com and RealEstateCRM.Guru has no responsibility for the content of any messages or information posted by users, or for the content of information of third-parties on the Internet, even if accessed through GaryDavidHall.Com and RealEstateCRM.Guru’s pages. However, GaryDavidHall.Com and RealEstateCRM.Guru retains the right, which it may or may not exercise, in its sole discretion, to review, edit or delete from the service any third-party material which GaryDavidHall.Com and RealEstateCRM.Guru deems to be illegal, offensive or otherwise inappropriate.
 
-To send periodic emails
+Users may through hypertext or other computer “links” gain access to other sites on the Internet which are not part of GaryDavidHall.Com and RealEstateCRM.Guru’s Web pages. GaryDavidHall.Com and RealEstateCRM.Guru assumes no responsibility for any material outside of GaryDavidHall.Com and RealEstateCRM.Guru’s Web pages which may be accessed through any such “link.”
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+The user agrees to indemnify GaryDavidHall.Com and RealEstateCRM.Guru from any damages, losses, costs or expenses which GaryDavidHall.Com and RealEstateCRM.Guru, its affiliates, their respective employees and authorized representatives may incur as a result of material entered into these Web pages by the user.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+For the purposes of this disclaimer, Gary Hall and GaryDavidHall.Com and RealEstateCRM.Guru are [synonymous](https://garydavidhall.com/all-things-real-estate-crm/faq/#section1).
 
- **How do we protect your information?**
+**Privacy Policy**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
-**Do we use cookies?**
+**Note:** the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
-We do not use cookies.
+**Collection of Information** **  
+** We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
- **Do we disclose any information to outside parties?**
+**Cookie/Tracking Technology** **  
+** The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Distribution of Information**  
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
- **Third party links**
+**Commitment to Data Security**  
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Privacy Contact Information**  
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
- **Your Consent**
+By e-mail by [clicking here](https://garydavidhall.com/all-things-real-estate-crm/contact-us/ "Contact Us"):  
+By Phone: 215.813.2495
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
-
-This policy was last modified on 3/20/2012
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http:GaryDavidhall.com  
-74 N Hamilton Street  
-Doylestown, Pennsylvania 18901  
-USA  
-Privacy@RE-ACT.net
-
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
