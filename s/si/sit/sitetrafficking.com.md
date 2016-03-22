@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitetrafficking.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114211853id_/http%3A//sitetrafficking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitetrafficking.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322130813id_/http%3A//sitetrafficking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SiteTrafficKing
 
