@@ -1,44 +1,110 @@
-> *The following text is extracted and transformed from the onlinewealthpartner.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626193339id_/http%3A//onlinewealthpartner.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinewealthpartner.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322054132id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Online Wealth Parner - The Blog of Michelle and Bill Pescosolido
+# Privacy - Online Wealth Partner - The Blog of Michelle and Bill Pescosolido
 
-This privacy policy sets out how **Pescosolido Marketing  **uses and protects any information that you give ****Pescosolido Marketing**** when you use this website. ****Pescosolido Marketing**** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ****Pescosolido Marketing**** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date]. **What we collect** We may collect the following information: 
+Pescosolido Marketing LLC is committed to protecting individual privacy and securing the personal information made available to us when you visit onlinewealthpartner.com and our partner sites, as well Pescosolido Marketing LLC pages on other sites (such as our profiles on social networks).
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+This privacy policy describes what information is made available to Pescosolido Marketing LLC and third parties when you visit onlinewealthpartner.com and our partner sites, and how Pescosolido Marketing LLC uses and stores that information. The onlinewealthapartner.com “Partner sites” include but are not limited to michellepescosolido.com  and billpescosolidoblog.com.
+
+## Revisions
+
+We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
+
+## What information do we collect?
+
+  1. Pescosolido Marketing LLC collects personally identifiable information from you when ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.For example by completing a “Contact Us” form, signing up for our email list, or leaving a comment, we may use that information to respond to your message and/or to help us get you the information or services you requested. Submitting this personal information (name, address, telephone number, email address, etc.) is voluntary. This information will be retained by Pescosolido Marketing LLC. 
+    1. a. Please note: If you submit your information to register for a Webinar and/or Live Hangout that is hosted by Pescosolido Marketing LLC and a host(s) of another website – the personally identifiable information you provide to attend that webinar and/or live hangout will be shared with and retained by Pescosolido Marketing AND the other host(s) of the hangout.
+  2. Pescosolido Marketing LLC collects non-personally identifiable information about your activities when you visit our website. 
+    * a. Internet Protocol (IP) Address. A computer’s IP address establishes its location on the internet and allows other computers, such as those hosting onlinewealthpartner.com and our partner sites, to send it content and other information;
+    * b. The internet domain name when a computer accesses the internet through a domain, such as from a corporation (“xcompany.com”) or university (“yourschool.edu”);
+    * c. The date, time, and duration of a website visit;
+    * d. If a computer accesses a page on onlinewealthpartner.com and our partner sites via a link on another page, the URL of that referring, non-onlinewealthpartner.com and our partner sites page;
+    * e. Information about the computer set-up, such as the type and version of web browser (e.g., Internet Explorer 8.0, Mozilla Firefox 5.0), operating system (e.g., Unix, Mac OS, MS Windows), Java support (yes or no), Flash version (e.g., 10.1 r85), screen resolution (e.g., 1280×800), and connection speed (e.g., DSL, T1);
+    * f. The specific pages a computer accesses when it requests information from onlinewealthpartner.com and our partner sites; and
+    * g. The amount of data (measured in number of bytes) transmitted from onlinewealthpartner.com and our partner sites to a computer. Pescosolido Marketing LLC does not use this information to identify or track the browsing of individual users. We do use it to generate aggregate statistics about how onlinewealthpartner.com and our partner sites are used.
+    * h. Some pages on onlinewealthpartner.com and our partner sites may include web content or functionality from third parties, such as embedded videos hosted by non-onlinewealthpartner.com and our partner sites services. For example, content or functionality from the following third parties may be present on some onlinewealthpartner.com and our partner sites pages: 
+      * i. YouTube.com;
+      * ii. Vimeo.com;
+      * iii. Flickr.com;
+      * iv. SlideShare;
+      * v. Scribd.com; and
+    * i. These third parties may use web measurement and customization technologies (such as cookies) in conjunction with the provision of this content or functionality. You should consult the privacy policies of these third parties for further information. We do not knowingly use third-party tools that place a multi-session cookie prior to the user interacting with the tool, for example by playing an embedded video.
 
 
 
-**What we do with the information we gather** We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+## How do you collect the information?
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-
-
-**Security** We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. **How we use cookies** A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. **Links to other websites** Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. **Controlling your personal information** You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **michelle@globalresortsnetworkonline.com**
+  1. Personally identifiable information is submitted by you into the forms on our websites.
+  2. Pescosolido Marketing LLC uses a third-party analytics providers including but not limited to Google Analytics to analyze the data collected through the session and persistent metrics cookies to enhance the website, our services, and our advertising. The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference onlinewealthpartner.com and our partner sites information with any other information.
+  3. Pescosolido Marketing LLC uses web measurement and customization technologies to make onlinewealthpartner.com and our partner sites function better for visitors and to better understand how the public is using the website. This means that when you visit a page on onlinewealthpartner.com or a partner site, the internet browser on your computer may download and save a small file (commonly called a “cookie”) so that our website can recognize your specific computer and browser when you use onlinewealthpartner.com and our partner sites in the future.These technologies fall into two categories, based on the length of time they remain active: 
+    * a. Single-session cookies last only as long as a web browser is open. Once the browser is closed, the data files on your computer are deleted.
+    * b. Multi-session cookies last beyond a single session of browsing a website; this allows a website to recognize a computer or user for defined amount of time.
+  4. onlinewealthpartner.com and our partner sites use the following web measurement and customization technologies 
+    * a. Session cookies are used for technical purposes, such as enabling better navigation through the site, facilitating the use of user accounts, and generating aggregated statistics about how the website is used.
+    * b. Persistent cookies are used to recognize a computer that has previously visited onlinewealthpartner.com and our partner sites, which can improve a user’s experience, for example by continuing preference settings from previous visits. onlinewealthpartner.com and our partner sites currently use the following first-party persistent cookies: When a visitor views a welcome, or ‘splash,’ page, also known as a “landing page” – onlinewealthpartner.com and our partner sites sets a persistent cookie to prevent them from seeing that page repeatedly. This cookie does not collect personal identifying information. onlinewealthpartner.com and our partner sites sets other persistent cookies to measure website metrics, such as which pages are popular and how often people visit the website. These cookies do not collect personal identifying information.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 5000 El Dorado Pkwy **.** If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+## How do you use the information?
 
-Be Sociable, Share!
+  1. #### Site activity information.
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&title=Privacy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&title=Privacy&notes= "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&title=Privacy&srcURL=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&srcTitle=Online+Wealth+Parner+-+The+Blog+of+Michelle+and+Bill+Pescosolido+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&title=Privacy&source=Online+Wealth+Parner+-+The+Blog+of+Michelle+and+Bill+Pescosolido+&summary= "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&Title=Privacy "BlinkList")
-  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fonlinewealthpartner.com%2Fprivacy-2%2F&title=Privacy&annotation= "Google Bookmarks")
-  * 
+We keep track of the actions you take, such as the pages you visit, how long you visit, the links you click on, form submissions, and downloads.
 
+  2. #### Access Device and Browser Information.
+
+When you access our site from a computer, mobile phone or other device, we may collect information from that device about your browser type, location, and IP address, as well as the pages you visit.
+
+  3. #### Cookie Information.
+
+We use “cookies” (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) to make our site easier to use and to make our advertising better.For example, we use them to store your email address or login ID (but never your password) to make it easier for you to login whenever you come back to our site. We also use them to confirm when you reach certain pages on our website (like a download or checkout page). Cookies are used to tell us when you are interacting with our advertisements and to personalize the ads you see about us.
+
+  4. #### Advertising.
+
+We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites. We use remarketing and display advertising across multiple networks including, but not limited to, Google. Our ad network partners and other third party vendors, including Google, use cookies to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests on sites across the internet.We may target ads based on data provided by clients or partners in combination with the data we collect ourselves. The data provided by third parties may originate both online and offline. Pescosolido Marketing LLC may share the aggregate information it collects with advertisers, business partners, sponsors, and other third parties.Our advertising partners including but not limited to Google, also place persistent cookies on your device when you visit our website or our Advertisers’ websites in order to help us recognize you and serve relevant advertisements to you when you visit their website or online service or websites in their networks.
+
+  5. #### Email Marketing
+
+Pescosolido Marketing LLC maintains several lists of subscribers who have asked to receive periodic email updates. Any recipient of an Pescosolido Marketing LLC email may unsubscribe from future messages via a link at the bottom of each email message. We do not sell, rent, exchange, or otherwise disclose our list subscribers to persons or organizations outside onlinewealthpartner.com.Messages sent from Pescosolido Marketing LLC to email subscribers may include a tracking pixel to provide basic aggregate analytics such as the percentage of recipients who opened an email or clicked on a link in an email, the percentage of subscribers using various email clients, and the number of times an email was forwarded or printed. Our email analytics providers, also offer the capability to view some data, such as whether a mass email was opened, at an individual level for 30 days after an email was sent; as a matter of policy and practice this data is only viewed on an aggregate basis.
+
+  6. #### Links
+
+When you follow a link to an external site, you are leaving onlinewealthpartner.com and our partner sites and are subject to the privacy and security policies of the owners/sponsors of the external site. onlinewealthpartner.com and our partner sites do not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained in a linked site. We also do not endorse the organizations or individuals maintaining sites that we link, any views they express, or any products/services they offer.
+
+Below is the current list of official Pescosolido Marketing LLC pages on third party websites.
+
+    * Facebook ([Privacy](http://www.facebook.com/policy.php))
+    * Twitter ([Privacy](http://twitter.com/privacy))
+    * LinkedIn: ([Privacy](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv))
+    * Google+: ([Privacy](http://www.google.com/intl/en/+/policy/))
+    * Quora: ([Privacy](http://www.quora.com/about/privacy))
+    * Tumblr: ([Privacy](http://www.tumblr.com/policy/en/privacy))
+    * YouTube: ([Privacy](http://www.youtube.com/t/privacy_at_youtube))
+    * Vimeo: ([Privacy](http://vimeo.com/privacy))
+    * iTunes: ([Privacy](http://www.apple.com/privacy/))
+    * Pinterest: ([Privacy](http://pinterest.com/about/privacy/))
+    * Instagram: ([Privacy](http://instagram.com/about/legal/privacy/))
+    * SlideShare: ([Privacy](http://www.slideshare.net/privacy))
+
+
+
+## What control does the customer have over their personal information?
+
+  1. You can unsubscribe from our email list by clicking the unsubscribe link located at the bottom of any email communication we send you. If you want us to remove all personal information – including name, email, mailing address please contact info[at]imsable.com with your request to delete your profile.
+  2. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use our site. Before blocking cookies – we highly recommend reading why cookies are good here:[http://blog.hubspot.com/in-defense-of-tracking-cookies.](http://blog.hubspot.com/in-defense-of-tracking-cookies) [http://lifehacker.com/5461114/fact-and-fiction-the-truth-about-browser-cookies.](http://lifehacker.com/5461114/fact-and-fiction-the-truth-about-browser-cookies)
+  3. You may opt-out of the placement of cookies by many of these advertisers [here](http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&h=nAQFs5LC3&s=1).To opt-out of Facebook advertising visit – [https://www.facebook.com/help/146952742043748 ](https://www.facebook.com/help/146952742043748)To opt-out of Google advertising visit –[https://support.google.com/ads/answer/2662922?hl=en ](https://support.google.com/ads/answer/2662922?hl=en)Google Analytics –[https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/)To opt-out of Perfect Audience advertising visit –[http://ib.adnxs.com/optout](http://www.google.com/url?q=http%3A%2F%2Fib.adnxs.com%2Foptout&sa=D&sntz=1&usg=AFQjCNEqMwgfWpdGoy9bfjEX61oTSJcqgw)
+
+
+
+## How do you protect the information?
+
+  1. We take reasonable precautions to protect our site and information automatically collected by onlinewealthpartner.com and our partner sites or voluntarily submitted to onlinewealthpartner.com and our partner sites. For example, we restrict access to information collected by or submitted to onlinewealthpartner.com and our partner sites to employees who access it to perform their duties. Access to Pescosolido Marketing LLC accounts on third-party sites is limited to the staff who administer those accounts.
+  2. We also utilize commonly used practices and technical controls to protect this information, along with onlinewealthpartner.com and our partner sites itself. These practices and controls include, but are not limited to, encrypting the transfer of personal information over the Internet via Secure Sockets Layer (SSL), using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information and maintaining strict technical controls and procedures to ensure the integrity of all data on onlinewealthpartner.com and our partner sites. We periodically review our processes and systems to verify compliance with industry best practices and ensure the highest level of security for our website.
+  3. Children and Privacy on onlinewealthpartner.com and our partner sites We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13. To notify us of our receipt of information by children under 13, please contact us at support[at]onlinewealthpartner.zendesk.com
+
+
+
+By using this site you’re agreeing to the terms set forth in this privacy policy and will not hold Pescosolido Marketing LLC liable
+
+**Updates to this privacy policy**  
+Updated: August 1, 2015
