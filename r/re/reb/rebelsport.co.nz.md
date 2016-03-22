@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelsport.co.nz privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916035851id_/http%3A//www.rebelsport.co.nz/shopping-online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelsport.co.nz privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322022719id_/http%3A//www.rebelsport.co.nz/shopping-online/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
