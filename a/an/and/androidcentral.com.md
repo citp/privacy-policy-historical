@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidcentral.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007051542id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidcentral.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322014920id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mobile Nations - Privacy Policy
 
