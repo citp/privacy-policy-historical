@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sampleresume.net privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329053320id_/http%3A//www.sampleresume.net/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleresume.net privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322160131id_/http%3A//www.sampleresume.net/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Sampleresume.net
 
