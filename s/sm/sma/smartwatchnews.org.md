@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwatchnews.org privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001143319id_/http%3A//www.smartwatchnews.org/privacy-policy-smart-watch-news) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwatchnews.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322162712id_/http%3A//www.smartwatchnews.org/privacy-policy-smart-watch-news) for the most accurate reproduction.*
 
 # Privacy Policy - Smart Watch News
 
