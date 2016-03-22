@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924072512id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322183101id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
 
-# Dailomo Privacy Policy
+# Dailomo Privacy Policy – Dailomo.com – Tamil Cinema & Etc.
 
 Dailomo.com welcomes you. We value your privacy, and want you to know what information we collect and what we do with it. 
 
