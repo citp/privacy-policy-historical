@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055632id_/https%3A//www.ultrawebhosting.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322043447id_/https%3A//www.ultrawebhosting.com/privacy-statement) for the most accurate reproduction.*
 
-# Ultra Web Hosting Privacy Statement
+# Privacy Statement : ULTRA Web Hosting
 
 This is the web site of www.ultrawebhosting.com.
 
-Our postal address is
+Our postal address is 12101 Tukwila International Blvd Suite 410 Seattle, WA 98168
 
- **12101 Tukwila International Blvd Suite 410  
-Seattle, WA 98168**
+We can be reached via our [contact page](https://web.archive.org/contact).
 
-We can be reached via our [contact page](https://www.ultrawebhosting.com/contact-us/).
-
-For each visitor to our website, our web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where needed).
+For each visitor to our website, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where needed).
 
 We collect the domain name and e-mail address (where possible) of visitors to our website, aggregate information on what pages consumers access or visit.
 
