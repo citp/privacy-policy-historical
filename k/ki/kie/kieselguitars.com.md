@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064345id_/http%3A//www.carvinguitars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322024752id_/http%3A//www.kieselguitars.com/privacy.php) for the most accurate reproduction.*
 
-# CarvinGuitars.com - Custom Guitars & Basses, Made in the USA: Privacy Policy
+# Privacy Policy | KieselGuitars.com
 
   
-At Carvin Guitars & Kiesel Guitars, we care about your online privacy and security.  This Privacy Policy applies to CarvinGuitars.com, as well subordinate Carvin online entities, including (but not limited to):
+At Carvin Guitars & Kiesel Guitars, we care about your online privacy and security.  This Privacy Policy applies to KieselGuitars.com, as well subordinate Kiesel online entities, including (but not limited to):
+
+  * KieselGuitars.com
 
   * CarvinGuitars.com
 
@@ -33,7 +35,7 @@ We can be reached via telephone at (858) 484-8277. 
 
 For BBS-specific privacy issues, contact [ administrator@carvinbbs.com](mailto:administrator@carvinbbs.com?subject=Privacy%20Policy).
 
-This privacy notice discloses the privacy practices for CarvinGuitars.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for KieselGuitars.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
 
@@ -90,8 +92,8 @@ While we use encryption to protect sensitive information transmitted online, we 
 This web site contains links to other sites. We are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.   
 
 
-**CarvinGuitars.com Legal Statement**
+**KieselGuitars.com Legal Statement**
 
-Every effort is made to ensure the accuracy of product descriptions, pricing, and other information on CarvinGuitars.com, and we are constantly checking and verifying all data presented here.  However, Carvin Guitars cannot be held responsible for legitimate typographic errors, misprints, mispricing, or coding errors carried out by our programmers and/or other online technical staff.  If you spot something on CarvinGuitars.com you think is in error, please contact the [ webmaster](mailto:webmaster@carvinguitars.com?subject=Possible%20Error%20on%20CarvinGuitars.com).
+Every effort is made to ensure the accuracy of product descriptions, pricing, and other information on KieselGuitars.com, and we are constantly checking and verifying all data presented here.  However, Kiesel Guitars cannot be held responsible for legitimate typographic errors, misprints, mispricing, or coding errors carried out by our programmers and/or other online technical staff.  If you spot something on KieselGuitars.com you think is in error, please contact the [ webmaster](mailto:webmaster@carvinguitars.com?subject=Possible%20Error%20on%20KieselGuitars.com).
 
-All content, code, photographs and other graphics, manuals and descriptions are copyright © 1996 - 2015, unless otherwise noted.  All rights reserved.  No portion of CarvinGuitars.com or it's subordinate sites may be used, reprinted, copied or sold without explicit written permission from Carvin Guitars / Kiesel Guitars.  Product photography many not, under any circumstances, be used on third party sites such as eBay™ for the purposes of selling used Carvin Guitars products without the express written consent of Carvin Guitasr / Kiesel Guitars.
+All content, code, photographs and other graphics, manuals and descriptions are copyright © 1996 - 2015, unless otherwise noted.  All rights reserved.  No portion of KieselGuitars.com or it's subordinate sites may be used, reprinted, copied or sold without explicit written permission from Carvin Guitars / Kiesel Guitars.  Product photography many not, under any circumstances, be used on third party sites such as eBay™ for the purposes of selling used Kiesel Guitars products without the express written consent of Carvin Guitasr / Kiesel Guitars.
