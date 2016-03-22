@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prismavps.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023130533id_/http%3A//www.prismavps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prismavps.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322014327id_/http%3A//www.warpline.com/privacy.html) for the most accurate reproduction.*
 
-# PrismaVPS - Budget VPS Servers - Contact Us
-
-Privacy Policy
+# Warpline $1 Web Hosting, $4 Reseller Accounts, $10 Domains, cPanel hosting powered by LiteSpeed!
 
 This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices.
 
