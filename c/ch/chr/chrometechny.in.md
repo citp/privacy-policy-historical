@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chrometechny.in privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124043412id_/http%3A//chrometechny.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrometechny.in privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322195924id_/http%3A//chrometechny.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ChromeTechny.inChromeTechny.in
+# Privacy Policy - ChromeTechny.in
 
 The Privacy Policy is a source for site users to understand what exactly we use on ChromeTechny.Com. Privacy of our users at ChromeTechny is extremely important to us.  ChromeTechny.com uses, collects. maintains and discloses all the information gathered from the users. This privacy is strictly applied in the entire website, to all the categories and all the services provided at ChromeTechny.Com.
 
