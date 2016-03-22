@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323201128id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322101706id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Teach Starter Privacy Policy
 
 ## 1\. Privacy Policy
 
-Teach Starter Pty Ltd ACN 163 164 869 ( **Teach Starter** ) takes all reasonable steps to implement processes and procedures to safeguard Personal Information.  Teach Starter endeavors to but is not required to comply with the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) ( **Law** ).  While not claiming to be a statement of compliance, this Privacy Policy outlines Teach Starter’s use, collection and storage of Personal Information.
+Teach Starter Pty Ltd ACN 163 164 869 ( **Teach Starter** ) takes all reasonable steps to implement processes and procedures to safeguard Personal Information.  Teach Starter endeavours to but is not required to comply with the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) ( **Law** ).  While not claiming to be a statement of compliance, this Privacy Policy outlines Teach Starter’s use, collection and storage of Personal Information.
 
 This Privacy Policy applies to all Personal Information collected by Teach Starter in the course of providing services to users ( **Users** ) regardless of the source of that Personal Information.  This Privacy Policy is available on the Site.
 
@@ -32,7 +32,7 @@ Terms that are capitalised in this Privacy Policy are defined below, unless the 
 
 Teach Starter collects Personal Information about Users in order to provide the Users with the services and goods they have requested.  If this information is not provided Teach Starter may not be able to provide Users with requested services or goods.
 
-**Teach Starter endeavors to collect Personal Information from Users directly.   Information Teach Starter obtains from third parties or publically available information is limited to circumstances where the User has consented whether expressly or impliedly.**
+**Teach Starter endeavours to collect Personal Information from Users directly.   Information Teach Starter obtains from third parties or publically available information is limited to circumstances where the User has consented whether expressly or impliedly.**
 
 ### 2.2 Types of Personal Information collected
 
@@ -62,8 +62,8 @@ If a User would like to access or correct Personal Information that Teach Starte
 Scott Tonges
 
 Teach Starter Pty Ltd ACN 163 164 869  
-PO Box 631  
-Paddington QLD 4064  
+PO Box 392  
+Ashgrove  West, QLD 4060  
 Australia
 
 Telephone: 1800 790 441
@@ -74,7 +74,7 @@ The User will need to identify themselves to the reasonable satisfaction of Teac
 
 ### 3.2 Complaints procedure
 
-Teach Starter operates a service oriented business via the Site.  If a User has a complaint about Teach Starter’s collection or use of Personal Information pertaining to that User, then the User is requested to contact Teach Starter’s **Privacy Officer** at first instance.
+Teach Starter operates a service orientated business via the Site.  If a User has a complaint about Teach Starter’s collection or use of Personal Information pertaining to that User, then the User is requested to contact Teach Starter’s **Privacy Officer** at first instance.
 
 If after investigating the User’s complaint and reporting to the User about an alleged breach of the Australian Privacy Principles and reporting the results of Teach Starter’s investigations to the User, the User is not satisfied, then Teach Starter requests that the User consult:
 
@@ -92,7 +92,7 @@ A complaint form can be found at: https://forms.business.gov.au/aba/oaic/privac
 
 Personal Information Teach Starter collects may in the future be accessed by employees and contractors of service providers outside of Australia.  Personal Information may be transferred to countries outside Australia including but not limited to Singapore.
 
-Teach Starter takes reasonable steps to ensure that parties that provide Teach Starter with necessary services for website hosting and database administration act in accordance with the Australian Privacy Principles and have signed undertakings for their staff relating to confidentiality.  Teach Starter also uses only recognized service providers who use enterprise level software with up to date SSL Encryption.
+Teach Starter takes reasonable steps to ensure that parties that provide Teach Starter with necessary services for website hosting and database administration act in accordance with the Australian Privacy Principles and have signed undertakings for their staff relating to confidentiality.  Teach Starter also uses only recognised service providers who use enterprise level software with up to date SSL Encryption.
 
 ### 3.4 Anonymity and use of pseudonyms
 
