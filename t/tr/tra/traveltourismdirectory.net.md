@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltourismdirectory.net privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907051004id_/http%3A//www.traveltourismdirectory.net/privacy_policy_traveltourismdirectorynet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltourismdirectory.net privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322043715id_/http%3A//www.traveltourismdirectory.net/privacy_policy_traveltourismdirectorynet.html) for the most accurate reproduction.*
 
 # Travel Directory Tourism Directory Vacation Directory Hotels Tours and agents websites listings - Traveltourismdirectory.net Privacy Policy
 
