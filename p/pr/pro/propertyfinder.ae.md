@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the propertyfinder.ae privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024054636id_/https%3A//www.propertyfinder.ae/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyfinder.ae privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322051947id_/https%3A//www.propertyfinder.ae/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | propertyfinder.ae
-
-Al Quoz 
 
 **Our commitment to you**
 
