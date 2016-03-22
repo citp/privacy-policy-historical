@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123113224id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322195131id_/http%3A//conquer.tech/privacy) for the most accurate reproduction.*
 
-# Privacy - Thad Thoughts
+# Privacy - Conquer Technology
 
-__March 12, 2012 [Privacy](http://www.thadthoughts.com/privacy/)2012-03-12T10:44:28+00:00
+__March 12, 2012 [Privacy](http://conquer.tech/privacy/)2012-03-12T10:44:28+00:00
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@thadthoughts.com).
 
