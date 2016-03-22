@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924193011id_/http%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322114104id_/http%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1105 Media Privacy Policy -- 1105 Media
 
