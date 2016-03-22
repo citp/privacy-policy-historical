@@ -1,107 +1,143 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031091343id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322183627id_/https%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Homes for Sale, MLS Listings Search, Real Estate Agents -- ZipRealty
 
-Last updated: July 15, 2014 
+Last updated: Dec 1, 2015 
 
-ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you understand how we collect, use, and share information provided by users to ZipRealty via the ZipRealty website (defined to include web, mobile, or otherwise) (the "Site") and mobile applications (the Site, mobile applications and the services we offer via the Site, collectively the "Services"). This Privacy Policy doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. 
+This Privacy Policy (this "Policy") describes the policies and procedures of ZipRealty (along with our affiliates, "we", "our" or "us") on the how we collect, use and disclose of information through your use of this website or our mobile application (collectively, the "Service"). 
 
-**By registering on or using the Site, you are acknowledging and accepting this Privacy Policy.** We may from time-to-time, modify and revise this Privacy Policy. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services, and we'll indicate the date of last revision. **Your continued use of the Services after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
+We may change this Policy, and will provide notice of changes through the Service or by email. Your continued use of the Service after notice constitutes your consent to the change. 
 
-**_The Information We Collect_**
+**WHAT INFORMATION DOES THIS APPLY TO?**
 
-**Account Information.** Personal Information is information that others can use to identify, locate, or contact you, including but limited to, your name, email address, postal address, phone number, and, to the extent such comments include personally identifiable information, comments you make to forums and blogs available on the Site (collectively, "Personally Identifiable Information" or "PII"). When you register and create an account on our Services ("Account"), use the Services or contact ZipRealty, we may collect certain PII from you. We may also collect certain information that is not PII because it cannot be used by itself to identify you, including, without limitation, information about whether you plan on buying and/or selling real estate, home search criteria, information about financing for the purchase of real estate and other information related to the sale and/or purchase of real estate. ZipRealty does not request or collect social security numbers, credit card numbers, or driver’s license numbers. If you register or log on to the Site through Facebook, you may have to provide use with your username so that your identity can be authenticated by your Facebook account. When the authentication is complete, we'll be able to link your Account with your Facebook account and access certain PII, including your name, email address, profile picture, gender, user ID, list of friends and any other information that you have made publicly available on Facebook. We don't receive or store passwords for your Facebook account. Please refer to Facebook's privacy settings to determine how you may adjust the permissions and manage the interactivity between ZipRealty and Facebook. 
+This Policy applies to information collected by the Service as described herein. When you use the Service, you agree to the collection, transfer, manipulation, storage, disclosure, and other uses of your information as described in this Policy. 
 
-**Information Related to the Use of the Services.** ZipRealty's servers automatically record information sent by your browser or created by your use of the Services, regardless of whether you are an Account holder or a visitor (either, a "User"). Such information may include your Internet Protocol (IP) address, browser type and language, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users' needs and preferences. We may use a person's IP address to fight spam, malware and identity theft. We also use the IP address to generate aggregate, non-identifying information about how our Services are used. 
+**HOW IS INFORMATION COLLECTED?**
 
-**Information Collected Using Cookies.** A "cookie" is a small data file that can be placed on your computer when you visit certain websites. When you visit our Site, both ZipRealty and third parties place cookies on your computer. 
+**_Information you provide to us_**
 
-**Cookies We Place:** When you visit our Site, ZipRealty sends cookies to your computer that uniquely identify your Internet browser, identify that you've logged in to the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. If you are an Account holder, we will use a cookie to save your settings and to provide customizable and personalized services. Although most websites automatically accept cookies, you can change your browser options by adjusting its privacy and security settings to stop automatically accepting cookies or to prompt you before accepting cookies. 
+We collect information you provide directly to us through the Service, including when you create your account, including contact information, and information sent to us through the Service. We may also upload your contact information into the Services if you provide that information to us offline or in other ways. 
 
-**Cookies Placed by Third Parties:** Some third-party services providers that we engage (including Google and other third-party advertisers) may also place their own cookies on your computer and may track different sites you visit. In particular, we use Google's remarketing features, which allow us to place ads for ZipRealty's services on other sites you visit. You may choose to control some of the advertisements you receive on this and other sites by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. 
+**_Information we collect through your use of the Service_**
 
-**_Google Analytics & Remarketing_**
+When you use the Service, we may collect the following information about you: 
 
-We use Google Analytics to collect information about use of this Site so that we may continually improve it. Google Analytics uses cookies to collect information such as the IP address of visitors to this Site, how often users visit this Site, what pages they visit, and what other sites they used before coming to this Site. We also use certain advertising-related features of Google Analytics that allow Google to collect non-personally identifiable information about visitors to this Site via cookies, such as the DoubleClick cookies, and other anonymous identifiers, such as mobile device IDs. We use the following advertising features of Google Analytics: 
-
-  * _Remarketing_ : This allows Google to place ads for ZipRealty on other sites you may visit and for us to understand the effectiveness of those advertisements. 
-  * _Google Display Network Impression Reporting and Campaign Manager Integration_ : This feature provides us with reports of visitors to this Site who viewed ads placed by Google for ZipRealty on other sites and how visitors to this Site are related to ZipRealty advertisements on other sites. 
-  * _Demographic and Interest Reporting_ : Google provides us with reports on the age, gender and interests of visitors to this Site, based on information Google collects about other websites visitors to this Site have visited. 
-
-
-
-More information on Google Analytics and Google's Privacy Policy can be found [here](http://www.google.com/analytics/learn/privacy.html). You can prevent Google Analytics from recognizing you on return visits to this Site by disabling cookies on your browser. You may also opt out of this process by turning off cookies in the preferences settings in your browser. Click [here](http://www.google.com/settings/ads) to opt out of Google Analytics or to customize the Google Display Network ads you receive. You may also choose to control some of the advertisements you receive on this and other sites by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. 
-
-**Location Information.** In some cases, we collect information about where you are located, such as by converting your IP address into a rough geolocation. We may use location information to improve and personalize our Services for you. 
-
-**Device Identification Information.** In some cases, we may assign an identification number to your device ("Device ID Number"). Device ID Numbers are not linked to any PII. We may use such device identification information to improve and personalize our Services for you. 
-
-**Information from Your Communications.** When you send email or other communication to ZipRealty, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. 
-
-**_How We Use Information_**
-
-Depending on your use of the Services, we may use your PII for the following purposes: 
-
-  * To enable ZipRealty agents or other third-party real-estate professionals and their affiliated entities to contact you via email, telephone, or SMS text messaging and provide personal service, or to provide you with personalized content, including email messages, e-mail alerts and/or search results. 
-  * To facilitate all aspects of the sale and/or purchase (or potential sale and/or purchase) of real estate. 
-  * For the purposes for which you provided the information, including to process and respond to inquiries and to contact you about Services you have requested. 
-  * To improve the features, content and navigability of the Services. 
-  * To solicit your feedback about our Services. 
-  * To alert you to new Services features, promotions, and services, and to deliver other information from which you may opt out or unsubscribe. 
-  * To enforce the [Terms of Use](https://web.archive.org/footer_pages/terms_of_use.jsp). 
+  * _Real Estate Preferences._ **** We may collect information on your real estate searches and preferences using the Service, including about whether you plan on buying or selling real estate, home search criteria, information about financing for the purchase of real estate, and other information related to the purchase or sale of real estate. 
+  * _Usage Preferences._ We collect information about how you interact with the Service, preferences, and settings. In some cases we do this through the use of cookies and similar technologies such as web beacons that create and maintain unique identifiers. To learn more about this, please see the section on "Cookies" below. 
+  * _Devices and Software._ We may collect information about the device and software you provide us to access the Service, including, for example, hardware, operating system, software and file names and versions, preferred language, unique device identifier, advertising identifiers, serial number, and network information. 
+  * _Log Information._ When you interact with the Service, we collect server logs, which may include information like device IP address, access times, app features accessed, pages viewed, app crashes and other system activity, type of browser, and referral link information. 
+  * _Location._ If you permit the Service to access location services used by your device, we may collect the location of your device while you are using the Service. 
+  * _Communication Information._ Information sent by you to us through email or other communications methods. 
 
 
 
-In the future, we may sell some or all or our assets. 
+**_Other information_**
 
-**_Sharing Of Information_**
+We may also receive information from other sources, including: 
 
-We will not share any PII that we have collected from or regarding you except as described below:
+  * _Social Media._ **** If you choose to link, create, or log in to your Service account with a social media service (e.g., Twitter, Facebook, Google+, etc.), or if you engage with a separate app or website that communicates with the Service, we may receive information about you or your connections from that service. In most cases you can control what information you share with us through privacy settings available on those third party social media services. 
+  * _Third Parties._ **** If you also interact with us in another capacity, including on any other website, app, or in person, we may combine or associate that information with information we have collected from you through the Service. 
+  * _Pre-Populated Information._ Pre-populated information is information that may include your name and email address, that you have given to an independent real estate professional with whom you have a pre-existing relationship. The professional may collect such pre-populated Information from you with the sole purpose of pre-populating an account for the Service on your behalf and with your consent. You may choose not to finalize the creation of an account and may opt-out of all future communications from us by following the instructions in the account creation notification or by contacting us at the email address at the bottom of this page. 
 
-ZipRealty may disclose your PII: (i) to another entity that we engage as a third-party services provider for purposes of outsourcing one or more of the functions described in the previous "How We Use Information" section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; (iv) in connection with a business transaction as described below in the "Information Disclosed in Connection with Business Transactions" section; (v) with other companies for the purposes of marketing products to you after obtaining your consent; and/or (vi) as otherwise authorized by you. 
 
-**Information Shared Based on your Opt-In.** ZipRealty may provide you with opportunities to opt-in to share certain information with ZipRealty and/or third parties in exchange for certain information to be provided by ZipRealty and/or a third party ("ZipRealty Information") to you. For example, our Site may have prompts asking you if you would like to receive updates regarding mortgage rates or other similar types of products/services relating to real estate. If you opt-into receiving such information, you may be asked to provide some information in order to receive ZipRealty Information. You may at any point withdraw your consent to share information with ZipRealty or third parties by sending an email with the subject "Do Not Share Information" to [privacy@ziprealty.com](mailto:privacy@ziprealty.com). Additionally, if you wish to opt out of emails received directly from third parties, you can follow the opt-out instructions in the emails they send you. ZipRealty will stop sharing your information within ten (10) days after receiving your request; provided, however, that information shared prior to that time will remain in the possession of ZipRealty or third parties and may continue to be used consistent with this Privacy Policy. 
 
-**Information Shared in Connection with Real Estate Transactions.** ZipRealty may share your PII with third parties involved with your sale and/or purchase (or potential sale and/or purchase) of real estate. These third parties include, but are not limited to, third-party real estate agents and brokers, insurance providers, lenders, appraisers, home warranty providers, or inspectors. 
+**HOW IS INFORMATION USED?**
 
-**Information You Share with Third Parties.** In connection with your real-estate transactions you may choose to work with third parties who are not affiliated with or related to ZipRealty, including without limitation lending institutions, title companies, insurers, appraisers, home warranty companies, real-estate agents, real-estate brokers and other service providers. These third parties may each have their own privacy policies governing how they handle your PII. ZipRealty has no responsibility or liability for third-party privacy policies or the actions of any third party with respect to your PII. 
+We may use the information collected as described above as follows: 
 
-**Information Disclosed for Protective Purposes.** We may also share your information (including PII) in response to a subpoena, legal order or official request of government and law enforcement officials, when, in our sole discretion, we believe you have acted in violation of the [Terms of Use](https://web.archive.org/footer_pages/terms_of_use.jsp), or when we believe that doing so may protect our safety, your safety or the safety of others. 
+  * _Provide the Service._ Provide, maintain, and improve the Service, including, for example, to send or facilitate communications among you, independent real estate professionals and their affiliated entities, and other users of the Service, provide products and services you request (and send related information), develop new features, provide customer support, and send updates and administrative messages. Further, we reserve the right to share the information with our franchisees, affiliated companies, marketing partners, and third party service providers, as permitted by law, in order to fulfill our commitment of providing you with services. 
+  * _Analysis._ Perform internal operations, including, for example, to troubleshoot bugs and operational issues, improve security; conduct data analysis, testing, and research; and monitor and analyze usage and activity. 
+  * _Communicate._ Inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products. 
+  * _Personalize._ Personalize and improve the Service, including to provide or recommend features, content, social connections, referrals, and advertisements. 
 
-**Sharing De-identified Information Shared with Third Parties.** We may share freely with any other party and for any reason information that is de-identified (for example, including, but not limited to any information stripped of information that could be used to identify you and/or hashing). This information is usually aggregated (i.e., combined with information from many other users), and may include information such as Site traffic patterns, trends, demographics, search patterns and other information. 
 
-**Information Disclosed in Connection with Business Transactions.** In the future, we may sell some or all or our assets. In such transactions, customer information (including PII) generally is one of the transferred business assets. In the event of a sale of our assets including our database, customer information (including PII), will be transferred. Such a transfer may also occur if we go out of business, enter bankruptcy or are acquired in a transaction such as an acquisition or merger. 
 
-**_Pre-Populated Accounts_**
+We are based in the United States. By accessing or using the Service, you consent to the processing and transfer of information about you in and to the U.S. and other countries, where you may not have the same rights under local law. However, wherever we process information about you, we will do so in accordance with this Policy. 
 
-We may collect information about you, including but not limited to, your name and email address, from ZipRealty agents or other third-party real-estate agents (each, an "Agent") whom you have previously contacted or with whom you have an established relationship ("Agent Information"). An Agent will collect such Agent Information from you with the sole purpose of initially pre-populating a ZipRealty account on your behalf and with your consent.
+**HOW IS INFORMATION SHARED?**
 
-If you consent to this and provide Agent Information to an Agent, you will be notified via email that a ZipRealty account has been created on your behalf. If you choose to finalize the creation of an account, you will also be instructed to review and accept ZipRealty's Terms of Use and to review this Privacy Policy. You may choose not to finalize the creation of an account and may opt-out of all future communications from ZipRealty by following the instructions in the account creation notification or by contacting us at [privacy@ziprealty.com](mailto:privacy@ziprealty.com). Please note that this section does not apply to any non-ZipRealty third parties to the extent you have provided any information with such parties. You must contact those third parties for information regarding their policies. 
+We may share the information we collect about you as described in this Policy or as described at the time of collection or sharing, including as follows: 
 
-**_Third-Party Advertising_**
+**_Through the Service._**
 
-Third-party advertisers may serve you ads when you access the Services. Some of these companies may use information about your visits to ZipRealty and other websites in order to provide advertisements about goods and services that may be of interest to you. This Privacy Policy does not cover the collection methods or use of information by these third-party advertisers, which have their own privacy policies about their use of cookies and other technologies. If you would like more information about this type of advertising, including opt-out procedures for certain third-party advertising companies, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+We may share your information: 
 
-**_Links_**
+  * With independent real estate professionals and owners and operators of franchised real estate brokerage companies to enable them to provide services you request through the Service. 
+  * With third parties to provide you a service you requested through a partnership or promotional offering made by a third party or us. 
+  * With the public if you submit to a public part of the Service, such as comments, social media posts, or other features viewable by the public or generally by registered users of the Service. 
+  * With third parties with whom you choose to let us share information, for example other apps or websites that integrate with the Service, or those with a Service with which we integrate. 
+  * With our affiliates. 
 
-The Services may contain links to third-party websites and services. The use of personal information on third-party websites and services is governed by the privacy policies of the third-party websites and services and is not subject to ZipRealty's control. Our Privacy Policy does not apply to such websites or services and ZipRealty is not responsible for the privacy practices, content or security practices and policies of such websites or services. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access. 
 
-**_The Security of Your Information_**
 
-ZipRealty takes reasonable measures to protect against the loss, misuse and alteration of your PII from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information. 
+**_Through other means of Sharing._**
 
-**_Account Deactivation_**
+We may share your information: 
 
-You can de-active your ZipRealty account at any time by contacting [team@ZipRealty.com](mailto:team@ziprealty.com). However, you will not be able to access any of the services offered by ZipRealty if you choose to deactivate your account. Please note that even if you request de-activation of your ZipRealty Account, information associated with your account may remain in archived/backup copies for our records or as otherwise required by law. 
+  * With our affiliates and third party service providers that provide services or conduct data processing on our behalf, or for data centralization and/or logistics purposes. 
+  * With vendors, consultants, marketing partners, and other service providers who need access to such information to carry out work on our behalf. 
+  * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation, or legal process. 
+  * In connection with the potential merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or into another company. 
+  * In an aggregated and/or anonymous form which cannot reasonably be used to identify you. 
 
-**_Viewing and Updating Your Information_**
 
-You may edit your preferences or request changes to the information you have provided at any time by (i) sending an email to [team@ZipRealty.com](mailto:team@ziprealty.com), (ii) calling us at (510) 735-2600, (iii) mailing us at ZipRealty, Inc., 2000 Powell Street, Suite 300, Emeryville, CA 94608 or (iv) managing your communications preferences by logging into your account through the Site, entering the "My Account" section and selecting "Communications Preference." If you have lost your password, you may request a new one by sending an email to [team@ZipRealty](mailto:team@ziprealty.com).com. You may also manage your subscriptions by following the subscription management instructions contained in commercial messages that we send you. 
 
-**_Our Policy Toward Children_**
+**HOW DOES SOCIAL SHARING APPLY?**
 
-Our Services are not directed to individuals under 18 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
+The Service may integrate with social sharing features and other related tools which let you log in to the Service or share actions you take on the Service. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the social sharing service. Please refer to the privacy policies of those social sharing services for more information about how they handle the data you provide to or share through them. We do not receive or store passwords to your third party social media accounts. 
 
-**_Contact_**
+**WHAT'S THE POLICY ON THIRD PARTY ANALYTICS AND ADVERTISING SERVICES?**
 
-If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact [privacy@ziprealty.com](mailto:privacy@ziprealty.com). 
+We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, SDKs, and other technologies to identify your device when you use the Service, as well as when you visit other online sites and services, and such services will be covered by the privacy policy of the respective third parties. 
+
+We use Google Analytics to collect information about use of the Service. More information on Google Analytics - including how you can control the information sent to Google - can be found here: www.google.com/policies/privacy/partners/. 
+
+You may also choose to control some of the advertisements you receive on the Service by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+**WHAT'S YOUR COOKIE POLICY?**
+
+**_What are cookies?_**
+
+Cookies are small data files stored on your in your device memory when you visit a website. Cookies and similar technologies are widely used by websites to make them work more efficiently, as well as to provide information to the website operator about how users are using their website. 
+
+**_How does the Service use cookies?_**
+
+We use cookies to improve the Service and your experience, for example to enable you to move easily between the pages of our the Service websites. We also use cookies for analytics purposes, to see which areas and features of our the Service are popular, and to count visits. Additionally, we may use 'web beacons', which are electronic images that may be used on the Service, including in our emails to help deliver cookies, count visits, and understand usage and campaign effectiveness. 
+
+_Essential cookies_ are essential, as they enable you to move around the Service and use its features. Without these cookies we could not, for example, authenticate your login or remember that you are logged-in as you move through the Service. 
+
+_Functionality cookies_ allow us to remember choices you make (such as the region you're in) and tailor the Service to provide enhanced features and content for you. For instance, they can be used to remember your login details or remember your nickname when you next login. They may also be used to provide services you've requested, for example leaving a comment on the Service. 
+
+_Analytics & performances cookies_ collect information about how the Service is used, for example which pages users visit most often and if any error messages are displayed on certain pages. Information collected using these cookies is used to monitor activity on the Service and understand how it is being used. 
+
+**_How to change your cookie settings._**
+
+Most devices allow you to block cookies by adjusting the settings on your browser. However, if you use your browser settings to block all cookies (including essential cookies, such as those allowing you to log-in) you may not be able to access all or parts of our the Service. 
+
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please refer to your browser 'help' section, or visit www.aboutcookies.org or www.allaboutcookies.org. 
+
+**_Cookies that have been set in the past._**
+
+If you have disabled one or more cookies, we may still use information collected from cookies before your disabled preference was set. However, we will stop using the disabled cookie to collect any further information. 
+
+**WHAT ARE MY CHOICES?**
+
+**_Account Information._**
+
+You may update, correct or delete information about you at any time by emailing us at the email address at the bottom of this page. Please note that we may retain certain information as required by law or for legitimate business purposes. We also may retain cached or archived copies of information about you for a certain period of time. 
+
+**_Deactivation._**
+
+You can de-activate your account at any time by contacting us at the email address at the bottom of this page. However, you will not be able to access many of the services to deactivate your account. Please note that even if you request de-activation of your account, information associated with your account may remain in archived/backup copies for our records or as required by law. 
+
+**_Promotional communications._**
+
+You may opt out of receiving promotional messages from us by following the instructions in those messages. If you opt out, we may still send you non-promotional communications, such as those about your account, about services you have requested, and our ongoing business relationship. 
+
+**WHAT ARE CALIFORNIA PRIVACY RIGHTS?**
+
+California residents may request from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties. To request the above information please contact us by writing to us under the "Contact Us" section below. We will respond to such requests within 30 days of receipt. 
+
+**CONTACT US**
+
+If you have any questions about this Policy, please contact us. Our email address is [team@ziprealty.com](mailto:team@ziprealty.com). 
