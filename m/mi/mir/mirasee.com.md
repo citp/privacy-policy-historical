@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirasee.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226024137id_/http%3A//www.mirasee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirasee.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322035322id_/http%3A//mirasee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirasee
 
