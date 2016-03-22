@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116065316id_/https%3A//crowdin.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322133832id_/https%3A//crowdin.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Your privacy matters: collaborative nationalization and easy to use translation tool Crowdin
 
