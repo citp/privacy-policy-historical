@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalsource.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919012026id_/https%3A//www.vitalsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalsource.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322012326id_/https%3A//www.vitalsource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VitalSource
 
@@ -10,7 +10,7 @@ VitalSource is a member of the VeraSafeTM EU Safe Harbor Program, meaning that V
 
 VeraSafe helps businesses protect the security and privacy of your personal information. However, if a privacy complaint or dispute cannot be resolved through VitalSource's internal process, VitalSource has agreed to participate in the VeraSafe EU Safe Harbor Dispute Resolution Procedure for U.S. - EU and U.S. - Swiss Safe Harbor disputes. To file a complaint with the Procedure, please submit the required information to VeraSafe here: _https://www.verasafe.com/dispute-submission_
 
-Information VitalSource collects about you
+## Information VitalSource collects about you
 
 VitalSource collects information from you when you download, access or use any of the Products, register with VitalSource, create a user account for our Bookshelf e-reader or visit any of our websites, as described further below. This information falls into two categories: personal data and non-personal data (collectively "Information"). 
 
@@ -22,11 +22,11 @@ You can choose not to provide personal data we may request of you, but, in gener
 
 We collect personal data directly from you as well as from third parties including public sources, our related companies, your organization, your representatives, information service providers, social media and the parties with whom we exchange Information as described here.
 
-Product Registration and User Forms
+## Product Registration and User Forms
 
 VitalSource will collect Information from you when you register for an account to use any of the Products or fill out related user forms. This Information will provide basic contact data to VitalSource and enable VitalSource to deliver the correct Products to you. 
 
-Using the Products and making purchases
+## Using the Products and making purchases
 
 VitalSource also collects Information as you use the Products, make Product purchases and interact with us. This Information includes, but is not limited to: 
 
@@ -41,7 +41,7 @@ VitalSource also collects Information as you use the Products, make Product purc
 
 
 
-Cookies
+## Cookies
 
 VitalSource may collect Information about you when you visit the VitalSource website through the use of "cookies." Cookies are small text files placed in visitors' computers to store their preferences. Cookies themselves do not contain any personal data but may be used by VitalSource in conjunction with your personal data. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to our website and will last for longer. VitalSource may use cookies and other methods to determine your domain name and what browser and operating system you are using, your Internet Protocol (IP) address, the date and time of your request if any, and the device you are using. 
 
@@ -69,7 +69,7 @@ In addition to cookies, tracking GIFs may be set by us or third parties in respe
 
 Most web browsers automatically accept cookies but all computers have the ability to decline cookies. This can be done by activating the setting on your browser that enables you to decline the cookies. Please note that if you choose to decline cookies, you may be unable to access parts of our website. You can also learn more about cookies by visiting [www.allaboutcookies.org (opens in new tab)](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browsers. 
 
-VitalSource's use of your Information
+## VitalSource's use of your Information
 
 VitalSource uses your Information, by itself or in conjunction with data lawfully collected through other sources, for the following purposes:
 
@@ -87,7 +87,7 @@ VitalSource uses your Information, by itself or in conjunction with data lawfull
 
 You can tell us not to contact you with information regarding our products and services and those of third parties, either at the point your personal data is requested on our website (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your personal data in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise the right at any time by contacting us using the Contacting us details at the end of this Privacy & Cookies Policy. 
 
-Sharing your Information with third parties
+## Sharing your Information with third parties
 
 VitalSource appreciates that you do not want your personal data distributed indiscriminately and we agree not to sell or share this information except as described in this Privacy & Cookies Policy. We may exchange your Information with the parties described below. 
 
@@ -101,29 +101,29 @@ Disclosures As Required By Law Or To Prevent Harm. VitalSource reserves the righ
 
 Assignment of Your Information. VitalSource may exchange Information with third parties (such as purchasers, potential purchasers and their advisers) if VitalSource or a portion of its assets is sold or offered for sale. You grant VitalSource the right to transfer ownership of all Information (including personal data) that VitalSource has about you to a third party in connection with the sale of VitalSource or its assets, without payment to you. You acknowledge and agree that the third party may use your Information for the purposes described in this Privacy & Cookies Policy and related uses without payment to you. 
 
-Public forums
+## Public forums
 
 Some of the Products may, from time to time, make chat rooms, message boards, news groups and/or other public forums available to users. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these and never disclose your personal data. 
 
-Childrens' privacy
+## Childrens' privacy
 
 You must be 18 years of age or older to create a Bookshelf account. While individuals under the age of 18 may utilize the Products, they may do so only with the involvement, supervision, and approval of their parent or legal guardian. VitalSource does not solicit orders or knowingly collect Information from children under the age of 13. If we have reason to believe that any Information has been submitted to us by a child under 13, we will delete that information after taking appropriate actions to prevent further Information submission and as required by law. 
 
-Security
+## Security
 
 VitalSource takes information security very seriously and has taken reasonable measures to keep your Information secure from unauthorized access or disclosure, whether that Information is stored physically or electronically. VitalSource has established the appropriate administrative, technical, physical, electronic and managerial procedures to prevent unauthorized access, maintain data security and use the Information collected from you in accordance with this Privacy & Cookies Policy. VitalSource has security measures in place to protect against loss, misuse, or alteration of your Information. Our secure server software is among the best software systems available for secure Internet payment transactions. It encrypts your payment information to seek to ensure it is not intercepted as it travels over the Internet. Submission of Information over the Internet, however, is never entirely secure. Despite its reasonable efforts, VitalSource cannot guarantee that unauthorized access or disclosure of Information will never happen. If you have concerns, do not use the Products. 
 
 It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal data if you use a shared computer or a computer in a public place.
 
-International transfer of Information
+## International transfer of Information
 
 Given that the Internet is a global environment, using the Internet to collect and process Information necessarily involves the transmission of data on an international basis. Therefore, by using any of the Products, you acknowledge and consent to the transfer of your Information outside your country of residence to any country (including the United States, Canada, the United Kingdom and Australia) where we have facilities or engage third parties (including but not limited to payment processors, cloud service or other IT providers, and other companies that provide services to us). You understand that the countries to which we may transfer Information may not have as comprehensive a level of data protection as in your country. In relation to Australia's Privacy Act, you agree that in the case of a breach of by the third party in relation to handling your personal data, we will not be accountable for the third party under the Privacy Act and you may not be able to seek redress under the Privacy Act. 
 
-Third party links
+## Third party links
 
 You may find links to third-party websites from any of the Products. These websites may have their own privacy and/or cookies policies, which you should check. We do not accept any responsibility or liability for their policies because we have no control over them. 
 
-Your rights
+## Your rights
 
 You can contact us to request access to, correction, or erasure of the personal data about you held by us, or to raise any concerns about our handling of that data.
 
@@ -135,11 +135,11 @@ We take your privacy concerns seriously. Where you express any concerns that we 
 
 As mentioned above, you have a right to prevent the use of your personal data for direct marketing purposes.
 
-Changes to this Privacy & Cookies Policy
+## Changes to this Privacy & Cookies Policy
 
 The information practices described in this Privacy & Cookies Policy are current as of the effective date at the end of this document. VitalSource reserves the right to periodically update this Privacy & Cookies Policy at its discretion. Notice of any revisions will be posted to this page and are effective once posted. If you are concerned about how your Information is used, bookmark this page and check back periodically. 
 
-Contacting us
+## Contacting us
 
 If you have any questions, comments, or requests regarding this Privacy & Cookies Policy, including the treatment of your personal data and/or our use of cookies and other technologies, please contact  us by mail or email using the following contact information:
 
