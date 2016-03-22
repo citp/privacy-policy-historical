@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729231531id_/http%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322140252id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Nihongo Master, Learn Japanese Online
+# Learn Japanese online at Nihongo Master
 
 ### Summary
 
@@ -13,6 +13,8 @@ If you don't feel like reading all the legal words to the right, here's a summar
   * We use reputable 3rd Parties such as [Mail Chimp](http://www.mailchimp.com/) to maintain our newsletters so they can make sure we follow all the laws.
 
 
+
+## Privacy Policy
 
 This document was last updated on June 23, 2012 
 
