@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldwell.asia privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816041108id_/http%3A//goldwell.asia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldwell.asia privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322102233id_/http%3A//goldwell.asia/privacy-policy) for the most accurate reproduction.*
 
 # Goldwell Company
 
@@ -59,4 +59,4 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 
 
-© GOLDWELL CONSULTANTS LIMITED 1998-2015. All rights reserved.
+© GOLDWELL CONSULTANTS LIMITED 1998-2016. All rights reserved.
