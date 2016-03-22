@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metricon.com.au privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405043513id_/http%3A//www.metricon.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metricon.com.au privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322184444id_/http%3A//www.metricon.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Metricon
+# Website Privacy Policy
 
 This Privacy Policy describes how Metricon Homes Pty Ltd (ABN 55 201 276 124) and its related bodies corporate and businesses (Metricon) collect and use your personal information.
 
