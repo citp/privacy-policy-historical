@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055452id_/http%3A//www.vt.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322144406id_/http%3A//www.vt.edu/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Virginia Tech | Virginia Tech
+# Privacy Statement | Virginia Tech
 
 Virginia Tech has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web page: www.vt.edu.
 
@@ -39,6 +39,3 @@ Users should also consult [Virginia Tech's policy on Acceptable Use](http://www.
 ## Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@vt.edu](mailto:webmaster@vt.edu).
-
-  
-
