@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415000430id_/http%3A//www.thejewelhut.co.uk/privacy-statement-jh.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322045954id_/https%3A//www.thejewelhut.co.uk/privacy-policy%3Fici%3Dinfo-text%26icn%3Dprivacy-policy-footer) for the most accurate reproduction.*
 
-# Privacy Policy - TheJewelHut.co.uk
+# Privacy Policy | The Jewel Hut
 
 ****Controllers of Personal Information****
 
