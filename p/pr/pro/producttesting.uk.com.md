@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the producttesting.uk.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601223907id_/http%3A//www.producttesting.uk.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producttesting.uk.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322065756id_/https%3A//producttesting.uk.com/p/privacy-policy) for the most accurate reproduction.*
 
-# Product Testing Privacy Policy
+# Privacy Policy
 
 ## **Privacy Policy**
 
@@ -19,9 +19,21 @@ With respect to cookies: We use cookies to record user-specific information on w
 
 We work closely with some of the UK's leading brands to help them better target their offers and help them learn more about what consumers want from their products. Our surveys provide manufacturers, retailers and service providers with the information they need to better serve you. 
 
-Here you will find a list of suppliers who are authorised to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies.Category: Personalised advertising & email marketing. Company: Criteo
+Here you will find a list of suppliers who are authorised to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies.
 
-The purpose of Criteo’s service is to find visitors of our advertising clients’ properties and send them personalised emails or serve them personalised ads. Criteo uses cookies to single out users and then personalise ads based on their browsing experience. To learn more or opt out of Criteo Display click here <http://www.criteo.com/privacy/>. To learn more or opt out of CriteoEmail click <http://privacy.criteoemail.com/privacy/policy>
+**Category: Personalised advertising & email marketing. **
+
+Company: **Criteo** - The purpose of Criteo service is to find visitors of our advertising clients’ properties and send them personalised emails or serve them personalised ads. Criteo uses cookies to single out users and then personalise ads based on their browsing experience. To learn more or opt out of Criteo Display click here <http://www.criteo.com/privacy/>. To learn more or opt out of CriteoEmail click <http://privacy.criteoemail.com/privacy/policy>
+
+Company: **LiveIntent** collect Non-Personal information from the emails we send, these contain a piece of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilised a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.” If you wish to unsubscribe from our emails you can do so here with our [Unsubscribe page](https://producttesting.uk.com/unsubscribe)
+
+Company:  **Visual DNA**  These cookies are used to anonymously profile your interests to help advertisers with targeting. You can view and manage your profile at [http://my.visualdna.com](http://my.visualdna.com/)
+
+Company:  **Acxiom Limited** (their registered office at 17 Hatfields London SE1 8DJ) and its partners may use the data you provide to this website, together with other data collected elsewhere, to place cookies on your device. Data through these cookies, in conjunction with other data collected about you and others, will be used to improve the relevance of online advertisements displayed to you when you visit this and/or other unrelated websites. To opt-out of data collection, please go to <http://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/> Acxiom will then add an opt-out flag to this cookie which will ensure it is no longer used by Acxiom for targeted advertising.
+
+**Google Analytics**  is a web analytics service offered by Google that tracks and reports website traffic in an anonymous format using cookies.It allows us to see the number of visitors to our site, where they are from and what pages they have visited. If you wish to to find out more about Google Analytics and your privacy then please visit:[ http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/usa/policies/privacy/)
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://www.networkadvertising.org/managing/opt_out.asp
 
 This Privacy Policy (together with our terms of use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -40,7 +52,7 @@ We use personal information collected via ProductTesting.uk.com to:
 
 ProductTesting.uk.com collects stores and uses data about you and your answers to specific questions asked by sponsors. Submission Technology and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone, SMS or email. We may also use the personal information you provide for the purposes of identity verification, credit and risk management, revenue collection, database verification and enhancement.
 
-When you register and enter your details you will, only if you choose to opt in, consent to us and selected third parties including The Times, The Guardian, Aditus, UK Prize, [Allgroove Limited](http://www.producttesting.uk.com/allgroove.html), Roberts Jackson LTD, Comptown, solicitors and other associated partners sending you information by email, post, SMS or telephone about products and/or services that have been selected based on your stated interests. You will also be contacted via phone by either O2, Talktalk, Vodafone, Scottish Power or Prizestore.
+When you register and enter your details you will, only if you choose to opt in, consent to us and selected third parties including The Times, The Guardian, Aditus, UK Prize, Grove Pensions, [Allgroove Limited](http://www.freestuff.eu/privacy-policy.php), Roberts Jackson LTD, [Comptown](http://comptown.uk/privacy-policy/), solicitors and other associated partners sending you information by email, post, SMS or telephone about products and/or services that have been selected based on your stated interests. You will also be contacted via phone by either O2, Talktalk, Vodafone, Scottish Power or Prizestore.
 
 We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, send SMS alerts or notification, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
