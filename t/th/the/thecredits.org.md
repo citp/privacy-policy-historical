@@ -1,116 +1,111 @@
-> *The following text is extracted and transformed from the thecredits.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926210557id_/http%3A//thecredits.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecredits.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322122006id_/http%3A//www.wheretowatch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Credits
+# Online Privacy Notice | WhereToWatch.com
 
-**Global Privacy Policy**
+Effective Date:
 
-The Motion Picture Association of America, Inc., the Motion Picture Association, and their affiliates and offices (collectively, “ **MPAA** ,” “we,” “our,” or “us”) respect your privacy.
+We at the Motion Picture Association of America, Inc. (“MPAA”) respect your concerns about privacy. This Online Privacy Notice, which applies to [www.wheretowatch.com](http://www.wheretowatch.com/) and WheretoWatch widgets on third-party websites (collectively, the “Site”), describes the types of personal information we collect through the Site, how we use the information, with whom we share it and the choices available to users of the Site regarding our use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
-This global privacy policy (the “ **Privacy Policy** ”) describes how we collect and use information, including Personal Information (as defined below), with whom we share it, and the choices you can make about our use of the information. We also describe how we protect the security of Personal Information and how you can contact us about our privacy practices.
+Click on one of the links below to jump to the listed section:
 
-**TABLE OF CONTENTS  
-**INFORMATION WE MAY COLLECT DIRECTLY FROM YOU  
-INFORMATION WE MAY OBTAIN ABOUT YOU FROM OTHER SOURCES  
-COOKIES, WEB BEACONS AND OTHER TECHNOLOGIES  
-HOW WE MAY USE PERSONAL INFORMATION  
-HOW AND WHEN WE SHARE INFORMATION  
-YOUR RIGHTS AND CHOICES  
-LINKS TO THIRD PARTY WEB SITES   
-DATA SECURITY   
-DATA TRANSFERS   
-CHANGES TO THE PRIVACY POLICY  
-NOTE TO PARENTS   
-CONTACT US
+• Information We Collect  
+• How We Use the Information We Collect  
+• Information We Share  
+• Notice to California Residents  
+• Your Rights and Choices  
+• Data Transfers  
+• How We Protect Personal Information  
+• Children’s Privacy  
+• Links To Other Websites and Apps  
+• Updates To Our Online Privacy Notice  
+• How To Contact Us
 
-  
-**INFORMATION WE MAY COLLECT DIRECTLY FROM YOU**  
-You may choose to submit information including Personal Information (as defined below) directly to us. For example, you may submit information through any website operated by the MPAA, including [www.thecredits.org](http://www.thecredits.org/ "The Credits") (the “ **MPAA Site** ”, and together with any other sites, the “ **Sites** ”), via various means such as registration forms, forms where you may report copyright infringements, or when you otherwise communicate with us.
+## Information We Collect
 
-  
-**INFORMATION WE MAY OBTAIN ABOUT YOU FROM OTHER SOURCES**  
-We may obtain information from various sources that identifies you directly or indirectly (“ **Personal Information** ”) as well as information that does not identify you. Sources from which we may obtain information include our members and their affiliates, content protection organizations, data brokers, individuals and anonymous sources, third party service providers, public registers, law enforcement authorities and the Internet.
+The types of personal information we may obtain through the Site include:  
+• contact information (such as name, email address and zip code);  
+• gender;  
+• date of birth; and  
+• information about movies and television shows that may interest you (such as titles of trailers you search for or watch).
 
-  
-**COOKIES, WEB BEACONS AND OTHER TECHNOLOGIES**  
-Together with our third party service providers, we also may use a variety of technologies that collect certain web site usage information when you access or view any of the Sites.
+In addition, when you visit our Site, we may collect certain information by automated means, such as cookies, web server logs, web beacons and JavaScript.
 
-(i) Cookies. A cookie is a data file placed on a computer or other device when it is used to visit any of the Sites. Cookies may be used for many purposes, including to track user preferences and web pages visited while using any of the Sites. You may disable cookies using your browser’s preferences, but some features of the Sites may not function properly or may operate slowly if you disable the cookies.
+Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Our Site may use cookies (such as HTTP and HTML5 cookies) and Flash cookies, as well as other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash Website Storage Settings Panel and Global Storage Settings Panel. Please note, however, that without cookies you may not be able to use all of the features of the Site or other websites and online services.
 
-(ii) Web Beacons. Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, for example, to count visitors to the Sites, to monitor how users navigate the Sites, to count how many e-mails from the MPAA were actually opened or to count how many particular articles or links were actually viewed.
+In conjunction with gathering information through cookies, our web servers may log information such as your device type, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. We also may record information such as the address of the web page that referred you to our Site and the IP address of the device you use to connect to our Site. We also may log information about your interaction with the Site, such as which pages you visit on the Site. To control which web servers collect information by automated means, we may place tags on our web pages called “web beacons,” which are small files that link web pages to particular web servers and their cookies. We also may send instructions to your device using JavaScript or other computer languages to gather the sorts of information described above and other details about your interactions with the Site.
 
-(iii) Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Sites, such as which links you click on. The code is temporarily downloaded onto your computer from our web server or a third party service provider, is active only while you are connected to the Sites, and is deactivated or deleted thereafter.
+The providers of third-party plug-ins and widgets on our Site, such as embedded videos and social media sharing tools, may use automated means to collect information regarding your use of the Site and your interactions with the plug-ins and widgets. This information is subject to the privacy policies or notices of the providers of the plug-ins and widgets.
 
-Information collected through these technologies may be non-identifying or may be associated with you as an individual. We may use such non-identifying information for any purpose. If such information is associated with you as an individual, it will be treated as Personal Information under this Privacy Policy.
+## How We Use the Information We Collect
 
-  
-**HOW WE MAY USE PERSONAL INFORMATION**  
-We may use Personal Information:
+We may use the information described above to:  
+• provide you with online and in-person viewing options for movies and television shows, as well as other products and services;  
+• send you promotional materials or other communications;  
+• communicate with you about, and administer your participation in, special events, programs, promotions, offers, surveys and market research;  
+• respond to your inquiries;  
+• perform data analyses (including market and consumer research, demographic analyses and anonymization and aggregation of personal information);  
+• operate, evaluate and improve our business (including developing new products and services; enhancing and improving our products and services; managing our communications; analyzing our products, services and communications; and performing accounting, auditing and other internal functions);  
+• protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and  
+• comply with and enforce applicable legal requirements, relevant industry standards and our policies.
 
-(a) to communicate with you, respond to your inquiries and process any of your requests for e-mails, newsletters or other information, including verifying that your e-mail address is active and valid;  
-(b) to facilitate your participation in any online features on any of the Sites;  
-(c) to perform internal activities (for example, to administer our organization, to conduct research or to generally enhance user experience on the Sites);  
-(d) to enforce the Terms of Use or the Privacy Policy, or to meet any legal obligations;  
-(e) to protect or defend the rights, privacy, property, safety or security of any individual or entity, including the MPAA or third parties;  
-(f) to investigate, report, prevent or take action to protect against copyright infringement, fraud or other suspected unlawful activity; and  
-(g) for other reasons described in the Privacy Policy or disclosed to you at the time you provide the information.
+In addition to the purposes listed above, we may use information collected through automated means for other purposes. For example, we may collect information about your online activities to provide you with advertising about products and services tailored to your interests. You may see certain ads on other websites based on your visits to our Site because we engage in retargeting administered by third-party vendors. These vendors track your online activities over time and across third-party websites by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements on third-party websites based on your previous visits to the Site. The information our vendors collect on the Site includes information about your visits to Site, such as the pages or advertisements you viewed and the actions you took on the Site. This process also helps us track the effectiveness of our marketing efforts. To learn more about how to opt out of retargeting, [click here](http://www.aboutads.info/choices/). 
 
-  
-**HOW AND WHEN WE SHARE INFORMATION**  
-We do not sell or share Personal Information we collect about you, except as described below or otherwise in this Privacy Policy.
+We also may use information collected through automated means to customize your visit to our Site, (ii) analyze the manner in which you interact with our Site, (iii) deliver content (including advertising) tailored to your interests and the manner in which you browse our Site, and (iv) manage our Site and other aspects of our business. We may supplement data we collect through automated means with information about your location (such as your zip code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site and gather demographic information about our users.
 
-(i) Third Parties Providing Services on our Behalf. We may use third parties to perform certain services on our behalf. We may provide these service providers with access to information, including Personal Information, to carry out the services they are performing. We do not authorize these service providers to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements. We require these service providers by contract to appropriately safeguard the privacy and security of Personal Information they process on our behalf.
+In addition, we may use the information in other ways for which we provide specific notice at the time of collection.
 
-(ii) Administrative and Legal Reasons. We may share information, including Personal Information, with our affiliates and offices, our members and their affiliates, content protection organizations, law enforcement agencies or government authorities and other third parties: (a) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law, (b) at the request of government authorities, (c) to enforce the Terms of Use of the Sites or the Privacy Policy, (d) to protect or defend the rights, privacy, property, safety or security of any individual or entity, including the MPAA, its affiliates and offices, our members and their affiliates or third parties, or (e) to investigate, report, prevent or take action to protect against copyright infringement, fraud or other suspected unlawful activity.
+We do not sell or otherwise disclose personal information we collect about you through the Site, except as described in this Online Privacy Notice. We may share personal information with service providers who perform services on our behalf. Except as described below regarding Plexus Entertainment, LLC (“Plexus”), these service providers are not authorized by us to use or disclose the information other than as necessary to perform services on our behalf or comply with legal requirements. To fulfill your requests and in connection with various functionalities offered by the Site, we may disclose certain information about you to the MPAA family of companies, video service providers (such as YouTube), content distribution networks, social media providers and affiliate providers (such as Netflix). In addition, we may share personal information in aggregated form with the six motion picture studios that are members of the MPAA. Personal information about you also may be shared with service providers used by other recipients of personal information specified in this section of the Online Privacy Notice.
 
-(iii) Change in Ownership or Corporate Structure. We reserve the right to disclose and transfer all information, including Personal Information (a) to a subsequent owner, co-owner or operator of the Sites; or (b) in connection with a merger, consolidation, restructuring or other corporate change, including, without limitation, during the course of any due diligence process. Should such an event occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided to us in a manner that is consistent with our Privacy Policy. Following such an event, you should contact the entity to which we transferred your Personal Information with any inquiries concerning the processing of that information.
+The personal information provided through the Site may be obtained by Plexus, which is located in the United States. Plexus provides the movie and television show discovery, alerts and notification functionality for the Site. Plexus also operates its own website, [www.gowatchit.com](http://www.gowatchit.com/). Personal information provided through the Site is used by Plexus for its own purposes. We strongly recommend that you review Plexus’ [Privacy Policy](http://gowatchit.com/pages/privacy) and [Terms of Use](http://gowatchit.com/pages/terms) before submitting your personal information through the Site. We are not responsible for Plexus’ use of your personal information for its own purposes.
 
-  
-**YOUR RIGHTS AND CHOICES**  
-You may have certain rights regarding the Personal Information we maintain about you. We offer you certain choices about what Personal Information we collect from you, how we use that information, and how we communicate with you.
+We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government entities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, spin-off, dissolution or liquidation).
 
-You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on our websites. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all features of the Sites.
+Information collected through third-party plug-ins and widgets on the Site (such as information relating to your use of a social media sharing tool) is collected directly by the providers of the plug-ins and widgets. This information is subject to the privacy policies of the providers of the plug-ins and widgets, and the MPAA is not responsible for those providers’ information practices.
 
-If you are located in the European Economic Area (“ **EEA** ”) or Switzerland, you may instruct us not to share your Personal Information with third parties, except (i) with service providers we have retained to perform services on our behalf, (ii) in the event we sell or transfer all or a portion of our business or assets, (iii) if disclosure is required by law or legal process, (iv) with law enforcement authorities or other government authorities, or (v) when we believe disclosure is necessary or appropriate to investigate, report, prevent or take action to protect against copyright infringement, fraud or other suspected unlawful activity. Subject to applicable law, you may have the right to request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, and to have your Personal Information blocked or deleted, if appropriate. The right to access Personal Information may be limited in some circumstances by local law requirements.
+## Notice to California Residents
 
-You are responsible for maintaining the accuracy of such Personal Information or other information that you provide to us, and for correcting or updating any Personal Information or other information you have provided to us.
+Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the “How to Contact Us” section below.
 
-  
-**LINKS TO THIRD PARTY WEB SITES**  
-Our Sites contain links to other web sites that we do not own, including those operated by our members and content protection organizations, (“ **Third Party Sites** ”) whose information and privacy practices may be different than ours. We have no control over information that is submitted to, or collected on or through, such Third Party Sites, and we are not responsible or liable, directly or indirectly, for the information or privacy practices employed by any Third Party Sites. We encourage you to note when you leave any of our Sites and to read the privacy policies and terms of use of all Third Party Sites before using such sites or submitting any Personal Information or any other information on or through such Third Party Sites.
+## Your Rights and Choices
 
-  
-**DATA SECURITY**  
-We maintain appropriate administrative, technical and physical safeguards designed to protect Personal Information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+We offer you certain choices in connection with the personal information we collect from you. To update your preferences and consents, ask us to remove your information from our mailing lists or submit a request, please contact us as indicated in the “How To Contact Us” section of this Online Privacy Notice or as otherwise provided on the Site (such as by using the “Certain Opt-Out Options” link or button). To the extent provided by the law of your jurisdiction, you may request access to the personal information we maintain about you or request that we correct, amend, delete or block the information by contacting us as indicated below. Where provided by law, you may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information, and we will apply your preferences going forward.
 
-While we have taken steps to protect the Personal Information we collect from you on or through any of our Sites, you should note that no Internet, wireless or mobile phone transmission is ever completely secure. In particular, unencrypted e-mail and web traffic are subject to potential interception by unauthorized third parties.
+If you previously consented to allow us to share information about your interest in certain movies and television shows (such as movie and television titles for which you set alerts), you may withdraw your consent by clicking on the link or button on the Site called “Certain Opt-Out Options” or on a similar link in a WheretoWatch.com-branded widget. Please note that if you withdraw certain consents, you may not be able to use all the functions of the Site or other websites or online services.
 
-  
-**DATA TRANSFERS**  
-We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected. The laws in those countries may not provide the same level of data protection as the country in which you initially provided the information.
+## Data Transfers
 
-If you are located in the EEA or Switzerland we will comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the EEA or Switzerland. The MPAA is certified under the Safe Harbor privacy framework created by the U.S. Department of Commerce, the European Commission and Switzerland for transfers of Personal Information from the EEA or Switzerland to the U.S. Click here to view our Safe Harbor Privacy Policy [www.mpaa.org/safe-harbor](http://www.mpaa.org/safe-harbor).
+We may transfer the personal information we collect about you through the Site to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries (such as the United States), we will protect that information as described in this Online Privacy Notice. By submitting your personal information through the Site, you indicate your consent to the transfer of your personal information outside of the country in which you originally provided it.
 
-  
-**CHANGES TO THE PRIVACY POLICY**  
-The MPAA reserves the right to modify, alter or otherwise change the Privacy Policy at any time. If we modify, alter or otherwise change the Privacy Policy we will update the effective date and such changes will be effective upon posting. Please check back regularly and review the current Privacy Policy.
+If you are located in the European Economic Area (“EEA”) or Switzerland, we will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EEA or Switzerland. The MPAA is certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce, the European Commission and Switzerland regarding the transfer of personal information from the EEA or Switzerland to the United States. Click here to view our Safe Harbor Privacy Policy.
 
-  
-**NOTE TO PARENTS**  
-The MPAA Site is a general audience web site. We do not knowingly collect any Personal Information from children younger than thirteen (13) years of age (“ **Child** “) on or through the MPAA Site. If we become aware that a Child has submitted Personal Information on or through MPAA Site, we will immediately delete that Child’s Personal Information.
+## How We Protect Personal Information
 
-  
-**CONTACT US**  
-If you have any questions or comments about this Privacy Policy, if you would like to update information we have about you or your preferences, or to exercise your rights, you may contact us by e-mail at privacy@mpaa.org. You may also write to:
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide through the Site against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-Motion Picture Association of America, Inc.  
+## Children’s Privacy
+
+Our Site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on our Site.
+
+## Links To Other Websites and Apps
+
+Our Site may provide links to other websites and apps for your convenience and information. These websites and apps may operate independently from us. Linked sites and apps may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked websites or apps are not owned or controlled by us, we are not responsible for their content, any use of the websites or apps, or the privacy practices of the websites or apps.
+
+## Updates To Our Online Privacy Notice
+
+This Online Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post the updated version on [www.wheretowatch.com](http://www.wheretowatch.com/) and indicate at the top of the notice when it was most recently updated.
+
+If you have any questions or comments about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please email us at [privacy@mpaa.org](mailto:privacy@mpaa.org). You also may write to:
+
+Motion Picture Association of America, Inc.   
 Attention: Privacy  
 15301 Ventura Boulevard, Building E  
 Sherman Oaks, California 91403
 
-If you are located in the EEA or Switzerland, the Brussels office of Motion Picture Association, Inc. may be the entity responsible for the processing of your Personal Information. In such case, if you have any questions or comments about this Privacy Policy, if you would like to update information we have about you or your preferences, or to exercise your rights, you may contact us by e-mail at privacy@mpaa.org. You may also write to:
+## Members of the MPAA
 
-The Motion Picture Association, Inc., at:  
-Attention: Privacy  
-Avenue des Arts 46  
-1000 Brussels  
-Belgium
+Walt Disney Studios Motion Pictures  
+Paramount Pictures Corporation  
+Sony Pictures Entertainment Inc.  
+Twentieth Century Fox Film Corporation  
+Universal City Studios LLC  
+Warner Bros. Entertainment Inc.
