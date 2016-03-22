@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031165657id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322011328id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Legal/Privacy | SunglassHut.com
 
@@ -42,7 +42,7 @@ We collect and store certain other information automatically whenever you intera
 
 
 
-We use a third-party tracking service to track non-personally identifiable information about visitors to this Web site in the aggregate. We also use pixels, or transparent GIF files to enable us to learn which advertisements bring users to our Web site. We may from time to time use other third parties for similar type tracking services. Any information we track in this manner is anonymous, limited to usage and volume statistics, and is used to provide insight into the effectiveness of our online marketing initiatives and strategies.
+We use a third-party tracking service to track non-personally identifiable information about visitors to this Web site in the aggregate. We also use pixels, or transparent GIF files to enable us to learn which advertisements bring users to our Web site. We may from time to time use other third parties for similar type tracking services. To opt out of third party cookies, please visit http://www.aboutads.info/choices. Any information we track in this manner is anonymous, limited to usage and volume statistics, and is used to provide insight into the effectiveness of our online marketing initiatives and strategies.
 
 ### Who do we share information with?
 
