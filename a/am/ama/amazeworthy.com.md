@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazeworthy.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810214535id_/http%3A//amazeworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazeworthy.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322054343id_/http%3A//amazeworthy.com/privacy) for the most accurate reproduction.*
 
 # amazeworthy
 
