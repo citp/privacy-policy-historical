@@ -1,30 +1,114 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122053937id_/http%3A//eglinfcu.org/di.asp%3Fdi%3D14%26na%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322013742id_/https%3A//www.eglinfcu.org/disclosures/privacy) for the most accurate reproduction.*
 
-# Eglin Federal Credit Union
+# Eglin Federal Credit Union | Auto Loans, Mortgage Services and MasterCards
 
-|  Eglin Federal Credit Union's Commitment to Your Privacy
+  |  |  |   |    
 
-We are committed to providing services and products to meet the financial needs and goals of our membership. At times, gathering information is fundamental to our ability to provide such services. Protecting your personal information and using it in a trustworthy manner is a high priority for everyone associated with Eglin Federal Credit Union (EFCU). 
-
-As a member you also have a responsibility to safeguard your financial information. You should protect your personal identification, requested access device, PIN and code associated with your account; and immediately report any compromise, loss or theft of those items. You should keep your address and phone numbers current so you may carefully review the account statements we send you and report any unauthorized transactions. 
-
-We are committed to taking reasonable steps to protect the privacy of EFCU members in all areas of our operations. So that you can rely upon the quality of products and services we make available, we stand behind the following privacy policies: 
-
-  * EFCU obeys the letter and spirit of the laws that apply to Credit Union member account information and privacy. 
-  * We collect and use information only for legitimate business purposes. We collect nonpublic information about you from some or all of the following sources: information we receive from you on applications and other documents you may provide; information about your transactions with us or others; and information we receive from a consumer reporting agency. 
-  * We maintain physical, electronic and procedural safeguards that comply with Federal regulations and conform to leading industry practices to protect the information in our files and computers. 
-  * We allow only employees actively engaged in their assigned duties to have access to your information. Employees are governed by a code of conduct that includes the responsiblity to maintain the confidentiality of each member’s personal information. 
-  * We comply with requests to provide information when legally required or permitted to do so; upon receipt of your written authorization; for credit reporting; and to prevent fraud. 
-  * We may share member information with companies that assist us in providing services such as ATM, debit and credit cards; checking accounts; bill paying service; insurance; investments; statement mailing; etc. These business partners will only be given the information they need to provide the service. As part of their contract with us they must agree to safeguard our members’ information by meeting our security and confidentiality requirements. We do not permit these companies to sell any EFCU member information to third parties. We will disclose the identity of any EFCU third-party contractor upon request. 
-  * We do not disclose information about former members except as required or permitted by law. 
-  * **OPT OUT**   
-Any member who does not want to receive information from our business partners who offer products (such as insurance or investments), may call or write us requesting that they be excluded from any future offerings. If you have previously opted out with EFCU, you do not need to do so again. 
-
-  
-This statement updates and replaces any other notices about our privacy policy. 
 
 * * *
 
-Back
+  
+| FACTS | **WHAT DOES EGLIN FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+What? |  The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-| 
+  * Social Security number and payment history 
+  * Account balances and transaction history 
+  * Account information 
+
+  
+How? | All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons Eglin Federal chooses to share; and whether you can limit this sharing.  
+  
+  
+Reasons we can share your personal information | Does Eglin Federal share? | Can you limit this sharing?  
+---|---|---  
+**For our everyday business purposes** -  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | **Yes** | **No**  
+**For our marketing purposes** -  
+to offer our products and services to you | **Yes** | **No**  
+**For joint marketing with other financial companies** | **Yes** | **Yes** *  
+**For our affiliates’ everyday business purposes** -  
+information about your transactions and experiences | **No** | **We do not share**  
+**For our affiliates’ everyday business purposes** -  
+information about your credit worthiness | **No** | **We do not share**  
+**For nonaffiliates to market to you** | **No** | **We do not share**  
+  
+To limit our sharing  
+for joint marketing  
+or for any questions: | 
+* Call 850-862-0111 ext. 1402 or  
+
+* Toll Free 1-800-367-6159 ext. 1402
+
+*If you have previously opted out with Eglin Federal, you do not need to do so again.   
+  
+---|---  
+  
+  
+Who we are  
+---  
+**Who is providing this notice?** | Eglin Federal Credit Union  
+  
+  
+What we do  
+---  
+**How does Eglin Federal protect my personal information?** |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. 
+
+These measures include computer safeguards and secured files and buildings. Eglin Federal regularly monitors and tests security systems, trains employees, and makes necessary enhancements that conform to leading industry practices.  
+  
+**How does Eglin Federal collect my information?** |  We collect your personal information, for example, when you: 
+
+  * Open an account or apply for a loan 
+  * Use your debit or credit card and other electronic services 
+  * Authorize debits or credits to your account 
+
+We also collect your personal information from others, such as consumer credit reporting agencies.   
+**Why can’t I limit all my sharing?** |  Federal law gives you the right to limit only 
+
+  * sharing for affiliates’ everyday business purposes - information about your credit worthiness  
+
+  * affliliates from using your information to market to you  
+
+  * sharing for nonaffiliates to market to you 
+
+  
+  
+  
+Definitions  
+---  
+**Affiliates** |  Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * Eglin Federal has no affiliates. 
+
+  
+**Nonaffiliates** |  Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * Eglin Federal does not share with nonaffiliates. 
+
+  
+**Joint marketing** |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * Our joint marketing partners include investment, insurance, and debt and asset protection products. 
+
+  
+  |  |   |    
+[AUTO RATES](https://web.archive.org/auto/)
+
+As low as 1.99% APR. Stop in at local preferred dealers in Okaloosa or Escambia County and process your EFCU loan at the dealership. Or, apply online for a PAL (pre-approved loan) to take to any licensed dealership in the USA. 
+
+Check out AutoSMARTTM online service enabling you to locate new or used vehicles available in your area. [View Auto Rates](https://web.archive.org/auto/)
+
+* * *
+
+  
+[MASTERCARD](https://web.archive.org/mastercard/)
+
+Compare, switch, and save with our low-cost credit cards: Platinum MasterCard® or ScoreCard® with Rewards. Both cards have no balance transfer fee, no annual fee, no cash advance fee and only 1.1% International Transaction Fee. [View MasterCard](https://web.archive.org/mastercard/)
+
+* * *
+
+  
+[HOME LOANS](https://web.archive.org/mortgages/)
+
+We finance new home purchases in 7 Florida counties. Compare our rates and low fees and enjoy the savings! Looking to refinance or make home improvements? We can help with that too! [View Mortgage Rates](https://web.archive.org/mortgages/)
