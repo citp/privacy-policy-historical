@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roastycoffee.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108055503id_/http%3A//www.roastycoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roastycoffee.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322121352id_/http%3A//www.roastycoffee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Roasty Coffee
 
