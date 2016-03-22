@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715010329id_/https%3A//www.pcisecuritystandards.org/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322215201id_/https%3A//www.pcisecuritystandards.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### PCI Security Standards Council Online Privacy Statement
 
 Your privacy is important to the PCI Security Standards Council. Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you. This PCI Security Standards Council Online Privacy Statement (the "Privacy Statement") has been written to describe the conditions under which this web site and other online PCI Security Standards Council resources (the "Web site") are being made available to you. The Privacy Statement discusses, among other things, how data obtained during your visit to this Web site may be collected and used. We strongly recommend that you read the Privacy Statement carefully. By using this Web site, you agree to be bound by the terms of this Privacy Statement. If you do not accept the terms of the Privacy Statement, you are directed to discontinue accessing or otherwise using the Web site or any materials obtained from it. If you are dissatisfied with the Web site, by all means contact us at [info@pcisecuritystandards.org](mailto:info@pcisecuritystandards.org); otherwise, your only recourse is to disconnect from this site and refrain from visiting the site in the future.
 
