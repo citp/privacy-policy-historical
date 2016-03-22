@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919052612id_/https%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322115624id_/https%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FollowUpThen
 
@@ -102,6 +102,12 @@ This Privacy Policy does not apply to any Personal Data collected by FollowUpThe
 #### Children:
 
 FollowUpThen does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to FollowUpThen through the Services, please contact us, and we will endeavor to delete that information from our databases. 
+
+#### Connected Services:
+
+FollowUpThen provides optional connections to 3rd party services via the "Connected Services" settings page. By signing up for a connected service, or authorizing it to act on your personal information, you are creating a separate agreement with that company and should take the time to understand their privacy policy. The action of using the connected service is treated as an acceptance of the terms of their terms of use and privacy policy. 
+
+**Context.IO** FollowUpThen provides certain user accounts with the option to connect their email inboxes to Context.IO in order to provide additional productivity features in FollowUpThen. By connecting your email inbox to ContextIO, you are agreeing to their [privacy policy](https://returnpath.com/data-privacy-policy/) which includes sharing Personal Information with those who provide the Context.IO service: DokDok, Inc. and its parent company, Return Path, Inc. and their affiliates (collectively “Context.IO Providers”). Context.IO Providers may access and use your Personal Information to carry out work on our behalf (such as monitoring your inbox for a reply to a specific message so that it can be canceled). If you wish to opt out of sharing your information with Context.IO Providers, you may do so by going to <https://optout.context.io/>. 
 
 #### Links to Other Web Sites: 
 
