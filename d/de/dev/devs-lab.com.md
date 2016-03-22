@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721213845id_/http%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323000906id_/http%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Devs-Lab
+# Privacy Policy | Devs-Lab
 
 Your privacy is important to Devs-Lab. So we’ve developed a Privacy Policy  
 that covers how we collect, use, disclose, transfer, and store your information.  
@@ -71,4 +71,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions or concerns about Devs-Lab’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at [support@devs-lab.com](mailto:support@devs-lab.com).
 
-This document was last updated on 8th July, 2015
+This document was last updated on 9th Feb, 2016
