@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115042108id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322142315id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy -- About AAFP.org
+# Privacy Policy
 
-The American Academy of Family Physicians (AAFP) is committed to protecting the privacy of its members and customers. The AAFP maintains safeguards to store and secure information about its members and customers. The safeguards may be physical, electronic, or procedural. This Privacy Policy (“Policy”) describes: (i) how the AAFP collects information from its websites and through your other voluntary interactions with the AAFP (e.g., subscription to an AAFP publication, communication with the AAFP Contact Center, purchase of an AAFP product, application for AAFP membership, registration to an AAFP event, participation in a member survey); and (ii) how the AAFP uses this information. With respect to websites, please note that this Policy applies only to the AAFP’s websites and not to the websites of unrelated third-party companies or organizations to which the AAFP provides links, or to any software that may be downloaded from the AAFP’s websites.
+The American Academy of Family Physicians (AAFP) is committed to protecting the privacy of its members and customers. The AAFP maintains safeguards to store and secure information about its members and customers. The safeguards may be physical, electronic, or procedural. This Privacy Policy (“Policy”) describes: (i) how the AAFP collects information from its websites and through your other voluntary interactions with the AAFP (e.g., subscription to an AAFP publication, communication with the AAFP Member Resource Center, purchase of an AAFP product, application for AAFP membership, registration to an AAFP event, participation in a member survey); and (ii) how the AAFP uses this information. With respect to websites, please note that this Policy applies only to the AAFP’s websites and not to the websites of unrelated third-party companies or organizations to which the AAFP provides links, or to any software that may be downloaded from the AAFP’s websites.
 
 By visiting the AAFP’s websites (i.e., www.aafp.org, familydoctor.org, www.graham-center.org), becoming a member or customer, or otherwise voluntarily submitting information to the AAFP, you agree to this Policy. The AAFP reserves the right to make changes to this Policy at any time; in such case, the AAFP will post a notice that this Policy has been modified by revising the “Last updated” date at the bottom of this page.
 
@@ -78,7 +78,7 @@ All of the AAFP’s marketing emails and some of its informational emails includ
 
 #### Direct mail opt-out
 
-To discontinue receipt of the AAFP’s catalogs and direct mail promotions, please call the AAFP Contact Center at (800) 274-2237. Your request will be processed as quickly as possible. However, due to mailing lead times, it is possible that you may receive a few more mailings from the AAFP. After six to eight weeks, you should no longer receive mailings from the AAFP.
+To discontinue receipt of the AAFP’s catalogs and direct mail promotions, please call the AAFP Member Resource Center at (800) 274-2237. Your request will be processed as quickly as possible. However, due to mailing lead times, it is possible that you may receive a few more mailings from the AAFP. After six to eight weeks, you should no longer receive mailings from the AAFP.
 
 For questions or concerns about this Policy, please contact [privacy@aafp.org](mailto:privacy@aafp.org "privacy@aafp.org").
 
