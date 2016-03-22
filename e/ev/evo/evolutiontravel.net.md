@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolutiontravel.net privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713062213id_/http%3A//evolutiontravelnetwork.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutiontravel.net privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322221756id_/http%3A//evolutiontravelnetwork.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ETN
 
