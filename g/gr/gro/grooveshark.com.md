@@ -1,48 +1,100 @@
-> *The following text is extracted and transformed from the grooveshark.com privacy policy that was archived on 2008-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080306011827id_/http%3A//beta.grooveshark.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grooveshark.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322102622id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Grooveshark :: Everybody Gets Paid
+# ScoreBig - Privacy Policy
 
-## Privacy Policy
+Thank you for accessing the web site ("Site") of ScoreBig, Inc. ("ScoreBig.com"). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
-### Privacy Notice
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Privacy Policy and the [Terms of Use](https://www.scorebig.com/home/terms) for the Site.
 
-**Last Updates:** September 26th, 2007
+This Privacy Policy applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.
 
-Please thoroughly read through this agreement to understand what information Escape Media Group Inc ("EMG") collects about you when you use grooveshark.com and its associated desktop application ("this service"), and who EMG may share this information with. If you find any part of this policy unacceptable, please discontinue your use this site immediately, as this Policy is integrated into, and subject to the Term of Service (found at http://www.grooveshark.com/tos.php) for this service. The use of this service constitutes an agreement between yourself and EMG to knowingly accept and agree to the terms and provisions of this privacy policy.
+We are not responsible for the content or privacy practices on any non-ScoreBig.com web site to which this Site links or that links to this Site.
 
-#### Definitions
+### INFORMATION COLLECTION AND USE
 
-  * **Private information:** Data which a user has submitted to this service, or has been accumulated by this service through its use, but is not accessible to other users via normal use of this service.
-  * **Personally identifiable information:** Data which ties a particular user's IP address, or full legal name with an action, for example downloading a particular song via this service. If such information is public information, it is not considered personally identifiable or private.
-  * **Public information:** Data which by user preference, or architecture of this service, is available to be viewed by any user of this service. This may include, but is not limited to information on a user's public profile, tags, comments, and or ratings submitted by a user.
+### **1\. Information Collection.**
 
+We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
-
-#### Information we collect and who can access it:
-
-  * **Public and private information:** To provide the needed data to make this service possible, EMG collects and stores information that includes but is not limited to user information submitted during sign up, profile information, and music library information and its accompanying information such as tags, ratings, articles, and comments. EMG stores this information for an indefinite amount of time, unless otherwise specified in the Terms of Service. This information will not be shared with any 3rd party without consent from the user, or unless otherwise stated in this policy or the Terms of Service.
-  * **Personally identifiable information:** When you use this service, information about your computer's request is saved by EMG. This data may include information such as IP address information. IP address information is stored for no more that 6 months from the date the information is recorded. This data may be stored for longer, up to an indefinite amount of time, if EMG is so ordered to do so by a United States court of law with proper jurisdiction. This may be done without any notification to the user. This information may also be kept longer than 6 months by EMG if a user is found by EMG's soul judgment to be suspect of carrying out illegal, unlawful, or dangerous actions with or in this service. Prior to keeping IP address information for more than 6 months, the user will be notified via email about their suspect status.
-
-In addition to recording information involving a user's ip address as described above, EMG collects and stores personally identifiable information that includes but is not limited to information that links music downloads and streams to particular users and information that links users and there corresponding actions on grooveshark.com. This information is needed to enable certain features the service provides, and is stored for an indefinite period of time. This information will not be shared with any 3rd party without consent from the user, or unless otherwise stated in this policy or the Terms of Service. At some point in the future it is possible that users may be able to opt out of certain features and have a subset of this information not be stored for more than 7 days.
-
-You should also be aware that if you voluntarily disclose personally identifiable information on message boards, in chat areas, or other openly viewable parts of the service, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of EMG and this policy.
-
-  * **Anonymous information:** EMG records anonymous information about users which is stored for an indefinite period of time. This information records only general trends and does not link any statistic with any particular user. This data may include, but is not limited to, averages and or totals of browser and operations system types, entry and exit pages, user, artist, or album popularity, demographic information, and amount of data transferred. This information may be shared with any 3rd party EMG chooses.
+  * help make this Site easier for you to use by not having to enter information more than once.
+  * help you quickly find information, products, and services.
+  * help us create content on this Site that is most relevant to you.
+  * alert you to new information, products, and services that we offer.
 
 
 
-#### Advertising
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [help@scorebig.com](mailto:help@scorebig.com). We will retain and use your information as necessary to comply with our legal, tax and accounting obligations, resolve disputes, and enforce our agreements ("Retention Obligations").
 
-  * Advertisers are given no special use of user's private or personally identifiable information. If you choose to follow an advertisement link, do so at your own risk. EMG does not guarantee the safety or accuracy of any 3rd party site, advertisement, or product. Advertisers also have their own set of privacy and Terms of Service policies that much be carefully reviewed.
-  * EMG may provide any 3d party it chooses with public user information.
+(a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name and email address. During ordering, you will be prompted to provide to us certain personal information, including but not limited to, shipping and billing address, phone number, and credit card number. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.
 
+(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for promotions or contests; to request us to notify you regarding particular offers or products, or to sign up for our e-mail newsletter and special offers. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners.
 
+(c) Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
 
-#### General
+(i) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware".
 
-  * EMG reserves the right to revise/alter this agreement at any time with no notice given. Any updates will be posted to this page, with the last updated information changed accordingly.
-  * Escape Media Group, Inc. does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Escape Media Group, Inc. has any information from or about anyone under 13, please contact us at privacy@escapemg.com.
-  * This policy and the use of this site are governed by the laws of the State of Delaware. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: White Plains, Westchester County New York. Any costs and fees other than attorney fees associated with mediation will be at the user's sole expense.?
-  * If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: White Plains New York, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+(ii) Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
 
+(iii) We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us. Notwithstanding any other provision, we may also engage a data provider who may collect weblog data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/choices/) or <http://www.networkadvertising.org/choices/>.
 
+(d) Log Files. As is true of most web sites, the Site automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+
+(e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 18. Elsewhere on this Site, you have represented and warranted that you are over 18 years of age. If you are under the age of 18, please do not submit any personal information to us, and you should rely on a parent or guardian to assist you.
+
+### **2\. Information Use and Disclosure.**
+
+(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
+
+(b) Communications with You: We will use your personal information to communicate with you about our site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, we will send you a notification email when you request us to notify you when particular products become available. We always permit you to unsubscribe from product availability notifications. Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders or your membership.
+
+(c) External Use. We want to provide you with excellent service and to offer you a great selection - we primarily sell tickets, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
+
+(i) As do most Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information including your name, postal address, email address and/or phone number with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products and ensure delivery. Or as another example, so that we can obtain feedback and improve the quality of our service we may share your information with a third party to perform customer satisfaction surveys on our behalf.
+
+(ii) Additionally, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
+
+(iii) We also partner with live event venues, teams, leagues, promoters, artists and others who manage the live events we sell tickets for. When you purchase or bid on tickets, we provide them some personal information such as your name, shipping address, email, and/or phone number so that they may fulfill your ticket purchases, contact you about the event or other events you may be interested in.
+
+(iv) We may offer products or promotions from third parties on our website. If you choose to purchase any third party products or participate in any third party promotions, you authorize us to share your personal information (such as name, mailing address, email address, and/or phone number) with these third parties, who may contact you about the promotion or other promotions you might be interested in. We will only share your personal information with these partners if you choose to purchase their products or participate in their promotions or offers. For example, we may offer sports team branded merchandise via a third party supplier, and if you purchased this merchandise, we would share your personal information with the merchant in order to facilitate the transaction.
+
+(v) It's possible that we might merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+
+(vi) We may be required to disclose certain information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
+
+(vii) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+
+### **DATA SECURITY**
+
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot and do not guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+
+### **OPT OUT/CORRECTIONS**
+
+On your request, we will (a) correct, update or, in accordance with our Retention Obligations, delete your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or [emailing](http://help.scorebig.com/anonymous_requests/new) your request to our Customer Support department at 1-877-726-7324. Please do not email your credit-card number or other sensitive information.
+
+### **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
+
+As you might expect, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store or shred the fax, depending on whether there is any need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Privacy Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+
+### **REFERRALS**
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site, and a limited number of reminder emails. ScoreBig, Inc. stores this information for the sole purpose of sending these invitation emails and tracking the success of our referral program.
+
+Your friend may contact us at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new) to request that we remove this information from our database.
+
+### **SOCIAL MEDIA WIDGETS**
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### **SINGLE SIGN-ON**
+
+You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+### **CALIFORNIA PRIVACY RIGHTS**
+
+California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an [email](http://help.scorebig.com/anonymous_requests/new) or write to us at 1800 N. Highland Ave, first Floor, Los Angeles, CA 90028. Attn: Customer Service.
+
+### **UPDATES TO THIS POLICY**
+
+If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. If you have any questions about the Privacy Policy, please contact our Customer Service department at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new).
+
+This Privacy Policy was last updated on February 25, 2013
