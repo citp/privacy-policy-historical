@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317201815id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322164813id_/https%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
 
 # Lowestpricetrafficschool.com - Privacy Policy and Terms of Use
 
@@ -83,7 +83,7 @@ Our analytics cookies include Google Analytics. This tool uses a set of cookies 
 
 
 
-To find out more information about Google Analytics, its security and privacy policies, please [click here](http://www.google.com/analytics/learn/privacy.html?rd=1). To opt out of Google Analytics [click here](https://tools.google.com/dlpage/gaoptout).
+To find out more information about Google Analytics, its security and privacy policies, please [click here](https://support.google.com/analytics/answer/6004245). To opt out of Google Analytics [click here](https://tools.google.com/dlpage/gaoptout).
 
 #### B. _Google AdWords_
 
