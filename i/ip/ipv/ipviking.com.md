@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipviking.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029190002id_/https%3A//ipviking.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipviking.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322114811id_/https%3A//ipviking.com/pp) for the most accurate reproduction.*
 
 # DarkViking
 
