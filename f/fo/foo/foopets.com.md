@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508102817id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322032515id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
 
 # FooPets | Real Virtual Pets Online
 
@@ -126,6 +126,6 @@ Walnut Creek, CA 94596
 USA   
 Email and online contact form in our [Support Center](http://support.foopets.com/). 
 
-©2015 Startapult, Inc. All rights reserved.
+©2016 Startapult, Inc. All rights reserved.
 
 Top
