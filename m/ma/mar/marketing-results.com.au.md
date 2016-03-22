@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the marketing-results.com.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505204825id_/http%3A//www.marketing-results.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-results.com.au privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322164152id_/https%3A//www.marketingresults.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Marketing Results
 
 _Marketing Results is a division of Will International Pty Ltd ATF Marketing Results Unit Trust._
 
 ## Information collected
 
-When you look at this web site, our Internet Service Provider makes a record of your visit and logs the following information for statistical purposes:
+When you look at this website, our Internet Service Provider makes a record of your visit and logs the following information for statistical purposes:
 
   * your server address
   * your top level domain name (for example .com, .gov, .au, .uk etc)
   * the date and time of your visit to the site
   * the pages you accessed and documents downloaded
   * the previous site you have visited
-  * the type of browser you are using.
+  * the type of browser you are using
 
 
 
 ## Access to information collected
 
-Will International will not make an attempt to identify users or their browsing activities. However, in the unlikely event of an investigation, a law enforcement agency or other government agency may exercise its legal authority to inspect our Internet Service Provider's logs.
+Will International will not make an attempt to identify users or their browsing activities. However, in the unlikely event of an investigation, a law enforcement agency or other government agency may exercise its legal authority to inspect our Internet Service Provider’s logs.
 
 ## Use of information collected
 
@@ -30,3 +30,5 @@ This site does not provide facilities for the secure transmission of information
 ## Cookies
 
 Cookies are packets of information that uniquely identify your computer as a visitor to this site. The website may store cookies on your PC as a result of you logging into our website in order to automatically log you back in when you return to the website in future. This option can be changed by you.
+
+* * *
