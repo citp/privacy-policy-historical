@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashtracking.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913072636id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashtracking.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322115734id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.*
 
 # Powerful Tracking for Hashtags | Hashtracking.com
 
@@ -6,7 +6,9 @@
 
 ### What Information Do We Collect?
 
-####  Hashtracking may collect certain personal Information as you view this website. The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission. 
+#### 
+
+Hashtracking may collect certain personal Information as you view this website. The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission.
 
 If you register for a Hashtracking account, we collect your name, email address, your billing address, telephone number and credit card information, as well as other pertinent information we need in order to provide you the best possible service experience. If you post a comment within our blog, we collect your name and email address.
 
@@ -18,7 +20,9 @@ Because the Hashtracking website is directed to business people, we do not expec
 
 ### How Do We Use Your Information?
 
-####  We may use information that we collect about you to verify your identity when accessing Hashtracking. We may also use your information to inform you about Hashtracking news or system information. You always have the option of asking us not to contact you about such news or to remove your personal information from our database. 
+#### 
+
+We may use information that we collect about you to verify your identity when accessing Hashtracking. We may also use your information to inform you about Hashtracking news or system information. You always have the option of asking us not to contact you about such news or to remove your personal information from our database.
 
 If your personal information has changed, or if you want to correct or remove information that we maintain about you, please contact us via our support section at [http://support.hashtracking.com](http://support.hashtracking.com/) or via email at [support@hashtracking.com](mailto:support@hashtracking.com).
 
