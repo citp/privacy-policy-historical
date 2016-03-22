@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theinterviewguys.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000350id_/http%3A//theinterviewguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinterviewguys.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322161316id_/http%3A//theinterviewguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy sets out how **  **TheInterviewGuys.com** **uses and protects any information that you give  **TheInterviewGuys.com** when you use this website.
 
-**TheInterviewGuys.com**  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**TheInterviewGuys.com**  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. **TheInterviewGuys.com**  may change this policy from time to time by updating this page.
 
-**TheInterviewGuys.com**  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/1/2013.
+You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/1/2013.
 
 **Security**
 
@@ -14,21 +14,9 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
-
-Third party vendors, including Google, show our ads on sites on the internet.
-
-Third party vendors, including Google, use our cookies to serve Interview Master System ads based on a user’s prior visits to our website.
-
-Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor’s use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. Third party vendors, including Google, show our ads on sites on the internet. Third party vendors, including Google, use our cookies to serve Interview Master System ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor’s use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 **How can I disable the display of TheInterviewGuys.com personalized advertisements?**
 
@@ -57,43 +45,15 @@ You may choose to restrict the collection or use of your personal information in
 
 **What information do we collect?**
 
-We collect information from you when you place an order or subscribe to our newsletter.
-
-Any data we request that is not required will be specified as voluntary or optional.
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.
-
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+We collect information from you when you place an order or subscribe to our newsletter. Any data we request that is not required will be specified as voluntary or optional. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously. Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
-
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
-
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
-
-• To send periodic emails
-
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+Any of the information we collect from you may be used in one of the following ways: • To personalize your experience (your information helps us to better respond to your individual needs) • To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) • To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) • To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. • To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order.
-
-These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order. These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 **Do we use cookies?**
 
@@ -109,9 +69,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Customer Center' page.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Customer Center' page.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -129,30 +87,12 @@ This online privacy policy applies only to information collected through our web
 
 By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
-
-This policy was last modified on **8/5/2014**
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
+**Changes to our Privacy Policy** If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. This policy was last modified on **8/5/2014** **Contacting Us** If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [](http://www.professionalprivacypolicy.com/)
 
-theinterviewguys.com  
-93 S Jackson St #18519  
-Seattle, Washington 98104-2818  
-United States  
-support@theinterviewguys.com
+theinterviewguys.com 113 Cherry St. #18519 Seattle, Washington 98104-2818 United States support@theinterviewguys.com
 
 **Privacy Policy Customer Pledge**
 
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
-California Online Privacy Protection Act  
-Childrens Online Privacy Protection Act  
-Privacy Alliance  
-Controlling the Assault of Non-Solicited Pornography and Marketing Act  
-Trust Guard Privacy Requirements
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives: Federal Trade Commision Fair California Online Privacy Protection Act Childrens Online Privacy Protection Act Privacy Alliance Controlling the Assault of Non-Solicited Pornography and Marketing Act Trust Guard Privacy Requirements
