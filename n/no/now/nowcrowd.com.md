@@ -1,119 +1,71 @@
-> *The following text is extracted and transformed from the nowcrowd.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610101942id_/http%3A//nowcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowcrowd.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322114126id_/http%3A//nowcrowd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – NowCrowd
 
-**Introduction**
+Thank you for visiting our site (the “Site”) of NowCrowd, Inc. (“NowCrowd”, “we”, “us” and/or “our”). This Site is operated by NowCrowd and has been created to provide information about our company and our online platform designed to permit users to post a fundraising project to accept monetary donations, our mobile applications, and our related services (together with the Site, the “Services”) to our Services visitors (“you”, “your”). This Privacy Policy sets forth NowCrowd’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.  
+INFORMATION WE COLLECT  
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
 
-In connection with using the NowCrowd mobile virtual eWallet ("NowCrowd") and related on-line registration services and, at your discretion, future services related to NowCrowd, including but not limited to the making of your own cards and scanning/creating digital reproductions of existing merchant cards (collectively, "Template Cards") and accounts (the "Services"), NowCrowd Inc. ("NowCrowd", "our", "we", "us" or applicable derivation) collects Personal Information from and concerning users of our Services. We respect your rights with respect to our collection of your Personal Information and it will only be collected, used and disclosed as provided for in this policy or as otherwise specifically consented to by you.
+Personal Data That You Provide Through the Services: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever NowCrowd collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
- **Scope**
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of NowCrowd and the authorized third parties referred to herein located in the United States.
 
-This policy applies to Personal Information about users of our Services that is collected and used by NowCrowd in connection with the Services.
+Other Information:
 
- **Definitions**
+Non-Identifiable Data: When you interact with NowCrowd through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. NowCrowd may store such information itself or such information may be included in databases owned and maintained by NowCrowd affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
-To better understand this policy, NowCrowd has set out some basic definitions to use when reading and interpreting it.  
-Collection: the act of gathering, acquiring, recording, or obtaining Personal Information from any source, including third parties, by any means.
+In operating the Services, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
 
-Consent:   
-voluntary agreement to the collection, use and disclosure of Personal Information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from the circumstances or from an individual's action or inaction.
+Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, NowCrowd often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and NowCrowd may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. NowCrowd may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-Disclosure:   
-making Personal Information available to a third party.
+Location Information: When you use the Services to organize a fundraising project, the Services may request that you provide your city and state of residence. Please keep in mind that other users of the Services may be able to view your city and state of residence in connection with the project, if it is made available within NowCrowd’s Public Search Directory. We may also use your location information in an aggregate way, as described above in the “Aggregated Personal Data” section.
 
-Personal Information:   
-information about an identifiable individual that is recorded in any form, but does not include aggregated information that cannot be associated with a specific person. For a customer, such information does not include that which is aggregated in such a manner that it cannot be connected to him/her and/or information which is publicly listed in a written or online directory or typically made available through directory assistance.
+Google Analytics and Similar Technologies: We may allow third party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Services. For example, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Service. For more information on how Google uses this data, go to www.google.com/policies/privacy/partners/. We have also implemented third party advertising features (such as Remarketing with Google Analytics and Facebook Remarketing) that rely on data collected via advertising cookies and anonymous identifiers in order to provide relevant online advertising. You can learn more about their choices related to online targeted advertising, and opt out of receiving such targeted advertisements, by visiting the following sites:
 
-Use:   
-the treatment, handling and management of Personal Information by and within NowCrowd.
+https://tools.google.com/dlpage/gaoptout/  
+http://www.aboutads.info/choices/  
+http://www.networkadvertising.org/choices/
 
- **Collection of Personal Information**
+Social Networking Integrations: One of the special features of the Services is that it allows you to enable or log in to the Services via various social networking services like Facebook or Twitter (“Social Networking Service(s)”). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into or grant us permission via the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and NowCrowd shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service.
 
-We only collect Personal Information that you consciously provide or that we otherwise receive in connection with our provision of the Services. Such information would typically include name, address (optional), E-mail, Smartphone number, push notification token taken from your device to enable push alerts to work, unique device ID (if different from push notification number), and encrypted data and visuals for cards, including Template Cards, that may be stored in your NowCrowd.  
-We may also collect Personal Information if you contact us, through e-mail, telephone conversations or the completion of forms, for support and other inquiries, or otherwise subscribe to or utilize ancillary Services to NowCrowd.  
-When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer or Smartphone device. We send a "session cookie" to your computer or device when you log in to your account or browse our webpages. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page, or to otherwise assist in associating one request with another in the same browser session. Once you log out or close your browser, this cookie expires and no longer has any effect.  
-We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account. We encode our cookies so that only we can interpret the information stored in them.
+You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Service); you acknowledge that if you choose to use this feature, your friends, followers and subscribers on any Social Networking Services you have enabled will be able to view such activity.
 
- **Accountability**  
-NowCrowd is responsible for Personal Information under its control and has designated its Privacy Officer as accountable for the company's compliance with the following principles.
+Mobile Device Address Book: The Services may also collect the Personal Data relating to third parties stored in your mobile device address book, including without limitation email addresses and phone numbers. Depending on your mobile device operating system, the Services may request your permission to access such Personal Data.  
+OUR USE OF YOUR PERSONAL DATA AND OTHER INFORMATION  
+NowCrowd uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data about yourself, or have provided (or otherwise permitted the Services to access) the Personal Data of Third Parties, including the names and email addresses of your personal contacts (collectively, “Third Party Personal Data”), in order to obtain access to or make use of particular features of the Services, we will use your Personal Data and any such Third Party Personal Data to provide you with access to such services and to monitor your use of such services.
 
-1)  NowCrowd is responsible for Personal Information in its possession or custody.
+NowCrowd and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. NowCrowd and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-2)  In the event that we disclose your Personal Information to third parties or to a data storage or processing company with access to your Personal Information, as appropriate, NowCrowd commits to contractually bind such entities to abide by, or otherwise ensure that such entities will abide by, the fundamental terms of this policy and applicable laws, including with respect to their capability to use, disclose and retain such Personal Information.
+We may also use your Personal Data and Third Party Personal Data to send communications relating to the Services. For example, we may send periodic emails to registered users of the service relating to their recent interactions with the Services, such as donating to a project or “hearting” a project. Also, if you use any feature of the Services permitting you to communicate with third parties (such as to refer a third party to the services or to communicate with them regarding a project or a Donation), either by submitting Third Party Personal Data to the Services or otherwise permitting the Services to automatically access Third Party Personal Data in your possession, you acknowledge and agree that we may use Third Party Personal Data to (1) contact such third party using the Third Party Personal Data provided, and/or (2) provide you with a template message designed to facilitate communication between you and such third party through the Services. In addition to sending the foregoing communications, we may also send reminders or related messages to you and third parties from time to time. In each case, any such communications sent to third parties using Third Party Personal will provide a means to “opt-out” of receiving further communication of the same nature.
 
-3)  NowCrowd shall implement policies and practices to give effect to:
+If NowCrowd intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.  
+OUR DISCLOSURE OF YOUR PERSONAL DATA AND OTHER INFORMATION  
+NowCrowd is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-a. Implementing procedures to protect Personal Information;
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-b. Establishing procedures to receive and respond to complaints and inquiries;
+Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-c. Training staff and communicating to staff information about the organization's policies and practices; and
+Agents, Consultants and Related Third Parties: NowCrowd, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-d. Developing information to explain the organization's policies and procedures.
+Legal Requirements: NowCrowd may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of NowCrowd, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.  
+YOUR CHOICES  
+You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.  
+EXCLUSIONS  
+This Privacy Policy does not apply to any Personal Data collected by NowCrowd other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to NowCrowd through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and NowCrowd shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.  
+CHILDREN  
+NowCrowd does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to NowCrowd through the Services, please contact us at support@NowCrowd.com, and we will endeavor to delete that information from our databases.  
+LINKS TO OTHER WEB SITES  
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by NowCrowd (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that NowCrowd endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.  
+SECURITY  
+NowCrowd takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to NowCrowd via the Internet.  
+OTHER TERMS AND CONDITIONS  
+Your access to and use of the Services is subject to the Terms of Service at http://www.NowCrowd.com/terms-of-service.  
+CHANGES TO NowCrowd’S PRIVACY POLICY  
+The Services and our business may change from time to time. As a result, at times it may be necessary for NowCrowd to make changes to this Privacy Policy. NowCrowd reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.  
+ACCESS TO INFORMATION; CONTACTING NowCrowd  
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services.
 
- **Purposes**
+Please also feel free to contact us if you have any questions about NowCrowd’s Privacy Policy or the information practices of the Services.
 
-NowCrowd generally collects Personal Information only for the following purposes:  
-1)  To provide the Services to you;
-
-2)  To establish and maintain responsible commercial relations with and pertaining to you (which will include, but not be limited to: communication, account verification, provisioning of services and product, and card information and card image backup as applicable);
-
-3)  To meet legal and regulatory requirements; and
-
-4)  To administer and manage its business operations.
-
- **Consent**
-
-The knowledge and consent of the individual are required for the collection, use or disclosure of Personal Information, as follows and except in certain circumstances as described below:  
-1)  In rare circumstances, (for example, legal, medical or security reasons) it may be impossible or impractical to seek consent. When information is being collected for the detection and prevention of fraud or for law enforcement, seeking the consent of the individual might defeat the purpose of collecting the information.
-
-2)  In obtaining consent, NowCrowd will use reasonable efforts to ensure that you are advised of the identified purposes for which Personal Information collected will be used or disclosed.
-
-3)  Your use of the Services in seeking to download and otherwise use and leverage NowCrowd will be considered consent to collect, use and disclose the associated Personal Information for all identified purposes described herein. In addition, your use of the Services will be considered consent for you to receive push notifications pertaining to the provisioning of the Service by NowCrowd as well as offerings, messaging and content from merchants to which you choose to subscribe for cards to include and use in the NowCrowd software.
-
-4)  You may withdraw consent in writing at any time, subject to legal or contractual restrictions and reasonable notice. NowCrowd may inform the individual of the implications of such withdrawal.
-
- **Use and Retention of Personal Information**
-
-Personal Information will be retained only as long as necessary for the fulfillment of the purposes listed herein or otherwise consented to.  
-1)  Generally, all Personal Information collected by NowCrowd is to provide you with the Services (i.e., communicating between the NowCrowd application to be downloaded to or in your Smartphone and our centralized NowCrowd platform) as well as for such reasonably ancillary use in connection with such Services and your use and enjoyment of NowCrowd. Such ancillary use may include sending you targeted marketing, service update notices and promotional offers from time to time.
-
-2)  Only NowCrowd's employees or contractors, with a business need to know, or whose duties reasonably so require, are granted access to your Personal Information.
-
-3)  Personal Information that is no longer required to fulfill the identified purposes will be destroyed, erased or made anonymous according to the guidelines and procedures established by NowCrowd. It is NowCrowd's practice to retain your account registration information after you have registered as well as encrypted card data and visuals so as to support you and provide future Services to you as you may direct from time to time.
-
-4)  Except as provided for in this policy, we will not sell, rent, lease, commercially exploit or otherwise disclose your Personal Information or data to third parties unless: (i) required by law or to cooperate with any bona fide legal investigation; (ii) required to protect the legal interests of NowCrowd, including in connection with a potential financing, merger or acquisition in which case the applicable counterparties shall be placed under obligations of confidentiality; or (iii) you provide consent to such disclosure where such consent may not reasonably be implied according to this Policy or otherwise. Please note that the laws on processing and otherwise concerning personal information may differ between countries, and as NowCrowd may hold and process Personal Information in Canada and the United States, the laws and standards in those two countries may diverge and possibly conflict.
-
- **Accuracy**
-
-At your request and notification, NowCrowd will update Personal Information as necessary to fulfill the identified purposes. You always have the right to request that we delete, destroy, return, amend or update your Personal Information in our possession as you may direct, subject to reasonable notice and your acceptance of the implications as to NowCrowd's ability to provide the Services to you.  
-Security  
-Personal Information will be protected by security safeguards appropriate to the sensitivity of the information.
-
-1)  Any Personal Information in our possession is stored electronically, either on our server (which may be hosted offsite) or on other electronic storage media that may be retained as part of your files or otherwise.
-
-2)  We have security measures in place to protect against the loss, misuse, access to or alteration of your Personal Information and data under our control.
-
-3)  We operate computer networks that are protected by industry standard firewalls and password protection. Appropriate physical and managerial security is also in place, including but not limited to selected encryption as identified above and the execution by our employees and contractors of a confidentiality/non-disclosure agreement as a standard practice of our hiring, employment and contracting.
-
-4)  While we cannot guarantee that loss, misuse or alteration to your data will not occur, we will use our resources and expertise to attempt to prevent such occurrences.
-
-5)  We commit to providing a minimum of an annual review and training with respect to this policy among our staff with potential access to your Personal Information.
-
- **Openness and Access**
-
-NowCrowd will make readily available to you information about its policies and practices relating to the management of Personal Information. NowCrowd will make this Privacy Policy available to you prior to providing the Services.  
-You may access or inquire about your Personal Information in our possession at any time during our business hours. The Personal Information requested will be provided within a reasonable time, and at minimal or no cost to you.  
-In certain situations, NowCrowd may not be able to provide access to all of the Personal Information it holds about you. Exceptions may include information that is prohibitively costly to provide, information that cannot be disclosed for legal, security or commercial proprietary reasons, or information that is subject to solicitor-client or litigation privilege. NowCrowd will provide the reasons for denying access upon request.
-
- **Challenging Compliance**
-
-In the event of any dispute, complaint or problem with respect to this policy and related NowCrowd practices, a definitive procedure for resolution has been established as outlined below. NowCrowd is committed to resolving any such issues promptly, justly, objectively and, where possible, confidentially.  
-A written outline of the issue should be forwarded directly to the Privacy Officer of NowCrowd, who in turn will investigate, examine and evaluate all the facts. Based on the information gathered and other related details, a formal written decision will be completed and will be forwarded to you within 30 days of the Privacy Officer's receipt of your complaint. During investigation of the issue, it may be necessary for further Personal Information to be shared with the Privacy Officer or other appropriate parties internal or external to NowCrowd. In all cases, NowCrowd will remain responsible for the protection of all such Personal Information.
-
- **Notification of changes**  
-We may update this privacy policy from time to time, so please review it periodically.
-
- **Contact Us**
-
-For further information concerning this privacy policy or its application or for access to your Personal Information, please write to us, in English only, via e-mail at [info@nowcrowd.com](mailto:info@nowcrowd.com), with subject line: "To The Privacy Officer".
+You may contact us as follows: info@nowcrowd.com.
