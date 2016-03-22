@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006150732id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322110853id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
 Version 2015.06.08
 
-Lux Scientiaee, Incorporated (collectively, "We", "Our", "Us", "LuxSci", or "Lux Scientiae") has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website, [luxsci.com](https://luxsci.com/), and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our LuxSci FYI Blog prior to the change becoming effective.
+Lux Scientiae, Incorporated (collectively, "We", "Our", "Us", "LuxSci", or "Lux Scientiae") has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website, [luxsci.com](https://luxsci.com/), and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our LuxSci FYI Blog prior to the change becoming effective.
 
 The TRUSTe program covers only information that is collected through this website, luxsci.com and does not cover information that may be collected through software downloaded from the website and behind the login on your product/service.
 
