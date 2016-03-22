@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the beachfront.io privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112131945id_/http%3A//www.beachfront.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfront.io privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322060100id_/http%3A//beachfront.io/privacy-policy) for the most accurate reproduction.*
 
-# Beachfront.io | Privacy Policy
+# Privacy Policy
 
-**It’s worth knowing what we will and won’t do with your information**  
+#### This privacy policy was last updated on August 28, 2014.
+
+**It’s worth knowing what we will and won’t do with your information**
+
 Beachfront Media, LLC, (“BFM”, “we”, or “us’), is committed to protecting your privacy when you use our products and services. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information. BFM is committed to transparency and accountability in our privacy practices. The following statement describes our Privacy Policy as it relates to the collection, use and disclosure of information we receive from users of our video platform services (“Services”). The purpose of this Privacy Policy is to inform you of the following:
 
 Who we are and the services we provide so that you can understand how our business may impact your privacy,  
@@ -145,5 +148,3 @@ California Civil Code Section 1798.83 permits End Users who are California resid
 #### Changes to Privacy Policy
 
 BFM is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any changes that we believe are material are made to the company´s privacy practices, we will post a revised Privacy Policy on this website.
-
-This privacy policy was last updated on August 28, 2014.
