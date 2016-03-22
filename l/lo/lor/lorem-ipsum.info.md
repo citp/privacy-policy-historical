@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorem-ipsum.info privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926035838id_/http%3A//generator.lorem-ipsum.info/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorem-ipsum.info privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322104600id_/http%3A//generator.lorem-ipsum.info/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
