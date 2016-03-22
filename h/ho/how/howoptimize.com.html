@@ -1,66 +1,119 @@
-<!--The following is the downloaded HTML source of the howoptimize.com privacy policy that was archived on 2015-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151202023048id_/http%3A//howoptimize.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the howoptimize.com privacy policy that was archived on 2016-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160322182226id_/http%3A//howoptimize.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    	<title>HowOptimize Privacy Policy</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="We are committing to keep their privacy safe as possible, not sell or share to other third party.">
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/layout.css"> 
-	<link rel="icon" type="image/png" href="/favicon.png">
-	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    
-  </head>
-  <body>
-      <!-- Static navbar -->
-    <div class="navbar navbar-default" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand logo" href="http://howoptimize.com/"><img class="img-responsive" alt="HowOptimize Logo" title="HowOptimize" src="/assets/img/howoptimize-logo.png" width="213"></a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li class=""><a href="http://howoptimize.com/"><i class="fa fa-home"></i> HOME</a></li>
-			<li class=""><a href="http://howoptimize.com/analyze"><i class="fa fa-bar-chart"></i> ANALYZE</a></li>
-            <li class=""><a href="http://howoptimize.com/top-sites"><i class="fa fa-trophy"></i> TOP SITES</a></li>
-            <li class=""><a href="http://howoptimize.com/guide"><i class="fa fa-book"></i> GUIDE</a></li>
-            <li class=""><a href="http://howoptimize.com/contact"><i class="fa fa-rocket"></i> CONTACT US</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
+<title>HowOptimize Privacy Policy</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="We are committing to keep their privacy safe as possible, not sell or share to other third party.">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://howoptimize.com/assets/css/bootstrap.min.css">
+<link href="http://howoptimize.com/assets/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="http://howoptimize.com/assets/css/layout.css"> 
+<link rel="icon" type="image/png" href="http://howoptimize.com/favicon.png">
+<link rel="apple-touch-icon" href="http://howoptimize.com/apple-touch-icon.png">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://howoptimize.com//assets/js/jquery-2.1.4.min.js"></script>
+<script>
+    $(function() {
+      var $body = $('body');
+      var throttledTimer;
+      var checkNavbar = function() {
+        if ($(window).scrollTop() > 0) {
+          if (!$body.hasClass('topnav')) {
+            return $body.addClass('topnav');
+          }
+        } else {
+          if ($body.hasClass('topnav')) {
+            return $body.removeClass('topnav');
+          }
+        }
+      };
+      checkNavbar();
+      var checkNavbarThrottled = throttle(checkNavbar, 30);
+      $(window).on('scroll', checkNavbarThrottled);
+      $(window).on('resize', checkNavbarThrottled);
+    });
+
+    function throttle(func, wait, options) {
+      var context, args, result;
+      var timeout = null;
+      var previous = 0;
+      if (!options) options = {};
+      var later = function() {
+        previous = options.leading === false ? 0 : Date.now();
+        timeout = null;
+        result = func.apply(context, args);
+        if (!timeout) context = args = null;
+      };
+      return function() {
+        var now = Date.now();
+        if (!previous && options.leading === false) previous = now;
+        var remaining = wait - (now - previous);
+        context = this;
+        args = arguments;
+        if (remaining <= 0 || remaining > wait) {
+          if (timeout) {
+            clearTimeout(timeout);
+            timeout = null;
+          }
+          previous = now;
+          result = func.apply(context, args);
+          if (!timeout) context = args = null;
+        } else if (!timeout && options.trailing !== false) {
+          timeout = setTimeout(later, remaining);
+        }
+        return result;
+      };
+    };
+</script></head>
+<body>
+<!-- Static navbar -->
+<div class="navbar navbar-default" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand logo" href="http://howoptimize.com/"><img class="img-responsive" alt="HowOptimize Logo" title="HowOptimize" src="http://howoptimize.com//assets/img/howoptimize-logo.png" width="213"></a>
     </div>
-        <div class="header-2">
-    <div class="container">
-        <div class="row">
-        <div class="col-md-9 col-sm-12">
-        <form class="check-form" method="POST" action="/form_handle.php">
-            <div class="input-group input-group-lg">
-              <input type="text" class="form-control domain-name" placeholder="example.com" name="domain" value="">
-              <span class="input-group-btn">
-                <button id="analyze-btn" type="submit" class="btn btn-primary"><i class="fa fa-cog"></i> <span class="hidden-xs">ANALYZE</span></button>
-              </span>
-            </div><!-- /input-group -->
-        </form>
-        </div>
-        </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class=""><a href="http://howoptimize.com/"><i class="fa fa-home"></i> HOME</a></li>
+		<li class=""><a href="http://howoptimize.com/analyze"><i class="fa fa-bar-chart"></i> ANALYZE</a></li>
+        <li class=""><a href="http://premium.howoptimize.com/"><i class="fa fa-star"></i> PREMIUM</a></li>
+        <li class=""><a href="http://howoptimize.com/top-sites"><i class="fa fa-trophy"></i> TOP SITES</a></li>
+        <li class=""><a href="http://howoptimize.com/guide"><i class="fa fa-book"></i> GUIDE</a></li>
+        <li class=""><a href="http://howoptimize.com/contact"><i class="fa fa-rocket"></i> CONTACT US</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
+<div class="header-2">
+<div class="container">
+    <div class="row">
+    <div class="col-md-9 col-sm-12">
+    <form class="check-form" method="POST" action="/form_handle.php">
+        <div class="input-group input-group-lg">
+          <input type="text" class="form-control domain-name" placeholder="example.com" name="domain" value="">
+          <span class="input-group-btn">
+            <button id="analyze-btn" type="submit" class="btn btn-primary"><i class="fa fa-cog"></i> <span class="hidden-xs">ANALYZE</span></button>
+          </span>
+        </div><!-- /input-group -->
+    </form>
     </div>
     </div>
-    <div class="container bg">
+</div>
+</div>
+<div class="container bg">
   <div class="row">
 <div class="col-md-9 content">
 <div class="site-header"><h1 class="page-header">HowOptimize <b>Privacy Policy</b></h1></div>
@@ -216,7 +269,42 @@
     <div class="sidebar2">
     	<h2>Recent Guides</h2>
         <div class="list-group">
-        <a class="list-group-item " href="http://howoptimize.com/guide/10-tips-to-improve-your-social-media-presence">10 Tips to Improve Your Social Media Presence</a><a class="list-group-item " href="http://howoptimize.com/guide/character-encoding-guide">Character Encoding Guide</a><a class="list-group-item " href="http://howoptimize.com/guide/custom-404-error-page-guide">Custom 404 Error Page Guide</a><a class="list-group-item " href="http://howoptimize.com/guide/deprecated-html-tags-and-alternatives-guide">Deprecated HTML Tags and Alternatives Guide</a><a class="list-group-item " href="http://howoptimize.com/guide/how-to-build-quality-backlinks-to-your-website">How to Build Quality Backlinks to Your Website</a><a class="list-group-item " href="http://howoptimize.com/guide/how-to-create-a-print-friendly-css-for-your-website">How to Create a Print-friendly CSS for Your Website</a><a class="list-group-item " href="http://howoptimize.com/guide/how-to-do-www-resolve">How to Do WWW Resolve</a>        </div>
+                        <a class="list-group-item " href="http://howoptimize.com/guide/10-tips-to-improve-your-social-media-presence">
+                    <img alt="Social Image" class="img-rounded img-responsive article2-img" src="/assets/img/social.jpg">
+                    <h5>
+                        10 Tips to Improve Your Social Media Presence                    </h5>
+                </a>
+                                <a class="list-group-item " href="http://howoptimize.com/guide/character-encoding-guide">
+                    <p><img alt="Character Encoding Image" class="img-rounded img-responsive article2-img" src="/assets/img/charset.jpg"></p>
+                    <h5>
+                        Character Encoding Guide                    </h5>
+                </a>
+                                <a class="list-group-item " href="http://howoptimize.com/guide/custom-404-error-page-guide">
+                    <p><img alt="404 Error Page Image" class="img-rounded img-responsive article2-img" src="/assets/img/404.jpg"></p>
+                    <h5>
+                        Custom 404 Error Page Guide                    </h5>
+                </a>
+                                <a class="list-group-item " href="http://howoptimize.com/guide/deprecated-html-tags-and-alternatives-guide">
+                    <p><img alt="Deprecated HTML Tags Image" class="img-rounded img-responsive article2-img" src="/assets/img/deprecated.jpg"></p>
+                    <h5>
+                        Deprecated HTML Tags and Alternatives Guide                    </h5>
+                </a>
+                                <a class="list-group-item " href="http://howoptimize.com/guide/how-to-build-quality-backlinks-to-your-website">
+                    <p><img alt="Backlinks Image" class="img-rounded img-responsive article2-img" src="/assets/img/backlinks.jpg"></p>
+                    <h5>
+                        How to Build Quality Backlinks to Your Website                    </h5>
+                </a>
+                                <a class="list-group-item " href="http://howoptimize.com/guide/how-to-create-a-print-friendly-css-for-your-website">
+                    <p><img alt="Printing Image" class="img-rounded img-responsive article2-img" src="/assets/img/printing.jpg"></p>
+                    <h5>
+                        How to Create a Print-friendly CSS for Your Website                    </h5>
+                </a>
+                                <a class="list-group-item " href="http://howoptimize.com/guide/how-to-do-www-resolve">
+                    <p><img alt="WWW Resolve Image" class="img-rounded img-responsive article2-img" src="/assets/img/www-resolve.jpg"></p>
+                    <h5>
+                        How to Do WWW Resolve                    </h5>
+                </a>
+                        </div>
     </div>
 </div>  </div>
   </div>
@@ -239,10 +327,10 @@
 		<div class="container">
 		<div class="row">
 		<div class="copyright col-sm-7">
-		<p>© 2015 HOWOPTIMIZE.COM</p>
+		<p>© 2016 HOWOPTIMIZE.COM</p>
 		</div>
 		<div class="poli col-sm-5">
-        <a href="/privacy">Privacy</a> - <a href="/term-of-use">Term of Use</a> - <a href="/contact">Contact</a>
+        <a href="http://howoptimize.com/privacy">Privacy</a> - <a href="http://howoptimize.com/term-of-use">Term of Use</a> - <a href="http://howoptimize.com/contact">Contact</a>
 		</div>
 		</div>
 		</div>
@@ -252,8 +340,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
         <script type="text/javascript">
     (function($){$.extend({scrollToTop:function(){var _isScrolling=false;$("body").append($("<a />").addClass("scroll-to-top").attr({"href":"#","id":"scrollToTop"}).append($("<i />").addClass("glyphicon glyphicon-chevron-up")));$("#scrollToTop").click(function(e){e.preventDefault();$("body, html").animate({scrollTop:0},500);return false;});$(window).scroll(function(){if(!_isScrolling){_isScrolling=true;if($(window).scrollTop()>150){$("#scrollToTop").stop(true,true).addClass("visible");_isScrolling=false;}else{$("#scrollToTop").stop(true,true).removeClass("visible");_isScrolling=false;}}});}});})(jQuery);
     $(function(){
