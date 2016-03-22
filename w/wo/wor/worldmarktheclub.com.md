@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073420id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322062344id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -20,7 +20,7 @@ Become an Owner
 Board of Directors  
 Contact Us  
   
-[](/mondaymadness/index.shtml)
+[](https://web.archive.org/mondaymadness/index.shtml)
 
 [ ](https://www.worldmarktravelsecure.com/)
 
@@ -119,7 +119,7 @@ We may also aggregate and/or anonymize personal information for research, to imp
 
   * **Marketing:** We may contact you by email, telephone, SMS or postal mail with information about products or services offered by Wyndham or a third party that may be of interest to you. You can opt-out in this way at any time by: 
     * Using the unsubscribe function in the email you receive from us. 
-    * [Unsubscribe](https://www.wyndhamvopromotions.com/unsubscribe/cw.asp) if you do not wish to receive further direct marketing from us about Wyndham products or services. 
+    * [Unsubscribe](https://www.wyndhamvopromotions.com/unsubscribe/wbw.asp) if you do not wish to receive further direct marketing from us about Wyndham products or services. 
     * **Access to Information We Hold about You:** If you would like to access, obtain copies, update, correct or request that we suppress or delete any of the information we hold about you or if you require further information from us about how we use your information please contact us at [Ecommerce@wyn.com](mailto:Ecommerce@wyn.com) . In some jurisdictions, you may be charged a reasonable fee for access to your information.
 
 
