@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michellepescosolido.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810100402id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michellepescosolido.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322054132id_/http%3A//onlinewealthpartner.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Online Wealth Partner - The Blog of Michelle and Bill Pescosolido
 
 Pescosolido Marketing LLC is committed to protecting individual privacy and securing the personal information made available to us when you visit onlinewealthpartner.com and our partner sites, as well Pescosolido Marketing LLC pages on other sites (such as our profiles on social networks).
 
