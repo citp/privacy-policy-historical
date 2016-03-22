@@ -1,59 +1,74 @@
-> *The following text is extracted and transformed from the iccu.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528171937id_/http%3A//www.iccu.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D150%26Itemid%3D207) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccu.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322185013id_/https%3A//www.iccu.com/inc/uploads/2015/01/privacy_notice.pdf) for the most accurate reproduction.*
 
-# Idaho Central Credit Union - 2 - Privacy Policy
+# 
 
-Idaho Central Credit Union is committed to providing you with the best products and services available and to do so in a secure and confidential environment. We firmly believe in our members’ right to privacy and have taken numerous safeguards and precautions to ensure your nonpublic personal information remains confidential.
-
-What follows is our privacy statement to all of our members. This document states what types of information we collect about our members, what information may be shared, and with whom this information may be shared. Idaho Central only collects personal information that is necessary to conduct the business of the Credit Union. 
-
-**THE CONFIDENTIALITY AND SECURITY OF YOUR PERSONAL INFORMATION**
-
-The confidentiality of your information is of the utmost importance to us. Therefore, we restrict access to your personal information to only those employees who need to know that information to provide competent service to you. All employees are trained to respect our members’ privacy. In addition, we have physical, electronic, and procedural safeguards in place to protect your information. 
-
-**THE INFORMATION THAT WE COLLECT**
-
-We collect only relevant information about our members that the law requires or allows us to collect in order to perform the services of the Credit Union.
-
-We collect nonpublic personal information from the following sources:
-
-  * Information we receive from you on applications and other forms.
-  * Information about your transactions with us.
-  * Information from consumer reporting agencies.
-
-
-
-**THE INFORMATION THAT WE MAY SHARE**
-
-Federal law allows us to disclose certain types of information about you in order to perform services provided by Idaho Central Credit Union. Typically, this information is used to process transactions on your behalf, to conduct the operations of our Credit Union, and to follow instructions that you authorize. This information includes: 
-
-  * Nonpublic personal information we receive from you on an application or other forms. This could include: Name, address, social security number, assets, income.
-  * Nonpublic personal information about your transactions with us. This could include:Account balances, account activity, types of accounts, credit card usage, payment history, and deposit history.
-  * Nonpublic personal information we receive from credit reporting agencies. This could include: Creditworthiness and Credit history.
-
-
-
-**TYPES OF BUSINESSES WE MAY SHARE YOUR INFORMATION WITH**
-
-We do not disclose any nonpublic personal information about our members and former members to anyone, except as permitted by law. The types of businesses that we may share nonpublic personal information include those who perform marketing services on our behalf, institutions with whom we have joint marketing agreements, or those that are used in completing transactions. These include: 
-
-  * Financial companies, such as: Insurance agents, mortgage service companies.
-  * Non-financial companies, such as: Consumer reporting agencies, data processors, check and statement printers, plastic card processors.
-
-
-
-It is important for you to know that the businesses with whom we share your information are under a strict contractual relationship to maintain the confidentiality, secrecy, and integrity of that information. We do not share your information with a third party for use in that third party’s independent use. Also, WE DO NOT SHARE YOUR INFORMATION FOR USE IN ANY TYPE OF TELEMARKETING. 
-
-**INFORMATION ABOUT FORMER MEMBERS**
-
-If at any time you decide to terminate your membership with Idaho Central Credit Union, we will not share information we have collected about you except as may be permitted or required by law. 
-
-**WHAT YOU CAN DO TO HELP PROTECT YOUR INFORMATION**
-
-As stated before, we are committed to the privacy of our members’ information. We have numerous safeguards and security measures in place, as well as secure contractual relationships with those businesses needed to perform our duties for you. You can help Idaho Central protect your information by doing the following: 
-
-  * Protect your account numbers, card numbers, and PIN numbers. Notify us immediately if you ever lose your cards or other account information.
-  * Use extreme caution when disclosing your account numbers, social security numbers, or any other personal financial information.
-  * Keep your information current. If we detect any potentially fraudulent or unauthorized use of account information we will attempt to contact you immediately.   
+                                                                                                           Rev. October 2010
+                      WHAT DOES IDAHO CENTRAL CREDIT UNION DO
+FACTS                 WITH YOUR PERSONAL INFORMATION?
+                      Financial companies choose how they share your personal information. Federal law gives
+Why?                  consumers the right to limit some but not all sharing. Federal law also requires us to tell you how
+                      we collect, share, and protect your personal information. Please read this notice carefully to
+                      understand what we do.
+What?                 The types of personal information we collect and share depend on the product or service you
+                      have with us. This information can include:
+                            Social Security number and checking account information
+                            account balances and payment history
+                            credit history and credit scores
+                      When you are no longer our member, we continue to share your information as described in this
+                      notice.
+How?                  All financial companies need to share members' personal information to run their everyday
+                      business. In the section below, we list the reasons financial companies can share their members'
+                      personal information; the reasons Idaho Central Credit Union chooses to share; and whether you
+                      can limit this sharing.
+                                                              Does Idaho Central Credit
+Reasons we can share your personal information                                              Can you limit this sharing?
+                                                                    Union share?
+For our everyday business purposes—
+such as to process your transactions, maintain
+                                                                        Yes                              No
+your account(s), respond to court orders and legal
+investigations, or report to credit bureaus
+For our marketing purposes—
+                                                                        Yes                              No
+to offer our products and services to you
+For joint marketing with other financial companies                      Yes                             Yes
+For our affiliates’ everyday business purposes—
+                                                                         No                       We don't share
+information about your transactions and experiences
+For our affiliates’ everyday business purposes—
+                                                                         No                       We don't share
+information about your creditworthiness
+For non-affiliates to market to you                                     Yes                             Yes
+Questions?            Call 800-456-5067 or go to www.iccu.com
 
 
-
+Page 2
+What we do
+How does Idaho Central Credit Union To protect your personal information from unauthorized access
+protect my personal information?    and use, we use security measures that comply with federal law.
+                                    These measures include computer safeguards and secured files
+                                    and buildings.
+How does Idaho Central Credit Union We collect your personal information, for example, when you
+collect my personal information?        open an account or deposit money
+                                        pay your bills or apply for a loan
+                                        use your debit card
+                                    We also collect your personal information from others, such as credit
+                                    bureaus, affiliates, or other companies.
+Why can’t I limit all sharing?      Federal law gives you the right to limit only
+                                        sharing for affiliates’ everyday business purposes—information
+                                         about your creditworthiness
+                                        affiliates from using your information to market to you
+                                        sharing for non-affiliates to market to you
+                                    State laws and individual companies may give you additional rights to
+                                    limit sharing.
+Definitions
+Affiliates                          Companies related by common ownership or control. They can be
+                                    financial and nonfinancial companies.
+                                        Idaho Central Credit Union has no affiliates
+Non-affiliates                      Companies not related by common ownership or control. They can be
+                                    financial and nonfinancial companies.
+                                        Non-affiliates we share with can include government entities,
+                                         credit bureaus, and insurance companies.
+Joint marketing                     A formal agreement between nonaffiliated financial companies that
+                                    together market financial products or services to you.
+                                        Our joint marketing partners include insurance companies.
