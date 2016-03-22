@@ -1,21 +1,41 @@
-> *The following text is extracted and transformed from the skypesmileyscodes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141126id_/http%3A//skypesmileyscodes.com/google-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skypesmileyscodes.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322060315id_/http%3A//skypesmileyscodes.com/privacy-policy) for the most accurate reproduction.*
 
-# Google privacy policy
+# Privacy Policy
 
-Privacy Policy for **http://skypesmileyscodes.com**
+At skypesmileyscodes.com we consider the privacy of our visitors extremely important. This privacy policy document describes the types and use of personal information that is collected and recorded by skypesmileyscodes.com
 
-The privacy of our visitors to **http://skypesmileyscodes.com** is important to us.
+ **Log Files**
 
-At **http://skypesmileyscodes.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **http://skypesmileyscodes.com** , and how we safeguard your information. We never sell your personal information to third parties.
+skypesmileyscodes.com makes use of log files that contain information related to  IP addresses, browser type, Internet Service Provider (ISP), referring/exit pages, and possibly the number of clicks. This information is used to analyze user interest, administer the site,  and gather demographic information. This helps us to improve our website. IP address and other such information are not linked to any information that is personally identifiable.
 
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+ **DoubleClick Cookie**
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+  * Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.skypesmileyscodes.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network.
+  * Google, as a third party vendor, uses cookies to serve ads on skypesmileyscodes.com.
+  * Use of cookies enables Google to serve ads to our site’s visitors based upon their visit to skypesmileyscodes.com and other websites on the Internet.
+  * Our visitors may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/) – http://www.google.com/policies/technologies/ads/
+  * Users can also disable cookies by navigating their individual browser options.
 
-We also use third party advertisements on **http://skypesmileyscodes.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx)
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+ **Our Advertising Partners**
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Google is our advertising partner and they may use cookies and web beacons on our site.
+
+While Google as our advertising partners has their own Privacy Policy for their site.
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on arwebzone.com and which are sent directly to user’s browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to note the effectiveness of their advertising campaigns.
+
+skypesmileyscodes.com has no access to or control over these cookies that are used by third-party advertisers.
+
+ **3rd Party Privacy Policies**
+
+You should consult the respective privacy policies of these 3rd party ads servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of other advertisers or websites.
+
+Consent
+
+By visiting skypesmileyscodes.com, you hereby consent to our privacy policy and agree to its terms.
+
+If you need more information or have any questions related to our privacy policy, please feel free to contact us.
+
+Our Privacy Policy was last updated on: Sunday, Okt 4th, 2015.
