@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the firepolemarketing.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002024205id_/http%3A//www.firepolemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firepolemarketing.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322035322id_/http%3A//mirasee.com/privacy-policy) for the most accurate reproduction.*
 
-# Firepole Marketing Privacy Policy
-
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+# Privacy Policy - Mirasee
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”) – those who access some of our services but do not have accounts (“visitors”) as well as those who may purchase products and/or pay a monthly service fee to subscribe to the service (“members”)- what we do with the information we collect, and the choices visitors and members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
@@ -10,8 +8,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 Private Information Security – For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, PayPal, keeps this information encrypted and secure on your behalf.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.
-
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.  
 Personal Information Our Company Collects and How It Is Used
 
 Introduction. Our company collects information in different ways from visitors and members who access the various parts of our Services and the network of Web sites accessible through our service.
@@ -42,7 +39,7 @@ Voluntary Customer Surveys: We may periodically conduct both business and indivi
 
 We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-Special Cases: It is our company’s policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses.
+Special Cases: It is our company’s policy to use or share the personal information about Visitors or Members in ways described here in without additional notice or means to opt out or otherwise prohibit such unrelated uses.
 
 Also, we may disclose personal information about Visitors or Members, or information regarding your use of the services or Websites accessible through our Services, for any reason if, in our sole desecration, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our members.
 
