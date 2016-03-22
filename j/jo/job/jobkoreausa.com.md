@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobkoreausa.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017205401id_/http%3A//jobkoreausa.com/rankup_module/rankup_cooperation/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobkoreausa.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322165941id_/http%3A//jobkoreausa.com/rankup_module/rankup_cooperation/privacy.html) for the most accurate reproduction.*
 
-# 개인정보취급방침
+# :: 개인정보취급방침
 
 **Privacy Policy**  
  **  **  
