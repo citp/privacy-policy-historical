@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008141154id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322020124id_/https%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | The Cookie Collective
 
