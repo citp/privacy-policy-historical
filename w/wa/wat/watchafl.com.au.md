@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912081619id_/http%3A//watchafl.afl.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322084536id_/http%3A//watchafl.afl.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Live WatchAFL - Company Details
 
