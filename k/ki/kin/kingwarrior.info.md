@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingwarrior.info privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930123645id_/http%3A//kingwarrior.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingwarrior.info privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323074402id_/http%3A//kingwarrior.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KingWarrior.info
 
