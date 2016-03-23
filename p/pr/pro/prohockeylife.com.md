@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prohockeylife.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122141839id_/http%3A//www.prohockeylife.com/privacy-policy-page-20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohockeylife.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324003033id_/http%3A//www.prohockeylife.com/privacy-policy-page-20) for the most accurate reproduction.*
 
 # Privacy Policy : Pro Hockey Life, The Ultimate Hockey Mega-Store
 
