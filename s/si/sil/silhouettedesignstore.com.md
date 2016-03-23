@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the silhouettedesignstore.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628220914id_/http%3A//www.silhouettedesignstore.com/%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouettedesignstore.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323193016id_/https%3A//www.silhouettedesignstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Silhouette Design Store - Privacy Policy
 
-###  CATEGORIES
+Silhouette America knows that you (our customer) care how information about you is used, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes the kinds of information we collect about you, where we get it, how we safeguard it, and with whom (if anyone) we may share it. 
 
-|  |  Silhouette America knows that you (our customer) care how information about you is used, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes the kinds of information we collect about you, where we get it, how we safeguard it, and with whom (if anyone) we may share it.
-
-This website may contain links to other sites. Silhouette America is not responsible for the privacy practices or the content of such websites.
+This website may contain links to other sites. Silhouette America is not responsible for the privacy practices or the content of such websites. 
 
 ## What Information Do We Collect?
 
-We obtain information about you in various ways – mostly from you. For example, we collect information from you when you set up a user account or place an order for Silhouette America products or services. Such information may include your name, address, email address, bank account information, or credit card numbers. Your use of any Silhouette America website may also give us information about your interests, preferences, spending, and shopping patterns. If you send an email message or other communication to us, we retain that information as well.
+We obtain information about you in various ways – mostly from you. For example, we collect information from you when you set up a user account or place an order for Silhouette America products or services. Such information may include your name, address, email address, bank account information, or credit card numbers. Your use of any Silhouette America website may also give us information about your interests, preferences, spending, and shopping patterns. If you send an email message or other communication to us, we retain that information as well. 
 
-Like many other websites, Silhouette America websites may use “cookies,” which are small pieces of computer information that make your Internet experience quicker and more convenient. Cookies can also help us to understand how you (and other customers) use our service, allowing us to improve and tailor our services for your benefit. Cookies are stored on your hard drive, however, and not on our site. Aside from Silhouette’s cookies, Google may store additional cookies for analytical purposes. [Click here](http://www.google.com/policies/technologies/ads/) for more information about Google’s cookies and how they’re used.
+Like many other websites, Silhouette America websites may use “cookies,” which are small pieces of computer information that make your Internet experience quicker and more convenient. Cookies can also help us to understand how you (and other customers) use our service, allowing us to improve and tailor our services for your benefit. Cookies are stored on your hard drive, however, and not on our site. Aside from Silhouette’s cookies, Google may store additional cookies for analytical purposes. [Click here](http://www.google.com/policies/technologies/ads/) for more information about Google’s cookies and how they’re used. 
 
 ## What Do We Do with Your Information?
 
@@ -20,13 +18,13 @@ We use your information in connection with delivering products and services to y
 
 ## Disclosure of Information to Others
 
-We do not sell, rent, or loan your information to third parties without your permission.
+We do not sell, rent, or loan your information to third parties without your permission. 
 
-We may sometimes employ other companies and individuals to perform functions on our behalf, such as fulfilling orders, delivering packages, sending mail, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. Such companies and individuals are given access to personal information that is needed to perform their functions, but they are not authorized to use it for other purposes.
+We may sometimes employ other companies and individuals to perform functions on our behalf, such as fulfilling orders, delivering packages, sending mail, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. Such companies and individuals are given access to personal information that is needed to perform their functions, but they are not authorized to use it for other purposes. 
 
-We do not disclose information regarding your credit cards or bank accounts except to those having a need to know in connection with processing orders and payments.
+We do not disclose information regarding your credit cards or bank accounts except to those having a need to know in connection with processing orders and payments. 
 
-We will release account and other personal information when we believe release is appropriate to comply with law, enforce terms of service, or protect the rights, property, or safety of Silhouette America, our customers, or others. This may include exchanging information with other companies and organizations to help prevent fraud.
+We will release account and other personal information when we believe release is appropriate to comply with law, enforce terms of service, or protect the rights, property, or safety of Silhouette America, our customers, or others. This may include exchanging information with other companies and organizations to help prevent fraud. 
 
 ## Information Security
 
@@ -46,7 +44,7 @@ This Privacy Policy applies to personally identifying information. Silhouette Am
 
 ## How to Update Personal Information
 
-You can help Silhouette America maintain the accuracy of your personal information by notifying us of any changes in your address, phone number, or email address. If you wish to update your information, or stop receiving communications from Silhouette America and its partners, you may access your account information through the relevant Silhouette America website or contact us as follows:
+You can help Silhouette America maintain the accuracy of your personal information by notifying us of any changes in your address, phone number, or email address. If you wish to update your information, or stop receiving communications from Silhouette America and its partners, you may access your account information through the relevant Silhouette America website or contact us as follows: 
 
 Send an email to: support@silhouetteamerica.com  
 Send a letter to:  
@@ -54,6 +52,4 @@ Silhouette America, Inc.
 Attn: Customer Service  
 1250 East 200 South Suite 3C  
 Lehi, UT 84043  
-Phone us at: (801) 983-8937   
-  
----|---|---
+Phone us at: (801) 983-8937 
