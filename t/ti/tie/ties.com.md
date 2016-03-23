@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218020305id_/http%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323134311id_/http%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ties.com
 
