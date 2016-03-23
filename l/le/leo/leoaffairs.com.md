@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826115742id_/http%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324003912id_/http%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LEOAffairs.com
 
@@ -8,7 +8,7 @@
 
 This Privacy Policy is located at: [www.LEOAffairs.com](http://www.leoaffairs.com/) (this site), a site brought to you by Bright Mountain®, LLC.
 
-Your privacy is very important to this site and Bright Mountain, LLC (Bright Mountain®, us, we, or our as appropriate). Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. Please carefully read this Privacy Policy to gain an understanding of the treatment of your personal information as you make full use of all of the areas at this site.
+Your privacy is very important to this site and Bright Mountain Media, Inc. (Bright Mountain®, us, we, or our as appropriate). Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. Please carefully read this Privacy Policy to gain an understanding of the treatment of your personal information as you make full use of all of the areas at this site.
 
 Safe Harbor: The United States Department of Commerce and the European Commission have agreed to the “Safe Harbor Principles” which provides a means for companies in the United States to satisfy the European Union requirement for “adequate” protection of personal information that is transferred from the EU to the United States. The “Safe Harbor Principles” are a set of data principles and frequently asked questions.
 
@@ -20,7 +20,7 @@ Please be aware that other Third-Party Internet sites (such as promotional partn
 
 
 
-Information may be collected in several ways at the different locations and/or pages of this site. Included in, but not limited to, this information is your street address, city, state/province, postal code, telephone number, and your website URL. Any information that you voluntarily supply would be used to assist you as you navigate this site.
+Information may be collected in several ways at the different locations and/or pages of this site. Included in, but not limited to, this information is your street address, city, state/province, postal code, telephone number, and your website URL. Any information that you voluntarily supply would be used to assist you as you navigate this site.  Any information that you supply is voluntary on your part.
 
 When you register at this site some personal information, such as your name and email address, are collected. You may be asked by the system for other information; any other information you provide is done so voluntarily. Included in, but not limited to, this other information is your full name, location, birthdate, occupation, and your website URL. The other information that you voluntarily supply would be used to assist you as you navigate the site. At other times we may ask you for personal information, including, but not limited to, when you upload videos, complete inquiry forms, post to any of the forums, or take advantage of other features at this site. The personal information is requested only when required to complete the intended transaction, and includes, and is not limited to, your location information, email address, telephone number, and your website URL.
 
@@ -56,7 +56,7 @@ Google Universal Analytics: These analytics tools are used by us to analyze the 
 
 
 
-We do not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or with our trusted partners. We may combine information about you that we have with information we obtain from business partners or other companies. You will be provided an opportunity at registration, and at other times, to “Opt-In” to the receipt of information from our partners, affiliates, or Third Parties. When you “Opt-In” you agree to, or grant permission to, this site and its affiliates, partners, or Third Parties 1) sharing your personal information with our partners, affiliates, or Third Parties, 2) periodically sending you notices of special offers, advertisements, or other materials.
+Bright Mountain® may combine information about you that we have with information we obtain from business partners or other companies. We may share information that you voluntarily provide to this site. When you voluntarily provide information you “Opt-In” which means that you agree to, or grant permission to, this site and its affiliates, partners, or Third Parties 1) sharing your personal information with our partners, affiliates, or Third Parties, 2) periodically sending you notices of special offers, advertisements, or other materials. The communications that you receive after you “Opt-In” will provide directions on how to unsubscribe or Opt-Out.
 
 When required by law, or pursuant to legal proceedings we will disclose information, including but not limited to, in response to a court order or a subpoena, or law enforcement’s request.
 
