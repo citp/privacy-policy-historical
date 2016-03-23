@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexrazor.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826062338id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexrazor.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323160600id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
 
 # Your Privacy Is Our Priority | CashBackForex Support Team
 
