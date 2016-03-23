@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themusic.com.au privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907133016id_/http%3A//themusic.com.au/meta/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusic.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323192001id_/http%3A//themusic.com.au/meta/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ♫ theMusic.com.au | Australia’s Premier Music News & Reviews Website
 
