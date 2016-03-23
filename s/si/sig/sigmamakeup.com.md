@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919054311id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323102052id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -41,12 +41,11 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## 
 
-Yes. Cookies are small ﬁles that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance,we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small ﬁles that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.  
-
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
 ## Do We Disclose The Information We Collect To Outside Parties?
 
@@ -54,41 +53,31 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identiﬁable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Sigma Enterprises LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information conﬁdential. We may also release your information when we believe release is appropriate to comply with the law,en-force our site policies, or protect ours or others' rights, property, or safety.
 
-However, Non-Personally Identiﬁable Visitor Information May Be Provided To Other Parties For Marketing, Advertising, Or Other Uses.  
-
-
-## 
-
-How can you opt-out, remove or modify information you have provided to us? To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Customize Your Emails" page. Please note that due to email production schedules you may receive any emails already in production
-
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping   
-
-
-addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in   
-order to service that transaction and for record keeping
-
-Third Party Links  
-
+## HOWEVER, NON-PERSONALLY IDENTIFIABLE VISITOR INFORMATION MAY BE PROVIDED TO OTHER PARTIES FOR MARKETING, ADVERTISING, OR OTHER USES.
 
 ## 
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independ-ent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a speciﬁc link does not work).
+How can you opt-out, remove or modify information you have provided to us? To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Customize Your Emails" page. Please note that due to email production schedules you may receive any emails already in production.
 
-Changes To Our Policy  
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-
-## 
-
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected   
-after the date of the change. This policy was last modiﬁed on June 30, 2014.
-
-Questions And Feedback  
-
+## Third Party Links
 
 ## 
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy,   
-or any other issue.
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a speciﬁc link does not work).
+
+## Changes To Our Policy
+
+## 
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modiﬁed on June 30, 2014.
+
+## Questions And Feedback
+
+## 
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
 ## Online Policy Only
 
