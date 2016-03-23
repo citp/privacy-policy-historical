@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpfly.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915081044id_/http%3A//www.jumpfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpfly.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324004444id_/http%3A//www.jumpfly.com/privacy.php) for the most accurate reproduction.*
 
 # JumpFly Privacy Policy | All Customer Information is Safe & Secure
 
