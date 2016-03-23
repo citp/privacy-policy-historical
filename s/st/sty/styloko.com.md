@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918170708id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Styloko.com
 
@@ -10,7 +10,7 @@ We appreciate your interest in our website (our "_site_") or our app (our "_app_
 
 For the purposes of the Data Protection Act 1998, Styloko Limited is the data controller of personal information we hold about you. 
 
-You should also be aware that we use cookies to store and access information whilst providing access to our site or our app. You can find out more about our use of cookies in our [cookie policy](https://web.archive.org/web/20150918170708id_/http%3A//www.styloko.com/static-cookie-policy). 
+You should also be aware that we use cookies to store and access information whilst providing access to our site or our app. You can find out more about our use of cookies in our [cookie policy](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/static-cookie-policy). 
 
 Personal INFORMATION we COLLECT about you AND HOW WE USE IT
 
@@ -84,11 +84,11 @@ We, or our advertising partners, may show advertisements to you on our site, our
 
 We, or our advertising partners, use the information that is collected to make sure the adverts you see either on our site, our app, our messages, other parties’ websites and apps (where our partners have advertising space) are more relevant to you. 
 
-Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our [cookie policy](https://web.archive.org/web/20150918170708id_/http%3A//www.styloko.com/static-cookie-policy). 
+Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our [cookie policy](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/static-cookie-policy). 
 
 Storing and transferring your personal information
 
-Cookies and Local Storage: we may store information (which may include personal information) locally on your device using cookies and other browser and application storage methods. For further information please see our [cookie policy](https://web.archive.org/web/20150918170708id_/http%3A//www.styloko.com/static-cookie-policy). 
+Cookies and Local Storage: we may store information (which may include personal information) locally on your device using cookies and other browser and application storage methods. For further information please see our [cookie policy](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/static-cookie-policy). 
 
 Security: we implement appropriate technical and organisational measures to protect your personal information against accidental or unlawful destruction, loss, change, or damage. 
 
