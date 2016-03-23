@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212101622id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323104238id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -42,26 +42,32 @@ All Service Providers in our network have entered into agreements with us which 
 Here's the full list of Service Providers currently in our network: 
 
   * 21st Century
-  * AAA
-  * AgileHealthInsurance.com
-  * AIS
+  * Acquire Health
   * All Web Leads
   * Alliance
   * Allstate
-  * American Online Benefits Group
+  * American Adventure Insurance
+  * Americare
   * Answer Financial
+  * Apollo Interactive
   * Art Institute
+  * Assurance
   * Astoria Company
+  * Avendia
   * Avenge Digital
   * Benepath
+  * BRXTN Digital Media
+  * Cege Media
+  * Click 2 Call Network
   * CompareInsuranceQuotes
+  * Contactability
   * Datalot
-  * DataWerx
   * Debt.com
   * Direct General
   * Efinancial
-  * Encharter Insurance
   * EPIQ
+  * Esurance
+  * FirstQuoteHealth.com
   * Florida Blue
   * Fortegra
   * Freeway Insurance Services
@@ -69,16 +75,17 @@ Here's the full list of Service Providers currently in our network:
   * Go Direct Lead Gen
   * GoHealthInsurance
   * Goji
-  * Good2Go
+  * goMedigap
+  * Hannigan Insurance
   * Health Benefit Center
   * Health Choice One
+  * Health Insurance Innovations
+  * Health Insurance Services
   * Health Plans of America
+  * Health Solutions One
   * HealthMarkets
-  * HealthPlanOne
   * Home Insurance King
-  * HyperTarget Marketing
   * Inside Response
-  * InsuraMatch
   * Insurance Quotes Now
   * iWebQuotes
   * Kelly Klee
@@ -87,6 +94,8 @@ Here's the full list of Service Providers currently in our network:
   * Lighthouse Insurance
   * MassNexus
   * MatchMedia
+  * Mercury
+  * MetroMile
   * Moss
   * Nationwide
   * NetQuote
@@ -101,23 +110,25 @@ Here's the full list of Service Providers currently in our network:
   * Precise Leads
   * Precursor Media
   * Progressive
-  * QA Test Advertiser
-  * Quinstreet
+  * Qatalyst Media
   * Quote Engine
   * QuoteWizard
-  * Red Ventures
+  * Rank Media Agency
   * RevPoint
+  * SelectQuote
+  * SelectQuote Life
   * State Farm
-  * Texas State Low Cost
   * The Insurance Center
-  * The Lead Republic
+  * The Lead Company
   * Torchlight Technology Group
   * Torchmark
   * Tranzact
   * Travelers
   * Underground Elephant
   * United Medicare Advisors
+  * Used Imagination
   * Velapoint
+  * Vital One Health
   * ZQ Auto Insurance
 
 
