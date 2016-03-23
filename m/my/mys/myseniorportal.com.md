@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myseniorportal.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323151028id_/https%3A//www.myseniorportal.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myseniorportal.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323012543id_/https%3A//www.myseniorportal.com/content/privacy-policy) for the most accurate reproduction.*
 
 # My Senior Portal: Privacy policy
 
@@ -25,10 +25,6 @@ By using or accessing My Senior Portal, you are accepting the practices describe
 My Senior Portal is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.My Senior Portal.com and its directly associated domains. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions regarding this statement, please visit our privacy help page. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe Watchdog at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-EU Safe Harbor Participation
-
-We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should visit our Help Center. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe at http://www.truste.org/users/users_watchdog_intro.html.
 
 ### The Information We Collect
 
