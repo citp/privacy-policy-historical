@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superduperinc.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231014921id_/http%3A//www.superduperinc.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superduperinc.com privacy policy that was archived on 2016-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323234742id_/https%3A//www.superduperinc.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="content-language" content="en"><title>
 	Super Duper Inc. Privacy Policy
@@ -189,12 +189,12 @@
                 * This function takes a valid URL string as an argument, and uses that URL string
                 * as the event label.
                 */
-                var trackOutboundLink = function (url) {
+                var trackOutboundLink = function (url, course) {
                     // change outbound (third parameter) to any value you wants shown as category in GA
                   //  _gaq.push(['_trackEvent', 'speechPathCEU', 'click', url]);
                   //  window.open(url, '_blank'); // <- This is what makes it open in a new window.
                     //document.location = url;
-                    ga('send', 'event', 'speechPathCEU', 'click', url, {
+                    ga('send', 'event', course, 'click', url, {
                         'hitCallback':
                           function () {
                               //document.location = url;
@@ -203,7 +203,7 @@
                     }); 
                 }
         </script>
-        <script type="text/javascript" src="http://www.google-analytics.com/ga.js">
+        <script type="text/javascript" src="https://www.google-analytics.com/ga.js">
 
         
         <!--load jquery-->
@@ -274,7 +274,7 @@
 
     <div id="welcomeBox"></div>
     
-    <div id="welcomeDate">Wednesday, December 30, 2015</div>
+    <div id="welcomeDate">Wednesday, March 23, 2016</div>
         
     <div id="welcomeMess">
         <a href="https://www.superduperinc.com/myAccount/login.aspx?lid=9C989CC6" id="LoginLink" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Login']);"><img src="/images/widerLayout/buttons/signIn.png" alt="Sign In" width="60" height="19"></a>
@@ -317,7 +317,7 @@
         
         <a href="/products/indexes.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Tabs', 'Product Search']);"><img src="/images/widerLayout/home/tabs/productSearch.png" name="productSearch" border="0" id="productSearch" alt="Product Search" width="146" height="35" onmouseout="swapImage(this,'/images/widerLayout/home/tabs/productSearch.png')" onmouseover="swapImage(this,'/images/widerLayout/home/tabs/productSearchOver.png')"></a>
         
-        <a href="/eCatalog/default.aspx?cid=2015" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Tabs', 'eCatalog']);" target="_blank"><img src="/images/widerLayout/home/tabs/eCatalog.png" name="catalog" border="0" id="catalog" alt="eCatalog" width="90" height="35" onmouseout="swapImage(this,'/images/widerLayout/home/tabs/eCatalog.png')" onmouseover="swapImage(this,'/images/widerLayout/home/tabs/eCatalogOver.png')" target="_blank"></a>
+        <a href="/eCatalog/default.aspx?cid=2016" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Tabs', 'eCatalog']);" target="_blank"><img src="/images/widerLayout/home/tabs/eCatalog.png" name="catalog" border="0" id="catalog" alt="eCatalog" width="90" height="35" onmouseout="swapImage(this,'/images/widerLayout/home/tabs/eCatalog.png')" onmouseover="swapImage(this,'/images/widerLayout/home/tabs/eCatalogOver.png')" target="_blank"></a>
         
         <a href="/myAccount/wishView.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Tabs', 'Wish List']);"><img src="/images/widerLayout/home/tabs/wishList.png" name="WishList" border="0" id="WishList" alt="Wish List" width="98" height="35" onmouseout="swapImage(this,'/images/widerLayout/home/tabs/wishList.png')" onmouseover="swapImage(this,'/images/widerLayout/home/tabs/wishListOver.png')"></a>
     </div>
@@ -651,11 +651,8 @@
     </div>
     
     
-    
-                            
+    <div id="webSpecial" style="padding:3px 0 0 0; background-color:#7fd2fd;"><a href="/products/sdpro/webspecial.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'stPattysSale']);"><img src="/images/widerLayout/leftNav/stPattys.png" alt="St Pattys Day Sale"></a></div>
    
-    <div style="padding:3px 0 0 0; background-color:#7fd2fd;"><a href="/products/clearance.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', '75% Off Clearance']);" "=""><img src="/images/widerLayout/leftNav/Clearance75.png" alt="75% Off Clearance"></a></div>
-
     <table cellspacing="0" cellpadding="0" class="leftnav_content" border="0">
     <thead>
         <tr>
@@ -710,6 +707,10 @@
     </tbody></table>  
 
     
+    <div style="padding:3px 0 0 0; background-color:#7fd2fd;"><a href="/products/clearance.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', '75% Off Clearance']);" "=""><img src="/images/widerLayout/leftNav/Clearance85.png" alt="75% Off Clearance"></a></div>
+
+
+    
     
     
     
@@ -746,15 +747,20 @@
                     <td valign="top">
                         <div id="mainContent" class="mainContent">
                             <form method="post" action="./privacy.aspx" id="MainContentForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYEAgEPZBYCAgQPFgIeB2NvbnRlbnQFWFJldmlldyBTdXBlciBEdXBlcidzIFByaXZhY3kgUG9saWN5LiBXZSBhcmUgZGVlcGx5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHlvdXIgcHJpdmFjeSFkAgMPZBYGAgEPZBYIAgEPFgQeBGhyZWYFP2h0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4P2xpZD05Qzk4OUNDNh4HVmlzaWJsZWdkAgIPDxYCHgRUZXh0ZWRkAgQPFgIfAmdkAgUPZBYOAgEPFgIfAmhkAgIPFgIfAmhkAgMPFgIfAmhkAgQPFgIeC18hSXRlbUNvdW50AicWTmYPZBYCZg8VBAIxNQNBQUMDQUFDA0FBQ2QCAQ9kFgJmDxUEAjEyB0FwcmF4aWEHQXByYXhpYQdBcHJheGlhZAICD2QWAmYPFQQCMTMMQXJ0aWN1bGF0aW9uDEFydGljdWxhdGlvbgxBcnRpY3VsYXRpb25kAgMPZBYCZg8VBAIxNBVBdWRpdG9yeSUyMFByb2Nlc3NpbmcVQXVkaXRvcnklMjBQcm9jZXNzaW5nE0F1ZGl0b3J5IFByb2Nlc3NpbmdkAgQPZBYCZg8VBAIxNgZBdXRpc20GQXV0aXNtBkF1dGlzbWQCBQ9kFgJmDxUEAjE3EEJhc2ljJTIwQ29uY2VwdHMQQmFzaWMlMjBDb25jZXB0cw5CYXNpYyBDb25jZXB0c2QCBg9kFgJmDxUEAjE5D0JpbGluZ3VhbCUyMEVTTA9CaWxpbmd1YWwlMjBFU0wNQmlsaW5ndWFsL0VTTGQCBw9kFgJmDxUEBDI5NzQTQ3JpdGljYWwlMjBUaGlua2luZxNDcml0aWNhbCUyMFRoaW5raW5nEUNyaXRpY2FsIFRoaW5raW5nZAIID2QWAmYPFQQCMjITRGVzY3JpYmluZyUyMFNraWxscxNEZXNjcmliaW5nJTIwU2tpbGxzEURlc2NyaWJpbmcgU2tpbGxzZAIJD2QWAmYPFQQCMjMORWFybHklMjBTa2lsbHMORWFybHklMjBTa2lsbHMMRWFybHkgU2tpbGxzZAIKD2QWAmYPFQQCNzIURmluZSUyMEdyb3NzJTIwTW90b3IURmluZSUyMEdyb3NzJTIwTW90b3IQRmluZS9Hcm9zcyBNb3RvcmQCCw9kFgJmDxUEAjI0B0ZsdWVuY3kHRmx1ZW5jeQdGbHVlbmN5ZAIMD2QWAmYPFQQCMjULRnVuJTIwRGVja3MLRnVuJTIwRGVja3MJRnVuIERlY2tzZAIND2QWAmYPFQQCMjYFR2FtZXMFR2FtZXMFR2FtZXNkAg4PZBYCZg8VBAIyNxZHcmFtbWFyJTIwYW5kJTIwU3ludGF4FkdyYW1tYXIlMjBhbmQlMjBTeW50YXgSR3JhbW1hciBhbmQgU3ludGF4ZAIPD2QWAmYPFQQCMjgfSGVhcmluZyUyMGFuZCUyMFNpZ24lMjBMYW5ndWFnZR9IZWFyaW5nJTIwYW5kJTIwU2lnbiUyMExhbmd1YWdlGUhlYXJpbmcgYW5kIFNpZ24gTGFuZ3VhZ2VkAhAPZBYCZg8VBAIyOQhMYW5ndWFnZQhMYW5ndWFnZQhMYW5ndWFnZWQCEQ9kFgJmDxUEBDM4MTUNTGluZ3Vpc3lzdGVtcw1MaW5ndWlzeXN0ZW1zDUxpbmd1aXN5c3RlbXNkAhIPZBYCZg8VBAIzMh9NYXRoJTIwJTIwTW9uZXklMjAlMjBhbmQlMjBNb3JlH01hdGglMjAlMjBNb25leSUyMCUyMGFuZCUyME1vcmUVTWF0aCwgTW9uZXksIGFuZCBNb3JlZAITD2QWAmYPFQQEMzI2OA1Nb2JpbGUlMjBBUFBzDU1vYmlsZSUyMEFQUHMLTW9iaWxlIEFQUHNkAhQPZBYCZg8VBAIzMwxNb3RpdmF0aW9uYWwMTW90aXZhdGlvbmFsDE1vdGl2YXRpb25hbGQCFQ9kFgJmDxUEAjY1Fk9jY3VwYXRpb25hbCUyMFRoZXJhcHkWT2NjdXBhdGlvbmFsJTIwVGhlcmFweRRPY2N1cGF0aW9uYWwgVGhlcmFweWQCFg9kFgJmDxUEAjM1DE9yYWwlMjBNb3RvcgxPcmFsJTIwTW90b3IKT3JhbC1Nb3RvcmQCFw9kFgJmDxUEAjM2GFBob25pY3MlMjBhbmQlMjBTcGVsbGluZxhQaG9uaWNzJTIwYW5kJTIwU3BlbGxpbmcUUGhvbmljcyBhbmQgU3BlbGxpbmdkAhgPZBYCZg8VBAIzNxhQaG9ub2xvZ2ljYWwlMjBBd2FyZW5lc3MYUGhvbm9sb2dpY2FsJTIwQXdhcmVuZXNzFlBob25vbG9naWNhbCBBd2FyZW5lc3NkAhkPZBYCZg8VBAIzOAlQaG9ub2xvZ3kJUGhvbm9sb2d5CVBob25vbG9neWQCGg9kFgJmDxUEAjQwFFF1ZXN0aW9uaW5nJTIwU2tpbGxzFFF1ZXN0aW9uaW5nJTIwU2tpbGxzElF1ZXN0aW9uaW5nIFNraWxsc2QCGw9kFgJmDxUEAjQxB1JlYWRpbmcHUmVhZGluZwdSZWFkaW5nZAIcD2QWAmYPFQQCNzkcUmVzcG9uc2UlMjB0byUyMEludGVydmVudGlvbhxSZXNwb25zZSUyMHRvJTIwSW50ZXJ2ZW50aW9uGFJlc3BvbnNlIHRvIEludGVydmVudGlvbmQCHQ9kFgJmDxUEAjY2FVNlbnNvcnklMjBJbnRlZ3JhdGlvbhVTZW5zb3J5JTIwSW50ZWdyYXRpb24TU2Vuc29yeSBJbnRlZ3JhdGlvbmQCHg9kFgJmDxUEAjQ1ClNlcXVlbmNpbmcKU2VxdWVuY2luZwpTZXF1ZW5jaW5nZAIfD2QWAmYPFQQCNDcPU0xQJTIwUmVzb3VyY2VzD1NMUCUyMFJlc291cmNlcw1TTFAgUmVzb3VyY2VzZAIgD2QWAmYPFQQCNDgPU29jaWFsJTIwU2tpbGxzD1NvY2lhbCUyMFNraWxscw1Tb2NpYWwgU2tpbGxzZAIhD2QWAmYPFQQCNTYIU29mdHdhcmUIU29mdHdhcmUIU29mdHdhcmVkAiIPZBYCZg8VBAIyNBdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRVTdHV0dGVyaW5nL0R5c2ZsdWVuY3lkAiMPZBYCZg8VBAI1MBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBZTdXBwbGllcyBhbmQgRXF1aXBtZW50ZAIkD2QWAmYPFQQCNTEFVGVzdHMFVGVzdHMFVGVzdHNkAiUPZBYCZg8VBAI1MgpWb2NhYnVsYXJ5ClZvY2FidWxhcnkKVm9jYWJ1bGFyeWQCJg9kFgJmDxUEAjUzBVZvaWNlBVZvaWNlBVZvaWNlZAIGDxYCHwJoZAIHDxYCHwJoZAIKD2QWAgIBDxYCHwJoZAIDD2QWBAIDDxYCHwJoZAIFDxYCHwJoZAIHD2QWBAIDDxYCHwEFMmh0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4ZAIEDxYCHwJoZGRfI1lE1ljZVt7rJzR+u5yO7vYlpks3zSnNxabJN2dDjg==">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYEAgEPZBYCAgQPFgIeB2NvbnRlbnQFWFJldmlldyBTdXBlciBEdXBlcidzIFByaXZhY3kgUG9saWN5LiBXZSBhcmUgZGVlcGx5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHlvdXIgcHJpdmFjeSFkAgMPZBYGAgEPZBYIAgEPFgQeBGhyZWYFP2h0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4P2xpZD05Qzk4OUNDNh4HVmlzaWJsZWdkAgIPDxYCHgRUZXh0ZWRkAgQPFgIfAmdkAgUPZBYOAgEPFgIfAmhkAgIPFgIfAmhkAgMPFgIfAmhkAgQPFgIeC18hSXRlbUNvdW50AicWTmYPZBYCZg8VBAIxNQNBQUMDQUFDA0FBQ2QCAQ9kFgJmDxUEAjEyB0FwcmF4aWEHQXByYXhpYQdBcHJheGlhZAICD2QWAmYPFQQCMTMMQXJ0aWN1bGF0aW9uDEFydGljdWxhdGlvbgxBcnRpY3VsYXRpb25kAgMPZBYCZg8VBAIxNBVBdWRpdG9yeSUyMFByb2Nlc3NpbmcVQXVkaXRvcnklMjBQcm9jZXNzaW5nE0F1ZGl0b3J5IFByb2Nlc3NpbmdkAgQPZBYCZg8VBAIxNgZBdXRpc20GQXV0aXNtBkF1dGlzbWQCBQ9kFgJmDxUEAjE3EEJhc2ljJTIwQ29uY2VwdHMQQmFzaWMlMjBDb25jZXB0cw5CYXNpYyBDb25jZXB0c2QCBg9kFgJmDxUEAjE5D0JpbGluZ3VhbCUyMEVTTA9CaWxpbmd1YWwlMjBFU0wNQmlsaW5ndWFsL0VTTGQCBw9kFgJmDxUEBDI5NzQTQ3JpdGljYWwlMjBUaGlua2luZxNDcml0aWNhbCUyMFRoaW5raW5nEUNyaXRpY2FsIFRoaW5raW5nZAIID2QWAmYPFQQCMjITRGVzY3JpYmluZyUyMFNraWxscxNEZXNjcmliaW5nJTIwU2tpbGxzEURlc2NyaWJpbmcgU2tpbGxzZAIJD2QWAmYPFQQCMjMORWFybHklMjBTa2lsbHMORWFybHklMjBTa2lsbHMMRWFybHkgU2tpbGxzZAIKD2QWAmYPFQQCNzIURmluZSUyMEdyb3NzJTIwTW90b3IURmluZSUyMEdyb3NzJTIwTW90b3IQRmluZS9Hcm9zcyBNb3RvcmQCCw9kFgJmDxUEAjI0B0ZsdWVuY3kHRmx1ZW5jeQdGbHVlbmN5ZAIMD2QWAmYPFQQCMjULRnVuJTIwRGVja3MLRnVuJTIwRGVja3MJRnVuIERlY2tzZAIND2QWAmYPFQQCMjYFR2FtZXMFR2FtZXMFR2FtZXNkAg4PZBYCZg8VBAIyNxZHcmFtbWFyJTIwYW5kJTIwU3ludGF4FkdyYW1tYXIlMjBhbmQlMjBTeW50YXgSR3JhbW1hciBhbmQgU3ludGF4ZAIPD2QWAmYPFQQCMjgfSGVhcmluZyUyMGFuZCUyMFNpZ24lMjBMYW5ndWFnZR9IZWFyaW5nJTIwYW5kJTIwU2lnbiUyMExhbmd1YWdlGUhlYXJpbmcgYW5kIFNpZ24gTGFuZ3VhZ2VkAhAPZBYCZg8VBAIyOQhMYW5ndWFnZQhMYW5ndWFnZQhMYW5ndWFnZWQCEQ9kFgJmDxUEBDM4MTUNTGluZ3Vpc3lzdGVtcw1MaW5ndWlzeXN0ZW1zDUxpbmd1aXN5c3RlbXNkAhIPZBYCZg8VBAIzMh9NYXRoJTIwJTIwTW9uZXklMjAlMjBhbmQlMjBNb3JlH01hdGglMjAlMjBNb25leSUyMCUyMGFuZCUyME1vcmUVTWF0aCwgTW9uZXksIGFuZCBNb3JlZAITD2QWAmYPFQQEMzI2OA1Nb2JpbGUlMjBBUFBzDU1vYmlsZSUyMEFQUHMLTW9iaWxlIEFQUHNkAhQPZBYCZg8VBAIzMwxNb3RpdmF0aW9uYWwMTW90aXZhdGlvbmFsDE1vdGl2YXRpb25hbGQCFQ9kFgJmDxUEAjY1Fk9jY3VwYXRpb25hbCUyMFRoZXJhcHkWT2NjdXBhdGlvbmFsJTIwVGhlcmFweRRPY2N1cGF0aW9uYWwgVGhlcmFweWQCFg9kFgJmDxUEAjM1DE9yYWwlMjBNb3RvcgxPcmFsJTIwTW90b3IKT3JhbC1Nb3RvcmQCFw9kFgJmDxUEAjM2GFBob25pY3MlMjBhbmQlMjBTcGVsbGluZxhQaG9uaWNzJTIwYW5kJTIwU3BlbGxpbmcUUGhvbmljcyBhbmQgU3BlbGxpbmdkAhgPZBYCZg8VBAIzNxhQaG9ub2xvZ2ljYWwlMjBBd2FyZW5lc3MYUGhvbm9sb2dpY2FsJTIwQXdhcmVuZXNzFlBob25vbG9naWNhbCBBd2FyZW5lc3NkAhkPZBYCZg8VBAIzOAlQaG9ub2xvZ3kJUGhvbm9sb2d5CVBob25vbG9neWQCGg9kFgJmDxUEAjQwFFF1ZXN0aW9uaW5nJTIwU2tpbGxzFFF1ZXN0aW9uaW5nJTIwU2tpbGxzElF1ZXN0aW9uaW5nIFNraWxsc2QCGw9kFgJmDxUEAjQxB1JlYWRpbmcHUmVhZGluZwdSZWFkaW5nZAIcD2QWAmYPFQQCNzkcUmVzcG9uc2UlMjB0byUyMEludGVydmVudGlvbhxSZXNwb25zZSUyMHRvJTIwSW50ZXJ2ZW50aW9uGFJlc3BvbnNlIHRvIEludGVydmVudGlvbmQCHQ9kFgJmDxUEAjY2FVNlbnNvcnklMjBJbnRlZ3JhdGlvbhVTZW5zb3J5JTIwSW50ZWdyYXRpb24TU2Vuc29yeSBJbnRlZ3JhdGlvbmQCHg9kFgJmDxUEAjQ1ClNlcXVlbmNpbmcKU2VxdWVuY2luZwpTZXF1ZW5jaW5nZAIfD2QWAmYPFQQCNDcPU0xQJTIwUmVzb3VyY2VzD1NMUCUyMFJlc291cmNlcw1TTFAgUmVzb3VyY2VzZAIgD2QWAmYPFQQCNDgPU29jaWFsJTIwU2tpbGxzD1NvY2lhbCUyMFNraWxscw1Tb2NpYWwgU2tpbGxzZAIhD2QWAmYPFQQCNTYIU29mdHdhcmUIU29mdHdhcmUIU29mdHdhcmVkAiIPZBYCZg8VBAIyNBdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRVTdHV0dGVyaW5nL0R5c2ZsdWVuY3lkAiMPZBYCZg8VBAI1MBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBZTdXBwbGllcyBhbmQgRXF1aXBtZW50ZAIkD2QWAmYPFQQCNTEFVGVzdHMFVGVzdHMFVGVzdHNkAiUPZBYCZg8VBAI1MgpWb2NhYnVsYXJ5ClZvY2FidWxhcnkKVm9jYWJ1bGFyeWQCJg9kFgJmDxUEAjUzBVZvaWNlBVZvaWNlBVZvaWNlZAIGDxYCHwJoZAIHDxYCHwJoZAIKD2QWAgIBDxYCHwJoZAIDD2QWAgIFDxYCHwJoZAIHD2QWBAIDDxYCHwEFMmh0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4ZAIEDxYCHwJoZGSPA5iK9ehZ4tNVce52alfnOjtLzTjRstfFHdQ3QPn0nQ==">
+</div>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLt/vbyAgKz6ryWAz0Yu6SV2DVwbSXMjym8nuoQHisuUgE78+Xq3ZT5RPdN">
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLHivGPCwKz6ryWA8xIIPLU4FpKB6wtWCf3sDmq6jkMk7cBL1j9/NSv6/l5">
+</div>
                                 
     <div class="minContentPadding" style="text-align:center;"><img src="/images/pageHeading/privacyPolicy.jpg" alt="Privacy Policy" width="632" height="118"></div>
-    <div class="contentnon" style="margin-top: 15px;">We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to Super Duper Inc.. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse, and alteration of data used by our system. Any information given to us will never be rented or sold to third parties. We understand the importance of personal information security and are committed to personal privacy on the Internet.</div>
-    <div class="contentnon" style="margin-top: 10px;">Super Duper Inc. collects data from Internet users including non-personally identifiable information from its site's visitors, IP address of their server, and what pages they visited. We use this information to continuously improve our service's functionality. Super Duper Inc. also collects personally identifiable information, including email addresses, from those visitors who opt-in to receive some information from us, make inquiries or comments. We use this information to respond to visitors' communications.</div>
+    <div class="contentnon" style="margin-top: 15px;">We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to Super Duper Inc. We protect your privacy using industry accepted security measures to protect against the loss, misuse, and alteration of data used by our system. Any information given to us will never be rented or sold to third parties. We understand the importance of personal information security and are committed to personal privacy on the Internet.</div>
+    <div class="contentnon" style="margin-top: 10px;">Super Duper Inc. collects data from Internet users including non-personally identifiable information from its site's visitors, IP address of their server, and what pages they visited. We use this information to continuously improve our service's functionality. Super Duper Inc. also collects personally identifiable information including email addresses, from visitors who opt-in to receive some information from us, or make inquiries or comments. We use this information to respond to visitors' communications.</div>
     <div class="contentnon" style="margin-top: 10px;"><img src="/images/about/privacy.jpg" align="left" alt="Lock" width="158" height="157">Super Duper Inc. employs permission-based marketing principles: it is required to communicate only to users who affirmatively express an interest in receiving emails relevant to their interests in a particular company or product. Permission to receive emails may be granted and taken away; in other words customers may "opt-in" and "opt-out." If a person chooses to opt-out, Super Duper Inc. is required to stop sending emails to that person. Super Duper Inc. puts a high value on a person's ability to discontinue receiving unwanted email.</div>
-    <div class="contentnon" style="margin-top: 10px;">Super Duper Inc. utilizes temporary Cookie technology for web site traffic analysis such as the time/date of the visit, the time/date of last visit, the page viewed, the referrer, transaction information for eCommerce pages, and other data. Super Duper Inc. utilizes persistent Cookie technology for optional account log-in. Super Duper Inc. tracks click behavior in the emails it sends out. This data is used to update specific user-profile information, ascertain the areas of most interest to opt-in email recipients, and to personalize email messages to them.</div>
+    <div class="contentnon" style="margin-top: 10px;">Super Duper Inc. utilizes temporary Cookie technology for web site traffic analysis such as the time/date of the visit, the time/date of last visit, the page viewed, the referrer, transaction information for eCommerce pages, and other data. Super Duper Inc. utilizes persistent Cookie technology for optional account log-in. Super Duper Inc. tracks click behavior in the emails it sends out. We use this data to update specific user-profile information, ascertain the areas of most interest to opt-in email recipients, and to personalize email messages to them.</div>
     <div class="contentnon" style="margin-top: 10px;">If you have received unwanted, unsolicited email sent via our system (or purportedly sent), please forward a copy of that email with your comments to <a href="mailto:customerhelp@superduperinc.com?subject=Privacy Policy">customerhelp@superduperinc.com</a> for review.</div>
     <div class="contentnon" style="margin-top: 10px; margin-bottom: 35px;">We reserve the right to modify this policy at any time. Updated: June 26, 2009.</div>
 
@@ -1038,7 +1044,7 @@
                         <div align="center" class="footer_red">
                             <br>
                             ©
-                            2015
+                            2016
                             Super Duper® Publications. All rights reserved. <a href="/about/privacy.aspx" onclick="_gaq.push(['_trackEvent', 'Footer Nav Link', 'click', 'Privacy Policy']);">Privacy Policy</a><br>
                             Super Duper® Publications | P.O. Box 24997 | Greenville, SC 29616 USA<br>
                             Phone: (800) 277-8737 / (864) 288-3536 Fax: (800) 978-7379 / (864) 288-3380</div>
