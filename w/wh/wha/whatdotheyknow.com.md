@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908060338id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323092812id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
@@ -49,7 +49,7 @@ They've asked for my postal address! #
 
 If a public authority asks you for your full, physical address, reply to them saying that section 8.1.b of the FOI Act asks for an "address for correspondence", and that the email address you are using is sufficient. 
 
-The Ministry of Justice has [guidance on this](http://www.justice.gov.uk/information-access-rights/foi-guidance-for-practitioners/procedural-guidance/foi-what-constitutes) – _"As well as hard copy written correspondence, requests that are transmitted electronically (for example, in emails) are acceptable ... If a request is received by email and no postal address is given, the email address should be treated as the return address."_
+The Ministry of Justice has guidance on this– _"As well as hard copy written correspondence, requests that are transmitted electronically (for example, in emails) are acceptable ... If a request is received by email and no postal address is given, the email address should be treated as the return address."_
 
 As if that isn't enough, the Information Commissioner's [Hints for Practitioners](http://www.ico.org.uk/for_organisations/freedom_of_information/guide/receiving_a_request) say _"A request must ... include an address for correspondence. This need not be the person's residential or work address - it can be **any address at which you can write to them** , including a postal address or **email address** ;"_
 
@@ -115,7 +115,11 @@ Sample data about database queries, individual requests for pages is stored by N
 
 [Further information from New Relic on privacy and security](http://try.newrelic.com/rs/newrelic/images/NewRelic-Security.pdf)
 
-[More general information on how third party services work](http://www.mysociety.org/privacy-online/)
+[More general information on how third party services work](https://www.mysociety.org/privacy/)
+
+**Our own logging**
+
+In addition to the information you give us about yourself in order to use the site (e.g. your name and email address), we collect and log some additional information in order to analyse and fix problems with the site. Our webserver logs maintain a history of page requests. This includes information about requests, including the client IP address, data submitted (which might include your email address when you log on to the site), request date and time, page requested, browser version and [referrer](https://en.wikipedia.org/wiki/HTTP_referer). We routinely keep this information for 28 days. 
 
 **Credits**
 
@@ -137,7 +141,7 @@ If you see any personal information about you on the site which you'd like us to
 
 If it is sensitive personal information that has been accidentally posted, then we will usually remove it. Normally we will only consider requests to remove personal information which come from the individual concerned, but for sensitive information we would appreciate anyone pointing out anything they see.
 
-You have the right under [section 10 of the Data Protection Act](http://www.legislation.gov.uk/ukpga/1998/29/section/10) to request that we remove your personal information on the grounds that it is causing you substantial and unwarranted damage or distress. We will consider any such notice, which does not need to explicitly mention the Act, and balance it against any public interest in publishing the material. There is some guidance on these notices [on the ICO’s website](http://ico.org.uk/for_organisations/data_protection/the_guide/principle_6/damage_or_distress).
+You have the right under [section 10 of the Data Protection Act](http://www.legislation.gov.uk/ukpga/1998/29/section/10) to request that we remove your personal information on the grounds that it is causing you substantial and unwarranted damage or distress. We will consider any such notice, which does not need to explicitly mention the Act, and balance it against any public interest in publishing the material. There is some guidance on these notices [on the ICO’s website](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/damage-or-distress/).
 
 I’m a public servant - can you take down personal information about me? #
     
