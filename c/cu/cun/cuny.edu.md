@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuny.edu privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811060208id_/http%3A//www.cuny.edu/main/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuny.edu privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323180336id_/http%3A//www.cuny.edu/main/website/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Website Information - CUNY
 
@@ -42,7 +42,7 @@ None of the foregoing information is deemed to constitute personal information b
 
 ## Information Collected by E-mail and Online Transactions
 
-If you send us an e-mail, we will collect your e-mail address and the contents of your message. We will use your e-mail address and the information included in your message to respond to you, to address the issues you identify, and to improve this web site. We may also use your e-mail address to notify you about updates, services, special events or activities offered by CUNY or its colleges. If you would prefer not to receive e-mail or other communications from CUNY, contact us at webcu@mail.cuny.edu.
+If you send us an e-mail, we will collect your e-mail address and the contents of your message. We will use your e-mail address and the information included in your message to respond to you, to address the issues you identify, and to improve this web site. We may also use your e-mail address to notify you about updates, services, special events or activities offered by CUNY or its colleges. If you would prefer not to receive e-mail or other communications from CUNY, contact us at privacy@cuny.edu.
 
 If you complete a transaction such as an online application or an information request form, we will collect the information, including personal information, that you volunteered in completing the transaction. We will use this information only for the purposes for which the transaction was intended.
 
@@ -118,4 +118,4 @@ Cuny.edu contains links to, and may be linked from, sites outside of CUNY. We ar
 We may change this policy from time to time, and reserve the right to do so without notice. The information provided in this privacy policy should not be construed as giving business, legal or other advice, or warranting as fail proof, the security of information provided through cuny.edu.  
 Contact Information
 
-For questions regarding this privacy policy, please contact: [webcu@mail.cuny.edu](mailto:webcu@mail.cuny.edu).
+For questions regarding this privacy policy, please contact: [privacy@cuny.edu](mailto:privacy@cuny.edu).
