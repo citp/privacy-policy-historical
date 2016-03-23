@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magpress.com privacy policy that was archived on 2015-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150719052429id_/http%3A//www.magpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpress.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323230811id_/http%3A//www.magpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MagPress.com
 
@@ -18,9 +18,9 @@ We also use third party advertisements on MagPress.com to support our site. Some
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-<http://www.magpress.com/privacy>Privacy Policy2011-05-30T19:08:04+00:00 Ronald Uncategorized
+<http://www.magpress.com/privacy>Privacy Policy2011-05-30T19:08:04+00:00Ronald Uncategorized
 
 This a privacy policy page of MagPress.com
 
-Ronald[https://plus.google.com/101729390567951967909](https://plus.google.com/101729390567951967909?rel=author)Ronald KSYrksy81@yahoo.comAdministratorOwner and CEO of MagPressMagPress
+Ronald[https://plus.google.com/101729390567951967909](https://plus.google.com/101729390567951967909?rel=author)Ronald KSYrksy81@yahoo.comAdministratorDedicated and full hearted web developer and website admin for MagPress.com.MagPress
   *[September 3, 2009]: 2009-09-03T11:21:09+00:00
