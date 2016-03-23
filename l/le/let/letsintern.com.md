@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsintern.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505221000id_/http%3A//www.letsintern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsintern.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323184225id_/http%3A//www.letsintern.com/privacy) for the most accurate reproduction.*
 
-# LetsIntern
+# Internships and Internship Jobs in India 2016 | Letsintern
 
 ###  Overview: 
 
@@ -73,7 +73,7 @@ Back to Top
 
 ##### Scope Of This Policy:
 
-This policy applies to www.letsintern.com (the â€œwebsiteâ€), which is operated and owned by Lets Intern Career Solution Pvt. Ltd. It is Letsinternâ€™s policy to comply with data protection legislation. This regulates the processing of information relating to you and grants you various rights in respect of your personal data. 
+This policy applies to www.letsintern.com (the “website”), which is operated and owned by Lets Intern Career Solution Pvt. Ltd. It is Letsintern’s policy to comply with data protection legislation. This regulates the processing of information relating to you and grants you various rights in respect of your personal data. 
 
 The site contains links to other websites over which we have no control. Letsintern is not responsible for the privacy policies or practices of other websites to which you choose to link from this site. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your information. 
 
