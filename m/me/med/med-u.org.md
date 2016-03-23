@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011225000id_/http%3A//www.med-u.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323193141id_/http%3A//www.med-u.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
