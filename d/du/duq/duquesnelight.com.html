@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the duquesnelight.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905094859id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the duquesnelight.com privacy policy that was archived on 2016-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323115540id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -248,79 +248,65 @@
 <div class="clearClass"></div>
 
 
-
-<script>
-$(document).ready(function() { 
-	
-	$("#PRIVACYPOLICY.CFM").removeClass("notSelected").addClass("selected");
-	
-	$(".button.notSelected").hover(function(){
-		$(this).removeClass("notSelected");
-		$(this).children().children().children().children().css("color","#005972");
-	},
-	function() {
-		$(this).addClass("notSelected");
-		$(this).children().children().children().children().css("color","#000");
-	
-	});
-	
-		$.each($("#topMenu a"),function() {
-		// For each link (a) within topMenu, find the width of the center div (the one with the text) and set that to be the width of the top hidden center div (used when hovering)
-		var textDiv = $(this).children().children(":first").next().children(":first").next();
-		var hiddenDiv = $(this).children().children().children(":first").next();
-		hiddenDiv.width(textDiv.width());
-	});
-});
-
-/*$(window).load(function() {
-	$.each($("#topMenu a"),function() {
-		// For each link (a) within topMenu, find the width of the center div (the one with the text) and set that to be the width of the top hidden center div (used when hovering)
-		var textDiv = $(this).children().children(":first").next().children(":first").next();
-		var hiddenDiv = $(this).children().children().children(":first").next();
-		hiddenDiv.width(textDiv.width());
-	});
-});*/
-</script>
-
 <style type="text/css">
 
 #topBarAll { width:100%;background-image:url('/images/topBarBlue.jpg'); background-repeat:repeat-x; min-width:950px }
 
 #topBarMenu{
-	/* width: 960px; */
 	width: 900px;
 	height: 78px;
 	background-color:none;
 	margin:0 auto;
 	padding: 0px;
 	text-align:center;
+	position:relative;
+}
+
+#topMenu {
+	width:900px;
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+#topMenu a{
+	text-decoration:none;
 }
 
 
 #logo {
-	//width: 150px;
 	height: 78px;
 	margin: 0px;
 	padding: 0px;
 	float: left;
 	text-align:left;
 } 
-/* #logo A { margin-left:19px; } */
+	 
+.button { 
+	float:right;
+}
 
-	.selected div div.extraSpace { display: inline; }
-	.selected div div div { color: #005972; }
-	.notSelected div div.extraSpace { display: none; }
-	.button { float:left; margin-top:1px; }
-	.buttonStyle { cursor:pointer }
-	.buttonLeftSide { background-image:url('/images/topbutton_left.png'); background-repeat:no-repeat; height:45px; width:18px; float:left; }
-	.buttonCenter { background-image:url('/images/topbutton_center.png'); background-repeat:repeat-x; height:45px; float:left; font-family:Verdana, Geneva, sans-serif; font-size:12px; }
-	.buttonRightSide { background-image:url('/images/topbutton_right.png'); background-repeat:no-repeat; height:45px; width:18px; float:left; }
-	.buttonGrowLeft { background-image:url('/images/topbutton_spacer_left.png'); background-repeat:no-repeat; height:8px; width:18px; float:left; }
-	.buttonGrowCenter { background-image:url('/images/topbutton_spacer_center.png'); background-repeat:repeat-x; height:8px; float:left; }
-	.buttonGrowRight { background-image:url('/images/topbutton_spacer_right.png'); background-repeat:no-repeat; height:8px; width:18px; float:left; }
-	#topMenu { float:right; }
-	#topMenu a { text-decoration:none }
-	#topMenu ul li {float:left; display:inline;}
+.button div {
+	background-position:bottom; 
+	height:45px;
+	float:left;
+	cursor:pointer;
+	margin-top:1px;
+	-webkit-transition: all .1s ease-in-out;
+	-moz-transition: all .1s ease-in-out;
+	-ms-transition: all .1s ease-in-out;
+	-o-transition: all .1s ease-in-out;
+	transition: all .1s ease-in-out;
+}
+
+.buttonLeftSide { background-image:url('/images/topbutton_left.png');background-repeat:no-repeat;  width:18px; }
+.buttonCenter { background-image:url('/images/topbutton_center.png'); background-repeat:repeat-x; font-family:Verdana, Geneva, sans-serif; font-size:12px;line-height:14px; }
+.buttonRightSide { background-image:url('/images/topbutton_right.png');background-repeat:no-repeat; width:18px; }
+	
+.button:hover .buttonLeftSide, .selected div  {height:53px; }
+.button:hover .buttonCenter, .selected div  {height:53px;line-height:18px;color:#005972; }
+.button:hover .buttonRightSide, .selected div {height:53px; }
+
+
 </style>
 
 
@@ -461,7 +447,7 @@ function resizeWindow( e ) {
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/privacyPolicy.cfm">Privacy Policy</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forOurCustomers/sitemap.cfm">Site Map</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/insideDuquesneLight/contactUs/default.cfm">Contact Us</a>
-		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/insideDuquesneLight/aboutUs/careers.cfm">Careers</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://career4.successfactors.com/career?company=Duquesne">Careers</a>
 	</div>
 	<div class="clearClass"></div>
 </div>
