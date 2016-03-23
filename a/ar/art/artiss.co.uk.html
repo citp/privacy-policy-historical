@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artiss.co.uk privacy policy that was archived on 2015-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151115143512id_/http%3A//www.artiss.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artiss.co.uk privacy policy that was archived on 2016-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323073937id_/http%3A//www.artiss.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 	<meta charset="UTF-8">
@@ -10,8 +10,9 @@
 	<title>Privacy Policy - Artiss The Geek</title>
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
 
-<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Privacy Policy - by SEQ Legal We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. Credit">
+<meta name="robots" content="noodp">
 <link rel="canonical" href="http://www.artiss.co.uk/privacy-policy">
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="article">
@@ -23,12 +24,13 @@
 <meta property="article:author" content="dartiss">
 <meta property="fb:admins" content="516452829">
 <meta property="og:image" content="http://www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg">
+<meta property="og:image:width" content="500">
+<meta property="og:image:height" content="335">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Privacy Policy - by SEQ Legal We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. Credit">
 <meta name="twitter:title" content="Privacy Policy - Artiss The Geek">
 <meta name="twitter:site" content="@artissthegeek">
-<meta name="twitter:domain" content="Artiss The Geek">
-<meta name="twitter:image" content="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg?resize=500%2C335">
+<meta name="twitter:image" content="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg?fit=500%2C335">
 <meta name="twitter:creator" content="@artissthegeek">
 <!-- / Yoast SEO plugin. -->
 
@@ -37,7 +39,7 @@
 <link href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,300,400italic,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="Artiss The Geek » Privacy Policy Comments Feed" href="http://www.artiss.co.uk/privacy-policy/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.artiss.co.uk\/wp-includes\/js\/wp-emoji.js?ver=00a29fe03c2fe06da076fa608cb0b163","twemoji":"http:\/\/www.artiss.co.uk\/wp-includes\/js\/twemoji.js?ver=00a29fe03c2fe06da076fa608cb0b163"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.artiss.co.uk\/wp-includes\/js\/wp-emoji.js?ver=4.4.2","twemoji":"http:\/\/www.artiss.co.uk\/wp-includes\/js\/twemoji.js?ver=4.4.2"}};
 			( function( window, document, settings ) {
 	var src, ready;
 
@@ -52,7 +54,9 @@
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tone;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -66,25 +70,44 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
+		if ( 'flag' === type ) {
 			/*
 			 * This works because the image will be one of three things:
 			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
+			 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+			 * - The Australian flag
 			 *
 			 * The first two will encode to small images (1-2KB data URLs), the third will encode
 			 * to a larger image (4-5KB data URL).
 			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
 			return canvas.toDataURL().length > 3000;
-		} else {
+		} else if ( 'diversity' === type ) {
 			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
+			 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+			 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+			 * compares if the emoji rendering has changed.
 			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+			tone = context.getImageData( 16, 16, 1, 1 ).data.toString();
+			context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+			// Chrome has issues comparing arrays, so we compare it as a  string, instead.
+			return tone !== context.getImageData( 16, 16, 1, 1 ).data.toString();
+		} else {
+			if ( 'simple' === type ) {
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+			} else {
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+			}
 			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 	}
@@ -98,8 +121,10 @@
 	}
 
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		simple:    browserSupportsEmoji( 'simple' ),
+		flag:      browserSupportsEmoji( 'flag' ),
+		unicode8:  browserSupportsEmoji( 'unicode8' ),
+		diversity: browserSupportsEmoji( 'diversity' )
 	};
 
 	settings.DOMReady = false;
@@ -107,7 +132,7 @@
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.simple || ! settings.supports.flag || ! settings.supports.unicode8 || ! settings.supports.diversity ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -135,7 +160,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.artiss.co.uk/wp-includes/js/twemoji.js?ver=00a29fe03c2fe06da076fa608cb0b163" type="text/javascript"></script><script src="http://www.artiss.co.uk/wp-includes/js/wp-emoji.js?ver=00a29fe03c2fe06da076fa608cb0b163" type="text/javascript"></script>
+		</script><script src="http://www.artiss.co.uk/wp-includes/js/twemoji.js?ver=4.4.2" type="text/javascript"></script><script src="http://www.artiss.co.uk/wp-includes/js/wp-emoji.js?ver=4.4.2" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -150,8 +175,8 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="artiss_main-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/artiss-co-uk-configuration/css/main.css,wp-content/plugins/cookie-notice/css/front.css,wp-content/plugins/easy-heads-up-bar/css/ehu.css,wp-content/plugins/imdb-for-wordpress/assets/css/style.css,wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css,wp-content/plugins/simple-embed-code/css/ace-video-container.css,wp-content/plugins/youtube-embed/css/main.min.css,wp-content/plugins/quotes-collection/css/quotes-collection.css,wp-content/plugins/jetpack/modules/likes/style.css,wp-content/themes/hueman/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/hueman/responsive.css,wp-content/themes/hueman/custom.css,wp-content/themes/hueman/fonts/font-awesome.min.css,wp-content/plugins/jetpack/modules/widgets/top-posts/style.css,wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css,wp-content/plugins/download-monitor/page-addon/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="artiss_main-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/artiss-co-uk-configuration/css/main.css,wp-content/plugins/cookie-notice/css/front.css,wp-content/plugins/easy-heads-up-bar/css/ehu.css,wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css,wp-content/plugins/simple-embed-code/css/video-container.css,wp-content/plugins/youtube-embed/css/main.min.css,wp-content/plugins/quotes-collection/css/quotes-collection.css,wp-content/plugins/jetpack/modules/likes/style.css,wp-content/themes/hueman/style.css,wp-content/themes/hueman/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="custom-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/hueman/custom.css,wp-content/themes/hueman/fonts/font-awesome.min.css,wp-content/plugins/jetpack/modules/widgets/top-posts/style.css,wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css,wp-content/uploads/sass/a3_lazy_load.min.css,wp-content/plugins/download-monitor/page-addon/styles.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-post-update-links-style-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/wordpress-post-update-links/css/screen.css" type="text/css" media="screen">
 <!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
 <script type="text/javascript">
@@ -172,9 +197,8 @@ img.emoji {
 
 </script>
 <!-- / Google Analytics by Yoast -->
-<link media="screen" type="text/css" href="//www.artiss.co.uk/wp-content/uploads/sass/a3_lazy_load.min.css" rel="stylesheet">
-<script type="text/javascript" src="http://www.artiss.co.uk/wp-includes/js/jquery/jquery.js?ver=00a29fe03c2fe06da076fa608cb0b163"></script>
-<script type="text/javascript" src="http://www.artiss.co.uk/wp-includes/js/jquery/jquery-migrate.js?ver=00a29fe03c2fe06da076fa608cb0b163"></script>
+<script type="text/javascript" src="http://www.artiss.co.uk/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="http://www.artiss.co.uk/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var cnArgs = {"ajaxurl":"http:\/\/www.artiss.co.uk\/wp-admin\/admin-ajax.php","hideEffect":"slide","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"TRUE","cookieTime":"2592000","cookiePath":"\/","cookieDomain":""};
@@ -187,14 +211,17 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.artiss.co.uk\/wp-admin\/admin-ajax.php","nonce":"f84f5ace5c","nextQuote":"Next quote \u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
+var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.artiss.co.uk\/wp-admin\/admin-ajax.php","nonce":"476118d677","nextQuote":"Next quote \u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/cookie-notice/js/front.js,wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js,wp-content/plugins/responsive-lightbox/js/front.js,wp-content/plugins/quotes-collection/js/quotes-collection.js,wp-content/themes/hueman/js/jquery.flexslider.min.js"></script>
+<link rel="https://api.w.org/" href="http://www.artiss.co.uk/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.artiss.co.uk/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.artiss.co.uk/wp-includes/wlwmanifest.xml"> 
 
 <link rel="shortlink" href="http://wp.me/PV8zO-2jU">
+<link rel="alternate" type="application/json+oembed" href="http://www.artiss.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.artiss.co.uk%2Fprivacy-policy">
+<link rel="alternate" type="text/xml+oembed" href="http://www.artiss.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.artiss.co.uk%2Fprivacy-policy&amp;format=xml">
 <script type="text/javascript">
 if(document.location.protocol=='http:'){
 var Tynt=Tynt||[];Tynt.push('a7ENfoBw4r3653adbi-bpO');Tynt.i={"st":true,"su":false};
@@ -237,42 +264,8 @@ var Tynt=Tynt||[];Tynt.push('a7ENfoBw4r3653adbi-bpO');Tynt.i={"st":true,"su":fal
 <script src="http://www.artiss.co.uk/wp-content/themes/hueman/js/ie/html5.js"></script>
 <script src="http://www.artiss.co.uk/wp-content/themes/hueman/js/ie/selectivizr.js"></script>
 <![endif]-->
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<style type="text/css">.broken_link, a.broken_link {
-	text-decoration: line-through;
-}</style><script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//www.artiss.co.uk/?wordfence_logHuman=1&hid=13014C1D12E3CB740A2D1BE8F7D29E37');
-</script><style type="text/css">
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css">
 /* Dynamic CSS: For no styles in head, copy and put the css below in your custom.css or child theme's style.css, disable dynamic styles */
 body { font-family: "Roboto Condensed", Arial, sans-serif; }
 .boxed #wrapper, .container-inner { max-width: 1024px; }
@@ -484,7 +477,7 @@ google_ad_height = 60;
 				
 				<div class="page-image">
 	<div class="image-container">
-		<img src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg?resize=500%2C335" class="attachment-thumb-large wp-post-image" alt="Privacy">		<div class="page-image-text"></div>	</div>
+		<img width="720" height="340" src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg?resize=500%2C335" class="attachment-thumb-large size-thumb-large wp-post-image" alt="Privacy" srcset="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg?resize=520%2C245 520w, http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2012/03/medium_368912557.jpg?resize=720%2C340 720w" sizes="(max-width: 720px) 100vw, 720px">		<div class="page-image-text"></div>	</div>
 </div><!--/.page-image-->
 					
 				<div class="entry themeform">
@@ -570,7 +563,7 @@ google_ad_height = 60;
 
 <div>
 		<label for="contact-form-comment-g8922-message" class="grunion-field-label textarea">Message<span>(required)</span></label>
-		<textarea name="g8922-message" id="contact-form-comment-g8922-message" rows="20" required="" aria-required="true"></textarea>
+		<textarea name="g8922-message" id="contact-form-comment-g8922-message" rows="20" class="textarea" required="" aria-required="true"></textarea>
 	</div>
 	<p class="contact-submit">
 		<input type="submit" value="Submit »" class="pushbutton-wide">
@@ -600,7 +593,7 @@ google_ad_height = 60;
 						
 						
 						
-			<div id="text-17" class="widget widget_text">			<div class="textwidget"><div id="contentclick24953"><script type="text/javascript" src="https://api.contentclick.co.uk/pub_serve.php?pub_id=7939&amp;w_id=24953&amp;pw=beb7656d6eb9c5&amp;cbust=1580429075336" async=""></script></div>
+			<div id="text-17" class="widget widget_text">			<div class="textwidget"><div id="contentclick24953"><script type="text/javascript" src="https://api.contentclick.co.uk/pub_serve.php?pub_id=7939&amp;w_id=24953&amp;pw=beb7656d6eb9c5&amp;cbust=1580429075769" async=""></script></div>
 <script type="text/javascript">
     (function() {
         var data =
@@ -631,61 +624,61 @@ google_ad_height = 60;
 								<li>
 					
 										<div class="tab-item-thumbnail">
-						<a href="http://www.artiss.co.uk/2015/11/is-it-wrong-to-misrepresent-an-informal-poll" title="Is it wrong to misrepresent an informal poll?">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="graph-background" data-src="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2015/11/graph-background.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+						<a href="http://www.artiss.co.uk/2016/03/gooq-vertical-charging-dock-for-lg-g-watch-r" title="GOOQ Vertical Charging Dock for LG G Watch R">
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="LG G Watch R" sizes="(max-width: 160px) 100vw, 160px" data-src="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/LG-G-Watch-R-e1457440383471.png?resize=160%2C160" data-lazy-type="image" data-srcset="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/LG-G-Watch-R-e1457440383471.png?resize=160%2C160 160w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/LG-G-Watch-R-e1457440383471.png?resize=320%2C320 320w">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
-						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/comment" rel="category tag">Comment</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2015/11/is-it-wrong-to-misrepresent-an-informal-poll" rel="bookmark" title="Is it wrong to misrepresent an informal poll?">Is it wrong to misrepresent an informal poll?</a></p>
-						<p class="tab-item-date">12 Nov, 2015</p>					</div>
+						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2016/03/gooq-vertical-charging-dock-for-lg-g-watch-r" rel="bookmark" title="GOOQ Vertical Charging Dock for LG G Watch R">GOOQ Vertical Charging Dock for LG G Watch R</a></p>
+						<p class="tab-item-date">10 Mar, 2016</p>					</div>
 					
 				</li>
 								<li>
 					
 										<div class="tab-item-thumbnail">
-						<a href="http://www.artiss.co.uk/2015/11/olixar-flexishield-nexus-6p-gel-case" title="Olixar FlexiShield Nexus 6P Gel Case">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="Olixar Flexishield close up" data-src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2015/11/Olixar-Flexishield-close-up1.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+						<a href="http://www.artiss.co.uk/2016/03/xtreme-bright-ultra-torch-bike-light-set" title="Xtreme Bright Ultra Torch Bike Light Set">
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="Xtreme Bright Ultra Torch Bike Light Set 4" sizes="(max-width: 160px) 100vw, 160px" data-src="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=160%2C160" data-lazy-type="image" data-srcset="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=160%2C160 160w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=245%2C245 245w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=768%2C768 768w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=340%2C340 340w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=320%2C320 320w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?resize=50%2C50 50w, http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-Ultra-Torch-Bike-Light-Set-4.jpg?w=1500 1500w">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
-						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2015/11/olixar-flexishield-nexus-6p-gel-case" rel="bookmark" title="Olixar FlexiShield Nexus 6P Gel Case">Olixar FlexiShield Nexus 6P Gel Case</a></p>
-						<p class="tab-item-date">12 Nov, 2015</p>					</div>
+						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2016/03/xtreme-bright-ultra-torch-bike-light-set" rel="bookmark" title="Xtreme Bright Ultra Torch Bike Light Set">Xtreme Bright Ultra Torch Bike Light Set</a></p>
+						<p class="tab-item-date">9 Mar, 2016</p>					</div>
 					
 				</li>
 								<li>
 					
 										<div class="tab-item-thumbnail">
-						<a href="http://www.artiss.co.uk/2015/11/official-nexus-6p-adopted-folio-case" title="Official Nexus 6P Adopted Folio Case">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="Nexus 6P Rear" data-src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2015/11/Nexus-6P-Rear.png?resize=160%2C160" data-lazy-type="image">																																		</a>
+						<a href="http://www.artiss.co.uk/2016/03/powerlast-usb-c-to-usb-a-braided-cable" title="Powerlast USB-C to USB A Braided Cable">
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="Powerlast USB-C cable" sizes="(max-width: 160px) 100vw, 160px" data-src="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=160%2C160" data-lazy-type="image" data-srcset="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=160%2C160 160w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=245%2C245 245w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=768%2C768 768w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=340%2C340 340w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=320%2C320 320w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?resize=50%2C50 50w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Powerlast-USB-C-cable.jpg?w=1500 1500w">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
-						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/featured-2" rel="category tag">Featured</a> / <a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2015/11/official-nexus-6p-adopted-folio-case" rel="bookmark" title="Official Nexus 6P Adopted Folio Case">Official Nexus 6P Adopted Folio Case</a></p>
-						<p class="tab-item-date">9 Nov, 2015</p>					</div>
+						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2016/03/powerlast-usb-c-to-usb-a-braided-cable" rel="bookmark" title="Powerlast USB-C to USB A Braided Cable">Powerlast USB-C to USB A Braided Cable</a></p>
+						<p class="tab-item-date">8 Mar, 2016</p>					</div>
 					
 				</li>
 								<li>
 					
 										<div class="tab-item-thumbnail">
-						<a href="http://www.artiss.co.uk/2015/10/orzly-flexicase-for-google-nexus-6p" title="Orzly FlexiCase for Google Nexus 6P">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="Orzly Case - Lip" data-src="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2015/10/Orzly-Case-Lip-e1445262606669.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+						<a href="http://www.artiss.co.uk/2016/03/xtreme-bright-led-bike-light" title="Xtreme Bright LED Bike Light">
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="Xtreme Bright LED Bike Light" sizes="(max-width: 160px) 100vw, 160px" data-src="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=160%2C160" data-lazy-type="image" data-srcset="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=160%2C160 160w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=245%2C245 245w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=768%2C768 768w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=340%2C340 340w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=320%2C320 320w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?resize=50%2C50 50w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2016/03/Xtreme-Bright-LED-Bike-Light.jpg?w=1000 1000w">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
-						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/featured-2" rel="category tag">Featured</a> / <a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2015/10/orzly-flexicase-for-google-nexus-6p" rel="bookmark" title="Orzly FlexiCase for Google Nexus 6P">Orzly FlexiCase for Google Nexus 6P</a></p>
-						<p class="tab-item-date">28 Oct, 2015</p>					</div>
+						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/review" rel="category tag">Review</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2016/03/xtreme-bright-led-bike-light" rel="bookmark" title="Xtreme Bright LED Bike Light">Xtreme Bright LED Bike Light</a></p>
+						<p class="tab-item-date">7 Mar, 2016</p>					</div>
 					
 				</li>
 								<li>
 					
 										<div class="tab-item-thumbnail">
-						<a href="http://www.artiss.co.uk/2015/10/guest-post-how-to-recover-digital-photos-for-free" title="Guest Post: How to recover digital photos for free">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="Memory cards" data-src="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2015/10/Memory-cards.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+						<a href="http://www.artiss.co.uk/2016/03/how-i-improved-my-console-network-performance" title="How I Improved My Console Network Performance">
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="Fragmentation" sizes="(max-width: 160px) 100vw, 160px" data-src="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2015/07/Fragmentation.png?resize=160%2C160" data-lazy-type="image" data-srcset="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2015/07/Fragmentation.png?resize=160%2C160 160w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2015/07/Fragmentation.png?resize=320%2C320 320w">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
-						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/tips" rel="category tag">Tips</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2015/10/guest-post-how-to-recover-digital-photos-for-free" rel="bookmark" title="Guest Post: How to recover digital photos for free">Guest Post: How to recover digital photos for free</a></p>
-						<p class="tab-item-date">20 Oct, 2015</p>					</div>
+						<p class="tab-item-category"><a href="http://www.artiss.co.uk/category/featured-2" rel="category tag">Featured</a> / <a href="http://www.artiss.co.uk/category/tips" rel="category tag">Tips</a></p>						<p class="tab-item-title"><a href="http://www.artiss.co.uk/2016/03/how-i-improved-my-console-network-performance" rel="bookmark" title="How I Improved My Console Network Performance">How I Improved My Console Network Performance</a></p>
+						<p class="tab-item-date">4 Mar, 2016</p>					</div>
 					
 				</li>
 											</ul><!--/.alx-tab-->
@@ -699,7 +692,7 @@ google_ad_height = 60;
 				
 										<div class="tab-item-thumbnail">
 						<a href="http://www.artiss.co.uk/2013/06/ford-focus-tips-for-a-new-owner" title="Ford Focus – tips for a new owner">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="If you have a Titanium X these are the controls that allow you to adjust the ambient lighting" data-src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2013/06/IMG_20130619_080540.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="If you have a Titanium X these are the controls that allow you to adjust the ambient lighting" data-src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2013/06/IMG_20130619_080540.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
@@ -711,7 +704,7 @@ google_ad_height = 60;
 				
 										<div class="tab-item-thumbnail">
 						<a href="http://www.artiss.co.uk/2012/06/producttesting-uk-com-and-why-you-should-avoid-them" title="ProductTesting.uk.com and why you should avoid them">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="Photo credit: AJC1" data-src="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2012/05/medium_519906069.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="Photo credit: AJC1" data-src="http://i0.wp.com/www.artiss.co.uk/wp-content/uploads/2012/05/medium_519906069.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
@@ -736,7 +729,7 @@ google_ad_height = 60;
 				
 										<div class="tab-item-thumbnail">
 						<a href="http://www.artiss.co.uk/2014/03/get-sent-genuinly-free-products" title="How to get sent genuinely free products">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="iPad" data-src="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2014/03/iPad.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="iPad" sizes="(max-width: 160px) 100vw, 160px" data-src="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2014/03/iPad.jpg?resize=160%2C160" data-lazy-type="image" data-srcset="http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2014/03/iPad.jpg?resize=160%2C160 160w, http://i2.wp.com/www.artiss.co.uk/wp-content/uploads/2014/03/iPad.jpg?resize=320%2C320 320w">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
@@ -748,7 +741,7 @@ google_ad_height = 60;
 				
 										<div class="tab-item-thumbnail">
 						<a href="http://www.artiss.co.uk/2009/11/bbc-iplayer-on-nintendo-wii" title="BBC iPlayer on Nintendo Wii">
-															<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy-hidden attachment-thumb-small wp-post-image" alt="iPlayer on Wii - Channel Schedule" data-src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2009/11/46723055_channel_schedule.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
+															<img width="160" height="160" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-thumb-small size-thumb-small wp-post-image" alt="iPlayer on Wii - Channel Schedule" data-src="http://i1.wp.com/www.artiss.co.uk/wp-content/uploads/2009/11/46723055_channel_schedule.jpg?resize=160%2C160" data-lazy-type="image">																																		</a>
 					</div>
 										
 					<div class="tab-item-inner group">
@@ -766,14 +759,14 @@ google_ad_height = 60;
 								<li>
 					
 												<div class="tab-item-avatar">
-							<a href="http://www.artiss.co.uk/2010/08/tecknet-m002-wireless-mouse#comment-127072">
-								<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://1.gravatar.com/avatar/19a1331efb86dc6a5e8cf8fdc083731c?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="http://1.gravatar.com/avatar/19a1331efb86dc6a5e8cf8fdc083731c?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://1.gravatar.com/avatar/19a1331efb86dc6a5e8cf8fdc083731c?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://1.gravatar.com/avatar/19a1331efb86dc6a5e8cf8fdc083731c?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
+							<a href="http://www.artiss.co.uk/2015/04/ford-sync-upgrades#comment-127984">
+								<img alt="" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://2.gravatar.com/avatar/56d255ede8247f7dc121416fea7a4c54?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="" data-srcset="http://2.gravatar.com/avatar/56d255ede8247f7dc121416fea7a4c54?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://2.gravatar.com/avatar/56d255ede8247f7dc121416fea7a4c54?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://2.gravatar.com/avatar/56d255ede8247f7dc121416fea7a4c54?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
 						</div>
 												
 						<div class="tab-item-inner group">
 												
-							<div class="tab-item-name">valentina says:</div>
-							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2010/08/tecknet-m002-wireless-mouse#comment-127072">Hi! Is it good for autocad ? </a></div>
+							<div class="tab-item-name">John Smith says:</div>
+							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2015/04/ford-sync-upgrades#comment-127984">There's actually two versions of Ford SYNC; SYNC and SYNC with...</a></div>
 							
 						</div>
 
@@ -781,14 +774,14 @@ google_ad_height = 60;
 								<li>
 					
 												<div class="tab-item-avatar">
-							<a href="http://www.artiss.co.uk/2013/06/ford-focus-tips-for-a-new-owner#comment-126989">
-								<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://1.gravatar.com/avatar/4ff2c7e256fb51148051d574f9f9accb?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="http://1.gravatar.com/avatar/4ff2c7e256fb51148051d574f9f9accb?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://1.gravatar.com/avatar/4ff2c7e256fb51148051d574f9f9accb?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://1.gravatar.com/avatar/4ff2c7e256fb51148051d574f9f9accb?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
+							<a href="http://www.artiss.co.uk/2014/12/playstation-4-game-installation-cd-shows-corrupt-data#comment-127973">
+								<img alt="" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://1.gravatar.com/avatar/4c9c879edf1dae7037ce9680e59d16a6?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="" data-srcset="http://1.gravatar.com/avatar/4c9c879edf1dae7037ce9680e59d16a6?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://1.gravatar.com/avatar/4c9c879edf1dae7037ce9680e59d16a6?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://1.gravatar.com/avatar/4c9c879edf1dae7037ce9680e59d16a6?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
 						</div>
 												
 						<div class="tab-item-inner group">
 												
-							<div class="tab-item-name">Tony S says:</div>
-							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2013/06/ford-focus-tips-for-a-new-owner#comment-126989">I am having the same problem with my ford focus I've...</a></div>
+							<div class="tab-item-name">Ac140 says:</div>
+							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2014/12/playstation-4-game-installation-cd-shows-corrupt-data#comment-127973">It didn't work for sadly :(</a></div>
 							
 						</div>
 
@@ -796,14 +789,14 @@ google_ad_height = 60;
 								<li>
 					
 												<div class="tab-item-avatar">
-							<a href="http://www.artiss.co.uk/2012/12/why-im-moving-away-from-samsung#comment-126980">
-								<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://2.gravatar.com/avatar/2101933e045bf4ffec110ab42b3e2ba5?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="http://2.gravatar.com/avatar/2101933e045bf4ffec110ab42b3e2ba5?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://2.gravatar.com/avatar/2101933e045bf4ffec110ab42b3e2ba5?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://2.gravatar.com/avatar/2101933e045bf4ffec110ab42b3e2ba5?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
+							<a href="http://www.artiss.co.uk/2012/06/producttesting-uk-com-and-why-you-should-avoid-them#comment-127959">
+								<img alt="" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://0.gravatar.com/avatar/f1f3f23edee812a375618efe59012fde?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="" data-srcset="http://0.gravatar.com/avatar/f1f3f23edee812a375618efe59012fde?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://0.gravatar.com/avatar/f1f3f23edee812a375618efe59012fde?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://0.gravatar.com/avatar/f1f3f23edee812a375618efe59012fde?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
 						</div>
 												
 						<div class="tab-item-inner group">
 												
-							<div class="tab-item-name">Kian says:</div>
-							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2012/12/why-im-moving-away-from-samsung#comment-126980">I hate android apple for life!!!!! </a></div>
+							<div class="tab-item-name">David Artiss says:</div>
+							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2012/06/producttesting-uk-com-and-why-you-should-avoid-them#comment-127959">I don't believe they do anything to verify age, so there...</a></div>
 							
 						</div>
 
@@ -811,14 +804,14 @@ google_ad_height = 60;
 								<li>
 					
 												<div class="tab-item-avatar">
-							<a href="http://www.artiss.co.uk/2014/03/get-sent-genuinly-free-products#comment-126908">
-								<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://2.gravatar.com/avatar/2d9fc16dc194c86b504859791fb388d3?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="http://2.gravatar.com/avatar/2d9fc16dc194c86b504859791fb388d3?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://2.gravatar.com/avatar/2d9fc16dc194c86b504859791fb388d3?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://2.gravatar.com/avatar/2d9fc16dc194c86b504859791fb388d3?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
+							<a href="http://www.artiss.co.uk/2012/06/producttesting-uk-com-and-why-you-should-avoid-them#comment-127949">
+								<img alt="" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://2.gravatar.com/avatar/239c077f54c3627953d7ea54bf19f7f1?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="" data-srcset="http://2.gravatar.com/avatar/239c077f54c3627953d7ea54bf19f7f1?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://2.gravatar.com/avatar/239c077f54c3627953d7ea54bf19f7f1?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://2.gravatar.com/avatar/239c077f54c3627953d7ea54bf19f7f1?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
 						</div>
 												
 						<div class="tab-item-inner group">
 												
-							<div class="tab-item-name">Jacqueline says:</div>
-							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2014/03/get-sent-genuinly-free-products#comment-126908">I recently signed up to ProductTesting.uk.com and wish I had read...</a></div>
+							<div class="tab-item-name">Farah Augustin says:</div>
+							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2012/06/producttesting-uk-com-and-why-you-should-avoid-them#comment-127949">David? I want something free im 17, can I make a...</a></div>
 							
 						</div>
 
@@ -826,14 +819,14 @@ google_ad_height = 60;
 								<li>
 					
 												<div class="tab-item-avatar">
-							<a href="http://www.artiss.co.uk/2014/01/publishing-playstation-4-videos-youtube#comment-126824">
-								<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://0.gravatar.com/avatar/c66106150d151f36791c0e15e0b575e7?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="http://0.gravatar.com/avatar/c66106150d151f36791c0e15e0b575e7?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://0.gravatar.com/avatar/c66106150d151f36791c0e15e0b575e7?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://0.gravatar.com/avatar/c66106150d151f36791c0e15e0b575e7?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
+							<a href="http://www.artiss.co.uk/2014/01/ford-sync-usb-devices#comment-127808">
+								<img alt="" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://2.gravatar.com/avatar/b343863f02c150f8a481d28e57b9225c?s=96&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g" srcset="" data-srcset="http://2.gravatar.com/avatar/b343863f02c150f8a481d28e57b9225c?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x" class="lazy lazy-hidden avatar avatar-96 photo" height="96" width="96"><noscript><img alt='' src='http://2.gravatar.com/avatar/b343863f02c150f8a481d28e57b9225c?s=96&#038;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&#038;r=g' srcset='http://2.gravatar.com/avatar/b343863f02c150f8a481d28e57b9225c?s=192&amp;d=http%3A%2F%2Fwww.artiss.co.uk%2Fwp-content%2Fplugins%2Fartiss-co-uk-configuration%2Fimages%2Fdefault.png&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript>							</a>
 						</div>
 												
 						<div class="tab-item-inner group">
 												
-							<div class="tab-item-name">bestautumnn says:</div>
-							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2014/01/publishing-playstation-4-videos-youtube#comment-126824">Allavsoft to download very good,you can have a try. </a></div>
+							<div class="tab-item-name">Sean says:</div>
+							<div class="tab-item-comment"><a href="http://www.artiss.co.uk/2014/01/ford-sync-usb-devices#comment-127808">My USB port on my focus 2013 has stop playing music...</a></div>
 							
 						</div>
 
@@ -845,17 +838,18 @@ google_ad_height = 60;
 			<ul id="tab-tags" class="alx-tab group">
 				<li>
 					<a href="http://www.artiss.co.uk/tag/1-pound-challenge" class="tag-link-1741" title="16 topics" style="font-size: 8.55118110236pt;">1 Pound Challenge</a>
-<a href="http://www.artiss.co.uk/tag/amazon" class="tag-link-285" title="32 topics" style="font-size: 11.7480314961pt;">Amazon</a>
+<a href="http://www.artiss.co.uk/tag/amazon" class="tag-link-285" title="33 topics" style="font-size: 11.8582677165pt;">Amazon</a>
 <a href="http://www.artiss.co.uk/tag/android" class="tag-link-988" title="60 topics" style="font-size: 14.7244094488pt;">Android</a>
 <a href="http://www.artiss.co.uk/tag/apple" class="tag-link-66" title="33 topics" style="font-size: 11.8582677165pt;">Apple</a>
 <a href="http://www.artiss.co.uk/tag/bbc" class="tag-link-334" title="19 topics" style="font-size: 9.32283464567pt;">BBC</a>
 <a href="http://www.artiss.co.uk/tag/blog" class="tag-link-102" title="34 topics" style="font-size: 11.968503937pt;">Blog</a>
-<a href="http://www.artiss.co.uk/tag/bluetooth" class="tag-link-198" title="27 topics" style="font-size: 10.9763779528pt;">Bluetooth</a>
+<a href="http://www.artiss.co.uk/tag/bluetooth" class="tag-link-198" title="29 topics" style="font-size: 11.3070866142pt;">Bluetooth</a>
 <a href="http://www.artiss.co.uk/tag/bmtg" class="tag-link-50" title="51 topics" style="font-size: 13.9527559055pt;">BMTG</a>
-<a href="http://www.artiss.co.uk/tag/cable" class="tag-link-1558" title="15 topics" style="font-size: 8.22047244094pt;">Cable</a>
+<a href="http://www.artiss.co.uk/tag/cable" class="tag-link-1558" title="16 topics" style="font-size: 8.55118110236pt;">Cable</a>
+<a href="http://www.artiss.co.uk/tag/case" class="tag-link-1656" title="15 topics" style="font-size: 8.22047244094pt;">case</a>
 <a href="http://www.artiss.co.uk/tag/copy" class="tag-link-86" title="29 topics" style="font-size: 11.3070866142pt;">Copy+</a>
 <a href="http://www.artiss.co.uk/tag/creative" class="tag-link-1147" title="21 topics" style="font-size: 9.76377952756pt;">Creative</a>
-<a href="http://www.artiss.co.uk/tag/customer-service" class="tag-link-520" title="17 topics" style="font-size: 8.88188976378pt;">Customer Service</a>
+<a href="http://www.artiss.co.uk/tag/customer-service" class="tag-link-520" title="18 topics" style="font-size: 9.10236220472pt;">Customer Service</a>
 <a href="http://www.artiss.co.uk/tag/ebay" class="tag-link-192" title="15 topics" style="font-size: 8.22047244094pt;">eBay</a>
 <a href="http://www.artiss.co.uk/tag/firefox" class="tag-link-81" title="43 topics" style="font-size: 13.0708661417pt;">Firefox</a>
 <a href="http://www.artiss.co.uk/tag/google" class="tag-link-51" title="58 topics" style="font-size: 14.5039370079pt;">Google</a>
@@ -869,22 +863,21 @@ google_ad_height = 60;
 <a href="http://www.artiss.co.uk/tag/netbook" class="tag-link-734" title="19 topics" style="font-size: 9.32283464567pt;">Netbook</a>
 <a href="http://www.artiss.co.uk/tag/netbooks" class="tag-link-756" title="24 topics" style="font-size: 10.4251968504pt;">Netbooks</a>
 <a href="http://www.artiss.co.uk/tag/o2" class="tag-link-654" title="15 topics" style="font-size: 8.22047244094pt;">O2</a>
-<a href="http://www.artiss.co.uk/tag/pc-pro" class="tag-link-76" title="14 topics" style="font-size: 8pt;">PC Pro</a>
 <a href="http://www.artiss.co.uk/tag/phone" class="tag-link-610" title="17 topics" style="font-size: 8.88188976378pt;">Phone</a>
 <a href="http://www.artiss.co.uk/tag/php" class="tag-link-48" title="26 topics" style="font-size: 10.7559055118pt;">PHP</a>
-<a href="http://www.artiss.co.uk/tag/playstation" class="tag-link-1593" title="15 topics" style="font-size: 8.22047244094pt;">PlayStation</a>
+<a href="http://www.artiss.co.uk/tag/playstation" class="tag-link-1593" title="16 topics" style="font-size: 8.55118110236pt;">PlayStation</a>
 <a href="http://www.artiss.co.uk/tag/plugin" class="tag-link-713" title="46 topics" style="font-size: 13.4015748031pt;">Plugin</a>
 <a href="http://www.artiss.co.uk/tag/power" class="tag-link-1100" title="16 topics" style="font-size: 8.55118110236pt;">Power</a>
-<a href="http://www.artiss.co.uk/tag/ps3" class="tag-link-1534" title="19 topics" style="font-size: 9.32283464567pt;">PS3</a>
-<a href="http://www.artiss.co.uk/tag/ps4" class="tag-link-2149" title="25 topics" style="font-size: 10.5354330709pt;">PS4</a>
+<a href="http://www.artiss.co.uk/tag/ps3" class="tag-link-1534" title="20 topics" style="font-size: 9.54330708661pt;">PS3</a>
+<a href="http://www.artiss.co.uk/tag/ps4" class="tag-link-2149" title="27 topics" style="font-size: 10.9763779528pt;">PS4</a>
 <a href="http://www.artiss.co.uk/tag/retrak" class="tag-link-1576" title="18 topics" style="font-size: 9.10236220472pt;">ReTrak</a>
 <a href="http://www.artiss.co.uk/tag/review" class="tag-link-2307" title="60 topics" style="font-size: 14.7244094488pt;">Review</a>
 <a href="http://www.artiss.co.uk/tag/samsung" class="tag-link-448" title="18 topics" style="font-size: 9.10236220472pt;">Samsung</a>
 <a href="http://www.artiss.co.uk/tag/software" class="tag-link-11" title="281 topics" style="font-size: 22pt;">Software</a>
 <a href="http://www.artiss.co.uk/tag/sony" class="tag-link-960" title="23 topics" style="font-size: 10.2047244094pt;">Sony</a>
 <a href="http://www.artiss.co.uk/tag/twitter" class="tag-link-577" title="18 topics" style="font-size: 9.10236220472pt;">Twitter</a>
-<a href="http://www.artiss.co.uk/tag/update" class="tag-link-763" title="15 topics" style="font-size: 8.22047244094pt;">Update</a>
-<a href="http://www.artiss.co.uk/tag/usb" class="tag-link-568" title="58 topics" style="font-size: 14.5039370079pt;">USB</a>
+<a href="http://www.artiss.co.uk/tag/update" class="tag-link-763" title="16 topics" style="font-size: 8.55118110236pt;">Update</a>
+<a href="http://www.artiss.co.uk/tag/usb" class="tag-link-568" title="60 topics" style="font-size: 14.7244094488pt;">USB</a>
 <a href="http://www.artiss.co.uk/tag/windows" class="tag-link-10" title="21 topics" style="font-size: 9.76377952756pt;">Windows</a>
 <a href="http://www.artiss.co.uk/tag/windows-xp" class="tag-link-145" title="20 topics" style="font-size: 9.54330708661pt;">Windows XP</a>
 <a href="http://www.artiss.co.uk/tag/wordpress" class="tag-link-2308" title="89 topics" style="font-size: 16.4881889764pt;">WordPress</a>
@@ -907,10 +900,10 @@ google_ad_height = 250;
 		</div><div id="cwp_latest_products_widget-2" class="widget widget_cwp_latest_products_widget"><h3>Latest Reviews</h3><ul>
 
 
-		<li class="cwp-popular-review cwp_top_posts_widget_16334 wppr-cols-2">
-				<a class="wppr-col" href="http://www.artiss.co.uk/2015/11/olixar-flexishield-nexus-6p-gel-case">
+		<li class="cwp-popular-review cwp_top_posts_widget_16520 wppr-cols-2">
+				<a class="wppr-col" href="http://www.artiss.co.uk/2016/03/gooq-vertical-charging-dock-for-lg-g-watch-r" title="GOOQ Vertical Charging Dock for LG G Watch R">
 
-		Olixar FlexiShield Nexus 6P Gel Case
+			GOOQ Vertical Charging Dock for LG G Watch R
 		</a>
 
 
@@ -922,7 +915,7 @@ google_ad_height = 250;
 
 				<div class="cwp-review-chart">
 
-				<div class="cwp-review-percentage" data-percent="60"><span></span></div>
+				<div class="cwp-review-percentage" data-percent="100"><span></span></div>
 
 				</div><!-- end .chart -->
 
@@ -936,39 +929,10 @@ google_ad_height = 250;
 		
 
 
-		<li class="cwp-popular-review cwp_top_posts_widget_16312 wppr-cols-2">
-				<a class="wppr-col" href="http://www.artiss.co.uk/2015/11/official-nexus-6p-adopted-folio-case">
+		<li class="cwp-popular-review cwp_top_posts_widget_16513 wppr-cols-2">
+				<a class="wppr-col" href="http://www.artiss.co.uk/2016/03/xtreme-bright-ultra-torch-bike-light-set" title="Xtreme Bright Ultra Torch Bike Light Set">
 
-		Nexus 6P Adopted Folio Case
-		</a>
-
-
-
-
-
-			
-			<div class="review-grade-widget wppr-col">
-
-				<div class="cwp-review-chart">
-
-				<div class="cwp-review-percentage" data-percent="90"><span></span></div>
-
-				</div><!-- end .chart -->
-
-			</div>
-
-			
-		</li><!-- end .popular-review -->
-
-
-
-		
-
-
-		<li class="cwp-popular-review cwp_top_posts_widget_16260 wppr-cols-2">
-				<a class="wppr-col" href="http://www.artiss.co.uk/2015/10/orzly-flexicase-for-google-nexus-6p">
-
-		Orzly FlexiCase for Google Nexus 6P
+			Xtreme Bright Ultra Torch Bike Light Set
 		</a>
 
 
@@ -994,10 +958,10 @@ google_ad_height = 250;
 		
 
 
-		<li class="cwp-popular-review cwp_top_posts_widget_16256 wppr-cols-2">
-				<a class="wppr-col" href="http://www.artiss.co.uk/2015/10/mobile-mate-aluminium-phone-stand">
+		<li class="cwp-popular-review cwp_top_posts_widget_16509 wppr-cols-2">
+				<a class="wppr-col" href="http://www.artiss.co.uk/2016/03/powerlast-usb-c-to-usb-a-braided-cable" title="Powerlast USB-C to USB A Braided Cable">
 
-		Mobile Mate Aluminium Phone Stand
+			Powerlast USB-C to USB A Braided Cable
 		</a>
 
 
@@ -1023,10 +987,39 @@ google_ad_height = 250;
 		
 
 
-		<li class="cwp-popular-review cwp_top_posts_widget_16258 wppr-cols-2">
-				<a class="wppr-col" href="http://www.artiss.co.uk/2015/10/soundpeats-m20-earphones">
+		<li class="cwp-popular-review cwp_top_posts_widget_16502 wppr-cols-2">
+				<a class="wppr-col" href="http://www.artiss.co.uk/2016/03/xtreme-bright-led-bike-light" title="Xtreme Bright LED Bike Light">
 
-		SoundPEATS M20
+			Xtreme Bright LED Bike Light
+		</a>
+
+
+
+
+
+			
+			<div class="review-grade-widget wppr-col">
+
+				<div class="cwp-review-chart">
+
+				<div class="cwp-review-percentage" data-percent="95"><span></span></div>
+
+				</div><!-- end .chart -->
+
+			</div>
+
+			
+		</li><!-- end .popular-review -->
+
+
+
+		
+
+
+		<li class="cwp-popular-review cwp_top_posts_widget_16450 wppr-cols-2">
+				<a class="wppr-col" href="http://www.artiss.co.uk/2016/01/soundpeats-a1-bluetooth-wireless-headset" title="SoundPEATS A1 Bluetooth Wireless Headset">
+
+			SoundPEATS A1 Bluetooth Wireless Headset
 		</a>
 
 
@@ -1054,22 +1047,21 @@ google_ad_height = 250;
 
 <span style="float: left">
 
-<a href="http://my.tsohost.com/aff.php?aff=1094" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://my.tsohost.com/aff.php?aff=1094', '']);" target="_blank" rel="nofollow"><img class="lazy lazy-hidden" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://www.artiss.co.uk/wp-content/uploads/2013/04/Tsohost.Affiliate.WordPress.Badge_.MPU_.png" width="160px"><noscript><img src="http://www.artiss.co.uk/wp-content/uploads/2013/04/Tsohost.Affiliate.WordPress.Badge_.MPU_.png" width="160px" /></noscript></a>
+<a href="http://my.tsohost.com/aff.php?aff=1094" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://my.tsohost.com/aff.php?aff=1094', '']);" target="_blank" rel="nofollow"><img class="lazy lazy-hidden" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://www.artiss.co.uk/wp-content/uploads/2013/04/Tsohost.Affiliate.WordPress.Badge_.MPU_.png" width="160px"><noscript><img src="http://www.artiss.co.uk/wp-content/uploads/2013/04/Tsohost.Affiliate.WordPress.Badge_.MPU_.png" width="160px" /></noscript></a>
 
 </span>
 
 <span style="float: right">
-
-<a href="http://www.quidco.com/user/490646/1931210/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.quidco.com/user/490646/1931210/', '']);" target="_blank" style="text-decoration: none; color: #404040;" rel="nofollow"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://www.artiss.co.uk/wp-content/uploads/2014/02/quidco.png" title="Quidco - Earn cashback when shopping online" alt="Quidco - Earn cashback when shopping online" class="lazy lazy-hidden centered" width="130px"><noscript><img src="http://www.artiss.co.uk/wp-content/uploads/2014/02/quidco.png" title="Quidco - Earn cashback when shopping online" alt="Quidco - Earn cashback when shopping online" class="centered" width="130px" /></noscript></a>
+<a href="http://www.quidco.com/user/490646/1931210/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.quidco.com/user/490646/1931210/', '']);" target="_blank" style="text-decoration: none; color: #404040;" rel="nofollow"><img src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://www.artiss.co.uk/wp-content/uploads/2014/02/quidco.png" title="Quidco - Earn cashback when shopping online" alt="Quidco - Earn cashback when shopping online" class="lazy lazy-hidden centered" width="130px"><noscript><img src="http://www.artiss.co.uk/wp-content/uploads/2014/02/quidco.png" title="Quidco - Earn cashback when shopping online" alt="Quidco - Earn cashback when shopping online" class="centered" width="130px" /></noscript></a>
 
 </span>
 
-</div>
-
-<div>
-<a href="https://onedrive.live.com/?invref=bcf3bd2d1b4ae560&amp;invsrc=90" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://onedrive.live.com/?invref=bcf3bd2d1b4ae560&amp;invsrc=90', '']);" target="_blank" rel="nofollow"><img class="lazy lazy-hidden" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-src="http://www.artiss.co.uk/wp-content/uploads/2014/02/onedrive.png"><noscript><img src="http://www.artiss.co.uk/wp-content/uploads/2014/02/onedrive.png" /></noscript></a>
 </div></div>
-		</div><div id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3>Follow me on Twitter</h3><a class="twitter-timeline" data-widget-id="495183485250727938" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="5" width="400" height="400" lang="EN">My Tweets</a></div><div id="rss-2" class="widget widget_rss"><h3><a class="rsswidget" href="http://letterboxd.com/artissthegeek/rss/"><img style="border:0" width="14" height="14" src="http://www.artiss.co.uk/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="">Recent Film Reviews</a></h3></div>			
+		</div><div id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3>Follow me on Twitter</h3><a class="twitter-timeline" data-widget-id="495183485250727938" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="5" width="400" height="400" lang="EN">My Tweets</a></div><div id="text-19" class="widget widget_text">			<div class="textwidget"><div style="background-color: #fff;" align="center">
+<a href="https://db.tt/pk963L6" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://db.tt/pk963L6', '\nSign up here and get an extra 500MBof storage']);" target="_blank" rel="nofollow"><img class="lazy lazy-hidden" src="//www.artiss.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://www.artiss.co.uk/wp-content/uploads/2013/04/Dropbox_Logo1.png"><noscript><img src="http://www.artiss.co.uk/wp-content/uploads/2013/04/Dropbox_Logo1.png" /></noscript>
+<br><strong>Sign up here and get an extra 500MB<br>of storage</strong><br><br></a>
+</div></div>
+		</div><div id="rss-2" class="widget widget_rss"><h3><a class="rsswidget" href="http://letterboxd.com/artissthegeek/rss/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.artiss.co.uk/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://letterboxd.com/artissthegeek/">Recent Film Reviews</a></h3><ul><li><a class="rsswidget" href="http://letterboxd.com/artissthegeek/film/deadpool/">Deadpool, 2016 - ★★★★</a> <span class="rss-date">March 22, 2016</span></li><li><a class="rsswidget" href="http://letterboxd.com/artissthegeek/film/hot-tub-time-machine-2/">Hot Tub Time Machine 2, 2015 - ★★★½</a> <span class="rss-date">March 6, 2016</span></li><li><a class="rsswidget" href="http://letterboxd.com/artissthegeek/film/spectre-2015/">Spectre, 2015 - ★★★★ (contains spoilers)</a> <span class="rss-date">February 29, 2016</span></li><li><a class="rsswidget" href="http://letterboxd.com/artissthegeek/film/guardians-of-the-galaxy/3/">Guardians of the Galaxy, 2014 - ★★★★½</a> <span class="rss-date">February 21, 2016</span></li><li><a class="rsswidget" href="http://letterboxd.com/artissthegeek/film/ripd/">R.I.P.D., 2013 - ★★★</a> <span class="rss-date">February 18, 2016</span></li></ul></div>			
 		</div><!--/.sidebar-content-->
 		
 	</div><!--/.sidebar-->
@@ -1097,7 +1089,7 @@ google_ad_height = 250;
 						
 												
 						<div id="copyright">
-															<p>Artiss The Geek © 2015. All Rights Reserved.</p>
+															<p>Artiss The Geek © 2016. All Rights Reserved.</p>
 													</div><!--/#copyright-->
 						
 												
@@ -1119,7 +1111,24 @@ google_ad_height = 250;
 <!-- Skimlinks script -->
 <script type="text/javascript" src="http://s.skimresources.com/js/15437X720702.skimlinks.js"></script>
 <script>var noskim = 'true';</script>
-<img alt="css.php" src="http://www.artiss.co.uk/wp-content/plugins/cookies-for-comments/css.php?k=1f86052bd838956590e8b2623fb0d1d9&amp;o=i&amp;t=949355815" width="1" height="1">	<style type="text/css">
+<img alt="css.php" src="http://www.artiss.co.uk/wp-content/plugins/cookies-for-comments/css.php?k=1f86052bd838956590e8b2623fb0d1d9&amp;o=i&amp;t=554000908" width="1" height="1">	<style type="text/css">
+
+
+		@media (min-width: 820px) {
+			#review-statistics .review-wrap-up .review-wu-left .rev-wu-image, #review-statistics .review-wrap-up .review-wu-left .review-wu-grade { height:156.88px;}
+
+			#review-statistics .review-wrap-up .review-wu-left .review-wu-grade .cwp-review-chart .cwp-review-percentage {
+
+				margin-top: 14.688%;
+			}
+
+			#review-statistics .review-wrap-up .review-wu-left .review-wu-grade .cwp-review-chart span {
+				font-size: 31px;
+			}
+
+			
+		}
+		
 		#review-statistics .review-wrap-up div.cwpr-review-top { border-top: 5px solid #03a9f4;  }
 		.user-comments-grades .comment-meta-grade-bar,
 		#review-statistics  .review-wu-bars ul li{
@@ -1130,7 +1139,8 @@ google_ad_height = 250;
 			color: #E1E2E0;
 		}
 
-				#review-statistics .review-wrap-up .review-wu-right ul li,#review-statistics  .review-wu-bars h3, .review-wu-bars span,#review-statistics .review-wrap-up .cwpr-review-top .cwp-item-category a{
+	
+		#review-statistics .review-wrap-up .review-wu-right ul li,#review-statistics  .review-wu-bars h3, .review-wu-bars span,#review-statistics .review-wrap-up .cwpr-review-top .cwp-item-category a{
 			color:  #3D3D3D;
 		}
 		#review-statistics .review-wrap-up .review-wu-right .pros h2 {
@@ -1158,11 +1168,16 @@ google_ad_height = 250;
 			color:  #FFFFFF;
 		}
 				div.affiliate-button a span {
-			background:url("http://www.artiss.co.uk/wp-content/plugins/wp-product-review"/images/cart-icon.png") no-repeat left center;
+			background:url("http://www.artiss.co.uk/wp-content/plugins/wp-product-review/images/cart-icon.png") no-repeat left center;
 		}
 		div.affiliate-button a:hover span{
 			background:url("http://www.artiss.co.uk/wp-content/plugins/wp-product-review/images/cart-icon-hover.png") no-repeat left center;
 		}
+		
+				.commentlist .comment-body p {
+			clear:left;
+		}
+
 			</style>
 	<script type="text/javascript">
 		var c1 = "#ff9800";
@@ -1180,7 +1195,7 @@ google_ad_height = 250;
 				}
 			}(document,"script","twitter-wjs");
 		</script>
-		<link rel="stylesheet" id="cwp-pac-fontawesome-stylesheet-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/wp-product-review/css/font-awesome.min.css,wp-content/plugins/wp-product-review/css/frontpage.css,wp-content/plugins/jetpack/modules/contact-form/css/grunion.css,wp-content/plugins/wp-product-review/css/cwppos-widget.css" type="text/css" media="all">
+		<link rel="stylesheet" id="cwp-pac-fontawesome-stylesheet-group-css" href="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/wp-product-review/css/font-awesome.min.css,wp-content/plugins/jetpack/modules/contact-form/css/grunion.css,wp-content/plugins/wp-product-review/css/cwppos-widget.css" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
@@ -1193,15 +1208,16 @@ var a3_lazyload_extend_params = {"edgeY":"0"};
 var a3_lazyload_extend_params = {"edgeY":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/jetpack/modules/photon/photon.js,wp-content/plugins/easy-heads-up-bar/js/ehu.js,wp-content/themes/hueman/js/jquery.jplayer.min.js,wp-content/themes/hueman/js/scripts.js,wp-content/themes/hueman/js/jquery.sharrre.min.js,wp-includes/js/comment-reply.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js,wp-content/plugins/wp-product-review/javascript/pie-chart.js,wp-content/plugins/wp-product-review/javascript/main.js"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=00a29fe03c2fe06da076fa608cb0b163"></script>
+<script type="text/javascript" src="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/jetpack/modules/photon/photon.js,wp-content/plugins/easy-heads-up-bar/js/ehu.js,wp-content/themes/hueman/js/jquery.jplayer.min.js,wp-content/themes/hueman/js/scripts.js,wp-content/themes/hueman/js/jquery.sharrre.min.js,wp-includes/js/comment-reply.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js,wp-includes/js/wp-embed.js"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201612"></script>
+<script type="text/javascript" src="http://www.artiss.co.uk/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/wp-product-review/javascript/pie-chart.js,wp-content/plugins/wp-product-review/javascript/main.js"></script>
 <!--[if lt IE 9]>
 <script src="http://www.artiss.co.uk/wp-content/themes/hueman/js/ie/respond.js"></script>
 <![endif]-->
-<script type="text/javascript" src="http://stats.wp.com/e-201546.js" async="" defer=""></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201612.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.8.0',blog:'13617668',post:'8922',tz:'0',srv:'www.artiss.co.uk'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.2',blog:'13617668',post:'8922',tz:'0',srv:'www.artiss.co.uk'} ]);
 	_stq.push([ 'clickTrackerInit', '13617668', '8922' ]);
 </script>
 
