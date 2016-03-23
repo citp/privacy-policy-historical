@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210000515id_/http%3A//www.ahealthblog.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323162233id_/http%3A//www.ahealthblog.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Health Blog
 
 This blog is a collaborative blog written by a group of individuals. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
