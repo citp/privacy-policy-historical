@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotloop.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912033136id_/https%3A//dotloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotloop.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323033428id_/https%3A//www.dotloop.com/privacy-policy) for the most accurate reproduction.*
 
 # dotloop - peoplework, not paperwork.
 
@@ -8,7 +8,7 @@
 
 
 **Our Commitment To Privacy**  
-Your privacy is important to us. In order to better protect your privacy, we provide this notice (the "Policy") explaining our information practices and the choices you can make about the way your information is collected and used. By providing personal information to Dotloop, Inc. ("Dotloop", "We", "Us", or "Our") through our website www.dotloop.com, you agree and consent that we may collect, use, and disclose your personal information in accordance with this Policy. To make this Policy easy to find, we make it available on our homepage.
+This Privacy Policy applies to www.dotloop.com owned and operated by Dotloop, Inc. Your privacy is important to us. In order to better protect your privacy, we provide this notice (the "Policy") explaining our information practices and the choices you can make about the way your information is collected and used. By providing personal information to Dotloop, Inc. ("Dotloop", "We", "Us", or "Our") through our website www.dotloop.com, you agree and consent that we may collect, use, and disclose your personal information in accordance with this Policy. To make this Policy easy to find, we make it available on our homepage.
 
 Dotloop, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [http://www.dotloop.com](http://www.dotloop.com/) and does not cover information that may be collected through our mobile application. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
 
@@ -28,7 +28,7 @@ At times dotloop.com may make certain non-identifying information available to s
 
 We may provide your personal information to companies that provide services to help us with our business activities such as improving system performance or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-We may also share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain Personal Information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. In the event that we enter into a business transaction, such as a merger with or an acquisition by another company, or a sale of some or all of our assets, your personal information may be among the assets that are transferred or disclosed in connection with such a transaction, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+In the event that we enter into a business transaction, such as a merger with or an acquisition by another company, or a sale of some or all of our assets, your personal information may be among the assets that are transferred or disclosed in connection with such a transaction, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Finally, we never use or share the personal information provided to us online in ways unrelated to the ones described in this Policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
@@ -36,7 +36,7 @@ Finally, we never use or share the personal information provided to us online in
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). You should note, though, that the internet is not a 100% secure environment. There is no guarantee that information you provide or that we maintain may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about security on our website, you can contact us at [support@dotloop.com](mailto:support@dotloop.com)
 
 **How You Can Access Your Information**  
-You can retrieve, correct or update your personal information by accessing your account on dotloop.com or by contacting us at the contact information listed below.
+You can retrieve, correct or update your personal information by accessing your account on dotloop.com or by contacting us at the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -54,15 +54,15 @@ We use cookies to remember users' settings. Users can control the use of cookies
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or click stream data. We do not link this automatically collected data to other information we collect about you.
 
-We use local storage objects (LSOs) to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+We use local storage objects such as HTML5 to store content information and preferences.
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+Various browsers may offer their own management tools for removing HTML5.
 
   * **Behavioral Targeting**
 
 
 
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Information Sharing**  
 Normally, we will not disclose personal information unless you have authorized the disclosure. There are some circumstances where we may disclose personal information without consent. Such circumstances include where we are required or permitted by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect the rights, privacy, safety or property of an identifiable person or group; or where the information is public. We will not disclose more information than required or permitted.
@@ -95,6 +95,20 @@ Your friend may contact us at [support@dotloop.com](mailto:support@dotloop.com) 
 **DotLoop Blog**  
 Our website offers publicly accessible blogs or community forums. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
+**The Dotloop Data Privacy Guarantee affirms that:**  
+
+
+  * Dotloop customers own the data they put into dotloop. This includes all customer data, from user information to transaction data.
+
+  * Dotloop will not use this data as part of other Zillow Group products or services unless customers have given us permission to do so. This covers all Zillow Group businesses.
+
+  * Dotloop does not disclose customer data except where required by law or authorized by the customers in question.
+
+
+
+
+This guarantee applies to all data previously entered in dotloop as well as to data entered in dotloop moving forward.
+
 **How To Contact Us**  
 Should you have other questions or concerns about this Policy, please email us at [support@dotloop.com](mailto:support@dotloop.com). You may also write to us at:
 
@@ -103,4 +117,4 @@ Dotloop, Inc.
 Suite 446  
 Cincinnati, OH 45203
 
-Last updated: April 6, 2015
+Last updated: December 7, 2015
