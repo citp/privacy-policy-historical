@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905103329id_/http%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190010id_/http%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
 
 # RunningAHEAD
 
