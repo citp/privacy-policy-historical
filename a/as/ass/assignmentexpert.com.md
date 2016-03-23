@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assignmentexpert.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703233347id_/https%3A//www.assignmentexpert.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assignmentexpert.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323071900id_/https%3A//www.assignmentexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Assignment Expert | Privacy Policy
 
@@ -44,11 +44,11 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 TERMS AND CONDITIONS
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.assignmentexpert.com/terms-and-conditions.html>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.assignmentexpert.com/terms-and-conditions.html](https://web.archive.org/terms-and-conditions.html).
 
 YOUR CONSENT
 
-By using our site, you consent to our privacy policy and all terms and conditions as found at <http://assignmentexpert.com/terms-and-conditions.html>.
+By using our site, you consent to our privacy policy and all terms and conditions as found at [https://assignmentexpert.com/terms-and-conditions.html](https://web.archive.org/terms-and-conditions.html).
 
 CHANGES TO OUR PRIVACY POLICY
 
