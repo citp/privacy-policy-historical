@@ -1,19 +1,37 @@
-<!--The following is the downloaded HTML source of the firstdial.in privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317023436id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstdial.in privacy policy that was archived on 2016-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323054425id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Privacy Policy</title>
-<link rel="stylesheet" href="css/style.css" type="text/css">
-<link rel="shortcut icon" href="images/fevicon.png">
-<link href="css/white.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Terms and Condition</title>
+<link href="css/home.css" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PJR8NJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PJR8NJ"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJR8NJ');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
 <script type="text/javascript">
-$(function() {
+    $(function() {
+	$('#city_id').val(210);
+	$("#area").autocomplete({
+		source: "/suggest-page-area.php?cid="+$('#city_id').val(),
+		width: 300,
+		minLength: 1,
+		select: function(event, ui) {
+			$('#area_id').val(ui.item.id);
+		}
+	});
 	$("#city").autocomplete({
 		source: "/suggest-page-city.php",
 		width: 300,
@@ -27,105 +45,75 @@ $(function() {
 		$("#area").autocomplete({
 			source: "/suggest-page-area.php?cid="+$('#city_id').val(),
 			width: 300,
-			minLength: 1
+			minLength: 1,
+			select: function(event, ui) {
+				$('#area_id').val(ui.item.id);
+			}
 	    });
 	};
 	$("#keyword").autocomplete({
-		source: "/suggest-page-keyword.php",
+		source: "suggest-page-keyword.php",
+		width: 300,
+		minLength: 1,
+		select: function(event, ui) {
+		    if(ui.item.type==1){
+				window.location="/search-by-all.php?keyword="+ui.item.id+"&city="+$('#city').val()+"&area="+$('#area').val()+"&area_id="+$('#area_id').val()+"&type="+ui.item.type+"&keywords="+ui.item.value;
+			}
+			if(ui.item.type==2){
+				window.location="/search-by-all.php?keyword="+ui.item.id+"&city="+ui.item.city+"&area="+$('#area').val()+"&area_id="+$('#area_id').val()+"&type="+ui.item.type+"&keywords="+ui.item.value;
+			}
+		}
+	});
+	$("#citylist").autocomplete({
+		source: "/suggest-page-city.php",
 		width: 300,
 		minLength: 1
 	});
+	$("#city").blur(function (event){
+		$.post("/findfixedcity.php",{city:$('#city').val()},
+		function(data){
+			$('#city').val(data);
+		});
+	});
 });
-function on_mouseout(){
-	document.getElementById("lights_cor").style.display ="block";
-	document.getElementById("fades_cor").style.display ="block";
-}
-function on_mouseover(){
-	document.getElementById("lights_cor").style.display ="none";
-	document.getElementById("fades_cor").style.display ="none";
-}
-
 </script>
 <script type="text/javascript" src="/js/jquery.validate.js"></script>
-<div id="lights_cor" class="white_content_mouse"><img src="/images/page.gif" width="100%" height="auto"></div>
-<div id="fades_cor" class="black_overlay_mouse"></div>
-<div class="maindive">
-  <div class="header-fix">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td bgcolor="#005387" height="100"><table width="1024" align="center" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="200"><a href="http://www.firstdial.in/"><img src="/images/logo.jpg" height="90" border="0" title="firstdial.in" alt="firstdial.in"></a></td>
-              <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td height="50" valign="top"><table width="100%" height="40" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td width="58" height="50" align="right"><img src="/images/phonehome.png" width="48" height="48" border="0" title="phone" alt="phone"></td>
-                          <td height="50" align="left" style="color:#FFFFFF; font-size:20px;" valign="middle">(+91) 88829 88829</td>
-                          <td width="32" align="right"><img src="/images/listing.png" width="32" height="32" border="0" title="free listing" alt="free listing"></td>
-			  <td class="menu-top" width="75" style="line-height:21px;" valign="middle" align="left"><a href="/free-listing.php" title="Free Listing Your Company On Firstdial">Free Listing</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2" title="line1" alt="line1"></td>
-                          <td class="menu-top" width="100"><a href="/franchise-form.php" title="Franchise Application Form Of Firstdial">Apply Franchise</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2" title="line2" alt="line2"></td>
-                          <td class="menu-top" width="120"><a href="/member-form.php" title="Online Membership of Firstdial">Online Membership</a></td>
-                          <!--<td class="menu-top" width="90"><a href="/free-enquiry.php" title="Free Any Enquiry On Firstdial">Free Enquiry</a></td>-->
-                          <td width="2"><img src="/images/line.jpg" width="2" title="line3" alt="line3"></td>
-                          <td class="menu-top" width="80"><a href="/contact-us.php">Contact Us</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2" title="line4" alt="line4"></td>
-                          <td class="menu-top" width="60"><a href="/login.php">Login</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2" title="line5" alt="line5"></td>
-                          <td class="menu-top" width="60"><a href="/sign-up.php">Sign Up</a></td>
-                        </tr>
-                      </tbody></table>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-		      <form name="searchrec" method="post" action="/search-by-all.php">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td valign="bottom"><input class="input-select1" name="city" id="city" value="Delhi" onfocus="if(this.value=='Delhi'){this.value='';}" onblur="if(this.value==''){this.value='Delhi';}"></td>
-                          <td>&nbsp;<input type="hidden" id="city_id" name="city_id"></td>
-                          <td align="right" valign="bottom"><input class="input-enquery2" name="area" id="area" placeholder="Area" value=""></td>
-                          <td align="right" valign="bottom"><input class="input-enquery2" name="keyword" id="keyword" placeholder="Search for Company / Category" value=""></td>
-                          <td width="45" align="right" valign="bottom"><input type="image" name="searchrecord" src="/images/go.jpg" width="40" height="36" border="0" style="padding-bottom:7px;"></td>
-                        </tr>
-                      </tbody></table>
-		     </form>
-		     </td>
-                  </tr>
-                </tbody></table></td>
-            </tr>
-          </tbody></table></td>
-      </tr>
-      <tr>
-        <td bgcolor="#0A3151"><table width="1024" align="center" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td><div class="white">
-                  <ul id="mega-menu-9" class="mega-menu">
-                    <li><a href="http://www.fdlkart.com/" target="_blank">My Shopping Mall</a></li>
-                    <li><a href="http://www.prasharastrologer.com" target="_blank">My Astrologer</a></li>
-                    <li><a href="http://www.firstdial.in/fdljob/home.php" target="_blank">My Job</a></li>
-                    <!--<li><a href="/not-found.php">My Property</a></li>
-                    <li><a href="/not-found.php">My Studies</a></li>
-                    <li><a href="/not-found.php">My Life Partner</a></li>
-                    <li><a href="/not-found.php">My Trip</a></li>
-                    <li><a href="/not-found.php">My Insurance</a></li>
-                    <li><a href="/not-found.php">My Friends</a></li>
-                    <li><a href="/not-found.php">My Car</a></li>-->
-                  </ul>
-                </div></td>
-            </tr>
-          </tbody></table></td>
-      </tr>
-    </tbody></table>
-  </div>  <div style="height:140px;"></div>
-  <div class="main-bg">
-    <div class="center-box">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td valign="top">
-            <div class="main_div_pol">
+<div class="home_top_nav" style="border-bottom: 2px #84C441 solid;">
+  <div class="home_center">
+    <div class="logo"><a href="http://www.firstdial.in/"><img src="/images/logo.png" width="100%"></a></div>
+    <div class="top_t1">
+      <div class="top_t3" style="margin:0; float:left; line-height:25px;"><i class="fa fa-phone" style="margin:0 4px 0 0;"></i>88829 88829</div>
+      <div class="top_t2"><a href="/register.php"><i class="fa fa-diamond" style="margin:0 5px 0 0"></i>Sign Up</a></div>
+      <div class="top_t2"><a href="/login.php"><i class="fa fa-sign-in" style="margin:0 5px 0 0"></i>Login</a></div>
+      <div class="top_t2"><a href="/contact-us.php"><i class="fa fa-comment-o" style="margin:0 5px 0 0"></i>Contact Us</a></div>
+      <div class="top_t2"><a href="/franchise-form.php"><i class="fa fa-pencil-square-o" style="margin:0 5px 0 0"></i>Apply Franchise</a></div>
+      <div class="top_t2"><a href="/member-form.php"><i class="fa fa-server" style="margin:0 5px 0 0"></i>Online Membership</a></div>
+      <div class="top_t2"><a href="/free-listing.php"><i class="fa fa-list" style="margin:0 5px 0 0"></i>Free Listing</a></div>
+    </div>
+    <form name="searchrec" method="post" action="/search-by-all.php">
+    <div class="banner_search_y">
+      <div class="banner_search_0">
+        <input type="text" class="banner_search_1" name="city" id="city" value="Delhi" onfocus="if(this.value=='Delhi'){this.value='';}" onblur="if(this.value==''){this.value='Delhi';}" maxlength="50">
+      </div>
+      <input type="hidden" id="city_id" name="city_id">
+      <input type="hidden" id="area_id" name="area_id">
+      <div class="banner_search_0">
+        <input type="text" class="banner_search_2" name="area" id="area" placeholder="Area" value="" maxlength="100">
+      </div>
+      <div class="banner_search_0">
+        <input type="text" class="banner_search_3" name="keyword" id="keyword" placeholder="Search for Company / Category" value="" required="" maxlength="150">
+      </div>
+      <div class="banner_search_0" style="margin:0">
+        <input name="searchrecord" type="submit" class="btn1" value="SEARCH">
+      </div>
+      <div class="banner_search_0"></div>
+    </div>
+    </form>
+    <div class="spacer"></div>
+  </div>
+</div><div class="main_body_f">
+  <div class="main_body_c">
+  <div class="main_div_pol">
               <div class="pol_header">Privacy Policy</div>
               <div class="pol_cont">First dial Committed to protecting  the privacy of your (user) Personal   information. This Privacy Policy describes  how we maintain your data   provided to us by you. The information received by us  shall be   disclosed, collected, used by us.<br>
                 <br>
@@ -191,9 +179,8 @@ function on_mouseover(){
                 If you have any query or Concerns regarding your privacy policies or any sensitive information you may send us an email at <a href="mailto: info@firstdial.in">info@firstdial.in </a></div>
               <div class="spacer"></div>
             </div>
-            </td>
-        </tr>
-      </tbody></table>
+  
+    <div class="spacer"></div>
   </div>
 </div>
 <div class="foter_100">
@@ -221,14 +208,15 @@ function on_mouseover(){
           <li><a href="/pune">Pune</a></li>
           <li><a href="/surat">Surat</a></li>
           <li><a href="/vadodara">Vadodara</a></li>
+          <li><a href="/all-city.php" style="color:#FF860D;">More City...</a></li>
         </ul>
       </div>
     </div>
     <div class="f_m">
       <div class="f_rl_t">Download FirstDial App</div>
       <div class="f_mrow">
-        <div class="f_apple"><a href="http://www.firstdial.in/FirstDial.apk" download=""><img src="/images/apples_store.png" width="125" height="37"></a></div>
-        <div class="f_google"><a href="http://www.firstdial.in/FirstDial.apk" download=""><img src="/images/google_play.png" width="125" height="37"></a></div>
+        <div class="f_apple"><a download="" href="https://play.google.com/store/apps/details?id=com.wFirstDial3"><img width="125" height="37" src="/images/apples_store.png"></a></div>
+        <div class="f_google"><a download="" href="https://play.google.com/store/apps/details?id=com.wFirstDial3"><img width="125" height="37" src="/images/google_play.png"></a></div>
       </div>
     </div>
     <div class="f_rl">
@@ -246,20 +234,41 @@ function on_mouseover(){
       </div>
       <div class="f_rl_tb">Follow Us</div>
       <div class="follow_row">
-        <div class="follow_icon"><a href="https://www.facebook.com/firstdial.in" target="_blank"><img src="/images/fb.png" width="35" height="35"></a></div>
-        <div class="follow_icon"><a href="https://plus.google.com/u/1/112376135337123075235/posts" target="_blank"><img src="/images/gp.png" width="35" height="35"></a></div>
-        <div class="follow_icon"><a href="https://twitter.com/firstdialin" target="_blank"><img src="/images/tw.png" width="35" height="35"></a></div>
+        <div class="follow_icon"><a target="_blank" href="https://www.facebook.com/firstdial.in"><img width="35" height="35" src="/images/fb.png"></a></div>
+        <div class="follow_icon"><a target="_blank" href="https://plus.google.com/u/1/112376135337123075235/posts"><img width="35" height="35" src="/images/gp.png"></a></div>
+        <div class="follow_icon"><a target="_blank" href="https://twitter.com/firstdialin"><img width="35" height="35" src="/images/tw.png"></a></div>
       </div>
     </div>
-    <div class="footer_btm">
-      <div class="footer_btm_c">First Dial is a phone enquiry and search engine to provide the information across the country. We believe in best service offerings to satisfy our customers. If you have any enquiry or you any specific product or service then simply go through our website or call us at 08882988829.</div>
-      <div class="footer_menu">
+  </div>
+  <div class="spacer"></div>
+</div>
+<div class="sis_full">
+  <div class="sis_cent">
+    <div class="sis_menu">
+      <div class="sis_head">Partner Sites</div>
+      <div class="sis_head1">
         <ul>
-          <li>Copyrights 2013-14. All Rights Reserved.</li>
-          <li><a href="/privacy-policy.php" target="_blank">Privacy Policy</a></li>
-          <li><a href="/term-condition.php" target="_blank">Terms &amp; Condition</a></li>
+          <li><span class="sis_head"><a href="http://www.fdlkart.com" target="_blank"><img src="/images/sis2.jpg" width="100%"></a></span></li>
+          <li><a href="http://www.prasharastrologer.com" target="_blank"><img src="/images/sis6.jpg" width="100%"></a></li>
+          <li><a href="http://www.ibatrademart.com" target="_blank"><img src="/images/sis5.jpg" width="100%"></a></li>
+          <li><a href="http://www.fdlitsolution.com" target="_blank"><img src="/images/sis1.jpg" width="100%"></a></li>
+          <li><a href="http://www.fdljob.com" target="_blank"><img src="/images/sis3.jpg" width="100%"></a></li>
+          <li><a href="http://www.fdleducation.com" target="_blank"><img src="/images/sis4.jpg" width="100%"></a></li>
         </ul>
       </div>
+      <div class="spacer"></div>
+    </div>
+  </div>
+</div>
+<div class="foter_101">
+  <div class="center">
+    <div class="footer_menu">
+      <ul>
+        <li>Copyrights 2013-14. All Rights Reserved.</li>
+        <li><a target="_blank" href="/privacy-policy.php">Privacy Policy</a></li>
+        <li><a target="_blank" href="/term-condition.php">Terms &amp; Condition</a></li>
+      </ul>
+      <div class="spacer"></div>
     </div>
   </div>
 </div>
@@ -270,6 +279,6 @@ function on_mouseover(){
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-51957875-1', 'firstdial.in');
   ga('send', 'pageview');
-</script>   
+</script>
 
-</div></body></html>
+</body></html>
