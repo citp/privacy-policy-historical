@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008013617id_/http%3A//reedsrains.co.uk/legal-information/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323024853id_/https%3A//www.reedsrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Reeds Rains
+# Privacy Policy - Reeds Rains
 
-Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://web.archive.org/legal-information) and sets out how Reeds Rains handles data which identifies you.
+The cookie settings on this website are set to 'allow all cookies' to give you the very best experience. If you continue past this page without changing these settings, you consent to this. You can change your cookie settings at any time at the bottom of every page of this site. More information
+
+[](https://www.reedsrains.co.uk/ "Reeds Rains")
+
+Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://www.reedsrains.co.uk/legal-information) and sets out how Reeds Rains handles data which identifies you.
 
   1. ### About Us
 
     1. Reeds Rains is a trading name of: Reeds Rains Limited whose registered number is 02568254 and registered office is Ground Floor, Buildmark House, George Cayley Drive, Clifton Moor, York, YO30 4XE (We/Us/Our)
-    2. We are committed to protecting your privacy. This Privacy Policy forms part of our legal information and sets out how We handle data which identifies you. If you have any queries concerning your personal information, please contact us at [marketing@reedsrains.co.uk](mailto:marketing@reedsrains.co.uk).
-    3. Data Protection Information We are registered under the Data Protection Act 1998 and any information you supply will be treated in accordance with that Act. For more information about Us please [click here](http://www.reedsrains.co.uk/information/about-us.aspx). You can obtain further information about data protection laws by visiting the Information Commissioner’s website at [www.ico.gov.uk](http://www.ico.gov.uk/ "\(external link\)").
+    2. We are committed to protecting your privacy. This Privacy Policy forms part of our legal information and sets out how We handle data which identifies you. If you have any queries concerning your personal information, please contact us at [marketing@reedsrains.co.uk](mailto:marketing@reedsrains.co.uk).
+    3. Data Protection Information We are registered under the Data Protection Act 1998 and any information you supply will be treated in accordance with that Act. [For more information about Us please click here](https://web.archive.org/about). You can obtain further information about data protection laws by visiting the Information Commissioner’s website at [www.ico.gov.uk](http://www.ico.gov.uk/ "\(external link\)").
   2. ### Information Gathered and its Use
 
     1. We receive and store any information you enter on our website, or give us in any other way, for example through our branch network, or provided by you when giving us feedback. We use your contact details to communicate with you, we may also use your information to send you news about Our products and services or those of other carefully selected companies which we think may be of interest to you.
-    2. We may contact you by post, email, telephone or fax for these purposes. If you do not want to receive such communication you can opt-out during registration, by emailing us at [marketing@reedsrains.co.uk](mailto:marketing@reedsrains.co.uk), or by following the unsubscribe instructions on the email. Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
+    2. We may contact you by post, email, telephone or fax for these purposes. If you do not want to receive such communication you can opt-out during registration, by emailing us at [marketing@reedsrains.co.uk](mailto:marketing@reedsrains.co.uk), or by following the unsubscribe instructions on the email. Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
   3. ### On Registration
 
 Where you register with us you provide your name, address, email address and other contact details and they are available to you, most of which are capable of being amended by you through the website.
@@ -39,7 +43,7 @@ Our site contains links to other sites. We are not responsible for the privacy p
 
   9. ### Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For more detailed information on the cookies we use and the purposes for which we use them, please see our [Cookie Policy](https://web.archive.org/legal-information/cookie-policy.aspx).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For more detailed information on the cookies we use and the purposes for which we use them, please see our [Cookie Policy](https://web.archive.org/cookie-policy).
 
   10. ### Log Files and Statistics
 
@@ -66,7 +70,7 @@ There is no guarantee that any e-mail you send will be received by us or that th
 
   15. ### Regulatory
 
-**_Reeds Rains_** is a trading name of: Reeds Rains Limited whose registered number is 2568254 and registered office is Ground Floor, Buildmark House, George Cayley Drive, Clifton Moor, York, YO30 4XE. Reeds Rains Limited is an appointed representative of First Complete Limited, which is authorised and regulated by the Financial Services Authority (FRN:435779) for mortgage and non-investment insurance advice.
+Reeds Rains is a trading name of: Reeds Rains Limited whose registered number is 2568254 and registered office is Ground Floor, Buildmark House, George Cayley Drive, Clifton Moor, York, YO30 4XE. Reeds Rains Limited is an appointed representative of First Complete Limited, which is authorised and regulated by the Financial Services Authority (FRN:435779) for mortgage and non-investment insurance advice.
 
   16. ### Applicable Law
 
