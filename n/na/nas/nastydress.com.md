@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nastydress.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040728id_/http%3A//www.nastydress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nastydress.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323131523id_/http%3A//www.nastydress.com/privacy-policy) for the most accurate reproduction.*
 
 # NastyDress.com : Privacy Policy
 
