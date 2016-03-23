@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126124925id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323135824id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Long & Foster Companies
 
