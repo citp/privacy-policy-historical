@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the games2rule.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709145936id_/http%3A//www.games2rule.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2rule.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323174146id_/http%3A//www.games2rule.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games2Rule.com
 
 ##  Privacy Policy of games2rule.com 
 
-#### We recognize that protecting your privacy is very important to us. So, we have prepared this privacy policy so as to keep your personal information entirely confidential. Please read this privacy policy before using the site or submitting any personal information.
+We recognize that protecting your privacy is very important to us. So, we have prepared this privacy policy so as to keep your personal information entirely confidential. Please read this privacy policy before using the site or submitting any personal information.
 
 _Personal Information:_  
 The personal information, which we collect from you, is mainly put to use for business enhancement and to deliver the best of services. We do needful things to protect your personal information on the website controlled by us, but we are not responsible for any unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control. 
