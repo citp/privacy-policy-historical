@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyghar.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127185236id_/http%3A//www.findmyghar.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyghar.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323161657id_/http%3A//www.findmyghar.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Policy - Findmyghar.com
 
