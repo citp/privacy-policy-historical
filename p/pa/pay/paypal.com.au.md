@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal.com.au privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920055905id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323020538id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
