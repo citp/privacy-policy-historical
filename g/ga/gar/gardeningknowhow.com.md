@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207120416id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323202304id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gardening Know How Gardening Know How
 
@@ -76,14 +76,16 @@ By using our site, you consent to our web site and app privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on April 16, 2015.
+This policy was last modified on December 29, 2015.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.gardeningknowhow.com/contact-us/  
-57 Wandle Ave  
+> [Contact Us](http://www.gardeningknowhow.com/contact-us/)
+
+  
+241 Center Road  
 Bedford, Ohio 44146  
 USA  
 questions@gardeningknowhow.com
