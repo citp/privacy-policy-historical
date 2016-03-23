@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nonmem.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102072651id_/http%3A//nonmem.org/index.php/cognigen/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonmem.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323213841id_/http%3A//nonmem.org/index.php/privacy_statement) for the most accurate reproduction.*
 
-# Cognigen - Privacy Statement
+# Cognigen Corporation - Privacy Statement
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Cognigen Corporation's web site, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses: (1) what information we gather and (2) how we use it.
 
