@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evoleads.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812071031id_/http%3A//evoleads.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoleads.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323215550id_/http%3A//evoleads.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | EvoLeads CPA Network
+# Privacy Policy | EvoMarketplace CPA Network
 
-Last updated: March 30, 2013.
+Last updated: September 16, 2015.
 
 EvoLeads outlines important information in this Privacy Policy regarding the use and disclosure of information collected via [www.evoleads.com](http://www.evoleads.com/).  
 EvoLeads provides this Privacy Policy to help users make an informed decision as to whether to use or continue using this website. EvoLeads is not responsible for the information collection or privacy practices of third web sites or applications. 
@@ -75,4 +75,4 @@ Anyone using the Website outside of the United States acknowledges that personal
 
 **Contact.**  
 If you have any questions or comments on this privacy policy, please feel free to contact us at [info@evoleads.com](mailto:%20info@evoleads.com).   
-You may also write to us at: 3680 Du Musee, Montreal, QC H3G 2C9 Canada 
+You may also write to us at: EvoMarketplace, Inc, 3680 Du Musee, Montreal, QC H3G 2C9 Canada 
