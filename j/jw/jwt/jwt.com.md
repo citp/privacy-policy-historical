@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803034316id_/https%3A//www.jwt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323175006id_/https%3A//www.jwt.com/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - JWT.com
 
