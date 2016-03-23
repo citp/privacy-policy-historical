@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsshave.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211230958id_/http%3A//www.letsshave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsshave.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323084837id_/http%3A//www.letsshave.com/privacy-policy) for the most accurate reproduction.*
 
-# LetsShave Privacy Policy
+# Privacy Policy | High Quality Razors and Blades | LetsShave India
 
 This privacy policy sets out how LetsShave.com uses and protects any information that you give when you use this website. 
 
