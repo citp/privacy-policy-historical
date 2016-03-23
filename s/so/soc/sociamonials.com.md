@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419173414id_/http%3A//www.sociamonials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323014225id_/http%3A//www.sociamonials.com/privacy.php) for the most accurate reproduction.*
 
-# Sociamonials - Capture and syndicate your customer's passion
+# Privacy Policy
 
 Your privacy matters to us. We promise to respect your contact preferences and to guard your private information. This Privacy Policy is intended to describe the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
