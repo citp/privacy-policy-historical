@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstdial.in privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317023436id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdial.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323054425id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms and Condition
 
 First dial Committed to protecting the privacy of your (user) Personal information. This Privacy Policy describes how we maintain your data provided to us by you. The information received by us shall be disclosed, collected, used by us.
 
