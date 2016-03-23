@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdftoexcel.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907001119id_/http%3A//www.pdftoexcel.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftoexcel.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323075257id_/http%3A//www.pdftoexcel.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Convert PDF to Excel - Free Trial
 
