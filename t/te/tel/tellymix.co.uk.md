@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205035149id_/http%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323195141id_/http%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy | Telly Mix
+# Privacy and Cookies Policy | TellyMix
 
 **Last revised: 26th May 2012**
 
