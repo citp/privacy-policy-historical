@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085230id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323065004id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
 
-# I Heart Chaos — Privacy Policy
+# I HEART CHAOS — Privacy Policy
 
 I Heart Chaos takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from the Tumblr privacy policy) describes how we treat the information we collect when you visit and use the website available at iheartchaos.com (the “Website” or “IHC”) and is made available under the Creative Commons Sharealikelicense. Please read this notice very carefully.
 
@@ -32,7 +32,7 @@ Any external address book data (email contacts, etc.) that a user voluntarily gi
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&t=NjZkNmRkNTE2ZDg5YzQxNzkwMDIzYTdlZGRmODE1NTEzM2I0NDJjYixUbU4zdWpESg%3D%3D).
 
 **Privacy Policy Changes**
 
