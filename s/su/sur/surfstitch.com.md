@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204170819id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323140037id_/https%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
 # SurfStitch - Clothing | Footwear | Surf | Street - Shop Online!
 
-[](http://www.surfstitch.com/home)
+[](https://web.archive.org/)
 
   
 
@@ -69,7 +69,7 @@ SurfStitch has the following Google Analytics Advertiser Features enabled:
 
 This enables Google Analytics to collect data about SurfStitch Website traffic via Google advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.
 
-You can opt-out of the Google Analytics Advertiser Features you use, through your browser’s Ads Settings, Ad Settings for mobile apps, or by visiting the [_**Network Advertising Initiative**_](http://www.networkadvertising.org/choices/) website. To prevent your data being used by Google Analytics altogether, you can download and install the Google Analytics opt-out browser add-on available here: [_**tools.google.com/dlpage/gaoptout/**_](https://tools.google.com/dlpage/gaoptout/)
+You can opt-out of the Google Analytics Advertiser Features you use, through your browser’s Ads Settings, Ad Settings for mobile apps, or by visiting the [_**Network Advertising Initiative**_](https://www.networkadvertising.org/choices/) website. To prevent your data being used by Google Analytics altogether, you can download and install the Google Analytics opt-out browser add-on available here: [_**tools.google.com/dlpage/gaoptout/**_](https://tools.google.com/dlpage/gaoptout/)
 
 ### Competitions
 
@@ -107,7 +107,7 @@ Email: CustomerService@Surfstitch.com
 
 Phone: 1800 172 208 (Australia only) or +617 5507 0499
 
-For more information about the Privacy Act, or if your concern is not resolved to your satisfaction, you may contact the Privacy Commissioner on 1300 363 992 or [http://www.privacy.gov.au ](http://http//www.privacy.gov.au)
+For more information about the Privacy Act, or if your concern is not resolved to your satisfaction, you may contact the Privacy Commissioner on 1300 363 992 or [//www.privacy.gov.au ](https://www.privacy.gov.au/)
 
 Surfstitch Pty Limited
 
