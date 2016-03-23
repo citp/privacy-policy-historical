@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025105331id_/http%3A//www.peopleverified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323224948id_/http%3A//www.peopleverified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy PeopleVerified.com
 
 ## Effective Date: October 7, 2015
 
 This privacy policy applies to PeopleVerified.com, owned and operated by Segmentic Ltd. This privacy policy describes how Segmentic Ltd. collects and uses the personal information you provide on our website, www.peopleverified.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.   
-You can learn more about how we protect your privacy and how to manage your information in our databases through the [PeopleVerified Privacy Education Center.](https://web.archive.org/web/20151025105331id_/http%3A//www.peopleverified.com/privacy-center)
+You can learn more about how we protect your privacy and how to manage your information in our databases through the [PeopleVerified Privacy Education Center.](https://web.archive.org/web/20160323224948id_/http%3A//www.peopleverified.com/privacy-center)
 
 ## TRUSTe
 
@@ -66,7 +66,7 @@ Children’s Online Privacy Protection Act
 
 ## What does this privacy policy cover?
 
-This policy covers how PeopleVerified.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy.](https://web.archive.org/web/20151025105331id_/http%3A//www.peopleverified.com/opt-out-policy)   
+This policy covers how PeopleVerified.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy.](https://web.archive.org/web/20160323224948id_/http%3A//www.peopleverified.com/opt-out-policy)   
 Our website also includes links to other websites whose privacy practices may differ from those of Segmentic Ltd. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
 
 ## What information do we collect?
