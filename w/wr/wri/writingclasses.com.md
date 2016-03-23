@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writingclasses.com privacy policy that was archived on 2015-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150804204308id_/https%3A//www.writingclasses.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writingclasses.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323135506id_/https%3A//www.writingclasses.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gotham Writers Workshop
 
