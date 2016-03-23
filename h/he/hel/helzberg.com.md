@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029033606id_/http%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do%3FnType%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324005923id_/https%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy & Security - Customer Service - Helzberg Diamonds
+# Privacy and Security - Helzberg Diamonds
+
+﻿ 
 
 ### **
 
@@ -26,7 +28,7 @@ At Helzberg, we collect customer information to try and make your online shoppin
 
   1. ### Personal Information
 
-> Personal Information includes any individually identifiable information and any associated information (such as (1) a persistent identifier, customer number, MAC or IP address, or other identifier; (2) device information and operating system; and (3) demographics, preferences and interests information; when such information is associated with individually identifiable information).  Individually identifiable information that we may collect on a Site includes an individual’s first and last name; payment information including credit card numbers; a street, mailing or e-mail address; a personal identifier that reveals an individual’s e-mail address; precise location data; a telephone number; or other unique identifier which may identify you over time.  Personal Information includes any information defined as personally identifiable information under applicable law. 
+Personal Information includes any individually identifiable information and any associated information (such as (1) a persistent identifier, customer number, MAC or IP address, or other identifier; (2) device information and operating system; and (3) demographics, preferences and interests information; when such information is associated with individually identifiable information).  Individually identifiable information that we may collect on a Site includes an individual’s first and last name; payment information including credit card numbers; a street, mailing or e-mail address; a personal identifier that reveals an individual’s e-mail address; precise location data; a telephone number; or other unique identifier which may identify you over time.  Personal Information includes any information defined as personally identifiable information under applicable law. 
 
   2. ### Non-Personal Information 
 
@@ -72,15 +74,15 @@ How We Use Personal Information
 
 Helzberg uses the Personal Information that we collect about you:
 
-    * To provide you with information, products or services that you request from us.
-    * To present and personalize the Sites and notify you of changes to a Site.
-    * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-    * To, unless you opt-out, send you marketing and promotional messages for special offers involving our own or our partner’s goods and services that may be of interest to you.  To stop receiving these messages see “Opt-Out and Unsubscribe”.
-    * To allow you to participate in interactive features on the Sites.
-    * To improve our Sites, services, product offerings, marketing and promotional efforts, and overall customer experience.
-    * To fulfill any other purpose for which you provide it.
-    * For our general business administrative and oversight purposes.
-    * For any other purpose with your prior consent.
+  * To provide you with information, products or services that you request from us.
+  * To present and personalize the Sites and notify you of changes to a Site.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To, unless you opt-out, send you marketing and promotional messages for special offers involving our own or our partner’s goods and services that may be of interest to you.  To stop receiving these messages see “Opt-Out and Unsubscribe”.
+  * To allow you to participate in interactive features on the Sites.
+  * To improve our Sites, services, product offerings, marketing and promotional efforts, and overall customer experience.
+  * To fulfill any other purpose for which you provide it.
+  * For our general business administrative and oversight purposes.
+  * For any other purpose with your prior consent.
 
 
 
@@ -92,16 +94,16 @@ How We Disclose Personal Information
 
 We may disclose any Personal Information that we collect or you provide through a Site:
 
-    * To fulfill the purpose for which you provide it. 
-    * To our subsidiaries and affiliates, in order to process your data for the same purposes or within the same activity as permitted under this Privacy Policy.
-    * To our agents, contractors, service providers and other third parties we use to support our business (such as shipping orders, completing credit checks, maintaining a Site, etc.) for their use in completing services on our behalf.
-    * To enforce our Terms of Use and other agreements, including for billing and collection purposes.
-    * To a buyer or other successor in the event of a merger, reorganization, dissolution or other sale or transfer of some or all of Helzberg's assets in which personal information held by Helzberg is among the assets transferred.
-    * To display any User Generated Content in accordance with our Terms of Use.
-    * To comply with any court order, law or legal process, including responding to any government or regulatory request.
-    * To any other party if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Helzberg, our customers or others.  This includes sharing information with other entities for fraud protection and credit risk reduction.
-    * For any other purpose disclosed by us when you provide the information.
-    * For any other purpose with your prior consent.
+  * To fulfill the purpose for which you provide it. 
+  * To our subsidiaries and affiliates, in order to process your data for the same purposes or within the same activity as permitted under this Privacy Policy.
+  * To our agents, contractors, service providers and other third parties we use to support our business (such as shipping orders, completing credit checks, maintaining a Site, etc.) for their use in completing services on our behalf.
+  * To enforce our Terms of Use and other agreements, including for billing and collection purposes.
+  * To a buyer or other successor in the event of a merger, reorganization, dissolution or other sale or transfer of some or all of Helzberg's assets in which personal information held by Helzberg is among the assets transferred.
+  * To display any User Generated Content in accordance with our Terms of Use.
+  * To comply with any court order, law or legal process, including responding to any government or regulatory request.
+  * To any other party if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Helzberg, our customers or others.  This includes sharing information with other entities for fraud protection and credit risk reduction.
+  * For any other purpose disclosed by us when you provide the information.
+  * For any other purpose with your prior consent.
 
 
 
