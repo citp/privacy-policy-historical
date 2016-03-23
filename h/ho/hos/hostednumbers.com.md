@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostednumbers.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915141812id_/https%3A//www.hostednumbers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostednumbers.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323230323id_/https%3A//www.hostednumbers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for HostedNumbers.com
 
