@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207095058id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323132608id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,7 +118,7 @@ We may update this privacy policy to reflect changes to our information practice
 FreshMonk  
 91 Design Labs Pte Ltd.  
 Email: [hello@freshmonk.com](mailto:hello@freshmonk.com)  
-Telephone: 011 4132 2805br>
+Telephone: +91-8130937529br>
 
 _Corporate Address:_   
 10 Anson Road  
