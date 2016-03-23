@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getaccounts.org privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013051900id_/http%3A//getaccounts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaccounts.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323030941id_/http%3A//xlviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – XLviews
 
 **What information do we collect?**
 
@@ -71,20 +71,17 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://getaccounts.org/conditions-of-use>
-
-**Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://xlviews.com](http://xlviews.com/termsofuse)
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 22.10.2013
+This policy was last modified on 02.07.2014
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-support@getaccounts.org
+support@xlviews.com  
+ 
