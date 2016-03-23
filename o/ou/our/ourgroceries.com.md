@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the ourgroceries.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908174002id_/https%3A//www.ourgroceries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourgroceries.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323232926id_/https%3A//www.ourgroceries.com/privacy) for the most accurate reproduction.*
 
 # OurGroceries - Privacy Policy
 
-|  |  | [](https://web.archive.org/overview) | [](https://web.archive.org/features) | [](https://web.archive.org/faq) | [](https://web.archive.org/your-lists) | [](https://web.archive.org/download) |   
----|---|---|---|---|---|---  
-|  |  |  |   
-  
 ## Privacy Policy
 
 This privacy policy explains how HeadCode (“we”, “us”, “our”, or “HeadCode”) collects, uses, and shares information related to your use of the OurGroceries website, mobile applications, and related software and services (collectively, our “Services”).
