@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320220919id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323080053id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Crazy Factory online piercing jewellery shop
+# Privacy Policy | Crazy Factory online piercing shop
 
 To honour your confidence in us, we are committed to protecting your privacy. When shopping at Crazy Factory, rest assured that all your data is protected from access by third parties. Any data transferred to us is stored solely for the purpose of processing your orders.
 
