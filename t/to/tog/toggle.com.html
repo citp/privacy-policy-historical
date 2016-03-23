@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the toggle.com privacy policy that was archived on 2015-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324062103id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toggle.com privacy policy that was archived on 2016-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323121943id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" itemscope="" itemtype="https://schema.org/WebPage"><!-- tc 1427153772 --><head>
+<!DOCTYPE html><html lang="en" itemscope="" itemtype="https://schema.org/WebPage"><!-- tc 1458735584 --><head>
     <meta charset="utf-8">
             <title>Toggle - privacy policy</title>
         
@@ -24,7 +24,8 @@
    
 
     <meta name="google-site-verification" content="Tc9Yk__mLS6zUvYIT7I5NinliQpx1KFZ3FVYk2HsIgY">
-                    <link rel="stylesheet" href="/css/toggle/stylesheets/assets/bs.min.css"><link rel="stylesheet" href="/css/toggle/stylesheets/main.css"><link rel="stylesheet" href="/css/toggle/stylesheets/assets/font-awesome.min.css"></head>
+                    
+<link rel="stylesheet" href="/css/toggle/stylesheets/assets/bs.min.css"><link rel="stylesheet" href="/css/toggle/stylesheets/main.css"><link rel="stylesheet" href="/css/toggle/stylesheets/assets/font-awesome.min.css"></head>
 
     <body style=""><div id="cookie-bar"><p>We use cookies to give you the best experience. If you continue, we'll assume you accept to receive all cookies from our website.<a href="https://www.toggle.com/lv/privacy_policy/view.htm?lang=en" target="_blank">privacy policy</a> <a href="#" class="cb-enable"><i class="icon-remove-circle fa fa-times-circle-o"></i></a></p></div>
         <header>
@@ -208,7 +209,7 @@ We welcome questions and comments regarding this policy, so feel free to contact
         <div class="container">
             <div class="row">
                 <div class="span5">
-                    <p class="copy">Copyright © 2000-2015 by Toggle, Inc. All Rights Reserved.</p>
+                    <p class="copy">Copyright © 2000-2016 by Toggle, Inc. All Rights Reserved.</p>
                 </div>
                 <div class="span7">
                     <ul class="inlineList pull-right terms">
@@ -222,10 +223,10 @@ We welcome questions and comments regarding this policy, so feel free to contact
         </div>
     </div>
 </footer>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/toggle/assets/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" async="" src="https://web.archive.org/js/ga.js"></script><script src="/js/toggle/assets/jquery-1.10.1.min.js"></script>
 
-    <script type="text/javascript">    
-        $(document).ready(function() {
+    <script type="text/javascript">
+        $(document).ready(function () {
             $("head").append("<link rel='stylesheet' href='/css/toggle/stylesheets/assets/bs.min.css' /><link rel='stylesheet' href='/css/toggle/stylesheets/main.css' /><link rel='stylesheet' href='/css/toggle/stylesheets/assets/font-awesome.min.css' />");
         });
     </script>
@@ -242,20 +243,20 @@ We welcome questions and comments regarding this policy, so feel free to contact
     }
     _gaq.push(['_trackPageview']);
 
-    (function() {
+    (function () {
         var ga = document.createElement('script');
         ga.type = 'text/javascript';
         ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = document.location.origin + '/js/ga.js';
+        //ga.src = ('https:' == document.location.origin ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(ga, s);
     })();</script>    
-    <script type="text/javascript" src="/js/toggle/../eventPush.js"></script>
+        <script type="text/javascript" src="/js/toggle/../eventPush.js"></script>
     <script type="text/javascript" src="/js/toggle/../common/jquery.cookiebar.js"></script>
 
 <script async="" src="/js/toggle/assets/bootstrap.min.js"></script>
 
-    <script async="" src="/js/toggle/assets/jquery.raty.min.js"></script>
 <script src="/js/toggle/scripts.js"></script>
 
 <script type="application/ld+json">
@@ -270,7 +271,23 @@ We welcome questions and comments regarding this policy, so feel free to contact
    		    }
 		}
 		</script>
-    
+
+    <script defer="" src="/js/toggle/assets/jquery.raty.min.js"></script>
+    <script defer="" type="text/javascript">
+$(document).ready(function () {
+$('.raty').raty({
+    path: '/img/toggle/assets/raty',
+    space: false,
+    width: false,
+    readOnly: true,
+    score: function () {
+        return $(this).attr('data-score');
+    }
+});
+});
+    </script>
+
+
 
 
 
