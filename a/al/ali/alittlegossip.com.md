@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alittlegossip.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122030008id_/http%3A//alittlegossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alittlegossip.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324002433id_/http%3A//alittlegossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – A Little Gossip
 
