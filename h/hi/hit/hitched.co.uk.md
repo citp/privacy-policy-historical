@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206183031id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323132113id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
 
 # hitched.co.uk - privacy policy
 
