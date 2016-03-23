@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyliteshop.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407005632id_/http%3A//skyliteshop.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyliteshop.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323145128id_/http%3A//skyliteshop.com/skyliteshop-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
