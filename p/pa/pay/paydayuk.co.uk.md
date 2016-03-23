@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909204059id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323093253id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaydayUK
 
@@ -16,7 +16,7 @@ OBTAINING INFORMATION
 
 | 
 
-You are free to browse the website [www.paydayuk.co.uk](https://web.archive.org/ "Home") (the “Website”) without providing any personal information (although, please see the “Cookies” section below).  
+You are free to browse the website [www.paydayuk.co.uk](https://www.paydayuk.co.uk/ "Home") (the “Website”) without providing any personal information (although, please see the “Cookies” section below).  
   
 1.2
 
