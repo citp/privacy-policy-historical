@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmayor.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701005049id_/http%3A//www.wpmayor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmayor.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323160320id_/http%3A//www.wpmayor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : WP Mayor
+# Privacy Policy - WP Mayor
 
 Your privacy is very important to us. At WP Mayor we have a few fundamental principles that we follow:
 
