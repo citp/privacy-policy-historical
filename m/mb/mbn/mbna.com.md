@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920002105id_/https%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323210221id_/https%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | MBNA
 
@@ -33,7 +33,7 @@ Omniture
 
 MBNA's banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
-Read our [cookie policy](http://www.mbna.co.uk/cookies) for details about cookies and how they’re used.
+Read our [cookie policy](https://www.mbna.co.uk/cookies/) for details about cookies and how they’re used.
 
 ### Information we collect
 
@@ -49,7 +49,7 @@ MBNA uses files called Flash Objects in connection with Online Card Services, wh
 
 Using other technologies, MBNA may capture customer specific data so we can track and evaluate how customers use our websites to help us to identify service improvements.
 
-Read our [cookie policy](http://www.mbna.co.uk/cookies) for details about cookies and how they’re used.
+Read our [cookie policy](https://www.mbna.co.uk/cookies/) for details about cookies and how they’re used.
 
 ### Privacy policy statement changes
 
@@ -57,4 +57,4 @@ MBNA may change this privacy policy from time to time. When such a change is mad
 
 This privacy policy was last reviewed in January 2013.
 
-This privacy policy is published by MBNA Limited. Registered Office: Stansfield House, Chester Business Park, Chester CH4 9QQ. Registered in England and Wales under company number 02783251. If you need assistance, please [contact us](http://www.mbna.co.uk/contact-us).
+This privacy policy is published by MBNA Limited. Registered Office: Stansfield House, Chester Business Park, Chester CH4 9QQ. Registered in England and Wales under company number 02783251. If you need assistance, please [contact us](https://www.mbna.co.uk/support/contact-us/).
