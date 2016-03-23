@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214204142id_/http%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323174009id_/https%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wetsuit Outlet - Privacy
 
@@ -55,10 +55,10 @@ We collect information about you for 2 reasons:
 
 * * *
 
-If you have any questions or comments regarding your privacy, please [check our FAQ](http://www.wetsuitoutlet.co.uk/faq.php). 
+If you have any questions or comments regarding your privacy, please [check our FAQ](https://www.wetsuitoutlet.co.uk/faq.php). 
 
 If you're still not sure, email us at [info@wetsuitoutlet.co.uk](mailto:info@wetsuitoutlet.co.uk). We are just as committed to answering new customer queries concerning privacy as we are about general customer queries. 
 
 * * *
 
-[Continue](http://www.wetsuitoutlet.co.uk/index.php)
+[Continue](https://www.wetsuitoutlet.co.uk/index.php)
