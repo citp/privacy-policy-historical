@@ -1,61 +1,28 @@
-> *The following text is extracted and transformed from the smartwebsearch.info privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407095637id_/http%3A//smartwebsearch.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebsearch.info privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323225412id_/http%3A//www.smartwebsearch.info/privacy-policy) for the most accurate reproduction.*
 
-# Smart Web Search - Your Own Search Engine
+# Privacy Policy | Smart Web Search
 
-## Privacy & Policy
+Welcome http://www.smartwebsearch.info/ operated by or for the SMART-WEB-SEARCH society. SMART-WEB-SEARCH takes respect your privacy seriously. Please please read the following to learn more about our site’s privacy policy and the ways in which we use your information before you place the use of the website.  
+Purpose of this Website Privacy Policy
 
-### Disclaimer/Reliance
+This privacy policy of the site covers the treatment of personally identifiable information that is collected when you are on the website and when you use the services of the website, as described in the Site Privacy Policy.  
+This policy does not apply to the practices of companies that SMART-WEB-SEARCH owns or does not control, or to people that SMART-WEB-SEARCH employs or does not manage, including, without limitation, third party advertisers or sponsors to whom you provide information. SMART-WEB-SEARCH is not responsible for the policies or practices of respect for the privacy of other web sites you choose to link to from the website and encourages you to review the policies of respect for privacy these other websites so that you can understand how they collect, use and share information.
 
-This privacy policy sets out how SmartWebSearch Teacher Resources Limited (SmartWebSearch) uses and protects any information that you give SmartWebSearch when you use this website (www.smartwebsearch.info). 
+Collection and Use of Information  
+SMART-WEB-SEARCH does not collect identifying personal information when you access the home page of the website and browsing the website.
 
-SmartWebSearch is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+Exchange and Information Sharing  
+SMART-WEB-SEARCH may send personal identifying information about you to other companies or people when:  
+we respond to subpoenas from, court orders or legal process;  
+we believe it is necessary, as we have established freely, to investigate, prevent or take action regarding illegal activities, suspected fraud, emergency situations involving potential threats to security Physics of any person, violations of Terms of Use http://www.smartwebsearch.info/, or as the law requires otherwise.
 
-SmartWebSearch may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 08/11/2013. 
+Third party advertising  
+Other companies that are presenting advertisements on some pages may set their cookies on your computer and access it. The use of their cookies by other companies is subject to their own site’s privacy policies, not this one.  
+Security
 
-### What we may collect
+We have implemented technical and organizational measures to protect your personal information against accidental loss, unauthorized access and use, alteration or disclosure. However, the Internet is an open system and we can not guarantee that unauthorized third parties will never be able to neutralize these measures or use your personal information for illicit purposes.
 
-We may collect the following information: 
+If you contact SMART-WEB-SEARCH email, you should note that the secrecy of Internet email is uncertain. By sending e-mail messages or sensitive or confidential information which are not encrypted you accept the risk of such uncertainty and possible lack of confidentiality over the Internet.
 
-name and job title
-contact information including email address
-demographic information such as postcode, preferences and interests
-other information relevant to customer surveys and/or offers
-
-### What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-Internal record keeping
-We may use the information to improve our products and services.
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-### Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-### How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website. 
-
-### Advertising and use of cookies
-
-Third party vendors, including Google, also use cookies to serve ads based on your prior visits to our websites.
-Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to this site and/or other sites on the Internet.
-You may opt out of the use of the DART cookie by visiting the Google�s advertising opt-out page or the Network Advertising Initiative opt-out website at www.networkadvertising.org/managing/opt_out.asp.
-
-### Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-### Your personal information
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at smartwebsearchinfo@gmail.com.  
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at the above address. We will promptly correct any information found to be incorrect. 
+Changes in that site’s privacy policy.  
+This policy may be changed if necessary. If we change the privacy policy of the site in any way, we will put an updated version on this page of the website. The fact of regularly reviewing this page ensures that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we will share them with others. If we make any substantial changes in the way we use your personal information we will notify you by broadcasting an ad well development on the site.
