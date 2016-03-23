@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930081914id_/https%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323192716id_/https%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Commitment - BankBazaar.com
 
