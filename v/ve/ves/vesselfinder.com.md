@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914064334id_/https%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323142007id_/https%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VesselFinder
 
