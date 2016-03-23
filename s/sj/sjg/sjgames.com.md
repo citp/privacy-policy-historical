@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjgames.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111832id_/http%3A//www.sjgames.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjgames.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323051647id_/http%3A//www.sjgames.com/general/privacy.html) for the most accurate reproduction.*
 
 # Steve Jackson Games: Privacy Policy
 
