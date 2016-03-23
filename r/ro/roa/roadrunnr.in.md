@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roadrunnr.in privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227114103id_/http%3A//www.roadrunnr.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnr.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190611id_/http%3A//roadrunnr.in/privacypolicy.php) for the most accurate reproduction.*
 
-# Road Runnr Delivery | Bangalore
+# Runnr Delivery | Bangalore
 
 **WHAT DO WE DO WITH YOUR INFORMATION?**
 
