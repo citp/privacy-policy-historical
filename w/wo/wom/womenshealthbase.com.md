@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealthbase.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822182314id_/http%3A//www.womenshealthbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthbase.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323194251id_/http%3A//www.womenshealthbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Womens Health Base
 
