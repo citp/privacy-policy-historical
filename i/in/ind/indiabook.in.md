@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabook.in privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606070352id_/http%3A//indiabook.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabook.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323054818id_/http%3A//indiabook.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IndiaBook Blog
 
