@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkstate.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810072710id_/http%3A//www.backlinkstate.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkstate.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323193553id_/http%3A//www.backlinkstate.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Backlinkstate
 
