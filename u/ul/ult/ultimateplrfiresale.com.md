@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateplrfiresale.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702113735id_/http%3A//www.ultimateplrfiresale.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateplrfiresale.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323201531id_/http%3A//www.ultimateplrfiresale.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
