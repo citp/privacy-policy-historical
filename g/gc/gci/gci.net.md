@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gci.net privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015050258id_/http%3A//www.gci.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gci.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190342id_/https%3A//www.gci.com/privacy-policy) for the most accurate reproduction.*
 
 # GCI Privacy Policy | GCI
 
@@ -92,7 +92,7 @@ For wireless subscribers, GCI and GCI mobile applications primarily use location
 
 Information about browser activity may be used in order to maintain and improve GCI’s network, website, and content performance. In particular, when you browse a GCI website, we may collect information about your device and your visit (such as your IP address, browser type, device settings, and other statistical information). We use such information for operational purposes, as well as to help tailor advertisements to better match your interests and to deliver more relevant marketing messages on our websites, via email, or via other GCI services and devices.
 
-We may also use third parties to implement services to deliver advertisements about GCI products and services on other websites, mobile websites, applications, and widgets. The use of cookies, web beacons, or similar technologies by such third parties on non-GCI websites, however, is subject to their respective privacy policies. We or our third-party vendors may use cookies to deliver these ads based on your previous visits to GCI’s websites. (You may opt out of use of cookies by third-party vendors [here](http://www.networkadvertising.org/choices/ "Network Advertising Organization").)
+We may also use third parties to implement services to deliver advertisements about GCI products and services on other websites, mobile websites, applications, and widgets. The use of cookies, web beacons, or similar technologies by such third parties on non-GCI websites, however, is subject to their respective privacy policies. We or our third-party vendors may use cookies to deliver these ads based on your previous visits to GCI’s websites. (You may opt out of use of cookies by third-party vendors [here](https://www.networkadvertising.org/choices/ "Network Advertising Organization").)
 
 ### Children Under the Age of 13
 
