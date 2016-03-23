@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909215436id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323173945id_/https%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
 
 # Plan to Eat - Web Site Terms and Conditions of Use
 
-**Last updated:** 4/25/2013
+**Last updated:** 12/18/2015
 
 ## About the Plan to Eat Privacy Policy
 
@@ -90,13 +90,9 @@ Plan to Eat will not sell, rent, or share personal information with third partie
 
 We do not intend, and the Website is not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not register for our services or otherwise provide information on our Website and should ask your parent to do so for you.
 
-### Third Party Web site Advertising - General
+### Third Party Search Engines
 
-We use one or more third-party advertising companies to serve ads when you visit our Web site. We do not share personal information about you with any third party advertiser unless you give us permission to do so, separate from any permission you provide during the registration process. These advertisers might seek to use cookies and Web beacons to track session data about the ads you have seen and types of things in which you appear interested. These advertisers might also use combined information about your visits to our Web site and other Web sites in order to provide advertisements about related goods and services of interest to you. 3rd party advertising networks may place a cookie on your computer to tailor ad content both on Plan to Eat and on sites within the third party network that you visit in the future. If you would like more information about this practice and how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please click here.
-
-  * Third Party Search Engines - Plan to Eat provides access to publicly viewed site information by third-party search engine “crawlers” (such as Google). Plan to Eat blocks access by these engines to personal information beyond the publicly viewed information you agreed to upon registering for the site, and as indicated in this privacy policy and terms and conditions.
-
-
+Plan to Eat provides access to publicly viewed site information by third-party search engine “crawlers” (such as Google). Plan to Eat blocks access by these engines to personal information beyond the publicly viewed information you agreed to upon registering for the site, and as indicated in this privacy policy and terms and conditions.
 
 ### Third Party Links
 
