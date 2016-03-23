@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onepagecrm.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119231136id_/http%3A//www.onepagecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepagecrm.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323044502id_/https%3A//www.onepagecrm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OnePageCRM
+# Privacy Policy - OnePageCRMOnePageCRM
 
 This Privacy Policy relates to our privacy practices in connection with **onepagecrm.com** (the “Site”).
 
