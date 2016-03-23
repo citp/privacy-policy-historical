@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visitsealife.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132526id_/https%3A//www2.visitsealife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitsealife.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323051115id_/https%3A//www2.visitsealife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Official SEA LIFE Website
 
 ## Privacy Policy
 
-This web site is owned and run by Merlin Entertainments (SEA LIFE) Ltd as agent for and on behalf of Merlin Attractions Operations Limited. SEA LIFE recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website.
+This web site is owned and run by Merlin Entertainments (SEA LIFE) Ltd as agent for and on behalf of Merlin Attractions Operations Limited. SEA LIFE recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website...
 
 Booking your SEA LIFE tickets online is quick, easy, convenient and safe.
 
