@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the detonate.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813205212id_/http%3A//detonate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detonate.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323235051id_/http%3A//detonate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Detonate
+# Privacy Policy - Detonate
 
 Last updated: June 17, 2014
 
