@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504034746id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323141652id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
 
-# RelationshipSolver Privacy Policy
+# Privacy Policy - Relationshipsolver
 
 Welcome to Your relationshipsolver.com (the “Site”).
 
@@ -65,18 +65,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-**Signup To Receive the FREE Relationship Help Newsletter Series**
-
- **
-
- **Want to Get Your Ex Back?**  
-Want The Secrets to A Lasting Relationship?  
- **What Does Your Man Really Want?**  
-What Does Your Woman Really Want?
-
-**Just Enter Your Name and Email Below To Find Out...**
-
-**
-
-We hate spam! We won't sell, rent, or share your information with anyone!
