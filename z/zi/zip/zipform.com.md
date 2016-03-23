@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipform.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927012824id_/http%3A//www.zipform.com/eula/ziplogixprivacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipform.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323221108id_/http%3A//www.zipform.com/eula/ziplogixprivacy.pdf) for the most accurate reproduction.*
 
 # ZIPLOGIX PRIVACY AND SECURITY STATEMENT
 
