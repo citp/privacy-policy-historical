@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kiitosmarimekko.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914072032id_/http%3A//kiitosmarimekko.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiitosmarimekko.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324005030id_/http%3A//kiitosmarimekko.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kiitos Marimekko
-
-## Privacy Policy
+# Privacy Policy | KIITOSlife
 
 Kiitos, Inc./Marimekko respects your personal information and manages it according to the procedures outlined in this Privay Policy. This policy applies solely to information collected by Kiitos, Inc./Marimekko.
 
