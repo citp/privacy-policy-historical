@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105052410id_/http%3A//www.lazydays.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323150520id_/http%3A//www.lazydays.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Information Security & Privacy Policy | Lazydays
 
 Lazydays is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Website. We hope that this disclosure will help increase your confidence in our site and enhance your experience on the Internet.
 
