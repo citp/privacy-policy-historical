@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitbook.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925050108id_/https%3A//www.gitbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitbook.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323123714id_/https%3A//www.gitbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GitBook
 
