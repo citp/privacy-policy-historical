@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921035256id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323092642id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
 
 # Cody | Privacy
 
