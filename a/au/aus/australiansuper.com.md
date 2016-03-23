@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808011432id_/http%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323015710id_/https%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AustralianSuper - Privacy Policy
 
@@ -96,7 +96,7 @@ For employment candidates, AustralianSuper may disclose your personal informatio
 
 ## 7\. Is AustralianSuper likely to disclose personal information to overseas recipients?
 
-Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in Superpartners’ privacy policy at [www.superpartners.com.au/privacy](http://www.superpartners.com.au/privacy "Opens in new window")). Your personal information may be accessed by those service providers.
+Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in Superpartners’ privacy policy at [](http://www.linkgroup.com/privacy.html "Opens in new window")[www.superpartners.com.au/privacy](http://www.superpartners.com.au/privacy)). Your personal information may be accessed by those service providers.
 
 Other instances where your personal information may be accessed by an Australian service provider that sub-contracts certain services overseas, or by an overseas service provider include:
 
