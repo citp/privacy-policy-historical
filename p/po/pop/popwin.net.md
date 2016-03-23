@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the popwin.net privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507143420id_/http%3A//popwin.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popwin.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323180743id_/https%3A//popwin.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - PopWin Popunder Ad Network
+# Privacy Policy - PopWin The Pop under Ad Network
+
+## Services Privacy
 
 This privacy policy covers all of Popwin website and services. It does not, however, apply to other entities that PopWin does not own or control. By using or accessing PopWin.net, you agree to our privacy policy as provided herein. 
 
-PopWin is committed to protect your privacy. Due to this, any information collected, including your registration are submitted voluntarily at the visitorâ€™s will. PopWin will not share these information to a third party without your accord, or unless required by an governmental entity, or law. 
+PopWin is committed to protect your privacy. Due to this, any information collected, including your registration are submitted voluntarily at the visitor's will. PopWin will not share these information to a third party without your accord, or unless required by an governmental entity, or law. 
 
 ## Cookies
 
