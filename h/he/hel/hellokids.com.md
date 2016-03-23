@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923143638id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323084224id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
 
 # Footer - Privacy Policy
 
@@ -76,6 +76,6 @@ When your child joins us, he/she provides us with personal information, includin
 
 COBALINK will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on COBALINK or the site; (b) protect and defend the rights or property of COBALINK and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of COBALINK, its Web sites, or the public.
 
-Website WWW.HELLOKIDS.COM is published by the company COBALINK, 227 rue Jean Jaurès, 83000 Toulon. This last one is declared with the CNIL under N 697375.
+Website WWW.HELLOKIDS.COM is property of the company COBALINK S.A.S., 227 rue Jean Jaurès, 83000 Toulon. This last one is declared with the CNIL under N 697375.
 
-The US website is published by **COBALINK US  Incorporation -**  **Court House Tower - 44 West FlaglerStreet -Suite 2300 , Miami, FL 33130**
+The US website is published by  **COBALINK US  Incorporation -**  **Court House Tower - 44 West Flagler Street - Suite 2300, Miami, FL 33130**
