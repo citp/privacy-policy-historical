@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the mtn.co.za privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233734id_/https%3A//www.mtn.co.za/pages/website_legal.aspx%3FtermsID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtn.co.za privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324005028id_/https%3A//www.mtn.co.za/pages/website_legal.aspx%3FtermsID%3D26) for the most accurate reproduction.*
 
 # Website legal
 
-You are here :  [Home](https://web.archive.org/Pages/Home.aspx "Home") | Legal
-
 |    
----|---  
   
 | 
 
+|  Showing  | 
+
+55
+
+|    results per page  |   
+---|---|---|---  
+  
 ####  Glossary
 
 ####  PAIA ACT 
@@ -183,9 +187,14 @@ Last updated 6th January 2014
 
 ####  MTN E rate application form
 
-####  Content  
-  
----  
+####  Content
+
+Showing  | 
+
+55
+
+|   results per page  |   
+---|---|---|---  
   
 | 
 
