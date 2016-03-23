@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thompsoncigar.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423233737id_/http%3A//www.thompsoncigar.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26cm_sp%3DFooter-_-Global-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompsoncigar.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323221040id_/http%3A//www.thompsoncigar.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26cm_sp%3DFooter-_-Global-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy and Security
 
   
-Effective April 13, 2004
+Effective November 17, 2015
 
 ## Privacy Policy Contents:
 
@@ -39,7 +39,11 @@ For each visitor to our web site, our web server automatically recognizes only t
 
 ## 3\. "Does Thompson Cigar use cookies?"
 
-Like any business, we need to know the effectiveness of various marketing efforts. We use cookies to identify how a person came to and engaged with our site. This cookie contains absolutely no personal information about you. Cookies can be set with an expiration period. At Thompson Cigar, our cookies are set to expire after 90 days. Thompson Cigar permits sharing this anonymous visitor information with select marketing partners who may serve relevant advertising to you. You may opt out from this type of advertising by clicking here: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) Opting out of a network does not mean you will no longer receive online advertising from our about Thompson Cigar. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. 
+Like any business, we need to know the effectiveness of various marketing efforts. We use cookies to identify how a person came to and engaged with our site. This cookie contains absolutely no personal information about you. Cookies can be set with an expiration period. At Thompson Cigar, our cookies are set to expire after 90 days.
+
+Accepting cookies through your web browser is your personal choice. You can set your browser to disable cookies. However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie.
+
+Thompson Cigar permits sharing this anonymous visitor information with select marketing partners who may serve relevant advertising to you. You may opt out from this type of advertising by clicking here: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) Opting out of a network does not mean you will no longer receive online advertising from our about Thompson Cigar. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [Click Here](http://dtmc.thompsoncigar.com/adinfo/choice/prod/?type=fpc&cid=3135&cname=ThompsonCigar&cmagic=8b8388&clogo=3135.png&loc=us&lang=en-us)
 
 ## 4\. Communicating with Thompson Cigar via e-mail.
 
