@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattooforaweek.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216212234id_/http%3A//www.tattooforaweek.com/en/info/Privacy%2B%25252526%2BCookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattooforaweek.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323160710id_/http%3A//www.tattooforaweek.com/en/info/Privacy%2B%25252526%2BCookies.html) for the most accurate reproduction.*
 
 # Privacy & Cookies Fake Tattoos and Temporary Tattoos (Temporary tattoo) - TattooForAWeek, The Largest Online Temporary Tattoo Shop
 
