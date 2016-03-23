@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weylandindustries.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003257id_/https%3A//www.foxprivacy.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weylandindustries.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323042303id_/https%3A//www.foxprivacy.com/us/privacy.html) for the most accurate reproduction.*
 
 # FoxPrivacy.com
 
