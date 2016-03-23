@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wink.ws privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406111356id_/http%3A//wink.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wink.ws privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323033035id_/http%3A//wink.ws/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Web Hosting Help Desk
 
