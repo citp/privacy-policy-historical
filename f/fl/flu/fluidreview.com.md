@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the fluidreview.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226152907id_/http%3A//fluidreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidreview.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323192455id_/http%3A//fluidreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - FluidReview
+
+  *  1-888-438-3749
+  * Free Trial
+
+
 
 ## **FluidReview Privacy Statement**
 
@@ -35,3 +40,9 @@ Personal information and data collected, used and disclosed in the course of usi
 [View privacy policy applicable to the FluidReview service through September 5, 2014.](http://fluidreview.com/privacy-sept5)
 
 #### Explore our Site
+
+## Take a Guided Tour
+
+### Please fill out the form below.
+
+×
