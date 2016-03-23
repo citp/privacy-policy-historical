@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britanniasearch.co.uk privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715021424id_/http%3A//britanniasearch.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britanniasearch.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324004803id_/http%3A//britanniasearch.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # BritanniaSearch
 
