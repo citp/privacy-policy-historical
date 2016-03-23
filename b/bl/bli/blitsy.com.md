@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitsy.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011012119id_/http%3A//blitsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitsy.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323164304id_/http%3A//blitsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://blitsy.com/tos](https://web.archive.org/tos)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at: [Terms of Service](https://web.archive.org/tos)
 
 ### Your Consent
 
@@ -45,6 +45,10 @@ By using our site, you consent to our website]s privacy policy.
 ### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page. 
+
+### Email Subscription and Opt-Out
+
+By registering as a Blitsy member, you agree to receive special promotions and updates via email from Blitsy. Should you choose to unsubscribe from these emails, simply visit the following link: [Subscription Preferences](https://web.archive.org/subscription)
 
 ### Contacting Us
 
