@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuelicensing.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218175759id_/http%3A//www.valuelicensing.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuelicensing.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323145119id_/https%3A//www.valuelicensing.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - Value Licensing
 
