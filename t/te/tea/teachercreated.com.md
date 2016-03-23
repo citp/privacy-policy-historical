@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004114330id_/https%3A//www.teachercreated.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323105408id_/https%3A//www.teachercreated.com/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security | Teacher Created Resources
 
@@ -31,9 +31,9 @@ When on a secure Web page, you should see the security icon on your browser's st
 If you have any questions about the Teacher Created Resources or require further information, please contact us:
 
 Teacher Created Resources  
-6421 Industry Way  
-Westminster, CA 92683
+12621 Western Ave  
+Garden Grove, CA 92841
 
-Phone: 888-343-4335 (M-F 7am-4pm Pacific)  
+Phone: 800-662-4321 (M-F 7am-4pm Pacific)  
 Fax: 800-525-1254  
 E-Mail: [custserv@teachercreated.com](mailto:custserv@teachercreated.com)
