@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909022554id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323161215id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Audio Mart
 
-Welcome to USAudioMart, a classifieds site for used audio, hifi and stereo. Postings are completely **free** for hobbyists. [Register today](http://www.usaudiomart.com/register.php) and start selling or finding your audio gear!
-
-**We need your help!**
-
-USAudioMart is really new and needs all the word of mouth promotion possible. [Please help us make this](http://www.usaudiomart.com/audiogon_alternative.html#help-usam) the real, community driven, free, and easy to use [alternative to AudioGon](http://www.usaudiomart.com/audiogon_alternative.html).
+Welcome to USAudioMart, a classifieds site for used audio, hifi and stereo. Postings are completely **free** for hobbyists. [Register today](https://web.archive.org/web/20160323161215id_/http%3A//www.usaudiomart.com/register.php) and start selling or finding your audio gear!
 
 ## US Audio Mart's Privacy Policy
 
-We here at US Audio Mart and its Operators, Canuck AudioMart Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for US Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
+We here at US Audio Mart and its Operators, Canuck Digital Media Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for US Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
 
 Note: This policy only applies to any information disclosed while dealing directly with US Audio Mart (http://www.usaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we no longer assume responsibility of any information that may be collected, disclosed, and/or manipulated. 
 
@@ -30,7 +26,7 @@ By using our web site (http://www.usaudiomart.com/), it constitutes acceptance o
 
 **_Privacy Contact Info:_**
 
-Canuck AudioMart Inc.  
+Canuck Digital Media Inc.  
 P.O. Box 27531  
 Oakridge  
 Vancouver, BC, Canada  
