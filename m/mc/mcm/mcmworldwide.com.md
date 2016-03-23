@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcmworldwide.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613233639id_/http%3A//www.mcmworldwide.com/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcmworldwide.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323061312id_/http%3A//www.mcmworldwide.com/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Such personal data may include your name, email address(es), billing address(es)
 
 We may also receive similar non-personally identifiable data from third parties. We use this data to provide better service to Site visitors, customize the Site based on your preferences, compile and analyze statistics and trends, to otherwise administer and improve the Site for your use, and to personalize offers.
 
-Our Site is **not** intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [contact.us@mcmworldwide.com.](mailto:contact.us@mcmworldwide.com)
+Our Site is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at contact.us@mcmworldwide.com. 
 
 ### DATA DISCLOSURE AND SHARING
 
@@ -38,7 +38,7 @@ Please keep your personal data, accurate, current, and complete by regularly upd
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [contact.us@mcmworldwide.com](mailto:contact.us@mcmworldwide.com)
+California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [contact.us@mcmworldwide.com](mailto:contact.us@mcmworldwide.com)
 
 ### DATA SECURITY
 
@@ -62,15 +62,15 @@ This site also uses Google Analytics, a web analytics service provided by Google
 
 ### HOW MCM PROTECTS PERSONAL INFORMATION
 
-MCM will take all precautionary measures to protect the personal information that is shared on our website. MCM [and hired third parties related to transaction and fulfilment only] store information internally in controlled, secure environments. MCM occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, sending postal mail and processing event registrations. MCM will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+MCM will take all precautionary measures to protect the personal information that is shared on our website. MCM [and hired third parties related to transaction and fulfillment only] store information internally in controlled, secure environments. MCM occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, sending postal mail and processing event registrations. MCM will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-If MCM requests general demographic information, this information is limited to reporting purposes only; users remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. 
+If MCM requests general demographic information, this information is limited to reporting purposes only; users remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. 
 
 ### HOW TO UPDATE YOUR PERSONAL INFORMATION
 
 You can help MCM maintain the accuracy of your personal information by updating the setting in My Account where you may change your name, billing & shipping address books, title, birthday, phone number, e-mail address, view your order history, or your content preferences.
 
-If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from MCM, feel free to update your preferences in My Account. For technical concerns and troubleshooting your personal information, please contact our customer service at [contact.us@mcmworldwide.com](mailto:contact.us@mcmworldwide.com) at any time. 
+If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from MCM, feel free to update your preferences in My Account. For technical concerns and troubleshooting your personal information, please contact our customer service at contact.us@mcmworldwide.com at any time. 
 
 ### LINKS
 
@@ -80,4 +80,4 @@ MCM encourages you to read the privacy statements of these linked sites; their p
 
 ### CONTACT US
 
-Please contact us with any comments or suggestions you might have regarding the information practices described in this Privacy Policy at [contact.us@mcmworldwide.com](mailto:contact.us@mcmworldwide.com).
+Please contact us with any comments or suggestions you might have regarding the information practices described in this Privacy Policy at contact.us@mcmworldwide.com.
