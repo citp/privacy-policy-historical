@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062244id_/https%3A//www.avma.org/Pages/privacy.aspx%3Futm_source%3Davma-org%26utm_medium%3Dweb%26utm_content%3Davma-sites%26utm_campaign%3Dsite-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323020044id_/https%3A//www.avma.org/Pages/privacy.aspx%3Futm_source%3Davma-org%26utm_medium%3Dweb%26utm_content%3Davma-sites%26utm_campaign%3Dsite-footer) for the most accurate reproduction.*
 
 # Privacy Policy for AVMA Websites
 
@@ -44,13 +44,13 @@ We do not share, sell or rent email addresses to anyone outside the AVMA except 
 
 
 
-We sometimes collect specific information on email responses, such as how many recipients open an email or choose to click through to links provided in the email message. This information is used solely within the AVMA to analyze areas of interest and to enhance our products, services, and AVMA Websites. None of this information is sold or distributed outside the AVMA. You can manage your email preferences, including opt-out preferences, in our [Email Subscription Center](http://www.highroadsolution.com/avma_preference_page/default.aspx). 
+We sometimes collect specific information on email responses, such as how many recipients open an email or choose to click through to links provided in the email message. This information is used solely within the AVMA to analyze areas of interest and to enhance our products, services, and AVMA Websites. None of this information is sold or distributed outside the AVMA. You can manage your email preferences, including opt-out preferences, in our [Email Subscription Center](http://avma.highroadsolution.com/avma_preference_center/default.aspx). 
 
 ### Sharing Personal Information Other than Email Address
 
 AVMA may share, sell, or rent limited member data, including postal address, to third parties, including companies that offer products and services related to veterinary medicine for sale to AVMA members. This includes, for example, companies that offer products and services to members through the AVMA affinity programs. In addition, AVMA may share limited personal information of registered AVMA Convention attendees with convention exhibitors. AVMA also hires vendors to perform certain services for the AVMA, such as packaging and mailing purchases, printing, and sending postal mail and processing event registration. We only provide the information these companies need to perform these services.
 
-As an AVMA member, if you prefer to receive mailings from AVMA only and do not wish to receive mailings from these other organizations, you may have your name and address removed from the lists. To do so, please visit [My Profile](https://web.archive.org/Authentication/Pages/default.aspx?returnurl=https://ebusiness.avma.org/EBusiness50/login.aspx?rid=01) and update your member preferences to be excluded from third party mailing opportunities. 
+As an AVMA member, if you prefer to receive mailings from AVMA only and do not wish to receive mailings from these other organizations, you may have your name and address removed from the lists. To do so, please visit [My Profile](https://web.archive.org/Authentication/Pages/default.aspx?returnurl=https://ebusiness.avma.org/login.aspx?rid=01) and update your member preferences to be excluded from third party mailing opportunities. 
 
 ### Security
 
