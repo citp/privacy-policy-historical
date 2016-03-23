@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221225922id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323184218id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY Lawyersclubindia - Law, Lawyers, Advocates, Law Firms,Legal Help, Legal Experts,Judgements, Social Network for Lawyers, Legal Community, Law Help, Indian Lawyers
 
