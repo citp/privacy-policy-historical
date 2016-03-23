@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rumandmonkey.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026071854id_/http%3A//rumandmonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumandmonkey.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323172929id_/http%3A//rumandmonkey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rum and Monkey
 
