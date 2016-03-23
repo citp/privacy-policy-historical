@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029114853id_/https%3A//www.texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323031335id_/https%3A//texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
 
 # Agency - Site Policies
 
@@ -69,9 +69,7 @@ If an intellectual property owner believes his/her rights have been infringed by
 >  P.O. Box 12548  
 >  Austin, TX 78711-2548
 > 
-> Phone: (512) 936-1414
-> 
-> Email: [communications@texasattorneygeneral.gov](mailto:communications@texasattorneygeneral.gov)
+> Phone: (512) 463-2050
 
 ### Public Information Requests
 
