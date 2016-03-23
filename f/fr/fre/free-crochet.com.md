@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-crochet.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006115534id_/https%3A//www.free-crochet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-crochet.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323112323id_/https%3A//www.free-crochet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
