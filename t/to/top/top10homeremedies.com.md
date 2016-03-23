@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910215049id_/http%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323101353id_/http%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Home Remedies
 
