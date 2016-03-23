@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319141510id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323174918id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Nokia Symbian Themes Blog | Nokia Symbian Themes
 
