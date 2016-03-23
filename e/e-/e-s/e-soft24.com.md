@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-soft24.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803013508id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-soft24.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323092343id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.*
 
 # e-Soft24 - Privacy Notice
 
