@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911113311id_/http%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323184410id_/http%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.*
 
 # SpeedGuide.net :: Privacy Policy
 
-**SpeedGuide.net Privacy Policy**  
+**Privacy Policy and Cookies**  
 
 
 **Information Collection and Use**   
@@ -12,11 +12,21 @@ We are deeply committed to protecting the privacy of Internet users. SpeedGuide.
 This site makes forums and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public and you should exercise caution when deciding to disclose any personal information. In addition, users have the option (when posting to the forums) to be notified when there are replies, which, if chosen will send you e-mail notification of any replies.
 
 **Cookies**   
-A cookie is a small data file containing certain information and is written to your hard drive when you visit the website. A cookie cannot be read by a website other than the one that sets the cookie. Most cookies last only through a single session or visit.  
-Currently, SpeedGuide.net only offers cookies to registered users, in order to retain login information throughout user sessions. Browsers can be configured to notify you when you receive a cookie, giving you the chance to decide whether to accept it. We also use outside Ad agencies to display default (unsold inventory) banners on our site. These ads may contain cookies that are collected by them, and we do not have direct access to such information. Please see the "Third Parties" section of this document.
+A cookie is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, (like your preferred language and other settings) that can make your next visit easier and the site more useful to you. 
+
+SpeedGuide uses the following types of cookies: 
+
+  * Site settings persistent cookies - to improve user experience by remembering your preferences and login information, so you don't have to sign in every time you visit;
+  * Third-party features cookies - for example, cookies by Google Analytics of Facebook; 
+  * Statistical information - we may collect and compile anonymous, aggregated information for statistical and analytics purposes to help us understand how users use the site and improve our site services. We may also use such information to help measure and research the effectiveness of our interactive online content, features, advertisements, and other communications
+  * Advertising cookies - our advertising partners may use anonymous cookies to optimize advertising that is relevant to you and to measure their performance 
+
+Please also see the "Third Parties" section of this document. 
+
+Browsers can be configured to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Please note, if cookies are disabled, it may mean that you experience reduced functionality when browsing the website. In addition, you can also visit the Network Advertising Initiative site and use their tool to [opt-out of behavioral advertising](http://www.networkadvertising.org/choices/) from ad networks. 
 
 **Third Parties**   
-SpeedGuide.net works with third parties that serve ads to this site. Often, advertisers will employ a third-party measurement service other than SpeedGuide.net for tracking the performance of an ad program. We review the privacy policies of companies we work with, however, in these instances, we have no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please contact our webmaster. For your convenience, following are links and privacy statements of such third parties:
+SpeedGuide.net works with third parties that serve ads to this site. Often, advertisers will employ a third-party measurement service other than SpeedGuide.net for tracking the performance of an ad program. We review the privacy policies of companies we work with, however, in these instances, we have no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please contact our webmaster.
 
 **Log Files**   
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We may share aggregated traffic information (such as number of unique users, page views, or time spent on our site) with outside sources. This is not linked to any personal information that can identify any individual person. 
@@ -27,4 +37,4 @@ All changes to our Privacy Policy will be posted in this Privacy statement so th
 **Contacting the Website**   
 If you wish to learn more about our efforts to protect your privacy, please feel free to send questions and comments to: **[webmaster](mailto:webmaster@speedguide.net) **
 
-[](https://web.archive.org/web/20150911113311id_/http%3A//www.speedguide.net/privacy.php?print=friendly) [](http://forums.speedguide.net/)
+[](https://web.archive.org/web/20160323184410id_/http%3A//www.speedguide.net/privacy.php?print=friendly) [](https://web.archive.org/forums/)
