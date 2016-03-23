@@ -1,24 +1,51 @@
-<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907213229id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2016-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323132553id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head> 	
+	
 		
+
         <meta charset="UTF-8">		
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="format-detection" content="telephone=no">	
 
 		<link type="text/css" rel="stylesheet" href="/includes/desktop/css/jqm1.4.3/jquery.mobile-1.4.3.min.css">     
       	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/wth.css">
+      	
+      	
+      	
+      	
+      	
     	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/desktop_v.css">
 
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NNN9MN"></script><script src="/lib/javascript/desktop/jquery-1.11.1.min.js"></script> 		
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NNN9MN"></script><script src="/lib/javascript/desktop/jquery-1.11.1.min.js"></script>	
         <script src="/lib/javascript/desktop/jqm1.4.3/jquery.mobile-1.4.3.min.js"></script>  
         <script src="/lib/javascript/desktop/html5-fix/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script> 
-        <script src="/lib/javascript/desktop/custom.js"></script>	
+        
+       		<script src="/lib/javascript/desktop/custom.js"></script>   
+       		
         <script src="/Code/javascript/ajax/logerror.js"></script>      
 
         
         <script>		
+		//Ajax Spinner code
+		$( document ).on( "mobileinit", function() {
+		  $.mobile.loader.prototype.options.text = "loading";
+		  $.mobile.loader.prototype.options.textVisible = false;
+		  $.mobile.loader.prototype.options.theme = "b";
+		  $.mobile.loader.prototype.options.html = "";
+		});
+		
+		
+		$(document).ready(function () {
+			$(document).ajaxStart(function() {
+			    $.mobile.loading('show');
+			});
+
+			$(document).ajaxStop(function() {
+			    $.mobile.loading('hide');
+			});
+	   });		
 	    $.mobile.ignoreContentEnabled = true;
 		$.mobile.pushStateEnabled = false;		
 		
@@ -27,10 +54,12 @@
 		if(hash){
 			location.hash = '';
 		}
+		
+   	
 
         //JS variables used for email signup form vistracker
     	var storeCode = 'VOWEB';
-		var inetHostName = 'blweb19';
+		var inetHostName = 'blweb34';
 		var page = '';
 		</script>
 
@@ -39,7 +68,7 @@
 		
         
         
-<link rel="shortcut icon" type="image/gif" href="http://www.vacationoutlet.com/favicon_vo-16x16.gif">
+<link rel="shortcut icon" type="image/gif" href="/favicon_vo-16x16.gif">
 <!--  floating masthead javascript -->
 <script type="text/javascript" src="/lib/javascript/general/floatingHeader.js"></script>
 <!--  end floating masthead javascript -->
@@ -65,19 +94,12 @@ $(document).ready(function() {
 	})();
 	
 	
-	var pageOn = window.location.pathname;
-	if ((pageOn == "/promotion/resort-vacation/caribbean-vacations.do") || (pageOn == "/promotion/resort-vacation/florida-vacations.do")) {
-		document.getElementById("aboutResortsLink").style.backgroundPosition="-130px 0";
-		} 
-	else if (pageOn == "/promotion/customer-care.do") {
-		document.getElementById("customerHappinessLink").style.backgroundPosition="-700px 0";
-		}
-	else if (pageOn.indexOf("/vacations") > -1)	{
-		document.getElementById("aboutResortsLink").style.backgroundPosition="-130px 0";
-		}
-	 else {
-		document.getElementById("aboutCruisesLink").style.backgroundPosition="-440px 0";
-	}	
+	
+	
+	
+	
+	
+	
 });
 </script>
   
@@ -144,7 +166,9 @@ $(document).ready(function() {
 
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-30167-1");
+		if(document.URL.indexOf("/css/guest") < 0) {
 		pageTracker._trackPageview();
+		}
 	</script>
 
 
@@ -160,6 +184,12 @@ $(document).ready(function() {
     function CallTracker(cat, cat2, value)
     {
     		pageTracker._trackEvent(cat, cat2, value);
+			/*alert(event_name);*/
+		return true;
+    }
+    function CallTrackerNonInteraction(cat, cat2, value)
+    {
+    		pageTracker._trackEvent(cat, cat2, value, null ,true);
 			/*alert(event_name);*/
 		return true;
     }
@@ -275,10 +305,10 @@ $(document).ready(function() {
 
 	</head> 
 	
-	<body> 		
-        
+	<body>
+		 
 		<!--
-		server and timestamp info:blweb19:Mon Sep 07 17:32:29 EDT 2015
+		server and timestamp info:blweb34:Wed Mar 23 09:25:53 EDT 2016
 		  -->	
 		
 			<div data-role="page" id="<s:property value='%{page.id}' />" data-dom-cache="true">		        
@@ -287,37 +317,38 @@ $(document).ready(function() {
                 	<div class="wth2-persist-area">
                 		
                 		
-	            		<div class="wth2-header" data-ajax="false">            			
+	            		<div class="wth2-header">  
+	            				            		             			
 	            			
-
-<!--  floating masthead UI <div class="persist-header"> -->
-<div id="floatHeaderNew" class="floatingHeader">
-	<div class="floatingHeaderInner" style="visibility:hidden">	
-		<a id="floatHeaderLogoFunction" href="http://www.vacationoutlet.com">
- 		<div class="innerContainer">	
-         	<div class="floatheadPhone">
-         		<div id="floatHeaderPhoneFunction" class="phoneContainer">1-800-TAKE-OFF</div>
-				<div class="expressService">Expert Service 24/7 [ <span id="floatHeaderPhoneFunction2">1-800-825-3633</span> ] </div>					
+<div class="wth2-desktopOnly" data-ajax="false">	
+	<!--  floating masthead UI <div class="persist-header"> -->
+	<div id="floatHeaderNew" class="floatingHeader">
+		<div class="floatingHeaderInner" style="visibility:hidden">	
+			<a id="floatHeaderLogoFunction" href="http://www.vacationoutlet.com">
+	 		<div class="innerContainer">	
+	         	<div class="floatheadPhone">
+	         		<div id="floatHeaderPhoneFunction" class="phoneContainer">1-800-TAKE-OFF</div>
+					<div class="expressService">Expert Service 24/7 [ <span id="floatHeaderPhoneFunction2">1-800-825-3633</span> ] </div>					
+				</div>
 			</div>
-		</div>
-		</a>
-    </div>
-</div>	
-
-<div id="vo_header_container">
-	<div id="vo_header_logo"><a id="headerLogoFunction" href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header-nav/vacation-outlet.gif" width="396" height="71" alt="Vacation Outlet"></a>
-</div>
-
-<div id="vo_header_phone">
-	<div id="headerPhoneFunction" class="vo_header_phone_number">1-800-TAKE-OFF</div>
-	<div class="expressService">Expert Service 24/7 [ <span id="headerPhoneFunction2">1-800-825-3633</span> ]</div>
+			</a>
+	    </div>
+	</div>	
 	
-		<a href="/cs/default.asp" class="accessLink">Access Your Reservation</a>
+	<div id="vo_header_container">
+		<div id="vo_header_logo"><a id="headerLogoFunction" href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header-nav/vacation-outlet.gif" width="396" height="71" alt="Vacation Outlet"></a>
+	</div>
 	
-</div>			
-<div class="clear"></div>
-
+	<div id="vo_header_phone">
+		<div id="headerPhoneFunction" class="vo_header_phone_number">1-800-TAKE-OFF</div>
+		<div class="expressService">Expert Service 24/7 [ <span id="headerPhoneFunction2">1-800-825-3633</span> ]</div>
+		
+			<a href="/cs/default.asp" class="accessLink">Access Your Reservation</a>
+		
+	</div>			
+	<div class="clear"></div>
 	
+		
 <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT ad_promo_header -->
 <div class="wth2-google-header-ad" align="center" style="margin-bottom: 0px;">	
 <script>
@@ -329,125 +360,133 @@ $(document).ready(function() {
 
 </script></div>
 <!-- END OF TAG FOR SLOT ad_promo_header -->
-
-<div id="vo_header_rule"></div>
-        
-
-      
-<!-- Flyout Navigation -->
-<div id="navigationwrapper">
-		<ul id="nav" class="no_navpadding">
-			<li><a class="navHome" href="http://www.vacationoutlet.com/" title="Home"></a></li>
-			<li id="aboutResorts"><a class="navResorts" id="aboutResortsLink" href="http://www.vacationoutlet.com/packages/default.asp" title="Outlet-Priced Resort Vacations"></a>
-				<ul class="dropDownContainer">
-					<li class="resortImage"><a href="http://www.vacationoutlet.com/packages/default.asp" title="Go to Resort Vacation Page"></a></li>
-					<li class="resortDeals">
-						<div class="expHdrs">Resort Vacation Deals</div>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/all-inclusive-vacations.do">All-Inclusive Vacations</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=ArubaVacationBody&amp;isShowFramework=true">Aruba Vacations</a>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/cancun-vacations.do">Cancun Vacations</a>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/caribbean-vacations.do">Caribbean Vacations</a>
-						<a href="http://www.vacationoutlet.com/promotion/resort-vacation/florida-vacations.do">Florida / Orlando Vacations</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=HawaiiVacationBody&amp;isShowFramework=true" class="link">Hawaii Vacations</a>
-					</li>
-					<li class="resortDeals2">
-						<a href="http://www.vacationoutlet.com/promotion/vo/packages/hot-beach-deals.asp">Hot Beach Deals</a>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/jamaica-vacations.do">Jamaica Vacations</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=LasVegasVacationBody&amp;isShowFramework=true">Las Vegas Vacations</a>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/last-minute-vacations.do">Last-Minute Vacations</a>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/mexico-vacations.do">Mexico Vacations</a>
-						<a href="http://www.vacationoutlet.com/promotion/vacations/punta-cana-vacations.do">Punta Cana Vacations</a>
-
-						<a href="http://www.vacationoutlet.com/promotion/vo/top-vacation-hotel-deals.asp">Top Vacation &amp; Hotel Deals</a>
-					</li>
-					<li class="resortDeals3">
-						<div class="expHdrs">Travel Information</div>
-						<a href="http://travel.state.gov/passport/passport_1738.html" target="new_window">New Passport Requirements Now in Effect</a>
-						<a href="http://www.vacationoutlet.com/cs/baggage.asp">Baggage Policy Changes</a>
-					</li>
-				</ul>
-			</li>
-			<li id="aboutHotels"><a class="navHotels" href="http://www.vacationoutlet.com/hotels/default.asp" title="Hotels"></a>
-				<ul class="dropDownContainer">
-					<li class="hotelImage"><a href="http://www.vacationoutlet.com/hotels/default.asp" title="Go to Hotel Page"></a></li>
-					<li class="hotelDeals">
-						<div class="expHdrs">Hotel Deals</div>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=ArubaHotelBody&amp;isShowFramework=true">Aruba Hotels</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=CaliforniaHotelBody&amp;isShowFramework=true">California Hotels</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=CaribbeanHotelBody&amp;isShowFramework=true">Caribbean Hotels</a>
-						<a href="http://www.vacationoutlet.com/promotion/resort-vacation/florida-vacations.do">Florida / Orlando Hotels</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=LasVegasHotelBody&amp;isShowFramework=true">Las Vegas Hotels</a>
-					</li>
-					<li class="hotelDeals2">
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=MiamiHotelBody&amp;isShowFramework=true">Miami Hotels</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=MyrtleBeachHotelBody&amp;isShowFramework=true">Myrtle Beach Hotels</a>
-						<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=NewYorkHotelBody&amp;isShowFramework=true">New York Hotels</a>
-						<a href="http://www.vacationoutlet.com/promotion/vo/hotels/cruise-hotels.asp">Pre- And Post-Cruise Hotels</a>
-						<a href="http://www.vacationoutlet.com/promotion/vo/hotels/city-hotels.asp">Top U.S. Cities Hotels</a>
-					</li>
-					<li class="hotelDeals3">
-						<div class="expHdrs">Travel Information</div>
-						<a href="http://travel.state.gov/passport/passport_1738.html" target="new_window">New Passport Requirements Now in Effect</a>
-						<a href="http://www.vacationoutlet.com/cs/baggage.asp">Baggage Policy Changes</a>
-					</li>
-				</ul>
-			</li>
-            
-			<li id="aboutCruises"><a class="navCruises" id="aboutCruisesLink" href="http://www.vacationoutlet.com/cruises/default.asp" title="Cruises" style="background-position: -440px 0px;"></a>
-				<ul class="dropDownContainer">
-					<li class="cruiseImage"><a href="http://www.vacationoutlet.com/cruises/default.asp" title="Go to Cruise Page"></a></li>
-					<li class="cruiseDeals">
-						<div class="expHdrs">Cruise Line Deals</div>
-						<a href="http://www.vacationoutlet.com/promotion/carnival-cruises.do">Carnival Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/celebrity-cruises.do">Celebrity Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/costa-cruises.do">Costa Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/disney-cruises.do">Disney Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/holland-america-cruises.do">Holland America Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/msc-cruises.do">MSC Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/norwegian-cruises.do">Norwegian Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/princess-cruises.do">Princess Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/royal-caribbean-cruises.do">Royal Caribbean Cruises</a>
-					</li>
-					<li class="cruiseDeals2">
-						<div class="expHdrs">Cruise Destination Deals</div>
-						<a href="http://www.vacationoutlet.com/promotion/alaska-cruises.do">Alaska Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/bahamas-cruises.do">Bahamas Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/bermuda-cruises.do">Bermuda Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/canada-new-england-cruises.do">Canada / New England Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/caribbean-cruises.do">Caribbean Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/europe-cruises.do">Europe Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/hawaii-cruises.do">Hawaii Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/mexico-cruises.do">Mexico Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/transatlantic-cruises.do">Transatlantic Cruises</a>
-					</li>
-
-					<li class="cruiseDeals3">
-						<div class="expHdrs">More Cruise Deals</div>
-						<a href="http://www.vacationoutlet.com/promotion/balcony-suite-cruises.do" target="new_window">Balcony-Suite Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/boston-cruises.do">Cruise From Boston</a>
-						<a href="http://www.vacationoutlet.com/promotion/ports/cruises-from-new-york.do">Cruise From New York</a>
-						<a href="http://www.vacationoutlet.com/promotion/ports/regional-cruises.do">Cruise From A Port Near You</a>
-						<a href="http://www.vacationoutlet.com/promotion/family-cruises.do">Family Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/last-minute-cruises.do">Last-Minute Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/cheap-cruises.do">Really Cheap Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/summer-cruises.do">Summer Cruises</a>
-						<a href="http://www.vacationoutlet.com/promotion/weekend-cruises.do">Weekend Cruises</a>
-					</li>
-				</ul>
-			</li>
-			<li><a class="navCar" href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp" title="Car Rentals"></a></li>
-			<li class="last"><a class="navHappy" id="customerHappinessLink" href="http://www.vacationoutlet.com/promotion/customer-care.do"></a></li>
-		</ul>
+	
+	<div id="vo_header_rule"></div>
+	        
+	
+	      
+	<!-- Flyout Navigation -->
+	<div id="navigationwrapper">
+			<ul id="nav" class="no_navpadding">
+				<li><a class="navHome" href="http://www.vacationoutlet.com/" title="Home"></a></li>
+				<li id="aboutResorts"><a class="navResorts" id="aboutResortsLink" href="http://www.vacationoutlet.com/packages/default.asp" title="Outlet-Priced Resort Vacations"></a>
+					<ul class="dropDownContainer">
+						<li class="resortImage"><a href="http://www.vacationoutlet.com/packages/default.asp" title="Go to Resort Vacation Page"></a></li>
+						<li class="resortDeals">
+							<div class="expHdrs">Resort Vacation Deals</div>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/all-inclusive-vacations.do">All-Inclusive Vacations</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=ArubaVacationBody&amp;isShowFramework=true">Aruba Vacations</a>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/cancun-vacations.do">Cancun Vacations</a>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/caribbean-vacations.do">Caribbean Vacations</a>
+							<a href="http://www.vacationoutlet.com/promotion/resort-vacation/florida-vacations.do">Florida / Orlando Vacations</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=HawaiiVacationBody&amp;isShowFramework=true" class="link">Hawaii Vacations</a>
+						</li>
+						<li class="resortDeals2">
+							<a href="http://www.vacationoutlet.com/promotion/vo/packages/hot-beach-deals.asp">Hot Beach Deals</a>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/jamaica-vacations.do">Jamaica Vacations</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=LasVegasVacationBody&amp;isShowFramework=true">Las Vegas Vacations</a>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/last-minute-vacations.do">Last-Minute Vacations</a>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/mexico-vacations.do">Mexico Vacations</a>
+							<a href="http://www.vacationoutlet.com/promotion/vacations/punta-cana-vacations.do">Punta Cana Vacations</a>
+	
+							<a href="http://www.vacationoutlet.com/promotion/vo/top-vacation-hotel-deals.asp">Top Vacation &amp; Hotel Deals</a>
+						</li>
+						<li class="resortDeals3">
+							<div class="expHdrs">Travel Information</div>
+							<a href="http://travel.state.gov/passport/passport_1738.html" target="new_window">New Passport Requirements Now in Effect</a>
+							<a href="http://www.vacationoutlet.com/cs/baggage.asp">Baggage Policy Changes</a>
+						</li>
+					</ul>
+				</li>
+				<li id="aboutHotels"><a id="aboutHotelsLink" class="navHotels" href="http://www.vacationoutlet.com/hotels/default.asp" title="Hotels"></a>
+					<ul class="dropDownContainer">
+						<li class="hotelImage"><a href="http://www.vacationoutlet.com/hotels/default.asp" title="Go to Hotel Page"></a></li>
+						<li class="hotelDeals">
+							<div class="expHdrs">Hotel Deals</div>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=ArubaHotelBody&amp;isShowFramework=true">Aruba Hotels</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=CaliforniaHotelBody&amp;isShowFramework=true">California Hotels</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=CaribbeanHotelBody&amp;isShowFramework=true">Caribbean Hotels</a>
+							<a href="http://www.vacationoutlet.com/promotion/resort-vacation/florida-vacations.do">Florida / Orlando Hotels</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=LasVegasHotelBody&amp;isShowFramework=true">Las Vegas Hotels</a>
+						</li>
+						<li class="hotelDeals2">
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=MiamiHotelBody&amp;isShowFramework=true">Miami Hotels</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=MyrtleBeachHotelBody&amp;isShowFramework=true">Myrtle Beach Hotels</a>
+							<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=NewYorkHotelBody&amp;isShowFramework=true">New York Hotels</a>
+							<a href="http://www.vacationoutlet.com/promotion/vo/hotels/cruise-hotels.asp">Pre- And Post-Cruise Hotels</a>
+							<a href="http://www.vacationoutlet.com/promotion/vo/hotels/city-hotels.asp">Top U.S. Cities Hotels</a>
+						</li>
+						<li class="hotelDeals3">
+							<div class="expHdrs">Travel Information</div>
+							<a href="http://travel.state.gov/passport/passport_1738.html" target="new_window">New Passport Requirements Now in Effect</a>
+							<a href="http://www.vacationoutlet.com/cs/baggage.asp">Baggage Policy Changes</a>
+						</li>
+					</ul>
+				</li>
+	            
+				<li id="aboutCruises"><a class="navCruises" id="aboutCruisesLink" href="http://www.vacationoutlet.com/cruises/default.asp" title="Cruises"></a>
+					<ul class="dropDownContainer">
+						<li class="cruiseImage"><a href="http://www.vacationoutlet.com/cruises/default.asp" title="Go to Cruise Page"></a></li>
+						<li class="cruiseDeals">
+							<div class="expHdrs">Cruise Line Deals</div>
+							<a href="http://www.vacationoutlet.com/promotion/carnival-cruises.do">Carnival Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/celebrity-cruises.do">Celebrity Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/costa-cruises.do">Costa Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/disney-cruises.do">Disney Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/holland-america-cruises.do">Holland America Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/msc-cruises.do">MSC Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/norwegian-cruises.do">Norwegian Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/princess-cruises.do">Princess Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/royal-caribbean-cruises.do">Royal Caribbean Cruises</a>
+						</li>
+						<li class="cruiseDeals2">
+							<div class="expHdrs">Cruise Destination Deals</div>
+							<a href="http://www.vacationoutlet.com/promotion/alaska-cruises.do">Alaska Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/bahamas-cruises.do">Bahamas Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/bermuda-cruises.do">Bermuda Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/canada-new-england-cruises.do">Canada / New England Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/caribbean-cruises.do">Caribbean Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/europe-cruises.do">Europe Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/hawaii-cruises.do">Hawaii Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/mexico-cruises.do">Mexico Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/transatlantic-cruises.do">Transatlantic Cruises</a>
+						</li>
+	
+						<li class="cruiseDeals3">
+							<div class="expHdrs">More Cruise Deals</div>
+							<a href="http://www.vacationoutlet.com/promotion/balcony-suite-cruises.do" target="new_window">Balcony-Suite Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/boston-cruises.do">Cruise From Boston</a>
+							<a href="http://www.vacationoutlet.com/promotion/ports/cruises-from-new-york.do">Cruise From New York</a>
+							<a href="http://www.vacationoutlet.com/promotion/ports/regional-cruises.do">Cruise From A Port Near You</a>
+							<a href="http://www.vacationoutlet.com/promotion/family-cruises.do">Family Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/last-minute-cruises.do">Last-Minute Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/cheap-cruises.do">Really Cheap Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/summer-cruises.do">Summer Cruises</a>
+							<a href="http://www.vacationoutlet.com/promotion/weekend-cruises.do">Weekend Cruises</a>
+						</li>
+					</ul>
+				</li>
+				<li><a class="navCar" href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp" title="Car Rentals"></a></li>
+				<li class="last"><a class="navHappy" id="customerHappinessLink" href="http://www.vacationoutlet.com/promotion/customer-care.do"></a></li>
+			</ul>
+		</div>
+		<!-- END: flyout navigation -->
+	
 	</div>
-	<!-- END: flyout navigation -->
-
 </div>
+<div style="clear:both">
+ 
+	            			
 
-    
+
+
+
+
+
+	    
 	  					</div>					
 						
-                    	<div class="wth2-content">   
-                    	
+                    	<div class="wth2-content">     
                     		
                     	   	
 							  
@@ -462,30 +501,47 @@ $(document).ready(function() {
 	
 	
 	
+	
 		<a id="crumbs_home" href="/" title="Breadcrumbs: Home">Home</a> <i class="fa fa-angle-right"></i>
 		<span id="defaultBreadcrumbs">Privacy Policy</span>
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </div>
 		
-<div class="wth2-resultsItinContainer ui-grid-b wth2-privacyBody">
-<div class="headercruise"><b>Privacy Policy</b></div><br><br>
+
+<div class="wth2-pageTopH1">Privacy Policy</div>
+
+<div class="ui-grid-e wth2-shopSection">
+	<div class="wth2-shopSectionInner ui-block-a">
 
 
-		<div class="text">
+
+
+		<div class="ui-block-a sMargBottom">
 			Vacation Outlet
 			understands the privacy concerns of today's Internet users. We
 			are committed to protecting your privacy online and offline. We
 			hope that the following explanation of our privacy policy
-			alleviates any possible concerns.<br><br>
+			alleviates any possible concerns.
 		</div>
-		<div class="text">
+		<div class="ui-block-a sMargBottom">
 			Whenever personal information (name,
 			address, credit card numbers, etc.) is required, we will
 			explicitly ask you to supply it. Any personal information
 			provided will be used to tailor our products and services to
-			better suit the interests of our valued customers.<br><br>
+			better suit the interests of our valued customers.
 		</div>
-		<div class="text">
+		<div class="ui-block-a sMargBottom">
 			Vacation Outlet
 			will not intentionally sell or disclose any personal
 			information about you or your travel plans to any other
@@ -494,9 +550,9 @@ $(document).ready(function() {
 			unsolicited email or illicit materials. Your personal
 			information may be divulged when required by law or when
 			protecting the legal rights and/or property of 
-			Vacation Outlet.<br><br>
+			Vacation Outlet.
 		</div>
-		<div class="text">
+		<div class="ui-block-a sMargBottom">
 			Vacation Outlet
 			does use cookies for functional purposes. Most browsers are
 			initially set to accept cookies. If you would prefer, you can
@@ -505,7 +561,7 @@ $(document).ready(function() {
 			cookies is an industry standard, and many major websites use
 			them to provide better service to their customers. Cookies in
 			and of themselves do not personally identify users, although
-			they do identify a user's computer.<br><br>
+			they do identify a user's computer.
 		</div>
 		
 		
@@ -517,14 +573,18 @@ $(document).ready(function() {
 			</div>
 		
 
+</div>
 </div>  
+			
 	
-								 
-                             	
+									
+								
+									
 
-		<div class="wth2-adminSection">	
+		<div id="admin" class="wth2-adminSection">	
 			<div class="wth2-adminSectionPadding">
-			<ul>		
+			<ul>
+		
 				
 									
 					<li class="wth2-adminCsSection">
@@ -533,11 +593,12 @@ $(document).ready(function() {
 					</li>
 					
 				
+	
 				<li class="wth2-adminPhoneSection">
 				<i class="fa fa-comments-o"></i>
 				<span class="wth2-adminPhoneWrapper">
 					<span class="wth2-adminPhoneHeader">Need Help Planning?</span><br>
-					<span id="adminPhoneNumber" class="wth2-adminPhoneNbr">
+					<span id="adminPhoneNumber" class="wth2-adminPhoneNbr wth2-phoneNbrDesktop">
 					 																				
                     
                         
@@ -546,8 +607,22 @@ $(document).ready(function() {
                            
                  	
 					</span>
+
+					<span class="wth2-adminPhoneNbr wth2-phoneNbrResponsive">
+					 																				
+                    
+                        
+                            
+                            <a id="adminPhoneNumberResponsive" href="tel:1-800-8253-633" title="Admin: Phone Number">	
+                            1-800-TAKE-OFF
+                            </a>
+                           
+                 	
+					</span>
+					
 				</span>
-				</li>				
+				</li>	
+							
 				
 				<li class="wth2-adminEmailSection">
 				<i class="fa fa-envelope"></i>
@@ -557,6 +632,8 @@ $(document).ready(function() {
 				</span>
 				</li>
 					
+				
+				
 			</ul>		
 			<a id="adminTopLink" class="wth2-adminTopLink" rel="nofollow" href="#top" title="Admin: Back to Top">Top<i class="fa fa-chevron-up"></i></a>
 			</div>
@@ -628,12 +705,17 @@ $(document).ready(function() {
 </div>
 				</div>
 			
+									
+                             	
+                             	
                              
                                 
                         </div>
                     
                     	
                    		<div class="wth2-footer" data-ajax="false">
+                   			    	
+                             	
                             
 
 
@@ -644,43 +726,29 @@ $(document).ready(function() {
 	
 
                             
+                            
 
 
-<div id="crosslinks">
-	<div id="footerNav">
-		<a href="http://www.vacationoutlet.com/cs/default.asp" class="link">Customer Service</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/cs/default.asp" class="link">Access Reservation</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/promotion/about-us.do" class="link">About Us</a>&nbsp;|&nbsp;<a href="javascript:openwinScroll('http://www.vacationoutlet.com/promotion/vo/bpg.asp', 500, 420, 'yes');" class="link">Best Price Guarantee</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/cs/default.asp" class="link">Contact Us</a>&nbsp;|&nbsp; <a href="http://www.vacationoutlet.com/privacy.do" class="link">Privacy Policy</a>&nbsp;|&nbsp; <a href="http://www.vacationoutlet.com/vo-sitemap.asp" class="link">Sitemap</a>
-		<br><br>
-		On Shore: <a onclick="CallTracker('Footer/', 'Text Link/', 'Bahamas Day Pass');" target="newWindow" title="Bahamas Day Pass" href="http://www.bahamasdaypass.com">BahamasDayPass.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a onclick="CallTracker('Footer/', 'Text Link/', 'Resort For A Day');" target="newWindow" title="Resort For A Day" href="http://www.resortforaday.com">ResortForADay.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a onclick="CallTracker('Footer/', 'Text Link/', 'Shore Excursions');" target="newWindow" title="Shore Excursions" href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1694">Shore Excursions</a><br><br>	
+<div class="wth2-responsiveFooter">
+	<div class="wth2-beFooter">
+	<div id="crosslinks">
+		<div id="footerNav">
+			
+			
+				<a href="http://www.vacationoutlet.com/cs/default.asp" class="link">Customer Service</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/cs/default.asp" class="link">Access Reservation</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/promotion/about-us.do" class="link">About Us</a>&nbsp;|&nbsp;<a href="javascript:openwinScroll('http://www.vacationoutlet.com/promotion/vo/bpg.asp', 500, 420, 'yes');" class="link">Best Price Guarantee</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/cs/default.asp" class="link">Contact Us</a>&nbsp;|&nbsp; <a href="http://www.vacationoutlet.com/privacy.do" class="link">Privacy Policy</a>&nbsp;|&nbsp; <a href="http://www.vacationoutlet.com/vo-sitemap.asp" class="link">Sitemap</a>
+				<br><br>
+				On Shore: <a onclick="CallTracker('Footer/', 'Text Link/', 'Bahamas Day Pass');" target="newWindow" title="Bahamas Day Pass" href="http://www.bahamasdaypass.com">BahamasDayPass.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a onclick="CallTracker('Footer/', 'Text Link/', 'Resort For A Day');" target="newWindow" title="Resort For A Day" href="http://www.resortforaday.com">ResortForADay.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a onclick="CallTracker('Footer/', 'Text Link/', 'Shore Excursions');" target="newWindow" title="Shore Excursions" href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1694">Shore Excursions</a><br><br>	
+			
+		</div>
+		
+		Vacation Outlet is your premier online destination for dream vacations and cruise getaways.<br>
+		Choose your trip from thousands of discount travel packages and last-minute deals from the world's best resorts, hotels, and cruise lines.<br>
+		© 2016&nbsp;Vacation Outlet is a registered trademark of WTH/NLG. All rights reserved. <a href="http://www.vacationoutlet.com/selleroftravel.do" class="sellerlink">Seller of Travel Info</a>
+		</div>
 	</div>
-	Vacation Outlet is your premier online destination for dream vacations and cruise getaways.<br>
-	Choose your trip from thousands of discount travel packages and last-minute deals from the world's best resorts, hotels, and cruise lines.<br>
-	© 2015&nbsp;Vacation Outlet is a registered trademark of WTH/NLG.  All rights
-	reserved.  <a href="http://www.vacationoutlet.com/selleroftravel.do" class="sellerlink">Seller of Travel Info</a>
-</div>
-
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>					
-<!-- Bold Software Visitor Monitor HTML v2.00 (Website=VacationOutlet.com,ChatWindow=VacationOutlet_LiveChat_Window,ChatInvitation=My Invite Ruleset) -->
-<script>
-document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/664584437666327480/bc.vms2/vms.js"%3E%3C/script%3E'));
-</script><script language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/664584437666327480/bc.vms2/vms.js"></script>
-<script language="JavaScript" type="text/javascript">
-try {
-  var pageViewer = _bcvm.getPageViewer("664584437666327480");
-  pageViewer.setParameter("WebsiteDefID", "2139414639033429587");
-  pageViewer.setParameter("ChatWindowDefID", "1359896738011239092");
-  pageViewer.setParameter("ChatWidth", "640");
-  pageViewer.setParameter("ChatHeight", "480");
-  pageViewer.setParameter("InvitationDefID", "4847453588748636378");
-  pageViewer.setParameter("WindowScheme", "https");
-  pageViewer.pageViewed();
-} catch(error) {}
-</script>
-<noscript>
-<a href="https://www.boldsoft.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/664584437666327480/bc.vmi?wdid=2139414639033429587" border="0" width="1" height="1" /></a>
-</noscript>
-<!-- /Bold Software Visitor Monitor HTML v2.00 -->
+</div>			
                     	</div>
                     </div>
 				</div><!-- /content -->
@@ -688,7 +756,11 @@ try {
 			</div><!-- /page -->         
             
 				
-			
+		
+		
+		
+ <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">	
+				
 		
 
 <!--  cmsTrackingTag START -->
@@ -720,8 +792,7 @@ try {
 	<!-- End Google Tag Manager -->
 <!--  cmsTrackingTag END -->
 		
-		
- <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">		
+				
 	
 
 
@@ -730,4 +801,14 @@ try {
 
 
 
-</body></html>
+
+
+
+
+
+ 
+ 
+
+
+
+</div></body></html>
