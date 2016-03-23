@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906020827id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323112106id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Invitation Box
 
-Last Updated: _April 23, 2015_
+Last Updated: _April 23, 2016_
 
 This web site is maintained by Phoenix Online, doing business as InvitationBox.com (“InvitationBox”). Here at InvitationBox, we recognize the importance of privacy to our users. We understand that users of our website (the “Website”) are concerned about the personal information (“Personal Information”) they provide us, and how we treat that information. We've developed this Privacy Policy to assure you that we take seriously our responsibility to protect customer information, and to use it only in ways that are consistent with your wishes. If you have any questions or concerns regarding this Privacy Policy, please email [privacy@invitationbox.com](mailto:privacy@invitationbox.com).
 
