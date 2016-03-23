@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisianalottery.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212110609id_/https%3A//www.louisianalottery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisianalottery.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323142545id_/https%3A//louisianalottery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Louisiana Lottery
 
