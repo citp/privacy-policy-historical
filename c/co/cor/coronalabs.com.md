@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coronalabs.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910163516id_/https%3A//coronalabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coronalabs.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190749id_/https%3A//coronalabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Corona Labs
+# Privacy Policy | Corona Labs!
 
 ### CORONA LABS WEBSITE PRIVACY POLICY
 
