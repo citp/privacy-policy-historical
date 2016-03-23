@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markable.in privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930153300id_/http%3A//markable.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markable.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323075722id_/https%3A//markable.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Markable.in
+# Markable.in
 
 This privacy policy sets out how Markable uses and protects any information that you give Markable when you use this application.
 
@@ -40,4 +40,4 @@ We may retain original and updated information for reasons such as technical con
 
 ### 6\. Contacting Us
 
-If you have any questions regarding this Privacy Policy, please contact us via email at this email address [hi@markable.in](mailto:hi@markable.in).
+If you have any questions regarding this Privacy Policy, please contact us via email at this email address [support@markable.in](mailto:support@markable.in).
