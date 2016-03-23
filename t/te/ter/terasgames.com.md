@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the terasgames.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516021639id_/http%3A//terasgames.com/terasgames/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terasgames.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323070603id_/http%3A//terasgames.com/privacy.html) for the most accurate reproduction.*
 
-# Teras Games — Privacy Policy
+# Teras Games - All the Best Games, Always Free
 
-## Introduction
+## Privacy Policy
 
-This Privacy Policy applies to all users of the Teras Games Apps and the Site. This Privacy Policy describes the Company's collection and use of users' personal information and non-personally identifiable information. Teras Games Apps should only be installed by users that are of the age of 18 or older. Users under the age of 18 should ask for parental/guardian approval.  
+### Introduction
 
+This Privacy Policy applies to all users of the Teras Games Apps and the Site. This Privacy Policy describes the Company's collection and use of users' personal information and non-personally identifiable information. Teras Games Apps should only be installed by users that are of the age of 18 or older. Users under the age of 18 should ask for parental/guardian approval.
 
-## Collection of Information
+### Collection of Information
 
-###### User Submitted Information
+#### User Submitted Information
 
 Users are not required to create an account or register to use Teras Games Apps. However, when contacting us for issues related to the Teras Games Apps, you may submit personal information to allow us to effectively respond to your inquiry or request.
 
-###### Collected Information
+#### Collected Information
 
 When users access or use the Teras Games Apps, certain non-personally identifiable information is collected, stored and used for business and marketing purposes. This non-personally identifiable information includes, without limitation: IP address, unique identifier number, operating system, browser and other software information, webpage URLs visited, and search queries entered. This collected data may also be supplemented with information obtained from third parties.
 
@@ -21,7 +22,7 @@ We use cookies to collect aggregate Internet traffic statistics and to better un
 
 Third parties that support Teras Games Apps by serving advertisements may also use cookies and other tracking technologies described above to collect similar information. The Company does not control these third parties and their use of these technologies is governed by the privacy policies of the third parties using such technologies.
 
-## Use & Disclosure of Information
+### Use & Disclosure of Information
 
 Information collected from and about users may be used for the following purposes:
 
@@ -33,24 +34,58 @@ We may use the information you provide to us, and information we collect about y
 
 There may be instances when the Company may disclose user information without providing notice or choice, including situations where the Company has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of the Company, our affiliated companies or their employees, agents and contractors (ii) protect the safety and security of users of the Teras Games Apps; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process.
 
-## Notice and Modifications
-
-When Teras Games has new added functionality to the app, we will provide a notice to you and what upgrades are available. We will not implement the upgrades until you have consented. If you do not want the upgrades, we will provide you with an option to uninstall.
-
-## Security
+### Security
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-## Children's Privacy
+### Children's Privacy
 
 We do not knowingly collect personal data from children or collect data from anyone under the age of 13.
 
-## User Control and Uninstalling Software
+### User Control and Uninstalling Software
 
-To uninstall from any of the supported browsers go to the Windows Start Menu and then to Control Panel. Under programs click on uninstall a program. Navigate and click on Teras Games. Click on Uninstall/Change.
+Chrome uninstall instructions: 
 
-For more detailed uninstall instructions, feel free to visit the uninstall section on our About page.
+  1. Go to Settings within Chrome browser
+  2. Click on Extensions
+  3. Uncheck the Enabled box or click Trash icon to delete the extension 
+  4. Close and restart your browser
 
-## Questions and Concerns
+
+
+Firefox uninstall instructions: 
+
+  1. Click the button with three horizontal lines located at the top right of your browser
+  2. Click Add-ons 
+  3. Select the Extensions tab from the navigation options listed on the left
+  4. Find the extension you are looking to remove and click the Remove button
+  5. Close and restart your browser
+
+
+
+Internet Explorer uninstall instructions 
+
+  1. Click the Settings wheel icon located at the top right of your browser
+  2. Click Manage add-ons
+  3. Select the Search Providers from the navigation options listed on the left
+  4. You will need to choose another search provider to “Set as Default”
+  5. Once another search provider is set as default you can select the other search option and click Remove
+  6. Close and restart your browser
+
+
+
+To change your Internet Explorer home page, please follow these instructions: 
+
+  1. Click the Settings wheel icon located at the top right of your browser
+  2. Click Internet options
+  3. Change the home page destination to your preferred home page and click Apply to save your changes
+  4. Click Ok to close the window
+  5. Close and restart your browser
+
+
+
+For more detailed uninstall instructions, please visit our [uninstall page](https://web.archive.org/web/20160323070603id_/http%3A//terasgames.com/uninstall.html). 
+
+### Questions and Concerns
 
 If you have any questions or concerns about the Privacy Policy or its implementation, please email us at [support@terasgames.com](mailto:support@terasgames.com).
