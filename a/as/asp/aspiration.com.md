@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspiration.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908022854id_/https%3A//www.aspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspiration.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324173030id_/https%3A//www.aspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aspiration
 
