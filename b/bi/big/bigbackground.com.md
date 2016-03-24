@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbackground.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223185107id_/http%3A//bigbackground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbackground.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324044058id_/http%3A//bigbackground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BigBackground.com
 
