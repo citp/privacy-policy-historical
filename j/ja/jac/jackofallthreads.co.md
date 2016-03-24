@@ -1,13 +1,40 @@
-> *The following text is extracted and transformed from the jackofallthreads.co privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816122027id_/http%3A//jackofallthreads.co/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackofallthreads.co privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324220753id_/http%3A//jackofallthreads.co/pages/privacypolicy) for the most accurate reproduction.*
 
-# Jack of all Threads
+# Jackofallthreads.co | Create and Sell High-Quality Unique Apparels
 
-Thank you for visiting our site. The following mentioned below describes how Jack of all Threads collects and uses information you provide on our website. The use of service is subject to your acceptance and compliance of the following.By using any of our services you agree that you have read, understood and are bound by the terms.By violating this agreement in any capacity, you are suject to an immediate removal of your campaign(s), possible forfeit of profit(s) and potential suspension or termination of your account. 
+Privacy Policy 
 
-Collection of Information: We collect personal information from you such as name, contact information, Billing address, Mailing address etc voluntarily submitted by our users.The information provided is solely used for order confirmation, response to queries of requested product or service information. This information provided is kept secure and is only accessible to authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information.You agree that you are the owner, or licensee, of all rights associated with any information provided to us (including created or uploaded artwork) If you are not the owner, you agree to provide Jack of all Threads with evidence of the permission given to you by the owner. 
+Thank you for visiting our site. The following mentioned below describes how Jack of all Threads collects and   
+uses information you provide on our website. The use of service is subject to your acceptance and compliance   
+of the following.By using any of our services you agree that you have read, understood and are bound by the   
+terms.By violating this agreement in any capacity,you are suject to an immediate removal of your campaign(s)   
+possible forfeit of profit(s) and potential suspension or termination of your account. 
 
-Cookie/Tracking Technology: Jack of all Threads may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to Jack of all Threads, and understanding how visitors use Jack of all Threads. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
+Collection of Information:We collect personal information from you such as name,contact information,Billing   
+address, Mailing address etc voluntarily submitted by our users.The information provided is solely used for   
+order confirmation, response to queries of requested product or service information. This information   
+provided is kept secure and is only accessible to authorized employees, agents and contractors (who have   
+agreed to keep information secure and confidential) have access to this information.You agree that you are the   
+owner, or licensee, of all rights associated with any information provided to us (including created or uploaded   
+artwork) If you are not the owner, you agree to provide Jack of all Threads with evidence of the permission   
+given to you by the owner. 
 
-Payment and Security: We provide three methods for you to make a purchase on our site. You can either use Order form - fulfil payment by a bank transfer to the account details provided on the form. All information provided by this mode of payment is secured and protected Paypal - If you choose to use a third party payment option, such as PayPal, to pay for your order, its privacy policy and security practices will apply to your information. We encourage you to read that privacy policy before providing your information. 
+Cookie/Tracking Technology:Jack of all Threads may use cookie and tracking technology depending on the   
+features offered. Cookie and tracking technology are useful for gathering information such as browser type   
+and operating system, tracking the number of visitors to Jack of all Threads, and understanding how visitors   
+use Jack of all Threads. Cookies can also help customize the Site for visitors. Personal information cannot be   
+collected via cookies and other tracking technology, however, if you previously provided personally identifiable   
+information, cookies may be tied to such information. Aggregate cookie and tracking information may be   
+shared with third parties. 
 
-Cash on Delivery -Shipping details and contact information is provided to our third party vendors that execute this service.Sharing of information:In cases of investigation of fraud / misuse of service/content we may share information with governmental agencies or other organisations assisting in investigation or prevention. We may do so when: (1) permitted or required by law(2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. 
+Payment and Security:We provide three methods for you to make a purchase on our site. You can either use   
+Order form - fulfil payment by a bank transfer to the account details provided on the form. All information   
+provided by this mode of payment is secured and protected Paypal - If you choose to use a third party payment   
+option, such as PayPal, to pay for your order, its privacy policy and security practices will apply to your   
+information. We encourage you to read that privacy policy before providing your information. 
+
+Cash on Delivery -Shipping details and contact information is provided to our third party vendors that execute   
+this service.Sharing of information:In cases of investigation of fraud / misuse of service/content we may share   
+information with governmental agencies or other organisations assisting in investigation or prevention. We   
+may do so when: (1) permitted or required by law(2) trying to protect against or prevent actual or potential   
+fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. 
