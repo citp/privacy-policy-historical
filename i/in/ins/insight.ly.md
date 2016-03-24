@@ -1,22 +1,26 @@
-> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418143244id_/https%3A//www.insightly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324025642id_/https%3A//www.insightly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insightly
 
-**Effective Date: December 29, 2014**
+**Effective Date: February 29, 2016**
 
 This privacy policy applies to www.insightly.com and the Insightly platform on login.insight.ly, owned and operated by Insightly Inc. (Insightly). This privacy policy describes how Insightly collects and uses the personal information you provide us and it also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 When registering for Insightly you can be certain that we have implemented comprehensive security practices to ensure that only registered users and those people who are provided authorized access to, can see your Insightly site. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.insightly.com (the “Site”) and login.insight.ly through our on-demand business productivity software, our support platform, and tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Insightly.
 
-[](https://privacy.truste.com/privacy-seal/Insightly-Inc-/validation?rid=5a145142-f2a0-4629-9238-631f09f32d9a "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=fea1842b-7f21-4d61-88a9-afa7cbb03954 "TRUSTe Privacy Certification")
 
-Insightly has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site www.insightly.com and the platform on login.insight.ly. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Insightly Inc. The TRUSTe program does not cover information that may be collected through our mobile applications and downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@insight.ly](mailto:contact@insight.ly). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+The TRUSTe program covers only information that is collected through this website, www.insightly.com and the platform on login.insight.ly and does not cover information that may be collected through software downloaded from the website and through our mobile applications. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Insightly Inc.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@insight.ly. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 Insightly complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Insightly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Insightly’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Information You Provide
 
 When registering with an email address, we collect your full name, company or organization name and email address. When signing up for a paid plan, Insightly will collect credit card information and use a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on Insightly’s behalf.
+
+You may also provide personal information about other people, such as their name and email address. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
 
 If your personal information changes, or if you no longer desire our service, you can modify, update, delete your account information at anytime by clicking on the Settings icon in the global navigation bar at the top right of the screen or by contacting us at the contact information listed below. We will respond to any requests for access to personal information within 30 days. Insightly’s practice is not to use such personal information for marketing purposes unless explicitly authorized. Insightly may use the collected personal information and other information Insightly collects about your use of the Service, to operate and make the Service available to you, for billing, identification and authentication, to contact you about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site. On occasion we may send out email newsletters, if you wish to opt out of these newsletters, please follow the unsubscribe directions in these emails.
 
@@ -28,11 +32,11 @@ Insightly may also transmit or share your personal information with its third pa
 
 Insightly collects information under the direction of its clients and has no direct relationship with the individuals whose personal data it processes.
 
-**Choice** – We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. If you are a Client and would like to update your account please contact us at [contact@insight.ly](mailto:contact@insight.ly).
+ **Choice** – We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. If you are a Client and would like to update your account please contact us at [contact@insight.ly](mailto:contact@insight.ly).
 
-**Service Provider, Sub-Processors/Onward Transfer** – Insightly may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+ **Service Provider, Sub-Processors/Onward Transfer** – Insightly may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
-**Access to Data Controlled by our Clients** – Insightly has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Insightly client (the data controller). If the client requests Insightly to remove the data, we will respond to their request within 30 business days.
+ **Access to Data Controlled by our Clients** – Insightly has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Insightly client (the data controller). If the client requests Insightly to remove the data, we will respond to their request within 30 business days.
 
 ## Cookies and Tracking Technologies
 
@@ -74,6 +78,10 @@ Our site includes links to other web sites whose privacy practices may differ fr
 
 Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us at [contact@insight.ly](mailto:contact@insight.ly). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
+## Import Contacts
+
+You can import your basic contact information from your Google Contacts using Insightly’s automated contact import wizard.  You can import other email account address books into Insightly using a manual import process. For Google, we authenticate your Google email address book using your Insightly user email address. We do not collect the username and password for the email account you wish to import your contacts from.
+
 ## Social Media Widgets
 
 Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
@@ -106,4 +114,4 @@ Insightly Inc.
 185 Berry Street  
 #1000  
 San Francisco, CA 94107  
-USA 
+USA
