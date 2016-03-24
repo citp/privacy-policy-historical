@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsappdownload8.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220050948id_/http%3A//whatsappdownload8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsappdownload8.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324064306id_/http%3A//appdownload8.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhatsApp Download
 
