@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906210544id_/https%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324101035id_/https%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Star Stable
 
-Effective: March 2015 
+Effective: October 2015 
 
 Star Stable is an online horse game for players all over the world where they can dive into the joys of horse-riding and adventure. Star Stable Online is a product owned and developed by Star Stable Entertainment AB in Stockholm, Sweden.
 
-This privacy policy applies to the online game and interactions contained in Star Stable Online available at [https://www.starstable.com](https://web.archive.org/web/20150906210544id_/https%3A//www.starstable.com/en/%E2%80%9Chttps://www.starstable.com%E2%80%9D) and from different international variations. This privacy policy does not apply to third party companies/sites which may link or redirect to Star Stable Entertainment AB sites or products.
+This privacy policy applies to the online game and interactions contained in Star Stable Online available at [https://www.starstable.com](https://web.archive.org/web/20160324101035id_/https%3A//www.starstable.com/en/%E2%80%9Chttps://www.starstable.com%E2%80%9D) and from different international variations. This privacy policy does not apply to third party companies/sites which may link or redirect to Star Stable Entertainment AB sites or products.
 
 Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email. If we make any material changes in the way we handle children’s personal information, we will first notify and obtain the prior consent of a parent or legal guardian. 
 
@@ -16,12 +16,13 @@ We require users to register an account to play Star Stable Online. Star Stable 
 
 **Data we collect**
 
-We collect an email address, a password, and an IP address during registration. Users that identify themselves as children are asked for a parent’s email address for consent purposes. This information is used for the purposes of:
+We collect an email address, a password, and an IP address during registration. Users that identify themselves as children are also asked for a parent’s email address for consent purposes. This information is used for the purposes of:
 
   * To allow us to assign users to the correct national version of the game.
-  * To allow access to the site/game.
+  * To allow access to the site/game and for account maintenance.
   * To create a unique account profile.
-  * To notify/obtain consent from parents.
+  * To communicate with you about your account and Star Stable features or activities
+  * To notify/obtain consent from parents and keep parents informed about their child’s account.
   * Password reset purposes.
   * To set up billing for ecommerce purposes.
 
