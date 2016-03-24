@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627132001id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325000228id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # InterKontakt NET
 
@@ -95,4 +95,4 @@ The author intended not to use any copyrighted material for the publication or, 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
 | | | |   
   
-[Books](https://web.archive.org/amazonbooklinks.php) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=3&randw=5) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=3&randw=5) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=3&randw=5) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=3&randw=5) | [Feedback](https://web.archive.org/ikfeedback.php?l=en)
+[Hotels](http://www.hrs.de/web3/?client=de__hrspartner&customerId=1062573437) | Languages | [Contact Us](https://web.archive.org/contactus.php) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=5&randw=9) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=5&randw=9) | [Feedback](https://web.archive.org/ikfeedback.php?l=en) | [Help](http://help.interkontakt.net/) | [Affiliate Program](http://www.ik-affiliates.com/) | [AlliedWallet billing](https://web.archive.org/alliedwallet_info.php)
