@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914200148id_/http%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324201833id_/http%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Disruptive Advertising
+# Privacy Policy | Disruptive Advertising
 
 Disruptive Advertising Privacy Policy
 
