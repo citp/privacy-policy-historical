@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the massmailsoftware.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123092232id_/http%3A//www.massmailsoftware.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmailsoftware.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324201338id_/http%3A//www.massmailsoftware.com/pp) for the most accurate reproduction.*
 
 # Privacy policy of visitors and customers of email marketing software and services from AtomPark Software
 
 ## ****PRIVACY-RELATED INQUIRIES AND COMPLAINTS
-
-AtomPark Software Inc. has created this Privacy Policy statement in order to disclose our information gathering and dissemination practices for this Website: <http://www.massmailsoftware.com/>.
-
-AtomPark Software Inc. abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union (EU).
 
 Upon reading this Privacy Policy statement, you will know:
 
