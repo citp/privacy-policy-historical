@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsnsports.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009205245id_/http%3A//www.bsnsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsnsports.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165440id_/http%3A//www.bsnsports.com/privacy) for the most accurate reproduction.*
 
 # BSN sports Privacy Policy | BSN SPORTS
 
@@ -38,9 +38,9 @@ Similarly, when you enter or respond to a contest, survey, sweepstakes or other 
 
 ## How We Use Your Personal Information
 
-US Games uses the information collected, including personally identifiable information, to better understand your needs and provide you with better products and services. We may use your information to communicate to you, to update you on products, services and benefits, to personalize the Site for you, to contact you for market research and/or to provide you with marketing information, newsletters, or other information. US Games may use third party information to ship product, to confirm delivery and to provide such third party with information regarding US Games’ promotional programs.
+BSN SPORTS uses the information collected, including personally identifiable information, to better understand your needs and provide you with better products and services. We may use your information to communicate to you, to update you on products, services and benefits, to personalize the Site for you, to contact you for market research and/or to provide you with marketing information, newsletters, or other information. BSN SPORTS may use third party information to ship product, to confirm delivery and to provide such third party with information regarding BSN SPORTS’ promotional programs.
 
-US Games may share personal information with our affiliates, business successors, business associates, technical consultants, third party auditors and other third parties. We work with several third party vendors who make our Site available, enhance its functionality, provide associated services and/or who deal with users in processing orders and delivering content, samples, products, services, gifts and prizes. Please note that we reserve the right to transfer your personally identifiable information and other information to our business associates, successors in business and purchasers of Site assets.
+BSN SPORTS may share personal information with our affiliates, business successors, business associates, technical consultants, third party auditors and other third parties. We work with several third party vendors who make our Site available, enhance its functionality, provide associated services and/or who deal with users in processing orders and delivering content, samples, products, services, gifts and prizes. Please note that we reserve the right to transfer your personally identifiable information and other information to our business associates, successors in business and purchasers of Site assets.
 
 Information obtained through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources.
 
@@ -53,7 +53,7 @@ It is not our policy to use or share personally identifiable information provide
 
 ## On-line Purchases
 
-The Site uses various order forms for users to request information and order US Games products. We collect contact information (such as name, mailing address and/or e-mail address), and when appropriate, financial information (such as your credit card number and its expiration date) to process requests or purchases. Contact information from an order form may be used to fulfill orders, to contact users regarding their order and for other purposes, such as to provide company information. Collected credit card information is used to process requests for products and services, and will not be shared with third parties that are not involved with the transaction. When credit card information is transmitted, we use industry standard, SSL (secure socket layer) encryption.
+The Site uses various order forms for users to request information and order BSN SPORTS products. We collect contact information (such as name, mailing address and/or e-mail address), and when appropriate, financial information (such as your credit card number and its expiration date) to process requests or purchases. Contact information from an order form may be used to fulfill orders, to contact users regarding their order and for other purposes, such as to provide company information. Collected credit card information is used to process requests for products and services, and will not be shared with third parties that are not involved with the transaction. When credit card information is transmitted, we use industry standard, SSL (secure socket layer) encryption.
 
 [back to top] 
 
@@ -62,9 +62,9 @@ The Site uses various order forms for users to request information and order US 
 
 ## Discussions and Community Tools
 
-US Games may, from time to time, make chat rooms, forums, message boards, news groups and other community tools available to our users. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for US Games to use. Please be considerate and respectful of others while using the community to share your opinion. US Games reserves the right to delete postings that may be viewed as inappropriate or offensive to others.
+BSN SPORTS may, from time to time, make chat rooms, forums, message boards, news groups and other community tools available to our users. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for BSN SPORTS to use. Please be considerate and respectful of others while using the community to share your opinion. BSN SPORTS reserves the right to delete postings that may be viewed as inappropriate or offensive to others.
 
-From time to time, we may use the content you submit or post in public places for advertising promotional purposes, in e-mail newsletters or elsewhere. By using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. Please exercise caution when deciding to disclose personal information in these areas, since anyone – not just US Games – may use publicly posted information.
+From time to time, we may use the content you submit or post in public places for advertising promotional purposes, in e-mail newsletters or elsewhere. By using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. Please exercise caution when deciding to disclose personal information in these areas, since anyone – not just BSN SPORTS – may use publicly posted information.
 
 [back to top] 
 
@@ -82,11 +82,11 @@ In some cases, we may collect non-personal information. Examples of this type of
 
 ## Cookies
 
-We reserve the right to utilize cookie technology ourselves or through third party providers. A cookie is a small data file that certain web sites write to your hard drive when you visit the sites. A cookie file can contain various types of information, including a user ID used by sites to track the pages visited. US Games may use cookies to enhance your experience on the Site, to determine user traffic patterns and for other purposes.
+We reserve the right to utilize cookie technology ourselves or through third party providers. A cookie is a small data file that certain web sites write to your hard drive when you visit the sites. A cookie file can contain various types of information, including a user ID used by sites to track the pages visited. BSN SPORTS may use cookies to enhance your experience on the Site, to determine user traffic patterns and for other purposes.
 
 Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. You can also flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions).
 
-At times, some of the advertisers on our Site and their ad service providers may set cookies when you click their advertising banners. While we may use cookies in other parts of the Site (as discussed above), cookies received with banner ads are collected by those advertisers and their ad service providers, and we do not have access to that information. The ad company’s privacy policy and/or that of its service provider will govern the use of this information and US Games is not responsible for the privacy practices of such ad company.
+At times, some of the advertisers on our Site and their ad service providers may set cookies when you click their advertising banners. While we may use cookies in other parts of the Site (as discussed above), cookies received with banner ads are collected by those advertisers and their ad service providers, and we do not have access to that information. The ad company’s privacy policy and/or that of its service provider will govern the use of this information and BSN SPORTS is not responsible for the privacy practices of such ad company.
 
 [back to top] 
 
@@ -95,7 +95,7 @@ At times, some of the advertisers on our Site and their ad service providers may
 
 ## Opt Out Procedures
 
-You have the option to opt out of receiving information from US Games. An opt out message will appear at the bottom of every e-mail that is sent. US Games also offers the option to remove your information from our database completely. If you no longer wish to take advantage of the Site or to receive any form of direct communication from US Games, in the form of e-mail, discounts, newsletters or other promotional offers, or wish us to delete your personal information from our data records, contact us at [webmaster@sportsupplygroup.com](mailto:webmaster@sportsupplygroup.com) **. You may also** call us at 972-484-9484 and ask to be transferred to the Internet Department to cancel your account. US Games is not responsible for removing information from third-party lists or databases of any kind.
+You have the option to opt out of receiving information from BSN SPORTS. An opt out message will appear at the bottom of every e-mail that is sent. BSN SPORTS also offers the option to remove your information from our database completely. If you no longer wish to take advantage of the Site or to receive any form of direct communication from BSN SPORTS, in the form of e-mail, discounts, newsletters or other promotional offers, or wish us to delete your personal information from our data records, contact us at [webmaster@sportsupplygroup.com](mailto:webmaster@sportsupplygroup.com) **. You may also** call us at 972-484-9484 and ask to be transferred to the Internet Department to cancel your account. BSN SPORTS is not responsible for removing information from third-party lists or databases of any kind.
 
 Please note that we reserve the right to keep any personal or non-personal information submitted or collected until you delete or modify it. We may choose, for business reasons such as obsolescence, to delete it.
 
@@ -106,7 +106,7 @@ Please note that we reserve the right to keep any personal or non-personal infor
 
 ## Reviewing or changing your information
 
-In order to ensure that the information we maintain is accurate, US Games gives users the option to change or modify the information previously provided. If you would like to change the information currently in our database, please contact us at **[webmaster@sportsupplygroup.com](mailto:webmaster@sportsupplygroup.com "webmaster@sportsupplygroup.com")** US Games is not responsible for updating information contained in third-party lists or databases.
+In order to ensure that the information we maintain is accurate, BSN SPORTS gives users the option to change or modify the information previously provided. If you would like to change the information currently in our database, please contact us at **[webmaster@sportsupplygroup.com](mailto:webmaster@sportsupplygroup.com "webmaster@sportsupplygroup.com")** BSN SPORTS is not responsible for updating information contained in third-party lists or databases.
 
 [back to top] 
 
@@ -126,7 +126,7 @@ As discussed above, we work to protect the security of your information during t
 
 Please note that no data transmission over the Internet is 100% secure. As a result, we cannot guarantee the security of the information that you transmit via our online services.
 
-Please note that we reserve the right to access and/or disclose personal information and non-personal information we gather as required by courts or administrative agencies and to the extent required to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Site rules or policies, the rights of third parties or to investigate any suspected conduct that US Games deems improper.
+Please note that we reserve the right to access and/or disclose personal information and non-personal information we gather as required by courts or administrative agencies and to the extent required to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Site rules or policies, the rights of third parties or to investigate any suspected conduct that BSN SPORTS deems improper.
 
 [back to top] 
 
@@ -137,7 +137,7 @@ Please note that we reserve the right to access and/or disclose personal informa
 
 You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply. By using the Site you are accepting these terms and, to the maximum extent permitted by law, are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personal information as described above.
 
-By using the Site, you also authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. US Games is headquartered in the USA, in Dallas, Texas. **** This policy and our legal obligations are subject to the laws of Texas and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA, in the State of Texas, county of Dallas.
+By using the Site, you also authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. BSN SPORTS is headquartered in the USA, in Dallas, Texas. **** This policy and our legal obligations are subject to the laws of Texas and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA, in the State of Texas, county of Dallas.
 
 We may amend our Privacy Policy. If we decide to change our Privacy Policy, we will post the changes on this page so you are aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
