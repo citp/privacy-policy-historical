@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the continuum.io privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003052805id_/https%3A//www.continuum.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the continuum.io privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324193700id_/https%3A//www.continuum.io/privacy-policy) for the most accurate reproduction.*
 
-# Continuum
+# Privacy Policy | Continuum
 
 Continuum Analytics, Inc. (“Continuum, “we” or “us”) offers products and services to site visitors customers. This privacy policy (“Policy”) describes how we gather and use personal information and other information collected by us in connection with our business. We take reasonable steps to protect such information and your privacy consistent with the guidelines set forth in this policy and with applicable United States and international laws.
 
