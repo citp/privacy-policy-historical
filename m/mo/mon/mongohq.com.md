@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912081622id_/https%3A//www.compose.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325002120id_/https%3A//compose.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Compose
 
@@ -115,4 +115,4 @@ This Privacy Policy is subject to occasional revision, and if we make any materi
 
 ### Still need help?
 
-If this doesn"t answer your questions, [summon a human](https://docs.compose.io/support/new_request.html?page=privacy.html) and ask away!
+If this doesn"t answer your questions, [summon a human](https://help.compose.io/docs/compose-email-support/?page=privacy.html) and ask away!
