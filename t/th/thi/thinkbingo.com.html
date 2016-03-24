@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the thinkbingo.com privacy policy that was archived on 2015-01-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150114032823id_/https%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkbingo.com privacy policy that was archived on 2016-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324160936id_/https%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Think Bingo. Join now &amp; get up to £100 FREE</title>
-<base href="http://www.thinkbingo.com/skin/"><meta http-equiv="Content-Language" content="en-gb">
+<base href="https://www.thinkbingo.com/skin/"><meta http-equiv="Content-Language" content="en-gb">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <meta name="title" content="Think Bingo. Join now &amp; get up to £100 FREE.">
 <meta name="keywords" content="think bingo, thinkbingo, uk bingo, uk online bingo, online bingo">
-<meta name="description" content="Welcome to Think Bingo, one of the leading UK online bingo games. Join now, get 100% match bonus up to �100 and play bingo!">
-<link rel="shortcut icon" href="http://www.thinkbingo.com/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://www.thinkbingo.com/favicon.ico" type="image/x-icon">
+<meta name="description" content="Welcome to Think Bingo, one of the leading UK online bingo games. Join now, get up to 100% match bonus up to �100 and play bingo! - T&amp;C's Apply">
+<link rel="shortcut icon" href="https://www.thinkbingo.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.thinkbingo.com/favicon.ico" type="image/x-icon">
 
 <link rel="start" title="Homepage" href="/">
 <link rel="help" title="Help" href="/help/">
@@ -30,7 +30,6 @@
 <script type="text/javascript" src="../js/web.js" language="JavaScript"></script>
 <script type="text/javascript" src="sifr/js/sifr.js" language="JavaScript"></script>
 <script type="text/javascript" src="sifr/js/sifr-config.js" language="JavaScript"></script>
-<!-- script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script -->
 <script type="text/javascript" src="/include/script/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <script type="text/javascript" src="../include/script/jquery.livequery.js"></script>
@@ -39,6 +38,8 @@
 <script type="text/javascript" src="../include/script/logintimed.js"></script>
 <script type="text/javascript" src="../include/script/jquery.cookie.js"></script>
 <script type="text/javascript" src="../include/script/tracking-min-pp.js"></script>
+<script type="text/javascript" src="../include/script/webext.js"></script>
+<script type="text/javascript" src="../include/script/utils.js"></script>
 <link href="sifr/css/sIFR-screen.css" rel="stylesheet" type="text/css" media="screen, projection">
 <!-- 77 agency code tracker 150509-->
 <script language="javascript" src="//www.77tracking.com/77Tracking.js"></script>
@@ -48,9 +49,188 @@
 </head>
 <body>
 
+<!-------------- DEEP LINK CODE ------------------->
+	<!-- deeplink popups elements -->
+<div class="bingoDeepLinkPopup" id="bingoDeepLinkPopup">
+    Click the button below to open the link    <button class="bingoDeepLinkPopupButton" id="bingoDeepLinkPopupButton" onclick="deepLinkAction(); return false;">Take me there</button>
+</div>
+<div class="bingoSiteOverlay" id="bingoSiteOverlay" onclick="hideDeepLinkPopup(); return false"></div>
+
+<style>
+
+    .bingoSiteOverlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 100000;
+        background-color: rgba(0,0,0,0.7);
+        display: none;
+    }
+
+    .bingoDeepLinkPopup {
+        width: 300px;
+        height: 200px;
+        box-sizing: border-box;
+        padding-top: 86px;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        margin-top: -100px;
+        margin-left: -150px;
+        background-color: white;
+        border-radius: 5px;
+        text-align: center;
+        z-index: 100100;
+        color: black;
+        display: none;
+    }
+
+    .bingoDeepLinkPopup .bingoDeepLinkPopupButton {
+
+        margin-top:30px;
+        cursor: pointer;
+
+    }
+
+</style>
+
+<!-- end of deeplink popups elements -->
+
+<script type="text/javascript">
+
+    /* sharing features into js */
+    window.bingoFeatures = {};
+    window.bingoFeatures.CashierSClient = false;
+    window.bingoFeatures.WebDeeplinkPopup = true;
+    window.bingoFeatures.ProvidePlayerLanguageToIG = false;
+    window.bingoFeatures.RealityCheck = false;
+
+    window.bingoUser = {};
+    window.bingoUser.loginCountry = '';
+    window.bingoUser.languageISO2 = 'en';
+    window.bingoUser.languageISO3 = 'ENG';
+
+    /* functions */
+    var deepLinkAction = function () {};
+
+    if ( typeof launchDeepLinkCashier === 'undefined' ) {
+        var launchDeepLinkCashier = function() {
+
+            if ( window.bingoFeatures && window.bingoFeatures.CashierSClient ) {
+
+                if ( navigator.appName.indexOf("Microsoft") != -1 ) {
+                    wb = window.open("", "AquaPayCashier", "height=768,width=1024,top=100,left=100,scrollbars=1");
+                } else {
+                    wb = window.open("", "AquaPayCashier", "height=768,width=1024,screenY=100,screenX=100,scrollbars=yes");
+                }
+
+            } else {
+
+                if ( navigator.appName.indexOf("Microsoft") != -1 ) {
+                    wb = window.open("", "AquaPayCashier", "height=576,width=700,top=100,left=100,scrollbars=1");
+                } else {
+                    wb = window.open("", "AquaPayCashier", "height=576,width=700,screenY=100,screenX=100,scrollbars=yes");
+                }
+
+            }
+
+            document.bingoCashierDeepLinkForm.submit();
+        }
+    }
+
+    if ( typeof launchIGByGameGroup === 'undefined' ) {
+
+        var igwn = null;
+
+        var launchIGByGameGroup = function ( gameGroupId ) {
+        
+            var WINDOW_WIDTH = 500;
+            var WINDOW_HEIGHT = 300;
+        
+            var leftLocation = (screen.width - WINDOW_WIDTH) / 2;
+            var topLocation = (screen.height - WINDOW_HEIGHT) / 2;
+
+            if (igwn != null) {
+                igwn.close();
+                igwn = null;
+            }
+
+	        igwn = window.open("../members/IGLaunchPage.php?gameGroupId=" + gameGroupId,'igw', "height=" + WINDOW_HEIGHT + ",width=" + WINDOW_WIDTH + ",left=" + leftLocation + ",top=" + topLocation + ",resizable=yes,location=no,scrollbars=no,status=yes,toolbar=no,directories=no,menubar=no","true");
+
+	        try {
+
+                igwn.focus();
+
+            } catch(e) {
+        
+            }
+        }
+
+    }
+
+    if ( typeof launchClient === 'undefined' ) {
+
+        var launchClient = function ( dlid ) {
+	
+	        loc = "/skin/play.php?dlid=" + dlid + "&cache=" + ( Math.random() + '' );
+	    
+	        if (typeof playWin === 'undefined' || playWin.closed === true) {
+
+		        if (navigator.appName.indexOf("Microsoft") != -1) {
+			        h = (screen.height * 0.9) - 54 ;
+			        w = screen.width * 0.9 ;
+			        playWin = window.open(loc, "playWin", "height=" + h + ", width=" + w + ", top=1, left=1, resizable") ;
+		        }
+		        else 
+			        playWin = window.open(loc, "playWin", "height=" + (screen.height - 2) + ", width=" + (screen.width - 2) + ",screenY=1, screenX=1, resizable") ;
+	        }
+
+            try {
+
+	            playWin.focus();
+
+            } catch(e) {
+        
+            }
+
+        }
+    }
+
+    if ( typeof hideDeepLinkPopup === 'undefined' ) {
+
+        var hideDeepLinkPopup = function () {
+            var popup = document.getElementById('bingoDeepLinkPopup');
+            var overlay = document.getElementById('bingoSiteOverlay');
+            popup.style.display = 'none';
+            overlay.style.display = 'none';
+        }
+
+    }
+
+    if ( typeof showDeepLinkPopup === 'undefined' ) {
+
+        var showDeepLinkPopup = function () {
+            var popup = document.getElementById('bingoDeepLinkPopup');
+            var overlay = document.getElementById('bingoSiteOverlay');
+            popup.style.display = 'block';
+            overlay.style.display = 'block';
+        }
+
+    }
+
+</script>
+
+
+
+
+<script type="text/javascript">
+
+</script>	<!------------------------------------------------->
 <script type="text/javascript" language="javascript">fn77TTransaction('Registration', 'userid={}');</script>
 
-<noscript><img src="http://www.77tracking.com/PageHit.ashx?website=9afa7987" alt="77Tracking" /></noscript>
+<noscript><img src="https://www.77tracking.com/PageHit.ashx?website=9afa7987" alt="77Tracking" /></noscript>
 
 <form name="CashierForm" id="CashierForm" method="post" action="https://cashier.bingosys.net/start.php" target="AquaPayCashier">
 	<input type="hidden" name="oid" value="3">
@@ -58,24 +238,25 @@
 	<input type="hidden" name="cid" value="">
 	<input type="hidden" name="sid" value="">	
 	<input type="hidden" name="network" value="ThinkBingo">
-	<input name="playerAlias" type="hidden" value="">		
-    <input name="playerCurrency" type="hidden" value="GBP">			  
-    <input name="skinURL" type="hidden" value="http://www.thinkbingo.com">
-    <input name="siteID" type="hidden" value="200">
-    <input name="networkID" type="hidden" value="2">
+	<input type="hidden" name="playerAlias" value="">		
+    <input type="hidden" name="playerCurrency" value="GBP">			  
+    <input type="hidden" name="skinURL" value="https://www.thinkbingo.com">
+    <input type="hidden" name="siteID" value="200">
+    <input type="hidden" name="networkID" value="2">
 	<input type="hidden" name="playerSR" value="">
 	<input type="hidden" name="version" value="1">
 	<input type="hidden" name="oCustomerSource" value="">
 	<input type="hidden" name="lang" value="en">
-	<input type="hidden" name="oSourceAppID" value="11">	
+    <input type="hidden" name="langIso3" value="ENG">
+    <input type="hidden" name="locale" value="en-GB">
+	<input type="hidden" name="oSourceAppID" value="11">
 </form>
 
-	
 <div id="wrapper">
 
 	<div id="header">
 
-		<h1 id="page_header"><a href="http://www.thinkbingo.com">Think Bingo</a></h1>
+		<h1 id="page_header"><a href="https://www.thinkbingo.com">Think Bingo</a></h1>
         			<div id="login">
 				<form method="post" action="members.php" name="LoginForm">
 					<input id="form_action1" type="hidden" value="LOGIN" name="form_action">
@@ -101,8 +282,8 @@
 			<div class="left-edge"><!-- --></div>
 			<div class="nav-bg">
             <ul class="mainmenu">
-            	<li><a href="http://www.thinkbingo.com">Home</a></li>
-                							<li><a href="register.php">Join Now</a></li>				<li><a href="/skin/specials.php">Specials</a></li>
+            	<li><a href="https://www.thinkbingo.com">Home</a></li>
+                							<li><a href="register.php">Join Now</a></li>				<li><a href="/skin/promotions.php">Promotions</a></li>
 				<li><a href="/skin/loyalty.php">Think Points</a></li>
 				<li><a href="/skin/testimonials.php">Winners</a></li>
 
@@ -126,254 +307,126 @@
 					<form name="mainForm" id="mainForm" action="/skin/privacy.php" method="post">
 					<input name="form_action" id="form_action" type="hidden" value="">
 					                                            <div id="main_template">
-						<h1>Privacy Policy</h1>
-		<div class="cc-crosssite-terms">
-
-
-
-
-
-
-
-<h1>Privacy Policy</h1>
-
-<p>The brands on this website (the "Website") are owned by Think Bingo (the "Brand Owner"). The Website is operated by Cassava Enterprises (Gibraltar) Limited ("Company", “we” or “us”), which is registered under the laws of Gibraltar to provide such services.</p>
-<p><b>PLEASE NOTE:</b> If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited.  888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.</p>
-<p><b>PLEASE NOTE:</b> If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited.  As such, all personal data and customer funds are transferred to and stored by Company on its servers in Gibraltar. The Company is happy to provide you with online gaming services under its remote gambling license issued by the Government of Gibraltar or by the UK Gambling Commission, as applicable. The Company is committed to preserving the privacy of all visitors to the Website.</p>
+					<div class="copy-content">
+ <h1>Privacy Policy</h1>
+<p>The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website is operated by Cassava Enterprises (Gibraltar) Limited ("Company", “we” or “us”), which is registered under the laws of Gibraltar to provide such services.</p>
+<p></p>
+<p><strong>PLEASE NOTE:</strong>&nbsp;If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.<br>
+ <strong>PLEASE NOTE:</strong>&nbsp;If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited. As such, all personal data and customer funds are transferred to and stored by Company on its servers in Gibraltar. The Company is happy to provide you with online gaming services under its remote gambling license issued by the Government of Gibraltar or by the UK Gambling Commission, as applicable. The Company is committed to preserving the privacy of all visitors to the Website.</p>
 <p>When you use the Company's services, you shall be asked to provide personal identifiable information ("PII") to the Company.</p>
-<p>The Company, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to <a href="mailto:support@thinkbingo.com">support@thinkbingo.com</a> and we will do our best to answer your questions in full as quickly as possible.</p><h2>Personal Identifiable Information Collection</h2>
-<p>We collect PII when you register and use our gaming services, make customer inquiries, register for information or other services from the Company (including through Facebook applications), or when you respond to communications from us (such as questionnaires or surveys). The PII we will collect from you may include, for example, your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which the Company shall undertake.</p><h2>How Your Information is Processed ("Purposes")</h2>
-<p>The PII which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with gaming services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services, websites or products or those of other entities existing within the same group of companies in which Company exists (the "Group") or those of the Brand Owner or any of their business partners and affiliates ; (v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PII.</p><h2>To Whom Your Information is Disclosed ("Recipients")</h2>
-<p>Your PII may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within the Group and their employees who have a need to know such information; (ii) to the Brand Owner; (iii) to any third parties which provide services to the Company or its subcontractors in order to allow or enable us to provide you with gaming services, including by way of example affiliate networks, payment processors and data verifiers;  (iv) to any third parties who provide the Group services in relation to the operation of the Website; (v) to any auditors, contractors or other advisers auditing any of Group's business processes; (vi) to any third  parties who organize events or tournaments on behalf of or in conjunction with any companies within the Group;  and (vii) to any potential purchasers or investors in any company within the Group. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PII and handle it in accordance with the relevant laws.</p>
-<p>We ensure that your information will not be disclosed to government institutions or authorities except if required by law and regulations.</p><h2>Your Choice − Direct Marketing</h2>
-<p>Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the 'unsubscribe' link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call 1-800-480-5170 or write to <a href="mailto:promotions@thinkbingo.com">promotions@thinkbingo.com</a></p><h2>Your Rights in relation to your PII</h2>
-<p>You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email <a href="mailto:support@thinkbingo.com">support@thinkbingo.com</a>. We may levy a small charge to cover the cost of administration.</p><h2>Security</h2>
-<p>We have implemented suitable security policies, rules and technical measures to protect and safeguard all the PII under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors who have access to, and are associated with the processing of your PII, are obliged to respect your privacy.</p><h2>Cookies</h2>
-<p>We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit the Website, note the advertisements you click on and the other sites you enter via a link from the Website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of the Website. The Website uses four types of cookies: (i) 'session cookies' which are stored only temporarily during a browsing session in order to allow normal use of the system and are deleted from your device when the browser is closed; (ii) 'first party cookies' / 'persistent cookies' which are set and read only by the Website, saved on your computer for a fixed period (usually a year or longer) and are not deleted when the browser is closed. Such cookies are used where we need to know who you are for repeat visits, for example to allow us to store your preferences for the next login (such as user name and/or password); (iii) 'third party cookies' which are set by other websites who run content on the page you are viewing, for example by third party analytics companies who monitor and analyze our web access; and (iv) 'flash cookies' which are saved during game play to allow quicker and better gaming experience. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific Website content unless you accept the use of a cookie or similar device.</p><h2>Advertisements</h2>
-<p>We use a third−party advertising technology to serve advertisements when you visit the Website. This technology uses information about your visits to the Website (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third−party 'cookie' may be placed or recognized on your browser. We also transmit Website usage information about visitors to the Website to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use 'Web beacons' and 'cookies' provided by our third−party advertisement server on the Website. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non−personal information used to target advertisements to you, please visit www.networkadvertising.org and follow the "opt−out" instructions.</p><h2>Protection of Minors</h2>
-<p>The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with PII represents to us that they are 18 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any PII submitted by or collected from you. If we become aware that a minor has attempted to or has submitted PII, we may not accept this information and may take steps to remove such information from our records.</p><h2>International Transfer</h2>
-<p>Since we operate globally, it may be necessary to transfer your PII to Recipients who are located in countries outside the European Union. This may happen if our servers or such Recipients or their servers are based outside the European Union. If you use our services and products while visiting countries outside the European Union or if we transfer your PII to Recipients or Recipients which have their servers located outside the European Union, you hereby consent to said transfer of your PII. The data protection and other laws of these countries may not be as comprehensive as those in the European Union − in these instances we will take steps to ensure that a similar level of protection is given to your PII.</p><h2>Retention</h2>
-<p>Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected.</p><h2>Information about us
-</h2>
-<p><strong>Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited (as applicable) Suite 601/701 Europort, Gibraltar.</strong></p>
+<p>The Company, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to&nbsp;support@thinkbingo.com&nbsp;and we will do our best to answer your questions in full as quickly as possible.</p>
+<h2>Personal Identifiable Information Collection</h2>
+<p>We collect PII when you register and use our gaming services, make customer inquiries, register for information or other services from the Company (including through Facebook applications), or when you respond to communications from us (such as questionnaires or surveys). The PII we will collect from you may include, for example, your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which the Company shall undertake.</p>
+<h2>How Your Information is Processed ("Purposes")</h2>
+<p>The PII which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with gaming services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services, websites or products or those of other entities existing within the same group of companies in which Company exists (the "Group") or those of the Brand Owner or any of their business partners and affiliates ; (v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PII.</p>
+<h2>To Whom Your Information is Disclosed ("Recipients")</h2>
+<p>Your PII may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within the Group and their employees who have a need to know such information; (ii) to the Brand Owner; (iii) to any third parties which provide services to the Company or its subcontractors in order to allow or enable us to provide you with gaming services, including by way of example affiliate networks, payment processors and data verifiers; (iv) to any third parties who provide the Group services in relation to the operation of the Website; (v) to any auditors, contractors or other advisers auditing any of Group's business processes; (vi) to any third parties who organize events or tournaments on behalf of or in conjunction with any companies within the Group; and (vii) to any potential purchasers or investors in any company within the Group. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PII and handle it in accordance with the relevant laws.</p>
+<p>We ensure that your information will not be disclosed to government institutions or authorities except if required by law and regulations.</p>
+<h2>Your Choice ? Direct Marketing</h2>
+<p>Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the 'unsubscribe' link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call 1-800-480-5170 or write to&nbsp;support@thinkbingo.com</p>
+<h2>Your Rights in relation to your PII</h2>
+<p>You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email&nbsp;support@thinkbingo.com. We may levy a small charge to cover the cost of administration.</p>
+<h2>Security</h2>
+<p>We have implemented suitable security policies, rules and technical measures to protect and safeguard all the PII under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors who have access to, and are associated with the processing of your PII, are obliged to respect your privacy.</p>
+<h2>Cookies</h2>
+<p>We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit the Website, note the advertisements you click on and the other sites you enter via a link from the Website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of the Website. The Website uses four types of cookies: (i) 'session cookies' which are stored only temporarily during a browsing session in order to allow normal use of the system and are deleted from your device when the browser is closed; (ii) 'first party cookies' / 'persistent cookies' which are set and read only by the Website, saved on your computer for a fixed period (usually a year or longer) and are not deleted when the browser is closed. Such cookies are used where we need to know who you are for repeat visits, for example to allow us to store your preferences for the next login (such as user name and/or password); (iii) 'third party cookies' which are set by other websites who run content on the page you are viewing, for example by third party analytics companies who monitor and analyze our web access; and (iv) 'flash cookies' which are saved during game play to allow quicker and better gaming experience. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific Website content unless you accept the use of a cookie or similar device.</p>
+<h2>Advertisements</h2>
+<p>We use a third?party advertising technology to serve advertisements when you visit the Website. This technology uses information about your visits to the Website (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third?party 'cookie' may be placed or recognized on your browser. We also transmit Website usage information about visitors to the Website to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use 'Web beacons' and 'cookies' provided by our third?party advertisement server on the Website. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non?personal information used to target advertisements to you, please visit www.networkadvertising.org and follow the "opt?out" instructions.</p>
+<h2>Protection of Minors</h2>
+<p>The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with PII represents to us that they are 18 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any PII submitted by or collected from you. If we become aware that a minor has attempted to or has submitted PII, we may not accept this information and may take steps to remove such information from our records.</p>
+<h2>International Transfer</h2>
+<p>Since we operate globally, it may be necessary to transfer your PII to Recipients who are located in countries outside the European Union. This may happen if our servers or such Recipients or their servers are based outside the European Union. If you use our services and products while visiting countries outside the European Union or if we transfer your PII to Recipients or Recipients which have their servers located outside the European Union, you hereby consent to said transfer of your PII. The data protection and other laws of these countries may not be as comprehensive as those in the European Union ? in these instances we will take steps to ensure that a similar level of protection is given to your PII.</p>
+<h2>Retention</h2>
+<p>Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected.</p>
+<h2>Information about us</h2>
+<p><strong>Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited (as applicable) Suite 601/701 Europort, Gibraltar.</strong> </p>
 <p>This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.</p>
-  <p>If you have any enquiry about this Privacy Policy please write to <a href="mailto:support@thinkbingo.com">support@thinkbingo.com</a>.</p></div>		
-<!--
-	
-	<p>Please also read our <a href="terms.php">Terms and Conditions</a> and <a href="banking.php">Banking Policy.</a></p>
-	
-	
-	<p>The brands on this website (the &quot;Website&quot;) are owned by Cashcade Ltd (the &quot;Brand Owner&quot;). The Website and the services offered on it are powered by a software belonging to Brigend Limited (&quot;Brigend&quot;) and operated by Cassava Enterprises (Gibraltar) Limited (&quot;Cassava&quot;), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services.</p>
-	<p> As such, all personal data and customer funds are transferred to and stored by Cassava on its servers in Gibraltar. Cassava is happy to provide you with online bingo services under its remote gambling licence issued by the Government of Gibraltar, and is committed, along with the Brand Owner, (collectively the &quot;Company&quot;, &quot;we&quot; or &quot;us&quot;), to preserving the privacy of all visitors to the Website.</p>
-	<p> When you use the Company's bingo services, you shall be asked to provide personal identifiable information (&quot;PII&quot;) to the Company. The Company, as mentioned above, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online bingo services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to our Customer Services Team and we will do our best to answer your questions in full as quickly as possible.</p>
-	<h2>Personal Identifiable Information Collection</h2>
-	<p> We collect PII when you register and use our bingo services, make customer inquiries, register for information or other services from the Company, or when you respond to communications from us (such as questionnaires or surveys). The PII we will collect from you may include, for example, your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which the Company shall undertake.</p>
-	<h2>How Your Information is Processed (&quot;Purposes&quot;)</h2>
-	<p> The PII which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with bingo services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services or products or those of other entities existing within the same group of companies in which Cassava exists (the &quot;Cassava Group&quot;); (v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PII.</p>
-	<h2>To Whom Your Information is Disclosed (&quot;Recipients&quot;)</h2>
-	<p>Your PII may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within the Cassava Group and their employees who have a need to know such information; (ii) to any third parties which provide services to the Company in order to allow or enable us to provide you with bingo services, including by way of example affiliate networks, payment processors and data verifiers; (iii) to any auditors, contractors or other advisers auditing any of Cassava Group's business processes; and (iv) to any potential purchasers or investors in any company within the Cassava Group. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PII and handle it in accordance with the relevant laws.</p>
-	<p> We ensure that your information will not be disclosed to government institutions or authorities except if required by law.</p>
-	<h2>Your Choice - Direct Marketing</h2>
-	<p> Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by sending a blank message with the word &quot;Remove&quot; in the subject area to our Customer Services Team. If you would like to stop receiving our mail or telemarketing offers, please call 1-800-480-5170 or write to Cassava Enterprises (Gibraltar) Limited, Suite 601/701, Europort, Gibraltar.</p>
-	<h2>Your Rights in relation to your PII</h2>
-	<p> You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please contact our Customer Services Team. We may levy a small charge to cover the cost of administration.</p>
-	<h2>Security</h2>
-	<p> We have implemented suitable security policies, rules and technical measures to protect and safeguard all the PII under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors who have access to, and are associated with the processing of your PII, are obliged to respect your privacy.</p>
-	<h2>Cookies</h2>
-	<p> We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. Our website uses four types of cookies: (i) 'session cookies' which are stored only temporarily during a browsing session in order to allow normal use of the system and are deleted from your device when the browser is closed; (ii) 'first party cookies' / 'persistent cookies' which are set and read only by our website, saved on your computer for a fixed period (usually a year or longer) and are not deleted when the browser is closed. Such cookies are used where we need to know who you are for repeat visits, for example to allow us to store your preferences for the next login (such as user name and/or password); (iii) 'third party cookies' which are set by other websites who run content on the page you are viewing, for example by third party analytics companies who monitor and analyze our web access; and (iv) 'flash cookies' which are saved during game play to allow quicker and better gaming experience. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the &quot;Help&quot; section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device.</p>
-	<h2>Advertisements</h2>
-	<p> We use a third-party advertising technology to serve advertisements when you visit our websites. This technology uses information about your visits to our websites (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third-party 'cookie' may be placed or recognized on your browser. We also transmit website usage information about visitors to our websites to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use 'Web beacons' and 'cookies' provided by our third-party advertisement server on our sites. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non-personal information used to target advertisements to you, please visit www.networkadvertising.org and follow the &quot;opt-out&quot; instructions.</p>
-	<h2>Protection of Minors</h2>
-	<p> The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with PII represents to us that they are 18 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any PII submitted by or collected from you. If we become aware that a minor has attempted to or has submitted PII, we may not accept this information and may take steps to remove such information from our records.</p>
-	<h2>International Transfer</h2>
-	<p> Since we operate globally, it may be necessary to transfer your PII to other companies within the Cassava Group or to service providers of the Company and the Cassava Group (&quot;Service Providers&quot;) located in countries outside the European Union. This may happen if our servers, the Service Providers, or such companies are based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your PII to such companies and Service Providers, and you hereby consent to said transfer of your PII.. The data protection and other laws of these countries may not be as comprehensive as those in the European Union - in these instances we will take steps to ensure that a similar level of protection is given to your PII.</p>
-	<h2>Mergers and other events requiring transfer</h2>
-	<p> If the Company and/or Brigend should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of its assets, or transfer substantially all or part of its relevant assets to a third party, the Company and/or Brigend is entitled to share or transfer the PII and all other information you have provided to the Company and/or Brigend to potential and subsequent business and merger partners.</p>
-	<p><strong>Retention</strong></p>
-	<p> Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected.</p>
-	<p><strong>Information about us</strong></p>
-	<p><strong>Cassava Enterprises (Gibraltar) Limited Suite 601/701 Europort, Gibraltar</strong></p>
-	<p> This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.</p>
-	<p> If you have any enquiry about this Privacy Policy please contact our Customer Services Team.</p>
-	<p> [ Last amended: 6th August 2009 ]</p>
-	
-<h2>Privacy Policy</h2>
-<p>IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW</p>
-
-<h3>Introduction</h3>
-<p>"thinkbingo.com" and "thinkbingo" are brands of and owned by Cashcade Limited ("Cashcade"). This website (the &quot;<strong>website</strong>&quot;) and the services offered on it are powered by software belonging to Brigend Limited ("<strong>Brigend</strong>") and operated by Cassava Enterprises (Gibraltar) Limited ("<strong>Cassava</strong>"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. </p>
-  
-</p>
-<p>As such, all personal data and customer funds are transferred to and stored by Cassava on its servers in Gibraltar. Cassava is happy to provide you with online bingo services under its remote gambling licence issued by the Government of Gibraltar, and is committed, along with the Brand Owner, (collectively the "<strong>Company</strong>", "<strong>we</strong>" or "<strong>us</strong>"), to preserving the privacy of all visitors to the Website.
-  </p> 
-</p>
-<p>When you use the Company's bingo services, you shall be asked to provide personal identifiable information ("<strong>PII</strong>") to the Company. </p>
-  
-</p>
-<p>The Company, as mentioned above, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online bingo services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then please <a href="contact.php">Contact Us</a>.  We will do our best to answer your questions in full as quickly as possible. </p>
-  
-</p>
-<h3>Personal Identifiable Information Collection</h3>
-We collect PII when you register and use our bingo services, make customer inquiries, register for information or other services from the Company, or when you respond to communications from us (such as questionnaires or surveys). The PII we will collect from you may include, for example, your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which the Company shall undertake. </p>
-
-
-<h3>How Your Information is Processed ("Purposes")</h3>
-The PII which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with bingo services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services or products or those of other entities existing within the same group of companies in which Cassava exists (the "Cassava Group"); (v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PII. 
-</p>
-
-<h3>To Whom Your Information is Disclosed ("Recipients") </h3>
-<p>Your PII may, for the  Purposes, be disclosed for processing to any of the following Recipients: (i)  to any companies within the Cassava Group and their employees who have a need  to know such information; (ii)  to any  third parties which provide services to the Company in order to allow or enable  us to provide you with bingo services, including by way of  example affiliate networks, payment processors and data verifiers; (iii) to any auditors, contractors or other  advisers auditing any of Cassava Group's business processes; and (iv) to any  potential purchasers or investors in any company within the Cassava Group. Any  processing performed by any Recipients will, where required by law, be governed  by a data processing agreement in the form required by law, preserving any and  all of your statutory data protection rights and obligating the Recipients to  respect the PII and handle it in accordance with the relevant laws. </p>
-<p>We ensure that your information will not be disclosed to government institutions or authorities except if required by law.
-  </p>
-  
-</p>
-<h3>Your Choice - Direct Marketing</h3>
-Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by <a href="contact.php">Contacting Us</a>  If you would like to stop receiving our mail or telemarketing offers, please call 0845 050 2292 between 10am-6pm Monday to Friday</p>
-
-<h3>Your Rights in relation to your PII</h3>
-You can <a href="contact.php">Contact Us</a>at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. We may levy a small charge to cover the cost of administration. </p>
-
-
-<h3>Security</h3>
-We have implemented suitable security policies, rules and technical measures to protect and safeguard all the PII under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors who have access to, and are associated with the processing of your PII, are obliged to respect your privacy. </p>
-
-<h3>Cookies</h3>
-We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit the Website, note the advertisements you click on and the other sites you enter via a link from the Website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of the Website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device </p>
-
-<h3>Advertisements</h3>
-We use a third-party advertising technology to serve advertisements when you visit our websites. This technology uses information about your visits to our websites (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third-party 'cookie' may be placed or recognized on your browser. We also transmit website usage information about visitors to our websites to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use 'Web beacons' and 'cookies' provided by our third-party advertisement server on our sites. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non-personal information used to target advertisements to you, please visit www.networkadvertising.org and follow the "opt-out" instructions. </p>
-
-<h3>Protection of Minors</h3>
-The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with PII represents to us that they are 18 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any PII submitted by or collected from you. If we become aware that a minor has attempted to or has submitted PII, we may not accept this information and may take steps to remove such information from our records. </p>
-
-<h3>International Transfer</h3>
-
-Since we operate globally, it may be necessary to transfer your PII to other companies within the Cassava Group or to service providers of the Company and the Cassava Group ("Service Providers") located in countries outside the European Union. This may happen if our servers, the Service Providers, or such companies are based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your PII to such companies and Service Providers, and you hereby consent to said transfer of your PII.. The data protection and other laws of these countries may not be as comprehensive as those in the European Union - in these instances we will take steps to ensure that a similar level of protection is given to your PII. </p>
-
-<h3>Retention</h3>
-Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected. </p>
-
-<h3>Information about us</h3>
-
-<p>Cassava Enterprises (Gibraltar) Limited Suite 601/701 Europort,  Gibraltar </p>
-<p>This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.
-  </p>
-</p>
-<p>If you have any enquiry about this Privacy Policy please <a href="contact.php">Contact Us</a>
-  </p>-->
-  
-  
-  </div>
+<p>If you have any enquiry about this Privacy Policy please write to&nbsp;support@thinkbingo.com.</p></div><!-- skins/thinkbingo/include/htmlBottom.php -->
+	</div>
 </form>
 <div id="bottomnav">
 	<div class="left-edge"><!-- --></div>
 	<div id="bottom-nav-bg">
-	 <ul class="mainmenu">
-		<li><a href="/skin/responsiblegaming.php">Responsible Gaming</a></li>
-		<li><a href="/skin/aboutus.php">About Us</a></li>
-		<li><a href="/skin/terms.php">Terms &amp; Conditions</a></li>
-		<li><a href="/skin/privacy.php">Privacy Policy</a></li>
-		<li><a href="/skin/banking.php">Banking Policy</a></li>
-		<li><a href="http://affiliate.thinkbingo.com" target="_blank">Affiliates</a></li>
-		<li><a href="/skin/contact.php">Contact Us</a></li>
-    <li class="last"><a href="/skin/fairplay.php">Fair Play</a></li>
-	  </ul>
+		<ul class="mainmenu">
+			<li><a href="/skin/responsiblegaming.php">Responsible Gaming</a></li>
+			<li><a href="/skin/aboutus.php">About Us</a></li>
+			<li><a href="/skin/terms.php">Terms &amp; Conditions</a></li>
+			<li><a href="/skin/privacy.php">Privacy Policy</a></li>
+			<li><a href="/skin/banking.php">Banking Policy</a></li>
+			<li><a href="http://affiliate.thinkbingo.com/" target="_blank">Affiliates</a></li>
+			<li><a href="/skin/contact.php">Contact Us</a></li>
+			<li class="last"><a href="/skin/fairplay.php">Fair Play</a></li>
+		</ul>
 	</div>
 	<div class="right-edge"><!-- --></div>
- </div>
-  <!-- <div id="left-side-footer"><!-- </div>-->
+</div>
 <div id="think_footer" style="background:none">
-     <div id="cards">
-       	
-       	<map name="cardsLinks1">
-       		<area shape="rect" coords="332,0,357,27" href="/skin/responsiblegaming.php">
-       	</map>
-        <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.thinkbingo.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-     </div>
-	<img src="images/homepage_v3/entropay.png" width="57" alt="entropay">
-	<img src="images/homepage_v3/Maestro.png" alt="Maestro">
-	<img src="images/homepage_v3/Mastercard.png" alt="Mastercard">
-	<img src="images/homepage_v3/NETeller.png" width="57" alt="NETeller">
-	<img src="images/homepage_v3/payPaysafe.png" width="57" alt="payPaysafe">
-	<a href="http://www.ukash.com" target="_blank">
-	<img src="images/homepage_v3/payUkash.png" alt="payUkash">
+	<div id="cards">
+		<map name="cardsLinks1">
+			<area shape="rect" coords="332,0,357,27" href="/skin/responsiblegaming.php">
+		</map>
+		<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.thinkbingo.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+	</div>
+	<img border="0" src="../skin/images/footer-icons/footer-logos-new-visa.jpg" alt="Visa">
+	<img border="0" src="../skin/images/footer-icons/footer-logos-mastercard.jpg" alt="Mastercard">
+	<img border="0" src="../skin/images/footer-icons/footer-logos-maestro.jpg" alt="Maestro">
+	<img border="0" src="../skin/images/footer-icons/footer-logos-paysafecard.jpg" alt="PaySafe Card">
+	<img border="0" alt="paypal" src="../skin/images/footer-icons/new-paypal.jpg">
+	<a target="_blank" href="https://secure.ecogra.org/certification/471b0f6e-810a-44f2-afd6-ce0d02c03013">
+		<img border="0" src="../skin/images/footer-icons/footer-logos-ecogra.png" alt="E Cogra">
 	</a>
-	<img src="images/homepage_v3/visacredit.png" width="57" alt="visacredit">
-	<img src="images/homepage_v3/visadebit.png" alt="visadebit">
-	<img src="images/homepage_v3/visaelectron.png" alt="visaelectron">
-  <img src="images/homepage_v3/new-paypal.jpg" alt="pay pal">
-  <img src="images/homepage_v3/tb2_cards_tech.gif" alt="">
-	<a href="http://www.gbga.gi/" target="_blank" title="gbga link">
-		<img src="images/homepage_v3/GBGA.png">
+	<a target="_blank" href="https://www.gibraltar.gov.gi/new/remote-gambling" title="Gibraltar Remote Gambling">
+	<img border="0" src="../skin/images/footer-icons/footer-logos-crest.png" alt="Crest">
+	</a> 
+	<a title="gamecare" target="_blank" href="http://www.gamcare.org.uk/">
+	<img border="0" src="../skin/images/footer-icons/GamCare_icon.png" alt="Gamcare">
 	</a>
-
-  
-  <a href="https://www.gibraltar.gov.gi/new/remote-gambling">
-  <img alt="Secure Site" src="http://www.thinkbingo.com/skin/images/homepage_v3/crestlogo_icon.gif">
-  </a>
-  <a target="_blank" href="http://www.gamcare.org.uk">
-  <img alt="" src="http://www.itvbingo.com/skin/images/GamCare_icon.gif">
-  </a>
-  <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank">
-    <img src="images/gclogowhitebg.jpg">
-  </a>
- </div>
-<!-- <div id="right-side-footer"></div>-->
- <div id="footsubnav">
-    <p>This website is operated by Cassava Enterprises (Gibraltar) Limited, which is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions. <br>
-        As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank">United Kingdom Gambling Commission</a>, pursuant to the UK Gambling Act. (License Number 000-039028-R-319297-0016)<br>
-      Our address: 601-701 Europort, Gibraltar.<br>
-      We encourage responsible gambling and support GameCare.</p> 	 
- </div>
+	<a title="gbga link" target="_blank" href="http://gbga.gi/">
+	<img border="0" src="../skin/images/footer-icons/footer-logos-GBGA.png" alt="GBGA">
+	</a>
+	<a target="_blank" href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRAccountDetails.aspx?accountNo=39028">
+	<img src="../skin/images/gclogowhitebg.jpg" alt="Gambling Commission">
+	</a>
+	<a target="_blank" href="http://www.gambleaware.co.uk/">
+	<img border="0" src="../skin/images/footer-icons/gambleaware.jpg" alt="gambleaware">
+	</a>
+	<a title="responsible gambling" href="/responsible.php">
+	<img border="0" src="../skin/images/footer-icons/footer-logos-18plus.png" alt="18 Plus">
+	</a>
+	<a target="_blank" href="http://www.dragonfishtech.com/">
+	<img border="0" src="../skin/images/footer-icons/dragonfishnew.png" alt="dragonfishnew">
+	</a>
+</div>
+<div id="footsubnav">
+	<p>This website is operated by Cassava Enterprises (Gibraltar) Limited, which is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions.<br>
+		Cassava Enterprises (Gibraltar) Limited is incorporated in Gibraltar, which is part of the European Union.<br>
+		As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company incorporated in Gibraltar, which is licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank">Great Britain Gambling Commission</a>, pursuant to the UK Gambling Act. (License Number 000-039028-R-319297-0016)<br>
+		Our services in European Union member states (except for states in which our services are provided under a local license) are operated by Virtual Digital Services Limited, a company incorporated in Gibraltar, which is part of the European Union.<br>
+		Virtual Digital Services Limited operates under the auspices of a gaming license provided under the laws of Gibraltar.</p>
+</div>
 </div>
 <!-- col1 Ends -->
-
- <div id="col3">
-    <div id="col3_content" class="clearfix">
-<!--      
-    <div id="winners-flash">
-    		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="211" height="234">
-        <param name="movie" value="swf/winners_area2.swf" />
-        <param name="wmode" value="transparent">
-        <param name="quality" value="high" />
-   <embed src="swf/winners_area2.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="211" height="234" wmode="transparent"></embed>
-	 </object>
-    	</div>
--->
-
-
-
-
-           <div id="no_tvad">
-
-		</div>
-        </div>
-        </div>
-	
-	
-	
-	
-	
-    </div>
+<div id="col3">
+	<div id="col3_content" class="clearfix">
+			<div id="no_tvad"><!-- --></div>
+	</div>
+</div>
+</div>
 </div>
  <!-- end main -->
-   
 
-<!-- added 150509 -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ?
-"https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost +
-"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	document.write(unescape("%3Cscript src='https://ssl.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6654668-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+	try
+	{
+		var pageTracker = _gat._getTracker("UA-6654668-1");
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
 
 
 
-
-
+<!-- end skins/thinkbingo/include/htmlBottom.php -->
 </body></html>
