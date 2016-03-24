@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pineconeresearch.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pineconeresearch.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ _We take our panelists’ privacy very seriously. We have created this Privacy N
 
 You confirm that PineCone Research has the express consent of each member of your household, including the parent or legal guardian of any minor in your household, to our data collection and use practices as described in this Notice. **Please be sure each member of your household reads this Notice carefully.**
 
-If you have any questions or concerns about this Notice or our privacy practices, please [contact us](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/contact.asp).
+If you have any questions or concerns about this Notice or our privacy practices, please [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp).
 
   * Our commitment to our panelists
   * What information we collect
@@ -124,9 +124,9 @@ We will provide your information to a third party if the law requires it or if i
   6. CHOICES AND ACCESS
 **
 
-You may review, correct, or update your profile information at any time by logging into the [Site](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/profile.asp).
+You may review, correct, or update your profile information at any time by logging into the [Site](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/profile.asp).
 
-**Participation is always voluntary.** You may [contact us](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/contact.asp) if at any time you would like to suppress or otherwise limit our use of the personal identifying information we hold about you or your household.
+**Participation is always voluntary.** You may [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp) if at any time you would like to suppress or otherwise limit our use of the personal identifying information we hold about you or your household.
 
 If you do not want to receive electronic newsletters, marketing communications, and other communications related to other panels, products or services offered by us, you can click on the “unsubscribe” link available in each email and request to be removed from our email marketing database.
 
@@ -156,7 +156,7 @@ We will retain your personal identifying information for as long as long as need
   10. ABOUT CHILDREN
 **
 
-For our research, we collect information about every member of your household and this would include any children in your household. If we collect information about children, we take special care. When we collect information online directly from very young children (under age 13), special regulations apply. The Children's Online Privacy Protection Act ("COPPA") requires that we get the verifiable, informed consent of the parent or guardian and we comply with this law. The parent or guardian may cancel this consent at any time. If at any time you would like to view or update the profile information in our database, please see you [profile](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/profile.asp). You may also [contact us](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/contact.asp) at any time if you would like to learn about any of other information we may have about your children. All of the other provisions of this Notice apply to information about both adults and children of every age.
+For our research, we collect information about every member of your household and this would include any children in your household. If we collect information about children, we take special care. When we collect information online directly from very young children (under age 13), special regulations apply. The Children's Online Privacy Protection Act ("COPPA") requires that we get the verifiable, informed consent of the parent or guardian and we comply with this law. The parent or guardian may cancel this consent at any time. If at any time you would like to view or update the profile information in our database, please see you [profile](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/profile.asp). You may also [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp) at any time if you would like to learn about any of other information we may have about your children. All of the other provisions of this Notice apply to information about both adults and children of every age.
 
 **
   11. UPDATES TO THIS NOTICE
@@ -168,7 +168,7 @@ We may change this Notice. Please take a look at the “Effective Date” at the
   12. CONTACTING US
 **
 
-If you have any questions about this Notice, please [contact us](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/contact.asp). You can also write to us at PineCone Research, 250 East 5th Street, 9th Floor, Cincinnati, OH 45202, Attn: Privacy.
+If you have any questions about this Notice, please [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp). You can also write to us at PineCone Research, 250 East 5th Street, 9th Floor, Cincinnati, OH 45202, Attn: Privacy.
 
 Please note that online communications are not always secure; so please do not include sensitive information in your inquiry to us.
 
@@ -179,4 +179,4 @@ Please note that online communications are not always secure; so please do not i
 
 **THANK YOU - WE APPRECIATE AND VALUE YOUR PARTICIPATION!**
 
-Nielsen (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, and related assets. The company has a presence in approximately 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](https://web.archive.org/web/20150315085206id_/https%3A//www.pineconeresearch.com/www.nielsen.com).
+Nielsen (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, and related assets. The company has a presence in approximately 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/www.nielsen.com).
