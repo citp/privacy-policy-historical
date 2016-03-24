@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asnews.com.sg privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124065532id_/http%3A//asnews.com.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asnews.com.sg privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324054414id_/http%3A//asnews.com.sg/privacy.php) for the most accurate reproduction.*
 
 # As Singapore
 
