@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054316id_/https%3A//www.overdrive.com/fine-print/account-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324055834id_/https%3A//www.overdrive.com/fine-print/account-privacy-policy) for the most accurate reproduction.*
 
 # OverDrive Account Privacy Policy · OverDrive: eBooks, audiobooks and videos for libraries
 
@@ -80,7 +80,7 @@ OverDrive may also use and share non-personally identifiable information, such a
 
 While using your OverDrive account, you may enjoy opportunities to post reviews, rate digital content, and share digital content information with others in public forums and on social networking websites such as Facebook, Twitter, and Goodreads. When you share such information, it is made public and is not subject to this Privacy Policy. We are not responsible for any third party's use of information you publicly display or disclose through our Services.
 
-You may not share your information regarding your OverDrive account, including your credentials, and/or other information stored on your account.
+You may not share your information regarding your OverDrive account, including but not limited to your login credentials such as your password.
 
 ### How can I change my preferences or close my OverDrive account?
 
@@ -106,4 +106,4 @@ OverDrive complies with the U.S. – EU Safe Harbor Framework and the U.S. – S
 
 If you have questions or concerns regarding this Privacy Policy, please contact OverDrive via email at [privacy@overdrive.com](mailto:privacy@overdrive.com).
 
-This Privacy Policy was last updated April 2015.
+This Privacy Policy was last updated March 2016.
