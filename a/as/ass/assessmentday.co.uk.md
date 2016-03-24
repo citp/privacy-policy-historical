@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929074628id_/https%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093814id_/https%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AssessmentDay.co.uk
 
@@ -54,10 +54,10 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £5 to cover administration expenses to the following address:
 
-28a Cole Street  
-Borough  
+57 Webber Street  
+Southwark  
 London  
-SE1 4YH  
+SE1 0RF  
 
 
 **Other Websites**
