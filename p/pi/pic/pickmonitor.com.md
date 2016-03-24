@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickmonitor.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324091840id_/https%3A//www.pickmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickmonitor.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324072940id_/https%3A//www.pickmonitor.com/privacy) for the most accurate reproduction.*
 
-# PickMonitor Privacy Policy
+# Pick Monitor Privacy Policy
 
 This privacy notice discloses the privacy practices for www.pickmonitor.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
