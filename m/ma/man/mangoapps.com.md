@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115520id_/http%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324145859id_/https%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MangoApps
+# MangoApps - Privacy Policy
 
-At MangoApps, we recognize that privacy is very important. This document outlines the types of personal information we receive and collect when you use MangoApps's services, as well as some of the steps we take to safeguard information. 
-
-### We collect personal information and other data
+## We collect personal information and other data
 
 "Personal information" that you voluntarily provide to us personally identifies you by name, email address, billing information, or other data which can be reasonably linked to such information by MangoApps. 
 
@@ -14,7 +12,7 @@ MangoApps uses cookies and other technologies to enhance your online experience 
 
 MangoApps's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. 
 
-### Uses
+## Uses
 
 We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
 
