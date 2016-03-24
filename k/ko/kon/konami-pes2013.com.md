@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konami-pes2013.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915121242id_/https%3A//uk.games.konami-europe.com/staticpages/view/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami-pes2013.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324215814id_/https%3A//uk.games.konami-europe.com/staticpages/view/5) for the most accurate reproduction.*
 
 # Konami Digital Entertainment
 
