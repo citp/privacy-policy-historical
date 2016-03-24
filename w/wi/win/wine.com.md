@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029050401id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324233252id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
