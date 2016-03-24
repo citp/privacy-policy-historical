@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122246id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324150047id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jacob Bromwell®
 
@@ -11,7 +11,7 @@ Rev: 8/28/2013
 
 * * *
 
-The Bromwell Company ("Bromwell") respects the privacy of every individual who visits bromwell.com, jacobbromwell.com, trizenium.com, and vermontpen.com (the "Websites") or responds to our guestbook, contests, or interactive advertisements. Bromwell's Privacy Policy outlines the information Bromwell will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising.
+The Bromwell Company ("Bromwell") respects the privacy of every individual who visits bromwell.com, jacobbromwell.com, trizenium.com, and luovasales.com (the "Websites") or responds to our guestbook, contests, or interactive advertisements. Bromwell's Privacy Policy outlines the information Bromwell will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising.
 
 We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under "Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely.
 
@@ -87,7 +87,7 @@ The security of your financial information is very important to us. In our effor
 
 Our Website has also obtained a digital certificate from Verisign, Inc., a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your financial information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small popup window displaying site-security information will appear. The certificate guarantees that your financial information is being transmitted in secure (encrypted) form to our Website Web server, not to some unknown or unauthorized server.
 
-Ultimately, your financial information is protected by the password you created when you created an account at JacobBromwell.com or VermontPen.com (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of Bromwell will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime by going to "User Registration". Log in with your email address and password, then click "Continue" and enter a new password.
+Ultimately, your financial information is protected by the password you created when you created an account at JacobBromwell.com (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of Bromwell will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime by going to "User Registration". Log in with your email address and password, then click "Continue" and enter a new password.
 
 ## CHANGES TO THE POLICY
 
