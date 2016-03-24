@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaclasssearch.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221122553id_/http%3A//usaclasssearch.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaclasssearch.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324034348id_/http%3A//www.usaclasssearch.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # USAClassSearch.com
 
