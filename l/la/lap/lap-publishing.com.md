@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030103646id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165249id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
 
@@ -19,7 +19,7 @@ Germany
 
 Fax: +49 681 37 20 174-9
 
-Email: info[at]lap-publishing.com
+Email: info@omniscriptum.com
 
 OmniScriptum GmbH & Co. KG is responsible for content according to §5 TMG
 
@@ -27,13 +27,16 @@ Register court/number: Handelsregister Amtsgericht Saarbrücken HRA 10356
 Identification Number (Verkehrsnummer): 13955  
 VAT Reg No: DE 258118575
 
-Partner with unlimited liability/Persönlich haftende Gesellschafterin: OmniScriptum Management GmbH
+Partner with unlimited liability/Persönlich haftende Gesellschafterin: OmniScriptum Holding GmbH
 
-Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 18918
+Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 19539
 
 Managing director/Geschäftsführung: Dr. Wolfgang Philipp Müller (CEO)
 
-Dieses Impressum gilt auch für die Facebookseite <https://www.facebook.com/lappublishing>.
+This impressum also applies to:   
+<https://www.facebook.com/OmniScriptum>  
+<https://twitter.com/OmniScriptum>  
+<https://plus.google.com/+OmniscriptumIhrVerlagshaus>.
 
 Website created by: OmniScriptum GmbH & Co. KG,   
 Bahnhofstrasse 28  
