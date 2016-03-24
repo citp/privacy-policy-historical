@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182609id_/http%3A//www.riogrande.com/Landing/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324022833id_/https%3A//www.riogrande.com/Landing/Privacy) for the most accurate reproduction.*
 
 # Privacy
+
+  
+
 
   
 
@@ -49,7 +52,7 @@ If you do not want To receive mailings, phone calls or e-mail from us in the fut
 
 Call us toll-free at **800.545.6566**
 
-Send e-mail using our [contact form](http://www.riogrande.com/Contact)
+Send e-mail using our [contact form](https://www.riogrande.com/Contact)
 
 Please feel free to review and correct your information at any time by calling 800.545.6566. If you have further questions regarding this privacy statement, just contact us by mail, phone or e-mail. We want you to rest assured that your information is always safe with us. Thanks!
 
@@ -57,3 +60,5 @@ Please feel free to review and correct your information at any time by calling 8
 
 
 * * *
+
+Rio Grande. Recommended by jewelers since 1944.
