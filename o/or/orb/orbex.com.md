@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbex.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914100704id_/https%3A//www.orbex.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbex.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324203429id_/https%3A//www.orbex.com/en/privacy-policy%2B%2B.html) for the most accurate reproduction.*
 
 # Orbex offers comprehensive privacy policy for your security
 
