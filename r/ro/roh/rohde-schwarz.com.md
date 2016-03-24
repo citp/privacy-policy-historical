@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630114039id_/http%3A//www.rohde-schwarz.com/en/general_information/statement-of-privacy_101515.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324214838id_/https%3A//www.rohde-schwarz.com/us/general_information/statement-of-privacy_101515.html) for the most accurate reproduction.*
 
-# Statement of Privacy - Rohde & Schwarz International
+# Statement of Privacy - Rohde & Schwarz United States
 
 The companies of the ROHDE & SCHWARZ group of companies (hereinafter respectively referred to as Rohde & Schwarz) are committed to respecting and protecting your privacy. This statement informs you about the data protection practices on Rohde & Schwarz websites, including what type of data is gathered on these websites, how the data is used and with whom the data is shared.
 
