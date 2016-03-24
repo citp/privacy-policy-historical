@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810010132id_/http%3A//www.benefito.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324182606id_/http%3A//www.benefito.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -15,9 +15,4 @@ If you choose to visit Benefito.com, your visit and any dispute over privacy is 
 
 More Information
 
-If you have additional questions, please contact us at any time at support@benefito.com. Or write to us at: 
-
-Privacy  
-Benefito.com  
-P.O. Box 74  
-Schwenksville, PA 19473-1077 
+If you have additional questions, please contact us at any time at support@benefito.com. 
