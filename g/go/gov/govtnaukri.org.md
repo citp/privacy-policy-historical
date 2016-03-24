@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtnaukri.org privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218045334id_/http%3A//www.govtnaukri.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtnaukri.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324160808id_/http%3A//www.govtnaukri.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Government Jobs India
 
