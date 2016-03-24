@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtalkafrica.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116031241id_/http%3A//techtalkafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtalkafrica.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324205938id_/http%3A//techtalkafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechTalkAfrica.com
 
