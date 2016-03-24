@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gunsinternational.com privacy policy that was archived on 2015-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151028001733id_/http%3A//www.gunsinternational.com/login/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gunsinternational.com privacy policy that was archived on 2016-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324095909id_/http%3A//www.gunsinternational.com/login/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -60,17 +60,19 @@
 
 <script src="//www.gunsinternational.com/js/jquery-1.11.1.min.js"></script>
 <script src="//www.gunsinternational.com/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//www.gunsinternational.com/js/bootstrap-multiselect.js"></script>
 
 <link href="//www.gunsinternational.com/css/bootstrap.min.css" rel="stylesheet">
 <link href="//www.gunsinternational.com/css/header.css" rel="stylesheet" type="text/css">
 <link href="//www.gunsinternational.com/css/nav.css" rel="stylesheet" type="text/css">
-<link href="//www.gunsinternational.com/css/gunsinternational.css?nc=B6109E03-BB96-DC81-C588BA1B21817A01" rel="stylesheet" type="text/css">
+<link href="//www.gunsinternational.com/css/gunsinternational.css?nc=905B4274-CB0D-D0F9-27EEAC9A25880A66" rel="stylesheet" type="text/css">
 <link href="//www.gunsinternational.com/css/footer.css" rel="stylesheet" type="text/css">
 <link href="//www.gunsinternational.com/css/print.css" media="print" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//www.gunsinternational.com/css/bootstrap-multiselect.css" type="text/css">
 
      
 
-	
+    
 
 
 
@@ -80,18 +82,18 @@
 <script>
 $(function() {
   $('a[href*=#ss_]:not([href=#ss_])').click(function() {
-	if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
 
-	  var target = $(this.hash);
-	  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-	  var fixed_target = target.offset().top - 70;
-	  if (target.length) {
-		$('html,body').animate({
-		  scrollTop: fixed_target
-		}, 1000);
-		return false;
-	  }
-	}
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      var fixed_target = target.offset().top - 70;
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: fixed_target
+        }, 1000);
+        return false;
+      }
+    }
   });
 });
 
@@ -106,9 +108,13 @@ $( document ).ready(function() {
         return $(this).height();
     }).get(),
 
-    maxHeight = Math.max.apply(null, heights);
-
-    $(".left_col").height(maxHeight-800);
+    maxHeight = Math.max.apply(null, heights) - 800;
+    
+    if(maxHeight < 2000){
+        $(".left_col").height(2000);
+    }else{
+        $(".left_col").height(maxHeight);
+    }
 });
 </script>
 <script type="text/javascript">var switchTo5x=true;</script>
@@ -184,7 +190,7 @@ $( document ).ready(function() {
                         <td>
                             
                                 <button type="button" class="navbar-toggle  visible-xs" style="float:left;margin-left:10px" onclick="window.location.href='http://www.gunsinternational.com/sign-on.cfm'">
-                                   <span class="nav" style="color:white">LOGIN</span>
+                                   <span class="nav" style="color:white">Sign In</span>
                                 </button>  
                                
                         </td>
@@ -209,8 +215,8 @@ $( document ).ready(function() {
                 <ul class="nav navbar-nav hidden-xs">
                     <li>
                         
-                            <a href="http://www.gunsinternational.com/sign-on.cfm" class="hidden-sm">Sign On</a>
-                            <a href="http://www.gunsinternational.com/sign-on.cfm" class="visible-sm">Login</a>
+                            <a href="http://www.gunsinternational.com/sign-on.cfm" class="hidden-sm">Sign In</a>
+                            <a href="http://www.gunsinternational.com/sign-on.cfm" class="visible-sm">Sign In</a>
                         
                     </li>
                 
@@ -219,15 +225,15 @@ $( document ).ready(function() {
                             <div class="input-group">
                                 <div class="input-group-btn">
                                     <select name="qs_cat" class="form-control selectSearch">
-                                        <option value="">All</option> 
-                                        <option value="Rifles">Rifles</option> 
-                                        <option value="Shotguns">Shotguns</option> 
-                                        <option value="Handguns">Handguns</option> 
-                                        <option value="Pistols">Pistols</option> 
-                                        <option value="Revolvers">Revolvers</option> 
-                                        <option value="Gun Parts">Gun Parts</option> 
-                                        <option value="Accessories">Accessories</option> 
-                                        <option value="Services">Services</option> 
+                                    <option value="">All</option> 
+                                    <option value="Rifles">Rifles</option> 
+                                    <option value="Shotguns">Shotguns</option> 
+                                    <option value="Handguns">Handguns</option> 
+                                    <option value="Pistols">Pistols</option> 
+                                    <option value="Revolvers">Revolvers</option> 
+                                    <option value="Gun Parts">Gun Parts</option> 
+                                    <option value="Accessories">Accessories</option> 
+                                    <option value="Services">Services</option> 
                                     </select>    
                                 </div>
                                 
@@ -262,7 +268,7 @@ $( document ).ready(function() {
                                     </div>
                                     
                                     <div class="form-group">
-                                        <label for="cat_id">Category:<br> <span class="hint">Choose "More Options" to select multiple categories.</span> </label>
+                                        
                                         
 
 
@@ -276,7 +282,6 @@ $( document ).ready(function() {
 
 
 
-    
 
 
 
@@ -285,16 +290,7 @@ $( document ).ready(function() {
 
 
 
-
-
-
-
-
-	<select class="form-control" name="cat_id">
-
-
-<option value="0">All</option>
-
+<select class="form-control" name="cat_id_advanced_search_dd" id="cat_id_advanced_search_dd" multiple="multiple" size="1">
 
 
 
@@ -569,6 +565,13 @@ $( document ).ready(function() {
 	<option value="540">
     
     A Square Rifles
+    
+    </option>
+
+    
+	<option value="1642">
+    
+    AAC - Advanced Armament
     
     </option>
 
@@ -979,6 +982,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1634">
+    
+    ATI - American Tactical Imports Pistols
+    
+    </option>
+
+    
 	<option value="1365">
     
     ATI - American Tactical Imports Rifles
@@ -1063,6 +1073,20 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1649">
+    
+    BCM Rifles
+    
+    </option>
+
+    
+	<option value="1636">
+    
+    Beeman Airguns
+    
+    </option>
+
+    
 	<option value="1467">
     
     Benchrest and Target Pistols
@@ -1122,6 +1146,13 @@ $( document ).ready(function() {
 	<option value="597">
     
     Benelli Shotguns
+    
+    </option>
+
+    
+	<option value="1648">
+    
+    Benelli Shotguns - O/U
     
     </option>
 
@@ -1801,6 +1832,13 @@ $( document ).ready(function() {
 	<option value="1461">
     
     Chiappa Rifles
+    
+    </option>
+
+    
+	<option value="1641">
+    
+    Chiappa Shotguns
     
     </option>
 
@@ -2757,6 +2795,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1638">
+    
+    DWM Rifles
+    
+    </option>
+
+    
 	<option value="240">
     
     EAA Pistols
@@ -2795,6 +2840,13 @@ $( document ).ready(function() {
 	<option value="1211">
     
     Enfield Rifles
+    
+    </option>
+
+    
+	<option value="1639">
+    
+    Evans Antique Rifles
     
     </option>
 
@@ -3254,6 +3306,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1633">
+    
+    Heritage Revolvers
+    
+    </option>
+
+    
 	<option value="483">
     
     Heym Drilling - Combination
@@ -3681,6 +3740,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1650">
+    
+    KRISS Rifles
+    
+    </option>
+
+    
 	<option value="714">
     
     L.C. Smith Shotguns
@@ -3880,6 +3946,13 @@ $( document ).ready(function() {
 	<option value="829">
     
     Manufrance Shotguns
+    
+    </option>
+
+    
+	<option value="1645">
+    
+    Manurhin
     
     </option>
 
@@ -4270,9 +4343,16 @@ $( document ).ready(function() {
     </option>
 
     
-	<option value="76">
+	<option value="1640">
     
     Muzzleloading Pistols - Modern &amp; Replica Percussion
+    
+    </option>
+
+    
+	<option value="76">
+    
+    Muzzleloading Revolvers - Modern &amp; Replica
     
     </option>
 
@@ -4335,7 +4415,7 @@ $( document ).ready(function() {
     
 	<option value="1496">
     
-    NEMO Arms RIfles
+    NEMO Arms Rifles
     
     </option>
 
@@ -4581,6 +4661,13 @@ $( document ).ready(function() {
 	<option value="806">
     
     Perugini &amp; Visini Shotguns
+    
+    </option>
+
+    
+	<option value="1632">
+    
+    Phoenix Arms 
     
     </option>
 
@@ -6090,6 +6177,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1631">
+    
+    Smith &amp; Wesson Revolvers - Model 2
+    
+    </option>
+
+    
 	<option value="1319">
     
     Smith &amp; Wesson Revolvers - Model 10
@@ -6163,6 +6257,20 @@ $( document ).ready(function() {
 	<option value="1325">
     
     Smith &amp; Wesson Revolvers - Model 36
+    
+    </option>
+
+    
+	<option value="1644">
+    
+    Smith &amp; Wesson Revolvers - Model 37
+    
+    </option>
+
+    
+	<option value="1630">
+    
+    Smith &amp; Wesson Revolvers - Model 53
     
     </option>
 
@@ -6415,6 +6523,13 @@ $( document ).ready(function() {
 	<option value="1419">
     
     Stag Arms Rifles
+    
+    </option>
+
+    
+	<option value="1643">
+    
+    Standard Manufacturing Co.
     
     </option>
 
@@ -7399,6 +7514,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1646">
+    
+    Winchester Shotguns - Model 21 Heavy Duck
+    
+    </option>
+
+    
 	<option value="712">
     
     Winchester Shotguns - Model 23
@@ -7437,6 +7559,13 @@ $( document ).ready(function() {
 	<option value="715">
     
     Winchester Shotguns - Model 42
+    
+    </option>
+
+    
+	<option value="1635">
+    
+    Winchester Shotguns - Model 50
     
     </option>
 
@@ -7817,6 +7946,13 @@ $( document ).ready(function() {
     </option>
 
     
+	<option value="1637">
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;Clay Target Throwing Machines
+    
+    </option>
+
+    
 	<option value="921">
     
     &nbsp;&nbsp;&nbsp;&nbsp;Cleaning Accessories
@@ -7939,6 +8075,13 @@ $( document ).ready(function() {
 	<option value="912">
     
     &nbsp;&nbsp;&nbsp;&nbsp;Edged Weapons Pre 1900
+    
+    </option>
+
+    
+	<option value="1647">
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;Electronics - Hunting
     
     </option>
 
@@ -8819,16 +8962,16 @@ $( document ).ready(function() {
 </select>  
 
 
-
-
-
-
-
-
-
-
-
-
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#cat_id_advanced_search_dd').multiselect({
+			maxHeight: 200,
+			includeSelectAllOption: false,
+			nonSelectedText: 'Categories',
+			buttonWidth: '100%'
+		});
+    });
+</script>
 
 
 
@@ -8837,24 +8980,21 @@ $( document ).ready(function() {
                                     
                                     <div class="form-group row">
                                         <div class="col-md-6 col-sm-6">
-                                        <label for="price_low">Price Low:</label>
-                                        <input class="form-control" name="price_low" type="text" id="price_low" value="" autocomplete="off">
+                                            <label for="price_low">Price Low:</label>
+                                            <input class="form-control" name="price_low" type="text" id="price_low" value="" autocomplete="off">
                                         </div>
                                         <div class="col-md-6 col-sm-6">
-                                        <label for="price_high">Price High:</label>
-                                        <input class="form-control" name="price_high" type="text" id="price_high" value="" autocomplete="off">
+                                            <label for="price_high">Price High:</label>
+                                            <input class="form-control" name="price_high" type="text" id="price_high" value="" autocomplete="off">
                                         </div>
                                         
                                     </div>
                                     
-                                    
                                     <div class="form-group">
-                                    <label for="Caliber_Gauge">Caliber or Gauge:</label>
-                                    <input class="form-control" name="Caliber_Gauge" type="text" id="Caliber_Gauge" value="" autocomplete="off">
+                                        <label for="Caliber_Gauge">Caliber or Gauge:</label>
+                                        <input class="form-control" name="Caliber_Gauge" type="text" id="Caliber_Gauge" value="" autocomplete="off">
                                     </div>
-                                    
-                                    
-                                    
+                                                                        
                                     <div class="form-group">
                                         <label for="Manufacturer">Manufacturer:</label>
                                         <input class="form-control" name="Manufacturer" type="text" id="Manufacturer" value="" autocomplete="off">
@@ -8862,7 +9002,7 @@ $( document ).ready(function() {
                                     
                                     <div class="form-group">
                                         <button type="submit" class="btn btn-primary">Search</button>
-                                        or
+                                        
                                         <a href="http://www.gunsinternational.com/advanced-search.cfm" class="btn btn-warning">Show me even more options</a>
                                     </div>
                                 </form>        
@@ -8936,11 +9076,11 @@ $('.bj_dd_t').on('mouseover', function () {
                    
                 </ul>  
               
-                <ul class="nav navbar-nav navbar-right hidden-xs">
-                
-                
-                    <li><a href="http://www.gunsinternational.com/">Home</a></li>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="http://www.gunsinternational.com/"><span class="hidden-md">Home </span><span class="glyphicon glyphicon-home"></span>&nbsp;&nbsp;</a></li>
                 </ul>
+                
+                
 
                 <div class="visible-xs scroll-nav"><i class="glyphicon glyphicon-arrow-down"></i> Scroll</div>
                 <ul class="nav navbar-nav hidden-lg hidden-md hidden-sm" style="font-size:14px;margin-top:25px">
@@ -8966,19 +9106,20 @@ $('.bj_dd_t').on('mouseover', function () {
                                 <li class="nav-indent"><a href="http://www.gunsinternational.com/buyers-tools/saved-searches.cfm"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Saved Searches</a></li>
                              
                            
-                       
                         <li class="dropdown">
                             <a href="#">Add Listing</a>
                             </li><li>
                                 </li><li class="nav-indent"><a href="http://www.gunsinternational.com/sell-guns-online/add-gun-listing.cfm?new=1"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Add Gun Listing</a></li>
-                                <li class="nav-indent"><a href="http://www.gunsinternational.com/sell-guns-online/add-gun-related-listing.cfm?new=1"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Add Gun Part or Accessory Listing</a></li>
-                                <li class="nav-indent"><a href="http://www.gunsinternational.com/sell-guns-online/add-gun-related-listing.cfm?new=1"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Add Service Listing</a></li>
+                                <li class="nav-indent"><a href="http://www.gunsinternational.com/sell-guns-online/add-gun-parts-and-accessories.cfm?new=1"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Add Gun Part or Accessory Listing</a></li>
+                                <li class="nav-indent"><a href="http://www.gunsinternational.com/sell-guns-online/add-service-listing.cfm?new=1"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Add Service Listing</a></li>
                              
                           
                         <li><a href="http://www.gunsinternational.com/buyers-tools/buyer-tutorial.cfm"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> New Buyers</a></li>
                         <li><a href="http://www.gunsinternational.com/sell-guns-online/seller-tutorial.cfm"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> New Sellers</a></li> 
                         <li><a href="http://www.gunsinternational.com/sell-guns-online/gun-appraisals.cfm"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Appraisals</a></li>
                         <li><a href="http://www.gunsinternational.com/sell-guns-online/membership-fees.cfm"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Membership/Fees</a></li>
+                        <li><a href="http://www.gunsinternational.com/ffl-dealers.cfm"><img src="http://www.gunsinternational.com/images/GI-Crosshair_nav.png" width="15" height="15"> Search FFL Transfer Dealers</a></li>
+
  
                         
                     
@@ -9011,11 +9152,19 @@ $(document).ready(function () {
     </a>
     </td>
     
+    
+
+    
+    
     <td style="padding-left:10px" align="center" class="hide_print_class"> 
-    <a href="http://www.gunsinternational.com/">
-    <img src="http://www.gunsinternational.com/images/GunsInternationalcom_red.gif" class="img-responsive" width="728" height="93" vspace="4" style="padding-left:10px;width:100%;max-width:728px" border="0">
-    </a>
+    
+    
+        <a href="http://www.gunsinternational.com/buyers-tools/buyer-tutorial.cfm"> 
+        <img src="http://images.gunsinternational.com/banners/buyers728x90.gif" class="img-responsive" width="728" height="90" vspace="4" style="padding-left:10px;width:100%;max-width:728px" border="0">
+        </a>
+    
     </td>
+
     
     </tr>
     </tbody></table>
@@ -9095,34 +9244,34 @@ $(document).ready(function () {
             <table><tbody><tr><td>
             
                 
-                    <a href="http://griffinhowe.com/" target="_blank" onclick="ga('send', 'event', 'Griffin &amp; Howe', 'click');">
-                        <img src="http://images.gunsinternational.com/banners/GH_bannerAD1.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Griffin &amp; Howe" border="0"> 
+                    <a href="http://www.willoughbymccabe.com" target="_blank" onclick="ga('send', 'event', 'Willoughby Mccabe', 'click');">
+                        <img src="http://images.gunsinternational.com/banners/gunsIntBanner2.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Willoughby Mccabe" border="0"> 
                     <script>
-                        ga('send', 'event', 'Griffin & Howe', 'view', {'nonInteraction': 1});
+                        ga('send', 'event', 'Willoughby Mccabe', 'view', {'nonInteraction': 1});
                     </script>
                 
             
                 
-                    </a><a href="http://www.champlinarms.com" target="_blank" onclick="ga('send', 'event', 'Champlin Arms', 'click');">
-                        <img src="http://images.gunsinternational.com/banners/champlin-banner.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Champlin Arms" border="0"> 
+                    </a><a href="http://www.verney-carron.us/" target="_blank" onclick="ga('send', 'event', 'Verney Carron', 'click');">
+                        <img src="http://images.gunsinternational.com/banners/Banner VC for GunsInternational.com.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Verney Carron" border="0"> 
                     <script>
-                        ga('send', 'event', 'Champlin Arms', 'view', {'nonInteraction': 1});
+                        ga('send', 'event', 'Verney Carron', 'view', {'nonInteraction': 1});
                     </script>
                 
             
                 
-                    </a><a href="http://www.bishopsfineguns.com/" target="_blank" onclick="ga('send', 'event', 'Mike Bishop LLC', 'click');">
-                        <img src="http://images.gunsinternational.com/banners/12-26-2010 4-31-53 PM.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Mike Bishop LLC" border="0"> 
+                    </a><a href="http://www.williamlarkinmoore.com/" target="_blank" onclick="ga('send', 'event', 'William Larkin Moore', 'click');">
+                        <img src="http://images.gunsinternational.com/banners/wlm 1.jpg" width="180" style="margin-left:-19px" vspace="15" alt="William Larkin Moore" border="0"> 
                     <script>
-                        ga('send', 'event', 'Mike Bishop LLC', 'view', {'nonInteraction': 1});
+                        ga('send', 'event', 'William Larkin Moore', 'view', {'nonInteraction': 1});
                     </script>
                 
             
                 
-                    </a><a href="http://www.murphyshotguns.com" target="_blank" onclick="ga('send', 'event', 'Michael Murphy &amp; Sons', 'click');">
-                        <img src="http://images.gunsinternational.com/banners/Michael Murphy &amp; Son.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Michael Murphy &amp; Sons" border="0"> 
+                    </a><a href="http://www.gunsport.com/" target="_blank" onclick="ga('send', 'event', 'Gun Sport Ltd.', 'click');">
+                        <img src="http://images.gunsinternational.com/banners/Gunssport 3.jpg" width="180" style="margin-left:-19px" vspace="15" alt="Gun Sport Ltd." border="0"> 
                     <script>
-                        ga('send', 'event', 'Michael Murphy & Sons', 'view', {'nonInteraction': 1});
+                        ga('send', 'event', 'Gun Sport Ltd.', 'view', {'nonInteraction': 1});
                     </script>
                 
             </a></td></tr></tbody></table>
@@ -9145,7 +9294,7 @@ $(document).ready(function () {
 <td valign="top">
 <div class="row">
     <div class="col-lg-12 col-md-12 col-sm-12">
-		<div class="hide_print_class">
+        <div class="hide_print_class">
         
          <div class="row visible-sm" style="margin-top:10px;width:100%">
             <div class="col-sm-12">
@@ -9188,18 +9337,18 @@ $(document).ready(function () {
                     <ol class="breadcrumb hidden-xs">
                     <li class="hidden-xs"><a href="http://www.gunsinternational.com/">Click to view all Categories</a></li>
                     
-					
+                    
                     
                     </ol>
                 </div>
             </div>
-		
         
-    	<div class="row">
-        	<div class="col-md-12">
-                <div class="red_bar hidden-xs hidden-sm">
+        
+        <div class="row">
+            <div class="col-md-12">
+                <div class="red_bar hidden-xs">
                     <img src="http://www.gunsinternational.com/images/GI-Crosshair_red_bar.png" align="absmiddle" height="30">
-                    <h1 style="font-size:18px">Privacy Statement</h1>
+                    <h1>Privacy Statement</h1>
                 </div>
             </div>
         </div>
@@ -9234,7 +9383,7 @@ $(document).ready(function () {
      
 </div>
 
-<div class="row hidden-md hidden-lg">
+<div class="row hidden-md hidden-lg hidden-sm">
     <div class="col-md-12">
         <div class="red_bar">
             <img src="http://www.gunsinternational.com/images/GI-Crosshair_red_bar.png" align="absmiddle" height="30">
@@ -9244,7 +9393,7 @@ $(document).ready(function () {
 </div>
     
 </div>  
-    
+
 
 
 
@@ -9334,7 +9483,9 @@ $(document).ready(function () {
 	
     <div class="security_logos"> 
         
-        
+
+        <script src="https://cdn.ywxi.net/js/inline.js?w=90"></script>
+
         <a href="https://verify.authorize.net/anetseal/?pid=5d6ae129-8382-4f53-9bd6-efb659a4028f&amp;rurl=http%3A//www.gunsinternational.com/index.cfm" target="_blank">
         <img src="http://www.gunsinternational.com/images/secure90x72.gif" width="90" height="72" border="0"></a>
         
@@ -9395,7 +9546,7 @@ $(document).ready(function () {
                 <a href="http://www.gunsinternational.com/login/privacy.cfm">Privacy Policy</a> <br> 
                 <a href="http://www.gunsinternational.com/login/terms.cfm">User Agreement</a> <br> 
                 
-                    <a href="http://www.gunsinternational.com/sign-on.cfm">Sign On</a><br>
+                    <a href="http://www.gunsinternational.com/sign-on.cfm">Sign In</a><br>
                           
             </div>        
         </div>
@@ -9403,7 +9554,7 @@ $(document).ready(function () {
     
     <div class="row">
         <div class="copyright">
-            <br>©2006 - 2015 all rights reserved. | Guns International.com node1
+            <br>©2006 - 2016 all rights reserved. | Guns International.com 2
         </div>  
     </div>
     
@@ -9450,11 +9601,11 @@ $(document).ready(function () {
                     
                         <td valign="top" style="padding:2px">
                             
-                                <a href="HTTP://www.safarioutfittersltd.com" target="_blank" onclick="ga('send', 'event', 'Safari Outfitters Ltd', 'click');">
-                                    <img src="http://images.gunsinternational.com/banners/SafariOutfittersLtd 180 x150 .jpg" style="width:100%" width="180" alt="Safari Outfitters Ltd" border="0">
+                                <a href="https://shoot-straight.com/" target="_blank" onclick="ga('send', 'event', 'Shoot Straight', 'click');">
+                                    <img src="http://images.gunsinternational.com/banners/Shoot Straight 1.jpg" style="width:100%" width="180" alt="Shoot Straight" border="0">
                                 </a>
                                 <script>
-                                    ga('send', 'event', 'Safari Outfitters Ltd', 'view', {'nonInteraction': 1});
+                                    ga('send', 'event', 'Shoot Straight', 'view', {'nonInteraction': 1});
                                 </script>
                             
                         </td>    
@@ -9463,11 +9614,11 @@ $(document).ready(function () {
                     
                         <td valign="top" style="padding:2px">
                             
-                                <a href="http://www.gunsport.com/" target="_blank" onclick="ga('send', 'event', 'Gun Sport Ltd.', 'click');">
-                                    <img src="http://images.gunsinternational.com/banners/Gunssport 3.jpg" style="width:100%" width="180" alt="Gun Sport Ltd." border="0">
+                                <a href="http://www.famars.com/" target="_blank" onclick="ga('send', 'event', 'Famars', 'click');">
+                                    <img src="http://images.gunsinternational.com/banners/FAMARS_BANNER.jpg" style="width:100%" width="180" alt="Famars" border="0">
                                 </a>
                                 <script>
-                                    ga('send', 'event', 'Gun Sport Ltd.', 'view', {'nonInteraction': 1});
+                                    ga('send', 'event', 'Famars', 'view', {'nonInteraction': 1});
                                 </script>
                             
                         </td>    
@@ -9479,11 +9630,11 @@ $(document).ready(function () {
                     
                         <td valign="top" style="padding:2px">
                             
-                                <a href="http://www.turnbullmfg.com/" target="_blank" onclick="ga('send', 'event', 'Turnbull Manufacturing', 'click');">
-                                    <img src="http://images.gunsinternational.com/banners/GITurnbull.jpg" style="width:100%" width="180" alt="Turnbull Manufacturing" border="0">
+                                <a href="http://www.gulfbreezefirearms.com/" target="_blank" onclick="ga('send', 'event', 'Gulf Breeze', 'click');">
+                                    <img src="http://images.gunsinternational.com/banners/Gulf Breeze.jpg" style="width:100%" width="180" alt="Gulf Breeze" border="0">
                                 </a>
                                 <script>
-                                    ga('send', 'event', 'Turnbull Manufacturing', 'view', {'nonInteraction': 1});
+                                    ga('send', 'event', 'Gulf Breeze', 'view', {'nonInteraction': 1});
                                 </script>
                             
                         </td>    
@@ -9492,11 +9643,11 @@ $(document).ready(function () {
                     
                         <td valign="top" style="padding:2px">
                             
-                                <a href="http://www.nwponyexpress.com/" target="_blank" onclick="ga('send', 'event', 'NW Pony Express', 'click');">
-                                    <img src="http://images.gunsinternational.com/banners/PonyExpress_ad.jpg" style="width:100%" width="180" alt="NW Pony Express" border="0">
+                                <a href="http://www.williamlarkinmoore.com/" target="_blank" onclick="ga('send', 'event', 'William Larkin Moore', 'click');">
+                                    <img src="http://images.gunsinternational.com/banners/wlm 1.jpg" style="width:100%" width="180" alt="William Larkin Moore" border="0">
                                 </a>
                                 <script>
-                                    ga('send', 'event', 'NW Pony Express', 'view', {'nonInteraction': 1});
+                                    ga('send', 'event', 'William Larkin Moore', 'view', {'nonInteraction': 1});
                                 </script>
                             
                         </td>    
@@ -9520,7 +9671,7 @@ $(document).ready(function () {
             </div>       
             <div class="row">
                 <div class="copyright">
-                    <br>©2006 - 2015 all rights reserved. | Guns International.com cc 1
+                    <br>©2006 - 2016 all rights reserved. | Guns International.com 2
                 </div>  
             </div>
         </div>    
@@ -9578,6 +9729,7 @@ $('#header_tell_friend').on('show.bs.modal', function (event) {
 	$("#header_tell_friend_target_div").load("//www.gunsinternational.com/functions/tell_friend_contact.cfm?act=load");
 });
 </script>
+
 
 
 
