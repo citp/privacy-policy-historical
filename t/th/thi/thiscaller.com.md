@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thiscaller.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205153435id_/http%3A//www.thiscaller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiscaller.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324221353id_/http%3A//www.thiscaller.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ThisCaller.com
+# Home - ThisCaller.com
 
 ### Privacy Policy
 
@@ -26,7 +26,7 @@ After a transaction, your private information (credit cards, social security num
 
 #### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers’ hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
+Yes (Cookies are small files that a site or its service provider transfers to your computers' hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
 We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
 
 #### Do we disclose any information to outside parties?
@@ -37,7 +37,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-#### Children’s Privacy
+#### Children�s Privacy
 
 ThisCaller.com is directed to people who are at least 18 years old, and ThisCaller.com does not knowingly collect Personal Information from anyone under the age of 18. If You are aware that ThisCaller.com has collected Personal Information from someone under the age of 18, please alert ThisCaller.com at [Contact Page](http://www.thiscaller.com/contact) and the information will be removed from our system as soon as is reasonably possible. This policy regarding collection of data from children exceeds the requirements of the Childrens Online Privacy Protection Act.
 
