@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207104056id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324055741id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyOnlineCA
 
