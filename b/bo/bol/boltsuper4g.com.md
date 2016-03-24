@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the boltsuper4g.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925052344id_/http%3A//www.boltsuper4g.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltsuper4g.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324121514id_/http%3A//www.boltsuper4g.com/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy | BOLT! Super 4G LTE
+# privacy policy | BOLT!
 
-BOLT provides this information to help you understand how we collect, use and share your information when you visit www.BOLTSUPER4G.com.
+BOLT provides this information to help you understand how we collect, use and share your information when you visit www.bolt.id.
 
 **What we collect and how we use it**
 
-Some parts of www.BOLTSUPER4G.com allow you to give us personal information. When you visit the site or communicate with us, we’ll use the information you provide in the ways you’d reasonably expect us to – for example, service delivery or improvement or customer support. Where you have choices about how we use the information you provide, we’ll tell you so at the point of collection.
+Some parts of www.bolt.id allow you to give us personal information. When you visit the site or communicate with us, we’ll use the information you provide in the ways you’d reasonably expect us to – for example, service delivery or improvement or customer support. Where you have choices about how we use the information you provide, we’ll tell you so at the point of collection.
 
 Because of the way this website operates, we may also use information from your browser or browsing activities to personalize the site or route you to relevant information. For example, we may use web-log information, cookies or web beacons in ways that help us maintain some of your site preferences, send you to the right country-specific information or understand how our visitors navigate the site so we can make it better. You can choose whether or not to allow cookies or web beacons using your browser preferences.
 
@@ -20,4 +20,4 @@ From time to time, we may need to update this statement because of a change in t
 
 **Contact us**
 
-For more information about BOLT, you can contact us at [care@boltsuper4g.com](mailto:care@boltsuper4g.com)
+For more information about BOLT, you can contact us at [care@bolt.id](mailto:care@bolt.id)
