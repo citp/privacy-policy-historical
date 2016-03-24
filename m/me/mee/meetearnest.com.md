@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetearnest.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909184011id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetearnest.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324194600id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Earnest
 
@@ -8,9 +8,9 @@ At Earnest, we believe fairness and transparency are values that are fundamental
 
 ### Privacy & Security Policy
 
-We respect your privacy and safeguard your information with industry-leading technology. Our core values include trust and transparency, and this Privacy Policy describes how we live up to those values for you.
+We respect your privacy and safeguard your information with industry-standard technology. Our core values include trust and transparency, and this Privacy Policy describes how we live up to those values for you.
 
-Welcome to Earnest. We believe that you deserve the utmost respect when it comes to the privacy of your personal information. As you use our services, we want you to be clear how we are using information and the ways in which you can protect your privacy. The terms “we,” “us,” and “Earnest” refer to Earnest Inc., a Delaware corporation, its subsidiaries, and affiliates.
+We believe that you deserve the utmost respect when it comes to the privacy of your personal information. As you use our services, we want you to be clear how we are using information and the ways in which you can protect your privacy. The terms “we,” “us,” and “Earnest” refer to Earnest Inc., a Delaware corporation, its subsidiaries, and affiliates.
 
 This Privacy Policy discloses which financial and personal information we collect, how we use it, and the choices you can make regarding the collection and use of this information. We also explain how any personally identifiable information that we may request will be used. Finally, we include our security policy, which describes how your personally identifiable information is protected both electronically and physically.
 
@@ -163,6 +163,6 @@ This Privacy Policy may change from time to time. We will post any changes to th
 For additional information, or if you have any questions regarding this policy or the privacy practices at Earnest, please submit your questions or comments directly at: [hello@meetearnest.com](mailto:hello@meetearnest.com).
 
 **Earnest Inc.**   
-3001 19th Street   
-San Francisco, CA 94110   
+1455 Market Street, 18th Floor   
+San Francisco, CA 94103   
 1-888-601-2801 
