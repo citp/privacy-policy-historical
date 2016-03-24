@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itgirlclothing.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006015804id_/http%3A//itgirlclothing.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgirlclothing.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324080203id_/http%3A//itgirlclothing.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
