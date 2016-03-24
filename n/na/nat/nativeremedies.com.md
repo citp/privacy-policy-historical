@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053251id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325005533id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Native Remedies Privacy Policy
 
@@ -24,7 +24,7 @@ This notice applies to all information collected or submitted on the nativeremed
 
 ### The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order, to contact you with regard to your order, to respond to email inquires, to participate in chat room discussions, or to send an email newsletter. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the information you provide about yourself when placing an order only to complete that order, to contact you with regard to your order, to respond to email inquiries, to participate in chat room discussions, or to send an email newsletter. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
