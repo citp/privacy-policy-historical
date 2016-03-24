@@ -1,30 +1,30 @@
-<!--The following is the downloaded HTML source of the landrysselect.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905114513id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landrysselect.com privacy policy that was archived on 2016-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324035103id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Privacy Policy | Landry's Select Club
 </title>
-   	    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MS3S2B"></script><script type="text/javascript" src="/Script/jquery/js/jquery-1.7.1.min.js"></script>
-   	
+   	    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Script/jquery/js/jquery-1.7.1.min.js"></script>
+   	<link href="Script/jquery/css/jquery.alerts.css" rel="Stylesheet" type="text/css" media="screen">
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
     <script type="text/javascript">
 
-        var _gaq = _gaq || [];
+//        var _gaq = _gaq || [];
         var errArray = [];
         var accesstoken;
         var gnplayer;
         var tmx;
-        _gaq.push(['_setAccount', 'UA-9259970-1']);
-        _gaq.push(['_trackPageview']);
+//        _gaq.push(['_setAccount', 'UA-9259970-1']);
+//        _gaq.push(['_trackPageview']);
 
         var passedValidation = true;
         
-        //(function() {
-        //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        //})();
+//        (function() {
+//            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+//            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+//            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+//        })();
 
         function validateFormBeforeSubmit() {
             var username = $('#ctl00_txtUserName').val();
@@ -46,16 +46,18 @@
                 return passedValidation;
             else {
                 CheckAccount(username, password);
-                if (gnplayer.toUpperCase() == "GNSELECT") {
-                    
-                    setTimeout(function() {
-                        window.location.href = "http://www.gnselect.com";
-                    }, 5000);
-                    $('#redirectdialog').dialog();                    
-                    return false;
+                if (gnplayer != null) {
+                    if (gnplayer.toUpperCase() == "GNSELECT") {
+
+                        setTimeout(function() {
+                            window.location.href = "http://lrweb02.ldry.com/GNSelect";
+                        }, 5000);
+                        $('#redirectdialog').dialog();
+                        return false;
+                    }
+                    else
+                        return passedValidation;
                 }
-                else
-                    return passedValidation;
             }
         }
 
@@ -92,7 +94,27 @@
             errorMsg.innerHTML = displayMsg;
             errArray.length = 0;
         }
-        
+
+        function showHomeFrame() {
+                $('#homeFrame').show();
+        }
+
+        function hideHomeFrame() {
+                $('#homeFrame').hide();
+        }
+
+
+        // Add click handlers for buttons to show modal popup
+        function pageLoad() {
+            $addHandler($get("showModalPopupClientButton"), 'click', showModalPopupViaClient);
+        }
+
+        function showModalPopupViaClient(ev) {
+            ev.preventDefault();
+            var modalPopupBehavior = $find('modalPopupBehaviorMenu');
+            modalPopupBehavior.show();
+            hideHomeFrame();
+        }       
         
     </script>
         
@@ -104,6 +126,11 @@
             window.location = baseURI + "LocationMap.aspx?ShowLocation=Yes&orgZipCode=" + document.getElementById("txtZipCode").value;
             return false;
         }
+//        
+//        function GoToLocation() {
+//            window.location = / +  "LocationMap.aspx?ShowLocation=Yes&orgZipCode=" + document.getElementById("txtZipCode").value;
+//            return false;
+//        }        
 
         function Disable(Login) {
             document.getElementById(Login).disabled = true;
@@ -134,7 +161,7 @@
             if (lock)
                 lock.className = 'LockOn';
 
-            lock.innerHTML = "<img src='images/wait.gif' alt='" + str + "' />";
+            lock.innerHTML = "<img src='/images/wait.gif' alt='" + str + "' />";
         }
 
         $(document).ready(function() {
@@ -150,47 +177,104 @@
             $("#loading-div").show();
         }
    </script> 
+   
+   <style type="text/css">
+    .modalBackground
+    {
+        filter: alpha(opacity=90);
+        opacity: 0.6;
+    }
+    .modalPopup
+    {
+    	border: None;
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 300px;
+        height: 140px;
+    }
+    
+    .linkButtonMenu
+    {
+        display: block; 
+        width: 10px; 
+        height: 54px; 
+        white-space: nowrap; 
+        padding: 0 15px; 
+        background: url(../images/nav-span.gif) left top no-repeat; 
+        cursor: pointer; 
+        cursor: hand;
+    }
+</style>
+   
+
+<!-- Google Analytics -->
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-9259970-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->   
+   
 </head>
 <body>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MS3S2B"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MS3S2B');</script>
-<!-- End Google Tag Manager -->
+
+
+
 <form name="aspnetForm" method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYMAgIPFgQeCkNvbnRleHRLZXkFBG5vbmUeDVVzZUNvbnRleHRLZXlnZAIID2QWAgIBDw9kFgIeB29uY2xpY2sFHXRoaXMub25jbGljayA9ICdyZXR1cm4gZmFsc2UnZAIUDw8WAh4EVGV4dAUUU2VsZWN0IExpZmUgTWFnYXppbmVkZAIWDxYCHglpbm5lcmh0bWxlZAIXDw8WAh8DBUxUaGUgT2ZmaWNpYWwgTGlmZXN0eWxlIE1hZ2F6aW5lIG9mIExhbmRyeSdzIEluYy4gYW5kIHRoZSBHb2xkZW4gTnVnZ2V0DQogICAgZGQCGA8PFgQfA2UeC05hdmlnYXRlVXJsZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRFjdGwwMCRjaGtSZW1lbWJlcgUOY3RsMDAkYnRuTG9naW7YHgO5wsgl2YAXKSL6lJ4YQoXUOQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYCAgYPZBYCAgEPZBYCAgIPD2QWAh4Hb25jbGljawUddGhpcy5vbmNsaWNrID0gJ3JldHVybiBmYWxzZSdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRFjdGwwMCRjaGtSZW1lbWJlchkj3vhmCpNywYz8lzhgOuUJwZFe">
 
 
 <script src="/ScriptResource.axd?d=mJ3uVDDlABT5SyknsVMG5iRkmo2nGd6o4-Ug_Cy8gW5eo0983BZ6i_sY5JMlAjkJxyew3RaDrbB1yKV7WzKfnhwZQXDUx0QkJMBqybz2BqR5T0wooOHmJsr87nARPNnRXQtjtdZIuxaaiFE46NI-YSJxGXA1&amp;t=ffffffffaeccee4c" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=mCs1DudA7tvjypapnsQ1cTywpFDszyU_6ooYadlg05nGuMF01xDvu1h6Sq32CWpZHs3EcqnOwo5kHXFJQYmDjLkVkGgRM5HyYh3OspOSaIX1_ie6NDIRlZSX5UuoF89NkpYCV-D1Ntd2vBI0XtSXmX6XJDA1&amp;t=58e39af5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=tVyr5xDf9UUR01NQfRf25UtxqH5eSrthv4gs3LhV84_PpwoF_A7RlzaVHLEuYTYqlKqVzzdiI3xOwFNm1POsXu0Zb4-kR3smz7UT7qeWBBZAuM86NkYsRfrQ4mgNuV5R9j5JfhialBX0QozzkO54j9zhgew1&amp;t=58e39af5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=BpsFebBnZ-09bmj7i-H5GWYX96MWvKH_eRZJtRwfp3lMJq1ECryuqqpITWhNoRCvDQTaflkq1TcOnfZBNVh3cmaPj_kwgDAqqLDPgFT1SXP6SMNbRWF1wwOiZvupkTX0W_aiz0PeEezBKkEwQFPGGN7cqGw1&amp;t=58e39af5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=gpIQ-fmeF31t5KpFUBsiwFgBmvCjdbniLT00vpSE5oyDtFB0s9HrNU9DMfOtJW7_ZVpXXt2Cu80QqQG65rWEsklKILzx4ew-sEwEWHssGCBZxh9La9W6fhd-kaEq18O349xtPkitZqBf7UohZGcUTZ7BLhM1&amp;t=58e39af5" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLqgZaBAwL32/PyCwKB7cvWBQKa3qqsBwLnrI+ZD1AcfqEfIwGw2o3Aw9jOnt1tT6gA">
+<script src="/ScriptResource.axd?d=mCs1DudA7tvjypapnsQ1cTywpFDszyU_6ooYadlg05nGuMF01xDvu1h6Sq32CWpZHs3EcqnOwo5kHXFJQYmDjLkVkGgRM5HyYh3OspOSaIX1_ie6NDIRlZSX5UuoF89NkpYCV-D1Ntd2vBI0XtSXmX6XJDA1&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tVyr5xDf9UUR01NQfRf25UtxqH5eSrthv4gs3LhV84_PpwoF_A7RlzaVHLEuYTYqlKqVzzdiI3xOwFNm1POsXu0Zb4-kR3smz7UT7qeWBBZAuM86NkYsRfrQ4mgNuV5R9j5JfhialBX0QozzkO54j9zhgew1&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=E5kqP3w8D-onyvFUQhD7iIYAbKO198dtuuaB54OZ-tpoCXhbZSluJZyLZmQmxC1YP43i-LsUbKney1GZn-fVWhBFfFdSxeJ4518kjS4k6kMSpvFa7zhu32iDg_JJJwYVV092IKJEJdcDZwVJ38CmVj6lEfYmwhGfaxH_SYbHLEqhWUpV0&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=BpsFebBnZ-09bmj7i-H5GWYX96MWvKH_eRZJtRwfp3lMJq1ECryuqqpITWhNoRCvDQTaflkq1TcOnfZBNVh3cmaPj_kwgDAqqLDPgFT1SXP6SMNbRWF1wwOiZvupkTX0W_aiz0PeEezBKkEwQFPGGN7cqGw1&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zWMMgRJa0AiWCspTp-Ocvfc0PytMCysge7A6e3GBS4Ffc1Od2J34FNvzZ8kpVBqzElpZX8Dh2XUqieOxIVStcx9eSsXFLNUSIH0boha_Mooa4Dhhs1CQ4amM87KcNUjn21glw0urafyj5SB7wnRc2uHOOKo1&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zp_x3ypxmYbF0EW7RFhDUh1xGy0oUbd8_91J0Pmcj2PASzedfBHTz4JleGlTX4qJI77nJY45Vrjpr5tjLqEUMNhAIWV6BmQLtaeA1mpAv09Lzq47D5WRjniw0QEvRKuQ_YntswU9Blgq8dGqdnmdmgcjb1yTv4mKkSeww206LLXyp6PX0&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pBQcUnMVjpucOLe4TD74zO7Ad6iLjBhRg0TQY9bZ3zo6QbHwS09Enpnva5rZyPTF-txe9rDZyliJCGG_ZlCCvB2PEWQH6NRW7HAH_b3voyIiJWn3D5LixUaZVJR992izKEVfWTTJMiqxj3tucT7E7nhvnKuQG612OUNrmmWQkkV2Y5rT0&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yxrfK1yU1qwBDNiDwKnZcs_Fv1h--5TGpbdrwoFCJJW_4bjpu8Df4A-61k-vCfSYlezWMfb4Rq3QqDN0_r1w85pjviS-sjkxhrhYk9Fel7GbNU0wacWwwjXHu4YacgAW-DLVJMUlTtAJwJlVQCvcNIyBwwd_QJWSvhB85ttRWdVamrvB0&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=iCONsB4qrm3CtkDcc-bZjyPrjuf30EPIZAc92Ovs4XKFX3usdEZEC1dLBC3rvLvkwz8yudm8STZFBggJDpQ-VicP5vs2GvYuHfVSHC45W_9fNDalo6ehlOdaHQj9RMQ8hdJNwo92PoAEp4XTBzYcL50LN9pBmfJ39EzpbgDe-OfjJVyX0&amp;t=ffffffffc0f68f3a" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKgi+pLArLetcUJAunzv6YFAvfb8/ILAoHty9YFAuesj5kPApreqqwHAoSMn7ULAoSer+4BApuxl78KE+DpE0rtRvWKeU0+PEWqxXiirEw=">
 <div style="display:none;" id="redirectdialog"><h1><b>Welcome to the GN Select Program!</b></h1><p><b>You will be redirected to the GN Select program website in 5 seconds. If you are not redirected please click on the link below.</b></p></div>
 
 <div id="outer">
 	<!-- BEGIN TOP LOGO AND PROMO AREA -->
 	<div id="top">
 
-		<h1><a href="/default.aspx" id="logo">Landry's Select Club<span class="ir"><img src="/images/logo.gif" alt="Landry's Select Club"></span></a></h1>
+		<h1>
+		    <a href="/default.aspx" id="logo">
+		        <span class="ir">
+		            
+		            <img style="padding-left: 1em;" src="/images/LSC Horizontal white.png" alt="Landry's Select Club">
+		        </span>
+		    </a>
+	    </h1>
 
 		<div id="toppromo" style="text-align:right;">
-
-			<div id="toppromoimg">
-			    <img id="ctl00_topBannerAds" src="images/topBanner/claimjumper.jpg" alt="Claim Jumper" border="0">
-			    	
-			</div>
-			<div id="toppromotext">
-				
-				<p>Want to earn points at<br>
-				<span id="ctl00_topBannerAdTxt1"></span>?</p>
-				<p><a href="/summersweeps.html" id="toppromolink">Learn More</a></p>
-			</div>
+			
+		    <!-- BEGIN SEARCH FORM -->
+		    <div id="searchform">
+			    <p>Find the Nearest Location</p>
+			    
+			    <input type="text" name="txtZipCode" id="txtZipCode" value="Enter Zip Code..." onkeydown="if ((event.which &amp;&amp; event.which == 13) || 
+                                (event.keyCode &amp;&amp; event.keyCode == 13))
+                                {
+                                    window.location='/LocationMap.aspx?ShowLocation=Yes&amp;orgZipCode=' +  txtZipCode.value;
+                                    return false;
+                                } 
+                                else return true;" onfocus="javascript:if(this.value=='Enter Zip Code...'){this.value='';}" class="textinput">
+                    <input type="submit" name="ctl00$btnSearchLocation" value="Go" id="ctl00_btnSearchLocation" class="smallButton">                
+    
+			    
+		    </div>
+		    <!-- END SEARCH FORM -->			
 		</div>
 
 	</div>
@@ -198,22 +282,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- BEGIN NAV AND SEARCH AREA -->
 	<div id="navsearch">
-
-		<!-- BEGIN SEARCH FORM -->
-		<div id="searchform">
-			<p>Welcome to Landry's Select Club.</p>
-			<label for="txtZipCode">Location Search:</label>
-			<input type="text" name="txtZipCode" id="txtZipCode" value="Enter Zip Code..." onkeydown="if ((event.which &amp;&amp; event.which == 13) || 
-                            (event.keyCode &amp;&amp; event.keyCode == 13))
-                            {
-                                window.location='/LocationMap.aspx?ShowLocation=Yes&amp;orgZipCode=' +  txtZipCode.value;
-                                return false;
-                            } 
-                            else return true;" onfocus="javascript:if(this.value=='Enter Zip Code...'){this.value='';}" class="textinput">
-                <img src="/images/buttons/go.gif" id="searchgo" alt="Go!" onclick="GoToLocation('/');" onmouseover="this.src='/images/buttons/go-on.gif';" onmouseout="this.src='/images/buttons/go.gif';">
-			
-		</div>
-		<!-- END SEARCH FORM -->
 
 		<!-- BEGIN NAV BAR -->
 		<!-- Use class="on" in the LI tag to highlight which page you're on and display the subnav for that page. -->
@@ -229,12 +297,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<li><a href="/SelectClubFeatures/HowToRedeemPoints.aspx">How to Redeem Points</a></li>
 			<li><a href="/SelectClubFeatures/PresidentsClub.aspx">President's Club</a></li>
 			</ul>
-		</li>
-		<li><a href="/Join/"><span>Sign Up Here</span></a></li>
+		</li> 
+        
+		<li><a id="showModalPopupClientButton" href="#"><span>Join Now</span></a><a onclick="return hideHomeFrame();" id="ctl00_lnkJoinClubMenu" href="javascript:__doPostBack('ctl00$lnkJoinClubMenu','')" style="display: none;"></a></li>
+		
 		<li><a href="/LocationMap.aspx"><span>Locations</span></a></li>
 		<!--<li> <a href="/SpecialOffers.aspx" class="gold"><span class="gold">Special Offers</span></a> </li>-->
 		<li> <a href="/SpecialOffers.aspx"><span>Promotions</span></a> </li>
-		<li> <a href="/ExclusiveOffers.aspx" class="gold"><span class="gold">Exclusive Offers</span></a> </li>
+		<li> <a href="/ExclusiveOffers.aspx" class="gold"><span>Exclusive Offers</span></a> </li>
 		<li><a href="/ClubFaqs.aspx"><span>
             FAQs</span></a></li>
 		<li><a href="/EmailForm.aspx"><span>Contact Us</span></a></li>
@@ -257,7 +327,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
                 <!-- <a href="javascript:hideDiv()"><img class="continue" src="images/buttons/continue.gif" alt="Continue" onMouseOver="this.src='images/buttons/continue-on.gif';" onMouseOut="this.src='images/buttons/continue.gif';" class="ContinueButton" /></a> -->
-                <a href="javascript:hideDiv()"><img class="close" src="/images/buttons/close.gif" alt="Close Dialog" onmouseover="this.src='/images/buttons/close-on.gif';" onmouseout="this.src='/images/buttons/close.gif';"></a>
+                <a href="javascript:hideDiv()"><img class="close" src="/images/buttons/close.gif" alt="Close Dialog" onmouseover="this.src='//images/buttons/close-on.gif';" onmouseout="this.src='/images/buttons/close.gif';"></a>
 
                 </div>
             </div>
@@ -427,18 +497,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  
 
 			<div class="module">
-				<h4 class="modulehead">Already a Registered Member?</h4>
+				<h4 class="modulehead" style="text-align:center">Access Your Account</h4>
 				<div class="modulepad">
 					<div class="clear">
 					    <div class="alert" style="text-align:center;">
-					        <div id="ctl00_loginHeader">Access Your Account</div><br>
+					        
 					        <span id="ctl00_lblLoginError"><br></span>
 					     </div>
                     </div>
                     <div id="ctl00_loginBoxes" class="clear">
                     <div id="ctl00_Panel1">
 	
-                        <table style="border-style: none; border-color: inherit; border-width: 0px; width:205px;">
+                        <table style="border-style: none; border-color: inherit; border-width: 0px; width:180px;">
                             <tbody><tr>
                                 <td style="border:0px;"><label for="txtUserName">Email:</label></td>
                                 <td style="border:0px;"><input name="ctl00$txtUserName" type="text" maxlength="50" id="ctl00_txtUserName"></td>
@@ -448,45 +518,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td style="border:0px;"><input name="ctl00$txtPassWord" type="password" maxlength="50" id="ctl00_txtPassWord"></td>
                             </tr>
                         </tbody></table>
-    
-                        <div id="ctl00_troubleLogin" class="textcenter"><a href="/ForgotPassword">Having trouble signing in?</a><br><br>
-					    <div class="clear" style="text-align:center;">
-                            <input id="ctl00_chkRemember" type="checkbox" name="ctl00$chkRemember"><label for="ctl00_chkRemember">Remember Me</label></div><br>
-    					
+                        <br>
+					    <div class="textcenter">
+                           <input type="submit" name="ctl00$btnLogin" value="Sign In" onclick="return validateFormBeforeSubmit();this.onclick = 'return false';" id="ctl00_btnLogin" class="smallButton">
                         </div>
-                    
+		                <div class="clear" style="text-align:center;">
+                            <input id="ctl00_chkRemember" type="checkbox" name="ctl00$chkRemember"><label for="ctl00_chkRemember">Remember Me</label>
+                        </div> 
+                        <br>                         
+                        <div id="ctl00_troubleLogin" class="textcenter">
+                            <a href="/ForgotPassword">Reset Password</a>   					
+                        </div>       
+                                               
+                        
 </div>
-					<div class="textcenter">
-                   <input type="image" name="ctl00$btnLogin" id="ctl00_btnLogin" src="images/buttons/login.gif" onclick="return validateFormBeforeSubmit();this.onclick = 'return false';" border="0">
 
-                   
-                    </div>
+                                       
 
 		            <!--loading message-->
                     <div id="loading-div-background" style="opacity: 0.8;">                        
                     </div>	
                     <div id="loading-div" style="display:none;">
-		                <img id="wait" style="height:120px; margin:5px;" src="../images/wait.gif" alt="Loading..">
+		                <img id="wait" style="height:120px; margin:5px;" src="/images/wait.gif" alt="Loading..">
                     </div>		
                 </div>
 				</div>
 				
 				<!-- For darkbutton class, the A tag encompasses the whole dark area. The natural color is blackish, and the STRONG tag inside is what makes the red. -->
 			    <div id="ctl00_loginLinks">
-			    <div class="darkbuttonOrange"><div class="darkbuttonpadOrange"><a href="/ExistingAccount/Default.aspx">
-                    Purchased a Membership at a Store?<br><strong>Click Here to Register Your Card!</strong></a></div>
-                </div>
-                
 
                 
+
+
 
 
 			
 
 
-			    <div class="darkbutton"><div class="darkbuttonpad"><a href="/Join">Not a Select Club Member?<br><strong>Click Here to 
-                    Purchase a Membership!</strong></a></div>
-                </div>
+
+                
+			        <div class="darkbutton">
+			            <div class="darkbuttonpad">
+			            
+			             
+			            <a onclick="return hideHomeFrame();" id="ctl00_lnkJoinClub" class="smallButton" href="javascript:__doPostBack('ctl00$lnkJoinClub','')"><font color="White">Join Now</font></a>
+			            </div>		        
+                    </div>                
 
                 </div>
 			
@@ -501,17 +578,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </h4>
                 <div class="moduleadpad">
                 <div class="adTxtBgAdjust">
-    <a id="ctl00_adSideNav" href="http://www.bluetoad.com/publication?i=263753" target="_top"><img src="/images/sidebar/SelectLife.jpg" alt="Select Life Magazine" height="259" width="200" border="0"></a>
-		       
+                
+                    
+                    
+                
+                
+
+
                 
                 
                 
-                
-                    <h4 id="ctl00_lblTextHeading" style="color:#fbf9d4; font-size:14px;"></h4>
-                    <hr>
-                    <span id="ctl00_lblTextBody" style="font-size: 14px;">The Official Lifestyle Magazine of Landry's Inc. and the Golden Nugget
-    </span>
-                    <div style="padding-top:5px; font-size: 12px;"><a id="ctl00_hlBody"></a></div>
+                <a id="adSideNav" href="http://www.bluetoad.com/publication?m=35395&amp;l=1" target="_top">
+		                    <img src="/images/sidebar/winter.JPG" alt="Select Life Magazine" style="height:259px;width:200px;border-width:0px;">
+		                </a>
+		                    <h4 id="ctl00_lblTextHeading" style="color:#fbf9d4; font-size:14px;"></h4>
+		                    <hr>
+		                    <span id="ctl00_lblTextBody" style="font-size: 14px;">The Official Lifestyle Magazine of Landry's Inc. and the Golden Nugget</span>
+		                    <div style="padding-top:5px; font-size: 12px;"><a id="ctl00_hlBody"></a></div>
                </div>
                </div>
 			</div>
@@ -541,38 +624,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="app-dialog" class="app-dialog" title="">
     <!--<div style="background-color: #ce4425;">-->
-    <div>
-    <div style="text-align: center; margin-left: auto; margin-right: auto;">
-        <!--<a href="SummerSweeps.html"  target="_blank" style="outline: 0;">-->
-            <img src="images/SummerSweeps.png" style="border: none;" alt="Summer Splash Sweeps" usemap="#planetmap">
-            <map name="planetmap">
-	      <area shape="rect" coords="34,475,241,512" href="SummerSweeps.html" target="_blank" style="outline: 0;" alt="Get Details">
-	    </map>
-        <!--</a>-->
-    </div>
-    </div>
+    
     
 </div>
 <div id="overlay"></div>
+
+<!------------ Code for Join Club popup ----------------->
+
+<div id="ctl00_pnlJoinClub" align="center" style="display:none;">
+	
+    <table cellpadding="0" cellspacing="0" style="border-color:Black" title="Welcome Landry's Select Club">
+        <tbody><tr style="border-color:Black">
+            <td align="center" style="border-color:Black">              
+                   
+                <img src="/images/HaveACard.gif" id="Img3" onclick="window.location.href = '/ExistingAccount/default.aspx'" alt="Register a New Card" onmouseover="" style="cursor: pointer;">                               
+            </td>
+            <td align="center" style="border-color:Black">
+                
+                <img src="/images/DontHaveACard.gif" id="Img2" onclick="window.location.href = '/Join/default.aspx'" alt="" onmouseover="Purchase a New Card" style="cursor: pointer;">                                                                            
+            </td>                    
+        </tr>
+        <tr>
+            <td colspan="2" align="center" style="border-color:Black">
+                <a onclick="return showHomeFrame();" id="ctl00_lnkCancel" href="javascript:__doPostBack('ctl00$lnkCancel','')"><b><font color="White" size="4">x Cancel</font></b></a>
+            </td>
+        </tr>        
+    </tbody></table>
+
+</div>
+
+
+<!-- -->
+
+<div id="ctl00_pnlJoinClubMenu" align="center" style="display:none;">
+	
+    <table cellpadding="0" cellspacing="0" style="border-color:Black" title="Welcome Landry's Select Club">
+        <tbody><tr style="border-color:Black">
+            <td align="center" style="border-color:Black">              
+                <img src="/images/HaveACard.gif" id="Img1" onclick="window.location.href = '/ExistingAccount/default.aspx'" alt="Register a New Card" onmouseover="" style="cursor: pointer;">                               
+            </td>
+            <td align="center" style="border-color:Black">
+                 <img src="/images/DontHaveACard.gif" id="Img4" onclick="window.location.href = '/Join/default.aspx'" alt="" onmouseover="Purchase a New Card" style="cursor: pointer;">                                                                            
+            </td>                    
+        </tr>
+        <tr>
+            <td colspan="2" align="center" style="border-color:Black">
+                <a onclick="return showHomeFrame();" id="ctl00_lnkCancelMenu" href="javascript:__doPostBack('ctl00$lnkCancelMenu','')"><b><font color="White" size="4">x Cancel</font></b></a>
+            </td>
+        </tr>        
+    </tbody></table>
+
+</div>
+
+
+
+<!------------ Code for Join Club popup ----------------->
+
 
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
 Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.SlideShowBehavior, {"autoPlay":true,"contextKey":"none","id":"ctl00_topBannerAdsSlide","imageDescriptionLabelID":"ctl00_topBannerAdTxt1","loop":true,"playInterval":5000,"slideShowServiceMethod":"GetSlides","slideShowServicePath":"GetBannerImage.asmx","useContextKey":true}, null, null, $get("ctl00_topBannerAds"));
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_lnkCancel","PopupControlID":"ctl00_pnlJoinClub","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_joinClubPopup"}, null, null, $get("ctl00_lnkJoinClub"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_lnkCancelMenu","PopupControlID":"ctl00_pnlJoinClubMenu","dynamicServicePath":"/PrivacyPolicy.aspx","id":"modalPopupBehaviorMenu"}, null, null, $get("ctl00_lnkJoinClubMenu"));
 });
 //]]>
 </script>
 </form>
-<script type="text/javascript">
-    $(document).ready(function() {
-        //$("#ctl00_loginBoxes input[type=text], #ctl00_loginBoxes input[type=password]").keyup(function (e) { if (e.keyCode == 13) { $("#ctl00_btnLogin").click(); return false; } })
 
-        //var counter = parseInt(window.location.search.split('=')[1])+1;  if ($("#ctl00_btnLogin").click().length != 1) { window.location = '/Landry.Rewards.Website/MyAccount/LogOut.aspx?counter='+counter }
-        //if ($("#ctl00_btnLogin").click().length != 1) { window.location = '/Landry.Rewards.Website/MyAccount/LogOut.aspx?counter=' }
-    })
-</script>
 <!--<script type="text/javascript">
     var btns = $("input[type=image]");
     btns.removeAttr('disabled');
