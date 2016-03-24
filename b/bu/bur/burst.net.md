@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burst.net privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907183059id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burst.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324211029id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
 
 # Hostwinds Privacy Policy
 
@@ -50,7 +50,7 @@ Downloads are solely for personal, noncommercial use. Copies of download can onl
 
 ### CONTACTING US
 
-Please contact us if you have comments or questions about any of our policies or our website. For information about your payment or order, please contact us at 1-918-960-0191 during office hours (9am - 5pm CST). 
+Please contact us if you have comments or questions about any of our policies or our website. For information about your payment or order, please contact us at 1-918-960-0191 we are available by phone 24/7/365. 
 
 Our mailing address is:  
 304 Reunion Center  
