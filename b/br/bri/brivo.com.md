@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907234359id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324212559id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Brivo
 
-At Brivo Systems, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of your business and personal information. When you access our website as a visitor, we want you to know that your personal information (name, address, phone number and email address) is safe. When you access our website as a Brivo access control and video system customer, your personal and business Information (product identification information, internet access information such as web browser, connection speed, domain and IP address, user access data, etc.) is safe and confidential. This Privacy and Security Statement will answer your questions about the kind of information we collect in order to properly serve you, how we use that information, and how it is protected.
+At Brivo Inc, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of your business and personal information. When you access our website as a visitor, we want you to know that your personal information (name, address, phone number and email address) is safe. When you access our website as a Brivo access control and video system customer, your personal and business Information (product identification information, internet access information such as web browser, connection speed, domain and IP address, user access data, etc.) is safe and confidential. This Privacy and Security Statement will answer your questions about the kind of information we collect in order to properly serve you, how we use that information, and how it is protected.
 
 If you have questions or comments about Brivo’s Privacy and Security Statement, you should first contact [privacy@brivo.com](mailto:privacy@brivo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [customercare@brivo.com](mailto:customercare@brivo.com).
 
-Brivo Systems LLC complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Brivo Systems LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brivo Systems LLC’s certification, please visit <http://www.export.gov/safeharbor/>
+Brivo complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Brivo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brivo’s certification, please visit <http://www.export.gov/safeharbor/>
 
-Brivo Systems LLC has also agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Brivo Systems LLC, you may contact either the panel at [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) or individual EU DPAs (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>).
+Brivo has also agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Brivo, you may contact either the panel at [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) or individual EU DPAs (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>).
 
 **What Information is Collected and How will it be Used?**
 
@@ -90,7 +90,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Brivo Systems LLC  
+Brivo Inc.  
 7700 Old Georgetown Road  
 Suite 300  
 Bethesda, MD  20814
