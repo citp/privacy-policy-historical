@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001231711id_/http%3A//wvxu.org/privacy-policy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324173521id_/http%3A//wvxu.org/privacy-policy-and-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | WVXU
 
