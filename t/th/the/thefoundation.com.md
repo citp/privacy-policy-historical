@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundation.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919203124id_/https%3A//thefoundation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundation.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324191600id_/https%3A//thefoundation.com/privacy) for the most accurate reproduction.*
 
 # The Foundation - Privacy Policy
 
