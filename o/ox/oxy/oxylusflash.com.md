@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oxylusflash.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220071944id_/http%3A//www.oxylusflash.ro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxylusflash.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324212715id_/https%3A//devsaver.com/privacy-policy) for the most accurate reproduction.*
 
-# OXYLUS Flash | Privacy Policy
+# Privacy Policy | DevSaver
 
-OXYLUS Flash has developed this Privacy Policy ("Policy") to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming a OXYLUS Flash member and/or using the site located at [www.oxylusflash.com](http://www.oxylusflash.com/) ("the Site").
+DEVSAVER has developed this Privacy Policy ("Policy") to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming a DEVSAVER member and/or using the site located at [www.devsaver.com](http://www.devsaver.com/) ("the Site").
 
 This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Website Terms of Access Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
 
@@ -39,7 +39,7 @@ This information is only used for statistical and website development purposes.
 
 Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter enter competitions, or to enable us to provide you with site related services such as notifications.
 
-If you use our Site's feedback and support forms, you are asked to provide your name, organization, title, address, e-mail address and telephone number. OXYLUS Flash will not otherwise collect information from you through this Site unless you knowingly provide it to us.
+If you use our Site's feedback and support forms, you are asked to provide your name, organization, title, address, e-mail address and telephone number. DEVSAVER will not otherwise collect information from you through this Site unless you knowingly provide it to us.
 
 By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
 
@@ -61,13 +61,13 @@ We collect information from people who use the Membership Section of our Site ("
 
 If you choose to buy or sell on our Site we collect information about your buying and selling behavior.
 
-If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date. 
+If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
 
 **USE OF INFORMATION AND DISCLOSURE**
 
-OXYLUS Flash will only use the information it collects through the Site for the following purposes:
+DEVSAVER will only use the information it collects through the Site for the following purposes:
 
-  * Forwarding important information relating to OXYLUS Flash activities and other requested information;
+  * Forwarding important information relating to DEVSAVER activities and other requested information;
   * Contacting you in response to your feedback or query to discuss our services;
   * Monitoring Site performance;
   * Improving our Site and services to you;
@@ -76,7 +76,7 @@ OXYLUS Flash will only use the information it collects through the Site for the 
 
 
 
-OXYLUS Flash will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+DEVSAVER will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
 
   * You have provided us with your consent; or
   * We are required to do so by law.
@@ -87,10 +87,10 @@ OXYLUS Flash will not give, sell, trade or otherwise disclose any personal infor
 
 You may request access to your personal information and can ask us to correct your personal information.
 
-You can do this by e-mailing [legal@oxylusflash.com](mailto:legal@OXYLUSFlash.com)
+You can do this by e-mailing [legal@devsaver.com](mailto:legal@devsaver.com)
 
-**DISCLAIMER**   
-This Site contains links to other sites. OXYLUS Flash is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. OXYLUS Flash strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.
+**DISCLAIMER**  
+This Site contains links to other sites. DEVSAVER is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. DEVSAVER strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.
 
 **SECURITY**
 
@@ -98,17 +98,17 @@ This Site has security measures in place to protect the loss or misuse of, or al
 
 **AMENDMENTS TO THE PRIVACY POLICY**
 
-We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify OXYLUS Flash if you do not agree to such changes.
+We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify DEVSAVER if you do not agree to such changes.
 
 **OPT - OUT PROVISION**
 
-To protect you from unwanted e-mail communications, OXYLUS Flash adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an e-mail to [legal@oxylusflash.com](mailto:legal@OXYLUSFlash.com) or follow the instructions in the "Opt-Out" section of the e-mail you have received.
+To protect you from unwanted e-mail communications, DEVSAVER adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an e-mail to [legal@devsaver.com](mailto:legal@devsaver.com) or follow the instructions in the "Opt-Out" section of the e-mail you have received.
 
 If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
-    1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
-    2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or
-    3. we are required by law to disclosure the information.
+  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
+  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or
+  3. we are required by law to disclosure the information.
 
 
 
@@ -118,4 +118,4 @@ Because our server and information processing equipment is located in the German
 
 **FURTHER INFORMATION**
 
-For further information about OXYLUS Flash's privacy policy, please e-mail us at [legal@oxylusflash.com](mailto:legal@OXYLUSFlash.com)
+For further information about DEVSAVER's privacy policy, please e-mail us at [legal@devsaver.com](mailto:legal@devsaver.com)
