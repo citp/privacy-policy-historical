@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925133707id_/http%3A//reliablehosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324081744id_/http%3A//reliablehosting.com/privacy.htm) for the most accurate reproduction.*
 
 # Reliable Hosting.com
 
@@ -16,22 +16,14 @@ Reliablehosting.com may use personally identifiable information collected throug
 
 Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-## Safe Harbor program
-
-Reliablehosting.com, complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Strong Technology LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Strong Technology LLC certification, please visit <http://www.export.gov/safeharbor/>
-
-**Safe Harbor Certification Mark**
-
-[](http://export.gov/safeharbor/)
-
 ## Questions
 
 In compliance with the US-EU Safe Harbor Principles, Reliablehosting.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Reliablehosting.com at: [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com)
 
 Strong Technology, LLC
 
-127 West Fairbanks Ave, #139,   
-Winter Park, FL 32789  
+P.O. Box 18017,  
+S. Lake Tahoe, CA 96151  
 877 402 9532  
 866-889-3661 (fax)  
 Email: [abuse@Reliablehosting.com](mailto:abuse@Reliablehosting.com)
