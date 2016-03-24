@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livelovepolish.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928033609id_/https%3A//www.livelovepolish.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelovepolish.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324213305id_/https%3A//www.livelovepolish.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Live Love Polish
+# Privacy Policy
 
 PRIVACY STATEMENT
 
