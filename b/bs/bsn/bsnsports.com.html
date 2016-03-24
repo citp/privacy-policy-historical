@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the bsnsports.com privacy policy that was archived on 2015-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151009205245id_/http%3A//www.bsnsports.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bsnsports.com privacy policy that was archived on 2016-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324165440id_/http%3A//www.bsnsports.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NX77FK"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1hiO4MuX87XH4QZnZwQpXP5Pf6kZbk8b" type="text/javascript"></script><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/564tld2587.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUFWVZUGwICXVNTAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document;t(2);var f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NX77FK"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1hiO4MuX87XH4QZnZwQpXP5Pf6kZbk8b" type="text/javascript"></script><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/564tld2587.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUFWVZUGwICXVNTAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
 <title>BSN sports Privacy Policy  | BSN SPORTS</title>
 <meta name="description" content="BSN SPORTS is the largest distributor of team sports apparel and equipment in the United States. Trusted Since 1972 - Shop today!">
 <meta name="keywords" content="bsnsports">
+<meta name="viewport" content="minimum-scale=1.0, width=device-width,  maximum-scale=0.6667, user-scalable=no">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://static.bsnsports.com/skin/frontend/enterprise/bsnsports/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://static.bsnsports.com/skin/frontend/enterprise/bsnsports/favicon.ico" type="image/x-icon">
+
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -21,43 +23,71 @@
 <script type="text/javascript">
     var MIN_QUERY_LENGTH = '3';
 </script>
-<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/57852ddd81b2dbbba32c028d8f8cb58a.css" media="all">
-<script type="text/javascript" src="http://static.bsnsports.com/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/varien/js.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/varien/form.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/zeon/apparel_product.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/pronav/jquery-1.8.3.min.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/pronav/jquery.hover.intent.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/magecoders/configurable.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/magecoders/autosuggest.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/js/magecoders/quickorder.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/default/js/scripts.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/default/js/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/js/em_quickshop_minified.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/js/punchout.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/js/common_minified.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/7f04294dbb8bd8e7013043db5762ee23.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/756952ef549e934689ebe61cf49e2d14.css" media="print">
+<script type="text/javascript" src="http://static.bsnsports.com/media/js/fed9ee045fe4f5b27b33bf6b00db2d62.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/c8bdbdba81bc71073b9355ac51c4049c.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/9b62e306a31a73a69a7502420f05dd0e.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/662e0645046b02f010e8c5ea1f1f3ad9.css" media="all" />
-<script type="text/javascript" src="http://static.bsnsports.com/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://static.bsnsports.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<script type="text/javascript" src="http://static.bsnsports.com/media/js/90c7447f345f7f0978d81160cd1022a6.js"></script>
 <![endif]-->
-<!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/media/css/39cd333491ec90b7fef5016e9ed95278.css" media="all" />
-<![endif]-->
+<script type="text/javascript">
+    function downloadJSAtOnload(url, type) {
+        if (url) {
+            var head = document.getElementsByTagName("head")[0];
+            if (type == 'css') {
+                var element = document.createElement('link');
+                element.rel = 'stylesheet';
+                element.type = 'text/css';
+                element.href = url;
+                //here's the magic
+                head.appendChild(element, head.firstChild);
+            }
+            if (type == 'js') {
+                var element = document.createElement("script");
+                element.src = url;
+                head.appendChild(element);
+            }
+        }
+    }
+    function imageLoading() {
+        var imgDefer = document.getElementsByTagName('img');
+        for (var i=0; i<imgDefer.length; i++) {
+            if(imgDefer[i].getAttribute('data-src')) {
+                imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+            }
+        }
+    }
+    if (window.addEventListener) {
+        window.addEventListener("load", downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/css/post_load.css", 'css'
+        ), false);
+
+        window.addEventListener("load", downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/post_load.js", 'js'
+        ), false);
+        window.addEventListener("load", imageLoading, false);
+    } else if (window.attachEvent) {
+        window.attachEvent("onload", downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/css/post_load.css", 'css'
+        ));
+
+        window.attachEvent("onload", downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/post_load.js", 'js'
+        ));
+        window.attachEvent("onload", imageLoading);
+    } else {
+        window.onload = downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/css/post_load.css", 'css'
+        );
+
+        window.onload = downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/post_load.js", 'js'
+        );
+        window.onload = imageLoading;
+    }
+</script><link rel="stylesheet" type="text/css" href="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/css/post_load.css"><script src="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/post_load.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -96,7 +126,7 @@ _gaq.push(['_trackPageview']);
 		QS_FRM_TYPE : 1,
 		QS_FRM_WIDTH : 610,
 		QS_FRM_HEIGHT : 500,
-		QS_IMG: 'http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/images/em_quickshop_preview.png'
+		QS_IMG: 'http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/images/em_quickshop_preview.png'
 	};
 	if(EM.QuickShop.QS_FRM_TYPE == 0 ){
 		EM.QuickShop.QS_FRM_WIDTH = EM.QuickShop.QS_FRM_WIDTH + "%";
@@ -105,7 +135,7 @@ _gaq.push(['_trackPageview']);
 
 //]]	
 </script> 
-<!-- BEGIN: Marin Software Tracking Script (Landing Page) -->
+<script type="text/javascript">var addthis_config = {data_use_cookies_ondomain: !1, data_use_cookies: !1};</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53354798039f5449"></script><!-- BEGIN: Marin Software Tracking Script (Landing Page) -->
 <script type="text/javascript">
 var _mTrack = _mTrack || [];
 _mTrack.push(['trackPage']);
@@ -125,17 +155,36 @@ var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBef
 <!-- END: Copyright Marin Software -->
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><!--Start of Zopim Live Chat Script-->
+        //]]></script><!-- Engage Web Tracking Code -->
+
+
+<meta name="com.silverpop.brandeddomains" content="www.pages05.net,www.bsnsports.com,www.campexpress.com,www.esportsonline.com,www.gearprotec.com,www.usgames.com">
+
+
+<script src="http://contentz.mkt51.net/lp/static/js/iMAWebCookie.js?f3c2edc-12b649a6575-c6f842ded9e6d11c5ffebd715e129037&amp;h=www.pages05.net" type="text/javascript"></script>
+
+<!-- End of Engage Web Tracking Code -->
+
+<!--Start of Zopim Live Chat Script-->
 <script type="text/javascript">
 window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
 d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//v2.zopim.com/?1hiO4MuX87XH4QZnZwQpXP5Pf6kZbk8b';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?1hiO4MuX87XH4QZnZwQpXP5Pf6kZbk8b";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
 
 <!--End of Zopim Live Chat Script-->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script></head>
+
+<!--Start of Optimizely Script-->
+
+<script src="//cdn.optimizely.com/js/3852997365.js"></script>
+
+<!--End of Optimizely Script-->
+<script type="text/javascript">
+    var Mage_BASE_URL = 'http://www.bsnsports.com/';
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><script src="http://static.bsnsports.com/js/zeon/supporting.js"></script><script src="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/endecasearch/endeca_autocomplete.js"></script></head>
 <body class=" cms-page-view cms-privacy">
 
     <!-- Google Tag Manager -->
@@ -158,36 +207,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
     </script>
     <!-- End Google Tag Manager -->
 <div class="wrapper">
-    <script type="text/javascript"></script>
-<div class="wrapper">
-<table style="height: 40px; background-color: #e9e9e9; width: 1000px;" border="0" cellpadding="3" align="center">
-<tbody>
-<tr style="height: 3px;" valign="middle">
-<td style="text-align: center;" valign="middle">&nbsp;</td>
-</tr>
-<tr valign="middle">
-<td style="text-align: center;" valign="middle"><span style="font-size: x-large;"><strong><span style="font-family: arial, helvetica, sans-serif; color: #dc031d;"><img src="http://www.bsnsports.com/images/small_truck.png" alt="Free Shipping" width="50" height="20">GET FREE SHIPPING ON TODAY'S ONLINE ORDER</span>&nbsp;</strong><span style="font-size: medium; color: #999999;">: enter flyer code 86 at checkout&nbsp;<strong>&nbsp;</strong><span style="font-size: x-small;">(<a title="details" href="http://www.bsnsports.com/bsn-promo-detail-free-shipping-86?no_cache=1" target="_self"><span style="color: #999999;">details</span></a>)</span></span></span></td>
-</tr>
-</tbody>
-</table>
-</div>
-<!-- comment out
-
-<script type="text/javascript"></script>
-<div class="wrapper">
-<table style="height: 40px; background-color: #e9e9e9; width: 1000px;" border="0" cellpadding="3" align="center">
-<tbody>
-<tr style="height: 3px;" valign="middle">
-<td style="text-align: center;" valign="middle">&nbsp;</td>
-</tr>
-<tr valign="middle">
-<td style="text-align: center;" valign="middle"><span style="font-size: x-large;"><strong><span style="font-family: arial, helvetica, sans-serif; color: #dc031d;">SAVE UP TO 15% OFF TODAY'S ONLINE ORDER</span>&nbsp;</strong><span style="font-size: medium; color: #999999;">: enter flyer code 47 at checkout&nbsp;<strong>&nbsp;</strong><span style="font-size: x-small;">(<a title="details" href="http://www.bsnsports.com/bsn-promo-detail-15off-47?no_cache=1" target="_self"><span style="color: #999999;">details</span></a>)</span></span></span></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-end comment -->        <noscript>
+            <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
                 <p>
@@ -199,202 +219,21 @@ end comment -->        <noscript>
     <div class="page">
 
         <div class="header-container">
-    <div class="header-panel">
-        <div class="top-container">
-            <div class="login-top-links">
-                        <ul class="links">
-                                                                <li class="first">            <a href="https://www.bsnsports.com/customer/account/login/referer/aHR0cDovL3d3dy5ic25zcG9ydHMuY29tL3ByaXZhY3k,/" title="Log In">Log In</a>
-            </li>
-                                                                        <li class=" last"> or             <a href="https://www.bsnsports.com/customer/account/create/" title="Register">Register</a>
-            </li>
-            </ul>
-<script type="text/javascript">decorateGeneric($$('ul.links'), ['first'])</script>
-			<a href="https://www.bsnsports.com/customer/account/" title="My Account">My Account</a>
-           </div>
-        <div class="right">
-             <span class="fyler_links"><!--{HEADER_FLYER_214779da442bc22429b423dd6a5c9add}--><a id="flyer_popup" href="#flyer_popup_div" title="">
-                            Certificate | Program ID | Flyer        <span id="header_sap_flyer"></span>
-    </a>
-<div style="display:none;">
-    <div id="flyer_popup_div" class="flyer-box">
-        <form id="top_programid_form" action="https://www.bsnsports.com/flyer/programid/programIdAdd/" method="post">
-            <fieldset>
-                <label for="top_programid" class="for-coupon-lbls v-middle left"><a class="help right" onclick="getHelpShow('program_help', 1)">help</a>
-                Program ID</label>
-                <input type="hidden" id="top_remove_programid" name="remove_programid" value="0">
-                                <div class="for-coupon-inpts left"><input class="input-text" id="top_programid" name="program_id" value="" maxlength="50"></div>
-                <span id="header-programid-button-container">
-                    <button onclick="topProgramidForm.submit(false)" class="button btn-cart" title="Apply" type="button"><span><span>Apply</span></span></button>
-                </span>
-                            </fieldset>
-        </form>
-                <form id="top_flyer_form" action="https://www.bsnsports.com/flyer/flyer/flyerAdd/" method="post">
-            <fieldset>
-                <label for="top_sap_flyercode" class="for-coupon-lbls v-middle left"><a class="help right" onclick="getHelpShow('flyer_help', 1)">help</a>Flyer Code                </label> <input type="hidden" name="top_remove" id="top_remove_flyercode" value="0">
-                                <div class="for-coupon-inpts left"><input class="input-text" id="top_sap_flyercode" name="top_sap_flyercode" value="" maxlength="50"></div>
-                <span id="header-flyer-button-container">
-                    <button onclick="flyercodeForm.submit(false)" class="button btn-cart" title="Apply" type="button"><span><span>Apply</span></span></button>
-                </span>
-                            </fieldset>
-        </form>
-
-                <form id="top_certificate_form" action="https://www.bsnsports.com/giftcard/cart/add/" method="post" class="giftcard">
-            <fieldset>
-                <label for="top_certificate" class="for-coupon-lbls v-middle left"><a class="help right" onclick="getHelpShow('certificate_help', 1)">help</a>
-                Certificate</label>
-                <div class="for-coupon-inpts left"><input class="required-entry input-text" id="top_certificate" name="giftcard_code" value="" maxlength="50"></div>
-                <span id="header-certificate-button-container">
-                    <button onclick="topCertificateForm.submit()" class="button btn-cart" title="Apply" type="button"><span><span>Apply</span></span></button>
-                </span>
-
-                                      </fieldset>
-        </form>
-        
-        <div id="program_help" class="flyer-code-tool-tip">
-            <a onclick="getHelpShow('program_help', 0)" class="btn-close-tool-tip"></a>
-            <p>This is not a required field. Enter a Program ID only if you've been given a special code to use when ordering to identify your order with a special purchasing group.</p>
-        </div>
-                <div id="certificate_help" class="flyer-code-tool-tip">
-            <a onclick="getHelpShow('certificate_help', 0)" class="btn-close-tool-tip"></a>
-            <p>If you have a certificate to apply to today's order, please enter it here. If you have more than one certificate you may enter multiples on the cart screen. Your certificate total will be shown and automatically applied as payment during checkout.</p>
-        </div>
-                <div id="flyer_help" class="flyer-code-tool-tip">
-            <a onclick="getHelpShow('flyer_help', 0)" class="btn-close-tool-tip"></a>
-            <p>From time to time you may receive a Flyer Code from us for a special promotion. If you have one, please enter it here.</p>
-        </div>
-        <script type="text/javascript">
-        //<![CDATA[
-        var topProgramidForm = new VarienForm('top_programid_form');
-        topProgramidForm.submit = function (isRemove) {
-            if (isRemove) {
-                $('top_programid').removeClassName('required-entry');
-                $('top_remove_programid').value = "1";
-            } else {
-                $('top_programid').addClassName('required-entry');
-                $('top_remove_programid').value = "0";
-            }
-
-            try{
-                if(topProgramidForm.validator && topProgramidForm.validator.validate()){
-                    var container = $('header-programid-button-container');
-                    container.setStyle({opacity:.5});
-                    _disableEnableAllHF(container, true);
-                    return VarienForm.prototype.submit.bind(topProgramidForm)();
-                   }
-            }catch(e){}
-        };
-
-                var topCertificateForm = new VarienForm('top_certificate_form');
-        topCertificateForm.submit = function () {
-            try{
-                if (topCertificateForm.validator && topCertificateForm.validator.validate()) {
-                    var container = $('header-certificate-button-container');
-                    container.setStyle({opacity:.5});
-                    _disableEnableAllHF(container, true);
-                    return VarienForm.prototype.submit.bind(topCertificateForm)();
-                }
-            }catch(e){}
-        };
-        
-        var flyercodeForm = new VarienForm('top_flyer_form');
-        flyercodeForm.submit = function (isRemove) {
-            if (isRemove) {
-                $('top_sap_flyercode').removeClassName('required-entry');
-                $('top_remove_flyercode').value = "1";
-            } else {
-                $('top_sap_flyercode').addClassName('required-entry');
-                $('top_remove_flyercode').value = "0";
-            }
-
-            try{
-                if(flyercodeForm.validator && flyercodeForm.validator.validate()){
-                    var container = $('header-flyer-button-container');
-                    container.setStyle({opacity:.5});
-                    _disableEnableAllHF(container, true);
-                    return VarienForm.prototype.submit.bind(flyercodeForm)();
-                   }
-            }catch(e){}
-        };
-
-        function _disableEnableAllHF(element, isDisabled) {
-            var descendants = element.descendants();
-            for (var k in descendants) {
-                descendants[k].disabled = isDisabled;
-            }
-            element.disabled = isDisabled;
-        }
-        //]]>
-        </script>
-    </div>
-</div>
-<script type="text/javascript">
-//<![CDATA[
-        jQuery.noConflict(); //start substituting $ for jQuery
-        jQuery(document).ready(function() {
-            jQuery("#flyer_popup").fancybox({
-                'titlePosition' : 'inside',
-                'transitionIn'  : 'none',
-                'transitionOut' : 'none'
-            });
-        });
-//]]>
-</script>
-<!-- Tool-tip js -->
-<script type="text/javascript">
-    function getHelpShow(id, show) {
-        document.getElementById("program_help").style.display = "none";
-        document.getElementById("flyer_help").style.display = "none";
-                    document.getElementById("certificate_help").style.display = "none";
-                if (show) {
-            document.getElementById(id).style.display = "block";
-        } else {
-            document.getElementById(id).style.display = "none";
-        }
-    }
-</script><!--/{HEADER_FLYER_214779da442bc22429b423dd6a5c9add}--> | 800.856.3488</span>
-             <!--{SALES_REP_32893d4af4aa7d5a05e87d7acdb45d75}--><div class="header-salesrep">
-            <a id="salesrep_popup" href="#salesrep_popup_div">
-<img src="http://static.bsnsports.com/media/wysiwyg/erios.jpg" alt="Sales Representative">
-<p><span class="questions">Questions?</span><span class="link-arrow"></span><br>
-I'm here to help!</p>
-</a>    </div>
-<div style="display:none;">
-    <div id="salesrep_popup_div" class="salesrep_popup">
-            <div class="profile-img-popup"><img title="Talk to a Specialist" src="http://static.bsnsports.com/media/wysiwyg/erios.jpg" alt="Talk to a Specialist"></div>
-<div class="help-content-popup">
-<span class="title-talktospecilist">Talk to a Specialist</span>
-<p>Over 35 years of experience</p>
-<p>waiting to hear from you...</p>
-<p><a href="http://www.bsnsports.com/contacts/">Email</a> or call 800.856.3488</p>
-</div>          </div>
-</div>
-<script type="text/javascript">
-//<![CDATA[
-        jQuery.noConflict();
-        jQuery(document).ready(function() {
-            jQuery("#salesrep_popup").fancybox({
-                'titlePosition' : 'inside',
-                'transitionIn'  : 'none',
-                'transitionOut' : 'none'
-            });
-        });
-//]]>
-</script><!--/{SALES_REP_32893d4af4aa7d5a05e87d7acdb45d75}-->        </div>
-      </div>
-    </div>
     <div class="header">
-        <div class="branding">
-                    <a href="http://www.bsnsports.com/" title="BSN Sports" class="logo"><strong>BSN Sports</strong><img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/images/logo.png" alt="BSN Sports"></a>
-
-                                </div>
-        <div class="quick-access">
-            <div class="checkout-link">
-                <div class="top-cart" id="perpetual_cart"><!--{CART_SIDEBAR_b900eca787399ff6d25b2078322f20ab}-->        <div class="block-title no-items">
-        <strong id="cartHeader">View Cart (<span>0 Item</span>) <span class="price">$0.00</span></strong>
+    <div class="branding">
+                    <a href="http://www.bsnsports.com/" title="BSN Sports" class="logo"><strong>BSN Sports</strong><img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/images/logo.png" alt="BSN Sports"></a>
+                    </div>
+        <div class="bsn-team-shop"><a href="http://www.bsnteamsports.com/" target="_self" title="BSN Team Shop">My Team</a><div class="bsn-tool-tip">Customized shops for your team</div></div>
+        <div class="header-links">
+            <div class="quick-access">
+                <div class="checkout-link">
+                    <div class="top-cart" id="perpetual_cart"><!--{CART_SIDEBAR_87a21da2edd23049970a978cc31047f2}-->        <div class="block-title no-items">
+        <strong id="cartHeader"><span>View Cart</span> <span><span class="price">$0.00</span></span> <span class="cart-icon"><span>0</span></span></strong>
     </div>
     <div id="topCartContent" class="block-content" style="display:none">
-        <div class="inner-wrapper">                            <p class="block-subtitle">
-                <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
+        <div class="inner-wrapper">		
+                            <p class="block-subtitle">
+                <span onclick="Enterprise.TopCart.hideCart()" class="close-btn"></span>
                 Recently added item(s)            </p>
             <p class="cart-empty">
                 You have no items in your shopping cart.            </p>
@@ -405,20 +244,15 @@ I'm here to help!</p>
     // Below can be used to show minicart after item added
     // Enterprise.TopCart.showCart(7);
 </script>
-<!--/{CART_SIDEBAR_b900eca787399ff6d25b2078322f20ab}--></div>
+<!--/{CART_SIDEBAR_87a21da2edd23049970a978cc31047f2}--></div>
                 <span id="perpetual-cart-please-wait" class="perpetual-cart-please-wait" style="display:none;">
-                    <img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/images/opc-ajax-loader.gif" alt="Loading please wait..." title="Loading please wait..." class="v-middle"> Loading please wait...                </span>
-                <ul class="links">
-                                                                <li class="first last">            <a href="http://www.bsnsports.com/checkout/cart/" title="Checkout" class="top-link-checkout">Checkout</a>
-            </li>
-            </ul>
-<script type="text/javascript">decorateGeneric($$('ul.links'), ['first'])</script>
-            </div>
-            
+                    <img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/images/opc-ajax-loader.gif" alt="Loading please wait..." title="Loading please wait..." class="v-middle"> Loading please wait...                </span>
+                                    </div>
+                
 <form id="search_mini_form" action="http://www.bsnsports.com/search/" method="get">
     <div class="input-box form-search">
         <label for="search">Search:</label>
-        <input id="search" type="search" name="Ntt" value="" class="input-text required-entry" maxlength="200" placeholder="Keyword or item #">
+        <input id="search" type="search" name="Ntt" value="" class="input-text required-entry" maxlength="200" placeholder="SEARCH" onfocus="if (this.value != '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'SEARCH';}">
         <button type="submit" title="Search" class="btn-search"></button>
     
 
@@ -449,7 +283,7 @@ I'm here to help!</p>
         var baseUrl =  'http://www.bsnsports.com/';
         var liCounter = 0;
         var totalNumResults = 0;
-        var suggestedUrl = 'http://www.bsnsports.com/adminendecasearch/ajax/suggest/';
+        var suggestedUrl = 'http://www.bsnsports.com/endecasearch/ajax/suggest/';
         jQuery('body').click(function(event) {
             var target = jQuery(event.target);
             if (target.parents('#search_autocomplete').length == 0) {
@@ -458,19 +292,100 @@ I'm here to help!</p>
         });
         //]]>
     </script>
-</form>            <div class="clearer"></div>
+</form>                <div class="clearer"></div>
+            </div>
+            <div class="login-top-links">
+				                <div class="account-link">
+                                        <!--{ACCLINKS_7ceea10dee2dea9a469159ffd507cf0f}--><ul class="links">
+                                                                <li class="first"><span></span>
+            <a href="https://www.bsnsports.com/customer/account/login/referer/aHR0cDovL3d3dy5ic25zcG9ydHMuY29tL3ByaXZhY3k,/" title="Log In">Log In</a>
+            </li>
+                                                                        <li class=" last"><span> or </span>
+            <a href="https://www.bsnsports.com/customer/account/create/" title="Register">Register</a>
+            </li>
+            </ul>
+<script type="text/javascript">decorateGeneric($$('ul.links'), ['first'])</script>
+<!--/{ACCLINKS_7ceea10dee2dea9a469159ffd507cf0f}-->                </div>
+                <ul class="links last">
+                    <li>
+                        <!--{HEADER_FLYER_8dc735e8120f2313e5a31ad5f2359d75}--><a id="flyer_popup" href="#flyer_popup_div" title="">
+                            Offers        <span id="header_sap_flyer"></span>
+    </a>
+<div style="display:none;">
+    <div id="flyer_popup_div" class="flyer-box">
+
+        <form id="top_flyer_form" action="http://www.bsnsports.com/flyer/flyer/flyerAdd/" method="post">
+            <fieldset>
+                <label for="top_sap_flyercode" class="for-coupon-lbls v-middle left"><a class="help right" onclick="getHelpShow('flyer_help', 1)">help</a>Flyer Code                </label> <input type="hidden" name="top_remove" id="top_remove_flyercode" value="0">
+                                    <div class="for-coupon-inpts left"><input class="input-text" id="top_sap_flyercode" name="top_sap_flyercode" value="" maxlength="50"></div>
+                    <span id="header-flyer-button-container">
+                    <button onclick="flyercodeForm.submit(false)" class="button btn-cart" title="Apply" type="button"><span><span>Apply</span></span></button>
+                </span>
+                            </fieldset>
+        </form>
+
+                    <form id="top_certificate_form" action="http://www.bsnsports.com/giftcard/cart/add/" method="post" class="giftcard">
+                <fieldset>
+                    <label for="top_certificate" class="for-coupon-lbls v-middle left"><a class="help right" onclick="getHelpShow('certificate_help', 1)">help</a>
+                        Certificate</label>
+                    <div class="for-coupon-inpts left"><input class="required-entry input-text" id="top_certificate" name="giftcard_code" value="" maxlength="50"></div>
+                <span id="header-certificate-button-container">
+                    <button onclick="topCertificateForm.submit()" class="button btn-cart" title="Apply" type="button"><span><span>Apply</span></span></button>
+                </span>
+
+                                                        </fieldset>
+            </form>
+        
+        <form id="top_programid_form" action="http://www.bsnsports.com/flyer/programid/programIdAdd/" method="post">
+            <fieldset>
+                <label for="top_programid" class="for-coupon-lbls v-middle left"><a class="help right" onclick="getHelpShow('program_help', 1)">help</a>
+                    Program ID</label>
+                <input type="hidden" id="top_remove_programid" name="remove_programid" value="0">
+                                    <div class="for-coupon-inpts left"><input class="input-text" id="top_programid" name="program_id" value="" maxlength="50"></div>
+                    <span id="header-programid-button-container">
+                    <button onclick="topProgramidForm.submit(false)" class="button btn-cart" title="Apply" type="button"><span><span>Apply</span></span></button>
+                </span>
+                            </fieldset>
+        </form>
+
+        <div id="program_help" class="flyer-code-tool-tip">
+            <a onclick="getHelpShow('program_help', 0)" class="btn-close-tool-tip"></a>
+            <p>This is not a required field. Enter a Program ID only if you've been given a special code to use when ordering to identify your order with a special purchasing group.</p>
         </div>
+                    <div id="certificate_help" class="flyer-code-tool-tip">
+                <a onclick="getHelpShow('certificate_help', 0)" class="btn-close-tool-tip"></a>
+                <p>If you have a certificate to apply to today's order, please enter it here. If you have more than one certificate you may enter multiples on the cart screen. Your certificate total will be shown and automatically applied as payment during checkout.</p>
+            </div>
+                <div id="flyer_help" class="flyer-code-tool-tip">
+            <a onclick="getHelpShow('flyer_help', 0)" class="btn-close-tool-tip"></a>
+            <p>From time to time you may receive a Flyer Code from us for a special promotion. If you have one, please enter it here.</p>
+        </div>
+        <script type="text/javascript">
+            //<![CDATA[
+            var punchOutCheckoutMode = '';
+            //]]>
+        </script><!--/{HEADER_FLYER_8dc735e8120f2313e5a31ad5f2359d75}-->                    </div></div></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mobile-header">
+        <ul>
+            <li class="menu"><span>&nbsp;</span> </li>
+            <li class="icon-account" onclick="myAccount()"><span>&nbsp;</span> </li>
+            <li class="icon-search" onclick="Search()"><span>&nbsp;</span></li>
+        </ul>
     </div>
     <div class="nav-main-container">
             <div class="header-nav-container">
         <h4 class="no-display">Category Navigation:</h4>
-        <ul id="pronav"><li id="" class="nav nav-1 "><a href="http://www.bsnsports.com/apparel" id="" class=" parent"><span class="pronav-top-level-span">Apparel</span></a><div class="sub"><ul class="sub-menu">
+        <ul id="pronav"><li id="" class="nav nav-1 "><a href="http://www.bsnsports.com/apparel" id="" class=" parent"><span class="pronav-top-level-span">Apparel</span></a><span class="next-arrow"></span><div class="sub"><ul class="sub-menu">
+<li class="parent-info"><a class="back-link"></a></li>
 <li><!-- SS Shirts --><span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/short-sleeve-shirts"><span>Short Sleeve Shirts</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/short-sleeve-shirts"><span>Short Sleeve Shirts</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/short-sleeve-shirts/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -484,11 +399,10 @@ I'm here to help!</p>
 <li>
 <!-- LS Shirts-->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/long-sleeve-shirts"><span>Long Sleeve Shirts</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/long-sleeve-shirts"><span>Long Sleeve Shirts</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/long-sleeve-shirts/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -502,11 +416,10 @@ I'm here to help!</p>
 <li>
 <!-- Polos-->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/polos"><span>Polos</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/polos"><span>Polos</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/polos/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -517,11 +430,10 @@ I'm here to help!</p>
 <li>
 <!-- Jackets -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/jackets"><span>Jackets</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/jackets"><span>Jackets</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/jackets/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -535,11 +447,10 @@ I'm here to help!</p>
 <li>
 <!--Jerseys -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/stock-jerseys"><span>Stock Jerseys</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/stock-jerseys"><span>Stock Jerseys</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/stock-jerseys/baseball">Baseball</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -568,11 +479,10 @@ I'm here to help!</p>
 <li>
 <!-- Hoodies -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/hoodies"><span>Hoodies</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/hoodies"><span>Hoodies</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/hoodies/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -586,11 +496,10 @@ I'm here to help!</p>
 <li>
 <!-- Compression Gear -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/compression-gear"><span>Compression Gear</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/compression-gear"><span>Compression Gear</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/compression-gear/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -604,11 +513,10 @@ I'm here to help!</p>
 <li>
 <!-- Pants -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/pants"><span>Pants</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/pants"><span>Pants</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/pants/baseball">Baseball</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -631,11 +539,10 @@ I'm here to help!</p>
 <li>
 <!-- Shorts -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/shorts"><span>Shorts</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/shorts"><span>Shorts</span></a><span class="next-arrow-inner"></span></span>
 </span>
   	<div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/shorts/basketball">Basketball</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -672,11 +579,10 @@ I'm here to help!</p>
 <li>
 <!-- Accessories -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/accessories"><span>Accessories</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/sports-apparel/accessories"><span>Accessories</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/bags">Bags</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -686,13 +592,13 @@ I'm here to help!</p>
     <a class="pronav-cat-a-sub-3 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/baseball-belts">Belts</a>
 </li>
 <li class="pronav-cat-li-sub-4 parent-li">
-    <a class="pronav-cat-a-sub-4 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/sports-bras">Bras</a>
+    <a class="pronav-cat-a-sub-4 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/fan-gear">Fan Gear</a>
 </li>
 <li class="pronav-cat-li-sub-5 parent-li">
-    <a class="pronav-cat-a-sub-5 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/fan-gear">Fan Gear</a>
+    <a class="pronav-cat-a-sub-5 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/football-gloves">Football Gloves</a>
 </li>
 <li class="pronav-cat-li-sub-6 parent-li">
-    <a class="pronav-cat-a-sub-6 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/football-gloves">Football Gloves</a>
+    <a class="pronav-cat-a-sub-6 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/hair-ties">Hair Ties</a>
 </li>
 <li class="pronav-cat-li-sub-7 parent-li">
     <a class="pronav-cat-a-sub-7 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/headbands">Headbands</a>
@@ -704,7 +610,7 @@ I'm here to help!</p>
     <a class="pronav-cat-a-sub-9 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/padded-protective-gear">Padded/Protective Gear</a>
 </li>
 <li class="pronav-cat-li-sub-10 parent-li">
-    <a class="pronav-cat-a-sub-10 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/scarves">Scarves/Gloves</a>
+    <a class="pronav-cat-a-sub-10 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/scarves-gloves">Scarves/Gloves</a>
 </li>
 <li class="pronav-cat-li-sub-11 parent-li">
     <a class="pronav-cat-a-sub-11 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/sliders">Sliders</a>
@@ -713,21 +619,24 @@ I'm here to help!</p>
     <a class="pronav-cat-a-sub-12 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/socks">Socks</a>
 </li>
 <li class="pronav-cat-li-sub-13 parent-li">
-    <a class="pronav-cat-a-sub-13 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/football-towels">Towels</a>
+    <a class="pronav-cat-a-sub-13 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/sports-bras">Sports Bras</a>
 </li>
 <li class="pronav-cat-li-sub-14 parent-li">
-    <a class="pronav-cat-a-sub-14 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/wristbands">Wristbands</a>
+    <a class="pronav-cat-a-sub-14 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/football-towels">Towels</a>
+</li>
+<li class="pronav-cat-li-sub-15 parent-li">
+    <a class="pronav-cat-a-sub-15 child-category" href="http://www.bsnsports.com/sports-apparel/accessories/wristbands">Wristbands</a>
 </li>
 </ul></div>    	
 </li>
-</ul></div></li><li id="" class="nav nav-2 "><a href="http://www.bsnsports.com/Footwear" id="" class=" parent"><span class="pronav-top-level-span">Footwear</span></a><div class="sub"><ul class="sub-menu">
+</ul></div></li><li id="" class="nav nav-2 "><a href="http://www.bsnsports.com/Footwear" id="" class=" parent"><span class="pronav-top-level-span">Footwear</span></a><span class="next-arrow"></span><div class="sub"><ul class="sub-menu">
+<li class="parent-info"><a class="back-link"></a></li>
 <li>
 <!-- Baseball --><span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/athletic-footwear/baseball-shoes"><span>Baseball</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/athletic-footwear/baseball-shoes"><span>Baseball</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/athletic-footwear/baseball-shoes/cleats">Cleats</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -737,11 +646,10 @@ I'm here to help!</p>
 </div>
 </li>
 <li><!-- Basketball --><span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/athletic-footwear/basketball-shoes"><span>Basketball</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/athletic-footwear/basketball-shoes"><span>Basketball</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/athletic-footwear/basketball-shoes/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -753,11 +661,10 @@ I'm here to help!</p>
 
 <li><!-- Coaches -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/athletic-footwear/cross-training-shoes"><span>Cross Training</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/athletic-footwear/cross-training-shoes"><span>Cross Training</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/athletic-footwear/cross-training-shoes/mens">Men's</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -768,46 +675,55 @@ I'm here to help!</p>
 </li>
 <li><!-- Football -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/football-shoes"><span>Football</span></a></span>
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/football-shoes"><span>Football</span></a><span class="next-arrow-inner"></span></span>
 </span>
 </li>
 <li><!-- Lacrosse -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/lacrosse-shoes"><span>Lacrosse</span></a></span>
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/lacrosse-shoes"><span>Lacrosse</span></a><span class="next-arrow-inner"></span></span>
 </span>
 </li>
 
 <li><!-- Sandals  -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/sandals"><span>Sandals</span></a></span>
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/sandals"><span>Sandals</span></a><span class="next-arrow-inner"></span></span>
 </span>
 
 </li>
 
 
 <li><!-- Soccer -->
-<span class="pronav-heading"></span>
+<span class="pronav-heading">
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/soccer-shoes"><span>Soccer</span></a><span class="next-arrow-inner"></span></span>
+</span>
 
 </li>
 
 <li><!-- Softball -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/softball-shoes"><span>Softball</span></a></span>
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/softball-shoes"><span>Softball</span></a><span class="next-arrow-inner"></span></span>
+</span>
+</li>
+
+<li><!-- Track -->
+<span class="pronav-heading">
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/track"><span>Track</span></a><span class="next-arrow-inner"></span></span>
 </span>
 </li>
 
 <li><!-- Volleyball -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/volleyball-shoes"><span>Volleyball</span></a></span>
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/volleyball-shoes"><span>Volleyball</span></a><span class="next-arrow-inner"></span></span>
 </span>
 
 </li>
 <li><!-- Socks -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/socks"><span>Socks</span></a></span>
+<span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/athletic-footwear/socks"><span>Socks</span></a><span class="next-arrow-inner"></span></span>
 </span>
 </li>
-</ul></div></li><li id="" class="nav nav-3 "><a href="http://www.bsnsports.com/team-uniforms" id="" class=" parent"><span class="pronav-top-level-span">Team Uniforms</span></a><div class="sub"><ul class="sub-menu">
+</ul></div></li><li id="" class="nav nav-3 "><a href="http://www.bsnsports.com/team-uniforms" id="" class=" parent"><span class="pronav-top-level-span">Team Uniforms</span></a><span class="next-arrow"></span><div class="sub"><ul class="sub-menu">
+<li class="parent-info"><a class="back-link"></a></li>
 <li class=""><!-- Baseball --><span class="pronav-heading">
 <span class="widget pronav-widget-category-link"><a href="http://www.bsnsports.com/team-uniforms-baseball"><span>Baseball</span></a></span>
 </span>
@@ -875,15 +791,15 @@ I'm here to help!</p>
 </span>
 </li>
 
-</ul></div></li><li id="" class="nav nav-4 "><a href="http://www.bsnsports.com/equipment" id="" class=" parent"><span class="pronav-top-level-span">Equipment</span></a><div class="sub"><ul class="sub-menu">
+</ul></div></li><li id="" class="nav nav-4 "><a href="http://www.bsnsports.com/equipment" id="" class=" parent"><span class="pronav-top-level-span">Equipment</span></a><span class="next-arrow"></span><div class="sub"><ul class="sub-menu">
+<li class="parent-info"><a class="back-link"></a></li>
 <li>
 <!-- Sports -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/sports"><span>Sports</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/sports"><span>Sports</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/equipment/sports/aquatics">Aquatics</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -949,11 +865,10 @@ I'm here to help!</p>
 
 <li><!-- Facilities -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/facilities"><span>Facilities</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/facilities"><span>Facilities</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/equipment/facilities/awards-trophies">Awards &amp; Trophies</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -980,11 +895,10 @@ I'm here to help!</p>
 
 <li><!-- Fitness -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/fitness"><span>Fitness</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/fitness"><span>Fitness</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/equipment/fitness/assessment">Assessment</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -1000,16 +914,19 @@ I'm here to help!</p>
     <a class="pronav-cat-a-sub-5 child-category" href="http://www.bsnsports.com/equipment/fitness/other">Other</a>
 </li>
 <li class="pronav-cat-li-sub-6 parent-li">
-    <a class="pronav-cat-a-sub-6 child-category" href="http://www.bsnsports.com/equipment/fitness/speed-agility">Speed &amp; Agility</a>
+    <a class="pronav-cat-a-sub-6 child-category" href="http://www.bsnsports.com/equipment/fitness/outdoor-equipment">Outdoor Equipment</a>
 </li>
 <li class="pronav-cat-li-sub-7 parent-li">
-    <a class="pronav-cat-a-sub-7 child-category" href="http://www.bsnsports.com/equipment/fitness/strength-training">Strength Training</a>
+    <a class="pronav-cat-a-sub-7 child-category" href="http://www.bsnsports.com/equipment/fitness/speed-agility">Speed &amp; Agility</a>
 </li>
 <li class="pronav-cat-li-sub-8 parent-li">
-    <a class="pronav-cat-a-sub-8 child-category" href="http://www.bsnsports.com/equipment/fitness/weight-room-flooring">Weight Room Flooring</a>
+    <a class="pronav-cat-a-sub-8 child-category" href="http://www.bsnsports.com/equipment/fitness/strength-training">Strength Training</a>
 </li>
 <li class="pronav-cat-li-sub-9 parent-li">
-    <a class="pronav-cat-a-sub-9 child-category" href="http://www.bsnsports.com/equipment/fitness/yoga-pilates">Yoga/Pilates</a>
+    <a class="pronav-cat-a-sub-9 child-category" href="http://www.bsnsports.com/equipment/fitness/weight-room-flooring">Weight Room Flooring</a>
+</li>
+<li class="pronav-cat-li-sub-10 parent-li">
+    <a class="pronav-cat-a-sub-10 child-category" href="http://www.bsnsports.com/equipment/fitness/yoga-pilates">Yoga/Pilates</a>
 </li>
 </ul>
 </div>
@@ -1017,11 +934,10 @@ I'm here to help!</p>
 
 <li><!-- P.E. & Games -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/pe-games"><span>P.E. &amp; Games</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/pe-games"><span>P.E. &amp; Games</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/equipment/pe-games/game-room">Game Room</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -1036,11 +952,10 @@ I'm here to help!</p>
 
 <li><!-- Other -->
 <span class="pronav-heading">
-<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/other"><span>Other</span></a></span>
+<span class="widget pronav-widget-category-link"><a class="parent" href="http://www.bsnsports.com/equipment/other"><span>Other</span></a><span class="next-arrow-inner"></span></span>
 </span>
 <div class="sub-nav">
-
-<ul class="column"><li class="pronav-cat-li-sub-1 parent-li">
+<ul class="column"><li class="parent-info"><a class="back-link"></a></li><li class="pronav-cat-li-sub-1 parent-li">
     <a class="pronav-cat-a-sub-1 child-category" href="http://www.bsnsports.com/equipment/other/egift-certificates">eGift Certificates</a>
 </li>
 <li class="pronav-cat-li-sub-2 parent-li">
@@ -1064,101 +979,120 @@ I'm here to help!</p>
 <script>
 jQuery.noConflict();
 jQuery(function() {
-jQuery('ul#pronav').addClass('pronav-selected-privacy');
-jQuery.fn.calcSubWidth = function() {
-            rowWidth = 0;
-            jQuery(this).find("ul").each(function() {
-                rowWidth += jQuery(this).width();
+
+  if(jQuery(window).width() >= 768)
+  {
+    jQuery('ul#pronav').addClass('pronav-selected-privacy');
+    jQuery.fn.calcSubWidth = function() {
+                rowWidth = 0;
+                jQuery(this).find("ul").each(function() {
+                    rowWidth += jQuery(this).width();
+                });
+            };
+    var paddingFix = 0;
+    function megaHoverOver(){
+        jQuery(this).find(".sub").stop().fadeTo(500, 1, function(){
+        			jQuery(this).css('filter','');
+            }).show();
+         subPaddingLeft = jQuery(this).find('.sub').css('padding-right');
+    	 subPaddingRight = jQuery(this).find('.sub').css('padding-left');
+    	 if (subPaddingLeft && subPaddingRight)
+    	 {
+    		 subPaddingLeft = parseInt(subPaddingRight.replace('px', ''));
+    		 subPaddingRight = parseInt(subPaddingRight.replace('px', ''));
+    		 paddingFix = subPaddingLeft + subPaddingRight;
+    	 }
+        if ( jQuery(this).find(".row").length > 0 ) {
+
+            var biggestRow = 0;
+            jQuery(this).find(".row").each(function() {
+                jQuery(this).calcSubWidth();
+                if(rowWidth > biggestRow) {
+                    biggestRow = rowWidth;
+                }
             });
-        };
-var paddingFix = 0;
-function megaHoverOver(){
-    jQuery(this).find(".sub").stop().fadeTo(500, 1, function(){
-    			jQuery(this).css('filter','');
-        }).show();
-     subPaddingLeft = jQuery(this).find('.sub').css('padding-right');
-	 subPaddingRight = jQuery(this).find('.sub').css('padding-left');
-	 if (subPaddingLeft && subPaddingRight)
-	 {
-		 subPaddingLeft = parseInt(subPaddingRight.replace('px', ''));
-		 subPaddingRight = parseInt(subPaddingRight.replace('px', ''));
-		 paddingFix = subPaddingLeft + subPaddingRight;
-	 }
-    if ( jQuery(this).find(".row").length > 0 ) {
+            //jQuery(this).find(".sub").css({width : biggestRow + paddingFix});
+            jQuery(this).find(".row:last").css({'margin':'0'});
 
-        var biggestRow = 0;
-        jQuery(this).find(".row").each(function() {
+        } else {
             jQuery(this).calcSubWidth();
-            if(rowWidth > biggestRow) {
-                biggestRow = rowWidth;
-            }
-        });
-        //jQuery(this).find(".sub").css({width : biggestRow + paddingFix});
-        jQuery(this).find(".row:last").css({'margin':'0'});
+            //jQuery(this).find(".sub").css({'width' : rowWidth + paddingFix});
 
-    } else {
-        jQuery(this).calcSubWidth();
-        //jQuery(this).find(".sub").css({'width' : rowWidth + paddingFix});
-
+        }
     }
-}
 
-function megaHoverOut(){
-  jQuery(this).find(".sub").fadeTo(200, 0, function() {
-      jQuery(this).hide();
-  });
-}
+    function megaHoverOut(){
+      jQuery(this).find(".sub").fadeTo(200, 0, function() {
+          jQuery(this).hide();
+      });
+    }
 
 
-var config = {
-     sensitivity: 2,
-     interval: 50,
-     over: megaHoverOver,
-     timeout: 200,
-     out: megaHoverOut
-};
-jQuery("ul#pronav li .sub").css({'opacity':'0'});
-jQuery("ul#pronav li").hoverIntent(config);
+    var config = {
+         sensitivity: 2,
+         interval: 50,
+         over: megaHoverOver,
+         timeout: 200,
+         out: megaHoverOut
+    };
+    jQuery("ul#pronav li .sub").css({'opacity':'0'});
+    jQuery("ul#pronav li").hoverIntent(config);
+
+  }
+
+});
+
+jQuery(document).ready(function(){
+
+  if(jQuery(window).width() >= 768)
+  {
+    jQuery(".child-category").hover(function(){
+        jQuery(".parent-li").removeClass('hover');
+        //jQuery(".pronav-heading").parent('li').removeClass('hover');
+        jQuery(this).parent('li').addClass('hover');
+    });
+
+    jQuery(".pronav-widget-category-link").hover(function(){
+        jQuery(".pronav-heading").parent('li').removeClass('hover');
+        jQuery(".parent-li").removeClass('hover');
+        jQuery(this).parent('span').parent('li').addClass('hover');
+    });
+
+    jQuery("#pronav").mouseout(function(){
+        jQuery(".pronav-heading").parent('li').removeClass('hover');
+        jQuery(".parent-li").removeClass('hover');
+    });
+  }
 });
 
 
-
-jQuery(".child-category").hover(function(){
-    jQuery(".parent-li").removeClass('hover');
-    //jQuery(".pronav-heading").parent('li').removeClass('hover');
-    jQuery(this).parent('li').addClass('hover');
-});
-
-jQuery(".pronav-widget-category-link").hover(function(){
-    jQuery(".pronav-heading").parent('li').removeClass('hover');
-    jQuery(".parent-li").removeClass('hover');
-    jQuery(this).parent('span').parent('li').addClass('hover');
-});
-
-jQuery("#pronav").mouseout(function(){
-    jQuery(".pronav-heading").parent('li').removeClass('hover');
-    jQuery(".parent-li").removeClass('hover');
-});
-
-
-
-
-</script>        <div class="clearer"></div>
+</script>
+<script type="text/javascript">
+    var selectedStateSegmentProNav = false;
+    var fadeInConfigProNav = false;
+    var fadeOutConfigProNav = false;
+    var sensitivityConfigProNav = false;
+    var intervalConfigProNav =  false;
+    var timeoutConfigProNav = false;
+</script>
+        <div class="clearer"></div>
     </div>
+
+
         <div class="top-container"><div class="quickorder_wrapper">
     <a href="javascript:;" id="quickorder_link" class="quick-order-form">
-            <span>Quick Order Form</span>
+            <span>Catalog Quick Order</span>
         </a>
     <div id="quickorder_box" style="display:none;">
-	<h2>Quick Order Form</h2>
-  <div class="left" style="width:50%; *width:240px">
+	<h2>Catalog Quick Order</h2>
+  <div class="quick-order">
   <form id="quickorderFrm" name="quickorderFrm" onsubmit="return false;" method="post">
 	<a href="javascript:;" id="quickorder_close" class="btn-close-tool-tip" title="Close"><span></span> Close</a>
         <table cellpadding="0" cellspacing="0" class="itemsBox">
             <tbody><tr>
-                <td width="20%"><strong>Item Number</strong></td>
-                <td width="5%"><strong>Qty</strong></td>
-                <td width="41%"><strong>Flyer</strong></td>
+                <td><strong>Item Number</strong></td>
+                <td><strong>Qty</strong></td>
+                <td><strong>Flyer</strong></td>
              </tr>
                             <tr id="row_0">
                     <td class="itemsku_0">
@@ -1282,7 +1216,7 @@ jQuery("#pronav").mouseout(function(){
      <input type="hidden" name="quickorderAction" id="quickorderAction" value="http://www.bsnsports.com/quickorder/index/">
     </form>
 	</div>
-	<div class="catalog-box"><a href="http://www.bsnsports.com/catalogs/" target="_blank"> 
+	<div class="catalog-box"><a href="http://www.bsnsports.com/catalogs/" target="_self"> 
 <img src="http://www.bsnsports.com/catalog_covers/bsnsports_big-book.jpg" width="180" height="234" alt="BSN SPORTS Catalog"> </a>
 <p style="text-align: center; margin-left: 35px;"><a style="text-decoration: underline;" href="http://www.bsnsports.com/catalogs/">View</a> and <a style="text-decoration: underline;" href="http://www.bsnsports.com/catalogs/">request</a> our catalogs</p>
 </div>	</div>
@@ -1294,25 +1228,54 @@ function replaceEnterKeyWithTab(event, nextElement){
         $(nextElement).focus();
     }
 }
- </script></div>    </div>
+ </script></div>    
+</div>
+<div class="top-nav-banner">
+	<style>
+.offer-container {display: table; margin: 0 auto;}
+.offer-content {font-size: 17px; padding: 10px 0 0 10px; margin: 0; float: left;}
+.offer-content span {font-size:34px;}
+.offer-content a {font-size: 12px; padding: 0 0 0 5px; display:inline-block}
+@media (max-width:480px) {
+.offer-content {width:50%; font-size:12px; font-weight:600}
+.offer-content span {font-size:17px}
+}
+</style>
+
+<div style="width: 100%; background: linear-gradient(to bottom,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); text-align: center;">
+<div class="offer-container"><img style="float: left;" src="http://www.bsnsports.com/images/2015saletag2.png" alt="20% OFF NO MINIMUM">
+<div class="offer-content"><span>20% OFF</span> NO MINIMUM <a href="http://www.bsnsports.com/bsn-promo-detail-20-off-flyer-31?no_cache=1">flyer code 31 details</a></div>
+</div>
+</div>
+
+
+</div>
 <div id="sap-price-please-wait" style="display:none;" class="sap-price-loader">
   <!-- BOF: Code for Ajax SAP Pricing -->
   <p> <span class="opc-please-wait">
-      <img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/images/ajax-loader-tr.gif" class="v-middle" alt="" align="absmiddle"><br>
+      <img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/images/ajax-loader-tr.gif" class="v-middle" alt="" align="absmiddle"><br>
        Price Loading... &nbsp; </span>
     <!-- EOF: Code for Ajax SAP Pricing -->
   </p>
-</div>        <div class="main col1-layout">
-                <!--{PAGE_BREADCRUMBS_c0b2b4cc2c724dcd87dffcb17c2345af}--><!--/{PAGE_BREADCRUMBS_c0b2b4cc2c724dcd87dffcb17c2345af}-->            <div class="col-main">
+</div>
+<div id="frieght_loader" style="display:none;" class="sap-price-loader">
+    <!-- BOF: Code for Ajax SAP Pricing -->
+    <p> <span class="opc-please-wait">
+      <img src="http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/images/ajax-loader-tr.gif" class="v-middle" alt="" align="absmiddle"><br>
+            Updating Freight... &nbsp; </span>
+        <!-- EOF: Code for Ajax SAP Pricing -->
+    </p>
+</div>        <!--{PAGE_BREADCRUMBS_11523293d62eeb3b45545ea6d60f08f3}--><!--/{PAGE_BREADCRUMBS_11523293d62eeb3b45545ea6d60f08f3}-->        <div class="main col1-layout">
+            <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->            <div class="col-main">
                     <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><div style="font-size: 13px; line-height: 18px; padding: 10px 0;">
+<div class="std"><!--{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><!--/{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><div style="font-size: 13px; line-height: 18px; padding: 10px 0;">
 <h4><a name="Top"></a>BSN SPORTS - Privacy Policy</h4>
 <p align="left">Effective on July 1, 2004<br> Last modified on January 1, 2012</p>
 <br>
 <div class="static-cont-box">
-<ul>
+<ul class="point-links">
 <li><a href="#1">Information Collected</a></li>
 <li><a href="#2">Personal Information</a></li>
 <li><a href="#3">How We Use Your Personal Information</a></li>
@@ -1343,8 +1306,8 @@ function replaceEnterKeyWithTab(event, nextElement){
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="3" name="3"></a>How We Use Your Personal Information</h2>
-<p>US Games uses the information collected, including personally identifiable information, to better understand your needs and provide you with better products and services. We may use your information to communicate to you, to update you on products, services and benefits, to personalize the Site for you, to contact you for market research and/or to provide you with marketing information, newsletters, or other information. US Games may use third party information to ship product, to confirm delivery and to provide such third party with information regarding US Games’ promotional programs.</p>
-<p>US Games may share personal information with our affiliates, business successors, business associates, technical consultants, third party auditors and other third parties. We work with several third party vendors who make our Site available, enhance its functionality, provide associated services and/or who deal with users in processing orders and delivering content, samples, products, services, gifts and prizes. Please note that we reserve the right to transfer your personally identifiable information and other information to our business associates, successors in business and purchasers of Site assets.</p>
+<p>BSN SPORTS uses the information collected, including personally identifiable information, to better understand your needs and provide you with better products and services. We may use your information to communicate to you, to update you on products, services and benefits, to personalize the Site for you, to contact you for market research and/or to provide you with marketing information, newsletters, or other information. BSN SPORTS may use third party information to ship product, to confirm delivery and to provide such third party with information regarding BSN SPORTS’ promotional programs.</p>
+<p>BSN SPORTS may share personal information with our affiliates, business successors, business associates, technical consultants, third party auditors and other third parties. We work with several third party vendors who make our Site available, enhance its functionality, provide associated services and/or who deal with users in processing orders and delivering content, samples, products, services, gifts and prizes. Please note that we reserve the right to transfer your personally identifiable information and other information to our business associates, successors in business and purchasers of Site assets.</p>
 <p align="left">&nbsp;</p>
 <p>Information obtained through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources.</p>
 <p align="left">&nbsp;</p>
@@ -1352,12 +1315,12 @@ function replaceEnterKeyWithTab(event, nextElement){
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="4" name="4"></a>On-line Purchases</h2>
-<p align="left">The Site uses various order forms for users to request information and order US Games products. We collect contact information (such as name, mailing address and/or e-mail address), and when appropriate, financial information (such as your credit card number and its expiration date) to process requests or purchases. Contact information from an order form may be used to fulfill orders, to contact users regarding their order and for other purposes, such as to provide company information. Collected credit card information is used to process requests for products and services, and will not be shared with third parties that are not involved with the transaction. When credit card information is transmitted, we use industry standard, SSL (secure socket layer) encryption.</p>
+<p align="left">The Site uses various order forms for users to request information and order BSN SPORTS products. We collect contact information (such as name, mailing address and/or e-mail address), and when appropriate, financial information (such as your credit card number and its expiration date) to process requests or purchases. Contact information from an order form may be used to fulfill orders, to contact users regarding their order and for other purposes, such as to provide company information. Collected credit card information is used to process requests for products and services, and will not be shared with third parties that are not involved with the transaction. When credit card information is transmitted, we use industry standard, SSL (secure socket layer) encryption.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="5" name="5"></a>Discussions and Community Tools</h2>
-<p>US Games may, from time to time, make chat rooms, forums, message boards, news groups and other community tools available to our users. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for US Games to use. Please be considerate and respectful of others while using the community to share your opinion. US Games reserves the right to delete postings that may be viewed as inappropriate or offensive to others.</p>
-<p align="left">From time to time, we may use the content you submit or post in public places for advertising promotional purposes, in e-mail newsletters or elsewhere. By using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. Please exercise caution when deciding to disclose personal information in these areas, since anyone – not just US Games – may use publicly posted information.</p>
+<p>BSN SPORTS may, from time to time, make chat rooms, forums, message boards, news groups and other community tools available to our users. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for BSN SPORTS to use. Please be considerate and respectful of others while using the community to share your opinion. BSN SPORTS reserves the right to delete postings that may be viewed as inappropriate or offensive to others.</p>
+<p align="left">From time to time, we may use the content you submit or post in public places for advertising promotional purposes, in e-mail newsletters or elsewhere. By using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. Please exercise caution when deciding to disclose personal information in these areas, since anyone – not just BSN SPORTS – may use publicly posted information.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="6" name="6"></a>Non-Personal Data</h2>
@@ -1365,19 +1328,19 @@ function replaceEnterKeyWithTab(event, nextElement){
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="7" name="7"></a>Cookies</h2>
-<p align="left">We reserve the right to utilize cookie technology ourselves or through third party providers. A cookie is a small data file that certain web sites write to your hard drive when you visit the sites. A cookie file can contain various types of information, including a user ID used by sites to track the pages visited. US Games may use cookies to enhance your experience on the Site, to determine user traffic patterns and for other purposes.</p>
+<p align="left">We reserve the right to utilize cookie technology ourselves or through third party providers. A cookie is a small data file that certain web sites write to your hard drive when you visit the sites. A cookie file can contain various types of information, including a user ID used by sites to track the pages visited. BSN SPORTS may use cookies to enhance your experience on the Site, to determine user traffic patterns and for other purposes.</p>
 <p>Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. You can also flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions).</p>
-<p align="left">At times, some of the advertisers on our Site and their ad service providers may set cookies when you click their advertising banners. While we may use cookies in other parts of the Site (as discussed above), cookies received with banner ads are collected by those advertisers and their ad service providers, and we do not have access to that information. The ad company’s privacy policy and/or that of its service provider will govern the use of this information and US Games is not responsible for the privacy practices of such ad company.</p>
+<p align="left">At times, some of the advertisers on our Site and their ad service providers may set cookies when you click their advertising banners. While we may use cookies in other parts of the Site (as discussed above), cookies received with banner ads are collected by those advertisers and their ad service providers, and we do not have access to that information. The ad company’s privacy policy and/or that of its service provider will govern the use of this information and BSN SPORTS is not responsible for the privacy practices of such ad company.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="8" name="8"></a>Opt Out Procedures</h2>
-<p>You have the option to opt out of receiving information from US Games. An opt out message will appear at the bottom of every e-mail that is sent. US Games also offers the option to remove your information from our database completely. If you no longer wish to take advantage of the Site or to receive any form of direct communication from US Games, in the form of e-mail, discounts, newsletters or other promotional offers, or wish us to delete your personal information from our data records, contact us at <a href="mailto:webmaster@sportsupplygroup.com">webmaster@sportsupplygroup.com</a><strong>. You may also </strong>call us at 972-484-9484 and ask to be transferred to the Internet Department to cancel your account. US Games is not responsible for removing information from third-party lists or databases of any kind.</p>
+<p>You have the option to opt out of receiving information from BSN SPORTS. An opt out message will appear at the bottom of every e-mail that is sent. BSN SPORTS also offers the option to remove your information from our database completely. If you no longer wish to take advantage of the Site or to receive any form of direct communication from BSN SPORTS, in the form of e-mail, discounts, newsletters or other promotional offers, or wish us to delete your personal information from our data records, contact us at <a href="mailto:webmaster@sportsupplygroup.com">webmaster@sportsupplygroup.com</a><strong>. You may also </strong>call us at 972-484-9484 and ask to be transferred to the Internet Department to cancel your account. BSN SPORTS is not responsible for removing information from third-party lists or databases of any kind.</p>
 <p align="left">&nbsp;</p>
 <p>Please note that we reserve the right to keep any personal or non-personal information submitted or collected until you delete or modify it. We may choose, for business reasons such as obsolescence, to delete it.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="9" name="9"></a>Reviewing or changing your information</h2>
-<p>In order to ensure that the information we maintain is accurate, US Games gives users the option to change or modify the information previously provided. If you would like to change the information currently in our database, please contact us at <strong><a title="webmaster@sportsupplygroup.com" href="mailto:webmaster@sportsupplygroup.com">webmaster@sportsupplygroup.com</a></strong> US Games is not responsible for updating information contained in third-party lists or databases.</p>
+<p>In order to ensure that the information we maintain is accurate, BSN SPORTS gives users the option to change or modify the information previously provided. If you would like to change the information currently in our database, please contact us at <strong><a title="webmaster@sportsupplygroup.com" href="mailto:webmaster@sportsupplygroup.com">webmaster@sportsupplygroup.com</a></strong> BSN SPORTS is not responsible for updating information contained in third-party lists or databases.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="10" name="10"></a>Security</h2>
@@ -1387,12 +1350,12 @@ function replaceEnterKeyWithTab(event, nextElement){
 <h2><a id="11" name="11"></a>Privacy Precaution Warning</h2>
 <p align="left">Please note that no data transmission over the Internet is 100% secure. As a result, we cannot guarantee the security of the information that you transmit via our online services.</p>
 <p align="left">&nbsp;</p>
-<p align="left">Please note that we reserve the right to access and/or disclose personal information and non-personal information we gather as required by courts or administrative agencies and to the extent required to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Site rules or policies, the rights of third parties or to investigate any suspected conduct that US Games deems improper.</p>
+<p align="left">Please note that we reserve the right to access and/or disclose personal information and non-personal information we gather as required by courts or administrative agencies and to the extent required to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Site rules or policies, the rights of third parties or to investigate any suspected conduct that BSN SPORTS deems improper.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
 <h2><a id="12" name="12"></a>Your Consent</h2>
 <p align="left">You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply. By using the Site you are accepting these terms and, to the maximum extent permitted by law, are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personal information as described above.</p>
-<p align="left">By using the Site, you also authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. US Games is headquartered in the USA, in Dallas, Texas.<strong> </strong>This policy and our legal obligations are subject to the laws of Texas and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA, in the State of Texas, county of Dallas.</p>
+<p align="left">By using the Site, you also authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. BSN SPORTS is headquartered in the USA, in Dallas, Texas.<strong> </strong>This policy and our legal obligations are subject to the laws of Texas and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA, in the State of Texas, county of Dallas.</p>
 <p align="left">We may amend our Privacy Policy. If we decide to change our Privacy Policy, we will post the changes on this page so you are aware of what information we collect, how we use it and under what circumstances we may disclose it.</p>
 <p align="right">[<a href="#Top">back to top] </a></p>
 <br>
@@ -1406,110 +1369,199 @@ function replaceEnterKeyWithTab(event, nextElement){
 </div></div>            </div>
         </div>
                 <div class="footer-container">
-    		<div class="footer">
-    		    <div class="recent-items">
-                      <div class="recent-group">
-    <!--{RECENT_CATEGORIES_e7ba8633cd9c1f7877cddc84f771c150}--><div class="recentcontent">
-  <div class="head">Recent categories</div>
-      <p>no entries</p>
-    </div><!--/{RECENT_CATEGORIES_e7ba8633cd9c1f7877cddc84f771c150}-->    <!--{RECENT_SEARCHES_3c6effa5cbba13db5ebf98cc73709992}--><div class="recentcontent">
-  <div class="head">Recent searches</div>
-    <p>
-      no entries    </p>
-    </div><!--/{RECENT_SEARCHES_3c6effa5cbba13db5ebf98cc73709992}-->  </div>
-</div>    		    <div class="dl-cols-group"><dl><dt>ORDER INFO</dt><dd><a title="Track my order" href="http://www.bsnsports.com/customer/account">Track my order</a></dd><dd><a title="Shipping rates &amp; policies" href="http://www.bsnsports.com/shipping">Shipping rates &amp; policies</a></dd><dd><a title="Returns" href="http://www.bsnsports.com/returns">Returns</a></dd></dl><dl><dt>Help</dt><dd><a title="Help department" href="http://www.bsnsports.com/helpdepartment">Help department</a></dd><dd><a title="Terms &amp; Conditions" href="http://www.bsnsports.com/terms">Terms &amp; conditions</a></dd><dd><a title="Credit Terms" href="http://www.bsnsports.com/credit-terms">Credit Terms</a></dd><dd><a title="FAQs" href="http://www.bsnsports.com/faq">FAQs</a></dd>
-    <dd><a title="Returns" href="http://www.bsnsports.com/returns"></a></dd>
+    		    <div class="footer">
+<dl>
+   <dt>Company<i class="plus-button-img"></i></dt>
+   <dd>
+    <ul>
+    <li><a href="http://www.bsnsports.com/blog" title="Blog Site">Blog Site</a></li>
+    <li><a href="http://www.bsnsports.com/brands" title="Brands">Brands</a></li>
+    <li><a href="http://www.bsnsports.com/catalogs" title="Contact us">Catalogs</a></li>
+    <li><a href="http://www.bsnsports.com/company-info" title="Company Info">Company Info</a></li>
+    <li><a href="http://www.bsnsports.com/contacts" title="Contact us">Contact us</a></li>
+    <li><a href="http://www.bsnsports.com/contract-pricing" title="Contract Pricing">Contract Pricing</a></li>
+    <li><a href="http://www.bsnsports.com/government-contracts" title="Government Contracts">Government Contracts</a></li>
+    <li><a href="http://www.bsnsports.com/join-our-team" title="Join our Team">Join our Team</a></li>
+    <li><a href="http://www.bsnteamsports.com/" title="My Team Shop">My Team Shop</a></li>
+    <li><a href="http://www.bsnsports.com/ITS/static/field_sales_locations.pdf" title="Offices">Offices</a></li>
+    <li><a href="http://www.bsnsports.com/privacy" title="Privacy policy">Privacy policy</a></li>
+    <li><a href="http://www.sportsupplygroup.com/productsafety/" target="_blank" title="Recall Info">Recall Info</a></li>
+    <li><a href="http://art.bsnsports.com/" title="Team Art locker" target="_blank">Team Art Locker</a></li>
+    </ul>
+   </dd>
 </dl>
-  <dl>
-    <dt>Categories</dt>
-    <dd><a title="Apparel" href="http://www.bsnsports.com/apparel">Apparel</a></dd>
-    <dd><a title="Footwear" href="http://www.bsnsports.com/footwear">Footwear</a></dd>
-    <dd><a title="Team Uniforms" href="http://www.bsnsports.com/team-uniforms-overview">Team Uniforms </a></dd>
-    <dd><a title="Equipment" href="http://www.bsnsports.com/equipment">Equipment</a></dd>
-  </dl>
-  </div>
-<dl class="left"><dt>Company</dt><dd><a title="Brands" href="http://www.bsnsports.com/brands">Brands</a></dd><dd><a title="Contact us" href="http://www.bsnsports.com/contacts/">Contact us</a></dd><dd><a title="Join our Team" href="http://www.bsnsports.com/join-our-team?no-cache=123">Join our Team</a></dd><dd><a title="Recall Info" href="http://www.sportsupplygroup.com/productsafety/" target="_blank">Recall Info</a></dd><dd><a title="Privacy policy" href="http://www.bsnsports.com/privacy">Privacy policy</a></dd>
-
-<!-- comment out Offices per Kurt Hagen 1-29-14 end comment -->
-<dd>
-<a title="Offices" href="http://www.bsnsports.com/ITS/static/field_sales_locations.pdf">Offices</a></dd>
-
-<!-- comment out Offices per Kurt Hagen 1-29-14 end comment -->
-
-<dd><a href="http://www.bsnsports.com/team-uniforms?no_cache=1">Team Uniforms</a></dd><dd><a href="http://www.bsnsports.com/contract-pricing?no_cache=1">Contract Pricing</a></dd><dd><a href="http://www.bsnsports.com/company-info?no_cache=1">Company Info</a></dd><dd><a href="http://www.bsnsports.com/government-contracts?no_cache=1">Government Contracts</a></dd><dd><a href="http://www.bsnsports.com/my-team-shop?no_cache=1">My Team Shop</a></dd><dd><a href="http://blog.bsnsports.com">Blog Site</a></dd></dl>
-<div class="clearer">&nbsp;</div> <!-- AddThis Button BEGIN -->
-<div class="footer-before-container">
-<ul>
-<li><a class="addthis_button_facebook">&nbsp;</a></li>
-<li><a class="addthis_button_twitter">&nbsp;</a></li>
-<li><a class="addthis_button_google_plusone_share">&nbsp;</a></li>
-<li><a class="addthis_button_blogger">&nbsp;</a></li>
+<div class="dl-cols-group">
+   <dl>
+      <dt>Order Info<i class="plus-button-img"></i></dt>
+      <dd>
+         <ul>
+            <li><a title="Track my order" href="http://www.bsnsports.com/customer/account">Track my order</a></li>
+            <li><a title="Shipping rates &amp; policies" href="http://www.bsnsports.com/shipping">Shipping rates &amp; policies</a></li>
+            <li><a title="Returns" href="http://www.bsnsports.com/returns">Returns</a></li>
+         </ul>
+      </dd>
+   </dl>
+   <dl>
+      <dt>Help<i class="plus-button-img"></i></dt>
+      <dd>
+         <ul>
+            <li><a title="Help department" href="http://www.bsnsports.com/helpdepartment">Help department</a></li>
+            <li><a title="Terms &amp; Conditions" href="http://www.bsnsports.com/terms">Terms &amp; conditions</a></li>
+            <li><a title="Credit Terms" href="http://www.bsnsports.com/credit-terms">Credit Terms</a></li>
+            <li><a title="FAQs" href="http://www.bsnsports.com/faq">FAQs</a></li>
+         </ul>
+   </dd>
+   </dl>
+</div>
+<dl>
+   <dt>Categories<i class="plus-button-img"></i></dt>
+   <dd>
+      <ul>
+         <li><a title="Apparel" href="http://www.bsnsports.com/apparel">Apparel</a></li>
+         <li><a title="Footwear" href="http://www.bsnsports.com/footwear">Footwear</a></li>
+         <li><a title="Team Uniforms" href="http://www.bsnsports.com/team-uniforms">Team Uniforms</a></li>
+         <li><a title="Equipment" href="http://www.bsnsports.com/equipment">Equipment</a></li>
+      </ul>
+   </dd>
+</dl><div class="footer-before-container">
+<div class="social-head">Social</div>
+<ul class="social-share-icons">
+<li class="button_facebook"><a href="https://www.facebook.com/BSN-SPORTS-100841567534/" target="_blank" title="Facebook">&nbsp;</a></li>
+<li class="button_twitter"><a href="https://twitter.com/BSNSPORTS" target="_blank" title="Twitter">&nbsp;</a></li>
+<li class="button_google_plusone_share"><a href="https://plus.google.com/115652577924692335640" title="Google Plus" target="_blank">&nbsp;</a></li>
+<li class="button_blogger"><a href="http://blog.bsnsports.com/" target="_blank" title="BSN Sports Blogs">&nbsp;</a></li>
+<li class="button_youtube"><a href="https://www.youtube.com/channel/UCjksVzcfrKF3jym8RzL8svw" title="YouTube" target="_blank">&nbsp;</a></li>
 </ul>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-533d63d74ee0564b"></script>
 </div>
-<!-- AddThis Button END --><div class="copyright">
+
+
+<!--
+Not needed, loaded in header 02102016
+<script type="text/javascript">var addthis_config = {data_use_cookies_ondomain: !1, data_use_cookies: !1};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53354798039f5449"></script>
+-->
+
+<style>
+.social-share-icons li a, .sociallinks a span, .sociallinks a span span, .for-brands li a {transition:1s; -webkit-transition:1s}
+.contact-icon:hover {transition:1s; -webkit-transition:1s; background-position:115px -35px}
+</style></div>
+<div class="copyright">
     <address>
-    © 2015 BSN SPORTS, a Varsity Sport Brand. All Rights Reserved.  <br>formerly Sport Supply Group, Inc.    </address>
+    © 2016 BSN SPORTS, a Varsity Sport Brand. All Rights Reserved.  <br>formerly Sport Supply Group, Inc.    </address>
 </div>
+<div class="fixed-contact-widget">
+    <div class="bottom-contact">
+    <div class="contact-button">
+        <a href="http://www.bsnsports.com/contacts">
+            <span>Contact Us</span>
+        </a> at
+    800.856.3488    </div>
+        <!--{SALES_REP_8ab8872b38ecfacaf52b4f497ba0779a}--><div class="header-salesrep">
+            <div id="live_chat_div" style="cursor:pointer"><p class="btm-live-chat" onclick="openWin()"><span class="questions">Live Chat</span></p></div>
+<a id="salesrep_popup" href="#salesrep_popup_div">
+<p><img src="http://static.bsnsports.com/media/wysiwyg/erios.jpg" alt="Sales Representative"><span class="questions">Your Rep</span></p>
+</a>
+
 <script>
-jQuery(document).ready(function() {
-	jQuery('*').click(function(e) {
-		if (!jQuery(e.target).is('#search, #search_autocomplete *')) {			
-			jQuery("#search").blur();			
-		}
-    });	
-});
-jQuery('span').bind( "touchstart", function(e){
-	if (!jQuery(e.target).is('#search, #search_autocomplete *')) {			
-			jQuery("#search").blur();			
-		}
-	} );
-</script>
+function openWin()
+{
+    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
 
-<script type="text/JavaScript">
-    // Code has been added for resolving X-Frame Option Issue
-    var domainName = "www.bsnsports.com";
-    try {
-        document.cookie = 'parenturl=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-        var tophref = top.location.href;
-        var tophostname = top.location.hostname.toString();
-    } catch (error) {
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
 
-        var now = new Date();
-        var time = now.getTime();
-        time += 3600 * 1000;
-        now.setTime(time);
-        document.cookie= 'parenturl = ssgecom.com; expires=' + now.toUTCString() +
-            ';domain=.'+domainName+';path=/';
+    var left = ((width / 2) - (400 / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (500 / 2)) + dualScreenTop;
+
+    var myWindow = window.open("https://v2.zopim.com/widget/popout.html?key=1hiO4MuX87XH4QZnZwQpXP5Pf6kZbk8b","","width=400,height=500,top="+top+",left="+left);
+}
+
+function updateStatus(s) {
+	if (s == 'offline') {
+		jQuery("#live_chat_div").hide();
+	} else if (s == 'online') {
+	  jQuery("#live_chat_div").show();
+	}
+}
+function zopimChatStatus() {
+	$zopim(function() {
+	$zopim.livechat
+	  .setOnStatus(updateStatus);
+	});
+}
+
+
+if (window.addEventListener) {
+	window.addEventListener("load", zopimChatStatus, false);
+} else if (window.attachEvent) {
+	window.attachEvent("onload", zopimChatStatus);
+} else {
+	window.onload = zopimChatStatus;
+}
+</script>    </div>
+<div style="display:none;">
+    <div id="salesrep_popup_div" class="salesrep_popup">
+            <div class="profile-img-popup"><img title="Talk to a Specialist" src="http://static.bsnsports.com/media/wysiwyg/erios.jpg" alt="Talk to a Specialist"></div>
+<div class="help-content-popup">
+<span class="title-talktospecilist">Talk to a Specialist</span>
+<p>Over 35 years of experience</p>
+<p>waiting to hear from you...</p>
+<p><a href="http://www.bsnsports.com/contacts/">Email</a> or call 800.856.3488</p>
+</div>          </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+        jQuery.noConflict();
+        jQuery(document).ready(function() {
+            jQuery("#salesrep_popup").fancybox({
+                'titlePosition' : 'inside',
+                'transitionIn'  : 'none',
+                'transitionOut' : 'none'
+            });
+        });
+//]]>
+</script><!--/{SALES_REP_8ab8872b38ecfacaf52b4f497ba0779a}-->    </div>
+    <div class="contact-icon">Contact Us</div>
+</div>
+<link href="https://fonts.googleapis.com/css?family=Exo+2:400,600,500,700,800" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Khand:400,500,600,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+<!--For supporting JS-->
+<script type="text/javascript">
+    if (window.addEventListener) {
+        window.addEventListener("load", downloadJSAtOnload(
+            "http://static.bsnsports.com/js/zeon/supporting.js", 'js'
+        ), false);
+    } else if (window.attachEvent) {
+        window.attachEvent("onload", downloadJSAtOnload(
+            "http://static.bsnsports.com/js/zeon/supporting.js", 'js'
+        ));
+    } else {
+        window.onload = ownloadJSAtOnload(
+            "http://static.bsnsports.com/js/zeon/supporting.js", 'js'
+        );
     }
-
-</script>    		</div>
+</script>
         </div>
         <script>
-    var small_placeholder_image = 'http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/images/catalog/product/placeholder/small_image.jpg';
-</script>
-<script src="http://static.bsnsports.com/skin/frontend/enterprise/bsnapparel/js/endecasearch/endeca_autocomplete.js"></script><!--{WISHLISTS_39a9eabcfb9f29f1fe1c947de71be5e8}--><!--/{WISHLISTS_39a9eabcfb9f29f1fe1c947de71be5e8}--><!--{PIXEL_TRACKING_fd60baa61042ee91f5a4f31b259f15bb}--><script type="text/javascript">
-var google_tag_params = {
-ecomm_prodid: '',
-ecomm_pagetype: 'other',
-ecomm_totalvalue: ''
-};
+    var small_placeholder_image = 'http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/images/catalog/product/placeholder/small_image.jpg';
 </script>
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1051442396;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1051442396/?value=0&guid=ON&script=0"/>
-</div>
-</noscript>
-<script language="javascript" type="text/javascript">
+    if (window.addEventListener) {
+        window.addEventListener("load", downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/endecasearch/endeca_autocomplete.js", 'js'
+        ), false);
+    } else if (window.attachEvent) {
+        window.attachEvent("onload", downloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/endecasearch/endeca_autocomplete.js", 'js'
+        ));
+    } else {
+        window.onload = ownloadJSAtOnload(
+            "http://static.bsnsports.com/skin/frontend/enterprise/bsnresponsive/js/endecasearch/endeca_autocomplete.js", 'js'
+        );
+    }
+</script><!--{PIXEL_TRACKING_fd60baa61042ee91f5a4f31b259f15bb}--><script language="javascript" type="text/javascript">
 Event.observe(window, 'load', function() {
     try{
         $$('iframe[name=google_conversion_frame]').each(function(ele) {
@@ -1518,9 +1570,95 @@ Event.observe(window, 'load', function() {
     }catch(e){}
 });
 </script>
-<!--/{PIXEL_TRACKING_fd60baa61042ee91f5a4f31b259f15bb}-->            </div>
+<!--/{PIXEL_TRACKING_fd60baa61042ee91f5a4f31b259f15bb}--><!--{PIXEL_TRACKING_fd60baa61042ee91f5a4f31b259f15bb}--><script language="javascript" type="text/javascript">
+Event.observe(window, 'load', function() {
+    try{
+        $$('iframe[name=google_conversion_frame]').each(function(ele) {
+            ele.style.display="none";
+        });
+    }catch(e){}
+});
+</script>
+<!--/{PIXEL_TRACKING_fd60baa61042ee91f5a4f31b259f15bb}--><!--{BEHAVIOUR_2c70b05e2e065654cce3f175130a08cf}-->
+<div id="modal" class="popup-block modal modal-medium modal-active" style="display:none"></div>
+<div id="wishlist-form-template" style="display:none">
+    <div class="modal-header"><strong>Add to List</strong><div id="product_name" class="subtitle">PH_PRODUCT_NAME</div></div>
+        <div class="modal-body">
+                    <p id="message-content">Login required to create the wishlist.</p>
+            <div class="buttons-set">
+                <button onclick="setLocation('https://www.bsnsports.com/customer/account/login/referer/aHR0cDovL3d3dy5ic25zcG9ydHMuY29tL3ByaXZhY3k,/')" type="button" class="right button button-subtle btn-cart">
+                <span>
+                    <span>
+                        Login                    </span>
+                </span>
+                </button>
+            </div>
+            </div>
+
+    <a class="popup-close" href="javascript:void(0)" onclick="customWishlist.closePopUp();">x</a>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4dd330da2f","applicationID":"1292174","transactionName":"ZlRSMkEEXkZUVURYW18ecQVHDF9bGkZRVlFSUFMOVkpCUERDVUJAHkFCCVAAQ0Y=","queueTime":0,"applicationTime":192,"atts":"ShNRRAkeTUg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+
+<div id="wishlit-form" style="display:none">
+    <div class="modal-header"><h1>CREATE NEW LIST</h1></div>
+    <div class="modal-body">
+        <form method="post" id="wishlit-form_PH_PRODUCT_ID" action="https://www.bsnsports.com/wishlist/index/createwishlist/" class="stack-form create-list-form">
+            <ul class="form-list">
+                <li>
+                    <label class="required" for="wishlist-name"><em>*</em> List Name</label>
+                    <div class="input-box">
+                        <input type="text" class="input-text required-entry validate-length maximum-length-255" name="name" id="wishlist-name">
+                        <input type="hidden" name="product_id" value="PH_PRODUCT_ID">
+                    </div>
+                </li>
+            </ul>
+            <div class="">
+                <button class="button btn-cart" id="wishlist-submit-button_PH_PRODUCT_ID" type="submit"><span><span>Save List</span></span></button>
+            </div>
+        </form>
+        <script type="text/javascript">
+            //< ![CDATA[
+            var wishListForm_PH_PRODUCT_ID = new VarienForm('wishlit-form_PH_PRODUCT_ID');
+            //]]>
+        </script>
+    </div>
+    <a class="popup-close" href="javascript:void(0)" onclick="customWishlist.closePopUp();">x</a>
+</div>
+
+<div id="wishlit-edit-form" style="display:none">
+    <div class="modal-header"><h1>EDIT WISHLIST</h1></div>
+    <div class="modal-body">
+        <form method="post" id="wishlit-edit-form" action="https://www.bsnsports.com/wishlist/index/createwishlist/" class="stack-form create-list-form">
+            <ul class="form-list">
+                <li>
+                    <label class="required" for="wishlist-name"><em>*</em> List Name</label>
+                    <div class="input-box">
+                        <input type="text" value="WISHLIST_EDIT_NAME" class="input-text required-entry validate-length maximum-length-255" name="name">
+                        <input type="hidden" name="wishlist_id" value="WISHLIST_ID" id="edit_wishlist_WISHLIST_ID">
+
+                    </div>
+                </li>
+            </ul>
+            <div class="">
+                <button class="button btn-cart" id="wishlist-edit-submit-button" type="submit"><span><span>Edit List</span></span></button>
+            </div>
+        </form>
+        <script type="text/javascript">
+            //< ![CDATA[
+            var wishListForm_PH_PRODUCT_ID = new VarienForm('wishlit-edit-form');
+            //]]>
+        </script>
+    </div>
+    <a class="popup-close" href="javascript:void(0)" onclick="customWishlist.closePopUp();">x</a>
+</div>
+<script type="text/javascript">
+    var customWishlist = new customWishlist(
+        'wishlist_links', 'modal','wishlist-form-template', 'wishlit-form', 'wishlit-edit-form'
+    );
+
+</script>
+<!--/{BEHAVIOUR_2c70b05e2e065654cce3f175130a08cf}-->            </div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4dd330da2f","applicationID":"1292174","transactionName":"ZlRSMkEEXkZUVURYW18ecQVHDF9bGlVdQhtBUFcDHBNZUEI=","queueTime":0,"applicationTime":292,"atts":"ShNRRAkeTUg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
             <!-- SESSION VARIABLES -->
                             <!-- SYSTEM STATUS=SAP up -->
@@ -1536,6 +1674,6 @@ Event.observe(window, 'load', function() {
         <!-- SALES REP= -->
         <!-- IREP= -->
         <!-- OREP= -->
-                                    <!-- CACHE=Yes -->
-                <!-- PAGE LOAD= 0.1926429271698seconds  -->
+                                    <!-- CACHE=No -->
+                <!-- PAGE LOAD= 0.2926549911499seconds  -->
     </body></html>
