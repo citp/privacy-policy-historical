@@ -1,41 +1,19 @@
-> *The following text is extracted and transformed from the check4loans.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113242id_/http%3A//check4loans.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the check4loans.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324180420id_/http%3A//check4loans.net/sample-page) for the most accurate reproduction.*
 
-# Best Loan Guide | Check4Loans.net » Privacy Policy
+# Privacy Policy | All About Financial Information – Check4Loans.net
 
-### Privacy Policy:
-
-Check4Loans (" **Check4Loans** ") operates Check4Loans.net and may operate other websites. It is Check4Loans's policy to respect your privacy regarding any information we may collect while operating our websites.
-
-### Website Visitors
-
-Like most website operators, Check4Loans collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Check4Loans's purpose in collecting non-personally identifying information is to better understand how Check4Loans's visitors use its website. From time to time, Check4Loans may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-
-Check4Loans also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Check4Loans.net blogs/sites. Check4Loans only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
-
-### Gathering of Personally-Identifying Information
-
-Certain visitors to Check4Loans's websites choose to interact with Check4Loans in ways that require Check4Loans to gather personally-identifying information. The amount and type of information that Check4Loans gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Check4Loans.net](http://check4loans.net/) to provide a username and email address. Those who engage in transactions with Check4Loans are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Check4Loans collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Check4Loans. Check4Loans does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-### Aggregated Statistics
-
-Check4Loans may collect statistics about the behavior of visitors to its websites. Check4Loans may display this information publicly or provide it to others. However, Check4Loans does not disclose personally-identifying information other than as described below.
-
-### Protection of Certain Personally-Identifying Information
-
-Check4Loans discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Check4Loans's behalf or to provide services available at Check4Loans's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Check4Loans's websites, you consent to the transfer of such information to them. Check4Loans will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Check4Loans discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Check4Loans believes in good faith that disclosure is reasonably necessary to protect the property or rights of Check4Loans, third parties or the public at large. If you are a registered user of an Check4Loans website and have supplied your email address, Check4Loans may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Check4Loans and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Check4Loans takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-### Cookies
-
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Check4Loans uses cookies to help Check4Loans identify and track visitors, their usage of Check4Loans website, and their website access preferences. Check4Loans visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Check4Loans's websites, with the drawback that certain features of Check4Loans's websites may not function properly without the aid of cookies.
-
-### Business Transfers
-
-If Check4Loans, or substantially all of its assets, were acquired, or in the unlikely event that Check4Loans goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Check4Loans may continue to use your personal information as set forth in this policy.
-
-### Ads
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Check4Loans and does not cover the use of cookies by any advertisers.
-
-### Privacy Policy Changes
-
-Although most changes are likely to be minor, Check4Loans may change its Privacy Policy from time to time, and in Check4Loans's sole discretion. Check4Loans encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Check4Loans.net account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+About this Notice  
+We are committed to protecting your privacy and earning your trust every day. This notice describes the personal information we collect about you and how we use and protect it. It applies to our current and former customers and replaces earlier versions that we may have given to you.  
+What information do you collect about me?  
+We consider the information you give us to quote and service your insurance policy to be “Nonpublic Personal Information” if it identifies you and is not available to the public.  
+Who do we share your information with?  
+We will share information about you only as permitted by law. We will not share your Nonpublic Personal Information with other companies.  
+Disclosures include those that we feel are required to provide insurance claims and customer service, prevent fraud, perform research or comply with the law. Recipients include, our family of insurance companies, their claims representatives, service providers, consumer reporting agencies, law enforcement, courts and government agencies. These parties may disclose the information to others as permitted by law. For example, consumer reporting agencies may disclose transaction information received from us to other insurance companies with which you do business.  
+Where permitted by law, we may also disclose application or transaction information to service providers that help us market our products.  
+Do you protect my information?  
+We restrict access to your Nonpublic Personal Information to our employees and others who we feel must use it to provide our products and services. Their use of the information is limited by law, our employee code of conduct, and written agreements where appropriate. We also maintain physical, electronic and procedural safeguards to protect your information.  
+Why do you collect my email address?  
+We collect your e-mail address so that we can send you e-mails concerning your transactions with us, and other useful information.  
+To ensure you get our e-mails, our service provider or we may receive confirmations when you open them or click through the e-mail links. These confirmations may also show whether your e-mail system supports graphics, so we can tailor our messages to you. We will not share your e-mail address with other companies for their marketing purposes.  
+Is there additional information for Website visitors?  
+When you visit our site, we may use information we collect to provide services to you. We use web site information to help understand what you want so that we can enhance your online experience.
