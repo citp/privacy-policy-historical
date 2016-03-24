@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardykearena.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602081101id_/http%3A//www.mardykearena.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardykearena.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324133233id_/http%3A//www.mardykearena.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Mardyke Arena Health & Leisure Centre Cork :: Privacy Policy
 
