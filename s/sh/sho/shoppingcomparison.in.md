@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingcomparison.in privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217045245id_/http%3A//shoppingcomparison.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingcomparison.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324185039id_/http%3A//shoppingcomparison.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Polciy - shoppingcomparison.in
 
