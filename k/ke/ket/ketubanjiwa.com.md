@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218202233id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324202506id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
