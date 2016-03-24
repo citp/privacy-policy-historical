@@ -1,98 +1,60 @@
-> *The following text is extracted and transformed from the jbrandjeans.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114060305id_/http%3A//www.jbrandjeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbrandjeans.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324020100id_/https%3A//www.jbrandjeans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | J Brand®
 
-* ▾
+Last Revised: [January 14, 2010]
 
-FREE SHIPPING AND EASY RETURNS. 
+J Brand LLC (“J Brand”, “we”, “us” or “our”) share your concern about the protection of your personal information online. This privacy policy (“Policy”) is our policy that addresses how we maintain the privacy of personal information we collect online in connection with the J Brand website located at www.jbrandjeans.com (the “Site”).
 
-Enjoy free shipping & easy returns.
+This Policy describes our privacy practices and sets out your obligations and ours with respect to your use of the Site. This Policy applies only to the Site and does not necessarily apply to our off-line collection of information. By visiting the Site, you agree to abide by the terms of this Policy and the [[terms of use](https://web.archive.org/terms-conditions)] (the “Terms of Use”).
 
-* ▾
+We may need to change this Policy from time to time in order to address new issues and to reflect changes on the Site or in the law. We reserve the right to revise or make any changes to this Policy, and your continual use of the Site subsequent to any changes to this Policy will mean that you accept such changes. Therefore, please bookmark this page and review it periodically to assure familiarity with the most current version of this Policy. We will post all changes to this Policy on the Site so that you will always know what information we gather, how we might use that information, and when and how we will disclose that information. You can tell that this Policy has been updated by checking the last revised date posted on the top of this page. If due to such changes, you decide that you want to remove any portion of your personal information from our database, please notify us at customerservice@shop.jbrandjeans.com.
 
-FREE SHIPPING AND EASY RETURNS. 
+BY VISITING THE SITE, YOU CONSENT TO OUR USING ANY INFORMATION THAT YOU PROVIDE TO US OR THAT WE COLLECT, IN ACCORDANCE WITH THIS POLICY AND THE TERMS OF USE. IF YOU DO NOT AGREE TO THIS POLICY AND THE TERMS OF USE, DO NOT VISIT OR USE THE SITE.
 
-EFFECTIVE DATE February 2011
+ **Information We Collect and Track.** J Brand collects and retains two types of information about Site visitors: (i) personal information that individual visitors provide when interacting on the Site, or voluntarily provide on certain other occasions (such as via forms or in emails); and (ii) tracking data, which is automatically collected from every Site visitor and recorded on our log files, (collectively, “Information”). The Information that we gather may include your name, title and address, telephone number, email address, birth date and credit card number as well as other elements of personal information.
 
-Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with J Brand Inc. ("J Brand Inc"). Both Onestop and J Brand Inc ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
+In addition, if you contact us, we may keep a record of your correspondence, including any Information contained therein.
 
-With Whom Do You Share Your Information?
+You may decline to provide any personal information, but please realize that you thereby may be unable to register on the Site or to participate in activities or services offered by J Brand on the Site.
 
-We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy. We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+The tracking data we record includes, without limitation, information regarding the number and frequency of visits to the Site, the items you viewed and/or purchased, the websites that you access before and after you visit the Site, the software used to access the Site, and your IP address and Internet service provider related information. The tracking data we record may include the location of your computer.
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our [Customer Service Department](http://www.jbrandjeans.com/help.html#5) in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
+ **How We Use Your Information.** The Information that we collect and that you provide to us is used for our business purposes and the purpose for which you provided it, including, without limitation, to respond to your requests or correspondence. J Brand may also use the Information to contact you about the Site or to request your input regarding ways in which we might improve the Site. We may also use your Information to inform you about J Brand’s activities, promotions, products, services and events in which J Brand thinks you may be interested. The Information may also be analyzed so that we can provide you with useful information and can serve you in the best manner possible through enhanced features and functions on the Site.
 
-If you have any questions regarding this Privacy Policy, you should contact our [Customer Service Department](http://www.jbrandjeans.com/help.html#5).
+We will not disclose any personal information to third parties, except (i) to parties who perform a service for us, such as sending you mail or email, web hosting, credit card processing and other similar services; (ii) when we believe that such disclosure is required by law; (iii) to enforce this Policy or the Terms of Use; (iv) to protect the rights, property, security or safety of J Brand, Site users or the public; (v) to respond to an emergency; or (vi) as otherwise stated in this Policy. In addition, we may disclose Information to certain third parties if you have requested or authorized the disclosure of such Information.
 
-What Information About Me Is Collected and Stored?
+We provide certain Information to third party service providers who perform specific functions on our behalf. For example, we may share your mailing address and other contact information with our delivery partners, and certain of our service providers (i.e., web hosting, credit card processing, catalog management and others) may have access to all or parts of the Information we maintain. All such Information provided to third parties is limited to the Information needed to perform their functions. We seek to limit third-party use of Information; however, we are not responsible for such third-party use of Information that is not in compliance with this Policy.
 
-We collect and store information that you enter into this Web site or that you provide to our Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web site.
+J Brand may make certain Information, including, without limitation, your name address and email address, available to its affiliates and related companies. Our affiliates and related companies may contact you directly regarding certain promotions. This information is never sold, and if you would like to opt out of having J Brand share your name, title address and email address with its affiliates and related companies, please contact our [Customer Service Department](https://web.archive.org/customer-care).
 
-We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience.
+J Brand may use certain tracking data. Tracking data information may be used for a variety of purposes, including but without limitation, to compile statistical, demographic or aggregated information about visitors to the Site generally, or for load balancing metrics and also may be used to create reports on user demographics and the traffic patterns of the Site. The reports that are generated from tracking data are used for a variety of purposes, including, for example, to improve the Site and our services.
 
-Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Cookies are not used on this Web site to store your account information; this information is stored securely on this Web site's server. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Web site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this Web site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site.
+ **User Postings.** You should be aware that any content posted by you to the Site may be read, collected or used by other Site visitors. J Brand is not responsible for the third-party use of any Information provided in such manner. By participating in the use of Site, you consent to J Brand’s use or disclosure of any content that you submit.
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
+ **Use of Cookies.** We use cookies to enhance your experience while using the Site. “Cookies” are small pieces of information that a website transfers to your computer’s hard drive for record-keeping purposes. The use of cookies makes web surfing easier by performing certain functions such as saving your passwords and your personal preferences in connection with your use of a particular website. Many consider the use of cookies to be an industry standard. Your browser is probably set to accept cookies, but you are always free to decline our cookies if your browser permits. If you choose to have your browser refuse cookies, it is possible that some of the Services provided on the Site will not function properly.
 
-Is Information Collected From Children?
+ **Transfer of Information to Third Parties Upon a Sale or Change of Control.** We retain the right to transfer or assign all Information pursuant to a merger, sale, reorganization, purchase or other transaction relating to J Brand, its related companies or their assets if the assignee or purchaser agrees to abide by the terms of this Policy.
 
-This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13, you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian.   
-  
-With Whom Do You Share Your Information?
+ **How Your Information Is Protected.** We take reasonable precautions to protect your Information from loss, misuse or alteration. We maintain reasonable physical, electronic and procedural safeguards for your Information. You should recognize, however, that there is no such thing as “perfect security” on the Internet, and we cannot guarantee the security of your Information. In addition, because Internet communication is unsecure, it is also possible that the information you supply to us or your access of any information via the Site will be intercepted during transmission. We are not liable for any breach of our systems or interception of our transmission, and we hereby disclaim, to the fullest extent provided under law, any liability associated with any claim relating to a breach of security, data or information.
 
-We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.   
-We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+ **Other Communications.** From time to time, we may email users of the Site information regarding marketing events or other developments at J Brand. We may also email users on occasion regarding the Site. Such emails may be sent to users of the Site even if they have not requested to receive any communication from us.
 
-We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Onestop and/or J Brand Inc, or any of our respective affiliates, business partners, customers or others.   
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form.
+ **Referrals**. If a user elects to use our referral service to inform another person about the Site or Site features, we may request the name and email address of such other person. J Brand will automatically send a one-time email inviting such other person to visit the Site or to purchase items from J Brand. J Brand stores this information for the sole purpose of sending this one-time email.
 
-As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that Onestop or J Brand Inc, or substantially all of our respective assets, are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, Onestop or J Brand Inc, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy.
+ **Links to Third-Party Sites.** The Site may contain links to websites owned and operated by other parties. We are not responsible for and have no control over the privacy policies of those sites. We encourage you to review the privacy policies of those sites prior to providing them with any information.
 
-Can I Indicate Whether or Not I Want To Receive Promotional Communications?
+ **Children Under the Age of 13.** J Brand is concerned about the privacy protection of children who access the Internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our [Customer Service Department](http://www.jbrandjeans.com/help.html#5)
+ **Compliance With Laws.** We reserve the right to disclose any Information to comply with any law, regulation, decree, judgment, order, subpoena or any other governmental order (“Order”) without any obligation to contest or verify the accuracy of such Order.
 
-What Steps Are Taken To Keep My Information Secure?
+ **Applicable Law.** This Policy will be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to any use of the Site will be filed only in the state or federal courts located in New York County, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our [Customer Service Department](http://www.jbrandjeans.com/help.html#5).  
-  
-How Can I Access, Correct and Update My Personal Information?
+ **How You Can Update or Correct Your Information and Contact the Site.** Please contact us via our [Customer Service Department](https://web.archive.org/customer-care) if you have any questions or concerns regarding the Site, this Policy or if you would like to update or correct you Information.
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[My Account](http://www.jbrandjeans.com/store/myaccount.aspx)" area of this Web site.
+ **Detecting and Preventing Fraud**  
 
-Can I Indicate Whether or Not I Want To Receive Promotional Communications?
+In addition, this site collects, uses, and retains certain information about visitors to detect, prevent, and analyze fraudulent transactions. We share this information with a third party, Sift Science, Inc., that provides analysis, monitoring, and reports to assist us in preventing and detecting fraudulent transactions and other activity on the site.  
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our [Customer Service Department](http://www.jbrandjeans.com/help.html#5).
 
-or write to us at:
-
-J Brand Inc, Online Customer Service  
-3040 E Ana St., Rancho Dominguez, CA 90221.
-
-Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
-
-What Happens When I Link To or From Another Web Site?
-
-This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.
-
-If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy. 
-
-What About Contests and Sweepstakes? 
-
-When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed.
-
-What About Online Surveys? 
-
-We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy.
-
-How Will I Be Informed About Changes Regarding This Privacy Policy? 
-
-If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
-
-Free Shipping:
-
-No minimum spend required. Valid in the 48 Contiguous United States ONLY. If you choose 2 day shipping or Standard Overnight shipping, regular charges will apply.
-
-Easy Returns & Exchanges:
-
-We want you to be happy with our product. Enjoy up to 30 days to return/exchange your purchase from JBrandJeans.com. For your convenience, a prepaid shipping label is included in all domestic (i.e. 48 Contiguous United States) orders. Free ground shipping on exchanged merchandise.
+The kinds of fraud-related information that we collect, retain, and share, in addition to how Sift Science uses and stores such information, are described by the Sift Science Service Privacy Notice. The Sift Science Service Privacy Notice is available online at <https://siftscience.com/service-privacy.html> and is incorporated here as a part of this privacy policy. You should review the Sift Science Service Privacy Notice carefully, understanding that “Client” refers to J Brand Inc and that J Brand Inc may collect and share all of the kinds of data described by the Sift Science Service Privacy Notice, including by means of Sift Science’s Application Programming Interface, JavaScript code, and other means. Statements in the Sift Science Privacy Notice about Sift Science, Inc.’s compliance with certain national or international privacy frameworks, including the European Union and Swiss “Safe Harbor” frameworks, apply to Sift Science, and not necessarily to J Brand Inc.
