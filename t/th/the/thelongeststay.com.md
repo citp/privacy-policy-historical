@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelongeststay.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231311id_/http%3A//thelongeststay.com/customer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelongeststay.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093317id_/https%3A//www.thelongeststay.com/customer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Longest Stay
 
 The Longest Stay has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: [www.thelongeststay.com](http://www.thelongeststay.com/)
 
