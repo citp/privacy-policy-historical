@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623121422id_/http%3A//www.autocarindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324174120id_/http%3A//www.autocarindia.com/Page/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Autocar India
+# Privacy Policy Statement | Autocar India
 
-Thank you for visiting this site, a HSAC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by HSAC. 
+Thank you for visiting this site, a HSAC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by HSAC.
 
 The Information We Collect Through HSAC publications, websites, and other media, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website and enjoy many HSAC publications and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
@@ -10,7 +10,7 @@ At some HSAC sites and through certain promotions, you can submit information ab
 
 For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
 
 #### How We Use the Information
 
@@ -18,7 +18,7 @@ We may use the information you provide about yourself to fulfill your requests f
 
 We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
 
 If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your name, screen name, and other information you have provided to us.
 
@@ -36,44 +36,46 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 #### Privacy Options
 
-If a HSAC site discloses personally identifiable information to companies not owned by HSAC who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. 
+If a HSAC site discloses personally identifiable information to companies not owned by HSAC who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses.
 
 HSAC may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
 
 HSAC sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-####  Collection of Information by Third-Party Sites and Sponsors
+#### Collection of Information by Third-Party Sites and Sponsors
 
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
 HSAC sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the HSAC site and the third parties. HSAC has no control over the third parties' use of this information.
 
-HSAC sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
+HSAC sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-####  Cookies
+#### Cookies
 
 To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us. 
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
 
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
 
-####  Our Commitment to Security
+#### Our Commitment to Security
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-####  Changes to this Notice
+#### Changes to this Notice
 
-This Notice may be changed by HSAC. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. 
+This Notice may be changed by HSAC. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
-####  How to Contact Us
+#### How to Contact Us
 
 If you have any questions or concerns about the HSAC Privacy Notice or its implementation please contact us via email or at the following address:
 
 **Mumbai**  
-111, Peninsula Centre, First Floor, S S Rao Road,   
-Off Dr B Ambedkar Road, Parel, Mumbai 400 012, India.   
-Tel: 022-2415 2727/28  
-Fax: 022-2417 3851
+Haymarket SAC Publishing (India) Pvt Ltd  
+Ground floor, Podar Centre, 85, Parel Post Office Lane,  
+Off Dr. Ambedkar Marg,  
+Parel (East), Mumbai 400 012.  
+Tel: 022-4302 1000  
+Fax: 022-4302 1050
