@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajexcise.gov.in privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620210044id_/https%3A//rajexcise.gov.in/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajexcise.gov.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093456id_/https%3A//rajexcise.gov.in/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
