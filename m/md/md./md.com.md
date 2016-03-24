@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708164552id_/http%3A//www.md.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324120158id_/http%3A//www.md.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MD.com
 
@@ -110,4 +110,4 @@ When you delete your account, you understand that removed certain content may pe
 
 MD.com welcomes Your questions and comments about our Privacy Policy or the use of Your Personal Information. Please send any questions or comments to MD.com to [privacy@md.com](mailto:privacy@md.com). 
 
-Effective Date: September 19, 2014
+Effective Date: September 19, 2014 
