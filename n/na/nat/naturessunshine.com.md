@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222115439id_/http%3A//www.naturessunshine.com/us/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324215103id_/https%3A//www.naturessunshine.com/us/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,11 +52,7 @@ The Site is a general audience website and is not designed or targeted at childr
 
 The Site may contain links to web sites operated and maintained by third parties over which we have absolutely no control. Any information you provide to third party websites will be governed under the terms of each websites' privacy policy and we encourage you to investigate and ask questions before disclosing any information to the operators of third party websites. We have no responsibility or liability whatsoever for the content, actions or policies of third party websites. The inclusion of third party websites on our Site in no way constitutes an endorsement of such websites' content, actions or policies.
 
-### 9\. Safe Harbor Statement
-
-NSP and its U.S. affiliate entities comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. NSP has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. To learn more about the Safe Harbor program, and to view NSP's certification, please visit <http://www.export.gov/safeharbor/>. E.U. or Swiss data subjects who have questions or complaints regarding NSP's transfer or treatment of their personally identifiable information may file a complaint with NSP at the contact information below. To the extent that any E.U. or Swiss data subject is not satisfied with the results of an internal complaint review process, they may file a complaint with our chosen independent recourse mechanism, the International Centre for Dispute Resolution® of the American Arbitration Association® (ICDR/AAA).
-
-### 10\. Questions and Complaints
+### 9\. Questions and Complaints
 
 NSP takes your privacy seriously. If you believe we have not complied with this privacy statement, please contact us so we can investigate your complaint.
 
