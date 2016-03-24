@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203131541id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324235334id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Your Freeware and Shareware Download Destination! : BlueChillies.com
 
