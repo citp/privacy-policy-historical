@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163459id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324042009id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
 
 # Guttmacher Institute: Privacy Policy
 
-\--Updated February 28, 2005
+\--Updated December 18, 2015
 
-The Guttmacher Institute has created this privacy statement to demonstrate the Institute's commitment to protecting personal information gathered in the course of visits to this Web site. 
+The Guttmacher Institute has created this privacy statement to demonstrate the Institute's commitment to protecting personal information gathered through both online and offline channels.
 
 ## PERSONALLY IDENTIFYING INFORMATION
 
@@ -58,4 +58,10 @@ We reserve the right to amend this privacy policy from time to time. If we make 
 
 Upon request we will provide access to the information that we maintain about you. You can request this information by e-mailing us at the below address. You may request corrections to or deletion of your information by sending a detailed email containing your request to that address. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [info@guttmacher.org](mailto:info@guttmacher.org). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [info@guttmacher.org](mailto:info@guttmacher.org).   
+
+
+## DONOR PRIVACY
+
+  
+[Click here to view our donor privacy policy](http://www.guttmacher.org/support/Donate-privacy.html)
