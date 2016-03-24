@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomfreak.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915194400id_/http%3A//www.joomfreak.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomfreak.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324082339id_/http%3A//www.joomfreak.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - joomfreak | Free Joomla!® templates and extensions
 
@@ -8,7 +8,7 @@ Your **privacy** is **important** to us. joomfreak pledges to be responsible whe
 
 ### Who we are
 
-**joomfreak** is a [non-profit project](http://www.joomfreak.com/ "joomfreak!") of Kreatif Multimedia GmbH, which is a company with limited liability based in Bolzano (BZ), Italy. Vat number IT02596800215.
+**joomfreak** is a [non-profit project](http://www.joomfreak.com/ "joomfreak!") of Kreatif GmbH, which is a company with limited liability based in Bolzano (BZ), Italy. Vat number IT02596800215.
 
 ### Information we collect and how we collect it
 
@@ -79,7 +79,7 @@ We have implemented procedures and installed equipment to safeguard the security
 ### Questions, concerns or complaints relating to your privacy
 
 If you have any questions, concerns or complaints about the way in which your personal information is collected or used by joomfreak please contact the Privacy Officer at:  
-Kreatif Multimedia GmbH  
+Kreatif GmbH  
 J.-Kravoglstr. 14  
 I-39100 Bolzano (BZ), Italy  
 [info@joomfreak.com](mailto:info@joomfreak.com)
@@ -89,7 +89,7 @@ All inquiries or concerns relating to personal information will receive prompt a
 ### If you do not want joomfreak to contact you for promotional purposes
 
 We only contact you regarding promotional opportunities if you indicate your desire to receive offers from joomfreak. A third party may act on joomfreak's behalf and conduct a promotion for joomfreak or assist joomfreak in managing its marketing database. If you have indicated that you wish to receive promotional offers from joomfreak, you may opt out of receiving future joomfreak e-mail, telephone and postal marketing communications by contacting joomfreak at:  
-Kreatif Multimedia GmbH  
+Kreatif GmbH  
 J.-Kravoglstr. 14  
 I-39100 Bolzano (BZ), Italy  
 [info@joomfreak.com](mailto:info@joomfreak.com)
