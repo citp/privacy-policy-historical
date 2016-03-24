@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dotapicker.com privacy policy that was archived on 2015-09-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150930181805id_/http%3A//www.dotapicker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotapicker.com privacy policy that was archived on 2016-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324221627id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		    		<meta charset="utf-8">
@@ -46,10 +46,10 @@
 -->
 		  <ul class="nav nav-tabs" style="border-bottom-style: none;">
 			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com"><img style="height: 23px; margin-top: -2px;" src="http://dotapicker.com/assets/img/siteimg/small_long_logo.png" alt="DotaPicker"></a></li>
-			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/herocounter"><i class="fa fa-puzzle-piece"></i> Picker</a></li>
-			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/pubmetachanges"><i class="fa fa-eye"></i> Meta</a></li>
-			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/user/stats"><i class="fa fa-bar-chart-o"></i> Stats</a></li>
-			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/blog/steamfriends"><i class="fa fa-rss"></i> Blog</a></li>
+			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/herocounter"><i class="fa fa-puzzle-piece"></i> Counter &amp; Synergy Picker</a></li>
+			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/pubmetachanges"><i class="fa fa-eye"></i> Meta Analyzer</a></li>
+			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/user/stats"><i class="fa fa-bar-chart-o"></i> Player Stats</a></li>
+			 <!--<li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/blog/steamfriends"><i class="fa fa-rss"></i> Blog</a></li>-->
 			 <li role="presentation"><a class="navbarHrefItem" href="http://dotapicker.com/contact"> Contact</a></li>
 			 <li role="presentation"><a class="navbarHrefItem" style="color: #9933cc;" href="http://dotapicker.com/user/personal"><i class="fa fa-user"></i> Personal</a></li>
 
@@ -166,10 +166,19 @@ This document was last updated on September 02, 2014<br><br>
 		  ga('create', 'UA-47444102-4', 'dotapicker.com');
 		  ga('require', 'displayfeatures');
 		  ga('send', 'pageview');
+		  if( typeof( analytics_events) != 'undefined' && analytics_events)
+		  {
+		  	ga('send', 'event',analytics_events.category, analytics_events.action, analytics_events.label, analytics_events.value );
+		  
+		  	console.log( 'sent');
+		  }
+
+		   
+		 	
 	</script>
 	<script src="http://dotapicker.com/assets/js/scripts/cookiechoices.js"></script>
 	<script>
-		document.addEventListener('DOMContentLoaded', function(event) {cookieChoices.showCookieConsentBar('Cookies help us deliver our services. By using our services, you agree to our use of cookies.','close message') ;});
+		document.addEventListener('DOMContentLoaded', function(event) {cookieChoices.showCookieConsentBar("Cookies help us deliver our services. By using our services, you agree to our use of cookies.",'close message') ;});
 	</script>
 </footer>
 	
