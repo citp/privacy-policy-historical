@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redballoon.com.au privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910140106id_/https%3A//help.redballoon.com.au/hc/en-us/articles/202214850-Privacy-Copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redballoon.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325003713id_/https%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy & Copyright – How Can We Help You?
 
@@ -8,7 +8,7 @@ Last updated: 21/11/2014
 
 RedBalloon Pty Ltd (ABN 13 097 376 442) and RedBalloon NZ Ltd (CO. # 1417960) ( **RedBalloon** , we or our) is sensitive to the concerns our online users may have about the safety and use of the personal information they provide. Please read this Privacy Policy carefully to understand how any personal information collected by RedBalloon is used.
 
-This website [www.redballoon.com.au/](http://www.redballoon.com.au/) [www.redballoon.co.nz](http://www.redballoon.co.nz/) (the **Site** ) is used by RedBalloon to give visitors and customers ( **Users** ) access to various products and services (the **Services** ).
+This website www.redballoon.com.au/ www.redballoon.co.nz (the **Site** ) is used by RedBalloon to give visitors and customers ( **Users** ) access to various products and services (the **Services** ).
 
 Access to the Site and the provision of the Services is conditional on Users accepting the terms of this Privacy Policy. The Privacy Policy applies to the collection, storage, use and disclosure by RedBalloon of the personal information of the individuals using the Site.
 
@@ -65,7 +65,7 @@ Although we will comply with this Privacy Policy in respect of information provi
 
 **How long we hold a user’s personal information**
 
-  * We will retain your information for as long as a RedBalloon account is active or as necessary to comply with our legal obligations, resolve issues, address queries and enforce our agreements. If you no longer wish to use our Site or Services, you may request that your account be deactivated by contacting [info@redballoon.com.au](mailto:info@redballoon.com.au) or calling our Customer Experience Team on 1300 875 500 (AU) or 0800 555 023 (NZ) .
+  * We will retain your information for as long as a RedBalloon account is active or as necessary to comply with our legal obligations, resolve issues, address queries and enforce our agreements. If you no longer wish to use our Site or Services, you may request that your account be deactivated by contacting info@redballoon.com.au or calling our Customer Experience Team on 1300 875 500 (AU) or 0800 555 023 (NZ) .
 
 
 
