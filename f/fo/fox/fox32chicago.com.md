@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox32chicago.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114105634id_/http%3A//www.fox32chicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox32chicago.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325002738id_/http%3A//www.fox32chicago.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WFLD
 
@@ -8,13 +8,13 @@ Effective August 6, 2015
 
 Table of Contents:
 
-  1. [ **INTRODUCTION**](http://www.myfoxla.com/story/19534280/privacy-policy#Introduction)
-  2. [ **COLLECTION OF INFORMATION**](http://www.myfoxla.com/story/19534280/privacy-policy#Collection%20of%20Information)
-  3. [ **USE AND DISCLOSURE**](http://www.myfoxla.com/story/19534280/privacy-policy#Use%20and%20Disclosure)
-  4. [ **SECURITY**](http://www.myfoxla.com/story/19534280/privacy-policy#Security)
-  5. [ **USER ACCESS AND CONTROL**](http://www.myfoxla.com/story/19534280/privacy-policy#User%20Access%20and%20Control)
-  6. [ **OTHER IMPORTANT INFORMATION**](http://www.myfoxla.com/story/19534280/privacy-policy#Other%20Important%20Information)
-  7. [ **CONTACT US**](http://www.myfoxla.com/story/19534280/privacy-policy#Contact%20Us)
+  1.  **INTRODUCTION**
+  2.  **COLLECTION OF INFORMATION**
+  3.  **USE AND DISCLOSURE**
+  4.  **SECURITY**
+  5.  **USER ACCESS AND CONTROL**
+  6.  **OTHER IMPORTANT INFORMATION**
+  7.  **CONTACT US**
 
 
 
@@ -22,7 +22,7 @@ Table of Contents:
 
 Fox Television Stations, LLC, and certain of its affiliated entities (collectively, “FTS” or “we”) operate a group of news and entertainment websites (each an “FTS Website”) on behalf of their owned and operated television stations. FTS wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as FTS Websites, mobile sites, applications (“apps”), and widgets (collectively, the “FTS Services”). By using FTS Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [http://www.21cf.com](http://www.21cf.com/).
 
-As set forth in our [Terms of Service](http://www.myfoxla.com/story/19534307/terms-of-service), the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Service](http://www.fox32chicago.com/terms-of-service), the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all users, including both those who use the FTS Services without being registered with or subscribing to an FTS Service and those who have registered with or subscribed to an FTS Service. This Privacy Policy applies to FTS’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally FTS’s practices for handling non-personal information (for example, interests, demographics and services usage).
 
