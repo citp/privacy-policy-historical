@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outofprintclothing.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910021437id_/http%3A//www.outofprintclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofprintclothing.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324164545id_/http%3A//www.outofprintclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Out of Print
 
