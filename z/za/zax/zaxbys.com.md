@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zaxbys.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226135245id_/http%3A//www.zaxbys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaxbys.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324181456id_/https%3A//www.zaxbys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zaxby's
 
-_Last Revised: Dec 07 2015_
+_Last Revised: Feb 23 2016_
 
 ##  ZAXBY'S WEBSITE TERMS & CONDITIONS
 
@@ -107,13 +107,13 @@ Please do not hesitate to contact us if you have any questions regarding this Po
 
 Mailing Address:
 
-Zaxby's Franchising, Inc.  
+Zaxby's Franchising LLC  
 Attn: Marketing Department  
 1040 Founders Blvd.  
 Athens, GA 30606
 
 Web Address:  
-<http://www.zaxbys.com/contact-us/>
+[https://www.zaxbys.com/contact-us/](https://web.archive.org/contact-us/ "Contact Us")
 
 Telephone:  
 1-866-8-ZAXBYS (866-892-9297)
