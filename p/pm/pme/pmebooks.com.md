@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pmebooks.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210083304id_/http%3A//pmebooks.com/legal.cfm%3Fref%3D%26doc%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmebooks.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324182940id_/https%3A//pmebooks.com/legal.cfm%3Fdoc%3D3) for the most accurate reproduction.*
 
-# PennyMatrix.com
-
-**PRIVACY POLICY**
+# PM LEGAL
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.   
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
