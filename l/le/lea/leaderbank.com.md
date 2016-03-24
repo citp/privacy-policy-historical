@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaderbank.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222183537id_/http%3A//leaderbank.com/General/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaderbank.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324025045id_/http%3A//www.leaderbank.com/General/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Leader Bank
 
@@ -6,7 +6,7 @@ What we do
   
 How does Leader Bank, N.A. protect my personal information?  | 
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured fi les and buildings. 
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
 
 We also maintain other physical, electronic and procedural safeguards to protect this information and limit employee access when appropriate.  
   
