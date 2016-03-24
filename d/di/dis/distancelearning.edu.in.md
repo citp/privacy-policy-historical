@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the distancelearning.edu.in privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420061836id_/http%3A//www.distancelearning.edu.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distancelearning.edu.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324221548id_/http%3A//www.distancelearning.edu.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Distance learning India - Privacy Policy
+# DLP India - India's Top online Distance Learning and Education Courses Provider
 
 Our Approach to **Privacy**
 
