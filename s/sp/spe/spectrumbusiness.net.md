@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spectrumbusiness.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015939id_/https%3A//business.spectrum.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrumbusiness.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324074653id_/https%3A//business.spectrum.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| Spectrum Business
+# Privacy Policy | Spectrum Business
 
 ####  Website Privacy Policy 
 
