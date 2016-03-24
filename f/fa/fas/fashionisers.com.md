@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906015643id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324131253id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fashionisers
 
@@ -12,7 +12,7 @@ The Fashionisers may change this User License Agreement and the Privacy Policy a
 
 #### **Information you provide directly to us:**
 
-There is no need to provide any personal information directly to us before using the Site. However, when you use certain Site functions, such as you leave a comment, access certain content and features, or directly contact the Site, you may be required to provide some personal information, including:
+There is no need to provide any personal information directly to us before using the Site. However, when you use certain Site functions, such as you leave a comment, subscribe for our newsletter, access certain content and features, or directly contact the Site, you may be required to provide some personal information, including:
 
 • contact information, such as name, surname, email address, postal address, country, gender, and phone number;
 
@@ -66,6 +66,16 @@ We may use the information we collect to prevent any illegal activities and prot
 
 On Fashionisers.com you may find third party websites, advertising and other content that link to the services or products of our partners, suppliers, sponsors, advertisers and other parties. Some of the ads may be served by Google. The Site doesn’t control the content or links published and isn’t responsible for the practices employed by the websites linked to or from the Site. These sites and services may have their own privacy policies and user agreements. Browsing their websites or having any interactions with their products and services is subject to their own terms and conditions.  
 The ads appearing on the Site may be delivered by advertising partners, who may set cookies. With the help of these cookies they can recognize your computer each time they send you an online advertisement. This privacy policy doesn’t cover the use of cookies by third party adversities.
+
+### **Cookie Consent Policy**
+
+• We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of the Site with our social media, advertising and analytics partners.
+
+• Third party vendors, including Google, and other ad networks use cookies to serve ads based on a user’s prior visits to the Site.
+
+• Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to the Site and/or other sites on the Internet.
+
+• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also check <http://www.aboutads.info/> on how to opt out of third-party vendor’s use of cookies for interest-based advertising.
 
 ### **Children under 13**
 
