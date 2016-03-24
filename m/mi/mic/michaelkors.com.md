@@ -1,35 +1,38 @@
-> *The following text is extracted and transformed from the michaelkors.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135738id_/http%3A//www.michaelkors.com/browse/common/staticContent.jsp%3FslotId%3D2200002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelkors.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324124140id_/http%3A//www.michaelkors.com/browse/common/staticContent.jsp%3FslotId%3D2200002) for the most accurate reproduction.*
 
 # Privacy Policy | Michael Kors
 
 ## Privacy Policy/Your Privacy Rights 
 
-Last updated: January 18, 2015 
+Last updated: February 29, 2016 
 
-This Privacy Policy applies to information that each of Michael Kors (USA), Inc. and its parent, subsidiary and affiliate entities worldwide (individually referred to herein as the “Michael Kors”, “we,” “us” or “our”) collects about you: (i) in one of our stores or otherwise offline, (ii) through purchases you make from our catalog, or (iii) on or through michaelkors.com or destinationkors.com or michaelkors.ca (or any subdomain thereof), or one of our other websites, applications or other services from which you are accessing this Privacy Policy (each referred to herein as a “Site,” and collectively, the “Sites”). This Privacy Policy describes how we collect such information, how we use it and to whom and under what circumstances we may disclose it. The personal information we collect is stored and/or controlled by Michael Kors (USA), Inc. at 11 West 42nd St., New York, New York, 10036, USA. 
+This Privacy Policy applies to information that each of Michael Kors (USA), Inc. and its parent, subsidiary and affiliate entities worldwide (individually referred to herein as the “Michael Kors”, “we,” “us” or “our”) collects about you: (i) in one of our stores or otherwise offline, (ii) through purchases you make from our catalog, or (iii) on or through michaelkors.com or destinationkors.com or michaelkors.ca (or any subdomain thereof), or one of our other websites, applications or other services from which you are accessing this Privacy Policy (each referred to herein as a “Site,” and collectively, the “Sites”). This Privacy Policy describes how we collect such information, how we use it and to whom and under what circumstances we may disclose it. The personal information we collect is stored and/or controlled by Michael Kors (USA), Inc. at 11 West 42nd St., New York, New York, 10036, USA and/or the relevant local corporate affiliate(s). 
 
 We may share your personal information with third parties for their direct marketing purposes, as further described in our Information Disclosure and Your Choices/Your Privacy Rights sections below. If you wish to opt out of such sharing, please contact [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com) or [customerservice@michaelkors.ca](mailto:customerservice@michaelkors.ca), and include your name, email address and postal address in your request. 
 
 Table of Contents (click on one of the links below to jump ahead to that section): 
 
-• Information Collection   
-  o Information You Provide to Us  
-  o Site Usage Information and Other Information Collected Automatically  
-  o Browser Do-Not-Track Signals  
-  o Cookies and Other Tracking Technologies   
-•Advertising on the Site and other Websites  
-•Information Use  
-•Information Disclosure  
-•Your Choices/Your Privacy Rights  
-•Maintenance and Processing of Information in the U.S. and Other Countries  
-•Access To Your Personal Information  
-•Security  
-•Children’s Privacy  
-•Third-Party Websites  
-•Phishing, Spoofing & Other Schemes  
-•Safe Harbor Certification  
-•Changes to This Privacy Policy  
-•Contact Us
+  * Information Collection
+    * Information You Provide to Us
+    * Site Usage Information and Other Information Collected Automatically
+    * Browser Do-Not-Track Signals
+    * Cookies and Other Tracking Technologies
+  * Advertising on the Site and other Websites
+  * Information Use
+  * Information Disclosure
+  * Your Choices/Your Privacy Rights
+  * Kors Concierge
+  * Maintenance and Processing of Information in the U.S. and Other Countries
+  * Access To Your Personal Information
+  * Security
+  * Children’s Privacy
+  * Third-Party Websites
+  * Phishing, Spoofing & Other Schemes
+  * Safe Harbor Certification
+  * Changes to This Privacy Policy
+  * Contact Us
+
+
 
 #### Information Collection
 
@@ -57,7 +60,7 @@ We consider this Site usage information, on its own, to be non-personal in natur
 
 Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based on whether such a signal is broadcast. To learn more about browser tracking signals and “Do Not Track,” please visit [http://allaboutdnt.org](http://allaboutdnt.org/). Please note, however, that you can opt out of our (and our service providers’) use of your information for behavioral targeting of our advertisements by following the directions in the Advertising on the Site and other Websites section below. 
 
-##### Cookies and Other Tracking Technologies 
+##### Cookies and Other Tracking Technologies
 
 Advertising on the Site and other Websites section below. 
 
@@ -77,7 +80,7 @@ We may use third party web analytics services, such as Google Analytics and Adob
 
 We also work with service providers and partner with advertising companies that use cookies, web beacons and other tools to collect information about your visits to and behavior on the Site and other websites, and then use that information to deliver targeted advertisements to you across the Internet. The information collected and used in this manner is generally, on its own, anonymous and not personally identifiable. To learn more about this practice and your choices with respect to it, please visit the Network Advertising Initiative at [www.networkadvertising.org ](http://www.networkadvertising.org/) and the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/). To opt-out of our third-party advertising partners’ use of cookies in this manner, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-#### Information Use 
+#### Information Use
 
 We may use the information we collect from and about you (including both personal information and Site usage information) for a variety of purposes, including the following: 
 
@@ -95,7 +98,7 @@ If you provide us with information about another person (as described above in t
 
 We (and our service providers) also analyze and use Site usage information and information collected through cookies, web beacons and other tracking technologies, alone and in combination with personal information, to assess the behavior of our users, to measure the interest in and use of the Sites and communications, and to customize the Sites and our communications with you. We do this on both on an individual basis and in the aggregate. 
 
-#### Information Disclosure 
+#### Information Disclosure
 
 We may disclose information we collect (including Site usage information and personal information) in the following ways, to the extent permitted by law: 
 
@@ -120,9 +123,21 @@ If you would like to opt out of receiving promotional emails from us, please fol
 
 If you would prefer that we not share your personal information with third-party marketers, please contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). Please include your name and your email and postal addresses. (Note that we never share your payment information with other marketers.) Please understand that if you do request that we stop sharing your personal information with third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from third parties that received your personal information prior to that request. In these cases, please opt out from or contact that third party directly. 
 
+#### KorsConcierge
+
+In some of our stores, you may have the opportunity to sign up for our KorsConcierge program. KorsConcierge is a unique program that will allow our sales stylists to better serve you and enhance your shopping experience with us, including keeping you informed about your purchases or wishlist items, offering free style consultation over SMS, telephone or email, and notifying you of new arrivals, promotions and special events.
+
+By signing up for KorsConcierge, as part of the program you may receive program communications via email, SMS, telephone and postal mail at the contact information you have provided to us.
+
+To opt out of KorsConcierge communications via email, you may either follow the unsubscribe instructions located in each such email, contact a participating store and a sales stylist will assist you, or email your request to [privacy@michaelkors.com](mailto:privacy@michaelkors.com). To opt out of KorsConcierge communications via postal mail or telephone, you may either contact a participating store and a sales stylist will assist you, or email your request to [privacy@michaelkors.com](mailto:privacy@michaelkors.com). Note that opting out of KorsConcierge communications will not necessarily automatically opt you out of receiving other Michael Kors promotional communications; in order to do so, please follow the instructions in the “Your Choices/Your Privacy Rights” section above.
+
+If you opt in to Kors Concierge SMS/text communications, you agree to receive automated and other marketing and informational text messages through the Kors Concierge program to the mobile number you have provided. You understand that your consent is not required to make any purchase. Message and data rates may apply to such messages. To opt out of the Kors Concierge text messages, reply “STOP” to one of the Kors Concierge messages you receive.
+
+All information gathered in connection with the Kors Concierge program will be handled in accordance with this Privacy Policy.
+
 #### Maintenance and Processing of Information in the U.S. and Other Countries
 
-Your personal and other information may be stored, transferred and processed in and to the United States and in other countries by our affiliates and our service providers. By providing personal information to us, you consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, pursuant to the laws of the United States or such other jurisdictions, which may provide lesser privacy protections than the laws of other countries, and you acknowledge that your information may thus be subject to U.S. and foreign laws and accessible to U.S. and foreign governments, courts, law enforcement and regulatory agencies. 
+Your personal and other information may be stored, transferred and processed in and to the United States and in other countries by our affiliates and our service providers. **By providing personal information to us, you consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, pursuant to the laws of the United States or such other jurisdictions, which may provide lesser privacy protections than the laws of other countries, and you acknowledge that your information may thus be subject to U.S. and foreign laws and accessible to U.S. and foreign governments, courts, law enforcement and regulatory agencies.**
 
 #### Access to Your Personal Information 
 
@@ -150,7 +165,7 @@ Additionally, Michael Kors works with customs authorities, law enforcement and l
 
 #### Safe Harbor Certification 
 
-Michael Kors has certified that it complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, retention, transfer and processing of personal information from European Union member countries and Switzerland. Michael Kors has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor Program, and to view Michael Kors’ certification, please visit http://www.export.gov/safeharbor/. The BBB EU Safe Harbor Program acts as Michael Kors' third-party dispute resolution provider, as required by the Safe Harbor Program. If you have a complaint concerning our Safe Harbor compliance, please use the BBB EU Safe Harbor Program complaint process described here: <http://www.bbb.org/us/Business-Complaints/>. 
+Michael Kors has certified that it complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, retention, transfer and processing of personal information from European Union member countries and Switzerland. Michael Kors has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Michael Kors maintains procedures for periodically verifying its implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that the representations we make about our information and privacy practices remain accurate and true. To learn more about the Safe Harbor Program, and to view Michael Kors’ certification, please visit http://www.export.gov/safeharbor/. The BBB EU Safe Harbor Program acts as Michael Kors' third-party dispute resolution provider, as required by the Safe Harbor Program. If you have a complaint concerning our Safe Harbor compliance, please use the BBB EU Safe Harbor Program complaint process described here: <http://www.bbb.org/us/Business-Complaints/>. Pending clarification of the status of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, Michael Kors is taking steps to put into place further measures to protect personal information which is transferred from the EU. Those measures may involve contracts with importing entities incorporating standard clauses approved by the European Commission.
 
 #### Changes to This Privacy Policy 
 
