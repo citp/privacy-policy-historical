@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcpeuro.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911003324id_/https%3A//www.fcpeuro.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcpeuro.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324211101id_/https%3A//www.fcpeuro.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FCP Euro
 
@@ -49,9 +49,3 @@ Our site is intended for adults. We do not knowingly or intentionally collect pe
 In accordance with applicable law, we take additional security measures in regards to our collection, storage, and disposal of Social Security numbers. First, we take what we believe to be reasonable physical, electronic, and procedural safeguards to protect the confidentiality of Social Security numbers. Second, we limit access to Social Security numbers to only those persons with a legitimate business purpose. Third, we provide appropriate training to employees and prohibit the unlawful disclosure of Social Security numbers. Finally, we protect the confidentiality of Social Security numbers by using data encryption and secure data storage procedures and destroying, erasing, or making unreadable Social Security numbers prior to disposal. These procedures are periodically reviewed to help maintain the confidentiality of Social Security numbers.
 
 * * *
-
-### Questions Concerning this Privacy Statement
-
-Contact us with any questions regarding this privacy statement.
-
-[Contact Us](https://web.archive.org/page/contact-us)
