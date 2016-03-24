@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910072735id_/https%3A//www.interactivebrokers.com/en/index.php%3Ff%3D305%26ns%3DT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324224431id_/https%3A//www.interactivebrokers.com/en/index.php%3Ff%3D305%26ns%3DT) for the most accurate reproduction.*
 
 # Privacy Notice | Interactive Brokers
 
