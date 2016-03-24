@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chingoracle.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717105505id_/http%3A//www.chingoracle.com/ching-oracle/ching/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chingoracle.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325002108id_/http%3A//www.chingoracle.com/ching-oracle/ching/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Chingoracle.com
 
