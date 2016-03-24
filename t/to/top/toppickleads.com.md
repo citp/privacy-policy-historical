@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101005312id_/http%3A//www.toppickleads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324090242id_/http%3A//www.toppickleads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Pick Leads
 
-**[Top Pick Leads](http://www.toppickleads.com/tips-for-boosting-your-sales.html)** takes your privacy seriously. [This](http://www.toppickleads.com/become-good-at-email-marketing-with-this-excellent-advice.html) privacy policy describes what [personal](http://www.toppickleads.com/seven-personal-development-tips-for-your-success.html) [information](http://www.toppickleads.com/must-have-information-about-personal-development.html) we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to [learn](http://www.toppickleads.com/learn-how-to-use-what-you-have-been-given-for-a-better-life.html) more about privacy policies in general.
+**[Top Pick Leads](http://www.toppickleads.com/tips-for-boosting-your-sales.html)** takes your privacy seriously. [This](http://www.toppickleads.com/become-good-at-email-marketing-with-this-excellent-advice.html) privacy policy describes what [personal](http://www.toppickleads.com/what-you-have-always-wanted-to-know-about-personal-development.html) [information](http://www.toppickleads.com/must-have-information-about-personal-development.html) we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to [learn](http://www.toppickleads.com/are-you-here-to-learn-about-email-marketing-check-out-these-tips-2.html) more about privacy policies in general.
 
 ## Routine Information Collection
 
-All web servers track [basic](http://www.toppickleads.com/basic-strategies-on-how-to-become-a-successful-person.html) information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can [personally](http://www.toppickleads.com/great-ways-to-help-you-develop-personally.html) identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+All web servers track [basic](http://www.toppickleads.com/basic-strategies-on-how-to-become-a-successful-person.html) information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
 ## Cookies and Web Beacons
 
 Where necessary, Top Pick [Leads](http://www.toppickleads.com/effectively-generating-and-manageing-leads-with-email-marketing-2.html) uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is [subject](http://www.toppickleads.com/helpful-advice-on-the-important-subject-of-personal-development.html) to their own privacy policies. 
 
 ## Controlling Your Privacy
 
