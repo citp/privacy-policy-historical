@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2015-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150114032823id_/https%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324160936id_/https%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Think Bingo. Join now & get up to £100 FREE
 
-The brands on this website (the "Website") are owned by Think Bingo (the "Brand Owner"). The Website is operated by Cassava Enterprises (Gibraltar) Limited ("Company", “we” or “us”), which is registered under the laws of Gibraltar to provide such services.
+The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website is operated by Cassava Enterprises (Gibraltar) Limited ("Company", “we” or “us”), which is registered under the laws of Gibraltar to provide such services.
 
-**PLEASE NOTE:** If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.
-
-**PLEASE NOTE:** If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited. As such, all personal data and customer funds are transferred to and stored by Company on its servers in Gibraltar. The Company is happy to provide you with online gaming services under its remote gambling license issued by the Government of Gibraltar or by the UK Gambling Commission, as applicable. The Company is committed to preserving the privacy of all visitors to the Website.
+**PLEASE NOTE:**  If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.  
+**PLEASE NOTE:**  If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited. As such, all personal data and customer funds are transferred to and stored by Company on its servers in Gibraltar. The Company is happy to provide you with online gaming services under its remote gambling license issued by the Government of Gibraltar or by the UK Gambling Commission, as applicable. The Company is committed to preserving the privacy of all visitors to the Website.
 
 When you use the Company's services, you shall be asked to provide personal identifiable information ("PII") to the Company.
 
-The Company, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to [support@thinkbingo.com](mailto:support@thinkbingo.com) and we will do our best to answer your questions in full as quickly as possible.
+The Company, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to support@thinkbingo.com and we will do our best to answer your questions in full as quickly as possible.
 
 ## Personal Identifiable Information Collection
 
@@ -26,13 +25,13 @@ Your PII may, for the Purposes, be disclosed for processing to any of the follow
 
 We ensure that your information will not be disclosed to government institutions or authorities except if required by law and regulations.
 
-## Your Choice − Direct Marketing
+## Your Choice ? Direct Marketing
 
-Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the 'unsubscribe' link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call 1-800-480-5170 or write to [promotions@thinkbingo.com](mailto:promotions@thinkbingo.com)
+Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the 'unsubscribe' link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call 1-800-480-5170 or write to support@thinkbingo.com
 
 ## Your Rights in relation to your PII
 
-You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email [support@thinkbingo.com](mailto:support@thinkbingo.com). We may levy a small charge to cover the cost of administration.
+You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email support@thinkbingo.com. We may levy a small charge to cover the cost of administration.
 
 ## Security
 
@@ -44,7 +43,7 @@ We may send you a permanent cookie when you register with us. A cookie is a smal
 
 ## Advertisements
 
-We use a third−party advertising technology to serve advertisements when you visit the Website. This technology uses information about your visits to the Website (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third−party 'cookie' may be placed or recognized on your browser. We also transmit Website usage information about visitors to the Website to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use 'Web beacons' and 'cookies' provided by our third−party advertisement server on the Website. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non−personal information used to target advertisements to you, please visit www.networkadvertising.org and follow the "opt−out" instructions.
+We use a third?party advertising technology to serve advertisements when you visit the Website. This technology uses information about your visits to the Website (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third?party 'cookie' may be placed or recognized on your browser. We also transmit Website usage information about visitors to the Website to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use 'Web beacons' and 'cookies' provided by our third?party advertisement server on the Website. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non?personal information used to target advertisements to you, please visit www.networkadvertising.org and follow the "opt?out" instructions.
 
 ## Protection of Minors
 
@@ -52,16 +51,16 @@ The services provided by the Company are not intended for or directed to minors 
 
 ## International Transfer
 
-Since we operate globally, it may be necessary to transfer your PII to Recipients who are located in countries outside the European Union. This may happen if our servers or such Recipients or their servers are based outside the European Union. If you use our services and products while visiting countries outside the European Union or if we transfer your PII to Recipients or Recipients which have their servers located outside the European Union, you hereby consent to said transfer of your PII. The data protection and other laws of these countries may not be as comprehensive as those in the European Union − in these instances we will take steps to ensure that a similar level of protection is given to your PII.
+Since we operate globally, it may be necessary to transfer your PII to Recipients who are located in countries outside the European Union. This may happen if our servers or such Recipients or their servers are based outside the European Union. If you use our services and products while visiting countries outside the European Union or if we transfer your PII to Recipients or Recipients which have their servers located outside the European Union, you hereby consent to said transfer of your PII. The data protection and other laws of these countries may not be as comprehensive as those in the European Union ? in these instances we will take steps to ensure that a similar level of protection is given to your PII.
 
 ## Retention
 
 Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected.
 
-## Information about us 
+## Information about us
 
 **Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited (as applicable) Suite 601/701 Europort, Gibraltar.**
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.
 
-If you have any enquiry about this Privacy Policy please write to [support@thinkbingo.com](mailto:support@thinkbingo.com).
+If you have any enquiry about this Privacy Policy please write to support@thinkbingo.com.
