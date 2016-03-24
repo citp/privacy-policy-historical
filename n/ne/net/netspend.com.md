@@ -1,34 +1,66 @@
-> *The following text is extracted and transformed from the netspend.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909051044id_/https%3A//www.netspend.com/help/netspend_security_center/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netspend.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324112304id_/https%3A//www.netspend.com/help/netspend_security_center/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policies | NetSpend Prepaid Debit Cards
 
-#### NetSpend Visa® and MasterCard Prepaid Cards are issued by   
-**BofI Federal Bank** , **The Bancorp Bank** , **Regions Bank** , **SunTrust Bank** , **MetaBank TM**, and **Republic Bank & Trust Company**, Members FDIC; NetSpend is an authorized Independent Sales Organization of BofI Federal Bank, The Bancorp Bank, Regions Bank, SunTrust Bank, MetaBank, Republic Bank & Trust Company.
+#### NetSpend Visa® and MasterCard® Prepaid Cards are issued by **BofI Federal Bank, The Bancorp Bank, Regions Bank, SunTrust Bank, MetaBank ® and Republic Bank & Trust Company**, Members FDIC. NetSpend is a registered agent of BofI Federal Bank, The Bancorp Bank, Regions Bank, SunTrust Bank, MetaBank and Republic Bank & Trust Company.
 
-If you are a new customer, the privacy policy governing your prepaid card program belongs to the bank issuing your card. Please see back of your card or the card program marketing materials, if you have them, for the issuing bank. 
+## Privacy Provisions Applicable to NetSpend Cardholders and Applicants
 
-If you are an existing NetSpend cardholder, you should log-in to the Account Center to view the privacy policy that applies to your card program.
+If you are a NetSpend cardholder or have applied for a NetSpend card, the principal privacy policy governing your prepaid card program belongs to the bank issuing your card.
 
-NetSpend's Online Privacy Policy, which governs use of this website, can be found below.
+Please see the back of your card or the card program marketing materials for the name of your issuing bank. For your convenience, we have provided links to each issuing bank's privacy policy below.
 
-All visitors and current NetSpend cardholders to www.netspend.com are subject to the NetSpend Online Privacy Policy: 
+## NetSpend Online Privacy Policy
 
-At NetSpend, we recognize that the trust of our customers is one of our most important assets. As such, our primary goal is to deliver innovative payment products and world-class service while ensuring the integrity and sanctity of our customers' privacy. The following outlines some of the steps that we take on a daily basis to ensure that our customers' information is secure, private, and used only in a manner consistent with our customers' wishes. We will safeguard, according to our strict standards of security and confidentiality, any and all information our customers share with us. We use advanced security techniques and processes designed to protect the integrity and privacy of our customers' information, particularly when this information is used by our employees and partners to provide customer service.
+If you are visiting our netspend.com site (the “Site”), this NetSpend Online Privacy Policy applies to you, irrespective of whether you are a NetSpend cardholder or applicant or are simply visiting the Site.
 
-We collect nonpublic personal information about you from the following sources: (i) Information we receive from you on applications or other forms, (ii) Information about your transactions with us, or others such as your Card account balance, transaction history, parties to transactions and card usage, and (iii) Information we received from third parties, including government agencies, consumer-reporting agencies, such as your tax identification number and creditworthiness and credit history. We advise our customers about the general uses of the information we collect about them, and we will gladly and promptly provide additional explanation if our customers request it. We may disclose aggregate information about our customers and former customers to third parties with whom we may have a joint marketing agreement, or those companies who perform marketing services on our behalf. This includes all information we may collect directly or indirectly from you. NetSpend also uses your information to market its services to you and to gain feedback on potential new services. We will permit only authorized employees, who are properly trained in the appropriate handling of sensitive customer information, to have access to that information, and only if required by their business responsibilities. Employees who violate our Privacy Policy are subject to our disciplinary process, up to and including termination. 
+## Information We Collect
 
-We give our customers choices as to how their information is used, if at all. We provide our customers with the opportunity to remove their names used for mail, telephone or online marketing upon initial customer contact and subsequently on an annual basis. This opt-out choice includes products and services offered by NetSpend Corporation and our affiliate marketing partners, and customers may easily opt out by contacting us via U.S. mail or telephone.
+We collect personally identifiable information (“Personal Information”) about you from the following sources: (i) information you provide us in a NetSpend card application submitted through this Site, and (ii) information you otherwise choose to provide us through the Site. Additionally, we collect information relating to the payments you make with your NetSpend card and related payment data (“Payment Information”).
 
-Except as outlined above, we limit the release of customer information. In addition to providing our customers with the opportunity to opt out of marketing offers, we release information only with a customer's consent or request, or when we are required to do so by law or other regulatory authority. When a court order or subpoena requires us to release customer information, we notify the customer promptly in order to provide the customer with the opportunity to exercise their legal rights. The only exception to this policy is when we are prohibited from notifying the customer by law or due to a court order, or in cases in which fraud, money laundering and/or criminal or illegal activity is suspected.
+## How We Use Your Personal Information and Payment Information
 
-We quickly respond to our customers' requests for explanation. In the event that we deny service or choose to end a particular customer's relationship, and to the extent permitted by applicable laws, we will provide a prompt and detailed explanation if requested. We will notify our customers in the event that our privacy policy changes. If our privacy policy is modified, we will attempt to notify our customers of these changes via e-mail, U.S. mail or via telephone. As customers do now, they will continue to have a choice as to whether or not they allow us to use their information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site (www.netspend.com) notifying users of said change(s). In some cases when we post the notice, we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. We will post our annual privacy policy notice to the cardholder's account center on our website. When we post our annual privacy policy notice we will also e-mail cardholders notifying them of the annual privacy notice. Should you wish, a paper annual privacy policy notice will be made available to you upon request. 
+Personal Information provided through a NetSpend card application is used solely to evaluate your application and is subject to this NetSpend Online Privacy Policy and the privacy policy of the bank issuing the card for which you have applied.
 
-Updating customer information. Should customers need to update any information they have previously supplied to us, they may contact NetSpend Customer Service at 1-86-NETSPEND (1-866-387-7363) from 8:00AM to 10:00PM CT, Monday through Friday, and 8:00AM to 8:00PM CT, Saturday and Sunday. Customers may also e-mail us at customerservice@netspend.com.
+Personal Information provided through other venues on the Site is used and disclosed solely to respond to your inquiries or requests.
 
-If you wish to opt out of our and our partners' marketing offers, please contact us via U.S. mail at the following address: 
+NetSpend may aggregate or de-identify your Personal Information and then use or disclose that aggregated or de-identified information to evaluate the Site’s effectiveness, to improve our products or services, or for other activities to the extent permitted by law.
+
+NetSpend may also de-identify, aggregate or anonymize your Payment Information. We may share that de-identified, aggregated or anonymized Payment Information with third parties for marketing or other purposes, to the extent permitted by law.
+
+## Security
+
+We maintain administrative, technical and physical safeguards designed to protect the Personal Information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. SSL encryption also is used on our Site when you are asked to enter confidential information as part of your application. You can tell you have entered an encrypted session in several ways. Whenever you see an unbroken key or a locked padlock icon on the bottom of your browser screen, you have entered an encrypted session. In addition, when your session changes from "http" to "https," you are in an encrypted session.
+
+## Children
+
+We do not knowingly collect or use personal information from children under 13 years of age without obtaining verifiable consent from their parents. We are not responsible for the data collection and use practices of non-affiliated third parties to which our Site may link.
+
+## Links to Other Websites
+
+We are not responsible for the information collection practices of third-party links you click to from our Site. We cannot guarantee how these third parties use cookies or whether they place cookies on your computer that may identify you personally. We urge you to review the privacy policies of each of the linked websites you visit before you provide them with any personal information.
+
+## Use of Cookies and Web Beacons
+
+"Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your browser on your device. Web beacons are small pieces of data that are embedded in images on the pages of websites.  NetSpend and certain third parties may set and access cookies or web beacons to track and store information about you.
+
+We use two types of cookies, namely “persistent cookies” and “session cookies.” Session cookies will normally expire when you close your browser, while persistent cookies will remain on your device after you close your browser, and can be used again the next time you visit our site.
+
+We may also allow our business partners to place web beacons on our site or to place cookies on your device for advertising or other purposes.
+
+Third parties that use cookies and other tracking technologies to deliver targeted advertisements on our platform or third-party sites may offer you a way to prevent such targeted advertisements by opting-out at the websites of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) or the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
+
+## Disabling Cookies and Do-Not-Track
+
+While you may disable the usage of cookies through your browser settings, we do not change our practices in response to a “Do Not Track” signal in the HTTP header from your browser or mobile application.  We track your activities if you click on advertisements for NetSpend services on third-party platforms such as search engines and social networks and may use analytics to track what you do in response to those advertisements.  We may also use web beacons and tracking URLs in our messages to you to determine whether you have opened a certain message or accessed a certain link.
+
+## Questions?
+
+If you have questions about this NetSpend Online Privacy Policy or about which privacy policy applies to you, please contact us at:
 
 NetSpend   
 Customer Service   
-PO Box 2136   
+P.O. Box 2136   
 Austin, TX 78768-2136   
-or call us at 1-86-NETSPEND (1-866-387-7363) 
+Email: [customerservice@netspend.com](mailto:customerservice@netspend.com)   
+Tel: 1-86-NETSPEND (1-866-387-7363) 
