@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906094910id_/https%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324171420id_/https%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Earth Fare wants you to be able to access, edit, update, or even delete your per
 
 ## Earth Fare’s Use of Your Information
 
-We will provide any information that we are required by law to share.
+We will provide any information that we are required by law to share. Earth Fare uses information that you provide to supply products and services to you, to develop, review, and improve our products and services for you, to address problems, and for other purposes as described to you at the point of collecting the information
 
 ## Security
 
@@ -54,5 +54,5 @@ If you have any questions or need more information about our Privacy Policy, ple
 
 Earth Fare  
 Attn: Privacy Matters  
-145 Cane Creek Industrial Drive Suite 150  
-Fletcher, NC 28732 
+220 Continuum Dr Fletcher, NC 28732   
+
