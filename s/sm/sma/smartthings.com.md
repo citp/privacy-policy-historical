@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127111413id_/http%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324115703id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartThings
 
@@ -56,7 +56,7 @@ We may deliver a file to you through the Services (known as a "web beacon") from
 
 ##### Is personal information about me secure?
 
-Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser or application by signing off after you have finished accessing your account.
+Your account is protected by a password or a PIN number for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password, PIN number and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser or application by signing off after you have finished accessing your account.
 
 We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
@@ -66,7 +66,7 @@ The Services may contain links to other sites or applications. We are not respon
 
 Through your account and Service settings, you may be able to access, and, in some cases, edit or delete the following information you’ve provided to us, which may include:
 
-  * name and password
+  * name and password/PIN number
   * shipping address
   * billing address
   * credit card information
