@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201045805id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324062349id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Ready made Script for MLM, Reseller, Affiliate, Investment, HYIP, Membership Management
 
