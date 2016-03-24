@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225111743id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324053104id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
 
-# HomeOwnersHub.com Privacy Policy
+# Privacy Policy
 
 ##  HomeOwnersHub.com Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by visiting our [contact form page ](https://web.archive.org/contact.php " HomeOwnersHub.com  Contact Page")
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by visiting our [contact form page ](http://www.homeownershub.com/contact.php " HomeOwnersHub.com  Contact Page")
 
 At _HomeOwnersHub.com_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines what type of personal information is collected and stored by _HomeOwnersHub.com_ and how it is used. 
 
@@ -44,17 +44,13 @@ Ads appearing on our website may be delivered to users by advertising partners, 
 
 ### DoubleClick DART Cookie
 
-.:: Google, as a third party vendor, uses cookies to serve ads on HomeOwnersHub.com website.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to HomeOwnersHub.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... 
-
-  * Google Adsense
-  * Chitika
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to HomeOwnersHub.com website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to HomeOwnersHub.com users based on their visit to HomeOwnersHub.com and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [aboutads.info](http://www.homeownershub.com/aboutads.info)
 
 
 
-These third-party ad servers or ad networks use technology to send the advertisements and links that appear on _HomeOwnersHub.com_ directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Third-party ad servers or ad networks use technology to send the advertisements and links that appear on _HomeOwnersHub.com_ directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
 _HomeOwnersHub.com_ has no access to or control over these cookies that are used by third-party advertisers. 
 
@@ -63,7 +59,6 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
   * To opt out of Google Ads cookies, please visit this page at Google website: <http://www.google.com/privacy/ads/>
-  * To opt out of Chitika Ads cookies, please visit this page at Chitika website: <http://chitika.com/privacy>
 
 
 
@@ -71,4 +66,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Although most changes are likely to be minor, _HomeOwnersHub.com_ may change its Privacy Policy from time to time, and in _HomeOwnersHub.com_ 's sole discretion. _HomeOwnersHub.com_ encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-This Privacy Policy has been last updated on September 16th, 2011
+This Privacy Policy has been last updated on August 21st, 2015
