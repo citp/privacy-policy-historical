@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053135id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324192629id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apples4theteacher.com Privacy Polcy
 
 Mission Statement
 
-Effective 10/12/2013
+Effective 12/08/15
 
 Apples4theteacher.com  [owned and operated by Webstantaneous Web Marketing, LLC](http://www.webstantaneous.com/) was created to help teachers, homeschoolers and parents of school age children. Our mission is to provide free educational resources by thematic units. Almost all resources are printable and can be used in a classroom setting or at home to reinforce educational concepts.  [This privacy policy applies to our site www.apples4theteacher.com](http://www.apples4theteacher.com/). 
 
-[Apples4theteacher.com](http://www.apples4theteacher.com/) has received TRUSTe's Privacy and Children’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program only covers information collected on this site [www.apples4theteacher.com](http://www.apples4theteacher.com/). 
-
-If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy@apples4theteacher.com](mailto:privacy@apples4theteacher.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at[ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
+If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy@apples4theteacher.com](mailto:privacy@apples4theteacher.com). 
 
 **Privacy of Children Online  
 **We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems **immediately**. Apples4theteacher.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
@@ -73,21 +71,17 @@ Site Analytics Privacy Policies:
 Apples4theteacher.com has offered free teaching resources since 1999. We have been able to offer our resources for free because ad networks pay us for advertising space on resource pages. While viewing our website, a third party advertiser may place a cookie in your browser. You may view the privacy policy of each ad network that Apples4theteacher.com works with below:
 
   * [Burst Media](http://www.burstmedia.com/index.php/company/coppa)
-  * [Chitika](http://www.chitika.com/privacy)
   * [Google Adsense](http://www.google.com/privacy.html)
-  * [Hooked Media](http://www.hookedmediagroup.com/Global/Privacy.aspx)
   * [Media.net](http://www.media.net/privacy-policy)
-  * [Mochi Media](http://www.mochimedia.com/privacy.html)
   * [Netseer](https://web.archive.org/NetSeer_Apples%20Privacy%20Policy%202014.pdf)
 
 
 
 Teacher resource pages may have additional ad code from the following ad networks. We are in the process of removing ad code on our pages (that are geared towards children such as our game pages and interactive puzzles) from the following ad networks. In the event that we missed some code, their privacy policies can be found here via the associated link. Please feel free to opt out of their advertising and [notify us](mailto:privacy@apples4theteacher.com) what page the ad code appeared on, so we may change the code.
 
-  * [Casale Media](http://www.casalemedia.com/privacy.html)
-  * [Cox Digital Solutions](http://www.coxdigitalsolutions.com/privacy-policy/)
   * [Tribal Fusion](http://exponential.com/our-company/privacy/)
-  * [ValueClick Media](https://www.valueclickmedia.com/about/privacy)
+  * [Conversant Media](http://www.conversantmedia.com/legal/privacy)
+  * [Sovrn](http://www.sovrn.com/privacy-policy/)
 
 
 
@@ -165,4 +159,4 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 
 This privacy policy applies only to information collected by this Web site. 
 
-This privacy policy was update on or about October 15, 2013.
+This privacy policy was update on or about December 8, 2015.
