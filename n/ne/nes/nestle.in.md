@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913204043id_/https%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324175336id_/https%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Nestlé India
 
-**[Nestlé India (“Nestlé”)** is committed to safeguarding your privacy and ensuring that you continue to trust Nestlé with your personal data. When you interact with us, you may share personal information with us which allows identification of you as an individual (e.g. name, email, address, telephone number). This is known as “personal data”. 
+**Nestlé India (“Nestlé”)** is committed to safeguarding your privacy and ensuring that you continue to trust Nestlé with your personal data. When you interact with us, you may share personal information with us which allows identification of you as an individual (e.g. name, email, address, telephone number). This is known as “personal data”. 
 
 This notice (“ **Privacy Notice** ”) sets out:
 
@@ -135,6 +135,8 @@ Nestlé may engage service providers, agents or contractors to provide services 
 
 Nestlé requires such third parties, who may be based outside the country from which you have accessed the Nestlé Site or service, to comply with all relevant data protection laws and security requirements in relation to your personal data, usually by way of a written agreement. 
 
+Nestlé sometimes stores your data out of country. In some instances there is a possibility that such data is transferred from one location to another. Such storage and transfers are undertaken with utmost care and attention. We contractually bind the service providers to store or transfer your information in a confidential manner and they are made to treat the data only according to relevant privacy laws of the land. 
+
 ## 5.3 Partners and joint promotions
 
 Nestlé may run a joint or co-sponsored program or promotion with another company and, as part of your involvement in the activity, collect and use your personal data. 
@@ -246,7 +248,10 @@ Nestlé acts as “data controller” for the personal data it processes in the 
 
 Return to top
 
-## 10\. phone at +91 124 238 93 00 email at [consumer.services@in.nestle.com](mailto:consumer.services@in.nestle.com,) mail at
+## phone at +91 124 238 93 00   
+email at [WeCare@in.nestle.com](mailto:WeCare@in.nestle.com,) 
+
+## mail at
 
 Corporate Office  
 Nestlé India Ltd.  
