@@ -1,25 +1,29 @@
-> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704231039id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324033625id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | All The Lyrics
 
-The following policy is intended to explain how your personal information will be treated as you use of our site.Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.
+Allthelyrics.com has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
-## Traffic data
+## Use of Information
 
-Each time a visitor comes to a AllTheLyrics.com Web site, our server logs some basic technical information such as browser and platform, visitor's domain name and referral data. We are also processing the visitor's activity through our site. We may present the results of this processing to outside companies, but no one will be able to identify you or contact you because of this data.
+When you use allthelyrics.com, we may collect information about your use of the website in order to provide and improve our services. For example, we or our third party utility-tracking partners may collect your browser type and IP address through log files. This information is gathered for all allthelyrics.com visitors.
 
-## Cookies
+In order to register with our website, the visitor shall provide us with personal information which may include name, e-mail address, password, etc. We keep all such information strictly confidential and do not sell, share, transfer or distribute it to any third person.
 
-Companies which place advertising on our site have the ability to assign cookies to you. We may use cookies in some parts of our site (in forms to remember nickname and e-mail you used last time), but we cannot control that cookies coming with banner ads.
+## Third Party
 
-## "Send to friend" feature
+We use Google AdSense, Google Analytics, Addthis, and other third-party companies to serve ads and services when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide services on this site and other sites about goods and services that may be of interest to you. Also, they may place or recognize a unique "cookie" on your browser.
 
-AllTheLyrics.com offers an "e-mail a friend" feature, allowing site visitors to send song lyrics via e-mail to friends. For this feature to function, we need to ask once for e-mail addresses of recipient and sender. We do not store these addresses and you will not receive e-mail or other communications from AllTheLyrics.com as a result of having used this feature.
+## Links to Other Sites
 
-## Other sites 
+This site contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other sites.
 
-AllTheLyrics.com may contain many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of these other Web sites.
+## Use of Cookies
 
-## Contacting the Web Site 
+Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our website and technologies easier by, among other things, saving your preferences for you. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. You may also opt-out from third party tracking via an industry-standard opt-out page such as the Network Advertising Initiative’s page accessible via its consumer website at [www.networkadvertising.org](https://web.archive.org/web/20160324033625id_/http%3A//www.allthelyrics.com/www.networkadvertising.org).
 
-If you have any questions or comments about this privacy statement, please, complete our [Contact us](https://web.archive.org/contact) form.
+## Your Acceptance of These Terms
+
+By using this website, you accept the policies and restrictions set forth in this online privacy policy. If you do not agree to this policy, please do not use website. 
+
+We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time.
