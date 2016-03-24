@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modxcms.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229024902id_/http%3A//modx.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modxcms.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165836id_/https%3A//modx.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### This is the web site of MODX.
 
-We can be reached by [using our contact form](http://modx.com/company/contact/?subj=privacy) or writing the address in the sidebar.
+We can be reached by [using our contact form](https://modx.com/company/contact/?subj=privacy) or writing the address in the sidebar.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
@@ -36,6 +36,6 @@ If you feel that this site is not following its stated information policy, you m
 
 By using modx.com and its affiliated websites* (“MODX websites”), you signify your agreement and understanding of the MODX Privacy Policy. If you do not agree, do not use the website. If we need to change our policy, we will post these changes to this page. 
 
-Your continued of of MODX websites following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](http://modx.com/company/contact/?subj=privacy).
+Your continued of of MODX websites following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://modx.com/company/contact/?subj=privacy).
 
 _* MODX websites include but are not limited to modx.com, rtfm.modx.com, docs.modx.com, bugs.modx.com, shop.modx.com, demo.modx.com, support.modx.com, wtf.modx.com, modxpo.modx.com, rest.modx.com, api.modx.com, modxcms.com, svn.modxcms.com, my.modxcms.com, rest.modxcms.com and modxpo.modxcms.com, and RSS feeds managed by Google Feedburner on behalf of MODX._
