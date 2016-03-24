@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908111933id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324130730id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -143,4 +143,7 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 | Search the12volt.com  
 ---  
   
-Custom Search 
+Custom Search   
+  
+| [](http://www.the12volt.com/) |   
+---|---
