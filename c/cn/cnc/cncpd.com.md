@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cncpd.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812025403id_/http%3A//cncpd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cncpd.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324212317id_/http%3A//cncpd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
