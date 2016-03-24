@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recyclinginside.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123220354id_/http%3A//recyclinginside.com/privacy-policy-and-terms-and-conditions-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclinginside.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324011037id_/http%3A//recyclinginside.com/privacy-policy-and-terms-and-conditions-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms and Conditions of Use
 
@@ -18,7 +18,7 @@ Any other use of content requires the prior written permission of Groundsailer M
 
 ### 2\. Links to Other Websites
 
-As you browse the RecyclingInside website, you will notice links to other websites. RecyclingInside is not responsible for the availability, content or integrity of these sites. In addition, providing links to these sites should not be interpreted as endorsement or approval by RecyclingInside of the products or services offered by the owner of the linked website.
+As you browse the RecyclingInside website or when you receive RecyclingInside E-Newsletters, you will notice links to other websites. RecyclingInside is not responsible for the availability, content or integrity of these sites. In addition, providing links to these sites should not be interpreted as endorsement or approval by RecyclingInside of the products or services offered by the owner of the linked website.
 
 ### 3\. Information Collected
 
