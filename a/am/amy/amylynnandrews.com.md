@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amylynnandrews.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204161438id_/http%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amylynnandrews.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324161006id_/http%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amy Lynn Andrews
 
-Privacy is good. I like it and I assume you do too. As a reader of mine, your privacy is important to me.
+Privacy is good. I like it and I assume you do too. As a reader of mine, your privacy is important to me. 
 
 ### The Chips and Salsa Version
 
