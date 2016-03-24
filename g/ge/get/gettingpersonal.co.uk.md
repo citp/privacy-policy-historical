@@ -1,140 +1,242 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005221912id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324232508id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | GettingPersonal.co.uk
 
-GettingPersonal.co.uk is committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+We are committed to preserving the privacy of all visitors to[ www.gettingpersonal.co.uk](https://www.gettingpersonal.co.uk/) (the **Website** ). Please read the following Policy to understand how we use and protect the information that you provide to us.   
 
-By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy. 
 
-**Information that we collect from you**
+The Website and its webpages are operated by Getting Personal Limited (Getting Personal), a company registered in England and Wales. Our registered office is: 1st Floor, Southmoor House, Southmoor Industrial Estate, Wythenshawe, M23 9XD. Our company registration number is 05253479. Our VAT registration number is 927 2144 32.
 
-When you visit, register or order products or services on www.gettingpersonal.co.uk you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information. 
+Getting Personal is a registered Data Controller under the terms of the Data Protection Act 1998, details of Getting Personal's notification to the regulator for data protection, may be found in the Information Commissioner’s Office Public Register of Data Controllers at [www.ico.org.uk](https://ico.org.uk/) under registration number **Z9305190**.
 
-We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us. 
+Getting Personal and its partners are jointly referred to in this Policy as "we", "us" or "our". A list of Getting Personal companies and partners can be obtained by contacting business@gettingpersonal.co.uk.
 
-To maintain customer service standards and to assist staff training, we may record and monitor incoming calls. 
+For the purposes of this Policy, you as a contracting party and possible (other) user/end-user are jointly referred to in this Policy as "you" or "your".
 
-**Use of your information**
+The purpose of this Policy is to set out the purposes for which, and the manner in which, we may collect and use personal information that we may obtain about you. By either registering as a user of any services provided by us on this Website and/or by using this Website generally you consent and agree to this use by us. 
 
-Your information will enable us to provide you with access to all parts of our website and to supply the goods or services you have requested. It will also enable us to bill you and to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, improve, develop our business and where we are required to do so to report sales to our business partners . 
+We ask that you read this Policy carefully as it contains important information about what to expect when we collect personal information about you and how we will use your personal data.
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know about other products and services which we, other companies within our group and our business partners offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know.
+Your use of the Website is also governed by the Website's general [Terms and Conditions](https://www.gettingpersonal.co.uk/terms.htm "Terms and Conditions"). Please ensure you have read and understood the Terms and Conditions in addition to this Policy.
 
-Where you have entered your credit card details for payment of goods or services on www.gettingpersonal.co.uk, we will not store your credit card data. 
+ **1 Use of your personal information**
 
-**Opt-out information:**
+1.1 When you register and/or use this Website:
 
-We may provide you the opportunity to opt-in to additional newsletters or promotional communications. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the instructions included in each communication. You may also opt out by writing to us at:- 
+(a) You may be asked to provide certain information such as your contact details and credit/debit card or PayPal details. In accordance with clause 7.2, we do not store your credit/debit card and/or PayPal details. 
 
-Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS 
+(b) We may gather other information about your use of the Website, including by the use of cookies (see section 5) and from any messages you post to the Website and any emails and any letters that you send to us.
 
-Phoning our Customer services team on 0161 947 5900 
+1.2 We may record and monitor incoming calls in order to maintain customer service standards and to assist staff training.
 
-Or emailing us at business@gettingpersonal.co.uk 
+1.3 We may use information that you provide to us or that is obtained by us:
 
-**Disclosure of your Information**
+(a) to register you with our Website and to manage any account you hold with us; 
 
-The information you provide to us may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you. 
+(b) to administer our Website services;
 
-Where you have consented when providing us with your details, we may also allow other companies in our group and our business partners, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please let us know at business@gettingpersonal.co.uk. 
+(c) to give to companies and organisations whose goods you purchase through the Website;
 
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. 
+(d) to fulfil our agreement with you and to process your purchases and obtain payment;
 
-Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy. 
+(e) to notify you about important changes and developments the Website or our services or products ( **Products** ); 
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organisations whose products and services may be of interest to you. If you would prefer not to be included in such mailings, please write to Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS, or drop an email to business@gettingpersonal.co.uk. 
+(f) to analyse and profile your purchasing preferences e.g. (market, customer and product analysis) to enable us to:
 
-**Cookies**
+(i) to provide you with a personalised browsing experience when using the Website; and 
 
-Cookies are small amounts of information which we may store on your computer's browser to help us improve your site experience. Cookies cannot contain viruses or install Malware and are commonly used across the internet for analytic purposes. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. 
+(ii) to review, develop and improve the Products which we offer and to enable us to provide you and other customers with relevant information through our marketing programme(s);
 
-Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you.   
-Below we have listed the cookies that we currently use on the site and their purposes.
+(g) to make decisions about you using computerised or automated technology, for example automatically selecting Products which we think will interest you or from the information we have; and
+
+(h) where you have consented, to keep you informed of such Products (including goods and services of other companies within the Getting Personal group and our partners) including special offers, discounts, offers, competitions and so on which we consider may be of interest to you by any of the following methods: 
+
+(i) email;
+
+(ii) telephone (including automated calls);
+
+(iii) SMS text messages and other electronic messages such as picture messaging;
+
+(iv) post; and/or
+
+(v) otherwise.
+
+1.4 For details on how to ask to be removed from our mailing list(s), please refer to section 4 of this Policy. 
+
+1.5 We may store and process your information on our own information technology systems or on systems owned by third parties that may store and process your information on our behalf.
+
+ **2 Disclosure of your information**
+
+2.1 We may give information about you to the following companies and organisations who may use it for the same purposes as set out in section 1 above: 
+
+(a) to other companies in the Getting Personal group of companies (but only where they are located in the EEA); 
+
+(b) to employees and agents of Getting Personal and other third parties, some of whom may be located outside the EEA, to administer any accounts and any Products provided to you by Getting Personal now or in the future;
+
+(c) to agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs;
+
+(d) to anyone to whom we transfer our rights and duties under our agreement with you; and/or
+
+(e) if we have a duty pursuant to the law to do so or if the law allows us to do so. 
+
+2.2 We refer above to the fact that we may carry out credit reference agency searches to obtain information about you. These agencies record those searches. In addition to the purposes listed above, we may also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties including our legal advisors and debt recovery agencies.
+
+ **3 Crime prevention**
+
+3.1 In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other companies within the Getting Personal group and to financial and other organisations involved in fraud prevention and detection, to use in the same way. Without limitation to the foregoing, we may disclose any information and data relating to you to the police or any regulatory or government authority in response to any request including requests in connection with the investigation of any suspected illegal activities.
+
+ **4 How can I get my name removed from the Getting Personal mailing list(s)?**
+
+4.1 If you have opted in or otherwise qualify to form part of our mailing list, and no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving such communications by following the instructions that are included in each communication. You may also opt out by:
+
+(a) writing to us at Getting Personal Limited, 1st Floor, Southmoor House, Southmoor Industrial Estate, Wythenshawe, M23 9XD; 
+
+(b) phoning our Customer Services team on 0161 947 5900; or
+
+(c) emailing us at business@gettingpersonal.co.uk.
+
+ **5 Cookies**
+
+5.1 New technologies are emerging on the internet that help us to deliver customised visitor experiences. In particular, there is a technology called "cookies" which may be used by us to provide you with, for example, customised information from our Website. By agreeing to this Policy you consent to the use of cookies by us as described in this Policy. 
+
+5.2 A cookie is an element of data that a website can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our Website. Non-personal information such as browser type, operating system and domain names, may be collected during visitors' use of the Website and this information may be used by us to measure the number of visitors to the Website. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the Website.
+
+ _What types of cookies do we use?_
+
+5.3 We may use cookies and similar tools across our websites to improve its performance and enhance your user experience.
+
+(a) **First party cookies:** We set these cookies and they can only be read by us.
+
+(b) **Persistent cookies:** We may use persistent cookies which will be saved on your computer for a fixed period (usually 1 year or longer). They won’t be deleted when the browser is closed. We may use persistent cookies to recognise your device for more than one browsing session.
+
+(c) **Session cookies:** We may use session cookies which are only stored temporarily during a browsing session and will be deleted from your device when the browser is closed. 
+
+(d) **Third party cookies:** We may use a number of third party suppliers who also set cookies on our Website in order to deliver the services that they are providing. These cookies are known as third party cookies.
+
+5.4 Depending on the type of cookies we use, cookies also allow us to make our Website more user-friendly. For example, permanent cookies allow us to save your password so that you do not have to re-enter it every time you visit our Website. Our Website may also use cookies to monitor website traffic and/or to make sure you don't see the same content repeatedly and/or to deliver content specific to your interests. Details and functions of the cookies currently used on our Website are set out in the following table:
 
 Cookie | Name | Purpose  
 ---|---|---  
 Session cookie   
-| GP_SessionId | This cookie is essential for the site to function and is set upon your arrival to Getting Personal. This cookie is deleted when you close your browser.  
-DC Storm | _#sess | These cookies are used to collect information about how visitors use our site. The information collected gives us more insight into what people are looking for and helps us determine which Key words are performing the best  
-_#uid  
-_#srchist  
-_#vdf  
-Google Analytics | _utma | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.  
-_utmb  
-_utmc  
-_utmz  
-Omniture | mbox | This cookie is used to present you with recommendations of other products which you might like.  
-Shopping Basket | Cart | This cookie is used to record then items in your shopping basket, and enable you to place orders  
-Customer Details | CustomerID | This cookie contains an encrypted string to allow us to identify you on your next visit (if you've ticked "remember me" when logging in)  
-Customer persistence | RememberCustomer | This cookie determines whether your details are remembered for your next visit  
-Category Tracking | Tracking | Used by Getting Pesonal to determine which "route" you have followed around the site to reach a product page  
-Visitor Information | VisitorInfo | Used to determine A/B testing pages  
-GP site cookie acceptance | gpnocookies | This cookie is used to record if a user has accepted the use of cookies on the GP website.  
+| GP_SessionID | This cookie is essential for the Website to function and is set upon your arrival to Getting Personal. This cookie is deleted when you close your browser.  
+Accounts Login| _RequestVerificationToken  
+| This cookie contains an encrypted string to allow us to identify you on your next visit.  
   
-The Session and Cart cookies are considered 'essential' cookies as they are needed to allow you to transact on the website. 
+.ASPAUTH  
+  
+Google Analytics | _ga | These cookies are used to collect information about how visitors use our Website. We use the information to compile reports on activity on the Website and to improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, where visitors have been directed to the Website from and the pages they have visited.
 
-If you would like to ensure that we place no further non-essential cookies on your computer please tick the box below. This will not remove the current cookies placed but will ensure that no further non-essential cookies are placed on your browser during your visit to this site. Please be aware that this will mean that you lose key functionality on the site and may mean it is not possible to buy certain gifts or cards. 
+You can learn about Google Analytics cookies by visiting this site: 
 
- Please tick here if you would like to prevent any further non-essential cookies being placed on your browser. 
-
-You may also set up your computer to reject cookies by following the relevant instructions which can be found at www.aboutcookies.org. Again, you may not be able to use certain features on our site. You can remove individual cookies or all cookies already present by using your Internet Browser settings.
-
-**Security and Data Retention**
-
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
-
-Where you have entered your credit card details for payment of goods or services on www.gettingpersonal.co.uk, we will not store your credit card data.
-
-**Accessing and Updating**
-
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at business@gettingpersonal.co.uk. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
-
-**Changes to our Privacy Policy**
-
-Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification. 
-
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to business@gettingpersonal.co.uk. 
-
-**Other web sites**
-
-Our web site may contain links to other web sites which are outside our control and are not covered by this privacy policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
-
- **Anti-spam Policy**
-
- **What is Spam?**
-
- **  
-**Spam, also known as junk mail, is an unsolicited commercial email messages, especially bulk email messages. Unsolicited means that the recipient has not granted verifiable permission for the message to be sent. Bulk means that the message is sent as part of a larger collection of messages, all having substantively identical content. The term 'spamming' refers to transmitting, distributing or delivering any unwanted commercial e-mail correspondence, especially in mass quantities, thru the electronic means of communication.  
+http://www.google.com/intl/en/privacypolicy.html  
+  
+_gat  
+_gat_UA_xxxxx-x  
+User Agent | ua | This cookie allows us to optimise our site to maximise the customer experience depending on the device they visit from  
+Shopping Basket | Cart | This cookie is used to record then items in your shopping basket, and enables you to place orders  
+Tracking | sf | This cookie is used to determine which "route" you have followed around the Website to reach a product page.  
+GP site cookie acceptance | gpnocookies | This cookie is used to record if a user has accepted the use of cookies on the Website.  
+  
 
 
- **At GettingPersonal.co.uk, we hate spam just as much as you, this is how we prevent it.**  
+_Disabling cookies_
 
+5.5 The GP_SessionID and Cart cookies are considered 'essential' cookies as they are needed to allow you to transact on the Website and without these cookies the Website will not function properly.
 
-Mailing list subscribers must specifically opt-into Getting Personal emails to receive them. The nature of the emails people will be sent is fully disclosed, both on the page the subscription is made from and with a prominent link to the site’s Privacy Policy.
+5.6 If you would like to ensure that no further non-essential cookies are placed on your computer, please follow the steps outlined in clause 5.7. This will not remove the current cookies placed but will ensure that no further non-essential cookies are placed on your browser during your visit to the Website. Please be aware that this will mean that you lose key functionality on the Website and may mean it is not possible to buy certain gifts or cards.
 
-Getting Personal do not use bought in lists, rented lists or lists that use appended email addresses.
+5.7 You can usually adjust your browser so that your computer does not accept cookies: 
 
-Getting Personal do not use email addresses scraped or copy and pasted from the web, or harvested in any way.
+(a) Go to the heading "Manage Cookies" and click onto the option you prefer, either stopping cookies being installed, or notifying you of them.
 
-Getting Personal do not have a subscription form that subscribes users to an unrelated list.
+(b) From the list provided, click onto the programme which your computer uses; if this is not shown on the list, click on the "help" heading on the bar at the top of this page, search for information on "cookies" − an explanation of how to delete cookies will appear, then follow the instructions.
 
-Getting Personal will not send out unrelated offers or unrelated content to our newsletter list.
+5.8 Alternatively, you can adjust your browser to tell you when a website tries to put a cookie on your computer.  
 
-Getting Personal will not email someone who has requested to be removed from our list.
+How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser programme our computer uses. You can follow the appropriate instructions for your specific browser type by clicking onto this link http://www.aboutcookies.org/Default.aspx?page=2  (please note that this link will open a new window and will lead to an external website and that we are not responsible for the content of external websites).  
 
- **Mailing Practices**  
+ _How to disable third party cookies  _
 
+5.9 Users based in the European Union, can visit http://www.youronlinechoices.eu/ to opt out of these third party cookies. The above website is not connected to the Website and we are not responsible for its content. We only keep cookies for the duration of your visit to our Website, except in the case of cookies which remember you for future visits or where you save your login name as referred to above.
 
-Getting Personal do not modify the headers of any message in such a way that purposefully obfuscates the origin of the message.
+ _Your consent to cookies_
 
-All undeliverable addresses are removed from all future mailings after no more than 3 bounces.
+5.10 By agreeing to this Policy you consent to the use of cookies by us as described in this Policy. If you wish to find out more about cookies, please click on this link www.aboutcookies.org (but please remember that we are not responsible for external websites).
 
-All mailings provide clear and simple to follow instructions for opting-out of future mailings, and all reasonable attempts are made to facilitate the removal of a mailing list subscriber at their request.
+5.11 Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers. If you do choose to disable cookies, you may find that certain sections of our Website do not work properly.
 
-Information submitted to us is only available to employees managing this information for purposes of contacting members of our lists. We have security policies in place to ensure that our mailing list data is secure from theft and misuse.
+ **6 IP address**
 
-If you receive an email message that you think is spam, sent from GettingPersonal.co.uk or sent on behalf of GettingPersonal.co.uk, please let us know the details using the contact methods below and we will then investigate the matter.
+6.1 Your browser also generates other information, including which language the Website is displayed in, and your Internet Protocol address (" **IP address** "). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our Website. We also use your IP address to help diagnose problems with our server, and to administer our Website. We do not use your IP address to identify you personally.
 
-If you have questions regarding this anti-spam policy, please contact GettingPersonal.co.uk using the following email address:
+ **7 Security**
+
+7.1 We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will treat all of your information in strict confidence and we will endeavour to take all reasonable steps to keep your personal information secure once it has been transferred to our systems.  However, the Internet is not a secure medium and we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default. We will retain your information for a reasonable period or as long as the law requires.
+
+7.2 Where you have entered your credit/debit card and/or PayPal details for payment of goods or services on the Website, we will not store your credit/debit card and/or PayPal data.
+
+ **8 Accessing and updating your data**
+
+8.1 You have the right to know what personal data (as defined in the Data Protection Act 1998) that we keep about you. Please contact us at business@gettingpersonal.co.uk to request to see such data. We are entitled to charge a fee of £10 to meet the costs of providing you with the details of the information we hold about you. 
+
+8.2 If for any reason you are unsure about the personal and account information we are holding in your name, please contact us. We will happily review your file and update the records if required. You also have the right to have any information we hold about you corrected if it is incorrect. If you are concerned that any of the information we hold on you may be incorrect, and you are unable to change it yourself as described below, please contact us at business@gettingpersonal.co.uk.
+
+ **9 Other websites**
+
+9.1 Please be aware that our Website may contain links to other websites which may be accessed through our Website. These websites are outside of our control and are not covered by this Policy. If you access other websites using links on our Website, we are not responsible for the data policies or procedures or the content of these linked websites.
+
+ **10 Anti-spam policy**
+
+ _What is spam?_
+
+10.1 Spam, also known as junk mail, is an unsolicited commercial email message, commonly sent in bulk email messages. Unsolicited means that the recipient has not granted verifiable permission for the message to be sent. Bulk means that the message is sent as part of a larger collection of messages, all having substantively identical content. The term 'spamming' refers to transmitting, distributing or delivering any unwanted commercial e-mail correspondence, especially in mass quantities, through the electronic means of communication.
+
+ _Measures to prevent spam_
+
+10.2 We take the following measures to prevent spam:
+
+(a) mailing list subscribers must specifically opt-in to Getting Personal emails to receive them. The nature of the emails people will be sent is fully disclosed, both on the page the subscription is made from and with a prominent link to this Policy;
+
+(b) we do not use bought-in lists, rented lists or lists that use appended email addresses;
+
+(c) we do not use email addresses that are scraped or copied and pasted from the web, or harvested in any way;
+
+(d) we do not have a subscription form that subscribes users to an unrelated list;
+
+(e) we do not send out unrelated offers or unrelated content to our recipients on our newsletter list; and
+
+(f) we do not email people who have requested to be removed from our mailing lists.
+
+ **11 Mailing practices**
+
+11.1 We do not modify the headers of any message in such a way that purposefully makes the origin of the message unclear.
+
+11.2 All undeliverable addresses are removed from all future mailings after no more than 3 bounces.
+
+11.3 All mailings provide clear and simple to follow instructions for opting-out of future mailings, and all reasonable attempts are made to facilitate the removal of a mailing list subscriber at their request.
+
+11.4 Information submitted to us is only available to employees managing this information for  the purposes of contacting members of our lists. We have security policies in place to ensure that our mailing list data is secure from theft and misuse.
+
+11.5 If you receive an email message that you think is spam which is sent from or sent on behalf of Getting Personal, please let us know the details of the email using the email address detailed below and we will then investigate the matter:
+
+11.6 If you have questions regarding our anti-spam policy, please contact us by sending an email to the following email address:
 
 business@gettingpersonal.co.uk
+
+ **12 Contact us**
+
+12.1 If you have any questions/comments about this Policy in general, you can email us at:
+
+business@gettingpersonal.co.uk
+
+12.2 You can also write to our Commercial Director at 1st Floor, Southmoor House, Southmoor Industrial Estate, Wythenshawe, M23 9XD.
+
+ **13 Changes to Policy**
+
+13.1 We keep our Policy under regular review. We may amend and update this Policy from time to time. Any changes in the future will be posted to the Website and where appropriate, through email.
+
+13.2 All comments, queries and requests relating to our use of your information are welcomed and should be addressed to: 
+
+business@gettingpersonal.co.uk
+
+13.3 This Policy was last updated on 3rd December 2015.
