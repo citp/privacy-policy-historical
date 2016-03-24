@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221164003id_/http%3A//www.cyfuture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325001817id_/http%3A//www.cyfuture.com/privacy.html) for the most accurate reproduction.*
 
 # Application Development Outsourcing India, Offshore BPO Services India
 
