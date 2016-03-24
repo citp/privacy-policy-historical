@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefudge.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114201509id_/http%3A//www.gamefudge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefudge.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324030311id_/http%3A//www.gamefudge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Page - Play it at GameFudge.com
 
