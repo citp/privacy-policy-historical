@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221091533id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324025655id_/https%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Customer Support | Tocris Bioscience
 
@@ -16,7 +16,7 @@ By visiting www.tocris.com you are accepting the practices described in this pol
 
 Solely for the purpose of processing your online order and to notify you regarding your order status, we will need to know your name, street address, phone number, Zip/Postal Code, state/county and country, email address, credit card and/or purchase order information, and VAT (Value Added Tax) information (if applicable). Once you place an online order with us an order confirmation, excluding your credit card number, will be sent to you via email.
 
-If for any reason you choose not to enter personally identifiable information online such as credit card information, your order can still be placed via our [customer services](http://www.tocris.com/contact.php "contact details for Tocris Bioscience") department. We assure you that no personally identifiable information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by yourself.
+If for any reason you choose not to enter personally identifiable information online such as credit card information, your order can still be placed via our [customer services](https://www.tocris.com/contact.php "contact details for Tocris Bioscience") department. We assure you that no personally identifiable information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by yourself.
 
 ### Forgotten Password
 
@@ -50,7 +50,7 @@ To maintain the privacy of our customers, Tocris Bioscience may update its priva
 
 ### Feedback
 
-Tocris collects user [feedback](http://www.tocris.com/feedback.php "at Tocris we welcome all comments and feedback"). Users who would like a response to specific questions concerning the service or their account registration are directed to contact [customer service](http://www.tocris.com/contact.php "contact details for Tocris Bioscience"). These questions will be responded to as quickly as possible. We read all of our customer service queries and use the information contained therein only to resolve the question at hand. We also periodically post surveys on our site. These surveys are optional and all information is collected anonymously. The information is collected to better understand our users' needs. This information will not be sold or transferred to any third party.
+Tocris collects user [feedback](https://www.tocris.com/feedback.php "at Tocris we welcome all comments and feedback"). Users who would like a response to specific questions concerning the service or their account registration are directed to contact [customer service](https://www.tocris.com/contact.php "contact details for Tocris Bioscience"). These questions will be responded to as quickly as possible. We read all of our customer service queries and use the information contained therein only to resolve the question at hand. We also periodically post surveys on our site. These surveys are optional and all information is collected anonymously. The information is collected to better understand our users' needs. This information will not be sold or transferred to any third party.
 
 * * *
 
@@ -106,10 +106,10 @@ dbm | AddThis | User preferences on whether to see toolbar download options.
 
 * * *
 
-Please complete a [customer enquiry form](http://www.tocris.com/enquiry.php "Send us your enquiries") if you don't find the answer you are looking for.
+Please complete a [customer enquiry form](https://www.tocris.com/enquiry.php "Send us your enquiries") if you don't find the answer you are looking for.
 
-Alternatively, please [contact us](http://www.tocris.com/contact.php "Support for Customers Worldwide") for further information and assistance.
+Alternatively, please [contact us](https://www.tocris.com/contact.php "Support for Customers Worldwide") for further information and assistance.
 
-View all [Customer Support](http://www.tocris.com/customerSupport.php "Answers to the most common questions that customer support are asked") common questions.
+View all [Customer Support](https://www.tocris.com/customerSupport.php "Answers to the most common questions that customer support are asked") common questions.
 
-Tocris is a Bio-Techne brand. To find out more please visit our [news page](http://www.tocris.com/news/pr-01-07-14.php).
+Tocris is a Bio-Techne brand. To find out more please visit our [news page](https://www.tocris.com/news/pr-01-07-14.php).
