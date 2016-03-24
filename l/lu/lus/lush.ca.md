@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lush.ca privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023013404id_/http%3A//www.lush.ca/Privacy-Policy/privacy-policy%2Cen_CA%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.ca privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324084244id_/http%3A//www.lush.ca/Privacy-Policy/privacy-policy%2Cen_CA%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -159,7 +159,7 @@ If you have any questions, comments or concerns about this privacy policy or our
 LUSH Fresh Handmade Cosmetics  
 8680 Cambie Street, Vancouver, British Columbia, Canada V6M 6P9  
 Attention: Privacy Officer  
-[customercare@lush.com](https://web.archive.org/web/20151023013404id_/http%3A//www.lush.ca/Privacy-Policy/customercare@lush.com)  
+[customercare@lush.com](https://web.archive.org/web/20160324084244id_/http%3A//www.lush.ca/Privacy-Policy/customercare@lush.com)  
 1-888-733-5874
 
-For additional information regarding the use of our Website please see our [Terms of Use](https://www.lush.ca/Terms-Conditions-of-Sale/terms,en_CA,pg.html) posted on the Website.
+For additional information regarding the use of our Website please see our [Terms of Use](http://www.lush.ca/Terms-Conditions-of-Sale/terms,en_CA,pg.html) posted on the Website.
