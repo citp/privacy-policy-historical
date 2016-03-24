@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessplanos.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910051639id_/http%3A//ewowbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessplanos.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324081610id_/http%3A//ewowbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# EwowBusiness domain name webste development
+# Privacy Policy - eWOWBUSINESS
 
 Your privacy is very important to EwowBusiness. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
