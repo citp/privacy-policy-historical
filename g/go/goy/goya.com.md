@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006003525id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324020517id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
 
 # Goya Foods: Privacy Policy
 
@@ -38,5 +38,5 @@ Any questions or complaints about [www.goya.com](http://www.goya.com/) or this p
 
 You may call us at 201-348-4900.  
 Please address all mail to:  
-100 Seaview Drive  
-Secaucus, NJ 07096 
+350 County Road  
+Jersey City, NJ 07307 
