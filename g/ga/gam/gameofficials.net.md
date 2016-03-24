@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameofficials.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905220903id_/https%3A//www.gameofficials.net/public/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameofficials.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324135519id_/https%3A//www.gameofficials.net/public/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # G a m e O f f i c i a l s . n e t - Privacy Policy
 
