@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sznpaste.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316231349id_/http%3A//sznpaste.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sznpaste.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324060129id_/http%3A//sznpaste.net/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
