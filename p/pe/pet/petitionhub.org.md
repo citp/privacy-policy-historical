@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910104447id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324191147id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PetitionHub.org
 
@@ -74,4 +74,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [PetitionHub.org](http://www.petitionhub.org/) | [PetitionHub.org Contact Information](http://www.petitionhub.org/contact.php)   
 [contact@petitionhub.org](mailto:contact@petitionhub.org)  
-This document was last updated on July 12, 2014
+This document was last updated on March 20, 2016
