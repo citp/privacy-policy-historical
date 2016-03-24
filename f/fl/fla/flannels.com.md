@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flannels.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626083816id_/http%3A//www.flannels.com/CustomerServices/OtherInformation/SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flannels.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093144id_/http%3A//www.flannels.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# Flannels > CustomerServices > Other Information > Security and Privacy
+# Security and Privacy | Flannels
 
 We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
@@ -24,14 +24,14 @@ When you supply your information to us you accept the risks associated with the 
 
 If you have any queries regarding our use of your personal information or this privacy policy, you should contact our Data Protection Compliance Officer by writing to Sportsdirect.com, Unit A, Brook Park, Meadow Lane, Shirebrook, Mansfield, Nottinghamshire, NG20 8RY.
 
-  
-
-
 ## Cookie Policy
 
 This policy explains what cookies are, how we use them and how you can switch them off.
 
-## **1\. How we use Cookies**
+  
+
+
+#### **1\. How we use Cookies**
 
 We use a combination of our own cookies and third party cookies to enhance your browsing experience and to enable our site to function efficiently. In particular, we use cookies to:
 
@@ -43,14 +43,14 @@ We use a combination of our own cookies and third party cookies to enhance your 
   
 
 
-## **2\. What are Cookies?**
+#### **2\. What are Cookies?**
 
 Cookies are small files which are stored on your internet browsing device (e.g computer, tablet or phone). Cookies don't store your personal details such as your credit card details, your name or your date of birth.
 
   
 
 
-## **3\. What types of Cookies do we use?**
+#### **3\. What types of Cookies do we use?**
 
 Our site uses session cookies and persistent cookies. Session cookies operate from the moment you log on to the site until the moment you log off. Once you log off session cookies are deleted. Persistent cookies will not be deleted after each session.
 
@@ -60,13 +60,13 @@ Our site uses session cookies and persistent cookies. Session cookies operate fr
 
 **Functionality Cookies** customise the look and appearance of our site. For example, a functionality cookie will remember your username and language preferences next time you visit.
 
-**Targetingor Advertising Cookies** deliver advertisements which are tailored to your web activity. A targeting cookie tracks what you click on whilst on our site, and may share details of what you click on with other organisations such as advertisers. These cookies can also help us to measure the effectiveness of an advertising campaign.
+**Targeting or Advertising Cookies** deliver advertisements which are tailored to your web activity. A targeting cookie tracks what you click on whilst on our site, and may share details of what you click on with other organisations such as advertisers. These cookies can also help us to measure the effectiveness of an advertising campaign.
 
 Third party cookies may be used on our website by approved organisations to provide services on our website.
 
   
 
 
-## **4\. What happens if I turn off Cookies?**
+#### **4\. What happens if I turn off Cookies?**
 
-If you disable or delete cookiesyou may not be able to shop or access important parts of our site. Further information on cookies, including instructions on how to amend your browser settings to turn off cookies, is available widely online.
+If you disable or delete cookies you may not be able to shop or access important parts of our site. Further information on cookies, including instructions on how to amend your browser settings to turn off cookies, is available widely online.
