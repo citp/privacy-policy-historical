@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911045330id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324205534id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stretching a Buck
+# Privacy Policy - Stretching a Buck | Stretching a Buck
 
 Your privacy is very important to me. Accordingly, I have developed this policy in order for you to understand how I collect, use, communicate and disclose and make use of personal information. The following outlines my privacy policy.
 
