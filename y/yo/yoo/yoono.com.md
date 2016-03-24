@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yoono.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911220850id_/http%3A//www.yoono.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoono.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324070143id_/http%3A//www.yoono.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Yoono
 
 ##  Privacy Policy - Last Modified on May 1, 2009 
 
-[Click here to see previous version](https://web.archive.org/web/20150911220850id_/http%3A//www.yoono.com/privacy_old.html)
+[Click here to see previous version](https://web.archive.org/web/20160324070143id_/http%3A//www.yoono.com/privacy_old.html)
 
 This Privacy Policy explains what information of yours will be collected by Yoono, Inc. ("Yoono," "we," or "us") when you use Yoono.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your personally identifiable information with anyone except as described in this Privacy Policy. As used in this Privacy Policy, "personally identifiable information" means information that identifies or can be used to identify or contact you, including your name, email address, postal address, and phone number, but not including your IP address (except in combination with one or more of the above). 
 
