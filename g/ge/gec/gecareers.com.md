@@ -1,71 +1,117 @@
-> *The following text is extracted and transformed from the gecareers.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208054420id_/http%3A//www.gecareers.com/ExperiencedProfessionals/candidate_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecareers.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324060840id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
-# GE - Careers : Career
+# GE Privacy Policy | Privacy Statement | GE
 
-  
-At GE we are committed to protecting your privacy. Your personal information will be used by GE for recruitment purposes. It will be protected internationally according to GE's Candidate Data Privacy Guidelines outlined below. 
+Last Updated September 15, 2014
 
-By submitting your personal information you agree that GE may process it for recruitment purposes and transfer it worldwide consistent with GE's Candidate Data Privacy Guidelines. 
+##  Web Privacy Policy 
 
-Your consent to provide this information is required in order to complete the submittal process. If you do not agree, click on the "x" button in the upper right hand corner and the submittal process will discontinue. 
+### Information GE Collects and How We Use It
 
-**Candidate Data Privacy Guidelines**
+#### Collection of personal information
 
-These guidelines are derived from the GE global Guidelines on Employment Data Protection and Privacy. They are intended to provide candidates with information about the processing of Candidate-related data. For the avoidance of doubt, these guidelines do not form part of your contract of employment (where applicable). GE may amend these guidelines from time to time, should it become necessary to do so. 
+You may choose to provide personal information (for example your name, address, telephone number and email address) on this or other GE websites, however not providing this may result in reduced functionality. GE’s usage of this information will be consistent with this Policy or the policy associated with the applicable GE site.
 
-GE respects the privacy rights and interests of its candidates and the following principles will be applied when dealing with information that relates to identified or identifiable candidates in connection with your interest in a GE position. This type of information will be referred to as "Candidate Data". 
+#### Children’s Privacy
 
-Data Privacy Principles 
+This website is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on this site or other GE sites. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen, we will delete the information from our records.
 
-  * Data will be collected for the purposes specified below and used accordingly. The collection and processing of the data will be limited to these purposes and you are hereby informed in advance of the purposes and uses of such data. 
-  * Data will be adequate, relevant and not excessive relative to the purposes for which they are processed. 
-  * Data will be as accurate as possible and, where necessary, kept up to date. 
-  * Data will not be kept longer than is appropriate or necessary for the purposes for which it is being processed or local legal requirements. 
-  * Data will be collected, used and retained in accordance with the legal rights of the data subjects. 
-  * Appropriate technical and physical measures will be taken to prevent unauthorized access, accidental loss, destruction or damage to data and any unauthorized organization, disclosure or processing. 
+#### Use of Cookies and Similar Technologies
+
+Like most companies, GE uses cookies and similar technologies (“cookies”) on our websites to facilitate and improve your online experience.  
+
+  **How we use cookies**  
+Cookies contain small amounts of information which are downloaded to your device when you visit our website.  Cookies are sent back to our website to allow us to recognize your device.  
+
+  Recognizing your device with _Essential Cookies_ allows our site to help you navigate efficiently to obtain the information and services you have requested.  
+
+  _Analytical and Customization Cookies_ allow our site to remember your preferences such as language selection and help you to view information that is most relevant to your interests; these cookies also help us to maintain and improve our websites by providing information on how visitors find and use the sites, and how well the sites are performing.  
+
+  In some cases _Advertising Cookies_ may be used to make advertising messages more relevant to you.  
+
+**Unless you disable the cookies on our website, by using our website you agree to our use of those cookies.**
+
+  **Making cookie choices**  
+You may see the list of GE and selected partner cookies on our website and make choices about those cookies by visiting our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428). In addition to our Cookie Consent Tool, most browsers allow you to manage cookie preferences.  If you decide to disable cookies on our site, you may not be able to take full advantage of all website features once you have done so,
+
+  **Sharing tools**  
+To enhance your experience on our websites, we sometimes embed content and sharing tools from other (third party) sites, such as “like” buttons from social networking sites; these third party sites may also place and access cookies on your device.  The third parties can be found in our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428). GE does not control the placement or access of these third party cookies.  You should check the relevant third party website(s) for more information about these cookies and whether and how you may make choices about them.
+
+#### Use of Personal Information
+
+We may use the personal information collected about you for the following purposes:
+
+  * Provide, administer and communicate with you about products, services, events, surveys and promotions by GE or our affiliates (including by sending you marketing communications);
+  * Process, evaluate and respond to your requests, inquiries and applications; Create, administer and communicate with you about your account (including any purchases and payments); Provide investor services; Verify your identity to ensure security for the other purposes listed here; Evaluate your interest in employment and contact you regarding possible employment; Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and websites; administering our websites; and performing accounting, auditing, billing, reconciliation and collection activities); Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality; Conduct investigations and comply and enforce applicable legal requirements or, industry standards and our policies and terms, such as this and other GE sites’ terms of use; and Ensure the safety of GE network services, information resources and employees.
 
 
 
-Processing 
+We also may use personal information for other additional purposes. We will identify these additional purposes at the time of collection.
 
-  * The Company processes Candidate Data fairly and lawfully for the purposes of your potential employment. 
-  * Processing for these purposes includes obtaining, recording, holding, organizing, transferring, adapting, amending, recovering, consulting, using, limiting, disclosure by transmission, dissemination or otherwise making available, aligning, blocking, destroying and erasing data. The Candidate Data that is processed includes, but is not limited, to: 
-    * Candidate status 
-    * Work history/job data 
-    * Education 
-    * Compensation 
-    * Employer feedback 
-    * Online questionnaire results 
-  * This list is not exhaustive and may be changed and/or added to from time to time. 
-  
-**_Information Collection_**
-      * Subject to local legal requirements, GE may use external services to collect, process and/or validate Candidate Data. GE requires that any such external service will ensure adequate protection for Candidate Data and complies with local legal requirements. 
-      * GE may collect candidate feedback and opinions periodically (e.g. surveys) for business purposes, such as improving processes, subject to local legal requirements. You may respond to these surveys voluntarily or may elect not to respond and will not suffer reprisals for your decision. These guidelines will be applicable to personal information provided as response to the surveys. 
-**_Disclosure Within GE_**
-      * To operate as a global business and to promote your career within GE, it is necessary to process and transfer Candidate Data both within GE businesses and GE affiliates. This will involve transferring Candidate Data outside the European Economic Area (EEA) to the USA and elsewhere. 
-      * Processing and/or transfer of Candidate Data and release of information within GE and/or to third parties outside the European Economic Area is subject to local law and, where required, will be subject to candidate consent, as well as ensuring adequate security measures. 
-**_Disclosure to Third Parties_**
-      * GE may be obliged to disclose certain Candidate Data to third parties such as Government Authorities. 
-      * It may be necessary to disclose certain Candidate Data to a supplier or contractor organization supplying services which require the use and/or creation of Candidate Data. 
-      * It may also be necessary to disclose Candidate Data so as to protect the legal interests and other rights of GE, subject to local legal requirements. 
-**_Candidate Data Security_**
-      * GE ensures adequate security to protect manual and electronic processing of Candidate Data and prevent its misuse, subject to local legal requirements. 
-      * Data sensitivity categories are separated by GE into high, medium, standard and public depending upon the type of data being protected and as appropriate, or otherwise in accordance with local categorization requirements. 
-      * GE also ensures adequate security is observed by third parties and affiliates processing Candidate Data on behalf of GE, subject to local legal requirements. 
-**_Sensitive Personal Data_**
-      * GE ensures special protection for Sensitive Personal Data. This is defined by GE as: 
-        * Demographic data (e.g. sex, race, color, ethnic or national origin, religion, philosophical or political beliefs, trade union membership and criminal proceedings); and 
-        * Medical data (e.g. pre-placement medicals, and other medical documents produced for the purposes of employment, such as, drug screen results); and 
-        * Personal financial data. 
-      * GE may process this type of data for the purposes of equal opportunities monitoring, or if it is prescribed by law, or it is needed for the protection of life, health or freedom, or if it is required for the performance of your employment contract, subject to appropriate security safeguards and local legal requirements. 
-      * If required by local law, explicit candidate consent may be obtained to the processing of sensitive personal data. 
-**_Data Collection and Candidate Access_**   
-Candidates may use various methods of submitting their Candidate Data to GE. These include email or paper submission to GE personnel, online resume submittal which is processed by a third party provider into an electronic database based in the U.S. accessible by GE authorized personnel, or via a GE employment application. In addition, some candidates may be invited to complete separate online questionnaires for our Leadership Programmes where automated decisions will be made based on your responses to the online questionnaires. If your Candidate Data is held in an electronic database, either through your submission process or from completing an online questionnaire: 
-      * You have the right to see Candidate Data that GE holds about you (subject to certain legal limitations). 
-      * You should send a request in writing to the Human Resources Data Protection Administrator at 3135 Easton Turnpike Mail Drop W2G, Fairfield, CT 06431 if you would like to view your Candidate Data, correct your Candidate Data or discuss the outcome of the results of your online questionnaire. Any letters sent to this address for any other purpose other than the above will not be responded to and will be discarded. 
-      * Human Resources Data Protection Administrator will confirm your rights of access to such Candidate Data. 
-      * GE will allow you to view your Candidate Data within a reasonable period, within relevant legal time limits and subject to local legal requirements. 
-      * You are encouraged to ensure that Candidate Data is kept up to date and amend Candidate Data that is inaccurate or out of date (e.g. name and address). 
-      * GE will endeavor to resolve any issues concerning your Candidate Data in accordance with relevant procedures. 
+### Sharing and Transferring of Your Personal Information
+
+#### Sharing & Transfers
+
+We do not sell or otherwise disclose personal information about our website visitors outside GE and its affiliates, except as described here.
+
+  * We may share information provided by our visitors to this and other GE sites with service providers we have retained to perform services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements.
+  * We may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials as required to comply with a legitimate legal request, or (iii) when we believe disclosure is necessary to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity.
+  * We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including through bankruptcy).
+
+
+
+#### Transmission
+
+We may transmit the personal information we collect on this site or other GE sites to other countries where we do business, including for websites accessed in the European Union, to the US, but we will do so only for the purposes described herein. GE has entered into Binding Corporate Rules governing our treatment of personal information of European Union residents. For further information about GE’s Binding Corporate Rules, please click [here](https://web.archive.org/bcr).
+
+### How We Protect Your Information
+
+At GE, our goal is to protect your personal information submitted to us through our sites. We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on this and other GE websites. We also employ reasonable technologies to help keep the personal information you provide on this site secure.
+
+### Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our online information practices. When changes are made to this Policy it will be posted to the website and the "last updated" date at the top of this policy will be revised. We also encourage users to periodically check this Policy to understand how GE protects and uses your information.
+
+### Links to Other Sites
+
+We provide links to other websites for your convenience and information. These sites may have their own privacy statements or policies in place, which we recommend you review if you visit any linked websites. We are not responsible for the content of linked sites or any use of the sites.
+
+### How to Contact Us and Update Your Personal Information
+
+If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences, please contact us by visiting our [Feedback & Inquiries Form](https://web.archive.org/contact/general).
+
+### Links to Other Sites
+
+We provide links to other web sites for your convenience and information. These sites may have their own privacy statements in place, which we recommend you review if you visit any linked web sites. We are not responsible for the content of linked sites or any use of the sites.
+
+### California Privacy Rights
+
+Annually California residents may request and obtain information that GE shared with other businesses for their own direct marketing use within the prior calendar year (as defined by California’s “Shine the Light Law”). If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which GE shared this information in the immediately preceding calendar year. To obtain this information, please send an email message to [CARequest@ge.com](mailto:CARequest@ge.com) with "California Shine the Light Privacy Request" in the subject line as well as in the body of your message. We will then respond to that email address with the requested information.
+
+##  Mobile Privacy Policy 
+
+### Mobile Information We Collect
+
+  * Personally identifiable information (e.g. Name, email address) we collect consists only of what you share with us. For example, certain products may ask for this type of information so that we may contact you by phone or email at your request. You choose what, how, and when you want to share.
+  * If you use any location-enabled products, you may be sending us location information. GE does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby restaurant you requested. Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
+  * Web-enabled mobile applications may use cookies or web beacons and other methods to customize your browsing experience. Please see GE's web privacy policy for more information.
+  * Some mobile applications will utilize Google Analytics (or similar tool) to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information will not identify you to GE. It may, however, let us know anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
+  * Use of 3rd party services such as social sharing sites (e.g., Facebook & Twitter) is governed by the privacy practices of those services. GE does not capture or store your login information or other personally identifiable information for these services, however session info or cookies may be stored.
+
+
+
+### Mobile How We Use Collected Information
+
+  * We use the information to personalize your experience with the application and to improve your overall experience including the development of new products, services, and features. We also use the information to provide customer support, and when applicable, register and administer your account. Additionally, we may use the information you provide to contact you about updates to our service.
+  * Information you provide may be used to fulfill the service(s) or carry out the transaction(s) you have requested or authorized. For example, if you authorize a purchase through a mobile eCommerce application, we will use provided information to ship and bill you.
+
+
+
+### Mobile Information sharing
+
+  * GE does not share any collected information with 3rd parties with the following exceptions:
+  * GE may provide some personal data to third-party partners that are providing services essential to your mobile user experience.
+  * All requests are sent through your mobile carrier's network and your carrier may have access to it. Consult your carrier's privacy policies for additional information.
+  * Certain mobile products and services and manufacturers allow you to interact and share your information with others. For example, you may want to Tweet or post to your Facebook page content from a GE mobile application. Consult your mobile device manufacturer, or mobile product or application developer's privacy policies for additional information.
 
 
