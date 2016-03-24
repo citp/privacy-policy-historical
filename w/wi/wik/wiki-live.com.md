@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiki-live.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029144808id_/http%3A//www.wiki-live.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiki-live.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324213917id_/http%3A//wiki-live.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wiki Live
 
