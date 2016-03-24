@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intrasight.net privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926073411id_/http%3A//www.zetainteractive.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intrasight.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324034557id_/http%3A//www.zetainteractive.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Zeta Interactive
+# Zeta Interactive
 
-##  [ Privacy Policy](http://www.zetainteractive.com/privacy-policy.html)
+## Privacy Policy
 
 Zeta Interactive is a leading provider of e–mail based marketing services and solutions. This Privacy Policy (also referred to herein as our “Policy”) has been created by Zeta Interactive as part of our commitment to data protection and privacy. Because you may provide us with personal information, we have developed this Policy to inform you of Zeta Interactive’s practices concerning such information. If you have additional questions about this Policy, please feel free to [email us.](mailto:info@zetainteractive.com?subject=Privacy)
 
@@ -65,7 +65,7 @@ We protect information we collect about you by maintaining physical, electronic 
 **How Will I Know About Changes to This Policy?**  
 Zeta Interactive may revise this Policy from time to time. If we decide to change our privacy policy, we will post those changes to this Privacy Policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Policy. You can determine when this Policy was last revised by checking the "Last Revised" legend at the top of the Policy.
 
-##  **Additional Privacy Information**
+###  Additional Privacy Information
 
 **How Does Zeta Interactive Protect the Privacy of Information It Collects and Manages on Behalf of Its Clients?**
 
@@ -79,11 +79,11 @@ Zeta Interactive may, however, share our clients’ customer data with a Zeta In
 
 Some of our clients independently use Zeta Interactive's technology platforms to design and send their direct mail or email campaigns without the involvement Zeta Interactive support staff. Zeta Interactive informs all of its clients in writing about its stringent Policy against sending unsolicited commercial email, or sending direct mail in a manner not consistent with Direct Marketing Association (DMA) guidelines. If Zeta Interactive determines that a client has knowingly used its systems for sending unsolicited commercial email, or direct mail in a manner inconsistent with DMA guidelines, it may revoke the client's permission to send direct mail or email using our products or our systems.
 
-##  US-EU Safe Harbor
+###  US-EU Safe Harbor
 
 Zeta Interactive complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Zeta Interactive has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Zeta Interactive’s certification, please visit <http://www.export.gov/safeharbor/>
 
-##  Contact Information
+###  Contact Information
 
 If you have a privacy issue that needs addressing, you may contact us via email at [info@zetainteractive.com](mailto:info@zetainteractive.com?subject=Privacy), or at the postal address below. You may also contact TRUSTe, our dispute resolution partner, by clicking [here](http://www.truste.com/about-TRUSTe/contact-us).
 
@@ -94,11 +94,11 @@ T: 212-967-5055
 F: 212-967.1028  
 Email: [info@zetainteractive.com](mailto:info@zetainteractive.com)
 
-##  Dispute Resolution
+###  Dispute Resolution
 
 Zeta Interactive's participates in the U.S. - E.U. Safe Harbor framework as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
 
-##  Fair Information Practices
+###  Fair Information Practices
 
 Zeta Interactive, or it subsidiaries, may collect data off–line directly from consumers or from other data collection sources in order to compile acquisition lists of various consumers who may be interested in receiving marketing materials from Zeta Interactive clients. Zeta Interactive respects and promotes consumer privacy and is committed to maintaining the balance between the legitimate information needs of businesses and the concerns of individuals and the public at large about fair information practices. In its consumer data collection practices, Zeta Interactive and all business with whom Zeta Interactive associates, employ the following fair information practices.
 
