@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyfungames.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922032414id_/http%3A//www.onlyfungames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyfungames.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324215540id_/http%3A//www.onlyfungames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
