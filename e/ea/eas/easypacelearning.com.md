@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the easypacelearning.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915130902id_/http%3A//www.easypacelearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypacelearning.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165327id_/http%3A//www.easypacelearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 Welcome to the Privacy Center of Easypacelearning, Easypacelearning respects your privacy. By this notice, we make a commitment to you that we' will protect your privacy.
 
@@ -14,7 +16,7 @@ When you are registered to be a member of Easypacelearning, it means that we can
 
 ## User E-mail and Password
 
-You are required to fill in your e-mail addresss and password when you register at Easypacelearning. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at [http://www.easypacelearning.com](http://www.easypacelearning.com/). Please use an e-mail address which is effective so we can keep in touch with you.
+You are required to fill in your e-mail addresss and password when you register at Easypacelearning. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at <http://www.easypacelearning.com/>. Please use an e-mail address which is effective so we can keep in touch with you.
 
   * You can change your password once you have logged in Easypacelearning Member's Area.
   * If you forget your password, you may lose your account and your personal identification information.
@@ -77,7 +79,7 @@ The information you offered will be reserved by us for three months in order to 
 
 ## External Links
 
-You may find some links to other websites in http://www.Easypacelearning.com and Easypacelearning has no responsibility for other websites privacy safeguards. We may add some related business company's websites to Easypacelearning at any time when needed, but the information we give to relating companies is just general information, we'll never publish your identification.
+You may find some links to other websites in http://www.easypacelearning.com and Easypacelearning has no responsibility for other websites privacy safeguards. We may add some related business company's websites to Easypacelearning at any time when needed, but the information we give to relating companies is just general information, we'll never publish your identification.
 
 ## The Revision of the Privacy Policy
 
@@ -86,3 +88,8 @@ The privacy policy of Easypacelearning improves continuously. With the expansion
 ## Contact Easypacelearning
 
 If you would like to contact us for any reason regarding our privacy practices, please write to us at the following email address: [support@easypacelearning.com](mailto:support@easypacelearning.com)
+
+  
+
+
+* * *
