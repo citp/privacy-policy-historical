@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218130150id_/http%3A//mtnfootball.com//content/443252/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324225658id_/http%3A//mtnfootball.com//content/443252/Privacy-Statement) for the most accurate reproduction.*
 
 # MTN Football - Privacy Statement
 
