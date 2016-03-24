@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003220809id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324225905id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -14,7 +14,7 @@ DomesticSale does not share your information with third parties for marketing pu
 
 DomesticSale collect traditional contact information such as your name, mailing and/or billing address, phone number and email address for few purposes: to send selfpublishing and confirmation emails, to authenticate user accounts, to provide subscription email services, to register for forums, to process any credit card charges, etc.
 
-DomesticSale does not store full credit card information but DomesticSale may store the information partially, such as only last 4 digits of your credit card number for transactions authenticating, monitoring and fraud prevention purpose. All credit card transactions initiated by DomesticSale are transmitted through a financial gateway using encrypted Secure Socket Layer (SSL 128 Bit) protocol.
+DomesticSale does not store full credit card information but DomesticSale may store the information partially, such as only last 4 digits of your credit card number for transactions authenticating, monitoring and fraud prevention purpose. All credit card transactions initiated by DomesticSale are transmitted through a financial gateway using encrypted Secure Socket Layer (SSL) protocol.
 
 Your personal information may be collected by DomesticSale if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
 
@@ -41,12 +41,12 @@ Testimonials
 I love this site too! The guy who set this up **really knows** what we shoe people need. Thanks!! :)  
 ELENITA SCHNEIDER 
 
-**Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!  
-Rebecca  
-_Gainesville, Florida_
+**This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
+Perry Pono  
+_Rhode Island_
 
-I was having a difficult time selling my pups...then I added them to Domesticsale.com. **Within 2 weeks they were sold**. I had over 300 hits! I'll come here first next time! Thanks so much!  
-_Mineral Wells, WV_
+This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!! 
 
-This is a very nice site, I **sold my car** in few days!!!  
-Thank You. Steve. 
+Bravo Domestic sale team! The **best website** for free ads i ever seen(and i have seen some)! Excellent job! Keep it up!  
+Best Regards, Melania  
+_Santiago, Chile_
