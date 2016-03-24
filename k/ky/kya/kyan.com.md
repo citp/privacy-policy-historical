@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyan.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120234839id_/http%3A//kyan.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyan.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324200850id_/http%3A//kyan.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Kyan
 
@@ -62,3 +62,5 @@ Users have the right to ask Kyan for a copy of the personal data held about them
 
 
 
+
+[ ](https://web.archive.org/work_for_kyan)
