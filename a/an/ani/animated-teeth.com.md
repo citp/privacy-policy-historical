@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animated-teeth.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208183221id_/http%3A//www.animated-teeth.com/reference/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animated-teeth.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/reference/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Animated-Teeth.com and its owner WMDS, Inc.
 
@@ -79,7 +79,7 @@ If we decide to change our privacy policy we will post those changes in this pri
 
 If users of Animated-Teeth.com have any questions or suggestions regarding our privacy policy, they should contact us at:
 
-Postal address:
+##### Postal address:
 
 > WMDS, Inc.  
 > 2238 Bluff Boulevard  
@@ -87,10 +87,12 @@ Postal address:
 > (573) 875-2146  
 > 
 
-Email contact:
+[Contact policy.](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/reference/comments.htm)
 
-> This link will direct you to our [general contact email address.](https://web.archive.org/web/20151208183221id_/http%3A//www.animated-teeth.com/reference/comments.htm)
+##### Email contact:
+
+> This link will direct you to our [general contact email address.](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/reference/comments.htm)
 
 (September 21, 2015)
 
-[](https://web.archive.org/web/20151208183221id_/http%3A//www.animated-teeth.com/site-search.htm)
+[](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/site-search.htm)
