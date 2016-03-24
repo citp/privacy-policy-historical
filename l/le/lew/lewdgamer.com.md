@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lewdgamer.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317111306id_/https%3A//www.lewdgamer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewdgamer.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324104839id_/https%3A//www.lewdgamer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LewdGamer.com
+# Privacy Policy - LewdGamer.com
+
+Posted by: [ superlewd ](https://www.lewdgamer.com/author/superlewd/) 13 March 2015 
 
 This Privacy Policy governs the manner in which LewdMedia LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.lewdgamer.com](https://www.lewdgamer.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by LewdMedia LLC.
 
@@ -20,13 +22,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 LewdMedia LLC may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
@@ -63,10 +65,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[LewdMedia LLC](https://www.lewdgamer.com/)  
-[https://www.lewdgamer.com](https://www.lewdgamer.com/)  
-LewdMedia LLC 5 orchid ln Stafford, Va  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
 contact@lewdgamer.com
 
 This document was last updated on March 11, 2015
