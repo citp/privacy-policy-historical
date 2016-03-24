@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218013430id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324193328id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # JD Supra
 
