@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sebarin.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103175406id_/http%3A//www.sebarin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sebarin.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324160530id_/http%3A//www.sebarin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
