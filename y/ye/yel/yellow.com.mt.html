@@ -1,16 +1,20 @@
-<!--The following is the downloaded HTML source of the yellow.com.mt privacy policy that was archived on 2015-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323160027id_/https%3A//www.yellow.com.mt/yp/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellow.com.mt privacy policy that was archived on 2016-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324124429id_/https%3A//www.yellow.com.mt/yp/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 		
-		<title>Yellow, Discover Local - Malta &amp; Gozo</title>
-		<link rel="stylesheet" type="text/css" media="screen" href="/yp_css.css">
+		
+		<title>Privacy Policy - Yellow, Discover Local - Malta &amp; Gozo</title>
+		<meta name="author" content="https://plus.google.com/+yellowpagesmalta">
+		<link rel="stylesheet" type="text/css" media="screen" href="/y_css.css?t=1458821611">
+		<link rel="stylesheet" type="text/css" media="screen" href="/responsive.css?t=1458821611">
 		<link rel="icon" type="image/png" href="https://www.yellow.com.mt/favicon.png">
 		
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script language="javascript" src="/scripts/jquery.js"></script>
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script language="javascript" src="/scripts/jquery.js"></script>		
+		
 		
 <script type="text/javascript">
 	$(window).scroll(function () {
@@ -51,18 +55,26 @@ function check(e)
 	else
 	{	
 		var searched = $("#yp_search").val();
-		var ga_searched = 'L2-Search-' + searched;
-		ga('send', 'event', ga_searched, 'Submit Form');
 		
-		var searched_field = searched.replace('&', '*and*');
-		
-		$.ajax({
-			'async': false,
-			'type': 'POST',
-			'url': 'https://www.yellow.com.mt/statistics.html?action=2||53||||||https://www.yellow.com.mt/search/'+searched_field+'||https://www.yellow.com.mt/yp/privacy-policy.html||'+searched_field+'||||'
-		});
-		
-		$("#ac_form").get(0).setAttribute("action", "https://www.yellow.com.mt/search/" + searched);
+		if (searched != '')
+		{
+			var ga_searched = 'L2-Search-' + searched;
+			ga('send', 'event', ga_searched, 'Submit Form');
+			
+			var searched_field = searched.replace('&', '*and*');
+			
+			$.ajax({
+				'async': false,
+				'type': 'POST',
+				'url': 'https://www.yellow.com.mt/statistics.html?action=2||53||||||https://www.yellow.com.mt/search/'+searched_field+'||https://www.yellow.com.mt/yp/privacy-policy.html||'+searched_field+'||||'
+			});
+			
+			$("#ac_form").get(0).setAttribute("action", "https://www.yellow.com.mt/search/" + searched);
+		}	
+		else
+		{
+			return false;
+		}
 	}
 }
 </script>
@@ -135,7 +147,7 @@ function check(e)
 				}
 			});
 
-
+			var ajax_request;
 			function doneTyping () 
 			{
 				var query = $("#yp_search").val();
@@ -146,8 +158,13 @@ function check(e)
 				} 
 				else if(query.length > 1) 
 				{
-					$.post("https://www.yellow.com.mt/development-tools/search_results.html", {search: ""+query+"", level: "2", current: "https://www.yellow.com.mt/yp/privacy-policy.html"}, function(data) {
-						$(".yp_results").fadeIn(); 
+					if(typeof ajax_request !== 'undefined')
+					{
+						ajax_request.abort();
+					}
+				
+					ajax_request = $.post("https://www.yellow.com.mt/development-tools/search_results.html", {search: ""+query+"", level: "2", current: "https://www.yellow.com.mt/yp/privacy-policy.html"}, function(data) {
+						$(".yp_results").fadeIn();
 						$(".yp_results .section").html(data);
 						
 						var $scrollbar3 = $("#scrollbar3");
@@ -157,11 +174,10 @@ function check(e)
 					});
 					
 					var searched_query = query.replace('&', '*and*');
-					$.ajax({
-						'async': false,
-						'type': 'POST',
-						'url': 'https://www.yellow.com.mt/statistics.html?action=2||88||||||||https://www.yellow.com.mt/yp/privacy-policy.html||'+searched_query+'||||'
-					});
+					
+					$.post("https://www.yellow.com.mt/statistics.html", {action: "2||88||||||||https://www.yellow.com.mt/yp/privacy-policy.html||"+searched_query+"||||" }, function(data) {});
+					
+					
 				}
 			}
 		});
@@ -216,26 +232,22 @@ function check(e)
 		}
 			
 		$(document).ready(function() {
-			action("pageload||https://www.yellow.com.mt/yp/privacy-policy.html||https://www.yellow.com.mt/","");
+			action("pageload||https://www.yellow.com.mt/yp/privacy-policy.html||https://www.yellow.com.mt/scoglitti-restaurant/malta-gozo","");
 		});
 		</script>
 		
-		<script>(function() {
-		  var _fbq = window._fbq || (window._fbq = []);
-		  if (!_fbq.loaded) {
-			var fbds = document.createElement('script');
-			fbds.async = true;
-			fbds.src = '//connect.facebook.net/en_US/fbds.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(fbds, s);
-			_fbq.loaded = true;
-		  }
-		  _fbq.push(['addPixelId', '1556249997931073']);
-		})();
-		window._fbq = window._fbq || [];
-		window._fbq.push(['track', 'PixelInitialized', {}]);
-		</script>
-		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1556249997931073&amp;ev=PixelInitialized" /></noscript>
+		<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','//connect.facebook.net/en_US/fbevents.js');
+		
+		fbq('init', '1556249997931073');
+		fbq('track', "PageView");</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=1556249997931073&ev=PageView&noscript=1"
+		/></noscript>
 		
 		<script>
 		 (function(f,b){
@@ -288,15 +300,16 @@ function check(e)
 	  ga('require', 'displayfeatures');
 	  ga('send', 'pageview');
 	</script>
+		
 	</head>
 	<body oncontextmenu="return false" class="about_body">
 		
 		<div class="outside  header_yellow">
 			<div class="inside">
 				<div id="header">
-					<div class="logo" onclick="action('2||49||||||https://www.yellow.com.mt/||http://www.yellow.com.mt/yp/privacy-policy.html||||||','L2-Logo');">
-						<a href="https://www.yellow.com.mt/" alt="Yellow Pages" title="Yellow Pages">
-							<img src="/images/yellow-dark.svg" alt="Yellow Pages" title="Yellow Pages">
+					<div class="logo" onclick="action('2||49||||||https://www.yellow.com.mt/||https://www.yellow.com.mt/yp/privacy-policy.html||||||','L2-Logo');">
+						<a href="https://www.yellow.com.mt/" alt="Yellow, Discover Local" title="Yellow, Discover Local">
+							<img src="/images/yellow-dark.svg" alt="Yellow, Discover Local" title="Yellow, Discover Local">
 						</a>
 					</div>
 					
@@ -319,10 +332,23 @@ function check(e)
 					<div class="menu">
 						<ul>
 							<li>
-								<a onclick="action('2||47||||||https://www.yellow.com.mt/advertise/why-advertise-with-us.html||http://www.yellow.com.mt/yp/privacy-policy.html||||||Advertise','L2-Advertise');" href="https://www.yellow.com.mt/advertise/why-advertise-with-us.html" alt="Advertise" title="Advertise">Advertise</a>
+								<a onclick="action('2||47||||||https://www.yellow.com.mt/tips/||https://www.yellow.com.mt/yp/privacy-policy.html||||||Tips','L2-Tips');" href="https://www.yellow.com.mt/tips/" alt="Tips - Yellow, Discover Local" title="Tips - Yellow, Discover Local">Tips</a>
 							</li>
+							<li>
+								<a onclick="action('2||47||||||https://www.yellow.com.mt/app.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||App','L2-App');" href="https://www.yellow.com.mt/app.html" alt="Yellow App" title="Yellow App">App</a>
+							</li>
+							<li>
+								<a onclick="action('2||47||||||https://www.yellow.com.mt/weather.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Weather','L2-Weather');" href="https://www.yellow.com.mt/weather.html" alt="Weather in Malta &amp; Gozo" title="Weather in Malta &amp; Gozo">Weather</a>
+							</li>
+							<li class="last_career">
+								<a onclick="action('2||47||||||https://www.yellow.com.mt/advertise/why-advertise-with-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Advertise','L2-Advertise');" href="https://www.yellow.com.mt/advertise/why-advertise-with-us.html" alt="Advertise - Yellow, Discover Local" title="Advertise - Yellow, Discover Local">Advertise</a>
+							</li>
+							
+							<!--<li class="last_career">
+								<a onclick="action('2||47||||||https://www.yellow.com.mt/corporate/careers.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Careers','L2-Careers');" href="https://www.yellow.com.mt/corporate/careers.html" alt="Careers" title="Careers">Careers<span class="career_icon"></span></a>
+							</li>-->
 							<li class="last">
-								<a onclick="action('2||47||||||https://www.yellow.com.mt/contact/contact-us.html||http://www.yellow.com.mt/yp/privacy-policy.html||||||Contact','L2-Contact');" href="https://www.yellow.com.mt/contact/contact-us.html" alt="Contact" title="Contact">Contact</a>
+								<a onclick="action('2||47||||||https://www.yellow.com.mt/contact/contact-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Contact','L2-Contact');" href="https://www.yellow.com.mt/contact/contact-us.html" alt="Contact - Yellow, Discover Local" title="Contact - Yellow, Discover Local">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -354,10 +380,10 @@ function check(e)
 						<p class="title">Corporate</p>
 						<ul>
 							<li>
-								<a onclick="action('2||54||||||https://www.yellow.com.mt/corporate/about-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||about-us','L2-corporate');" href="https://www.yellow.com.mt/corporate/about-us.html" alt="About Us" title="About Us">About Us</a>
+								<a onclick="action('2||54||||||https://www.yellow.com.mt/corporate/about-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||about-us','L2-corporate');" href="https://www.yellow.com.mt/corporate/about-us.html" alt="About Us - Yellow, Discover Local" title="About Us - Yellow, Discover Local">About Us</a>
 							</li>
 							<li>
-								<a onclick="action('2||54||||||https://www.yellow.com.mt/corporate/careers.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||careers','L2-corporate');" href="https://www.yellow.com.mt/corporate/careers.html" alt="Careers" title="Careers">Careers</a>
+								<a onclick="action('2||54||||||https://www.yellow.com.mt/corporate/careers.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||careers','L2-corporate');" href="https://www.yellow.com.mt/corporate/careers.html" alt="Careers - Yellow, Discover Local" title="Careers - Yellow, Discover Local">Careers</a>
 							</li>
 						</ul>
 					</div>
@@ -366,7 +392,7 @@ function check(e)
 						<p class="title">Advertise</p>
 						<ul>
 							<li>
-								<a onclick="action('2||54||||||https://www.yellow.com.mt/advertise/why-advertise-with-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||why-advertise-with-us','L2-advertise');" href="https://www.yellow.com.mt/advertise/why-advertise-with-us.html" alt="Why advertise with us?" title="Why advertise with us?">Why advertise with us?</a>
+								<a onclick="action('2||54||||||https://www.yellow.com.mt/advertise/why-advertise-with-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||why-advertise-with-us','L2-advertise');" href="https://www.yellow.com.mt/advertise/why-advertise-with-us.html" alt="Why advertise with us? - Yellow, Discover Local" title="Why advertise with us? - Yellow, Discover Local">Why advertise with us?</a>
 							</li>
 						</ul>
 					</div>
@@ -375,7 +401,7 @@ function check(e)
 						<p class="title">Services</p>
 						<ul>
 							<li>
-								<a onclick="action('2||54||||||https://www.yellow.com.mt/services/emergency-numbers.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||emergency-numbers','L2-services');" href="https://www.yellow.com.mt/services/emergency-numbers.html" alt="Emergency Numbers" title="Emergency Numbers">Emergency Numbers</a>
+								<a onclick="action('2||54||||||https://www.yellow.com.mt/services/emergency-numbers.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||emergency-numbers','L2-services');" href="https://www.yellow.com.mt/services/emergency-numbers.html" alt="Emergency Numbers - Yellow, Discover Local" title="Emergency Numbers - Yellow, Discover Local">Emergency Numbers</a>
 							</li>
 						</ul>
 					</div>
@@ -384,21 +410,21 @@ function check(e)
 						<p class="title">Contact</p>
 						<ul>
 							<li>
-								<a onclick="action('2||54||||||https://www.yellow.com.mt/contact/contact-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||contact-us','L2-contact');" href="https://www.yellow.com.mt/contact/contact-us.html" alt="Contact Us" title="Contact Us">Contact Us</a>
+								<a onclick="action('2||54||||||https://www.yellow.com.mt/contact/contact-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||contact-us','L2-contact');" href="https://www.yellow.com.mt/contact/contact-us.html" alt="Contact Us - Yellow, Discover Local" title="Contact Us - Yellow, Discover Local">Contact Us</a>
 							</li>
 							<li>
-								<a href="https://www.yellow.com.mt/contact/forms1.html" alt="Forms" title="Forms">Forms</a>
+								<a href="https://www.yellow.com.mt/contact/forms1.html" alt="Forms - Yellow, Discover Local" title="Forms - Yellow, Discover Local">Forms</a>
 							</li>
 						</ul>
 					</div>
 	
 					<div class="column">
 						<p class="title social_title">Follow Us</p>
-						<div class="social_buttons"><a onclick="action('2||54||||||http://www.facebook.com/yellowmalta||https://www.yellow.com.mt/yp/privacy-policy.html||||||Facebook');" class="social facebook" target="_blank" href="http://www.facebook.com/yellowmalta" alt="Follow on Facebook" title="Follow on Facebook">fb</a><a onclick="action('2||54||||||http://www.twitter.com/YellowMalta||https://www.yellow.com.mt/yp/privacy-policy.html||||||Twitter');" class="social twitter" target="_blank" href="http://www.twitter.com/YellowMalta" alt="Follow on Twitter" title="Follow on Twitter">tt</a><a onclick="action('2||54||||||https://plus.google.com/+yellowpagesmalta||https://www.yellow.com.mt/yp/privacy-policy.html||||||GooglePlus');" class="social googleplus" target="_blank" href="https://plus.google.com/+yellowpagesmalta" alt="Follow on Google" title="Follow on Google">gp</a>
+						<div class="social_buttons"><a onclick="action('2||54||||||http://www.facebook.com/yellowmalta||https://www.yellow.com.mt/yp/privacy-policy.html||||||Facebook','L2-Facebook');" class="social facebook" target="_blank" href="http://www.facebook.com/yellowmalta" alt="Follow on Facebook" title="Follow on Facebook">fb</a><a onclick="action('2||54||||||http://www.twitter.com/YellowMalta||https://www.yellow.com.mt/yp/privacy-policy.html||||||Twitter','L2-Twitter');" class="social twitter" target="_blank" href="http://www.twitter.com/YellowMalta" alt="Follow on Twitter" title="Follow on Twitter">tt</a><a onclick="action('2||54||||||https://plus.google.com/+yellowpagesmalta||https://www.yellow.com.mt/yp/privacy-policy.html||||||GooglePlus','L2-GooglePlus');" class="social googleplus" target="_blank" href="https://plus.google.com/+yellowpagesmalta" alt="Follow on Google" title="Follow on Google">gp</a>
 						</div>
 					</div>
 					<div class="column">
-						<ul class="footer_menu"><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/disclaimer.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||disclaimer','L2-disclaimer');" href="https://www.yellow.com.mt/yp/disclaimer.html" alt="Disclaimer" title="Disclaimer">Disclaimer</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/terms-conditions.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||terms-conditions','L2-terms-conditions');" href="https://www.yellow.com.mt/yp/terms-conditions.html" alt="Terms &amp; Conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/website-terms-conditions.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||website-terms-conditions','L2-website-terms-conditions');" href="https://www.yellow.com.mt/yp/website-terms-conditions.html" alt="Website Product T&amp;C's" title="Website Product T&amp;C's">Website Product T&amp;C's</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/cookie-policy.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||cookie-policy','L2-cookie-policy');" href="https://www.yellow.com.mt/yp/cookie-policy.html" alt="Cookie Policy" title="Cookie Policy">Cookie Policy</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/privacy-policy.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||privacy-policy','L2-privacy-policy');" href="https://www.yellow.com.mt/yp/privacy-policy.html" alt="Privacy Policy" title="Privacy Policy">Privacy Policy</a></li>
+						<ul class="footer_menu"><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/disclaimer.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||disclaimer','L2-disclaimer');" href="https://www.yellow.com.mt/yp/disclaimer.html" alt="Disclaimer - Yellow, Discover Local" title="Disclaimer - Yellow, Discover Local">Disclaimer</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/terms-conditions.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||terms-conditions','L2-terms-conditions');" href="https://www.yellow.com.mt/yp/terms-conditions.html" alt="Terms &amp; Conditions - Yellow, Discover Local" title="Terms &amp; Conditions - Yellow, Discover Local">Terms &amp; Conditions</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/website-terms-conditions.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||website-terms-conditions','L2-website-terms-conditions');" href="https://www.yellow.com.mt/yp/website-terms-conditions.html" alt="Website Product T&amp;C's - Yellow, Discover Local" title="Website Product T&amp;C's - Yellow, Discover Local">Website Product T&amp;C's</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/cookie-policy.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||cookie-policy','L2-cookie-policy');" href="https://www.yellow.com.mt/yp/cookie-policy.html" alt="Cookie Policy - Yellow, Discover Local" title="Cookie Policy - Yellow, Discover Local">Cookie Policy</a></li><li><a onclick="action('2||54||||||https://www.yellow.com.mt/yp/privacy-policy.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||privacy-policy','L2-privacy-policy');" href="https://www.yellow.com.mt/yp/privacy-policy.html" alt="Privacy Policy - Yellow, Discover Local" title="Privacy Policy - Yellow, Discover Local">Privacy Policy</a></li>
 						</ul>
 					</div>
 				</div>
@@ -406,8 +432,7 @@ function check(e)
 		</div>
 		<div class="outside grey copyright">
 			<div class="inside">
-				<div id="footer_copyright">
-					
+				<div id="footer_copyright"><h2>Yellow, Discover Local - Search Malta &amp; Gozo © 2016</h2>
 				</div>
 			</div>
 		</div>
