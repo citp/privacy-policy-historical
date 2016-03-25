@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouffer.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324021738id_/http%3A//ouffer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouffer.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325161418id_/http%3A//ouffer.com/privacy) for the most accurate reproduction.*
 
 # Ouffer - Privacy
 
@@ -44,6 +44,8 @@ Please take a few minutes to review this Privacy Policy. By using the Ouffer.com
       (c) sending you additional materials relating to Ouffer.com and products and services that may be of interest to you; and 
 
       (d) providing you with effective customer service. 
+
+      (e) delivering the products and services you purchased or requested (please note that this may include providing your Personal Information to third parties to enable the delivery of products and services which you purchased or requested). 
 
 2.2 Ouffer.com also holds Personal Information which it Uses and/or Discloses for purposes other than its Primary Purposes (Secondary Purposes). You provide your consent to us Using and/or Disclosing your Personal Information for the following Secondary Purposes:
 
