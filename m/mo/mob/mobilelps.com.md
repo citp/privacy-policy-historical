@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilelps.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512011650id_/http%3A//mobilelps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilelps.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325072608id_/http%3A//mobilelps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mobilelps.com
 
