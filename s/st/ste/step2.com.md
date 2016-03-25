@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027100240id_/http%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325151113id_/http%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy at Step2
 
-Effective Date: 6/05/2015 
+Effective Date: 3/11/2016 
 
 The TRUSTe program covers only information that is collected through this website, www.step2.com and does not cover information that may be collected through software downloaded from the website. 
 
@@ -123,7 +123,7 @@ You can log in to our website using sign-in services such as Facebook Connect or
 
 **Collection and Use of Third Party Personal Information**
 
-You may also provide personal information about other people, such as their name, shipping address and phone number. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. 
+You may also provide personal information about other people, such as their name, shipping address and phone number. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. To request removal of such third party personal information from our database, contact us at [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net). 
 
 **Contest**
 
@@ -137,4 +137,4 @@ When you use our website, you acknowledge your acceptance of this privacy policy
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net) or 10010 Aurora-Hudson Road, Streetsboro, OH 44241 
 
-[](https://privacy.truste.com/privacy-seal/The-Step2-Company,-LLC/validation?rid=43fac991-7633-4e5c-bb43-8ec1632814e3 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=43fac991-7633-4e5c-bb43-8ec1632814e3 "TRUSTe Privacy Certification")
