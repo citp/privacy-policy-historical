@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922041853id_/https%3A//www.samanage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325161423id_/https%3A//www.samanage.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Samanage
 
-_Effective date: 01/26/2014_
+_Effective date: 12/17/2015_
 
 ## Purpose
 
 This privacy policy applies to www.samanage.com owned and operated by Samanage.
 
-Samanage respects the privacy of anyone who uses a Samanage website ([www.samanage.com](http://www.samanage.com/)) or the Samanage Service. Samanage publishes this Privacy Policy to communicate how we gather and use information about you and how we protect it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Samanage respects the privacy of anyone who uses a Samanage website ([www.samanage.com](https://www.samanage.com/)) or the Samanage Service. Samanage publishes this Privacy Policy to communicate how we gather and use information about you and how we protect it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 [](https://privacy.truste.com/privacy-seal/Samanage/validation?rid=f72f7061-212e-4e34-9611-47d894665a40 "TRUSTe online privacy certification")
 
-**TRUSTe Statement.** Samanage has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software and through our mobile site. The TRUSTe certification covers our collection, use and disclosure of information we collect through our website www.samanage.com and our software as a site, “app.samanage.com/login”. The use of information collected through our service shall be limited to the purpose of providing the service for which the customer has engaged Samanage.
+**TRUSTe Statement.** The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.samanage.com](https://www.samanage.com/) and our software as a site, “[app.samanage.com/login](https://app.samanage.com/login)”. The use of information collected through our service shall be limited to the purpose of providing the service for which the customer has engaged Samanage.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Information Related to Data Collected for our Customers
 
@@ -30,13 +30,13 @@ We require customers who use the Samanage service ( **Service** ) to give us con
 
 Samanage uses the information collected to provision and deliver the Service for organizations. We may also use the information to contact customers to further discuss customer interest in our Service, and to send information regarding our company and our partners, such as marketing promotions, newsletters, and invitations to participate in events. Other than in connection with provision of the Service, customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to [support@samanage.com](mailto:support@samanage.com)
 
-Except as stated at the time we request information, or as contemplated in this policy or the [Samanage Master Subscription Agreement](http://www.samanage.com/eula.html) or required by law, we do not disclose any personally identifiable information (including, without limitation, email addresses) that is provided by customers to third parties. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+Except as stated at the time we request information, or as contemplated in this policy or the [Samanage Master Subscription Agreement](https://www.samanage.com/eula.html) or required by law, we do not disclose any personally identifiable information (including, without limitation, email addresses) that is provided by customers to third parties. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
 Samanage may employ other companies and people to perform tasks on our behalf and need to share customer information with them to provide the Services. Examples include billing, fulfilling orders, provisioning, sending emails, providing marketing assistance, processing credit card payments, and providing customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 We may utilize a tool that enables us to monitor visitors inputs (which includes mouse and keyboard actions), but we will only save information regarding the time and date of such inputs and the related input field. In addition, as part of the registration process, we will collect and store information filled out by you in the registration form, which may be later retrieved in case that the registration process was interrupted and needs to be reinitiated. We may also use this information to contact you for technical assistance reasons and/or sales purposes.
 
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [www.samanage.com](http://www.samanage.com/).
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [www.samanage.com](https://www.samanage.com/).
 
 ## Protection of Company and Others
 
@@ -46,7 +46,7 @@ We may choose to buy or sell assets during the normal course of business. Custom
 
 ## Customer Data
 
-Customers using the Service will be storing data and information ( **Customer Data** ), and will connect the Service to customers’ computers using the Samanage Agent ( **Agent** ) for the purpose of collecting configuration and inventory data and storing data together with the Customer Data. Samanage will not review, share, distribute, print, or reference any Customer Data except as provided in this policy or in the [Samanage Master Subscription Agreement](http://www.samanage.com/eula.html) or as may be required by law, and except for the purposes of deploying, supporting or enhancing the Service. Customers are responsible for maintaining the confidentiality and security of their user registration and password.
+Customers using the Service will be storing data and information ( **Customer Data** ), and will connect the Service to customers’ computers using the Samanage Agent ( **Agent** ) for the purpose of collecting configuration and inventory data and storing data together with the Customer Data. Samanage will not review, share, distribute, print, or reference any Customer Data except as provided in this policy or in the [Samanage Master Subscription Agreement](https://www.samanage.com/master-subscription-agreement/prior-to-jan-2016/) or as may be required by law, and except for the purposes of deploying, supporting or enhancing the Service. Customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
 Customers who are Covered Entities or Business Associates under the Health Insurance Portability and Accountability Act of 1996 as amended (“HIPAA”) must agree to comply with the HIPAA Privacy and Security Rules, including without limitation the Minimum Necessary Rule at 45 CFR 164.502(b). While Samanage has put safeguards in place consistent with those required by the HIPAA Privacy and Security Rules, because of the nature of Samanage’s service, Samanage does not expect to receive any Protected Health Information (PHI) from Covered Entities or Business Associates. Because Samanage does not review Customer Data, as set forth above, Customer understands and accepts that Samanage will not be able to provide the identities of individuals whose PHI is in Samanage’s system for any HIPAA reporting obligations.
 
@@ -71,7 +71,7 @@ We use cookies for Marketing purposes, to remember users’ settings (e.g. langu
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol ( **IP** ) addresses, browser type, internet service provider ( **ISP** ), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-We use Local Storage Objects ( **LSOs** ) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.
+We use Local Storage Objects ( **LSOs** ) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use Flash cookies or HTML 5 to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
