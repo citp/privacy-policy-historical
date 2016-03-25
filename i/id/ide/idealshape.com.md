@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the idealshape.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009072409id_/http%3A//www.idealshape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealshape.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325160025id_/http%3A//www.idealshape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Welcome to IdealShape, LLC. IdealShape has created the following privacy policy to demonstrate our commitment to protecting your privacy, and to disclose our information-gathering and dissemination practices. This online privacy policy is here to tell you about, among other things, the information IdealShape collects through our Web site, how we use that information, how you can opt out of certain uses of the information we collect, and how IdealShape can make changes to this privacy policy. Please let us know if you have any questions regarding this privacy policy by contacting us at [privacy@IdealShape.com](mailto:privacy@beachbody.com).
+Welcome to IdealShape, LLC. IdealShape has created the following privacy policy to demonstrate our commitment to protecting your privacy, and to disclose our information-gathering and dissemination practices. This online privacy policy is here to tell you about, among other things, the information IdealShape collects through our Web site, how we use that information, how you can opt out of certain uses of the information we collect, and how IdealShape can make changes to this privacy policy. Please let us know if you have any questions regarding this privacy policy by contacting us at [customerservice@idealshape.com](mailto:customerservice@idealshape.com).
 
 **A note about children’s privacy…**
 
@@ -50,7 +50,7 @@ IdealShape’s Use of Personal Information and Non-Personal Information: We use 
 
 **Opt-Out Policy**
 
-You may opt out of receiving communication from us, from Affiliated Companies, or from other third parties by emailing us at: [privacy@IdealShape.com](mailto:privacy@beachbody.com) or writing to us at:
+You may opt out of receiving communication from us, from Affiliated Companies, or from other third parties by emailing us at: [customerservice@idealshape.com](mailto:customerservice@idealshape.com) or writing to us at:
 
 IdealShape, LLC
 
