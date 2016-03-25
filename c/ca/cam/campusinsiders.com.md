@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusinsiders.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905071942id_/http%3A//campusinsiders.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusinsiders.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325043554id_/http%3A//campusinsiders.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Campus Insiders: Live video and breaking news for college basketball and college football
+# Privacy Policy -
 
 Last updated: August 27, 2012
 
