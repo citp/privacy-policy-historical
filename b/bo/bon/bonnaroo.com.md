@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonnaroo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054332id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnaroo.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325084127id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bonnaroo 2015
+# Privacy Policy | Bonnaroo 2016
 
 This privacy policy describes Bonnaroo’s current policies and practices with regard to personal data collected by Bonnaroo through its website bonnaroo.com and personal data associated with the purchase of a ticket or RFID wristband. This privacy policy is independent from Bonnaroo’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, credit card number, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
 
