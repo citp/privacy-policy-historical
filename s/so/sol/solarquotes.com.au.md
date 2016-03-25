@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407181044id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325123235id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers
-
-**Privacy Policy**
 
 **The details of our privacy policy are below. But here are our 3 Golden Rules when it comes to collecting personal information:**
 
@@ -10,7 +8,7 @@ _"If you ask for 3 quotes, your information will only be provided to a maximum o
 
 _We hate spam as much as you do. We will never pass your information on to anyone except the 3 solar installers unless you give us your explicit permission to do so._
 
-_We will send you emails walking you thorough the solar buying process, asking you for feedback and may send updates on the solar industry and ocaasional offers that we think may be of interest to you. Every email will have a prominent unsubscribe link if you don't want to receive them any more."_
+_We will send you emails walking you through the solar buying process, asking you for feedback and may send updates on the solar industry and occasional offers that we think may be of interest to you. Every email will have a prominent unsubscribe link if you don't want to receive them any more."_
 
 **And here's the full monty:**
 
@@ -56,7 +54,7 @@ _We will send you emails walking you thorough the solar buying process, asking y
 
 7\. If you choose to provide us with a review of our service or of the goods or services you receive from one of a supplier, we may store that review and post it to our website.
 
-8\. If you choose to provide us with your name and e-mail address and opt in to our free newsletter, we will store your name and e-mail address and use it to send you our newsletter until such time as you inform us that you want to unsubscribe from our free newsletter using the unsubscribe link at the end of every newsletter email.
+8\. If you provide us with your name and e-mail address we will store your name and e-mail address and use it to send you occasional newsletter emails until such time as you inform us that you want to unsubscribe using the unsubscribe link at the end of every newsletter email.
 
 9\. We may monitor the content of any e-mail you send to us for troubleshooting or maintenance purposes, or if we suspect any form of e-mail abuse. We will preserve the content of any e-mail you send to us if we believe we have the legal requirement to do so.
 
@@ -78,4 +76,4 @@ _We will send you emails walking you thorough the solar buying process, asking y
 
 15\. You are entitled to have access to any of the personal information that you have previously supplied to us and that is in our possession, and you are entitled to change or delete such information except where we are required by law to retain it.
 
-16\. If you want to ask a question or make a comment about our privacy policy, or if you want to inquire about any of your personal information that may be in our possession, or you want to modify or delete any of your personal information that may be in our possession, please contact us here: [www.solarquotes.com.au/contact.php](http://www.solarquotes.com.au/contact.php) or via email: privacy@solarquotes.com.au or by phone 0434 284495 or at our address: 28 Oleander St East, South Brighton, SA 5048. 
+16\. If you want to ask a question or make a comment about our privacy policy, or if you want to inquire about any of your personal information that may be in our possession, or you want to modify or delete any of your personal information that may be in our possession, please contact us here: [www.solarquotes.com.au/contact.php](https://www.solarquotes.com.au/contact.php) or via email: privacy@solarquotes.com.au or by phone 0434 284495 or at our address: 28 Oleander St East, South Brighton, SA 5048. 
