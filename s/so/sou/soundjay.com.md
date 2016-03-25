@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundjay.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709123707id_/http%3A//www.soundjay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundjay.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325191157id_/http%3A//www.soundjay.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
