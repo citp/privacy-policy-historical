@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bukisa.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911170021id_/http%3A//www.bukisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bukisa.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325143424id_/http%3A//www.bukisa.com/privacy-policy) for the most accurate reproduction.*
 
 # Bukisa - Privacy Policy
 
