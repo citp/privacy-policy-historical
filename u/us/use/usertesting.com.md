@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071804id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325205839id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
 
 # UserTesting Privacy Policy
 
