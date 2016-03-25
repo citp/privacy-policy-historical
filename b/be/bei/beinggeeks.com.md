@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beinggeeks.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027063740id_/http%3A//www.beinggeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beinggeeks.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325184921id_/http%3A//www.beinggeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
