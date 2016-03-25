@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigbasket.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910063633id_/http%3A//bigbasket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbasket.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325164016id_/http%3A//www.bigbasket.com/privacy-policy) for the most accurate reproduction.*
 
-# Best Online Grocery Store in India. Save Big on Grocery Shopping | BigBasket.com
+# Privacy Policy | BigBasket.com
 
 Privacy Policy
 
-Personal Information Innovative Retail Concepts Pvt Ltd (“IRCPL”) is the licensed owner of the brand BigBasket.com and the website bigbasket.com (”The Site”) from Supermarket Grocery Supplies Pvt Ltd (“SGSPL”). IRCPL respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by IRCPL on the Site. As a visitor to the Site/ Customer you are advised to please read the Privacy Policy carefully. By accessing the services provided by the Site you agree to the collection and use of your data by IRCPL in the manner provided in this Privacy Policy. 
+Personal Information Innovative Retail Concepts Pvt Ltd (“IRCPL”) is the licensed owner of the brand bigbasket.com and the website bigbasket.com (”The Site”) from Supermarket Grocery Supplies Pvt Ltd (“SGSPL”). IRCPL respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by IRCPL on the Site. As a visitor to the Site/ Customer you are advised to please read the Privacy Policy carefully. By accessing the services provided by the Site you agree to the collection and use of your data by IRCPL in the manner provided in this Privacy Policy. 
 
 What information is, or may be, collected form you? As part of the registration process on the Site, IRCPL may collect the following personally identifiable information about you: Name including first and last name, alternate email address, mobile phone number and contact details, Postal code, Demographic profile (like your age, gender, occupation, education, address etc.) and information about the pages on the site you visit/access, the links you click on the site, the number of times you access the page and any such browsing information. 
 
