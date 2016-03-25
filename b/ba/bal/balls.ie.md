@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balls.ie privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921181444id_/http%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balls.ie privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325051756id_/http%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Balls.ie
 
