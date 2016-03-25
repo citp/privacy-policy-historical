@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317095656id_/http%3A//www.webpagefx.com/privacytermsofuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325183045id_/http%3A//www.webpagefx.com/privacytermsofuse.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy & Terms of Use
-
-[ See Our  
-Results  ](https://web.archive.org/real-results.html) [ Download One Of Our  
-FREE  
-Marketing Guides ](https://web.archive.org/marketing-guides/) [ What is Your  
-WEBSITE'S SEARCH  
-Ranking? ](https://web.archive.org/seo-tools/crawlerfx/) [ Create Your  
-CUSTOM MARKETING  
-Strategy ](https://web.archive.org/marketing-calculator.html)
 
 ### Privacy Policy
 
@@ -60,4 +51,4 @@ Visitors to this website are granted permission to access this material, to down
 
 Visitors to this website may not copy, distribute, screen shot, reproduce, sell or publish any of the copyright material downloaded or copies from this website. For the avoidance of doubt, no permission is given for the transfer of any of this material to an open internet site. For permission, please contact info@webpagefx.com. WebpageFX monitors the web closely for violations of our use policy. 
 
-Call 888.449.3239 or [contact us](https://web.archive.org/web/20150317095656id_/http%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
+Call 888.449.3239 or [contact us](https://web.archive.org/web/20160325183045id_/http%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
