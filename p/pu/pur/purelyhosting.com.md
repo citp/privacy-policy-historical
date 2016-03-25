@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purelyhosting.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510163119id_/http%3A//purelyhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purelyhosting.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325174311id_/http%3A//purelyhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purely Hosting
 
@@ -82,8 +82,6 @@ We may update this privacy statement to reflect changes to our information pract
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [privacy@PurelyHosting.com](mailto:privacy@PurelyHosting.com). PurelyHosting.com has established internal mechanisms to verify its ongoing adherence to its privacy policy and also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting PurelyHosting.com at the address below.
 
 Email: [support@purelyhosting.com](mailto:support@purelyhosting.com)  
-Phone: 800-509-4206  
-605 North High Street #264  
-Columbus, OH 43215 USA
-
-[](http://privacy-policy.truste.com/privacy-seal/PurelyHosting-com-LLC/seal?rid=eba2100a-be99-4db5-a653-23aad221d6af)
+Phone: 1-855-482-7933  
+113 Cherry St #23071  
+Seattle, WA 98104-2205
