@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009042019id_/http%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144906id_/https%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
 
 # ChargeMap Privacy policies
 
