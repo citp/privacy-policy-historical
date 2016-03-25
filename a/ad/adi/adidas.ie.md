@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.ie privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321020540id_/http%3A//www.adidas.ie/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.ie privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325034108id_/http%3A//www.adidas.ie/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ Web beacons (also known as pixel tags and clean GIFs) involve graphics that are 
 
 #### 2.1.5 Web analytics
 
-Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and (mobile) applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or (mobile) application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by Coremetrics and/or other selected parties. You can find out more information about the processing of web analytics data by Coremetrics in subsection 9 below.
+Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and (mobile) applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or (mobile) application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by Adobe Omniture and/or other selected parties. You can find out more information about the processing of web analytics data by Adobe Omniture in subsection 9 below.
 
 ### 2.2 Data provided by yourself
 
@@ -151,15 +151,15 @@ For further information on Bing Maps and their Privacy Policy please read their 
 
 Bing Maps: <http://privacy.microsoft.com/en-us/fullnotice.mspx>
 
-## 10\. Web analytics by Coremetrics 
+## 10\. Web analytics by Adobe Omniture 
 
-The web analytic services on our website and (mobile) applications are provided by Coremetrics ([www.coremetrics.com](http://www.coremetrics.com/)). This means that when you visit our website or (mobile) applications, a cookie by Coremetrics will be stored on your computer or mobile device, except when your browser settings don’t allow for such cookies (see 2.1.2 before). 
+The web analytic services on our website and (mobile) applications are provided by Adobe Omniture ([www.Adobe Omniture.com](http://www.adobe%20omniture.com/)). This means that when you visit our website or (mobile) applications, a cookie by Adobe Omniture will be stored on your computer or mobile device, except when your browser settings don’t allow for such cookies (see 2.1.2 before). 
 
-This further means that when you visit our website or (mobile) application, the web analytics data described above in chapter 2 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Coremetrics’ cookies – will be sent to Coremetrics for analysis for and on behalf of adidas. Please note that if you have created an online profile at our website or (mobile) application and if you are logged on in this profile, a unique number identifying this profile is also being sent to Coremetrics in order to be able to match the web analytics data to this profile. 
+This further means that when you visit our website or (mobile) application, the web analytics data described above in chapter 2 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Adobe Omniture’ cookies – will be sent to Adobe Omniture for analysis for and on behalf of adidas. Please note that if you have created an online profile at our website or (mobile) application and if you are logged on in this profile, a unique number identifying this profile is also being sent to Adobe Omniture in order to be able to match the web analytics data to this profile. 
 
-Coremetrics acts as an agent to adidas, which means that adidas solely determines the purposes for which the data is being used and that Coremetrics will not disclose the information to any third parties (except when required to do so by law or court order). In privacy terms, this means that adidas is the “controller” and Coremetrics the “processor”. You can find out more about the relationships between adidas and Coremetrics in the Coremetric’s privacy policy under “Privacy Policy for Our Provision of Services” at <http://www.coremetrics.com/company/privacy.php#services>.
+Adobe Omniture acts as an agent to adidas, which means that adidas solely determines the purposes for which the data is being used and that Adobe Omniture will not disclose the information to any third parties (except when required to do so by law or court order). In privacy terms, this means that adidas is the “controller” and Adobe Omniture the “processor”. You can find out more about the relationships between adidas and Adobe Omniture in the Coremetric’s privacy policy under “Privacy Policy for Our Provision of Services” at [http://www.Adobe Omniture.com/company/privacy.php#services](http://www.adobe%20omniture.com/company/privacy.php#services).
 
-If you do not wish information about your behaviour at our website or (mobile) application being collected and assessed by Coremetrics, you can apply for a visitor opt-out. This means that Coremetrics will, depending on the type of opt-out you choose, either anonymize the information it collects (but keeps collecting the data) or stop collecting information about your visit at all. This visitor opt-out requires you to accept a cookie being stored on your computer by Coremetrics. You can apply for the visitor opt-out on the link in the privacy policy section of the Coremetrics website.
+If you do not wish information about your behaviour at our website or (mobile) application being collected and assessed by Adobe Omniture, you can apply for a visitor opt-out. This means that Adobe Omniture will, depending on the type of opt-out you choose, either anonymize the information it collects (but keeps collecting the data) or stop collecting information about your visit at all. This visitor opt-out requires you to accept a cookie being stored on your computer by Adobe Omniture. You can apply for the visitor opt-out on the link in the privacy policy section of the Adobe Omniture website.
 
 ## 11\. Retargeting Technologies
 
@@ -187,7 +187,7 @@ If you have any questions about the processing of your personal details or about
 
 [service@mail.shop.adidas.ie](mailto:service@mail.shop.adidas.ie)
 
-Or you can call Customer Service at **1800-930151**
+Or you can call Customer Service at **00800 3STRIPES (00800 37 87 47 37)**
 
 (0 Euro cents/min. international toll free).
 
