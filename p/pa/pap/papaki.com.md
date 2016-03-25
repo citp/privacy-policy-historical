@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papaki.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102005845id_/http%3A//www.papaki.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papaki.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325025329id_/http%3A//www.papaki.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | papaki.com
 
