@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitlighthouse.org privacy policy that was archived on 2015-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150225015906id_/http%3A//www.summitlighthouse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitlighthouse.org privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325082815id_/http%3A//www.summitlighthouse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of SummitLighthouse.org
 
