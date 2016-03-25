@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepart.io privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115012857id_/http%3A//www.deepart.io/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepart.io privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325044703id_/http%3A//www.deepart.io/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -13,6 +13,8 @@ Your email address, and any other information you provide are held in strict con
   * Confirming your identity,
 
   * Contacting you whenever the submission is finished,
+
+  * Informing you about news concerning the Service,
 
   * Informing you about changes in the Service,
 
