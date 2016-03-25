@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030623id_/http%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326002242id_/https%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Will Not Share Your Information
 
-Bright Horizons Financial Services, Inc. knows that your privacy is important to you. It is important to us. So, please read our Privacy Policy. Providing your personal information is always voluntary however, note that without certain information, we may be unable to provide our services. If you provide your personal information, we will consider this your consent to our use. However, we will respect your preferences as to whether and how you’d like us to communicate with you and you may modify your preferences by sending us an email at [outreach@debt.org](mailto:Outreach@debt.org).  If you opt-out of receiving emails from us, we reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+ClayRun, LLC knows that your privacy is important to you. It is important to us. So, please read our Privacy Policy. Providing your personal information is always voluntary however, note that without certain information, we may be unable to provide our services. If you provide your personal information, we will consider this your consent to our use. However, we will respect your preferences as to whether and how you’d like us to communicate with you and you may modify your preferences by sending us an email at [outreach@debt.org](mailto:Outreach@debt.org).  If you opt-out of receiving emails from us, we reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
 INFORMATION WE MAY COLLECT  
 We may collect personal information, including your name, mailing address, telephone number, email address, transaction information, and credit or debit card information. We may collect this information when you:
@@ -18,7 +18,7 @@ We may collect personal information, including your name, mailing address, telep
 
 
 
-To review or update personal information you’ve provided, you may call or email us at contact-us@brighthorizonsfinancial.com.
+To review or update personal information you’ve provided, you may call or email us at [outreach@debt.org](mailto:Outreach@debt.org).
 
 We may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics but you will remain anonymous unless you provide us with personal information during your visit to this Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.  We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf.  These companies may collect personal information about your visits to this Website and your interaction with our communications, including advertising.
 
@@ -68,7 +68,7 @@ INTERNATIONAL USERS
 If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Your use of this site or submission of personal information will constitute your consent to the transfer of personal information outside of your home country.
 
 POLICY CHANGES  
-If our Privacy Policy changes, we will post the changes to our site with the date of revision. Your continued use of our site will constitute your agreement with our revised Privacy Policy. Please also note that our Privacy Policy is incorporated into our site’s [Terms and Conditions Agreement.](http://www.debt.org/disclaimer/ "Debt.org – Disclaimer, Terms and Conditions of Use")
+If our Privacy Policy changes, we will post the changes to our site with the date of revision. Your continued use of our site will constitute your agreement with our revised Privacy Policy. Please also note that our Privacy Policy is incorporated into our site’s [Terms and Conditions Agreement.](https://www.debt.org/disclaimer/ "Debt.org – Disclaimer, Terms and Conditions of Use")
 
 UPDATING AND MODIFYING YOUR COMMUNICATION PREFERENCES  
 If you wish to update your information or do not wish to be contacted via email, direct mail and/or telephone, please contact us by email at [outreach@debt.org](mailto:Outreach@debt.org) or telephone at 1-800-890-1193. Provide your exact name and postal or email address so that we may identify you accurately. You may also “unsubscribe” from our email by using the link provided at the bottom of each email. If you ask us to remove you from marketing lists, it may take up to 10 days to process your “do not email” request. It may take up to 8 weeks to process your “do not mail” request because mailings are planned long in advance. If you purchase online, we will continue to confirm your order and order status via email, postal address or telephone. If you change your mind about choices you’ve previously made, contact us at 4630 S Kirkman Rd, Suite 357, Orlando, FL 32811.
@@ -76,6 +76,6 @@ If you wish to update your information or do not wish to be contacted via email,
 In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Website Terms and Conditions Agreement, we may retain in our files information you have requested to remove.  Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our system.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.
 
 TERMS AND CONDITIONS  
-We have a [Terms and Conditions Agreement](http://www.debt.org/disclaimer/ "Debt.org – Disclaimer, Terms and Conditions of Use") that sets forth the terms and conditions under which we provide products, services and information to your from this Website.  Please review the Terms and Conditions governing your use of and access to, this Website.  It is your responsibility to read, understand and comply with the terms and conditions set forth therein.
+We have a [Terms and Conditions Agreement](https://www.debt.org/disclaimer/ "Debt.org – Disclaimer, Terms and Conditions of Use") that sets forth the terms and conditions under which we provide products, services and information to your from this Website.  Please review the Terms and Conditions governing your use of and access to, this Website.  It is your responsibility to read, understand and comply with the terms and conditions set forth therein.
 
-Updated:  October 10, 2013
+Updated:  February 2, 2016
