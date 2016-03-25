@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletire.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108051219id_/http%3A//simpletire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletire.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325052424id_/http%3A//simpletire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Read our Privacy Policy | SimpleTire.com
 
