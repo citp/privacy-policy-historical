@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the floweraura.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722071057id_/http%3A//www.floweraura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floweraura.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325012832id_/http%3A//www.floweraura.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FlowerAura
+# Privacy Policy
 
 **FlowerAura - PRIVACY POLICY:**
 
