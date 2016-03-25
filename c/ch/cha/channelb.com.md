@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelb.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204214535id_/http%3A//channelb.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelb.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325024556id_/http%3A//channelb.com/pages/privacy) for the most accurate reproduction.*
 
 # Watch Full Movies Online For Free Now – ChannelB.com
 
