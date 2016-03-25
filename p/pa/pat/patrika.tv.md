@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patrika.tv privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105034311id_/http%3A//www.patrika.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patrika.tv privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325012116id_/http%3A//www.patrika.tv/privacy-policy) for the most accurate reproduction.*
 
 # Patrika TV | Privacy Policy |
 
@@ -26,7 +26,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our  
 Service.
 
-**Security**
+**Security  **
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the  
 Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to  
@@ -37,6 +37,10 @@ protect your Personal Information, we cannot guarantee its absolute security.
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you  
 will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you  
 visit.
+
+**Disclaimer**
+
+Patrika.tv is not a part or affiliated with www.patrika.com website and any other patrika group websites. 
 
 **Changes To This Privacy Policy**
 
