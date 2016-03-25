@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512141832id_/http%3A//www.antarestech.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325030916id_/http%3A//www.antarestech.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Antares Vocal Processing > Privacy Policy
 
