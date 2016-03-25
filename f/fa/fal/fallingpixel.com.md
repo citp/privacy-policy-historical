@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fallingpixel.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060012id_/https%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallingpixel.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325025434id_/https%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
 
 # Our Privacy Policy : TurboSquid Help & Support
 
