@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906021500id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325084257id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
 
 # PayPal
 
->> [View all legal agreements](https://www.paypal.com/ca/webapps/mpp/ua/legalhub-full "Legal Agreements")
+>> [View all legal agreements](https://www.paypal.com/ca/webapps/mpp/ua/legalhub-full?locale.x=en_CA "Legal Agreements")
 
 Effective Date : July 1, 2015
 
