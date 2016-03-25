@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barefootdreams.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204202603id_/http%3A//www.barefootdreams.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefootdreams.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325192147id_/http%3A//www.barefootdreams.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Barefoot Dreams® - Worlds softest and most luxurious hand knitted baby blankets, children's apparel, chic lounge wear for adults and accessories for the home. Barefoot Dreams® is luxury!
+# Barefoot Dreams® - Privacy Policy
 
 ## Privacy Policy
 
