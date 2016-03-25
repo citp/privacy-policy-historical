@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgbrandsampler.ca privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209190651id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml%3Ffrom%3Dpgeveryday.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgbrandsampler.ca privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325010803id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml%3Ffrom%3Dpgeveryday.ca) for the most accurate reproduction.*
 
 # P&G Privacy Notice
 
