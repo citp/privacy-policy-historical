@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907021317id_/https%3A//www.backupify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325060054id_/https%3A//www.backupify.com/privacy-policy) for the most accurate reproduction.*
 
 # Backupify Privacy Statement | Backupify
 
@@ -116,4 +116,4 @@ If Users have any questions or suggestions regarding our Privacy Statement, plea
 
 **Contact** : Backupify, Inc.  
  **Email** : [privacy@backupify.com](mailto:privacy@backupify.com)  
- **Address** : 17 Sellers St, Cambridge, MA 02139
+ **Address** : 50 Milk St, Boston, MA 02109
