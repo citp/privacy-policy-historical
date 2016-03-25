@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915140446id_/http%3A//www.anedot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144320id_/https%3A//anedot.com/privacy) for the most accurate reproduction.*
 
-# Anedot — Accept Money Everywhere
+# None
 
-Last updated August 7, 2015
+Last Modified on January 18, 2016  
+* update mailing address
 
 **Our Privacy Commitment**
 
@@ -74,7 +75,8 @@ In addition, we will share the personal information we collect from you under th
 
 **Additional Information You Should Know About Third Parties**
 
-This Privacy Policy does not cover the information practices of third party websites linked to the Site(s) or third party offer, newsletter and/or promotion opt-ins provided through the Site(s). Additionally, the Anedot Features may be incorporated into third party websites or social networks, and this Privacy Policy does not cover the information practices of such third party websites or social networks. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information. You should refer to the privacy policies and statements of other websites or social networks or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. The Anedot Features may also have account holder branded payment sites, where account holders can provide a customized web experience using the Anedot Features to collect payments or donations. When you incorporate your brand features into one of these sites, please be aware that the information you incorporate is made publicly available on-line and you do so at your own risk.
+This Privacy Policy does not cover the information practices of third party websites linked to the Site(s) or third party offer, newsletter and/or promotion opt-ins provided through the Site(s). Additionally, the Anedot Features may be incorporated into third party websites or social networks, and this Privacy Policy does not cover the information practices of such third party websites or social networks. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information. You should refer to the privacy policies and statements of other websites or social networks or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.   
+The Anedot Features may also have account holder branded payment sites, where account holders can provide a customized web experience using the Anedot Features to collect payments or donations. When you incorporate your brand features into one of these sites, please be aware that the information you incorporate is made publicly available on-line and you do so at your own risk.
 
 _**What choices do you have about the collection and use of your personal information?**_
 
