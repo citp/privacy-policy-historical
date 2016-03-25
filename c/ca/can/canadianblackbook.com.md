@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianblackbook.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910111957id_/http%3A//www.canadianblackbook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianblackbook.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325031213id_/http%3A//www.canadianblackbook.com/privacy.html) for the most accurate reproduction.*
 
 # Canadian Black Book Car Values, New & Used Cars, Prices, Reviews & Research
 
@@ -34,19 +34,19 @@ If you prefer not to receive cookies while browsing our website, you can set you
 
 ## How We Use Information Collected
 
-Canadian Black Book uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest software updates or other information we think you would like to hear about and to better understand your needs and provide you with better services. Additionally, your information may be passed to a third party business for the purpose of that business contacting you or otherwise providing information you may have requested. As stated above, this would only be done if you have expressly consented to such disclosure.
+Canadian Black Book uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest software updates or other information we think you would like to hear about and to better understand your needs and provide you with better services. Additionally, your information may be passed to a third party business for the purpose of that business contacting you or otherwise providing information you may have requested. As stated above, this would only be done if you have expressly consented to such disclosure, or asked for infromation from a particular business.
 
 ## Information Sharing and Disclosure
 
-Your personal information may be shared with other Canadian Black Book offices or subsidiaries. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
+Your personal information may be shared with other Canadian Black Book offices, and subsidiaries or affiliates. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
 
 Your personal information is never shared outside Canadian Black Book without your permission, except under conditions explained within this document or as may be required by law. Inside Canadian Black Book, data is stored in controlled servers with limited access. Your information may be stored and processed in Canada or any other country where Canadian Black Book, its subsidiaries, affiliates, or agents are located. If your personal information is processed and stored in another country, that country's governments, courts, law enforcement or regulatory agencies may be able to obtain disclosure of your personal information under the laws of that country.
 
-Canadian Black Book may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Canadian Black Book to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or, if you have opted in, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you would like to hear about either from us or from our business partners. We will also disclose your personal information if required to do so by law, to enforce our Terms & Conditions of Use, or, in urgent circumstances, to protect personal safety, the public, or our websites.
+Canadian Black Book may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Canadian Black Book to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or, if you have opted in, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you would like to hear about either from us or from our business partners. We will also disclose your personal information if required to do so by law, to enforce our Terms & Conditions of Use, and, in urgent circumstances, to protect personal safety, the public, or our websites, or in connection with a sale, merger, transfer, exchange or other desposition of all or a portion of our business, in which case the successor will possess your personal information.
 
 ## Your Ability to Review and Delete Your Account and Information
 
-You may review your personal information by contacting our Chief Technology Officer, Dennis Cartier, at 1-800-562-3150. You may also request deletion of your Canadian Black Book subscriber account or any of your personal information held by us by sending an email to info@canadianblackbook.com.
+You may review your personal information by contacting our Chief Technology Officer, at 1-800-562-3150. You may also request deletion of your Canadian Black Book subscriber account or any of your personal information held by us by sending an email to info@canadianblackbook.com.
 
 ## Data Security
 
@@ -66,6 +66,6 @@ Canadian Black Book will amend this policy from time to time. If we make any sub
 
 ## Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please contact Dennis Cartier, Chief Technology Officer, Wm. Ward Publishing Ltd. o/a Canadian Black Book, 7800 Woodbine Avenue, Suite 302, Markham, Ontario L3R 2N7, 1-800-562-3150 or info@canadianblackbook.com.
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please contact Chief Technology Officer, Canadian Black Book Inc., 7800 Woodbine Avenue, Suite 302, Markham, Ontario L3R 2N7, 1-800-562-3150 or info@canadianblackbook.com.
 
 This document was last updated August 21, 2014.
