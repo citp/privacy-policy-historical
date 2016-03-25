@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwangi.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210123219id_/http%3A//zwangi.com%3Ftmp%3Dzwangi_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwangi.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325082958id_/http%3A//zwangi.com%3Ftmp%3Dzwangi_privacy) for the most accurate reproduction.*
 
 # Zwangi - Privacy Policy
 
