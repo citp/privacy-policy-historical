@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015023011id_/http%3A//www.djcity.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325072540id_/http%3A//www.djcity.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
