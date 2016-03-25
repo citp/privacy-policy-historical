@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228205608id_/http%3A//www.kiddicare.com/x/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325133059id_/http%3A//www.kiddicare.com/x/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies
+# Privacy & Cookies | Kiddicare
 
   
 WORLDSTORES KIDDICARE LIMITED PRIVACY POLICY
