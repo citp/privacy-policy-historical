@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groono.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022174006id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groono.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325172017id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.*
 
 # Free Classifieds - Groono online classifieds
 
