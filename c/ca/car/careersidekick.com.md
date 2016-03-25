@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersidekick.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002104246id_/http%3A//careersidekick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersidekick.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325080604id_/http%3A//careersidekick.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Career Sidekick
 
@@ -61,3 +61,7 @@ By using our site, you consent to our website’s privacy policy
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 11/19/2013
+
+**Amazon Affiliate disclaimer:**
+
+Career Sidekick is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
