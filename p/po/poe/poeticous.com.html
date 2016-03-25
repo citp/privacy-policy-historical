@@ -1,35 +1,60 @@
-<!--The following is the downloaded HTML source of the poeticous.com privacy policy that was archived on 2014-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140810060104id_/https%3A//www.poeticous.com/privacy%3Flocale%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poeticous.com privacy policy that was archived on 2016-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325181607id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"475d470573","applicationID":"1815333","transactionName":"dVYNRhAKXFUARU5ES19PAlEbSkNRCkA=","queueTime":0,"applicationTime":15,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYHUF5SGwIIVVRRBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<title>Poetry Blogs | Poeticous</title>
-<meta name="description" content="Poeticous is a place for poetry and a blogging platform for artists. Share your poems with the world and read mankind's poetry.">
+<script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"475d470573","applicationID":"10801742","transactionName":"dVYNRhAKXFUARU5ES19PAlEbSkNRCkA=","queueTime":0,"applicationTime":61,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<script type="text/javascript">
+WebFontConfig = {
+	google: { families: [ 'Open+Sans:600,400:latin' ] }
+};
+(function() {
+	var wf = document.createElement('script');
+	wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+	'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	wf.type = 'text/javascript';
+	wf.async = 'true';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(wf, s);
+})();
+
+//required for pace.js loader
+paceOptions = {
+	startOnPageLoad: false,
+	restartOnPushState: true,
+	restartOnRequestAfter: 50,
+	ajax: {
+		trackMethods: ['GET', 'POST']
+	}
+};
+</script>
+<title>Poeticous</title>
+<meta name="description" content="Poeticous is the most beautiful place to show your poetry. A place for artists and a blogging platform for poets.">
 <meta property="og:title" content="Poeticous">
-<meta property="og:description" content="Poeticous is a place for poetry and a blogging platform for artists. Share your poems with the world and read mankind's poetry.">
+<meta property="og:description" content="Poeticous is the most beautiful place to show your poetry. A place for artists and a blogging platform for poets.">
 <meta property="og:url" content="https://www.poeticous.com">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://www.poeticous.com/assets/poets/96/medium/dante-gabriel-rossetti.jpeg">
-
+<meta property="og:image" content="https://www.poeticous.com/assets/blackp.png">
 <meta property="og:site_name" content="Poeticous">
 <meta property="fb:admins" content="4813285">
+<meta property="fb:app_id" content="470213143065140">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" media="all" href="/assets/application-4c73b1f834f5210b824ae9752c0901e7c7e1c115cc123433ccea620acfafaa61.css" data-turbolinks-track="true">
+	<link rel="stylesheet" media="screen" href="/assets/privacy-f0c3d5707764860e2fe930dd0d31069accef5431644b1b432edaa1f03bd8b3d1.css">
+	<link rel="stylesheet" media="screen" href="/assets/responsive-5f4d96b6dec385a4faf3fa57fd8defc8b20e1f92ed8b8fe85fcd63e39698b238.css">
+	<link href="//vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
 
-  <link href="/assets/application-d48ad5b8f1d3128a80f2d78931def909.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if lt IE 8]>
+	<link href="css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 
-
-  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css" type="text/css" media="all">
-  <!--link rel="stylesheet" href="https://static.jquery.com/ui/css/demo-docs-theme/ui.theme.css" type="text/css" media="all" /-->
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/i18n/jquery.ui.datepicker-es.min.js"></script>
-  
-  <script src="/assets/application-140403.js" type="text/javascript"></script>
-  
-  <meta content="authenticity_token" name="csrf-param">
-<meta content="o6BAVYdKyCOcNrBKN4XlehiT31+TBcNkFMLD4Exlpi4=" name="csrf-token">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="gneDnXUYuAWmlrlMaKbkYXXVqdW7tOYovjI6oY8HTdqwSjm1h+OaHXqKFDu9/j4l2FV+Vyoumbris5VZVdx/cw==">
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-30047602-1']);
   _gaq.push(['_trackPageview']);
@@ -39,320 +64,436 @@
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("3c257ced33eb8e4c9c6f4cb3584f397c");</script><!-- end Mixpanel -->
 </head>
 <body>
-<div class="site-wrapper">	
-<div id="bg-filler-6" class="branch-filler"></div>
-<div id="fb-root"></div>
 <script>
+//Twitter Share
+window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return t;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+
+// Facebook SDK
 window.fbAsyncInit = function() {
-  // init the FB JS SDK
-  FB.init({
-    appId      : '470213143065140',
-    status     : false,                                 // Check Facebook Login status
-    xfbml      : true                                  // Look for social plugins on the page
-  });
-  
-  FB.Event.subscribe('edge.create', function(href, widget){
-    if (Modernizr.localstorage){
-      localStorage['usr_liked_on_facebook'] = true; 
-    }           
-  });     
-  
-  FB.Event.subscribe('edge.remove', function(href, widget){
-     if (Modernizr.localstorage){	
-       localStorage.removeItem('usr_liked_on_facebook');
-     }     
-  });
+	FB.init({
+		appId      : '470213143065140',
+		xfbml      : true,
+		version    : 'v2.3'
+	});
 };
 
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+(function(d, s, id){
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
 
-<div id="bg-top"></div>
-  <div id="bg-bottom">
-    <div id="wrap">
-      <div id="header" class="clearfix">
-        <h1 id="logo">
-          <a href="/?locale=en" title="Poeticous"><img alt="Poeticous" src="/assets/logo-1ad4d562943210f1c402921a8be65280.png"></a>
-        </h1>
-        <div id="nav">
-          <ul class="main">
-            <li class="selected"><a href="/poets_index?locale=en"><span>Poets</span></a></li>
-            <li><a href="/poems?locale=en"><span><img alt="Random" height="26" src="/assets/random30-c4b180e9835f2e5abdaeb9ff74e0843b.png" style="margin-top:-3px;" title="Random Poems" width="26"></span></a> <a href="https://www.poeticous.com/latest?locale=en"><span>Poems</span></a></li>
-            <li><a href="https://www.poeticous.com/login?locale=en"><span>Login</span></a></li>
-            <li><a href="https://www.poeticous.com/poets/new?locale=en"><span>Sign Up</span></a></li>
-          </ul>
-          <ul class="language">
-            <li class="selected"><a href="/privacy?locale=en" title="Español">English</a></li>
-            <!--li class="selected"><a href="/privacy?locale=en" title="English"><img alt="English" src="/assets/eng-da26964f8f9b1251217283508be23d3a.png" /></a></li-->
-            <li>|</li>
-            <li class=""><a href="/privacy?locale=es" title="English">Español</a></li>
-            <!--li><a href="/privacy?locale=es" title="Español"><img alt="Español" src="/assets/esp-28313ca56723705e0070c96c17e1b17e.png" /></a></li-->
-          </ul>
-        </div>
-        <div id="fb_ribbon"><!--yjh default-->
-	<table>
-		<tbody><tr>        	
-			<td><div id="top-stats">
-				6,912 poets...&nbsp; &nbsp; 1 minute to join
-				</div></td>
-			<td><div id="admin_link"></div></td>
-			<td><div class="fb-like" data-href="https://www.facebook.com/poeticous" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="trebuchet ms"></div></td>
-			<td><div id="twitter_btn"><a href="https://twitter.com/share" class="twitter-share-button" data-url="www.poeticous.com" data-via="Poeticous" data-text="A place for poetry and a blogging platform for artists">Tweet</a></div><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
-		</tr>
-	</tbody></table>
+</script>
+
+
+	<!-- header -->
+<div class="alert"></div>
+<div class="navigation-header">
+	<div class="wrapper clearfix">
+
+	<a class="logo-inner adjusted-logo" href="/">
+	<img alt="Poeticous Logo" src="/assets/logo_black-ed3b36fea79cd5fbb72a9074fb259a76d94b6b6dbc464d46e9bd2debcf348cfb.png">
+	</a>
+
+	<div class="search-wrapper">
+		<span id="perform-search" class="icon-uniE036 size-20"></span>
+		<form id="search_form" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+		<div class="search-bar">
+			<input type="text" name="q" id="q" placeholder="start typing">
+			<input type="hidden" name="locale" id="locale" value="en">
+			
+			
+		</div>
+</form>	</div>
+
+	<div class="nav-top privacy adjusted-nav-top  clearfix ">
+		<ul>
+			<li class="menu-text-link first-menu-link"><a href="/about">about</a></li>
+			<li class="menu-text-link"><a href="/poets">poets</a></li>
+			<li class="menu-text-link"><a href="/trending-poems">Poems</a></li>
+			<li class="random-poems-link"><a class="icon-uniE057" href="/poems/random?page=226"></a></li>
+			<li class="menu-text-link"><a href="/donations/new">give</a></li>
+					<li class="menu-text-link">
+						<a id="sign-in" onclick="return false;" href="">login</a>
+								<span id="sign-in-up-separator" class="vertical-separator">|</span>
+
+								<a id="sign-up" onclick="return false;" href="">Signup</a>
+					</li>
+			<li class="menu-text-link mobile-only"><a title="English" id="en-selection" href="/privacy">en</a> <span class="vertical-separator">|</span> <a title="Spanish" id="es-selection" href="/privacy?locale=es">es</a></li>
+			<li class="hidden" style="padding-left: 26px;">
+					<span id="start-search-mobile" class="icon-uniE036 search-action size-20"></span>
+			</li>
+			<li></li>
+		</ul>
+	</div>
+	<div class="nav-right adjusted-nav-right ">
+		<div class="social-icons2 clearfix">
+			<ul>
+				<li class="facebook-li"><a href="https://www.facebook.com/poeticous" target="#"><span class="icon-facebook"></span></a></li>
+				<li class="twitter-li"><a href="https://www.twitter.com/poeticous" target="#"><span class="icon-twitter size-16"></span></a></li>
+				<li style="margin-left:20px"><a title="English" id="en-selection" href="/privacy">en</a> <span class="vertical-separator">|</span> <a title="Spanish" id="es-selection" href="/privacy?locale=es">es</a></li>
+			</ul>
+		</div>
+		<div class="top-right2 clearfix">
+			<div>
+				<span id="start-search" class="icon-uniE036 search-action size-24"></span>
+				<span id="cancel-search" class="icon-uniE117 search-action size-30"></span>
+
+			</div>
+		</div>
+	</div>
+	<!-- Main page -->
+
+	<!-- Mobile -->
+	<div class="menu-icon-wrapper">
+		<span class="icon-menu"></span>
+	</div>
+	</div>
 </div>
 
-      </div><!-- // end #header -->
-      <div id="content">
-        <div id="srch-frm">
-      <fieldset>
-        <form accept-charset="UTF-8" action="/search?locale=en" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div> 
-          <input class="input-txt" id="q" name="q" onblur="if(this.value=='') this.value='Enter title, verse, author, topic...';" onfocus="if(this.value=='Enter title, verse, author, topic...') this.value='';" type="text" value="Enter title, verse, author, topic...">
-          <input id="locale" name="locale" type="hidden" value="en">
-          
-          
-          <input class="input-btn-en" id="search_btn" type="submit" value="Search">
-</form>      </fieldset>
-        </div><!-- // end #srch-frm -->
 
-<div id="search-content">
-  <div id="srch-cntnt-top" class="clearfix">
-    <h1 class="title">Privacy Policy</h1>
-  </div><!-- // #srch-cntnt-top -->
-  <div id="srch-cntnt-mid-4" class="clearfix">
-    <div id="generic-page" style="position: relative;">
-    	
-<h5 class="red" style="margin-top: 30px;">Privacy Policy</h5>    	
-      <p>
-We ("Poeticous", "us", or "our") takes the private nature of your personal information very seriously. 
-This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use the website 
-at poeticous.com (the "Site") and/or content (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, 
-transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
-      </p>
+<div class="main-page-init-header">
+	<div class="header-indent clearfix">
+		<a id="logo" class="logo-main" href="/">
+			<img alt=" " id="logo-white" src="/assets/logo-w-825789e7e5c5c6cb55a1080eefa137f44f76373c96ac347b2989387d79163485.png">
+		</a>
+		<div class="center-div"></div>
+		<div class="top-right1 clearfix">
+			<ul>
+				<li id="search-icon"><span class="icon-uniE036"></span></li>
+				<!-- <li id="nav-icon-wrapper"><span class="icon-menu2">&#xe629;</span></li> -->
 
-      <p>
-This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, 
-including but not limited to any third party websites, 
-services and applications ("Third Party Services") that you elect to access through the Service. 
-While we try to facilitate access only to those Third Party Services that share our respect for your privacy, 
-we don't take responsibility for the content or privacy policies of those Third Party Services. 
-We encourage you to carefully review the privacy policies of all Third Party Services you access.
-      </p>
-      
-      
-<h2 class="red" style="margin-top: 30px;">What We Collect</h2>
-      <p>
-<strong>Account Information</strong>: When you create an account on Poeticous (an "Account"), you will provide information 
-such as your name, password, and email address. This information may personally identify you. 
-For example, if you use your full name as your username, you are disclosing your identity to the public. 
-      </p>
-      <p>
-<strong>Email Communications with Us</strong>: As part of the Services, you may occasionally receive email and other communications from us, 
-such as administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset). 
-These communications are considered part of the Services and your Account, which you may not be able to opt-out from receiving. 
-Note that we will never email you to ask for your password or other Account information; if you receive such an email, 
-<script>eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%70%6f%65%74%69%63%6f%75%73%2e%63%6f%6d%22%20%74%61%72%67%65%74%3d%22%69%6e%66%6f%22%3e%3c%69%3e%66%6f%72%77%61%72%64%20%69%74%20%74%6f%20%75%73%3c%2f%69%3e%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:info@poeticous.com" target="info"><i>forward it to us</i></a>. 
-      </p>
-      <p>
-<strong>Information about Your Accounts on Third Party Services</strong>: You can link your Account to certain Third Party Services. 
-In order to do so, you will provide us with your username or other user ID on each of those Third Party Services. You may also be required to 
-engage in an authorization process with each of those Third Party Services, where we receive a token that allows us to access those accounts 
-so that we can, for example, authenticate you in Poeticous through those services. We do not receive or store your passwords for your Third Party Service accounts..
-      </p>
-      <p>
-<strong>Information Obtained from Third Party Services</strong>: 
-In some cases, when you connect your Account with your accounts on Third Party Services, we may obtain information about you from those Third Party Services. 
-Such information could include, for example, your gender, if you have disclosed that information to that third party and made it available for Poeticous to access. 
-To the extent we obtain such information, we may use the information about you that we receive from Third Party Services to improve and personalize the Services. 
-As a general practice, we strongly urge you to make careful judgments about any personal information you disclose to Internet services, including Poeticous 
-and linked Third Party Services, regardless of whether you choose to link your accounts together.
-      </p>
-      <p>
-<strong>User Content</strong>: 
-By default, all sharing through the Services is public, and when you provide us with content it is published so that anyone can view it. 
-You should assume that anything you publish is publicly accessible. 
-Content published and shared publicly is accessible to everyone, including search engines, and you may lose any privacy rights you might 
-have regarding that content. In addition, information shared publicly may be copied and shared throughout the Internet. While you are free 
-to remove published pieces of content from or delete your Account, because of the nature of Internet sharing, and technological limitations inherent to the Services, 
-copies of that content may exist elsewhere and be retained indefinitely, including in our systems.
-      </p>
-      
-      <p>
-<strong>Information Collected Using Cookies</strong>: 
-Cookies are pieces of text that may be sent to and saved by your web browser when you access a website; your web browser stores these cookies in a way associated 
-with each website you visit, and you can see your cookies through your browser settings. We use cookies to enable our servers to recognize your web browser and tell us 
-how and when you use the Services. Our cookies do not, by themselves, contain information that personally identifies you, and we don't combine the general information 
-collected through cookies with other such information to tell us who you are. However, we do use cookies to identify that you have logged in and that your web 
-browser has accessed aspects of the Services, and we may associate that information with your Account if you have one. 
-Most web browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, 
-as well as (depending on the sophistication of your web browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. 
-If you disable cookies, you won't be able to log into your Account, and so will not be able to use the vast majority of our Services; 
-as such, we don't recommend disabling your cookies when using the Services. Some third-party services that we use, such as Google Analytics, 
-may also place their own cookies on your browser, and individual blogs on our network may contain code that places their own cookies. 
-Note that this Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties.
-      </p>
+			</ul>
+		</div>
+	</div>
+</div>
 
-<h2 class="red" style="margin-top: 30px;">With Whom Your Information Is Shared</h2>
-      <p>
-We never share information we receive from you unless that information is aggregate information or other information that does not identify you. 
-      </p>
-      <p>
-<strong>Information Shared with the Public Through the Services</strong>: 
-As noted above, by default, content published through the Services is shared with the public, and this is an important feature of the Services. 
-Such information includes, but isn't limited to, anything you choose to post on or submit to a public blog, 
-including "Biography" information that may describe you and anything apparent in a posted photograph. 
-Because this kind of information can be seen by anyone and may be indexed by search engines (like Google Search), 
-you should be careful in what you choose to disclose publicly and make sure it is information you want to share with everyone.
-      </p>
-      <p>
-<strong>Information You Share with Third Party Services</strong>: 
-You may access Third Party Services through the Services, for example by clicking on externally-pointing links. 
-You may also choose to share information that you provide to us, like poems, with those Third Party Services (for example, by syndicating posts to Twitter or Facebook). 
-This Privacy Policy only governs information we collect and you are responsible for understanding those Third Party Services' privacy policies.
-      </p>
+	<!-- Sign in form -->
+<div id="sign-in-tabs">
+	<form id="sign-in-form" action="/sessions" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="lpedKp8HMShaTtKpAeCxORKXA+c1+BrxJTWfcerWk/OkqicCbfwTMIZSf97UuGt9vxfUZaRiZWN5tDCJMA2hWg==">
+		  <input type="text" name="login_username" id="login_username" value="" class="sign-in-field" placeholder="Email">
+		  <input type="password" name="login_password" id="login_password" value="" class="sign-in-field" placeholder="Password">
+		  <input name="" type="submit" value="Enter">
+</form>	<div class="white-line"></div>
+	<div id="social-login-msg">
+		<span id="sign-in-with"> or enter with: </span><span id="sign-in-social"> <a href="/auth/facebook"><img alt=" " width="27" src="/assets/fb-small-e8c0611b3567ca7acbd461ec411a6b618f08e9f7bd611f8053141f8c01148e39.png"></a>
+			<a href="/auth/twitter"><img alt=" " width="27" src="/assets/twitter-small-cb289e3a2d0311773edd84b07cd54606fdf2268e95a815d44c80a5e698d94780.png"></a> <a href="/auth/google_oauth2"><img alt=" " width="27" src="/assets/googleplus-small-d41e33993346e14d5e14fb5a94502c49d43ad973acf17f5ac746ee5e37d4320f.png"></a>
+			<span id="forgot_pwd"><a href="/password_resets/new">Forgot your password?</a></span>
+			<span class="vertical-separator">|</span>
+			<span id="signup-link-option"><a onclick="return false;" href="">Signup</a></span>
+		</span>
+	</div>
+</div>
 
-<h2 class="red" style="margin-top: 30px;">The Security of Your Information</h2>
-      <p>
-Your Account information is protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting 
-and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account on the Services.
-      </p>
-      <p>
-We seek to protect your information (including your Account information) to ensure that it is kept private; however, we can't guarantee the security of any information. 
-Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
-      </p>
-
-<h2 class="red" style="margin-top: 30px;">What Information You Can Access</h2>
-      <p>
-If you are a registered user, you can access and delete most information associated with your Account by logging into the Services and editing your Account page. 
-Registered and unregistered users can access and delete cookies through their web browser settings.
-      </p>
-
-<h2 class="red" style="margin-top: 30px;">How to Delete Your Account and What Happens When You Delete Your Account</h2>
-      <p>
-If you want to delete your Account, you can do so by <script>eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%70%6f%65%74%69%63%6f%75%73%2e%63%6f%6d%22%20%74%61%72%67%65%74%3d%22%69%6e%66%6f%22%3e%3c%69%3e%65%6d%61%69%6c%69%6e%67%20%75%73%3c%2f%69%3e%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:info@poeticous.com" target="info"><i>emailing us</i></a> and providing proof of authority over the Account. What constitutes "proof of authority" 
-will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. 
-Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account information 
-may not be immediately removed. 
-      </p>
-
-<h2 class="red" style="margin-top: 30px;">Changes to This Privacy Policy</h2>
-      <p>
-We may amend this Privacy Policy from time to time, using the process for modifications set forth in our <a href="/terms?locale=en">Terms of Service</a>. 
-Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
-      </p>
-
-<h2 class="red" style="margin-top: 30px;">Questions or Concerns?</h2>
-      <p>
-If you have any questions or concerns regarding privacy using the Services, <script>eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%70%6f%65%74%69%63%6f%75%73%2e%63%6f%6d%22%20%74%61%72%67%65%74%3d%22%69%6e%66%6f%22%3e%3c%69%3e%70%6c%65%61%73%65%20%73%65%6e%64%20%75%73%20%61%20%64%65%74%61%69%6c%65%64%20%6d%65%73%73%61%67%65%3c%2f%69%3e%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:info@poeticous.com" target="info"><i>please send us a detailed message</i></a>.
-      </p>
+	<!-- Sign up form -->
+<div id="sign-up-tabs">
+	<form id="sign-up-form" class="new_poet" action="/poets" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="/X+8UJsqKExtQaPuYtHIMoqlmAIwx3U6Wu2xh3JbIEfPQgZ4adEKVLFdDpm3iRJ2JyVPgKFdCqgGbB5/qIAS7g==">
+      <input placeholder="Full name" class="sign-up-field" required="required" type="text" name="poet[fullname]" id="poet_fullname">
+		  <input placeholder="Email" class="sign-up-field" required="required" type="email" name="poet[email]" id="poet_email">
+		  <input placeholder="Password" class="sign-up-field" required="required" type="password" name="poet[password]" id="poet_password">
+		  <input name="" type="submit" value="Sign up">
+</form>	<div class="white-line"></div>
+	<div id="social-login-msg">
+		<span id="sign-in-with"> or enter with: </span><span id="sign-in-social"> <a href="/auth/facebook"><img alt=" " width="27" src="/assets/fb-small-e8c0611b3567ca7acbd461ec411a6b618f08e9f7bd611f8053141f8c01148e39.png"></a>
+			<a href="/auth/twitter"><img alt=" " width="27" src="/assets/twitter-small-cb289e3a2d0311773edd84b07cd54606fdf2268e95a815d44c80a5e698d94780.png"></a> <a href="/auth/google_oauth2"><img alt=" " width="27" src="/assets/googleplus-small-d41e33993346e14d5e14fb5a94502c49d43ad973acf17f5ac746ee5e37d4320f.png"></a>
+		</span>
+	</div>
+</div>
 
 
+<input type="file" class="hidden" id="preview-cover-photo">
+
+<script>
+
+$(function() {
+
+  $('#en-selection').addClass('selected');
+
+	if ($(window).width() < 768) {
+		handleResponsiveMenu();
+	}
+
+	$('#perform-search').off('click').on('click', function(){
+		$('#search_form').submit();
+	});
 
 
-     <p>
-<br><br><br><i>Effective: July 4th, 2013.</i>
-     </p>
+	function showMenu(){
+		if ($(window).width() < 768 && $('.nav-top').is(':visible')) {
+			$(this).siblings('.icon-menu').click();
+		}
 
-      
-      <br><br>
+		$('.add-cover-photo').hide();
+		$('#menu-wrapper').slideDown(320);
+
+		getNotifications();
+		$(this).addClass('selected');
+	}
+
+	function closeMenu(){
+		$('#menu-wrapper').slideUp(280, function(){
+			$('.add-cover-photo').show();
+		});
+
+		$(this).removeClass('selected');
+	}
+
+	handleSearch();
+
+
+	$('.message').on('click', function(){
+        $('.account-settings').hide();
+        $('.open-message').show();
+  });
+
+		$('#sign-in, #sign-up, #signup-link-option').on('click', function(){
+			if ($(this).attr('id') == 'sign-in') {
+				showSignInOrSignUpForm('sign-in');
+			}
+			else {
+				if ($(this).attr('id') == 'sign-up') {
+					showSignInOrSignUpForm('sign-up');
+				}
+				else {
+					showSignInOrSignUpForm('sign-up', 'signup-link-option');
+				}
+			}
+		});
+});
+</script>
+
+<script>
+
+function handleSearch(){
+	$('.search-action').off('click').on('click', function(){
+		var elementId = $(this).attr('id');
+		if (elementId == 'start-search' || elementId == 'start-search-mobile') {
+			showSearchBar();
+			$(this)
+				.siblings('#cancel-search')
+					.css('display', 'inline-block')
+					.end()
+				.hide();
+
+			setTimeout(function(){
+				$('#q').focus();
+			}, 500);
+		}
+		else {
+			hideSearchBar();
+			$(this)
+					.css('display', 'inline-block')
+					.siblings('#start-search')
+						.show()
+						.end()
+					.hide();
+		}
+	});
+}
+
+function endSearchClick(obj) {
+	hideSearchBar();
+	$(this)
+			.css('display', 'inline-block')
+			.siblings('#start-search')
+				.show()
+				.end()
+			.hide();
+}
+
+function showSearchBar(){
+	var $wrapperElement = $('.wrapper');
+	var originalNavRightWidth = $wrapperElement.find('.nav-right').width();
+	$wrapperElement
+		.find('.nav-right')
+			.attr('data-original-width', originalNavRightWidth)
+			.css('width', '10%')
+			.end()
+		.find('.nav-top')
+			.hide()
+			.end()
+		.find('.social-icons2')
+			.hide()
+			.end()
+		.find('.top-right2')
+			.css({'width':'100%', 'text-align': 'right'})
+			.end()
+		.find('.search-wrapper')
+			.show()
+			.end()
+		.find('#q')
+			.focus();
+
+				 $('#cancel-search').css('margin-right', '22.6%');
+}
+
+function hideSearchBar(){
+	var $wrapperElement = $('.wrapper');
+	var originalNavRightWidth = $wrapperElement.find('.nav-right').attr('data-original-width');
+	$wrapperElement
+		.find('.search-wrapper')
+			.hide()
+			.end()
+		.find('.nav-top')
+			.show()
+			.end()
+		.find('.social-icons2')
+			.show();
+
+					$wrapperElement.find('.nav-right').css('width', '24%');
+
+		if ($(window).width() < 1150) {
+			$wrapperElement.find('.top-right2').css({'width':'28%', 'text-align': 'center'});
+		}
+		else {
+			$wrapperElement.find('.top-right2').css({'width':'22%', 'text-align': 'center'});
+		}
+}
+
+function handleResponsiveMenu(){
+	var menuVisible = false;
+	$('.icon-menu').off('click').on('click', function(){
+		if (!menuVisible) {
+			$('.search-wrapper').hide();
+			$('.nav-top').show('slide', {direction: 'right', duration: 349});
+
+			var $searchIconParent = $('#start-search-mobile').parent();
+			$searchIconParent.remove();
+
+			$('.nav-top ul').prepend($searchIconParent);
+			$searchIconParent
+				.css('float', 'left')
+				.find('span').show();
+
+
+			handleSearch();
+			menuVisible = true;
+		}
+		else {
+			$('.search-wrapper').hide();
+			$('.nav-top').hide('slide', {direction: 'right', duration: 349});
+			$('#start-search-mobile').hide();
+			menuVisible = false;
+		}
+
+	});
+}
+
+</script>
 
 
 
-    </div>
-  </div><!-- // #srch-cntnt-mid -->
-</div><!-- // #search-content -->
 
-      </div><!-- // end #content -->
-      <div id="content-push"></div>
-    </div><!-- // end #wrap -->
-    </div><!--end big filler-->
-    </div><!-- end bg-bottom -->
-    <!-- end sticky footer main wrapper -->
-    <div class="footer-home">
-    <div id="footer"><div id="footer-content">	
-      <div id="featured">
-        <div class="inner">
-          <h3><a href="/t-s-eliot/the-love-song-of-j-alfred-prufrock?locale=en">Featured Poem</a></h3>
-          <h4><a href="/t-s-eliot/the-love-song-of-j-alfred-prufrock?locale=en">The Love Song of J. Alfred Prufrock</a></h4>
-          <p class="author">by T. S. Eliot</p>
-          <p>Let us go then, you and I,
-<br>When the evening is spread out against the sky … 
-<br>Like a patient etherized upon a table;
-<br>Let us go, through certain half-deserted stree … 
-<br>The muttering retreats</p>
-          <p class="readmore"><a href="/t-s-eliot/the-love-song-of-j-alfred-prufrock?locale=en">view it</a></p>
-        </div>
-      </div><!-- // end #featured -->
-      <div id="connect">
-        <h3>Follow Poeticous</h3>
-        <ul>
-          <li>&nbsp;</li>
-          <li><a href="https://www.facebook.com/poeticous" title="Facebook"><img alt="Facebook" src="/assets/icon-facebook-335afbf7d62260ded1f93cac9e202a28.png"></a></li>
-          <li><a href="https://twitter.com/poeticous" title="Twitter"><img alt="Twitter" src="/assets/icon-twitter-16eff5cbfe83ee83216da19a8f98e38d.png"></a></li>
-        </ul>
-      </div><!-- // end .content -->
-      <div id="copyright">
-        <p>Copyright @ 2014 Poeticous. All Rights Reserved.</p>
-        <p>&nbsp;</p>
-        <ul>
-          <li><a href="/donate?locale=en">Donate</a></li>          
-          <li><a href="/about?locale=en">About</a></li>
-          <li><a href="/contact?locale=en">Contact</a></li>
-          <li><a href="/terms?locale=en">Terms</a></li>
-          <li class="last"><a href="/privacy?locale=en">Privacy</a></li>
-        </ul>
-      </div>
-     </div><!-- end footer content --> 
-    </div><!-- // end #footer -->
-    </div>
-  <!--</div></div>-->
+<div id="cover-photo" class="new-header-outer new-inner" style="background-image: url(/assets/privacy-page-cover/original/cover.jpg);">
+  <div id="black-overlay">privacy</div>
+</div>
+
+
+<div id="cover-margin"></div>
+
+<div id="main-content-wrapper">
+  <div class="privacy-wrapper">
+    <h1>Privacy Policy</h1>
+
+    <div>We ("Poeticous", "us", or "our") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use the website at poeticous.com (the "Site") and/or content (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.</div>
+
+    <div>This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Service. While we try to facilitate access only to those Third Party Services that share our respect for your privacy, we don't take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of all Third Party Services you access.</div>
+
+    <h2>What We Collect</h2>
+
+    <h3>Account Information:</h3><div> When you create an account on Poeticous (an "Account"), you will provide information such as your name, password, and email address. This information may personally identify you. For example, if you use your full name as your username, you are disclosing your identity to the public.</div>
+
+    <h3>Email Communications with Us:</h3><div> As part of the Services, you may occasionally receive email and other communications from us, such as administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset). These communications are considered part of the Services and your Account, which you may not be able to opt-out from receiving. Note that we will never email you to ask for your password or other Account information; if you receive such an email, forward it to us.</div>
+
+    <h3>Information about Your Accounts on Third Party Services:</h3><div> You can link your Account to certain Third Party Services. In order to do so, you will provide us with your username or other user ID on each of those Third Party Services. You may also be required to engage in an authorization process with each of those Third Party Services, where we receive a token that allows us to access those accounts so that we can, for example, authenticate you in Poeticous through those services. We do not receive or store your passwords for your Third Party Service accounts.</div>
+
+    <h3>Information Obtained from Third Party Services:</h3><div> In some cases, when you connect your Account with your accounts on Third Party Services, we may obtain information about you from those Third Party Services. Such information could include, for example, your gender, if you have disclosed that information to that third party and made it available for Poeticous to access. To the extent we obtain such information, we may use the information about you that we receive from Third Party Services to improve and personalize the Services. As a general practice, we strongly urge you to make careful judgments about any personal information you disclose to Internet services, including Poeticous and linked Third Party Services, regardless of whether you choose to link your accounts together.</div>
+
+    <h3>User Content:</h3><div> By default, all sharing through the Services is public, and when you provide us with content it is published so that anyone can view it. You should assume that anything you publish is publicly accessible. Content published and shared publicly is accessible to everyone, including search engines, and you may lose any privacy rights you might have regarding that content. In addition, information shared publicly may be copied and shared throughout the Internet. While you are free to remove published pieces of content from or delete your Account, because of the nature of Internet sharing, and technological limitations inherent to the Services, copies of that content may exist elsewhere and be retained indefinitely, including in our systems.</div>
+
+    <h3>Information Collected Using Cookies:</h3><div> Cookies are pieces of text that may be sent to and saved by your web browser when you access a website; your web browser stores these cookies in a way associated with each website you visit, and you can see your cookies through your browser settings. We use cookies to enable our servers to recognize your web browser and tell us how and when you use the Services. Our cookies do not, by themselves, contain information that personally identifies you, and we don't combine the general information collected through cookies with other such information to tell us who you are. However, we do use cookies to identify that you have logged in and that your web browser has accessed aspects of the Services, and we may associate that information with your Account if you have one. Most web browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your web browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you won't be able to log into your Account, and so will not be able to use the vast majority of our Services; as such, we don't recommend disabling your cookies when using the Services. Some third-party services that we use, such as Google Analytics, may also place their own cookies on your browser, and individual blogs on our network may contain code that places their own cookies. Note that this Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties.</div>
+
+    <h2>With Whom Your Information Is Shared</h2>
+
+    <div>We never share information we receive from you unless that information is aggregate information or other information that does not identify you.</div>
+
+    <h3>Information Shared with the Public Through the Services:</h3><div> As noted above, by default, content published through the Services is shared with the public, and this is an important feature of the Services. Such information includes, but isn't limited to, anything you choose to post on or submit to a public blog, including "Biography" information that may describe you and anything apparent in a posted photograph. Because this kind of information can be seen by anyone and may be indexed by search engines (like Google Search), you should be careful in what you choose to disclose publicly and make sure it is information you want to share with everyone.</div>
+
+    <h3>Information You Share with Third Party Services:</h3><div> You may access Third Party Services through the Services, for example by clicking on externally-pointing links. You may also choose to share information that you provide to us, like poems, with those Third Party Services (for example, by syndicating posts to Twitter or Facebook). This Privacy Policy only governs information we collect and you are responsible for understanding those Third Party Services' privacy policies.</div>
+
+    <h2>The Security of Your Information</h2>
+
+    <div>Your Account information is protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account on the Services.</div>
+
+    <div>We seek to protect your information (including your Account information) to ensure that it is kept private; however, we can't guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</div>
+
+    <h2>What Information You Can Access</h2>
+
+    <div>If you are a registered user, you can access and delete most information associated with your Account by logging into the Services and editing your Account page. Registered and unregistered users can access and delete cookies through their web browser settings.</div>
+
+    <h2>How to Delete Your Account and What Happens When You Delete Your Account</h2>
+
+    <div>If you want to delete your Account, you can do so by emailing us and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account information may not be immediately removed.</div>
+
+    <h2>Changes to This Privacy Policy</h2>
+
+    <div>We may amend this Privacy Policy from time to time, using the process for modifications set forth in our Terms of Service. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.</div>
+
+    <h2>Questions or Concerns?</h2>
+
+    <div>If you have any questions or concerns regarding privacy using the Services, please send us a detailed message.</div>
+
+    <div><i>Effective: January 3rd, 2016.</i></div>
+  </div>
+</div>
+
+
+  <!-- footer -->
+<div class="footer-outer">
+	<div class="wrapper">
+		<div class="scroll-up"><span class="icon-uniE096"></span></div>
+	</div>
+	<div class="wrapper clearfix">
+		<div class="copyright">© 2015 Poeticous. All Rights Reserved.</div>
+		<div class="footer-links">
+			<ul>
+				<li><a href="/terms">terms</a></li>
+				<li><a href="/privacy">privacy</a></li>
+				<li><a href="/contact">contact</a></li>
+				<li><a href="/donations/new">donate</a></li>
+				<li style="margin-right:0"><a href="/help">help</a></li>
+			</ul>
+		</div>
+		<div class="social-icons clearfix">
+			<ul class="footer-social-icons f_right">
+				<li><a href="https://www.facebook.com/poeticous" target="#"><img alt="facebook" src="/assets/facebook-icon-b6a28b1649fdf9609425ee8a2ba86105a907c02525243a52fe603f80882867f3.jpg"></a></li>
+				<li><a href="https://www.twitter.com/poeticous" target="#"><img alt="twitter" src="/assets/twitter-icon-2361df9e93a415f7bf6ce945b52fef87ebedce840b462790940e12630c53c4c3.jpg"></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- /footer -->
 
 
 <script>
-  $('input[placeholder], textarea[placeholder]').placeholder();
-  
-  function showSignupModal(){
-    var modalOptions = {
-      beforeClose: function(){
-     	$("#msg-wrapper").fadeOut(80);   	             
-   	    $("#envelope-img").fadeIn();
-      },
-      draggable: false,
-      modal: true,
-      resizable: false,
-      show: {
-     	duration: 550,
-     	effect: 'fade'	
-      },
-      title: "Join Poeticous",
-     	width: 660
-      };
-      
-      $("#signup-modal").dialog(modalOptions);
-      if (typeof handleCLickBeforePost != 'undefined') {
-       	  $(document).off('click', handleCLickBeforePost);
-      }
-      $(document).on('click', function(e){ //This whole thing needs to be refactored
-     	 var clicked = e.target;
-     	 if (clicked != $("#signup-modal" ).get(0) && clicked != $('#envelope-img').get(0) && clicked != $('.ui-dialog-titlebar').get(0) 
-     	   	 && clicked != $('#poet_fullname').get(0) && clicked != $('#poet_email').get(0) && clicked != $('#sign_up_form').get(0) && clicked != $('#poet_password').get(0) && clicked != $('.signup-modal-btn').get(0) 
-     	   	 && clicked != $('.login-modal-btn').get(0) && clicked != $('#modal-login-msg').get(0) && clicked != $('#login-link').get(0) && clicked != $('#signup-link').get(0) && clicked != $('#google_signin').get(0) 
-     	   	 && clicked != $('#facebook_signin').get(0) && clicked != $('#like-poem').get(0)) {
-     	     $("#signup-modal" ).dialog('close');
-     	 }
-      });
-   } 
+$(function(){
+	$('.scroll-up')
+	.off('click')
+	.on('click', function(){
+		$.scrollTo(0, 220);
+	});
+});
+
 </script>
+
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -379,4 +520,171 @@ qacct:"p-29Jr2sX962KbM"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+
+<script>
+$(function(){
+    handleSelectableElementsSelection();
+
+					(function fadeCoverPhotoOnScroll(){
+						$(window).scroll(function() {
+							var currentScrollTop = $(window).scrollTop();
+							var blackOverlay = $('#black-overlay');
+
+							if (currentScrollTop <= 450) {
+								blackOverlay.css('opacity', currentScrollTop/blackOverlay.height() - 0.2);
+							}
+						});
+					})();
+
+
+
+		$(window).on('resize', function(){
+			if ($(window).width() < 768) {
+				handleResponsiveMenu();
+			}
+		});
+
+		$('.social-icons2 #en-selection').addClass('selected-locale');
+});
+
+function handlePoemEvent($eventElements){
+  var offcolor = '#e8e6e6';
+  var oncolor = '#76cbb4';
+
+	$('#action-hover1').stop(true).fadeOut(17);
+	$('#action-hover2').stop(true).fadeOut(17);
+
+	if (!Modernizr.touchevents) {
+		$eventElements
+	    .off('mouseenter')
+	    .on('mouseenter', function(){
+	      if ($(this).attr('data-on') == "true") {
+	        $(this).css('color', offcolor);
+	      }
+	      else {
+	        $(this).css('color', 'rgba(118, 203, 180, 0.5)');
+	      }
+	    })
+	    .off('mouseleave')
+	    .on('mouseleave', function(){
+	      if ($(this).attr('data-on') == "true") {
+	        $(this).css('color', oncolor);
+	      }
+	      else {
+	        $(this).css('color', offcolor);
+	      }
+	    });
+	}
+
+  $eventElements
+    .off('click')
+    .on('click', function(){
+          requireSignIn();
+    });
+}
+
+</script>
+
+
+<script>
+
+function showSignInOrSignUpForm(formToShow, sourceElement) {
+	if (sourceElement == 'signup-link-option') {
+		$('#sign-in-tabs').hide();
+	}
+	else {
+		$('body')
+			.append("<div id='sign-in-form-overlay' class='background-overlay'></div>")
+			.on('mousewheel', disablePageScrolling);
+	}
+
+	$('.box').hide();
+
+	var topMargin = $(window).height()/2 - 51;
+	if (formToShow == 'sign-in') {
+		if ($(window).width() < 768) {
+			$('.search-wrapper').hide();
+			$('.nav-top').hide();
+			topMargin = $('.navigation-header').height() + 10;
+		}
+
+		$("#sign-in-tabs")
+			.show()
+			.height($('#sign-in-form').outerHeight() + $('.white-line').outerHeight() + $('#social-login-msg').outerHeight())
+			.animate({opacity: 1, top: topMargin}, 700, 'easeOutElastic')
+			.find('.sign-in-field')
+				.first()
+					.focus();
+
+		if ($(window).width() < 768) {
+			$.scrollTo('#login_password');
+		}
+
+		setTimeout(function(){
+			$(document).on('click touchstart', hideSignInFormOnOutsideClick);
+		}, 150);
+
+	}
+	else {
+		if ($(window).width() < 768) {
+			$('.search-wrapper').hide();
+			$('.nav-top').hide();
+			topMargin = $('.navigation-header').height() + 10;
+		}
+
+		$("#sign-up-tabs")
+			.show()
+			.height($('#sign-up-form').outerHeight() + $('.white-line').outerHeight() + $('#social-login-msg').outerHeight())
+			.animate({opacity: 1, top: topMargin}, 700, 'easeOutElastic')
+			.find('.sign-up-field')
+				.first()
+					.focus();
+
+		if ($(window).width() < 768) {
+			$.scrollTo('#poet_email');
+		}
+
+		$(document).on('click touchstart', hideSignUpFormOnOutsideClick);
+	}
+}
+
+function hideSignInFormOnOutsideClick(event){
+	if(clickOutsideElement('sign-in', event.target) && clickOutsideElement('signinTab', event.target)  && clickOutsideElement('sign-in-tabs', event.target) && clickOutsideElementWithClass('likes', event.target)) {
+		$('#sign-in-tabs').hide().css({'opacity':0, 'bottom':'0px'});
+		$('#sign-in-tabs').find('.sign-in-field').val('');
+		$('#sign-up-tabs').hide().css({'opacity':0, 'bottom':'0px'});
+		$('#sign-in-form-overlay').remove();
+		$('.box').show();
+
+		$(document).off('click touchstart', hideSignInFormOnOutsideClick);
+		$('body').off('mousewheel', disablePageScrolling);
+	}
+};
+
+function hideSignUpFormOnOutsideClick(event){
+	if(clickOutsideElement('sign-up', event.target) && clickOutsideElement('signupTab', event.target)  && clickOutsideElement('sign-up-tabs', event.target) && clickOutsideElement('signup-link-option', event.target) && clickOutsideElementWithClass('likes', event.target)) {
+		$('#sign-up-tabs').hide().css({'opacity':0, 'bottom':'0px'});
+		$('#sign-up-tabs').find('.sign-in-field').val('');
+		$('#sign-in-form-overlay').remove();
+		$('.box').show();
+
+		$(document).off('click touchstart', hideSignUpFormOnOutsideClick);
+		$('body').off('mousewheel', disablePageScrolling);
+	}
+};
+
+function disablePageScrolling(e){
+	if (e.target.id == 'el') {
+		return;
+	}
+	e.preventDefault();
+	e.stopPropagation();
+}
+
+</script>
+
+<script src="//vjs.zencdn.net/4.11/video.js"></script>
+<script src="/assets/application-8fc85f3947c6f6b40e5fb3aef96241c9d16e8da80d0c45a327d7c32b8ee82708.js" data-turbolinks-track="true"></script>
+<script src="/assets/privacy-cfea82fb3c1e98d66144e996f745c618485018de65354bff4a16d905105ac50c.js" data-turbolinks-track="true"></script>
+</body></html>
