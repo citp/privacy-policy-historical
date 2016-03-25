@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazycrackerz.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917062619id_/http%3A//crazycrackerz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazycrackerz.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325162715id_/http%3A//crazycrackerz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CrazyCrackerz.com
 
