@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverskit.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319221807id_/http%3A//www.driverskit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverskit.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325230832id_/http%3A//www.driverskit.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ When you sign up for a particular service that requires registration, we ask you
 If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
 
 **Information sharing**   
-www.DriversKit.com only shares personal information with other commercial projects from DriversKit upon obtaining the user’s consent. We require opt-in consent for the sharing of any personal information. 
+www.DriversKit.com only shares personal information with other commercial projects from DriversKit upon obtaining the user�s consent. We require opt-in consent for the sharing of any personal information. 
 
 **Information security**   
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
