@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the codegear.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927062422id_/http%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegear.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325100106id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy - Embarcadero Website
 
-© Copyright (1993-2014) Embarcadero Technologies, Inc.  
-275 Battery Street, Suite 1000  
-San Francisco, CA 94111 U.S.A.  
+© Copyright (1993-2016) Embarcadero Technologies, Inc.  
+10801 North Mopac Expressway  
+Building 1, Suite 100  
+Austin, Texas, TX, 78759 U.S.A.  
 All rights reserved.
 
 ## Privacy Policy
