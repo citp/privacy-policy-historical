@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914095724id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325031410id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Casino Tropez Privacy Policy
 
