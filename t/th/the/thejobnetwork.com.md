@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejobnetwork.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104160154id_/http%3A//jobs.thejobnetwork.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejobnetwork.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325191256id_/http%3A//jobs.thejobnetwork.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - TheJobNetwork
 
