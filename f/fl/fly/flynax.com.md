@@ -1,30 +1,48 @@
-> *The following text is extracted and transformed from the flynax.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919074455id_/http%3A//www.flynax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flynax.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325010256id_/http%3A//www.flynax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Flynax Classifieds Software Company Privacy Policy
 
-Please read this Agreement attentively before accessing the Flynax web site. If you have any questions about this Agreement, please contact us via e-mail at [privacy@flynax.com](mailto:privacy@flynax.com).
+Please read this Agreement carefully before accessing Flynax website. 
 
-Your privacy is important to us. We want you to feel comfortable using our services. Because we gather certain types of information about the users of Flynax's services, we feel you should fully understand what information we gather and how we use that information. Flynax employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action. 
+## Privacy policy principals
 
-Orders
+Your privacy is critically important to us and we want you to feel comfortable using our services. Because we collect certain types of information, we feel you should fully understand what information we collect and how we use it. Flynax employees strictly abide by the rules contained in the Privacy Policy.
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. To process an order made on our site, we require information such as your name, billing address, phone number, email address, shipping address and credit card information. This information is relayed to us via our shopping cart service and at our payment gateway billing page.
+Orders and personally identifiable information  
+When you purchase a product or a service from us you will be required to enter your personally identifiable information on the Order page; as of now, this information includes:
 
-It is used to process your order and possibly contact you by phone or email. This information, and only that information which is absolutely necessary, will be shared with those third parties that are involved in the processing, filling, and shipping of your order. For example: payment gateway you used for order processing.
+  
 
-www.flynax.com may also collect your computer's IP address. We may use your IP address to help diagnose problems with our server, administer and market our Web site, and track fraudulent credit card transactions. Your IP address is used to help identify you and may be used to gather broad demographic information. No personal information about you (i.e., your name, email address, etc.) is gathered or collected from your IP address. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-During installation, customization and integration work we can use your access data to your ftp and to your hosting control panel. We do not use this information for any other purposes and do not share them with third party companies.
+  * Full name
+  * Email
+  * Phone number
+  * Country
+  * State/region
+  * City
+  * Zip code
+  * Address 
+  * IP
+  * Billing details
 
-For security measures we would advise our clients to change ftp server information and admin mode access codes after the work on their site is finished. This guarantees our clients confidence and security of their personal information. We can request this information again if any fixes or new functions are needed.
 
-This site has strict security measures in place to protect the loss, misuse, and alteration of the information under our control. All information is stored on secure servers and stringent policies govern the use and handling of such information. 
 
-Special Offers and Updates
+We reserve the right to change the Order form and request for more information from you. All the information is transferred to us via the Order page. We don’t collect your credit card details leaving it with our payment gateways. This information is used to process and confirm your order, and possibly contact you by phone or email. In case of suspicious credit card activity our payment provider may request additional information to confirm identity and safeguard against fraudulent transactions and credit card theft.
 
-We will occasionally send you information on our products, services, special deals, promotions and updates. You can sign up for these emails on our home page.  
-You can subscribe or unsubscribe to www.flynax.com newsletter. If you wish to do it we will use your name and email address to send this kind of information to you. Out of respect for your privacy, we provide you a way to unsubscribe. Leave www.flynax.com If you ever leave www.flynax.com, www.flynax.com will normally delete your personally identifiable account information twelve months after the account is cancelled, unless we are under a legal obligation to retain it. We preserve account information for this short period of time in the event you wish to reactivate your account and retain your previous e-mail address. However, in the event of any accounting irregularities, www.flynax.com reserves the right to retain your contact and billing information as necessary to resolve the matter. 
+## Access details
 
-Changes to This Policy and Questions about Privacy
+During installation, customization, and integration we may request your FTP or Control Panel access details. We do not use your access details for any other purposes and never share them with third parties.
 
-www.flynax.com reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to [privacy@flynax.com](https://web.archive.org/web/20150919074455id_/http%3A//www.flynax.com/privacy@flynax.com)
+For the sake of security we advise that you change FTP, Control Panel, and Admin access details after we set up your site. This way, your access data is safe and secure. At your request, we may also change your password to Flynax Customer Area. We may ask for access details to your site again if you request any fixes, features or custom functionality to be added.
+
+## Security measures
+
+Flynax website uses strict security measures to protect against the loss, misuse and alteration of information under our control. All of the data is stored on our secure and protected servers with stringent policies in place that govern the use and handling of such information.
+
+## Emails and newsletters
+
+We may occasionally send you information on our products, services, new features, special deals, promotions, and updates. We primarily use our blog to communicate this type of information and try to keep email communication to a minimum; however, if you wish to unsubscribe from Flynax newsletter, you may do so by contacting us. Should you decide to terminate your account with Flynax Сompany, we will normally delete your personally identifiable account information within 7 days after closing the account. We do not delete your information instantly in case you want to restore and regain access to your account. In the event of any financial irregularities we reserve the right to retain your contact and billing information which may be necessary to handle such financial disputes.
+
+## Changes to This Policy and Questions about Privacy
+
+Although most changes are likely to be minor, Flynax Company may change its Privacy Policy from time to time, and at Flynax sole discretion. Flynax encourages visitors to frequently check this page for any changes to its Privacy Policy. A notice informing you of the changes in our privacy policy will be posted here. If you have any questions regarding our Privacy Policy, please email us to [privacy@flynax.com](mailto:privacy@flynax.com).
