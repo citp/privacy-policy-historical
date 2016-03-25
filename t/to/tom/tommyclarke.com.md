@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tommyclarke.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326062331id_/http%3A//tommyclarke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyclarke.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325180502id_/http%3A//tommyclarke.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tommy Clarke - Tom Clarke
 
-_Last updated: 19 March 2009_
+_Last updated: 3 January 2015_
 
-Tom Clarke® (“TC”) is dedicated to providing an informative and useful website on and through the domain names TomClarke.me, TommyClarke.com and/or other domain names designated by TC from time to time (the “Website”). As a part of the operation of the Website, TC gathers certain information about users. This Privacy Policy applies to the Website and governs data collection and usage at the Website. Please, read this Privacy Policy carefully. By accessing or otherwise using the Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access or otherwise use the Website.
+Tom Clarke® (“TC”) is dedicated to providing an informative and useful website on and through the domain names TomClarke.me, TommyClarke.com, TommyKnife.com and/or other domain names designated by TC from time to time (the “Website”). As a part of the operation of the Website, TC gathers certain information about users. This Privacy Policy applies to the Website and governs data collection and usage at the Website. Please, read this Privacy Policy carefully. By accessing or otherwise using the Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access or otherwise use the Website.
 
 **Data Collected**
 
@@ -62,6 +62,6 @@ Nevada law governs this Privacy Policy, the Website, and any claim associated wi
 
 **Contact Information**
 
-Questions about this Privacy Policy should be directed to Legal@atactv.com
+Questions about this Privacy Policy should be directed to the contact page on this site.
 
 Tom Clarke ® is a Register Trademark with the USPTO and may only be used with permission.
