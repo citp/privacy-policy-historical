@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021045918id_/https%3A//www.yuuguu.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325204631id_/https%3A//www.yuuguu.com/privacy_policy) for the most accurate reproduction.*
 
 # Yuuguu | Privacy policy. How Yuuguu keeps your private information private
 
