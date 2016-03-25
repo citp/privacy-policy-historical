@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shegame.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502000318id_/http%3A//www.shegame.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shegame.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325120301id_/http%3A//www.shegame.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play free game online at SheGame.com.
 
