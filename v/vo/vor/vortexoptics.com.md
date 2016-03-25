@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vortexoptics.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909185949id_/http%3A//www.vortexoptics.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vortexoptics.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325034427id_/http%3A//www.vortexoptics.com/content/privacy_policy) for the most accurate reproduction.*
 
 # Vortex Optics - Privacy Policy
 
@@ -32,10 +32,10 @@ Our Websites may contain links to other websites. Vortex Optics is not responsib
 
 ## Third Party Service Providers
 
-Vortex Optics works with certain third parties that provide services on our Websites. When you make an online purchase, you will make that purchase though Shopatron, Inc. Additionally, when you use the Vortex LRBC long range ballistics calculator, those calculations are provided by Gunwerks, LLC d/b/a G7. These third parties may collect personal and non-personal information from users of our Websites. We encourage our users to read the privacy policies of any third parties. Vortex Optics is not responsible for the content or privacy practices of any third parties. We will try to keep this policy current with the identity of third party service providers on our Websites, but if you have questions about who provides services for our Websites, please do not hesitate to contact us.
+Vortex Optics works with certain third parties that provide services on our Websites. When you submit a review, question, or a social media image, those services are processed through BazaarVoice, Inc and Krux Digital. These third parties may collect personal and non-personal information from users of our Websites. We encourage our users to read the privacy policies of any third parties. Vortex Optics is not responsible for the content or privacy practices of any third parties. We will try to keep this policy current with the identity of third party service providers on our Websites, but if you have questions about who provides services for our Websites, please do not hesitate to contact us.
 
 ## Security
 
 When you submit information via our Websites, we take efforts to protect your information both online and offline. Please keep in mind, however, that whenever you give out personal information online, such information is not always secure in transit. While we strive to protect your privacy and secure your information, we cannot guarantee the security of information sent over the Internet, and you disclose such information at your own risk.
 
-Effective Date: August 3, 2012
+Effective Date: January 11, 2016
