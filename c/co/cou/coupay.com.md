@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupay.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702004216id_/http%3A//www.coupay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupay.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325034502id_/http%3A//www.coupay.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@
 • To appropriate persons, where your communication suggests possible harm to others  
 **  
 6\. Computer tracking and cookies  
-**COUPAY website writes cookies to your computer. Cookies are small text files which help our website to keep a track of your visits.
+**COUPAY website writes cookies to your computer. Cookies are small text files which help our website to keep a track of your visits.Coupay does not share, sell, or rent your identifiable information to any third party website or company.We believe more relevant advertising provides a better Internet experience. For example, we may help an advertiser reach people who are interested in technology. In some cases, this may mean that you receive a "cookie" from an advertising partner. Contact us at info[@]socleversocial.com if you choose to opt-out.
 
 **PLEASE NOTE: If you have set your browser to reject cookies, you may not be able to use certain aspects of COUPAY - and will not be able to earn cashback.**
 
