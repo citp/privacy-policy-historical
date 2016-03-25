@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054021id_/https%3A//cadencebank.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144551id_/https%3A//cadencebank.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security | Cadence Bank
 
-### [Privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://cadencebank.com/sites/default/files/Cadence_Privacy%20Notice_with%20Affiliate%20OptOut_12_14.pdf)
+### [Privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://cadencebank.com/sites/default/files/2015%20Privacy%20Notice_with%20Affiliate%20OptOut%20final.pdf)
 
 ### The directors, management and all associates of Cadence Bank, N. A. appreciate and respect the privacy of our customer’s personal financial information. We understand that our customers furnish sensitive information to the bank in the course of our daily business, and the bank is committed to treating this information responsibly. We know that our customers expect privacy and security for their personal and financial affairs. The bank will take reasonable and appropriate steps to safeguard sensitive information that has been entrusted to us by our customers. **Policy Statement**
 
@@ -60,14 +60,14 @@ information about your creditworthiness
  **To limit our sharing**| 
 
   * Cadence Bank Customers: Call 800-636-7622 to speak to a customer service representative.
-  * Linscomb & Williams/Trust Customers: Call 1-800-308-6709 Ext. 4165 to speak to a representative.
+  * Linscomb & Williams/Trust Customers: Call 1-713-871-4165 to speak to a representative.
   * Town & Country Insurance Agency, Inc. DBA Cadence Insurance: Call 1-713-461-8979 to speak to a representative.
 
 
 
  **Please note:**
 
-If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
 ---|---  
  **Questions?**|  Call 1-800-636-7622 or go to www.cadencebank.com  
@@ -76,7 +76,7 @@ If you are a new customer, we can begin sharing your information 30 days from th
 
 |     
 ---|---  
- **Who is providing this notice?**|  This notice is provided by Cadence Bank N.A.; Cadence Financial Corporation and Cadence Bancorp LLC; each a financial holding company; Linscomb & Williams and Town & Country Insurance Agency, Inc. DBA Cadence Insurance.  
+ **Who is providing this notice?**|  This notice is provided by Cadence Bank N.A.; Cadence Bancorporation and Cadence Bancorp LLC; each a financial holding company; Linscomb & Williams and Town & Country Insurance Agency, Inc. DBA Cadence Insurance.  
   
 ###  **What we do**
 
