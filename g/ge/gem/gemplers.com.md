@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905203417id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325122458id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security | GEMPLER'S
 
@@ -24,59 +24,29 @@ We use the information that is collected from Site visitors and customers, or ot
 
   * To protect the security or integrity of the Sites, our company, or our customers and visitors; and
 
+  * To determine your browser, recognize new visitors or existing users, and better understand our audience, customers and website visitors (including by using tracking tools).
 
-| **
 
-Information Sharing
+**Information Sharing  
+We may share your information as follows:**  
+Among our various subsidiaries, divisions, affiliates, parent organizations, and brands;  
+**Can you limit the sharing?** No
 
-**  
----  
-**
+With third parties, such as suppliers, financial institutions, and others who perform services on our behalf;  
+**Can you limit the sharing?** No
 
-We may share your information as follows:
+With any successor to Specialty Brands’ interest, or otherwise in connection with a merger, sale, or transfer of all or part of our business operations;  
+**Can you limit the sharing?** No
 
-** | **
+With third parties whose products or services might be of interest to you or for joint promotional purposes;  
+**Can you limit the sharing?** Yes
 
-Can you limit the sharing?
+In response to subpoenas, investigative requests (with or without subpoena) and other legal process, to exercise Our legal rights and defend against legal claims;  
+**Can you limit the sharing?** No
 
-**  
-  
-Among our various subsidiaries, divisions, affiliates, parent organizations, and brands;
+For other reasons as may be described to you, for example in some situations We will share information with a marketing partner who is working with us to provide you with a program or service.  
+**Can you limit the sharing?** In some circumstances
 
-| 
-
-No  
-  
-With third parties, such as suppliers, financial institutions, and others who perform services on our behalf;
-
-| 
-
-No  
-  
-With any successor to Specialty Brands’ interest, or otherwise in connection with a merger, sale, or transfer of all or part of our business operations;
-
-| 
-
-No  
-  
-With third parties whose products or services might be of interest to you or for joint promotional purposes;
-
-| 
-
-Yes  
-  
-In response to subpoenas, investigative requests (with or without subpoena) and other legal process, to exercise Our legal rights and defend against legal claims; and,
-
-| 
-
-No  
-  
-For other reasons as may be described to you, for example in some situations We will share information with a marketing partner who is working with us to provide you with a program or service.
-
-| 
-
-In some circumstances  
-  
 **Your Choices**  
 Recipients of our marketing messages can unsubscribe from receiving promotional e-mail by using the unsubscribe instructions located at the bottom of the message, or by sending a request with “unsubscribe” in the subject line to [customerservice@gemplers.com](mailto:customerservice@gemplers.com).  
 Site visitors can also request that their personal information not be shared with third parties solely for marketing purposes by sending their request with “do not share” in the subject line to [customerservice@gemplers.com](mailto:customerservice@gemplers.com). Because mailing lists are prepared in advance of each promotion, you may be sent a couple of promotions before the change is effective.  
@@ -98,4 +68,4 @@ From time to time We may change our privacy policies because of changes in the r
 **Questions**  
 If users have any questions or suggestions regarding our privacy policy, please contact Us as follows: by email at [customerservice@gemplers.com](mailto:customerservice@gemplers.com), mail to PO Box 5175, Janesville, WI USA 53547-5175 or call 1-800-382-8473.
 
-Revised January 2014
+Revised January 2014 
