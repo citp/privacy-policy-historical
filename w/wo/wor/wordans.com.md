@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320123831id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325042246id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordans.com
 
