@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the piggybankgirls.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421005846id_/http%3A//www.piggybankgirls.com/privacy-policy/lang/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piggybankgirls.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325205729id_/http%3A//www.piggybankgirls.com/privacy-policy/lang/en) for the most accurate reproduction.*
 
-# PiggyBankGirls - The first erotic crowdfunding for girls - Privacy policy
+# Privacy policy - PiggyBankGirls
 
-This pricacy policy discloses the privacy practices for [www.piggybankgirls.com](http://www.piggybankgirls.com/). It applies solely to information collected by this web site, except where stated otherwise. By accessing the website, you are agreeing to this privacy policy. This privacy policy is subject to change by PiggyBankGirls at any time in its sole discretion. Your use of the website after the implementation of such changes indicates that you fully acknowledge and accept the changes. Please consult this privacy policy regularly. 
+This pricacy policy discloses the privacy practices for [ www.piggybankgirls.com ](http://www.piggybankgirls.com/). It applies solely to information collected by this web site, except where stated otherwise. By accessing the website, you are agreeing to this privacy policy. This privacy policy is subject to change by PiggyBankGirls at any time in its sole discretion. Your use of the website after the implementation of such changes indicates that you fully acknowledge and accept the changes. Please consult this privacy policy regularly. 
 
 The privacy policy is null and void in cases of fraud. 
 
@@ -10,10 +10,7 @@ This policy explains the privacy practices for PiggyBankGirls, a product of Tran
 
 In order to provide interactive computer billing and to avoid fraud, PiggyBankGirls collects and uses certain information about you. This privacy policy explains what we collect, what we use, how we store the data, how policy changes are communicated and how you can interact with PiggyBankGirls in order tu ensure the accuracy of the data we collect and use or to report any concerns over misuse of personal data. 
 
-  
-
-
-## 1.Collected data
+## 1\. Collected data
 
 Certain areas of [www.piggybankgirls.com](http://www.piggybankgirls.com/) are open to all visitors without disclosing any personal data. However, other areas require the indication of primary personal data (such as your name, your address, your email address and, for performers only, the bank information as well as proof of a government photo identification card) as well as identifiers (such as a website password). That data is submitted voluntarily by our visitors. PiggyBankGirls gives you the option of using a secure transmission method for sending such information. 
 
@@ -21,14 +18,11 @@ In addition to that data, PiggyBankGirls collects information about you during y
 
 PiggyBankGirls does not request, or knowingly collect, personal data from anyone under the age of 18. Also, PiggyBankGirls does not knowingly give children the ability to post messages or otherwise distribute information about themselves on the website. 
 
-  
-
-
-## 2.Information use
+## 2\. Information use
 
 PiggyBankGirls is the sole owner of any information collected on the website. PiggyBankGirls will not sell, share or rent this information to other parties in ways different from what is disclosed in this privacy policy. 
 
-PiggyBankGirls uses the information to provide you with the website and its services (for a detailed description of the use of cookies see our cookies page), to communicate with you, to identify troubleshoot problems with the website and to update you on our services or the services of third parties as well as, for performers, to transmit you the money that you received with your fund. 
+PiggyBankGirls uses the information to provide you with the website and its services (for a detailed description of the use of cookies see our [cookies page](http://www.piggybankgirls.com/cookies/lang/en)), to communicate with you, to identify troubleshoot problems with the website and to update you on our services or the services of third parties as well as, for performers, to transmit you the money that you received with your fund. 
 
 A sharing of information with governmental agencies or other companies assisting us in fraud prevention or investigation may be necessary in the following cases: 
 
@@ -39,28 +33,21 @@ A sharing of information with governmental agencies or other companies assisting
   5. (5) Where it is necessary to share information with trusted partners who work on behalf of or with PiggyBankGirls under confidentiality agreements. Those companies do not have any independent right to share this information; and
   6. (6) Where it is needed to protect the employees, independent contractors, users, members, officers, directors or shareholders of PiggyBankGirls.
 
-  
 
 
-## 3.Storage and security
+## 3\. Storage and security
 
 PiggyBankGirls stores and processes your personal and personally identifiable information on computers located within the Netherlands. By using the Website, you agree to the collection and processing of your personal and personally identifiable information in the Netherlands. 
 
 We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss. PiggyBankGirls utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. PiggyBankGirls encrypts the information that you provided. Though we do our best to protect your personal and personally identifiable information, you provide all such information at your own risk. 
 
-In addition, PiggyBankGirls does everything to protect your information off-line. All employees and data processors who have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. PiggyBankGirls employs a username and password scheme in order to limit and achieve access to our computer network by our employees and third parties. 
+In addition, PiggyBankGirls does everything to protect your information off-line. All employees and data processors who have access to, and are associated with the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. PiggyBankGirls employs a username and password scheme in order to limit and achieve access to our computer network by our employees and third parties. 
 
-  
+## 4\. Billing information
 
+When you use PiggyBankGirls' payment services, you understand that the payment processes are done with external service providers, Zombaio and PayXPert. PiggyBankGirls will eventually ask for banking information of its performers so that payments to the performers can be effected. Those data will be treated with utmost caution and never be transmitted to any third party, except where specified in 2. 
 
-## 4.Billing information
-
-When you use PiggyBankGirls' payment services, you understand that the payment processes are done with an external service provider, Zombaio. PiggyBankGirls will eventually ask for banking information of its performers so that payments to the performers can be effected. Those data will be treated with utmost caution and never be transmitted to any third party, except where specified in 2. 
-
-  
-
-
-## 5.Privacy settings control
+## 5\. Privacy settings control
 
 You can cease PiggyBankGirls' collection of your personal data and personally identifiable information by taking the following steps: 
 
@@ -74,4 +61,4 @@ You can cease PiggyBankGirls' collection of your personal data and personally id
 
 ##  6\. Contact 
 
-All questions and concerns regarding this privacy policy may be directed to PiggyBankGirls by email to support@piggybankgirls.com 
+All questions and concerns regarding this privacy policy may be directed to PiggyBankGirls by email to [support@piggybankgirls.com](mailto:support@piggybankgirls.com). 
