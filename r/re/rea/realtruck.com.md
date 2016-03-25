@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtruck.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094037id_/http%3A//www.realtruck.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtruck.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325201157id_/https%3A//www.realtruck.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # RealTruck's Privacy Policy
 
@@ -33,7 +33,7 @@ A few locations on the RealTruck.com website permit you to enter your email addr
 
 RealTruck.com may contact you via email for transactional purposes if you have previously shared that contact information with us on our site, such as when you subscribe to our email database, create an account, or purchase an item. These messages will be for transactional purposes only, such following up on an attempted purchase, and are in compliance with the CAN-SPAM Act.
 
-If you voluntarily subscribe to our [Email Newsletter](http://www.realtruck.com/newsletter-signup/) you will receive weekly emails from us about new products, specials, tips, and other promotions. If you have an email spam filter please add [realtruck@e.realtruck.com](mailto:realtruck@e.realtruck.com) to your safe senders list. If you are currently subscribed to our email newsletter list and would like to be removed, simply click [Unsubscribe](https://web.archive.org/web/20151208094037id_/http://www.realtruck.com/htmls/unsubscribe.php).
+If you voluntarily subscribe to our [Email Newsletter](http://www.realtruck.com/newsletter-signup/) you will receive weekly emails from us about new products, specials, tips, and other promotions. If you have an email spam filter please add [realtruck@e.realtruck.com](mailto:realtruck@e.realtruck.com) to your safe senders list. If you are currently subscribed to our email newsletter list and would like to be removed, simply click [Unsubscribe](https://web.archive.org/web/20160325201157id_/https://www.realtruck.com/htmls/unsubscribe.php).
 
 RealTruck.com employs cookies which recognize your unique web presence and access privileges, and track your usage. RealTruck also uses other web tracking analytical web software such as Google Analytics to track general traffic patterns and preferences.
 
