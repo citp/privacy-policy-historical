@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232142id_/https%3A//www.kennedyspacecenter.com/legal-disclaimer-pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325191859id_/https%3A//www.kennedyspacecenter.com/legal-disclaimer-pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Kennedy Space Center | Privacy Policy
 
