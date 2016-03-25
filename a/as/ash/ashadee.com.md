@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135511id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325030929id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ashadee
 
@@ -97,7 +97,7 @@ To reach us by fax, please dial: +603-7954-5277.
 
 To reach us by mail, please use the following address:
 
-Ashadee Technologies SB,  
+Ashadee Technologies Sdn Bhd,  
 18A-4, Third Floor, Jalan 14/20,  
 Seksyen 14, 46100 Petaling Jaya,  
 Selangor, Malaysia.
