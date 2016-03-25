@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flydenver.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055008id_/http%3A//www.flydenver.com/use_privacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flydenver.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325092532id_/http%3A//www.flydenver.com/use_privacy_policies) for the most accurate reproduction.*
 
 # Use & Privacy Policies | Denver International Airport
 
