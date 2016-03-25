@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906074755id_/https%3A//www.healthproductsforyou.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325121524id_/https%3A//www.healthproductsforyou.com/privacy_notice.html) for the most accurate reproduction.*
 
 # Health Products For You: Privacy Notice
 
-This privacy notice discloses the privacy practices for [**www.HealthProductsForYou.com**](https://www.healthproductsforyou.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for [**www.HealthProductsForYou.com**](https://web.archive.org/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   
 
@@ -36,7 +36,7 @@ Our website and third-party vendors, including Google, use first-party cookies (
 
 **Your Access to and Control Over Information**
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
@@ -46,9 +46,9 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**Security**
+ **Security**
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. 
 
