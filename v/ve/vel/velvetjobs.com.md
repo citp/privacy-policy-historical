@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the velvetjobs.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323142702id_/https%3A//www.velvetjobs.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velvetjobs.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325224715id_/https%3A//www.velvetjobs.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# VelvetJobs
+# Velvet Jobs
 
 _For the purposes of this Privacy Policy, unless otherwise noted, all references to VelvetJobs LLC include www.velvetjobs.com and VelvetJobs LLC. By using the VelvetJobs LLC website, you consent to the data practices described in this statement._
 
