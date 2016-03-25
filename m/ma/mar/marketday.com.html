@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketday.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906053751id_/https%3A//fundraising.worldsfinestchocolate.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketday.com privacy policy that was archived on 2016-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325073529id_/https%3A//fundraising.worldsfinestchocolate.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -349,17 +349,24 @@ Email: <a href="mailto:contactus@wfchocolate.com">contactus@wfchocolate.com</a>
                 <label for="newsletter">Sign Up for Our Newsletter:</label>
             </div>
             <div class="input-box">
-               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Enter Email Address" placeholder="Enter Email Address" class="input-text required-entry validate-email">
+               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
             </div>
             <div class="actions">
-                <button type="submit" title="Subscribe" class="button"><span><span><i class="fa fa-chevron-right"></i></span></span></button>
+                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
             </div>
         </div>
     </form>
     <script type="text/javascript">
-    //<![CDATA[
+        //<![CDATA[
         var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-    //]]>
+
+        //Trigger RKG Tracking Pixel on success
+        newsletterSubscriberFormDetail.submit = function(button, url) {
+            if (this.validator.validate()) {
+                (new Image()).src = "http://micro.rkdms.com/micro.gif?mid=chocfund&type=email";
+            }
+        }.bind(newsletterSubscriberFormDetail);
+        //]]>
     </script>
 </div>
 
