@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinfow.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618225710id_/http%3A//www.theinfow.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfow.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144600id_/http%3A//www.theinfow.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# TheInfow.com: iOS, iPhone, iPad jailbreaking and Gadgets!: Privacy Policy
+# TheInfow.com: iOS, iPhone, iPad jailbreaking, gadgets, news, events and more: Privacy Policy
 
 At www.theinfow.com, the privacy of my visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.theinfow.com and how it is used. 
 
