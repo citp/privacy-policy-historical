@@ -1,39 +1,60 @@
-> *The following text is extracted and transformed from the sharpschool.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915232301id_/http%3A//www.sharpschool.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpschool.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325084841id_/http%3A//www.schoolmessenger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SharpSchool
+# Privacy Policy - SchoolMessenger
 
-### Your privacy is important to us.
+Unify your communications across devices and platforms. **More than 55,000 schools trust SchoolMessenger** for parent and community engagement. [See why __](http://www.schoolmessenger.com/solutions/)
 
-  * We will not ask you for personal information unless necessary.
-  * We will not share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We will not store personal information on our servers unless required for the on-going operation of one of our services.
+**We care about providing you with the tools and information to manage and protect your online privacy. We have therefore developed a policy to inform you about the types of information the SchoolMessenger services and website collect, who may receive that information, and what we may do with the information.**
+
+SchoolMessenger is also a signatory to the Student Privacy Pledge ([www.studentprivacypledge.org](http://studentprivacypledge.org/?page_id=45)), and its commitments and protections are reflected in both how we deliver our services, and in our responsible stewardship and appropriate use of educator, student, and parent information.
+
+While we have made every attempt to make this policy as clear as possible, if you have any questions about this policy, contact us at:
+
+**SchoolMessenger**  
+100 Enterprise Way Suite A-300  
+Scotts Valley, CA 95066  
+Phone: 888-527-5225  
+Email: [info@schoolmessenger.com](mailto:info@schoolmessenger.com)
+
+  
+
+
+### Information collection
+
+Our services collect the following types of information:
+
+  * Traditional contact information such as mailing addresses, phone and fax numbers.
+  * Internet contact information such as email addresses.
+  * Session information such as IP addresses.
+  * Account validation data such as user names and passwords.
 
 
 
-It is SharpSchool's policy to respect your privacy regarding any information we may collect while operating our websites.
+We use this information to verify your account, to correspond with you, to deliver our services, to resolve problems that you encounter, and to improve our service.
 
-### Website Visitors
+  
 
-SharpSchool collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SharpSchool’s purpose in collecting non-personally identifying information is to better understand how SharpSchool’s visitors use its website. From time to time, SharpSchool may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-
-SharpSchool also collects potentially personally-identifying information like Internet Protocol (IP) addresses. SharpSchool does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
-
-### Gathering of Personally-Identifying Information
-
-Certain visitors to SharpSchool’s websites choose to interact with SharpSchool in ways that require SharpSchool to gather personally-identifying information. The amount and type of information that SharpSchool gathers depends on the nature of the interaction. Those who engage in transactions with SharpSchool are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, SharpSchool collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with SharpSchool. SharpSchool does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-### Aggregated Statistics
-
-SharpSchool may collect statistics about the behavior of visitors to its websites. SharpSchool may display this information publicly or provide it to others. However, SharpSchool does not disclose personally-identifying information other than as described below.
-
-### Protection of Certain Personally-Identifying Information
-
-SharpSchool discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SharpSchool’s behalf or to provide services available at SharpSchool’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SharpSchool’s websites, you consent to the transfer of such information to them. SharpSchool will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SharpSchool discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when SharpSchool believes in good faith that disclosure is reasonably necessary to protect the property or rights of SharpSchool, third parties or the public at large. If you are a registered user of an SharpSchool website and have supplied your email address, SharpSchool may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with SharpSchool and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SharpSchool takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. SharpSchool uses cookies to help SharpSchool identify and track visitors, their usage of SharpSchool website, and their website access preferences. SharpSchool visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SharpSchool’s websites, with the drawback that certain features of SharpSchool’s websites may not function properly without the aid of cookies.
+Some of our services and websites may use a cookie for session login. Only a unique ID is stored in the cookie that identifies your session on the server. It expires after a defined period of inactivity or when you close your browser, whichever is soonest, and does not contain any personally identifiable information.
 
-### Privacy Policy Changes
+Some of our websites may also use anonymous cookies to collect non-personal information such as website activity, length of time spent on our sites, and types of browsers and devices used to access our site. This data allows us to understand site usage patterns and make our websites easier to use. Also, if you submit your personal information via a web form on our public marketing website at www.schoolmessenger.com, we may utilize a persistent cookie to recognize when your computer visits our website. This allows us to provide personalized content.
 
-Although most changes are likely to be minor, SharpSchool may change its Privacy Policy from time to time, and in SharpSchool’s sole discretion. SharpSchool encourages visitors to frequently check this page for any changes to its Privacy Policy. 
+  
+
+
+### Information sharing
+
+The information we collect is not sold, traded, leased or loaned to any third parties, ever. Only our employees who need access to the information in order to do their jobs have access to it.
+
+  * We do not sell, trade, lease or loan any data about our website users or service subscribers to any third party, ever. Your contact information, the contact information for all of a customer’s constituents, your communications and your documents are private and protected against unauthorized access.
+  * We do not send any unsolicited e-mail, unsolicited calls, unsolicited text messages or unsolicited faxes.
+  * We do not sell information to direct marketers or any other third parties. We do not distribute information to any third parties except as may be required to relay or deliver messages to intended recipients.
+  * We do not disclose any non-public information about you, except as required or permitted by law.
+
+
+
+Under U.S. law, there is an affirmative duty of service providers to the public to report to the Federal government's Cyber Tip Line knowledge of facts or circumstances of online child pornography. In the above events, we reserve rights of disclosure to others.
+
+If you believe we are not handling your information in accordance with our privacy policy, please contact us at 888-527-5225. You can also email us at [info@schoolmessenger.com.](mailto:info@schoolmessenger.com)
