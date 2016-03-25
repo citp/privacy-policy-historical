@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalcommerce.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703033102id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalcommerce.org privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325174305id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Commerce Guys
 
@@ -6,7 +6,7 @@ Commerce Guys operates various websites and offers many different services and p
 
 We value your privacy and we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what information we collect, how we use that information, and other policies regarding your information and privacy. We have tried to make it as simple as possible, but if you do not understand something, please [contact us](http://commerceguys.com/inquiry).
 
-“Commerce Guys” means Commerce Guys SAS, a French company located at 38, rue du Sentier , Paris, 75002 France, and Commerce Guys, LLC, a Michigan limited liability company located at 950 Victors Way, Suite 10, Ann Arbor, Michigan 48108, and, and may include its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and/or licensors (together, referred to throughout this Privacy Policy as “Commerce Guys” or “us” or “we”).
+“Commerce Guys” means Commerce Guys SAS, a French company located at 38, rue du Sentier , Paris, 75002 France, and Commerce Guys, LLC, a Michigan limited liability company located at 900 Victors Way, Suite 328, Ann Arbor, Michigan 48108, and, and may include its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and/or licensors (together, referred to throughout this Privacy Policy as “Commerce Guys” or “us” or “we”).
 
 Our Privacy Policy applies to all of the services offered by Commerce Guys, including services offered on any of our websites (CommerceGuys.com, DrupalCommerce.org, Marketplace.CommerceGuys.com), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -86,7 +86,7 @@ Visitors have the following options for correcting personal information or remov
 
   1. Click on the "Unsubscribe" link on any Commerce Guys email
   2. Send a request to [webmaster@commerceguys.com](mailto:webmaster@commerceguys.com)
-  3. Send a request by mail to the following postal address: 950 Victors Way, Suite 10, Ann Arbor, MI 48108
+  3. Send a request by mail to the following postal address: PO Box 536 , Brooklyn, MI 49230
   4. Call the following telephone number: 1-888-827-7142 to make such a request
 
 
