@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopthemint.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910172308id_/https%3A//www.shopthemint.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopthemint.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325142829id_/https%3A//www.shopthemint.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Mint Julep Boutique
 
