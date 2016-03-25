@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teliasonera.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227215109id_/http%3A//www.teliasonera.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teliasonera.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325011448id_/http%3A//www.teliasonera.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - TeliaSonera
 
