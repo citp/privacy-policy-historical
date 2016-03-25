@@ -1,350 +1,227 @@
-<!--The following is the downloaded HTML source of the cisecurity.org privacy policy that was archived on 2015-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150926102420id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cisecurity.org privacy policy that was archived on 2016-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325132422id_/https%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/tier-1.dwt.cfm" codeOutsideHTMLIsLocked="false" --><head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<!-- InstanceBeginEditable name="doctitle" -->
-<title>Center for Internet Security</title>
-<!-- InstanceEndEditable -->
-	<meta http-equiv="content-language" content="en">
-	<meta name="language" content="en">
-	<meta name="keywords" content="Internet, Security, Security Benchmarks, MS-ISAC, Multistate Sharing and Analysis Center, Cybversecurity Workforce Development">
-	<meta name="description" content="The Center for Internet Security">
-	<meta name="author" content="The Center for Internet Security">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="../css/app.css?2013-02-19-10AM" media="all">
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../scripts/jquery-1.5.2.min.js"></script>
-	<script type="text/javascript" src="../scripts/hover-intent.js"></script>
-	<script type="text/javascript" src="../scripts/global.js"></script>
-	<script type="text/javascript" src="../scripts/jquery-ui-1.8.11.custom.min.js"></script>
-	<script type="text/javascript" src="../scripts/jquery-equal-columns.js"></script>
-	<link rel="stylesheet" type="text/css" href="https://www.cisecurity.org/css/custom-theme/jquery-ui-1.8.11.custom.css" media="all"> 
-
-
-<script type="text/javascript">
-	$(document).ready( function() {
-		$("body").prepend('<div id="header-bar"><div class="ui-widget-header"></div></div>');
-		$('.focus').focus();
-		$('.jq-button').button();
-		$('form.delete :input').attr("disabled", "disabled");
-		$('form.delete input[type=submit]').removeAttr("disabled");
-		$('form.delete input[type=hidden]').removeAttr("disabled");
-		$("[class^=jq-button-]").each( function() {
-			var objClass = $(this).attr("class").split("-");
-			var iconClass = "ui-icon";
-			for (var ii=2; ii < objClass.length; ii++) {
-				iconClass += "-" + objClass[ii];
-			}
-			$(this).button( {
-				icons: {primary:iconClass}
-			} );
-		}
-		);
-		$(".accordion").accordion({ header: "h3"});
-		$('.tabs').tabs({ selected: 0 });
-		$('.confirm').click( function() {
-			var text = $(this).attr("title");
-			if(!text.length){
-				text = $(this).html();
-				if($(this).is(":input")){
-					text = $(this).val();
-				}
-				text = "Please confirm you would like to: "+text;
-			}else{
-				text = "Are you sure you would like to " + text;
-			}
-			return confirm(text);
-		} );
-
-		//$(":input").addClass("ui-corner-all");
-		// any form elements that have the class hinted will show their title attribute whenever blank. be careful of submits as these values will come through
-		$("input.auto-hint").each(function(){
-			var hint = $(this).attr("title");
-			var size = $(this).attr("size");
-			var max_size = 80;
-			if(size == 0){
-				if(hint.length > max_size) $(this).attr("size",max_size)
-				else if(hint.length > 0) $(this).attr("size",hint.length);
-			}
-			$(this).blur(function() {
-				if(!$(this).val().length){
-					$(this).val($(this).attr("title"));
-					$(this).addClass("ui-hinted");
-				}
-			});
-			$(this).focus(function () {
-				$(this).removeClass("ui-hinted");
-				if($(this).val() == $(this).attr("title")){
-					$(this).val("");
-				}
-			});
-		}).blur();
-		
-		$('.datepicker').datepicker({
-			showOn: 'button'
-			,buttonImage: 'https://www.cisecurity.org/images/icons/calendar.gif'
-			,buttonImageOnly: true
-		});
-		
-		$("#global fieldset").css("background","none").css("font-weight","normal").addClass("ui-padded").addClass("ui-corner-all");
-		$("#global fieldset legend").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
-		
-		$(".ui-interactive").addClass("ui-state-default").addClass("ui-corner-all").hover(
-			function () {
-				$(this).addClass("ui-state-focus").removeClass("ui-state-default");
-			},
-			function () {
-				$(this).addClass("ui-state-default").removeClass("ui-state-focus");
-			}
-		);
-
-		$(".ui-row-drill-down").css("cursor","pointer").hover(
-			function () {
-				$(this).children().addClass("ui-state-focus");
-			}, 
-			function () {
-				$(this).children().removeClass("ui-state-focus");
-			}
-		).click(function (){
-			var link = $(this).attr("rel");
-			document.location.href = link;
-		});
-
-		$(".auto-submit").change(function () {
-			$(this).parents("form").submit();
-		});
-
-		$(".ui-padded").css("padding","0.5em");
-		$("#header").hide().fadeIn("slow");
-		$(".auto-hide").addClass("ui-helper-hidden");
-
-		//$(".auto-mask-phone").mask("(999) 999-9999");
-		//$(".auto-mask-zip").mask("99999");
-		//$(".auto-mask-zip-9").mask("99999-9999");
-		$(':input[class|="reveal"]').click( function() {
-			var me = $(this).attr("id");
-			var classes = $(this).attr("class").split(" ") ;
-			var what = classes[0].replace("reveal-","");
-			var allreveals = what.split("-")[0];
-			$('li[id|="'+allreveals+'"]').hide();
-			$('#'+what+'').fadeIn();
-		});
-		// tablesorter may not be used everywhere adn this file is included in the error handler pages... if you uncomment this, make sure you add the link to the tablesorter plugin to the error handler pages and all templates
-		//$("table.tablesorter").tablesorter({widthFixed: true, widgets: ['zebra']});
-		
-		// setup content tables
-		$("#content table[class!='no-auto-format'] caption[class!='no-auto-format']").addClass("ui-state-focus").addClass("ui-corner-all");
-		$("#content table[class!='no-auto-format'] tr th[class!='no-auto-format']").addClass("ui-widget-header").addClass("ui-table-header-padding");
-		$("#content table[class!='no-auto-format'] tfoot[class!='no-auto-format']").addClass("ui-state-default");
-		//$("tbody th").addClass("ui-widget-header");
-		
-		//$("#content fieldset").css("background","none").css("font-weight","normal").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
-		//$("#content fieldset legend").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
-		$(":input.auto-tip").after('<span class="tip-display"></span>');
-		$(":input.auto-tip").change(function () {
-				var tip = $(this).next("span.tip-display");
-				var me = $(this).attr("id");
-				var option = $("#"+me+" option:selected");
-				tip.hide().text(option.attr("title"));
-				tip.fadeIn("slow");
-			}).change();
-		
-			$("head").append('<link rel="shortcut icon" href="https://www.cisecurity.org/favicon.ico" type="image/x-icon" />');
-				
-
-
-	} );
-
-	function debug(msg){
-	if($("#jquery-debug-text").length ==0){
-		$("body").append('<div id="jquery-debug-text"><textarea rows="20"></textarea></div>');
-	}
-	var current = $("#jquery-debug-text textarea").text();
-	if(current.length >0) current = current + "\n";
-	var msg = current + msg;
-	$("#jquery-debug-text textarea").text(msg);
-}
-
-</script>
-
-<style type="text/css">
-	#content a[href^="https://www.cisecurity.org/"]
-	,#content a[href^="https://msisac.cisecurity.org/"]
-	,#content a[href^="https://www.cisecurity.org/"]
-	,#content a[href^="https://benchmarks.cisecurity.org/"]
-		{margin-right: 0px;padding-right: 0px;background-image:none;}
-</style>
-	<!-- InstanceParam name="Nav" type="boolean" value="false" -->
-<style>
-		.internal .rightC {
-				width: 960px;
-		}
-		</style>
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable --><!-- InstanceParam name="Breadcrumbs" type="boolean" value="true" --><!-- InstanceParam name="Section" type="text" value="" --><!-- InstanceParam name="Tier1BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier1BreadcrumbURL" type="URL" value="" --><!-- InstanceParam name="Tier2BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier2BreadcrumbURL" type="URL" value="" --><!-- InstanceParam name="Tier3BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier3BreadcrumbURL" type="URL" value="" --><!-- InstanceParam name="Tier4BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier4BreadcrumbURL" type="URL" value="" -->
-
-<style type="text/css">
-#social-media { width: 140px; position:absolute; right: 335px; top:58px}
-#social-media img { width: 30px; height:30px; }
-#social-media ul { list-style:none; }
-#social-media ul li { display:block; float: left; width:35px; }
-</style>
-<link rel="shortcut icon" href="https://www.cisecurity.org/favicon.ico" type="image/x-icon"></head>
-<body><div id="header-bar"><div class="ui-widget-header"></div></div>
-	<div id="global">
-		
-    <div id="header" style="display: block; opacity: 0.9879;">
-      <div class="square">
-          <a href="https://benchmarks.cisecurity.org/"><div class="orange"></div></a>
-          <a href="https://msisac.cisecurity.org/"><div class="red"></div></a>
-          <a href="https://alliance.cisecurity.org/"><div class="blue"></div></a>
-          <a href="https://iic.cisecurity.org"><div class="olive"></div></a>
-      </div>
-      
-      <h1 id="logo"><a href="https://www.cisecurity.org/index.cfm" title="link to Center for Internet Security Home Page">
-      	<img src="https://www.cisecurity.org/img/CISlogo.png" width="360" height="100" id="logo" alt="Center for Internet Security">
-      </a></h1>
-      <div class="rightBlock">
-      	<div class="divisionContainer">
-					<div>
-						<a href="https://benchmarks.cisecurity.org/" title="Go to Security Benchmarks"><div style="width:120px"></div></a>
-						<a href="https://msisac.cisecurity.org/" title="Go to Multi-State Information Sharing &amp; Analysis Center"><div style="width:105px;background-position:-121px 0"></div></a>
-						<a href="https://alliance.cisecurity.org/" title="Go to Trusted Cyber Security Purchasing Alliance"><div style="width:95px;background-position:-226px 0"></div></a>
-						<a href="https://iic.cisecurity.org" title="Integrated Intelligence Center"><div style="width:79px;background-position:-321px 0"></div></a> 
-					</div>
-			</div>
-        
-        
-      	<div id="social-media" style="width:180px">
-        	<ul>
-            	<li><a href="http://www.linkedin.com/company/the-center-for-internet-security"><img src="//www.cisecurity.org/images/social/linkedin_35.jpeg" alt="linkedin icon"></a></li>
-            	<li><a href="http://www.facebook.com/pages/Center-for-Internet-Security/170204946443238"><img src="//www.cisecurity.org/images/social/facebook_30.png" alt="facebook icon"></a></li>
-            	<li><a href="http://twitter.com/#!/CISecurity "><img src="//www.cisecurity.org/images/social/twitter_30.png" alt="twitter icon"></a></li>
-            	<li><a href="http://www.youtube.com/user/TheCISecurity "><img src="//www.cisecurity.org/images/social/youtube_30.png" alt="youtube icon"></a></li>
-                <li><a href="http://blog.cisecurity.org"><img src="//www.cisecurity.org/images/cis-blog-button-30x30.gif" alt="cis blog icon"></a></li>
-            </ul>
-            <div class="ui-helper-clearfix"></div>
-        </div>
-        
-        
-        
-        <div class="searchContainer" style="margin-top:0">
-          <div><a href="https://www.cisecurity.org/about/contact/">Contact Us</a></div>
-          <form action="https://www.cisecurity.org/search/index.cfm" id="cse-search-box">
-          <div>
-            <input type="text" class="auto-hint ui-hinted" name="q" title="Search CIS Website" value="" style="background-image: none;">
-						<input type="hidden" name="cx" value="002442560611744690153:tf2w3ojvlbs">
-						<input type="hidden" name="cof" value="FORID:10">
-						<input type="hidden" name="ie" value="UTF-8">
-          </div>
-          <div>
-            <input type="submit" class="button ui-corner-all" value="GO" name="sa">
-          </div>
-        </form>
-				
-					<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-          <script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
-          <script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
-          <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-				
-          <script type="text/javascript" charset="utf-8">
-					$(document).ready(function () {
-						$("#cse-search-box input[name='q']").css("background-image","none");
-					});
-				</script>
-			 </div>
-      </div>
-    </div>
+<!DOCTYPE html><html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/tier-1-about.dwt.cfm" codeOutsideHTMLIsLocked="false" --><!--<![endif]--><head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width"> 
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Center for Internet Security</title>
+  <!-- InstanceEndEditable -->
+  <link rel="stylesheet" href="//www.cisecurity.org/css/app.css">
+  <link rel="stylesheet" href="//www.cisecurity.org/css/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//www.cisecurity.org/slick/slick.css">
+  <link rel="stylesheet" href="//www.cisecurity.org/slick/slick-theme.css">
   
-		<ul id="top-nav">
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+</head>
+<body>
+     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=001880355138276585400:jdoggkvlyii"></script><script src="//www.cisecurity.org/js/vendor/fastclick.js"></script>
+        <script src="//www.cisecurity.org/js/vendor/jquery.js"></script>
+        <script src="//www.cisecurity.org/js/vendor/placeholder.js"></script>
+        <script src="//www.cisecurity.org/js/foundation.js"></script>
+        <script src="//www.cisecurity.org/js/libs/require.js"></script>
+        <script src="//www.cisecurity.org/js/vendor/modernizr.js"></script>
+
+<header class="site-header" role="banner">
+	<div class="row">
+		<div class="column medium-7">
+			<a href="//www.cisecurity.org"><img width="420px" height="auto" src="//www.cisecurity.org/images/CISLogoWeb.png" alt="Center for Internet Security"></a>
+			<div class="bcms-clearfix custom-clearfix"><br></div>
+		</div>
+		<div class="column medium-5 show-for-medium-up">
+			<br>
 			
-    <li>
-      <div><a href="https://www.cisecurity.org/about/">About Us</a></div>
-      <ul style="display: none;">
-        
-  <li>
-    <a href="https://www.cisecurity.org/about/">Overview &amp; Mission</a>
-  </li>
+			<ul class="social-links">
+				<li><a href="https://www.youtube.com/user/TheCISecurity" target="_blank"><i class="fa fa-youtube fa-2x"></i></a></li>
+				<li><a href="https://www.facebook.com/CenterforIntSec" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+				<li><a href="https://twitter.com/CISecurity" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+				<li><a href="https://www.linkedin.com/company/the-center-for-internet-security" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a></li>
+                <li><a href="http://blog.cisecurity.org/" target="_blank"><span class="fa-stack"><i class="fa fa-comment fa-2x"></i><span class="fa-stack-1x fa-stack-text fa-inverse" style="font-size: .6em;font-family: Helvetica">BLOG</span></span></a></li>
+			</ul>
+			<div class="bcms-clearfix custom-clearfix"></div>
+    <script>
+        (function() {
+            var cx = '001880355138276585400:jdoggkvlyii';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                    '//cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+            $('input.gsc-input').attr('placeholder', 'custom text here');
+        })();
+    </script>
+    <gcse:search></gcse:search>
+		</div>
+	</div>
+	<a href="#" class="svg-nav-toggle" id="nav-toggle" aria-hidden="true"> <svg class="svg-x js-svg-x" height="64" version="1.1" width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<g>
+		<path class="svg-x-first" fill="none" stroke="#427fb3" stroke-width="5" stroke-linejoin="bevel" d="M 5,21 59,21"></path>
+		<path class="svg-x-second" fill="none" stroke="#427fb3" stroke-width="5" stroke-linejoin="bevel" d=" M 5,32 59,32" transform="matrix(1,0,0,1,0,0)"></path>
+		<path class="svg-x-third" fill="none" stroke="#427fb3" stroke-width="5" stroke-linejoin="bevel" d="M 5,43 59,43"></path>
+	</g>
+        <text x="10" y="60" font-family="Verdana" font-size="15" class="menu-text">
+           	MENU
+        </text>
+	</svg>
+	</a>
+    
+	<div id="undefined-sticky-wrapper" class="sticky-wrapper" style="height: 46px;">
+		<nav class="main-nav nav-collapse nav-collapse-0 closed" role="navigation" style="transition: max-height 200ms; position: fixed;" aria-hidden="false">
+			<div class="row">
+				<ul>
+					<li class="has-sub text-center" id="MS-nav"> <a href="//msisac.cisecurity.org/"><br>
+						MS-ISAC <span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul>
+								<li> <a href="//msisac.cisecurity.org/"><br>
+									Overview </a> </li>
+								<li> <a href="//msisac.cisecurity.org/alert-level"><br>
+									Alert Level</a> </li>
+								<li> <a href="//msisac.cisecurity.org/about/services/"><br>
+									Catalog Of Services</a> </li>
+								<li> <a href="//msisac.cisecurity.org/resources/"><br>
+									Resources</a> </li>
+								<li> <a href="//msisac.cisecurity.org/webcast/"><br>
+									Webcasts</a> </li>
+								<li> <a href="//msisac.cisecurity.org/members/register">Join <br>
+									The MS-ISAC</a> </li>
+								<li> <a href="https://portal.us-cert.gov/"><br>
+									Secure Portal</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="has-sub text-center" id="Secure-nav"> <a href="//benchmarks.cisecurity.org/">Security <br>Benchmarks<span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul>
+								<li><a href="//benchmarks.cisecurity.org/"><br>
+									Overview </a></li>
+								<li><a href="//benchmarks.cisecurity.org/downloads/"><br>
+									Products &amp; Solutions</a> </li>
+								<li class="text-center"><a href="//benchmarks.cisecurity.org/trybuy/"><br>Try &amp; Buy</a></li>
+								<li><a href="//benchmarks.cisecurity.org/community"><br>
+									Communities &amp; Support</a> </li>
+								<li><a href="//benchmarks.cisecurity.org/customers"><br>
+									Customers</a> </li>
+								<li><a href="https://community.cisecurity.org/collab/public/index.php?path_info=login&amp;re_route=homepage"><br>
+									Login</a> </li>
+							</ul>
+						</div>
+					</li>
+					<li class=" has-sub text-center" id="Critical-nav"> <a href="//www.cisecurity.org/critical-controls.cfm">CIS Critical Security <br>
+						Controls<span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul>
+								<li><a href="//www.cisecurity.org/critical-controls.cfm"><br>Overview </a></li>
+                                <li><a href="//www.cisecurity.org/critical-controls/champions/"><br>Champion's License</a></li>
+								<li><a href="//www.cisecurity.org/critical-controls/reports/"><br>
+									Reports</a></li>
+								<li><a href="//www.cisecurity.org/critical-controls/faq/"><br>
+									FAQs</a></li>
+								<li><a href="//www.cisecurity.org/critical-controls/case-studies/"><br>
+									Case Studies</a></li>
+								<li><a href="//www.cisecurity.org/critical-controls/tools/"><br>
+									Tools</a></li>
+							</ul>
+						</div>
+					</li>
+                    <li class=" has-sub text-center" id="Workforce-nav"> <a href="//www.cisecurity.org/workforce/">Workforce<br>
+						Development<span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul> 
+								<li><a href="//www.cisecurity.org/workforce/"><br>
+									Overview </a></li>
+								<li><a href="//www.cisecurity.org/workforce/roles/"><br>
+									Cybersecurity Roles</a></li>
+								<li><a href="//www.cisecurity.org/workforce/workplace/"><br>
+									Workforce Management</a></li>
+								<li><a href="//www.cisecurity.org/workforce/challenge/"><br>
+									US Cyber Challenge</a></li>
+								<li><a href="https://www.cybercompex.org/"><br>
+									CyberCompEx</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class=" has-sub text-center" id="Training-nav"> <a href="//www.cisecurity.org/training/">Training <br>
+						&amp; Resources <span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul>
+								<li><a href="//www.cisecurity.org/training/"><br>Overview </a></li>
+								<li><a href="//www.cisecurity.org/training/cyberheadlines/"><br>
+									Cyber Bulletin</a></li>
+								<li><a href="//www.cisecurity.org/training/videos/"><br>
+									Videos</a></li>
+								<li class="text-center"><a href="//www.cisecurity.org/training/resources/"><br>
+									Resources</a></li>
+								<li><a href="//www.cisecurity.org/training/publications/"><br>
+									Publications</a></li>
+								<li><a href="//www.cisecurity.org/cyber-pledge/"><br>
+									Cyber Hygiene</a></li>
+							</ul>
+						</div>
+					</li>
+					
+					<li class=" has-sub text-center" id="Products-nav"> <a href="//www.cisecurity.org/products/">Products <br>
+						&amp; Services<span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul>
+								<li><a href="//www.cisecurity.org/products/"><br>
+									Overview </a></li>
+								<li><a href="//benchmarks.cisecurity.org/downloads/"><br>
+									Benchmarks</a></li>
+								<li><a href="//msisac.cisecurity.org/about/services/"><br>
+									Monitoring</a></li>
+								<li><a href="//benchmarks.cisecurity.org/downloads/audit-tools/"><br>
+									Assessment Tools</a></li>
+								<li><a href="//benchmarks.cisecurity.org/membership/roster/"><br>
+									Consulting</a></li>
+								<li><a href="//benchmarks.cisecurity.org/hardened-virtual-images/">Hardened <br>
+									Virtual Images</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class=" has-sub text-center" id="About-nav"> <a href="//www.cisecurity.org/about/"><br>
+						About Us<span class="sub-toggle"></span></a>
+						<div class="sub-nav">
+							<ul>
+								<li><a href="//www.cisecurity.org/about/"><br>
+									Overview</a></li>
+								<li><a href="//www.cisecurity.org/about/leadership/"><br>
+									Leadership</a></li>
+								<li><a href="//www.cisecurity.org/about/board/"><br>
+									Board Of Directors</a></li>
+								<li><a href="//www.cisecurity.org/about/annual/"><br>
+									Annual Reports</a></li>
+								<li><a href="//www.cisecurity.org/about/news-room/"><br>
+									CIS Media</a></li>
+								<li><a href="//www.cisecurity.org/about/opportunities/">Employment<br>
+									Opportunities</a></li>
+								<li><a href="//www.cisecurity.org/about/contact/"><br>
+									Contact</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</div>
+	
+</header>
+<main role="main">
  
-  <li>
-    <a href="https://www.cisecurity.org/about/board-of-directors/">Board of Directors</a>
-  </li>
-  <li>
-    <a href="https://www.cisecurity.org/about/executive-staff/">Executive Staff</a>
-  </li>
-  <li><a href="https://www.cisecurity.org/annual-report/2014/">Annual Report</a></li>
-  <li>
-    <a href="https://www.cisecurity.org/about/news-room/">Newsroom</a>
-  </li>
-  <li>
-    <a href="https://www.cisecurity.org/about/employment-opportunities/">Employment Opportunities</a>
-  </li>
-  <li>
-    <a href="https://www.cisecurity.org/about/contact/">Contact Us </a>
-  </li>
-
-      </ul>
-    </li>
-    <li class="divider">
-      |
-    </li>
-    <li>
-      <div><a href="https://www.cisecurity.org/membership/">Communities/Membership</a></div>
-
-    </li>
-    <li class="divider">
-      |
-    </li>
-    <li>
-      <div><a href="https://www.cisecurity.org/resources-publications/">Resources &amp; Publications</a></div>
-
-    </li>
-    <li class="divider">
-      |
-    </li>
-    <li>
-      <div><a href="https://www.cisecurity.org/training-events/">Training &amp; Events</a></div>
-
-    </li>
-    <li class="divider">
-      |
-    </li>
-     <li>
-      <div><a name="ccsa">Council on CyberSecurity Archives</a></div>
-      <ul style="display: none;">
-		
-  <li>
-    <a href="http://www.counciloncybersecurity.org/about-us/">About Us</a>
-  </li>
-  <li>
-    <a href="http://www.counciloncybersecurity.org/critical-controls/">Critical Controls</a>
-  </li>
-  <li>
-    <a href="http://www.counciloncybersecurity.org/workforce/">Workforce</a>
-  </li>
-  <li>
-    <a href="http://www.counciloncybersecurity.org/resources/council-publications/">Resources</a>
-  </li>
-  <li><a href="http://www.counciloncybersecurity.org/membership1/">Membership</a></li>
-  <li>
-    <a href="http://www.counciloncybersecurity.org/blog/">Blog</a>
-  </li>
-
-      </ul>
-
-    </li>
-  
-		</ul>
-		
-		<div id="breadcrumbs"> <a href="../index.cfm">Home</a>     </div>
-		 
-  <div class="internal clearfix">
-    <div id="content" class="rightC clearfix"><!-- InstanceBeginEditable name="section" -->
-      <h1>Center for Internet Security Web Privacy Policy 
-	  </h1>
-      <p>Thank you for visiting the Center for Internet Security (CIS) website. <br>
+        
+	<!-- InstanceBeginEditable name="content" -->
+                <div class="sub-header crit-contr-overview">
+								<h1>Center for Internet Security Web Privacy Policy</h1>
+								</div>
+								
+								<section class="content-area-crit-contr numbered-list-reset gray-bg">
+    	<div class="row">
+        	<div class="medium-12">
+					
+					<p>Thank you for visiting the Center for Internet Security (CIS) website. <br>
       This website is intended to make it easy and efficient to learn about and interact with CIS and its four divisions: MS-ISAC, Security Benchmarks, Trusted Purchasing Alliance and Integrated Intelligence Center.</p>
       <p>The mission of CIS is to improve and enhance Internet security, so we are sensitive to the privacy issues on the Internet and recognize that visitors to this website are concerned about the type of information we collect and how we use it.  CIS is committed to preserving your privacy when visiting this website, and this policy discusses our practices.</p>
       <p>This policy covers both: (1) personal information, which is information that can be identified to a particular individual because of a name, number, symbol, mark or other indicator; and (2) non-personal information that does not identify a particular individual. </p>
@@ -397,15 +274,15 @@
           You may not misrepresent your, or your organization's, relationship with CIS;
         </li>
         <li>
-          
+
           You may not present false information about CIS;
         </li>
         <li>
-          
+
           You may not link to the CIS website if your or your organization's website contains content that could be construed as distasteful, offensive or controversial, or is not appropriate for viewing by all age groups.
         </li>
         <li>
-          
+
           CIS may change content on our site at any time, causing other organizations to have a broken or incorrect link.
         </li>
         <li>
@@ -416,80 +293,90 @@
       <p>The information provided in this privacy policy cannot be interpreted as business, legal or other advice, or as warranting fail-proof security for information provided through this website.  Information provided on this website is intended to allow the public access to information related to CIS.  While all attempts are made to provide accurate, current and reliable information, there is possibility of human and/or mechanical error. </p>
       <p>Therefore, CIS makes no representations or promises as to the accuracy, completeness, currency or suitability of the information provided on this website and denies any express or implied warranty as to such information. This privacy policy is not intended to and does not create any contractual or other legal rights for or on behalf of any party.</p>
       <p>This privacy policy applies only to CIS websites.  CIS reserves the right to change this privacy policy at any time and will post revisions on this website. </p>
-	  <!-- InstanceEndEditable --></div>
-     </div>
+      
+					
+					
+					<div>
+        </div>
+    </div></div></section>
+                
+	<!-- InstanceEndEditable -->
+        
+     </main>  
   
-	</div>
-	<div style="text-align:right;color:#fff">SAT, 09 26 06:24:21 AM</div>
-<div id="footer">
-  <div class="footerC">
-    <div>
-		 <span>Center for Internet Security</span> | <span>31 Tech Valley Drive</span> | <span>East Greenbush, NY 12061</span> | <span>518.266.3460</span> | <a href="mailto:contact@cisecurity.org">Contact CIS</a>
-		</div>
-    <div>
-			
-				<a href="https://msisac.cisecurity.org/">Multi-State ISAC</a> 
-				| <a href="https://alliance.cisecurity.org/">Trusted Purchasing Alliance</a> 
-				| <a href="https://benchmarks.cisecurity.org/">Security Benchmarks</a> 
-				| <a href="https://iic.cisecurity.org">Integrated Intelligence Center</a> 
-				| <a href="https://blog.cisecurity.org/">CIS Blog</a> 
-				| <a href="https://www.cisecurity.org/privacy-policy/">Privacy Policy</a> 
-				| <a href="https://www.cisecurity.org/about/news-room">Newsroom</a> 
-				| <a href="https://www.cisecurity.org/about/employment-opportunities">Employment Opportunities</a> 
-			
-		</div>
-		<div id="reg">® 2015 Center for Internet Security. All rights reserved.</div>
-  </div>
-</div>
+<div class="bcms-clearfix custom-clearfix"></div>
+
+<footer role="contentinfo" class="site-footer">
+      <div class="bcms-clearfix custom-clearfix"></div>
+
+    
+    <div class="row text-center">
+        <div class="column medium-12">
+            <span><a href="mailto:contact@cisecurity.org">Contact Us</a></span>
+						| <span><a href="//www.cisecurity.org/privacy-policy/">Privacy Policy</a></span>
+						
+						<br>
+            	<span>Center For Internet Security</span>
+            <address itemscope="" itemtype="http://schema.org/LocalBusiness">
+                <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                    <span>Northeast Headquarters</span> |
+                    <span itemprop="streetAddress">31 Tech Valley Drive </span> |
+                    <span itemprop="addressLocality">East Greenbush, NY 12061</span> |
+                    <span itemprop="addressRegion">Phone: 518-266-3460</span> 
+<br>
+                    <span>Mid-Atlantic Headquarters</span> |
+                    <span itemprop="streetAddress">1700 North Moore Street</span> |
+                    <span itemprop="addressLocality">Suite 2100</span> |
+                    <span itemprop="addressRegion">Arlington, VA 22209</span> |
+                    <span itemprop="postalCode">Phone: 703-600-1935
+                    
+                </span></div>
+                <br>
+            </address>
+           <div class="bcms-clearfix custom-clearfix"></div>
+
+     
+    <div class="copyright-wrapper">
+        <div class="row">
+            <div class="column">
+            		<p>Copyright ©2016 Center for Internet Security</p><div class="bcm-clearfix custom-clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div></div></footer>
 
 
+<script>
+	$(document).foundation();
+</script>
+<script src="//www.cisecurity.org/js/main.js"></script>
+
+
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-4446498-7']);
+			_gaq.push(['_trackPageview']);
+		
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			//);		 
+		</script>
 	 
-    
-    
-    <script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-4446498-7']);
-	  _gaq.push(['_trackPageview']);
-	
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();	 
-	
-	$(document).ready(function(){ 
-								 
-		$('a').click(function(){
-			href = ($(this).attr('href') == undefined) ? ('') : ($(this).attr('href'));
-			href_lower = href.toLowerCase();
-			
-			if(href_lower.substr(-3) == "pdf" || href_lower.substr(-3) == "xls" || href_lower.substr(-3) == "doc" || href_lower.substr(-3) == "ppt"|| href_lower.substr(-3) == "txt" || href_lower.substr(-3) == "rtf" || href_lower.substr(-3) == "zip" || href_lower.substr(-3) == "rar") 
-			{
-  			 	_gaq.push(['_trackEvent', 'document', 'download', href_lower.substr(-3), $(this).text()]);
-			 	_gaq.push(['_trackPageview', href]);
-			 	
-  			}
-  			if(href_lower.substr(-4) == "docx" || href_lower.substr(-4) == "pptx"|| href_lower.substr(-4) == "xlsx"  ) 
-			{
-  			 	_gaq.push(['_trackEvent', 'document', 'download', href_lower.substr(-4), $(this).text()]);
-			 	_gaq.push(['_trackPageview', href]);
- 			}
-			
-			 if(href_lower.substr(0, 4).toLowerCase() == "http")
-			{
-				_gaq.push(['_trackEvent', 'external_link', 'open', 'href', $(this).text()]);
-				_gaq.push(['_trackPageview', href]);
-			}
-			
-			if ($(this).attr('target') != undefined && $(this).attr('target').toLowerCase() != '_blank' && href_lower.substr(0,10) != "javascript")
-			{
-				setTimeout(function() { location.href = href; }, 200);
-				return false;
-			} 
-		});
-		});		 
-	</script>
-
+  
+  
+  
+  <script> 
+	$(document).ready(function(e) {
+	    $("#About-nav").addClass('active1');
+		console.debug($("#products-link").length);
+    });
+  </script>
+  <!-- InstanceBeginEditable name="foot" --><!-- InstanceEndEditable -->
+  
 
 <!-- InstanceEnd -->
 </body></html>
