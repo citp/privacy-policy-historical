@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916072256id_/http%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325111003id_/http%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Musicians Wanted Ads at Join My Band
 
@@ -70,7 +70,7 @@ Expires: 6 months
 
 
 
-For more information on the cookies set by Google Analytics please see: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet>. To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>.
+For more information on the cookies set by Google Analytics please visit [this page](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet). To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>.
 
 Our advertisers/payment services providers may also send you cookies. 
 
