@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203818id_/http%3A//www.homestayin.com/homestayin-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325141747id_/http%3A//www.homestayin.com/homestayin-privacy-policy) for the most accurate reproduction.*
 
 # Homestay Booking Services - Homestayin's Privacy Policy
 
