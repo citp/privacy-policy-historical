@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loqal.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626015425id_/http%3A//www.loqal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loqal.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326004010id_/http%3A//www.loqal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Ashburn Yellow Pages
+# San Francisco Yellow Pages
 
 Effective Date: December 20, 2013
 
