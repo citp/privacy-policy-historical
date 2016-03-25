@@ -1,64 +1,70 @@
-> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205150547id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325164409id_/https%3A//www.eventcinemas.com.au/terms/Privacy) for the most accurate reproduction.*
 
-# Event Cinemas - Privacy Policy
+# Privacy
 
-Greater Union Organisation (which includes Greater Union and Birch Carroll & Coyle) is committed to ensuring your personal information is protected. Greater Union Organisation understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy Statement is a derivative of the Amalgamated Holdings Limited (AHL) Privacy Policy Statement, the company which owns Greater Union Organisation. It will explain how we go about treating your personal information.
+**Event Cinemas Privacy Policy:**
 
-In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy Statement and those specific and additional provisions, the specific and additional provisions will prevail.
+The Greater Union Organisation Pty Ltd (the Company) and its related bodies corporate operate Event Cinemas, Greater Union and Birch Carroll & Coyle cinemas. The Company is committed to ensuring your personal information is protected. The Company understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. It will explain how we manage your personal information.  
+In addition to this Privacy Policy, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy and those specific and additional provisions, the specific and additional provisions will prevail.  
+ 
 
-### The information we collect about you
+**The information we collect about you:**
 
-The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, credit card details and, where you have the option to comment on our services or products, whatever other information you choose to supply to allow us to provide products and services to you.
+The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, credit card details and, where you have the option to comment on our services or products, whatever other information you choose to supply to allow us to provide products and services to you.  
+ 
 
-### How we use your information and whom we may disclose it to
+**Cookies:**
 
-The information that we collect about you is used to help you access the services or acquire the goods that Greater Union Organisation provides more easily. The information we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the addresses stored in our databases to any third parties.
+We collect cookie information when you visit our websites.  Cookies are pieces of information that a website can transfer to an individual’s computer hard drive for record keeping. The use of cookies is an industry standard and many websites use them. Cookies are useful for facilitating a user’s access to and use of a site. They allow us to track usage patterns and compile data that can help us improve our services to you. Cookie information is used in aggregated form – we do not use it to identify you as an individual. However, if you do not wish any information to be collected through the use of cookies you can change the functions in most web browsers to deny the cookie feature. You can also delete cookies from your hard drive at any time.
 
-We may disclose the personal information, other information or data we collect from you if:
+**How we use your information and who we may disclose it to:**
 
-You give us your consent.
+The information that we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any unrelated third parties. The Company uses the information you provide to us to help you access the services or acquire the goods that the Company provides more easily. We may also send you marketing material about products and services we believe are suited to you and your interests. If you do not wish to receive any of this material you may simply choose “unsubscribe” from our mailing list and no further material will be sent to you.
 
-You would reasonably expect us to disclose it for another purpose, and that other purpose is related to the purpose specified to you at the time of collection.
+The Company may need to transfer and store your personal information in our overseas facilities.  In providing us with your personal information, you consent to this necessary transfer.  
+The Company will not disclose your personal information for purposes or to parties other than those outlined above without your consent.  
+ 
 
-In this way we may use your information to send you out promotional material, which you may find of interest. If you do not wish to receive any of this material you may simply choose to "unsubscribe" from our mailing lists and no further material will be sent to you.s
+**User generated content:**
 
-If you post reviews or comments on the site, you grant AHL and its affiliates a non-exclusive, royalty free, perpetual, irrevocable, and fully sub licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such reviews and comments throughout the world in any media. You also grant AHL and its affiliates and sub licensees the right to use the name that you submit with any review or comment, if any, in connection with such review or comment.
+If you post reviews or comments on the site, you grant the Company and its affiliates a non-exclusive, royalty free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such reviews and comments throughout the world in any media. You also grant the Company and its affiliates and sub licensees the right to use the name that you submit with any review or comment, if any, in connection with such review or comment.  
+ 
 
-### Access and Content
+**Competitions:**
 
-Any personal information that we collect about customers including email addresses will be kept in a database which is accessible only by those authorised to perform normal daily tasks such as updating addresses and renewing membership.
+From time to time, the Company will conduct competitions on its website. When these competitions are run, you may also be given the choice of being on a mailing list to receive further contact from us. Unless you choose to receive further communications from the Company, the information we collect from your entry in the competition is not used for any purposes other than the competition.  
+ 
 
-### Our Security Procedures
+**Links to other websites:**
 
-Once we receive personal information from you, we take all reasonable steps to ensure that all information we collect, use or disclose is accurate, up to date and stored in a secure environment and accessed only by authorised persons.
+The Company’s website provides links to websites outside of the Company’s services. These linked sites are not under our control, and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the Terms and Conditions of that website. 
 
-### Where cookies fit in
+**Storage and security of your personal information**  
+Any personal information that we collect about customers, including email addresses, will be kept in the Company’s database. The database will be accessible only by those authorised to perform normal daily tasks such as updating addresses and renewing membership. The Company will take all reasonable precautions to protect the personal information it holds from any misuse, loss, unauthorised access, modification or disclosure.  
+The internet is not a secure environment. If you use the internet to send us any personal information, the Company will not be liable for events arising from unauthorised access to your information.
 
-Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. The use of cookies is an industry standard and many websites use them. Cookies are useful for facilitating a user's access to and use of a site. They allow us to track usage patterns and compile data that can help us improve our services to you. Cookie information is used in aggregated form - we do not use it to identify you as an individual. However, if you do not wish any information to be collected through the use of cookies you can change the functions in most web browsers to deny the cookie feature. You can also delete cookies from your hard drive at any time.
+**Access to your information:**
 
-### Contact Information
+You have a right to access most of the personal information we hold about you. If you wish to have access to your information, please send us an email or letter at the addresses provided below. If the Company does not allow you to access your personal information we will provide you with the reasons for our decision.  
+ 
 
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at privacy@eventcinemas.com.au or by mail addressed to:
+**Accuracy of your information:**
 
-Privacy  
-Greater Union Organisation  
-49 Market Street  
-Sydney NSW 2000  
+Once we receive personal information from you, we take all reasonable steps to ensure that all the information we collect, use or disclose us accurate and up to date. If you think that any of your personal information held by us in inaccurate, please send us an email or letter at the addresses provided below and we will take reasonable steps to ensure that it is corrected.  
+ 
 
+**Contact us:**
 
-You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If AHL does not allow you to access your personal information we will provide you with the reasons for our decision.
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy please contact us by email at **[privacy@ahl.com.au](mailto:privacy@ahl.com.au)** , or by mail addressed to:
 
-### Greater Union Organisation adhere to the following privacy principles
+  
+Privacy Officer  
+Amalgamated Holdings Ltd  
+478 George Street  
+Sydney NSW 2000
 
-  * Greater Union Organisation only collects personal information by fair, lawful and non-intrusive means.
-  * Greater Union Organisation only uses or discloses information for the purpose for which it was collected unless the person has provided permission to send direct marketing material.
-  * Greater Union Organisation takes reasonable steps within the boundaries of accepted everyday work practises to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to date.
-  * Greater Union Organisation implements systems that protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
-  * Greater Union Organisation have a policy document outlining its information handling practices and make this available to anyone who asks.
-  * Greater Union Organisation provides printed and digital means for individual access to personal information it holds about that individual on request.
-  * Greater Union Organisation do not adopt, use or disclose, an identifier that has been assigned by a Commonwealth government 'agency'.
-  * Greater Union Organisation do provide methods for customers to interact anonymously whenever it is lawful and practicable to do so.
-  * Greater Union Organisation does not transfer personal information to a recipient in a foreign country in circumstances where the information will not have an appropriate level of protection.
-  * Greater Union Organisation does not collect sensitive information unless the individual has consented, it is required by law - or in other special specified circumstances, for example relating to health services provision and individual or public health or safety.
+You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If you wish to make a complaint about a privacy matter, we will examine the complaint and endeavour to respond within 14 days. If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see **www.oaic.gov.au** ). The Company reserves the right to change this privacy policy at any time. The Company will notify any changes by posting an updated version of the policy on its website.
 
+The Greater Union Organisation Pty Ltd is a subsidiary company of Amalgamated Holdings Ltd which has its own privacy policy which is available at **[www.ahl.com.au](http://www.ahl.com.au/)**
 
+Infromation correct at: 11 March 2014
