@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the portmans.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071726id_/http%3A//www.portmans.com.au/shop/en/portmans/portmans-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portmans.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325151304id_/http%3A//www.portmans.com.au/shop/en/portmans/portmans-privacy-policy) for the most accurate reproduction.*
 
 # Portmans | Privacy Policy
 
-This is the Privacy Policy of Just Group Limited ABN 97 096 911 140 (Just Group) and all its subsidiaries (we, our or us). Portmans is part of the Just Group. The Just Group is a retailer and, in addition to Portmans, our retail brands include Dotti, Jacqui E, Jay Jays, Just Jeans, Peter Alexander and Smiggle (Just Group brands).
+This is the Privacy Policy of Just Group Limited ABN 97 096 911 410 (Just Group) and all its subsidiaries (we, our or us). Portmans is part of the Just Group. The Just Group is a retailer and, in addition to Portmans, our retail brands include Dotti, Jacqui E, Jay Jays, Just Jeans, Peter Alexander and Smiggle (Just Group brands).
 
 ### Respecting your privacy and the law – our commitment to you
 
