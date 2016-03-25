@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ergobaby.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075514id_/http%3A//store.ergobaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ergobaby.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325045351id_/http%3A//store.ergobaby.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
-
-[](https://www.pinterest.com/pin/create/button/)
 
 Last updated: March 11, 2013.
 
