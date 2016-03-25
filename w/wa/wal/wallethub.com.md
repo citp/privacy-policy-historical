@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wallethub.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124035926id_/https%3A//wallethub.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallethub.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325091859id_/https%3A//wallethub.com/terms/privacy) for the most accurate reproduction.*
 
 # Evolution Finance Privacy Policy – Privacy Policy – WalletHub
 
-Last Updated November 13, 2015
+Last Updated November 25, 2015
 
 **BY ACCESSING AND USING ANY OF EVOLUTION FINANCE’S PRODUCTS OR SERVICES, INCLUDING WALLETHUB.COM AND CARDHUB.COM, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO BE BOUND BY ALL OF THE TERMS IN THIS POLICY, PLEASE EXIT THE SITES, MOBILE APPLICATIONS OR OTHER SERVICES IMMEDIATELY AND DO NOT USE THEM IN ANY WAY.**
 
