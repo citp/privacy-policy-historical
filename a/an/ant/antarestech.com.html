@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the antarestech.com privacy policy that was archived on 2015-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150512141832id_/http%3A//www.antarestech.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the antarestech.com privacy policy that was archived on 2016-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325030916id_/http%3A//www.antarestech.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Antares Vocal Processing &gt; Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
-<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+<link type="text/css" href="/css/webfonts.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/quickmenu.css">
 <link type="text/css" href="/skin/jplayer.blue.monday.css" rel="stylesheet">
@@ -59,6 +61,69 @@
 			transitionOut : 'none',
 			type : 'iframe'
 		});
+		
+		$('a.fancybox_iframe2').fancybox({
+			width : 910,
+			height: 'auto',
+	    autoScale : false,
+		autoDimensions: false,
+		fitToView: false,
+		autoSize: false,
+	    transitionIn : 'none',
+			transitionOut : 'none',
+			type : 'ajax',
+			scrolling: 'no'
+		});
+		
+		//$('#daw-content-1').addClass('active');
+			
+		$('#daw-tab-1').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+			$('#daw-content-1').addClass('active');			
+		});
+		$('#daw-tab-2').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+		 	$('#daw-content-2').addClass('active');
+		});
+		$('#daw-tab-3').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+		 	$('#daw-content-3').addClass('active');
+		});
+		$('#daw-tab-4').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+		 	$('#daw-content-4').addClass('active');
+		});
+		$('#daw-tab-5').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+		 	$('#daw-content-5').addClass('active');
+		});
+		$('#daw-tab-6').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+			$('#daw-content-6').addClass('active');
+		});
+		$('#daw-tab-7').click(function(){
+			$('#daw-tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+		 	$('#daw-content-7').addClass('active');
+		});
+		
+		$('.q-a-single .the-question').click(function(){
+			$(this).toggleClass('open-faq');
+			$(this).next('.the-answer').toggle();
+		});
 	});
 </script>
 <script type="text/javascript" src="/sysadmin/includes/highslide/highslide-with-html.js"></script>
@@ -92,6 +157,57 @@ hs.wrapperClassName = 'draggable-header';
 			return false;
 		}
   }
+  
+  function getHashFilter() {
+	  var hash = location.hash;
+	  var matches = location.hash.match( /#([^&]+)/i );
+	  var hashFilter = matches && matches[1];
+	  return hashFilter && decodeURIComponent( hashFilter );
+	}
+	
+	function ShowTab1() {
+		var hashFilter = getHashFilter();
+		if (hashFilter == null || hashFilter == 'overview') { tabSwitch('tab_1','content_1'); }
+		if (hashFilter == 'details') { tabSwitch('tab_2','content_2'); }
+		if (hashFilter == 'audiovideo') { tabSwitch('tab_3','content_3'); }
+		if (hashFilter == 'upgrades') { tabSwitch('tab_4','content_4'); }
+		if (hashFilter == 'requirements') { tabSwitch('tab_5','content_5'); }
+	}
+	
+		
+	function ShowTab2() {
+		$('#daw-tabs ul li a').removeClass('active');
+		$('#daw-tabbed-content .tabbed-content-row').removeClass('active');
+		var hashFilter = getHashFilter();		
+		if (hashFilter == null || hashFilter == 'auto-tune8') { 
+			$('#daw-tab-1').addClass('active');		
+			$('#daw-content-1').addClass('active');
+		}
+		if (hashFilter == 'auto-tune-live') { 
+			$('#daw-tab-2').addClass('active');		
+			$('#daw-content-2').addClass('active');
+		}
+		if (hashFilter == 'auto-tune-efx3') { 
+			$('#daw-tab-3').addClass('active');		
+			$('#daw-content-3').addClass('active');
+		}
+		if (hashFilter == 'avox4') { 
+			$('#daw-tab-4').addClass('active');		
+			$('#daw-content-4').addClass('active');
+		}
+		if (hashFilter == 'mic-mod-efx') { 
+			$('#daw-tab-5').addClass('active');		
+			$('#daw-content-5').addClass('active');
+		}
+		if (hashFilter == 'harmony') { 
+			$('#daw-tab-6').addClass('active');		
+			$('#daw-content-6').addClass('active');
+		}		
+		if (hashFilter == 'auto-tune7') { 
+			$('#daw-tab-7').addClass('active');		
+			$('#daw-content-7').addClass('active');
+		}
+	}	
 -->
 </script>
 <link rel="stylesheet" type="text/css" href="/includes/jPlayer/jplayer.morning.light.css">
@@ -110,7 +226,6 @@ hs.wrapperClassName = 'draggable-header';
   })();
 </script>
 <style type="text/css">.fancybox-margin{margin-right:0px;}</style><style type="text/css">.highslide img {cursor: url(/sysadmin/includes/highslide/graphics/zoomin.cur), pointer !important;}</style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
 <body style="">
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=103657183067542";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
@@ -130,7 +245,7 @@ hs.wrapperClassName = 'draggable-header';
 			<div id="search_container">
 				<form id="searchform" name="searchform" method="post" action="http://www.antarestech.com/search.php" onsubmit="return ValidateSearchForm();">
 			    <input type="text" id="site_search" name="search_keyword" value="">
-			    					<a id="site_cart" href="https://transactions.antarestech.com/securevocal/view_cart.aspx" style="margin-top:-30px;" class="fancybox_iframe"><img src="/images-vocals/cart.png" alt="CART"></a>
+			    					<a id="site_cart" href="https://transactions.antarestech.com/securevocal/view_cart.aspx" class="fancybox_iframe"><img src="/images-vocals/cart.png" alt="CART"></a>
 								  </form>
 			</div>
 		</div>
@@ -206,10 +321,10 @@ hs.wrapperClassName = 'draggable-header';
   <a id="menu7" href="/support/"><span>Support</span></a>
   <ul>
     <li>
-      <a href="https://kbpga.knowledgebase.net/?cid=13244&amp;c=5384&amp;cpc=H3G0gx78424V6tbSy0X68i" target="_blank">Knowledgebase</a>
+      <a href="/support/faq.php">FAQ</a>
     </li>
     <li>
-      <a href="http://antarestech.invisionzone.com/" target="_blank">Forum</a>
+      <a href="https://kbpga.knowledgebase.net/?cid=13244&amp;c=5384&amp;cpc=H3G0gx78424V6tbSy0X68i" target="_blank">Knowledgebase</a>
     </li>
     <li>
       <a href="/support/os-compatibility.php">OS Compatibility</a>
@@ -218,16 +333,7 @@ hs.wrapperClassName = 'draggable-header';
       <a href="/support/host-daw-compatibility.php">Host (DAW) Compatibility</a>
     </li>
     <li>
-      <a href="/authorize/help.php">iLok Authorization Guide</a>
-    </li>
-    <li>
       <a href="/download/product-manuals.php">Product Manuals</a>
-    </li>
-    <li>
-      <a href="/media/videos.php">Product Videos</a>
-    </li>
-    <li>
-      <a href="/support/locate-a-dealer.php">Locate a Dealer</a>
     </li>
     <li>
       <a href="/support/contact.php">Contact Us</a>
@@ -279,7 +385,7 @@ hs.wrapperClassName = 'draggable-header';
 	  <div class="container single light">
   	<div id="single_top"></div>
 		<div id="single_rep">
-			<div id="contact_page">
+						<div id="contact_page">
 				<div class="move_up">
 					<h2>Privacy Policy</h2><p><strong>ANTARES AUDIO TECHNOLOGIES</strong></p>
 
@@ -311,7 +417,7 @@ hs.wrapperClassName = 'draggable-header';
 
 <p>&nbsp;&nbsp;4. UPDATES AND CHANGES TO PRIVACY POLICY. We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.</p>				</div>
 			</div>
-						<div class="clearer"></div>
+									<div class="clearer"></div>
 		</div>
 		<div id="single_bottom"></div>
   </div>
@@ -325,7 +431,6 @@ hs.wrapperClassName = 'draggable-header';
 							<h4>Antares Home</h4>
 							<ul>
 								<li><a href="/about/">About Us</a></li>
-<li><a href="/support/locate-a-dealer.php">Locate a Dealer</a></li>
 <li><a href="/support/contact.php">Contact Us</a></li>
 <li><a href="/privacy-policy.php" style="color:#999999;">Privacy Policy</a></li>
 							</ul>
@@ -351,7 +456,7 @@ hs.wrapperClassName = 'draggable-header';
 					<li><a href="http://www.autotuneforguitar.com/index.php">Home</a></li>
 					<li><a href="http://www.autotuneforguitar.com/technology/">Technology</a></li>
 <li><a href="http://www.autotuneforguitar.com/products/">Products</a></li>
-<li><a href="http://www.autotuneforguitar.comhttps://transactions.antarestech.com/atgconnect/GuitarProducts.aspx">Buy</a></li>
+<li><a href="http://www.autotuneforguitar.com/products/">Buy</a></li>
 <li><a href="http://www.autotuneforguitar.com/guitar-connect/">Software Download</a></li>
 <li><a href="http://www.autotuneforguitar.com/performance-control/">Performance  Control</a></li>
 <li><a href="http://www.autotuneforguitar.com/media/">Media</a></li>
@@ -364,15 +469,15 @@ hs.wrapperClassName = 'draggable-header';
 				</tbody></table>
 			</div>
 			<div class="right">
-				<p>Evo™ and Auto-Motion™ are trademarks and Auto-Tune®, Antares®, AVOX®, Harmony Engine®, Mic Mod®, and Solid-Tune® are registered trademarks of Antares Audio Technologies. All Materials ©2015 Antares Audio Technologies. <br><a style="color:#FFFFFF;" href="http://www.sleeplessmedia.com" target="_blank">Web Design by Sleepless Media.</a> All Rights Reserved.</p>
-				<p>
-										<a href="https://plus.google.com/b/110234981819299416761/110234981819299416761/posts" target="_blank"><img src="/images-vocals/antares-google-plus.png" title="Auto-Tune for Guitar on Google+"></a>
-															<a href="http://www.facebook.com/pages/Auto-Tune/81891651280" target="_blank"><img src="/images-vocals/antares-facebook.png" title="Antares Audio on Facebook"></a>
-															<a href="http://twitter.com/AntaresAudio" target="_blank"><img src="/images-vocals/antares-twitter.png" title="Antares Audio on Twitter"></a>
-															<a href="http://www.youtube.com/user/antaresaudio" target="_blank"><img src="/images-vocals/antares-youtube.png" title="Antares Audio on YouTube"></a>
+				<p>Evo™ and Auto-Motion™ are trademarks and Auto-Tune®, Antares®, AVOX®, Harmony Engine®, Mic Mod®, and Solid-Tune® are registered trademarks of Antares Audio Technologies. All Materials ©2016 Antares Audio Technologies. <br><a style="color:#FFFFFF;" href="http://www.sleeplessmedia.com" target="_blank">Web Design by Sleepless Media.</a> All Rights Reserved.</p>
+				<p id="footer-social-icons">
+										<a href="https://plus.google.com/+antaresaudio/posts" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+															<a href="https://www.facebook.com/pages/Antares-Audio-Technologies/68524457680" target="_blank"><i class="fa fa-facebook-square"></i></a>
+															<a href="http://twitter.com/AntaresAudio" target="_blank"><i class="fa fa-twitter-square"></i></a>
+															<a href="http://www.youtube.com/user/antaresaudio" target="_blank"><i class="fa fa-youtube"></i></a>
 									  <a href="/icontact.php" onclick="return hs.htmlExpand(this,{objectType:'iframe',width:310,height:165})">
-				  	<img src="/images-vocals/antares-newsletter.png" title="Antares Audio email newsletter sign-up">
-				  	<span style="display: inline-block;font-family:'Oswald', sans-serif;font-size: 12px;line-height: 15px;margin: 0 0 0 7px;position: relative;text-transform: uppercase;top: -2px;"><font color="#ffffff">Sign up for our<br>E-Newsletter</font></span>
+				  	<i class="fa fa-envelope-square"></i>
+				  	<span style="display: inline-block;font-family:'Oswald', sans-serif;font-size: 10px;line-height: 12px;margin: 0 0 0 6px;position: relative;text-transform: uppercase;top: 2px;"><font color="#ffffff">Sign up for our<br>E-Newsletter</font></span>
 					</a>
 				</p>
 			</div>
