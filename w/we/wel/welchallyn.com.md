@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the welchallyn.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235830id_/http%3A//www.welchallyn.com/en/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchallyn.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325154256id_/https%3A//www.welchallyn.com/en/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_June 24, 2003_
+_October 6, 2015_
 
 Welch Allyn is committed to protecting the security and privacy of your personal information. Therefore, we conduct our business in compliance with all applicable laws concerning data security and privacy. The policy outlined below was created to inform you as to how we will handle any information submitted on our site, and to detail the security of our site. Please read it carefully.
+
+Welch Allyn complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Welch Allyn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Welch Allyn’s certification, please visit <http://www.export.gov/safeharbor/>.
 
   
 The privacy policy outlined below is applicable to all sites on the World Wide Web owned and operated by Welch Allyn.
@@ -19,7 +21,6 @@ The privacy policy outlined below is applicable to all sites on the World Wide W
   * Links to Other Sites
   * Contacting Us
   * Changes to This Policy
-  * Information Collected
 
 
 
