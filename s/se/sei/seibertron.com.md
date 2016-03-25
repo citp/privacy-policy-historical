@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seibertron.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055900id_/http%3A//www.seibertron.com/infozone/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seibertron.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325183718id_/http%3A//www.seibertron.com/infozone/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Transformers
 
@@ -59,3 +59,6 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at Seibertron.com, so please guard it carefully and under no circumstance will anyone affiliated with Seibertron.com, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the "I forgot my password" feature provided by the phpBB software. This process will ask you to submit your user name and your e-mail, then the phpBB software will generate a new password to reclaim your account.
 
 **If you require any more information or have any questions about our privacy policy, please feel free to contact us by email via our[contact form](https://web.archive.org/contact/index.php?subject=privacy_policy) by clicking [here](https://web.archive.org/contact/index.php?subject=privacy_policy).**
+
+  
+
