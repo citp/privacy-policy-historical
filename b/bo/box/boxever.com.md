@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxever.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908044037id_/http%3A//www.boxever.com/boxever-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxever.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325234755id_/http%3A//www.boxever.com/boxever-privacy-policy) for the most accurate reproduction.*
 
-# Boxever Privacy Policy - Big Data for Travel - Boxever
+# Boxever Privacy Policy - Boxever Customer Intelligence Cloud for Travel
 
 Boxever is committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of all personal details you provide to us. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing Boxever with any of your personal details. Boxever comply with the Data Protection Acts 1988 – 2003 (“the Acts”).
 
