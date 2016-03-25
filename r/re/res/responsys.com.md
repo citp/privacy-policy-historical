@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905111615id_/http%3A//www.oracle.com/us/legal/privacy/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325151042id_/http%3A//www.oracle.com/us/legal/privacy/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Oracle Privacy Policy
 
@@ -109,7 +109,7 @@ Oracle has engaged one or more third party service providers to track and analyz
 A list of your current Privacy Choices is listed on the [following tab](https://web.archive.org/us/legal/privacy/privacy-choices/index.html).
 
 **Registration**  
-Oracle allows you to establish an online registration profile for marketing communications at Oracle.com. You may use the profile to customize and control your preferences for receiving electronic information, including opting into (or out of) communities, newsletters and general interest areas. You can return to the registration profile at any time to change your elections or modify your profile at <https://myprofile.oracle.com/>. Please login as usual and follow the prompts to "update my profile."
+Oracle allows you to establish an online registration profile for marketing communications at Oracle.com. You may use the profile to customize and control your preferences for receiving electronic information, including opting into (or out of) communities, newsletters and general interest areas. You can return to the registration profile at any time to change your elections or modify your profile at <https://profile.oracle.com/>. Please login as usual and follow the prompts to "update my profile."
 
 **Preferences and Opt-Out.**  
 **E-mail Marketing.** Oracle enables you to opt out of marketing communications. You may opt out of e-mail marketing by modifying your online profile as described above or by using our general unsubscribe automated link that is included in Oracle marketing e-mails. You can find details on how to automatically unsubscribe from e-mail communications, as well as how to submit requests to opt-out from phone and postal marketing, on our [Oracle.com Account Help page](https://web.archive.org/us/corporate/contact/about-your-account-070507.html). If you have any problems using any of these opt-out mechanisms, please fill out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp).
@@ -130,10 +130,10 @@ Oracle enables you to opt out of personalized (non-anonymized) website analytics
 
 ### Access, Correction, and Profile Updates
 
-You may request to review, correct, update, suppress, or otherwise modify any of your Personal Information that you have previously provided to us through the Channels, or object to the use or processing of such Personal Information by us. You have the ability to update your Oracle profile and related Personal Information at any time. To change this information, please login at <https://myprofile.oracle.com/> and follow the prompts to "update my profile." If you have questions about your account or are having trouble accessing your account, you can get answers to Frequently Asked Questions (FAQs) and request [help with your account](http://www.oracle.com/us/corporate/contact/about-your-account-070507.html). If you have privacy concerns regarding access to or the correction of your Personal Information, please contact us through our [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp), or write to us at the following address:
+You may request to review, correct, update, suppress, or otherwise modify any of your Personal Information that you have previously provided to us through the Channels, or object to the use or processing of such Personal Information by us. You have the ability to update your Oracle profile and related Personal Information at any time. To change this information, please login at <https://profile.oracle.com/> and follow the prompts to "update my profile." If you have questions about your account or are having trouble accessing your account, you can get answers to Frequently Asked Questions (FAQs) and request [help with your account](http://www.oracle.com/us/corporate/contact/about-your-account-070507.html). If you have privacy concerns regarding access to or the correction of your Personal Information, please contact us through our [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp), or write to us at the following address:
 
-10 Van de Graaff Drive  
-Burlington, Massachusetts 01803  
+7700 Technology Way  
+Denver, CO 80237  
 Attn: Chief Privacy Officer
 
 In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us.
@@ -176,16 +176,18 @@ In the event that your Personal Information is acquired, or is reasonably believ
 
 * * *
 
-### Cross Border Transfers and EU / Swiss Safe Harbor
+### Cross Border Transfers
 
-Oracle is a global corporation with operations in over 80 countries, and has developed global data practices designed to assure your Personal Information is appropriately protected. Please note that your Personal Information may be transferred, accessed and stored globally as necessary for the uses stated above in accordance with this policy. [Click here](http://www.oracle.com/us/corporate/contact/global-070511.html) to learn more about Oracle's current office locations. By using the Channels, you consent to the transfer of information to countries outside of your country of residence, which may have different data protection rules than those of your country.
+Oracle is a global corporation with operations in over 80 countries and has developed global data practices designed to assure your personally-identifiable information is appropriately protected. Please note that Personal Information may be transferred, accessed and stored globally as necessary for the uses and disclosures stated above in accordance with this policy.
 
-Oracle America, Inc. has subscribed to and will adhere to the US-EU Safe Harbor program and the US-Swiss Safe Harbor program ("Safe Harbor Programs") by adopting and implementing the Safe Harbor Privacy Principles, which include a set of frequently asked questions (collectively, the "Principles"), for Personal Information received from the EU or Switzerland. Additionally, Oracle America, Inc. requires that its agents and service providers that have access to such data either subscribe to the Safe Harbor Principles, are subject to the EU Privacy Directive or another adequacy finding, or enter into a written agreement with us that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles. More information about the Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>.
+The Oracle affiliates have entered into and executed an Agreement for the International Transfer of Personal Information within the Oracle Group (“Intra-Company Agreement”) which allows for the processing of your Personal Information and which also incorporates the European Union Model Clauses requirements for transfers of your Personal Information.
 
-**Safe Harbor Enforcement and Dispute Resolution**  
-If you have any complaints regarding our compliance with the Safe Harbor program, you should first [contact us](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Principles.
+Oracle also continues to adhere to the underlying European privacy principles of the US-EU and US- Swiss Safe Harbor programs for Personal Information received from the EU and Switzerland.
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., ([click for mailing address](https://www.truste.com/about-truste/contact-us/)). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, visit the [TRUSTe feedback page](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe by fax or mail as indicated above.
+**Dispute Resolution**  
+If you have any complaints regarding our compliance with this policy, you should first [contact us](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with this privacy policy.
+
+If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Compliance Dept. ([click for mailing address](https://www.truste.com/about-truste/contact-us/)). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, visit the [TRUSTe feedback page](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe by fax or mail as indicated above.
 
 * * *
 
@@ -193,7 +195,9 @@ If contacting us does not resolve your complaint, you may raise your complaint w
 
 [](https://privacy.truste.com/privacy-seal/ORACLE-Corporation/validation?rid=c3494dad-9836-48cf-9d86-0f36fc9a04c6 "TRUSTe European Safe Harbor certification")
 
-Oracle has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe Program applies to Oracle's Websites (including its social media pages) and offline privacy practices, services privacy policy, and recruiting privacy policy. It does not cover Personal Information that may be collected through software downloaded from the Oracle.com Web sites or Oracle publications. If you have questions or complaints regarding our privacy policy, please fill out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp) first. If you are not satisfied with our response, you can contact TRUSTe or you have the right to make a complaint to your local Information Commissioner.
+Oracle has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe Program applies to Oracle's Websites (including its social media pages) and offline privacy practices, services privacy policy, recruiting privacy policy, and marketing cloud & data cloud privacy policy. It does not cover Personal Information that may be collected through software downloaded from the Oracle.com Web sites or Oracle publications. If you have questions or complaints regarding our privacy policy, please fill out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp) first. If you are not satisfied with our response, you can contact TRUSTe or you have the right to make a complaint to your local Information Commissioner.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe by [clicking here](https://feedback-form.truste.com/watchdog/request).
 
 * * *
 
@@ -223,10 +227,14 @@ In addition to this policy, Oracle has other privacy policies that are tailored 
 
 ### Contact Us
 
-Oracle has appointed a Chief Privacy Officer. If you believe your Personal Information has been used in a way that is not consistent with this policy or your specified preferences, or if you have further questions related to this policy, please contact the Chief Privacy Officer by filling out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp). Written inquiries may be addressed to Chief Privacy Officer, Oracle Corporation, 10 Van de Graaff Drive, Burlington, Massachusetts 01803, United States of America.
+Oracle has appointed a Chief Privacy Officer. If you believe your Personal Information has been used in a way that is not consistent with this policy or your specified preferences, or if you have further questions related to this policy, please contact the Chief Privacy Officer by filling out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp). Written inquiries may be addressed to:
+
+Chief Privacy Officer, Oracle Corporation  
+7700 Technology Way  
+Denver, CO 80237, USA
 
 **Policy Updates**  
-We may update this policy from time to time. We will post a prominent notice in this section of this policy notifying users when it is updated. Last Updated: February 18, 2015. To see the prior version of this policy, [click here](https://web.archive.org/us/legal/privacy/previous-policy/index.html). We appreciate your comments on Oracle's privacy practices:
+We may update this policy from time to time. We will post a prominent notice in this section of this policy notifying users when it is updated. To see the prior version of this policy, [click here](https://web.archive.org/us/legal/privacy/previous-policy/index.html). We appreciate your comments on Oracle's privacy practices:
 
 **Corporate Headquarters** Oracle's corporate headquarters are located at:
 
@@ -235,4 +243,8 @@ Redwood Shores, CA
 94065, USA  
 Tel: +1.650.506.7000  
 Fax: +1.650.506.7200 
+
+Last Updated: November 6, 2015
+
+
 
