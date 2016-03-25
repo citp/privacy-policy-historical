@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145337id_/http%3A//www.ecnmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325140914id_/http%3A//www.ecnmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Electronic Component News
 
 Last updated: January 25, 2013
 
