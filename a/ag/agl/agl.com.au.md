@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226092023id_/http%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.*
 
 # AGL - AGL Privacy Policy
 
@@ -174,16 +174,16 @@ If you consider that any action taken by AGL Energy breaches this Privacy Policy
 If your privacy concerns are not resolved to your satisfaction, you may contact:
 
 (a) from 12 March 2014, your relevant energy industry ombudsman with jurisdiction to handle privacy complaints, including:  
-[ (1) Energy and Water Ombudsman (Victoria)](https://web.archive.org/web/20151226092023id_/http%3A//www.agl.com.au/site-pages/www.ewov.com.au) and on 1800 500 509; and  
-[ (2) Energy & Water Ombudsman NSW ](https://web.archive.org/web/20151226092023id_/http%3A//www.agl.com.au/site-pages/www.ewon.com.au)and on 1800 246 545; or  
+[ (1) Energy and Water Ombudsman (Victoria)](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/www.ewov.com.au) and on 1800 500 509; and  
+[ (2) Energy & Water Ombudsman NSW ](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/www.ewon.com.au)and on 1800 246 545; or  
   
-(b) The [Office of the Australian Information Commissioner](https://web.archive.org/web/20151226092023id_/http%3A//www.agl.com.au/site-pages/www.oaic.gov.au) and on 1300 363 992.
+(b) The [Office of the Australian Information Commissioner](https://web.archive.org/web/20160325034138id_/https%3A//www.agl.com.au/site-pages/www.oaic.gov.au) and on 1300 363 992.
 
 * * *
 
 ### 8\. How to Contact us
 
-You can contact the AGL Energy Group about a privacy-related issue by phone, post or by ﬁlling in our [online enquiry form](https://web.archive.org/residential/help-and-support/contact-us). 
+You can contact the AGL Energy Group about a privacy-related issue by phone, post or by ﬁlling in our [online enquiry form](https://web.archive.org/residential/contact-us). 
 
 **Phone:** 131 245 (available 24/7)
 
