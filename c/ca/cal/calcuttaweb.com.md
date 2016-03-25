@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcuttaweb.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006121453id_/https%3A//www.calcuttaweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcuttaweb.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325023654id_/https%3A//www.calcuttaweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Calcuttaweb
 
