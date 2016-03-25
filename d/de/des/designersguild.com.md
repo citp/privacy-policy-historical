@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906103231id_/https%3A//www.designersguild.com/us/privacy-policy/l1010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325214131id_/https%3A//www.designersguild.com/us/privacy-policy/l1010) for the most accurate reproduction.*
 
 # Privacy Policy | Designers Guild
 
