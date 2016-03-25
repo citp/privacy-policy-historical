@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewestsidestory.net privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026162632id_/http%3A//thewestsidestory.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewestsidestory.net privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325020743id_/http%3A//thewestsidestory.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Westside StoryThe Westside Story
+# Privacy Policy - The Westside Story
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
