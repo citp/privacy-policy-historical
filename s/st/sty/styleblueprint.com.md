@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the styleblueprint.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703193340id_/http%3A//styleblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleblueprint.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325135929id_/http%3A//styleblueprint.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - StyleBlueprint
+# Privacy Policy
 
 ## StyleBlueprint Privacy Policy
 
