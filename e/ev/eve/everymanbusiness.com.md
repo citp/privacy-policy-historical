@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everymanbusiness.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029191004id_/http%3A//www.everymanbusiness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymanbusiness.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325180928id_/http%3A//www.everymanbusiness.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Everyman Business
 
