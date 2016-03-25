@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the thunder-link.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223192822id_/http%3A//www.thunder-link.com/PRIVACY-POLICY_ezp28.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thunder-link.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325135553id_/http%3A//www.thunder-link.com/company/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Thunder-Link, Super Performance & Affordable prices
+# Privacy Policy - Thunder-link.com
 
-**Privacy Policy**  
+Information collect  
+We collect information about you in various ways, including the following.  
+   
+Information You Provide  
+We collect information you provide us when you use our Sites. For example, we collect your name, email address, postal address, phone number, fax number, demographics, and other information you provide us online. We also collect credit card numbers and other forms of payment information if you purchase products and services through our Sites and certain third-party sites.  
+   
+Information from Other Sources  
+We may also obtain information from other sources and combine that with information we collect on our Sites. As examples, we may obtain demographic data from third-party data providers to better market to you, and we may purchase or lease lists from list brokers to correct or supplement your data.  
+   
+Information Automatically Collected  
+When you visit our Sites, some information about your visit is automatically collected by Thunder-link.com’s systems. For example, when you visit our Sites your computer's or mobile device’s operating system, application software, Internet Protocol (IP) address, access times, browser type and language, peripherals, and the websites you visited before our Sites are logged automatically. We also collect information about your usage and activity on our Sites including information about your orders, purchases, and cart activity.  
+   
+Online Tracking by Third Parties  
+Other third parties may collect information about you through our Sites, including personally identifiable information about your online activities over time and across different websites when you use our Sites. Some third parties provide us with analytics services and automatically collect the type of information described above. Some third parties collect information on behalf of Thunder-link.com and others for online advertising purposes described below.  
+   
+We have the right to modify this privacy policy from time to time; the effective date noted above will indicate the date that this policy was last updated. You should visit our Website periodically to review any changes.  
+   
+We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. Protect your privacy is our duty.  
+   
+E-mail Correspondance  
   
-We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Thunder-Link.com.  
-If you have visited our website, that will be considered to be your acceptance to this privacy policy.  
-  
-**Automatically collected information  **  
-  
-Whenever you interact with us, we will receive and deposit the given information.  
-For example, like many other sites, we use “cookies”.  
-When your internet browser visits Thunder-Link.com, we will collect some information.(please refer to the sample of information collecting process stated at the end of this policy)  
-Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.  
-  
-**E-mail Correspondence**  
-  
-To help us making the E-mail more useful and interesting, when you open the email from Thunder-Link.com, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’ in order to avoid the junk messages.  
-The information from other resources:  
-We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)  
-  
-**The Information from Other Resources**  
-  
-The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you.
-
-Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’ service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
-The information you can get easily from Thunder-Link.com containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.  
-  
+when you inquiry a product from www.thunder-link.com we will receive a mail including your name, email, address ect, and our sales representative will contact you soon, but due to the jet lag, maybe sometimes we cannot reply your E-mail immediately, please be patient, and wait for our quotation.  
  
