@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927193549id_/http%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325211412id_/https%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reputation.com
 
 ## PRIVACY PLEDGES:
 
-  1. Reputation.com's whole mission centers on empowering you, the consumer, to control your privacy online - that's why we're truly committed to maintaining the privacy and security of your personally identifiable information. Our privacy policy has been reviewed and approved by TRUSTe, which sets privacy program standards for accountability, transparency and choice. (learn more)
+  1. Reputation.com's whole mission centers on empowering you, the consumer, to control your privacy online - that's why we're truly committed to maintaining the privacy and security of your personally identifiable information. (learn more)
   2. We collect and use only the personally identifiable information we need to make sure our products and services are effective. If we need any additional information, we will get your express, explicit approval before collecting and using it. (learn more)
   3. We do not sell, give, rent or trade your personally identifiable information to advertisers, marketers, spammers, or any online "white pages" or "people finder" sites. (learn more)
   4. If you provide personally identifiable information to us about your customers or clients, we will keep that information confidential and will only use it as necessary to provide the services you have purchased. We will not share such information with third parties, including advertisers or marketers or spammers. (learn more)
