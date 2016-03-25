@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whmcsthemes.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317190010id_/https%3A//www.whmcsthemes.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whmcsthemes.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144106id_/https%3A//www.whmcsthemes.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WHMCS Themes
 
@@ -12,7 +12,7 @@ We will usually contact you by sending an email so that we can bring products an
 
 Under no circumstances will we send you junk email or spam.
 
-If we send you a marketing email, you will be able to opt out of future marketing emails by clicking on the "Unsubscribe" link within the email. It's not possible to unsubscribe from system/automated emails unless you ask us to delete your account (please refer to point 3 below for more information on account removals).
+If we send you a marketing email, you will be able to opt out of future marketing emails by clicking on the "Unsubscribe" link within the email. It's not possible to unsubscribe from system/automated emails.
 
 #### 2) Third Party Involvement
 
@@ -24,9 +24,7 @@ We reserve the right to inform the WHMCS Limited Piracy Department of any unlice
 
 #### 3) Retainment of Data
 
-The personal information you provide us with will be retained by us for as long as you are a customer.
-
-If you decide that you no longer want your personal information to reside with us, please open a support ticket from your client account expressing your wish for us to delete your client account. Once your account is deleted, so is any of your information we hold. Please note that this action is irreversible.
+For reasons relating to accounting and taxation, we are required by law to retain data about you and your purchase history for a minimum period of 10 years.
 
 #### 4) Credit Card Details
 
@@ -40,4 +38,10 @@ Most web browsers allow some control of most cookies through the browser setting
 
 By using our website, you agree and consent to the use of cookies.
 
-Last Updated: 28th March 2014
+#### 6) Disqus
+
+Some pages on our website contain a comments section powered by [Disqus, Inc](https://disqus.com/), a third party company.
+
+If you wish to use this facility, please ensure you have read and understood the privacy policy of Disqus as it may be different to our own.
+
+Last Updated: 17th July 2015
