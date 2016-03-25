@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialtalent.co privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928232202id_/http%3A//www.socialtalent.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtalent.co privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325071620id_/http%3A//www.socialtalent.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Talent
 
