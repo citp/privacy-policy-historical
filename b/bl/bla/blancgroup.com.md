@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910202634id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325184003id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BLANC & ECLARE
 
