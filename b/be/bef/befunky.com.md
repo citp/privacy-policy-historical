@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the befunky.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917033557id_/https%3A//www.befunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befunky.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325060221id_/https%3A//www.befunky.com/privacy) for the most accurate reproduction.*
 
-# Photo Effects and Photo Editing with One Click - BeFunky.com
+# BeFunky – Privacy Policy
 
 Last Updated: September 24, 2009
 
-This Privacy Policy describes how BeFunky, Inc. ("BeFunky," "We," "Us," or "Our") protects your privacy when you use the Web site located at [www.befunky.com](http://www.befunky.com/) (the "Site").
+This Privacy Policy describes how BeFunky, Inc. ("BeFunky," "We," "Us," or "Our") protects your privacy when you use the Web site located at [www.befunky.com](https://www.befunky.com/) (the "Site").
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
 
