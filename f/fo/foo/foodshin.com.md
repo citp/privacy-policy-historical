@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodshin.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210191706id_/http%3A//foodshin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodshin.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325022812id_/http%3A//foodshin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
