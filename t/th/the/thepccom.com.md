@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepccom.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205162923id_/http%3A//thepccom.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepccom.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325105621id_/http%3A//thepccom.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # thepccom.com » Privacy Policy
 
