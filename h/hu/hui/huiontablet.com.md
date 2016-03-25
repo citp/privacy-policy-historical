@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the huiontablet.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909205745id_/http%3A//www.huiontablet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huiontablet.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325114850id_/https%3A//www.huiontablet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
-
-**Privacy  policy**
 
 Huion respects the privacy of every visitor. This article aims to explain Huion may collect information and how we might use this information.
 
