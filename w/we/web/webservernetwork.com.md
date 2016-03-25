@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webservernetwork.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626133623id_/https%3A//www.simplexwebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webservernetwork.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325032754id_/https%3A//www.simplexwebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SimplexWebs
-
-## Privacy Policy
 
 This document sets out how SimplexWebs will deal with the information you provide us.
 
