@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117231057id_/http%3A//www.c2cfabrication.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325103413id_/http%3A//www.c2cfabrication.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Rust Repair Panels | Auto Body Panels | Replacement Floor Pans
+# Privacy Statement – Classic 2 Current Fabrication
 
 **_PRIVACY STATEMENT_**
 
