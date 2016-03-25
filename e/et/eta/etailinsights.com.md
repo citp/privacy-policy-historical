@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the etailinsights.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326064614id_/http%3A//www.etailinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etailinsights.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325123620id_/http%3A//etailinsights.com/privacy) for the most accurate reproduction.*
 
-# Privacy — etailinsights
+# Privacy | etailinsights
 
-## etailinsights® is a registered trademark of EtailInsights, Inc.  
-
+## etailinsights® is a registered trademark of Etailinsights, Inc.
 
 etailinsights is committed to protecting the privacy of visitors to our website and users of our product. We take privacy issues seriously and we invite you to review the following privacy statement created for users of www.etailinsights.com. Collecting Personal Information: When you visit the etailinsights external website, you may do so anonymously, without telling us who you are or revealing any personal information. Personal information such as your name, address and email address is obtained only when you provide it, for example, when you subscribe to newsletters, purchase products or subscriptions, respond to user surveys, and register for etailinsights materials, programs, events or white papers. etailinsights uses personal information to fulfill online requests for our product and services and to provide other requested services. We may also use the information you supply to: make etailinsights.com easier for you to use by not having to enter information more than once, help us customize content most relevant to you, notify you about important news concerning etailinsights (including new product information and services, product updates and technical support issues), and special offers we think might interest you. To maintain and administer etailinsights.com, we track site usage through Web server logs. Our Web server logs record information such as what types of browsers are accessing our site, which pages receive high traffic, and the times of day our servers experience significant load. This information is used solely to improve the content and navigation features of our site. It is not used to personally identify you. The personal information you provide to etailinsights also allows us to determine if you are an authorized user of one or more of our products, for which you or your organization has paid a fee.
 
@@ -28,29 +27,31 @@ etailinsights is committed to protecting the privacy of visitors to our website 
 
 Note that any information which you upload, post, e-mail, submit or otherwise transmit to, through, or in connection with the Services to a public message board, chat area or other public area of the Services becomes public information. You are solely responsible for any such information you choose to post on or through the Services, and you may always choose not to divulge any personal information to the public when posting to a message board, chat area or other public area of the Services. All information that is posted to a message board, chat area, or other public area of the Services may be shared by us with others.
 
- **Usage Tracking**
+**Usage Tracking**
 
 We may track usage information within our product. We do this to monitor authorized usage of our product and to improve the design and functionality of our products.
 
- **Cookies**  
+**Cookies**
+
 A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. etailinsights uses cookies only to store personal preferences about website activity for your future visits. Cookies allow us to recognize you more quickly; therefore, your time spent on our site is more personalized and productive. We do not use cookies or similar technology to cross-relate personal information about our visitors. Moreover, most Web browsers allow you to control cookie usage, including whether or not you wish to accept them and how to remove them.
 
- **Consent**  
+**Consent**
+
 By using etailinsights.com and by signing up for etailinsights's services; you consent to the collection and use of the previously mentioned information by etailinsights. This privacy policy is subject to change. To stay up-to-date with our policies, please check this page frequently. We reserve the right to change, modify, add, or remove portions of this policy at any time.
 
- **A Special Note about Children**  
+**A Special Note about Children**  
 The Services are neither designed nor intended to attract children under the age of 13, and we do not collect personal information from any individual who we actually know is under the age of 13. We ask that children under the age of 13 not submit any personal information to us.
 
- **External Links**  
+**External Links**  
 The Services contain links to various websites that Etailinsights does not control. When you click on one of these links, you will no longer be transacting business through the Services. Third party websites maintain their own privacy policies, and we do not exercise any control over any of the third party websites that may be linked to the Services. If you visit a website that is linked to the Services, you should consult that website’s privacy policy before providing any personal information. Please be aware that we are not responsible for the privacy practices of such other websites, and we are not liable for their misuse of personal information about you.
 
- **Updating Information**  
+**Updating Information**  
 We encourage registered users of the Services to keep their personal information current. You may change personal information you have provided about you at any time by logging into the personal profile you created on or through the Services. After you enter your username and password, you can edit personal information about you. You may also change personal information you have provided about you by contacting us at [info@etailinsights.com](mailto:info@etailinsights.com)
 
- **Your California Privacy Rights**  
+**Your California Privacy Rights**  
 Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident and your business relationship with Etailinsights is primarily for personal, family, or household purposes, you may request certain data regarding Etailinsights’ disclosure, if any, of personal information to third parties for the third parties' direct marketing purposes. To make such a request, please send an email message to [info@etailinsights.com] with “Request for California Privacy Information” in the subject line; you may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27’s requirements.
 
- **Updates to this Privacy Policy**  
+**Updates to this Privacy Policy**  
 We may change or update the Services or any of our policies and procedures without prior notice. We will post a notice on this Site to advise you of any significant changes to this Privacy Policy and indicate at the top of this statement when it was most recently updated. Your continued use of the Services signifies your continued assent to the terms of this Privacy Policy, as updated or amended at that time.at info@etailinsights.com.
 
 Copyright © 2011 etailinsights.
