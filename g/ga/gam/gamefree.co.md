@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefree.co privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125052955id_/http%3A//gamefree.co/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefree.co privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325130500id_/http%3A//gamefree.co/privacy.html) for the most accurate reproduction.*
 
 # Gamefree.co- Best Free Online Games
 
