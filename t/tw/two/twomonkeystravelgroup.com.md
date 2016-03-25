@@ -1,67 +1,88 @@
-> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001065804id_/http%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325160648id_/http%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Two Monkeys Travel
+# Privacy Policy of Two Monkeys Travel Group
 
-This Privacy Policy governs the manner in which Two Monkeys Travel Group collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://twomonkeystravelgroup.com](http://twomonkeystravelgroup.com/) website (“Site”).
+## **ONLINE PRIVACY POLICY AGREEMENT**
 
-### Personal identification information
+Two Monkeys Travel Group is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Two Monkeys Travel Group of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards. 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**_THEREFORE_** , this Privacy Policy Agreement shall apply to Two Monkeys Travel Group and thus it shall govern any and all data collection and usage thereof. Through the use of twomonkeystravelgroup.com you are herein consenting to the following data procedures expressed within this agreement. 
 
-### Non-personal identification information
+### **Collection of Information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+This website collects various types of information, such as:
 
-### Web browser cookies
+  * Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-### How we use collected information
-
-Two Monkeys Travel Group may collect and use Users personal information for the following purposes:
-
-  * _To run and operate our Site_  
-We may need your information display content on the Site correctly.
-  * _To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_
+  * Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
 
 
 
-### How we protect your information
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Two Monkeys Travel Group may also have the occasion to collect anonymous demographic information that may not be unique to you and may even gather additional or other personal and/or non-personal information, such as age, gender, household income, political affiliation, race and religion, at a later time.
 
-### Sharing your personal information
+It is even possible that we may gather information about your computer hardware and/or software. Such collected information may include, but may not be limited to, your IP address, browser type, domain name, access time and various website addresses. The gathering of this information may be used for maintaining the quality of service we provide, as well as providing overall general statistics related to the use of our website and others. 
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. 
 
-### Electronic newsletters
+### **Use of Information Collected**
 
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Two Monkeys Travel Group may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information meant to inform you of other possible products and/or services that may be available to you from twomonkeystravelgroup.com and its subsidiaries and may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or possible new services that are offered or may be offered.
 
-### Third party websites
+Two Monkeys Travel Group does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Two Monkeys Travel Group, from time to time, may feel it necessary to make contact with you on behalf of other external business partners with regards to a specific offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party. 
 
-### Compliance with children’s online privacy protection act
+Two Monkeys Travel Group may find it beneficial to share specific data with their trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required in accordance with this agreement to maintain the confidentiality of all your information. 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Two Monkeys Travel Group may deem it necessary to follow websites and/or pages that their users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
 
-### Changes to this privacy policy
+Two Monkeys Travel Group may disclose your personal information, without prior notice to you, only if required to do so pursuant to applicable laws and/or in a good faith belief that such action is deemed necessary or required to:
 
-Two Monkeys Travel Group has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+  1. Conform to decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Two Monkeys Travel Group and/or its website;
+  2. Safeguard and/or preserve all the rights and/or property of Two Monkeys Travel Group; and
+  3. Perform under demanding conditions in an effort to safeguard the personal safety of users of twomonkeystravelgroup.com and/or the general public.
 
-### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-### Contacting us
+### **Children Under Age of 13**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+Two Monkeys Travel Group does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
 
-This document was last updated on April 11, 2015
+### **Unsubscribe or Opt-Out**
 
-AFFILIATE LINKS DISCLAIMER:
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to the email on our website. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
 
-This website contains some affiliate links. Should you click an affiliate link and make a purchase you will still get the best price available on the day. However this site will receive a small commission which goes towards the annual costs of running this site. Your purchase will help to keep this site free. Thank you.
+### **Affiliate Links & Sponsored Content**
+
+From time to time, our website will have sponsors share their content through our network. 
+
+We do not claim nor accept any responsibility regarding the scope and nature of the websites and/or businesses affiliated with the sponsored content that is promoted via our website. Additionally, affiliate links will also be featured on our website, however, we also do not claim nor accept any responsibility regarding the websites that are associated with our affiliate links. More information regarding third-party links can be read in the following section. 
+
+### **Links to Other Web Sites**
+
+Our website does contain links to affiliate and other websites. Two Monkeys Travel Group does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+
+### **Security**
+
+Two Monkeys Travel Group shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control. 
+
+### **Changes to Privacy Policy Agreement**
+
+Two Monkeys Travel Group reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at twomonkeystravelgroup.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Two Monkeys Travel Group decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
+
+### **Acceptance of Terms**
+
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+
+### **How to Contact Us**
+
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+
+**Email:** [kach.twomonkeystravel@gmail.com](mailto:kach.twomonkeystravel@gmail.com)
+
+**Updated: November 6, 2015**
+
++This document was customized by[ FormSwift](http://formswift.com/lease-agreement)+
