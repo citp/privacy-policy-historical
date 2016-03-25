@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eachour.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114213107id_/http%3A//eachour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eachour.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325124840id_/http%3A//eachour.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eachour
+# Privacy Policy – eachour
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Email](mailto:harsaat.com@gmail.com).
 
