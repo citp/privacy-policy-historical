@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curated.co privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923115321id_/http%3A//curated.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curated.co privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325142834id_/http%3A//curated.co/privacy) for the most accurate reproduction.*
 
 # Curated: Grow your audience by collecting and sharing engaging content
 
