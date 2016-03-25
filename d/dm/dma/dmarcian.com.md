@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319021407id_/https%3A//dmarcian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325192306id_/https%3A//dmarcian.com/privacy) for the most accurate reproduction.*
 
 # dmarcian - Privacy Policy
 
@@ -18,7 +18,7 @@ dmarcian collects information submitted by users such as DMARC XML aggregate fil
 
 dmarcian automatically receives and records information from your web browser when you interact with the Services, including your IP address and cookie information. This information may be used to help dmarcian understand how users transit the Site, to fight spam/malware, to facilitate collection of data concerning your interaction with the Services and for other similar purposes.
 
-Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. dmarcian may use this data in aggregate form, that is, as a statistical measure, but not in a way that would identify you personally. This ttype of aggregate data enables dmarcian to figure out how often individuals use parts of the Services so that dmarcian can analyze and improve them.
+Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. dmarcian may use this data in aggregate form, that is, as a statistical measure, but not in a way that would identify you personally. This type of aggregate data enables dmarcian to figure out how often individuals use parts of the Services so that dmarcian can analyze and improve them.
 
 ## Email Communications
 
