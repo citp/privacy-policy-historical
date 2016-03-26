@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219231344id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326072105id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Rupeepower.com
+# Rupee Power Privacy Policy
 
 Date Last Revised:  Thursday, 18 April 2013
 
