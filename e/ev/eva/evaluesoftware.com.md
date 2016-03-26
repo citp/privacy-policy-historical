@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evaluesoftware.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126140522id_/http%3A//www.softwaresituation.com/products/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaluesoftware.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326171048id_/http%3A//www.softwaresituation.com/products/policies.html%23privacy_policy) for the most accurate reproduction.*
 
 # Policies
 
