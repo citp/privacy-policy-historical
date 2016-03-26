@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nukepills.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506000731id_/https%3A//www.nukepills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nukepills.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326012833id_/http%3A//www.nukepills.com/privacy) for the most accurate reproduction.*
 
-# Privacy -
+# Privacy - Radiation Biological Chemical Emergency Protection Supplies
 
 We respect the privacy of all of the people who visit this web site and would not willfully disclose information about its visitors to any third party. Nukepills, Inc. will not disclose this information unless the law requires us to, or to protect the rights or property of Nukepills, Inc. We use the data we collect exclusively to better understand the demographics of our online audience and to improve our Internet site. We may send you e-mail communications to inform you about products and services. Any list we amass will only be used by Nukepills, Inc. and will not be specifically sold, leased or otherwise disclosed to another entity for its use without your permission.
 
