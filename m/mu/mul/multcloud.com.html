@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the multcloud.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906164519id_/https%3A//www.multcloud.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the multcloud.com privacy policy that was archived on 2016-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160327000403id_/https%3A//www.multcloud.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="UTF-8">
@@ -22,6 +22,7 @@
 
 <base href="/">
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
+<script type="text/javascript" src="js/index/quickExp.js"></script>
 
 
 <div style="display:none;">
@@ -37,7 +38,7 @@
 
 <!--头-->
 <div id="header" style="">
-    <div class="middle-content">
+    <div class="middle-content" style="height:100%">
         <a id="logo" href="home"><img src="images/public/logo.png"></a>
         <div id="header-menus" style="">
             <a class="header-menu" href="home">Home</a>
@@ -45,13 +46,19 @@
             <a class="header-menu" href="price">Pricing</a> 
             <a class="header-menu" href="support">Support</a>
         </div>
-        <div id="header-bts">
+        
+        <div id="header-bts" style="width:191px">
             
         	<a id="header-bt-signin" href="javascript:signIn()">Sign in</a>
         	
             <a id="header-bt-signup" href="sign?method=up">Sign up</a>
-        </div>
-    </div>
+	        
+	        <div id="quickExpDiv2">
+	            <span class="quickExpAnchor" onclick="quickAccess()">Experience without signing up</span>
+	        </div>
+	    	
+	    </div>
+	</div>
 </div>
 <div id="header-hack"></div>
 <!--头end-->
@@ -80,7 +87,7 @@
         <div id="signin-win-m">
             <form name="signinForm" id="signin-form" action="#" method="post" autocomplete="off">
             <div id="signin-win-m-title" class="margin-center">Login to multcloud</div>
-            <div class="signin-win-m-inputbox margin-center"><input name="email" type="text"><span>Email</span></div>
+            <div class="signin-win-m-inputbox margin-center"><input name="email" type="text"><span>Email / Quick Experience Username</span></div>
             
             <div id="topCookie"><ol></ol></div>
             
@@ -389,9 +396,6 @@
 <base href="/">
 
 <!--尾-->
-<div id="footer2" style="display:none;">
-    <div id="footer2-text">版权所有© 2014 傲梅科技.</div>
-</div>
 <div id="footer" style="">
     <div class="middle-content">
         <div id="footer-links">
@@ -428,7 +432,7 @@
             </div>
         </div>
     </div>
-    <div id="footer-copyright">Copyright © 2015 MultCloud. | <a href="terms">Terms of Use</a> | <a href="policy">Privacy Policy</a></div>
+    <div id="footer-copyright">Copyright © 2016 MultCloud. | <a href="terms">Terms of Use</a> | <a href="policy">Privacy Policy</a></div>
 </div>
 <!--尾 end-->
 
