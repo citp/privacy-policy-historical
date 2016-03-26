@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenshield.ca privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503135407id_/http%3A//www.greenshield.ca/sites/corporate/en/footer/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenshield.ca privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326102936id_/http%3A//www.greenshield.ca/sites/corporate/en/footer/pages/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
