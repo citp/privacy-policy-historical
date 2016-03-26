@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mehide.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222002305id_/http%3A//mehide.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehide.org privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326024732id_/http%3A//mehide.org/privacy.php) for the most accurate reproduction.*
 
 # mehide.org - Unblock YouTube, Facebook, Twitter, Adult Unblocker - Secure
 
