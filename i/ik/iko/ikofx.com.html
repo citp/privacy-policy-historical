@@ -1,172 +1,168 @@
-<!--The following is the downloaded HTML source of the ikofx.com privacy policy that was archived on 2015-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150913095405id_/http%3A//www.ikofx.com/en/index.php/en/trader-area/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ikofx.com privacy policy that was archived on 2016-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326223944id_/http%3A//www.ikofx.com/en/index.php/en/trader-area/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="overflow: hidden;"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=1120">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js"></script><script type="text/javascript">
-//<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"eaa82602329289a476f9e8599a271a35",petok:"f5565ae41ee3e3f7568644df340c5148b201309e-1442138045-1800",betok:"3f15e7488c13212b7a6dfec5ea844ee457b05c92-1442138045-120",zone:"ikofx.com",rocket:"0",apps:{"abetterbrowser":{"ie":"6"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
-//]]>
-</script>
-<script src="/en/templates/ikofx/js/jquery-1.8.1.min.js"></script>
- 
-<script src="/en/templates/ikofx/js/jquery.nicescroll.min.js"></script>
-<script src="/en/templates/ikofx/js/smoothness/jquery-ui-1.10.0.custom.js"></script>
-<script src="/en/templates/ikofx/js/jquery.easytabs.min.js"></script>
-<link rel="stylesheet" href="/en/templates/ikofx/js/smoothness/jquery-ui-1.10.0.custom.css" type="text/css">
- 
- 
-<link rel="stylesheet" href="/en/templates/ikofx/css/template_css.css" type="text/css">
- 
-<!--[if lt IE 9]>
-      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-<script type="text/javascript">
-        jQuery.noConflict()
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+        <meta name="viewport" content="width=1120">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/en/templates/ikofx/js/jquery-1.8.1.min.js"></script>
+        <script src="/en/templates/ikofx/js/jquery-migrate-1.2.1.min.js"></script>
+        <script src="/en/templates/ikofx/js/fancybox/jquery.fancybox.pack.js"></script>
+        <script src="/en/templates/ikofx/js/jquery.nicescroll.min.js"></script>
+        <script src="/en/templates/ikofx/js/smoothness/jquery-ui-1.10.0.custom.js"></script>
+        <script src="/en/templates/ikofx/js/jquery.easytabs.min.js"></script>
+        <link rel="stylesheet" href="/en/templates/ikofx/js/smoothness/jquery-ui-1.10.0.custom.css" type="text/css">
+        <link rel="stylesheet" href="/en/templates/ikofx/js/fancybox/jquery.fancybox.css" type="text/css">   
+        <!-- The following line loads the template CSS file located in the template folder. -->
+        <link rel="stylesheet" href="/en/templates/ikofx/css/template_css.css" type="text/css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+          <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+                <script type="text/javascript">
+            jQuery.noConflict()
 
-        function DropDown(el) {
-            this.dd = el;
-            this.placeholder = this.dd.children('span');
-            this.opts = this.dd.find('ul.dropdown > li');
-            this.icon = this.dd.find('img').first();
-            this.val = '';
-            this.index = -1;
-            this.initEvents();
-        }
-
-        DropDown.prototype = {
-            initEvents : function() {
-                var obj = this;
-
-                obj.dd.on('click', function(event){
-                    jQuery(this).toggleClass('active');
-                    return false;
-                });
-
-                obj.opts.on('click',function(){
-                    var opt = jQuery(this);
-                    obj.val = opt.text();
-                    obj.index = opt.index();
-                    obj.placeholder.text(obj.val);
-                    obj.icon.attr('src', opt.find('img').attr('src')); 
-                    window.location = opt.find('a').attr('href');
-                });
-            },
-            getValue : function() {
-                return this.val;
-            },
-            getIndex : function() {
-                return this.index;
+            function DropDown(el) {
+                this.dd = el;
+                this.placeholder = this.dd.children('span');
+                this.opts = this.dd.find('ul.dropdown > li');
+                this.icon = this.dd.find('img').first();
+                this.val = '';
+                this.index = -1;
+                this.initEvents();
             }
-        }
 
-        jQuery(document).ready(function(){
-            jQuery("html").niceScroll();
-            jQuery(".memberLogin").click(function(){
-                        if (jQuery("#loginFormBox").is(":visible")) {
-                            jQuery(".loginFormContent").animate(
+            DropDown.prototype = {
+                initEvents: function() {
+                    var obj = this;
+
+                    obj.dd.on('click', function(event) {
+                        jQuery(this).toggleClass('active');
+                        return false;
+                    });
+
+                    obj.opts.on('click', function() {
+                        var opt = jQuery(this);
+                        obj.val = opt.text();
+                        obj.index = opt.index();
+                        obj.placeholder.text(obj.val);
+                        obj.icon.attr('src', opt.find('img').attr('src'));
+                        window.location = opt.find('a').attr('href');
+                    });
+                },
+                getValue: function() {
+                    return this.val;
+                },
+                getIndex: function() {
+                    return this.index;
+                }
+            }
+
+            jQuery(document).ready(function() {      
+                jQuery("html").niceScroll();
+                jQuery(".memberLogin").click(function() {
+                    if (jQuery("#loginFormBox").is(":visible")) {
+                        jQuery(".loginFormContent").animate(
                                 {
                                     opacity: "0"
-                                },'fast',
-                                function(){
+                                }, 'fast',
+                                function() {
                                     jQuery("#loginFormBox").slideUp();
                                 }
-                            );
-                        }
-                        else {
-                            jQuery("#loginFormBox").slideDown(function(){
-                                jQuery(".loginFormContent").animate(
+                        );
+                    }
+                    else {
+                        jQuery("#loginFormBox").slideDown(function() {
+                            jQuery(".loginFormContent").animate(
                                     {
                                         opacity: "1"
-                                    },'fast'
-                                );
-                            });
-                        }          
-            });
-            
-             jQuery(".memberLoginCn").click(function(){
-                        if (jQuery("#loginFormBox").is(":visible")) {
-                            jQuery(".loginFormContent").animate(
+                                    }, 'fast'
+                                    );
+                        });
+                    }
+                });
+
+                jQuery(".memberLoginCn").click(function() {
+                    if (jQuery("#loginFormBox").is(":visible")) {
+                        jQuery(".loginFormContent").animate(
                                 {
                                     opacity: "0"
-                                },'fast',
-                                function(){
+                                }, 'fast',
+                                function() {
                                     jQuery("#loginFormBox").slideUp();
                                 }
-                            );
-                        }
-                        else {
-                            jQuery("#loginFormBox").slideDown(function(){
-                                jQuery(".loginFormContent").animate(
+                        );
+                    }
+                    else {
+                        jQuery("#loginFormBox").slideDown(function() {
+                            jQuery(".loginFormContent").animate(
                                     {
                                         opacity: "1"
-                                    },'fast'
-                                );
-                            });
-                        }          
-            });
+                                    }, 'fast'
+                                    );
+                        });
+                    }
+                });
 
-//            jQuery("#ikofxNews a").click(function() {
-//                    jQuery.fancybox({
-//                                    'padding'    : 0,
-//                                    'autoScale'    : false,
-//                                    'transitionIn'  : 'none',
-//                                    'transitionOut'  : 'none',
-//                                    'title'      : this.title,
-//                                    'width'    : 680,
-//                                    'height'    : 495,
-//                                    'href'      : this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
-//                                    'type'      : 'swf',
-//                                    'swf'      : {
-//                                            'wmode'    : 'transparent',
-//                                            'allowfullscreen'  : 'true'
-//                                    }
-//                            });
-//
-//                    return false;
-//            });
+                //            jQuery("#ikofxNews a").click(function() {
+                //                    jQuery.fancybox({
+                //                                    'padding'    : 0,
+                //                                    'autoScale'    : false,
+                //                                    'transitionIn'  : 'none',
+                //                                    'transitionOut'  : 'none',
+                //                                    'title'      : this.title,
+                //                                    'width'    : 680,
+                //                                    'height'    : 495,
+                //                                    'href'      : this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                //                                    'type'      : 'swf',
+                //                                    'swf'      : {
+                //                                            'wmode'    : 'transparent',
+                //                                            'allowfullscreen'  : 'true'
+                //                                    }
+                //                            });
+                //
+                //                    return false;
+                //            });
 
-            jQuery('#accTab').easytabs();
-            
+                jQuery('#accTab').easytabs();
+
                 jQuery(function() {
                     jQuery("#tabs").tabs();
                     // fix the classes
-                jQuery(".tabs-bottom .ui-tabs-nav, .tabs-bottom .ui-tabs-nav > *")
-                .removeClass("ui-corner-all ui-corner-top")
-                .addClass("ui-corner-bottom")
+                    jQuery(".tabs-bottom .ui-tabs-nav, .tabs-bottom .ui-tabs-nav > *")
+                            .removeClass("ui-corner-all ui-corner-top")
+                            .addClass("ui-corner-bottom")
 
-                // move the nav to the bottom
-                jQuery(".tabs-bottom .ui-tabs-nav").appendTo(".tabs-bottom");
+                    // move the nav to the bottom
+                    jQuery(".tabs-bottom .ui-tabs-nav").appendTo(".tabs-bottom");
+                });
+
             });
-            
-        });
-        
-        jQuery(function() {
-                var dd = new DropDown( jQuery('#dd') );
+
+            jQuery(function() {
+                var dd = new DropDown(jQuery('#dd'));
 
                 jQuery(document).click(function() {
-                        // all dropdowns
-                        jQuery('.wrapper-dropdown-3').removeClass('active');
+                    // all dropdowns
+                    jQuery('.wrapper-dropdown-3').removeClass('active');
                 });
-        });        
-    </script>
-<base href="http://ikofx.com/en/index.php/en/trader-area/privacy-policy">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="keywords" content="forex, forex currency trading, online forex broker, best forex broker, ikofx, Online Forex Broker | Best Forex Broker | IKOFX">
-<meta name="author" content="Super User">
-<meta name="description" content="Online Forex Broker | Best Forex Broker | IKOFX - The Ideal Place for Forex Trading. 24 hours forex trading with 1 click execution.">
-<title>Online Forex Broker | Best Forex Broker | IKOFX</title>
-<link href="http://ikofx.com/en/index.php/en/component/search/?Itemid=163&amp;format=opensearch" rel="search" title="Search Online Forex Broker | Best Forex Broker | IKOFX" type="application/opensearchdescription+xml">
-<link rel="stylesheet" href="/en/modules/mod_maximenuck/themes/blank/css/moo_maximenuhck.css" type="text/css">
-<link rel="stylesheet" href="/en/modules/mod_maximenuck/themes/blank/css/maximenuhck.php?monid=maximenuck" type="text/css">
-<link rel="stylesheet" href="/en/modules/mod_maximenuck/assets/maximenuck.css" type="text/css">
-<script src="/en/media/system/js/mootools-core.js" type="text/javascript"></script>
-<script src="/en/media/system/js/core.js" type="text/javascript"></script>
-<script src="/en/media/system/js/caption.js" type="text/javascript"></script>
-<script src="/en/media/system/js/mootools-more.js" type="text/javascript"></script>
-<script type="text/javascript">
+            });
+        </script>
+      <base href="http://www.ikofx.com/en/index.php/en/trader-area/privacy-policy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="forex, forex currency trading, online forex broker, best forex broker, ikofx, Online Forex Broker | Best Forex Broker | IKOFX">
+  <meta name="author" content="Super User">
+  <meta name="description" content="Online Forex Broker | Best Forex Broker | IKOFX - The Ideal Place for Forex Trading. 24 hours forex trading with 1 click execution.">
+  <title>Online Forex Broker | Best Forex Broker | IKOFX</title>
+  <link href="http://www.ikofx.com/en/index.php/en/component/search/?Itemid=163&amp;format=opensearch" rel="search" title="Search Online Forex Broker | Best Forex Broker | IKOFX" type="application/opensearchdescription+xml">
+  <link rel="stylesheet" href="/en/modules/mod_maximenuck/themes/blank/css/moo_maximenuhck.css" type="text/css">
+  <link rel="stylesheet" href="/en/modules/mod_maximenuck/themes/blank/css/maximenuhck.php?monid=maximenuck" type="text/css">
+  <link rel="stylesheet" href="/en/modules/mod_maximenuck/assets/maximenuck.css" type="text/css">
+  <script src="/en/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/en/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/en/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/en/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
@@ -237,265 +233,292 @@ window.addEvent('load', function() {
 				});
 				//-->
   </script>
+
 </head>
-<body class="texture"><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="ikofx.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
- 
-<div id="headerBG">
- 
-<div id="header_wrapper">
- 
-<a href="/en/./"><div id="logo"></div></a>
- 
- 
-<div id="header_left" style="margin-top: 20px">
-<div id="language">
-<div id="dd" class="wrapper-dropdown-3">
-<img src="/en/templates/ikofx/images/web/en.png" width="18" height="16" class="flag"><span>English Global</span>
-<ul class="dropdown">
-<li><a href="/en/index.php/in"><img src="/en/templates/ikofx/images/web/in.jpg" width="18" height="16" class="flag">Indonesian</a></li>
-<li><a href="/en/index.php/cn"><img src="/en/templates/ikofx/images/web/ch.png" width="18" height="16" class="flag">Chinese</a></li>
-<li><a href="/en/index.php/en"><img src="/en/templates/ikofx/images/web/en.png" width="18" height="16" class="flag">English Global</a></li>
- 
-</ul>
-</div>
-</div>
-<form action="/en/index.php/en/trader-area/privacy-policy" method="post">
-<div class="">
-<input name="searchword" id="mod-search-searchword" maxlength="20" class="searchBtn" type="text" size="20" value="Search..." onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';"> <input type="hidden" name="task" value="search">
-<input type="hidden" name="option" value="com_search">
- 
-<input type="hidden" name="Itemid" value=" ">
-</div>
+    
+
+   
+<body class="texture">
+    <!-- start header -->
+    <div id="headerBG">   
+        <!-- start header_wrapper -->
+        <div id="header_wrapper">            
+            <!-- logo -->
+            <a href="/en/./"><div id="logo"></div></a>
+            <!-- end logo -->
+
+            <!-- start header_left -->
+            <div id="header_left" style="margin-top: 20px">
+                <div id="language">
+                    <div id="dd" class="wrapper-dropdown-3">
+                        <img src="/en/templates/ikofx/images/web/en.png" width="18" height="16" class="flag"><span>English</span>
+                        <ul class="dropdown">
+                            <li><a href="/en/index.php/in"><img src="/en/templates/ikofx/images/web/in.jpg" width="18" height="16" class="flag">Indonesian</a></li>
+                            <li><a href="/en/index.php/cn"><img src="/en/templates/ikofx/images/web/ch.png" width="18" height="16" class="flag">Chinese</a></li>
+                            <li><a href="/en/index.php/en"><img src="/en/templates/ikofx/images/web/en.png" width="18" height="16" class="flag">English</a></li>
+<!--                                    <li><a href="#"><img src="/en/templates/ikofx/images/web/en.png" width="18" height="16" class="flag" />Filipino</a></li>
+                            <li><a href="#"><img src="/en/templates/ikofx/images/web/en.jpg" width="18" height="16" class="flag" />Vietnamese</a></li>
+                            <li><a href="#"><img src="/en/templates/ikofx/images/web/en.png" width="18" height="16" class="flag" />Thai</a></li>-->
+                        </ul>
+                    </div>
+                </div>
+                <form action="/en/index.php/en/trader-area/privacy-policy" method="post">
+	<div class="">
+		<input name="searchword" id="mod-search-searchword" maxlength="20" class="searchBtn" type="text" size="20" value="Search..." onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';">	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+<!--	<input type="hidden" name="Itemid" value="163" />-->
+        <input type="hidden" name="Itemid" value=" ">
+	</div>
 </form>
-<div class="clearer">  </div>
-<a href="/en/index.php/ib-mib-application" class="btn" style="float: right;font-size: 13px">IB/MIB Application</a>
-<div class="clearer"> </div>
  
-<div id="demoAccountBox" style="margin-top:0">
-<div class="liveChat">
- <div><div id="proactivechatcontainerx72temy5db"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainerx72temy5db"><div style="display: inline;" id="swifttagdatacontainerx72temy5db"></div><script type="text/javascript" src="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXg3MnRlbXk1ZGImdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cCUzQSUyRiUyRmlrb2Z4LmNvbSUyRmVuJTJGdGVtcGxhdGVzJTJGaWtvZnglMkZpbWFnZXMlMkZ3ZWIlMkZvbmxpbmUucG5nJmN1c3RvbW9mZmxpbmU9aHR0cCUzQSUyRiUyRmlrb2Z4LmNvbSUyRmVuJTJGdGVtcGxhdGVzJTJGaWtvZnglMkZpbWFnZXMlMkZ3ZWIlMkZvZmZsaW5lLnBuZyZjdXN0b21hd2F5PWh0dHAlM0ElMkYlMkZpa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGYXdheS5wbmcmY3VzdG9tYmFja3Nob3J0bHk9aHR0cCUzQSUyRiUyRmlrb2Z4LmNvbSUyRmVuJTJGdGVtcGxhdGVzJTJGaWtvZnglMkZpbWFnZXMlMkZ3ZWIlMkZiYWNrc2hvcnRseS5wbmcKNmM0NjY2NDg2MDgxM2U3NGYxMmFmYjM1YzQ3ZTRkZjY1MTRlZmRhOA=="></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelemx72temy5db=document.createElement("script");swiftscriptelemx72temy5db.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "x72temy5db"; var swifttagurlx72temy5db="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXg3MnRlbXk1ZGImdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cCUzQSUyRiUyRmlrb2Z4LmNvbSUyRmVuJTJGdGVtcGxhdGVzJTJGaWtvZnglMkZpbWFnZXMlMkZ3ZWIlMkZvbmxpbmUucG5nJmN1c3RvbW9mZmxpbmU9aHR0cCUzQSUyRiUyRmlrb2Z4LmNvbSUyRmVuJTJGdGVtcGxhdGVzJTJGaWtvZnglMkZpbWFnZXMlMkZ3ZWIlMkZvZmZsaW5lLnBuZyZjdXN0b21hd2F5PWh0dHAlM0ElMkYlMkZpa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGYXdheS5wbmcmY3VzdG9tYmFja3Nob3J0bHk9aHR0cCUzQSUyRiUyRmlrb2Z4LmNvbSUyRmVuJTJGdGVtcGxhdGVzJTJGaWtvZnglMkZpbWFnZXMlMkZ3ZWIlMkZiYWNrc2hvcnRseS5wbmcKNmM0NjY2NDg2MDgxM2U3NGYxMmFmYjM1YzQ3ZTRkZjY1MTRlZmRhOA==";setTimeout("swiftscriptelemx72temy5db.src=swifttagurlx72temy5db;document.getElementById('swifttagcontainerx72temy5db').appendChild(swiftscriptelemx72temy5db);",1);</script> 
-</div>
-<div class="account">
-<a class="demoAcc" href="/en/index.php/trader-area/complimentary-training-account"></a>
-<a class="liveAcc" href="/en/index.php/trader-area/open-live-account"></a>
-<a class="memberLogin"></a>
- 
-<div style="position: relative;z-index: 4;width: 154px;height: auto;top: -12px;float: right;">
-<div id="loginFormBox">
-<div class="loginFormContent loginBg" style="opacity:0;filter:alpha(opacity=0);">
-<form action="https://secure.ikofx.com/cabinet/index.php" name="loginForm" method="POST" id="loginForm">
-<label>Username</label>
-<input type="text" name="lgn_usrname" id="lgn_usrname" class="loginInput">
-<label>Password</label>
-<input type="password" name="lgn_passwd" id="lgn_passwd" class="loginInput">
-<div style="float:right">
-<input type="hidden" name="action" id="action" value="login">
-<input type="submit" name="loginSubmit" id="loginSubmit" class="loginBtn">
-</div>
-<div class="clearer"> </div>
-</form>
-</div>
-<div class="loginBottom loginFormContent" style="opacity:0;filter:alpha(opacity=0);"></div>
-</div>
-</div>  
-</div>
-<div class="clearer"> </div>
-</div>  
-</div>  
-<div class="clearer"> </div>
-</div>  
-</div>  
- 
-<div id="navigation">
-<!--[if lte IE 7]>
+
+                <div class="clearer"><!-- --> </div>
+
+
+                                    <a href="/en/index.php/ib-mib-application" class="btn" style="float: right;font-size: 13px">IB/MIB Application</a>
+<div class="clearer"><!-- --></div>             
+<!-- start demoAccountBox -->
+                 <div id="demoAccountBox" style="margin-top:0">
+                     <div class="liveChat">
+                         <!-- BEGIN TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainers8nxf5u8ck"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainers8nxf5u8ck"><div style="display: inline;" id="swifttagdatacontainers8nxf5u8ck"></div><script type="text/javascript" src="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXM4bnhmNXU4Y2smdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cCUzQSUyRiUyRnd3dy5pa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGb25saW5lLnBuZyZjdXN0b21vZmZsaW5lPWh0dHAlM0ElMkYlMkZ3d3cuaWtvZnguY29tJTJGZW4lMkZ0ZW1wbGF0ZXMlMkZpa29meCUyRmltYWdlcyUyRndlYiUyRm9mZmxpbmUucG5nJmN1c3RvbWF3YXk9aHR0cCUzQSUyRiUyRnd3dy5pa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGYXdheS5wbmcmY3VzdG9tYmFja3Nob3J0bHk9aHR0cCUzQSUyRiUyRnd3dy5pa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGYmFja3Nob3J0bHkucG5nCjJiODhkNmE2MWIzNGRlZGRlNDk1NzBjNjRhNzBiYjI5NjdmM2RlYzc="></script></td> </tr><tr><td align="center"><div style="MARGIN-TOP: 2px; WIDTH: 100%; TEXT-ALIGN: center;"><span style="FONT-SIZE: 9px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;"><a href="http://www.kayako.com/products/live-chat-software/" style="TEXT-DECORATION: none; COLOR: #000000" target="_blank">Live Chat Software</a><span style="COLOR: #000000"> by </span>Kayako</span></div></td></tr></tbody></table></div> <script type="text/javascript">var swiftscriptelems8nxf5u8ck=document.createElement("script");swiftscriptelems8nxf5u8ck.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "s8nxf5u8ck"; var swifttagurls8nxf5u8ck="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXM4bnhmNXU4Y2smdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cCUzQSUyRiUyRnd3dy5pa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGb25saW5lLnBuZyZjdXN0b21vZmZsaW5lPWh0dHAlM0ElMkYlMkZ3d3cuaWtvZnguY29tJTJGZW4lMkZ0ZW1wbGF0ZXMlMkZpa29meCUyRmltYWdlcyUyRndlYiUyRm9mZmxpbmUucG5nJmN1c3RvbWF3YXk9aHR0cCUzQSUyRiUyRnd3dy5pa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGYXdheS5wbmcmY3VzdG9tYmFja3Nob3J0bHk9aHR0cCUzQSUyRiUyRnd3dy5pa29meC5jb20lMkZlbiUyRnRlbXBsYXRlcyUyRmlrb2Z4JTJGaW1hZ2VzJTJGd2ViJTJGYmFja3Nob3J0bHkucG5nCjJiODhkNmE2MWIzNGRlZGRlNDk1NzBjNjRhNzBiYjI5NjdmM2RlYzc=";setTimeout("swiftscriptelems8nxf5u8ck.src=swifttagurls8nxf5u8ck;document.getElementById('swifttagcontainers8nxf5u8ck').appendChild(swiftscriptelems8nxf5u8ck);",1);</script><!-- END TAG CODE - DO NOT EDIT! -->
+                     </div>
+                     <div class="account">
+                        <a class="demoAcc" href="/en/index.php/trader-area/complimentary-training-account"></a>                          
+                        <a class="liveAcc" href="/en/index.php/trader-area/open-live-account"></a>
+                        <a class="memberLogin"></a>                        
+
+                    <!-- member login pop out -->
+                    <div style="position: relative;z-index: 4;width: 154px;height: auto;top: -12px;float: right;">
+                        <div id="loginFormBox"> 
+                            <div class="loginFormContent loginBg" style="opacity:0;filter:alpha(opacity=0);">
+                                <form action="https://secure.ikofx.com/cabinet/index.php" name="loginForm" method="POST" id="loginForm">
+                                    <label>Username</label>
+                                    <input type="text" name="lgn_usrname" id="lgn_usrname" class="loginInput">
+                                    <label>Password</label>  
+                                    <input type="password" name="lgn_passwd" id="lgn_passwd" class="loginInput">                                   
+                                    <div style="float:right">
+                                        <input type="hidden" name="action" id="action" value="login"> 
+                                        <input type="hidden" name="auth_mode" id="auth_mode" value="password">
+                                        <input type="submit" name="loginSubmit" id="loginSubmit" class="loginBtn"> 
+                                    </div>
+                                    <div class="clearer"><!-- --></div>
+                                </form>     
+                            </div> 
+                            <div class="loginBottom loginFormContent" style="opacity:0;filter:alpha(opacity=0);"></div>
+                        </div>
+                    </div> <!-- end member login pop out --> 
+                     </div>
+                    <div class="clearer"><!-- --></div>
+                 </div> <!-- end demoAccountBox -->  
+                    
+            </div> <!-- end header_left -->
+            <div class="clearer"><!-- --></div>
+        </div> <!-- end header_wrapper -->
+    </div> <!-- end header -->
+
+            <!-- start navigation -->
+        <div id="navigation">
+            
+		<!--[if lte IE 7]>
 		<link href="/en/modules/mod_maximenuck/themes/blank/css/ie7.css" rel="stylesheet" type="text/css" />
-		<![endif]--> 
-<div class="maximenuckh" id="maximenuck" style="z-index:10;">
-<div class="maxiroundedleft"></div>
-<div class="maxiroundedcenter">
-<ul class="menu maximenuck" style="">
-<li class="maximenuck item101 parent first level1 " style="z-index : 12000;"><a class="maximenuck " href="/en/index.php/en/"><span class="titreck">Home</span></a>
-<div class="floatck" style="width:200px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " style="width:200px;float:left;">
-<ul class="maximenuck2"><li class="maximenuck item147 first last level2 " style="z-index : 11999;"><a class="maximenuck " href="/en/index.php/en/home/why-trade-with-ikofx"><span class="titreck">Why trade with IKOFX</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item122 parent level1 " style="z-index : 11998;"><a class="maximenuck " href="/en/"><span class="titreck">About Us</span></a>
-<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
-<ul class="maximenuck2"><li class="maximenuck item156 first level2 " style="z-index : 11997;"><a class="maximenuck " href="/en/index.php/en/about-us/corporate-profile"><span class="titreck">Corporate Profile</span></a>
-</li>
+		<![endif]--><!-- debut Maximenu CK, par cedric keiflin -->
+    <div class="maximenuckh" id="maximenuck" style="z-index:10;">
+        <div class="maxiroundedleft"></div>
+        <div class="maxiroundedcenter">
+            
+            <ul class="menu maximenuck" style="">
+                        <li class="maximenuck item101 parent first level1 " style="z-index : 12000;"><a class="maximenuck " href="/en/index.php/en/"><span class="titreck">Home</span></a>
+	<div class="floatck" style="width:200px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " style="width:200px;float:left;">
+	<ul class="maximenuck2"><li class="maximenuck item147 first last level2 " style="z-index : 11999;"><a class="maximenuck " href="/en/index.php/en/home/why-trade-with-ikofx"><span class="titreck">Why trade with IKOFX</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item122 parent level1 " style="z-index : 11998;"><a class="maximenuck " href="/en/"><span class="titreck">About Us</span></a>
+	<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
+	<ul class="maximenuck2"><li class="maximenuck item156 first level2 " style="z-index : 11997;"><a class="maximenuck " href="/en/index.php/en/about-us/corporate-profile"><span class="titreck">Corporate Profile</span></a>
+		</li>
 <li class="maximenuck item158 last level2 " style="z-index : 11996;"><a class="maximenuck " href="/en/index.php/en/about-us/ikofx-social-network"><span class="titreck">IKOFX Social Network</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item145 parent level1 " style="z-index : 11995;"><a class="maximenuck " href="/en/"><span class="titreck">Updates</span></a>
-<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
-<ul class="maximenuck2"><li class="maximenuck item199 first level2 " style="z-index : 11994;"><span class="separator "><span class="titreck">News</span></span>
-</li>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item145 parent level1 " style="z-index : 11995;"><a class="maximenuck " href="/en/"><span class="titreck">Updates</span></a>
+	<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
+	<ul class="maximenuck2"><li class="maximenuck item199 first level2 " style="z-index : 11994;"><span class="separator "><span class="titreck">News</span></span>
+		</li>
 <li class="maximenuck item205 last level2 " style="z-index : 11993;"><a class="maximenuck " href="/en/index.php/en/updates/company-news"><span class="titreck">Company News</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item123 active parent level1 " style="z-index : 11992;"><a class="maximenuck " href="/en/"><span class="titreck">Trader's Area</span></a>
-<div class="floatck" style="width:508px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " style="width:254px;float:left;">
-<ul class="maximenuck2"><li class="maximenuck item125 first level2 " style="z-index : 11991;"><span class="separator "><span class="titreck">Account Types</span></span>
-</li>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item123 active parent level1 " style="z-index : 11992;"><a class="maximenuck " href="/en/"><span class="titreck">Trader's Area</span></a>
+	<div class="floatck" style="width:508px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " style="width:254px;float:left;">
+	<ul class="maximenuck2"><li class="maximenuck item125 first level2 " style="z-index : 11991;"><span class="separator "><span class="titreck">Account Types</span></span>
+		</li>
 <li class="maximenuck item129 level2 " style="z-index : 11990;"><a class="maximenuck " href="/en/index.php/en/trader-area/complimentary-training-account"><span class="titreck">Complimentary Training Account</span></a>
-</li>
+		</li>
 <li class="maximenuck item128 level2 " style="z-index : 11989;"><a class="maximenuck " href="/en/index.php/en/trader-area/open-live-account"><span class="titreck">Open Your Live Account</span></a>
-</li>
+		</li>
 <li class="maximenuck item209 level2 " style="z-index : 11988;"><a class="maximenuck " href="/en/index.php/en/trader-area/compare-account-types"><span class="titreck">Compare Account Types</span></a>
-</li>
+		</li>
 <li class="maximenuck item230 level2 " style="z-index : 11987;"><a class="maximenuck " href="/en/index.php/en/trader-area/trading-instruments-swap-list"><span class="titreck">Trading Instruments &amp; Swap List</span></a>
-</li>
+		</li>
 <li class="maximenuck item159 level2 " style="z-index : 11986;"><span class="separator "><span class="titreck">Agreements</span></span>
-</li>
+		</li>
 <li class="maximenuck item160 level2 " style="z-index : 11985;"><a class="maximenuck " href="/en/index.php/en/trader-area/customer-agreement"><span class="titreck">Customer Agreement</span></a>
-</li>
+		</li>
 <li class="maximenuck item161 level2 " style="z-index : 11984;"><a class="maximenuck " href="/en/index.php/en/trader-area/anti-money-laundering-amla-policy"><span class="titreck">Anti Money Laundering (AMLA) Policy</span></a>
-</li>
+		</li>
 <li class="maximenuck item162 level2 " style="z-index : 11983;"><a class="maximenuck " href="/en/index.php/en/trader-area/risk-warning"><span class="titreck">Risk Warning</span></a>
-</li>
+		</li>
 <li class="maximenuck item163 current active level2 " style="z-index : 11982;"><a class="maximenuck " href="/en/index.php/en/trader-area/privacy-policy"><span class="titreck">Privacy Policy</span></a>
-</li>
+		</li>
 <li class="maximenuck item164 level2 " style="z-index : 11981;"><a class="maximenuck " href="/en/index.php/en/trader-area/kyc-policies-and-procedures"><span class="titreck">KYC Policies and Procedures</span></a>
-</li>
+		</li>
 <li class="maximenuck item221 level2 " style="z-index : 11980;"><span class="separator "><span class="titreck">Funding Option</span></span>
-</li>
+		</li>
 <li class="maximenuck item180 level2 " style="z-index : 11979;"><a class="maximenuck " href="/en/index.php/en/trader-area/deposit-withdrawal"><span class="titreck">Deposit &amp; Withdrawal</span></a>
-</li>
+		</li>
 <li class="maximenuck item249 level2 " style="z-index : 11978;"><span class="separator "><span class="titreck">Facilities</span></span>
-</li>
+		</li>
 <li class="maximenuck item248 level2 " style="z-index : 11977;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-secure-icode-otp"><span class="titreck">IKOFX Secure iCode OTP</span></a>
-</li>
+		</li>
 </ul><div class="clr"></div></div><div class="maximenuck2" style="width:254px;float:left;"><ul class="maximenuck2"><li class="maximenuck item165 level2 " style="z-index : 11976;"><span class="separator "><span class="titreck">Current Promotion</span></span>
-</li>
+		</li>
 <li class="maximenuck item246 level2 " style="z-index : 11975;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-deposit-bonus"><span class="titreck">IKOFX Deposit Bonus</span></a>
-</li>
+		</li>
 <li class="maximenuck item247 level2 " style="z-index : 11974;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-leverage"><span class="titreck">IKOFX Leverage</span></a>
-</li>
+		</li>
 <li class="maximenuck item241 level2 " style="z-index : 11973;"><span class="separator "><span class="titreck">Past Promotion</span></span>
-</li>
+		</li>
 <li class="maximenuck item166 level2 " style="z-index : 11972;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-welcome-bonus"><span class="titreck">IKOFX Welcome Bonus</span></a>
-</li>
-<li class="maximenuck item251 level2 " style="z-index : 11971;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-ramadan-special-bonus"><span class="titreck">IKOFX Ramadan Special Bonus 2014</span></a>
-</li>
-<li class="maximenuck item242 level2 " style="z-index : 11970;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-ramadan-celebration-bonus-2013"><span class="titreck">IKOFX Ramadan Celebration Bonus 2013</span></a>
-</li>
-<li class="maximenuck item208 level2 " style="z-index : 11969;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-2x-grand-celebration"><span class="titreck">IKOFX 2X Grand Celebration</span></a>
-</li>
-<li class="maximenuck item174 level2 " style="z-index : 11968;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-trade-drive"><span class="titreck">IKOFX Trade &amp; Drive</span></a>
-</li>
-<li class="maximenuck item175 level2 " style="z-index : 11967;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-affiliate-bonanza-2012-lv-party"><span class="titreck">IKOFX Affiliate Bonanza 2012 - LV Party</span></a>
-</li>
-<li class="maximenuck item210 level2 " style="z-index : 11966;"><span class="separator "><span class="titreck">Trading Platform</span></span>
-</li>
-<li class="maximenuck item211 level2 " style="z-index : 11965;"><a class="maximenuck " href="/en/index.php/en/trader-area/iphone-trader"><span class="titreck">iPhone Trader</span></a>
-</li>
-<li class="maximenuck item229 level2 " style="z-index : 11964;"><a class="maximenuck " href="/en/index.php/en/trader-area/ipad-trader"><span class="titreck">iPad Trader</span></a>
-</li>
-<li class="maximenuck item226 level2 " style="z-index : 11963;"><a class="maximenuck " href="/en/index.php/en/trader-area/multi-terminal"><span class="titreck">Multi Terminal</span></a>
-</li>
-<li class="maximenuck item227 level2 " style="z-index : 11962;"><a class="maximenuck " href="/en/index.php/en/trader-area/metatrader-4"><span class="titreck">MetaTrader 4</span></a>
-</li>
-<li class="maximenuck item228 level2 " style="z-index : 11961;"><a class="maximenuck " href="/en/index.php/en/trader-area/android-trader"><span class="titreck">Android Trader</span></a>
-</li>
-<li class="maximenuck item225 level2 " style="z-index : 11960;"><a class="maximenuck " href="/en/index.php/en/trader-area/web-trader"><span class="titreck">Web Trader</span></a>
-</li>
-<li class="maximenuck item243 level2 " style="z-index : 11959;"><a class="maximenuck " href="/en/index.php/en/trader-area/metatrader-4-mobile"><span class="titreck">MetaTrader 4 Mobile</span></a>
-</li>
-<li class="maximenuck item244 last level2 " style="z-index : 11958;"><a class="maximenuck " href="/en/index.php/en/trader-area/metatrader-4-mobile-smartphone-edition"><span class="titreck">MetaTrader 4 Mobile Smartphone Edition</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item124 parent level1 " style="z-index : 11957;"><a class="maximenuck " href="/en/"><span class="titreck">Fxpedia</span></a>
-<div class="floatck" style="width:508px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " style="width:254px;float:left;">
-<ul class="maximenuck2"><li class="maximenuck item167 first level2 " style="z-index : 11956;"><span class="separator "><span class="titreck">Forex School</span></span>
-</li>
-<li class="maximenuck item168 level2 " style="z-index : 11955;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/what-is-forex"><span class="titreck">What is Forex?</span></a>
-</li>
-<li class="maximenuck item169 level2 " style="z-index : 11954;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/advantage-of-forex"><span class="titreck">Advantage of Forex</span></a>
-</li>
-<li class="maximenuck item170 level2 " style="z-index : 11953;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/how-to-trade"><span class="titreck">How to Trade</span></a>
-</li>
-<li class="maximenuck item171 level2 " style="z-index : 11952;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/when-to-trade"><span class="titreck">When to Trade?</span></a>
-</li>
-<li class="maximenuck item176 level2 " style="z-index : 11951;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/about-meta-trader-ikofx"><span class="titreck">About Meta Trader IKOFX</span></a>
-</li>
-<li class="maximenuck item177 level2 " style="z-index : 11950;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/swap-rate"><span class="titreck">Swap Rate</span></a>
-</li>
-<li class="maximenuck item178 level2 " style="z-index : 11949;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/margin"><span class="titreck">Margin</span></a>
-</li>
-<li class="maximenuck item179 level2 " style="z-index : 11948;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/leverage"><span class="titreck">Leverage</span></a>
-</li>
-</ul><div class="clr"></div></div><div class="maximenuck2" style="width:254px;float:left;"><ul class="maximenuck2"><li class="maximenuck item181 level2 " style="z-index : 11947;"><span class="separator "><span class="titreck">Analysis Articles</span></span>
-</li>
-<li class="maximenuck item207 last level2 " style="z-index : 11946;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/list-of-analysis-articles"><span class="titreck">List of Analysis Articles</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item139 parent level1 " style="z-index : 11945;"><a class="maximenuck " href="/en/"><span class="titreck">Partnership</span></a>
-<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
-<ul class="maximenuck2"><li class="maximenuck item200 first level2 " style="z-index : 11944;"><a class="maximenuck " href="/en/index.php/en/ikofx-partnership/ikofx-affiliate-program"><span class="titreck">IKOFX Affiliate Program</span></a>
-</li>
-<li class="maximenuck item201 level2 " style="z-index : 11943;"><a class="maximenuck " href="/en/index.php/en/ikofx-partnership/ikofx-mam"><span class="titreck">IKOFX MAM</span></a>
-</li>
-<li class="maximenuck item202 last level2 " style="z-index : 11942;"><a class="maximenuck " href="/en/index.php/en/ikofx-partnership/ikofx-white-label-services"><span class="titreck">IKOFX White Label Services</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item146 parent level1 " style="z-index : 11941;"><a class="maximenuck " href="/en/"><span class="titreck">Forex Tools</span></a>
-<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
-<ul class="maximenuck2"><li class="maximenuck item219 first level2 " style="z-index : 11940;"><a class="maximenuck " href="/en/index.php/en/forex-tools/forex-news"><span class="titreck">Forex News</span></a>
-</li>
-<li class="maximenuck item206 level2 " style="z-index : 11939;"><a class="maximenuck " href="/en/index.php/en/forex-tools/economic-calendar"><span class="titreck">Economic Calendar</span></a>
-</li>
-<li class="maximenuck item218 level2 " style="z-index : 11938;"><a class="maximenuck " href="/en/index.php/en/forex-tools/interest-rates"><span class="titreck">Interest Rates</span></a>
-</li>
-<li class="maximenuck item220 level2 " style="z-index : 11937;"><a class="maximenuck " href="/en/index.php/en/forex-tools/forex-calculator"><span class="titreck">Forex Calculator</span></a>
-</li>
-<li class="maximenuck item198 last level2 " style="z-index : 11936;"><a class="maximenuck " href="/en/index.php/en/forex-tools/forex-tv"><span class="titreck">Forex TV</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li><li class="maximenuck item140 parent level1 " style="z-index : 11935;"><a class="maximenuck " href="/en/"><span class="titreck">Help Centre</span></a>
-<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
-<ul class="maximenuck2"><li class="maximenuck item203 first level2 " style="z-index : 11934;"><a class="maximenuck " href="https://secure.ikofx.com/support/index.php?/Knowledgebase/List" target="_blank"><span class="titreck">IKOFX Knowledgebase</span></a>
-</li>
-<li class="maximenuck item222 last level2 " style="z-index : 11933;"><a class="maximenuck " href="/en/index.php/en/help-centre/contact-us"><span class="titreck">Contact Us</span></a>
-</li>
-</ul>
-<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-</li>
-</ul>
-</div>
-<div class="maxiroundedright"></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear:both;"></div>
- 
-</div>  
-<div class="clearer"> </div>
-<div class="clearer"> </div>
-<div class="clearer"> </div>
-<div style="position: absolute; left: 0;top: 50%">
- <div id="swifttagcontainerj6t6hdqf7z"><div id="proactivechatcontainerj6t6hdqf7z"></div><div style="display: inline;" id="swifttagdatacontainerj6t6hdqf7z"></div><script type="text/javascript" src="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/SiteBadge/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWo2dDZoZHFmN3omdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZzaXRlYmFkZ2Vjb2xvcj13aGl0ZSZiYWRnZWxhbmd1YWdlPWVuJmJhZGdldGV4dD1saXZlaGVscCZvbmxpbmVjb2xvcj0jMTk4YzE5Jm9ubGluZWNvbG9yaG92ZXI9IzVmYWY1ZiZvbmxpbmVjb2xvcmJvcmRlcj0jMTI2MjEyJm9mZmxpbmVjb2xvcj0jYTJhNGFjJm9mZmxpbmVjb2xvcmhvdmVyPSNiZWMwYzUmb2ZmbGluZWNvbG9yYm9yZGVyPSM3MTczNzgmYXdheWNvbG9yPSM3MzdjNGEmYXdheWNvbG9yaG92ZXI9IzllYTQ4MSZhd2F5Y29sb3Jib3JkZXI9IzUxNTczNCZiYWNrc2hvcnRseWNvbG9yPSM3ODhhMjMmYmFja3Nob3J0bHljb2xvcmhvdmVyPSNhMWFlNjYmYmFja3Nob3J0bHljb2xvcmJvcmRlcj0jNTQ2MTE5JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CmYwNTI3MTQ2ZThlNTA3NTM5OWYzZDg2NzFjNGE4NWY3MmNmM2E0ODQ="></script></div> <script type="text/javascript">var swiftscriptelemj6t6hdqf7z=document.createElement("script");swiftscriptelemj6t6hdqf7z.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "j6t6hdqf7z"; var swifttagurlj6t6hdqf7z="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/SiteBadge/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWo2dDZoZHFmN3omdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZzaXRlYmFkZ2Vjb2xvcj13aGl0ZSZiYWRnZWxhbmd1YWdlPWVuJmJhZGdldGV4dD1saXZlaGVscCZvbmxpbmVjb2xvcj0jMTk4YzE5Jm9ubGluZWNvbG9yaG92ZXI9IzVmYWY1ZiZvbmxpbmVjb2xvcmJvcmRlcj0jMTI2MjEyJm9mZmxpbmVjb2xvcj0jYTJhNGFjJm9mZmxpbmVjb2xvcmhvdmVyPSNiZWMwYzUmb2ZmbGluZWNvbG9yYm9yZGVyPSM3MTczNzgmYXdheWNvbG9yPSM3MzdjNGEmYXdheWNvbG9yaG92ZXI9IzllYTQ4MSZhd2F5Y29sb3Jib3JkZXI9IzUxNTczNCZiYWNrc2hvcnRseWNvbG9yPSM3ODhhMjMmYmFja3Nob3J0bHljb2xvcmhvdmVyPSNhMWFlNjYmYmFja3Nob3J0bHljb2xvcmJvcmRlcj0jNTQ2MTE5JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CmYwNTI3MTQ2ZThlNTA3NTM5OWYzZDg2NzFjNGE4NWY3MmNmM2E0ODQ=";setTimeout("swiftscriptelemj6t6hdqf7z.src=swifttagurlj6t6hdqf7z;document.getElementById('swifttagcontainerj6t6hdqf7z').appendChild(swiftscriptelemj6t6hdqf7z);",1);</script> 
-</div>
- 
-<div class="contentBg">
- 
-<div class="mainContent ">
-<div class="item-page">
+		</li>
+<li class="maximenuck item208 level2 " style="z-index : 11971;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-2x-grand-celebration"><span class="titreck">IKOFX 2X Grand Celebration</span></a>
+		</li>
+<li class="maximenuck item174 level2 " style="z-index : 11970;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-trade-drive"><span class="titreck">IKOFX Trade &amp; Drive</span></a>
+		</li>
+<li class="maximenuck item175 level2 " style="z-index : 11969;"><a class="maximenuck " href="/en/index.php/en/trader-area/ikofx-affiliate-bonanza-2012-lv-party"><span class="titreck">IKOFX Affiliate Bonanza 2012 - LV Party</span></a>
+		</li>
+<li class="maximenuck item210 level2 " style="z-index : 11968;"><span class="separator "><span class="titreck">Trading Platform</span></span>
+		</li>
+<li class="maximenuck item211 level2 " style="z-index : 11967;"><a class="maximenuck " href="/en/index.php/en/trader-area/iphone-trader"><span class="titreck">iPhone Trader</span></a>
+		</li>
+<li class="maximenuck item229 level2 " style="z-index : 11966;"><a class="maximenuck " href="/en/index.php/en/trader-area/ipad-trader"><span class="titreck">iPad Trader</span></a>
+		</li>
+<li class="maximenuck item226 level2 " style="z-index : 11965;"><a class="maximenuck " href="/en/index.php/en/trader-area/multi-terminal"><span class="titreck">Multi Terminal</span></a>
+		</li>
+<li class="maximenuck item227 level2 " style="z-index : 11964;"><a class="maximenuck " href="/en/index.php/en/trader-area/metatrader-4"><span class="titreck">MetaTrader 4</span></a>
+		</li>
+<li class="maximenuck item228 level2 " style="z-index : 11963;"><a class="maximenuck " href="/en/index.php/en/trader-area/android-trader"><span class="titreck">Android Trader</span></a>
+		</li>
+<li class="maximenuck item225 level2 " style="z-index : 11962;"><a class="maximenuck " href="/en/index.php/en/trader-area/web-trader"><span class="titreck">Web Trader</span></a>
+		</li>
+<li class="maximenuck item243 level2 " style="z-index : 11961;"><a class="maximenuck " href="/en/index.php/en/trader-area/metatrader-4-mobile"><span class="titreck">MetaTrader 4 Mobile</span></a>
+		</li>
+<li class="maximenuck item244 last level2 " style="z-index : 11960;"><a class="maximenuck " href="/en/index.php/en/trader-area/metatrader-4-mobile-smartphone-edition"><span class="titreck">MetaTrader 4 Mobile Smartphone Edition</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item124 parent level1 " style="z-index : 11959;"><a class="maximenuck " href="/en/"><span class="titreck">Fxpedia</span></a>
+	<div class="floatck" style="width:508px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " style="width:254px;float:left;">
+	<ul class="maximenuck2"><li class="maximenuck item167 first level2 " style="z-index : 11958;"><span class="separator "><span class="titreck">Forex School</span></span>
+		</li>
+<li class="maximenuck item168 level2 " style="z-index : 11957;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/what-is-forex"><span class="titreck">What is Forex?</span></a>
+		</li>
+<li class="maximenuck item169 level2 " style="z-index : 11956;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/advantage-of-forex"><span class="titreck">Advantage of Forex</span></a>
+		</li>
+<li class="maximenuck item170 level2 " style="z-index : 11955;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/how-to-trade"><span class="titreck">How to Trade</span></a>
+		</li>
+<li class="maximenuck item171 level2 " style="z-index : 11954;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/when-to-trade"><span class="titreck">When to Trade?</span></a>
+		</li>
+<li class="maximenuck item176 level2 " style="z-index : 11953;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/about-meta-trader-ikofx"><span class="titreck">About Meta Trader IKOFX</span></a>
+		</li>
+<li class="maximenuck item177 level2 " style="z-index : 11952;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/swap-rate"><span class="titreck">Swap Rate</span></a>
+		</li>
+<li class="maximenuck item178 level2 " style="z-index : 11951;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/margin"><span class="titreck">Margin</span></a>
+		</li>
+<li class="maximenuck item179 level2 " style="z-index : 11950;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/leverage"><span class="titreck">Leverage</span></a>
+		</li>
+</ul><div class="clr"></div></div><div class="maximenuck2" style="width:254px;float:left;"><ul class="maximenuck2"><li class="maximenuck item181 level2 " style="z-index : 11949;"><span class="separator "><span class="titreck">Analysis Articles</span></span>
+		</li>
+<li class="maximenuck item207 last level2 " style="z-index : 11948;"><a class="maximenuck " href="/en/index.php/en/ikofx-pedia/list-of-analysis-articles"><span class="titreck">List of Analysis Articles</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item139 parent level1 " style="z-index : 11947;"><a class="maximenuck " href="/en/"><span class="titreck">Partnership</span></a>
+	<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
+	<ul class="maximenuck2"><li class="maximenuck item200 first level2 " style="z-index : 11946;"><a class="maximenuck " href="/en/index.php/en/ikofx-partnership/ikofx-affiliate-program"><span class="titreck">IKOFX Affiliate Program</span></a>
+		</li>
+<li class="maximenuck item201 level2 " style="z-index : 11945;"><a class="maximenuck " href="/en/index.php/en/ikofx-partnership/ikofx-mam"><span class="titreck">IKOFX MAM</span></a>
+		</li>
+<li class="maximenuck item202 last level2 " style="z-index : 11944;"><a class="maximenuck " href="/en/index.php/en/ikofx-partnership/ikofx-white-label-services"><span class="titreck">IKOFX White Label Services</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item146 parent level1 " style="z-index : 11943;"><a class="maximenuck " href="/en/"><span class="titreck">Forex Tools</span></a>
+	<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
+	<ul class="maximenuck2"><li class="maximenuck item219 first level2 " style="z-index : 11942;"><a class="maximenuck " href="/en/index.php/en/forex-tools/forex-news"><span class="titreck">Forex News</span></a>
+		</li>
+<li class="maximenuck item206 level2 " style="z-index : 11941;"><a class="maximenuck " href="/en/index.php/en/forex-tools/economic-calendar"><span class="titreck">Economic Calendar</span></a>
+		</li>
+<li class="maximenuck item218 level2 " style="z-index : 11940;"><a class="maximenuck " href="/en/index.php/en/forex-tools/interest-rates"><span class="titreck">Interest Rates</span></a>
+		</li>
+<li class="maximenuck item220 level2 " style="z-index : 11939;"><a class="maximenuck " href="/en/index.php/en/forex-tools/forex-calculator"><span class="titreck">Forex Calculator</span></a>
+		</li>
+<li class="maximenuck item198 last level2 " style="z-index : 11938;"><a class="maximenuck " href="/en/index.php/en/forex-tools/forex-tv"><span class="titreck">Forex TV</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuck item140 parent level1 " style="z-index : 11937;"><a class="maximenuck " href="/en/"><span class="titreck">Help Centre</span></a>
+	<div class="floatck"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first ">
+	<ul class="maximenuck2"><li class="maximenuck item203 first level2 " style="z-index : 11936;"><a class="maximenuck " href="https://secure.ikofx.com/support/index.php?/Knowledgebase/List" target="_blank"><span class="titreck">IKOFX Knowledgebase</span></a>
+		</li>
+<li class="maximenuck item222 last level2 " style="z-index : 11935;"><a class="maximenuck " href="/en/index.php/en/help-centre/contact-us"><span class="titreck">Contact Us</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>              
+            </ul>
+        </div>
+        <div class="maxiroundedright"></div>
+        <div style="clear:both;"></div>
+    </div>
+    <div style="clear:both;"></div>
+    <!-- fin maximenuCK -->
+  
+        </div> <!-- end navigation -->
+        <div class="clearer"><!-- --></div>
+          
+    <div class="clearer"><!-- --></div>
+
+    
+    <div class="clearer"><!-- --></div>
+    <div style="position: absolute; left: 0;top: 50%">        
+        <!-- BEGIN TAG CODE - DO NOT EDIT! --><div id="swifttagcontainerj6t6hdqf7z"><div id="proactivechatcontainerj6t6hdqf7z"></div><div style="display: inline;" id="swifttagdatacontainerj6t6hdqf7z"></div><script type="text/javascript" src="https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/SiteBadge/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWo2dDZoZHFmN3omdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZzaXRlYmFkZ2Vjb2xvcj13aGl0ZSZiYWRnZWxhbmd1YWdlPWVuJmJhZGdldGV4dD1saXZlaGVscCZvbmxpbmVjb2xvcj0jMTk4YzE5Jm9ubGluZWNvbG9yaG92ZXI9IzVmYWY1ZiZvbmxpbmVjb2xvcmJvcmRlcj0jMTI2MjEyJm9mZmxpbmVjb2xvcj0jYTJhNGFjJm9mZmxpbmVjb2xvcmhvdmVyPSNiZWMwYzUmb2ZmbGluZWNvbG9yYm9yZGVyPSM3MTczNzgmYXdheWNvbG9yPSM3MzdjNGEmYXdheWNvbG9yaG92ZXI9IzllYTQ4MSZhd2F5Y29sb3Jib3JkZXI9IzUxNTczNCZiYWNrc2hvcnRseWNvbG9yPSM3ODhhMjMmYmFja3Nob3J0bHljb2xvcmhvdmVyPSNhMWFlNjYmYmFja3Nob3J0bHljb2xvcmJvcmRlcj0jNTQ2MTE5JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CmYwNTI3MTQ2ZThlNTA3NTM5OWYzZDg2NzFjNGE4NWY3MmNmM2E0ODQ="></script></div> <script type="text/javascript">var swiftscriptelemj6t6hdqf7z = document.createElement("script");
+            swiftscriptelemj6t6hdqf7z.type = "text/javascript";
+            var swiftrandom = Math.floor(Math.random() * 1001);
+            var swiftuniqueid = "j6t6hdqf7z";
+            var swifttagurlj6t6hdqf7z = "https://secure.ikofx.com/support/visitor/index.php?/Default/LiveChat/HTML/SiteBadge/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWo2dDZoZHFmN3omdmVyc2lvbj00LjYxLjAuNDA4OCZwcm9kdWN0PUZ1c2lvbiZzaXRlYmFkZ2Vjb2xvcj13aGl0ZSZiYWRnZWxhbmd1YWdlPWVuJmJhZGdldGV4dD1saXZlaGVscCZvbmxpbmVjb2xvcj0jMTk4YzE5Jm9ubGluZWNvbG9yaG92ZXI9IzVmYWY1ZiZvbmxpbmVjb2xvcmJvcmRlcj0jMTI2MjEyJm9mZmxpbmVjb2xvcj0jYTJhNGFjJm9mZmxpbmVjb2xvcmhvdmVyPSNiZWMwYzUmb2ZmbGluZWNvbG9yYm9yZGVyPSM3MTczNzgmYXdheWNvbG9yPSM3MzdjNGEmYXdheWNvbG9yaG92ZXI9IzllYTQ4MSZhd2F5Y29sb3Jib3JkZXI9IzUxNTczNCZiYWNrc2hvcnRseWNvbG9yPSM3ODhhMjMmYmFja3Nob3J0bHljb2xvcmhvdmVyPSNhMWFlNjYmYmFja3Nob3J0bHljb2xvcmJvcmRlcj0jNTQ2MTE5JmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CmYwNTI3MTQ2ZThlNTA3NTM5OWYzZDg2NzFjNGE4NWY3MmNmM2E0ODQ=";
+            setTimeout("swiftscriptelemj6t6hdqf7z.src=swifttagurlj6t6hdqf7z;document.getElementById('swifttagcontainerj6t6hdqf7z').appendChild(swiftscriptelemj6t6hdqf7z);", 1);</script><!-- END TAG CODE - DO NOT EDIT! -->
+    </div>
+    <!-- start contentBg -->
+    <div class="contentBg">
+        <!-- start mainContent -->
+        <div class="mainContent ">
+                                 <div class="item-page">
+
+
+
+
+
+
+
+
+
 <div class="title">
-<div class="h1left"> </div>
+<div class="h1left"><!-- --></div>
 <h1>Privacy Policy</h1>
-<div class="h1right"> </div>
+<div class="h1right"><!-- --></div>
 </div>
-<div class="clearer"> </div>
+<div class="clearer"><!-- --></div>
 <h2>Security and Disclosure</h2>
 <p>IKO LIMITED ("IKOFX" or "IKOfx") considers your privacy as our upmost concerns and we respect each individual's right of privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.</p>
 <h2>Personal Information</h2>
@@ -520,42 +543,45 @@ try{(function(a){var b="http://",c="ikofx.com",d="/cdn-cgi/cl/",e="img.gif",f=ne
 <h2>Regulatory Disclosure</h2>
 <p>Under limited circumstances, IKOfx may disclose your personal information to third parties as permitted by, or to comply with, applicable laws and regulations. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this privacy policy, we will not use your personal information for any other purpose, unless we describe how such information will be used at the time you disclose it to us or we obtain your permission.</p>
 <p>If you have any questions or concerns regarding the privacy of your information at IKOfx, please write to us at <a href="mailto:support@ikofx.com">support@ikofx.com</a> or <a href="mailto:account@ikofx.com">account@ikofx.com</a></p>
+	
 </div>
-<div class="clearer"> </div>
-</div>  
-</div>  
-<div class="contentBtm"></div>
-<div style="" <!--="" start="" footer_wrapper="" --="">
-    <div id="ad_wrapper"> 
-        <!-- start ad -->
-        <div id="ad">
-            <div id="left" align="center">
-                <img src="/en/templates/ikofx/images/web/master.png" width="45" height="27">      
-                <img src="/en/templates/ikofx/images/web/visa.png" width="76" height="27">
-                <img src="/en/templates/ikofx/images/web/wiretransfer.png" width="66" height="27">
-                <img src="/en/templates/ikofx/images/web/LocalDeposit.png" width="71" height="27">
-                <img src="/en/templates/ikofx/images/web/pm.png" width="131" height="27">
-                <a href="http://www.alliedwallet.com" rel="nofollow" target="_blank">
-                    <img src="/en/templates/ikofx/images/web/AWLOGO.GIF" alt="accept credit cards online" width="auto" height="27">
-                </a>
-            </div>            
-            <div id="right">
-                <img src="/en/templates/ikofx/images/web/MetaQuotes.png" width="247" height="49">      
-<!--                <img src="/en/templates/ikofx/images/web/Norton.png" width="106" height="55" />-->
-<!--                <img src="/en/templates/ikofx/images/web/Truste.png" width="119" height="42" style="margin-right:0 !important;"/>-->
-            </div>
-            <div class="clearer"><!-- --></div>
-        </div> <!-- end ad -->
-        
-       
-    </div><!-- end ad_wrapper -->
-    
-    <!-- start footer_BG -->
-    <div id="footer_BG">
-        <div id="footer_wrapper">
-            <!-- start siteMap -->
-            <div id="siteMap">              
-                
+
+                        
+                        <div class="clearer"><!-- --></div>    
+        </div> <!-- end mainContent -->
+    </div> <!-- end contentBg -->
+    <div class="contentBtm"></div>
+    <div style="" <!--="" start="" footer_wrapper="" --="">
+         <div id="ad_wrapper"> 
+            <!-- start ad -->
+            <div id="ad">
+                <div id="left" align="center">
+                    <img src="/en/templates/ikofx/images/web/master.png" width="45" height="27">      
+                    <img src="/en/templates/ikofx/images/web/visa.png" width="76" height="27">
+                    <img src="/en/templates/ikofx/images/web/wiretransfer.png" width="66" height="27">
+                    <img src="/en/templates/ikofx/images/web/LocalDeposit.png" width="71" height="27">
+                    <img src="/en/templates/ikofx/images/web/pm.png" width="131" height="27">
+                    <a href="http://www.alliedwallet.com" rel="nofollow" target="_blank">
+                        <img src="/en/templates/ikofx/images/web/AWLOGO.GIF" alt="accept credit cards online" width="auto" height="27">
+                    </a>
+                </div>            
+                <div id="right">
+                    <img src="/en/templates/ikofx/images/web/MetaQuotes.png" width="247" height="49">      
+    <!--                <img src="/en/templates/ikofx/images/web/Norton.png" width="106" height="55" />-->
+    <!--                <img src="/en/templates/ikofx/images/web/Truste.png" width="119" height="42" style="margin-right:0 !important;"/>-->
+                </div>
+                <div class="clearer"><!-- --></div>
+            </div> <!-- end ad -->
+
+
+        </div><!-- end ad_wrapper -->
+
+        <!-- start footer_BG -->
+        <div id="footer_BG">
+            <div id="footer_wrapper">
+                <!-- start siteMap -->
+                <div id="siteMap">              
+                    
 
 <div class="custom">
 	<div class="col">
@@ -612,34 +638,36 @@ try{(function(a){var b="http://",c="ikofx.com",d="/cdn-cgi/cl/",e="img.gif",f=ne
 </div>
 <p>&nbsp;</p></div>
 
-                <div class="clearer"><!-- --></div>
-            </div> <!-- end siteMap -->
-            
-            <div id="copyright">
-                
+                    <div class="clearer"><!-- --></div>
+                </div> <!-- end siteMap -->
+
+                <div id="copyright">
+                    
 
 <div class="custom">
 	<div>Copyright©2010 <a href="/en/./">IKOFX.COM</a>. All rights reserved.<br> Forex trading involves significant risk of loss and is not suitable for all investors. Read full disclosure.<br> IKO Limited.<br> 10c, 17 Albert Street, Auckland Central, 1010 New Zealand.<br> Email:<a href="mailto:info@ikofx.com">info@ikofx.com</a>
 </div></div>
 
-            </div>
-        <div><!-- end footer_wrapper -->       
-    </div> <!-- end footer_BG -->
-   
-    <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                </div>
+                <div><!-- end footer_wrapper -->       
+                </div> <!-- end footer_BG -->
 
-	  ga('create', 'UA-59524449-1', 'auto');
-	  ga('send', 'pageview');
+                <script>
+                    (function(i, s, o, g, r, a, m) {
+                        i['GoogleAnalyticsObject'] = r;
+                        i[r] = i[r] || function() {
+                            (i[r].q = i[r].q || []).push(arguments)
+                        }, i[r].l = 1 * new Date();
+                        a = s.createElement(o),
+                                m = s.getElementsByTagName(o)[0];
+                        a.async = 1;
+                        a.src = g;
+                        m.parentNode.insertBefore(a, m)
+                    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-	</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
+                    ga('create', 'UA-59524449-1', 'auto');
+                    ga('send', 'pageview');
 
-</div></div></div><div id="ascrail2000" style="width: 7px; z-index: 9000; position: fixed; top: 0px; height: 100%; right: 0px; opacity: 0.80021;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 220px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div id="ascrail2000-hr" style="height: 8px; z-index: 9000; position: fixed; left: 0px; width: 100%; bottom: 0px; display: none; opacity: 0.80021;"><div style="position: relative; top: 0px; height: 5px; width: 1366px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div></body></html>
+                </script>
+                
+                </div></div></div><div id="ascrail2000" style="width: 7px; z-index: 9000; position: fixed; top: 0px; height: 100%; right: 0px; opacity: 0.803341;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 222px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div id="ascrail2000-hr" style="height: 8px; z-index: 9000; position: fixed; left: 0px; width: 100%; bottom: 0px; display: none; opacity: 0.803341;"><div style="position: relative; top: 0px; height: 5px; width: 1366px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div></body></html>
