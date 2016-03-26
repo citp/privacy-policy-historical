@@ -1,21 +1,24 @@
-<!--The following is the downloaded HTML source of the theclutcher.com privacy policy that was archived on 2015-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151029003428id_/http%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theclutcher.com privacy policy that was archived on 2016-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326191539id_/https%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"88cb2d6102","applicationID":"3013098","transactionName":"NFNWZEoECBJRAhUNCw0ZeWZ7SiUOXREACh0gWVpESgoKDVUTThQLD19XSQ==","queueTime":0,"applicationTime":728,"ttGuid":"BC8ED32693B7296F","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQPUlBWGwAAVVJSDgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
   <title>Privacy Policy - PRIVACY POLICY</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <meta name="description" content="Information sheet - Pursuant to art. 13, Legislative Decree nr. 196/03 as amended (&quot;Privacy code&quot;).">
-  <meta name="viewport" content="width=device-width">
   <meta name="google-site-verification" content="SjB4y6DAulkCqqQ1VMrrEdYQZ8r8Vv_6M8TkNXvEBUo">
 
   
 
-    <link rel="canonical" href="http://www.theclutcher.com/en-US/company/policy/privacy">
+    <link rel="canonical" href="https://www.theclutcher.com/en-US/company/policy/privacy">
 
-  <link href="//fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
 
-  <link href="/bundles/css?v=aNpHqg06_s8_hmFhyGTbOvYWOzXHbmvyr7lA2tVIX5U1" rel="stylesheet">
+  <link href="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css" rel="stylesheet">
+
+
+
+  <link href="/bundles/css?v=TGhQ1mERc5nkHVY93gJ1cpg1Nq3jlYxofXSh7YTL84g1" rel="stylesheet">
 
 
   <!--[if IE]>
@@ -23,314 +26,1255 @@
   <![endif]-->
 </head>
 <body>
-  <div class="cookie-policy">
-  <div class="stage clearfix">
-    <div class="close">Close</div>
-    <p>
-      We&nbsp;use&nbsp;cookies&nbsp;to&nbsp;improve&nbsp;our&nbsp;site&nbsp;and&nbsp;your&nbsp;shopping&nbsp;experience. By&nbsp;continuing&nbsp;to&nbsp;browse&nbsp;our&nbsp;site&nbsp;you&nbsp;accept&nbsp;our&nbsp;cookie&nbsp;policy. 
-      <a href="/en-US/company/policy/privacy">Find&nbsp;out&nbsp;more</a>
-    </p>
-  </div>
+  <div class="hider">
+    <div class="cookie-policy clearfix">
+  <div class="close">Close</div>
+  <p>
+    We&nbsp;use&nbsp;cookies&nbsp;to&nbsp;improve&nbsp;our&nbsp;site&nbsp;and&nbsp;your&nbsp;shopping&nbsp;experience. By&nbsp;continuing&nbsp;to&nbsp;browse&nbsp;our&nbsp;site&nbsp;you&nbsp;accept&nbsp;our&nbsp;cookie&nbsp;policy.
+    <a href="/en-US/company/policy/privacy">Find&nbsp;out&nbsp;more</a>
+  </p>
 </div>
 
-  <div class="header">
-  <div class="stage clearfix">
+    <div class="header">
+  <div class="black-banner clearfix">
     <ul class="nav">
       <li class="ddl"><a class="women " data-rel="women-move-on" href="/en-US/women/clothing">WOMAN</a></li>
       <li class="ddl"><a class="men " data-rel="men-move-on" href="/en-US/men/clothing">MAN</a></li>
-      <li class="ddl"><a class="baby-kids" data-rel="baby-move-on" href="javascript:;">BABY &amp; KIDS</a></li>
-      <li class="ddl"><a class="designers" data-rel="most-wanted-designers" href="javascript:;">DESIGNERS</a></li>
-    </ul>                                                 
+      <li class="ddl"><a class="baby-girl " data-rel="baby-girl-move-on" href="/en-US/baby_girl/clothing">BABY GIRL</a></li>
+      <li class="ddl"><a class="baby-boy " data-rel="baby-boy-move-on" href="/en-US/baby_boy/clothing">BABY BOY</a></li>
+    </ul>
 
     <h2><a href="/en-US/women"><img src="/Content/images/logo.jpg" alt="The Clutcher - Shop over the brand" title="The Clutcher - Shop over the brand"></a></h2>
 
     <ul class="utility">
       <li>
-<a href="/en-US/user/login" rel="nofollow">LOGIN</a>      </li>
+<a href="/en-US/user/login" rel="nofollow">LOGIN</a>          <span class="separator">|</span>
+<a href="/en-US/user/register" rel="nofollow">REGISTER</a>        <span class="separator">|</span>
+      </li>
       <li class="settings">
-        <a class="button" href="javascript:;">SETTINGS</a>
-        <div class="popup">
-          <p class="currency">
-            <span class="lbl">CURRENCY:</span> 
-            <a class="cur" href="javascript:;">$</a>
-<a href="/en-US/home/ChangeCurrency?codiceISO=EUR" rel="nofollow">€</a><a href="/en-US/home/ChangeCurrency?codiceISO=GBP" rel="nofollow">£</a><a href="/en-US/home/ChangeCurrency?codiceISO=JPY" rel="nofollow">¥</a><a href="/en-US/home/ChangeCurrency?codiceISO=CAD" rel="nofollow">C$</a><a href="/en-US/home/ChangeCurrency?codiceISO=AUD" rel="nofollow">A$</a><a href="/en-US/home/ChangeCurrency?codiceISO=KRW" rel="nofollow">₩</a>          </p>
-          <p><span class="lbl">COUNTRY:</span> 
-            <a class="cur you-are-in" href="/en-US/nations" rel="nofollow">USA</a>
-          </p><p>
-            <span class="lbl">LANGUAGE:</span>
-            <a class="cur" href="javascript:;">EN</a>
-              <a href="/">IT</a>
-              <a href="/ko-KR">KO</a>
-          </p>
-          <p class="center">
-<a href="/en-US/user/login" rel="nofollow">LOGIN</a> | 
-<a href="/en-US/user/register" rel="nofollow">REGISTER</a>          </p>
-        </div>
+        <a class="button" href="javascript:;">COUNTRY: <span>USA</span> / <span>$</span></a>
       </li>
       <li class="cart">
-        <a class="button" href="javascript:;">SHOPPING BAG <span class="num">(0)</span></a>
+        <a class="cart-button" href="javascript:;" data-rel="cart-expanded"><span class="num">$ 0.00</span> <img src="/Content/images/ico-shopping-bag.gif"></a>
       </li>
     </ul>
-
-    <div class="women-move-on sub-menu-bck" data-rel="women">
-      <div class="spacer">
-        <a class="big" href="/en-US/women/ss15_sale"><img class="photo" src="http://barcestorage.blob.core.windows.net/uploaded/HomePage/fw15/MenuDonna.jpg" alt=""></a>
-
-<div class="types">
-  <div class="clearfix">
-    <div class="col">
-      <h6><a href="/en-US/women/clothing">CLOTHING</a></h6>
-
-      <ul>
-        <li><a href="/en-US/women/clothing/coats">Coats</a></li>
-        <li><a href="/en-US/women/clothing/dresses">Dresses</a></li>
-        <li><a href="/en-US/women/clothing/knitwear">Knitwear</a></li>
-        <li><a href="/en-US/women/clothing/topwear">Topwear</a></li>
-        <li><a href="/en-US/women/clothing/trousers">Trousers</a></li>
-        <li><a href="/en-US/women/clothing/skirts">Skirts</a></li>
-        <li><a href="/en-US/women/clothing" class="all">See all</a></li>
-      </ul>
-    </div>
-
-    <div class="col">
-      <h6><a href="/en-US/women/shoes">SHOES</a></h6>
-
-      <ul>
-        <li><a href="/en-US/women/shoes/sneakers">Sneakers</a></li>
-        <li><a href="/en-US/women/shoes/boots">Boots</a></li>
-        <li><a href="/en-US/women/shoes/shoes_higher">Pumps</a></li>
-        <li><a href="/en-US/women/shoes/shoes_shorter">Flat Shoes</a></li>
-        <li><a href="/en-US/women/shoes/shoes">Shoes</a></li>
-        <li><a href="/en-US/women/shoes" class="all">See all</a></li>
-      </ul>
-    </div>
-
-    <div class="col">
-      <h6><a href="/en-US/women/bags">BAGS</a></h6>
-
-      <ul>
-        <li><a href="/en-US/women/bags/large_handbags">Large Handbags</a></li>
-        <li><a href="/en-US/women/bags/medium_handbags">Medium Handbags</a></li>
-        <li><a href="/en-US/women/bags/small_handbags">Small Handbags</a></li>
-        <li><a href="/en-US/women/bags" class="all">See all</a></li>
-      </ul>
-    </div>
-
-    <div class="col last">
-      <h6><a href="/en-US/women/accessories">ACCESSORIES</a></h6>
-
-      <ul>                
-        <li><a href="/en-US/women/accessories/wallets">Wallets</a></li>
-        <li><a href="/en-US/women/accessories/other_accessories">Other Accessories</a></li>
-        <li><a href="/en-US/women/accessories/scarves">Scarves</a></li>
-        <li><a href="/en-US/women/jewels">Jewels</a></li>
-        <li><a href="/en-US/women/accessories" class="all">See all</a></li>
-      </ul>
-    </div>
   </div>
 
-  <div class="des">
-    <a href="/en-US/women/brands">SHOP BY DESIGNER</a>
-  </div>
-</div>
-      </div>
-    </div>
+  <div class="women-move-on sub-menu-bck " data-rel="women">
+    <div class="top-menu">
+  <div class="search">
+<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
+</form>  </div>
 
-    <div class="men-move-on sub-menu-bck" data-rel="men">
-      <div class="spacer">
-        <a class="big" href="/en-US/men/ss15_sale"><img class="photo" src="http://barcestorage.blob.core.windows.net/uploaded/HomePage/fw15/MenuUomo.jpg" alt=""></a>
-
-<div class="types">
-  <div class="clearfix">
-    <div class="col">
-      <h6><a href="/en-US/men/clothing">CLOTHING</a></h6>
-
-      <ul>
-        <li><a href="/en-US/men/clothing/coats">Coats</a></li>
-        <li><a href="/en-US/men/clothing/suits">Suits</a></li>
-        <li><a href="/en-US/men/clothing/knitwear">Knitwear</a></li>
-        <li><a href="/en-US/men/clothing/topwear">Topwear</a></li>
-        <li><a href="/en-US/men/clothing/trousers">Trousers</a></li>
-        <li><a href="/en-US/men/clothing" class="all">See all</a></li>
-      </ul>
-    </div>
-
-    <div class="col">
-      <h6><a href="/en-US/men/shoes">SHOES</a></h6>
-
-      <ul>
-        <li><a href="/en-US/men/shoes/sneakers">Sneakers</a></li>
-        <li><a href="/en-US/men/shoes/boots">Boots</a></li>
-        <li><a href="/en-US/men/shoes/shoes">Shoes</a></li>
-        <li><a href="/en-US/men/shoes" class="all">See all</a></li>
-      </ul>
-    </div>
-
-    <div class="col">
-      <h6><a href="/en-US/men/bags">BAGS</a></h6>
-
-      <ul>
-        <li><a href="/en-US/men/bags/bags">Bags</a></li>
-        <li><a href="/en-US/men/bags" class="all">See all</a></li>
-      </ul>
-    </div>
-
-    <div class="col last">
-      <h6><a href="/en-US/men/accessories">ACCESSORIES</a></h6>
-
-      <ul>
-        <li><a href="/en-US/men/accessories/wallets">Wallets</a></li>
-        <li><a href="/en-US/men/accessories/other_accessories">Other Accessories</a></li>
-        <li><a href="/en-US/men/accessories/belts">Belts</a></li>
-        <li><a href="/en-US/men/accessories/ties">Ties</a></li>
-        <li><a href="/en-US/men/accessories/hats">Hats</a></li>
-        <li><a href="/en-US/men/accessories/scarves">Scarves</a></li>
-        <li><a href="/en-US/men/accessories" class="all">See all</a></li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="des">
-    <a href="/en-US/men/brands">SHOP BY DESIGNER</a>
-  </div>
-</div>
-      </div>
-    </div>
-
-    <div class="baby-move-on sub-menu-bck" data-rel="baby-kids">
-      <div class="spacer">
-        <img class="photo" src="http://barcestorage.blob.core.windows.net/uploaded/HomePage/fw15/sale50kids.jpg" alt="">
-
-<div class="types">
-  <div class="clearfix">
-    <div class="col big">
-      <h6>BABY BOY</h6>
-
-      <div class="clearfix">
-        <div class="col">
-          <ul>
-            <li><a href="/en-US/baby_boy/clothing?sizesID=1&amp;sizesID=2&amp;sizesID=15&amp;sizesID=30&amp;sizesID=35&amp;sizesID=5&amp;sizesID=12&amp;sizesID=14">0 - 2 YEARS</a></li>
-            <li><a href="/en-US/baby_boy/clothing?sizesID=14&amp;sizesID=16&amp;sizesID=17&amp;sizesID=23">2 - 4 YEARS</a></li>
-            <li><a href="/en-US/baby_boy/clothing?sizesID=23&amp;sizesID=29&amp;sizesID=32&amp;sizesID=33&amp;sizesID=34">4 - 8 YEARS</a></li>
-            <li><a href="/en-US/baby_boy/clothing?sizesID=34&amp;sizesID=36&amp;sizesID=3&amp;sizesID=4&amp;sizesID=6">8 - 12 YEARS</a></li>
-            <li><a href="/en-US/baby_boy/clothing?sizesID=6&amp;sizesID=7&amp;sizesID=8&amp;sizesID=9&amp;sizesID=10&amp;sizesID=11&amp;sizesID=13">12 - 18 YEARS</a></li>
-          </ul>
-        </div>
-
-        <div class="col last">
-          <ul>
-            <li><a href="/en-US/baby_boy/clothing">CLOTHING</a></li>
-            <li><a href="/en-US/baby_boy/shoes">SHOES</a></li>
-            <li><a href="/en-US/baby_boy/bags">BAGS</a></li>
-            <li><a href="/en-US/baby_boy/accessories">ACCESSORIES</a></li>            
-          </ul>
-        </div>
-      </div>
-      
-      <div class="des">
-        <a href="/en-US/baby_boy/brands">SHOP BY DESIGNER</a>
-      </div>
-    </div>
-        
-    <div class="col big last">
-      <h6>BABY GIRL</h6>
-
-      <div class="clearfix">
-        <div class="col">
-          <ul>
-            <li><a href="/en-US/baby_girl/clothing?sizesID=1&amp;sizesID=2&amp;sizesID=15&amp;sizesID=30&amp;sizesID=35&amp;sizesID=5&amp;sizesID=12&amp;sizesID=14">0 - 2 YEARS</a></li>
-            <li><a href="/en-US/baby_girl/clothing?sizesID=14&amp;sizesID=16&amp;sizesID=17&amp;sizesID=23">2 - 4 YEARS</a></li>
-            <li><a href="/en-US/baby_girl/clothing?sizesID=23&amp;sizesID=29&amp;sizesID=32&amp;sizesID=33&amp;sizesID=34">4 - 8 YEARS</a></li>
-            <li><a href="/en-US/baby_girl/clothing?sizesID=34&amp;sizesID=36&amp;sizesID=3&amp;sizesID=4&amp;sizesID=6">8 - 12 YEARS</a></li>
-            <li><a href="/en-US/baby_girl/clothing?sizesID=6&amp;sizesID=7&amp;sizesID=8&amp;sizesID=9&amp;sizesID=10&amp;sizesID=11&amp;sizesID=13">12 - 18 YEARS</a></li>
-          </ul>
-        </div>
-
-        <div class="col last">
-          <ul>
-            <li><a href="/en-US/baby_girl/clothing">CLOTHING</a></li>
-            <li><a href="/en-US/baby_girl/shoes">SHOES</a></li>
-            <li><a href="/en-US/baby_girl/bags">BAGS</a></li>
-            <li><a href="/en-US/baby_girl/accessories">ACCESSORIES</a></li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="des">
-        <a href="/en-US/baby_girl/brands">SHOP BY DESIGNER</a>
-      </div>
-    </div>
-  </div>
-</div>
-      </div>
-    </div>
-
-    <div class="most-wanted-designers sub-menu-bck" data-rel="designers">
-      <div class="spacer">
-        <div class="cols">
-  <h5>WOMEN</h5>
-  <h6>MOST WANTED DESIGNERS</h6>
-
-  <ul class="list clearfix">
-    <li class="col">
-      <ul>
-        <li><a href="/en-US/women/brand/dolce_and_gabbana">Dolce &amp; Gabbana</a></li>
-        <li><a href="/en-US/women/brand/moncler">Moncler</a></li>
-        <li><a href="/en-US/women/brand/kenzo">Kenzo</a></li>
-        <li><a href="/en-US/women/brand/givenchy">Givenchy</a></li>
-        <li><a href="/en-US/women/brand/dsquared2">Dsquared2</a></li>
-        <li><a href="/en-US/women/brand/ki6_who_are_you">Ki6? Who are you?</a></li>
-      </ul>
-    </li>
-    <li class="col">
-      <ul>
-        <li><a href="/en-US/women/brand/moschino">Moschino</a></li>
-        <li><a href="/en-US/women/brand/chloe">Chloé</a></li>
-        <li><a href="/en-US/women/brand/salvatore_ferragamo">Salvatore Ferragamo</a></li>
-        <li><a href="/en-US/women/brand/stella_mccartney">Stella McCartney</a></li>
-        <li><a href="/en-US/women/brand/gucci">Gucci</a></li>
-        <li><a href="/en-US/women/brand/erika_cavallini_semicouture">Erika Cavallini Semi-Couture</a></li>
-      </ul>
-    </li>
+  <ul class="clearfix">
+    <li><a class="" href="/en-US/women/brands">DESIGNERS</a></li>
+      <li><a class=" " href="/en-US/women/winter_sales">WINTER SALES</a></li>
+      <li><a class=" " href="/en-US/women/most_desired">MOST DESIRED</a></li>
+    <li><a class="" href="/en-US/women/newin">NEW ARRIVALS</a></li>
+      <li><a class="" href="/en-US/women/clothing">CLOTHING</a></li>
+      <li><a class="" href="/en-US/women/accessories">ACCESSORIES</a></li>
+      <li><a class="" href="/en-US/women/bags">BAGS</a></li>
+      <li><a class="" href="/en-US/women/shoes">SHOES</a></li>
+      <li><a class="" href="/en-US/women/jewels">JEWELS</a></li>
+    
+      <li><a class="" href="/en-US/women/outlet">OUTLET</a></li>
   </ul>
-
-  <a class="all" href="/en-US/women/brands">TUTTI I DESIGNERS</a>
 </div>
-<div class="cols last">
-  <h5>UOMO</h5>
-  <h6>MOST WANTED DESIGNERS</h6>
+  </div>
 
-  <ul class="list clearfix">
-    <li class="col">
-      <ul>
-        <li><a href="/en-US/men/brand/neil_barrett">Neil Barrett</a></li>
-        <li><a href="/en-US/men/brand/moncler">Moncler</a></li>
-        <li><a href="/en-US/men/brand/etro">Etro</a></li>
-        <li><a href="/en-US/men/brand/kenzo">Kenzo</a></li>
-        <li><a href="/en-US/men/brand/jacob_cohen">Jacob Cohen</a></li>
-        <li><a href="/en-US/men/brand/givenchy">Givenchy</a></li>
-    </ul>
-    </li>
-    <li class="col">
-      <ul> 
-        <li><a href="/en-US/men/brand/churchs">Church's</a></li>
-        <li><a href="/en-US/men/brand/golden_goose">Golden Goose</a></li>
-        <li><a href="/en-US/men/brand/marc_jacobs_">Marc Jacobs</a></li>
-        <li><a href="/en-US/men/brand/dsquared2">Dsquared2</a></li>
-        <li><a href="/en-US/men/brand/marcelo_burlon">Marcelo Burlon</a></li>      
-        <li><a href="/en-US/men/brand/pierre_balmain">Pierre Balmain</a></li>
-      </ul>
-    </li>
+  <div class="men-move-on sub-menu-bck " data-rel="men">
+    <div class="top-menu">
+  <div class="search">
+<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
+</form>  </div>
+
+  <ul class="clearfix">
+    <li><a class="" href="/en-US/men/brands">DESIGNERS</a></li>
+      <li><a class=" " href="/en-US/men/winter_sales">WINTER SALES</a></li>
+    <li><a class="" href="/en-US/men/newin">NEW ARRIVALS</a></li>
+      <li><a class="" href="/en-US/men/clothing">CLOTHING</a></li>
+      <li><a class="" href="/en-US/men/accessories">ACCESSORIES</a></li>
+      <li><a class="" href="/en-US/men/bags">BAGS</a></li>
+      <li><a class="" href="/en-US/men/shoes">SHOES</a></li>
+    
+      <li><a class="" href="/en-US/men/outlet">OUTLET</a></li>
   </ul>
-  <a class="all" href="/en-US/men/brands">TUTTI I DESIGNERS</a>
 </div>
+  </div>
 
+  <div class="baby-girl-move-on sub-menu-bck " data-rel="baby-girl">
+    <div class="top-menu">
+  <div class="search">
+<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
+</form>  </div>
+
+  <ul class="clearfix">
+    <li><a class="" href="/en-US/baby_girl/brands">DESIGNERS</a></li>
+      <li><a class=" " href="/en-US/baby_girl/winter_sales">WINTER SALES</a></li>
+    <li><a class="" href="/en-US/baby_girl/newin">NEW ARRIVALS</a></li>
+      <li><a class="" href="/en-US/baby_girl/clothing">CLOTHING</a></li>
+      <li><a class="" href="/en-US/baby_girl/accessories">ACCESSORIES</a></li>
+      <li><a class="" href="/en-US/baby_girl/bags">BAGS</a></li>
+      <li><a class="" href="/en-US/baby_girl/shoes">SHOES</a></li>
+    
+      <li><a class="" href="/en-US/baby_girl/outlet">OUTLET</a></li>
+  </ul>
+</div>
+  </div>
+
+  <div class="baby-boy-move-on sub-menu-bck " data-rel="baby-boy">
+    <div class="top-menu">
+  <div class="search">
+<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
+</form>  </div>
+
+  <ul class="clearfix">
+    <li><a class="" href="/en-US/baby_boy/brands">DESIGNERS</a></li>
+      <li><a class=" " href="/en-US/baby_boy/winter_sales">WINTER SALES</a></li>
+    <li><a class="" href="/en-US/baby_boy/newin">NEW ARRIVALS</a></li>
+      <li><a class="" href="/en-US/baby_boy/clothing">CLOTHING</a></li>
+      <li><a class="" href="/en-US/baby_boy/accessories">ACCESSORIES</a></li>
+      <li><a class="" href="/en-US/baby_boy/bags">BAGS</a></li>
+      <li><a class="" href="/en-US/baby_boy/shoes">SHOES</a></li>
+    
+      <li><a class="" href="/en-US/baby_boy/outlet">OUTLET</a></li>
+  </ul>
+</div>
+  </div>
+
+
+  <div class="modal-nations">
+<form action="/en-US/home/changeSettings" method="post">    <div class="stage clearfix">
+      <div class="left">
+        <h3>SHIPPING COUNTRY</h3>
+        <h4>CURRENT SELECTION: <b>USA</b></h4>
+
+          <h5 class="">Europe</h5>
+          <div id="zona-1" class="box hidden">
+            <ul class="list">
+                <li>
+                  <input id="lbl2" name="idNazioneSelezionata" type="radio" value="2">
+                  <label for="lbl2">Aland Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl3" name="idNazioneSelezionata" type="radio" value="3">
+                  <label for="lbl3">Albania</label>  
+                </li>
+                <li>
+                  <input id="lbl6" name="idNazioneSelezionata" type="radio" value="6">
+                  <label for="lbl6">Andorra</label>  
+                </li>
+                <li>
+                  <input id="lbl15" name="idNazioneSelezionata" type="radio" value="15">
+                  <label for="lbl15">Austria</label>  
+                </li>
+                <li>
+                  <input id="lbl18" name="idNazioneSelezionata" type="radio" value="18">
+                  <label for="lbl18">Balearic Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl21" name="idNazioneSelezionata" type="radio" value="21">
+                  <label for="lbl21">Belarus</label>  
+                </li>
+                <li>
+                  <input id="lbl22" name="idNazioneSelezionata" type="radio" value="22">
+                  <label for="lbl22">Belgium</label>  
+                </li>
+                <li>
+                  <input id="lbl29" name="idNazioneSelezionata" type="radio" value="29">
+                  <label for="lbl29">Bosnia and Herzegovina</label>  
+                </li>
+                <li>
+                  <input id="lbl31" name="idNazioneSelezionata" type="radio" value="31">
+                  <label for="lbl31">Bouvet Island</label>  
+                </li>
+                <li>
+                  <input id="lbl36" name="idNazioneSelezionata" type="radio" value="36">
+                  <label for="lbl36">Bulgaria</label>  
+                </li>
+                <li>
+                  <input id="lbl42" name="idNazioneSelezionata" type="radio" value="42">
+                  <label for="lbl42">Canary Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl54" name="idNazioneSelezionata" type="radio" value="54">
+                  <label for="lbl54">Croatia</label>  
+                </li>
+                <li>
+                  <input id="lbl58" name="idNazioneSelezionata" type="radio" value="58">
+                  <label for="lbl58">Czech Republic</label>  
+                </li>
+                <li>
+                  <input id="lbl60" name="idNazioneSelezionata" type="radio" value="60">
+                  <label for="lbl60">Denmark</label>  
+                </li>
+                <li>
+                  <input id="lbl69" name="idNazioneSelezionata" type="radio" value="69">
+                  <label for="lbl69">Estonia</label>  
+                </li>
+                <li>
+                  <input id="lbl72" name="idNazioneSelezionata" type="radio" value="72">
+                  <label for="lbl72">Faroe Islands (Denmark)</label>  
+                </li>
+                <li>
+                  <input id="lbl75" name="idNazioneSelezionata" type="radio" value="75">
+                  <label for="lbl75">Finland</label>  
+                </li>
+                <li>
+                  <input id="lbl76" name="idNazioneSelezionata" type="radio" value="76">
+                  <label for="lbl76">France</label>  
+                </li>
+                <li>
+                  <input id="lbl82" name="idNazioneSelezionata" type="radio" value="82">
+                  <label for="lbl82">Germany</label>  
+                </li>
+                <li>
+                  <input id="lbl85" name="idNazioneSelezionata" type="radio" value="85">
+                  <label for="lbl85">Gibraltar (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl86" name="idNazioneSelezionata" type="radio" value="86">
+                  <label for="lbl86">Greece</label>  
+                </li>
+                <li>
+                  <input id="lbl92" name="idNazioneSelezionata" type="radio" value="92">
+                  <label for="lbl92">Guernsey (British cro ...</label>  
+                </li>
+                <li>
+                  <input id="lbl100" name="idNazioneSelezionata" type="radio" value="100">
+                  <label for="lbl100">Hungary</label>  
+                </li>
+                <li>
+                  <input id="lbl101" name="idNazioneSelezionata" type="radio" value="101">
+                  <label for="lbl101">Iceland</label>  
+                </li>
+                <li>
+                  <input id="lbl106" name="idNazioneSelezionata" type="radio" value="106">
+                  <label for="lbl106">Isle of Man (British  ...</label>  
+                </li>
+                <li>
+                  <input id="lbl108" name="idNazioneSelezionata" type="radio" value="108">
+                  <label for="lbl108">Italy</label>  
+                </li>
+                <li>
+                  <input id="lbl111" name="idNazioneSelezionata" type="radio" value="111">
+                  <label for="lbl111">Jersey (British Crown ...</label>  
+                </li>
+                <li>
+                  <input id="lbl119" name="idNazioneSelezionata" type="radio" value="119">
+                  <label for="lbl119">Latvia</label>  
+                </li>
+                <li>
+                  <input id="lbl124" name="idNazioneSelezionata" type="radio" value="124">
+                  <label for="lbl124">Liechtenstein</label>  
+                </li>
+                <li>
+                  <input id="lbl125" name="idNazioneSelezionata" type="radio" value="125">
+                  <label for="lbl125">Lithuania</label>  
+                </li>
+                <li>
+                  <input id="lbl126" name="idNazioneSelezionata" type="radio" value="126">
+                  <label for="lbl126">Luxembourg</label>  
+                </li>
+                <li>
+                  <input id="lbl128" name="idNazioneSelezionata" type="radio" value="128">
+                  <label for="lbl128">Macedonia</label>  
+                </li>
+                <li>
+                  <input id="lbl134" name="idNazioneSelezionata" type="radio" value="134">
+                  <label for="lbl134">Malta</label>  
+                </li>
+                <li>
+                  <input id="lbl141" name="idNazioneSelezionata" type="radio" value="141">
+                  <label for="lbl141">Moldavia</label>  
+                </li>
+                <li>
+                  <input id="lbl142" name="idNazioneSelezionata" type="radio" value="142">
+                  <label for="lbl142">Monaco</label>  
+                </li>
+                <li>
+                  <input id="lbl144" name="idNazioneSelezionata" type="radio" value="144">
+                  <label for="lbl144">Montenegro</label>  
+                </li>
+                <li>
+                  <input id="lbl153" name="idNazioneSelezionata" type="radio" value="153">
+                  <label for="lbl153">Netherlands</label>  
+                </li>
+                <li>
+                  <input id="lbl165" name="idNazioneSelezionata" type="radio" value="165">
+                  <label for="lbl165">Norway</label>  
+                </li>
+                <li>
+                  <input id="lbl177" name="idNazioneSelezionata" type="radio" value="177">
+                  <label for="lbl177">Poland</label>  
+                </li>
+                <li>
+                  <input id="lbl178" name="idNazioneSelezionata" type="radio" value="178">
+                  <label for="lbl178">Portugal</label>  
+                </li>
+                <li>
+                  <input id="lbl181" name="idNazioneSelezionata" type="radio" value="181">
+                  <label for="lbl181">Republic of Ireland</label>  
+                </li>
+                <li>
+                  <input id="lbl184" name="idNazioneSelezionata" type="radio" value="184">
+                  <label for="lbl184">Romania</label>  
+                </li>
+                <li>
+                  <input id="lbl185" name="idNazioneSelezionata" type="radio" value="185">
+                  <label for="lbl185">Russia</label>  
+                </li>
+                <li>
+                  <input id="lbl194" name="idNazioneSelezionata" type="radio" value="194">
+                  <label for="lbl194">San Marino</label>  
+                </li>
+                <li>
+                  <input id="lbl198" name="idNazioneSelezionata" type="radio" value="198">
+                  <label for="lbl198">Serbia</label>  
+                </li>
+                <li>
+                  <input id="lbl199" name="idNazioneSelezionata" type="radio" value="199">
+                  <label for="lbl199">Serbia And Montenegro</label>  
+                </li>
+                <li>
+                  <input id="lbl203" name="idNazioneSelezionata" type="radio" value="203">
+                  <label for="lbl203">Slovakia</label>  
+                </li>
+                <li>
+                  <input id="lbl204" name="idNazioneSelezionata" type="radio" value="204">
+                  <label for="lbl204">Slovenia</label>  
+                </li>
+                <li>
+                  <input id="lbl210" name="idNazioneSelezionata" type="radio" value="210">
+                  <label for="lbl210">Spain</label>  
+                </li>
+                <li>
+                  <input id="lbl218" name="idNazioneSelezionata" type="radio" value="218">
+                  <label for="lbl218">Sweden</label>  
+                </li>
+                <li>
+                  <input id="lbl219" name="idNazioneSelezionata" type="radio" value="219">
+                  <label for="lbl219">Switzerland</label>  
+                </li>
+                <li>
+                  <input id="lbl241" name="idNazioneSelezionata" type="radio" value="241">
+                  <label for="lbl241">Ukraine</label>  
+                </li>
+                <li>
+                  <input id="lbl243" name="idNazioneSelezionata" type="radio" value="243">
+                  <label for="lbl243">United Kingdom</label>  
+                </li>
+                <li>
+                  <input id="lbl249" name="idNazioneSelezionata" type="radio" value="249">
+                  <label for="lbl249">Vatican City</label>  
+                </li>
+            </ul>
+          </div>
+          <h5 class="open">North America</h5>
+          <div id="zona-2" class="box ">
+            <ul class="list">
+                <li>
+                  <input id="lbl8" name="idNazioneSelezionata" type="radio" value="8">
+                  <label for="lbl8">Anguilla</label>  
+                </li>
+                <li>
+                  <input id="lbl10" name="idNazioneSelezionata" type="radio" value="10">
+                  <label for="lbl10">Antigua &amp; Barbuda</label>  
+                </li>
+                <li>
+                  <input id="lbl13" name="idNazioneSelezionata" type="radio" value="13">
+                  <label for="lbl13">Aruba (Netherlands)</label>  
+                </li>
+                <li>
+                  <input id="lbl20" name="idNazioneSelezionata" type="radio" value="20">
+                  <label for="lbl20">Barbados</label>  
+                </li>
+                <li>
+                  <input id="lbl23" name="idNazioneSelezionata" type="radio" value="23">
+                  <label for="lbl23">Belize</label>  
+                </li>
+                <li>
+                  <input id="lbl25" name="idNazioneSelezionata" type="radio" value="25">
+                  <label for="lbl25">Bermuda (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl34" name="idNazioneSelezionata" type="radio" value="34">
+                  <label for="lbl34">British Virgin Island ...</label>  
+                </li>
+                <li>
+                  <input id="lbl41" name="idNazioneSelezionata" type="radio" value="41">
+                  <label for="lbl41">Canada</label>  
+                </li>
+                <li>
+                  <input id="lbl44" name="idNazioneSelezionata" type="radio" value="44">
+                  <label for="lbl44">Cayman Islands (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl47" name="idNazioneSelezionata" type="radio" value="47">
+                  <label for="lbl47">Channel Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl52" name="idNazioneSelezionata" type="radio" value="52">
+                  <label for="lbl52">Costa Rica</label>  
+                </li>
+                <li>
+                  <input id="lbl55" name="idNazioneSelezionata" type="radio" value="55">
+                  <label for="lbl55">Cuba</label>  
+                </li>
+                <li>
+                  <input id="lbl66" name="idNazioneSelezionata" type="radio" value="66">
+                  <label for="lbl66">El Salvador</label>  
+                </li>
+                <li>
+                  <input id="lbl87" name="idNazioneSelezionata" type="radio" value="87">
+                  <label for="lbl87">Greenland (Denmark)</label>  
+                </li>
+                <li>
+                  <input id="lbl96" name="idNazioneSelezionata" type="radio" value="96">
+                  <label for="lbl96">Haiti</label>  
+                </li>
+                <li>
+                  <input id="lbl109" name="idNazioneSelezionata" type="radio" value="109">
+                  <label for="lbl109">Jamaica</label>  
+                </li>
+                <li>
+                  <input id="lbl140" name="idNazioneSelezionata" type="radio" value="140">
+                  <label for="lbl140">Mexico</label>  
+                </li>
+                <li>
+                  <input id="lbl155" name="idNazioneSelezionata" type="radio" value="155">
+                  <label for="lbl155">Nevis</label>  
+                </li>
+                <li>
+                  <input id="lbl191" name="idNazioneSelezionata" type="radio" value="191">
+                  <label for="lbl191">Saint-Pierre and Miqu ...</label>  
+                </li>
+                <li>
+                  <input id="lbl226" name="idNazioneSelezionata" type="radio" value="226">
+                  <label for="lbl226">The Bahamas</label>  
+                </li>
+                <li>
+                  <input id="lbl236" name="idNazioneSelezionata" type="radio" value="236">
+                  <label for="lbl236">Turks and Caicos Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl237" name="idNazioneSelezionata" type="radio" value="237">
+                  <label for="lbl237">Turks and Caicos Isla ...</label>  
+                </li>
+                <li>
+                  <input id="lbl239" name="idNazioneSelezionata" type="radio" value="239">
+                  <label for="lbl239">U.S. Virgin Islands (US)</label>  
+                </li>
+                <li>
+                  <input id="lbl244" name="idNazioneSelezionata" type="radio" value="244">
+                  <label for="lbl244">United States Minor O ...</label>  
+                </li>
+                <li>
+                  <input checked="checked" id="lbl246" name="idNazioneSelezionata" type="radio" value="246">
+                  <label for="lbl246">USA</label>  
+                </li>
+            </ul>
+          </div>
+          <h5 class="">Asia</h5>
+          <div id="zona-3" class="box hidden">
+            <ul class="list">
+                <li>
+                  <input id="lbl1" name="idNazioneSelezionata" type="radio" value="1">
+                  <label for="lbl1">Afghanistan</label>  
+                </li>
+                <li>
+                  <input id="lbl9" name="idNazioneSelezionata" type="radio" value="9">
+                  <label for="lbl9">Antarctica</label>  
+                </li>
+                <li>
+                  <input id="lbl12" name="idNazioneSelezionata" type="radio" value="12">
+                  <label for="lbl12">Armenia</label>  
+                </li>
+                <li>
+                  <input id="lbl16" name="idNazioneSelezionata" type="radio" value="16">
+                  <label for="lbl16">Azerbaijan</label>  
+                </li>
+                <li>
+                  <input id="lbl17" name="idNazioneSelezionata" type="radio" value="17">
+                  <label for="lbl17">Bahrain</label>  
+                </li>
+                <li>
+                  <input id="lbl19" name="idNazioneSelezionata" type="radio" value="19">
+                  <label for="lbl19">Bangladesh</label>  
+                </li>
+                <li>
+                  <input id="lbl26" name="idNazioneSelezionata" type="radio" value="26">
+                  <label for="lbl26">Bhutan</label>  
+                </li>
+                <li>
+                  <input id="lbl33" name="idNazioneSelezionata" type="radio" value="33">
+                  <label for="lbl33">British Indian Ocean  ...</label>  
+                </li>
+                <li>
+                  <input id="lbl35" name="idNazioneSelezionata" type="radio" value="35">
+                  <label for="lbl35">Brunei</label>  
+                </li>
+                <li>
+                  <input id="lbl39" name="idNazioneSelezionata" type="radio" value="39">
+                  <label for="lbl39">Cambodia</label>  
+                </li>
+                <li>
+                  <input id="lbl57" name="idNazioneSelezionata" type="radio" value="57">
+                  <label for="lbl57">Cyprus</label>  
+                </li>
+                <li>
+                  <input id="lbl63" name="idNazioneSelezionata" type="radio" value="63">
+                  <label for="lbl63">East Timor</label>  
+                </li>
+                <li>
+                  <input id="lbl81" name="idNazioneSelezionata" type="radio" value="81">
+                  <label for="lbl81">Georgia (CSI)</label>  
+                </li>
+                <li>
+                  <input id="lbl99" name="idNazioneSelezionata" type="radio" value="99">
+                  <label for="lbl99">Hong Kong</label>  
+                </li>
+                <li>
+                  <input id="lbl102" name="idNazioneSelezionata" type="radio" value="102">
+                  <label for="lbl102">India</label>  
+                </li>
+                <li>
+                  <input id="lbl104" name="idNazioneSelezionata" type="radio" value="104">
+                  <label for="lbl104">Iran</label>  
+                </li>
+                <li>
+                  <input id="lbl105" name="idNazioneSelezionata" type="radio" value="105">
+                  <label for="lbl105">Iraq</label>  
+                </li>
+                <li>
+                  <input id="lbl107" name="idNazioneSelezionata" type="radio" value="107">
+                  <label for="lbl107">Israel</label>  
+                </li>
+                <li>
+                  <input id="lbl110" name="idNazioneSelezionata" type="radio" value="110">
+                  <label for="lbl110">Japan</label>  
+                </li>
+                <li>
+                  <input id="lbl112" name="idNazioneSelezionata" type="radio" value="112">
+                  <label for="lbl112">Jordan</label>  
+                </li>
+                <li>
+                  <input id="lbl113" name="idNazioneSelezionata" type="radio" value="113">
+                  <label for="lbl113">Kazakhstan</label>  
+                </li>
+                <li>
+                  <input id="lbl116" name="idNazioneSelezionata" type="radio" value="116">
+                  <label for="lbl116">Kuwait</label>  
+                </li>
+                <li>
+                  <input id="lbl117" name="idNazioneSelezionata" type="radio" value="117">
+                  <label for="lbl117">Kyrgyzstan</label>  
+                </li>
+                <li>
+                  <input id="lbl118" name="idNazioneSelezionata" type="radio" value="118">
+                  <label for="lbl118">Laos</label>  
+                </li>
+                <li>
+                  <input id="lbl120" name="idNazioneSelezionata" type="radio" value="120">
+                  <label for="lbl120">Lebanon</label>  
+                </li>
+                <li>
+                  <input id="lbl127" name="idNazioneSelezionata" type="radio" value="127">
+                  <label for="lbl127">Macau</label>  
+                </li>
+                <li>
+                  <input id="lbl131" name="idNazioneSelezionata" type="radio" value="131">
+                  <label for="lbl131">Malaysia</label>  
+                </li>
+                <li>
+                  <input id="lbl132" name="idNazioneSelezionata" type="radio" value="132">
+                  <label for="lbl132">Maldives</label>  
+                </li>
+                <li>
+                  <input id="lbl143" name="idNazioneSelezionata" type="radio" value="143">
+                  <label for="lbl143">Mongolia</label>  
+                </li>
+                <li>
+                  <input id="lbl148" name="idNazioneSelezionata" type="radio" value="148">
+                  <label for="lbl148">Myanmar (Burma)</label>  
+                </li>
+                <li>
+                  <input id="lbl149" name="idNazioneSelezionata" type="radio" value="149">
+                  <label for="lbl149">Nagorno-Karabakh</label>  
+                </li>
+                <li>
+                  <input id="lbl152" name="idNazioneSelezionata" type="radio" value="152">
+                  <label for="lbl152">Nepal</label>  
+                </li>
+                <li>
+                  <input id="lbl163" name="idNazioneSelezionata" type="radio" value="163">
+                  <label for="lbl163">North Korea</label>  
+                </li>
+                <li>
+                  <input id="lbl166" name="idNazioneSelezionata" type="radio" value="166">
+                  <label for="lbl166">Oman</label>  
+                </li>
+                <li>
+                  <input id="lbl167" name="idNazioneSelezionata" type="radio" value="167">
+                  <label for="lbl167">Pakistan</label>  
+                </li>
+                <li>
+                  <input id="lbl169" name="idNazioneSelezionata" type="radio" value="169">
+                  <label for="lbl169">Palestine</label>  
+                </li>
+                <li>
+                  <input id="lbl173" name="idNazioneSelezionata" type="radio" value="173">
+                  <label for="lbl173">People's Republic of  ...</label>  
+                </li>
+                <li>
+                  <input id="lbl175" name="idNazioneSelezionata" type="radio" value="175">
+                  <label for="lbl175">Philippines</label>  
+                </li>
+                <li>
+                  <input id="lbl180" name="idNazioneSelezionata" type="radio" value="180">
+                  <label for="lbl180">Qatar</label>  
+                </li>
+                <li>
+                  <input id="lbl196" name="idNazioneSelezionata" type="radio" value="196">
+                  <label for="lbl196">Saudi Arabia</label>  
+                </li>
+                <li>
+                  <input id="lbl202" name="idNazioneSelezionata" type="radio" value="202">
+                  <label for="lbl202">Singapore</label>  
+                </li>
+                <li>
+                  <input id="lbl209" name="idNazioneSelezionata" type="radio" value="209">
+                  <label for="lbl209">South Korea</label>  
+                </li>
+                <li>
+                  <input id="lbl211" name="idNazioneSelezionata" type="radio" value="211">
+                  <label for="lbl211">Sri Lanka</label>  
+                </li>
+                <li>
+                  <input id="lbl220" name="idNazioneSelezionata" type="radio" value="220">
+                  <label for="lbl220">Syria</label>  
+                </li>
+                <li>
+                  <input id="lbl221" name="idNazioneSelezionata" type="radio" value="221">
+                  <label for="lbl221">Tadjikistan</label>  
+                </li>
+                <li>
+                  <input id="lbl223" name="idNazioneSelezionata" type="radio" value="223">
+                  <label for="lbl223">Taiwan</label>  
+                </li>
+                <li>
+                  <input id="lbl225" name="idNazioneSelezionata" type="radio" value="225">
+                  <label for="lbl225">Thailand</label>  
+                </li>
+                <li>
+                  <input id="lbl233" name="idNazioneSelezionata" type="radio" value="233">
+                  <label for="lbl233">Turkey</label>  
+                </li>
+                <li>
+                  <input id="lbl234" name="idNazioneSelezionata" type="radio" value="234">
+                  <label for="lbl234">Turkish Republic of N ...</label>  
+                </li>
+                <li>
+                  <input id="lbl235" name="idNazioneSelezionata" type="radio" value="235">
+                  <label for="lbl235">Turkmenistan</label>  
+                </li>
+                <li>
+                  <input id="lbl242" name="idNazioneSelezionata" type="radio" value="242">
+                  <label for="lbl242">United Arab Emirates</label>  
+                </li>
+                <li>
+                  <input id="lbl247" name="idNazioneSelezionata" type="radio" value="247">
+                  <label for="lbl247">Uzbekistan</label>  
+                </li>
+                <li>
+                  <input id="lbl251" name="idNazioneSelezionata" type="radio" value="251">
+                  <label for="lbl251">Vietnam</label>  
+                </li>
+                <li>
+                  <input id="lbl253" name="idNazioneSelezionata" type="radio" value="253">
+                  <label for="lbl253">Yemen</label>  
+                </li>
+            </ul>
+          </div>
+          <h5 class="">Oceania</h5>
+          <div id="zona-4" class="box hidden">
+            <ul class="list">
+                <li>
+                  <input id="lbl5" name="idNazioneSelezionata" type="radio" value="5">
+                  <label for="lbl5">American Samoa (US)</label>  
+                </li>
+                <li>
+                  <input id="lbl14" name="idNazioneSelezionata" type="radio" value="14">
+                  <label for="lbl14">Australia</label>  
+                </li>
+                <li>
+                  <input id="lbl51" name="idNazioneSelezionata" type="radio" value="51">
+                  <label for="lbl51">Cook Islands (NZ)</label>  
+                </li>
+                <li>
+                  <input id="lbl73" name="idNazioneSelezionata" type="radio" value="73">
+                  <label for="lbl73">Federated States of M ...</label>  
+                </li>
+                <li>
+                  <input id="lbl74" name="idNazioneSelezionata" type="radio" value="74">
+                  <label for="lbl74">Fiji</label>  
+                </li>
+                <li>
+                  <input id="lbl78" name="idNazioneSelezionata" type="radio" value="78">
+                  <label for="lbl78">French Polynesia (Fra ...</label>  
+                </li>
+                <li>
+                  <input id="lbl90" name="idNazioneSelezionata" type="radio" value="90">
+                  <label for="lbl90">Guam (US)</label>  
+                </li>
+                <li>
+                  <input id="lbl97" name="idNazioneSelezionata" type="radio" value="97">
+                  <label for="lbl97">Heard Island And Mcdo ...</label>  
+                </li>
+                <li>
+                  <input id="lbl103" name="idNazioneSelezionata" type="radio" value="103">
+                  <label for="lbl103">Indonesia</label>  
+                </li>
+                <li>
+                  <input id="lbl115" name="idNazioneSelezionata" type="radio" value="115">
+                  <label for="lbl115">Kiribati</label>  
+                </li>
+                <li>
+                  <input id="lbl135" name="idNazioneSelezionata" type="radio" value="135">
+                  <label for="lbl135">Marshall Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl151" name="idNazioneSelezionata" type="radio" value="151">
+                  <label for="lbl151">Nauru</label>  
+                </li>
+                <li>
+                  <input id="lbl156" name="idNazioneSelezionata" type="radio" value="156">
+                  <label for="lbl156">New Caledonia (France)</label>  
+                </li>
+                <li>
+                  <input id="lbl157" name="idNazioneSelezionata" type="radio" value="157">
+                  <label for="lbl157">New Zealand</label>  
+                </li>
+                <li>
+                  <input id="lbl161" name="idNazioneSelezionata" type="radio" value="161">
+                  <label for="lbl161">Niue (NZ)</label>  
+                </li>
+                <li>
+                  <input id="lbl162" name="idNazioneSelezionata" type="radio" value="162">
+                  <label for="lbl162">Norfolk Island</label>  
+                </li>
+                <li>
+                  <input id="lbl164" name="idNazioneSelezionata" type="radio" value="164">
+                  <label for="lbl164">Northern Mariana Isla ...</label>  
+                </li>
+                <li>
+                  <input id="lbl168" name="idNazioneSelezionata" type="radio" value="168">
+                  <label for="lbl168">Palau</label>  
+                </li>
+                <li>
+                  <input id="lbl171" name="idNazioneSelezionata" type="radio" value="171">
+                  <label for="lbl171">Papua New Guinea</label>  
+                </li>
+                <li>
+                  <input id="lbl176" name="idNazioneSelezionata" type="radio" value="176">
+                  <label for="lbl176">Pitcairn Islands (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl192" name="idNazioneSelezionata" type="radio" value="192">
+                  <label for="lbl192">Saipan</label>  
+                </li>
+                <li>
+                  <input id="lbl193" name="idNazioneSelezionata" type="radio" value="193">
+                  <label for="lbl193">Samoa American</label>  
+                </li>
+                <li>
+                  <input id="lbl205" name="idNazioneSelezionata" type="radio" value="205">
+                  <label for="lbl205">Solomon Islands</label>  
+                </li>
+                <li>
+                  <input id="lbl222" name="idNazioneSelezionata" type="radio" value="222">
+                  <label for="lbl222">Tahiti</label>  
+                </li>
+                <li>
+                  <input id="lbl229" name="idNazioneSelezionata" type="radio" value="229">
+                  <label for="lbl229">Tokelau</label>  
+                </li>
+                <li>
+                  <input id="lbl230" name="idNazioneSelezionata" type="radio" value="230">
+                  <label for="lbl230">Tonga</label>  
+                </li>
+                <li>
+                  <input id="lbl238" name="idNazioneSelezionata" type="radio" value="238">
+                  <label for="lbl238">Tuvalu</label>  
+                </li>
+                <li>
+                  <input id="lbl248" name="idNazioneSelezionata" type="radio" value="248">
+                  <label for="lbl248">Vanuatu</label>  
+                </li>
+                <li>
+                  <input id="lbl252" name="idNazioneSelezionata" type="radio" value="252">
+                  <label for="lbl252">Wallis and Futuna (Fr ...</label>  
+                </li>
+            </ul>
+          </div>
+          <h5 class="">South America</h5>
+          <div id="zona-5" class="box hidden">
+            <ul class="list">
+                <li>
+                  <input id="lbl11" name="idNazioneSelezionata" type="radio" value="11">
+                  <label for="lbl11">Argentina</label>  
+                </li>
+                <li>
+                  <input id="lbl27" name="idNazioneSelezionata" type="radio" value="27">
+                  <label for="lbl27">Bolivia</label>  
+                </li>
+                <li>
+                  <input id="lbl28" name="idNazioneSelezionata" type="radio" value="28">
+                  <label for="lbl28">Bonaire</label>  
+                </li>
+                <li>
+                  <input id="lbl32" name="idNazioneSelezionata" type="radio" value="32">
+                  <label for="lbl32">Brazil</label>  
+                </li>
+                <li>
+                  <input id="lbl48" name="idNazioneSelezionata" type="radio" value="48">
+                  <label for="lbl48">Chile</label>  
+                </li>
+                <li>
+                  <input id="lbl49" name="idNazioneSelezionata" type="radio" value="49">
+                  <label for="lbl49">Colombia</label>  
+                </li>
+                <li>
+                  <input id="lbl56" name="idNazioneSelezionata" type="radio" value="56">
+                  <label for="lbl56">Curacao</label>  
+                </li>
+                <li>
+                  <input id="lbl61" name="idNazioneSelezionata" type="radio" value="61">
+                  <label for="lbl61">Dominica</label>  
+                </li>
+                <li>
+                  <input id="lbl62" name="idNazioneSelezionata" type="radio" value="62">
+                  <label for="lbl62">Dominican Republic</label>  
+                </li>
+                <li>
+                  <input id="lbl64" name="idNazioneSelezionata" type="radio" value="64">
+                  <label for="lbl64">Ecuador</label>  
+                </li>
+                <li>
+                  <input id="lbl71" name="idNazioneSelezionata" type="radio" value="71">
+                  <label for="lbl71">Falkland Islands (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl77" name="idNazioneSelezionata" type="radio" value="77">
+                  <label for="lbl77">French Guiana (France)</label>  
+                </li>
+                <li>
+                  <input id="lbl88" name="idNazioneSelezionata" type="radio" value="88">
+                  <label for="lbl88">Grenada</label>  
+                </li>
+                <li>
+                  <input id="lbl89" name="idNazioneSelezionata" type="radio" value="89">
+                  <label for="lbl89">Guadeloupe (France)</label>  
+                </li>
+                <li>
+                  <input id="lbl91" name="idNazioneSelezionata" type="radio" value="91">
+                  <label for="lbl91">Guatemala</label>  
+                </li>
+                <li>
+                  <input id="lbl95" name="idNazioneSelezionata" type="radio" value="95">
+                  <label for="lbl95">Guyana (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl98" name="idNazioneSelezionata" type="radio" value="98">
+                  <label for="lbl98">Honduras</label>  
+                </li>
+                <li>
+                  <input id="lbl136" name="idNazioneSelezionata" type="radio" value="136">
+                  <label for="lbl136">Martinique (France)</label>  
+                </li>
+                <li>
+                  <input id="lbl145" name="idNazioneSelezionata" type="radio" value="145">
+                  <label for="lbl145">Montserrat (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl154" name="idNazioneSelezionata" type="radio" value="154">
+                  <label for="lbl154">Netherlands Antilles  ...</label>  
+                </li>
+                <li>
+                  <input id="lbl158" name="idNazioneSelezionata" type="radio" value="158">
+                  <label for="lbl158">Nicaragua</label>  
+                </li>
+                <li>
+                  <input id="lbl170" name="idNazioneSelezionata" type="radio" value="170">
+                  <label for="lbl170">Panama</label>  
+                </li>
+                <li>
+                  <input id="lbl172" name="idNazioneSelezionata" type="radio" value="172">
+                  <label for="lbl172">Paraguay</label>  
+                </li>
+                <li>
+                  <input id="lbl174" name="idNazioneSelezionata" type="radio" value="174">
+                  <label for="lbl174">Peru</label>  
+                </li>
+                <li>
+                  <input id="lbl179" name="idNazioneSelezionata" type="radio" value="179">
+                  <label for="lbl179">Puerto Rico (US)</label>  
+                </li>
+                <li>
+                  <input id="lbl188" name="idNazioneSelezionata" type="radio" value="188">
+                  <label for="lbl188">Saint Kitts and Nevis</label>  
+                </li>
+                <li>
+                  <input id="lbl189" name="idNazioneSelezionata" type="radio" value="189">
+                  <label for="lbl189">Saint Lucia</label>  
+                </li>
+                <li>
+                  <input id="lbl190" name="idNazioneSelezionata" type="radio" value="190">
+                  <label for="lbl190">Saint Vincent and the ...</label>  
+                </li>
+                <li>
+                  <input id="lbl208" name="idNazioneSelezionata" type="radio" value="208">
+                  <label for="lbl208">South Georgia And Sou ...</label>  
+                </li>
+                <li>
+                  <input id="lbl212" name="idNazioneSelezionata" type="radio" value="212">
+                  <label for="lbl212">St. Barthelemy</label>  
+                </li>
+                <li>
+                  <input id="lbl213" name="idNazioneSelezionata" type="radio" value="213">
+                  <label for="lbl213">St. Eustatius</label>  
+                </li>
+                <li>
+                  <input id="lbl214" name="idNazioneSelezionata" type="radio" value="214">
+                  <label for="lbl214">St. Maarten</label>  
+                </li>
+                <li>
+                  <input id="lbl216" name="idNazioneSelezionata" type="radio" value="216">
+                  <label for="lbl216">Suriname</label>  
+                </li>
+                <li>
+                  <input id="lbl231" name="idNazioneSelezionata" type="radio" value="231">
+                  <label for="lbl231">Trinidad &amp; Tobago</label>  
+                </li>
+                <li>
+                  <input id="lbl245" name="idNazioneSelezionata" type="radio" value="245">
+                  <label for="lbl245">Uruguay</label>  
+                </li>
+                <li>
+                  <input id="lbl250" name="idNazioneSelezionata" type="radio" value="250">
+                  <label for="lbl250">Venezuela</label>  
+                </li>
+            </ul>
+          </div>
+          <h5 class="">Africa</h5>
+          <div id="zona-6" class="box hidden">
+            <ul class="list">
+                <li>
+                  <input id="lbl4" name="idNazioneSelezionata" type="radio" value="4">
+                  <label for="lbl4">Algeria</label>  
+                </li>
+                <li>
+                  <input id="lbl7" name="idNazioneSelezionata" type="radio" value="7">
+                  <label for="lbl7">Angola</label>  
+                </li>
+                <li>
+                  <input id="lbl24" name="idNazioneSelezionata" type="radio" value="24">
+                  <label for="lbl24">Benin</label>  
+                </li>
+                <li>
+                  <input id="lbl30" name="idNazioneSelezionata" type="radio" value="30">
+                  <label for="lbl30">Botsawa</label>  
+                </li>
+                <li>
+                  <input id="lbl37" name="idNazioneSelezionata" type="radio" value="37">
+                  <label for="lbl37">Burkina Faso</label>  
+                </li>
+                <li>
+                  <input id="lbl38" name="idNazioneSelezionata" type="radio" value="38">
+                  <label for="lbl38">Burundi</label>  
+                </li>
+                <li>
+                  <input id="lbl40" name="idNazioneSelezionata" type="radio" value="40">
+                  <label for="lbl40">Cameroon</label>  
+                </li>
+                <li>
+                  <input id="lbl43" name="idNazioneSelezionata" type="radio" value="43">
+                  <label for="lbl43">Cape Verde</label>  
+                </li>
+                <li>
+                  <input id="lbl45" name="idNazioneSelezionata" type="radio" value="45">
+                  <label for="lbl45">Central African Republic</label>  
+                </li>
+                <li>
+                  <input id="lbl46" name="idNazioneSelezionata" type="radio" value="46">
+                  <label for="lbl46">Chad</label>  
+                </li>
+                <li>
+                  <input id="lbl50" name="idNazioneSelezionata" type="radio" value="50">
+                  <label for="lbl50">Comoros</label>  
+                </li>
+                <li>
+                  <input id="lbl53" name="idNazioneSelezionata" type="radio" value="53">
+                  <label for="lbl53">Côte d'Ivoire</label>  
+                </li>
+                <li>
+                  <input id="lbl59" name="idNazioneSelezionata" type="radio" value="59">
+                  <label for="lbl59">Democratic Republic o ...</label>  
+                </li>
+                <li>
+                  <input id="lbl65" name="idNazioneSelezionata" type="radio" value="65">
+                  <label for="lbl65">Egypt</label>  
+                </li>
+                <li>
+                  <input id="lbl67" name="idNazioneSelezionata" type="radio" value="67">
+                  <label for="lbl67">Equatorial Guinea</label>  
+                </li>
+                <li>
+                  <input id="lbl68" name="idNazioneSelezionata" type="radio" value="68">
+                  <label for="lbl68">Eritrea</label>  
+                </li>
+                <li>
+                  <input id="lbl70" name="idNazioneSelezionata" type="radio" value="70">
+                  <label for="lbl70">Ethiopia</label>  
+                </li>
+                <li>
+                  <input id="lbl79" name="idNazioneSelezionata" type="radio" value="79">
+                  <label for="lbl79">Gabon</label>  
+                </li>
+                <li>
+                  <input id="lbl80" name="idNazioneSelezionata" type="radio" value="80">
+                  <label for="lbl80">Gambia</label>  
+                </li>
+                <li>
+                  <input id="lbl83" name="idNazioneSelezionata" type="radio" value="83">
+                  <label for="lbl83">Ghana</label>  
+                </li>
+                <li>
+                  <input id="lbl84" name="idNazioneSelezionata" type="radio" value="84">
+                  <label for="lbl84">Gibouti</label>  
+                </li>
+                <li>
+                  <input id="lbl93" name="idNazioneSelezionata" type="radio" value="93">
+                  <label for="lbl93">Guinea Bissau</label>  
+                </li>
+                <li>
+                  <input id="lbl94" name="idNazioneSelezionata" type="radio" value="94">
+                  <label for="lbl94">Guinea, Republic of </label>  
+                </li>
+                <li>
+                  <input id="lbl114" name="idNazioneSelezionata" type="radio" value="114">
+                  <label for="lbl114">Kenya</label>  
+                </li>
+                <li>
+                  <input id="lbl121" name="idNazioneSelezionata" type="radio" value="121">
+                  <label for="lbl121">Lesotho</label>  
+                </li>
+                <li>
+                  <input id="lbl122" name="idNazioneSelezionata" type="radio" value="122">
+                  <label for="lbl122">Liberia</label>  
+                </li>
+                <li>
+                  <input id="lbl123" name="idNazioneSelezionata" type="radio" value="123">
+                  <label for="lbl123">Libya</label>  
+                </li>
+                <li>
+                  <input id="lbl129" name="idNazioneSelezionata" type="radio" value="129">
+                  <label for="lbl129">Madagascar</label>  
+                </li>
+                <li>
+                  <input id="lbl130" name="idNazioneSelezionata" type="radio" value="130">
+                  <label for="lbl130">Malawi</label>  
+                </li>
+                <li>
+                  <input id="lbl133" name="idNazioneSelezionata" type="radio" value="133">
+                  <label for="lbl133">Mali</label>  
+                </li>
+                <li>
+                  <input id="lbl137" name="idNazioneSelezionata" type="radio" value="137">
+                  <label for="lbl137">Mauritania</label>  
+                </li>
+                <li>
+                  <input id="lbl138" name="idNazioneSelezionata" type="radio" value="138">
+                  <label for="lbl138">Mauritius</label>  
+                </li>
+                <li>
+                  <input id="lbl139" name="idNazioneSelezionata" type="radio" value="139">
+                  <label for="lbl139">Mayotte</label>  
+                </li>
+                <li>
+                  <input id="lbl146" name="idNazioneSelezionata" type="radio" value="146">
+                  <label for="lbl146">Morocco</label>  
+                </li>
+                <li>
+                  <input id="lbl147" name="idNazioneSelezionata" type="radio" value="147">
+                  <label for="lbl147">Mozambique</label>  
+                </li>
+                <li>
+                  <input id="lbl150" name="idNazioneSelezionata" type="radio" value="150">
+                  <label for="lbl150">Namibia</label>  
+                </li>
+                <li>
+                  <input id="lbl159" name="idNazioneSelezionata" type="radio" value="159">
+                  <label for="lbl159">Niger</label>  
+                </li>
+                <li>
+                  <input id="lbl160" name="idNazioneSelezionata" type="radio" value="160">
+                  <label for="lbl160">Nigeria</label>  
+                </li>
+                <li>
+                  <input id="lbl182" name="idNazioneSelezionata" type="radio" value="182">
+                  <label for="lbl182">Republic of the Congo</label>  
+                </li>
+                <li>
+                  <input id="lbl183" name="idNazioneSelezionata" type="radio" value="183">
+                  <label for="lbl183">Réunion (France)</label>  
+                </li>
+                <li>
+                  <input id="lbl186" name="idNazioneSelezionata" type="radio" value="186">
+                  <label for="lbl186">Rwanda</label>  
+                </li>
+                <li>
+                  <input id="lbl187" name="idNazioneSelezionata" type="radio" value="187">
+                  <label for="lbl187">Saint Helena (UK)</label>  
+                </li>
+                <li>
+                  <input id="lbl195" name="idNazioneSelezionata" type="radio" value="195">
+                  <label for="lbl195">Sao Tome' &amp; Principe</label>  
+                </li>
+                <li>
+                  <input id="lbl197" name="idNazioneSelezionata" type="radio" value="197">
+                  <label for="lbl197">Senegal</label>  
+                </li>
+                <li>
+                  <input id="lbl200" name="idNazioneSelezionata" type="radio" value="200">
+                  <label for="lbl200">Seychelles</label>  
+                </li>
+                <li>
+                  <input id="lbl201" name="idNazioneSelezionata" type="radio" value="201">
+                  <label for="lbl201">Sierra Leone</label>  
+                </li>
+                <li>
+                  <input id="lbl206" name="idNazioneSelezionata" type="radio" value="206">
+                  <label for="lbl206">Somalia</label>  
+                </li>
+                <li>
+                  <input id="lbl207" name="idNazioneSelezionata" type="radio" value="207">
+                  <label for="lbl207">South Africa</label>  
+                </li>
+                <li>
+                  <input id="lbl215" name="idNazioneSelezionata" type="radio" value="215">
+                  <label for="lbl215">Sudan</label>  
+                </li>
+                <li>
+                  <input id="lbl217" name="idNazioneSelezionata" type="radio" value="217">
+                  <label for="lbl217">Swaziland</label>  
+                </li>
+                <li>
+                  <input id="lbl224" name="idNazioneSelezionata" type="radio" value="224">
+                  <label for="lbl224">Tanzania</label>  
+                </li>
+                <li>
+                  <input id="lbl227" name="idNazioneSelezionata" type="radio" value="227">
+                  <label for="lbl227">The Gambia</label>  
+                </li>
+                <li>
+                  <input id="lbl228" name="idNazioneSelezionata" type="radio" value="228">
+                  <label for="lbl228">Togo</label>  
+                </li>
+                <li>
+                  <input id="lbl232" name="idNazioneSelezionata" type="radio" value="232">
+                  <label for="lbl232">Tunisia</label>  
+                </li>
+                <li>
+                  <input id="lbl240" name="idNazioneSelezionata" type="radio" value="240">
+                  <label for="lbl240">Uganda</label>  
+                </li>
+                <li>
+                  <input id="lbl254" name="idNazioneSelezionata" type="radio" value="254">
+                  <label for="lbl254">Zambia</label>  
+                </li>
+                <li>
+                  <input id="lbl255" name="idNazioneSelezionata" type="radio" value="255">
+                  <label for="lbl255">Zimbabwe</label>  
+                </li>
+            </ul>
+          </div>
+      </div>
+
+      <div class="right">
+        <h3>CURRENCY</h3>
+        <h4>CURRENT SELECTION: <b>$ USD</b></h4>
+        <div class="box">
+          <ul class="list">
+              <li>
+                <input id="tasso-1" name="idTassoCambioSelezionato" type="radio" value="1">
+                <label for="tasso-1">€ EUR</label>
+              </li>
+              <li>
+                <input checked="checked" id="tasso-2" name="idTassoCambioSelezionato" type="radio" value="2">
+                <label for="tasso-2">$ USD</label>
+              </li>
+              <li>
+                <input id="tasso-3" name="idTassoCambioSelezionato" type="radio" value="3">
+                <label for="tasso-3">£ GBP</label>
+              </li>
+              <li>
+                <input id="tasso-4" name="idTassoCambioSelezionato" type="radio" value="4">
+                <label for="tasso-4">¥ JPY</label>
+              </li>
+              <li>
+                <input id="tasso-5" name="idTassoCambioSelezionato" type="radio" value="5">
+                <label for="tasso-5">C$ CAD</label>
+              </li>
+              <li>
+                <input id="tasso-6" name="idTassoCambioSelezionato" type="radio" value="6">
+                <label for="tasso-6">A$ AUD</label>
+              </li>
+              <li>
+                <input id="tasso-7" name="idTassoCambioSelezionato" type="radio" value="7">
+                <label for="tasso-7">₩ KRW</label>
+              </li>
+              <li>
+                <input id="tasso-8" name="idTassoCambioSelezionato" type="radio" value="8">
+                <label for="tasso-8">HK$ HKD</label>
+              </li>
+              <li>
+                <input id="tasso-9" name="idTassoCambioSelezionato" type="radio" value="9">
+                <label for="tasso-9">¥ CNY</label>
+              </li>
+          </ul>
+        </div>
+
+        <h3>LANGUAGE</h3>
+        <h4>CURRENT SELECTION: <b>English</b></h4>
+        <div class="box">
+          <ul class="list">
+              <li>
+                <input id="lingua-1" name="urlLingua" type="radio" value="it-IT">
+                <label for="lingua-1">Italiano</label>
+              </li>
+              <li>
+                <input checked="checked" id="lingua-2" name="urlLingua" type="radio" value="en-US">
+                <label for="lingua-2">English</label>
+              </li>
+              <li>
+                <input id="lingua-3" name="urlLingua" type="radio" value="ko-KR">
+                <label for="lingua-3">Korean</label>
+              </li>
+              <li>
+                <input id="lingua-4" name="urlLingua" type="radio" value="ja-JP">
+                <label for="lingua-4">Japanese</label>
+              </li>
+          </ul>
+        </div>
+
+        <button class="save" type="submit">SAVE CHANGES</button>
       </div>
     </div>
-  </div>
+</form></div>
 </div>
 
-  
+    
 <div class="policy stage clearfix">
   <ul class="menu">
     <li><a class="" href="/en-US/company/policy/use">TERMS OF USE</a></li>
@@ -349,65 +1293,65 @@
 
 
 
-  <div class="footer">
-  <div class="stage">
-    <div class="clearfix">
-      <div class="col">
-        <h6>CUSTOMER CARE</h6>
-        <ul>
-          <li><a href="/en-US/company/policy/use" rel="nofollow">TERMS OF USE</a></li>
-          <li><a href="/en-US/company/policy/payment" rel="nofollow">CONDITIONS OF SALE</a></li>
-          <li><a href="/en-US/company/policy/shipping" rel="nofollow">SHIPPING POLICY</a></li>
-          <li><a href="/en-US/company/policy/return" rel="nofollow">RETURN POLICY</a></li>
-          <li><a href="/en-US/company/policy/privacy" rel="nofollow">PRIVACY POLICY</a></li>
-        </ul>
-      </div>
-      <div class="col">
-        <h6>ABOUT US</h6>
-        <ul>
-          <li><a href="/en-US/company/affiliation">AFFILIATES</a></li>
-          <li><a href="/en-US/company" rel="nofollow">ABOUT</a></li>
-          <li><a href="/en-US/company/jobopportunities" rel="nofollow">JOB OPPORTUNITIES</a></li>
-          <li><a href="/en-US/company/contactus">CONTACT US</a></li>
-        </ul>
-      </div>
-      <div class="col">
-        <h6>USER PREFERENCES</h6>
-        <ul>
-          <li><a href="/en-US/user/modify" rel="nofollow">USER PROFILE</a></li>
-          <li><a href="/en-US/user/orders" rel="nofollow">MY ORDERS</a></li>
-          <li><a href="/en-US/user/wishlist" rel="nofollow">THE CLUTCHER LIST</a></li>
-          <li><a href="/en-US/newsletter" rel="nofollow">NEWSLETTER</a></li>
-        </ul>
-      </div>
-    </div>
-
+    <div class="footer">
+  <div class="stage clearfix">
     <img class="logo" src="/Content/images/logo-footer.gif" alt="The Clutcher - Shop over the brand" title="The Clutcher - Shop over the brand">
-    <div class="verisign">
-      <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.theclutcher.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-    </div>
-    <img class="pay-options" src="/Content/images/pay-options.jpg" alt="Secure pay options" title="Secure pay options">
-    <div class="follow-us">
-      FOLLOW US ON:
+
+    <div class="col first">
+      <h6>CUSTOMER CARE</h6>
       <ul>
-        <li><a target="_blank" rel="nofollow" href="https://www.facebook.com/theclutcher" class="facebook">facebook</a></li>
-        <li><a target="_blank" rel="nofollow" href="https://twitter.com/the_clutcher" class="twitter">twitter</a></li>
-        
-        <li><a target="_blank" rel="nofollow" href="http://theclutcher.polyvore.com/" class="polyvore">polyvore</a></li>
-        <li><a target="_blank" rel="nofollow" href="https://pinterest.com/theclutcher" class="pinterest">pinterest</a></li>
-        <li><a target="_blank" rel="publisher" href="https://plus.google.com/113528911906459753906" class="plus">Google+</a></li>
+        <li><a href="/en-US/company/policy/use" rel="nofollow">TERMS OF USE</a></li>
+        <li><a href="/en-US/company/policy/payment" rel="nofollow">CONDITIONS OF SALE</a></li>
+        <li><a href="/en-US/company/policy/shipping" rel="nofollow">SHIPPING POLICY</a></li>
+        <li><a href="/en-US/company/policy/return" rel="nofollow">RETURN POLICY</a></li>
+        <li><a href="/en-US/company/policy/privacy" rel="nofollow">PRIVACY POLICY</a></li>
       </ul>
     </div>
-
-    <div class="rea clearfix">
-      P. IVA 04554010266
-
-      <a class="brg" href="http://www.brgcom.it" target="_blank"><img src="/Content/images/brg.gif"></a>
+    <div class="col">
+      <h6>ABOUT US</h6>
+      <ul>
+        <li><a href="/en-US/company/affiliation">AFFILIATES</a></li>
+        <li><a href="/en-US/company" rel="nofollow">ABOUT</a></li>
+        <li><a href="/en-US/company/jobopportunities" rel="nofollow">JOB OPPORTUNITIES</a></li>
+        <li><a href="/en-US/company/contactus">CONTACT US</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h6>user preferences</h6>
+      <ul>
+        <li><a href="/en-US/user/modify" rel="nofollow">USER PROFILE</a></li>
+        <li><a href="/en-US/user/orders" rel="nofollow">MY ORDERS</a></li>
+        <li><a href="/en-US/user/wishlist" rel="nofollow">THE CLUTCHER LIST</a></li>
+        <li><a href="/en-US/newsletter" rel="nofollow">NEWSLETTER</a></li>
+      </ul>
     </div>
   </div>
+
+  <div class="credits">
+    <ul class="follow-us">
+      <li><a target="_blank" rel="nofollow" href="https://www.facebook.com/theclutcher" class="facebook">facebook</a></li>
+      <li><a target="_blank" rel="nofollow" href="https://twitter.com/the_clutcher" class="twitter">twitter</a></li>
+      <li><a target="_blank" rel="nofollow" href="http://theclutcher.polyvore.com/" class="polyvore">polyvore</a></li>
+      <li><a target="_blank" rel="nofollow" href="https://pinterest.com/theclutcher" class="pinterest">pinterest</a></li>
+      <li><a target="_blank" rel="publisher" href="https://plus.google.com/113528911906459753906" class="plus">Google+</a></li>
+    </ul>
+
+    <div class="verisign">
+      <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.theclutcher.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+    </div>
+    
+    <div class="rea">
+      P. IVA 04554010266
+      &nbsp;&nbsp;&nbsp;
+      SITE CREDITS: <a class="brg" href="http://www.brgcom.it" target="_blank">BRG COMMUNICATION</a>
+    </div>
+  </div>
+
+  
 </div>
 
 
+  </div>
 
   <div class="loader"><span class="info">... PLEASE WAIT ...</span></div>
 
@@ -451,9 +1395,12 @@
 
   <script src="//ajax.aspnetcdn.com/ajax/jquery.cycle/2.99/jquery.cycle.all.min.js"></script>
 
-  <script src="/bundles/scripts?v=8XPRwxWeWmMFSCIs2QkLUpQTXqb1bNN9PZSQgDUv_A41"></script>
+  <script src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
 
-  <script src="/bundles/generic?v=WVfx4JtrUdc8aJcIk7HQDgbSwn7Z__xzUZr4R_8iHM81"></script>
+  <script src="/bundles/scripts?v=Fri3F_B7luiGQ86CflxE279Zia0degFHCWvr9wdk4PI1"></script>
+
+
+  <script src="/bundles/generic?v=tU9YMxwDLbIwRpUEQkFZFaWwZRaLj1u_r0LuduG-pAc1"></script>
 
 
   <script>
