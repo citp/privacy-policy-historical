@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleety.org privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418163734id_/http%3A//sleety.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleety.org privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326181136id_/http%3A//sleety.org/privacy-policy) for the most accurate reproduction.*
 
 # sleety.org » Privacy Policy
 
