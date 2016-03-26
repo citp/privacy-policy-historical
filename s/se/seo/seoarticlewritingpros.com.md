@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoarticlewritingpros.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107080138id_/http%3A//seoarticlewritingpros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoarticlewritingpros.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326133102id_/http%3A//seoarticlewritingpros.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - SEO Article Writing Pros
 
