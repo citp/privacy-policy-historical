@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalexcellence.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233852id_/http%3A//personalexcellence.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalexcellence.co privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326230049id_/http%3A//personalexcellence.co/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Personal Excellence
 
@@ -16,9 +16,9 @@ PE offers free electronic newsletters which users have to opt-in to sign up. Dur
 
 PE provides forums where users can interact with each other. Users must register (free of charge) in order to post and reply to messages, although they do not need to register to read the messages. During registration, the user is required to supply a username, password, and email address. These details are only used for forum usage purposes, such as notification of new replies on subscribed threads, notification of new private messages by other users, and so on.
 
-### 3\. “E-mail this to a friend”
+### 3\. “Email this to a friend”
 
-Users can electronically forward a link or page to someone else by clicking “e-mail this to a friend”. The user must provide his/her names and email address, as well as that of the recipient. This information is only used to let the recipient know who sent the email.
+Users can electronically forward a link or page to someone else by clicking “email this to a friend”. The user must provide his/her names and email address, as well as that of the recipient. This information is only used to let the recipient know who sent the email.
 
 ### 4\. User tracking
 
