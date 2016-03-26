@@ -1,13 +1,40 @@
-> *The following text is extracted and transformed from the madewithstudio.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723162821id_/http%3A//www.madewithstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewithstudio.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326045901id_/http%3A//www.madewithstudio.com/privacy) for the most accurate reproduction.*
 
 # Studio / Privacy Policy
 
 ## PRIVACY POLICY
 
-  1. **Privacy** **.**  Use of the Application and the Services allow us to gather information from and about you. This section explains how we treat “ ** _Personal Information_** ” (information about you that is personally identifiable, like your name, address, email address, phone number and age, that may or may not otherwise be publicly available) that we collect when you (i) use the Application; (ii) complete the account registration process via the Application; or (iii) use the Services we offer. 
-    1. General. We collect anonymous and Personal Information about you to provide you the most relevant information, products, programs and services that you request; to constantly improve the features, offerings and content that we provide through the Application; to personalize the content and advertisements provided to you; to determine how you use and respond to the features, offerings and advertisements on the Application; and to help offer you other products, programs or services that may interest you.
-    2. Sharing with Third Parties. We do not share or distribute any of your Personal Information with Third Parties, except those required to provide the Services, such as with our merchant partner to process your monthly payment, our hosting partner which stores your information, and the like.
-    3. Anonymous Information. Even if you do not provide us with any of your Personal Information, we may automatically track and collect other information when you use our Application, including without limitation the information that is made available to us through iOS. We aggregate such information to help us compile reports as to trends and other behavior about users visiting and using the Application; however such information is anonymous and cannot be tied directly to you.
-    4. Cookies. We may also use “cookies” and your Personal Information to enhance your experience on the Application and to provide you with personalized offers. A cookie is a small data file placed on your device’s hard drive that contains information that allows us to track your activity on the Application. The cookie itself does not contain any Personal Information; however, if you provide any Personal Information to us, the cookie may act as an identifier to tie your Personal Information to your IP address or device. You may choose to delete cookies from your device’s hard drive at any time or to disable cookies on your device. If you delete cookies that relate to the Application, we may not be able to identify you upon your return to the Application. Additionally, if you disable your device’s cookies, you may not be able to access certain features of the Application that require that cookies be enabled. The cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. Additionally, our cookies cannot be used as a virus, Trojan horse, worm or any other malicious tool that could impair your use of your device. Our cookies are used to help us better understand how you and other users use the Application so we can continue to provide a better, more personalized user experience on the Application.
+**Types of Information We Collect:**   
+We collect certain information from your mobile device, including but not limited to the following: 
+
+  1. **Location Information** ****  that allows us to periodically determine your location, including your location relative to and within third party merchant locations.
+  2. **Device and Usage Information** ****  that may include (i) information specific to your mobile device (e.g., make, model, operating system, advertising identifier and similar information); (ii) information about your use of features, functions, or notifications on the device; and (iii) signal strength relating to WiFi or Bluetooth functionality, temperature, battery level, and similar technical data.
 
 
+
+We may collect this information even if you are not logged in to the application. 
+
+**_For iOS:_** ****  You should be able to adjust the settings on your iOS mobile device to prevent our collection of Location Information by disabling the location services feature on your device 
+
+**_For Android:_** ****  You should be able to adjust your settings on your Android mobile device to prevent our collection of Location Information be disabling Bluetooth and Location. 
+
+**How We Use the Information We Collect:**   
+We use the information to: 
+
+  1. Operate and improve our services;
+  2. Provide user and other support, including to our third-party business partners;
+  3. Provide you with information when you enter participating local venues; and
+  4. Carry out other purposes that are disclosed to you and to which you consent.
+
+
+
+**Ways We Disclose and Share the Information We Collect:**   
+We share the information we collect with third-party business partners who commit to comply with applicable laws concerning their usage of the information. Our third-party business partners may share the information with their own third party business partners and use the information either for themselves or on behalf of their own business partners to: 
+
+  1. Operate and improve their services;
+  2. Provide you with advertisements and information for products and services in this app or on other apps or websites based on variables such as your location, and assess your level of engagement with them; and
+  3. Carry out other purposes that are disclosed to you and to which you consent.
+
+
+
+We will retain your information for as long as the application is installed on your mobile device or as needed to provide you service. If you remove the application, we will remove your information and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
