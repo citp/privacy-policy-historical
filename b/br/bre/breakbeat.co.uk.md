@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breakbeat.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208035956id_/http%3A//breakbeat.co.uk/privacy-policy-cookie-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakbeat.co.uk privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327000805id_/http%3A//breakbeat.co.uk/privacy-policy-cookie-information) for the most accurate reproduction.*
 
-# Privacy Policy & Cookie Information - Drum & Bass Arena :: Blog
+# Privacy Policy & Cookie Information - Drum&BassArena
 
 At DRUM&BASSARENA, we take pride in ensuring your details are kept safe and secure. We strictly follow the rules and requirements of the UK Data Protection Act 1998. This policy details how we collect and use information that you provide us with when you use our services. Please take time to read through our Privacy Policy, so you know exactly what happens to your information. This policy is subject to change and we would recommend checking back at this page from time to time. 
 
