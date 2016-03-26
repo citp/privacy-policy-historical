@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthlottery.co.uk privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521232647id_/https%3A//www.healthlottery.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthlottery.co.uk privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326081748id_/https%3A//www.healthlottery.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Health Lottery
 
