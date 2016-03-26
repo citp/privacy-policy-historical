@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913122431id_/http%3A//www.acculynx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acculynx.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326011415id_/http%3A//www.acculynx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AccuLynx
+# Privacy Policy
 
 ### Purpose:
 
