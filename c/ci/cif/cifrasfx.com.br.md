@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cifrasfx.com.br privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907041907id_/http%3A//www.megachords.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cifrasfx.com.br privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326104213id_/http%3A//www.megachords.com/policy) for the most accurate reproduction.*
 
 # chords and tabs MegaChords.com
 
