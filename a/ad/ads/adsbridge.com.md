@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914163643id_/https%3A//www.adsbridge.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326180828id_/https%3A//www.adsbridge.com/privacy) for the most accurate reproduction.*
 
-# AdsBridge - Next generation tracker and landing page builder!
+# Privacy Policy of AdsBridge Affiliate Software
 
 ##  Overview 
 
@@ -68,4 +68,4 @@ Please remember that you control what personal information you provide while usi
 
 ###  10\. Contact Us 
 
-If you have any questions or suggestions regarding our Privacy Policy, please  [contact us here](https://web.archive.org/index/contactus). 
+If you have any questions or suggestions regarding our Privacy Policy, please  [contact us here](https://web.archive.org/contactus/). 
