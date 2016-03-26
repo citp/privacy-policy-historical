@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116073437id_/http%3A//www.richmondfc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326054400id_/http%3A//www.richmondfc.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - richmondfc.com.au
 
@@ -134,7 +134,7 @@ by contacting the AFL at [privacy.officer@afl.com.au](mailto:privacy.officer@afl
 ---|---  
 Adelaide Football Club | [privacy.officer@afc.com.au ](mailto:privacy.officer@afc.com.au)  
 Brisbane Lions Football Club | [privacy@lions.com.au](mailto:privacy@lions.com.au)  
-Essendon Football Club | [privacy.officer@essendonfc.com.au](mailto:privacy@essendonfc.com.au)  
+Essendon Football Club | [privacy.officer@essendonfc.com.au](mailto:privacy.officer@essendonfc.com.au)  
 Carlton Football Club | [privacy.officer@carltonfc.com.au](mailto:privacy.officer@carltonfc.com.au)  
 Collingwood Football Club | [privacy.officer@collingwoodfc.com.au](mailto:privacy.officer@collingwoodfc.com.au)  
 Fremantle Football Club | [privacy.officer@fremantlefc.com.au](mailto:privacy.officer@fremantlefc.com.au)  
