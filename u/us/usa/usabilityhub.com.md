@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the usabilityhub.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011100015id_/https%3A//usabilityhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilityhub.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327004442id_/https%3A//usabilityhub.com/privacy) for the most accurate reproduction.*
 
-# UsabilityHub
-
-## Privacy
-
-### Privacy Policy
+# Fast User Testing: Five Second Test, Click Test and Navigation • UsabilityHub
 
 When accessing our Website, UsabilityHub Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
