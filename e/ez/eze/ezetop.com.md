@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezetop.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323071553id_/https%3A//www.ezetop.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezetop.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326105923id_/https%3A//www.ezetop.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy and Cookies Statement
 
