@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnovation.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907005324id_/https%3A//www.appnovation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnovation.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326163539id_/https%3A//www.appnovation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Appnovation Technologies Inc.
 
