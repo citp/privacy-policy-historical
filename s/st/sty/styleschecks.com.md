@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411010045id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54%26cm_re%3DHome%2520Page-_-LeftNav-_-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326103734id_/https%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54%26cm_re%3DHome%2520Page-_-LeftNav-_-Privacy) for the most accurate reproduction.*
 
-# Personal Checks, Labels, Checkbook Covers and Personal Cards ... The Styles Check Company
+# Privacy Policy - The Styles Check Company
 
 ## Last updated April 2014
 
@@ -53,6 +53,8 @@ As is true with most websites, we gather certain information automatically when 
 We use cookies to improve your shopping experience. Cookies are small pieces of information that are stored by your web browser on your computer's hard drive. A cookie may contain information (such as a unique user session ID) that is used to track the pages of the websites you've visited. The information in cookies helps to serve you better by keeping track of your order when shopping on this site; it also helps us improve site design. We do not store sensitive information, other than your name, in your cookies. Most web browsers automatically accept cookies, but you can set your browser to decline cookies. Even if your web browser is set to decline cookies, you can use many of the features within this site. However, you will not be able to place an order or retrieve your order status.
 
 Some of our business partners may use cookies and web beacons on our site to help us manage the content on our site as well as to manage our advertising on other sites. The technologies may be used to collect non-personally identifiable information about your activities on this and other sites to provide you targeted advertising based on your interests. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages. The information gathered by web beacons is not tied to our customers’ personally identifiable information. However, if you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](https://preferences-mgr.truste.com/).
+
+Google Analytics is a specific technology used on this web site to manage content and advertising. You can find out how Google uses data when you use our partners’ sites at [this link ](https://www.google.com/policies/privacy/partners/)
 
 ## Social Media 
 
