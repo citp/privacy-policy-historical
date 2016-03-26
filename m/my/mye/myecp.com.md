@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myecp.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231949id_/https%3A//www.myecp.com/HtmlPages/AE_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myecp.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326083703id_/https%3A//www.myecp.com/HtmlPages/AE_PrivacyPolicy) for the most accurate reproduction.*
 
 # MyECP : Privacy Policy
+
+Exchange Credit Program Privacy Policy
 
 Protecting your privacy is important to us. We adhere to the Privacy Act, 5 U.S.C. 552 et seq., as well as the Rights to Financial Privacy Act, 12 U.S.C. 3401 et seq. We collect nonpublic personal information about you from the following sources: 
 
