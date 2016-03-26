@@ -1,44 +1,43 @@
-> *The following text is extracted and transformed from the seocompany.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423094308id_/http%3A//seocompany.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocompany.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326105623id_/http%3A//seocompany.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-_**To personalize your experience  
-**_(your information helps us to better respond to your individual needs)
+**To personalize your experience**  
+(your information helps us to better respond to your individual needs)
 
-_**To improve our website  
-**_(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+**To improve our website**  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-_**To improve customer service**_  
+**To improve customer service**  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-_**To process transactions**_
+**To process transactions**
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-_**To respond to inquiries**_
+**To respond to inquiries**
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of responding to inquiries made by you. 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of responding to inquiries made by you.
 
-  
-_**To send periodic emails**_
+**To send periodic emails**
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. If you wish to unsubscribe or stop receiving telephone communications from us please contact our customer service team at 352-319-0222
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
@@ -64,7 +63,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -80,11 +79,11 @@ By using our site, you consent to our web site privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.thatcompany.com  
 8500 US HWY 441  
