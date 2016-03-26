@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilpirates.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226052836id_/http%3A//ponniyinselvan.net/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilpirates.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326043815id_/http%3A//ponniyinselvan.net/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tamil Audio Novels | Ponniyin Selvan | Sivagamiyin Sapatham
 
