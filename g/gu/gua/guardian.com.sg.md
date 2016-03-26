@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204194625id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326211313id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Guardian Health & Beauty | Guardian
 
@@ -19,10 +19,10 @@ We take your privacy seriously and we will only collect and use personal data as
 
 
 
-1.2 By creating an online account with us (whether directly or on your behalf), you consent to our collection, use and disclosure of your personal data for any or all of the purposes specified below:
+1.2 By creating an online account with us (whether directly or on your behalf) or purchasing any products/services via Guardian Online, you consent to our collection, use and disclosure of your personal data for any or all of the purposes specified below:
 
   * Administer your online account with us
-  * Provide the products or services purchased from us online (and for all other matters relating to such purchase)
+  * Provide the products or services purchased from us online (and for all other matters relating to such purchase, including following up with you on product/service delivery)
   * Verify and carry out financial transactions in relation to payments made for online purchases from us
   * Managing, investigating or responding to feedback, request, claims or complaints provided or made by you
   * Audit the downloading of data from our website
