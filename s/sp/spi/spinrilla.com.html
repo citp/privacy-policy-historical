@@ -1,0 +1,352 @@
+<!--The following is the downloaded HTML source of the spinrilla.com privacy policy that was archived on 2016-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326222815id_/https%3A//spinrilla.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# music: http://ogp.me/ns/music#">
+  <title>Privacy Policy | Spinrilla</title>
+  <meta charset="UTF-8">
+  <link href="//dpjsgvx0fhwmn.cloudfront.net/assets/application-5a1c32f24937171f00b8cd40525046a2.css" media="screen" rel="stylesheet" type="text/css">
+  <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//dpjsgvx0fhwmn.cloudfront.net/assets/application-d21557b22c9cfcb1dd34565105e7942a.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param">
+<meta content="QeSHSzL58XlgDugGGVbeC9cqxH5j9WVvGbbr5U/HquA=" name="csrf-token">
+  <link href="//s3.amazonaws.com/s3.spinrilla.com/assets/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="//fonts.googleapis.com/css?family=Roboto:700|Muli" rel="stylesheet" type="text/css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+  <meta name="keywords" content="free mixtapes,mixtapes,download,stream,hip hop">
+  <meta name="description" content="Stream and download free mixtapes. New mixtapes added daily. Reporting the newest hip-hop news, videos, and singles.">
+  <meta name="google" content="notranslate">
+  <link rel="alternate" type="application/atom+xml" title="Spinrilla New Mixtape Releases Feed" href="https://spinrilla.com/mixtapes/feed">
+  
+
+  <script type="text/javascript" src="//use.typekit.net/bcy8jam.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22278705-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+</head>
+<body class="static-privacy">
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+    <script>
+      $(function () {
+        var navigationOffset = $('#navigation-bar')[0].offsetTop;
+
+        $(document).click(function(e) {
+          var user_menu = $("#user-links");
+          if (user_menu.css("display") == "block") {
+            // Hide the menu.
+            user_menu.css("display", "none");
+          }
+        });
+
+        $(document).bind('ready scroll', function() {
+          var docScroll = $(document).scrollTop();
+
+          if (docScroll > navigationOffset)
+          {
+            $('#navigation-bar').addClass('fixed');
+            $('#wrap').addClass('fixed-push');
+            $('#nav-logo').css("display", "block");
+          }
+          else
+          {
+            $('#navigation-bar').removeClass('fixed');
+            $('#wrap').removeClass('fixed-push');
+            $("#nav-logo").css("display", "none");
+          }
+
+          if ($("#autocomplete-list").css("display") != "none")
+          {
+              var search_position = $("#st-search-input").offset();
+              var search_height = $("#st-search-input").height();
+              var list_top = search_position.top + search_height + 18;
+
+              $("#autocomplete-list").css("top", list_top + "px");
+          }
+        });
+
+        var user_name_span = $("#user-pill > #name > span");
+        user_name_span.trunk8({lines: 2});
+        var name_height = user_name_span.height();
+        var name_y_offset = (36 - name_height) / 2;
+        user_name_span.css("top", name_y_offset + "px");
+
+        $("#user-pill").hover(function() {
+          $("#user-pill").css("background-color", "#5a2268");
+        }, function() {
+          $("#user-pill").css("background-color", "#460856");
+        });
+
+        $("#user-pill").click(function(e) {
+          var x_offset = Math.round($("#user-pill").offset().left);
+          $("#user-links").css("left", x_offset + "px");
+          $("#user-links").css("display", "block");
+
+          e.stopPropagation();
+        });
+
+        $(function() {
+          $("#st-search-input").focusin(function() {
+            $("#search-container > .text-wrapper").addClass("active");
+          });
+
+          $("#st-search-input").focusout(function() {
+            $("#search-container > .text-wrapper").removeClass("active");
+          });
+
+          var customRenderFunction = function(document_type, item) {
+            if (document_type == 'artist') {
+              var h = '<p class="title">' + item['displayname'] + '</p>';
+              h = h.concat('<p>' + item['external_id'] + '</p>');
+              // return '<p class="title">' + item['displayname'] + '</p>';
+              return h;
+            } else if (document_type == 'album') {
+              var h = '<p class="title">' + item['title'] + '</p>';
+              h = h.concat('<p>' + item['external_id'] + '</p>');
+              return h;
+            }
+            };
+
+            $('#st-search-input').focus(function() {
+              $("#autocomplete-list").css("display", "block");
+            });
+
+            $("#st-search-input").focusout(function() {
+              $("#autocomplete-list").css("display", "none");
+            });
+
+            $('#st-search-input').keyup($.debounce(100, perform_search));
+            function perform_search() {
+              var query = $(this).val();
+              if (query.length == 0) {
+                $("#autocomplete-list").remove();
+                return;
+              }
+
+              $.getJSON("/api/v3/autocomplete?q=" + $(this).val(), function(data) {
+                if ($("#autocomplete-list") != null) {
+                  $("#autocomplete-list").remove();
+                }
+
+                if (data["albums"].length == 0)
+                {
+                  // We didn't receive any results.
+                  return;
+                }
+
+                var search_position = $("#st-search-input").offset();
+                var search_height = $("#st-search-input").height();
+                var search_width = $("#st-search-input").width();
+                var list_top = search_position.top + search_height + 18;
+                // var list_left = (search_position.left - (300 - search_width)) + ((300 - search_width) / 2);
+                // var list_left = search_position.left - 31;
+                var list_left = (search_position.left - 5);
+                var result_list = "<ul id='autocomplete-list' style='top: " + list_top + "px; left: " + list_left + "px;'>";
+
+                if (data["artists"].length > 0) {
+                  result_list += "<li class='autocomplete-separator'>ARTISTS</li>";
+                }
+
+                $.each(data["artists"], function(i, item) {
+                  var result_item = "<li class='autocomplete-result-artist' data-href='" + "/artists/" + item["username"] + "'>";
+                  result_item += "<img src='" + item["avatar"]["small"] + "'/>"
+                  result_item += "<span>" + item["displayname"] + "</span>";
+                  result_item += "</li>";
+
+                  result_list += result_item;
+                });
+
+                if (data["albums"].length > 0) {
+                  result_list += "<li class='autocomplete-separator'>MIXTAPES</li>";
+                }
+
+                $.each(data["albums"], function(i, item) {
+                  var artist_title = null;
+                  if (item["artists"].length == 2) {
+                    artist_title = item["artists"][0]["displayname"] + " & " + item["artists"][1]["displayname"];
+                  } else {
+                    artist_title = item["artists"][0]["displayname"];
+                  }
+
+                  var result_item = "<li class='autocomplete-result-album' data-href='/mixtapes/" + item["slug"] + "'>";
+                  result_item += "<img src='" + item["covers"]["thumb"] + "'/>"
+                  result_item += "<span class='title'>" + item["title"] + "</span>";
+                  result_item += "<span class='subtitle'>" + artist_title + "</span>";
+                  result_item += "</li>";
+
+                  result_list += result_item;
+                });
+
+                result_list += "</ul>";
+                $("body").append(result_list);
+
+                $(".autocomplete-result-artist").mousedown(function() {
+                  var href = $(this).data("href");
+                  window.location.href = window.location.origin + href;
+                });
+
+                $(".autocomplete-result-album").mousedown(function() {
+                  var href = $(this).data("href");
+                  window.location.href = window.location.origin + href;
+                });
+              });
+            }
+
+          /* $('#st-search-input').swiftype({
+            engineKey: 'LoS4Fe8zAp8hEeRSR41p',
+            documentTypes: ['artist', 'album'],
+            renderFunction: customRenderFunction
+          }); */
+        });
+      });
+    </script>
+    <div id="wrap">
+      <div id="navigation-bar">
+        <div class="container">
+          <div id="logo"></div>
+          <ul class="nav-items"><li id="mixtapes"><a href="/" title="New Free Mixtape Releases">MIXTAPES</a></li><li id="singles"><a href="/singles" title="New Single Hip Hop Songs">SINGLES</a></li><li id="radio"><a href="/radio" title="Spinrilla Hip-Hop Radio">RADIO</a></li><li id="charts"><a href="/charts" title="Popular Hip Hop Mixtapes">CHARTS</a></li></ul>
+          <div id="search-container">
+            <div class="text-wrapper">
+              <div class="search-icon"></div>
+              <form id="search" method="get" action="/search">
+                <input type="text" name="q" id="st-search-input" class="search-query" placeholder="Search for music..." autocomplete="off">
+              </form>
+            </div>
+          </div>
+            <ul class="nav-items user">
+              <li><a href="/login">LOG IN</a></li>
+              <li><a href="/register">SIGN UP</a></li>
+            </ul>
+        </div>
+      </div>
+      <div style="display: table-row; height: 100%;">
+        <div id="height-wrap" style="height: 100%;">
+          <div id="v2-wrapper">
+<div class="v2-row">
+<div class="main">
+<div style="padding: 20px;">
+<h2>Privacy Policy</h2>
+<h5>Last Updated on March 3, 2016</h5>
+<p>Spinrilla ("Spinrilla", "Service", "us", "our", or "we") is a platform enabling musicians to share sounds they create with the world. While striving to create the best platform possible, we also highly value your privacy. This Privacy Policy outlines the data that we collect and how it's used. This privacy policy is for this website http://spinrilla.com and our mobile apps ("Spinrilla - Mixtapes For Free" and "Spinrilla") and governs the privacy of its users who choose to use it.</p>
+<p>The policy sets out the different areas where user privacy is concerned and outlines the obligations &amp; requirements of the users, the Service and the Service owners. Furthermore the way this Service processes, stores and protects user data and information will also be detailed within this policy.</p>
+<h4>1. DATA WE COLLECT</h4>
+<h5>Information you provide:</h5>
+<ul>
+<li>Your username, password, and e-mail address when creating a Spinrilla account.</li>
+<li>User content that is posted to the Service (e.g., profile photos, comments, or any other media including audio files).</li>
+<li>Any e-mail or private message (by means of third party social networks) communications.</li>
+<li>Optionally you may provide audio files to be shared with other users of the Service.</li>
+</ul>
+<h5>Location:</h5>
+<ul>
+<li>The Service does not have access to your location however third parties may use IP based geolocation for advertising purposes.</li>
+</ul>
+<h5>Device specific data:</h5>
+<ul>
+<li>Information about your device such as the model and manufacturer, operating system version, carrier, and mobile browser.</li>
+<li>When accessing Spinrilla from a mobile device (such as Android or iOS) our analytics provider and our advertising networks may collect your device identifier. A device identifier is a unique set of characters to associate a device with yourself. Please note that a mobile device identifier cannot personally identify yourself.</li>
+</ul>
+<h5>Analytics:</h5>
+<ul>
+<li>Our apps and the Spinrilla website use tracking software to monitor it's visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information http://www.google.com/privacy.html.</li>
+</ul>
+<h4>2. HOW WE USE THE DATA</h4>
+<p>The Spinrilla mobile apps may display advertisements from third party networks. The third parties will do their best to serve a relevant ad while respecting your privacy.</p>
+<p>Device specific data (such as operation system and version) is used for analytics and advertising purposes. Our third party advertisers may serve ads targeted at a specific device type. In addition, knowing what type of devices are accessing the Spinrilla Services helps us build a better experience for a broader set of device types.</p>
+<h4>3. CONSENT</h4>
+<p>When using any of the Spinrilla Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of the data outlined in this Privacy Policy.</p>
+</div>
+</div>
+<div class="sidebar">
+<div class="sidebar-item" style="padding-bottom: 3px;">
+  <div class="side-tweet">
+    <div class="speech-bubble">
+      <p>#np <a href="https://twitter.com/TrillSammyy" target="_blank">@TrillSammyy</a> - Go Getta (Feat. <a href="https://twitter.com/SouljaBoy" target="_blank">@SouljaBoy</a>) » <a href="https://t.co/IyZ6yIXBxz" target="_blank">https://t.co/IyZ6yIXBxz</a></p>
+      <div id="arrow-stroke"></div>
+      <div id="arrow"></div>
+    </div>
+    <img alt="Twitter-bird" id="twitter-logo" src="//dpjsgvx0fhwmn.cloudfront.net/assets/twitter-bird-865bd7846e506f041ae3743439b70a12.png">
+    <div style="float: right; padding-right: 5px;">
+      <a href="https://twitter.com/spinrilla" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @spinrilla</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+  </div>
+</div>
+
+<div class="sidebar-item">
+  <div style="width: 292px; margin: 0 14px;">
+    <div class="fb-like-box" data-href="https://www.facebook.com/spinrilla" data-width="292" data-height="215" data-show-faces="true" data-stream="false" data-header="true"></div>
+  </div>
+</div>
+
+
+<div class="sidebar-item" style="padding: 0 20px;">
+<span class="side-heading">Hot Mixtapes Right Now</span>
+<ul>
+<li>
+<a href="/mixtapes/dj-miles-tracks-of-the-month-march-edition-2016"><img alt="D54ef6462ba92b7c6a6f" class="cover" src="https://dpjsgvx0fhwmn.cloudfront.net/albums/36856/thumb/d54ef6462ba92b7c6a6f.png?1458532388"></a>
+<div class="info">
+<span class="title"><a href="/mixtapes/dj-miles-tracks-of-the-month-march-edition-2016">Tracks of the Month (March Edition) (2016)</a></span>
+<span class="artist"><a href="/artists/TheRealDJMiles">DJ Miles</a></span>
+</div>
+</li>
+<li>
+<a href="/mixtapes/young-thug-slime-season-3"><img alt="E29be849297507b2449c" class="cover" src="https://dpjsgvx0fhwmn.cloudfront.net/albums/29316/thumb/e29be849297507b2449c.jpg?1458874939"></a>
+<div class="info">
+<span class="title"><a href="/mixtapes/young-thug-slime-season-3">Slime Season 3</a></span>
+<span class="artist"><a href="/artists/YoungThug">Young Thug</a></span>
+</div>
+</li>
+<li>
+<a href="/mixtapes/dj-dirty-dollarz-hot-this-week-50"><img alt="A62775237304eda15f6a" class="cover" src="https://dpjsgvx0fhwmn.cloudfront.net/albums/37572/thumb/a62775237304eda15f6a.jpg?1458650259"></a>
+<div class="info">
+<span class="title"><a href="/mixtapes/dj-dirty-dollarz-hot-this-week-50">Hot This Week 50</a></span>
+<span class="artist"><a href="/artists/DJDirtyDollarz">DJ Dirty Dollarz</a></span>
+</div>
+</li>
+<li>
+<a href="/mixtapes/djcreativemind-the-hit-list-march-edition"><img alt="55eb6848fa8c7cd88613" class="cover" src="https://dpjsgvx0fhwmn.cloudfront.net/albums/35640/thumb/55eb6848fa8c7cd88613.jpg?1457016069"></a>
+<div class="info">
+<span class="title"><a href="/mixtapes/djcreativemind-the-hit-list-march-edition">The Hit List (March Edition)</a></span>
+<span class="artist"><a href="/artists/CreativeMind">Dj Creative Mind</a></span>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<div id="footer">
+<ul class="navigation"><li id="mobile_apps"><a href="/apps" title="Download Mixtapes iOS Android App">Mobile Apps</a></li><li id="contact_f"><a href="/contact" title="Contact Spinrilla Staff">Contact</a></li><li id="faq_f"><a href="/faq" title="Frequently Asked Questions">F.A.Q.</a></li><li id="dmca_f"><a href="/dmca" title="DMCA Take Down Legal">DMCA</a></li><li id="press_kit_f"><a href="/presskit" title="Spinrilla Logo Press Kit">Press Kit</a></li><li id="privacy_policy"><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li><li id="ad_choices_f"><a href="/adchoices" title="Ad Choices">Ad Choices</a></li></ul>
+<span id="subtitle">
+Made with <i class="fa fa-heart"></i> in Atlanta
+</span>
+</div>
+
+</div>
+
+        </div>
+      </div>
+    </div>
+  
+
+
+</body></html>
