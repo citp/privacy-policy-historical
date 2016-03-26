@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibbet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221439id_/https%3A//www.zibbet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibbet.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326042750id_/https%3A//www.zibbet.com/privacy-policy) for the most accurate reproduction.*
 
 # Zibbet
 
