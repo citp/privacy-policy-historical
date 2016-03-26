@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsiworld.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025075350id_/http%3A//www.wsiworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsiworld.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326063949id_/http%3A//www.wsiworld.com/privacy) for the most accurate reproduction.*
 
 # Digital Solutions Provider And SEO Marketing Company | WSI Digital Marketing > Privacy
 
