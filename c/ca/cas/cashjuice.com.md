@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashjuice.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923034744id_/http%3A//www.cashjuice.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashjuice.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326101651id_/http%3A//cashjuice.com/general/privacy.php) for the most accurate reproduction.*
 
 # z5Traffic
 
