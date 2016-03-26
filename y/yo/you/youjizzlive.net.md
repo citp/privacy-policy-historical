@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youjizzlive.net privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103024138id_/http%3A//www.youjizzlive.net/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youjizzlive.net privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326094740id_/http%3A//www.youjizzlive.net/privacy.html%3F) for the most accurate reproduction.*
 
 # YouJizzLive.net - Privacy Policy
 
