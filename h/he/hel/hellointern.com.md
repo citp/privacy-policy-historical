@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316132751id_/https%3A//www.hellointern.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326052430id_/https%3A//www.hellointern.com/privacy-policy) for the most accurate reproduction.*
 
 # HelloIntern | Student Internship Program, International Internships, Find Interns
 
 **Privacy Policy**
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for HelloIntern . The "HelloIntern " includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by HelloIntern and each of its wholly-owned subsidiaries. By accessing HelloIntern , you are consenting to the information collection and use practices described in this Privacy Policy. 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for HelloIntern . The "HelloIntern" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by HelloIntern and each of its wholly-owned subsidiaries. By accessing HelloIntern, you are consenting to the information collection and use practices described in this Privacy Policy. 
 
 We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
 
@@ -41,7 +41,7 @@ We maintain a strict "No-Spam" policy that means that we do not sell, rent, or o
 
 The HelloIntern contains many hyperlinks to third party Web sites. The HelloIntern also contains advertisements of third parties. HelloIntern is not responsible for the privacy practices or the content of such third party Web sites or advertisers. HelloIntern does not share any of the individual personal information you provide HelloIntern with the third parties to which HelloIntern links, except as stated elsewhere within this Privacy Policy, although HelloIntern may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy.
 
-If you use HelloIntern 's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, HelloIntern advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+If you use HelloIntern's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, HelloIntern advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
 
 Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return 
 
@@ -55,8 +55,8 @@ We are always seeking to improve our network of Web sites and our business. In a
 
 **Your Consent To This Agreement**
 
-By using the HelloIntern , you consent to the collection and use of information by HelloIntern as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it 
+By using the HelloIntern, you consent to the collection and use of information by HelloIntern as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it 
 
-Please send any questions about HelloIntern 's Privacy Policy to: [info@hellointern.com ](mailto:info@hellointern.com)
+Please send any questions about HelloIntern's Privacy Policy to: [info@hellointern.com ](mailto:info@hellointern.com)
 
 Please note that your use of the HelloIntern of Web sites is governed by our Legal Notice. 
