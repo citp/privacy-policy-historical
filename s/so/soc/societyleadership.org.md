@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the societyleadership.org privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920191621id_/https%3A//www.societyleadership.org/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyleadership.org privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326201607id_/https%3A//www.societyleadership.org/members/privacy-policy) for the most accurate reproduction.*
 
 # Society Privacy Center | National Society of Leadership and Success
 
