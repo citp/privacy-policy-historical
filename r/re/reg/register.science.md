@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the register.science privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314211507id_/http%3A//www.register.science/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register.science privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326014644id_/https%3A//register.science/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
