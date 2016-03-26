@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnstoolkit.net privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813133052id_/http%3A//dnstoolkit.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnstoolkit.net privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326155534id_/http%3A//dnstoolkit.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
