@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbillboards.net privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016150608id_/http%3A//www.internetbillboards.net/privacy-statement-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbillboards.net privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326063553id_/http%3A//www.internetbillboards.net/privacy-statement-policy) for the most accurate reproduction.*
 
 # Privacy Statement Policy | Internet Billboards
 
@@ -71,6 +71,6 @@ If you have any questions about this privacy policy or Internet Billboards treat
 
 Internet Billboards: Attn: Tom George  
 18704 Caledonia Court, Unit C  
-Germantown, MD. 20874
+Germantown, MD. 20874 
 
 0
