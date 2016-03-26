@@ -1,24 +1,121 @@
-<!--The following is the downloaded HTML source of the adsbridge.com privacy policy that was archived on 2015-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914163643id_/https%3A//www.adsbridge.com/index/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adsbridge.com privacy policy that was archived on 2016-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326180828id_/https%3A//www.adsbridge.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width; initial-scale=1.0">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://widget.siteheart.com/widget/sh/785885/en/widget.js"></script><script type="text/javascript" src="https://dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1" async=""></script><script type="text/javascript" src="/assets/a264a88/JsTrans.js"></script>
+    <meta name="google-site-verification" content="IWByYOE7923ReRXIHuuD7VY5r2fZiPrAnLvSQ6hSw9g">
+    <meta name="keywords" content="adsbridge, ads bridge, адсбридж, адс бридж">
+    <meta name="description" content="Read through the privacy policy before you start working with the AdsBridge traffic tracker.">
+    <script type="text/javascript" async="" src="https://widget.intercom.io/widget/ielpcxt8"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W7277F"></script><script type="text/javascript" src="https://dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1" async=""></script><script type="text/javascript" src="/assets/9dee044b/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/a264a88/JsTrans.js?1413298385"></script>
 <script type="text/javascript" src="/assets/a264a88/JsTrans.dictionary.d1554a5d79.en.js"></script>
-<title>
-        AdsBridge - Next generation tracker and landing page builder!    </title>
-    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/main.css">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/font-awesome.css">    <link rel="stylesheet" type="text/css" href="">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/fancyfields.css">    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
-    <link type="image/x-icon" href="/images/favicon-new.ico" rel="icon">
-    <script type="text/javascript"> (function () {var url = "dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1";var __dbs = document.createElement("script");__dbs.type = "text/javascript";__dbs.src = ("https:" == document.location.protocol ?
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+var ApiLoader = (function() {
+
+    var microCount  = 0;
+    var funcAjax    = null;
+
+    var module = {
+
+        selectors : {
+            doc     : document,
+            win     : window,
+            loader  : '.b-popup-overlay_loader' // #loader
+        },
+
+        listeners : {
+            onAjax : function() {
+                var $loader = $(module.selectors.loader);
+
+                if ($.active > 0 || microCount > 0) {
+                    $loader.show();
+                } else {
+                    $loader.hide();
+                }
+            },
+
+            onError : function() {
+                $.active--;
+                module.listeners.onAjax();
+            },
+
+            onAjaxRequest : function() {
+                var funcSuccess, funcError;
+
+                if (arguments.length) {
+                    funcSuccess = arguments[0].success;
+                    funcError   = arguments[0].error;
+
+                    arguments[0] = $.extend(arguments[0], {
+                        success : function() {
+                            microCount--;
+                            module.listeners.onAjax();
+
+                            if (funcSuccess) {
+                                funcSuccess.apply(this, arguments);
+                            }
+                        },
+
+                        error : function() {
+                            microCount--;
+                            module.listeners.onAjax();
+
+                            if (funcError) {
+                                funcError.apply(this, arguments);
+                            }
+                        }
+                    });
+
+                    microCount++;
+                    module.listeners.onAjax();
+                }
+
+                return funcAjax.apply(this, arguments);
+            }
+        },
+
+        micro : function(isStart) {
+            if (isStart) {
+                ++microCount;
+            } else {
+                --microCount;
+            }
+
+            module.listeners.onAjax();
+        }
+    };
+
+    $(module.selectors.doc)
+        .ajaxStart(module.listeners.onAjax)
+        .ajaxStop(module.listeners.onAjax);
+
+    $(module.selectors.win)
+        .error(module.listeners.onError);
+
+    funcAjax    = $.ajax;
+    $.ajax      = module.listeners.onAjaxRequest;
+
+    return {
+        micro : module.micro
+    };
+})();
+/*]]>*/
+</script>
+<title>Privacy Policy of AdsBridge Affiliate Software</title>
+    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/main.css?1458827368">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/font-awesome.css?1458827368">    <link rel="stylesheet" type="text/css" href="">    <link rel="stylesheet" type="text/css" href="/css/chosen.css?1429692042">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/fancyfields.css?1458827368">    <!--<link rel="stylesheet" type="text/css" href="/assets/7c192763/css/jquery.bxslider.css?1458827368" /-->    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+    <link type="image/x-icon" rel="icon" href="/images/favicon-new.ico?1421312573">    <script type="text/javascript"> (function () {var url = "dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1";var __dbs = document.createElement("script");__dbs.type = "text/javascript";__dbs.src = ("https:" == document.location.protocol ?
                 "https://" : "http://") + url;__dbs.async = true;var script = document.getElementsByTagName("script")[0];script.parentNode.insertBefore(__dbs, script);})();</script>    <script type="text/javascript" src="/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/assets/7c192763/js/fancyfields-1.2.min.js"></script>
+    <script type="text/javascript" src="/assets/7c192763/js/fancyfields-1.2.min.js?1458827368"></script>    <script type="text/javascript" src="/assets/7c192763/js/jquery.bxslider.min.js?1458827368"></script>        <script type="text/javascript" src="/js/chosen.jquery.min.js?1429692042"></script>    <script type="text/javascript" src="/js/class.js?1419600588"></script>    <script type="text/javascript" src="/js/indexCommon.js?1449490661"></script>
     <script type="text/javascript">
         jQuery(document).ready(function() {
             $('.b-form select,.b-form input[type="checkbox"]').fancyfields();
         });
     </script>
 
+    
     <!-- Benefits Carousel -->
     <script type="text/javascript" src="/js/introSlider.js"></script>
     <script type="text/javascript" src="/js/benefitsCarousel.js"></script>
@@ -68,46 +165,57 @@
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="b-index-layout">
+<!-- Google A -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W7277F"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W7277F');</script>
+<!-- End Google Tag Manager --><!-- /Google A -->
 <div class="b-index-header">
     <div class="b-top-line">
         <div class="b-index-main-fluide">
             <div class="social">
                 <ul class="b-social-button">
                                             <li class="item">
-                            <a href="https://www.facebook.com/pages/ADSBridge/293150207504909?ref=hl" target="_blank" class="facebook fb" title="Follow Us Facebook">Facebook</a>
+                            <a href="https://www.facebook.com/pages/ADSBridge/293150207504909?ref=hl" target="_blank" class="facebook fb" title="Follow Us Facebook" rel="nofollow">Facebook</a>
                         </li>
                         <li class="item">
-                            <a href="https://twitter.com/ADSBridge" class="twitter tw" target="_blank" title="Follow Us Twitter">Twitter</a>
+                            <a href="https://twitter.com/ADSBridge" class="twitter tw" target="_blank" title="Follow Us Twitter" rel="nofollow">Twitter</a>
                         </li>
                         <li class="item">
-                            <a href="https://plus.google.com/113071872355109339745" rel="publisher" class="google-plus gp " target="_blank" title="Follow Us Google+">Google</a>
+                            <a href="https://plus.google.com/113071872355109339745" class="google-plus gp " target="_blank" title="Follow Us Google+" rel="nofollow">Google</a>
                         </li>
-                                        <li class="item"><a href="/index/contactus" class="support-mail sp" target="_blank">support@adsbridge.com</a>
+                                        <li class="item"><a href="/contactus" class="support-mail sp" target="_blank">support@adsbridge.com</a>
                     </li>
                 </ul>
             </div>
                             <div class="buttons">
-                    <a title="Log in" class="b-top-line-button reg" href="/index/signin">Log in</a><a title="Sign up!" class="btn-primary b-top-line-button login" href="/index/registration">Sign up</a>                                            <a href="http://www.adsb4all.com/c/94a54ee4d95491dc" style="display: none;" class="btn btn-leadscon" target="_blank">Meet Us at LeadsCon</a>
-                                    </div>
+                    <a title="Log in" class="b-top-line-button reg" rel="nofollow" onmousedown="this.href=&quot;/signin/&quot;" href="javascript:void(0)">Log in</a><a title="Sign up!" class="btn-primary b-top-line-button login" rel="nofollow" href="/registration/">Sign up</a>                </div>
                     </div>
     </div>
     <div class="container">
         <div class="b-index-main-fluide">
             <div class="wrapper">
-                <a class="b-logo" href="/"><img src="/assets/7c192763/images/main/logo-medium.png" alt="AdsBridge"></a>                 <a href="#" class="btn-top-menu">Menu</a>
+                <a class="b-logo" href="/"><img src="/assets/7c192763/images/main/logo-medium.png?1458827367" alt="AdsBridge"></a>                <a href="#" class="btn-top-menu">Menu</a>
                 <ul class="b-top-menu">
                     <li class="item ">
-                        <a class="link scrollTo" href="/index/features">Features</a>                    </li>
+                        <a class="link scrollTo" href="/features/">Features</a>                    </li>
                     <li class="item ">
-                        <a class="link scrollTo" href="/index/referralProgram">Partners</a>                    </li>
+                        <a class="link scrollTo" href="/advertisingPartners/">Partners</a>                    </li>
                     <li class="item">
                         <a class="link scrollTo" target="_blank" href="http://news.adsbridge.com">Blog</a>                    </li>
                     <li class="item ">
-                        <a class="link scrollTo" href="/index/templates">Templates</a>                    </li>
+                        <a class="link scrollTo" href="/templates/">Templates</a>                    </li>
                     <li class="item ">
-                        <a class="link scrollTo" href="/index/pricing">Pricing</a>                    </li>
+                        <a class="link scrollTo" href="/pricing/">Pricing</a>                    </li>
                     <li class="item ">
-                        <a class="link scrollTo" href="/index/contactus">Contact</a>                    </li>
+                        <a class="link scrollTo" href="/referralProgram/">Referrals</a>                    </li>
+                    <li class="item ">
+                        <a class="link scrollTo" href="/contactus/">Contact</a>                    </li>
                 </ul>
             </div>
         </div>
@@ -185,7 +293,7 @@
                 10. Contact Us            </h3>
             <p>
                 If you have any questions or suggestions regarding our Privacy Policy, please&nbsp;
-                <a href="/index/contactus">contact us here</a>.
+                <a href="/contactus/">contact us here</a>.
             </p>
         </div>
     </div>
@@ -218,10 +326,13 @@
                 <div class="title">About AdsBridge</div>
                 <ul class="list">
                     <li>
-                        <a href="/index/features">Features</a>
+                        <a href="/features/">Features</a>
                     </li>
                     <li>
-                        <a href="/index/templates">Free landing page templates</a>
+                        <a href="/templates/">Free landing page templates</a>
+                    </li>
+                    <li>
+                        <a href="/advertise/">Advertise with us</a>
                     </li>
                 </ul>
             </div>
@@ -229,9 +340,9 @@
                 <div class="title">Support &amp; Resources</div>
                 <ul>
                     <li>
-                        <a target="_blank" href="/index/contactus">Contact us</a>                    </li>
+                        <a target="_blank" href="/contactus/">Contact us</a>                    </li>
                     <li>
-                        <a href="http://faq.adsbridge.com/support/home" target="_blank">
+                        <a href="https://adsbridge.freshdesk.com/support/home" target="_blank">
                             FAQ                        </a>
                     </li>
                     <li>
@@ -256,12 +367,21 @@
                         </li>
                         <li><a href="https://twitter.com/ADSBridge" target="_blank">Twitter</a></li>
                         <li><a href="https://plus.google.com/113071872355109339745" target="_blank">Google+</a></li>
+                        <li>
+                            <a href="https://www.instagram.com/adsbridge/ " target="_blank">
+                                Instagram                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/user/adsbridge/videos" target="_blank">
+                                YouTube                            </a>
+                        </li>
                                     </ul>
             </div>
             <div class="footer-col last">
-                <img src="/assets/7c192763/images/main/logo-small.png" alt="AdsBridge">                <p>
-                    AdsBridge is the next generation, SaaS tracking software and landing page builder tool.
-                    It's the newest and most technologically advanced tracking platform for online marketers!
+                <img src="/assets/7c192763/images/main/logo-small.png?1458827367" alt="AdsBridge">                <p>
+                                            AdsBridge is an intelligent SaaS mobile and web tracker with an in-built landing page creator.
+                        It's the most technologically driven affiliate software for performance marketing!
+                     
                 </p>
             </div>
             <div class="clear"></div>
@@ -271,48 +391,40 @@
     <div class="footer-bottom">
         <div class="b-index-main-fluide">
             <ul class="footer-menu">
-                <li><a href="/index/contactus">Contact Us</a></li>
-                <li><a href="/index/terms/">Terms &amp; Conditions</a></li>
-                <li><a href="/index/privacy">Privacy Policy</a></li>
+                <li><a href="/contactus/">Contact Us</a></li>
+                <li><a href="/terms/">Terms &amp; Conditions</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
             </ul>
             <span class="copy">
-                2013-2015 © AdsBridge. All rights reserved.<br>
+                2013-2016 © AdsBridge. All rights reserved.<br>
                 Adsbridge.com is owned and operated by Adsbridge Asia Ltd, Hong Kong            </span>
             <div class="clear"></div>
         </div>
     </div>
 </div>
-<!-- Google A -->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!--Start of Live Chat Script-->
+<script>window.intercomSettings = {"app_id":"hmraoyy8","name":" ","first_name":null,"last_name":null,"email":null,"user_id":null,"created_at":1459015709,"Subscription type":null,"Visits":0,"Extra visits":0};(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ielpcxt8';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><!--End of Live Chat Script-->
 
-    ga('create', 'UA-49991941-1', 'auto');
-    ga('send', 'pageview');
-</script><!--Start of Live Chat Script-->
-<script>
-                (function(){
-                var widget_id = 785885;
-                _shcp =[{widget_id : widget_id,
-                auth : "eyJpZCI6bnVsbCwibmljayI6IigpICAiLCJkYXRhIjp7IklkIjpudWxsLCJFbWFpbCI6bnVsbCwiVGFyaWZmIjpudWxsLCJWaXNpdHMgY291bnQiOjB9fQ==_1442248607_9872380e7af617e02f9fca61b6392753"}];
-                var lang =(navigator.language || navigator.systemLanguage
-                || navigator.userLanguage ||"en")
-                .substr(0,2).toLowerCase();
-                var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
-                var hcc = document.createElement("script");
-                hcc.type ="text/javascript";
-                hcc.async =true;
-                hcc.src =("https:"== document.location.protocol ?"https":"http")
-                +"://"+ url;
-                var s = document.getElementsByTagName("script")[0];
-                s.parentNode.insertBefore(hcc, s.nextSibling);
-                })();
-                </script><!--End of Live Chat Script-->
-
-<script type="text/javascript">$adrollAdvId = "TPKIKJ6MGBFCDBSMJF5YYA";$adrollPixId = "3VFW3LUD5BFLFMINTPOY2X";(function () {var oldonload = window.onload;window.onload = function(){__adroll_loaded=true;var scr = document.createElement("script");var host = (("https:" == document.location.protocol) ?
-                "https://s.adroll.com" : "http://a.adroll.com");scr.setAttribute('async', 'true');scr.type = "text/javascript";scr.src = host + "/j/roundtrip.js";((document.getElementsByTagName('head') || [null])[0] ||document.getElementsByTagName('script')[0].parentNode).appendChild(scr);if(oldonload){oldonload()}};}());</script><!-- /Google A -->
+<script type="text/javascript">
+                    adroll_adv_id = "TPKIKJ6MGBFCDBSMJF5YYA";
+                    adroll_pix_id = "3VFW3LUD5BFLFMINTPOY2X";
+                    // adroll_email = "username@example.com"; // OPTIONAL: provide email to improve user identification
+                    (function () {
+                    var _onload = function(){
+                        if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+                        if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+                        var scr = document.createElement("script");
+                        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                        scr.setAttribute("async", "true");
+                        scr.type = "text/javascript";
+                        scr.src = host + "/j/roundtrip.js";
+                        ((document.getElementsByTagName("head") || [null])[0] ||
+                        document.getElementsByTagName("script")[0].parentNode).appendChild(scr);
+                        };
+                    if (window.addEventListener) {window.addEventListener("load", _onload, false);}
+                    else {window.attachEvent("onload", _onload)}
+                    }());
+                </script>
 <div class="b-popup-overlay b-popup-overlay_loader" id="loader"> </div>
 
 
