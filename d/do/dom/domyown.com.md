@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyown.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703032156id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyown.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326185847id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
@@ -7,12 +7,12 @@
 
 ### Testimonial
 
-**03/22/2013**
+**07/21/2014**
 
-"I've never had a bad experience with this company and I recommend them to everyone I know!"
+"I love this site!! There is a lot of good information and good products for good prices. I have had no problems with any of my orders with either shipping or the product itself. I am a very happy customer and I will recommend this site to anyone needing pest control without having to call for servic..."
 
-**Daniel**  
-Woodside, NY 
+**B McMillon**  
+Florida 
 
 [More Testimonials](http://www.domyownpestcontrol.com/testimonials.php) »
 
