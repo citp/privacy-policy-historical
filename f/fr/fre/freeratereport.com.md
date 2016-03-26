@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeratereport.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127033543id_/http%3A//freeratereport.com%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeratereport.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326051355id_/http%3A//freeratereport.com%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Rate Report
 
