@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the draftexpress.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055010id_/http%3A//www.draftexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftexpress.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326080246id_/http%3A//www.draftexpress.com/privacy.php) for the most accurate reproduction.*
 
 # DraftExpress - NBA Draft, NCAA/International Basketball Website.
 
-  |  This is the web site of DraftExpress.com. 
+This is the web site of DraftExpress.com. 
 
 We can be reached via e-mail at [jonathan@draftexpress.com](mailto:jonathan@draftexpress.com)
 
