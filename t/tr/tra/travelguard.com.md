@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009233557id_/http%3A//www.travelguard.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326143954id_/http%3A//www.travelguard.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Travel Guard Privacy Policy
 
