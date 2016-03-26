@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiobookstore.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145432id_/https%3A//audiobookstore.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiobookstore.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326213452id_/https%3A//audiobookstore.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AudiobookStore.com Privacy Policy | Download Audiobooks from your favorite Authors today!
 
@@ -28,7 +28,7 @@ Contact AudiobookStore.com
 
 If you wish to modify information previously provided to AudiobookStore.com, remove information from our database to avoid receiving communications, or inquire about this privacy statement, the practices of AudiobookStore.com, or your dealings with AudiobookStore.com, you may contact us through one of these options:
 
-**To email us,**[click here!](http://www.theaudiobookstore.com/contactus.aspx)
+**To email us,**[click here!](https://audiobookstore.com/contactus.aspx)
 
 **Send mail to:**
 
