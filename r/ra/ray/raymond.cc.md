@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921193332id_/https%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326062408id_/https%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Raymond.CC
 
