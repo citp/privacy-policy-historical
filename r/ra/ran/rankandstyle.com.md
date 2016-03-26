@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankandstyle.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908041926id_/https%3A//www.rankandstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankandstyle.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326172324id_/https%3A//www.rankandstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Rank & Style | Privacy Policy
 
@@ -52,7 +52,7 @@ We may use third parties to serve ads on the site. Certain third parties may aut
 We've also implemented certain Google Analytics Advertising features. Users can opt-out of the Google Analytics Advertising features through [Google Analytics' Opt-out Browser](https://tools.google.com/dlpage/gaoptout/).
 
 * Sale or Transfer  
-In some cases, Rank & Style may choose to sell or transfer assets to a third party. In the event of a sale, merger, acquisition, bankruptcy, liquidation, receivership, transfer of all or substantially all of Rank & Style’s assets, or similar transaction, we reserve the right to transfer or assign the information we have collected from our users as part of such transaction. We will use our best efforts to ensure that the new entity follows this Privacy Policy with respect to your personal Information, as and to the extent required by applicable law.
+In some cases, Rank & Style may choose to sell or transfer assets to a third party. In the event of a merger, acquisition, bankruptcy, liquidation, receivership, sale or transfer of Rank & Style’s assets, or similar transaction, we reserve the right to transfer or assign the information we have collected from our users as part of such transaction. We will use our best efforts to ensure that the new entity follows this Privacy Policy with respect to your personal Information, as and to the extent required by applicable law.
 
 * Security  
 We take reasonable effort to protect your personal information that is stored on our database. Access to your personal information is limited to our authorized staff who need that information to perform their job functions.
