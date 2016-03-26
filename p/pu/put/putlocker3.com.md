@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the putlocker3.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125032714id_/http%3A//putlocker3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the putlocker3.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326074426id_/http%3A//putlocker3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PutLocker3
 
-[](http://putlocker3.com/watchit.php)
+[](http://putlocker3.com/moviehd/watch.php)
 
 **Putlocker’s Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
@@ -58,11 +58,11 @@ To be in accordance with CANSPAM we agree to the following:
 • Honor opt-out/unsubscribe requests quickly  
 • Allow users to unsubscribe by using the link at the bottom of each email
 
+[](http://putlocker3.com/moviehd/watch.php)
+
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
 admin@putlocker3.com and we will promptly remove you from ALL correspondence.  
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may [contact us](http://putlocker3.com/contact-us/) using the information below.  
 putlocker3.com  
 admin@putlocker3.com
-
-[](http://putlocker3.com/watchit.php)
