@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lodgify.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905163932id_/http%3A//www.lodgify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodgify.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327003103id_/http%3A//www.lodgify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lodgify
 
@@ -20,10 +20,10 @@ We collect information about our Users in order to promote the Services, customi
 
 4\. INFORMATION SHARING AND DISCLOSURE
 
-a) We do not share contact details of our Users with third parties if we do not have the User’s consent to share that information.   
+a) We do not share contact details of our Users with third parties if we do not have the Userâ€™s consent to share that information.   
 b) We do not sell your personal information to third parties.  
 c) We have business partners, including but not limited to tracking companies to analyze the Website visit of our Users for our own statistical use, advertising companies to serve ads when Users visit the Websites and payment processing companies to process payments of our Users. These third parties are authorized to use the personal information of our Users only as necessary to provide these services to us.  
-d) In certain circumstances we may need to disclose the personal information of our Users as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect the safety of our users or the safety of others, investigate fraud, or respond to a government request, if we are involved in a merger, acquisition, or sale of all or a portion of its assets. We will notify our users via email and/or a prominent notice on our Website of any change in ownership or uses of personal information to any other third party with the User’s prior consent to do so.  
+d) In certain circumstances we may need to disclose the personal information of our Users as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect the safety of our users or the safety of others, investigate fraud, or respond to a government request, if we are involved in a merger, acquisition, or sale of all or a portion of its assets. We will notify our users via email and/or a prominent notice on our Website of any change in ownership or uses of personal information to any other third party with the Userâ€™s prior consent to do so.  
 e) Information collected from our Users may be stored and processed in the UK, EU and United States and by using the Services, our Users acknowledge and agree that they may be transferring their personal data outside of the country in which they have contributed it, and that they consent to any such transfer of information outside of their country. These countries may not have similar data protection laws to those that apply in the European Union (EU).
 
 5\. NEWSLETTER
@@ -32,11 +32,11 @@ Users will only receive a newsletter from us if we have their consent. Users may
 
 6\. SECURITY
 
-The security of our Users’ personal information is important to us. When our Users enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We take reasonable steps to protect our User’s information. Nevertheless, please note that no data transmission over the Internet or information storage technology can be guaranteed to be totally secure. As a result, whilst we strive to protect our User’s information, we cannot ensure or warrant the security of any information which they send to us, and the Users do so at their own risk. 
+The security of our Usersâ€™ personal information is important to us. When our Users enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We take reasonable steps to protect our Userâ€™s information. Nevertheless, please note that no data transmission over the Internet or information storage technology can be guaranteed to be totally secure. As a result, whilst we strive to protect our Userâ€™s information, we cannot ensure or warrant the security of any information which they send to us, and the Users do so at their own risk. 
 
 7\. COOKIES
 
-We may use cookies, for example, to keep track of our users’ preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
+We may use cookies, for example, to keep track of our usersâ€™ preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
 8\. LINKS TO THIRD PARTY WEBSITES
 
