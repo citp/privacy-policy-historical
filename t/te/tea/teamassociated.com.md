@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamassociated.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922090004id_/https%3A//www.teamassociated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamassociated.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326165644id_/https%3A//www.teamassociated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Team Associated
 
