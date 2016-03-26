@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100percentile.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018194415id_/http%3A//www.100percentile.com/iitjee/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentile.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326020226id_/http%3A//www.100percentile.com/iitjee/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Online IITJEE Practice Test, Practice papers for IITJEE/AIEEE : 100Percentile
 
