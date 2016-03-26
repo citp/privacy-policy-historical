@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722061059id_/http%3A//www.altfg.com/film/alt-film-guide-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326074654id_/http%3A//www.altfg.com/film/alt-film-guide-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use – Alt Film Guide
 
 ## Privacy Policy
 
-Alt Film Guide uses cookies to record the number of unique visits to our website and to measure general traffic patterns. No personally identifiable information is collected in that manner. By "non-personally identifiable information" we mean that your name, address, email address, or telephone number is NOT collected. For more information about cookies, visit <http://www.allaboutcookies.org/cookies/>.
+Alt Film Guide uses cookies to record the number of unique visits to our website and to measure general traffic patterns. No personally identifiable information is collected in that manner. By “non-personally identifiable information” we mean that your name, address, email address, or telephone number is NOT collected. For more information about cookies, visit <http://www.allaboutcookies.org/cookies/>.
 
 Bear in mind that our advertising partners use third-party advertising companies that may employ cookie technology to measure advertisement effectiveness and may collect information about user visits to the Alt Film Guide. Those third-party advertising companies may use non-personally identifiable information about your visits to our site, other websites, and other forms of media so as to provide ads about goods and services of interest to you.
 
@@ -22,6 +22,6 @@ You may opt out from such collection via opt-out services such as the Network Ad
 
 ## Terms of Use / Disclaimer
 
-The information contained in this website is for general information purposes only. The information is provided by Alt Film Guide and while we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website itself or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk. Note that the content found on the website may be changed at any time without warning.
+The information contained in this website is for general information purposes only. The information is provided by Alt Film Guide and while we endeavor to keep the information up to date and correct, we make NO representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website itself or the information, products, services, images, or graphics found on this website for any purpose. Note that the content found on the website may be changed at any time without warning.
 
-And finally, bear in mind that Alt Film Guide has NO responsibility for the content of external websites linked to from this site, whether those links are found in ads or in Alt Film Guide posts. If you click on any external link, you're doing so at your own risk.
+And finally, bear in mind that Alt Film Guide has NO responsibility for the content of external websites linked to from this site, whether those links are found in ads or in Alt Film Guide posts. The inclusion of any links does not necessarily imply a recommendation or an endorsement of the views expressed on other sites. If you click on any external link, you're doing so at your own risk.
