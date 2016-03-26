@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509085222id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326063112id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Client Data Protection | Deltastock
 
@@ -114,7 +114,7 @@ _utmb
 _utmc  
 _utmd  
 _utmz  
-| These cookies are used to collect information about how users and clients use the website, which helps Deltastock improve it. The cookies collect information in an anonymous form, including the number of visitors to the website, where they have come to the website from and the pages they have visited. | [Wikipedia](http://bg.wikipedia.org/wiki/HTTP-%D0%B1%D0%B8%D1%81%D0%BA%D0%B2%D0%B8%D1%82%D0%BA%D0%B0)  
+| These cookies are used to collect information about how users and clients use the website, which helps Deltastock improve it. The cookies collect information in an anonymous form, including the number of visitors to the website, where they have come to the website from and the pages they have visited. | [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie)  
 IBref | These cookies allow Deltastock to monitor traffic from affiliate websites. |   
 timeDiff | This cookie is used to store the user’s time zone |   
 userCountry | This cookie is used to store the user’s language preferences. |   
