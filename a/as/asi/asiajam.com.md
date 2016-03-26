@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219010731id_/http%3A//marketplace.asiajam.com/content_pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326104218id_/http%3A//marketplace.asiajam.com/content_pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # AsiaJam Marketplace
 
