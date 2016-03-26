@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicorgas.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174421id_/https%3A//nicorgas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicorgas.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326092747id_/https%3A//www.nicorgas.com/privacy-policy) for the most accurate reproduction.*
 
 # NicorGas - Privacy Policy
 
