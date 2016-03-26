@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyadviceservice.org.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905224350id_/https%3A//www.moneyadviceservice.org.uk/en/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyadviceservice.org.uk privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326153733id_/https%3A//www.moneyadviceservice.org.uk/en/corporate/privacy) for the most accurate reproduction.*
 
-# Money Advice Service
+# Privacy policy - Money Advice Service
 
 ## Personal information
 
@@ -21,11 +21,13 @@ We may collect and use the following information:
 
 ## What will we do with your personal information?
 
-We will use your personal information to reply to any correspondence you have sent us, for quality, training and evaluation purposes, to help us monitor and improve the Money Advice Service, or to provide services you have requested (such as an order for printed publications, or a telephone or face-to-face appointment). By using this website and submitting your information to us, you agree to us using your personal information in accordance with these terms and conditions. We will not use your personal information for any other purposes.
+How we use your personal data depends upon whether the data is being automatically generated, or whether you have given consent to be contacted by us. By using this website and submitting your information to us, you agree to us using your personal information in accordance with these terms and conditions. We will not use your personal information for any other purposes.
 
-We also use aggregated non-personal user data to analyse information such as where in the country users come from, what type of questions they are asking, and whether we were able to give them information or advice that was useful. Sometimes we ask independent organisations to undertake this work for us. We do not pass on any data from which your identity could be ascertained.
+We use aggregated automatically generated non-personal user data to improve our service. For example, we analyse automatically generated information to assess matters such as where in the country users come from, what type of questions users are asking, which part of the website they have visited and whether we were able to give them information that was useful. We also use automatically generated data (by cookies) to ensure that the information we send to that user’s web-browser is relevant to that user’s needs.
 
-At times, we also want to hear users’ views on the Money Advice Service and any improvements they might suggest and we commission independent research agencies to ascertain user’s reactions and opinions. If you agree to be contacted to provide your opinions on your experience with the Money Advice Service we will pass on your contact details to a research agency who will get in touch with you to see if you would like to engage in further research. Neither we nor our appointed agency will try to sell you anything.
+In the event that you correspond with us, we may use your personal information to reply to any correspondence you have sent us, for quality, training and evaluation purposes, to help us monitor and improve the Money Advice Service, to provide the services you have requested (such as an order for printed publications) or to provide you with information concerning money matters that are relevant to your circumstances. By corresponding with us, you agree to us using your personal information in these ways. We will not use your personal information for any other purposes.
+
+At times, we also want to hear users’ views on the Money Advice Service and any improvements they might suggest and we commission independent research agencies to ascertain user’s reactions and opinions. If you consent to be contacted to provide your opinions on your experience with the Money Advice Service we will pass on your contact details to a research agency who will get in touch with you to see if you would like to engage in further research. Neither we nor our appointed agency will try to sell you anything.
 
 If we would like to use your personal information for any other purpose than those stated above, we will contact you to ask for your consent before doing so.
 
@@ -35,7 +37,7 @@ Please refer to [Cookie guide](https://web.archive.org/en/static/cookie_notice_e
 
 ## Who will see your information?
 
-### If you talk to us face to face, via web-chat on the phone
+### If you talk to us face to face, via web-chat or on the phone
 
 All personal information that you provide to us will be fully protected in accordance with the Data Protection Act 1998 and will be held confidentially. The only people with access to it will be those initially providing the advice and information to you and those involved in providing, evaluating or managing the Money Advice Service.
 
