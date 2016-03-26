@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the inpixio.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221110750id_/http%3A//www.inpixio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inpixio.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326043130id_/http%3A//www.inpixio.com/privacy-policy) for the most accurate reproduction.*
 
 # InPixio Privacy Policy
 
 InPixio is part of Softcity, an entity of the Avanquest Group.
 
 Are you concerned about your privacy? Doing business together requires some sharing of information. Set out below is our Privacy Policy, explaining what information we collect and why, what we do with it and how we protect you.
-
-## What information we collect and why
 
 ### Registration, download and purchase
 
@@ -29,8 +27,6 @@ When downloading a trial version or a free software program, you will be asked f
 ### Surveys and contests
 
 From time to time, we request information from SoftCity.com users via surveys or contests. Participation in these surveys or contests is completely voluntary. This information is mainly used to better understand our audience and to send prizes to the winners when needed. Should the results of a contest or a survey be published, no personal information will be divulged without the explicit consent of the winners.
-
-## What we do with it
 
 ### Your subscription to SoftCity Newsletters and Special Offers
 
@@ -62,11 +58,11 @@ If you do not want your personal information to be stored by cookies, you can al
 
 ### 3rd Party Cookies
 
-SoftCity may also employ third party vendors, including Google to show our ads on sites on the internet and to use cookies to serve ads based on a user’s prior visits to our website. These cookies do not store sensitive information such as contact details. At any time, users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
+SoftCity may also employ third party vendors, including Google to show our ads on sites on the internet and to use cookies to serve ads based on a user’s prior visits to our website. These cookies do not store sensitive information such as contact details. At any time, users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
-From time to time, we may also use Remarketing Dynamic Ads which use the Teracent cookie. Users may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/).
+From time to time, we may also use Remarketing Dynamic Ads which use the Teracent cookie. Users may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/).
 
-We may also use DoubleClick Remarketing PIxels. Users may opt out of DoubleClick’s use of cookies by visiting Teracent cookie by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the[Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+We may also use DoubleClick Remarketing PIxels. Users may opt out of DoubleClick’s use of cookies by visiting Teracent cookie by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the[Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Security
 
@@ -78,4 +74,4 @@ If we change our Privacy Policy, we will post those changes on our site. If we d
 
 ### Contacting the Web Site
 
-If you have any questions or comments about this privacy statement, the practices of our sites, or your dealings with any of our websites, you can contact support@softcity.com
+If you have any questions or comments about this privacy statement, the practices of our sites, or your dealings with any of our websites, you can contact [support@softcity.com](mailto:support@softcity.com)
